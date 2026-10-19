@@ -1,2196 +1,2196 @@
 [
-{
-"id": "2010-01-01-weibo-era",
-"date": "2010-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "微博元年：140字改写中国人上网方式",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "新浪微博2009年8月上线后，2010年进入爆发期：明星、媒体、草根大V集体入驻，转发和评论让人人都有话筒，各大门户纷纷跟进推出自家微博。这一年被称为中国『微博元年』，社交媒体时代正式开场。",
-"detail": "新浪借助名人战略快速做大盘子，众多一线明星开设微博，普通用户第一次能『零距离围观』公众人物。腾讯、搜狐、网易随后全部跟进微博产品，『粉丝』『转发』『热搜』成为全民词汇。碎片化的140字配合图片链接，改变了新闻传播的速度和形态，也重塑了公关和营销行业。",
-"impact": "中国互联网从论坛博客时代进入社交媒体时代，信息传播速度和公共讨论的形态被彻底改写。",
-"aftermath": "新浪微博2014年4月登陆纳斯达克；随后微信崛起分流熟人社交，微博转型为公开舆论场与热点广场，延续至今。",
-"sources": [
-{
-"title": "维基百科：新浪微博",
-"url": "https://zh.wikipedia.org/wiki/新浪微博",
-"type": "wiki"
-}
-],
-"tags": [
-"微博",
-"新浪",
-"社交媒体"
-]
-},
-{
-"id": "2010-01-04-avatar-china-release",
-"date": "2010-01-04",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "《阿凡达》中国上映：3D大片一票难求",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "詹姆斯·卡梅隆的《阿凡达》登陆中国内地，3D和IMAX场次场场爆满，热门影厅票价被黄牛炒到数百元，观众凌晨排队抢票。这部电影让中国观众第一次见识3D大片的震撼，当年内地票房约13.4亿元，是年度冠军。",
-"detail": "《阿凡达》在全球掀起观影狂潮，中国市场的火爆程度尤甚：一线城市IMAX票开票即空，不少观众专程跨城观影。影院纷纷紧急加装3D设备，片方还因档期排片问题引发过院线换片风波。影片的潘多拉星世界也成为中国影迷长期讨论的文化符号。",
-"impact": "直接刺激中国影院3D银幕和IMAX影厅的建设潮，中国电影市场加速扩容。",
-"aftermath": "中国银幕数此后十年增长数十倍，并于2012年前后超过日本成为全球第二大票仓；《阿凡达》续集计划延续十余年。",
-"sources": [
-{
-"title": "维基百科：阿凡达 (电影)",
-"url": "https://zh.wikipedia.org/wiki/阿凡达_(电影)",
-"type": "wiki"
-}
-],
-"tags": [
-"阿凡达",
-"电影",
-"3D"
-]
-},
-{
-"id": "2010-01-27-ipad-launch",
-"date": "2010-01-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "苹果发布初代iPad，开创平板电脑品类",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "乔布斯在旧金山发布会上掏出一块9.7英寸的大屏设备——iPad，介于手机和笔记本之间。发布之初不少人不屑地称它是『放大版iPhone』，但它随后开创了平板电脑这个全新品类，重新定义了人们躺着看视频、读新闻的方式。",
-"detail": "iPad搭载自研A4芯片，支持多点触控、电子书、视频和游戏，4月在美国开售。发布前业界普遍看衰，乔布斯在发布会上专门演示了它在上网、邮件、相册、电子书等场景的体验。开售后市场反响远超预期，上市不到一个月卖出百万台。",
-"impact": "开创平板电脑品类，把触屏内容消费推向家庭和老人小孩等非典型用户，也为移动互联网内容生态补上大屏入口。",
-"aftermath": "安卓厂商大规模跟进推出平板；iPad上市当年即售出近1500万台，并长期占据平板市场大头。",
-"sources": [
-{
-"title": "维基百科：IPad (第一代)",
-"url": "https://zh.wikipedia.org/wiki/IPad_(第一代)",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPad",
-"平板电脑"
-]
-},
-{
-"id": "2010-03-01-china-group-buy-boom",
-"date": "2010-03-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "团购模式登陆中国，『千团大战』开幕",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "美国Groupon模式传入中国后，美团、拉手网、糯米网等团购网站在2010年如雨后春笋般冒出，『今天你团了吗』成为流行语。到年底全国团购网站已达数千家，资本蜂拥而入，中国互联网史上最惨烈的烧钱大战之一拉开帷幕。",
-"detail": "美团3月4日率先上线，拉手网、糯米网等随即跟进，『每日一团』的商品折扣模式迅速铺向全国城市。低门槛让创业者蜂拥而入，一年之内涌现数千家团购网站，地推团队在写字楼间贴满广告。行业在爆发的同时也埋下虚假团购、卷款跑路等乱象。",
-"impact": "团购成为中国O2O的启蒙运动，教育了本地生活服务市场，也创造了烧钱换市场的经典范式。",
-"aftermath": "2011年Groupon携腾讯入华使战况白热化，随后数年大洗牌，数千家网站倒闭，最终美团、大众点评等极少数玩家胜出。",
-"sources": [
-{
-"title": "维基百科：美团",
-"url": "https://zh.wikipedia.org/wiki/美团",
-"type": "wiki"
-},
-{
-"title": "维基百科：拉手网",
-"url": "https://zh.wikipedia.org/wiki/拉手网",
-"type": "wiki"
-}
-],
-"tags": [
-"团购",
-"千团大战",
-"O2O"
-]
-},
-{
-"id": "2010-03-04-meituan-founding",
-"date": "2010-03-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "王兴创办美团网上线",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "校内网、饭否的创造者王兴再次创业，参照美国Groupon模式上线美团网，成为中国内地最早的团购网站。首单上线后成交数十份，这家小网站日后成长为覆盖外卖、到店、酒旅的本地生活超级平台。",
-"detail": "王兴此前创办的校内网卖给千橡、饭否又遭遇关停，2010年初他把目光投向刚在美国爆红的Groupon，于1月组建团队，3月4日正式上线美团网。早期美团坚持商户审核与消费者先行赔付，在千团大战的乱象中积累了口碑，也奠定『以客户为中心』的经营底色。",
-"impact": "中国团购行业自此发端，本地生活服务的互联网化有了最早的样板。",
-"aftermath": "美团在千团大战中活到最后，2015年与大众点评合并，2018年美团点评在港交所上市。",
-"sources": [
-{
-"title": "维基百科：美团",
-"url": "https://zh.wikipedia.org/wiki/美团",
-"type": "wiki"
-}
-],
-"tags": [
-"美团",
-"王兴",
-"团购"
-]
-},
-{
-"id": "2010-03-05-qq-100m-concurrent",
-"date": "2010-03-05",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "QQ同时在线突破1亿：全球第一个亿级IM",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2010年3月5日晚，腾讯宣布QQ同时在线账户数突破1亿，成为全球首个同时在线破亿的即时通讯平台。一个聊天软件同时挂着一亿人在线，这在当时的全球互联网都是未曾有过的数字，也直观展示了中国网民的规模。",
-"detail": "腾讯为这一时刻举办了庆祝活动，第1亿个同时在线用户在当晚产生，马化腾与高管团队共同见证。彼时中国网民刚突破4亿，相当于每四个网民就有一人同时挂在QQ上。QQ空间、QQ游戏构成的『在线生活』生态也随用户规模水涨船高。",
-"impact": "标志中国互联网用户规模达到世界级体量，腾讯的社交霸主地位进一步巩固。",
-"aftermath": "QQ同时在线此后继续攀升，并在移动互联网时代通过手机QQ延续国民应用地位。",
-"sources": [
-{
-"title": "维基百科：腾讯QQ",
-"url": "https://zh.wikipedia.org/wiki/腾讯QQ",
-"type": "wiki"
-}
-],
-"tags": [
-"QQ",
-"腾讯",
-"里程碑"
-]
-},
-{
-"id": "2010-03-23-galaxy-s-launch",
-"date": "2010-03-23",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "三星发布GALAXY S，安卓阵营出现真正对手",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "三星在美国发布首款GALAXY S智能手机（i9000），搭载Android系统与艳丽的Super AMOLED屏幕。它是第一款在体验上被认为足以正面抗衡iPhone的安卓手机，三星由此开启与苹果长达数年的双雄对决。",
-"detail": "GALAXY S轻薄机身配上4英寸Super AMOLED屏，销量迅速突破千万台。三星以机海战术叠加旗舰精品路线，在全球各大运营商同步铺货，为日后GALAXY系列打下根基。iPhone与GALAXY的双旗舰格局，也定义了此后多年智能手机市场的竞争主线。",
-"impact": "安卓阵营第一次拥有全球级的标杆旗舰，智能手机市场进入苹果、三星两强格局。",
-"aftermath": "GALAXY系列逐年迭代，三星在2012年后登顶全球手机出货量第一并保持多年。",
-"sources": [
-{
-"title": "维基百科：三星Galaxy S",
-"url": "https://zh.wikipedia.org/wiki/三星Galaxy_S",
-"type": "wiki"
-}
-],
-"tags": [
-"三星",
-"安卓",
-"智能手机"
-]
-},
-{
-"id": "2010-04-06-xiaomi-founding",
-"date": "2010-04-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雷军创立小米公司",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "40岁的雷军与林斌、黎万强等合伙人在中关村银谷大厦一起喝了碗小米粥，小米公司悄然成立。没有发布会、没有报道，这家小公司先做了个安卓_rom_叫MIUI，一年后将用一款1999元的手机搅动整个中国手机行业。",
-"detail": "创业团队除雷军外多为谷歌、微软、摩托罗拉背景的工程师。小米选择从MIUI操作系统切入，靠论坛招募发烧友内测，每周五更新，积累了最早的种子用户。『为发烧而生』的互联网手机模式——电商直销、成本定价、用户参与开发——在这段时间成型。",
-"impact": "互联网思维做手机的路线由此确立，日后彻底改变中国智能手机的定价与销售逻辑。",
-"aftermath": "2011年8月小米手机1发布即爆红；2014年小米登顶中国智能手机市场份额第一。",
-"sources": [
-{
-"title": "维基百科：小米公司",
-"url": "https://zh.wikipedia.org/wiki/小米公司",
-"type": "wiki"
-}
-],
-"tags": [
-"小米",
-"雷军",
-"创业"
-]
-},
-{
-"id": "2010-05-26-apple-surpasses-microsoft",
-"date": "2010-05-26",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "苹果市值超越微软：PC时代让位",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "纽约股市收盘时，苹果市值约2220亿美元，首次超过老对手微软的约2190亿美元。两家缠斗三十余年的公司完成权杖交接，市场用真金白银宣告：个人电脑时代落幕，移动互联网时代登基。",
-"detail": "1997年濒临破产时，微软曾向苹果注资1.5亿美元施以援手；十三年后，靠iPod、iPhone连续命苹果完成反超。当时苹果仅次于埃克森美孚，位居全美市值第二。这场超越被认为是科技产业从桌面计算转向移动计算的标志性时刻。",
-"impact": "资本市场重新定价移动生态的价值，全球科技公司纷纷把战略重心转向移动互联网。",
-"aftermath": "2011年8月苹果超越埃克森美孚成为全球市值第一，此后长期占据这一位置。",
-"sources": [
-{
-"title": "维基百科：Apple Inc.",
-"url": "https://en.wikipedia.org/wiki/Apple_Inc.",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"微软",
-"市值"
-]
-},
-{
-"id": "2010-06-07-iphone-4-launch",
-"date": "2010-06-07",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 4发布：『再一次，改变一切』",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "乔布斯在WWDC上发布iPhone 4：视网膜屏幕、前置摄像头、FaceTime视频通话、玻璃不锈钢机身。它被普遍认为是智能手机设计的分水岭，发布后在全球引发通宵排队，9月引进中国时同样一机难求。",
-"detail": "iPhone 4的960×640视网膜屏幕让竞品瞬间显得粗糙，前置摄像头让视频通话和自拍成为日常，A4处理器确立了苹果自研芯片的路线。尽管上市初期曝出『天线门』信号争议，依然挡不住抢购热潮，上市三天卖出170万台。",
-"impact": "确立此后数年智能手机的设计标准，移动拍照、视频通话和App生态加速普及；国行版9月25日开售，中国成为苹果最重要的增长市场。",
-"aftermath": "iPhone 4成为一代神机与情怀符号，苹果借此完成对诺基亚、摩托罗拉等旧王者的超越。",
-"sources": [
-{
-"title": "维基百科：IPhone 4",
-"url": "https://zh.wikipedia.org/wiki/IPhone_4",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone",
-"智能手机"
-]
-},
-{
-"id": "2010-07-01-vancl-meme",
-"date": "2010-07-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "凡客体爆红：全民PS造梗时代开启",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "凡客诚品的品牌广告『爱网络，爱自由；我不是谁，我是韩寒』被网友疯狂套用改写，PS版本铺满论坛微博，从郭德纲到猫猫狗狗都有了自己的『凡客体』。这是中文互联网第一次全民参与的品牌造梗狂欢。",
-"detail": "凡客为推广服饰邀请韩寒、王珞丹代言，排比句式的文艺文案意外成为模板，网友批量替换人名与爱好，每天产生数千张版本。凡客的品牌知名度随恶搞浪潮一夜打响，广告投放效果远超预期，但爆红也透支了品牌严肃感。",
-"impact": "证明网络流行文化可以反向成就商业品牌，『体』式文案成为此后多年营销与社交传播的标准打法。",
-"aftermath": "凡客此后在资本扩张中陷入库存危机逐渐沉寂；而造梗式传播成为中文互联网的常态文化生产方式。",
-"sources": [
-{
-"title": "维基百科：凡客体",
-"url": "https://zh.wikipedia.org/wiki/凡客体",
-"type": "wiki"
-}
-],
-"tags": [
-"凡客体",
-"凡客诚品",
-"网络流行语"
-]
-},
-{
-"id": "2010-07-27-starcraft2-wol-launch",
-"date": "2010-07-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《星际争霸II：自由之翼》全球发售",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "暴雪娱乐的《星际争霸II：自由之翼》在全球同步发售，距离前作已过去12年。首月销量即超300万套，网吧里人族枪兵 rush 的声音再度响起，RTS游戏与电子竞技迎来教科书级的回归。",
-"detail": "《自由之翼》以人族战役开篇，对战模式继承前作精髓并加入天梯系统，暴雪还为它打造了全新的战网平台。韩国依旧是最狂热的市场，中国玩家则在等待国服获批的日子里涌向外服与网吧。它也孕育了此后直播平台最早的一批游戏解说明星。",
-"impact": "确立现代电竞天梯与观赛体系的样板，游戏直播文化的重要源头。",
-"aftermath": "网易代理的国服于2011年上线；《星际2》电竞体系（GSL、WCS）影响深远，尽管RTS品类此后整体衰落。",
-"sources": [
-{
-"title": "维基百科：星际争霸II：自由之翼",
-"url": "https://zh.wikipedia.org/wiki/星际争霸II：自由之翼",
-"type": "wiki"
-}
-],
-"tags": [
-"星际争霸",
-"暴雪",
-"游戏"
-]
-},
-{
-"id": "2010-08-12-letv-ipo",
-"date": "2010-08-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "乐视网登陆创业板：A股第一家视频网站",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "名不见经传的乐视网在深圳创业板上市，成为A股第一家视频网站。当时优酷、土豆还在美国为亏损发愁，靠版权分销默默盈利的乐视已经先敲了钟。这家公司日后将抛出『平台+内容+终端+应用』的庞大故事。",
-"detail": "乐视网由贾跃亭创立，以网络视频版权分销和付费点播为主业，上市前已实现盈利，正好契合创业板的盈利门槛。上市募资为其囤积版权提供弹药，乐视在版权价格起飞前低位扫货，赚得盆满钵满，也为日后自制与硬件扩张埋下伏笔。",
-"impact": "打开中国视频网站的A股资本通道，版权价值被资本市场重新认识。",
-"aftermath": "乐视2015年市值一度突破1500亿元，2017年资金链断裂，2020年7月从创业板退市，留下『下周回国』的时代记忆。",
-"sources": [
-{
-"title": "维基百科：乐视网",
-"url": "https://zh.wikipedia.org/wiki/乐视网",
-"type": "wiki"
-}
-],
-"tags": [
-"乐视",
-"贾跃亭",
-"上市"
-]
-},
-{
-"id": "2010-10-06-instagram-launch",
-"date": "2010-10-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Instagram上线：手机拍照分享从此不同",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "两个斯坦福毕业生把一款叫Burbn的签到应用改造成纯粹的拍照分享工具，Instagram在苹果App Store上线。滤镜让随手拍变得『高级』，上线首日下载2.5万次，十周用户破百万，手机摄影美学时代开始。",
-"detail": "凯文·斯特罗姆和迈克·克里格在旧金山一间小办公室里上线了这款免费应用，正方形画幅加复古滤镜成为标志性视觉语言。上传即分享的轻量体验击中了智能手机普及的节点，Instagram迅速成为全球图片社交的代名词。",
-"impact": "定义了移动端的图片社交形态，孕育了视觉网红文化，也重塑了摄影与广告行业。",
-"aftermath": "2012年4月被Facebook以约10亿美元收购，此后成长为全球最重要的社交平台之一。",
-"sources": [
-{
-"title": "维基百科：Instagram",
-"url": "https://zh.wikipedia.org/wiki/Instagram",
-"type": "wiki"
-}
-],
-"tags": [
-"Instagram",
-"图片社交",
-"App"
-]
-},
-{
-"id": "2010-11-03-3q-war",
-"date": "2010-11-03",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "3Q大战爆发：QQ『一个艰难的决定』",
-"category": "internet",
-"region": "cn",
-"milestone": true,
-"summary_30s": "奇虎360推出『扣扣保镖』拦截QQ广告与弹窗，腾讯当晚发布公开信，宣布在装有360软件的电脑上停止运行QQ，让数亿用户『二选一』。中国互联网史上最激烈的客户端战争全面爆发，办公室与网吧里一片哀嚎。",
-"detail": "双方冲突从隐私保护器一路升级：360发布扣扣保镖修改QQ功能，腾讯则以『艰难的决定』回应，强制用户卸载其一。数亿网民被迫在电脑前做选择题，各大门户和论坛沸反盈天。闹剧数日后以双方软件恢复兼容告一段落，随后两家公司展开了长达四年的连环诉讼。",
-"impact": "让『客户端垄断』『用户权益』成为行业公共议题，也成为中国互联网竞争生态的分水岭事件。",
-"aftermath": "最高法2014年终审认定QQ『二选一』不构成垄断、360败诉；腾讯痛定思痛转向开放平台战略，为日后投资生态铺路。",
-"sources": [
-{
-"title": "维基百科：3Q大战",
-"url": "https://zh.wikipedia.org/wiki/3Q大战",
-"type": "wiki"
-}
-],
-"tags": [
-"3Q大战",
-"腾讯",
-"360"
-]
-},
-{
-"id": "2010-11-04-kinect-launch",
-"date": "2010-11-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软Kinect发售：扔掉手柄玩体感",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软为Xbox 360推出体感外设Kinect，在北美开售。玩家无需任何手柄，站在电视前挥手踢腿就能操控游戏，全家老小都能上手。这个『把人变成手柄』的设备上市60天狂卖800万台，创下当时消费电子销售速度纪录。",
-"detail": "Kinect集成了深度摄像头、彩色摄像头与麦克风阵列，能识别人体骨骼动作与语音。《Kinect冒险》等合家欢游戏让它成为节日爆款，极客们还把它破解接到电脑上做各种奇怪实验，意外带火了消费级体感技术的开源生态。",
-"impact": "体感交互首次大规模进入家庭，被视为游戏之外机器人、视觉技术领域的意外推手。",
-"aftermath": "60天800万台的销量被吉尼斯纪录收录；Kinect后来推出Windows版用于行业，但二代之后微软停止了该产品线。",
-"sources": [
-{
-"title": "维基百科：Kinect",
-"url": "https://zh.wikipedia.org/wiki/Kinect",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Xbox",
-"体感"
-]
-},
-{
-"id": "2010-12-08-youku-dangdang-ipo",
-"date": "2010-12-08",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "优酷、当当同日登陆纽交所",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "12月8日晚，视频网站优酷与图书电商当当网同一天在纽约证券交易所挂牌。优酷上市首日暴涨约161%，创当年美国IPO首日涨幅纪录，当当大涨近九成，中国互联网公司掀起新一轮赴美上市热潮。",
-"detail": "优酷以『中国YouTube+Hulu』的故事融资约2.3亿美元，市值一度超过行业老二土豆近一倍；老牌B2C当当则带着十年坚守的电商成绩单敲钟。同日双响的盛况让2010年被称为中国互联网公司的『上市大年』，麦考林、优酷、当当等接连出海。",
-"impact": "视频与电商两大赛道完成资本化标志性一跃，中概股在美迎来高光时刻。",
-"aftermath": "优酷2012年与土豆合并，2016年被阿里全资收购；当当2016年私有化退市。",
-"sources": [
-{
-"title": "维基百科：优酷",
-"url": "https://zh.wikipedia.org/wiki/优酷",
-"type": "wiki"
-},
-{
-"title": "维基百科：当当网",
-"url": "https://zh.wikipedia.org/wiki/当当网",
-"type": "wiki"
-}
-],
-"tags": [
-"优酷",
-"当当",
-"上市"
-]
-},
-{
-"id": "2011-01-26-zhihu-launch",
-"date": "2011-01-26",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "知乎上线：邀请制问答社区开门",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前媒体人周源创办的问答社区知乎正式上线，早期采用邀请制，聚集了一批互联网从业者和专业人士。『发现更大的世界』的slogan之下，认真、专业的长回答慢慢成为知乎的底色。",
-"detail": "知乎脱胎于周源此前的创业尝试，对标美国Quora。邀请制让早期社区几乎全是各行业从业者，李开复等名人入驻带来关注度，高质量问答形成口碑。此后两年邀请码一度一码难求，知乎也成为中国互联网最接近『认真讨论』的地方。",
-"impact": "为中国互联网补上了专业问答社区的空位，此后多年成为中文互联网重要内容策源地。",
-"aftermath": "2013年知乎开放注册用户暴涨；此后推出盐选会员转型商业化，并于2021年赴美上市、2022年回港双重上市。",
-"sources": [
-{
-"title": "维基百科：知乎",
-"url": "https://zh.wikipedia.org/wiki/知乎",
-"type": "wiki"
-}
-],
-"tags": [
-"知乎",
-"周源",
-"问答社区"
-]
-},
-{
-"id": "2011-02-01-gaopeng-launch",
-"date": "2011-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "Groupon联手腾讯推高朋网，洋团购空降中国",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "全球团购鼻祖Groupon携腾讯、云锋基金合资的高朋网高调入华，宣布将在数月内招募上千名销售。彼时中国团购网站已达数千家，国际巨头压境让千团大战进一步白热化。",
-"detail": "Groupon此前拒绝谷歌60亿美元收购要约后转而冲刺上市，把中国当作增长故事的关键一章，开出数倍薪水从美团、拉手挖角。然而高朋水土不服：本地化迟缓、团队内耗，加上本地对手价格战凶悍，规模始终未能进入第一梯队。",
-"impact": "外资互联网公司携资本与模式强势入华的典型样本，也宣告千团大战进入最残酷阶段。",
-"aftermath": "高朋此后与腾讯系团购资产整合，最终淡出主流市场；Groupon的全球扩张神话也在上市后破灭。",
-"sources": [
-{
-"title": "维基百科：Groupon",
-"url": "https://en.wikipedia.org/wiki/Groupon",
-"type": "wiki"
-}
-],
-"tags": [
-"高朋网",
-"Groupon",
-"腾讯"
-]
-},
-{
-"id": "2011-02-11-nokia-microsoft-alliance",
-"date": "2011-02-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "诺基亚宣布与微软结盟，塞班时代进入倒计时",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "新任CEO埃洛普宣布：诺基亚智能手机全面转向微软Windows Phone，自家塞班与MeeGo被边缘化。这份『改换门庭』声明震惊业界，被视为手机史上最悲壮的战略转身之一。",
-"detail": "彼时诺基亚仍是全球手机销量霸主，但在智能手机战场被iPhone与安卓步步蚕食。埃洛普以『燃烧的平台』喻局放弃自研系统改押Windows Phone，试图借差异化翻身。然而生态迁移期漫长，Lumia系列叫好不叫座，诺基亚的智能机份额在结盟后继续崩塌。",
-"impact": "功能机霸主亲手关闭自研系统大门，移动操作系统自此形成iOS与安卓双寡头格局。",
-"aftermath": "2013年9月微软宣布以约72亿美元收购诺基亚手机业务，2016年该业务又被打包转卖，诺基亚品牌手机自此由HMD授权运营。",
-"sources": [
-{
-"title": "维基百科：诺基亚",
-"url": "https://zh.wikipedia.org/wiki/诺基亚",
-"type": "wiki"
-}
-],
-"tags": [
-"诺基亚",
-"微软",
-"Windows Phone"
-]
-},
-{
-"id": "2011-05-04-renren-ipo",
-"date": "2011-05-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "人人网登陆纽交所：『中国Facebook』上市即巅峰",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "校园社交网站人人公司登陆纽交所，发行价14美元，上市首日市值一度超70亿美元。顶着『中国版Facebook』光环的人人风头无两，但这几乎成为它此后的最高光时刻。",
-"detail": "人人前身是王兴创办的校内网，2006年卖身千橡后更名，覆盖了中国最庞大的高校学生群体。赴美上市讲述社交+游戏+团购的复合故事，募资约7.4亿美元。然而上市后用户活跃持续走低，移动转型迟缓，股价一路阴跌。",
-"impact": "中国社交网络资本化的标志性事件，也是『上市即巅峰』的教科书案例。",
-"aftermath": "人人此后出售游戏资产、转型投资与直播均未见起色，2018年人人网社交平台作价2000万美元卖身多牛传媒。",
-"sources": [
-{
-"title": "维基百科：人人公司",
-"url": "https://zh.wikipedia.org/wiki/人人公司",
-"type": "wiki"
-}
-],
-"tags": [
-"人人网",
-"上市",
-"社交"
-]
-},
-{
-"id": "2011-05-10-microsoft-buys-skype",
-"date": "2011-05-10",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "微软85亿美元收购Skype",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软宣布以85亿美元现金收购网络电话公司Skype，创下当时微软收购金额纪录。一家成立仅八年的互联网通话公司卖出天价，微软则终于为旗下产品补上了网络通话与视频能力。",
-"detail": "Skype由爱沙尼亚工程师团队创造，巅峰期注册用户数亿，是全球网络通话的代名词，先后辗转eBay与私募基金之手。微软表态将把Skype整合进Windows、Office、Xbox等产品线，看好企业通信市场。这笔交易也让业内对『语音通信入口』的价值有了新的想象。",
-"impact": "互联网通信赛道被巨头重估，VoIP从极客玩具变成企业级标配能力。",
-"aftermath": "Skype此后未能抵挡移动端WhatsApp等冲击，微软转向自研Teams，Skype于2025年正式关停。",
-"sources": [
-{
-"title": "维基百科：Skype",
-"url": "https://en.wikipedia.org/wiki/Skype",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Skype",
-"并购"
-]
-},
-{
-"id": "2011-06-23-line-launch",
-"date": "2011-06-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Line上线：贴图聊天席卷东亚",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "日本3·11大地震后通信瘫痪催生的IM应用Line正式上线，凭借可爱贴图表情迅速引爆日本市场，随后席卷泰国、台湾、印尼等地。卖表情贴图的商业模式让它成为最会赚钱的聊天App之一。",
-"detail": "Line由韩国Naver旗下日本子公司开发，地震后电话线路拥堵让人们转向网络通信。Line抓住机会用『贴图商店』做出差异化——付费表情包既贡献收入又形成社交货币，后来又叠加游戏、漫画、支付，走出『社交+娱乐』的超级App路线。",
-"impact": "证明IM可以靠虚拟商品赚钱，贴图文化深刻影响了东亚网络表达方式。",
-"aftermath": "Line于2016年在纽交所和东京双重上市，2021年与日本雅虎合并为LY集团，仍是日本第一大聊天应用。",
-"sources": [
-{
-"title": "维基百科：LINE",
-"url": "https://zh.wikipedia.org/wiki/LINE",
-"type": "wiki"
-}
-],
-"tags": [
-"Line",
-"Naver",
-"贴图"
-]
-},
-{
-"id": "2011-08-03-momo-launch",
-"date": "2011-08-03",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "陌陌上线：基于LBS的陌生人社交",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前网易总编辑唐岩创办的陌陌在苹果App Store上线，主打基于地理位置的陌生人交友。『发现附近的人』击中了城市青年的孤独感，陌陌迅速成为中国陌生人社交的头号玩家。",
-"detail": "唐岩带着网易旧部雷小亮、李志威创业，3月组队、7月注册公司、8月3日产品上线。彼时微信尚未普及附近的人，陌陌以精准的LBS切角切入，上线一年用户破千万。尽管长期背负暧昧标签，陌陌依然证明了陌生人社交的商业价值。",
-"impact": "开创中国LBS陌生人社交赛道，与微信形成熟人、陌生人两极。",
-"aftermath": "陌陌于2014年12月登陆纳斯达克，此后靠直播业务扭亏为盈，2018年收购探探巩固地位。",
-"sources": [
-{
-"title": "维基百科：陌陌",
-"url": "https://zh.wikipedia.org/wiki/陌陌",
-"type": "wiki"
-}
-],
-"tags": [
-"陌陌",
-"唐岩",
-"陌生人社交"
-]
-},
-{
-"id": "2011-08-15-google-buys-motorola",
-"date": "2011-08-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "谷歌125亿美元收购摩托罗拉移动",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "谷歌宣布以约125亿美元现金收购摩托罗拉移动，溢价高达六成。明面上买手机，实际上主要买的是1.7万项专利——安卓生态正深陷专利战，谷歌需要一副盔甲。",
-"detail": "彼时苹果、微软阵营正用专利诉讼围剿安卓厂商，HTC、三星疲于应付。谷歌出手买下拥有深厚通信专利积累的摩托罗拉移动，为整个安卓阵营撑起保护伞。交易2012年完成后，谷歌短暂亲自造机，又很快把手机业务转手联想。",
-"impact": "移动行业专利军备竞赛的标志性事件，安卓生态的专利防御从此稳固。",
-"aftermath": "2014年谷歌将摩托罗拉手机业务以29亿美元卖给联想，只留下专利；摩托品牌在联想手中继续沉浮。",
-"sources": [
-{
-"title": "维基百科：摩托罗拉移动",
-"url": "https://zh.wikipedia.org/wiki/摩托罗拉移动",
-"type": "wiki"
-}
-],
-"tags": [
-"谷歌",
-"摩托罗拉",
-"专利"
-]
-},
-{
-"id": "2011-08-16-xiaomi-mi1-launch",
-"date": "2011-08-16",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "小米手机1发布：1999元改写行业定价",
-"category": "hardware",
-"region": "cn",
-"milestone": false,
-"summary_30s": "北京798艺术区，雷军穿着黑T恤牛仔裤登场，发布搭载双核处理器的小米手机1——顶级配置只卖1999元，现场观众起立鼓掌。发布会像个明星演唱会，『为发烧而生』的互联网手机正式登场。",
-"detail": "小米1对标当时三四千元的国际旗舰，用电商直销砍掉渠道成本，用MIUI吸收几十万发烧友的反馈每周迭代。首批30万台预约盛况空前，此后的开放购买屡屡几分钟售罄，『饥饿营销』成为绕不开的标签。国产手机厂商被迫全面转向互联网打法。",
-"impact": "中国智能手机进入高配低价时代，运营商定制机模式被颠覆，也为后来华为、OPPO等的崛起培养了用户习惯。",
-"aftermath": "小米此后四年把年销量做到6000万台以上，2014年登顶中国市场份额第一。",
-"sources": [
-{
-"title": "维基百科：小米公司",
-"url": "https://zh.wikipedia.org/wiki/小米公司",
-"type": "wiki"
-}
-],
-"tags": [
-"小米",
-"雷军",
-"互联网手机"
-]
-},
-{
-"id": "2011-09-01-snapchat-launch",
-"date": "2011-09-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "Snapchat上线：阅后即焚挑战永久记录",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "三名斯坦福学生的『阅后即焚』照片应用Snapchat上线，照片看完几秒即消失。它反常规的设计切中了年轻人对『永久记录』的疲惫，很快在美国青少年中疯传，社交网络第一次出现『反永久化』浪潮。",
-"detail": "应用最初叫Picaboo，改名Snapchat后于2011年9月重新上架。拍下照片、设定消失时间、发给好友——简单到近乎简陋的功能却击中了青少年的社交痛点。方脸小幽灵图标成为一代美国年轻人的身份符号，Facebook随后推出的同类功能Poke也未能撼动它。",
-"impact": "定义了『阅后即焚』的社交形态，证明年轻人永远愿意为反主流的体验迁移阵地。",
-"aftermath": "Snapchat曾拒绝Facebook三十亿美元的收购，2017年以Snap名义上市，长期是Z世代核心社交平台。",
-"sources": [
-{
-"title": "维基百科：Snapchat",
-"url": "https://zh.wikipedia.org/wiki/Snapchat",
-"type": "wiki"
-}
-],
-"tags": [
-"Snapchat",
-"阅后即焚",
-"社交"
-]
-},
-{
-"id": "2011-09-22-lol-cn-launch",
-"date": "2011-09-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《英雄联盟》国服上线：网吧将被它占领",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯代理的《英雄联盟》在中国大陆上线。这款5v5竞技游戏上手门槛低于DotA、节奏更快，迅速横扫全国网吧，两年后注册用户破亿，开启了中国电竞的全民时代。",
-"detail": "Riot Games开发的LOL此前已在欧美站稳脚跟，腾讯2011年完成对其的控股收购后将国服交由腾讯游戏运营。易上手的操作、免费游玩加皮肤付费的模式，让它同时征服了休闲与竞技玩家。S系列全球总决赛逐渐成为游戏界收视冠军，中国战队与玩家投入急剧升温。",
-"impact": "推动电子竞技从边缘走向主流，为中国电竞产业和直播行业输送了最庞大的用户基本盘。",
-"aftermath": "中国战队于2018年、2021年两夺S赛冠军；LOL长期位居全球网吧占有率与电竞收视榜首。",
-"sources": [
-{
-"title": "维基百科：英雄联盟",
-"url": "https://zh.wikipedia.org/wiki/英雄联盟",
-"type": "wiki"
-}
-],
-"tags": [
-"英雄联盟",
-"腾讯",
-"电竞"
-]
-},
-{
-"id": "2011-09-28-kindle-fire-launch",
-"date": "2011-09-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "亚马逊发布Kindle Fire：199美元的平板炸弹",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "贝索斯在纽约发布会上亮出7英寸的Kindle Fire——售价仅199美元，约为iPad的一半。亚马逊用亏本卖硬件、靠内容赚钱的打法硬闯平板市场，媒体称之为『iPad首个真正对手』。",
-"detail": "Kindle Fire深度绑定亚马逊的图书、影音与应用商店，用内容补贴硬件。上市首季即卖出数百万台，成为iPad之外唯一有量级的安卓平板。不过低配的硬件与封闭生态也限制了它的后续竞争力。",
-"impact": "证明低价内容型平板的市场存在，逼迫整个安卓平板阵营重新定价。",
-"aftermath": "Fire系列此后长期占据美国安卓平板大头，但始终未能撼动iPad的统治地位。",
-"sources": [
-{
-"title": "维基百科：Kindle Fire",
-"url": "https://en.wikipedia.org/wiki/Kindle_Fire",
-"type": "wiki"
-}
-],
-"tags": [
-"亚马逊",
-"Kindle",
-"平板"
-]
-},
-{
-"id": "2011-10-04-iphone-4s-siri",
-"date": "2011-10-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 4S发布，Siri语音助手登场",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "苹果发布iPhone 4S，外观与上代几乎一致，最大亮点是能对话的语音助手Siri——你可以问她天气、让她定闹钟，她还会讲冷笑话。语音交互第一次成为大众手机功能，发布次日乔布斯逝世的消息让这场发布会更添唏嘘。",
-"detail": "Siri源自苹果2010年收购的同名公司，iPhone 4S将其作为独家功能推出，引发全球用户疯狂调戏。尽管识别率和中文支持有限，Siri仍被普遍视为消费级语音助手的开端，此后各家科技公司的语音助手全面跟进。",
-"impact": "开启消费级语音交互时代，为后来智能音箱与AI助手的爆发埋下伏笔。",
-"aftermath": "Siri此后陆续支持中文并登陆Mac、HomePod，语音助手成为手机标配。",
-"sources": [
-{
-"title": "维基百科：IPhone 4S",
-"url": "https://zh.wikipedia.org/wiki/IPhone_4S",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"Siri",
-"语音助手"
-]
-},
-{
-"id": "2011-10-05-steve-jobs-dies",
-"date": "2011-10-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "乔布斯逝世：全球科技圈同日致哀",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "苹果官网用一张黑白照片宣布联合创始人史蒂夫·乔布斯去世，享年56岁。iPhone 4S发布仅一天后，这位把苹果从破产边缘带成世界市值之王的人走完一生，全球果粉涌向苹果门店献花致哀。",
-"detail": "乔布斯此前因胰腺癌多次病休，8月刚刚辞去CEO职务。他缔造了Apple II、Macintosh、iPod、iPhone、iPad等改变世界的产品，『Stay hungry, stay foolish』的斯坦福演讲在中文网络疯转。微博上数百万中国网友留言悼念，北京中关村苹果店外也有人摆上鲜花和苹果。",
-"impact": "一个时代的落幕仪式，乔布斯被视为硅谷创业精神与产品美学的全球符号。",
-"aftermath": "库克执掌的苹果市值此后增长数倍；乔布斯传记与纪录片持续畅销，『乔布斯方法论』仍是全球产品经理的必修课。",
-"sources": [
-{
-"title": "维基百科：史蒂夫·乔布斯",
-"url": "https://zh.wikipedia.org/wiki/史蒂夫·乔布斯",
-"type": "wiki"
-}
-],
-"tags": [
-"乔布斯",
-"苹果",
-"人物"
-]
-},
-{
-"id": "2011-11-01-empresses-in-the-palace-airing",
-"date": "2011-11-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "《甄嬛传》开播：宫斗剧天花板诞生",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "郑晓龙执导、孙俪主演的《后宫甄嬛传》2011年11月起在地方频道首播，次年上星后火遍全国。76集的体量、严谨的台词与人物塑造让它成为宫斗剧天花板，『甄嬛体』也一度刷屏网络。",
-"detail": "改编自流潋紫同名小说，剧集以雍正朝后宫为舞台，讲述甄嬛从单纯少女到腹黑太后的转变。精良的制作与大量可考的礼制细节让观众反复咀嚼，『臣妾做不到啊』等台词成为全民梗。此后多年它一直是电视台寒暑假重播常客。",
-"impact": "把宫斗剧推向制作与口碑的巅峰，也带动古装剧精品化与长视频平台的独播竞争。",
-"aftermath": "《甄嬛传》长年稳居视频平台重播与解构榜前列，衍生剪辑与考据成为互联网常青内容。",
-"sources": [
-{
-"title": "维基百科：后宫甄嬛传 (电视剧)",
-"url": "https://zh.wikipedia.org/wiki/后宫甄嬛传_(电视剧)",
-"type": "wiki"
-}
-],
-"tags": [
-"甄嬛传",
-"电视剧",
-"宫斗剧"
-]
-},
-{
-"id": "2011-11-08-love-is-not-blind",
-"date": "2011-11-08",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "《失恋33天》上映：小成本黑马奇迹",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "改编自豆瓣人气小说的《失恋33天》11月8日上映，900万成本最终卷走3.5亿票房，成为当年最大的票房黑马。『失恋』话题戳中都市年轻人，也宣告国产小妞电影与社交媒体营销时代的到来。",
-"detail": "影片由滕华涛执导、文章与白百何主演，讲述失恋女孩在毒舌男闺蜜陪伴下走出情伤。上映恰逢世纪光棍节档期，片方借微博话题营销精准引爆，排片与口碑互相推高。此后『光棍节档』成为片方必争之地，白百何也一跃成为小妞电影代言人。",
-"impact": "证明社交媒体话题营销可以左右票房，中小成本爱情片迎来黄金期。",
-"aftermath": "此后数年国产爱情片扎堆光棍档，豆瓣IP改编与话题营销成为行业标配。",
-"sources": [
-{
-"title": "维基百科：失恋33天",
-"url": "https://zh.wikipedia.org/wiki/失恋33天",
-"type": "wiki"
-}
-],
-"tags": [
-"失恋33天",
-"电影",
-"光棍节"
-]
-},
-{
-"id": "2012-01-11-tmall-rebranding",
-"date": "2012-01-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "淘宝商城更名天猫：B2C品牌独立之战",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "淘宝商城在北京举行战略发布会，宣布更名为『天猫』。这个名字最初被网友吐槽像猫粮品牌，但阿里巴巴铁了心要把B2C业务与C2C的淘宝切开，再造一个服务品牌商家的高端商场。",
-"detail": "更名源于淘宝分拆为淘宝网、天猫、一淘三家的架构调整。天猫借卡通猫形象快速建立品牌认知，双十一、商品品质与商家体系都逐渐与淘宝区分。天猫独立后承接了阿里B2C的全部野心，此后双十一的成交神话都刻在天猫名下。",
-"impact": "中国B2C电商与C2C平台正式分野，品牌商线上化提速。",
-"aftermath": "天猫成为阿里营收与品牌化的核心引擎，双十一逐年膨胀，天猫精灵、天猫超市等子品牌相继长出。",
-"sources": [
-{
-"title": "维基百科：天猫",
-"url": "https://zh.wikipedia.org/wiki/天猫",
-"type": "wiki"
-}
-],
-"tags": [
-"天猫",
-"阿里",
-"电商"
-]
-},
-{
-"id": "2012-02-29-raspberry-pi-launch",
-"date": "2012-02-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "树莓派开售：35美元的小电脑改变创客世界",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "英国剑桥的工程师们推出只有信用卡大小的树莓派电脑，定价35美元，原本只想给穷学生做台学编程的机器。开售当天网站被挤爆，首批一万台瞬间售罄，一场席卷全球的创客运动就此点燃。",
-"detail": "树莓派基金会由剑桥大学计算机实验室的埃本·厄普顿等人发起，瞄准英国中小学生计算机水平下滑的问题。Linux系统加GPIO接口让它既能当玩具又能做自动化项目，爱好者用它做出复古游戏机、家庭服务器、智能家居中控，开发板品类自此爆发。",
-"impact": "把编程和硬件制造民主化到人人可玩，成为全球创客教育与极客项目的标配。",
-"aftermath": "树莓派累计销量数千万台，衍生出从零瓦服务器到工业网关的海量玩法，创客文化由此进入学校与车库。",
-"sources": [
-{
-"title": "维基百科：Raspberry Pi",
-"url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
-"type": "wiki"
-}
-],
-"tags": [
-"树莓派",
-"创客",
-"开源硬件"
-]
-},
-{
-"id": "2012-03-12-youku-tudou-merger",
-"date": "2012-03-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "优酷土豆宣布合并：视频行业十年恩怨落地",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "缠斗了七年的优酷与土豆宣布以100%换股方式合并，古永锵出任CEO，王微转身离开。中国视频行业从『十国大战』迅速收敛为优酷土豆一家独大加几家豪门阵营，版权价格战暂告段落。",
-"detail": "两家长期互撕市场份额与版权，合并由资本撮合完成，土豆股东拿约28.5%股份。合并后带宽与版权成本骤降，但内容差异也消失，土豆品牌逐渐边缘化。此后视频行业变成BAT的棋局：爱奇艺背靠百度、腾讯视频自带流量、搜狐视频孤军奋战。",
-"impact": "中国视频网站烧钱大战降温，行业格局从群雄混战转向巨头阵营对垒。",
-"aftermath": "优酷土豆2016年被阿里全资收购；王微转行动画创业，做出《小门神》等作品。",
-"sources": [
-{
-"title": "维基百科：优酷",
-"url": "https://zh.wikipedia.org/wiki/优酷",
-"type": "wiki"
-}
-],
-"tags": [
-"优酷",
-"土豆",
-"视频"
-]
-},
-{
-"id": "2012-04-04-google-glass-unveil",
-"date": "2012-04-04",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "谷歌公布智能眼镜Project Glass：戴上未来",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "谷歌发布智能眼镜Project Glass的概念视频：第一视角拍照、导航、信息提醒都浮现在眼前镜片上。这段『一天 戴着它生活』的视频瞬间刷屏，可穿戴设备的未来图景第一次如此具体。",
-"detail": "谷歌X实验室的这款产品把微型投影、摄像头与语音交互装进眼镜框，创始成员包括后来以AR著称的工程师。次年谷歌以1500美元『探索者』价向开发者发售，骑楼跳伞发布会直播震惊全场，但续航、隐私争议与1500美元定价最终让消费版搁浅。",
-"impact": "引爆全球可穿戴设备热潮，AR/VR概念从此进入大众视野。",
-"aftermath": "消费版谷歌眼镜2015年停产，企业版转向工厂物流等专业场景；整个行业转向VR头显与智能手表。",
-"sources": [
-{
-"title": "维基百科：Google眼镜",
-"url": "https://zh.wikipedia.org/wiki/Google眼镜",
-"type": "wiki"
-}
-],
-"tags": [
-"谷歌",
-"智能眼镜",
-"可穿戴"
-]
-},
-{
-"id": "2012-04-09-instagram-acquired",
-"date": "2012-04-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook十亿美元收购Instagram",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "成立仅551天、员工13人的Instagram被Facebook以约10亿美元收购，扎克伯格亲手签下这桩当年最轰动的并购。一家没有收入的照片应用卖出天价，移动互联网的估值逻辑被彻底改写。",
-"detail": "收购公布时Instagram刚登陆安卓一周，用户3000万且仍在暴涨，扎克伯格担心它成为移动端威胁，选择用股票溢价买下潜在对手。这笔交易后来被普遍视为史上最划算的收购之一——Instagram如今贡献了Facebook集团近半的广告收入。",
-"impact": "确立『宁可买贵不可买错』的巨头防御性并购范式，图片社交的价值被资本市场重估。",
-"aftermath": "Instagram此后推出 Stories 等功能反超竞品，成长为全球最大的图片视频社区。",
-"sources": [
-{
-"title": "维基百科：Instagram",
-"url": "https://zh.wikipedia.org/wiki/Instagram",
-"type": "wiki"
-}
-],
-"tags": [
-"Facebook",
-"Instagram",
-"并购"
-]
-},
-{
-"id": "2012-04-19-wechat-moments",
-"date": "2012-04-19",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "微信4.0上线朋友圈：熟人社交的封闭花园",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "微信4.0版本带来『朋友圈』——只能看到共同好友点赞评论的封闭时间线。它把QQ空间的喧嚣挡在门外，用户第一次敢在社交网络发真正的自己。朋友圈从此成为中国人线上生活的中央广场。",
-"detail": "朋友圈的『共同好友可见』设计被认为是中国社交产品史上最精妙的决策之一：它既保证了分享欲，又限制了尴尬外溢。配合图片分享与后来的小视频，微信从通讯工具升级为生活方式，微博的公开广场模式受到明显分流。",
-"impact": "确立熟人私密社交范式，改写中国用户的线上表达习惯与内容分发格局。",
-"aftermath": "朋友圈此后叠加广告、视频动态、直播入口，『发朋友圈』成为全民行为，也催生了『朋友圈焦虑』的社会话题。",
-"sources": [
-{
-"title": "维基百科：微信",
-"url": "https://zh.wikipedia.org/wiki/微信",
-"type": "wiki"
-}
-],
-"tags": [
-"微信",
-"朋友圈",
-"社交"
-]
-},
-{
-"id": "2012-05-01-smartisan-founding",
-"date": "2012-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "罗永浩创办锤子科技",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "以『西门子冰箱事件』和英语培训闻名的前教师罗永浩宣布做手机，锤子科技在北京成立。一个相声式发布会的理想主义者闯进硬件红海，此后五年的悲喜故事从这里开始。",
-"detail": "罗永浩拉来前摩托罗拉工程师钱晨等组建团队，定下『工匠精神』的产品哲学。2012年他四处融资四处碰壁，靠个人感召力聚拢了第一批信徒。锤子后来推出的Smartisan OS以拟物化设计与效率功能赢得小众赞誉，但硬件之路始终坎坷。",
-"impact": "为国产手机行业注入罕见的『产品叙事』文化，发布会本身成为流量事件。",
-"aftermath": "锤子2018年爆出资金危机，团队与专利被字节跳动接盘，罗永浩转行直播带货还债。",
-"sources": [
-{
-"title": "维基百科：锤子科技",
-"url": "https://zh.wikipedia.org/wiki/锤子科技",
-"type": "wiki"
-}
-],
-"tags": [
-"锤子科技",
-"罗永浩",
-"手机"
-]
-},
-{
-"id": "2012-05-14-a-bite-of-china-premiere",
-"date": "2012-05-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《舌尖上的中国》首播：纪录片意外爆红",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "深夜播出的美食纪录片《舌尖上的中国》在央视一套开播，本是小众栏目实验，却意外红遍全网。夜里看『舌尖』饿到睡不着成为全民体验，淘宝上片中食材被瞬间买断货。",
-"detail": "总导演陈晓卿用人物故事串起中国各地的食材与烹饪，文案与配乐被赞『文学级』。它打破了纪录片没人看的成见，深夜档口口相传形成刷屏效应，片中出现的诺邓火腿、云南菌菇等特产电商随即卖断货，被称为纪录片带火电商的第一案例。",
-"impact": "开创『美食+人文』纪录片的爆款范式，让主旋律纪录片第一次成为社交话题。",
-"aftermath": "《舌尖》拍到第四季，各大平台跟进美食纪录片；『舌尖体』文案一度泛滥。",
-"sources": [
-{
-"title": "维基百科：舌尖上的中国",
-"url": "https://zh.wikipedia.org/wiki/舌尖上的中国",
-"type": "wiki"
-}
-],
-"tags": [
-"舌尖上的中国",
-"纪录片",
-"美食"
-]
-},
-{
-"id": "2012-05-18-facebook-ipo",
-"date": "2012-05-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook登陆纳斯达克：史上最大科技IPO之一",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "28岁的扎克伯格在自家办公室远程按下开市按钮，Facebook以1040亿美元估值上市，融资160亿美元，创下当时科技股IPO之最。首日交易因系统故障一度混乱，这家社交巨头的资本时代正式开场。",
-"detail": "Facebook上市前拥有9亿用户，IPO定价38美元、募资160亿美元，是当时美国历史上规模最大的科技公司上市之一。上市首日纳斯的电子交易系统出现故障导致成交确认延迟，随后数月股价一度腰斩，让许多投资人质疑社交网络的真实价值。",
-"impact": "社交网络的商业模式经受住资本检验，此后广告效率提升带动股价与市值长期攀升。",
-"aftermath": "Facebook后来陆续吞并Instagram与WhatsApp，2021年更名Meta转向元宇宙叙事。",
-"sources": [
-{
-"title": "维基百科：Facebook",
-"url": "https://zh.wikipedia.org/wiki/Facebook",
-"type": "wiki"
-}
-],
-"tags": [
-"Facebook",
-"扎克伯格",
-"上市"
-]
-},
-{
-"id": "2012-06-18-surface-unveil",
-"date": "2012-06-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软发布Surface：软厂亲手做硬件",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软在洛杉矶秘密发布会推出自有品牌平板Surface，配备标志性的触摸键盘盖。做软件的微软第一次大规模亲自下场造硬件，与自家OEM伙伴同台竞技，行业哗然。",
-"detail": "Surface RT搭载为触屏重造的Windows RT，Surface Pro则塞进完整Windows 8，试图用『平板+笔记本二合一』对抗iPad与超极本。键盘盖成为设计经典，但早期产品定价与体验摇摆，市场反响平平。直到Surface Pro 3之后，二合一形态才真正立住。",
-"impact": "微软硬件化转型的起点，定义了平板笔记本二合一品类。",
-"aftermath": "Surface成为OEM的『参考设计』，微软后续还做出Xbox之外的鼠标、耳机等硬件矩阵。",
-"sources": [
-{
-"title": "维基百科：Microsoft Surface",
-"url": "https://zh.wikipedia.org/wiki/Microsoft_Surface",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Surface",
-"平板"
-]
-},
-{
-"id": "2012-07-13-voice-of-china-premiere",
-"date": "2012-07-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《中国好声音》首播：选秀综艺的国民级爆款",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "荷兰模式《The Voice》的中国版登陆浙江卫视，四位导师背对选手转椅抢人。首播即爆，吴莫愁、梁博等素人一夜成名，『好声音』成为中国综艺工业化的转折点。",
-"detail": "版权引进加本土化改造，导师制、盲选转椅带来戏剧张力，浙江卫视的灯光舞美也被赞电影级。节目收视率连破纪录，广告费从每15秒15万涨到百万级，『中国好XX』成为营销通用句式。它也开启了此后数年版权综艺与导师真人秀的黄金期。",
-"impact": "中国电视综艺进入大制作、强模式的时代，台网联动与话题营销成为标配。",
-"aftermath": "好声音连播多季后因版权与风波起落；音乐综艺模式库从此被各大平台反复复用。",
-"sources": [
-{
-"title": "维基百科：中国好声音 (第一季)",
-"url": "https://zh.wikipedia.org/wiki/中国好声音_(第一季)",
-"type": "wiki"
-}
-],
-"tags": [
-"中国好声音",
-"综艺",
-"选秀"
-]
-},
-{
-"id": "2012-07-15-gangnam-style-release",
-"date": "2012-07-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《江南Style》发布：骑马舞席卷全球",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "韩国歌手PSY的神曲《江南Style》发布，魔性的骑马舞配上讽刺首尔江南区的歌词，先火遍韩国再经社交媒体征服全球，成为YouTube首支播放量破10亿的视频。中国的广场舞大妈和写字楼白领都在模仿。",
-"detail": "《江南Style》7月发布后在韩国走红，7月底起被贾斯汀·比伯经纪人等国际名人转发后病毒式扩散，9月起连续数周霸榜各国iTunes。它证明了不需要英语歌词也能成为全球流行，K-pop的国际化路径由此拓宽。",
-"impact": "第一支完全依靠社交网络走红的全球神曲， YouTube 时代的流行文化范式样本。",
-"aftermath": "PSY成为文化输出符号；短视频时代的『神曲公式』自此有据可依。",
-"sources": [
-{
-"title": "维基百科：江南Style",
-"url": "https://zh.wikipedia.org/wiki/江南Style",
-"type": "wiki"
-}
-],
-"tags": [
-"江南Style",
-"PSY",
-"神曲"
-]
-},
-{
-"id": "2012-08-01-toutiao-launch",
-"date": "2012-08-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "今日头条上线：算法推荐的先行者",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "张一鸣的团队推出个性化资讯应用今日头条，『你关心的，才是头条』。它不生产内容，靠算法把全网新闻按每个人的口味分发，上线90天获得千万用户，中国信息流时代的大幕由此拉开。",
-"detail": "今日头条没有采编团队，通过抓取合作媒体内容加机器学习推荐实现千人千面。用户停留时长一路碾压传统门户，媒体们先是受益后是恐慌，『算法没有价值观』的争论延续多年。字节跳动以此为起点，孵化出抖音等一系列产品。",
-"impact": "算法推荐取代编辑分发成为中国内容消费的主流，也奠定了字节跳动的技术路线。",
-"aftermath": "头条母公司字节跳动此后推出抖音、西瓜视频等，成为全球估值最高的独角兽之一。",
-"sources": [
-{
-"title": "维基百科：今日头条",
-"url": "https://zh.wikipedia.org/wiki/今日头条",
-"type": "wiki"
-}
-],
-"tags": [
-"今日头条",
-"算法推荐",
-"字节跳动"
-]
-},
-{
-"id": "2012-08-16-qihoo-search-launch",
-"date": "2012-08-16",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "360搜索上线：挑战百度搜索霸权",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "周鸿祎的奇虎360把浏览器默认搜索引擎切换成自家『360搜索』，一夜之间拿下一成市场份额，随后迅速宣布独立品牌。中国搜索市场多年来第一次出现有分量的挑战者，百度股价应声大跌。",
-"detail": "360凭借数亿浏览器用户做流量分发，搜索份额在数月内冲上两位数。百度随后以安全问题反击，双方爆发新一轮口水战与诉讼，被戏称为继3Q大战后的『3SB大战』。虽然360未能撼动百度基本盘，但搜索市场的单极格局被撕开缺口。",
-"impact": "证明浏览器入口依然是流量分发利器，搜索行业竞争重新活跃。",
-"aftermath": "360搜索后来更名好搜再改回360搜索，长期稳居国内搜索第二梯队。",
-"sources": [
-{
-"title": "维基百科：奇虎360",
-"url": "https://zh.wikipedia.org/wiki/奇虎360",
-"type": "wiki"
-}
-],
-"tags": [
-"360",
-"搜索",
-"百度"
-]
-},
-{
-"id": "2012-09-01-didi-launch",
-"date": "2012-09-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "嘀嘀打车上线：打车这件事从此改变",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "嘀嘀打车在北京上线，乘客摇一摇手机就能呼叫附近出租车，司机端还有语音播报。这个解决『雨天打不到车』痛点的小应用，此后引爆了改变中国出行的网约车大战。",
-"detail": "程维从阿里辞职创业，最初被多数投资人看衰，中关村车库咖啡的天使投资救了场。产品抓住司机找活、乘客找车的双向痛点，通过司机补贴与呼叫应答率快速起量。两年后它与快的掀起补贴大战，把移动支付带进了出租车行业。",
-"impact": "开启中国网约车时代，出租车行业的利益格局被互联网彻底搅动。",
-"aftermath": "嘀嘀2014年更名滴滴打车，历经与快的、Uber中国的合纵连横，滴滴成为全球出行巨头的中国样本。",
-"sources": [
-{
-"title": "维基百科：滴滴出行",
-"url": "https://zh.wikipedia.org/wiki/滴滴出行",
-"type": "wiki"
-}
-],
-"tags": [
-"滴滴",
-"网约车",
-"出行"
-]
-},
-{
-"id": "2012-09-12-iphone-5-launch",
-"date": "2012-09-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 5发布：屏幕终于变长",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "苹果发布屏幕加长到4英寸的iPhone 5，机身改用铝合金，还换上Lightning接口——老式30针接口就此退休。首周销量破500万台，但『毫无惊喜』的吐槽也第一次大规模出现。",
-"detail": "iPhone 5支持4G LTE，迎合了当时全球运营商的4G竞赛；Lightning接口 smaller、可正反插，使用十年之久。此后一段时间，『挤牙膏』式升级的批评开始伴随历代iPhone，安卓阵营的大屏攻势反而越来愈猛。",
-"impact": "Lightning接口成为苹果生态十年标准；大屏化压力倒逼苹果次年推出iPhone 6的更大尺寸。",
-"aftermath": "iPhone 5系列销量持续走高，苹果市值在2012年8月一度冲上6200亿美元的历史峰值。",
-"sources": [
-{
-"title": "维基百科：IPhone 5",
-"url": "https://zh.wikipedia.org/wiki/IPhone_5",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone",
-"智能手机"
-]
-},
-{
-"id": "2012-10-26-windows-8-launch",
-"date": "2012-10-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Windows 8发布：最激进的Windows大改版",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软发布Windows 8，砍掉了用了17年的开始按钮，满屏磁贴为触屏而生。这是Windows史上最大胆的一次改版，也是争议最大的一次——桌面用户骂声一片，移动转型却不容回头。",
-"detail": "Windows 8为平板时代设计Metro界面，桌面与移动两套逻辑共存导致体验割裂，传统PC用户无所适从，企业采购集体观望。微软次年匆忙推出8.1找回开始按钮，但伤害已经造成，PC市场在那几年加速萎缩。",
-"impact": "PC产业向触屏与二合一形态转型的催化剂，也留下了『为转型牺牲用户』的经典教训。",
-"aftermath": "微软在Windows 10中全面纠偏，『Win8式激进』成为产品界的著名反面教材。",
-"sources": [
-{
-"title": "维基百科：Windows 8",
-"url": "https://zh.wikipedia.org/wiki/Windows_8",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Windows",
-"操作系统"
-]
-},
-{
-"id": "2012-11-11-double-11-19b",
-"date": "2012-11-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "双11成交191亿：光棍节购物狂欢定型",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2012年双十一天猫成交额191亿元，同比增长超过260%，凌晨开场十分钟即突破2.5亿。从草根促销到全民购物节，双11在这一年彻底定型为中国电商的年度大考。",
-"detail": "这一年支付宝的支付系统经受住洪峰考验，物流体系被1亿多个包裹冲到爆仓边缘，倒逼快递业大扩容。双11也从阿里自家活动演变为全行业节日，京东、当当等全员参战，11月11日成为中国消费者的固定血拼日。",
-"impact": "确立全球最大购物节的地位，重塑中国零售的营销日历与物流基建。",
-"aftermath": "双11成交额此后逐年刷新纪录，2020年后转为不再公布具体数字的低调阶段。",
-"sources": [
-{
-"title": "维基百科：天猫",
-"url": "https://zh.wikipedia.org/wiki/天猫",
-"type": "wiki"
-}
-],
-"tags": [
-"双11",
-"电商",
-"天猫"
-]
-},
-{
-"id": "2012-12-12-lost-in-thailand",
-"date": "2012-12-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《泰囧》上映：国产喜剧首破10亿",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "徐峥自导自演的《人再囧途之泰囧》12月12日上映，一部3000万成本的公路喜剧最终豪取12.67亿元，成为首部票房破10亿的国产电影。王宝强的『宝宝』和黄渤的囧脸刷遍社交网络。",
-"detail": "影片讲述商务男与葱油饼摊主在泰国的爆笑同行，精准的档期选择加口碑发酵让它连续四周霸榜。『泰国游』随之大火，清迈旅游订单暴增，成为电影带火旅游目的地的经典案例。国产电影自此确信：喜剧+档期+口碑就是硬通货。",
-"impact": "中国电影市场进入10亿片时代，中小成本喜剧的商业价值被彻底验证。",
-"aftermath": "徐峥的『囧系列』延续多年；此后国产片票房天花板被《西游降魔篇》《捉妖记》们不断抬升。",
-"sources": [
-{
-"title": "维基百科：人再囧途之泰囧",
-"url": "https://zh.wikipedia.org/wiki/人再囧途之泰囧",
-"type": "wiki"
-}
-],
-"tags": [
-"泰囧",
-"徐峥",
-"电影"
-]
-},
-{
-"id": "2013-03-27-smartisan-os-launch",
-"date": "2013-03-27",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "锤子ROM发布会：罗永浩的『工匠精神』首秀",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "罗永浩在北京发布Smartisan OS（锤子ROM），九宫格拟物图标、强迫症式的细节打磨让这场发布会成为年度话题。尽管手机还没影，『工匠精神』和门票收入已经先行出圈。",
-"detail": "发布会门票卖到几百元仍座无虚席，罗永浩用两个小时讲图标对称、下拉悬停等人性化设计，风格的机智吐槽被做成表情包疯传。产品获得了小众的真诚赞赏，也招致『吹过头』的质疑，锤子从此活在声量与销量的落差里。",
-"impact": "把手机发布会做成文化事件的样板，工匠美学第一次成为中国手机圈的营销语言。",
-"aftermath": "2014年锤子T1正式发布；罗永浩的发布会此后屡屡一票难求，直到锤子败局。",
-"sources": [
-{
-"title": "维基百科：锤子科技",
-"url": "https://zh.wikipedia.org/wiki/锤子科技",
-"type": "wiki"
-}
-],
-"tags": [
-"锤子科技",
-"罗永浩",
-"Smartisan OS"
-]
-},
-{
-"id": "2013-04-23-netease-cloud-music-launch",
-"date": "2013-04-23",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "网易云音乐上线：歌单与乐评的社区实验",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "网易推出音乐应用网易云音乐，用个性化歌单、UGC乐评和社交关注重构了听歌这件事。『乐评』比歌还精彩成为它的标签，一款音乐App硬是做出了社区文化。",
-"detail": "由前网易门户员工组成的小团队打造，产品以『歌单』为核心组织逻辑，用户自己创建并分享主题歌单，评论区则成为深夜情绪树洞。相对版权巨头的曲库劣势，网易云音乐靠发现与分享体验实现差异化，迅速在年轻人中积累口碑。",
-"impact": "把音乐App从播放工具变成内容社区，乐评文化影响了一代青年的表达方式。",
-"aftermath": "网易云音乐用户数年后破8亿，与腾讯音乐形成两强格局，『网抑云』梗也一度出圈。",
-"sources": [
-{
-"title": "维基百科：网易云音乐",
-"url": "https://zh.wikipedia.org/wiki/网易云音乐",
-"type": "wiki"
-}
-],
-"tags": [
-"网易云音乐",
-"音乐",
-"网易"
-]
-},
-{
-"id": "2013-04-29-alibaba-invests-weibo",
-"date": "2013-04-29",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "阿里5.86亿美元入股新浪微博",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "阿里巴巴宣布以5.86亿美元入股新浪微博，占约18%股份，双方在账号互通、支付与广告上深度合作。新浪微博拿到了『中国Twitter』之外的另一个故事——电商社交化。",
-"detail": "此时微博正受微信冲击、商业化乏力，阿里的钱与电商场景给了它续命的弹药。合作后微博用户点淘宝链接可直接跳转支付宝下单，社交与购物的链路被打通。这笔投资也被视为阿里社交梦的延续——此前『来往』正面强攻微信失败后的侧翼迂回。",
-"impact": "社交与电商的融合从此成为行业主叙事，微博估值逻辑转向商业变现。",
-"aftermath": "阿里后增持至约30%，微博2014年成功上市；微博电商化与广告体系支撑其此后多年增长。",
-"sources": [
-{
-"title": "维基百科：新浪微博",
-"url": "https://zh.wikipedia.org/wiki/新浪微博",
-"type": "wiki"
-}
-],
-"tags": [
-"阿里",
-"微博",
-"投资"
-]
-},
-{
-"id": "2013-05-01-tesla-model-s-fever",
-"date": "2013-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "特斯拉Model S元年：电动车第一次酷起来",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "2013年上半年，特斯拉Model S接连拿下各大媒体年度车奖项并首次实现季度盈利，股价半年涨数倍。硅谷造的车第一次让全世界相信电动车可以又快又美，中国土豪开始加价求购。",
-"detail": "Model S凭借17英寸中控大屏、整车空中升级和狂暴加速，斩获《汽车趋势》等重量级年度车大奖，2013年一季度盈利更是改写历史。马斯克从PayPal创业者的身份变成钢铁侠原型，中国富豪排队等车，特斯拉当年即筹建中国公司。",
-"impact": "把电动车从环保苦行僧的标签中解放出来，全球车企被迫加速电动化。",
-"aftermath": "特斯拉2014年向中国交付首批车辆，此后上海建厂，市值一路超越所有传统车企。",
-"sources": [
-{
-"title": "维基百科：Tesla, Inc.",
-"url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-"type": "wiki"
-}
-],
-"tags": [
-"特斯拉",
-"电动车",
-"Model S"
-]
-},
-{
-"id": "2013-06-13-yuebao-launch",
-"date": "2013-06-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "余额宝上线：全民理财从1元开始",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "支付宝与天弘基金合作推出余额宝，用户把零钱放进去就能享受货币基金收益，1元起购、随存随取。上线18天用户破250万，年底规模破千亿，中国老百姓的理财意识被一个余额页面唤醒。",
-"detail": "余额宝把钱对接天弘增利宝货币基金，收益曾一度超过6%，远超银行活期。它借用支付宝海量账户和消费场景，让『理财』第一次变得和发红包一样简单，银行存款加速搬家，利率市场化被互联网推了一把。天弘基金也凭此从无名小厂跃居行业规模第一。",
-"impact": "互联网理财元年的开端，倒逼银行与监管直面互联网金融的冲击。",
-"aftermath": "各类『宝宝』产品井喷，余额宝规模巅峰超过1.5万亿元，此后收益率回落、限购控规模，成为居民现金管理的常备工具。",
-"sources": [
-{
-"title": "维基百科：余额宝",
-"url": "https://zh.wikipedia.org/wiki/余额宝",
-"type": "wiki"
-}
-],
-"tags": [
-"余额宝",
-"支付宝",
-"理财"
-]
-},
-{
-"id": "2013-07-16-baidu-buys-91-wireless",
-"date": "2013-07-16",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "百度19亿美元收购91无线：当时中国互联网最大并购",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "百度宣布以19亿美元全资收购网龙旗下的91无线，创下当时中国互联网并购金额纪录。为抢下移动应用分发入口，百度砸下重金——这笔交易日后也成为巨头买入口的争议案例。",
-"detail": "91无线旗下的91助手、安卓市场曾是iOS越狱与安卓分发的头部渠道，百度急需补上移动分发短板对抗360与腾讯。交易完成后分发市场一度百度系登顶，但随着手机厂商应用商店崛起，第三方应用市场整体衰落，91助手逐渐边缘化。",
-"impact": "中国互联网并购金额纪录被刷新，应用分发赛道的价值被推至顶点。",
-"aftermath": "第三方应用商店此后被厂商商店与超级App边缘化，91无线被普遍视为高价买来的教训。",
-"sources": [
-{
-"title": "维基百科：百度",
-"url": "https://zh.wikipedia.org/wiki/百度",
-"type": "wiki"
-}
-],
-"tags": [
-"百度",
-"91无线",
-"并购"
-]
-},
-{
-"id": "2013-07-31-hongmi-launch",
-"date": "2013-07-31",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "红米手机发布：799元终结山寨机",
-"category": "hardware",
-"region": "cn",
-"milestone": false,
-"summary_30s": "小米与中国移动联合发布红米手机，四核配置只卖799元，QQ空间首发预约破千万。千元智能机市场的价格体系被瞬间击穿，山寨手机最后的生存空间被清空。",
-"detail": "红米把发烧配置下沉到千元档，首发选在拥有数亿用户的QQ空间，一天预约量即超745万。红米此后成为小米销量支柱，『高性价比』标签帮助小米横扫下沉市场，也把荣耀、魅族等对手拖入贴身肉搏。",
-"impact": "中国千元机市场全面洗牌，山寨机与低端功能机加速退场，智能手机全面普及。",
-"aftermath": "红米成长为独立品牌Redmi，长期扛着小米出货量大头，并出海横扫印度、东南亚。",
-"sources": [
-{
-"title": "维基百科：红米手机",
-"url": "https://zh.wikipedia.org/wiki/红米手机",
-"type": "wiki"
-}
-],
-"tags": [
-"红米",
-"小米",
-"千元机"
-]
-},
-{
-"id": "2013-08-05-wechat-pay-launch",
-"date": "2013-08-05",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "微信5.0上线微信支付：从聊天到钱包",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "微信5.0版本上线，加入扫一扫和微信支付，打飞机小游戏同时刷屏。支付宝独大的移动支付市场从此有了第二个玩家，一年后的微信红包将让这场战争彻底变天。",
-"detail": "微信支付绑定银行卡即可在公众号商户扫码付款，初期交易量平淡，团队甚至考虑过放弃。转机出现在2014年初的红包功能：春节社交裂变让数百万用户一夜绑卡，马云称之为『偷袭珍珠港』。支付大战就此升级为双寡头格局。",
-"impact": "中国移动支付双寡头的起点，线下扫码付的普及由此加速。",
-"aftermath": "微信支付此后以红包、转账、扫码付全面渗透生活，与支付宝分庭抗礼。",
-"sources": [
-{
-"title": "维基百科：微信",
-"url": "https://zh.wikipedia.org/wiki/微信",
-"type": "wiki"
-}
-],
-"tags": [
-"微信支付",
-"微信",
-"移动支付"
-]
-},
-{
-"id": "2013-08-06-wanwanmeixiangdao-premiere",
-"date": "2013-08-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《万万没想到》上线：迷你网剧的流量奇迹",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "叫兽易小星执导的迷你网剧《万万没想到》在优酷开播，白客主演的无名青年王大锤每集几分钟、脑洞清奇，第一季数集播放量破亿。网络原生的短剧第一次证明自己能造明星。",
-"detail": "剧集脱胎于叫兽易小星的网络短片团队，万合天宜以低成本高频次产出，台词『没想到吧』成为年度口头禅。它把网络段子的节奏搬上屏幕，捧红白客、孔连顺等一批网生艺人，也让优酷坚定了自制内容的投入。",
-"impact": "开启国产迷你网剧时代，为后来的短视频喜剧与竖屏短剧提供了方法论。",
-"aftermath": "《万万没想到》推出大电影与衍生剧集；万合天宜及网生内容成为视频平台自制大战的重要玩家。",
-"sources": [
-{
-"title": "维基百科：万万没想到",
-"url": "https://zh.wikipedia.org/wiki/万万没想到",
-"type": "wiki"
-}
-],
-"tags": [
-"万万没想到",
-"网剧",
-"优酷"
-]
-},
-{
-"id": "2013-09-10-iphone-5s-launch",
-"date": "2013-09-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 5s发布：指纹解锁与『土豪金』",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "苹果发布iPhone 5s，带来指纹识别Touch ID、64位A7芯片，以及那个后来被戏称『土豪金』的香槟金配色。金色款在中国被抢购到断货，『土豪金』一词火遍全国。",
-"detail": "5s的Touch ID让生物识别第一次好用，64位处理器打了个安卓阵营措手不及，iOS的指纹支付也为移动支付铺路。首发国行9月20日开售即抢空，金色款一度加价千元。同期发布的廉价版iPhone 5c则市场遇冷，证明苹果用户只认旗舰。",
-"impact": "指纹识别成为智能手机标配的起点，金色成为手机行业常青配色。",
-"aftermath": "『土豪金』进入年度流行语；64位芯片倒逼安卓阵营一年内全面跟进。",
-"sources": [
-{
-"title": "维基百科：IPhone 5s",
-"url": "https://zh.wikipedia.org/wiki/IPhone_5s",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone",
-"土豪金"
-]
-},
-{
-"id": "2013-09-16-tencent-invests-sogou",
-"date": "2013-09-16",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "腾讯4.48亿美元入股搜狗：搜索三分归晋",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯宣布4.48亿美元入股搜狗并将搜搜并入，王小川保住了独立地位，周鸿祎的『搜狗嫁360』方案落空。中国搜索市场形成百度、搜狗、360三分的新格局。",
-"detail": "此前360曾试图吞并搜狗补齐流量短板，张朝阳一度倾向成交，王小川则以腾讯方案绝地翻盘。合并后搜狗独家接入微信公众账号搜索，成为『能搜微信公众号』的唯一入口，流量与想象空间都为之一振。",
-"impact": "搜索大战从混战收敛为三强，腾讯以投资代替亲自下场的策略再度奏效。",
-"aftermath": "搜狗2020年被腾讯全资私有化，王小川离场转向AI创业。",
-"sources": [
-{
-"title": "维基百科：搜狗",
-"url": "https://zh.wikipedia.org/wiki/搜狗",
-"type": "wiki"
-}
-],
-"tags": [
-"腾讯",
-"搜狗",
-"搜索"
-]
-},
-{
-"id": "2013-09-17-gta-v-launch",
-"date": "2013-09-17",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《GTA5》发售：三天10亿美元的开放世界神话",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "Rockstar的《侠盗猎车手5》全球发售，三天销售额突破10亿美元，创下娱乐产品最快纪录。洛圣都的自由与讽刺让全世界的玩家和评论家同时沦陷，开放世界游戏的标准就此定下。",
-"detail": "游戏以三位主角在虚构城市洛圣都的故事讽刺美国流行文化，开发投入约2.65亿美元、历时五年。它不仅在商业上登顶，还因在线模式GTA Online常年长青，成为发售十年后仍稳居销量榜的存在。",
-"impact": "电子游戏第一次在商业速度上碾压好莱坞大片，开放世界设计成为行业金标准。",
-"aftermath": "GTA5全球销量突破2亿份，其在线模式催生了主播文化与角色扮演玩法的大爆发。",
-"sources": [
-{
-"title": "维基百科：侠盗猎车手V",
-"url": "https://zh.wikipedia.org/wiki/侠盗猎车手V",
-"type": "wiki"
-}
-],
-"tags": [
-"GTA5",
-"游戏",
-"Rockstar"
-]
-},
-{
-"id": "2013-10-11-dad-where-are-we-going",
-"date": "2013-10-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《爸爸去哪儿》首播：亲子综艺一夜爆红",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "湖南卫视引进韩国模式的亲子真人秀《爸爸去哪儿》开播，林志颖父子、田亮父女等五对星爸萌娃的乡村旅行萌翻全国。节目收视率碾压同时段，萌娃代言费一夜暴涨，亲子综艺自此扎堆。",
-"detail": "节目以明星父亲独自带娃的日常为卖点，Kimi、森碟、王诗龄等萌娃成为全民宠儿。它精准踩中独生子女时代的育儿焦虑与真人秀的新鲜感，广告费节节攀升，后续几季持续制造话题，也带动各卫视引进韩综的热潮。",
-"impact": "开启中国亲子综艺与韩国模式引进的黄金期，星二代与萌娃经济自此成风。",
-"aftermath": "亲子综艺扎堆后审美疲劳，行业随后转向原创与网综；《爸爸去哪儿》成为一代人的综艺记忆。",
-"sources": [
-{
-"title": "维基百科：爸爸去哪儿",
-"url": "https://zh.wikipedia.org/wiki/爸爸去哪儿",
-"type": "wiki"
-}
-],
-"tags": [
-"爸爸去哪儿",
-"综艺",
-"湖南卫视"
-]
-},
-{
-"id": "2013-11-11-double-11-35b",
-"date": "2013-11-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "双11成交350亿：移动端首秀与菜鸟首考",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2013年双十一天猫成交额350.19亿元，手机端成交占比首次超过两成，年度大考又添新课题。支付宝峰值每分钟处理近80万笔支付，中国电商的基础设施完成又一次极限压测。",
-"detail": "这一年的双11首次引入O2O概念，线下商场虽集体抵制，但线上狂欢依旧凶猛。移动端的爆发让『躺着购物』成为现实，物流方面菜鸟网络迎来首秀，大数据预判让包裹速度明显提升。京东等对手同日造节对抗，电商大促进入多平台混战。",
-"impact": "移动购物正式成为主力，电商基础设施（支付、物流、云计算）的军备竞赛全面升级。",
-"aftermath": "双11纪录此后继续刷新，移动端占比逐年攀升至八成以上。",
-"sources": [
-{
-"title": "维基百科：天猫",
-"url": "https://zh.wikipedia.org/wiki/天猫",
-"type": "wiki"
-}
-],
-"tags": [
-"双11",
-"电商",
-"移动支付"
-]
-},
-{
-"id": "2013-11-15-ps4-launch",
-"date": "2013-11-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "PS4发售：次世代主机战争开打",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "索尼PlayStation 4在北美首发，一周后微软Xbox One跟进，第八世代主机大战正式开打。PS4凭借更低价格与对二手游戏、独立游戏的友好姿态一路碾压，最终卖出上亿台。",
-"detail": "索尼在E3上以『让玩家自己决定』的宣言完胜主打客厅生态与强制联网的Xbox One，首发即供不应求。PS4的x86架构也让跨平台移植变容易，独立游戏迎来黄金窗口。国行版则在2015年才解禁上市。",
-"impact": "确立本世代主机格局，独立游戏与大作生态同步繁荣。",
-"aftermath": "PS4累计销量超过1.17亿台，成为史上最畅销主机之一；中国主机市场也在国行解禁后缓慢回暖。",
-"sources": [
-{
-"title": "维基百科：PlayStation 4",
-"url": "https://zh.wikipedia.org/wiki/PlayStation_4",
-"type": "wiki"
-}
-],
-"tags": [
-"PS4",
-"索尼",
-"主机游戏"
-]
-},
-{
-"id": "2013-12-18-my-love-from-the-star",
-"date": "2013-12-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《来自星星的你》开播：韩流巅峰时刻",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "金秀贤、全智贤主演的外星人都教授与顶流女明星的爱情故事在韩国SBS开播，随后在中国网络爆红。『炸鸡配啤酒』成为冬季标配，都教授横扫中国广告市场，韩流迎来巅峰时刻。",
-"detail": "剧集在中国视频平台同步播出，点击量破数十亿，金秀贤来华参加活动被粉丝围得水泄不通，一条微博转发量创纪录。它证明了中韩同步播出模式的商业威力，也把视频网站买韩剧版权的价格推上天。",
-"impact": "韩流在中国的最高峰，同步播出与粉丝经济的商业模型被反复复制。",
-"aftermath": "此后韩剧版权价格暴涨，中韩合拍剧涌现；都教授成为一代人的荧幕记忆。",
-"sources": [
-{
-"title": "维基百科：来自星星的你",
-"url": "https://zh.wikipedia.org/wiki/来自星星的你",
-"type": "wiki"
-}
-],
-"tags": [
-"来自星星的你",
-"韩剧",
-"韩流"
-]
-},
-{
-"id": "2014-01-01-wechat-red-packet",
-"date": "2014-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "微信红包上线：春节社交裂变偷袭支付市场",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "微信悄悄上线『新年红包』功能，用户在群里发红包、拼手气，抢到红包必须绑卡才能提现。2014年春节期间数千万人一夜绑卡，马云惊呼『珍珠港偷袭』，移动支付格局就此改写。",
-"detail": "红包功能由微信支付团队在春节前快速上线，把中国传统压岁钱习俗翻译成社交游戏：拼手气的随机金额让抢红包充满赌博式的快乐。滚雪球式的群聊裂变让微信支付在几天内完成了支付宝八年才完成的绑卡规模，支付大战的攻守从此易势。",
-"impact": "社交裂变被证明是获取金融用户的核武器，中国红包文化完成数字化迁移。",
-"aftermath": "此后发红包成为春节全民仪式，支付宝反击推出集五福；红包也成为企业与品牌的营销标配。",
-"sources": [
-{
-"title": "维基百科：微信",
-"url": "https://zh.wikipedia.org/wiki/微信",
-"type": "wiki"
-}
-],
-"tags": [
-"微信红包",
-"微信支付",
-"春节"
-]
-},
-{
-"id": "2014-01-01-didi-kuaidi-subsidy-war",
-"date": "2014-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "滴滴快的补贴大战：打车不要钱的疯狂一月",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "嘀嘀打车联手微信支付推出乘客每单立减10元、司机奖励10元的补贴，快的随即联手支付宝跟进加码。数月之内两家烧掉数十亿元，全国人民打车比坐公交还便宜，移动支付随出租车跑遍大街小巷。",
-"detail": "补贴大战从春节前打到夏天，单方补贴一度涨到每单十几元，滴滴日订单量从几十万飙到数百万。这场战争的本质是腾讯与阿里的移动支付入口之争：每一次打车都是一次绑卡与支付习惯训练。司机边开车边抢红包、黄牛刷单套现成为奇观。",
-"impact": "用最烧钱的方式完成了全民移动支付教育，网约车从此成为中国出行的基础设施。",
-"aftermath": "双方补贴停战后订单回落，2015年情人节滴滴快的宣布合并；滴滴随后再战Uber中国并于2016年将其收编。",
-"sources": [
-{
-"title": "维基百科：Didi",
-"url": "https://en.wikipedia.org/wiki/Didi",
-"type": "wiki"
-}
-],
-"tags": [
-"滴滴",
-"快的",
-"补贴大战"
-]
-},
-{
-"id": "2014-02-19-facebook-buys-whatsapp",
-"date": "2014-02-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook 190亿美元天价收购WhatsApp",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "Facebook宣布以约190亿美元收购即时通讯应用WhatsApp——一家55名员工、年收入微薄的公司，卖出当时史上最贵的初创收购价。扎克伯格用真金白银宣告：移动IM就是下一个时代的地基。",
-"detail": "WhatsApp当时月活超4.5亿且仍在高速增长，每名用户估值约42美元。交易包含约30亿美元限制性股票留给创始团队。这笔收购与当年Instagram并购一起，构成Facebook防御移动时代的护城河组合，此后它又以同样逻辑押注Messenger。",
-"impact": "刷新全球科技并购纪录，巨头的移动IM焦虑成为行业共识。",
-"aftermath": "WhatsApp月活此后突破20亿，成为全球最多人使用的通讯软件之一；两位创始人后来先后离开Facebook并公开表达不满。",
-"sources": [
-{
-"title": "维基百科：WhatsApp",
-"url": "https://zh.wikipedia.org/wiki/WhatsApp",
-"type": "wiki"
-}
-],
-"tags": [
-"Facebook",
-"WhatsApp",
-"并购"
-]
-},
-{
-"id": "2014-03-12-uber-enters-china",
-"date": "2014-03-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Uber正式进入中国大陆：优步登陆上海",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "Uber在上海召开发布会宣布正式进入中国大陆市场，中文名定为『优步』。这家以高端专车起家的硅谷公司闯入滴滴快的腹地，中国网约车市场从此进入三国杀。",
-"detail": "Uber此前以人民优步等低价产品在一线城市野蛮生长，正式落地后凭借全球化资本与激进的本地运营与滴滴缠斗两年。补贴、优惠券与『一键叫直升机』式的营销话题此起彼伏，最终以滴滴合并Uber中国收场。",
-"impact": "网约车竞争白热化倒逼出行基建与监管框架加速成型。",
-"aftermath": "2016年8月滴滴宣布与Uber中国合并，Uber换取滴滴股份；Uber后来出售滴滴股权离场。",
-"sources": [
-{
-"title": "维基百科：Uber",
-"url": "https://zh.wikipedia.org/wiki/Uber",
-"type": "wiki"
-}
-],
-"tags": [
-"Uber",
-"优步",
-"网约车"
-]
-},
-{
-"id": "2014-04-01-tesla-china-delivery",
-"date": "2014-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "特斯拉向中国车主交付首批Model S",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "马斯克亲自飞抵中国，向首批中国车主交付特斯拉Model S钥匙，土豪们排队加价求车。这款硅谷电动车正式进入全球最大汽车市场，中国新能源浪潮自此多了一个精神图腾。",
-"detail": "2014年春特斯拉在中国开设门店并完成首批交付，预订需等待数月，二手加价一度数十万元。 Model S 的中控大屏与加速能力刷新了中国消费者对汽车的认知，本土新势力创始人纷纷到场取经，蔚来、小鹏、理想此后相继成立。",
-"impact": "特斯拉教育了中国电动车市场，直接催化了中国造车新势力浪潮。",
-"aftermath": "2019年特斯拉上海超级工厂开工，Model 3国产化后价格下探，彻底引爆中国新能源市场。",
-"sources": [
-{
-"title": "维基百科：Tesla, Inc.",
-"url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-"type": "wiki"
-}
-],
-"tags": [
-"特斯拉",
-"电动车",
-"Model S"
-]
-},
-{
-"id": "2014-04-17-weibo-ipo",
-"date": "2014-04-17",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微博登陆纳斯达克：微博物竞微物",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "新浪微博以『WB』代码登陆纳斯达克，发行价17美元，市值约40亿美元。尽管上市首日仅微涨，被调侃为『微博物竞微物』，但微博总算赶在窗口关闭前拿到了资本市场的门票。",
-"detail": "微博上市前饱受微信冲击、用户增长质疑，估值从传闻的百亿美元级缩水到40亿。阿里此前的入股为上市铺路，凭借与电商打通的广告体系，微博上市后业绩反而逆势回暖，股价数年间上涨数倍。",
-"impact": "中国社交媒体第一股诞生，微博完成了从明星产品到上市公司的心态转变。",
-"aftermath": "微博此后靠热点广场与粉丝经济重回增长，2021年回港二次上市。",
-"sources": [
-{
-"title": "维基百科：新浪微博",
-"url": "https://zh.wikipedia.org/wiki/新浪微博",
-"type": "wiki"
-}
-],
-"tags": [
-"微博",
-"上市",
-"新浪"
-]
-},
-{
-"id": "2014-05-20-smartisan-t1-launch",
-"date": "2014-05-20",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "锤子T1发布：『东半球最好用的手机』",
-"category": "hardware",
-"region": "cn",
-"milestone": false,
-"summary_30s": "罗永浩在国家会议中心发布锤子T1，对标iPhone的对称设计与盲定销量一度破纪录。他放话这是『东半球最好用的智能手机』，随后产能危机与降价风波让理想主义遭遇现实的第一次暴击。",
-"detail": "T1采用双侧对称按键、实体按键拍照，Smartisan OS的细节打磨赢得设计圈好评，斩获多项设计奖。然而代工良率问题导致产能爬坡艰难，交付拖延数月，随后官降千元引发老用户众怒。T1最终销量仅二十余万台，锤子的资金危机伏笔就此埋下。",
-"impact": "国产手机的品质叙事达到新高度，也上演了理想主义与供应链现实碰撞的经典案例。",
-"aftermath": "锤子此后推出T2、M1等产品始终未能突破销量瓶颈，2018年资金链断裂。",
-"sources": [
-{
-"title": "维基百科：锤子科技",
-"url": "https://zh.wikipedia.org/wiki/锤子科技",
-"type": "wiki"
-}
-],
-"tags": [
-"锤子科技",
-"锤子T1",
-"罗永浩"
-]
-},
-{
-"id": "2014-05-22-jd-ipo",
-"date": "2014-05-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "京东登陆纳斯达克：亏损电商的资本正名",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "刘强东带领京东在纳斯达克挂牌，募资约17.8亿美元，创下当时中国公司在美最大IPO。一家连年亏损的自营电商卖出260亿美元市值，资本市场为『重资产』模式正名。",
-"detail": "京东以自营+自建物流的重模式在电商混战中杀出，上市时仍处亏损，但3C品类口碑与配送体验构成护城河。上市当天市值约260亿美元，此后腾讯入股的流量输血让京东完成移动转身，腾讯电商资产也在此前并入京东。",
-"impact": "重资产电商模式的估值逻辑被确认，中国电商进入阿里、京东双雄时代。",
-"aftermath": "京东此后扩展金融、物流子集团，2020年京东集团回港二次上市，京东物流、健康相继分拆上市。",
-"sources": [
-{
-"title": "维基百科：京东",
-"url": "https://zh.wikipedia.org/wiki/京东",
-"type": "wiki"
-}
-],
-"tags": [
-"京东",
-"刘强东",
-"上市"
-]
-},
-{
-"id": "2014-05-29-xiao-pingguo-release",
-"date": "2014-05-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《小苹果》发行：全民神曲与广场舞狂欢",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "筷子兄弟为电影《老男孩之猛龙过江》推出宣传曲《小苹果》，魔性旋律配上雷人MV，迅速占领广场舞场地与校园课间。它成为2014年国民神曲，还拿下了全美音乐奖年度最佳国际流行音乐奖。",
-"detail": "《小苹果》致敬复古迪斯科，MV里的穿越剧情槽点满满却自带传播力，各地快闪、广场舞翻跳视频疯传，连小学运动会都集体齐跳。神曲的洗脑配方——简单旋律、重复副歌、强节奏——被业内反复拆解。",
-"impact": "广场舞文化的互联网出圈样本，中国神曲经济学的教科书案例。",
-"aftermath": "神曲生产此后工业化，短视频时代『一歌一舞』的传播公式正是《小苹果》打下的样。",
-"sources": [
-{
-"title": "维基百科：小苹果 (歌曲)",
-"url": "https://zh.wikipedia.org/wiki/小苹果_(歌曲)",
-"type": "wiki"
-}
-],
-"tags": [
-"小苹果",
-"筷子兄弟",
-"神曲"
-]
-},
-{
-"id": "2014-09-09-iphone-6-launch",
-"date": "2014-09-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 6发布：苹果终于出大屏",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "苹果一次性发布4.7英寸的iPhone 6与5.5英寸的iPhone 6 Plus，正式进军大屏手机市场。发布会一句『Bigger than bigger』被中国网友玩坏，首周销量破千万台，成为苹果史上最畅销的iPhone。",
-"detail": "大屏iPhone补上了苹果对阵安卓旗舰的最后短板，中国成为首发国家之一，黄牛加价盛况重现。虽然『弯曲门』一度成为笑柄，但大屏+Apple Pay的发布让换机潮凶猛，苹果当季营收利润双双创纪录，市值冲击7000亿美元。",
-"impact": "大屏智能手机成为全球主流，苹果在中国市场份额登顶。",
-"aftermath": "iPhone 6系列累计销量超2.2亿台；中国此后成为iPhone最大单一市场之一。",
-"sources": [
-{
-"title": "维基百科：IPhone 6",
-"url": "https://zh.wikipedia.org/wiki/IPhone_6",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone",
-"大屏"
-]
-},
-{
-"id": "2014-09-09-apple-watch-unveil",
-"date": "2014-09-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Apple Watch发布：库克时代的第一件新品",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "与iPhone 6同台，苹果发布首款可穿戴设备Apple Watch，库克称之为『苹果的下一个篇章』。没有乔布斯的苹果交出了第一件全新品类产品，手表能否再创iPhone神话成为全球悬念。",
-"detail": "Apple Watch主打健康监测、通知与个性化表带，推出运动、常规与18K金Edition三个版本，最贵款定价上万美元。2015年开售后市场反应两极：销量远不及iPhone，却依然稳坐智能手表头把交椅，重塑了手表行业的叙事。",
-"impact": "智能手表从小众极客玩具变成消费电子主流品类，健康监测成为可穿戴的核心命题。",
-"aftermath": "Apple Watch此后逐步迭代出心电图、血氧等功能，长期占据全球智能手表半壁江山。",
-"sources": [
-{
-"title": "维基百科：Apple Watch",
-"url": "https://zh.wikipedia.org/wiki/Apple_Watch",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"Apple Watch",
-"可穿戴"
-]
-},
-{
-"id": "2014-09-19-alibaba-nyse-ipo",
-"date": "2014-09-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "阿里巴巴纽交所上市：全球最大IPO诞生",
-"category": "company",
-"region": "cn",
-"milestone": true,
-"summary_30s": "马云在纽交所敲钟——敲钟人不是他，而是八位淘宝卖家、快递员与模特客户。阿里巴巴以每股68美元发行，融资250亿美元，创人类历史最大IPO纪录，市值一度超越Facebook。",
-"detail": "阿里选择『客户第一』的仪式感敲钟，绿鞋机制行使后融资总额约250亿美元。上市当天市值约2300亿美元，中概股迎来历史性时刻。这既是马云十五年创业故事的顶点，也是中国互联网黄金十年的加冕礼，杭州西溪的造富神话刷遍朋友圈。",
-"impact": "中国互联网公司全球估值的巅峰仪式，电商生态的资本故事获得世界级定价。",
-"aftermath": "阿里此后展开新零售、云计算与全球化扩张；2020年蚂蚁上市叫停后公司进入整固期，马云逐渐淡出公众视野。",
-"sources": [
-{
-"title": "维基百科：阿里巴巴集团",
-"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
-"type": "wiki"
-}
-],
-"tags": [
-"阿里巴巴",
-"马云",
-"上市"
-]
-},
-{
-"id": "2014-10-10-running-man-china-premiere",
-"date": "2014-10-10",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "《奔跑吧兄弟》首播：户外真人秀时代来临",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "浙江卫视引进韩国模式打造的大型户外竞技真人秀《奔跑吧兄弟》开播，邓超、Angelababy等七人『跑男团』撕名牌大战笑翻全国。收视率连破纪录，明星真人秀自此成为中国综艺的最强流量。",
-"detail": "节目以游戏竞技加明星人设为卖点，撕名牌成为全民模仿动作，李晨『大黑牛』、陈赫『天才』等标签深入人心。它把综艺从演播室搬到城市地标，广告冠名费逐季暴涨，此后各平台户外真人秀全面开花。",
-"impact": "中国综艺进入明星真人秀大片时代，台网联动的流量运营模式成熟。",
-"aftermath": "节目连播多季后更名《奔跑吧》，撕名牌与跑男团成为一代人的综艺记忆。",
-"sources": [
-{
-"title": "维基百科：奔跑吧兄弟",
-"url": "https://zh.wikipedia.org/wiki/奔跑吧兄弟",
-"type": "wiki"
-}
-],
-"tags": [
-"奔跑吧兄弟",
-"综艺",
-"真人秀"
-]
-},
-{
-"id": "2014-11-11-double-11-57b",
-"date": "2014-11-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "双11成交571亿：上市年阿里的庆功宴",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "上市满月的阿里巴巴交出双11成绩单：全天成交571.12亿元，其中手机端占比42.6%，移动购物正式成为主力。从509家品牌参与的第一年到现在，双11已成长为全球最大购物节。",
-"detail": "这一年双11首次亮相纽交所大屏，阿里把美国投资人请进杭州指挥中心。移动端成交占比42.6%标志移动购物的拐点来临，菜鸟网络当日处理的物流订单达2.78亿件。各平台混战升级，京东同步发起促销对攻，电商大促的规则边界开始被讨论。",
-"impact": "确立移动电商时代的购物节形态，全球资本市场第一次现场围观中国消费洪流。",
-"aftermath": "双11纪录此后继续膨胀至数千亿元量级，直到2020年后不再公布精确数字。",
-"sources": [
-{
-"title": "维基百科：天猫",
-"url": "https://zh.wikipedia.org/wiki/天猫",
-"type": "wiki"
-}
-],
-"tags": [
-"双11",
-"阿里",
-"电商"
-]
-},
-{
-"id": "2014-11-29-u-can-bianji-premiere",
-"date": "2014-11-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《奇葩说》首播：网综元年开启",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "马东携高晓松、蔡康永坐镇的辩论综艺《奇葩说》在爱奇艺开播，『严肃辩论』与『段子互怼』化学反应惊人。肖骁、范湉湉等『奇葩』一夜成名，这档节目被普遍视为中国网络综艺元年的起点。",
-"detail": "马东从央视离职加盟爱奇艺后打造的首档节目，把辩论装进娱乐外壳，金句与毒舌齐飞。广告口播『喝了才能愉快聊天』的花式植入成为行业范本，节目点击量逐季走高，证明网综完全可以和电视综艺掰手腕。",
-"impact": "网络综艺自此崛起，内容付费与花式广告的商业模式被跑通。",
-"aftermath": "奇葩说连播七季，米未传媒成立；说话类与辩论类网综成为平台标配。",
-"sources": [
-{
-"title": "维基百科：奇葩说",
-"url": "https://zh.wikipedia.org/wiki/奇葩说",
-"type": "wiki"
-}
-],
-"tags": [
-"奇葩说",
-"网综",
-"爱奇艺"
-]
-},
-{
-"id": "2014-12-11-momo-ipo",
-"date": "2014-12-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "陌陌登陆纳斯达克：陌生人社交修成正果",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "成立三年的陌陌在纳斯达克挂牌，唐岩带着这个曾被贴满暧昧标签的应用敲钟。上市首日股价上涨约25%，陌生人社交第一次证明了自己在资本市场的成色。",
-"detail": "陌陌上市前月活约6000万，招股书坦承用户增长承压。上市后陌陌果断转向直播业务，2016年直播收入爆发让公司扭亏为盈、股价一度暴涨十倍，唐岩也因此成为中国互联网最成功的转型操盘手之一。",
-"impact": "陌生人社交赛道的资本里程碑，也预演了社交产品靠直播变现的经典路径。",
-"aftermath": "陌陌2018年收购探探，公司后更名Hello Group；直播与泛社交的组合延续至今。",
-"sources": [
-{
-"title": "维基百科：陌陌",
-"url": "https://zh.wikipedia.org/wiki/陌陌",
-"type": "wiki"
-}
-],
-"tags": [
-"陌陌",
-"唐岩",
-"上市"
-]
-}
+  {
+    "id": "2010-01-01-weibo-era",
+    "date": "2010-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "single-source",
+    "title": "微博元年：140字改写中国人上网方式",
+    "category": "internet",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "新浪微博2009年8月上线后，2010年进入爆发期：明星、媒体、草根大V集体入驻，转发和评论让人人都有话筒，各大门户纷纷跟进推出自家微博。这一年被称为中国『微博元年』，社交媒体时代正式开场。",
+    "detail": "新浪借助名人战略快速做大盘子，众多一线明星开设微博，普通用户第一次能『零距离围观』公众人物。腾讯、搜狐、网易随后全部跟进微博产品，『粉丝』『转发』『热搜』成为全民词汇。碎片化的140字配合图片链接，改变了新闻传播的速度和形态，也重塑了公关和营销行业。",
+    "impact": "中国互联网从论坛博客时代进入社交媒体时代，信息传播速度和公共讨论的形态被彻底改写。",
+    "aftermath": "新浪微博2014年4月登陆纳斯达克；随后微信崛起分流熟人社交，微博转型为公开舆论场与热点广场，延续至今。",
+    "sources": [
+      {
+        "title": "维基百科：新浪微博",
+        "url": "https://zh.wikipedia.org/wiki/新浪微博",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微博",
+      "新浪",
+      "社交媒体"
+    ]
+  },
+  {
+    "id": "2010-01-04-avatar-china-release",
+    "date": "2010-01-04",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "《阿凡达》中国上映：3D大片一票难求",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "詹姆斯·卡梅隆的《阿凡达》登陆中国内地，3D和IMAX场次场场爆满，热门影厅票价被黄牛炒到数百元，观众凌晨排队抢票。这部电影让中国观众第一次见识3D大片的震撼，当年内地票房约13.4亿元，是年度冠军。",
+    "detail": "《阿凡达》在全球掀起观影狂潮，中国市场的火爆程度尤甚：一线城市IMAX票开票即空，不少观众专程跨城观影。影院纷纷紧急加装3D设备，片方还因档期排片问题引发过院线换片风波。影片的潘多拉星世界也成为中国影迷长期讨论的文化符号。不少影迷二刷三刷，黄牛倒票与影院加价成为当年独特的观影记忆。",
+    "impact": "直接刺激中国影院3D银幕和IMAX影厅的建设潮，中国电影市场加速扩容。",
+    "aftermath": "中国银幕数此后十年增长数十倍，并于2012年前后超过日本成为全球第二大票仓；《阿凡达》续集计划延续十余年。",
+    "sources": [
+      {
+        "title": "维基百科：阿凡达 (电影)",
+        "url": "https://zh.wikipedia.org/wiki/阿凡达_(电影)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "阿凡达",
+      "电影",
+      "3D"
+    ]
+  },
+  {
+    "id": "2010-01-27-ipad-launch",
+    "date": "2010-01-27",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "苹果发布初代iPad，开创平板电脑品类",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "乔布斯在旧金山发布会上掏出一块9.7英寸的大屏设备——iPad，介于手机和笔记本之间。发布之初不少人不屑地称它是『放大版iPhone』，但它随后开创了平板电脑这个全新品类，重新定义了人们躺着看视频、读新闻的方式。",
+    "detail": "iPad搭载自研A4芯片，支持多点触控、电子书、视频和游戏，4月在美国开售。发布前业界普遍看衰，乔布斯在发布会上专门演示了它在上网、邮件、相册、电子书等场景的体验。开售后市场反响远超预期，上市不到一个月卖出百万台。乔布斯在发布会上称它是继手机与笔记本之后的第三类设备，并现场演示了窝在沙发里看电子书、收邮件的场景。",
+    "impact": "开创平板电脑品类，把触屏内容消费推向家庭和老人小孩等非典型用户，也为移动互联网内容生态补上大屏入口。",
+    "aftermath": "安卓厂商大规模跟进推出平板；iPad上市当年即售出近1500万台，并长期占据平板市场大头。",
+    "sources": [
+      {
+        "title": "维基百科：IPad (第一代)",
+        "url": "https://zh.wikipedia.org/wiki/IPad_(第一代)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPad",
+      "平板电脑"
+    ]
+  },
+  {
+    "id": "2010-03-01-china-group-buy-boom",
+    "date": "2010-03-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "团购模式登陆中国，『千团大战』开幕",
+    "category": "internet",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "美国Groupon模式传入中国后，美团、拉手网、糯米网等团购网站在2010年如雨后春笋般冒出，『今天你团了吗』成为流行语。到年底全国团购网站已达数千家，资本蜂拥而入，中国互联网史上最惨烈的烧钱大战之一拉开帷幕。",
+    "detail": "美团3月4日率先上线，拉手网、糯米网等随即跟进，『每日一团』的商品折扣模式迅速铺向全国城市。低门槛让创业者蜂拥而入，一年之内涌现数千家团购网站，地推团队在写字楼间贴满广告。行业在爆发的同时也埋下虚假团购、卷款跑路等乱象。团购套餐从餐饮美发覆盖到电影票，中国消费者第一次习惯线上买券、线下核销。",
+    "impact": "团购成为中国O2O的启蒙运动，教育了本地生活服务市场，也创造了烧钱换市场的经典范式。",
+    "aftermath": "2011年Groupon携腾讯入华使战况白热化，随后数年大洗牌，数千家网站倒闭，最终美团、大众点评等极少数玩家胜出。",
+    "sources": [
+      {
+        "title": "维基百科：美团",
+        "url": "https://zh.wikipedia.org/wiki/美团",
+        "type": "wiki"
+      },
+      {
+        "title": "维基百科：拉手网",
+        "url": "https://zh.wikipedia.org/wiki/拉手网",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "团购",
+      "千团大战",
+      "O2O"
+    ]
+  },
+  {
+    "id": "2010-03-04-meituan-founding",
+    "date": "2010-03-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "王兴创办美团网上线",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "校内网、饭否的创造者王兴再次创业，参照美国Groupon模式上线美团网，成为中国内地最早的团购网站。首单上线后成交数十份，这家小网站日后成长为覆盖外卖、到店、酒旅的本地生活超级平台。",
+    "detail": "王兴此前创办的校内网卖给千橡、饭否又遭遇关停，2010年初他把目光投向刚在美国爆红的Groupon，于1月组建团队，3月4日正式上线美团网。早期美团坚持商户审核与消费者先行赔付，在千团大战的乱象中积累了口碑，也奠定『以客户为中心』的经营底色。",
+    "impact": "中国团购行业自此发端，本地生活服务的互联网化有了最早的样板。",
+    "aftermath": "美团在千团大战中活到最后，2015年与大众点评合并，2018年美团点评在港交所上市。",
+    "sources": [
+      {
+        "title": "维基百科：美团",
+        "url": "https://zh.wikipedia.org/wiki/美团",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "美团",
+      "王兴",
+      "团购"
+    ]
+  },
+  {
+    "id": "2010-03-05-qq-100m-concurrent",
+    "date": "2010-03-05",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "QQ同时在线突破1亿：全球第一个亿级IM",
+    "category": "internet",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2010年3月5日晚，腾讯宣布QQ同时在线账户数突破1亿，成为全球首个同时在线破亿的即时通讯平台。一个聊天软件同时挂着一亿人在线，这在当时的全球互联网都是未曾有过的数字，也直观展示了中国网民的规模。",
+    "detail": "腾讯为这一时刻举办了庆祝活动，第1亿个同时在线用户在当晚产生，马化腾与高管团队共同见证。彼时中国网民刚突破4亿，相当于每四个网民就有一人同时挂在QQ上。QQ空间、QQ游戏构成的『在线生活』生态也随用户规模水涨船高。腾讯当晚举办庆祝活动，并借机向网民倡导文明在线礼仪。",
+    "impact": "标志中国互联网用户规模达到世界级体量，腾讯的社交霸主地位进一步巩固。",
+    "aftermath": "QQ同时在线此后继续攀升，并在移动互联网时代通过手机QQ延续国民应用地位。",
+    "sources": [
+      {
+        "title": "维基百科：腾讯QQ",
+        "url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "QQ",
+      "腾讯",
+      "里程碑"
+    ]
+  },
+  {
+    "id": "2010-03-23-galaxy-s-launch",
+    "date": "2010-03-23",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "三星发布GALAXY S，安卓阵营出现真正对手",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "三星在美国发布首款GALAXY S智能手机（i9000），搭载Android系统与艳丽的Super AMOLED屏幕。它是第一款在体验上被认为足以正面抗衡iPhone的安卓手机，三星由此开启与苹果长达数年的双雄对决。",
+    "detail": "GALAXY S轻薄机身配上4英寸Super AMOLED屏，销量迅速突破千万台。三星以机海战术叠加旗舰精品路线，在全球各大运营商同步铺货，为日后GALAXY系列打下根基。iPhone与GALAXY的双旗舰格局，也定义了此后多年智能手机市场的竞争主线。",
+    "impact": "安卓阵营第一次拥有全球级的标杆旗舰，智能手机市场进入苹果、三星两强格局。",
+    "aftermath": "GALAXY系列逐年迭代，三星在2012年后登顶全球手机出货量第一并保持多年。",
+    "sources": [
+      {
+        "title": "维基百科：三星Galaxy S",
+        "url": "https://zh.wikipedia.org/wiki/三星Galaxy_S",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "三星",
+      "安卓",
+      "智能手机"
+    ]
+  },
+  {
+    "id": "2010-04-06-xiaomi-founding",
+    "date": "2010-04-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "雷军创立小米公司",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "40岁的雷军与林斌、黎万强等合伙人在中关村银谷大厦一起喝了碗小米粥，小米公司悄然成立。没有发布会、没有报道，这家小公司先做了个安卓_rom_叫MIUI，一年后将用一款1999元的手机搅动整个中国手机行业。",
+    "detail": "创业团队除雷军外多为谷歌、微软、摩托罗拉背景的工程师。小米选择从MIUI操作系统切入，靠论坛招募发烧友内测，每周五更新，积累了最早的种子用户。『为发烧而生』的互联网手机模式——电商直销、成本定价、用户参与开发——在这段时间成型。创业初期团队挤在银谷大厦办公，雷军刻意保持低调，直到产品成熟才对外官宣。",
+    "impact": "互联网思维做手机的路线由此确立，日后彻底改变中国智能手机的定价与销售逻辑。",
+    "aftermath": "2011年8月小米手机1发布即爆红；2014年小米登顶中国智能手机市场份额第一。",
+    "sources": [
+      {
+        "title": "维基百科：小米公司",
+        "url": "https://zh.wikipedia.org/wiki/小米公司",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "小米",
+      "雷军",
+      "创业"
+    ]
+  },
+  {
+    "id": "2010-05-26-apple-surpasses-microsoft",
+    "date": "2010-05-26",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "苹果市值超越微软：PC时代让位",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "纽约股市收盘时，苹果市值约2220亿美元，首次超过老对手微软的约2190亿美元。两家缠斗三十余年的公司完成权杖交接，市场用真金白银宣告：个人电脑时代落幕，移动互联网时代登基。",
+    "detail": "1997年濒临破产时，微软曾向苹果注资1.5亿美元施以援手；十三年后，靠iPod、iPhone连续命苹果完成反超。当时苹果仅次于埃克森美孚，位居全美市值第二。这场超越被认为是科技产业从桌面计算转向移动计算的标志性时刻。分析师普遍认为，iPhone与iPad的成功让资本市场看到了苹果超越传统硬件公司逻辑的成长性。",
+    "impact": "资本市场重新定价移动生态的价值，全球科技公司纷纷把战略重心转向移动互联网。",
+    "aftermath": "2011年8月苹果超越埃克森美孚成为全球市值第一，此后长期占据这一位置。",
+    "sources": [
+      {
+        "title": "维基百科：Apple Inc.",
+        "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "微软",
+      "市值"
+    ]
+  },
+  {
+    "id": "2010-06-07-iphone-4-launch",
+    "date": "2010-06-07",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "iPhone 4发布：『再一次，改变一切』",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "乔布斯在WWDC上发布iPhone 4：视网膜屏幕、前置摄像头、FaceTime视频通话、玻璃不锈钢机身。它被普遍认为是智能手机设计的分水岭，发布后在全球引发通宵排队，9月引进中国时同样一机难求。",
+    "detail": "iPhone 4的960×640视网膜屏幕让竞品瞬间显得粗糙，前置摄像头让视频通话和自拍成为日常，A4处理器确立了苹果自研芯片的路线。尽管上市初期曝出『天线门』信号争议，依然挡不住抢购热潮，上市三天卖出170万台。纽约、东京的苹果店外连夜排起长队，国内水货价格一度被炒至万元。",
+    "impact": "确立此后数年智能手机的设计标准，移动拍照、视频通话和App生态加速普及；国行版9月25日开售，中国成为苹果最重要的增长市场。",
+    "aftermath": "iPhone 4成为一代神机与情怀符号，苹果借此完成对诺基亚、摩托罗拉等旧王者的超越。",
+    "sources": [
+      {
+        "title": "维基百科：IPhone 4",
+        "url": "https://zh.wikipedia.org/wiki/IPhone_4",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPhone",
+      "智能手机"
+    ]
+  },
+  {
+    "id": "2010-07-01-vancl-meme",
+    "date": "2010-07-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "凡客体爆红：全民PS造梗时代开启",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "凡客诚品的品牌广告『爱网络，爱自由；我不是谁，我是韩寒』被网友疯狂套用改写，PS版本铺满论坛微博，从郭德纲到猫猫狗狗都有了自己的『凡客体』。这是中文互联网第一次全民参与的品牌造梗狂欢。",
+    "detail": "凡客为推广服饰邀请韩寒、王珞丹代言，排比句式的文艺文案意外成为模板，网友批量替换人名与爱好，每天产生数千张版本。凡客的品牌知名度随恶搞浪潮一夜打响，广告投放效果远超预期，但爆红也透支了品牌严肃感。这场狂欢也让『凡客体』一词进入流行语词典，成为当年营销界争相研究的范本。",
+    "impact": "证明网络流行文化可以反向成就商业品牌，『体』式文案成为此后多年营销与社交传播的标准打法。",
+    "aftermath": "凡客此后在资本扩张中陷入库存危机逐渐沉寂；而造梗式传播成为中文互联网的常态文化生产方式。",
+    "sources": [
+      {
+        "title": "维基百科：凡客体",
+        "url": "https://zh.wikipedia.org/wiki/凡客体",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "凡客体",
+      "凡客诚品",
+      "网络流行语"
+    ]
+  },
+  {
+    "id": "2010-07-27-starcraft2-wol-launch",
+    "date": "2010-07-27",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《星际争霸II：自由之翼》全球发售",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "暴雪娱乐的《星际争霸II：自由之翼》在全球同步发售，距离前作已过去12年。首月销量即超300万套，网吧里人族枪兵 rush 的声音再度响起，RTS游戏与电子竞技迎来教科书级的回归。",
+    "detail": "《自由之翼》以人族战役开篇，对战模式继承前作精髓并加入天梯系统，暴雪还为它打造了全新的战网平台。韩国依旧是最狂热的市场，中国玩家则在等待国服获批的日子里涌向外服与网吧。它也孕育了此后直播平台最早的一批游戏解说明星。天梯排位与录像回放功能让普通玩家也能复盘学习，电竞训练方法论自此走向标准化。",
+    "impact": "确立现代电竞天梯与观赛体系的样板，游戏直播文化的重要源头。",
+    "aftermath": "网易代理的国服于2011年上线；《星际2》电竞体系（GSL、WCS）影响深远，尽管RTS品类此后整体衰落。",
+    "sources": [
+      {
+        "title": "维基百科：星际争霸II：自由之翼",
+        "url": "https://zh.wikipedia.org/wiki/星际争霸II：自由之翼",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "星际争霸",
+      "暴雪",
+      "游戏"
+    ]
+  },
+  {
+    "id": "2010-08-12-letv-ipo",
+    "date": "2010-08-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "乐视网登陆创业板：A股第一家视频网站",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "名不见经传的乐视网在深圳创业板上市，成为A股第一家视频网站。当时优酷、土豆还在美国为亏损发愁，靠版权分销默默盈利的乐视已经先敲了钟。这家公司日后将抛出『平台+内容+终端+应用』的庞大故事。",
+    "detail": "乐视网由贾跃亭创立，以网络视频版权分销和付费点播为主业，上市前已实现盈利，正好契合创业板的盈利门槛。上市募资为其囤积版权提供弹药，乐视在版权价格起飞前低位扫货，赚得盆满钵满，也为日后自制与硬件扩张埋下伏笔。上市首日股价大涨，贾跃亭身家随之水涨船高，乐视的资本故事正式开讲。",
+    "impact": "打开中国视频网站的A股资本通道，版权价值被资本市场重新认识。",
+    "aftermath": "乐视2015年市值一度突破1500亿元，2017年资金链断裂，2020年7月从创业板退市，留下『下周回国』的时代记忆。",
+    "sources": [
+      {
+        "title": "维基百科：乐视网",
+        "url": "https://zh.wikipedia.org/wiki/乐视网",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "乐视",
+      "贾跃亭",
+      "上市"
+    ]
+  },
+  {
+    "id": "2010-10-06-instagram-launch",
+    "date": "2010-10-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Instagram上线：手机拍照分享从此不同",
+    "category": "product",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "两个斯坦福毕业生把一款叫Burbn的签到应用改造成纯粹的拍照分享工具，Instagram在苹果App Store上线。滤镜让随手拍变得『高级』，上线首日下载2.5万次，十周用户破百万，手机摄影美学时代开始。",
+    "detail": "凯文·斯特罗姆和迈克·克里格在旧金山一间小办公室里上线了这款免费应用，正方形画幅加复古滤镜成为标志性视觉语言。上传即分享的轻量体验击中了智能手机普及的节点，Instagram迅速成为全球图片社交的代名词。正方形构图与滤镜组合后来被无数产品模仿，成为移动影像美学的通用语言。",
+    "impact": "定义了移动端的图片社交形态，孕育了视觉网红文化，也重塑了摄影与广告行业。",
+    "aftermath": "2012年4月被Facebook以约10亿美元收购，此后成长为全球最重要的社交平台之一。",
+    "sources": [
+      {
+        "title": "维基百科：Instagram",
+        "url": "https://zh.wikipedia.org/wiki/Instagram",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Instagram",
+      "图片社交",
+      "App"
+    ]
+  },
+  {
+    "id": "2010-11-03-3q-war",
+    "date": "2010-11-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "3Q大战爆发：QQ『一个艰难的决定』",
+    "category": "internet",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "奇虎360推出『扣扣保镖』拦截QQ广告与弹窗，腾讯当晚发布公开信，宣布在装有360软件的电脑上停止运行QQ，让数亿用户『二选一』。中国互联网史上最激烈的客户端战争全面爆发，办公室与网吧里一片哀嚎。",
+    "detail": "双方冲突从隐私保护器一路升级：360发布扣扣保镖修改QQ功能，腾讯则以『艰难的决定』回应，强制用户卸载其一。数亿网民被迫在电脑前做选择题，各大门户和论坛沸反盈天。闹剧数日后以双方软件恢复兼容告一段落，随后两家公司展开了长达四年的连环诉讼。数年后回望，这场大战被视为中国互联网从野蛮生长走向规则博弈的成人礼。",
+    "impact": "让『客户端垄断』『用户权益』成为行业公共议题，也成为中国互联网竞争生态的分水岭事件。",
+    "aftermath": "最高法2014年终审认定QQ『二选一』不构成垄断、360败诉；腾讯痛定思痛转向开放平台战略，为日后投资生态铺路。",
+    "sources": [
+      {
+        "title": "维基百科：3Q大战",
+        "url": "https://zh.wikipedia.org/wiki/3Q大战",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "3Q大战",
+      "腾讯",
+      "360"
+    ]
+  },
+  {
+    "id": "2010-11-04-kinect-launch",
+    "date": "2010-11-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "微软Kinect发售：扔掉手柄玩体感",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "微软为Xbox 360推出体感外设Kinect，在北美开售。玩家无需任何手柄，站在电视前挥手踢腿就能操控游戏，全家老小都能上手。这个『把人变成手柄』的设备上市60天狂卖800万台，创下当时消费电子销售速度纪录。",
+    "detail": "Kinect集成了深度摄像头、彩色摄像头与麦克风阵列，能识别人体骨骼动作与语音。《Kinect冒险》等合家欢游戏让它成为节日爆款，极客们还把它破解接到电脑上做各种奇怪实验，意外带火了消费级体感技术的开源生态。极客社区随后破解其接口用于机器人视觉研究，意外推动了消费级深度传感的生态。",
+    "impact": "体感交互首次大规模进入家庭，被视为游戏之外机器人、视觉技术领域的意外推手。",
+    "aftermath": "60天800万台的销量被吉尼斯纪录收录；Kinect后来推出Windows版用于行业，但二代之后微软停止了该产品线。",
+    "sources": [
+      {
+        "title": "维基百科：Kinect",
+        "url": "https://zh.wikipedia.org/wiki/Kinect",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微软",
+      "Xbox",
+      "体感"
+    ]
+  },
+  {
+    "id": "2010-12-08-youku-dangdang-ipo",
+    "date": "2010-12-08",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "优酷、当当同日登陆纽交所",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "12月8日晚，视频网站优酷与图书电商当当网同一天在纽约证券交易所挂牌。优酷上市首日暴涨约161%，创当年美国IPO首日涨幅纪录，当当大涨近九成，中国互联网公司掀起新一轮赴美上市热潮。",
+    "detail": "优酷以『中国YouTube+Hulu』的故事融资约2.3亿美元，市值一度超过行业老二土豆近一倍；老牌B2C当当则带着十年坚守的电商成绩单敲钟。同日双响的盛况让2010年被称为中国互联网公司的『上市大年』，麦考林、优酷、当当等接连出海。投资人排队认购的盛况，让此后一年的中概股赴美窗口被挤到水泄不通。",
+    "impact": "视频与电商两大赛道完成资本化标志性一跃，中概股在美迎来高光时刻。",
+    "aftermath": "优酷2012年与土豆合并，2016年被阿里全资收购；当当2016年私有化退市。",
+    "sources": [
+      {
+        "title": "维基百科：优酷",
+        "url": "https://zh.wikipedia.org/wiki/优酷",
+        "type": "wiki"
+      },
+      {
+        "title": "维基百科：当当网",
+        "url": "https://zh.wikipedia.org/wiki/当当网",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "优酷",
+      "当当",
+      "上市"
+    ]
+  },
+  {
+    "id": "2011-01-26-zhihu-launch",
+    "date": "2011-01-26",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "知乎上线：邀请制问答社区开门",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "前媒体人周源创办的问答社区知乎正式上线，早期采用邀请制，聚集了一批互联网从业者和专业人士。『发现更大的世界』的slogan之下，认真、专业的长回答慢慢成为知乎的底色。",
+    "detail": "知乎脱胎于周源此前的创业尝试，对标美国Quora。邀请制让早期社区几乎全是各行业从业者，李开复等名人入驻带来关注度，高质量问答形成口碑。此后两年邀请码一度一码难求，知乎也成为中国互联网最接近『认真讨论』的地方。李开复等投资人相继留下长回答，早期社区的知识浓度成为知乎此后扩张的信用资产。",
+    "impact": "为中国互联网补上了专业问答社区的空位，此后多年成为中文互联网重要内容策源地。",
+    "aftermath": "2013年知乎开放注册用户暴涨；此后推出盐选会员转型商业化，并于2021年赴美上市、2022年回港双重上市。",
+    "sources": [
+      {
+        "title": "维基百科：知乎",
+        "url": "https://zh.wikipedia.org/wiki/知乎",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "知乎",
+      "周源",
+      "问答社区"
+    ]
+  },
+  {
+    "id": "2011-02-01-gaopeng-launch",
+    "date": "2011-02-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "Groupon联手腾讯推高朋网，洋团购空降中国",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "全球团购鼻祖Groupon携腾讯、云锋基金合资的高朋网高调入华，宣布将在数月内招募上千名销售。彼时中国团购网站已达数千家，国际巨头压境让千团大战进一步白热化。，一场烧钱教育市场的豪赌就此开场",
+    "detail": "Groupon此前拒绝谷歌60亿美元收购要约后转而冲刺上市，把中国当作增长故事的关键一章，开出数倍薪水从美团、拉手挖角。然而高朋水土不服：本地化迟缓、团队内耗，加上本地对手价格战凶悍，规模始终未能进入第一梯队。上线初期高朋以数倍薪水从对手挖角上千名销售，地推网络在数月内铺向全国数十个城市。",
+    "impact": "外资互联网公司携资本与模式强势入华的典型样本，也宣告千团大战进入最残酷阶段。",
+    "aftermath": "高朋此后与腾讯系团购资产整合，最终淡出主流市场；Groupon的全球扩张神话也在上市后破灭。",
+    "sources": [
+      {
+        "title": "维基百科：Groupon",
+        "url": "https://en.wikipedia.org/wiki/Groupon",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "高朋网",
+      "Groupon",
+      "腾讯"
+    ]
+  },
+  {
+    "id": "2011-02-11-nokia-microsoft-alliance",
+    "date": "2011-02-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "诺基亚宣布与微软结盟，塞班时代进入倒计时",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "新任CEO埃洛普宣布：诺基亚智能手机全面转向微软Windows Phone，自家塞班与MeeGo被边缘化。这份『改换门庭』声明震惊业界，被视为手机史上最悲壮的战略转身之一。",
+    "detail": "彼时诺基亚仍是全球手机销量霸主，但在智能手机战场被iPhone与安卓步步蚕食。埃洛普以『燃烧的平台』喻局放弃自研系统改押Windows Phone，试图借差异化翻身。然而生态迁移期漫长，Lumia系列叫好不叫座，诺基亚的智能机份额在结盟后继续崩塌。",
+    "impact": "功能机霸主亲手关闭自研系统大门，移动操作系统自此形成iOS与安卓双寡头格局。",
+    "aftermath": "2013年9月微软宣布以约72亿美元收购诺基亚手机业务，2016年该业务又被打包转卖，诺基亚品牌手机自此由HMD授权运营。",
+    "sources": [
+      {
+        "title": "维基百科：诺基亚",
+        "url": "https://zh.wikipedia.org/wiki/诺基亚",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "诺基亚",
+      "微软",
+      "Windows Phone"
+    ]
+  },
+  {
+    "id": "2011-05-04-renren-ipo",
+    "date": "2011-05-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "人人网登陆纽交所：『中国Facebook』上市即巅峰",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "校园社交网站人人公司登陆纽交所，发行价14美元，上市首日市值一度超70亿美元。顶着『中国版Facebook』光环的人人风头无两，但这几乎成为它此后的最高光时刻。",
+    "detail": "人人前身是王兴创办的校内网，2006年卖身千橡后更名，覆盖了中国最庞大的高校学生群体。赴美上市讲述社交+游戏+团购的复合故事，募资约7.4亿美元。然而上市后用户活跃持续走低，移动转型迟缓，股价一路阴跌。招股书披露的用户数据支撑起社交加游戏的复合想象，但移动端的迟钝很快显露。",
+    "impact": "中国社交网络资本化的标志性事件，也是『上市即巅峰』的教科书案例。",
+    "aftermath": "人人此后出售游戏资产、转型投资与直播均未见起色，2018年人人网社交平台作价2000万美元卖身多牛传媒。",
+    "sources": [
+      {
+        "title": "维基百科：人人公司",
+        "url": "https://zh.wikipedia.org/wiki/人人公司",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "人人网",
+      "上市",
+      "社交"
+    ]
+  },
+  {
+    "id": "2011-05-10-microsoft-buys-skype",
+    "date": "2011-05-10",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "微软85亿美元收购Skype",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "微软宣布以85亿美元现金收购网络电话公司Skype，创下当时微软收购金额纪录。一家成立仅八年的互联网通话公司卖出天价，微软则终于为旗下产品补上了网络通话与视频能力。",
+    "detail": "Skype由爱沙尼亚工程师团队创造，巅峰期注册用户数亿，是全球网络通话的代名词，先后辗转eBay与私募基金之手。微软表态将把Skype整合进Windows、Office、Xbox等产品线，看好企业通信市场。这笔交易也让业内对『语音通信入口』的价值有了新的想象。",
+    "impact": "互联网通信赛道被巨头重估，VoIP从极客玩具变成企业级标配能力。",
+    "aftermath": "Skype此后未能抵挡移动端WhatsApp等冲击，微软转向自研Teams，Skype于2025年正式关停。",
+    "sources": [
+      {
+        "title": "维基百科：Skype",
+        "url": "https://en.wikipedia.org/wiki/Skype",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微软",
+      "Skype",
+      "并购"
+    ]
+  },
+  {
+    "id": "2011-06-23-line-launch",
+    "date": "2011-06-23",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Line上线：贴图聊天席卷东亚",
+    "category": "product",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "日本3·11大地震后通信瘫痪催生的IM应用Line正式上线，凭借可爱贴图表情迅速引爆日本市场，随后席卷泰国、台湾、印尼等地。卖表情贴图的商业模式让它成为最会赚钱的聊天App之一。",
+    "detail": "Line由韩国Naver旗下日本子公司开发，地震后电话线路拥堵让人们转向网络通信。Line抓住机会用『贴图商店』做出差异化——付费表情包既贡献收入又形成社交货币，后来又叠加游戏、漫画、支付，走出『社交+娱乐』的超级App路线。日本地震后的通信瘫痪是其直接诱因，免费网络通话在灾难中显示出刚需属性。",
+    "impact": "证明IM可以靠虚拟商品赚钱，贴图文化深刻影响了东亚网络表达方式。",
+    "aftermath": "Line于2016年在纽交所和东京双重上市，2021年与日本雅虎合并为LY集团，仍是日本第一大聊天应用。",
+    "sources": [
+      {
+        "title": "维基百科：LINE",
+        "url": "https://zh.wikipedia.org/wiki/LINE",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Line",
+      "Naver",
+      "贴图"
+    ]
+  },
+  {
+    "id": "2011-08-03-momo-launch",
+    "date": "2011-08-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "陌陌上线：基于LBS的陌生人社交",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "前网易总编辑唐岩创办的陌陌在苹果App Store上线，主打基于地理位置的陌生人交友。『发现附近的人』击中了城市青年的孤独感，陌陌迅速成为中国陌生人社交的头号玩家。",
+    "detail": "唐岩带着网易旧部雷小亮、李志威创业，3月组队、7月注册公司、8月3日产品上线。彼时微信尚未普及附近的人，陌陌以精准的LBS切角切入，上线一年用户破千万。尽管长期背负暧昧标签，陌陌依然证明了陌生人社交的商业价值。上线初期靠微博营销与口碑裂变起量，男女用户比例失衡一度成为行业讨论话题。",
+    "impact": "开创中国LBS陌生人社交赛道，与微信形成熟人、陌生人两极。",
+    "aftermath": "陌陌于2014年12月登陆纳斯达克，此后靠直播业务扭亏为盈，2018年收购探探巩固地位。",
+    "sources": [
+      {
+        "title": "维基百科：陌陌",
+        "url": "https://zh.wikipedia.org/wiki/陌陌",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "陌陌",
+      "唐岩",
+      "陌生人社交"
+    ]
+  },
+  {
+    "id": "2011-08-15-google-buys-motorola",
+    "date": "2011-08-15",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "谷歌125亿美元收购摩托罗拉移动",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "谷歌宣布以约125亿美元现金收购摩托罗拉移动，溢价高达六成。明面上买手机，实际上主要买的是1.7万项专利——安卓生态正深陷专利战，谷歌需要一副盔甲。，一场以专利为名的豪赌就此开场",
+    "detail": "彼时苹果、微软阵营正用专利诉讼围剿安卓厂商，HTC、三星疲于应付。谷歌出手买下拥有深厚通信专利积累的摩托罗拉移动，为整个安卓阵营撑起保护伞。交易2012年完成后，谷歌短暂亲自造机，又很快把手机业务转手联想。安卓阵营为此松了一口气，随后多起针对安卓的专利诉讼以和解或败诉收场。",
+    "impact": "移动行业专利军备竞赛的标志性事件，安卓生态的专利防御从此稳固。",
+    "aftermath": "2014年谷歌将摩托罗拉手机业务以29亿美元卖给联想，只留下专利；摩托品牌在联想手中继续沉浮。",
+    "sources": [
+      {
+        "title": "维基百科：摩托罗拉移动",
+        "url": "https://zh.wikipedia.org/wiki/摩托罗拉移动",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "谷歌",
+      "摩托罗拉",
+      "专利"
+    ]
+  },
+  {
+    "id": "2011-08-16-xiaomi-mi1-launch",
+    "date": "2011-08-16",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "小米手机1发布：1999元改写行业定价",
+    "category": "hardware",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "北京798艺术区，雷军穿着黑T恤牛仔裤登场，发布搭载双核处理器的小米手机1——顶级配置只卖1999元，现场观众起立鼓掌。发布会像个明星演唱会，『为发烧而生』的互联网手机正式登场。",
+    "detail": "小米1对标当时三四千元的国际旗舰，用电商直销砍掉渠道成本，用MIUI吸收几十万发烧友的反馈每周迭代。首批30万台预约盛况空前，此后的开放购买屡屡几分钟售罄，『饥饿营销』成为绕不开的标签。国产手机厂商被迫全面转向互联网打法。雷军在台上回顾40岁再创业的心境，后来广为流传的『站在风口上』名言也以这场发布会为背景。",
+    "impact": "中国智能手机进入高配低价时代，运营商定制机模式被颠覆，也为后来华为、OPPO等的崛起培养了用户习惯。",
+    "aftermath": "小米此后四年把年销量做到6000万台以上，2014年登顶中国市场份额第一。",
+    "sources": [
+      {
+        "title": "维基百科：小米公司",
+        "url": "https://zh.wikipedia.org/wiki/小米公司",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "小米",
+      "雷军",
+      "互联网手机"
+    ]
+  },
+  {
+    "id": "2011-09-01-snapchat-launch",
+    "date": "2011-09-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "Snapchat上线：阅后即焚挑战永久记录",
+    "category": "product",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "三名斯坦福学生的『阅后即焚』照片应用Snapchat上线，照片看完几秒即消失。它反常规的设计切中了年轻人对『永久记录』的疲惫，很快在美国青少年中疯传，社交网络第一次出现『反永久化』浪潮。",
+    "detail": "应用最初叫Picaboo，改名Snapchat后于2011年9月重新上架。拍下照片、设定消失时间、发给好友——简单到近乎简陋的功能却击中了青少年的社交痛点。方脸小幽灵图标成为一代美国年轻人的身份符号，Facebook随后推出的同类功能Poke也未能撼动它。",
+    "impact": "定义了『阅后即焚』的社交形态，证明年轻人永远愿意为反主流的体验迁移阵地。",
+    "aftermath": "Snapchat曾拒绝Facebook三十亿美元的收购，2017年以Snap名义上市，长期是Z世代核心社交平台。",
+    "sources": [
+      {
+        "title": "维基百科：Snapchat",
+        "url": "https://zh.wikipedia.org/wiki/Snapchat",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Snapchat",
+      "阅后即焚",
+      "社交"
+    ]
+  },
+  {
+    "id": "2011-09-22-lol-cn-launch",
+    "date": "2011-09-22",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《英雄联盟》国服上线：网吧将被它占领",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "腾讯代理的《英雄联盟》在中国大陆上线。这款5v5竞技游戏上手门槛低于DotA、节奏更快，迅速横扫全国网吧，两年后注册用户破亿，开启了中国电竞的全民时代。，网吧的点卡与饮料生意随之水涨船高",
+    "detail": "Riot Games开发的LOL此前已在欧美站稳脚跟，腾讯2011年完成对其的控股收购后将国服交由腾讯游戏运营。易上手的操作、免费游玩加皮肤付费的模式，让它同时征服了休闲与竞技玩家。S系列全球总决赛逐渐成为游戏界收视冠军，中国战队与玩家投入急剧升温。",
+    "impact": "推动电子竞技从边缘走向主流，为中国电竞产业和直播行业输送了最庞大的用户基本盘。",
+    "aftermath": "中国战队于2018年、2021年两夺S赛冠军；LOL长期位居全球网吧占有率与电竞收视榜首。",
+    "sources": [
+      {
+        "title": "维基百科：英雄联盟",
+        "url": "https://zh.wikipedia.org/wiki/英雄联盟",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "英雄联盟",
+      "腾讯",
+      "电竞"
+    ]
+  },
+  {
+    "id": "2011-09-28-kindle-fire-launch",
+    "date": "2011-09-28",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "亚马逊发布Kindle Fire：199美元的平板炸弹",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "贝索斯在纽约发布会上亮出7英寸的Kindle Fire——售价仅199美元，约为iPad的一半。亚马逊用亏本卖硬件、靠内容赚钱的打法硬闯平板市场，媒体称之为『iPad首个真正对手』。",
+    "detail": "Kindle Fire深度绑定亚马逊的图书、影音与应用商店，用内容补贴硬件。上市首季即卖出数百万台，成为iPad之外唯一有量级的安卓平板。不过低配的硬件与封闭生态也限制了它的后续竞争力。贝索斯称这是纸面书发明以来最重要的阅读革新，系统基于安卓深度定制而成。",
+    "impact": "证明低价内容型平板的市场存在，逼迫整个安卓平板阵营重新定价。",
+    "aftermath": "Fire系列此后长期占据美国安卓平板大头，但始终未能撼动iPad的统治地位。",
+    "sources": [
+      {
+        "title": "维基百科：Kindle Fire",
+        "url": "https://en.wikipedia.org/wiki/Kindle_Fire",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "亚马逊",
+      "Kindle",
+      "平板"
+    ]
+  },
+  {
+    "id": "2011-10-04-iphone-4s-siri",
+    "date": "2011-10-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "iPhone 4S发布，Siri语音助手登场",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "苹果发布iPhone 4S，外观与上代几乎一致，最大亮点是能对话的语音助手Siri——你可以问她天气、让她定闹钟，她还会讲冷笑话。语音交互第一次成为大众手机功能，发布次日乔布斯逝世的消息让这场发布会更添唏嘘。",
+    "detail": "Siri源自苹果2010年收购的同名公司，iPhone 4S将其作为独家功能推出，引发全球用户疯狂调戏。尽管识别率和中文支持有限，Siri仍被普遍视为消费级语音助手的开端，此后各家科技公司的语音助手全面跟进。次日凌晨讣告发布后，这场发布会的视频被网友反复回看，成为纪念乔布斯的最后影像之一。",
+    "impact": "开启消费级语音交互时代，为后来智能音箱与AI助手的爆发埋下伏笔。",
+    "aftermath": "Siri此后陆续支持中文并登陆Mac、HomePod，语音助手成为手机标配。",
+    "sources": [
+      {
+        "title": "维基百科：IPhone 4S",
+        "url": "https://zh.wikipedia.org/wiki/IPhone_4S",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "Siri",
+      "语音助手"
+    ]
+  },
+  {
+    "id": "2011-10-05-steve-jobs-dies",
+    "date": "2011-10-05",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "乔布斯逝世：全球科技圈同日致哀",
+    "category": "tech",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "苹果官网用一张黑白照片宣布联合创始人史蒂夫·乔布斯去世，享年56岁。iPhone 4S发布仅一天后，这位把苹果从破产边缘带成世界市值之王的人走完一生，全球果粉涌向苹果门店献花致哀。",
+    "detail": "乔布斯此前因胰腺癌多次病休，8月刚刚辞去CEO职务。他缔造了Apple II、Macintosh、iPod、iPhone、iPad等改变世界的产品，『Stay hungry, stay foolish』的斯坦福演讲在中文网络疯转。微博上数百万中国网友留言悼念，北京中关村苹果店外也有人摆上鲜花和苹果。",
+    "impact": "一个时代的落幕仪式，乔布斯被视为硅谷创业精神与产品美学的全球符号。",
+    "aftermath": "库克执掌的苹果市值此后增长数倍；乔布斯传记与纪录片持续畅销，『乔布斯方法论』仍是全球产品经理的必修课。",
+    "sources": [
+      {
+        "title": "维基百科：史蒂夫·乔布斯",
+        "url": "https://zh.wikipedia.org/wiki/史蒂夫·乔布斯",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "乔布斯",
+      "苹果",
+      "人物"
+    ]
+  },
+  {
+    "id": "2011-11-01-empresses-in-the-palace-airing",
+    "date": "2011-11-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "《甄嬛传》开播：宫斗剧天花板诞生",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "郑晓龙执导、孙俪主演的《后宫甄嬛传》2011年11月起在地方频道首播，次年上星后火遍全国。76集的体量、严谨的台词与人物塑造让它成为宫斗剧天花板，『甄嬛体』也一度刷屏网络。",
+    "detail": "改编自流潋紫同名小说，剧集以雍正朝后宫为舞台，讲述甄嬛从单纯少女到腹黑太后的转变。精良的制作与大量可考的礼制细节让观众反复咀嚼，『臣妾做不到啊』等台词成为全民梗。此后多年它一直是电视台寒暑假重播常客。上星后收视率一路走高，此后十年间重播次数以千计，被网友戏称为电子榨菜的鼻祖。",
+    "impact": "把宫斗剧推向制作与口碑的巅峰，也带动古装剧精品化与长视频平台的独播竞争。",
+    "aftermath": "《甄嬛传》长年稳居视频平台重播与解构榜前列，衍生剪辑与考据成为互联网常青内容。",
+    "sources": [
+      {
+        "title": "维基百科：后宫甄嬛传 (电视剧)",
+        "url": "https://zh.wikipedia.org/wiki/后宫甄嬛传_(电视剧)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "甄嬛传",
+      "电视剧",
+      "宫斗剧"
+    ]
+  },
+  {
+    "id": "2011-11-08-love-is-not-blind",
+    "date": "2011-11-08",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "《失恋33天》上映：小成本黑马奇迹",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "改编自豆瓣人气小说的《失恋33天》11月8日上映，900万成本最终卷走3.5亿票房，成为当年最大的票房黑马。『失恋』话题戳中都市年轻人，也宣告国产小妞电影与社交媒体营销时代的到来。",
+    "detail": "影片由滕华涛执导、文章与白百何主演，讲述失恋女孩在毒舌男闺蜜陪伴下走出情伤。上映恰逢世纪光棍节档期，片方借微博话题营销精准引爆，排片与口碑互相推高。此后『光棍节档』成为片方必争之地，白百何也一跃成为小妞电影代言人。文章与白百何的『毒舌闺蜜』人设深入人心，豆瓣原著粉丝与影院观众形成口碑共振。",
+    "impact": "证明社交媒体话题营销可以左右票房，中小成本爱情片迎来黄金期。",
+    "aftermath": "此后数年国产爱情片扎堆光棍档，豆瓣IP改编与话题营销成为行业标配。",
+    "sources": [
+      {
+        "title": "维基百科：失恋33天",
+        "url": "https://zh.wikipedia.org/wiki/失恋33天",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "失恋33天",
+      "电影",
+      "光棍节"
+    ]
+  },
+  {
+    "id": "2012-01-11-tmall-rebranding",
+    "date": "2012-01-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "淘宝商城更名天猫：B2C品牌独立之战",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "淘宝商城在北京举行战略发布会，宣布更名为『天猫』。这个名字最初被网友吐槽像猫粮品牌，但阿里巴巴铁了心要把B2C业务与C2C的淘宝切开，再造一个服务品牌商家的高端商场。",
+    "detail": "更名源于淘宝分拆为淘宝网、天猫、一淘三家的架构调整。天猫借卡通猫形象快速建立品牌认知，双十一、商品品质与商家体系都逐渐与淘宝区分。天猫独立后承接了阿里B2C的全部野心，此后双十一的成交神话都刻在天猫名下。更名当天天猫还公布了升级的商家服务体系，红脸猫形象迅速铺满线上线下广告位。",
+    "impact": "中国B2C电商与C2C平台正式分野，品牌商线上化提速。",
+    "aftermath": "天猫成为阿里营收与品牌化的核心引擎，双十一逐年膨胀，天猫精灵、天猫超市等子品牌相继长出。",
+    "sources": [
+      {
+        "title": "维基百科：天猫",
+        "url": "https://zh.wikipedia.org/wiki/天猫",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "天猫",
+      "阿里",
+      "电商"
+    ]
+  },
+  {
+    "id": "2012-02-29-raspberry-pi-launch",
+    "date": "2012-02-29",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "树莓派开售：35美元的小电脑改变创客世界",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "英国剑桥的工程师们推出只有信用卡大小的树莓派电脑，定价35美元，原本只想给穷学生做台学编程的机器。开售当天网站被挤爆，首批一万台瞬间售罄，一场席卷全球的创客运动就此点燃。",
+    "detail": "树莓派基金会由剑桥大学计算机实验室的埃本·厄普顿等人发起，瞄准英国中小学生计算机水平下滑的问题。Linux系统加GPIO接口让它既能当玩具又能做自动化项目，爱好者用它做出复古游戏机、家庭服务器、智能家居中控，开发板品类自此爆发。首批生产的一万台在几分钟内被抢空，经销商网站一度因流量过载而瘫痪。",
+    "impact": "把编程和硬件制造民主化到人人可玩，成为全球创客教育与极客项目的标配。",
+    "aftermath": "树莓派累计销量数千万台，衍生出从零瓦服务器到工业网关的海量玩法，创客文化由此进入学校与车库。",
+    "sources": [
+      {
+        "title": "维基百科：Raspberry Pi",
+        "url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "树莓派",
+      "创客",
+      "开源硬件"
+    ]
+  },
+  {
+    "id": "2012-03-12-youku-tudou-merger",
+    "date": "2012-03-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "优酷土豆宣布合并：视频行业十年恩怨落地",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "缠斗了七年的优酷与土豆宣布以100%换股方式合并，古永锵出任CEO，王微转身离开。中国视频行业从『十国大战』迅速收敛为优酷土豆一家独大加几家豪门阵营，版权价格战暂告段落。",
+    "detail": "两家长期互撕市场份额与版权，合并由资本撮合完成，土豆股东拿约28.5%股份。合并后带宽与版权成本骤降，但内容差异也消失，土豆品牌逐渐边缘化。此后视频行业变成BAT的棋局：爱奇艺背靠百度、腾讯视频自带流量、搜狐视频孤军奋战。合并宣布当天两家员工的情绪五味杂陈，多年互撕的版权官司也一并了结。",
+    "impact": "中国视频网站烧钱大战降温，行业格局从群雄混战转向巨头阵营对垒。",
+    "aftermath": "优酷土豆2016年被阿里全资收购；王微转行动画创业，做出《小门神》等作品。",
+    "sources": [
+      {
+        "title": "维基百科：优酷",
+        "url": "https://zh.wikipedia.org/wiki/优酷",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "优酷",
+      "土豆",
+      "视频"
+    ]
+  },
+  {
+    "id": "2012-04-04-google-glass-unveil",
+    "date": "2012-04-04",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "谷歌公布智能眼镜Project Glass：戴上未来",
+    "category": "tech",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "谷歌发布智能眼镜Project Glass的概念视频：第一视角拍照、导航、信息提醒都浮现在眼前镜片上。这段『一天 戴着它生活』的视频瞬间刷屏，可穿戴设备的未来图景第一次如此具体。",
+    "detail": "谷歌X实验室的这款产品把微型投影、摄像头与语音交互装进眼镜框，创始成员包括后来以AR著称的工程师。次年谷歌以1500美元『探索者』价向开发者发售，骑楼跳伞发布会直播震惊全场，但续航、隐私争议与1500美元定价最终让消费版搁浅。概念视频里滑板、跳伞、点餐的第一视角画面，被视作可穿戴设备的启蒙教材。",
+    "impact": "引爆全球可穿戴设备热潮，AR/VR概念从此进入大众视野。",
+    "aftermath": "消费版谷歌眼镜2015年停产，企业版转向工厂物流等专业场景；整个行业转向VR头显与智能手表。",
+    "sources": [
+      {
+        "title": "维基百科：Google眼镜",
+        "url": "https://zh.wikipedia.org/wiki/Google眼镜",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "谷歌",
+      "智能眼镜",
+      "可穿戴"
+    ]
+  },
+  {
+    "id": "2012-04-09-instagram-acquired",
+    "date": "2012-04-09",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Facebook十亿美元收购Instagram",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "成立仅551天、员工13人的Instagram被Facebook以约10亿美元收购，扎克伯格亲手签下这桩当年最轰动的并购。一家没有收入的照片应用卖出天价，移动互联网的估值逻辑被彻底改写。",
+    "detail": "收购公布时Instagram刚登陆安卓一周，用户3000万且仍在暴涨，扎克伯格担心它成为移动端威胁，选择用股票溢价买下潜在对手。这笔交易后来被普遍视为史上最划算的收购之一——Instagram如今贡献了Facebook集团近半的广告收入。这笔交易让硅谷重新审视移动照片赛道的价值，滤镜类应用的融资随之升温。",
+    "impact": "确立『宁可买贵不可买错』的巨头防御性并购范式，图片社交的价值被资本市场重估。",
+    "aftermath": "Instagram此后推出 Stories 等功能反超竞品，成长为全球最大的图片视频社区。",
+    "sources": [
+      {
+        "title": "维基百科：Instagram",
+        "url": "https://zh.wikipedia.org/wiki/Instagram",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Facebook",
+      "Instagram",
+      "并购"
+    ]
+  },
+  {
+    "id": "2012-04-19-wechat-moments",
+    "date": "2012-04-19",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "微信4.0上线朋友圈：熟人社交的封闭花园",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "微信4.0版本带来『朋友圈』——只能看到共同好友点赞评论的封闭时间线。它把QQ空间的喧嚣挡在门外，用户第一次敢在社交网络发真正的自己。朋友圈从此成为中国人线上生活的中央广场。",
+    "detail": "朋友圈的『共同好友可见』设计被认为是中国社交产品史上最精妙的决策之一：它既保证了分享欲，又限制了尴尬外溢。配合图片分享与后来的小视频，微信从通讯工具升级为生活方式，微博的公开广场模式受到明显分流。用户在朋友圈晒美食、晒旅行、晒娃，中国式线上表达自此有了固定舞台。",
+    "impact": "确立熟人私密社交范式，改写中国用户的线上表达习惯与内容分发格局。",
+    "aftermath": "朋友圈此后叠加广告、视频动态、直播入口，『发朋友圈』成为全民行为，也催生了『朋友圈焦虑』的社会话题。",
+    "sources": [
+      {
+        "title": "维基百科：微信",
+        "url": "https://zh.wikipedia.org/wiki/微信",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微信",
+      "朋友圈",
+      "社交"
+    ]
+  },
+  {
+    "id": "2012-05-01-smartisan-founding",
+    "date": "2012-05-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "罗永浩创办锤子科技",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "以『西门子冰箱事件』和英语培训闻名的前教师罗永浩宣布做手机，锤子科技在北京成立。一个相声式发布会的理想主义者闯进硬件红海，此后五年的悲喜故事从这里开始。，一场理想主义的硬件实验就此开场",
+    "detail": "罗永浩拉来前摩托罗拉工程师钱晨等组建团队，定下『工匠精神』的产品哲学。2012年他四处融资四处碰壁，靠个人感召力聚拢了第一批信徒。锤子后来推出的Smartisan OS以拟物化设计与效率功能赢得小众赞誉，但硬件之路始终坎坷。罗永浩后来多次回忆创业初期的融资艰辛，靠个人感召力与借款维持团队运转。",
+    "impact": "为国产手机行业注入罕见的『产品叙事』文化，发布会本身成为流量事件。",
+    "aftermath": "锤子2018年爆出资金危机，团队与专利被字节跳动接盘，罗永浩转行直播带货还债。",
+    "sources": [
+      {
+        "title": "维基百科：锤子科技",
+        "url": "https://zh.wikipedia.org/wiki/锤子科技",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "锤子科技",
+      "罗永浩",
+      "手机"
+    ]
+  },
+  {
+    "id": "2012-05-14-a-bite-of-china-premiere",
+    "date": "2012-05-14",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《舌尖上的中国》首播：纪录片意外爆红",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "深夜播出的美食纪录片《舌尖上的中国》在央视一套开播，本是小众栏目实验，却意外红遍全网。夜里看『舌尖』饿到睡不着成为全民体验，淘宝上片中食材被瞬间买断货。，一档深夜纪录片意外成为全民话题",
+    "detail": "总导演陈晓卿用人物故事串起中国各地的食材与烹饪，文案与配乐被赞『文学级』。它打破了纪录片没人看的成见，深夜档口口相传形成刷屏效应，片中出现的诺邓火腿、云南菌菇等特产电商随即卖断货，被称为纪录片带火电商的第一案例。片中出现的各地食材在电商平台瞬间卖断货，『舌尖同款』成为电商搜索热词。",
+    "impact": "开创『美食+人文』纪录片的爆款范式，让主旋律纪录片第一次成为社交话题。",
+    "aftermath": "《舌尖》拍到第四季，各大平台跟进美食纪录片；『舌尖体』文案一度泛滥。",
+    "sources": [
+      {
+        "title": "维基百科：舌尖上的中国",
+        "url": "https://zh.wikipedia.org/wiki/舌尖上的中国",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "舌尖上的中国",
+      "纪录片",
+      "美食"
+    ]
+  },
+  {
+    "id": "2012-05-18-facebook-ipo",
+    "date": "2012-05-18",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Facebook登陆纳斯达克：史上最大科技IPO之一",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "28岁的扎克伯格在自家办公室远程按下开市按钮，Facebook以1040亿美元估值上市，融资160亿美元，创下当时科技股IPO之最。首日交易因系统故障一度混乱，这家社交巨头的资本时代正式开场。",
+    "detail": "Facebook上市前拥有9亿用户，IPO定价38美元、募资160亿美元，是当时美国历史上规模最大的科技公司上市之一。上市首日纳斯的电子交易系统出现故障导致成交确认延迟，随后数月股价一度腰斩，让许多投资人质疑社交网络的真实价值。扎克伯格当天身着标志性的连帽衫，没有出现在交易所现场，只在公司总部按下开市按钮。",
+    "impact": "社交网络的商业模式经受住资本检验，此后广告效率提升带动股价与市值长期攀升。",
+    "aftermath": "Facebook后来陆续吞并Instagram与WhatsApp，2021年更名Meta转向元宇宙叙事。",
+    "sources": [
+      {
+        "title": "维基百科：Facebook",
+        "url": "https://zh.wikipedia.org/wiki/Facebook",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Facebook",
+      "扎克伯格",
+      "上市"
+    ]
+  },
+  {
+    "id": "2012-06-18-surface-unveil",
+    "date": "2012-06-18",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "微软发布Surface：软厂亲手做硬件",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "微软在洛杉矶秘密发布会推出自有品牌平板Surface，配备标志性的触摸键盘盖。做软件的微软第一次大规模亲自下场造硬件，与自家OEM伙伴同台竞技，行业哗然。，软硬一体的豪谋就此开牌",
+    "detail": "Surface RT搭载为触屏重造的Windows RT，Surface Pro则塞进完整Windows 8，试图用『平板+笔记本二合一』对抗iPad与超极本。键盘盖成为设计经典，但早期产品定价与体验摇摆，市场反响平平。直到Surface Pro 3之后，二合一形态才真正立住。",
+    "impact": "微软硬件化转型的起点，定义了平板笔记本二合一品类。",
+    "aftermath": "Surface成为OEM的『参考设计』，微软后续还做出Xbox之外的鼠标、耳机等硬件矩阵。",
+    "sources": [
+      {
+        "title": "维基百科：Microsoft Surface",
+        "url": "https://zh.wikipedia.org/wiki/Microsoft_Surface",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微软",
+      "Surface",
+      "平板"
+    ]
+  },
+  {
+    "id": "2012-07-13-voice-of-china-premiere",
+    "date": "2012-07-13",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《中国好声音》首播：选秀综艺的国民级爆款",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "荷兰模式《The Voice》的中国版登陆浙江卫视，四位导师背对选手转椅抢人。首播即爆，吴莫愁、梁博等素人一夜成名，『好声音』成为中国综艺工业化的转折点。，转椅子成为全民模仿动作",
+    "detail": "版权引进加本土化改造，导师制、盲选转椅带来戏剧张力，浙江卫视的灯光舞美也被赞电影级。节目收视率连破纪录，广告费从每15秒15万涨到百万级，『中国好XX』成为营销通用句式。它也开启了此后数年版权综艺与导师真人秀的黄金期。第二季广告招标额翻倍，导师的转椅与抢人手势成为年度视觉符号。",
+    "impact": "中国电视综艺进入大制作、强模式的时代，台网联动与话题营销成为标配。",
+    "aftermath": "好声音连播多季后因版权与风波起落；音乐综艺模式库从此被各大平台反复复用。",
+    "sources": [
+      {
+        "title": "维基百科：中国好声音 (第一季)",
+        "url": "https://zh.wikipedia.org/wiki/中国好声音_(第一季)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "中国好声音",
+      "综艺",
+      "选秀"
+    ]
+  },
+  {
+    "id": "2012-07-15-gangnam-style-release",
+    "date": "2012-07-15",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《江南Style》发布：骑马舞席卷全球",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "韩国歌手PSY的神曲《江南Style》发布，魔性的骑马舞配上讽刺首尔江南区的歌词，先火遍韩国再经社交媒体征服全球，成为YouTube首支播放量破10亿的视频。中国的广场舞大妈和写字楼白领都在模仿。",
+    "detail": "《江南Style》7月发布后在韩国走红，7月底起被贾斯汀·比伯经纪人等国际名人转发后病毒式扩散，9月起连续数周霸榜各国iTunes。它证明了不需要英语歌词也能成为全球流行，K-pop的国际化路径由此拓宽。从纽约时代广场到中国县城的广场舞场地，骑马舞模仿视频铺满各大视频网站。",
+    "impact": "第一支完全依靠社交网络走红的全球神曲， YouTube 时代的流行文化范式样本。",
+    "aftermath": "PSY成为文化输出符号；短视频时代的『神曲公式』自此有据可依。",
+    "sources": [
+      {
+        "title": "维基百科：江南Style",
+        "url": "https://zh.wikipedia.org/wiki/江南Style",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "江南Style",
+      "PSY",
+      "神曲"
+    ]
+  },
+  {
+    "id": "2012-08-01-toutiao-launch",
+    "date": "2012-08-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "今日头条上线：算法推荐的先行者",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "张一鸣的团队推出个性化资讯应用今日头条，『你关心的，才是头条』。它不生产内容，靠算法把全网新闻按每个人的口味分发，上线90天获得千万用户，中国信息流时代的大幕由此拉开。",
+    "detail": "今日头条没有采编团队，通过抓取合作媒体内容加机器学习推荐实现千人千面。用户停留时长一路碾压传统门户，媒体们先是受益后是恐慌，『算法没有价值观』的争论延续多年。字节跳动以此为起点，孵化出抖音等一系列产品。传统门户的编辑推荐模式第一次感到寒意，内容分发权之争自此打响。",
+    "impact": "算法推荐取代编辑分发成为中国内容消费的主流，也奠定了字节跳动的技术路线。",
+    "aftermath": "头条母公司字节跳动此后推出抖音、西瓜视频等，成为全球估值最高的独角兽之一。",
+    "sources": [
+      {
+        "title": "维基百科：今日头条",
+        "url": "https://zh.wikipedia.org/wiki/今日头条",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "今日头条",
+      "算法推荐",
+      "字节跳动"
+    ]
+  },
+  {
+    "id": "2012-08-16-qihoo-search-launch",
+    "date": "2012-08-16",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "360搜索上线：挑战百度搜索霸权",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "周鸿祎的奇虎360把浏览器默认搜索引擎切换成自家『360搜索』，一夜之间拿下一成市场份额，随后迅速宣布独立品牌。中国搜索市场多年来第一次出现有分量的挑战者，百度股价应声大跌。",
+    "detail": "360凭借数亿浏览器用户做流量分发，搜索份额在数月内冲上两位数。百度随后以安全问题反击，双方爆发新一轮口水战与诉讼，被戏称为继3Q大战后的『3SB大战』。虽然360未能撼动百度基本盘，但搜索市场的单极格局被撕开缺口。上线数日内日检索量即破千万，百度随后以协议为由屏蔽其爬虫，双方对簿公堂。",
+    "impact": "证明浏览器入口依然是流量分发利器，搜索行业竞争重新活跃。",
+    "aftermath": "360搜索后来更名好搜再改回360搜索，长期稳居国内搜索第二梯队。",
+    "sources": [
+      {
+        "title": "维基百科：奇虎360",
+        "url": "https://zh.wikipedia.org/wiki/奇虎360",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "360",
+      "搜索",
+      "百度"
+    ]
+  },
+  {
+    "id": "2012-09-01-didi-launch",
+    "date": "2012-09-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "嘀嘀打车上线：打车这件事从此改变",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "嘀嘀打车在北京上线，乘客摇一摇手机就能呼叫附近出租车，司机端还有语音播报。这个解决『雨天打不到车』痛点的小应用，此后引爆了改变中国出行的网约车大战。，一场出行革命从北京的哥的智能手机上开始",
+    "detail": "程维从阿里辞职创业，最初被多数投资人看衰，中关村车库咖啡的天使投资救了场。产品抓住司机找活、乘客找车的双向痛点，通过司机补贴与呼叫应答率快速起量。两年后它与快的掀起补贴大战，把移动支付带进了出租车行业。程维后来回忆，产品上线初期响应寥寥，靠手把手帮司机装软件才慢慢起量。",
+    "impact": "开启中国网约车时代，出租车行业的利益格局被互联网彻底搅动。",
+    "aftermath": "嘀嘀2014年更名滴滴打车，历经与快的、Uber中国的合纵连横，滴滴成为全球出行巨头的中国样本。",
+    "sources": [
+      {
+        "title": "维基百科：滴滴出行",
+        "url": "https://zh.wikipedia.org/wiki/滴滴出行",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "滴滴",
+      "网约车",
+      "出行"
+    ]
+  },
+  {
+    "id": "2012-09-12-iphone-5-launch",
+    "date": "2012-09-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "iPhone 5发布：屏幕终于变长",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "苹果发布屏幕加长到4英寸的iPhone 5，机身改用铝合金，还换上Lightning接口——老式30针接口就此退休。首周销量破500万台，但『毫无惊喜』的吐槽也第一次大规模出现。",
+    "detail": "iPhone 5支持4G LTE，迎合了当时全球运营商的4G竞赛；Lightning接口 smaller、可正反插，使用十年之久。此后一段时间，『挤牙膏』式升级的批评开始伴随历代iPhone，安卓阵营的大屏攻势反而越来愈猛。国行版于当年12月14日开售，行货渠道铺开后，水货市场明显降温。",
+    "impact": "Lightning接口成为苹果生态十年标准；大屏化压力倒逼苹果次年推出iPhone 6的更大尺寸。",
+    "aftermath": "iPhone 5系列销量持续走高，苹果市值在2012年8月一度冲上6200亿美元的历史峰值。",
+    "sources": [
+      {
+        "title": "维基百科：IPhone 5",
+        "url": "https://zh.wikipedia.org/wiki/IPhone_5",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPhone",
+      "智能手机"
+    ]
+  },
+  {
+    "id": "2012-10-26-windows-8-launch",
+    "date": "2012-10-26",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Windows 8发布：最激进的Windows大改版",
+    "category": "tech",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "微软发布Windows 8，砍掉了用了17年的开始按钮，满屏磁贴为触屏而生。这是Windows史上最大胆的一次改版，也是争议最大的一次——桌面用户骂声一片，移动转型却不容回头。",
+    "detail": "Windows 8为平板时代设计Metro界面，桌面与移动两套逻辑共存导致体验割裂，传统PC用户无所适从，企业采购集体观望。微软次年匆忙推出8.1找回开始按钮，但伤害已经造成，PC市场在那几年加速萎缩。开始按钮的消失引发用户大规模抗议，微软在次年的8.1更新中将其请回。",
+    "impact": "PC产业向触屏与二合一形态转型的催化剂，也留下了『为转型牺牲用户』的经典教训。",
+    "aftermath": "微软在Windows 10中全面纠偏，『Win8式激进』成为产品界的著名反面教材。",
+    "sources": [
+      {
+        "title": "维基百科：Windows 8",
+        "url": "https://zh.wikipedia.org/wiki/Windows_8",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微软",
+      "Windows",
+      "操作系统"
+    ]
+  },
+  {
+    "id": "2012-11-11-double-11-19b",
+    "date": "2012-11-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "双11成交191亿：光棍节购物狂欢定型",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2012年双十一天猫成交额191亿元，同比增长超过260%，凌晨开场十分钟即突破2.5亿。从草根促销到全民购物节，双11在这一年彻底定型为中国电商的年度大考。，包邮与预售自此成为年度仪式",
+    "detail": "这一年支付宝的支付系统经受住洪峰考验，物流体系被1亿多个包裹冲到爆仓边缘，倒逼快递业大扩容。双11也从阿里自家活动演变为全行业节日，京东、当当等全员参战，11月11日成为中国消费者的固定血拼日。当天支付峰值再创纪录，多家快递公司随后宣布大规模扩招，物流军备竞赛开启。",
+    "impact": "确立全球最大购物节的地位，重塑中国零售的营销日历与物流基建。",
+    "aftermath": "双11成交额此后逐年刷新纪录，2020年后转为不再公布具体数字的低调阶段。",
+    "sources": [
+      {
+        "title": "维基百科：天猫",
+        "url": "https://zh.wikipedia.org/wiki/天猫",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "双11",
+      "电商",
+      "天猫"
+    ]
+  },
+  {
+    "id": "2012-12-12-lost-in-thailand",
+    "date": "2012-12-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《泰囧》上映：国产喜剧首破10亿",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "徐峥自导自演的《人再囧途之泰囧》12月12日上映，一部3000万成本的公路喜剧最终豪取12.67亿元，成为首部票房破10亿的国产电影。王宝强的『宝宝』和黄渤的囧脸刷遍社交网络。",
+    "detail": "影片讲述商务男与葱油饼摊主在泰国的爆笑同行，精准的档期选择加口碑发酵让它连续四周霸榜。『泰国游』随之大火，清迈旅游订单暴增，成为电影带火旅游目的地的经典案例。国产电影自此确信：喜剧+档期+口碑就是硬通货。徐峥凭此片完成从演员到导演的转型，贺岁档从此成为国产喜剧的必争之地。",
+    "impact": "中国电影市场进入10亿片时代，中小成本喜剧的商业价值被彻底验证。",
+    "aftermath": "徐峥的『囧系列』延续多年；此后国产片票房天花板被《西游降魔篇》《捉妖记》们不断抬升。",
+    "sources": [
+      {
+        "title": "维基百科：人再囧途之泰囧",
+        "url": "https://zh.wikipedia.org/wiki/人再囧途之泰囧",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "泰囧",
+      "徐峥",
+      "电影"
+    ]
+  },
+  {
+    "id": "2013-03-27-smartisan-os-launch",
+    "date": "2013-03-27",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "锤子ROM发布会：罗永浩的『工匠精神』首秀",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "罗永浩在北京发布Smartisan OS（锤子ROM），九宫格拟物图标、强迫症式的细节打磨让这场发布会成为年度话题。尽管手机还没影，『工匠精神』和门票收入已经先行出圈。",
+    "detail": "发布会门票卖到几百元仍座无虚席，罗永浩用两个小时讲图标对称、下拉悬停等人性化设计，风格的机智吐槽被做成表情包疯传。产品获得了小众的真诚赞赏，也招致『吹过头』的质疑，锤子从此活在声量与销量的落差里。门票开售即罄，不少观众专为听段子而来，发布会金句连夜刷屏。",
+    "impact": "把手机发布会做成文化事件的样板，工匠美学第一次成为中国手机圈的营销语言。",
+    "aftermath": "2014年锤子T1正式发布；罗永浩的发布会此后屡屡一票难求，直到锤子败局。",
+    "sources": [
+      {
+        "title": "维基百科：锤子科技",
+        "url": "https://zh.wikipedia.org/wiki/锤子科技",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "锤子科技",
+      "罗永浩",
+      "Smartisan OS"
+    ]
+  },
+  {
+    "id": "2013-04-23-netease-cloud-music-launch",
+    "date": "2013-04-23",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "网易云音乐上线：歌单与乐评的社区实验",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "网易推出音乐应用网易云音乐，用个性化歌单、UGC乐评和社交关注重构了听歌这件事。『乐评』比歌还精彩成为它的标签，一款音乐App硬是做出了社区文化。，用歌单和乐评重新定义听歌",
+    "detail": "由前网易门户员工组成的小团队打造，产品以『歌单』为核心组织逻辑，用户自己创建并分享主题歌单，评论区则成为深夜情绪树洞。相对版权巨头的曲库劣势，网易云音乐靠发现与分享体验实现差异化，迅速在年轻人中积累口碑。上线后用户通过歌单与乐评形成二次传播，音乐App第一次有了社区温度。",
+    "impact": "把音乐App从播放工具变成内容社区，乐评文化影响了一代青年的表达方式。",
+    "aftermath": "网易云音乐用户数年后破8亿，与腾讯音乐形成两强格局，『网抑云』梗也一度出圈。",
+    "sources": [
+      {
+        "title": "维基百科：网易云音乐",
+        "url": "https://zh.wikipedia.org/wiki/网易云音乐",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "网易云音乐",
+      "音乐",
+      "网易"
+    ]
+  },
+  {
+    "id": "2013-04-29-alibaba-invests-weibo",
+    "date": "2013-04-29",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "阿里5.86亿美元入股新浪微博",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "阿里巴巴宣布以5.86亿美元入股新浪微博，占约18%股份，双方在账号互通、支付与广告上深度合作。新浪微博拿到了『中国Twitter』之外的另一个故事——电商社交化。",
+    "detail": "此时微博正受微信冲击、商业化乏力，阿里的钱与电商场景给了它续命的弹药。合作后微博用户点淘宝链接可直接跳转支付宝下单，社交与购物的链路被打通。这笔投资也被视为阿里社交梦的延续——此前『来往』正面强攻微信失败后的侧翼迂回。交易公布当天新浪股价大涨，市场把这笔钱解读为微博商业化的强力背书。",
+    "impact": "社交与电商的融合从此成为行业主叙事，微博估值逻辑转向商业变现。",
+    "aftermath": "阿里后增持至约30%，微博2014年成功上市；微博电商化与广告体系支撑其此后多年增长。",
+    "sources": [
+      {
+        "title": "维基百科：新浪微博",
+        "url": "https://zh.wikipedia.org/wiki/新浪微博",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "阿里",
+      "微博",
+      "投资"
+    ]
+  },
+  {
+    "id": "2013-05-01-tesla-model-s-fever",
+    "date": "2013-05-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "特斯拉Model S元年：电动车第一次酷起来",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2013年上半年，特斯拉Model S接连拿下各大媒体年度车奖项并首次实现季度盈利，股价半年涨数倍。硅谷造的车第一次让全世界相信电动车可以又快又美，中国土豪开始加价求购。",
+    "detail": "Model S凭借17英寸中控大屏、整车空中升级和狂暴加速，斩获《汽车趋势》等重量级年度车大奖，2013年一季度盈利更是改写历史。马斯克从PayPal创业者的身份变成钢铁侠原型，中国富豪排队等车，特斯拉当年即筹建中国公司。中国富豪的预订名单越排越长，特斯拉随即启动中国公司筹备与门店选址。",
+    "impact": "把电动车从环保苦行僧的标签中解放出来，全球车企被迫加速电动化。",
+    "aftermath": "特斯拉2014年向中国交付首批车辆，此后上海建厂，市值一路超越所有传统车企。",
+    "sources": [
+      {
+        "title": "维基百科：Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "特斯拉",
+      "电动车",
+      "Model S"
+    ]
+  },
+  {
+    "id": "2013-06-13-yuebao-launch",
+    "date": "2013-06-13",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "余额宝上线：全民理财从1元开始",
+    "category": "product",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "支付宝与天弘基金合作推出余额宝，用户把零钱放进去就能享受货币基金收益，1元起购、随存随取。上线18天用户破250万，年底规模破千亿，中国老百姓的理财意识被一个余额页面唤醒。",
+    "detail": "余额宝把钱对接天弘增利宝货币基金，收益曾一度超过6%，远超银行活期。它借用支付宝海量账户和消费场景，让『理财』第一次变得和发红包一样简单，银行存款加速搬家，利率市场化被互联网推了一把。天弘基金也凭此从无名小厂跃居行业规模第一。上线一年用户数即以亿计，天弘基金凭此从腰部跃居行业规模第一。",
+    "impact": "互联网理财元年的开端，倒逼银行与监管直面互联网金融的冲击。",
+    "aftermath": "各类『宝宝』产品井喷，余额宝规模巅峰超过1.5万亿元，此后收益率回落、限购控规模，成为居民现金管理的常备工具。",
+    "sources": [
+      {
+        "title": "维基百科：余额宝",
+        "url": "https://zh.wikipedia.org/wiki/余额宝",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "余额宝",
+      "支付宝",
+      "理财"
+    ]
+  },
+  {
+    "id": "2013-07-16-baidu-buys-91-wireless",
+    "date": "2013-07-16",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "百度19亿美元收购91无线：当时中国互联网最大并购",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "百度宣布以19亿美元全资收购网龙旗下的91无线，创下当时中国互联网并购金额纪录。为抢下移动应用分发入口，百度砸下重金——这笔交易日后也成为巨头买入口的争议案例。",
+    "detail": "91无线旗下的91助手、安卓市场曾是iOS越狱与安卓分发的头部渠道，百度急需补上移动分发短板对抗360与腾讯。交易完成后分发市场一度百度系登顶，但随着手机厂商应用商店崛起，第三方应用市场整体衰落，91助手逐渐边缘化。交易公布当天百度股价微涨，但此后应用商店赛道整体萎缩，这笔投资被业内反复复盘。",
+    "impact": "中国互联网并购金额纪录被刷新，应用分发赛道的价值被推至顶点。",
+    "aftermath": "第三方应用商店此后被厂商商店与超级App边缘化，91无线被普遍视为高价买来的教训。",
+    "sources": [
+      {
+        "title": "维基百科：百度",
+        "url": "https://zh.wikipedia.org/wiki/百度",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "百度",
+      "91无线",
+      "并购"
+    ]
+  },
+  {
+    "id": "2013-07-31-hongmi-launch",
+    "date": "2013-07-31",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "红米手机发布：799元终结山寨机",
+    "category": "hardware",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "小米与中国移动联合发布红米手机，四核配置只卖799元，QQ空间首发预约破千万。千元智能机市场的价格体系被瞬间击穿，山寨手机最后的生存空间被清空。，千元机市场从此变天",
+    "detail": "红米把发烧配置下沉到千元档，首发选在拥有数亿用户的QQ空间，一天预约量即超745万。红米此后成为小米销量支柱，『高性价比』标签帮助小米横扫下沉市场，也把荣耀、魅族等对手拖入贴身肉搏。一个月后的首轮开售中，10万台手机在90秒内被抢空。",
+    "impact": "中国千元机市场全面洗牌，山寨机与低端功能机加速退场，智能手机全面普及。",
+    "aftermath": "红米成长为独立品牌Redmi，长期扛着小米出货量大头，并出海横扫印度、东南亚。",
+    "sources": [
+      {
+        "title": "维基百科：红米手机",
+        "url": "https://zh.wikipedia.org/wiki/红米手机",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "红米",
+      "小米",
+      "千元机"
+    ]
+  },
+  {
+    "id": "2013-08-05-wechat-pay-launch",
+    "date": "2013-08-05",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "微信5.0上线微信支付：从聊天到钱包",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "微信5.0版本上线，加入扫一扫和微信支付，打飞机小游戏同时刷屏。支付宝独大的移动支付市场从此有了第二个玩家，一年后的微信红包将让这场战争彻底变天。，腾讯终于拿到支付门票",
+    "detail": "微信支付绑定银行卡即可在公众号商户扫码付款，初期交易量平淡，团队甚至考虑过放弃。转机出现在2014年初的红包功能：春节社交裂变让数百万用户一夜绑卡，马云称之为『偷袭珍珠港』。支付大战就此升级为双寡头格局。产品团队后来复盘，正是打飞机小游戏带来的版本热度，为支付功能完成了第一次全民曝光。",
+    "impact": "中国移动支付双寡头的起点，线下扫码付的普及由此加速。",
+    "aftermath": "微信支付此后以红包、转账、扫码付全面渗透生活，与支付宝分庭抗礼。",
+    "sources": [
+      {
+        "title": "维基百科：微信",
+        "url": "https://zh.wikipedia.org/wiki/微信",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微信支付",
+      "微信",
+      "移动支付"
+    ]
+  },
+  {
+    "id": "2013-08-06-wanwanmeixiangdao-premiere",
+    "date": "2013-08-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《万万没想到》上线：迷你网剧的流量奇迹",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "叫兽易小星执导的迷你网剧《万万没想到》在优酷开播，白客主演的无名青年王大锤每集几分钟、脑洞清奇，第一季数集播放量破亿。网络原生的短剧第一次证明自己能造明星。，王大锤成为年度表情包",
+    "detail": "剧集脱胎于叫兽易小星的网络短片团队，万合天宜以低成本高频次产出，台词『没想到吧』成为年度口头禅。它把网络段子的节奏搬上屏幕，捧红白客、孔连顺等一批网生艺人，也让优酷坚定了自制内容的投入。累计播放量以亿计，广告植入与品牌定制成为网生内容最早的变现样本。",
+    "impact": "开启国产迷你网剧时代，为后来的短视频喜剧与竖屏短剧提供了方法论。",
+    "aftermath": "《万万没想到》推出大电影与衍生剧集；万合天宜及网生内容成为视频平台自制大战的重要玩家。",
+    "sources": [
+      {
+        "title": "维基百科：万万没想到",
+        "url": "https://zh.wikipedia.org/wiki/万万没想到",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "万万没想到",
+      "网剧",
+      "优酷"
+    ]
+  },
+  {
+    "id": "2013-09-10-iphone-5s-launch",
+    "date": "2013-09-10",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "iPhone 5s发布：指纹解锁与『土豪金』",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "苹果发布iPhone 5s，带来指纹识别Touch ID、64位A7芯片，以及那个后来被戏称『土豪金』的香槟金配色。金色款在中国被抢购到断货，『土豪金』一词火遍全国。",
+    "detail": "5s的Touch ID让生物识别第一次好用，64位处理器打了个安卓阵营措手不及，iOS的指纹支付也为移动支付铺路。首发国行9月20日开售即抢空，金色款一度加价千元。同期发布的廉价版iPhone 5c则市场遇冷，证明苹果用户只认旗舰。发布会同时宣布iOS 7正式版推送，扁平化设计语言自此统治苹果生态。",
+    "impact": "指纹识别成为智能手机标配的起点，金色成为手机行业常青配色。",
+    "aftermath": "『土豪金』进入年度流行语；64位芯片倒逼安卓阵营一年内全面跟进。",
+    "sources": [
+      {
+        "title": "维基百科：IPhone 5s",
+        "url": "https://zh.wikipedia.org/wiki/IPhone_5s",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPhone",
+      "土豪金"
+    ]
+  },
+  {
+    "id": "2013-09-16-tencent-invests-sogou",
+    "date": "2013-09-16",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "腾讯4.48亿美元入股搜狗：搜索三分归晋",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "腾讯宣布4.48亿美元入股搜狗并将搜搜并入，王小川保住了独立地位，周鸿祎的『搜狗嫁360』方案落空。中国搜索市场形成百度、搜狗、360三分的新格局。，王小川守住了搜狗的独立性",
+    "detail": "此前360曾试图吞并搜狗补齐流量短板，张朝阳一度倾向成交，王小川则以腾讯方案绝地翻盘。合并后搜狗独家接入微信公众账号搜索，成为『能搜微信公众号』的唯一入口，流量与想象空间都为之一振。周鸿祎与王小川的恩怨自此翻页，360转而独自深耕行业第二的位置。",
+    "impact": "搜索大战从混战收敛为三强，腾讯以投资代替亲自下场的策略再度奏效。",
+    "aftermath": "搜狗2020年被腾讯全资私有化，王小川离场转向AI创业。",
+    "sources": [
+      {
+        "title": "维基百科：搜狗",
+        "url": "https://zh.wikipedia.org/wiki/搜狗",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "腾讯",
+      "搜狗",
+      "搜索"
+    ]
+  },
+  {
+    "id": "2013-09-17-gta-v-launch",
+    "date": "2013-09-17",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《GTA5》发售：三天10亿美元的开放世界神话",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "Rockstar的《侠盗猎车手5》全球发售，三天销售额突破10亿美元，创下娱乐产品最快纪录。洛圣都的自由与讽刺让全世界的玩家和评论家同时沦陷，开放世界游戏的标准就此定下。",
+    "detail": "游戏以三位主角在虚构城市洛圣都的故事讽刺美国流行文化，开发投入约2.65亿美元、历时五年。它不仅在商业上登顶，还因在线模式GTA Online常年长青，成为发售十年后仍稳居销量榜的存在。三位主角可随时切换的设计、广播电台与街头细节，让洛圣都被称为最鲜活的虚拟城市。",
+    "impact": "电子游戏第一次在商业速度上碾压好莱坞大片，开放世界设计成为行业金标准。",
+    "aftermath": "GTA5全球销量突破2亿份，其在线模式催生了主播文化与角色扮演玩法的大爆发。",
+    "sources": [
+      {
+        "title": "维基百科：侠盗猎车手V",
+        "url": "https://zh.wikipedia.org/wiki/侠盗猎车手V",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "GTA5",
+      "游戏",
+      "Rockstar"
+    ]
+  },
+  {
+    "id": "2013-10-11-dad-where-are-we-going",
+    "date": "2013-10-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《爸爸去哪儿》首播：亲子综艺一夜爆红",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "湖南卫视引进韩国模式的亲子真人秀《爸爸去哪儿》开播，林志颖父子、田亮父女等五对星爸萌娃的乡村旅行萌翻全国。节目收视率碾压同时段，萌娃代言费一夜暴涨，亲子综艺自此扎堆。",
+    "detail": "节目以明星父亲独自带娃的日常为卖点，Kimi、森碟、王诗龄等萌娃成为全民宠儿。它精准踩中独生子女时代的育儿焦虑与真人秀的新鲜感，广告费节节攀升，后续几季持续制造话题，也带动各卫视引进韩综的热潮。萌娃的口头禅与表情包席卷网络，同名大电影次年春节档狂揽近7亿票房。",
+    "impact": "开启中国亲子综艺与韩国模式引进的黄金期，星二代与萌娃经济自此成风。",
+    "aftermath": "亲子综艺扎堆后审美疲劳，行业随后转向原创与网综；《爸爸去哪儿》成为一代人的综艺记忆。",
+    "sources": [
+      {
+        "title": "维基百科：爸爸去哪儿",
+        "url": "https://zh.wikipedia.org/wiki/爸爸去哪儿",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "爸爸去哪儿",
+      "综艺",
+      "湖南卫视"
+    ]
+  },
+  {
+    "id": "2013-11-11-double-11-35b",
+    "date": "2013-11-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "双11成交350亿：移动端首秀与菜鸟首考",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2013年双十一天猫成交额350.19亿元，手机端成交占比首次超过两成，年度大考又添新课题。支付宝峰值每分钟处理近80万笔支付，中国电商的基础设施完成又一次极限压测。",
+    "detail": "这一年的双11首次引入O2O概念，线下商场虽集体抵制，但线上狂欢依旧凶猛。移动端的爆发让『躺着购物』成为现实，物流方面菜鸟网络迎来首秀，大数据预判让包裹速度明显提升。京东等对手同日造节对抗，电商大促进入多平台混战。350亿中手机端贡献超过两成，移动购物正式接棒PC成为主力。",
+    "impact": "移动购物正式成为主力，电商基础设施（支付、物流、云计算）的军备竞赛全面升级。",
+    "aftermath": "双11纪录此后继续刷新，移动端占比逐年攀升至八成以上。",
+    "sources": [
+      {
+        "title": "维基百科：天猫",
+        "url": "https://zh.wikipedia.org/wiki/天猫",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "双11",
+      "电商",
+      "移动支付"
+    ]
+  },
+  {
+    "id": "2013-11-15-ps4-launch",
+    "date": "2013-11-15",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "PS4发售：次世代主机战争开打",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "索尼PlayStation 4在北美首发，一周后微软Xbox One跟进，第八世代主机大战正式开打。PS4凭借更低价格与对二手游戏、独立游戏的友好姿态一路碾压，最终卖出上亿台。",
+    "detail": "索尼在E3上以『让玩家自己决定』的宣言完胜主打客厅生态与强制联网的Xbox One，首发即供不应求。PS4的x86架构也让跨平台移植变容易，独立游戏迎来黄金窗口。国行版则在2015年才解禁上市。首发一周销量即破百万台，索尼靠它走出此前的经营低谷。",
+    "impact": "确立本世代主机格局，独立游戏与大作生态同步繁荣。",
+    "aftermath": "PS4累计销量超过1.17亿台，成为史上最畅销主机之一；中国主机市场也在国行解禁后缓慢回暖。",
+    "sources": [
+      {
+        "title": "维基百科：PlayStation 4",
+        "url": "https://zh.wikipedia.org/wiki/PlayStation_4",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "PS4",
+      "索尼",
+      "主机游戏"
+    ]
+  },
+  {
+    "id": "2013-12-18-my-love-from-the-star",
+    "date": "2013-12-18",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《来自星星的你》开播：韩流巅峰时刻",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "金秀贤、全智贤主演的外星人都教授与顶流女明星的爱情故事在韩国SBS开播，随后在中国网络爆红。『炸鸡配啤酒』成为冬季标配，都教授横扫中国广告市场，韩流迎来巅峰时刻。",
+    "detail": "剧集在中国视频平台同步播出，点击量破数十亿，金秀贤来华参加活动被粉丝围得水泄不通，一条微博转发量创纪录。它证明了中韩同步播出模式的商业威力，也把视频网站买韩剧版权的价格推上天。炸鸡配啤酒的吃法被中国年轻人效仿，都教授同款外套一度卖到断码。",
+    "impact": "韩流在中国的最高峰，同步播出与粉丝经济的商业模型被反复复制。",
+    "aftermath": "此后韩剧版权价格暴涨，中韩合拍剧涌现；都教授成为一代人的荧幕记忆。",
+    "sources": [
+      {
+        "title": "维基百科：来自星星的你",
+        "url": "https://zh.wikipedia.org/wiki/来自星星的你",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "来自星星的你",
+      "韩剧",
+      "韩流"
+    ]
+  },
+  {
+    "id": "2014-01-01-wechat-red-packet",
+    "date": "2014-01-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "微信红包上线：春节社交裂变偷袭支付市场",
+    "category": "product",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "微信悄悄上线『新年红包』功能，用户在群里发红包、拼手气，抢到红包必须绑卡才能提现。2014年春节期间数千万人一夜绑卡，马云惊呼『珍珠港偷袭』，移动支付格局就此改写。",
+    "detail": "红包功能由微信支付团队在春节前快速上线，把中国传统压岁钱习俗翻译成社交游戏：拼手气的随机金额让抢红包充满赌博式的快乐。滚雪球式的群聊裂变让微信支付在几天内完成了支付宝八年才完成的绑卡规模，支付大战的攻守从此易势。除夕当晚参与人数以千万计，微信支付团队连夜扩容服务器应对洪峰。",
+    "impact": "社交裂变被证明是获取金融用户的核武器，中国红包文化完成数字化迁移。",
+    "aftermath": "此后发红包成为春节全民仪式，支付宝反击推出集五福；红包也成为企业与品牌的营销标配。",
+    "sources": [
+      {
+        "title": "维基百科：微信",
+        "url": "https://zh.wikipedia.org/wiki/微信",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微信红包",
+      "微信支付",
+      "春节"
+    ]
+  },
+  {
+    "id": "2014-01-01-didi-kuaidi-subsidy-war",
+    "date": "2014-01-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "滴滴快的补贴大战：打车不要钱的疯狂一月",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "嘀嘀打车联手微信支付推出乘客每单立减10元、司机奖励10元的补贴，快的随即联手支付宝跟进加码。数月之内两家烧掉数十亿元，全国人民打车比坐公交还便宜，移动支付随出租车跑遍大街小巷。",
+    "detail": "补贴大战从春节前打到夏天，单方补贴一度涨到每单十几元，滴滴日订单量从几十万飙到数百万。这场战争的本质是腾讯与阿里的移动支付入口之争：每一次打车都是一次绑卡与支付习惯训练。司机边开车边抢红包、黄牛刷单套现成为奇观。高峰期双方单日补贴金额均以千万元计，出租车司机的手机支架成为年度畅销配件。",
+    "impact": "用最烧钱的方式完成了全民移动支付教育，网约车从此成为中国出行的基础设施。",
+    "aftermath": "双方补贴停战后订单回落，2015年情人节滴滴快的宣布合并；滴滴随后再战Uber中国并于2016年将其收编。",
+    "sources": [
+      {
+        "title": "维基百科：Didi",
+        "url": "https://en.wikipedia.org/wiki/Didi",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "滴滴",
+      "快的",
+      "补贴大战"
+    ]
+  },
+  {
+    "id": "2014-02-19-facebook-buys-whatsapp",
+    "date": "2014-02-19",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Facebook 190亿美元天价收购WhatsApp",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "Facebook宣布以约190亿美元收购即时通讯应用WhatsApp——一家55名员工、年收入微薄的公司，卖出当时史上最贵的初创收购价。扎克伯格用真金白银宣告：移动IM就是下一个时代的地基。",
+    "detail": "WhatsApp当时月活超4.5亿且仍在高速增长，每名用户估值约42美元。交易包含约30亿美元限制性股票留给创始团队。这笔收购与当年Instagram并购一起，构成Facebook防御移动时代的护城河组合，此后它又以同样逻辑押注Messenger。",
+    "impact": "刷新全球科技并购纪录，巨头的移动IM焦虑成为行业共识。",
+    "aftermath": "WhatsApp月活此后突破20亿，成为全球最多人使用的通讯软件之一；两位创始人后来先后离开Facebook并公开表达不满。",
+    "sources": [
+      {
+        "title": "维基百科：WhatsApp",
+        "url": "https://zh.wikipedia.org/wiki/WhatsApp",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Facebook",
+      "WhatsApp",
+      "并购"
+    ]
+  },
+  {
+    "id": "2014-03-12-uber-enters-china",
+    "date": "2014-03-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Uber正式进入中国大陆：优步登陆上海",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "Uber在上海召开发布会宣布正式进入中国大陆市场，中文名定为『优步』。这家以高端专车起家的硅谷公司闯入滴滴快的腹地，中国网约车市场从此进入三国杀。，一场出行三国杀就此开局",
+    "detail": "Uber此前以人民优步等低价产品在一线城市野蛮生长，正式落地后凭借全球化资本与激进的本地运营与滴滴缠斗两年。补贴、优惠券与『一键叫直升机』式的营销话题此起彼伏，最终以滴滴合并Uber中国收场。优步以低价产品迅速铺开，补贴与话题营销让它在一线城市频频制造新闻。",
+    "impact": "网约车竞争白热化倒逼出行基建与监管框架加速成型。",
+    "aftermath": "2016年8月滴滴宣布与Uber中国合并，Uber换取滴滴股份；Uber后来出售滴滴股权离场。",
+    "sources": [
+      {
+        "title": "维基百科：Uber",
+        "url": "https://zh.wikipedia.org/wiki/Uber",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "Uber",
+      "优步",
+      "网约车"
+    ]
+  },
+  {
+    "id": "2014-04-01-tesla-china-delivery",
+    "date": "2014-04-01",
+    "date_accuracy": "month",
+    "date_confidence": "single-source",
+    "title": "特斯拉向中国车主交付首批Model S",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "马斯克亲自飞抵中国，向首批中国车主交付特斯拉Model S钥匙，土豪们排队加价求车。这款硅谷电动车正式进入全球最大汽车市场，中国新能源浪潮自此多了一个精神图腾。",
+    "detail": "2014年春特斯拉在中国开设门店并完成首批交付，预订需等待数月，二手加价一度数十万元。 Model S 的中控大屏与加速能力刷新了中国消费者对汽车的认知，本土新势力创始人纷纷到场取经，蔚来、小鹏、理想此后相继成立。交付仪式上马斯克与车主的合影刷屏科技圈，预订名单此后越排越长。",
+    "impact": "特斯拉教育了中国电动车市场，直接催化了中国造车新势力浪潮。",
+    "aftermath": "2019年特斯拉上海超级工厂开工，Model 3国产化后价格下探，彻底引爆中国新能源市场。",
+    "sources": [
+      {
+        "title": "维基百科：Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "特斯拉",
+      "电动车",
+      "Model S"
+    ]
+  },
+  {
+    "id": "2014-04-17-weibo-ipo",
+    "date": "2014-04-17",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "微博登陆纳斯达克：微博物竞微物",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "新浪微博以『WB』代码登陆纳斯达克，发行价17美元，市值约40亿美元。尽管上市首日仅微涨，被调侃为『微博物竞微物』，但微博总算赶在窗口关闭前拿到了资本市场的门票。",
+    "detail": "微博上市前饱受微信冲击、用户增长质疑，估值从传闻的百亿美元级缩水到40亿。阿里此前的入股为上市铺路，凭借与电商打通的广告体系，微博上市后业绩反而逆势回暖，股价数年间上涨数倍。上市当日微涨收盘，被媒体调侃为流血上市；但此后两年业绩回暖，股价翻了数倍。",
+    "impact": "中国社交媒体第一股诞生，微博完成了从明星产品到上市公司的心态转变。",
+    "aftermath": "微博此后靠热点广场与粉丝经济重回增长，2021年回港二次上市。",
+    "sources": [
+      {
+        "title": "维基百科：新浪微博",
+        "url": "https://zh.wikipedia.org/wiki/新浪微博",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "微博",
+      "上市",
+      "新浪"
+    ]
+  },
+  {
+    "id": "2014-05-20-smartisan-t1-launch",
+    "date": "2014-05-20",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "锤子T1发布：『东半球最好用的手机』",
+    "category": "hardware",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "罗永浩在国家会议中心发布锤子T1，对标iPhone的对称设计与盲定销量一度破纪录。他放话这是『东半球最好用的智能手机』，随后产能危机与降价风波让理想主义遭遇现实的第一次暴击。",
+    "detail": "T1采用双侧对称按键、实体按键拍照，Smartisan OS的细节打磨赢得设计圈好评，斩获多项设计奖。然而代工良率问题导致产能爬坡艰难，交付拖延数月，随后官降千元引发老用户众怒。T1最终销量仅二十余万台，锤子的资金危机伏笔就此埋下。发布会门票再度秒罄，罗永浩在台上讲了两个半小时，对设计细节的痴迷被同行称为行为艺术。",
+    "impact": "国产手机的品质叙事达到新高度，也上演了理想主义与供应链现实碰撞的经典案例。",
+    "aftermath": "锤子此后推出T2、M1等产品始终未能突破销量瓶颈，2018年资金链断裂。",
+    "sources": [
+      {
+        "title": "维基百科：锤子科技",
+        "url": "https://zh.wikipedia.org/wiki/锤子科技",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "锤子科技",
+      "锤子T1",
+      "罗永浩"
+    ]
+  },
+  {
+    "id": "2014-05-22-jd-ipo",
+    "date": "2014-05-22",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "京东登陆纳斯达克：亏损电商的资本正名",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "刘强东带领京东在纳斯达克挂牌，募资约17.8亿美元，创下当时中国公司在美最大IPO。一家连年亏损的自营电商卖出260亿美元市值，资本市场为『重资产』模式正名。，中国电商双雄格局就此定型",
+    "detail": "京东以自营+自建物流的重模式在电商混战中杀出，上市时仍处亏损，但3C品类口碑与配送体验构成护城河。上市当天市值约260亿美元，此后腾讯入股的流量输血让京东完成移动转身，腾讯电商资产也在此前并入京东。腾讯高管到场站台，京东与腾讯的流量同盟自此公开化。",
+    "impact": "重资产电商模式的估值逻辑被确认，中国电商进入阿里、京东双雄时代。",
+    "aftermath": "京东此后扩展金融、物流子集团，2020年京东集团回港二次上市，京东物流、健康相继分拆上市。",
+    "sources": [
+      {
+        "title": "维基百科：京东",
+        "url": "https://zh.wikipedia.org/wiki/京东",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "京东",
+      "刘强东",
+      "上市"
+    ]
+  },
+  {
+    "id": "2014-05-29-xiao-pingguo-release",
+    "date": "2014-05-29",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《小苹果》发行：全民神曲与广场舞狂欢",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "筷子兄弟为电影《老男孩之猛龙过江》推出宣传曲《小苹果》，魔性旋律配上雷人MV，迅速占领广场舞场地与校园课间。它成为2014年国民神曲，还拿下了全美音乐奖年度最佳国际流行音乐奖。",
+    "detail": "《小苹果》致敬复古迪斯科，MV里的穿越剧情槽点满满却自带传播力，各地快闪、广场舞翻跳视频疯传，连小学运动会都集体齐跳。神曲的洗脑配方——简单旋律、重复副歌、强节奏——被业内反复拆解。筷子兄弟借神曲完成电影宣传的教科书营销，MV里的复古舞步被编入各地广场舞曲库。",
+    "impact": "广场舞文化的互联网出圈样本，中国神曲经济学的教科书案例。",
+    "aftermath": "神曲生产此后工业化，短视频时代『一歌一舞』的传播公式正是《小苹果》打下的样。",
+    "sources": [
+      {
+        "title": "维基百科：小苹果 (歌曲)",
+        "url": "https://zh.wikipedia.org/wiki/小苹果_(歌曲)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "小苹果",
+      "筷子兄弟",
+      "神曲"
+    ]
+  },
+  {
+    "id": "2014-09-09-iphone-6-launch",
+    "date": "2014-09-09",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "iPhone 6发布：苹果终于出大屏",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "苹果一次性发布4.7英寸的iPhone 6与5.5英寸的iPhone 6 Plus，正式进军大屏手机市场。发布会一句『Bigger than bigger』被中国网友玩坏，首周销量破千万台，成为苹果史上最畅销的iPhone。",
+    "detail": "大屏iPhone补上了苹果对阵安卓旗舰的最后短板，中国成为首发国家之一，黄牛加价盛况重现。虽然『弯曲门』一度成为笑柄，但大屏+Apple Pay的发布让换机潮凶猛，苹果当季营收利润双双创纪录，市值冲击7000亿美元。国行首发当日售罄，金色版本在二级市场加价千元，苹果当季大中华区营收暴涨。",
+    "impact": "大屏智能手机成为全球主流，苹果在中国市场份额登顶。",
+    "aftermath": "iPhone 6系列累计销量超2.2亿台；中国此后成为iPhone最大单一市场之一。",
+    "sources": [
+      {
+        "title": "维基百科：IPhone 6",
+        "url": "https://zh.wikipedia.org/wiki/IPhone_6",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPhone",
+      "大屏"
+    ]
+  },
+  {
+    "id": "2014-09-09-apple-watch-unveil",
+    "date": "2014-09-09",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "Apple Watch发布：库克时代的第一件新品",
+    "category": "hardware",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "与iPhone 6同台，苹果发布首款可穿戴设备Apple Watch，库克称之为『苹果的下一个篇章』。没有乔布斯的苹果交出了第一件全新品类产品，手表能否再创iPhone神话成为全球悬念。",
+    "detail": "Apple Watch主打健康监测、通知与个性化表带，推出运动、常规与18K金Edition三个版本，最贵款定价上万美元。2015年开售后市场反应两极：销量远不及iPhone，却依然稳坐智能手表头把交椅，重塑了手表行业的叙事。发布会请来时尚媒体与模特站台，苹果第一次把科技产品放进奢侈品语境展示。",
+    "impact": "智能手表从小众极客玩具变成消费电子主流品类，健康监测成为可穿戴的核心命题。",
+    "aftermath": "Apple Watch此后逐步迭代出心电图、血氧等功能，长期占据全球智能手表半壁江山。",
+    "sources": [
+      {
+        "title": "维基百科：Apple Watch",
+        "url": "https://zh.wikipedia.org/wiki/Apple_Watch",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "Apple Watch",
+      "可穿戴"
+    ]
+  },
+  {
+    "id": "2014-09-19-alibaba-nyse-ipo",
+    "date": "2014-09-19",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "阿里巴巴纽交所上市：全球最大IPO诞生",
+    "category": "company",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "马云在纽交所敲钟——敲钟人不是他，而是八位淘宝卖家、快递员与模特客户。阿里巴巴以每股68美元发行，融资250亿美元，创人类历史最大IPO纪录，市值一度超越Facebook。",
+    "detail": "阿里选择『客户第一』的仪式感敲钟，绿鞋机制行使后融资总额约250亿美元。上市当天市值约2300亿美元，中概股迎来历史性时刻。这既是马云十五年创业故事的顶点，也是中国互联网黄金十年的加冕礼，杭州西溪的造富神话刷遍朋友圈。开盘价92.7美元较发行价大涨逾三成，马云受询时『梦想还是要有的』一语再度刷屏。",
+    "impact": "中国互联网公司全球估值的巅峰仪式，电商生态的资本故事获得世界级定价。",
+    "aftermath": "阿里此后展开新零售、云计算与全球化扩张；2020年蚂蚁上市叫停后公司进入整固期，马云逐渐淡出公众视野。",
+    "sources": [
+      {
+        "title": "维基百科：阿里巴巴集团",
+        "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "阿里巴巴",
+      "马云",
+      "上市"
+    ]
+  },
+  {
+    "id": "2014-10-10-running-man-china-premiere",
+    "date": "2014-10-10",
+    "date_accuracy": "exact",
+    "date_confidence": "single-source",
+    "title": "《奔跑吧兄弟》首播：户外真人秀时代来临",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "浙江卫视引进韩国模式打造的大型户外竞技真人秀《奔跑吧兄弟》开播，邓超、Angelababy等七人『跑男团』撕名牌大战笑翻全国。收视率连破纪录，明星真人秀自此成为中国综艺的最强流量。",
+    "detail": "节目以游戏竞技加明星人设为卖点，撕名牌成为全民模仿动作，李晨『大黑牛』、陈赫『天才』等标签深入人心。它把综艺从演播室搬到城市地标，广告冠名费逐季暴涨，此后各平台户外真人秀全面开花。节目横扫同时段收视，撕名牌成为学生课间的流行游戏，广告冠名价格逐季翻倍。",
+    "impact": "中国综艺进入明星真人秀大片时代，台网联动的流量运营模式成熟。",
+    "aftermath": "节目连播多季后更名《奔跑吧》，撕名牌与跑男团成为一代人的综艺记忆。",
+    "sources": [
+      {
+        "title": "维基百科：奔跑吧兄弟",
+        "url": "https://zh.wikipedia.org/wiki/奔跑吧兄弟",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "奔跑吧兄弟",
+      "综艺",
+      "真人秀"
+    ]
+  },
+  {
+    "id": "2014-11-11-double-11-57b",
+    "date": "2014-11-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "双11成交571亿：上市年阿里的庆功宴",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "上市满月的阿里巴巴交出双11成绩单：全天成交571.12亿元，其中手机端占比42.6%，移动购物正式成为主力。从509家品牌参与的第一年到现在，双11已成长为全球最大购物节。",
+    "detail": "这一年双11首次亮相纽交所大屏，阿里把美国投资人请进杭州指挥中心。移动端成交占比42.6%标志移动购物的拐点来临，菜鸟网络当日处理的物流订单达2.78亿件。各平台混战升级，京东同步发起促销对攻，电商大促的规则边界开始被讨论。纽交所现场直播了杭州指挥中心的倒计时，中国消费力第一次以直播方式展示给全球投资人。",
+    "impact": "确立移动电商时代的购物节形态，全球资本市场第一次现场围观中国消费洪流。",
+    "aftermath": "双11纪录此后继续膨胀至数千亿元量级，直到2020年后不再公布精确数字。",
+    "sources": [
+      {
+        "title": "维基百科：天猫",
+        "url": "https://zh.wikipedia.org/wiki/天猫",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "双11",
+      "阿里",
+      "电商"
+    ]
+  },
+  {
+    "id": "2014-11-29-u-can-bianji-premiere",
+    "date": "2014-11-29",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《奇葩说》首播：网综元年开启",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "马东携高晓松、蔡康永坐镇的辩论综艺《奇葩说》在爱奇艺开播，『严肃辩论』与『段子互怼』化学反应惊人。肖骁、范湉湉等『奇葩』一夜成名，这档节目被普遍视为中国网络综艺元年的起点。",
+    "detail": "马东从央视离职加盟爱奇艺后打造的首档节目，把辩论装进娱乐外壳，金句与毒舌齐飞。广告口播『喝了才能愉快聊天』的花式植入成为行业范本，节目点击量逐季走高，证明网综完全可以和电视综艺掰手腕。美特斯邦威数千万元的冠名与马东的花式口播，成为此后营销课的必讲案例。",
+    "impact": "网络综艺自此崛起，内容付费与花式广告的商业模式被跑通。",
+    "aftermath": "奇葩说连播七季，米未传媒成立；说话类与辩论类网综成为平台标配。",
+    "sources": [
+      {
+        "title": "维基百科：奇葩说",
+        "url": "https://zh.wikipedia.org/wiki/奇葩说",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "奇葩说",
+      "网综",
+      "爱奇艺"
+    ]
+  },
+  {
+    "id": "2014-12-11-momo-ipo",
+    "date": "2014-12-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "陌陌登陆纳斯达克：陌生人社交修成正果",
+    "category": "company",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "成立三年的陌陌在纳斯达克挂牌，唐岩带着这个曾被贴满暧昧标签的应用敲钟。上市首日股价上涨约25%，陌生人社交第一次证明了自己在资本市场的成色。，这个曾被群嘲的应用完成了逆袭",
+    "detail": "陌陌上市前月活约6000万，招股书坦承用户增长承压。上市后陌陌果断转向直播业务，2016年直播收入爆发让公司扭亏为盈、股价一度暴涨十倍，唐岩也因此成为中国互联网最成功的转型操盘手之一。路演中唐岩特意回应外界贴上的暧昧标签，强调陌陌正在转向开放的社交平台叙事。",
+    "impact": "陌生人社交赛道的资本里程碑，也预演了社交产品靠直播变现的经典路径。",
+    "aftermath": "陌陌2018年收购探探，公司后更名Hello Group；直播与泛社交的组合延续至今。",
+    "sources": [
+      {
+        "title": "维基百科：陌陌",
+        "url": "https://zh.wikipedia.org/wiki/陌陌",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "陌陌",
+      "唐岩",
+      "上市"
+    ]
+  }
 ]

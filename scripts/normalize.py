@@ -1,0 +1,47 @@
+#!/usr/bin/env python3
+"""Agent 产出归一化：把子 Agent 常见的格式偏差修到门禁标准。
+- region: china → cn
+- date_confidence: reported/estimated → single-source/uncertain
+- date: month/year 精度归一到 01 日；id 前缀与 date 对齐、转小写
+"""
+import json
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+EV = ROOT / "data" / "events"
+CONF_MAP = {"reported": "single-source", "estimated": "uncertain", "media": "single-source"}
+
+def main() -> int:
+    changed = 0
+    for f in sorted(EV.glob("*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception as exc:
+            print(f"✗ {f.name}: JSON 解析失败（可能正在写入），跳过 —— {exc}")
+            continue
+        dirty = False
+        for e in d:
+            if e.get("region") == "china":
+                e["region"] = "cn"; dirty = True
+            c = e.get("date_confidence")
+            if c in CONF_MAP:
+                e["date_confidence"] = CONF_MAP[c]; dirty = True
+            acc = e.get("date_accuracy")
+            if acc == "month" and not e["date"].endswith("01"):
+                e["date"] = e["date"][:8] + "01"; dirty = True
+            if acc == "year" and not e["date"].endswith("01-01"):
+                e["date"] = e["date"][:5] + "01-01"; dirty = True
+            if not e["id"].startswith(e["date"]):
+                e["id"] = e["date"] + "-" + e["id"].split("-", 3)[3]; dirty = True
+            if e["id"] != e["id"].lower():
+                e["id"] = e["id"].lower(); dirty = True
+        if dirty:
+            f.write_text(json.dumps(d, ensure_ascii=False, indent=0), encoding="utf-8")
+            changed += 1
+            print(f"✓ {f.name} 归一化（{len(d)} 条）")
+    print(f"完成，改动 {changed} 个文件")
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
