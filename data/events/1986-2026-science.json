@@ -182,32 +182,6 @@
 ]
 },
 {
-"id": "1986-12-23-rutan-voyager-round-world",
-"date": "1986-12-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "旅行者号轻型飞机完成不着陆环球飞行",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "12月23日，迪克·鲁坦与珍娜·耶格尔驾驶碳纤维轻型飞机『旅行者号』降落在加州，完成人类首次不空中加油、不着陆环球飞行，历时9天3分钟，航程约4.2万公里。",
-"detail": "兄妹组合迪克·鲁坦与设计师伯特·鲁坦打造的旅行者号近乎全机都是油箱，起飞时载油达自身重量的七成，从爱德华兹空军基地超长跑道起飞。两人挤在狭小座舱里轮流驾驶，途中遭遇台风绕飞非洲，最后阶段发动机故障仍坚持返航。这一纪录靠的是复合材料结构与超轻设计突破，而非动力。",
-"impact": "证明复合材料与极致减重设计的潜力，影响了此后通用航空与长航时无人机发展。",
-"aftermath": "飞机现存于华盛顿的史密森尼国家航空航天博物馆。",
-"sources": [
-{
-"title": "Wikipedia: 1986 in science",
-"url": "https://en.wikipedia.org/wiki/1986_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"航空",
-"环球飞行",
-"鲁坦"
-]
-},
-{
 "id": "1987-01-01-mitochondrial-eve",
 "date": "1987-01-01",
 "date_accuracy": "exact",
