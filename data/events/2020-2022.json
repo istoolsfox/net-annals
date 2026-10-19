@@ -942,5 +942,36 @@
 "新十条",
 "防疫优化"
 ]
+},
+{
+"id": "2022-11-30-chatgpt-launch",
+"date": "2022-11-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 发布：对话式 AI 点燃全球",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "OpenAI 悄然上线一个能聊天、写代码、答考题的对话模型 ChatGPT，5 天用户破百万、2 个月月活破亿，成为史上增长最快的消费应用。普通人第一次和『会思考的机器』长谈——人工智能从此走进了每个人的聊天框。",
+"detail": "ChatGPT 基于 GPT-3.5 系列模型，以对话界面免费开放。上线两个月月活破 1 亿，打破 TikTok 纪录。它让大语言模型能力第一次被大众直观感知，引发全球科技公司的紧急跟进与『AI 军备竞赛』。",
+"impact": "科技产业的资本、人才与舆论全面转向 AI；办公、教育、内容生产的范式被重新讨论。",
+"aftermath": "GPT-4（2023-03）能力再跃迁；中国 2023 年爆发『百模大战』，2025 年 DeepSeek-R1 以开源与低成本改写竞争格局。『AI+一切』成为此后数年的主叙事。",
+"sources": [
+{
+"title": "OpenAI: ChatGPT 发布公告",
+"url": "https://openai.com/index/chatgpt/",
+"type": "official"
+},
+{
+"title": "Wikipedia: ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"ChatGPT",
+"人工智能",
+"OpenAI"
+]
 }
 ]
