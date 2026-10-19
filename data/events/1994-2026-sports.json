@@ -818,39 +818,6 @@
 ]
 },
 {
-"id": "2002-02-16-yang-yang-first-chinese-winter-gold",
-"date": "2002-02-16",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "杨扬盐湖城夺金：中国实现冬奥金牌零的突破",
-"category": "world",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2002年2月16日，短道速滑名将杨扬在盐湖城冬奥会女子500米决赛率先冲线，为中国夺得历史上第一枚冬奥会金牌。从1980年首次参赛算起，中国冰雪等了22年才听到国歌在冬奥赛场奏响。",
-"detail": "此前中国冬奥军团历经长野6银的遗憾，金牌始终差一口气。盐湖城冬奥会500米短道决赛，27岁的杨扬(A)顶住压力一路领滑，以44秒187率先撞线，大杨扬举起中国冬奥史上第一金；几天后她又在1000米再下一城，一人独得两金。队友杨阳(小杨扬)、王春露、李佳军组成的短道军团同期屡上领奖台，中国冰雪项目就此完成从“有牌无金”到“金牌户”的跨越。消息传回国内，国家体育总局和各省电贺，短道速滑自此成为中国冬奥的王牌项目。",
-"impact": "中国冬奥金牌零的突破极大提振了冰雪运动士气，短道速滑被确立为重点发展项目，为北京日后申办冬奥会积累了底气。",
-"aftermath": "杨扬退役后当选国际奥委会委员、出任世界反兴奋剂机构副主席；中国队在2022年北京冬奥会上以9金创下历史最佳，杨扬正是这条路线的起点。",
-"sources": [
-{
-"title": "2002 in sports - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2002_in_sports",
-"type": "wiki"
-},
-{
-"title": "Yang Yang (speed skater, born 1976) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Yang_Yang_(speed_skater,_born_1976)",
-"type": "wiki"
-}
-],
-"tags": [
-"冬奥会",
-"杨扬",
-"短道速滑",
-"首金",
-"盐湖城"
-]
-},
-{
 "id": "2002-06-30-brazil-fifth-world-cup",
 "date": "2002-06-30",
 "date_accuracy": "exact",
@@ -2466,6 +2433,232 @@
 "郎平",
 "朱婷",
 "十冠王"
+]
+},
+{
+"id": "2020-01-26-kobe-bryant-dies",
+"date": "2020-01-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "科比坠机离世：一代人的青春记忆定格",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "2020年1月26日，NBA传奇球星科比·布莱恩特与13岁的二女儿Gianna等9人在加州卡拉巴萨斯因直升机坠毁遇难，年仅41岁。消息传出当天，全球体育界与无数中国球迷陷入悲痛，洛杉矶国际机场更名致哀。",
+"detail": "事发当天科比正带女儿前往曼巴体育学院参加青少年比赛。大雾中直升机坠毁于卡拉巴萨斯山间，机上9人无一生还。消息由TMZ首发后，NBA各队当晚开球故意24秒违例与8秒违例致敬；斯台普斯中心外堆满鲜花与球衣，中国社交媒体服务器一度被悼念内容挤爆——科比曾5次夺得NBA总冠军、18次入选全明星，退役战60分的夜晚和“凌晨四点的洛杉矶”是整整一代中国球迷的集体记忆。2020年8月24日（8/24日），洛杉矶正式设立“科比日”。",
+"impact": "科比的离去成为21世纪全球体育界最大的集体哀悼事件之一，曼巴精神被无数行业引为精神遗产。",
+"aftermath": "湖人同年10月夺冠，詹姆斯率队把冠军献给科比；2026年NBA在其家乡费城举办全明星致敬环节。",
+"sources": [
+{
+"title": "2020 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2020_in_sports",
+"type": "wiki"
+},
+{
+"title": "Death of Kobe Bryant - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Death_of_Kobe_Bryant",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"科比",
+"坠机",
+"曼巴精神",
+"洛杉矶"
+]
+},
+{
+"id": "2020-03-11-nba-season-suspended-covid",
+"date": "2020-03-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "戈贝尔确诊：NBA率先停摆，全球体育按下暂停键",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "2020年3月11日晚，爵士中锋戈贝尔新冠检测呈阳性，NBA当即宣布无限期停摆——这是北美四大联盟第一家因疫情停摆的职业联赛。此后几天全球赛事接连取消，职业体育第一次大规模空场乃至停摆。",
+"detail": "戈贝尔确诊前几天还曾在更衣室故意触摸所有话筒调侃疫情，停摆决定在他确诊后几分钟内即告做出。同日汤姆·汉克斯夫妇确诊、世卫组织宣布全球大流行，“体育停摆”与“世界暂停”同步到来：此后欧洲五大联赛全部停摆，温网75年来首次取消，北美NHL、MLB相继停赛。NBA随后在奥兰多迪士尼打造隔离“泡泡园区”，7月底复赛，10月11日湖人4比2击败热火夺冠——詹姆斯把这座冠军献给逝去的科比，空场比赛与电子观众声成为2020年独特的体育景观。",
+"impact": "疫情停摆让职业体育的收入模式（门票、转播日程）遭受空前冲击，也推动了空场、隔离园区、密集赛程等新玩法。",
+"aftermath": "“泡泡”被视为防疫范本，NFL、MLB相继效仿；2021赛季起球迷逐步回归，但疫情造成的亏损让多支球队至今仍在瘦身。",
+"sources": [
+{
+"title": "2020 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2020_in_sports",
+"type": "wiki"
+},
+{
+"title": "Impact of the COVID-19 pandemic on sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_sports",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"疫情",
+"停摆",
+"泡泡园区",
+"戈贝尔"
+]
+},
+{
+"id": "2020-03-24-tokyo-olympics-postponed",
+"date": "2020-03-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东京奥运会宣布推迟一年：和平时期首次延期",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "2020年3月24日，国际奥委会与日本政府宣布东京奥运会推迟至2021年举行——这是现代奥运会124年历史上第一次在和平时期延期，此前只有1916、1940、1944年三届因世界大战取消。",
+"detail": "随着全球疫情蔓延，加拿大、澳大利亚先后宣布不派队参赛，运动员们陷入“练还是不练”的两难。3月24日晚，日本首相安倍晋三与国际奥委会主席巴赫电话会谈后联合宣布：奥运会推迟一年、保留“东京2020”名称。延期造成预算追加数十亿美元，东京奥组委主席数度换人，赞助商合约重签；运动员则经历奥运史上最漫长的一个“冲刺年”。2021年7月23日，东京奥运会终于在空场或限场条件下开幕。",
+"impact": "奥运推迟波及全球体育日历重排、数十亿美元预算与转播合约调整，“奥运能否举办”一度成为全球公共话题。",
+"aftermath": "东京奥运会最终空场举行，日本民众支持率一度不足五成；延期模式为2022年北京冬奥、2024巴黎奥运的防疫办赛提供了参照。",
+"sources": [
+{
+"title": "2020 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2020_in_sports",
+"type": "wiki"
+},
+{
+"title": "2020 Summer Olympics - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2020_Summer_Olympics",
+"type": "wiki"
+}
+],
+"tags": [
+"奥运会",
+"东京",
+"延期",
+"疫情",
+"国际奥委会"
+]
+},
+{
+"id": "2021-05-22-gansu-ultramarathon-disaster",
+"date": "2021-05-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "甘肃白银越野赛21人遇难：中国越野跑至暗一日",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年5月22日，甘肃白银黄河石林百公里越野赛遭遇极端天气，失温夺走21名参赛者生命，其中包括多位顶尖越野跑选手。这是中国体育赛事史上最惨痛的事故之一，全国赛事安保与强制装备标准随之全面收紧。",
+"detail": "比赛当天百公里赛道高海拔赛段突降冻雨、冰雹并伴随大风，气温骤降，大量选手在无人区失温倒地。牧羊人朱可铭救下6名选手的事迹广为流传，但包括冠军热门梁晶、听障选手黄关军在内的21人不幸遇难。国务院调查组认定这是一起因极端天气引发的“特别重大公共安全责任事件”，赛事运营公司与多名地方官员被追责。中国田径协会随即暂停全部越野赛事整顿，强制装备清单、GPS定位、退出机制等标准全面重写。",
+"impact": "事故让“极限运动的商业化乱象”进入公共视野，中国户外赛事的审批、保险、救援体系被推倒重建。",
+"aftermath": "此后国内越野赛事数量一度腰斩，规范性文件密集出台；白银赛道永久停办，遇难者纪念碑立在黄河石林景区。",
+"sources": [
+{
+"title": "2021 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_sports",
+"type": "wiki"
+}
+],
+"tags": [
+"越野赛",
+"事故",
+"甘肃",
+"失温",
+"赛事安全"
+]
+},
+{
+"id": "2021-07-10-messi-first-copa-america",
+"date": "2021-07-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "梅西首夺美洲杯：阿根廷马拉卡纳终结28年冠军荒",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "2021年7月10日，美洲杯决赛在里约马拉卡纳球场进行，迪马利亚挑射破门，阿根廷1比0击败东道主巴西夺冠。34岁的梅西终于捧起国家队首座重大冠军奖杯，阿根廷28年的国家队冠军荒就此终结。",
+"detail": "梅西此前四次随队倒在大赛决赛，2016年一度心灰意冷宣布退出国家队。这届因疫情移师巴西的美洲杯上，他打进4球、送出5次助攻，包揽最佳球员、最佳射手与助攻王。决赛第22分钟，迪马利亚接德保罗长传挑过出击的埃德森破门，阿根廷1比0复仇东道主。终场哨响，队友们第一时间把梅西推到C位狂欢，他在马拉卡纳草皮上双手指天的画面传遍世界。这座奖杯卸下了“梅西无国家队冠军”的枷锁，一年后的卡塔尔他更进一步捧起世界杯。",
+"impact": "梅西完成国家队拼图的第一块，阿根廷的团队信心被彻底点燃，为2022世界杯夺冠铺平了心理道路。",
+"aftermath": "2024年阿根廷再夺美洲杯实现卫冕；梅西2023年第八次夺得金球奖后远赴迈阿密，国家队战绩仍保持统治力。",
+"sources": [
+{
+"title": "2021 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_sports",
+"type": "wiki"
+},
+{
+"title": "2021 Copa América - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_Copa_Am%C3%A9rica",
+"type": "wiki"
+}
+],
+"tags": [
+"美洲杯",
+"梅西",
+"阿根廷",
+"马拉卡纳",
+"迪马利亚"
+]
+},
+{
+"id": "2021-08-01-su-bingtian-983",
+"date": "2021-08-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苏炳添9秒83：黄种人第一次站上奥运百米决赛跑道",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年8月1日晚，东京奥运会男子100米半决赛，32岁的苏炳添跑出9秒83刷新亚洲纪录，以小组第一昂首挺进决赛——成为奥运百米决赛历史上第一位中国选手、首位站上这条跑道的黄种人运动员。",
+"detail": "半决赛第3组，苏炳添起跑反应0.142秒全场最快，途中跑一气呵成，9秒83把亚洲纪录向前推了0.08秒，以第一名的身份改写历史。几小时后的决赛，他以9秒98获得第六名，虽然与奖牌无缘，但“苏神”已经完成了亚洲短跑几代人的梦想。此前他已于2018年两度跑出9秒91，还与国际团队合作改换起跑脚，32岁“高龄”仍在突破生理极限。决赛当日恰逢中国奥运健儿多线开花，苏炳添的名字冲上热搜第一。",
+"impact": "百米“黄种人不行”的论断被9秒83击碎，苏炳添成为速度科学与中国田径的国民级偶像，暨南大学副教授的他在2023年获评运动训练学教授。",
+"aftermath": "此后亚洲百米纪录无人撼动，2023年苏炳添宣布因伤淡出赛场并转型任教；东京半决赛的9秒83至今仍是他职业生涯的巅峰一枪。",
+"sources": [
+{
+"title": "2021 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_sports",
+"type": "wiki"
+},
+{
+"title": "Su Bingtian - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Su_Bingtian",
+"type": "wiki"
+}
+],
+"tags": [
+"田径",
+"苏炳添",
+"百米",
+"亚洲纪录",
+"东京奥运"
+]
+},
+{
+"id": "2021-08-05-quan-hongchan-perfect-dives",
+"date": "2021-08-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "全红婵东京满分三跳：14岁天才少女一战封神",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年8月5日，14岁的广东姑娘全红婵在东京奥运会女子10米台决赛中三跳获得满分，以466.20分的奥运历史最高分夺冠。这位来自湛江农村的少女一夜之间成为全民宠儿，“想赚钱给妈妈治病”的采访让无数人泪目。",
+"detail": "全红婵7岁练跳水，入选国家队不满一年就顶替名将出征东京。决赛五跳中，她的第二、四、五跳（407C、6243D等动作）被7名裁判齐刷刷打出满分10分，最终以466.20分夺冠——这是女子10米台奥运史上的最高分，队友陈芋汐摘银。赛后采访中她说妈妈生病、自己想挣钱治病，朴素的话语与惊人的天赋形成巨大反差，全网感动。此后她与陈芋汐组成“双子星”，巴黎周期继续统治女子跳台。",
+"impact": "中国跳水“梦之队”完成新老交替，全红婵成为现象级国民偶像，乡村体育成才路径引发全民讨论。",
+"aftermath": "2024年巴黎奥运她包揽10米台单人与双人两金，蝉联奥运冠军；“水花消失术”成为体育圈流行语，商业代言始终被家庭低调管理。",
+"sources": [
+{
+"title": "2021 in sports - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_sports",
+"type": "wiki"
+},
+{
+"title": "Quan Hongchan - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Quan_Hongchan",
+"type": "wiki"
+}
+],
+"tags": [
+"跳水",
+"全红婵",
+"满分",
+"东京奥运",
+"梦之队"
 ]
 }
 ]
