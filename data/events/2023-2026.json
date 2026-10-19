@@ -74,6 +74,31 @@
 ]
 },
 {
+"id": "2023-03-01-zibo-bbq",
+"date": "2023-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "淄博烧烤出圈：大学生组团『进淄赶烤』",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一批大学生周末坐高铁去淄博吃烧烤，小饼卷肉的灵魂吃法经短视频引爆全国。一座重工业老城凭『好客+实在』成为顶流——文旅局长们连夜抄作业。",
+"detail": "3月起客流暴增，五一假期淄博高铁票秒空，官方增设21条烧烤公交专线。",
+"impact": "城市文旅营销进入『网红化』时代。",
+"aftermath": "哈尔滨（2024）、天水（2024）、隰县小西天（2024）接力出圈；『泼天富贵』成为文旅关键词。",
+"sources": [
+{
+"title": "维基百科：淄博烧烤",
+"url": "https://zh.wikipedia.org/wiki/淄博",
+"type": "wiki"
+}
+],
+"tags": [
+"淄博烧烤",
+"文旅"
+]
+},
+{
 "id": "2023-03-10-saudi-iran-deal",
 "date": "2023-03-10",
 "date_accuracy": "exact",
@@ -99,28 +124,30 @@
 ]
 },
 {
-"id": "2023-03-01-zibo-bbq",
-"date": "2023-03-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "淄博烧烤出圈：大学生组团『进淄赶烤』",
-"category": "society",
-"region": "cn",
+"id": "2023-03-13-stanford-alpaca",
+"date": "2023-03-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "斯坦福 Alpaca 开源：600美元『克隆』出一个 ChatGPT",
+"category": "tech",
+"region": "world",
 "milestone": false,
-"summary_30s": "一批大学生周末坐高铁去淄博吃烧烤，小饼卷肉的灵魂吃法经短视频引爆全国。一座重工业老城凭『好客+实在』成为顶流——文旅局长们连夜抄作业。",
-"detail": "3月起客流暴增，五一假期淄博高铁票秒空，官方增设21条烧烤公交专线。",
-"impact": "城市文旅营销进入『网红化』时代。",
-"aftermath": "哈尔滨（2024）、天水（2024）、隰县小西天（2024）接力出圈；『泼天富贵』成为文旅关键词。",
+"summary_30s": "2023年3月13日，斯坦福团队发布 Alpaca：用不到600美元、52K条自造数据微调 Meta 的 LLaMA-7B，跑出了接近 GPT-3.5 的指令跟随能力。大模型的『复刻成本』一夜之间跌进实验室预算——开源模型军备竞赛就此引爆。",
+"detail": "Alpaca 的关键创新是 Self-Instruct 数据合成：让 GPT-3.5 自己生成指令-回答对，再喂给开源底座。性能不是全部意义——它证明了『对齐（指令微调）比预训练便宜得多』，两周内 Vicuna（用共享对话微调，性价比报告碾压）、Dolly、中文圈『骆驼』等衍生模型井喷，形成以 LLaMA 为中心的模型动物园。Meta 最初限制研究用途，开源权重仍被泄露扩散；7个月后 Meta 干脆转向开放路线（Llama 2 可商用）。中国开源模型（Qwen、DeepSeek、ChatGLM）的崛起路径与此同构：开源底座+垂直微调+成本优势。",
+"impact": "确立『开源底座+指令微调』的普惠路线，大模型能力民主化的分水岭。",
+"aftermath": "2024-2025年开源阵营（Llama/Qwen/DeepSeek）与闭源（GPT/Claude）的性能差距持续收窄；数据合成成为标配方法论。",
 "sources": [
 {
-"title": "维基百科：淄博烧烤",
-"url": "https://zh.wikipedia.org/wiki/淄博",
+"title": "Wikipedia: Stanford Alpaca",
+"url": "https://en.wikipedia.org/wiki/Stanford_Alpaca",
 "type": "wiki"
 }
 ],
 "tags": [
-"淄博烧烤",
-"文旅"
+"Alpaca",
+"LLaMA",
+"开源模型",
+"指令微调"
 ]
 },
 {
@@ -199,6 +226,33 @@
 ]
 },
 {
+"id": "2023-09-14-arm-ipo",
+"date": "2023-09-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Arm 重返纳斯达克：2023年全球最大 IPO",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2023年9月14日，芯片 IP 巨头 Arm 在纳斯达克挂牌，募资48.7亿美元——当年全球最大 IPO。软银2016年私有化它花了320亿美元，七年后以约650亿美元市值重新公开，孙正义的豪赌等来了兑现窗口。",
+"detail": "Arm 掌握着全球99%智能手机芯片的指令集架构授权，商业模式是『卖图纸』（IP 授权+版税）。IPO 由软银主导（仍持股约90%），恰逢 AI 驱动的芯片景气周期，定价51美元、首日涨25%。它的意义超出资本市场：AI 服务器需要高能效 CPU（Arm 的 Grace/NVIDIA 合作）、PC 市场被苹果 M 系列证明 Arm 架构可以挑战 x86；对中国的意味同样复杂——Arm 中国合资公司（Armi China）的治理争议贯穿IPO进程，而国产架构（RISC-V）正借地缘窗口加速替代。Arm 的股价后来在 AI 浪潮中一度突破180美元，市值超过英特尔——『不造芯片的芯片公司』重新成为行业定价的锚。",
+"impact": "全球芯片业景气度的风向标，软银投资哲学的翻身之仗。",
+"aftermath": "RISC-V 阵营扩张与 Arm 授权费涨价并行；2025年 Arm 自研芯片计划曝光，与客户（苹果/高通）关系微妙。",
+"sources": [
+{
+"title": "Wikipedia: Arm Holdings",
+"url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+"type": "wiki"
+}
+],
+"tags": [
+"Arm",
+"软银",
+"IPO",
+"芯片IP"
+]
+},
+{
 "id": "2023-09-23-hangzhou-asian-games",
 "date": "2023-09-23",
 "date_accuracy": "exact",
@@ -220,6 +274,31 @@
 ],
 "tags": [
 "杭州亚运"
+]
+},
+{
+"id": "2023-09-28-evergrande-xujiayin",
+"date": "2023-09-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "许家印被依法采取强制措施：恒大时代落幕",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "恒大集团公告称许家印因涉嫌违法犯罪被依法采取强制措施。曾是中国首富、公司年销7000亿的地产帝国，最终留下2.4万亿负债和遍地停工楼盘。",
+"detail": "2021年恒大流动性危机爆发后，理财兑付、美元债违约相继发生；2024年3月港交所对恒大地产作出退市决定（2025年完成）。",
+"impact": "地产行业出清的标志性节点。",
+"aftermath": "保交楼持续推进；房企从开发模式转向代建与运营。",
+"sources": [
+{
+"title": "维基百科：恒大集团",
+"url": "https://zh.wikipedia.org/wiki/恒大集团",
+"type": "wiki"
+}
+],
+"tags": [
+"恒大",
+"许家印"
 ]
 },
 {
@@ -248,28 +327,30 @@
 ]
 },
 {
-"id": "2023-09-28-evergrande-xujiayin",
-"date": "2023-09-28",
+"id": "2023-11-29-pdd-surpasses-baba",
+"date": "2023-11-29",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "许家印被依法采取强制措施：恒大时代落幕",
+"title": "拼多多市值超越阿里：低价时代的加冕",
 "category": "company",
 "region": "cn",
-"milestone": false,
-"summary_30s": "恒大集团公告称许家印因涉嫌违法犯罪被依法采取强制措施。曾是中国首富、公司年销7000亿的地产帝国，最终留下2.4万亿负债和遍地停工楼盘。",
-"detail": "2021年恒大流动性危机爆发后，理财兑付、美元债违约相继发生；2024年3月港交所对恒大地产作出退市决定（2025年完成）。",
-"impact": "地产行业出清的标志性节点。",
-"aftermath": "保交楼持续推进；房企从开发模式转向代建与运营。",
+"milestone": true,
+"summary_30s": "2023年11月29日，拼多多（PDD）市值首次超越阿里巴巴——成立仅8年的公司登顶中概股之王。马云在内网发声『祝贺拼多多，相信明天的阿里』，这句祝贺背后是电商行业权杖的正式交接。",
+"detail": "拼多多的登顶路径反共识：不追消费升级，死磕『多实惠、多乐趣』——社交裂变+百亿补贴+仅退款，把价格敏感人群做成了基本盘；Temu（2022年9月上线）把全托管模式输出海外，两年覆盖50+国家、美国下载榜霸屏，成为增长第二引擎。阿里的反应用了两年：回归淘宝天猫主业、88VIP调整、2024年发起低价战略，效果有限。市值易主的信号意义大于数字本身：中国电商从『消费升级』叙事切换到『性价比』叙事，直播电商（抖音）与海外（Temu/Shein）成为双主场。此后京东、阿里相继跟进『仅退款』（2024年又因商家反弹而逐步取消），行业进入低价内卷与品质博弈的再平衡。",
+"impact": "电商行业权杖交接的标志性时刻，低价心智成为全行业主战场。",
+"aftermath": "2024年各平台逐步放宽仅退款；Temu 在美国遭遇关税与de minimis政策冲击，出海模式被迫升级。",
 "sources": [
 {
-"title": "维基百科：恒大集团",
-"url": "https://zh.wikipedia.org/wiki/恒大集团",
+"title": "Wikipedia: 拼多多",
+"url": "https://zh.wikipedia.org/wiki/拼多多",
 "type": "wiki"
 }
 ],
 "tags": [
-"恒大",
-"许家印"
+"拼多多",
+"Temu",
+"市值",
+"低价电商"
 ]
 },
 {
@@ -345,6 +426,33 @@
 "tags": [
 "伊朗",
 "以色列"
+]
+},
+{
+"id": "2024-06-11-apple-intelligence",
+"date": "2024-06-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Apple Intelligence 发布：苹果的 AI 补票",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2024年6月11日 WWDC，苹果发布 Apple Intelligence：系统级 AI 整合写作、图像与 Siri，并与 OpenAI 合作接入 ChatGPT。在 AI 军备竞赛中缺席一年半后，苹果终于交出答卷——『端侧+隐私』成为它与云巨头对打的差异化叙事。",
+"detail": "Apple Intelligence 的核心牌是三件套：3nm 端侧小模型（跑在 A17 Pro/M 芯片上）、私有云计算（Private Cloud Compute，数据不出设备除非必要）、以及『把 AI 做进系统』的交互（通知摘要、照片检索、Siri 重构）。与 OpenAI 的合作引发马斯克等对隐私的抨击，也标志着『封闭生态拥抱外部大模型』的姿态转变。落地并不顺利：核心功能跳票、Siri 大改推迟到2025年后，股价一度因『AI 故事讲不动』承压。但它带动的端侧 AI 路线（高通/联发科跟进、国产手机厂商全面对标）把『AI 手机』变成了行业新换机周期的话术。",
+"impact": "确立端侧 AI 与隐私叙事的第三条路线，智能手机行业进入 AI 换机周期。",
+"aftermath": "2025年苹果重组 AI 团队并引入外部模型重构 Siri；端侧小模型与云模型的混合架构成为行业标配。",
+"sources": [
+{
+"title": "Wikipedia: Apple Intelligence",
+"url": "https://en.wikipedia.org/wiki/Apple_Intelligence",
+"type": "wiki"
+}
+],
+"tags": [
+"Apple Intelligence",
+"端侧AI",
+"Siri",
+"苹果"
 ]
 },
 {
@@ -448,6 +556,33 @@
 ]
 },
 {
+"id": "2024-11-05-trump-comeback",
+"date": "2024-11-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特朗普再度当选：美国政治的『王者归来』",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2024年11月5日，特朗普击败哈里斯再度当选美国总统，成为130多年来首位卸任后重返白宫的前总统。四年前败选、弹劾、刑事定罪的『戴罪之身』完成史上罕见的政治翻盘，全球经贸与地缘格局再度悬置。",
+"detail": "特朗普以『让美国再次伟大』+经济民生议题横扫七个摇摆州，普选票也反超（共和党16年来首次赢得普选多数），共和党同时夺回参议院并保住众议院。就任后新政密集：对华关税升级（10%起步逐轮加码）、退出巴黎协定与世卫、马斯克执掌『政府效率部』、大规模遣返与联邦机构裁员。对中美关系，第一任期确立的『竞争+脱钩』框架全面加码：芯片与AI管制收紧、留学生签证收紧、台海与关税牌轮番打出。全球供应链『中国+1』与各国对冲策略加速，世界进入『双轨并行』的长期准备状态。",
+"impact": "美国政治极化的顶点确认，全球贸易体系进入高关税常态。",
+"aftermath": "2025年关税战冲击全球市场；中美在日内瓦等轮番谈判，『斗而不破』与极限施压并行。",
+"sources": [
+{
+"title": "Wikipedia: 2024 United States presidential election",
+"url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+"type": "wiki"
+}
+],
+"tags": [
+"特朗普",
+"美国大选",
+"关税",
+"地缘政治"
+]
+},
+{
 "id": "2024-11-06-trump-reelected",
 "date": "2024-11-06",
 "date_accuracy": "exact",
@@ -531,10 +666,10 @@
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "哪吒2以154亿元票房登顶全球动画电影票房榜、冲进全球影史前五，把《头脑特工队2》《星球大战》们统统甩在身后。『我命由我不由天』续写第二部，中国动画工业终于站上世界之巅。",
-"detail": "春节档票房破纪录，单片观影人次超3亿；海外上映刷新华语片纪录。",
-"impact": "国产动画工业化能力获得全球级验证。",
-"aftermath": "光线传媒股价暴涨；饺子团队新作与《哪吒3》筹备成为长期话题。",
+"summary_30s": "2025年1月29日（大年初一），《哪吒之魔童闹海》上映。这部饺子执导的续作最终全球票房超过150亿元，登顶全球动画电影票房榜、杀入全球影史票房前五——中国动画用二十年在世界票房版图上插了旗。",
+"detail": "前作《哪吒之魔童降世》（2019）50亿票房埋下的期待，在续作全面兑现：申公豹家族与哪吒的重逢、天劫之后的反抗叙事，配上1400多个特效镜头、全国138家动画公司参与的工业化制作。春节档一路势如破竹：票房打破74项纪录，2月18日超越《头脑特工队2》（12.02亿美元）登顶全球动画票房榜，3月跻身全球影史票房前五（首部进入前十的非好莱坞影片），最终全球票房超154亿元人民币（约21亿美元）。海外市场同步引爆：北美IMAX上座率爆棚，澳大利亚、新西兰多地加场。它也被视为中国电影工业化的成人礼——上千家本土公司在统一流程下交付出好莱坞级别的完成度。",
+"impact": "全球动画票房榜首次由中国动画登顶，中国电影工业化的能力获得世界级验证。",
+"aftermath": "光线传媒股价随之暴涨；『哪吒之后中国动画怎么走』成为行业新命题，片尾彩蛋预告的第三部被寄予厚望。",
 "sources": [
 {
 "title": "维基百科：哪吒之魔童闹海",
@@ -544,7 +679,9 @@
 ],
 "tags": [
 "哪吒2",
-"票房"
+"动画电影",
+"票房纪录",
+"中国动画"
 ]
 },
 {

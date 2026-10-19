@@ -50,853 +50,30 @@
 ]
 },
 {
-"id": "2015-06-12-stock-crash-2015",
-"date": "2015-06-12",
+"id": "2015-04-25-nepal-earthquake",
+"date": "2015-04-25",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "A股冲上5178点后崩塌：2015股灾开始",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "杠杆牛把沪指推上5178.19点，随后三周千股跌停轮番上演，证监会救市队携万亿资金进场仍难止跌。配资爆仓、中产割肉——这场股灾改变了一代人的财富观。",
-"detail": "场外配资清理引爆连锁强平，7月千股停牌创纪录，公安部介入查恶意做空。",
-"impact": "家庭财富大洗牌，金融监管体系重审。",
-"aftermath": "2016年熔断机制四天夭折；资管新规（2018）全面去杠杆。",
-"sources": [
-{
-"title": "维基百科：2015年中国股灾",
-"url": "https://zh.wikipedia.org/wiki/2015年中国股灾",
-"type": "wiki"
-}
-],
-"tags": [
-"股灾",
-"5178"
-]
-},
-{
-"id": "2015-12-08-ezubao",
-"date": "2015-12-08",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "e租宝被查：500亿非法集资案震动全国",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "广告打遍央视地铁的P2P平台e租宝被定性为非法集资，90万投资人500多亿元资金卷入。高息理财的神话破灭，P2P行业此后整体走向消亡。",
-"detail": "丁宁等人以融资租赁债权转让为名吸收资金，实为庞氏结构。2017年主犯被判无期。",
-"impact": "互联网金融从野蛮生长转向强监管。",
-"aftermath": "2020年11月P2P平台全部清零；非法集资刑事追责持续。",
-"sources": [
-{
-"title": "维基百科：e租宝",
-"url": "https://zh.wikipedia.org/wiki/e租宝",
-"type": "wiki"
-}
-],
-"tags": [
-"e租宝",
-"P2P"
-]
-},
-{
-"id": "2015-10-08-meituan-dianping",
-"date": "2015-10-08",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "美团与大众点评合并：本地生活双雄合一",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "团购战场最后的两强握手合并，王兴把外卖、到店、酒旅整合成『超级平台』。此后十年，你手机里那个黄蓝相间的图标，决定了几百万骑手的生计和无数餐馆的流量。",
-"detail": "合并估值约150亿美元，张涛淡出，王兴主导转型。2018年美团点评登陆港交所。",
-"impact": "本地生活服务进入一家独大时代。",
-"aftermath": "2018年收购摩拜、2020年推出美团优选；骑手权益与佣金争议持续成为公共议题。",
-"sources": [
-{
-"title": "维基百科：美团",
-"url": "https://zh.wikipedia.org/wiki/美团",
-"type": "wiki"
-}
-],
-"tags": [
-"美团点评",
-"合并"
-]
-},
-{
-"id": "2015-10-29-two-child-policy",
-"date": "2015-10-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "全面二孩政策宣布：35年独生子女时代转向",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "十八届五中全会宣布全面实施一对夫妇可生育两个孩子政策，2016年1月1日落地。实施35年的独生子女政策正式谢幕，产科医院随即一号难求。",
-"detail": "2013年单独二孩遇冷后，生育政策加速调整。2016年出生人口1786万创2000年以来新高，随后连年下滑。",
-"impact": "母婴、教育、房产改善型需求短期爆发。",
-"aftermath": "2021年三孩政策+双减同年落地；出生人口2023年降至902万，生育支持成为国策级议题。",
-"sources": [
-{
-"title": "维基百科：中华人民共和国生育政策",
-"url": "https://zh.wikipedia.org/wiki/计划生育",
-"type": "wiki"
-}
-],
-"tags": [
-"全面二孩",
-"生育政策"
-]
-},
-{
-"id": "2016-01-04-circuit-breaker",
-"date": "2016-01-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "熔断机制实施四天即叫停",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "借鉴美股的熔断机制上线第一天就两次触发提前收市，四个交易日A股蒸发约6万亿市值，管理层连夜叫停。『熔断』成为A股史上最短命的制度创新。",
-"detail": "1月4日、1月7日两次熔断，7日全天交易不足30分钟。1月8日起暂停实施。",
-"impact": "散户对制度设计产生信任危机，量化与波动率研究兴起。",
-"aftermath": "此后监管更倾向窗口指导与资金面调节；2024年量化新规补课。",
-"sources": [
-{
-"title": "维基百科：熔断机制",
-"url": "https://zh.wikipedia.org/wiki/熔断机制",
-"type": "wiki"
-}
-],
-"tags": [
-"熔断",
-"A股"
-]
-},
-{
-"id": "2016-03-09-alphago-vs-lee",
-"date": "2016-03-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "AlphaGo 4:1 李世石：围棋神殿被AI攻破",
-"category": "milestone",
-"region": "world",
-"milestone": true,
-"summary_30s": "DeepMind 的 AlphaGo 在首尔以4:1战胜李世石，第37手『神之一手』让解说当场语塞。人类最后的智力骄傲堡垒之一被攻破——『人工智能要取代人类』从此不是科幻句式。",
-"detail": "AlphaGo 结合深度神经网络与蒙特卡洛树搜索，此前2015年10月击败樊麾。李世石第四局『神之一挖』为人类扳回一城。",
-"impact": "AI 投资与人才争夺全面引爆，深度学习成为显学。",
-"aftermath": "2017年 AlphaGo Zero 自学成才碾压旧版；2022年 ChatGPT 把 AI 从棋盘推向每个聊天框。",
-"sources": [
-{
-"title": "Wikipedia: AlphaGo versus Lee Sedol",
-"url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
-"type": "wiki"
-}
-],
-"tags": [
-"AlphaGo",
-"人工智能"
-]
-},
-{
-"id": "2016-07-28-rideshare-legal",
-"date": "2016-07-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "网约车合法化：新经济第一次拿到身份证",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "国务院办公厅与七部委联合出台新政，网络预约出租汽车正式合法，中国成为全球主要经济体中率先给网约车上牌照的国家。『共享经济』从此有了法律身份。",
-"detail": "新政要求平台持证、车辆与驾驶员资质管理，各地实施细则随后落地（京沪户籍限制引发讨论）。",
-"impact": "出行市场从灰色地带转入监管框架。",
-"aftermath": "2018年顺风车安全事件推动整改；2025年网约车驾驶员证超800万本。",
-"sources": [
-{
-"title": "维基百科：网约车",
-"url": "https://zh.wikipedia.org/wiki/网约车",
-"type": "wiki"
-}
-],
-"tags": [
-"网约车",
-"共享经济"
-]
-},
-{
-"id": "2016-05-01-wei-zexi",
-"date": "2016-05-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "魏则西事件：竞价排名的道德审判",
-"category": "society",
-"region": "cn",
-"milestone": false,
-"summary_30s": "大学生魏则西因在搜索引擎上找到的『生物免疫疗法』就医被骗、病情延误去世，他在知乎的自述引爆全网对搜索竞价排名医疗广告的声讨。国家调查组进驻，网络广告从此戴上了紧箍咒。",
-"detail": "涉事科室承包方与搜索引擎推广责任被查，网信办等出台《互联网广告管理暂行办法》（2016-09施行）明确付费搜索属广告。",
-"impact": "医疗广告治理与平台责任边界重划。",
-"aftermath": "2022年京东健康等替代渠道兴起；竞价排名争议每隔数年借不同行业重现。",
-"sources": [
-{
-"title": "维基百科：魏则西事件",
-"url": "https://zh.wikipedia.org/wiki/魏则西事件",
-"type": "wiki"
-}
-],
-"tags": [
-"魏则西",
-"竞价排名"
-]
-},
-{
-"id": "2016-09-04-g20-hangzhou",
-"date": "2016-09-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "G20杭州峰会：西湖之夜的全球治理时刻",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "G20第一次在中国举行领导人峰会，《二十国集团创新增长蓝图》与杭州共识发布。文艺晚会『最忆是杭州』的《天鹅湖》在西湖水面起舞，刷屏全球社交媒体。",
-"detail": "峰会推动IMF份额改革落地与《巴黎协定》提前生效，中美率先批准协定成为最大看点。",
-"impact": "中国在全球经济治理中的议程设置能力显著提升。",
-"aftermath": "2017年金砖厦门会晤、2018年上合青岛峰会延续主场外交节奏。",
-"sources": [
-{
-"title": "维基百科：2016年二十国集团杭州峰会",
-"url": "https://zh.wikipedia.org/wiki/2016年二十国集团杭州峰会",
-"type": "wiki"
-}
-],
-"tags": [
-"G20",
-"杭州"
-]
-},
-{
-"id": "2017-01-01-house-price-soar",
-"date": "2017-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "棚改货币化：三四线房价的黄金三岔口",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "央行抵押补充贷款（PSL）给棚改货币化安置输血，三四线城市房价接力一二线普涨。县城学区房过万、返乡青年直呼买不起——地产繁荣的最后一浪铺满全国。",
-"detail": "2015-2018年棚改累计开工超2400万套，PSL投放超3万亿元。2018年下半年政策转向实物安置。",
-"impact": "三四线家庭资产负债表快速房产化。",
-"aftermath": "2021年后三四线楼市率先深度调整，去库存反成压库存。",
-"sources": [
-{
-"title": "维基百科：棚户区改造",
-"url": "https://zh.wikipedia.org/wiki/商品房",
-"type": "wiki"
-}
-],
-"tags": [
-"棚改",
-"三四线房价"
-]
-},
-{
-"id": "2017-05-23-alphago-kejie",
-"date": "2017-05-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "乌镇人机大战：AlphaGo 3:0 柯洁",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "世界第一柯洁三战全负，第二局中盘落泪离席。DeepMind 宣布 AlphaGo 退役，随后公布的 AlphaGo Zero 不再看任何人类棋谱、自我对弈40天超越所有前辈。围棋，人类最古老的智慧游戏，交出了它的最后尊严。",
-"detail": "乌镇峰会三番棋柯洁全部告负，聂卫平称 AlphaGo 是『围棋上帝』。",
-"impact": "AI 能力的天花板被重新定义，强化学习热潮兴起。",
-"aftermath": "AlphaGo 技术转向蛋白质折叠（AlphaFold 2020），拿下诺贝尔化学奖（2024）。",
-"sources": [
-{
-"title": "Wikipedia: AlphaGo versus Ke Jie",
-"url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Ke_Jie",
-"type": "wiki"
-}
-],
-"tags": [
-"柯洁",
-"AlphaGo"
-]
-},
-{
-"id": "2017-07-27-wolf-warrior-2",
-"date": "2017-07-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《战狼2》56.8亿：中国影史票房神话",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "吴京自导自演的《战狼2》以56.8亿刷新中国影史纪录，『犯我中华者虽远必诛』点燃暑期档。主旋律与商业大片自此合流，『撤侨『成为国产动作片的标准叙事。",
-"detail": "单片观影人次1.6亿创纪录，非洲取景+撤侨题材呼应现实事件。吴京抵押房产拍摄的故事广为流传。",
-"impact": "主旋律商业化的方法论确立。",
-"aftermath": "《红海行动》《长津湖》系列接力；2021年《长津湖》以57.75亿再破纪录。",
-"sources": [
-{
-"title": "维基百科：战狼2",
-"url": "https://zh.wikipedia.org/wiki/战狼2",
-"type": "wiki"
-}
-],
-"tags": [
-"战狼2",
-"票房"
-]
-},
-{
-"id": "2017-09-04-ico-ban",
-"date": "2017-09-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "七部委叫停ICO：币圈第一记重锤",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "央行等七部委公告定性代币发行融资为非法集资，火币、OKCoin等交易所随后关停境内业务。疯狂的ICO、空气币在一天内被按下暂停键，币圈从此学会说『出海』。",
-"detail": "公告要求已发行项目清退，比特币人民币交易量占全球比例从90%以上迅速归零。",
-"impact": "中国划定加密货币红线，链圈与币圈分道扬镳。",
-"aftermath": "2021年挖矿全面清退；2025年香港持牌虚拟资产交易所试点合规化。",
-"sources": [
-{
-"title": "维基百科：首次代币发行",
-"url": "https://zh.wikipedia.org/wiki/首次代币发行",
-"type": "wiki"
-}
-],
-"tags": [
-"ICO",
-"监管"
-]
-},
-{
-"id": "2017-07-06-leeco-collapse",
-"date": "2017-07-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "贾跃亭辞任乐视董事长并赴美：生态化反的终局",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "乐视资金链断裂发酵一年后，贾跃亭辞去全部职务远走美国『造车』，『下周回国』成为年度最狠梗。乐视这家曾市值1700亿的生态帝国，证明了什么是讲故事融资的极限。",
-"detail": "2016年11月资金危机曝光，供应商上门讨债、员工讨薪持续数年。2017年7月6日贾跃亭辞职，后任 FF 法拉第未来CEO。",
-"impact": "A股讲生态故事的估值逻辑破产，投资者教育惨痛一课。",
-"aftermath": "乐视网2020年退市；贾跃亭个人破产重组（2021），FF 上市后股价长期低迷。",
-"sources": [
-{
-"title": "维基百科：乐视网",
-"url": "https://zh.wikipedia.org/wiki/乐视网",
-"type": "wiki"
-}
-],
-"tags": [
-"乐视",
-"贾跃亭"
-]
-},
-{
-"id": "2018-03-14-hawking-died",
-"date": "2018-03-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "霍金逝世：轮椅上的宇宙向人类告别",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "76岁的史蒂芬·霍金在爱因斯坦生日这天去世。这位把黑洞讲成畅销书的物理学家，是中国读者最熟悉的科学家——他的《时间简史》卖出了2000多万册，虽然大多数人没读完。",
-"detail": "霍金21岁确诊渐冻症、医生预言只剩两年，却活了55年。晚年持续关注AI风险与人类太空移民。",
-"impact": "科学传播的全球偶像谢幕，公众号与朋友圈集体刷屏致敬。",
-"aftermath": "《万物理论》等影视作品延续其影响；渐冻症研究筹资此后多次借其名义发起。",
-"sources": [
-{
-"title": "Wikipedia: Stephen Hawking",
-"url": "https://en.wikipedia.org/wiki/Stephen_Hawking",
-"type": "wiki"
-}
-],
-"tags": [
-"霍金",
-"科学家"
-]
-},
-{
-"id": "2018-04-16-zte-sanction",
-"date": "2018-04-16",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "美国激活对中兴禁售令：芯片断供的当头一棒",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "美国商务部以违反和解协议为由，禁止美国企业向中兴通讯出售元器件，中兴一夜休克。『缺芯少魂』四个字再次刺痛中国——国产替代与自研芯片从此成为全民共识。",
-"detail": "2017年中兴已认罪缴纳8.92亿美元罚款，2018年美方认定其未处罚涉事员工而激活禁令。3个月后中兴以再缴10亿美元罚款、更换管理层和解。",
-"impact": "半导体国产化升格为国家工程。",
-"aftermath": "2019年华为被列实体清单、2023年麒麟回归；国家大基金三期2024年注资3440亿元。",
-"sources": [
-{
-"title": "维基百科：中兴通讯",
-"url": "https://zh.wikipedia.org/wiki/中兴通讯",
-"type": "wiki"
-}
-],
-"tags": [
-"中兴",
-"芯片"
-]
-},
-{
-"id": "2018-03-23-trade-war-start",
-"date": "2018-03-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "中美贸易战开打：301关税落地",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "美国依据301调查对华加征关税，中国同日反制，绵延六年的经贸摩擦拉开帷幕。工厂订单、汇率、股市、留学签证……全球化红利时代的舒适感结束了。",
-"detail": "2018年7月、9月两轮关税各500亿+2000亿美元，2019年再升级；2020年1月第一阶段协议暂时缓和，2025年关税战2.0重启。",
-"impact": "供应链外迁、转口贸易与国产替代三线并行。",
-"aftermath": "2024年后中美在AI、半导体、电动车领域竞争全面化。",
-"sources": [
-{
-"title": "Wikipedia: China–United States trade war",
-"url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war",
-"type": "wiki"
-}
-],
-"tags": [
-"贸易战",
-"中美"
-]
-},
-{
-"id": "2018-07-26-pdd-ipo",
-"date": "2018-07-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "拼多多上市：五环外的胜利",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "成立不到三年、从未盈利的拼多多登陆纳斯达克，市值一度接近2/3个京东。当一线精英还在嘲笑砍一刀时，它用低价拼团把五环外与县城银发族第一次搬上了电商。",
-"detail": "黄峥创办的拼多多2015年9月上线，借微信裂变与产业带白牌起家，2018年7月26日上市，2020年用户数登顶电商第一。",
-"impact": "电商格局从阿里京东双寡头变为三国杀，低价心智重估。",
-"aftermath": "2021年社区团购大战；2022年起 Temu 出海横扫欧美下沉市场。",
-"sources": [
-{
-"title": "维基百科：拼多多",
-"url": "https://zh.wikipedia.org/wiki/拼多多",
-"type": "wiki"
-}
-],
-"tags": [
-"拼多多",
-"黄峥"
-]
-},
-{
-"id": "2018-07-15-vaccine-scandal",
-"date": "2018-07-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "长春长生疫苗造假曝光",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "狂犬病疫苗生产记录造假、百白破疫苗效价不达标接连曝光，举国震怒。药品管理法全面修订、疫苗管理专门立法——这一次，公共愤怒直接加速了法律。",
-"detail": "长春长生被处罚没91亿元并吊销生产许可证，公司强制退市，多名责任人被判刑。",
-"impact": "疫苗生产环节监管彻底重构，全国接种信息可追溯。",
-"aftermath": "2019年《疫苗管理法》施行；2021年民法典设惩罚性赔偿。",
-"sources": [
-{
-"title": "维基百科：长春长生问题疫苗事件",
-"url": "https://zh.wikipedia.org/wiki/疫苗",
-"type": "wiki"
-}
-],
-"tags": [
-"疫苗",
-"食药安全"
-]
-},
-{
-"id": "2018-10-30-jinyong",
-"date": "2018-10-30",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "金庸逝世：武侠时代落幕",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "94岁的金庸在香港病逝。飞雪连天射白鹿，笑书神侠倚碧鸳——几代华人共同的江湖从此没了执笔人。当晚朋友圈被『大闹一场，悄然离去』刷屏。",
-"detail": "金庸15部武侠作品影响影视、游戏与华语文化圈七十年，作品全球销量过亿。",
-"impact": "武侠文化进入永久怀旧期。",
-"aftermath": "金庸作品持续被改编；『武侠』作为类型在短视频时代以二创形式回魂。",
-"sources": [
-{
-"title": "维基百科：金庸",
-"url": "https://zh.wikipedia.org/wiki/金庸",
-"type": "wiki"
-}
-],
-"tags": [
-"金庸",
-"武侠"
-]
-},
-{
-"id": "2018-11-26-gene-edited-babies",
-"date": "2018-11-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "基因编辑婴儿事件：贺建奎震动世界科学界",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "南方科技大学贺建奎宣布世界首例基因编辑婴儿诞生，全球科学家联名谴责，官方迅速立案。最终贺建奎因非法行医获刑三年——伦理红线以最激烈的方式被划出。",
-"detail": "对胚胎CCR5基因编辑的『露露』『娜娜』诞生引发全球科学界强烈反对，调查认定其伪造伦理审查。",
-"impact": "中国科研伦理监管全面收紧，科技伦理审查制度体系化。",
-"aftermath": "2022年科技伦理审查办法出台；基因治疗监管参照国际标准重建。",
-"sources": [
-{
-"title": "维基百科：贺建奎基因编辑婴儿事件",
-"url": "https://zh.wikipedia.org/wiki/基因编辑婴儿事件",
-"type": "wiki"
-}
-],
-"tags": [
-"基因编辑",
-"伦理"
-]
-},
-{
-"id": "2019-01-01-e-commerce-law",
-"date": "2019-01-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《电子商务法》施行：网店、代购、刷单全要管起来了",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "中国首部电商领域综合性法律施行：电商经营者须登记纳税、搭售不得默认勾选、押金退还不得拖延。代购朋友圈集体哀嚎，消费者维权第一次有了体系化武器。",
-"detail": "电商法2018年8月通过，覆盖平台、经营者、配送与争议解决全链条。",
-"impact": "微商代购规范化，平台责任被明确为连带与先行赔付。",
-"aftermath": "2021年《网络交易监督管理办法》细化；直播电商监管沿用其框架。",
-"sources": [
-{
-"title": "维基百科：中华人民共和国电子商务法",
-"url": "https://zh.wikipedia.org/wiki/中华人民共和国电子商务法",
-"type": "wiki"
-}
-],
-"tags": [
-"电商法",
-"消费者"
-]
-},
-{
-"id": "2019-03-26-996-icu",
-"date": "2019-03-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "996.ICU：程序员向加班文化宣战",
-"category": "society",
-"region": "cn",
-"milestone": false,
-"summary_30s": "程序员在 GitHub 上架『996.ICU』项目，控诉『工作996、生病ICU』，数万星标让全球围观中国互联网加班文化。劳动法与 KPI 现实的碰撞，第一次有了国际声量。",
-"detail": "项目列出不遵守劳动法的公司名单，多家外企媒体跟进报道。2021年最高法与人社部发布典型案例明确严重超时加班违法。",
-"impact": "加班文化成为公共议题，互联网行业『过劳』叙事固化。",
-"aftermath": "2022年起大厂批量『去肥增瘦』，裁员与反内卷讨论持续；『00后整顿职场』成为新梗。",
-"sources": [
-{
-"title": "Wikipedia: 996 working hour system",
-"url": "https://en.wikipedia.org/wiki/996_working_hour_system",
-"type": "wiki"
-}
-],
-"tags": [
-"996",
-"劳动权益"
-]
-},
-{
-"id": "2019-04-10-black-hole-photo",
-"date": "2019-04-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "人类首张黑洞照片公布",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "事件视界望远镜把5500万光年外M87星系中心的黑洞拍成了『甜甜圈』，全球六地同步发布。中国科学家参与其中——人类第一次亲眼『看见』引力巨兽的剪影。",
-"detail": "由8台射电望远镜组成的全球网络完成观测，数据量以PB计，冲洗照片耗时两年。",
-"impact": "验证广义相对论强引力场预言，公众科学传播的现象级案例。",
-"aftermath": "2022年银河系中心黑洞照片公布；中国天眼FAST持续产出成果。",
-"sources": [
-{
-"title": "Wikipedia: First image of a black hole",
-"url": "https://en.wikipedia.org/wiki/First_image_of_a_black_hole",
-"type": "wiki"
-}
-],
-"tags": [
-"黑洞",
-"科学"
-]
-},
-{
-"id": "2019-05-16-huawei-entity-list",
-"date": "2019-05-16",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "华为被列入实体清单：科技脱钩元年",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "美国商务部把华为及其68家关联公司列入实体清单，谷歌暂停华为手机GMS服务。这家中国最大科技公司被逼出了『备胎转正』：鸿蒙、HMS、麒麟芯，中国科技自立的叙事从此换了主角。",
-"detail": "禁令历经多次缓期与升级（2020年切断台积电代工），华为手机份额从全球第一跌至Others，2023年Mate 60携麒麟9000S回归。",
-"impact": "中国科技产业全面转向自主可控。",
-"aftermath": "鸿蒙生态2024年独设HarmonyOS NEXT；欧洲、日韩同步收紧对华半导体设备。",
-"sources": [
-{
-"title": "Wikipedia: Huawei entity list controversy",
-"url": "https://en.wikipedia.org/wiki/Huawei",
-"type": "wiki"
-}
-],
-"tags": [
-"华为",
-"实体清单"
-]
-},
-{
-"id": "2019-07-01-shanghai-garbage",
-"date": "2019-07-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "上海强制垃圾分类：你是什么垃圾？",
-"category": "society",
-"region": "cn",
-"milestone": false,
-"summary_30s": "《上海市生活垃圾管理条例》施行，个人混投最高罚款200元。『干垃圾湿垃圾』的灵魂拷问席卷全网，奶茶珍珠要分三步扔的段子养活了一夏天短视频。",
-"detail": "四分类（可回收、有害、湿、干）落地，定时定点投放推进。2019年底46个重点城市跟进。",
-"impact": "垃圾分类从倡议变成市民日常作业。",
-"aftermath": "2020年北京等城市跟进；督导员岗位与智能垃圾桶产业兴起。",
-"sources": [
-{
-"title": "维基百科：上海市生活垃圾管理条例",
-"url": "https://zh.wikipedia.org/wiki/上海市生活垃圾管理条例",
-"type": "wiki"
-}
-],
-"tags": [
-"垃圾分类",
-"上海"
-]
-},
-{
-"id": "2019-08-09-harmonyos",
-"date": "2019-08-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "鸿蒙操作系统发布：备胎转正",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "华为在东莞发布 HarmonyOS，一个面向全场景的分布式操作系统。发布会现场余承东说『没有人是孤岛』——这个被谷歌断供逼出来的系统，四年后成为装机量破7亿的独立生态。",
-"detail": "鸿蒙1.0用于智慧屏，2021年手机版上线，2024年 HarmonyOS NEXT 完全剥离安卓兼容，实现纯血鸿蒙。",
-"impact": "中国首次拥有全球级移动操作系统。",
-"aftermath": "2024年鸿蒙生态设备超10亿台；高校开设鸿蒙开发课程。",
-"sources": [
-{
-"title": "维基百科：鸿蒙（操作系统）",
-"url": "https://zh.wikipedia.org/wiki/鸿蒙_(操作系统)",
-"type": "wiki"
-}
-],
-"tags": [
-"鸿蒙",
-"华为"
-]
-},
-{
-"id": "2019-10-01-70th-anniversary",
-"date": "2019-10-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "国庆70周年大阅兵",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "新中国成立70周年阅兵，东风-41洲际导弹首次亮相，10万群众游行再现奋斗编年史。短视频平台的阅兵切片播放量以十亿计——弹幕里的『此生无悔入华夏』刷到系统卡顿。",
-"detail": "受阅装备40%首次亮相，国庆联欢活动在广场举行巨型烟花表演。",
-"impact": "国家叙事以碎片化视频完成全网传播。",
-"aftermath": "2021年建党百年庆典；2025年九三阅兵再展新装备。",
-"sources": [
-{
-"title": "维基百科：庆祝中华人民共和国成立70周年大会",
-"url": "https://zh.wikipedia.org/wiki/庆祝中华人民共和国成立70周年大会",
-"type": "wiki"
-}
-],
-"tags": [
-"国庆阅兵",
-"70周年"
-]
-},
-{
-"id": "2019-12-31-bilibili-gala",
-"date": "2019-12-31",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "B站跨年晚会出圈：『小破站』的成人礼",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "一场没有流量明星的跨年晚会，用《哈利波特》交响组曲与《镇魂街》国漫音乐引爆全网，回放量破亿。主流媒体点赞『最懂年轻人的晚会』——亚文化与主流的边界一夜融合。",
-"detail": "晚会由 B 站与央视等联合出品，方锦龙与交响乐团的对决成为名场面。",
-"impact": "青年文化平台获得主流背书。",
-"aftermath": "B站2020年股价与用户双爆发；此后各平台跨年晚会全面『B站化』。",
-"sources": [
-{
-"title": "维基百科：bilibili",
-"url": "https://zh.wikipedia.org/wiki/bilibili",
-"type": "wiki"
-}
-],
-"tags": [
-"B站",
-"跨年晚会"
-]
-},
-{
-"id": "2018-12-01-huawei-cfo-arrest",
-"date": "2018-12-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "孟晚舟在温哥华被拘：华为风波的代理人战役",
+"title": "尼泊尔8.1级强震：喜马拉雅的浩劫",
 "category": "world",
-"region": "cn",
+"region": "world",
 "milestone": false,
-"summary_30s": "华为副董事长、首席财务官孟晚舟在温哥华转机时被加拿大警方应美方要求拘押，中美加三方卷入长达1028天的司法拉锯。她脚上的电子镣铐，成为科技地缘博弈最直观的画面。",
-"detail": "美方指控其涉伊朗业务银行欺诈。2021年9月25日孟晚舟乘包机回国，同年两名被拘加拿大公民获释。",
-"impact": "跨国高管安全与科技战人质化风险浮出水面。",
-"aftermath": "2022年6月加方以『和解』撤诉；华为全球扩张策略大幅调整。",
+"summary_30s": "2015年4月25日，尼泊尔发生8.1级强烈地震，近9000人遇难、数十万人无家可归，加德满都谷地的世界文化遗产成片倒塌。这是尼泊尔81年来最严重的地震，也震动了整个喜马拉雅区域。",
+"detail": "震中位于博克拉以东，拉萨、新德里均有强烈震感，珠峰大本营被地震诱发的雪崩掩埋（至少22人遇难，成为珠峰史上最致命一天之一）。达拉哈拉塔、帕坦杜巴广场等世界遗产损毁严重，重建因政局动荡拖沓数年。中国国际救援队48小时内在加德满都展开作业，中国民间募捐与救援力量首次如此大规模参与境外救灾。地震也重创尼泊尔旅游业与登山经济，徒步路线关闭整顿，BCPA 等安全规范随之收紧。",
+"impact": "发展中国家巨灾应对的典型样本，跨境救援与人道协作的练兵场。",
+"aftermath": "尼泊尔2023年建成新地图与基建仍带地震疤痕；喜马拉雅地震带的研究与监测投入显著增加。",
 "sources": [
 {
-"title": "Wikipedia: Arrest and detention of Meng Wanzhou",
-"url": "https://zh.wikipedia.org/wiki/孟晚舟事件",
+"title": "Wikipedia: April 2015 Nepal earthquake",
+"url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
 "type": "wiki"
 }
 ],
 "tags": [
-"孟晚舟",
-"华为"
-]
-},
-{
-"id": "2019-06-01-hong-kong-protest",
-"date": "2019-06-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "香港修例风波",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "香港特区政府推动修订《逃犯条例》引发大规模示威并演变为持续半年的社会动荡。2020年6月《香港国安法》实施后局面恢复稳定，选举制度随后完善。",
-"detail": "风波自6月反修例游行起持续升级，出现暴力冲击与占据立法会等事件。中央2020年出台国安法、2021年完善选举制度。",
-"impact": "香港政治生态与社会秩序深度重塑。",
-"aftermath": "2023年区议会改革；国际金融中心地位在波动中维持。",
-"sources": [
-{
-"title": "维基百科：反对逃犯条例修订草案运动",
-"url": "https://zh.wikipedia.org/wiki/反对逃犯条例修订草案运动",
-"type": "wiki"
-}
-],
-"tags": [
-"香港",
-"修例风波"
-]
-},
-{
-"id": "2019-09-01-foreign-teachers-law",
-"date": "2019-09-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "民办教育潮与『起跑线焦虑』：早教机构遍地开花",
-"category": "society",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2015-2019年，K12课外培训市场从数千亿冲向万亿，学而思、猿辅导融资不断，家长群成为新型社会单元。『不补课就掉队』的军备竞赛越演越烈——直到2021年双减一锤定音。",
-"detail": "在线教育2018-2019年融资超千亿，广告充斥电梯与综艺。校内减负与校外加码形成剪刀差。",
-"impact": "家庭教育支出占比攀升，教育焦虑社会化。",
-"aftermath": "2021年7月双减政策落地，学科类机构营转非或退场，猿辅导转型卖羽绒服成为年度新闻。",
-"sources": [
-{
-"title": "维基百科：校外培训",
-"url": "https://zh.wikipedia.org/wiki/新东方",
-"type": "wiki"
-}
-],
-"tags": [
-"教育焦虑",
-"课外培训"
-]
-},
-{
-"id": "2018-12-01-ofo-refund-crisis",
-"date": "2018-12-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "ofo押金危机：1000万人排队退钱的荒诞剧",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "共享单车探路者 ofo 资金链断裂，App 排队退押金人数冲上1000万，戴威被列为失信人。小黄车从校园神器变成『共享经济泡沫』的标准注脚。",
-"detail": "2018年秋冬起集中挤兑，押金至今多数未退。摩拜27亿美元卖身美团，哈啰靠阿里续命。",
-"impact": "共享经济从烧钱风口回归常识。",
-"aftermath": "单车骑行作为民生服务被政府接管定价；哈啰、美团单车成为城市基础设施。",
-"sources": [
-{
-"title": "维基百科：ofo",
-"url": "https://zh.wikipedia.org/wiki/Ofo",
-"type": "wiki"
-}
-],
-"tags": [
-"ofo",
-"共享单车"
-]
-},
-{
-"id": "2017-04-01-xiongan",
-"date": "2017-04-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雄安新区设立：千年大计横空出世",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "愚人节当天，中共中央、国务院决定设立河北雄安新区，定位疏解北京非首都功能的『千年大计』。炒房客连夜涌入却无房可买——这座未来之城从一张白纸开始生长。",
-"detail": "雄安与深圳、浦东并称，规划『一淀三带九片多廊』，地下管廊与数字城市同步建设。",
-"impact": "京津冀协同发展有了实体抓手。",
-"aftermath": "2023年央企总部与高校陆续迁入；2024年起步区基本成型。",
-"sources": [
-{
-"title": "维基百科：雄安新区",
-"url": "https://zh.wikipedia.org/wiki/雄安新区",
-"type": "wiki"
-}
-],
-"tags": [
-"雄安",
-"新区"
+"尼泊尔",
+"地震",
+"珠峰",
+"国际救援"
 ]
 },
 {
@@ -924,6 +101,85 @@
 "产业政策",
 "智能制造",
 "制造业"
+]
+},
+{
+"id": "2015-06-12-stock-crash-2015",
+"date": "2015-06-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "A股冲上5178点后崩塌：2015股灾开始",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "杠杆牛把沪指推上5178.19点，随后三周千股跌停轮番上演，证监会救市队携万亿资金进场仍难止跌。配资爆仓、中产割肉——这场股灾改变了一代人的财富观。",
+"detail": "场外配资清理引爆连锁强平，7月千股停牌创纪录，公安部介入查恶意做空。",
+"impact": "家庭财富大洗牌，金融监管体系重审。",
+"aftermath": "2016年熔断机制四天夭折；资管新规（2018）全面去杠杆。",
+"sources": [
+{
+"title": "维基百科：2015年中国股灾",
+"url": "https://zh.wikipedia.org/wiki/2015年中国股灾",
+"type": "wiki"
+}
+],
+"tags": [
+"股灾",
+"5178"
+]
+},
+{
+"id": "2015-06-15-stock-crash-begins",
+"date": "2015-06-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "A股『杠杆牛』见顶崩塌：股灾从这里开始",
+"category": "economy",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2015年6月15日起，上证指数从5178点的高位连续暴跌，三周内跌去三成、千股跌停反复上演。一场由杠杆堆起来的牛市在一个月内变成股灾，最终以『国家队』万亿资金入场救市收场。",
+"detail": "2014年下半年起，融资融券与场外配资（1:5甚至1:10杠杆）把上证从2000点推到5178点——涨得有多疯，去杠杆时就有多惨。6月15日之后，配资账户强制平仓引发的连环踩踏让跌停板每天封死上千只股票；7月证监会暂停IPO、21家券商联合出资、证金公司获得央行流动性支持下场护盘，公安部介入查恶意做空。8月与2016年1月两次续跌，最终因熔断机制（4个交易日2次触发）草草收场。股灾重创1亿股民与市场信心，监管此后以『严控杠杆、打击场外配资』为长期基调，注册制改革也被推迟到2019年才重启。",
+"impact": "中国资本市场迄今最剧烈的去杠杆实验，杠杆监管从此成为监管核心命题。",
+"aftermath": "证金公司汇金公司的『国家队』持股延续多年；量化交易、雪球产品在2024年再度触发类似踩踏讨论。",
+"sources": [
+{
+"title": "Wikipedia: 2015年中国股灾",
+"url": "https://zh.wikipedia.org/wiki/2015年中国股灾",
+"type": "wiki"
+}
+],
+"tags": [
+"股灾",
+"杠杆",
+"千股跌停",
+"救市"
+]
+},
+{
+"id": "2015-07-30-ethereum-frontier",
+"date": "2015-07-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "以太坊主网上线：区块链从账本变成平台",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年7月30日，以太坊 Frontier 主网正式上线。21岁的 Vitalik Buterin 把『智能合约』变成现实：区块链不再只是比特币式的账本，而是一台人人可编程的世界计算机。",
+"detail": "Vitalik 2013年19岁时发布白皮书，认为比特币脚本能力太弱，提出图灵完备的智能合约平台；2014年众筹1.8万枚比特币（当时约1800万美元）创下纪录。2016年 The DAO 被盗事件引发硬分叉（ETH/ETC 分家），2017年 ICO 狂潮把以太坊推向『泡沫之王』，2020年后 DeFi、NFT 全部建立在以太坊及兼容链上。它证明了『可编程货币』的想象力，也数度因扩容瓶颈与 Gas 费暴涨被讥讽『用不起』，2022年9月转为权益证明后能耗下降99.9%。",
+"impact": "智能合约成为区块链行业的默认叙事，Web3 的技术底座由此奠定。",
+"aftermath": "NFT、DeFi、DAO 等概念均诞生于以太坊生态；监管始终在『创新与风险』之间摇摆。",
+"sources": [
+{
+"title": "Wikipedia: Ethereum",
+"url": "https://en.wikipedia.org/wiki/Ethereum",
+"type": "wiki"
+}
+],
+"tags": [
+"以太坊",
+"智能合约",
+"Vitalik",
+"区块链"
 ]
 },
 {
@@ -1008,57 +264,211 @@
 ]
 },
 {
-"id": "2016-07-12-south-china-sea-arbitration",
-"date": "2016-07-12",
+"id": "2015-10-08-meituan-dianping",
+"date": "2015-10-08",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "南海仲裁案裁决出炉：『不接受、不承认』",
-"category": "national",
+"title": "美团与大众点评合并：本地生活双雄合一",
+"category": "company",
 "region": "cn",
 "milestone": false,
-"summary_30s": "7月12日，海牙常设仲裁法院仲裁庭公布菲律宾单方面提起的南海仲裁案裁决，否定『九段线』内的历史性权利主张。中国政府当日声明：裁决无效，不接受、不承认。当天社交网络刷屏『中国一点都不能少』，南海问题的全民科普由此完成。",
-"detail": "2013年1月，菲律宾依据《联合国海洋法公约》就中菲南海争议单方面提起强制仲裁；中国坚持『不接受、不参与』立场。2016年7月12日，设于海牙的仲裁庭公布所谓最终裁决，认定中国『九段线』内历史性权利主张没有法律基础，并对南沙多座岛礁的法律地位作出认定。中国政府当日发表声明指出仲裁庭越权审理、裁决无效，重申通过双边谈判解决争议的立场。裁决公布前后，人民日报等媒体推出『中国一点都不能少』话题，阅读量以亿计；60余国公开表态支持中方立场。同年6月杜特尔特就任菲律宾总统后转而访华，中菲关系转向搁置争议、务实合作。",
-"impact": "南海问题完成全民认知普及，海洋权益意识显著提升；区域博弈进入外交与基建并行的新阶段。",
-"aftermath": "此后中国持续扩建岛礁民用设施并推进『南海行为准则』磋商，南海局势虽偶有摩擦但总体可控；仲裁案仍是国际法教科书的标准案例。",
+"summary_30s": "团购战场最后的两强握手合并，王兴把外卖、到店、酒旅整合成『超级平台』。此后十年，你手机里那个黄蓝相间的图标，决定了几百万骑手的生计和无数餐馆的流量。",
+"detail": "合并估值约150亿美元，张涛淡出，王兴主导转型。2018年美团点评登陆港交所。",
+"impact": "本地生活服务进入一家独大时代。",
+"aftermath": "2018年收购摩拜、2020年推出美团优选；骑手权益与佣金争议持续成为公共议题。",
 "sources": [
 {
-"title": "Wikipedia: 南海仲裁案",
-"url": "https://zh.wikipedia.org/wiki/南海仲裁案",
+"title": "维基百科：美团",
+"url": "https://zh.wikipedia.org/wiki/美团",
 "type": "wiki"
 }
 ],
 "tags": [
-"南海仲裁案",
-"九段线",
-"海洋权益",
-"中菲关系"
+"美团点评",
+"合并"
 ]
 },
 {
-"id": "2016-04-21-papi-jiang-auction",
-"date": "2016-04-21",
+"id": "2015-10-29-two-child-policy",
+"date": "2015-10-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "直播元年：papi酱拍出2200万，千播大战开打",
-"category": "internet",
+"date_confidence": "verified",
+"title": "全面二孩政策宣布：35年独生子女时代转向",
+"category": "national",
 "region": "cn",
 "milestone": false,
-"summary_30s": "4月21日，网红papi酱的首支视频贴片广告拍出2200万元，创下『人类历史上单条视频广告之最』。这一年被称作直播元年：映客、斗鱼、花椒等三百多家平台混战，网红经济、打赏模式全面成型。屏幕前的小麦克风，撬动了一个新产业。",
-"detail": "2016年被业界普遍称为『网络直播元年』。4月21日，中央美术学院报告厅，『2016中国新媒体营销盛典』拍卖papi酱首支贴片广告，起拍价10万元，经过数十轮竞价以2200万元成交，竞得方为阿里旗下天猫商家，被媒体称为『人类历史上最贵的单条视频广告』。与此同时，映客、斗鱼、花椒、一直播等平台总数超过300家，『千播大战』白热化：游戏直播、秀场直播、素人直播全面开花，打赏分成成为新商业模式，头部主播年收入破千万。资本蜂拥而入，直播概念股大涨。喧嚣也带来乱象，低俗内容、数据造假频出，监管随后收紧（2016年底《互联网直播服务管理规定》出台）。",
-"impact": "『网红』从贬义词变成职业选项，直播带货的前置基础设施（主播、打赏、弹幕）在这一年成型。",
-"aftermath": "千播大战后行业洗牌至斗鱼、虎牙、映客等头部；2019年李佳琦、薇娅把直播推向电商主场，直播带货成为数字经济最大变现场景之一。",
+"summary_30s": "十八届五中全会宣布全面实施一对夫妇可生育两个孩子政策，2016年1月1日落地。实施35年的独生子女政策正式谢幕，产科医院随即一号难求。",
+"detail": "2013年单独二孩遇冷后，生育政策加速调整。2016年出生人口1786万创2000年以来新高，随后连年下滑。",
+"impact": "母婴、教育、房产改善型需求短期爆发。",
+"aftermath": "2021年三孩政策+双减同年落地；出生人口2023年降至902万，生育支持成为国策级议题。",
 "sources": [
 {
-"title": "Wikipedia: 网络直播",
-"url": "https://zh.wikipedia.org/wiki/网络直播",
+"title": "维基百科：中华人民共和国生育政策",
+"url": "https://zh.wikipedia.org/wiki/计划生育",
 "type": "wiki"
 }
 ],
 "tags": [
-"直播元年",
-"papi酱",
-"千播大战",
-"网红经济"
+"全面二孩",
+"生育政策"
+]
+},
+{
+"id": "2015-11-07-xi-ma-meeting",
+"date": "2015-11-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『习马会』：1949年后两岸领导人首次会面",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2015年11月7日，习近平与马英九在新加坡香格里拉酒店握手80秒，互称『先生』——1949年以来两岸最高领导人第一次面对面。两岸关系的这场『世纪握手』，此后再未重演。",
+"detail": "会面以『两岸领导人会面』名义进行，双方各带6人、共进晚餐、互不称职衔，全程闭门。两人确认『九二共识』为共同政治基础，习近平提出『两岸一家亲』，马英九转述『九二共识、一中各表』。会面由2014年『太阳花学运』后两岸官方交流停滞的背景下促成，被视为马英九任内最后的外交遗产，也在台湾岛内引发蓝绿激烈交锋（民进党斥为『黑箱』）。2016年民进党蔡英文上台后，两岸官方机制停摆，『习马会』成为此后多年两岸最高层级接触的孤例，其『分身模式』（新加坡第三方、互称先生）也成为此后两岸互动能否复刻的模板讨论。",
+"impact": "两岸政治关系的最高接触纪录，确立『九二共识』在两岸论述中的枢纽位置。",
+"aftermath": "2024年赖清德当选后两岸官方往来依旧冰封；马英九多次率团访陆延续民间交流。",
+"sources": [
+{
+"title": "Wikipedia: 两岸领导人会面",
+"url": "https://zh.wikipedia.org/wiki/两岸领导人会面",
+"type": "wiki"
+}
+],
+"tags": [
+"习马会",
+"两岸",
+"九二共识",
+"新加坡"
+]
+},
+{
+"id": "2015-11-11-double11-912",
+"date": "2015-11-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "双11成交912亿：移动端第一次成为主场",
+"category": "economy",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2015年11月11日，双11全天成交912.17亿元，其中移动端占比68%——手机购物第一次全面超越电脑。『双11』从促销日彻底长成一场全国性的消费仪式。",
+"detail": "2015年双11是阿里上市后第二个大考：晚会（与湖南卫视合办『天猫双十一狂欢夜』）首次把综艺+电商带货嫁接成功，‘猫晚’自此成为固定配置；开场12分28秒破百亿、17小时28分超2014年全天。物流侧，菜鸟网络首次以大数据调度6.78亿包裹，‘爆仓’一词开始退场。这一年被普遍视为双11的『移动元年』：无线成交占比从2014年的43%跳升到68%，此后再无回头。双11 GMV 之后一路冲到2021年的5403亿（含全周期），伴随而来的是低价先涨后降的争议、监管对『二选一』的调查——狂欢与反噬同步生长。",
+"impact": "移动电商成为绝对主场，中国式购物节成为全球零售的现象级样本。",
+"aftermath": "2020年代双11拉长为半月周期、回归低价心智；东南亚、拉美的购物节均在复刻双11打法。",
+"sources": [
+{
+"title": "Wikipedia: 双十一",
+"url": "https://zh.wikipedia.org/wiki/双十一",
+"type": "wiki"
+}
+],
+"tags": [
+"双11",
+"移动电商",
+"猫晚",
+"菜鸟"
+]
+},
+{
+"id": "2015-12-08-ezubao",
+"date": "2015-12-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "e租宝被查：500亿非法集资案震动全国",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "广告打遍央视地铁的P2P平台e租宝被定性为非法集资，90万投资人500多亿元资金卷入。高息理财的神话破灭，P2P行业此后整体走向消亡。",
+"detail": "丁宁等人以融资租赁债权转让为名吸收资金，实为庞氏结构。2017年主犯被判无期。",
+"impact": "互联网金融从野蛮生长转向强监管。",
+"aftermath": "2020年11月P2P平台全部清零；非法集资刑事追责持续。",
+"sources": [
+{
+"title": "维基百科：e租宝",
+"url": "https://zh.wikipedia.org/wiki/e租宝",
+"type": "wiki"
+}
+],
+"tags": [
+"e租宝",
+"P2P"
+]
+},
+{
+"id": "2015-12-12-paris-agreement",
+"date": "2015-12-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《巴黎协定》通过：195国握手约束全球升温",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2015年12月12日，巴黎气候大会（COP21）以协商一致方式通过《巴黎协定》，195个缔约方承诺把全球升温控制在2℃以内、并努力争取1.5℃。这是人类历史上第一份覆盖全球的气候协议——上一次全球性气候条约《京都议定书》只约束了发达国家。",
+"detail": "协定采用『自下而上』的国家自主贡献（NDC）模式：各国自报减排目标、每五年盘点加码，避免重演哥本哈根大会的破裂。中国作为最大排放国在会前与美、法密集斡旋（中美2014-2015年两次联合声明为大会破局铺路），习近平出席开幕式。协定2016年4月开放签署、11月4日生效，创下国际条约生效速度纪录；2017年特朗普宣布退出（2020年生效）、2021年拜登重返，协定在摇摆中仍是全球气候治理的唯一底座。",
+"impact": "把『2℃/1.5℃』写进全球政治议程，绿色转型成为产业政策的最大公约数。",
+"aftermath": "光伏、电动车产业随碳约束起飞；中国『双碳』目标（2030碳达峰/2060碳中和）即以协定为基准锚定。",
+"sources": [
+{
+"title": "Wikipedia: 巴黎协议",
+"url": "https://zh.wikipedia.org/wiki/巴黎协议",
+"type": "wiki"
+}
+],
+"tags": [
+"巴黎协定",
+"气候",
+"COP21",
+"碳中和"
+]
+},
+{
+"id": "2015-12-25-aiib-established",
+"date": "2015-12-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "亚投行正式成立：中国主导的多边金融新平台",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年12月25日，《亚洲基础设施投资银行协定》达到生效条件，亚投行正式成立，57个创始成员国到场。这是第一个由中国倡议设立的多边开发银行——西方主导70年的世界金融秩序旁边，多了一家『新银行』。",
+"detail": "亚投行2013年10月由习近平在印尼国会首倡，2015年谈判冲刺期上演『盟友倒戈』：英国不顾美国劝阻带头申请加入，德法意跟进，最终57国涵盖几乎所有西方大国。总部设北京，首任行长金立群，法定资本1000亿美元。亚投行与世行、亚开行形成互补而非对抗的姿态（联合融资项目居多），主打『精简、廉洁、绿色』，2016年1月开业后项目聚焦亚洲基建——从印尼贫民窟改造到埃及光伏电站。它的成功撬动了各国对『中国版全球公共产品』的评价体系，也把人民币国际化与『一带一路』融资网络向前推了一大步。",
+"impact": "中国首次主导设立多边开发金融机构，全球金融治理格局的增量变化。",
+"aftermath": "成员国扩至110个；美国2023年起开始重新评估与多边开发银行的关系，地缘金融竞争长期化。",
+"sources": [
+{
+"title": "Wikipedia: 亚投行",
+"url": "https://zh.wikipedia.org/wiki/亚投行",
+"type": "wiki"
+}
+],
+"tags": [
+"亚投行",
+"多边金融",
+"一带一路",
+"基建"
+]
+},
+{
+"id": "2016-01-04-circuit-breaker",
+"date": "2016-01-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "熔断机制实施四天即叫停",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "借鉴美股的熔断机制上线第一天就两次触发提前收市，四个交易日A股蒸发约6万亿市值，管理层连夜叫停。『熔断』成为A股史上最短命的制度创新。",
+"detail": "1月4日、1月7日两次熔断，7日全天交易不足30分钟。1月8日起暂停实施。",
+"impact": "散户对制度设计产生信任危机，量化与波动率研究兴起。",
+"aftermath": "此后监管更倾向窗口指导与资金面调节；2024年量化新规补课。",
+"sources": [
+{
+"title": "维基百科：熔断机制",
+"url": "https://zh.wikipedia.org/wiki/熔断机制",
+"type": "wiki"
+}
+],
+"tags": [
+"熔断",
+"A股"
 ]
 },
 {
@@ -1089,6 +499,295 @@
 ]
 },
 {
+"id": "2016-02-11-gravitational-waves-announced",
+"date": "2016-02-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "LIGO 宣布探测到引力波：听见宇宙的涟漪",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2016年2月11日，LIGO 团队宣布人类首次直接探测到引力波——13亿光年外两个黑洞并合时激起的时空涟漪。爱因斯坦100年前的预言被证实，人类从『看』宇宙的时代进入『听』宇宙的时代。",
+"detail": "信号 GW150914 实际于2015年9月14日抵达：两个约30倍太阳质量的黑洞并合，瞬间释放的能量超过可观测宇宙所有恒星的总和，激光干涉臂长4公里的 LIGO 测出了小于质子直径万分之一的长度变化。这篇论文在三个月内完成同行评议，作者超过1000人；三位主要贡献者获2017年诺贝尔物理学奖。引力波开启多信使天文学：2017年又探测到双中子星并合的电磁对应体。中国跟进布局『天琴』『太极』空间引力波计划与阿里原初引力波探测。",
+"impact": "广义相对论最后一块拼图落定，天文学多出一扇全新观测窗口。",
+"aftermath": "引力波探测进入常规化（年检出数十起）；中国空间探测计划瞄准2030年代上天。",
+"sources": [
+{
+"title": "Wikipedia: First observation of gravitational waves",
+"url": "https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves",
+"type": "wiki"
+}
+],
+"tags": [
+"引力波",
+"LIGO",
+"黑洞",
+"天文学"
+]
+},
+{
+"id": "2016-03-09-alphago-vs-lee",
+"date": "2016-03-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "AlphaGo 4:1 李世石：围棋神殿被AI攻破",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "DeepMind 的 AlphaGo 在首尔以4:1战胜李世石，第37手『神之一手』让解说当场语塞。人类最后的智力骄傲堡垒之一被攻破——『人工智能要取代人类』从此不是科幻句式。",
+"detail": "AlphaGo 结合深度神经网络与蒙特卡洛树搜索，此前2015年10月击败樊麾。李世石第四局『神之一挖』为人类扳回一城。",
+"impact": "AI 投资与人才争夺全面引爆，深度学习成为显学。",
+"aftermath": "2017年 AlphaGo Zero 自学成才碾压旧版；2022年 ChatGPT 把 AI 从棋盘推向每个聊天框。",
+"sources": [
+{
+"title": "Wikipedia: AlphaGo versus Lee Sedol",
+"url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
+"type": "wiki"
+}
+],
+"tags": [
+"AlphaGo",
+"人工智能"
+]
+},
+{
+"id": "2016-04-21-papi-jiang-auction",
+"date": "2016-04-21",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "直播元年：papi酱拍出2200万，千播大战开打",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月21日，网红papi酱的首支视频贴片广告拍出2200万元，创下『人类历史上单条视频广告之最』。这一年被称作直播元年：映客、斗鱼、花椒等三百多家平台混战，网红经济、打赏模式全面成型。屏幕前的小麦克风，撬动了一个新产业。",
+"detail": "2016年被业界普遍称为『网络直播元年』。4月21日，中央美术学院报告厅，『2016中国新媒体营销盛典』拍卖papi酱首支贴片广告，起拍价10万元，经过数十轮竞价以2200万元成交，竞得方为阿里旗下天猫商家，被媒体称为『人类历史上最贵的单条视频广告』。与此同时，映客、斗鱼、花椒、一直播等平台总数超过300家，『千播大战』白热化：游戏直播、秀场直播、素人直播全面开花，打赏分成成为新商业模式，头部主播年收入破千万。资本蜂拥而入，直播概念股大涨。喧嚣也带来乱象，低俗内容、数据造假频出，监管随后收紧（2016年底《互联网直播服务管理规定》出台）。",
+"impact": "『网红』从贬义词变成职业选项，直播带货的前置基础设施（主播、打赏、弹幕）在这一年成型。",
+"aftermath": "千播大战后行业洗牌至斗鱼、虎牙、映客等头部；2019年李佳琦、薇娅把直播推向电商主场，直播带货成为数字经济最大变现场景之一。",
+"sources": [
+{
+"title": "Wikipedia: 网络直播",
+"url": "https://zh.wikipedia.org/wiki/网络直播",
+"type": "wiki"
+}
+],
+"tags": [
+"直播元年",
+"papi酱",
+"千播大战",
+"网红经济"
+]
+},
+{
+"id": "2016-05-01-wei-zexi",
+"date": "2016-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "魏则西事件：竞价排名的道德审判",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "大学生魏则西因在搜索引擎上找到的『生物免疫疗法』就医被骗、病情延误去世，他在知乎的自述引爆全网对搜索竞价排名医疗广告的声讨。国家调查组进驻，网络广告从此戴上了紧箍咒。",
+"detail": "涉事科室承包方与搜索引擎推广责任被查，网信办等出台《互联网广告管理暂行办法》（2016-09施行）明确付费搜索属广告。",
+"impact": "医疗广告治理与平台责任边界重划。",
+"aftermath": "2022年京东健康等替代渠道兴起；竞价排名争议每隔数年借不同行业重现。",
+"sources": [
+{
+"title": "维基百科：魏则西事件",
+"url": "https://zh.wikipedia.org/wiki/魏则西事件",
+"type": "wiki"
+}
+],
+"tags": [
+"魏则西",
+"竞价排名"
+]
+},
+{
+"id": "2016-06-23-brexit-referendum",
+"date": "2016-06-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英国脱欧公投：51.9% 决定离开欧盟",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2016年6月23日，英国举行脱欧公投，51.9%的选民选择离开欧盟。卡梅伦赌上首相职位发起的公投，把欧洲一体化进程掀翻在地——『全球化退潮』从此有了最具体的注脚。",
+"detail": "公投投票率高达72%，伦敦、苏格兰、北爱主张留欧，英格兰北部『铁锈地带』大量倒向脱欧——代际、地域与教育程度的撕裂一目了然。卡梅伦次日辞职，特蕾莎·梅接手并提前大选折损多数，脱欧协议三度被议会否决；约翰逊以『搞定脱欧』上台，2019年12月大选大胜，2020年1月31日英国正式脱欧、12月31日过渡期结束。代价逐步显形：贸易成本上升、金融业岗位外流（阿姆斯特丹/巴黎受益）、劳动力短缺推升通胀，2025年前官方评估长期 GDP 损失约4%。脱欧与特朗普当选（4个月后）互为镜像，民粹主义成为此后十年西方政治的主旋律。",
+"impact": "欧洲一体化的最大倒退，直接点燃全球民粹浪潮与『主权 vs 全球化』的路线之争。",
+"aftermath": "苏格兰二次独立公投议题复活；英国寻求『印太倾斜』，与日本、澳洲签订防务协定。",
+"sources": [
+{
+"title": "Wikipedia: 2016 United Kingdom European Union membership referendum",
+"url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum",
+"type": "wiki"
+}
+],
+"tags": [
+"脱欧",
+"英国",
+"民粹主义",
+"全球化"
+]
+},
+{
+"id": "2016-07-12-south-china-sea-arbitration",
+"date": "2016-07-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "南海仲裁案裁决出炉：『不接受、不承认』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月12日，海牙常设仲裁法院仲裁庭公布菲律宾单方面提起的南海仲裁案裁决，否定『九段线』内的历史性权利主张。中国政府当日声明：裁决无效，不接受、不承认。当天社交网络刷屏『中国一点都不能少』，南海问题的全民科普由此完成。",
+"detail": "2013年1月，菲律宾依据《联合国海洋法公约》就中菲南海争议单方面提起强制仲裁；中国坚持『不接受、不参与』立场。2016年7月12日，设于海牙的仲裁庭公布所谓最终裁决，认定中国『九段线』内历史性权利主张没有法律基础，并对南沙多座岛礁的法律地位作出认定。中国政府当日发表声明指出仲裁庭越权审理、裁决无效，重申通过双边谈判解决争议的立场。裁决公布前后，人民日报等媒体推出『中国一点都不能少』话题，阅读量以亿计；60余国公开表态支持中方立场。同年6月杜特尔特就任菲律宾总统后转而访华，中菲关系转向搁置争议、务实合作。",
+"impact": "南海问题完成全民认知普及，海洋权益意识显著提升；区域博弈进入外交与基建并行的新阶段。",
+"aftermath": "此后中国持续扩建岛礁民用设施并推进『南海行为准则』磋商，南海局势虽偶有摩擦但总体可控；仲裁案仍是国际法教科书的标准案例。",
+"sources": [
+{
+"title": "Wikipedia: 南海仲裁案",
+"url": "https://zh.wikipedia.org/wiki/南海仲裁案",
+"type": "wiki"
+}
+],
+"tags": [
+"南海仲裁案",
+"九段线",
+"海洋权益",
+"中菲关系"
+]
+},
+{
+"id": "2016-07-28-rideshare-legal",
+"date": "2016-07-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网约车合法化：新经济第一次拿到身份证",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院办公厅与七部委联合出台新政，网络预约出租汽车正式合法，中国成为全球主要经济体中率先给网约车上牌照的国家。『共享经济』从此有了法律身份。",
+"detail": "新政要求平台持证、车辆与驾驶员资质管理，各地实施细则随后落地（京沪户籍限制引发讨论）。",
+"impact": "出行市场从灰色地带转入监管框架。",
+"aftermath": "2018年顺风车安全事件推动整改；2025年网约车驾驶员证超800万本。",
+"sources": [
+{
+"title": "维基百科：网约车",
+"url": "https://zh.wikipedia.org/wiki/网约车",
+"type": "wiki"
+}
+],
+"tags": [
+"网约车",
+"共享经济"
+]
+},
+{
+"id": "2016-08-05-rio-olympics",
+"date": "2016-08-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "里约奥运开幕：南美第一棒与『里约大冒险』",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "2016年8月5日，第31届奥运会在里约热内卢开幕，奥运会第一次来到南美洲。寨卡病毒、水体污染、场馆延期、预算砍半——这届『问题奥运』在混乱中开出了最松弛的花：傅园慧的『洪荒之力』成了那届奥运最出圈的画面。",
+"detail": "巴西以约130亿美元办赛（远低于北京奥运），基建拖延与治安问题让外媒造出『里约大冒险』一词，开赛后场馆与组织却意外平稳。赛场叙事多元：菲尔普斯23金收官、博尔特三三连冠、难民代表队首次亮相。中国代表团获26金创近三届新低，但『洪荒之力』傅园慧、乒乓天团与『护旗手』雷声之外，孙杨与霍顿的口水战首次让体育外交话题出圈。里约之后，奥运申办遇冷（2024/2028被迫打包给巴黎、洛杉矶），国际奥委会转向『节俭办奥』与项目年轻化（滑板、冲浪进入东京奥运）——里约成为一个分水岭：奥运会的性价比逻辑被彻底重估。",
+"impact": "奥运会成本与收益的全球性反思起点，办赛模式转向务实。",
+"aftermath": "东京奥运延期一年（2021）、巴黎奥运主打低碳 reuse，皆为里约之后的时代回应。",
+"sources": [
+{
+"title": "Wikipedia: 2016 Summer Olympics",
+"url": "https://en.wikipedia.org/wiki/2016_Summer_Olympics",
+"type": "wiki"
+}
+],
+"tags": [
+"里约奥运",
+"傅园慧",
+"洪荒之力",
+"奥运"
+]
+},
+{
+"id": "2016-08-19-xu-yuyu-case",
+"date": "2016-08-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "徐玉玉案：一通诈骗电话改变的反诈进程",
+"category": "society",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2016年8月19日，山东临沂18岁准大学生徐玉玉接到以『发放助学金』为名的诈骗电话，9900元学费被骗走后伤心猝死。一个孩子的死，把电信诈骗推到了全民公敌的位置，中国反诈体系的加速器从此按下。",
+"detail": "徐玉玉的个人信息源自黑客入侵教育系统贩卖，骗子精确报出她的申请记录——精准诈骗（『剧本杀』式话术）自此进入公众视野。案件引发全民愤怒与高层批示，公安部挂牌督办，主犯陈文辉数月内落网、2017年被执行死刑。此后《网络安全法》（2017）、反电信网络诈骗法（2022）相继出台，国家反诈中心APP（2021）上线，『断卡行动』（2020）重击两卡黑产；境外缅北电诈园区成为新战场，2023年起中缅泰联合打击。『全民反诈』成为社会治理关键词，KYC 与实名制进一步收紧。",
+"impact": "电信诈骗从社会新闻升级为国家安全议题，反诈立法与执法进入快车道。",
+"aftermath": "缅北电诈园区2023-2024年被大规模清剿；AI换脸诈骗（2023年起）开启新一轮攻防。",
+"sources": [
+{
+"title": "Wikipedia: 徐玉玉案",
+"url": "https://zh.wikipedia.org/wiki/徐玉玉案",
+"type": "wiki"
+}
+],
+"tags": [
+"电信诈骗",
+"徐玉玉",
+"反诈",
+"个人信息"
+]
+},
+{
+"id": "2016-09-04-g20-hangzhou",
+"date": "2016-09-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "G20杭州峰会：西湖之夜的全球治理时刻",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "G20第一次在中国举行领导人峰会，《二十国集团创新增长蓝图》与杭州共识发布。文艺晚会『最忆是杭州』的《天鹅湖》在西湖水面起舞，刷屏全球社交媒体。",
+"detail": "峰会推动IMF份额改革落地与《巴黎协定》提前生效，中美率先批准协定成为最大看点。",
+"impact": "中国在全球经济治理中的议程设置能力显著提升。",
+"aftermath": "2017年金砖厦门会晤、2018年上合青岛峰会延续主场外交节奏。",
+"sources": [
+{
+"title": "维基百科：2016年二十国集团杭州峰会",
+"url": "https://zh.wikipedia.org/wiki/2016年二十国集团杭州峰会",
+"type": "wiki"
+}
+],
+"tags": [
+"G20",
+"杭州"
+]
+},
+{
+"id": "2016-11-08-trump-elected",
+"date": "2016-11-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特朗普当选美国总统：民粹浪潮改写全球格局",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2016年11月8日，政治素人唐纳德·特朗普击败希拉里·克林顿当选美国第45任总统。选前几乎所有民调与主流媒体都看错了——这场『黑天鹅』成为全球民粹主义崛起的标志性事件，也彻底改变了此后十年的中美关系与世界秩序。",
+"detail": "特朗普以『让美国再次伟大』（MAGA）竞选，主打反全球化、反建制、制造业回流与对华强硬。选举夜威斯康星、密歇根、宾夕法尼亚三个『蓝墙』州以万票级差距翻红，普选票落后近300万张但选举人票306:232获胜。就任后退出 TPP 与《巴黎协定》、发动对华贸易战（2018年3月起加征关税）、推动『芯片法案』雏形，全球化黄金时代就此落幕，『脱钩』成为中美关系的年度关键词。",
+"impact": "全球政治光谱右移，中美从『接触』转向『竞争』。",
+"aftermath": "2020年败选后拒绝认输引发国会山事件；2024年再度当选，其关税与产业政策成为两党共识。",
+"sources": [
+{
+"title": "Wikipedia: 2016 United States presidential election",
+"url": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+"type": "wiki"
+}
+],
+"tags": [
+"特朗普",
+"美国大选",
+"民粹主义",
+"中美关系"
+]
+},
+{
 "id": "2016-11-30-24-solar-terms-unesco",
 "date": "2016-11-30",
 "date_accuracy": "exact",
@@ -1113,6 +812,83 @@
 "非遗",
 "传统文化",
 "UNESCO"
+]
+},
+{
+"id": "2017-01-01-house-price-soar",
+"date": "2017-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "棚改货币化：三四线房价的黄金三岔口",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "央行抵押补充贷款（PSL）给棚改货币化安置输血，三四线城市房价接力一二线普涨。县城学区房过万、返乡青年直呼买不起——地产繁荣的最后一浪铺满全国。",
+"detail": "2015-2018年棚改累计开工超2400万套，PSL投放超3万亿元。2018年下半年政策转向实物安置。",
+"impact": "三四线家庭资产负债表快速房产化。",
+"aftermath": "2021年后三四线楼市率先深度调整，去库存反成压库存。",
+"sources": [
+{
+"title": "维基百科：棚户区改造",
+"url": "https://zh.wikipedia.org/wiki/商品房",
+"type": "wiki"
+}
+],
+"tags": [
+"棚改",
+"三四线房价"
+]
+},
+{
+"id": "2017-04-01-xiongan",
+"date": "2017-04-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "雄安新区设立：千年大计横空出世",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "愚人节当天，中共中央、国务院决定设立河北雄安新区，定位疏解北京非首都功能的『千年大计』。炒房客连夜涌入却无房可买——这座未来之城从一张白纸开始生长。",
+"detail": "雄安与深圳、浦东并称，规划『一淀三带九片多廊』，地下管廊与数字城市同步建设。",
+"impact": "京津冀协同发展有了实体抓手。",
+"aftermath": "2023年央企总部与高校陆续迁入；2024年起步区基本成型。",
+"sources": [
+{
+"title": "维基百科：雄安新区",
+"url": "https://zh.wikipedia.org/wiki/雄安新区",
+"type": "wiki"
+}
+],
+"tags": [
+"雄安",
+"新区"
+]
+},
+{
+"id": "2017-04-26-first-domestic-carrier-launched",
+"date": "2017-04-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "首艘国产航母下水：中国双航母时代倒计时",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2017年4月26日，中国首艘国产航母（后命名山东舰）在大连造船厂下水。从『辽宁舰』改装到完全自主建造，中国成为极少数能自造中型以上航母的国家，海军远洋化的进程再无悬念。",
+"detail": "001A 型沿袭辽宁舰滑跃起飞设计但全面国产化：舰岛缩小、机库优化，载机量提升约50%，5万余吨2019年12月入列命名『山东舰』。同期055型万吨驱逐舰（2017年6月下水）、075两栖攻击舰相继问世，加上福建舰（2022年下水，电磁弹射）三舰格局成形。航母工程带动特种钢材、蒸汽/电磁弹射、舰载机（歼-15到歼-35）全产业链，被视为中国高端制造业的集成考试。台海与南海的军事平衡讨论随之升温，美日印澳的印太战略应对也在加速。",
+"impact": "海军从近海防御转向远洋存在，造船工业能力的世界级证明。",
+"aftermath": "福建舰2022年下水开启弹射时代；海军舰艇吨位规模已居世界第一，远洋部署常态化。",
+"sources": [
+{
+"title": "Wikipedia: 山东舰",
+"url": "https://zh.wikipedia.org/wiki/山东舰",
+"type": "wiki"
+}
+],
+"tags": [
+"山东舰",
+"航母",
+"海军",
+"国产化"
 ]
 },
 {
@@ -1170,6 +946,31 @@
 ]
 },
 {
+"id": "2017-05-23-alphago-kejie",
+"date": "2017-05-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "乌镇人机大战：AlphaGo 3:0 柯洁",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "世界第一柯洁三战全负，第二局中盘落泪离席。DeepMind 宣布 AlphaGo 退役，随后公布的 AlphaGo Zero 不再看任何人类棋谱、自我对弈40天超越所有前辈。围棋，人类最古老的智慧游戏，交出了它的最后尊严。",
+"detail": "乌镇峰会三番棋柯洁全部告负，聂卫平称 AlphaGo 是『围棋上帝』。",
+"impact": "AI 能力的天花板被重新定义，强化学习热潮兴起。",
+"aftermath": "AlphaGo 技术转向蛋白质折叠（AlphaFold 2020），拿下诺贝尔化学奖（2024）。",
+"sources": [
+{
+"title": "Wikipedia: AlphaGo versus Ke Jie",
+"url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Ke_Jie",
+"type": "wiki"
+}
+],
+"tags": [
+"柯洁",
+"AlphaGo"
+]
+},
+{
 "id": "2017-06-26-fuxing-hao-debut",
 "date": "2017-06-26",
 "date_accuracy": "exact",
@@ -1194,6 +995,58 @@
 "高铁",
 "350公里",
 "中国标准"
+]
+},
+{
+"id": "2017-07-06-leeco-collapse",
+"date": "2017-07-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "贾跃亭辞任乐视董事长并赴美：生态化反的终局",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "乐视资金链断裂发酵一年后，贾跃亭辞去全部职务远走美国『造车』，『下周回国』成为年度最狠梗。乐视这家曾市值1700亿的生态帝国，证明了什么是讲故事融资的极限。",
+"detail": "2016年11月资金危机曝光，供应商上门讨债、员工讨薪持续数年。2017年7月6日贾跃亭辞职，后任 FF 法拉第未来CEO。",
+"impact": "A股讲生态故事的估值逻辑破产，投资者教育惨痛一课。",
+"aftermath": "乐视网2020年退市；贾跃亭个人破产重组（2021），FF 上市后股价长期低迷。",
+"sources": [
+{
+"title": "维基百科：乐视网",
+"url": "https://zh.wikipedia.org/wiki/乐视网",
+"type": "wiki"
+}
+],
+"tags": [
+"乐视",
+"贾跃亭"
+]
+},
+{
+"id": "2017-07-27-wolf-warrior-2",
+"date": "2017-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《战狼2》56.8亿：中国影史票房神话",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2017年7月27日，《战狼2》上映。这部吴京自导自演的军事动作片最终狂揽56.94亿元，把中国影史票房纪录拔高了一个量级——『主旋律+商业大片』的公式从此被写进行业教科书。",
+"detail": "影片以撤侨为背景，冷锋在非洲战区孤身救人，『犯我中华者，虽远必诛』的口号踩中了大国情绪的脉搏。上映后连破纪录：4小时破亿、85小时破10亿、最终56.94亿元（含服务费），超过《美人鱼》33.9亿纪录近七成，是当年全球票房榜前100中唯一的非好莱坞影片。它证明了主旋律可以不靠包场、靠市场：此后《红海行动》《长津湖》等新主流大片全面接棒，《长津湖》57.75亿在2021年刷新其纪录。行业侧，它带火了军事动作类型与海外取景的工业化能力，『含京量』成为网络流行语——赞誉与争议都与票房一样巨大。",
+"impact": "中国影史票房纪录被改写，主旋律商业大片成为此后十年的主力类型。",
+"aftermath": "吴京此后专注《长津湖》系列；『新主流电影』成为春节档/国庆档的绝对主力，头部票房全面向其倾斜。",
+"sources": [
+{
+"title": "维基百科：战狼2",
+"url": "https://zh.wikipedia.org/wiki/战狼2",
+"type": "wiki"
+}
+],
+"tags": [
+"战狼2",
+"吴京",
+"票房纪录",
+"主旋律"
 ]
 },
 {
@@ -1224,6 +1077,31 @@
 ]
 },
 {
+"id": "2017-09-04-ico-ban",
+"date": "2017-09-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "七部委叫停ICO：币圈第一记重锤",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "央行等七部委公告定性代币发行融资为非法集资，火币、OKCoin等交易所随后关停境内业务。疯狂的ICO、空气币在一天内被按下暂停键，币圈从此学会说『出海』。",
+"detail": "公告要求已发行项目清退，比特币人民币交易量占全球比例从90%以上迅速归零。",
+"impact": "中国划定加密货币红线，链圈与币圈分道扬镳。",
+"aftermath": "2021年挖矿全面清退；2025年香港持牌虚拟资产交易所试点合规化。",
+"sources": [
+{
+"title": "维基百科：首次代币发行",
+"url": "https://zh.wikipedia.org/wiki/首次代币发行",
+"type": "wiki"
+}
+],
+"tags": [
+"ICO",
+"监管"
+]
+},
+{
 "id": "2017-10-18-19th-party-congress",
 "date": "2017-10-18",
 "date_accuracy": "exact",
@@ -1251,6 +1129,185 @@
 ]
 },
 {
+"id": "2018-03-14-hawking-died",
+"date": "2018-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "霍金逝世：轮椅上的宇宙向人类告别",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "76岁的史蒂芬·霍金在爱因斯坦生日这天去世。这位把黑洞讲成畅销书的物理学家，是中国读者最熟悉的科学家——他的《时间简史》卖出了2000多万册，虽然大多数人没读完。",
+"detail": "霍金21岁确诊渐冻症、医生预言只剩两年，却活了55年。晚年持续关注AI风险与人类太空移民。",
+"impact": "科学传播的全球偶像谢幕，公众号与朋友圈集体刷屏致敬。",
+"aftermath": "《万物理论》等影视作品延续其影响；渐冻症研究筹资此后多次借其名义发起。",
+"sources": [
+{
+"title": "Wikipedia: Stephen Hawking",
+"url": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+"type": "wiki"
+}
+],
+"tags": [
+"霍金",
+"科学家"
+]
+},
+{
+"id": "2018-03-23-trade-war-start",
+"date": "2018-03-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中美贸易战开打：301关税落地",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美国依据301调查对华加征关税，中国同日反制，绵延六年的经贸摩擦拉开帷幕。工厂订单、汇率、股市、留学签证……全球化红利时代的舒适感结束了。",
+"detail": "2018年7月、9月两轮关税各500亿+2000亿美元，2019年再升级；2020年1月第一阶段协议暂时缓和，2025年关税战2.0重启。",
+"impact": "供应链外迁、转口贸易与国产替代三线并行。",
+"aftermath": "2024年后中美在AI、半导体、电动车领域竞争全面化。",
+"sources": [
+{
+"title": "Wikipedia: China–United States trade war",
+"url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war",
+"type": "wiki"
+}
+],
+"tags": [
+"贸易战",
+"中美"
+]
+},
+{
+"id": "2018-04-16-zte-sanction",
+"date": "2018-04-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美国激活对中兴禁售令：芯片断供的当头一棒",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美国商务部以违反和解协议为由，禁止美国企业向中兴通讯出售元器件，中兴一夜休克。『缺芯少魂』四个字再次刺痛中国——国产替代与自研芯片从此成为全民共识。",
+"detail": "2017年中兴已认罪缴纳8.92亿美元罚款，2018年美方认定其未处罚涉事员工而激活禁令。3个月后中兴以再缴10亿美元罚款、更换管理层和解。",
+"impact": "半导体国产化升格为国家工程。",
+"aftermath": "2019年华为被列实体清单、2023年麒麟回归；国家大基金三期2024年注资3440亿元。",
+"sources": [
+{
+"title": "维基百科：中兴通讯",
+"url": "https://zh.wikipedia.org/wiki/中兴通讯",
+"type": "wiki"
+}
+],
+"tags": [
+"中兴",
+"芯片"
+]
+},
+{
+"id": "2018-07-15-vaccine-scandal",
+"date": "2018-07-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "长春长生疫苗造假曝光",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "狂犬病疫苗生产记录造假、百白破疫苗效价不达标接连曝光，举国震怒。药品管理法全面修订、疫苗管理专门立法——这一次，公共愤怒直接加速了法律。",
+"detail": "长春长生被处罚没91亿元并吊销生产许可证，公司强制退市，多名责任人被判刑。",
+"impact": "疫苗生产环节监管彻底重构，全国接种信息可追溯。",
+"aftermath": "2019年《疫苗管理法》施行；2021年民法典设惩罚性赔偿。",
+"sources": [
+{
+"title": "维基百科：长春长生问题疫苗事件",
+"url": "https://zh.wikipedia.org/wiki/疫苗",
+"type": "wiki"
+}
+],
+"tags": [
+"疫苗",
+"食药安全"
+]
+},
+{
+"id": "2018-07-26-pdd-ipo",
+"date": "2018-07-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "拼多多上市：五环外的胜利",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "成立不到三年、从未盈利的拼多多登陆纳斯达克，市值一度接近2/3个京东。当一线精英还在嘲笑砍一刀时，它用低价拼团把五环外与县城银发族第一次搬上了电商。",
+"detail": "黄峥创办的拼多多2015年9月上线，借微信裂变与产业带白牌起家，2018年7月26日上市，2020年用户数登顶电商第一。",
+"impact": "电商格局从阿里京东双寡头变为三国杀，低价心智重估。",
+"aftermath": "2021年社区团购大战；2022年起 Temu 出海横扫欧美下沉市场。",
+"sources": [
+{
+"title": "维基百科：拼多多",
+"url": "https://zh.wikipedia.org/wiki/拼多多",
+"type": "wiki"
+}
+],
+"tags": [
+"拼多多",
+"黄峥"
+]
+},
+{
+"id": "2018-08-02-tiktok-musically-merge",
+"date": "2018-08-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "TikTok 与 Musical.ly 合并：字节跳动的海外豪赌成型",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2018年8月2日，字节跳动宣布将海外短视频应用 TikTok 与收购来的 Musical.ly 合并——10亿美元买下的对口唱App用户全部迁入 TikTok。全球用户破10亿的超级应用，就此完成关键一跃。",
+"detail": "字节2017年11月以约10亿美元收购 Musical.ly（欧美青少年对口型社区），与自研的 TikTok 双线并行一年后合并。合并后的 TikTok 继承了两边的算法推荐与内容生态，2019年起在美欧日韩下载量登顶，成为第一款真正全球化的中国互联网产品——Facebook 内部把 TikTok 视为增速最恐怖的对手，Instagram 连推 Reels 应对。合并也埋下地缘伏笔：中国公司的数据版图深入1.5亿美国人手机，直接触发2020年特朗普禁令（见相关条目）与各国数据监管。『买下时间』的合并操作被商业教材视为经典：算法能力+成熟用户盘，省下三年冷启动。",
+"impact": "中国互联网产品全球化最大成功的起点，也预埋了数据主权对抗的引信。",
+"aftermath": "TikTok 全球月活超15亿；美国『不卖就禁』法案（2024）让合并遗产继续经受政治考验。",
+"sources": [
+{
+"title": "Wikipedia: Musical.ly",
+"url": "https://en.wikipedia.org/wiki/Musical.ly",
+"type": "wiki"
+}
+],
+"tags": [
+"TikTok",
+"Musical.ly",
+"字节跳动",
+"全球化"
+]
+},
+{
+"id": "2018-08-24-didi-ride-hailing-case",
+"date": "2018-08-24",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "滴滴顺风车乐清案：平台责任的一记重锤",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月24日，浙江乐清一名20岁女孩乘坐滴滴顺风车遇害，距郑州空姐案仅三个多月。全国哗然：滴滴无限期下线顺风车业务，客服外包、一键报警、行程录音等安全问题被彻底翻出来检视。网约车从『狂飙』进入『补课』。",
+"detail": "2018年8月24日下午，浙江温州乐清市一名20岁女性乘客乘坐滴滴顺风车途中被司机杀害。此时距5月6日郑州顺风车乘客遇害案仅过去三个多月，公众对平台安全机制的愤怒彻底爆发：乐清案中受害人家属曾多次联系滴滴客服请求紧急干预，响应迟缓的细节被广泛报道。8月25日起，滴滴宣布在全国范围无限期下线顺风车业务，随后整改：行程全程录音、一键报警、紧急联系人、司机背景核查强化等安全功能上线，客服体系加码。交通运输部与公安部联合开展网约车行业安全专项检查，各平台对照整改。",
+"impact": "平台安全责任第一次以如此沉重的方式进入公众议程，『增长优先』的互联网模式被重新审视。",
+"aftermath": "2019年11月滴滴顺风车带着更严格的安全规则小范围重新上线；行程录音、紧急求助此后成为网约车行业标配，安全功能从卖点变成底线。",
+"sources": [
+{
+"title": "Wikipedia: 滴滴出行",
+"url": "https://zh.wikipedia.org/wiki/滴滴出行",
+"type": "wiki"
+}
+],
+"tags": [
+"滴滴",
+"顺风车",
+"平台责任",
+"网约车安全"
+]
+},
+{
 "id": "2018-10-24-hzmb-bridge-open",
 "date": "2018-10-24",
 "date_accuracy": "exact",
@@ -1275,6 +1332,31 @@
 "超级工程",
 "沉管隧道",
 "大湾区"
+]
+},
+{
+"id": "2018-10-30-jinyong",
+"date": "2018-10-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "金庸逝世：武侠时代落幕",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "94岁的金庸在香港病逝。飞雪连天射白鹿，笑书神侠倚碧鸳——几代华人共同的江湖从此没了执笔人。当晚朋友圈被『大闹一场，悄然离去』刷屏。",
+"detail": "金庸15部武侠作品影响影视、游戏与华语文化圈七十年，作品全球销量过亿。",
+"impact": "武侠文化进入永久怀旧期。",
+"aftermath": "金庸作品持续被改编；『武侠』作为类型在短视频时代以二创形式回魂。",
+"sources": [
+{
+"title": "维基百科：金庸",
+"url": "https://zh.wikipedia.org/wiki/金庸",
+"type": "wiki"
+}
+],
+"tags": [
+"金庸",
+"武侠"
 ]
 },
 {
@@ -1332,30 +1414,207 @@
 ]
 },
 {
-"id": "2018-08-24-didi-ride-hailing-case",
-"date": "2018-08-24",
+"id": "2018-11-26-gene-edited-babies",
+"date": "2018-11-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "滴滴顺风车乐清案：平台责任的一记重锤",
-"category": "society",
+"date_confidence": "verified",
+"title": "基因编辑婴儿事件：贺建奎震动世界科学界",
+"category": "tech",
 "region": "cn",
 "milestone": false,
-"summary_30s": "8月24日，浙江乐清一名20岁女孩乘坐滴滴顺风车遇害，距郑州空姐案仅三个多月。全国哗然：滴滴无限期下线顺风车业务，客服外包、一键报警、行程录音等安全问题被彻底翻出来检视。网约车从『狂飙』进入『补课』。",
-"detail": "2018年8月24日下午，浙江温州乐清市一名20岁女性乘客乘坐滴滴顺风车途中被司机杀害。此时距5月6日郑州顺风车乘客遇害案仅过去三个多月，公众对平台安全机制的愤怒彻底爆发：乐清案中受害人家属曾多次联系滴滴客服请求紧急干预，响应迟缓的细节被广泛报道。8月25日起，滴滴宣布在全国范围无限期下线顺风车业务，随后整改：行程全程录音、一键报警、紧急联系人、司机背景核查强化等安全功能上线，客服体系加码。交通运输部与公安部联合开展网约车行业安全专项检查，各平台对照整改。",
-"impact": "平台安全责任第一次以如此沉重的方式进入公众议程，『增长优先』的互联网模式被重新审视。",
-"aftermath": "2019年11月滴滴顺风车带着更严格的安全规则小范围重新上线；行程录音、紧急求助此后成为网约车行业标配，安全功能从卖点变成底线。",
+"summary_30s": "南方科技大学贺建奎宣布世界首例基因编辑婴儿诞生，全球科学家联名谴责，官方迅速立案。最终贺建奎因非法行医获刑三年——伦理红线以最激烈的方式被划出。",
+"detail": "对胚胎CCR5基因编辑的『露露』『娜娜』诞生引发全球科学界强烈反对，调查认定其伪造伦理审查。",
+"impact": "中国科研伦理监管全面收紧，科技伦理审查制度体系化。",
+"aftermath": "2022年科技伦理审查办法出台；基因治疗监管参照国际标准重建。",
 "sources": [
 {
-"title": "Wikipedia: 滴滴出行",
-"url": "https://zh.wikipedia.org/wiki/滴滴出行",
+"title": "维基百科：贺建奎基因编辑婴儿事件",
+"url": "https://zh.wikipedia.org/wiki/基因编辑婴儿事件",
 "type": "wiki"
 }
 ],
 "tags": [
-"滴滴",
-"顺风车",
-"平台责任",
-"网约车安全"
+"基因编辑",
+"伦理"
+]
+},
+{
+"id": "2018-12-01-huawei-cfo-arrest",
+"date": "2018-12-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "孟晚舟在温哥华被拘：华为风波的代理人战役",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "华为副董事长、首席财务官孟晚舟在温哥华转机时被加拿大警方应美方要求拘押，中美加三方卷入长达1028天的司法拉锯。她脚上的电子镣铐，成为科技地缘博弈最直观的画面。",
+"detail": "美方指控其涉伊朗业务银行欺诈。2021年9月25日孟晚舟乘包机回国，同年两名被拘加拿大公民获释。",
+"impact": "跨国高管安全与科技战人质化风险浮出水面。",
+"aftermath": "2022年6月加方以『和解』撤诉；华为全球扩张策略大幅调整。",
+"sources": [
+{
+"title": "Wikipedia: Arrest and detention of Meng Wanzhou",
+"url": "https://zh.wikipedia.org/wiki/孟晚舟事件",
+"type": "wiki"
+}
+],
+"tags": [
+"孟晚舟",
+"华为"
+]
+},
+{
+"id": "2018-12-01-ofo-refund-crisis",
+"date": "2018-12-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "ofo押金危机：1000万人排队退钱的荒诞剧",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "共享单车探路者 ofo 资金链断裂，App 排队退押金人数冲上1000万，戴威被列为失信人。小黄车从校园神器变成『共享经济泡沫』的标准注脚。",
+"detail": "2018年秋冬起集中挤兑，押金至今多数未退。摩拜27亿美元卖身美团，哈啰靠阿里续命。",
+"impact": "共享经济从烧钱风口回归常识。",
+"aftermath": "单车骑行作为民生服务被政府接管定价；哈啰、美团单车成为城市基础设施。",
+"sources": [
+{
+"title": "维基百科：ofo",
+"url": "https://zh.wikipedia.org/wiki/Ofo",
+"type": "wiki"
+}
+],
+"tags": [
+"ofo",
+"共享单车"
+]
+},
+{
+"id": "2019-01-01-e-commerce-law",
+"date": "2019-01-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《电子商务法》施行：网店、代购、刷单全要管起来了",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国首部电商领域综合性法律施行：电商经营者须登记纳税、搭售不得默认勾选、押金退还不得拖延。代购朋友圈集体哀嚎，消费者维权第一次有了体系化武器。",
+"detail": "电商法2018年8月通过，覆盖平台、经营者、配送与争议解决全链条。",
+"impact": "微商代购规范化，平台责任被明确为连带与先行赔付。",
+"aftermath": "2021年《网络交易监督管理办法》细化；直播电商监管沿用其框架。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国电子商务法",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国电子商务法",
+"type": "wiki"
+}
+],
+"tags": [
+"电商法",
+"消费者"
+]
+},
+{
+"id": "2019-02-14-gpt2-full-release",
+"date": "2019-02-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 放出 GPT-2 全量模型：『太危险』风波的结局",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2019年2月14日，OpenAI 公开发布15亿参数的 GPT-2 完整模型。此前半年它以『过于危险不宜公开』为由分阶段放风，引发 AI 安全大论战——这次情人节『交底』被视为大模型开源伦理讨论的分水岭。",
+"detail": "GPT-2 在2019年2月发布时凭『一篇假新闻通顺到吓人』的能力震动业界，OpenAI 先只放出小号模型，称完整版可能被滥用于虚假信息生产，遭学界批评为『营销式恐慌』。此后按承诺分三阶段放完，2月14日交出最后的15亿参数版。这场风波确立了后来 AI 发布的基本仪式：能力演示—风险评估—分阶段开源，也点燃了『开放 vs 安全』的长期争论。GPT-2 本身证明『无监督预训练+通用架构』路线可行，直接通向两年后的 GPT-3 和 ChatGPT。",
+"impact": "确立大模型『分阶段发布』惯例，AI 安全从科幻议题变成工程流程。",
+"aftermath": "GPT-3（2020）以1750亿参数掀翻规模天花板；中文社区基于 GPT-2 的衍生模型（如『古文』『诗歌』微调）曾是中国大模型热潮的前奏。",
+"sources": [
+{
+"title": "Wikipedia: GPT-2",
+"url": "https://en.wikipedia.org/wiki/GPT-2",
+"type": "wiki"
+}
+],
+"tags": [
+"GPT-2",
+"OpenAI",
+"大模型",
+"AI安全"
+]
+},
+{
+"id": "2019-02-18-gba-outline",
+"date": "2019-02-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《粤港澳大湾区发展规划纲要》印发：再造一个世界级湾区",
+"category": "national",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2019年2月18日，中共中央、国务院印发《粤港澳大湾区发展规划纲要》，『9+2』城市群（广州、深圳、珠海、佛山、惠州、东莞、中山、江门、肇庆+香港、澳门）第一次以国家战略的形态被捏合成一个整体。",
+"detail": "纲要给出2022/2035两阶段目标：建设国际科技创新中心、世界级金融枢纽与宜居湾区。此后的落地速度惊人——港珠澳大桥（2018）与广深港高铁（2018）先把硬件连起来，前海、横琴、南沙三大平台各自承接深港、琴澳、粤港合作，2023年起『澳车北上』『港车北上』让港澳车牌驶入内地。大湾区 GDP 已超14万亿元人民币，超过全球经济总量第十的国家；深圳-香港-广州创新集群连续多年位居全球创新指数科技集群第二。争议与难点同样明确：三关税区、三法域、三种货币的制度摩擦，以及产业同质化的内卷。",
+"impact": "中国区域经济从『城市竞争』转向『城市群协同』的旗舰样本。",
+"aftermath": "深中通道（2024）再添跨海动脉；香港北部都会区规划（2021）主动对接深圳，边界感加速消融。",
+"sources": [
+{
+"title": "Wikipedia: 粤港澳大湾区",
+"url": "https://zh.wikipedia.org/wiki/粤港澳大湾区",
+"type": "wiki"
+}
+],
+"tags": [
+"大湾区",
+"城市群",
+"区域经济",
+"9+2"
+]
+},
+{
+"id": "2019-03-26-996-icu",
+"date": "2019-03-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "996.ICU：程序员向加班文化宣战",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "程序员在 GitHub 上架『996.ICU』项目，控诉『工作996、生病ICU』，数万星标让全球围观中国互联网加班文化。劳动法与 KPI 现实的碰撞，第一次有了国际声量。",
+"detail": "项目列出不遵守劳动法的公司名单，多家外企媒体跟进报道。2021年最高法与人社部发布典型案例明确严重超时加班违法。",
+"impact": "加班文化成为公共议题，互联网行业『过劳』叙事固化。",
+"aftermath": "2022年起大厂批量『去肥增瘦』，裁员与反内卷讨论持续；『00后整顿职场』成为新梗。",
+"sources": [
+{
+"title": "Wikipedia: 996 working hour system",
+"url": "https://en.wikipedia.org/wiki/996_working_hour_system",
+"type": "wiki"
+}
+],
+"tags": [
+"996",
+"劳动权益"
+]
+},
+{
+"id": "2019-04-10-black-hole-photo",
+"date": "2019-04-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "人类首张黑洞照片公布",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "事件视界望远镜把5500万光年外M87星系中心的黑洞拍成了『甜甜圈』，全球六地同步发布。中国科学家参与其中——人类第一次亲眼『看见』引力巨兽的剪影。",
+"detail": "由8台射电望远镜组成的全球网络完成观测，数据量以PB计，冲洗照片耗时两年。",
+"impact": "验证广义相对论强引力场预言，公众科学传播的现象级案例。",
+"aftermath": "2022年银河系中心黑洞照片公布；中国天眼FAST持续产出成果。",
+"sources": [
+{
+"title": "Wikipedia: First image of a black hole",
+"url": "https://en.wikipedia.org/wiki/First_image_of_a_black_hole",
+"type": "wiki"
+}
+],
+"tags": [
+"黑洞",
+"科学"
 ]
 },
 {
@@ -1386,6 +1645,56 @@
 ]
 },
 {
+"id": "2019-05-16-huawei-entity-list",
+"date": "2019-05-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为被列入实体清单：科技脱钩元年",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美国商务部把华为及其68家关联公司列入实体清单，谷歌暂停华为手机GMS服务。这家中国最大科技公司被逼出了『备胎转正』：鸿蒙、HMS、麒麟芯，中国科技自立的叙事从此换了主角。",
+"detail": "禁令历经多次缓期与升级（2020年切断台积电代工），华为手机份额从全球第一跌至Others，2023年Mate 60携麒麟9000S回归。",
+"impact": "中国科技产业全面转向自主可控。",
+"aftermath": "鸿蒙生态2024年独设HarmonyOS NEXT；欧洲、日韩同步收紧对华半导体设备。",
+"sources": [
+{
+"title": "Wikipedia: Huawei entity list controversy",
+"url": "https://en.wikipedia.org/wiki/Huawei",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"实体清单"
+]
+},
+{
+"id": "2019-06-01-hong-kong-protest",
+"date": "2019-06-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "香港修例风波",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "香港特区政府推动修订《逃犯条例》引发大规模示威并演变为持续半年的社会动荡。2020年6月《香港国安法》实施后局面恢复稳定，选举制度随后完善。",
+"detail": "风波自6月反修例游行起持续升级，出现暴力冲击与占据立法会等事件。中央2020年出台国安法、2021年完善选举制度。",
+"impact": "香港政治生态与社会秩序深度重塑。",
+"aftermath": "2023年区议会改革；国际金融中心地位在波动中维持。",
+"sources": [
+{
+"title": "维基百科：反对逃犯条例修订草案运动",
+"url": "https://zh.wikipedia.org/wiki/反对逃犯条例修订草案运动",
+"type": "wiki"
+}
+],
+"tags": [
+"香港",
+"修例风波"
+]
+},
+{
 "id": "2019-06-06-5g-commercial-licenses",
 "date": "2019-06-06",
 "date_accuracy": "exact",
@@ -1413,6 +1722,108 @@
 ]
 },
 {
+"id": "2019-07-01-shanghai-garbage",
+"date": "2019-07-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海强制垃圾分类：你是什么垃圾？",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "《上海市生活垃圾管理条例》施行，个人混投最高罚款200元。『干垃圾湿垃圾』的灵魂拷问席卷全网，奶茶珍珠要分三步扔的段子养活了一夏天短视频。",
+"detail": "四分类（可回收、有害、湿、干）落地，定时定点投放推进。2019年底46个重点城市跟进。",
+"impact": "垃圾分类从倡议变成市民日常作业。",
+"aftermath": "2020年北京等城市跟进；督导员岗位与智能垃圾桶产业兴起。",
+"sources": [
+{
+"title": "维基百科：上海市生活垃圾管理条例",
+"url": "https://zh.wikipedia.org/wiki/上海市生活垃圾管理条例",
+"type": "wiki"
+}
+],
+"tags": [
+"垃圾分类",
+"上海"
+]
+},
+{
+"id": "2019-07-22-star-market-debut",
+"date": "2019-07-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "科创板开市：注册制与硬科技的中国实验",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2019年7月22日，科创板首批25家公司在上交所挂牌交易，首日平均涨幅约140%。设立仅8个月的科创板把『注册制』第一次带入A股，被定位为『中国版纳斯达克』——芯片、生物医药等硬科技公司第一次有了不问盈利的上市通道。",
+"detail": "2018年11月习近平在进博会宣布设立科创板并试点注册制，2019年1月方案落地、6月13日开板、7月22日开市。与主板最大差异：允许未盈利企业上市、涨跌幅放宽至20%、发行定价交给市场（注册制审核），发行市盈率一度普遍上百倍。中微半导体首日涨超180%、澜起科技涨超250%。科创板随后成为国产替代的资本发动机：半导体设备、EDA、创新药企业密集上市，2020年代『卡脖子』清单上的公司大多在此完成融资。",
+"impact": "注册制首次落地A股，为硬科技企业打通上市融资通道。",
+"aftermath": "2023年注册制推广至全市场；科创板50指数成为A股科技景气度的风向标，也历经了估值泡沫与回归。",
+"sources": [
+{
+"title": "Wikipedia: 科创板",
+"url": "https://zh.wikipedia.org/wiki/科创板",
+"type": "wiki"
+}
+],
+"tags": [
+"科创板",
+"注册制",
+"硬科技",
+"半导体"
+]
+},
+{
+"id": "2019-08-09-harmonyos",
+"date": "2019-08-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "鸿蒙操作系统发布：备胎转正",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "华为在东莞发布 HarmonyOS，一个面向全场景的分布式操作系统。发布会现场余承东说『没有人是孤岛』——这个被谷歌断供逼出来的系统，四年后成为装机量破7亿的独立生态。",
+"detail": "鸿蒙1.0用于智慧屏，2021年手机版上线，2024年 HarmonyOS NEXT 完全剥离安卓兼容，实现纯血鸿蒙。",
+"impact": "中国首次拥有全球级移动操作系统。",
+"aftermath": "2024年鸿蒙生态设备超10亿台；高校开设鸿蒙开发课程。",
+"sources": [
+{
+"title": "维基百科：鸿蒙（操作系统）",
+"url": "https://zh.wikipedia.org/wiki/鸿蒙_(操作系统)",
+"type": "wiki"
+}
+],
+"tags": [
+"鸿蒙",
+"华为"
+]
+},
+{
+"id": "2019-09-01-foreign-teachers-law",
+"date": "2019-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "民办教育潮与『起跑线焦虑』：早教机构遍地开花",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2015-2019年，K12课外培训市场从数千亿冲向万亿，学而思、猿辅导融资不断，家长群成为新型社会单元。『不补课就掉队』的军备竞赛越演越烈——直到2021年双减一锤定音。",
+"detail": "在线教育2018-2019年融资超千亿，广告充斥电梯与综艺。校内减负与校外加码形成剪刀差。",
+"impact": "家庭教育支出占比攀升，教育焦虑社会化。",
+"aftermath": "2021年7月双减政策落地，学科类机构营转非或退场，猿辅导转型卖羽绒服成为年度新闻。",
+"sources": [
+{
+"title": "维基百科：校外培训",
+"url": "https://zh.wikipedia.org/wiki/新东方",
+"type": "wiki"
+}
+],
+"tags": [
+"教育焦虑",
+"课外培训"
+]
+},
+{
 "id": "2019-09-25-daxing-airport-open",
 "date": "2019-09-25",
 "date_accuracy": "exact",
@@ -1437,6 +1848,110 @@
 "扎哈",
 "双机场",
 "新国门"
+]
+},
+{
+"id": "2019-09-30-wework-ipo-pulled",
+"date": "2019-09-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WeWork 撤回 IPO：估值神话的当众崩塌",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2019年9月30日，WeWork 正式撤回上市申请——8个月前估值还是470亿美元，招股书公开后六周内暴跌到不足百亿。共享办公『独角兽之王』的IPO溃败，成为风险投资泡沫时代的教科书案例。",
+"detail": "招股书暴露的真相触目惊心：2018年亏损19亿、长期租约负债与『社区调整后EBITDA』等自创指标、创始人诺伊曼的独断与利益输送（租自家房产给公司）。孙正义的软银愿景基金重押了它与 Uber，招股书公开后舆论哗然，IPO 被迫撤退，诺伊曼出走，软银以约百亿美元救助并接管。『WeWork 时刻』重新校准了整个创投圈的估值逻辑：烧钱换『故事』的公司（所谓平台经济叙事）被重新审视，盈利能力重回 C 位。软银此后收缩愿景基金，孙正义公开为这笔投资道歉；WeWork 2023年申请破产保护（2024年重组后仍在运营）。",
+"impact": "独角兽估值泡沫的标志事件，风险投资行业从增长叙事回归现金流。",
+"aftermath": "软银此后押注 AI 重整旗鼓；『.adjacent EBITDA』式的财技包装成为 SEC 审查重点。",
+"sources": [
+{
+"title": "Wikipedia: WeWork",
+"url": "https://en.wikipedia.org/wiki/WeWork",
+"type": "wiki"
+}
+],
+"tags": [
+"WeWork",
+"软银",
+"独角兽",
+"IPO"
+]
+},
+{
+"id": "2019-10-01-70th-anniversary",
+"date": "2019-10-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "国庆70周年大阅兵",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "新中国成立70周年阅兵，东风-41洲际导弹首次亮相，10万群众游行再现奋斗编年史。短视频平台的阅兵切片播放量以十亿计——弹幕里的『此生无悔入华夏』刷到系统卡顿。",
+"detail": "受阅装备40%首次亮相，国庆联欢活动在广场举行巨型烟花表演。",
+"impact": "国家叙事以碎片化视频完成全网传播。",
+"aftermath": "2021年建党百年庆典；2025年九三阅兵再展新装备。",
+"sources": [
+{
+"title": "维基百科：庆祝中华人民共和国成立70周年大会",
+"url": "https://zh.wikipedia.org/wiki/庆祝中华人民共和国成立70周年大会",
+"type": "wiki"
+}
+],
+"tags": [
+"国庆阅兵",
+"70周年"
+]
+},
+{
+"id": "2019-11-27-number-portability-nationwide",
+"date": "2019-11-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "携号转网全国正式实施：号码自由落地的最后一块拼图",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2019年11月27日，三大运营商在全国范围正式提供携号转网服务。手机号码不再被运营商『锁死』——换网不用换号，这个喊了9年的承诺终于全国兑现。",
+"detail": "2010年工信部在天津、海南试点携号转网，2014年扩至江西、湖北、云南，但长期『试点不停、全面不推』，转网流程被用户吐槽『层层设卡』。2019年《政府工作报告》明确全国推进，11月27日三大运营商同步正式开放。流程简化为短信查询资格、营业厅一小时内办结。对用户是自由，对运营商是倒逼：转网数据成为服务质量的试金石，5G 竞争从拼信号转向拼资费与服务。累计转网用户此后达千万级，单个号码背后绑定的银行、社交账号太多，实际转网率低于预期，但『可转』本身就是威慑。",
+"impact": "用户主权的标志性进展，运营商服务竞争从垄断惯性转向体验。",
+"aftermath": "携号转网叠加5G资费战，运营商 ARPU 持续承压；互联网套餐、定向流量成为标配。",
+"sources": [
+{
+"title": "Wikipedia: 携号转网",
+"url": "https://zh.wikipedia.org/wiki/携号转网",
+"type": "wiki"
+}
+],
+"tags": [
+"携号转网",
+"运营商",
+"用户权益",
+"电信改革"
+]
+},
+{
+"id": "2019-12-31-bilibili-gala",
+"date": "2019-12-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "B站跨年晚会出圈：『小破站』的成人礼",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一场没有流量明星的跨年晚会，用《哈利波特》交响组曲与《镇魂街》国漫音乐引爆全网，回放量破亿。主流媒体点赞『最懂年轻人的晚会』——亚文化与主流的边界一夜融合。",
+"detail": "晚会由 B 站与央视等联合出品，方锦龙与交响乐团的对决成为名场面。",
+"impact": "青年文化平台获得主流背书。",
+"aftermath": "B站2020年股价与用户双爆发；此后各平台跨年晚会全面『B站化』。",
+"sources": [
+{
+"title": "维基百科：bilibili",
+"url": "https://zh.wikipedia.org/wiki/bilibili",
+"type": "wiki"
+}
+],
+"tags": [
+"B站",
+"跨年晚会"
 ]
 }
 ]

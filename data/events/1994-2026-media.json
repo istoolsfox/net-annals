@@ -1,32 +1,5 @@
 [
 {
-"id": "2001-01-15-wikipedia-launch",
-"date": "2001-01-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "维基百科上线：人人可编辑的百科全书",
-"category": "internet",
-"region": "world",
-"milestone": false,
-"summary_30s": "1月15日，维基百科（Wikipedia）正式上线，任何人都可以编辑任何词条。这个『疯狂』的实验后来长成了人类最大的知识库：300多种语言、数千万条目，中文维基百科也随之在2002年诞生。",
-"detail": "2001年1月15日，吉米·威尔士与拉里·桑格将维基百科作为Nupedia的补充项目正式上线，采用wiki技术向公众开放编辑。上线首月即积累约1000个条目，增长呈指数级：2001年底条目破2万，2002年10月中文维基百科创立。维基的『人人可编辑+版本历史回滚』机制证明了大规模陌生人协作的可行性，成为Web 2.0最成功的知识生产实验；其非营利模式（维基媒体基金会，2003年设立）与『中立的观点』方针塑造了互联网内容社区的伦理范式。",
-"impact": "人类历史上最大规模的协作知识库诞生，免费开放的知识获取方式深刻改变教育与研究。",
-"aftermath": "2020年代维基百科条目超6000万；AI大模型的训练语料中维基百科质量权重最高，其编辑者社群仍在与机器生成内容共处探索。",
-"sources": [
-{
-"title": "Wikipedia: 维基百科",
-"url": "https://zh.wikipedia.org/wiki/维基百科",
-"type": "wiki"
-}
-],
-"tags": [
-"维基百科",
-"wiki",
-"UGC",
-"知识共享"
-]
-},
-{
 "id": "1999-08-23-blogger-launch",
 "date": "1999-08-23",
 "date_accuracy": "exact",
@@ -54,6 +27,60 @@
 ]
 },
 {
+"id": "2001-01-15-wikipedia-launch",
+"date": "2001-01-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "维基百科上线：人人可编辑的百科全书",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月15日，维基百科（Wikipedia）正式上线，任何人都可以编辑任何词条。这个『疯狂』的实验后来长成了人类最大的知识库：300多种语言、数千万条目，中文维基百科也随之在2002年诞生。",
+"detail": "2001年1月15日，吉米·威尔士与拉里·桑格将维基百科作为Nupedia的补充项目正式上线，采用wiki技术向公众开放编辑。上线首月即积累约1000个条目，增长呈指数级：2001年底条目破2万，2002年10月中文维基百科创立。维基的『人人可编辑+版本历史回滚』机制证明了大规模陌生人协作的可行性，成为Web 2.0最成功的知识生产实验；其非营利模式（维基媒体基金会，2003年设立）与『中立的观点』方针塑造了互联网内容社区的伦理范式。",
+"impact": "人类历史上最大规模的协作知识库诞生，免费开放的知识获取方式深刻改变教育与研究。",
+"aftermath": "2020年代维基百科条目超6000万；AI大模型的训练语料中维基百科质量权重最高，其编辑者社群仍在与机器生成内容共处探索。",
+"sources": [
+{
+"title": "Wikipedia: 维基百科",
+"url": "https://zh.wikipedia.org/wiki/维基百科",
+"type": "wiki"
+}
+],
+"tags": [
+"维基百科",
+"wiki",
+"UGC",
+"知识共享"
+]
+},
+{
+"id": "2003-10-01-4chan-launch",
+"date": "2003-10-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "4chan 上线：匿名网络文化的策源地",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "2003年10月1日，15岁的美国少年 Christopher Poole（网名 moot）仿照日本2ch和双叶频道建起 4chan。这个没有注册系统的匿名贴图板，后来成了半个互联网迷因的出生地。",
+"detail": "4chan 最初是为英语用户搬运日本御宅文化而建，但『无账号、无存档、帖子自动沉底』的激进匿名设计让它长成了另一种东西：Rickroll、LOLcats、Anonymous（匿名者）黑客行动都发源于此。它的 /b/ 版块以极端放纵闻名，好名声与坏名声都是『匿名』的产物。匿名文化东渡影响了中文网络：A岛（匿名版）等产品直接继承其形态。moot 在2015年出售网站并离开；2024年起 4chan 因资金与运营危机几度濒临关停。",
+"impact": "证明匿名机制可以爆发出巨大的文化创造力，也暴露其失控的一面。",
+"aftermath": "网络迷因从 4chan 扩散到主流社交平台；平台匿名度的讨论至今是内容治理的核心议题。",
+"sources": [
+{
+"title": "Wikipedia: 4chan",
+"url": "https://en.wikipedia.org/wiki/4chan",
+"type": "wiki"
+}
+],
+"tags": [
+"4chan",
+"匿名",
+"迷因",
+"网络亚文化"
+]
+},
+{
 "id": "2004-02-10-flickr-launch",
 "date": "2004-02-10",
 "date_accuracy": "exact",
@@ -78,6 +105,33 @@
 "标签",
 "图片分享",
 "Web2.0"
+]
+},
+{
+"id": "2005-06-23-reddit-launch",
+"date": "2005-06-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Reddit 上线：『互联网的首页』",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "2005年6月23日，Reddit 上线。两个刚毕业的年轻人把它做成一个由用户投票决定热度的链接墙——『顶』和『踩』这两个按钮，后来塑造了几乎所有内容社区的分发逻辑。今天的 Reddit 是美国流量最大的网站之一。",
+"detail": "弗吉尼亚大学的 Steve Huffman 与 Alexis Ohanian 申请 Y Combinator 首期（2005年夏）时原本想做外卖订餐，被 Paul Graham 说服转向内容聚合。上线首月靠创始人自己注册假账号灌内容撑起『活跃假象』。2006年10月被 Condé Nast 收购（价格未公开披露，约在千万美元级）。subreddit 版块机制（2008年开放用户自建）让社区分裂成无数兴趣孤岛：AMA（随便问我）、r/WallStreetBets（2021年散户大战华尔街）都从这里长出。投票排序算法成为后来 Hacker News、知乎等产品排序的祖师爷。",
+"impact": "确立『用户投票决定内容分发』的社区机制，成为 Web 2.0 内容分发的模板。",
+"aftermath": "2021年纽交所估值超百亿美元；2024年3月上市（RDDT），AI 训练语料授权成为新收入来源。",
+"sources": [
+{
+"title": "Wikipedia: Reddit",
+"url": "https://en.wikipedia.org/wiki/Reddit",
+"type": "wiki"
+}
+],
+"tags": [
+"Reddit",
+"社区",
+"UGC",
+"投票机制"
 ]
 },
 {
@@ -159,6 +213,60 @@
 "种草",
 "生活方式",
 "社区"
+]
+},
+{
+"id": "2013-08-14-telegram-launch",
+"date": "2013-08-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Telegram 发布：以加密与频道重塑即时通讯",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "2013年8月14日，Telegram 的 iOS 版上线。被逐出俄罗斯社交帝国的 Pavel Durov 用它证明：即时通讯可以不卖广告、不怕审查。『频道』『机器人』『超大群』这些设计后来被全行业跟进。",
+"detail": "Pavel Durov 因拒绝配合封禁反对派账号被赶出自己创办的 VKontakte 后，与哥哥 Nikolai 用此前积累的资金在柏林创立 Telegram，主张端到端加密（秘密聊天）与云端同步并存的架构。频道功能让任何人都能做万级订户的广播媒体，成为多国政治动员与信息传播的关键工具（含2019年香港、2022年俄乌战争中的重度使用）。为解决运营资金，Durov 曾尝试发行 Gram 代币，2018年被美国 SEC 叫停后改由广告与 Premium 订阅（2022）养活平台。",
+"impact": "把『隐私优先』做成大众产品的核心卖点，频道机制改变了信息传播的层级。",
+"aftermath": "2024年 Durov 在法国被捕引发平台责任大讨论；全球月活用户超9亿，成为多国默认通讯工具。",
+"sources": [
+{
+"title": "Wikipedia: Telegram (software)",
+"url": "https://en.wikipedia.org/wiki/Telegram_(software)",
+"type": "wiki"
+}
+],
+"tags": [
+"Telegram",
+"加密通讯",
+"频道",
+"Durov"
+]
+},
+{
+"id": "2015-05-13-discord-launch",
+"date": "2015-05-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Discord 上线：从游戏语音到互联网社区枢纽",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年5月13日，Discord 正式发布。它一开始只是替游戏玩家解决『开黑语音卡顿』的小工具，后来长成了亿万人的社区底座——学习小组、读书会、开源项目、粉丝站都在上面开『服务器』。",
+"detail": "Jason Citron 与 Stan Vishnevskiy 此前的游戏公司先后失败，转而把公司所有资源押在『游戏玩家的专属语音工具』上。Discord 以零配置、低延迟、免费三大体验碾压了当时通行的 TeamSpeak/Skype，靠游戏主播口碑传播。2017年后它跳出游戏圈：2020年疫情期间月活破1亿，『服务器+频道』的组织形式被开源社区、学习社群大规模采用；2021年估值150亿美元，一度与微软谈判收购（传闻100亿美元未果）。2023年起调整产品定位，推出活动与论坛功能，并在2024-2025年重新强调游戏分发，被收购与上市的传闻不断。",
+"impact": "证明轻量社区工具可以承接互联网的『中间层组织』，群聊从熟人扩展到兴趣共同体。",
+"aftermath": "AI 热潮中大量模型社区（Midjourney 等以 Discord 起家）把它变成技术协作标配；中国替代品 QQ 频道等产品形态直接对标。",
+"sources": [
+{
+"title": "Wikipedia: Discord",
+"url": "https://en.wikipedia.org/wiki/Discord",
+"type": "wiki"
+}
+],
+"tags": [
+"Discord",
+"社区",
+"游戏语音",
+"兴趣社群"
 ]
 }
 ]
