@@ -103,7 +103,7 @@ def main() -> int:
     confidence_stat = {"verified": 0, "single-source": 0, "uncertain": 0}
 
     for f in files:
-        m = re.match(r"^(\d{4})-(\d{4})\.json$", f.name)
+        m = re.match(r"^(\d{4})-(\d{4})(?:-[a-z0-9-]+)?\.json$", f.name)
         if not m:
             errors.append(f"{f.name}: 文件名不符合 <起年>-<止年>.json")
             continue
