@@ -45,7 +45,7 @@ const UIState = { expandAll: false };
 const Store = {
   events: [],
   ready: false,
-  filters: { cats: new Set(CATS.map(c => c.k)), q: '', mileOnly: false },
+  filters: { cats: new Set(CATS.map(c => c.k)), q: '', mileOnly: false, tag: null },
 
   /** 事件所属时代索引；越界钳制到最后一个时代（杜绝事件被静默丢弃） */
   eraIndex(dateStr) {
@@ -58,6 +58,7 @@ const Store = {
   predicates: [
     (e, f) => f.cats.has(e.category),
     (e, f) => !f.mileOnly || !!e.milestone,
+    (e, f) => !f.tag || (e.tags || []).includes(f.tag),
     (e, f) => {
       const q = f.q.trim().toLowerCase();
       return !q || [e.title, e.summary_30s, e.detail, ...(e.tags || []), e.date].join(' ').toLowerCase().includes(q);
@@ -247,6 +248,25 @@ const Toolbar = {
       };
       row.appendChild(b);
     }
+    /* 标签筛选：聚合高频标签为可点选 chips（单选切换） */
+    const tagCount = new Map();
+    for (const e of Store.events) for (const t of (e.tags || [])) tagCount.set(t, (tagCount.get(t) || 0) + 1);
+    const topTags = [...tagCount.entries()].filter(([, n]) => n >= 60).sort((a, b) => b[1] - a[1]).slice(0, 40);
+    const tagRow = $('#tagRow');
+    for (const [t, n] of topTags) {
+      const b = document.createElement('button');
+      b.className = 'chip'; b.textContent = t;
+      b.title = `${n} 条`;
+      b.insertAdjacentHTML('beforeend', `<span class="n">${n}</span>`);
+      b.onclick = () => {
+        const on = Store.filters.tag === t;
+        Store.setFilter({ tag: on ? null : t });
+        tagRow.querySelectorAll('.chip').forEach(x => x.classList.remove('on', 'off'));
+        if (!on) b.classList.add('on');
+        Timeline.rebuild(); syncReset();
+      };
+      tagRow.appendChild(b);
+    }
     let t;
     $('#q').addEventListener('input', e => {
       clearTimeout(t);
@@ -263,7 +283,8 @@ const Toolbar = {
     reset.className = 'tBtn'; reset.id = 'resetAll'; reset.textContent = '↺ 重置';
     reset.style.display = 'none';
     reset.onclick = () => {
-      Store.setFilter({ q: '', mileOnly: false, cats: new Set(CATS.map(c => c.k)) });
+      Store.setFilter({ q: '', mileOnly: false, cats: new Set(CATS.map(c => c.k)), tag: null });
+      document.querySelectorAll('#tagRow .chip').forEach(x => { x.classList.remove('on'); x.classList.remove('off'); });
       $('#q').value = '';
       $('#mileOnly').classList.remove('on');
       document.querySelectorAll('#catRow .chip').forEach(b => { b.classList.add('on'); b.classList.remove('off'); });
@@ -273,7 +294,7 @@ const Toolbar = {
     $('#mileOnly').after(reset);
     window.syncReset = () => {
       const f = Store.filters;
-      const dirty = f.q.trim() || f.mileOnly || f.cats.size < CATS.length;
+      const dirty = f.q.trim() || f.mileOnly || f.cats.size < CATS.length || !!f.tag;
       $('#resetAll').style.display = dirty ? 'inline-block' : 'none';
     };
     const _obs = new MutationObserver(syncReset);
