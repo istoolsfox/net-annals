@@ -1,0 +1,4127 @@
+[
+ {
+  "id": "1986-01-24-voyager2-uranus",
+  "date": "1986-01-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "旅行者2号飞掠天王星，人类首次近距离考察冰巨星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月24日，旅行者2号飞掠天王星，成为人类第一个造访冰巨星的探测器。它新发现10颗卫星、确认11条光环，还测出天王星倾斜近60度的奇特磁场，人类第一次看清这颗『躺着自转』的青色行星。",
+  "detail": "旅行者2号1977年发射，1986年1月24日抵达天王星最近点，距云顶约8.15万公里。这是人类首次近距离观测冰巨星：新发现天卫五、天卫十五等10颗卫星，确认11条光环，并测得磁场轴与自转轴偏离约60度、随自转摆动的磁层，还拍到米兰达卫星上高耸的悬崖地形。天王星自转轴几乎躺倒在轨道面上，其昼夜与四季模式也由此得到实证。至此太阳系已知七大行星都被探测器近探，只剩海王星。",
+  "impact": "把行星探测版图推进到冰巨星，奠定了现代太阳系探测的完整图景。",
+  "aftermath": "1989年旅行者2号完成海王星飞掠后驶出太阳系，至今仍在星际空间传回数据。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "旅行者2号",
+   "NASA",
+   "天王星"
+  ]
+ },
+ {
+  "id": "1986-01-28-challenger-explosion",
+  "date": "1986-01-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "挑战者号升空73秒爆炸解体，7名宇航员全部遇难",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月28日，挑战者号航天飞机升空73秒后爆炸解体，7名宇航员无一幸存，包括平民教师麦考利夫，全球电视观众目睹惨剧。事故原因是低温下右侧固体助推器O形密封圈失效，成为工程伦理的教科书案例。",
+  "detail": "发射当天佛罗里达异常寒冷，助推器接缝处的O形橡胶密封圈低温变硬失去弹性，高温燃气喷出引燃外挂燃料箱，飞机升空73秒解体。事后调查委员会指出NASA管理层早已知晓密封圈缺陷，却因进度压力忽视工程师警告，物理学家费曼在听证会上用冰水浸泡橡胶圈的演示成为科学传播经典。7名机组中包括准备在太空给中小学生讲课的教师克丽斯塔·麦考利夫。",
+  "impact": "促使NASA全面反思决策文化与安全冗余，航天飞机停飞近三年。",
+  "aftermath": "航天飞机1988年9月复飞，助推器接缝彻底重新设计；事故案例至今仍是工程伦理课程的必修教材。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "挑战者号",
+   "NASA",
+   "航天事故"
+  ]
+ },
+ {
+  "id": "1986-02-19-mir-station-launched",
+  "date": "1986-02-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "苏联发射和平号空间站核心舱",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月19日，苏联用质子火箭把和平号空间站核心舱送入轨道。这座模块化空间站此后陆续对接多个实验舱，在轨运行15年，接待上百名宇航员，是国际空间站之前人类最重要的太空长期驻留平台。",
+  "detail": "和平号核心舱入轨后成为苏联第三代空间站的首个模块，随后晶体舱、量子舱等相继对接，到1996年形成六舱构型、重逾百吨的庞大轨道实验室。它在轨期间完成材料科学、生物医学、天体物理等上万项实验，验证了长期微重力驻留技术，累计接待各国宇航员上百人次。1990年代经费紧张、设备老化，火灾与失压等事故频发，但宇航员始终维持其在轨运行。",
+  "impact": "证明人类可以在太空长期驻留并开展模块化轨道建设，为国际空间站直接提供经验。",
+  "aftermath": "2001年3月受控再入大气层坠入南太平洋，碎片落入『航天器坟场』。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "和平号",
+   "苏联",
+   "空间站"
+  ]
+ },
+ {
+  "id": "1986-03-08-suisei-halley-flyby",
+  "date": "1986-03-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "日本彗星号探测器飞掠哈雷彗星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月8日，日本『彗星号』（Suisei）以15万公里距离飞掠哈雷彗星，测量太阳风与彗星的相互作用。它与国际先驱号、金星-哈雷号、乔托号等组成『哈雷舰队』，是各国联合观测哈雷彗星回归的重要一环。",
+  "detail": "1986年哈雷彗星76年一遇的回归催生了人类首次多国联合彗星探测：苏联金星-哈雷号投放着陆器后飞掠彗星，欧洲乔托号近距离穿越彗发，日本先驱号与彗星号负责外围测量。彗星号携带的等离子体仪器记录到彗星大气的弓形激波结构，为理解彗星-太阳风相互作用提供关键数据。",
+  "impact": "与乔托号等共同揭开哈雷彗星之谜，开创多国联合深空探测的先例。",
+  "aftermath": "哈雷舰队获取的尘埃与气体数据支持了『脏雪球』彗星模型，其经验延续到后来的罗塞塔任务。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哈雷彗星",
+   "日本航天",
+   "彗星探测"
+  ]
+ },
+ {
+  "id": "1986-03-14-giotto-halley-closest",
+  "date": "1986-03-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "乔托号穿越哈雷彗星彗发，距彗核仅596公里",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月14日凌晨，欧洲空间局乔托号穿越哈雷彗星彗发，最近距彗核仅596公里，传回第一批彗核特写。数据显示彗星是个『脏雪球』：黑色冰尘混合体，表面喷出大量尘埃气流。",
+  "detail": "乔托号在飞掠中拍摄到彗核轮廓：长约15公里、形似花生、反照率极低的黑色天体，表面有三个活跃喷口向太阳方向喷射气体尘埃。穿越彗发时探测器被高速尘埃击中，相机在最近点前数秒受损，但仍完成主要观测。任务首次确认彗星由冰与尘埃构成的『脏雪球』模型，并测得彗星尘埃的有机成分。",
+  "impact": "人类第一次亲眼看到彗核真容，确立现代彗星科学的基本图景。",
+  "aftermath": "乔托号后来又飞掠格里格-斯克杰利厄普彗星，欧洲彗星探测经验最终结出罗塞塔号登彗核的成果。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "乔托号",
+   "ESA",
+   "哈雷彗星"
+  ]
+ },
+ {
+  "id": "1986-04-26-chernobyl-disaster",
+  "date": "1986-04-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "切尔诺贝利核电站4号机组爆炸",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月26日凌晨，苏联切尔诺贝利核电站4号反应堆在安全试验中失控达到瞬发临界，蒸汽爆炸掀开屋顶，堆芯石墨燃烧十天，大量放射性物质飘散欧洲，成为迄今最严重的核事故。",
+  "detail": "值班人员执行一项停机安全试验时违反规程，叠加RBMK堆型正空泡系数的设计缺陷，反应堆功率骤增至额定数十倍引发蒸汽爆炸和石墨大火。事故当场致死2人，其后数月数十名消防与清理人员死于急性辐射病，普里皮亚季全城撤离，白俄罗斯、乌克兰大片土地长期受限。放射性尘埃横扫欧洲多国，瑞典首先监测到异常。事故暴露了苏联核工业封闭与瞒报体制的问题。",
+  "impact": "成为全球核电安全的分水岭，直接推动国际原子能机构强化安全标准与信息公开。",
+  "aftermath": "石棺1986年11月匆忙封堆，2016年新一代拱形安全罩落成；事故区至今仍设隔离区。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "切尔诺贝利",
+   "核电",
+   "核事故"
+  ]
+ },
+ {
+  "id": "1986-11-30-chernobyl-sarcophagus",
+  "date": "1986-11-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "切尔诺贝利石棺封堆完成，事故反应堆被混凝土掩埋",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月30日，苏联宣布切尔诺贝利石棺封堆工程完成。数月内约40万立方米混凝土与7000吨钢结构将毁坏的4号反应堆整体掩埋，这是人类历史上最大规模的核事故抢险工程。",
+  "detail": "爆炸后消防员与矿工、直升机部队接连奋战：空投数千吨硼砂与铅抑制反应，矿工在堆底挖掘冷却通道防熔融堆芯穿透地基，数十万『清理人』轮班清除屋顶残骸与污染区。11月底最终以钢梁与混凝土浇筑出高约60米的石棺，将约200吨放射性燃料封存其中。工程在极端辐射条件下仓促完成，本体寿命仅约30年。",
+  "impact": "暂时封存了欧洲最大放射源，但石棺开裂风险促使后续国际协作加固。",
+  "aftermath": "2016年新石棺『新安全 confinement』罩落成，设计寿命100年。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "切尔诺贝利",
+   "核电",
+   "抢险工程"
+  ]
+ },
+ {
+  "id": "1986-12-23-rutan-voyager-round-world",
+  "date": "1986-12-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "旅行者号轻型飞机完成不着陆环球飞行",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月23日，迪克·鲁坦与珍娜·耶格尔驾驶碳纤维轻型飞机『旅行者号』降落在加州，完成人类首次不空中加油、不着陆环球飞行，历时9天3分钟，航程约4.2万公里。",
+  "detail": "兄妹组合迪克·鲁坦与设计师伯特·鲁坦打造的旅行者号近乎全机都是油箱，起飞时载油达自身重量的七成，从爱德华兹空军基地超长跑道起飞。两人挤在狭小座舱里轮流驾驶，途中遭遇台风绕飞非洲，最后阶段发动机故障仍坚持返航。这一纪录靠的是复合材料结构与超轻设计突破，而非动力。",
+  "impact": "证明复合材料与极致减重设计的潜力，影响了此后通用航空与长航时无人机发展。",
+  "aftermath": "飞机现存于华盛顿的史密森尼国家航空航天博物馆。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1986 in science",
+    "url": "https://en.wikipedia.org/wiki/1986_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "航空",
+   "环球飞行",
+   "鲁坦"
+  ]
+ },
+ {
+  "id": "1987-01-01-mitochondrial-eve",
+  "date": "1987-01-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『线粒体夏娃』假说提出，现代人类共同母系祖先被推定",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月1日，卡恩、斯通金与威尔逊在《自然》发表论文，用全世界147人的线粒体DNA谱系推断：现代人类的母系最近共同祖先约20万年前生活在非洲。『线粒体夏娃』假说轰动学界。",
+  "detail": "研究团队提取各大洲原住民的胎盘线粒体DNA，构建谱系树后发现所有现代人的母系谱系都汇于一位约14万至20万年前的非洲女性。该结果支持『晚近非洲起源说』：解剖学意义上的现代人类约在数万年前走出非洲并取代各地古人类，而非与当地直立人混血。论文引发人类学界激烈争论，多位学者质疑抽样与统计方法。",
+  "impact": "用分子钟改写人类起源叙事，遗传学与古人类学从此深度绑定。",
+  "aftermath": "后续全基因组研究反复验证非洲起源框架，『夏娃』本身则被澄清为谱系概念而非唯一真实女性。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "线粒体夏娃",
+   "人类起源",
+   "分子人类学"
+  ]
+ },
+ {
+  "id": "1987-02-23-sn1987a-discovered",
+  "date": "1987-02-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "超新星1987A爆发，383年来最近的肉眼超新星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月23日夜，智利拉斯坎帕纳斯天文台的天文学家在大麦哲伦云发现一颗新生超新星SN 1987A，距地球仅16.8万光年，是自1604年以来肉眼可见的第一颗超新星，南半球连肉眼都能看到。",
+  "detail": "爆发前三小时，日本神冈探测器与美俄中微子装置记录到来自大麦哲伦云的十几个中微子，人类首次在光学发现前抓到超新星中微子信号，直接实证了核坍缩超新星理论。此后数月哈勃望远镜发射前的地面望远镜群跟踪其光变与膨胀包层，1990年代又在原恒星位置看到著名的『三环』结构。观测数据横跨光学、紫外、射电与中微子多波段。",
+  "impact": "中微子先于光抵达的观测确认超新星核心坍缩机制，开创多信使天文学先声。",
+  "aftermath": "三十多年后SN 1987A残骸仍在演化，天文学家持续等待其中心致密天体——中子星或黑洞——的直接证据。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "超新星1987A",
+   "中微子",
+   "神冈探测器"
+  ]
+ },
+ {
+  "id": "1987-03-18-woodstock-of-physics",
+  "date": "1987-03-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『物理学伍德斯托克』：高温超导马拉松会议通宵不休",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月18日纽约美国物理学会年会，51个报告轮番登台讲高温超导体新成果，会议从傍晚开到凌晨3点仍未散场，被称为『物理学伍德斯托克之夜』。超导研究的狂热由此引爆。",
+  "detail": "1986年贝德诺尔茨与缪勒发现镧钡铜氧可在35K进入超导态，1987年2月朱经武与赵忠贤团队先后突破液氮温区（77K以上），廉价制冷即可实现超导，产业前景骤然点燃。纽约会议上各团队争抢报告、过道挤满站立听众，甚至有人当场撕毁手稿防剽窃。这一热潮最终确立铜氧化物高温超导这一全新材料家族。",
+  "impact": "把超导临界温度从金属合金的30K以内一举推到液氮温区，改写凝聚态物理版图。",
+  "aftermath": "赵忠贤团队的液氮温区突破使中国跻身高温超导研究第一梯队；机理问题至今仍是物理学悬案。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "高温超导",
+   "赵忠贤",
+   "凝聚态物理"
+  ]
+ },
+ {
+  "id": "1987-03-20-azt-first-antiretroviral",
+  "date": "1987-03-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "美国FDA批准首个抗艾滋病药物齐多夫定",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月20日，FDA批准齐多夫定（AZT）用于艾滋病治疗，这是人类历史上第一种抗逆转录病毒药物。虽不能治愈，它首次证明HIV可以被打压，为绝望中的感染者带来第一线希望。",
+  "detail": "AZT原为1960年代合成的抗癌候选药，1984年体外实验显示可阻断HIV逆转录酶，随后以创纪录速度走完临床试验。批准时仍存在争议：早期试验以安慰剂对照引发伦理质疑，药物毒性大、易耐药。但『艾滋病可治』从此成为共识，联合疗法、母婴阻断等一切后续进展都建立在这第一步之上。",
+  "impact": "开创抗逆转录病毒疗法时代，艾滋病从绝症走向可管理的慢性病。",
+  "aftermath": "1990年代高效联合疗法（鸡尾酒疗法）问世后，AZT仍长期用于母婴阻断，全球数百万儿童因此免于感染。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "AZT",
+   "艾滋病",
+   "FDA"
+  ]
+ },
+ {
+  "id": "1987-05-11-heart-lung-transplant",
+  "date": "1987-05-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "全球首例心肺联合移植成功",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月11日，美国约翰霍普金斯医院完成世界上第一例心肺联合移植。布魯斯·莱茨医生为一位先天性心脏病患者同时置换心脏与双肺，患者术后存活，为终末期心肺疾病患者开辟全新生路。",
+  "detail": "心肺联合移植比单独器官移植更复杂：供体心肺需整体摘取并保护气管血供，术中还要处理受体原来的粘连与胸膜腔问题。首例成功证明了整块心肺移植在技术上的可行性，随后全球多家中心跟进，1990年代进入成熟期。环孢素等新型免疫抑制剂的普及是其成功的关键前提。",
+  "impact": "心肺联合移植从零到成熟，终末期肺动脉高压与囊性纤维化患者获得长期生存选项。",
+  "aftermath": "如今全球每年开展约百例心肺联合移植，五年生存率约50%，仍是器官移植中难度最高的术式之一。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "器官移植",
+   "心肺移植",
+   "医学"
+  ]
+ },
+ {
+  "id": "1987-08-31-lovastatin-first-statin",
+  "date": "1987-08-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "FDA批准首个他汀类降脂药洛伐他汀",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月31日，FDA批准默沙东的洛伐他汀上市，他汀类药物时代开启。此后多款他汀相继问世，靠每日一片药就能显著降低胆固醇、预防心肌梗死，成为处方量最大的药物家族之一。",
+  "detail": "洛伐他汀源自远藤章1976年从桔青霉中发现的美伐他汀线索，默沙东团队在土曲霉中找到更安全的洛伐他汀。它通过抑制HMG-CoA还原酶阻断胆固醇合成，临床试验证实可大幅降低低密度脂蛋白。心血管疾病是全球头号死因，他汀让一级与二级预防真正可操作，远藤因此获2006年拉斯克奖。",
+  "impact": "开创心血管疾病药物预防时代， saved 数以百万计的生命。",
+  "aftermath": "他汀家族随后加入辛伐他汀、阿托伐他汀等重磅药物，长期占据全球药品销售榜前列。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "他汀",
+   "默沙东",
+   "心血管"
+  ]
+ },
+ {
+  "id": "1987-11-06-dna-fingerprint-conviction",
+  "date": "1987-11-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "全球首例依据DNA指纹定罪的刑事案件宣判",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月6日，美国佛罗里达陪审团裁定汤米·李·安德鲁斯强奸罪名成立，成为世界上第一例依靠DNA指纹证据定罪的刑事案件。法医DNA技术自此登上司法舞台。",
+  "detail": "1986年起杰弗里发展的DNA指纹技术进入美国司法：检方用性侵案物证与嫌疑人血样的DNA条带比对，条带完全吻合。辩方质疑技术可靠性，法庭组织多轮『Frye听证』审查科学有效性，最终采纳证据。此案确立了DNA证据的司法地位，也开启了法医学的革命。",
+  "impact": "法医DNA技术获得司法承认，刑侦鉴定从此进入分子时代。",
+  "aftermath": "此后DNA数据库、Y染色体分型与接触痕迹检验相继发展，DNA证据如今已是刑事司法的黄金标准。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "DNA指纹",
+   "法医学",
+   "司法"
+  ]
+ },
+ {
+  "id": "1987-12-01-discovers-crispr-repeat",
+  "date": "1987-12-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "石野良纯在细菌基因组里记下CRISPR序列的最早一笔",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月，日本研究者石野良纯分析大肠杆菌基因组时，报告了一段奇怪的重复回文序列及间隔排列结构——这是科学文献对CRISPR序列的首次记录。当时无人知道，这份『边界序列』日后会掀起基因编辑革命。",
+  "detail": "石野本意在研究碱性磷酸酶基因上游序列，却在大肠杆菌iap基因附近发现29碱基重复与32碱基间隔交替排列的反常结构，他在论文里如实记录但未作解释。此后西班牙莫希卡团队于1993年起在多种细菌中发现同类结构并于2002年正式命名CRISPR，2005年多个团队猜测间隔序列来自噬菌体、可能充当细菌免疫系统，最终导向2020年诺贝尔化学奖的基因编辑工具。",
+  "impact": "细菌免疫系统的第一份档案，被后人接力改写成全球最快的生物技术革命之一。",
+  "aftermath": "CRISPR-Cas9如今广泛应用于农业、疾病研究与基因治疗，相关疗法已获批上市。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "CRISPR",
+   "石野良纯",
+   "基因编辑"
+  ]
+ },
+ {
+  "id": "1987-12-29-prozac-enters-market",
+  "date": "1987-12-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "百忧解获FDA批准上市，精神药理学迎来转折",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月29日，礼来公司的氟西汀（商品名百忧解）获FDA批准，次年正式上市。作为首个SSRI类抗抑郁药，它副作用远低于老一代药物，迅速成为全球现象级药品，也把抑郁症带入公共讨论。",
+  "detail": "氟西汀通过选择性抑制血清素再摄取起效，避免了三环类药物的心脏毒性与口干嗜睡等副作用，处方门槛大幅降低。上市后销量飙升，1990年代成为美国最常开立的抗抑郁药，《新闻周刊》1990年以『百忧解』作封面报道，围绕『化学改变性格』的伦理讨论也随之展开。",
+  "impact": "重塑抑郁症治疗范式与社会认知，抗抑郁药从精神病院走入日常门诊。",
+  "aftermath": "SSRI家族此后长期主导抗抑郁药市场，关于其疗效与停药反应的争论延续至今。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1987 in science",
+    "url": "https://en.wikipedia.org/wiki/1987_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "百忧解",
+   "氟西汀",
+   "抗抑郁药"
+  ]
+ },
+ {
+  "id": "1988-04-01-brief-history",
+  "date": "1988-04-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "霍金《时间简史》出版，科普畅销书神话开启",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月，霍金的《时间简史》出版。这本讲黑洞与宇宙起源的科普书出人意料地登顶畅销榜，在《星期日泰晤士报》畅销书单上蝉联237周，全球销量超过2500万册，成为史上最成功的科学读物。",
+  "detail": "霍金用最少的数学讲清宇宙大爆炸、黑洞蒸发与时间箭头，编辑要求『每多一个公式销量减半』，全书最终只保留E=mc²。上市后长期霸榜，被译成40多种语言。它让『宇宙学家』成为大众明星职业，也让严肃理论物理第一次成为中产阶级书架上的标配，畅销神话至今无科普书能破。",
+  "impact": "确立科学畅销书的商业模式与写作范式，直接催生后来的科普出版热潮。",
+  "aftermath": "霍金1992年成为家喻户晓的公众人物，其『无边界宇宙』思想与霍金辐射也借书被广泛传播。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "霍金",
+   "时间简史",
+   "科普"
+  ]
+ },
+ {
+  "id": "1988-06-23-hansen-climate-testimony",
+  "date": "1988-06-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "汉森在国会作证：全球变暖已在发生",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月23日华盛顿遭遇罕见热浪之际，NASA气候学家詹姆斯·汉森对美国参议院作证，明确表示『全球变暖已经发生』而非远期预言。这一证词让气候变化第一次登上美国头版新闻。",
+  "detail": "汉森1981年起用三维气候模型推演温室气体增温效应，1988年他在国会与世人的注视下断言：过去百年约0.5度的升温已超出自然波动范围，人类活动是主因。同年夏天美国中西部大旱、东部持续高温，公众情绪与科学证据撞在一起。此前气候变化只是期刊话题，这次证词把它变成政治议程。",
+  "impact": "气候变化议题正式进入全球政治舞台，成为国际气候谈判的直接推手。",
+  "aftermath": "1992年联合国气候框架公约、1997年《京都议定书》与2015年《巴黎协定》接续其逻辑。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "气候变暖",
+   "汉森",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1988-08-13-isis2-aspirin-trial",
+  "date": "1988-08-13",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "ISIS-2研究发表：阿司匹林挽救心梗患者的证据钉牢",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月13日，《柳叶刀》发表国际心梗生存研究II（ISIS-2）结果：对17187名疑诊心梗患者，单用阿司匹林使5周死亡率下降23%，与链激酶合用降幅达42%。这颗廉价药片的救命价值由此一锤定音。",
+  "detail": "这项跨国随机对照试验在417家医院同时开展，规模远超此前所有心梗研究。结果同时证实阿司匹林与溶栓药各自的独立疗效及叠加效应，颠覆了『阿司匹林作用太小』的旧见。研究还特意分析了星座出生日的『安慰』亚组，证明疗效与占星无关，顺手做了一次统计学教育。",
+  "impact": "确立阿司匹林为心梗急救与长期二级预防的标准用药，改写全球急救指南。",
+  "aftermath": "阿司匹林至今仍是急性冠脉综合征治疗的基石药物之一，其抗血小板机制1971年才被韦恩阐明。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿司匹林",
+   "ISIS-2",
+   "临床试验"
+  ]
+ },
+ {
+  "id": "1988-11-01-established",
+  "date": "1988-11-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "政府间气候变化专门委员会（IPCC）成立",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月，世界气象组织与联合国环境规划署联合组建政府间气候变化专门委员会（IPCC）。这个不亲自做研究、只评估既有科学的机构，此后成为全球气候政策的科学基石。",
+  "detail": "IPCC的任务是定期汇集、评审全球气候研究成果，形成供决策参考但不直接规定政策的评估报告。1990年首次评估确认人为温室效应威胁，直接催生1992年气候公约；其1995年第二次报告首次写明『人类活动对气候的影响可察觉』。委员会与戈尔2007年同获诺贝尔和平奖。",
+  "impact": "把分散的气候科学整合成国际共识，为全球气候治理提供权威依据。",
+  "aftermath": "此后每5-8年发布一轮评估报告，2013年第五次报告将人类影响确认为『极其可能』（95%以上置信）。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "IPCC",
+   "气候变化",
+   "联合国"
+  ]
+ },
+ {
+  "id": "1988-11-15-buran-maiden-flight",
+  "date": "1988-11-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "苏联暴风雪号无人首飞，谢幕即绝唱",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月15日清晨，苏联暴风雪号航天飞机搭载能源号火箭完成首飞，无人驾驶绕地球两圈后自动着陆成功。这场技术上不输美国的高光表演，却因苏联解体再无第二次飞行。",
+  "detail": "暴风雪号与美国航天飞机外形相似但设计不同：主发动机放在能源号火箭上，轨道器本身无动力，完全无人自动驾驶返航，落点误差仅数米。首飞耗资巨大且无明确军事需求，1993年计划正式取消，唯一飞过的OK-1K1于2002年被拜科努尔机库坍塌压毁。",
+  "impact": "证明航天飞机可以无人自主飞行，但整个项目成为苏联航天由盛转衰的标志。",
+  "aftermath": "能源号火箭技术遗产后来演变为俄罗斯的多种运载火箭，暴风雪号残骸至今陈列于拜科努尔。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "暴风雪号",
+   "苏联航天",
+   "能源号"
+  ]
+ },
+ {
+  "id": "1988-12-01-transatlantic-fiber",
+  "date": "1988-12-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "TAT-8：第一条跨大西洋光纤电缆建成",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月，跨大西洋电话电缆TAT-8投入服务，这是世界上第一条跨洋光纤通信系统。单条电缆同时承载4万个话路，容量是此前同轴电缆的数倍，洲际通信从此换轨到光子时代。",
+  "detail": "TAT-8由美英法三家运营商联合铺设，从美国新泽西出发分达英国、法国，全长约5600公里，采用1.3微米单模光纤与海底中继器。它把跨大西洋通话成本大幅压低，也为后续互联网洲际骨干网奠定物理基础。1980年代光纤低损耗与放大器技术的成熟使其成为可能。",
+  "impact": "洲际通信骨干从铜缆跃迁到光纤，容量数量级提升，直接支撑全球化数据网络。",
+  "aftermath": "此后跨洋光缆以数年一代的速度更迭，今天全球99%的国际数据流量都经海底光缆传输。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1988 in science",
+    "url": "https://en.wikipedia.org/wiki/1988_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "光纤通信",
+   "TAT-8",
+   "海底电缆"
+  ]
+ },
+ {
+  "id": "1989-03-23-cold-fusion-announcement",
+  "date": "1989-03-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "庞斯与弗莱希曼宣布『冷聚变』，一场轰动全球的乌龙",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月23日，犹他大学化学家庞斯与弗莱希曼在记者会上宣布：室温下在钯电极上实现了核聚变。消息轰动全球，数十个实验室争相验证，却在数月内全部宣告失败，成为20世纪最著名的科学乌龙之一。",
+  "detail": "两人声称重水电解时检测到超额热量与中子，若属实将引发能源革命。犹他大学甚至绕过同行评审直接召开发布会抢优先权。但多数实验室未能重复，主流期刊的复核报告指出量热方法与辐射测量皆有缺陷，学界迅速冷却。这一事件成为『科学研究如何纠错』的经典案例。",
+  "impact": "冷聚变被主流科学否定，但事件本身成为检验科学与伪科学边界的教材。",
+  "aftermath": "后续仍有少数人坚持低温核反应（LENR）研究，2011年意大利Rossi的E-Cat骗局也曾借用这一光环。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "冷聚变",
+   "庞斯",
+   "科学争议"
+  ]
+ },
+ {
+  "id": "1989-03-24-exxon-valdez-spill",
+  "date": "1989-03-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "埃克森·瓦尔迪兹号触礁漏油，美国最严重油污灾难",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月24日午夜，埃克森·瓦尔迪兹号油轮在阿拉斯加威廉王子湾撞上暗礁，约1100万加仑原油涌入海湾，污染约2000公里海岸线，25万只海鸟与数千只海獭死亡，成为当时美国史上最严重的漏油事故。",
+  "detail": "油轮偏离航道触礁后多个舱室破裂，应急响应迟缓令油污迅速扩散，海水低温使原油降解极慢。埃克森公司清理耗时数年、耗资约20亿美元，诉讼最终判决惩罚性赔偿5亿美元。事故推动美国1990年通过《油污污染法》，强制新造油轮采用双壳设计。",
+  "impact": "催生全球油轮双壳标准与油污应急体系，环境影响评估制度随之强化。",
+  "aftermath": "威廉王子湾部分物种至今未完全恢复，事发海滩仍能挖出残留油污。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "漏油",
+   "埃克森",
+   "环境灾难"
+  ]
+ },
+ {
+  "id": "1989-04-21-hepatitis-c-virus-identified",
+  "date": "1989-04-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "丙型肝炎病毒基因被克隆，『非甲非乙肝炎』元凶现形",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月21日，《科学》发表奇龙公司的霍顿团队论文，成功克隆丙型肝炎病毒（HCV）基因。困扰医学界十余年、每年感染数百万人的『非甲非乙型肝炎』终于找到元凶。",
+  "detail": "1970年代起，输血后大量肝炎患者既非甲肝也非乙肝，被归为『非甲非乙』。奇龙公司用分子克隆的笨办法：从感染黑猩猩血浆中构建cDNA文库，用患者血清筛查数百万个克隆，最终钓出病毒基因片段。随后以此为靶开发的血液筛查技术迅速扑灭输血传播途径，为后续可治愈药物铺路。",
+  "impact": "输血安全从此可控，血液筛查技术拯救无数受血者。",
+  "aftermath": "2020年诺贝尔生理学或医学奖授予发现HCV的三位科学家；直接抗病毒药物使丙肝成为可治愈疾病。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "丙肝",
+   "HCV",
+   "病毒学"
+  ]
+ },
+ {
+  "id": "1989-05-04-magellan-launch",
+  "date": "1989-05-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "麦哲伦号由航天飞机施放，奔赴金星绘制雷达地图",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月4日，亚特兰蒂斯号航天飞机在轨释放麦哲伦号金星探测器。它携带合成孔径雷达，此后穿透金星浓云首次绘制出这颗姊妹行星的全球地形图。",
+  "detail": "麦哲伦号是首次由航天飞机用惯性上面级发射的行星探测器，1990年8月入轨金星，9月启动雷达成像。任务期间雷达分辨率比此前数据高一个数量级，覆盖约98%金星表面，揭示出广阔的盾状火山、蜿蜒熔岩通道与密集撞击坑，证实金星年轻地表与全球性火山重塑历史。",
+  "impact": "金星表面第一次被完整看清，行星地质学获得类地行星演化的关键样本。",
+  "aftermath": "后续金星任务如金星快车、破晓号都以其地形图为基准，金星探测热度延续至今。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "麦哲伦号",
+   "金星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1989-08-01-first-asteroid-image",
+  "date": "1989-08-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "阿雷西博雷达首次直接给小行星成像",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月，天文学家利用阿雷西博射电望远镜的雷达首次直接给小行星4769卡斯托利亚成像——一颗形似双瓣花生的接触双体小行星。小行星研究从『光点』进入『看形状』时代。",
+  "detail": "雷达测距与成像技术把微弱回波反演成三维形状模型，卡斯托利亚呈现两叶相接的双瓣结构，提示它由两个天体缓慢接触并合而成。这类形状对理解小行星碰撞历史、内部结构、资源开发与行星防御都至关重要。阿雷西博此后成为近地小行星雷达监测的主力设备。",
+  "impact": "小行星科学获得直接成像手段，接触双星这一形态类别首次被确认。",
+  "aftermath": "雷达成像后来帮助精确测定多颗潜在威胁小行星的轨道，2020年阿雷西博坍塌后该能力转入戈德斯通。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿雷西博",
+   "小行星",
+   "雷达天文"
+  ]
+ },
+ {
+  "id": "1989-08-25-voyager2-neptune-flyby",
+  "date": "1989-08-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "旅行者2号飞掠海王星，完成行星大旅行的最后一站",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月25日，旅行者2号飞掠海王星最近点，拍到海王星大暗斑、太阳系最强的风暴与弧形环，还顺访最大的卫星海卫一，发现其氮气间歇泉。历时12年的『行星大旅行』至此收官。",
+  "detail": "旅行者2号1977年发射后接连造访木星、土星、天王星，1989年8月抵达海王星，在12年内完成四行星连访——这一行星几何窗口每175年才出现一次。飞掠期间它发现海王星风速高达2100公里每小时，确认6颗新卫星与新环弧，海卫一的低温氮喷泉影像成为任务最经典画面之一。",
+  "impact": "太阳系全部八大行星均被人类探测器近探，行星大旅行圆满完成。",
+  "aftermath": "2018年旅行者2号穿越日球层顶进入星际空间，海卫一数据至今仍是唯一的近距观测。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "旅行者2号",
+   "海王星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1989-09-08-cftr-gene-cloned",
+  "date": "1989-09-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "囊性纤维化致病基因CFTR被克隆",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "9月8日，《科学》连发三篇论文宣布克隆囊性纤维化致病基因CFTR。这是人类基因组定位克隆的里程碑：单基因遗传病研究从此可『从病找基因』，再『从基因推病机』。",
+  "detail": "柯林斯与徐立之团队历经数年染色体步移，在7号染色体上锁定约25万碱基区域并找到主要致病突变ΔF508——约七成患者携带的三个碱基缺失。CFTR编码氯离子通道，功能异常导致黏液浓稠、肺部反复感染。发现使产前诊断与携带者筛查成为可能，也为后来针对根本机制的靶向药物铺路。",
+  "impact": "确立『基因→蛋白功能→靶向药』的完整范式，精准医学的样板案例。",
+  "aftermath": "2019年三联疗法Trikafta让九成患者肺功能显著改善，囊性纤维化从绝症走向可长期管理。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1989 in science",
+    "url": "https://en.wikipedia.org/wiki/1989_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "CFTR",
+   "囊性纤维化",
+   "基因"
+  ]
+ },
+ {
+  "id": "1990-01-24-hiten-lunar-probe",
+  "date": "1990-01-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "日本飞天号升空，成为美苏之外首个月球探测器",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月24日，日本用H-1火箭发射飞天号月球探测器，这是美国与苏联之外国家发射的第一颗月球探测器，也是亚洲国家的首次探月尝试。",
+  "detail": "飞天号本体绕地大椭圆轨道，1992年2月进入月球轨道后释放羽衣号小卫星环月飞行。任务主要验证借月弹道与深空导航技术，1993年4月受控撞月结束。此后日本接连发射辉夜姬号等月球任务，形成长期探月谱系。",
+  "impact": "打破美苏对探月的垄断，月球探测走向多国俱乐部。",
+  "aftermath": "2020年代中国、印度、以色列、阿联酋等相继加入探月行列，飞天号被视作这一趋势的起点。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "飞天号",
+   "日本航天",
+   "探月"
+  ]
+ },
+ {
+  "id": "1990-02-14-pale-blue-dot",
+  "date": "1990-02-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『暗淡蓝点』：旅行者1号60亿公里外回望地球",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月14日，旅行者1号在约60亿公里外受萨根倡议调转镜头，拍下太阳系第一张『全家福』，地球只是其中不到一个像素的暗淡蓝点。这张照片成为环保与人文思考的永恒符号。",
+  "detail": "旅行者1号完成行星任务后即将飞离黄道面，萨根团队力排众议争取最后一次回望拍摄。照片中地球悬浮在一束太阳光的散射光带里，大小不足一个像素。萨根1994年据此写下《暗淡蓝点》名句：『所有你珍视的一切，都存在于这粒悬浮在阳光中的微尘上。』",
+  "impact": "提供人类史上最远程的地球影像，重塑公众的宇宙观与环保意识。",
+  "aftermath": "2019年新视野号在冥王星轨道外再拍同角度影像，向这一经典致敬。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "暗淡蓝点",
+   "旅行者1号",
+   "萨根"
+  ]
+ },
+ {
+  "id": "1990-04-24-hubble-launch",
+  "date": "1990-04-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "哈勃太空望远镜由发现号送入轨道",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月24日，发现号航天飞机把哈勃太空望远镜送入约610公里高的近地轨道。这台2.4米口径的太空望远镜后来成为人类产出最多科学发现的仪器之一，30余年不间断凝视深空。",
+  "detail": "哈勃项目始于1946年的设想、1977年立项，研制预算一再超支，1986年因挑战者号事故推迟四年发射。入轨后不久发现主镜边缘磨制误差导致球差，1993年宇航员加装矫正光学成功修复，哈勃从此释放全部潜力：测定宇宙年龄、发现宇宙加速膨胀、给出超大质量黑洞的存在证据、拍下哈勃深场中数千个星系。",
+  "impact": "天文学进入太空时代，宇宙学关键参数被逐一钉死。",
+  "aftermath": "2021年韦布望远镜接棒红外观测，哈勃至今仍在工作，是服役时间最长的太空望远镜。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哈勃",
+   "NASA",
+   "望远镜"
+  ]
+ },
+ {
+  "id": "1990-08-10-magellan-venus-arrival",
+  "date": "1990-08-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "麦哲伦号入轨金星，雷达测绘揭开金星地貌",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月10日，麦哲伦号进入金星环绕轨道，一个月后启动合成孔径雷达测绘。此后数年它以百余米分辨率覆盖约98%的金星表面，这颗被浓硫酸云永久遮蔽的行星第一次露出真容。",
+  "detail": "金星表面温度465度、气压达地球92倍，常规光学不可见，雷达是唯一选择。麦哲伦号绘出超过1600座火山、蜿蜒数千公里的熔岩通道与近乎全球均匀分布的撞击坑，指示地表约5亿年前曾被全球性火山事件重塑。数据还支撑了对金星超慢逆自转的新解释。",
+  "impact": "金星地质学从推测变为定量科学，类地行星对比研究获得关键样本。",
+  "aftermath": "金星是否曾宜居、如今是否仍有活火山，成为延续至今的核心悬案，新一代金星任务已立项验证。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "麦哲伦号",
+   "金星",
+   "雷达"
+  ]
+ },
+ {
+  "id": "1990-08-12-sue-trex-discovered",
+  "date": "1990-08-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "迄今最完整的霸王龙化石『苏』在南达科他出土",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月12日，古生物学家苏·亨德里克森在南达科他发现一具超过90%完整度的霸王龙骨架，以发现者命名为『苏』。它是迄今最大、保存最完整的霸王龙标本之一，长逾12米。",
+  "detail": "苏的骨架包括完整的头骨与绝大部分脊椎，出土后引发长达数年的所有权诉讼，联邦法院裁定土地所有者胜诉，1997年苏以836万美元成交价落户芝加哥菲尔德自然史博物馆——创下当时单件化石的最高纪录。对苏的研究发现霸王龙嗅球巨大、曾感染过寄生虫，骨密度分析则支持其陆地猎手习性。",
+  "impact": "霸王龙研究进入标本级精细时代，化石市场定价体系也被其改写。",
+  "aftermath": "苏至今仍是菲尔德博物馆的镇馆之宝，后续研究持续在其骨骼中发现新细节。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "霸王龙",
+   "古生物",
+   "化石"
+  ]
+ },
+ {
+  "id": "1990-10-human-genome-project-launch",
+  "date": "1990-10",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "人类基因组计划正式启动",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月，美国能源部与国立卫生研究院联合启动人类基因组计划，目标15年内测出人类全部约30亿碱基对序列。这是生物学史上规模最大的国际合作项目，预算约30亿美元。",
+  "detail": "计划确立『先作图后测序』路线，美英日法德中六国分头承担测序任务，中国承担1%工作量。项目早期采用链终止法测序进展缓慢；1998年文特尔创立塞雷拉公司用全基因组鸟枪法发起竞赛，2000年6月双方共同宣布工作草图完成，2003年4月宣告测序完成。数据即时开放共享成为项目最深远的原则遗产。",
+  "impact": "生物学进入基因组时代，为全基因组关联研究与精准医学奠基。",
+  "aftermath": "2022年端粒到端粒（T2T）联盟补完最后缺口，发布首个真正完整的人类基因组序列。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1990 in science",
+    "url": "https://en.wikipedia.org/wiki/1990_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人类基因组计划",
+   "基因组学",
+   "国际合作"
+  ]
+ },
+ {
+  "id": "1991-04-05-compton-gamma-observatory",
+  "date": "1991-04-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "康普顿伽马射线天文台入轨，四大太空天文台之一就位",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月5日，亚特兰蒂斯号把康普顿伽马射线天文台送入轨道。作为当时最大的轨道天文台，它把宇宙伽马射线暴、脉冲星与活动星系核的观测精度提升一个量级，与哈勃等并称四大太空天文台。",
+  "detail": "康普顿天文台重达17吨，携4台仪器巡天9年，记录到2700余次伽马射线暴，证明暴源遍布全天而非集中于银河系盘面——直接否定了当时流行的银河系内模型，支持宇宙学起源。1997年发现的伽马暴光学对应体进一步证实其距离动辄数十亿光年。2000年因陀螺仪故障风险受控坠入太平洋。",
+  "impact": "伽马射线天文学从边缘走向主流，宇宙最暴烈事件的窗户被打开。",
+  "aftermath": "其接力者雨燕号与费米望远镜延续伽马暴监测至今，多信使追踪成为标准操作。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1991 in science",
+    "url": "https://en.wikipedia.org/wiki/1991_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "康普顿",
+   "伽马射线暴",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1991-06-15-pinatubo-eruption",
+  "date": "1991-06-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "皮纳图博火山爆发：20世纪第二大火山喷发",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月15日，菲律宾皮纳图博火山在沉睡600年后猛烈爆发，喷发强度达VEI-6，2000万吨二氧化硫注入平流层。全球此后一年多平均降温约0.5度，成为检验气候模型的天赐实验。",
+  "detail": "6月12日前兆喷发迫使数万人撤离，15日的主喷发灰柱高达40公里，台风叠加使火山灰覆盖大片区域，数百人遇难，克拉克美军基地被迫废弃。喷发出的气溶胶在平流层扩散全球，此后18个月全球地表温度显著下降，平流层臭氧损耗加剧。科学家借此校准了火山强迫对气候系统的影响。",
+  "impact": "验证了气溶胶气候强迫模型，火山气候效应研究进入定量时代。",
+  "aftermath": "皮纳图博常被引用为『太阳辐射管理』地球工程效果的天然参照，相关争论延续至今。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1991 in science",
+    "url": "https://en.wikipedia.org/wiki/1991_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "皮纳图博",
+   "火山",
+   "气候变化"
+  ]
+ },
+ {
+  "id": "1991-07-01-carbon-nanotubes",
+  "date": "1991-07-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "饭岛澄男发现碳纳米管，纳米材料时代开启",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月，NEC研究员饭岛澄男在电弧放电石墨产物的电镜照片里发现了中空管状碳结构——碳纳米管。这种仅几纳米粗、强度却数倍于钢的『超细管子』迅速点燃全球纳米材料热潮。",
+  "detail": "饭岛在研究富勒烯制备副产物时，观察到由单层或多层石墨烯卷成的针状中空管，直径纳米级、长度可达微米，且呈现金属性或半导体性取决于卷绕方式。理论预言其抗拉强度是钢的百倍、载流能力惊人，随后十年各实验室竞相发展催化生长、阵列排布与分选技术。",
+  "impact": "碳纳米管成为纳米科技黄金时代的标志性材料，纳米科学获得旗舰研究对象。",
+  "aftermath": "虽因可控制备难题未如预期颠覆电子工业，但其成果通向石墨烯（2004年发现、2010年诺奖），饭岛也于2008年获卡弗利纳米科学奖。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1991 in science",
+    "url": "https://en.wikipedia.org/wiki/1991_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "碳纳米管",
+   "饭岛澄男",
+   "纳米材料"
+  ]
+ },
+ {
+  "id": "1991-10-15-oh-my-god-particle",
+  "date": "1991-10-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『天啊粒子』：迄今能量最高的宇宙线被记录",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月15日，犹他大学蝇眼实验捕捉到一粒能量约300 EeV的宇宙线粒子——相当于一颗保龄球从腰部落地砸在脚面上的动能，全部集中在一个质子级别粒子上。研究者惊呼『Oh-My-God』，名字就此传开。",
+  "detail": "这粒粒子以约99.99999999999999999999951%光速飞行，超过理论上的GZK截断（约50 EeV），意味着它应来自银河系附近——但天区里找不到合理源。此类超GZK事件至今仍是宇宙线物理的未解之谜，此后阿根廷奥格天文台等持续追踪，记录到的最高事件也未突破它。",
+  "impact": "宇宙线物理的能标天花板被刷新，超高能天体物理迎来核心谜题。",
+  "aftermath": "后来所有现代实验都参与复现检验，奥格数据虽确认能量截断存在，OMG粒子本身仍无法用已知源解释。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1991 in science",
+    "url": "https://en.wikipedia.org/wiki/1991_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "宇宙线",
+   "蝇眼实验",
+   "高能物理"
+  ]
+ },
+ {
+  "id": "1991-10-29-galileo-visits-gaspra",
+  "date": "1991-10-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略号飞掠小行星加斯普拉，人类探测器首次造访小行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月29日，木星途中的伽利略号飞掠小行星951加斯普拉，距其仅1600公里，拍下首批小行星近距离影像：一颗布满撞击坑、形似土豆的18公里长天体。",
+  "detail": "加斯普拉是S型小行星的代表，伽利略号影像显示其表面遍布新鲜撞击坑且遍布沟槽，撞击坑计数揭示其表面年龄仅约2亿年——年轻得多。这一发现提示小行星间的碰撞瓦解与重组频繁发生，为『碎石堆』结构假说提供首批观测支点，也直接回应了小行星与陨石之间的关联问题。",
+  "impact": "小行星从望远镜里的光点变成有地质史的个体，行星探测新增一个目标类别。",
+  "aftermath": "此后隼鸟号、罗塞塔、新视野等接连造访小天体，2010年隼鸟号更把加斯普拉斯型物质的样本带回地球。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1991 in science",
+    "url": "https://en.wikipedia.org/wiki/1991_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略号",
+   "小行星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1992-01-09-pulsar-planets",
+  "date": "1992-01-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首批系外行星确认：绕脉冲星运行的死寂世界",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月9日，沃尔兹森与弗雷尔宣布在脉冲星PSR B1257+12周围发现两颗行星——人类历史上第一次确认太阳系外行星。讽刺的是，它们绕着的是一颗超新星残骸，而非类似太阳的恒星。",
+  "detail": "两人用阿雷西博望远镜监测这颗毫秒脉冲星的脉冲到达时间，发现周期性微小提前与延迟——行星引力拖曳所致。数据后来支持三颗行星，最小约0.02倍地球质量，精度至今惊人。这一发现先行于主序星行星5年，最初还遭遇质疑：行星怎么可能从超新星爆发中幸存？最可能解释是爆发后俘获或残余物质再吸积。",
+  "impact": "系外行星这个领域由最不可能的天体开启，行星形成理论被迫扩展边界。",
+  "aftermath": "1995年飞马座51b发现后主序星行星研究爆发，如今已确认系外行星超过5500颗。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1992 in science",
+    "url": "https://en.wikipedia.org/wiki/1992_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "系外行星",
+   "脉冲星",
+   "天文学"
+  ]
+ },
+ {
+  "id": "1992-04-23-cobe-anisotropy",
+  "date": "1992-04-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "COBE公布宇宙微波背景涨落图：星系的种子找到了",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月23日，COBE团队公布宇宙微波背景的微小温度涨落图——百万分之几度的斑驳分布。这些涨落正是日后长成星系与星系团的种子，霍金称之为『本世纪乃至任何世纪最伟大的发现』。",
+  "detail": "COBE的DMR仪器历经四年观测扣除银河系前景后，确认CMB存在幅度约十万分之一的各向异性。这一结果与大爆炸理论的密度涨落预言精确吻合，解释了均匀宇宙如何长出结构，并锁定宇宙学关键参数（普通物质仅占约5%）。马瑟与斯穆特因此获2006年诺贝尔物理学奖。",
+  "impact": "宇宙学从定性叙事变为精密科学，标准宇宙学模型的地基浇筑完成。",
+  "aftermath": "WMAP与普朗克卫星随后把涨落图精度推向百万分之一度以下，宇宙年龄测定精确到137.7亿年。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1992 in science",
+    "url": "https://en.wikipedia.org/wiki/1992_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "COBE",
+   "宇宙微波背景",
+   "宇宙学"
+  ]
+ },
+ {
+  "id": "1992-05-21-saola-discovered",
+  "date": "1992-05-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "中南大羚现身越南雨林：半个多世纪首个新大型哺乳动物",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月，世界自然基金会考察队在越南北部武光自然保护区获得三副罕见长角的头骨，确认为全新物种中南大羚（Saola）。这是1937年以来首次发现如此大型的新哺乳动物，媒体称之为『世纪发现』。",
+  "detail": "中南大羚体重约100公斤，长着两根可长到半米的平行直角，外形介于羚羊与牛之间，与已知任何属种都难归并，最终单立一属。它栖息于安南山脉的密林，此后野外影像屈指可数，估计总数不足数百头，被IUCN列为极危。发现来自1992年5月对猎人收藏头骨的鉴定。",
+  "impact": "证明大型未知哺乳动物仍可能藏身地球，生物多样性调查的想象力被重新校准。",
+  "aftermath": "至今没有任何科学家在野外亲眼见过活体，其种群状况仍近乎空白，被列为全球最紧迫的保育优先物种之一。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1992 in science",
+    "url": "https://en.wikipedia.org/wiki/1992_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中南大羚",
+   "物种发现",
+   "越南"
+  ]
+ },
+ {
+  "id": "1992-08-30-first-tno-discovered",
+  "date": "1992-08-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "海外天体阿尔比恩现形：柯伊伯带从假说变为现实",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月30日，天文学家在夏威夷发现海外天体15760阿尔比恩（临时编号1992 QB1），这是自冥王星以来发现的第一个海王星轨道之外的天体。理论预言数十年的柯伊伯带终于露出第一个成员。",
+  "detail": "阿尔比恩距太阳约44天文单位，亮度极低，发现后引发连锁反应：此后十年数千个柯伊伯带天体相继现形，冥王星从『第九大行星』的特殊个案变成这一冰体带的普通一员。阋神星（2005年发现、比冥王星更大）的登场最终在2006年催生行星重新定义，冥王星被降级为矮行星。",
+  "impact": "太阳系的认知版图再度扩张，冥王星的地位之争由这颗天体开启。",
+  "aftermath": "新视野号2019年飞掠的『天涯海角』（Arrokoth）正是柯伊伯带天体，属这一发现谱系的直接受益者。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1992 in science",
+    "url": "https://en.wikipedia.org/wiki/1992_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "柯伊伯带",
+   "海外天体",
+   "太阳系"
+  ]
+ },
+ {
+  "id": "1992-10-01-cochrane-centre",
+  "date": "1992-10-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "英国成立首个Cochrane中心，循证医学建制化",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月，全球第一个Cochrane中心在英国牛津成立，随后Cochrane协作网成形。这个以流行病学家科克伦命名的网络致力于系统评价所有随机对照试验，把『证据等级』变成医学决策的标准语言。",
+  "detail": "科克伦1972年《疗效与效率》一书批评医学实践忽视随机试验证据，启发了一批人系统收集、合并临床试验。Cochrane中心成立后发展出系统综述方法学：预设方案、多库检索、双人评估、定量合并。其元分析多次颠覆临床常规（如激素治疗围产期早产、心肌梗死后利尿剂），也暴露了大量无效甚至有害的既定疗法。",
+  "impact": "循证医学从理念变为全球基础设施，医学指南的制定方式被重写。",
+  "aftermath": "如今Cochrane图书馆收录数千篇系统综述，是临床指南与卫生政策最常引用的证据来源。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1992 in science",
+    "url": "https://en.wikipedia.org/wiki/1992_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "循证医学",
+   "Cochrane",
+   "医学"
+  ]
+ },
+ {
+  "id": "1993-02-01-antibiotics-cure-ulcers",
+  "date": "1993-02-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "新英格兰医学杂志确证：胃溃疡用抗生素就能治好",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月，《新英格兰医学杂志》发表双盲试验：抗生素联合疗法可使胃溃疡根治。幽门螺杆菌致病说历经十年围剿终于拿下临床金标准，胃病治疗范式被彻底改写。",
+  "detail": "1983年马歇尔与沃伦发现胃里的幽门螺杆菌并提出溃疡由细菌引起，长期被主流讥讽为异端——『胃酸环境里哪有细菌能活』。马歇尔甚至喝下细菌培养液自证感染后发病。1993年大样本随机试验确认三联疗法根治溃疡且复发率骤降，此后消化性溃疡从慢性病变成可治愈疾病，1994年NIH共识会议正式改写指南。",
+  "impact": "『压力致溃疡』的旧范式退场，感染病学的疆界扩展到胃部。",
+  "aftermath": "2005年马歇尔与沃伦获诺贝尔生理学或医学奖；胃癌预防也因根除幽门螺杆菌而出现新路径。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "幽门螺杆菌",
+   "胃溃疡",
+   "马歇尔"
+  ]
+ },
+ {
+  "id": "1993-03-23-milwaukee-cryptosporidiosis",
+  "date": "1993-03-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "密尔沃基隐孢子虫爆发：美国史上最大规模水传播疫情",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月下旬起，威斯康星州密尔沃基市自来水中隐孢子虫污染引发大规模腹泻疫情，约40万人患病、逾百人死亡，成为美国历史上最大规模的饮用水传播疾病爆发。",
+  "detail": "3月初南水处理厂滤后水浊度异常升高，但尚未超标即继续供水；隐孢子虫卵囊对常规氯消毒几乎免疫，直径4-6微米可穿透当时部分滤层。疫情高峰期全市四分之一人口腹泻，医院床位告急，艾滋病等免疫低下患者死亡率极高。事后调查推动美国强化供水浊度控制与EPA相关法规。",
+  "impact": "饮用水行业的安全标准被全面重写，滤池性能与浊度监测成为硬性指标。",
+  "aftermath": "隐孢子虫此后被列为全球水源性病原监测重点，膜过滤与紫外消毒工艺在城市水厂大规模普及。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "隐孢子虫",
+   "公共卫生",
+   "饮用水"
+  ]
+ },
+ {
+  "id": "1993-03-24-shoemaker-levy9-discovered",
+  "date": "1993-03-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "休梅克夫妇发现被木星撕碎的彗星链",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月24日，卡罗琳·休梅克在帕洛玛山的巡天底片上发现一颗『压扁的彗星』：苏梅克-列维9号被木星潮汐力撕成了21块碎片，排成一串珍珠链绕木星运行。轨道计算显示，它将在次年撞向木星。",
+  "detail": "这颗彗星多年前就被木星俘获，1992年7月近距离掠过时被潮汐撕碎。天文学家首次可以提前一年多预知一场天体撞击，全世界的望远镜立即开始备战。哈勃望远镜、伽利略号与各类地面设备制定协同观测计划，碰撞的准确时刻与位置被计算到分钟级。",
+  "impact": "人类历史上第一次获得『预告天体撞击』的机会，行星防御研究从纸面走向实战预演。",
+  "aftermath": "1994年7月的撞击系列释放的能量相当于数亿颗广岛原子弹，直接推动了小行星撞击风险评估体系的建立。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "苏梅克-列维9",
+   "彗星",
+   "木星"
+  ]
+ },
+ {
+  "id": "1993-06-21-wiles-fermat-announcement",
+  "date": "1993-06-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "怀尔斯宣布证明费马大定理，358年悬案迎来终局",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月21日，剑桥牛顿研究所的听众屏息听完安德鲁·怀尔斯的三场报告，最后一个结论落下：费马大定理被证明。这条写于1637年页边的『空白太小写不下』的猜想，358年后终于闭合。",
+  "detail": "怀尔斯把问题转化为谷山-志村猜想的特例，动用椭圆曲线、模形式与岩泽理论等现代数论全部重武器。7个月后被同行审查发现一个致命漏洞，他自闭书房14个月，借学生泰勒之力用岩泽理论补上，1994年9月19日完成终稿，1995年正式发表。证明横跨130页，用到的数学远超费马时代。",
+  "impact": "数学史上最著名悬案落幕，现代数论各分支被史无前例地串联。",
+  "aftermath": "谷山-志村猜想也于1999年被其余团队完全证明，朗兰兹纲领的推进由此加速。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "费马大定理",
+   "怀尔斯",
+   "数学"
+  ]
+ },
+ {
+  "id": "1993-12-02-hubble-repair-mission",
+  "date": "1993-12-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "STS-61修复哈勃：宇航员为『近视』望远镜装上眼镜",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月2日，奋进号升空执行哈勃修复任务。四名宇航员分五次太空行走，为球差主镜加装矫正光学，更换太阳能板与陀螺仪——被称为史上最复杂的太空维修。",
+  "detail": "哈勃1990年入轨后主镜边缘多磨了2.2微米，成像糊成一片，NASA沦为笑柄。修复方案是把矫正光学装进阿波罗时代遗留的仪器接口，宛如给望远镜配眼镜。任务期间宇航员在600公里高空作业11天，1994年1月首批新影像公布：锐利得令人起立鼓掌。哈勃此后进入巅峰产出期。",
+  "impact": "在轨维修挽救了一台旗舰科学仪器，也确立了航天飞机时代最辉煌的工程叙事。",
+  "aftermath": "哈勃此后又经四次服务任务（最后一次2009年），一直工作到2020年代，与韦布望远镜并肩观测。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哈勃",
+   "STS-61",
+   "太空维修"
+  ]
+ },
+ {
+  "id": "1993-12-08-gps-initial-operational",
+  "date": "1993-12-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "GPS宣布初始作战能力：24星组网完成，全球定位免费开放",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月8日，美国国防部宣布全球定位系统达到初始作战能力：24颗卫星全部在轨组网，任何地点任何时刻可见至少4颗卫星。这套原本为军用设计的系统，此后重塑了全人类的时间与位置感。",
+  "detail": "GPS源于1970年代军方对全天候精确定位的需求，1990年海湾战争实战验证后加速部署。1993年12月完成24星星座后，1995年宣布完全作战能力。民用信号虽加 selective availability 降精度，2000年5月该限制被取消，民用精度一举提升10倍，消费级导航应用随即爆发。",
+  "impact": "空间基础设施第一次为全球公众提供米级定位与纳秒级授时。",
+  "aftermath": "从手机导航、电网同步、金融时间戳到精准农业，GPS与后续GNSS（北斗、伽利略、格洛纳斯）成为现代社会看不见的地基。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1993 in science",
+    "url": "https://en.wikipedia.org/wiki/1993_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "美国国防部"
+  ]
+ },
+ {
+  "id": "1994-03-31-afarensis-skull",
+  "date": "1994-03-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首件完整南方古猿阿法种头骨公之于世",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月31日，《自然》报道在埃塞俄比亚哈达尔发现的迄今最完整的南方古猿阿法种头骨（AL 444-2）。『露西』所属物种的面孔第一次完整呈现，人类家族400万至300万年前的形态拼图补上关键一块。",
+  "detail": "该头骨发现于1992年，复原后显示阿法种脑量约500毫升、犬齿缩小、面部前突，介于黑猩猩与人属之间，与露西的骨骼拼合后确认其直立行走早已稳固而脑扩容远未开始。『先直立、后扩脑』的人类演化序列自此有了头骨级证据。",
+  "impact": "阿法种的性别差异与种内变异之争有了定量的头骨基准。",
+  "aftermath": "此后阿法种足迹化石（1978年莱托里足迹）与更多标本进一步夯实其直立行走的地位，跨越数百万年的演化链条日趋完整。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "南方古猿",
+   "露西",
+   "古人类学"
+  ]
+ },
+ {
+  "id": "1994-05-06-channel-tunnel-opens",
+  "date": "1994-05-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "英法海底隧道通车，人类最大海底工程落成",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月6日，英法海峡隧道由英女王伊丽莎白二世与法国总统密特朗共同揭幕通车。这项耗时7年、1.5万工人参与、造价约90亿英镑的工程，把不列颠岛与欧洲大陆在陆地上连成一体。",
+  "detail": "三条隧道总长约150公里，其中38公里位于海底，最深处在海床下75米。施工使用11台巨型盾构机从两端对掘，海底贯通误差仅数十厘米。隧道启用后伦敦至巴黎3小时直达，货物与旅客运输量数十年间增长数倍，1996年获美国土木工程师学会『现代世界七大奇迹』之一称号。",
+  "impact": "固定链接终结了海岛孤立状态，超长盾构隧道技术体系全面成熟。",
+  "aftermath": "隧道运营公司曾两度破产重组，但工程本体至今安全运行，为后续青函、港珠澳等跨海工程提供参照。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "海底隧道",
+   "英法",
+   "土木工程"
+  ]
+ },
+ {
+  "id": "1994-05-18-flavr-savr-gm-tomato",
+  "date": "1994-05-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "转基因番茄『佳味』获FDA认可：第一种转基因食品上市",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月18日，FDA宣布加州卡基尔公司的转基因番茄Flavr Savr可安全食用，人类历史上第一种转基因食品合法登场。它通过反义RNA抑制软化酶，让番茄在藤上多挂几天再采摘仍耐储运。",
+  "detail": "Flavr Savr转入多聚半乳糖醛酸酶的反义基因，延缓细胞壁降解。技术上它是里程碑：首次完成转基因作物的全套安全评估并上市。商业上它却是苦涩开局：定价昂贵、口味平平、运输损耗控制不佳，1997年黯然退市。但其所用审批框架成为各国转基因监管的模板，此后抗虫棉、抗除草剂大豆迅速铺开。",
+  "impact": "转基因食品完成从实验室到货架的首航，农业生物技术的监管与舆论战场同时开辟。",
+  "aftermath": "番茄虽败，转基因作物在1996年起全球大规模种植，到2020年代累计种植面积已超过上亿平方公里级。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "转基因食品",
+   "Flavr Savr",
+   "农业"
+  ]
+ },
+ {
+  "id": "1994-07-16-shoemaker-levy9-impact",
+  "date": "1994-07-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "苏梅克-列维9号碎片连环撞击木星，人类首次目击天体大碰撞",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月16日起6天里，苏梅克-列维9号的21块碎片依次撞入木星南半球，火球腾起3000公里高，撞击疤痕比地球还大。全球数百台望远镜与哈勃、伽利略号全程直播了这场天体撞击。",
+  "detail": "最大碎片G以约60公里每秒撞入木星大气，能量相当于6万亿吨TNT。撞击留下的黑色尘埃云持续数月可见，哈勃与伽利略号（尚在途中）获得红外与紫外多波段全过程数据。彗星撞击的能量量级第一次被精确标定，也令人意识到太阳系内的碰撞风险真实存在。",
+  "impact": "行星防御从科幻命题变为严肃科学议程，撞击频率与后果被首次定量研究。",
+  "aftermath": "美国国会随后委托NASA开展近地天体巡天，1998年起各类近地小行星搜索计划相继启动。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "木星",
+   "苏梅克-列维9",
+   "行星撞击"
+  ]
+ },
+ {
+  "id": "1994-09-10-wollemi-pine-living-fossil",
+  "date": "1994-09-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "瓦勒迈杉现身悉尼峡谷：恐龙时代的『活化石』还在生长",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "9月10日，新南威尔士公园管理员诺布尔在悉尼西北峡谷里撞见一片陌生针叶树，经鉴定是与恐龙同时代的瓦勒迈杉属——此前只存在于1.75亿年前化石里的『活化石』还活着，全球仅存数十株。",
+  "detail": "瓦勒迈杉属化石记录横跨白垩纪至约200万年前，学界一度认定其早已灭绝。现存种群隐藏于雨林峡谷中，成年树不足百株，位置长期保密以防盗采。其发现被比作『找到一头活着的小恐龙』，随后人工繁育成功，苗木面向全球发售以筹集保育资金。",
+  "impact": "灭绝边界被一次山野徒步改写，生物多样性普查的『已知』与『未知』对比再受冲击。",
+  "aftermath": "基因组研究确认其高度遗传一致近乎克隆，保育遗传学由此获得极端案例；人工种群现已遍布各大植物园。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "瓦勒迈杉",
+   "活化石",
+   "植物学"
+  ]
+ },
+ {
+  "id": "1994-11-09-gsi-element-110",
+  "date": "1994-11-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "达姆施塔特重离子研究所合成110号元素",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月9日，德国达姆施塔特重离子研究所（GSI）用镍-62轰击铅靶，首次观测到110号元素的原子，该元素后命名鐽（Darmstadtium，Ds）。不到一个月，同一团队又在12月8日合成111号元素（后命名錀，Roentgenium）。",
+  "detail": "超重核合成依赖『冷聚变』路线：用中重离子轰击铅铋靶，生成寿命仅毫秒级的核素，经阿尔法衰变链鉴定。GSI自1981年合成107号鿏起连下五城，确立了德国在超重元素领域的霸主地位。110与111号元素的合成进一步逼近理论预言的『稳定岛』边界。",
+  "impact": "元素周期表的边界被推向Z=110+，核物理的壳效应得到直接检验。",
+  "aftermath": "此后GSI又合成112号鎶（2009年获命名权），俄美联合团队则把边界推进到118号Og（2016年命名），第七周期自此满员。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "超重元素",
+   "GSI",
+   "核物理"
+  ]
+ },
+ {
+  "id": "1994-12-18-chauvet-cave",
+  "date": "1994-12-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "肖维岩洞重见天日：3.6万年前的史前艺术圣殿",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月18日，肖维与两名洞穴学家在法国阿尔代什省探洞时，挪开碎石进入一条封存了数万年的通道：洞壁上绘满狮子、猛犸、犀牛与狩猎场景，共400余幅壁画，年代测定为距今约3.6万年——人类已知最早的具象艺术之一。",
+  "detail": "岩洞因塌方与岩层滑动与外界隔绝，壁画保存状态惊人：炭黑赭红叠加透视与明暗，动物姿态精准有力，甚至运用重叠表现动感。为保护恒温恒湿环境，洞窟立即封闭，2015年按1:1复制的『肖维洞复制馆』开放。研究确认其为奥瑞纳文化遗存，与尼安德特人灭绝期重合，引发关于现代人与艺术起源的热议。",
+  "impact": "具象艺术的起点被大幅前移，认知考古学获得殿堂级标本。",
+  "aftermath": "2014年肖维岩洞列入世界遗产，其对『艺术是否与解剖学现代人同步出现』的讨论仍在继续。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1994 in science",
+    "url": "https://en.wikipedia.org/wiki/1994_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "肖维岩洞",
+   "史前艺术",
+   "考古"
+  ]
+ },
+ {
+  "id": "1995-03-22-polyakov-438-days",
+  "date": "1995-03-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "波利亚科夫创造438天连续太空驻留纪录",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月22日，俄罗斯宇航员瓦列里·波利亚科夫从和平号返回地球，他在太空连续驻留437.7天，创下人类单次太空飞行时间纪录，至今无人打破。",
+  "detail": "波利亚科夫是一名医生，1994年1月8日进入和平号，任务核心是验证长期失重下人体能否承受往返火星的旅程。驻留期间他坚持每日跑步机锻炼与抗阻训练，返回后主动拒绝担架自己走出舱门，数月内基本恢复——证明长程载人火星任务在生理上可行。他的血液与骨密度数据至今仍是长期飞行医学的基准样本。",
+  "impact": "载人深空探索最关键的人体耐受性问号被初步拉直。",
+  "aftermath": "纪录保持至今近三十年；国际空间站长期驻留与火星任务医学方案大量借鉴其实验设计。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "波利亚科夫",
+   "和平号",
+   "航天医学"
+  ]
+ },
+ {
+  "id": "1995-06-05-bose-einstein-condensate",
+  "date": "1995-06-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "玻色-爱因斯坦凝聚首次实现：物质第五态在实验室现身",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月5日，科罗拉多大学的康奈尔与维曼团队把约2000个铷-87原子冷却到170纳开尔文，数百个原子凝结进同一个量子态，形成玻色-爱因斯坦凝聚——爱因斯坦1925年预言的『物质第五态』时隔70年终于现形。",
+  "detail": "团队用激光冷却预冷原子，再以磁阱与蒸发冷却把温度推到纳开尔文量级，凝聚体的原子云表现为一个宏观量子波包，速度分布呈现特征性双峰。四个月后MIT的克特勒用钠原子复现并做出更大凝聚体。三人共享2001年诺贝尔物理学奖。",
+  "impact": "宏观量子现象从超流超导扩展到中性原子气体，量子模拟获得全新实验平台。",
+  "aftermath": "BEC后来成为原子钟、原子干涉仪与量子信息研究的基石，也是超冷原子物理这门学科的起点。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "玻色-爱因斯坦凝聚",
+   "超冷原子",
+   "量子物理"
+  ]
+ },
+ {
+  "id": "1995-07-23-halebopp-discovered",
+  "date": "1995-07-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "海尔-波普彗星被发现：世纪大彗星的前奏",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月23日，业余天文学家艾伦·海尔与托马斯·波普分别独立报告同一颗新彗星C/1995 O1。此时它还在木星轨道之外就已肉眼可见，预示着罕见的大彗星表演，全球观测热情被点燃。",
+  "detail": "海尔在自家车道用望远镜观测时发现，波普则在参加星空聚会时用朋友的望远镜撞见。彗星当时距离太阳7个天文单位却已相当明亮，属史上最亮之一。1997年3月底过近日点时，其彗尾绵延数千万公里，双彗尾（尘埃与离子）肉眼清晰可见，成为90年代末最壮丽的天象，全球数亿人抬头观看。",
+  "impact": "业余发现引爆大众天文观测热潮，也是互联网时代第一次全球协同观星。",
+  "aftermath": "其异常的钠尘尾与轨道倾角引发大量伪科学传闻（『追随彗星』邪教集体自杀事件为其阴影），大彗星的社会学影响延续至今。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "海尔-波普",
+   "大彗星",
+   "业余天文"
+  ]
+ },
+ {
+  "id": "1995-07-28-first-free-living-genome",
+  "date": "1995-07-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首个自由生活生物全基因组测序完成",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月28日，《科学》发表文特尔团队成果：流感嗜血杆菌（Haemophilus influenzae）全基因组测序完成，约183万碱基对。这是人类首次读出一个自由生活生物的完整生命说明书，基因组学竞赛正式鸣枪。",
+  "detail": "文特尔团队跳过传统作图步骤，用全基因组鸟枪法直接测序并靠新算法拼接，耗时仅约一年，打破了此前只有病毒基因组被完整测出的纪录。方法一经验证即引发范式转移：同年生殖道支原体（58万碱基）快速跟进，人类基因组计划的路线之争也由此引爆——公立计划坚持逐步作图，私营塞雷拉押注鸟枪法。",
+  "impact": "全基因组鸟枪测序获正名，测序速度从此按月翻倍，基因组时代真正启动。",
+  "aftermath": "此后十年数百种微生物基因组完成，2003年人类基因组宣告完成时，其方法学源头正是这篇论文。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "基因组测序",
+   "文特尔",
+   "基因组学"
+  ]
+ },
+ {
+  "id": "1995-10-06-51pegasi-b",
+  "date": "1995-10-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "飞马座51b：绕类太阳恒星运行的首颗系外行星确认",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月6日，日内瓦的梅厄与奎洛兹宣布用视向速度法发现飞马座51b——一颗绕类太阳恒星运行的行星，公转周期仅4.2天，质量约为木星一半。天文学界为之震动，系外行星研究正式起飞。",
+  "detail": "行星离恒星近到只有0.05天文单位，远超当时行星形成理论的舒适区，被命名为『热木星』。发现依靠高精度光谱仪测量恒星谱线的周期性多普勒摆动，精度达每秒十米级。最初学界仍有疑虑，随后众多团队复现确认，无数热木星与其他行星类型接踵而至。两人因此获2019年诺贝尔物理学奖（与皮布尔斯分享）。",
+  "impact": "太阳系并不是行星存在的唯一剧本，行星形成理论被迫重写。",
+  "aftermath": "至2026年人类已确认5500余颗系外行星，凌星巡天（开普勒、TESS）与直接成像均建立在这颗『热木星』开启的范式之上。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "系外行星",
+   "热木星",
+   "诺贝尔奖"
+  ]
+ },
+ {
+  "id": "1995-12-06-galileo-probe-jupiter",
+  "date": "1995-12-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略号探针冲入木星大气，人类首次原位探测外行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月6日，伽利略号释放的大气探针以47.8公里每秒冲入木星大气，减速伞展开后在云层间传回58分钟数据：木星风比预想强、水含量低于理论预期、云层结构与模型不符。",
+  "detail": "探针穿越约150公里大气后进入巡航层，在225个巴的压力与152度高温中被压毁。母船随后进入环木星轨道，开展为期8年的系统观测：发现木卫二冰壳下海洋的磁场证据、木卫一火山活跃的细节与木星磁层结构。探针的水丰度谜题直到2020年代朱诺号才部分重测。",
+  "impact": "外行星大气第一次被直接采样，木星系统的『微型太阳系』图景立体化。",
+  "aftermath": "伽利略号2003年受控坠入木星大气销毁，以防污染木卫二；其冰卫星海洋发现直接催生了欧罗巴快船与JUICE任务。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略号",
+   "木星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1995-12-06-saquinavir-protease-inhibitor",
+  "date": "1995-12-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首个蛋白酶抑制剂沙奎那韦获批，艾滋病治疗转折点",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月6日，FDA批准沙奎那韦（Saquinavir）上市，这是人类首个HIV蛋白酶抑制剂。它与逆转录酶抑制剂联用后，病毒载量可被压到检测限以下——高效抗逆转录病毒疗法（HAART，鸡尾酒疗法）的大门就此打开。",
+  "detail": "蛋白酶抑制剂阻断HIV切割蛋白的装配环节，与逆转录酶抑制剂作用于病毒生命周期的不同阶段，联合用药使耐药突变难以兼顾。1996年温哥华世界艾滋病大会上，多组临床数据公布：患者死亡率断崖式下降，『不治之症』变成长期慢病。这一组合疗法由何大一等人命名并推广。",
+  "impact": "艾滋病死亡率直线下降，发达国家HIV感染者预期寿命回归接近常人。",
+  "aftermath": "后续蛋白酶抑制剂、整合酶抑制剂不断迭代，2020年代长效针剂与暴露前预防（PrEP）进一步改写防疫格局。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "沙奎那韦",
+   "艾滋病",
+   "HAART"
+  ]
+ },
+ {
+  "id": "1995-12-18-hubble-deep-field",
+  "date": "1995-12-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "哈勃深场：望远镜连续10天凝视『空无一物』的天空",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月18日起，哈勃望远镜把镜头对准大熊座一小块看似空无一物的天区，连续10天曝光342次，产出『哈勃深场』（HDF）。照片里挤满约3000个星系，几乎每个光点都是一个宇宙岛。",
+  "detail": "项目主任威廉姆斯敢于把旗舰望远镜押在无人 guarantee 有产出的天区，结果一举成为天文学史最著名影像之一：最暗天体红移超过4，宇宙年龄仅十余亿年时的星系比比皆是。深场成为测量星系形成与演化速率的基准数据，1998年南天深场、2003-04年超深场（XDF）相继接力。",
+  "impact": "『天空有多深』成为可测量的科学问题，星系演化研究拿到标尺。",
+  "aftermath": "2012年哈勃极深场曝光累积230万秒；2022年韦布望远镜的首批深场影像在同一传统上再推边界，星系形成时间进一步前移。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1995 in science",
+    "url": "https://en.wikipedia.org/wiki/1995_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哈勃深场",
+   "星系演化",
+   "天文学"
+  ]
+ },
+ {
+  "id": "1996-01-30-hyakutake-discovered",
+  "date": "1996-01-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "百武彗星被发现：20世纪最接近地球的大彗星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月30日，日本业余天文学家百武裕司用双筒望远镜发现新彗星C/1996 B2。3月它以约0.1天文单位的距离掠过地球，彗尾横贯半个天空，成为20世纪最接近地球的大彗星之一。",
+  "detail": "百武彗星是鹿儿岛天文台助理百武裕司在检查天区时偶然发现的。3月25日过近地点仅1490万公里，离子彗尾延伸近100度，肉眼清晰可见；欧空局尤利西斯探测器甚至在距离彗核3.5亿公里外穿越了它的离子彗尾——史上最长的彗星离子尾记录。次年海尔-波普接棒，1990年代成为大彗星的黄金十年。",
+  "impact": "业余发现再度证明天文观测的草根力量，彗星离子尾尺度纪录被刷新。",
+  "aftermath": "百武与海尔-波普一道带动全球天文器材与观星热潮，彗星探测任务规划随之升温。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "百武彗星",
+   "业余天文",
+   "彗星"
+  ]
+ },
+ {
+  "id": "1996-02-17-near-shoemaker-launch",
+  "date": "1996-02-17",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NEAR舒梅克号升空：人类第一个小行星轨道器出发",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月17日，NASA的NEAR（近地小行星交会）探测器发射升空，目标小行星爱神星。它后来成为人类第一个进入小行星环绕轨道、并首次着陆小行星表面的探测器。",
+  "detail": "NEAR以行星科学先驱尤金·舒梅克命名，2000年2月14日进入爱神星轨道，此后一年测绘其引力场与地形。2001年2月12日任务尾声，团队冒险尝试软着陆：探测器以每小时约6公里在爱神星表面触地，太阳能板朝上竟还多传回了两周数据。探测器最终长眠于以舒梅克命名的陨石坑旁。",
+  "impact": "小行星从飞掠目标升级为可环绕、可着陆的对象，行星防御与采样任务的技术底座就位。",
+  "aftermath": "隼鸟号、OSIRIS-REx等后续任务都站在NEAR的肩膀上，小行星采样返回已成常规操作。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "NEAR舒梅克",
+   "小行星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1996-06-04-ariane5-cluster-loss",
+  "date": "1996-06-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "阿丽亚娜5首飞爆炸：64位浮点溢出葬送4颗卫星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月4日，欧洲阿丽亚娜5火箭首飞37秒后偏离姿态自毁，携带的4颗Cluster卫星全毁。事后调查发现罪魁是直接沿用阿丽亚娜4的64位浮点转16位整数转换代码——超出表示范围触发异常，导航系统宕机。",
+  "detail": "新火箭的初始水平速度比旧型号快得多，旧代码的转换溢出未设保护，异常导致主备惯性参考系统同时停机，火箭姿态失控解体。调查委员会（列斯委员会）的报告成为软件工程与系统继承性风险的经典教材：『通用代码』在不通用的新环境里成为地雷。Cluster任务4颗卫星于2000年分两批重新发射成功。",
+  "impact": "软件重用风险评估成为航天工程强制课，故障模式分析纳入型号评审。",
+  "aftermath": "阿丽亚娜5此后成为欧洲主力火箭服役20余年；『阿丽亚娜5溢出』案例至今仍被软件可靠性课程引用。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿丽亚娜5",
+   "Cluster",
+   "软件故障"
+  ]
+ },
+ {
+  "id": "1996-07-05-dolly-cloned",
+  "date": "1996-07-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "多利羊诞生：首只由成体细胞克隆的哺乳动物",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月5日，苏格兰罗斯林研究所一只代孕母羊产下多利——世界上第一只用成体细胞核移植克隆出的哺乳动物。『一个成年动物的完整遗传密码可以重启发育』，发育生物学的大门被踹开。",
+  "detail": "维尔穆特团队从一只6岁芬兰多塞特母羊的乳腺细胞取核，植入去核卵母细胞，电融合激活后移植入代孕黑脸羊，277次尝试仅成活1例。多利的出生颠覆了『成体细胞分化不可逆』的教条，也立即引爆人类克隆的伦理恐慌。多利共育有6只羊羔，2003年因肺病被实施安乐死，享年6岁半（同行怀疑与克隆相关的早衰有关）。",
+  "impact": "体细胞克隆技术确立，干细胞与再生医学的想象空间骤然放大。",
+  "aftermath": "克隆技术此后扩展到牛、猪、犬乃至灵长类（2018年中国克隆猴中中、华华），濒危物种保护也多了一条技术路径。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "多利羊",
+   "克隆",
+   "罗斯林研究所"
+  ]
+ },
+ {
+  "id": "1996-08-01-sinosauropteryx-feathers",
+  "date": "1996-08-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "中华龙鸟出土：第一只带『羽毛』的恐龙现身辽宁",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "8月，中国辽宁北票农民在义县组地层挖出一具带『绒毛』的恐龙化石，后定名中华龙鸟（原始中华龙鸟）。这是世界上第一件保存毛状皮肤衍生物的兽脚类恐龙标本，恐龙-鸟类演化链条第一次露出实锤。",
+  "detail": "标本由当地农民李荫芳发现并捐出，季强与姬书安研究命名，起初其丝状结构被认为是羽毛前身，学界争论激烈：支持者视之为原始羽毛，质疑者认为是胶原纤维。此后带羽毛恐龙在热河生物群井喷式发现（尾羽龙、顾氏小盗龙等），证实兽脚类恐龙普遍长有羽毛状结构，鸟类由兽脚类恐龙演化而来的学说再无争议。",
+  "impact": "恐龙研究进入『有毛时代』，中国热河生物群成为世界级化石宝库。",
+  "aftermath": "中华龙鸟标本后来被Nature专文追认为羽毛起源研究的起点，辽宁四合屯也建起国家级地质公园。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中华龙鸟",
+   "辽宁",
+   "恐龙",
+   "羽毛起源"
+  ]
+ },
+ {
+  "id": "1996-08-06-alh84001-mars-life",
+  "date": "1996-08-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NASA宣布火星陨石ALH84001可能含生命痕迹",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月6日，NASA宣布在南极发现的火星陨石ALH84001中含有疑似微生物化石的碳酸盐结构与有机分子，可能来自36亿年前的火星生命。克林顿总统专门讲话，『火星生命』一夜之间成为全球头条。",
+  "detail": "该陨石约1.6万年前坠于南极艾伦丘陵，1984年被发现，1990年代被确认来自火星。团队在碳酸钙球粒内发现多环芳烃与纳米级磁铁矿链，形似地球细菌产物，但尺寸（数十纳米）小于已知最小细胞，疑点重重。此后十余年各实验室反复检验，主流结论倾向非生物成因，但争论至今未完全平息。",
+  "impact": "天体生物学因争议而成建制发展，火星探测的科学目标被重新聚焦。",
+  "aftermath": "NASA此后接连发射火星车寻找宜居环境证据，2020年代火星采样返回任务的目标之一就是重审这类『生物信号』争议。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "ALH84001",
+   "火星",
+   "天体生物学"
+  ]
+ },
+ {
+  "id": "1996-10-03-smbh-galactic-center",
+  "date": "1996-10-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "根策尔与盖兹证实银河系中心存在超大质量黑洞",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月，根策尔与盖兹两个团队利用凯克与VLT望远镜十年红外观测，证明银河系中心存在一个约400万倍太阳质量的致密天体——人马座A*必是黑洞。这一测量路线最终摘得2020年诺贝尔物理学奖。",
+  "detail": "团队追踪恒星S2（S0-2）等『S星』绕银心人马座A*的轨道，测得16年周期、近点仅120天文单位的高速椭圆轨道——唯有致密黑洞能解释。盖兹与根策尔长期互相竞争又互相印证，把银心天体质量的测量误差缩小到百分之几。2019年事件视界望远镜拍下M87黑洞影像，2022年又拍到人马座A*本身。",
+  "impact": "星系中心普遍存在超大质量黑洞从假说变为定量事实。",
+  "aftermath": "S2轨道测量后来被用于检验广义相对论引力红移，2020年诺贝尔奖表彰的正是这条三十年的观测接力。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人马座A*",
+   "黑洞",
+   "盖兹",
+   "根策尔"
+  ]
+ },
+ {
+  "id": "1996-11-07-mars-global-surveyor-launch",
+  "date": "1996-11-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "火星全球勘测者发射：火星测绘新时代开场",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月7日，NASA火星全球勘测者（MGS）发射升空，两年后进入环火轨道。它以激光高度计与高分辨率相机测绘整个火星，为『火星十年探测潮』拉开帷幕。",
+  "detail": "MGS搭载的MOLA激光高度计绘出火星首张全球高精度地形图，揭示北半球低地与南半球高原的巨大海拔差；热辐射光谱仪找到赤道附近赤铁矿沉积，指向古代液态水活动；MOC相机拍下数米分辨率影像，发现沟壑与可能的地下水渗漏痕迹。任务原计划2年，实际运行近10年，2006年因电池故障失联。",
+  "impact": "火星地形与水活动证据的全球普查完成，后续着陆点选择全部依赖其数据。",
+  "aftermath": "1996-1997年之交（MGS+探路者）开启的火星热延续到今天，祝融号、毅力号仍在接力测绘。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1996 in science",
+    "url": "https://en.wikipedia.org/wiki/1996_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "火星全球勘测者",
+   "火星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1997-02-27-grb970228-afterglow",
+  "date": "1997-02-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首个伽马暴余辉被锁定：宇宙最亮爆炸的定位难题破解",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月28日，意大利-荷兰BeppoSAX卫星在伽马暴GRB 970228爆发后8小时锁定其X射线余辉位置，几天内地面望远镜又找到光学余辉。伽马暴持续几十秒、无从定位的历史就此终结。",
+  "detail": "此前伽马暴是天文学最尴尬的谜：卫星几乎每天记录到爆发，却因定位精度太差无法判断距离。BeppoSAX的宽视场相机与窄视场仪器接力观测，把GRB 970228的坐标压缩到角分级，帕洛玛望远镜随即拍到暗弱光学对应体。帕金等人随后用GRB 970508的红外吸收线测得红移，证实暴源远在数十亿光年之外。",
+  "impact": "伽马暴从银河系内假说集体出局，确认其宇宙学起源，多波段后随观测成为标准作业。",
+  "aftermath": "1999年GRB 990123能量输出打破纪录；接力的雨燕号与费米望远镜至今每年定位数百个伽马暴，并已成为引力波事件的信使搭档。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1997 in science",
+    "url": "https://en.wikipedia.org/wiki/1997_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽马暴",
+   "BeppoSAX",
+   "高能天体"
+  ]
+ },
+ {
+  "id": "1997-05-11-deep-blue-kasparov",
+  "date": "1997-05-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "深蓝战胜卡斯帕罗夫：机器首次在正式比赛中击败国际象棋世界冠军",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月11日，IBM的深蓝在六番棋决胜局第45回合逼迫卡斯帕罗夫认输，以3.5比2.5赢得整场对抗。专用超级计算机第一次在正式比赛中击败在位国际象棋世界冠军。",
+  "detail": "深蓝配备480个专用处理器，每秒评估约2亿个局面，团队还喂入数千盘大师对局做启发式调参。1996年首次对抗卡斯帕罗夫2:4落败，1997年再战时新增『非人类』的开局变化扰乱其心理节奏，第二局著名的弃兵让棋王赛后情绪失控。人类顶尖棋手自此接受：暴力搜索加上精巧剪枝已足以问鼎棋类博弈。",
+  "impact": "人机博弈的心理防线被击穿，AI能力的公共认知出现分水岭。",
+  "aftermath": "国际象棋界转向人机训练共生；AI竞赛随即转向围棋等更复杂博弈，2016年AlphaGo完成下一场里程碑。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1997 in science",
+    "url": "https://en.wikipedia.org/wiki/1997_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "深蓝",
+   "IBM",
+   "人工智能",
+   "卡斯帕罗夫"
+  ]
+ },
+ {
+  "id": "1997-07-04-pathfinder-mars",
+  "date": "1997-07-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "火星探路者着陆，旅居者号成为首辆火星车",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月4日美国独立日，火星探路者号以气囊弹跳方式着陆阿瑞斯谷，次日释放出旅居者号——人类第一辆在另一颗行星上行进的漫游车。节目化的撞击着陆与彩色全景图让全球观众如痴如醉。",
+  "detail": "探路者采用气囊缓冲替代反推着陆，成本仅为同期大型任务的零头，验证『更快更好更省』的探测策略。旅居者号11公斤重，80天内行进约100米，分析岩石成分证实阿瑞斯谷经历过灾难性洪水冲刷。任务共传回2.3G字节数据与1.6万张影像，着陆点后以卡尔·萨根命名。",
+  "impact": "低成本火星车方案跑通，行星探测从『旗舰任务』走向高频小型化。",
+  "aftermath": "勇气号、机遇号、好奇号、毅力号乃至中国的祝融号都沿用其 rover 范式；气囊着陆后来被天空起重机等新方案接替。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1997 in science",
+    "url": "https://en.wikipedia.org/wiki/1997_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "火星探路者",
+   "旅居者号",
+   "NASA",
+   "火星车"
+  ]
+ },
+ {
+  "id": "1997-10-15-cassini-launch",
+  "date": "1997-10-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "卡西尼-惠更斯号启程：土星旗舰任务出发",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月15日，卡西尼-惠更斯号从卡纳维拉尔角发射，一个由NASA、ESA与意大利航天局联合打造的土星旗舰任务。它将用7年抵达土星，在轨13年，彻底改写土星系统科学。",
+  "detail": "为借力行星引力抵达土星，卡西尼采用金星-金星-地球-木星的四段弹弓路线，携36公斤钚-238作电源。2004年入轨后它发现土卫二南极喷泉、泰坦甲烷湖与土星六边形极涡，惠更斯号2005年1月着陆泰坦，成为外太阳系最远的人造着陆器。2017年9月15日任务以坠入土星大气的『壮丽终章』收尾，避免污染冰卫星。",
+  "impact": "土星系统的探测被一举拉到与木星同级的水准，冰卫星海洋成为新前沿。",
+  "aftermath": "泰坦与土卫二的发现直接催生蜻蜓号（泰坦旋翼机）与欧罗巴快船等后续旗舰任务。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1997 in science",
+    "url": "https://en.wikipedia.org/wiki/1997_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "卡西尼",
+   "土星",
+   "ESA",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1997-11-27-adscft-maldacena",
+  "date": "1997-11-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "马尔达西那提出AdS/CFT对偶：全息宇宙的数学桥梁",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月，哈佛青年理论家马尔达西那完成一篇论文，提出反德西特时空中的引力理论等价于其边界上的共形场论（AdS/CFT对偶）。弦论与量子场论两套原本平行的大厦，第一次有了精确的翻译词典。",
+  "detail": "该对偶源自黑洞熵与全息原理的启发：引力理论的信息可编码在低一维的边界上。马尔达西那以D3膜构型给出具体例子，论文1998年发表于JHEP，引用量迅速突破2万次，成为理论物理近30年被引最高的成果之一。它让强耦合场论问题转化为经典引力问题，反过来也让量子引力获得可计算案例。",
+  "impact": "全息对偶从哲学猜想变成可操作的数学工具，量子引力研究换了底层语言。",
+  "aftermath": "AdS/CFT如今渗透到凝聚态（全息超导）、核物理（夸克-胶子等离子体）与量子信息（纠缠与几何），但尚未有严格数学证明。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1997 in science",
+    "url": "https://en.wikipedia.org/wiki/1997_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "AdS/CFT",
+   "弦论",
+   "马尔达西那",
+   "理论物理"
+  ]
+ },
+ {
+  "id": "1998-02-19-rnai-elucidated",
+  "date": "1998-02-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "RNA干扰机制阐明：基因沉默的开关被找到",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月19日，《自然》发表法尔与梅洛在秀丽隐杆线虫中的实验：双链RNA能高效、特异地沉默同源基因，效率比单链反义RNA高一个量级。RNA干扰（RNAi）现象从此有了机制解释。",
+  "detail": "此前『反义RNA抑制』效果时好时坏，法尔与梅洛发现真正起作用的是制备过程中混入的双链RNA。这一发现把基因功能研究从『敲除』的苦力活变成『喂RNA』的轻活，线虫全基因组功能筛选由此铺开。法尔与梅洛因此获2006年诺贝尔生理学或医学奖——从发现到诺奖仅8年。",
+  "impact": "基因沉默成为标准工具，功能基因组学的效率数量级提升。",
+  "aftermath": "RNAi随后催生siRNA药物管线，2018年全球首款siRNA药物Patisiran获批上市。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "RNA干扰",
+   "法尔",
+   "梅洛",
+   "诺贝尔奖"
+  ]
+ },
+ {
+  "id": "1998-02-28-wakefield-lancet-paper",
+  "date": "1998-02-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "维克菲尔德发表问题论文：MMR疫苗恐慌的起点",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月28日，《柳叶刀》发表维克菲尔德等人的12例病例报告，暗示麻腮风疫苗可能与肠道病变及自闭症相关。这篇日后被证实造假并撤稿的论文，引发了持续二十余年的疫苗犹豫浪潮。",
+  "detail": "论文仅基于12名儿童，样本经选择性纳入，多名作者存在利益冲突（维克菲尔德受雇于疫苗诉讼律师团队并申请专利竞争性疫苗）。2004年记者迪尔 investigate 揭露数据造假与伦理违规，2010年《柳叶刀》全面撤稿，维克菲尔德被吊销医师执照。但恐慌早已蔓延：英国MMR接种率一度跌至80%以下，麻疹疫情在多国回潮。",
+  "impact": "单篇欺诈论文造成持续至今的公共卫生损害，成为科学诚信与媒体责任的头号反面教材。",
+  "aftermath": "WHO将『疫苗犹豫』列入2019年全球健康十大威胁，撤稿事件至今仍是传播学课程的标准案例。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "维克菲尔德",
+   "MMR疫苗",
+   "科学诚信"
+  ]
+ },
+ {
+  "id": "1998-03-02-europa-ocean-evidence",
+  "date": "1998-03-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略号数据指向木卫二冰下液态海洋",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月2日，NASA公布伽利略号磁强计数据：木卫二（欧罗巴）磁场扰动与感应电流特征一致，指示冰壳之下存在全球性咸水海洋。冰壳『裂痕纵横』的地貌终于有了统一解释。",
+  "detail": "木卫二表面冰壳厚约15-25公里，下方海洋深度可能超过100公里，水量数倍于地球所有海洋总和。伽利略号还观测到冰壳错位的『混沌地形』与可能的间歇性水汽羽流。海洋-岩石界面的化学能使其成为太阳系最被看好的地外生命候选地之一。",
+  "impact": "『冰卫星海洋世界』从此成为行星科学的核心议题，生命探索的疆界从火星扩展到外太阳系。",
+  "aftermath": "NASA欧罗巴快船（2024年发射）与ESA的JUICE（2023年发射）已启程实地检验这一结论。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "木卫二",
+   "冰下海洋",
+   "伽利略号"
+  ]
+ },
+ {
+  "id": "1998-03-27-viagra-approved",
+  "date": "1998-03-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伟哥（西地那非）获批：心血管药的意外转身",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月27日，FDA批准西地那非（商品名伟哥）用于勃起功能障碍。这个原本针对心绞痛的候选药物因副作用出圈，上市首年即创下药物销售纪录，男性健康话题第一次被摆上主流餐桌。",
+  "detail": "辉瑞团队1991年起在威尔士试验西地那非治心绞痛，志愿者却不愿退药——副作用改善了勃起功能。机制上它抑制PDE5酶、提升海绵体cGMP水平，作用靶点清晰。上市后迅速成为史上最畅销药物之一，并意外发现对肺动脉高压有效（以Revatio名义获批），相关NO-cGMP通路研究获1998年诺贝尔生理学或医学奖。",
+  "impact": "ED从羞于启齿的隐疾变成可治疗疾病，『生活方式药物』市场就此成型。",
+  "aftermath": "仿制药竞争后伟哥仍常青；其作用机制催生的肺动脉高压疗法挽救了大量心衰患者。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伟哥",
+   "西地那非",
+   "辉瑞"
+  ]
+ },
+ {
+  "id": "1998-06-05-neutrino-mass-superk",
+  "date": "1998-06-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "超级神冈给出中微子有质量的首个实验证据",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月5日，日本超级神冈探测器团队宣布：大气中微子在穿过地球时发生『振荡』——μ子型中微子失踪而电子型并未等量出现。中微子振荡意味着中微子有质量，粒子物理标准模型被戳出一个洞。",
+  "detail": "探测器位于岐阜县神冈矿山地下1公里，装5万吨超纯水与1.1万支光电倍增管。团队用12.5年数据比较从上方与下方穿过地球的μ中微子通量，发现下方显著偏少——飞行路径越长振荡越明显，唯一解释是中微子在三种『味』之间转换，而振荡质量平方差不为零。梶田隆章因此获2015年诺贝尔物理学奖。",
+  "impact": "中微子质量成为超出标准模型的首个确凿物理证据，中微子物理进入黄金期。",
+  "aftermath": "此后SNO、大亚湾等实验接力测定混合角，中微子质量排序仍是未解之谜，江门中微子实验正在攻坚。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中微子振荡",
+   "超级神冈",
+   "梶田隆章"
+  ]
+ },
+ {
+  "id": "1998-11-20-zarya-iss-first-module",
+  "date": "1998-11-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "曙光号升空：国际空间站时代开启",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月20日，俄罗斯质子火箭把国际空间站首个舱段曙光号送入轨道。两周后团结号节点舱由奋进号对接，ISS建设的拼图落下第一块。此后20余年，人类在太空保持不间断存在。",
+  "detail": "曙光号提供推进、电源与对接功能，由俄罗斯制造、美国出资。此后星辰号服务舱、各国实验舱、桁架与太阳能翼陆续就位，2011年建成完整构型、重约420吨的轨道实验室。ISS累计接待来自20多国的280余人次宇航员，完成数千项微重力实验，也是史上最昂贵的单一工程之一（累计超1500亿美元）。",
+  "impact": "人类开始在近地轨道永久驻留，多国合作的太空基础设施成为现实。",
+  "aftermath": "2020年代ISS进入退役倒计时（计划2030年前后离轨），商业空间站接棒方案已提上日程。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1998 in science",
+    "url": "https://en.wikipedia.org/wiki/1998_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际空间站",
+   "曙光号",
+   "载人航天"
+  ]
+ },
+ {
+  "id": "1999-01-08-accelerating-universe-paper",
+  "date": "1999-01-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "超新星数据钉死宇宙加速膨胀：暗能量浮出水面",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月8日，佩尔穆特团队在《自然》发表42颗高红移Ia型超新星的分析：遥远超新星比预期更暗，宇宙正在加速膨胀。与此前里斯团队的论文相互印证，『暗能量』作为占宇宙约70%的未知成分正式进入物理学词典。",
+  "detail": "两个竞争团队（超新星宇宙学项目与高红移超新星搜索队）原想测量膨胀减速，却在1998年分别发现膨胀在加速——结果反直觉到双方起初互不信任。机理上要么存在具负压的宇宙学常数，要么引力理论需要修改。佩尔穆特、施密特与里斯分享2011年诺贝尔物理学奖。",
+  "impact": "宇宙学标准模型（ΛCDM）的最后一块拼图就位，暗能量成为物理学最大未解之谜。",
+  "aftermath": "此后DES、暗能量光谱仪（DESI）与罗曼望远镜持续精进测量，2024年DESI数据甚至暗示暗能量可能随时间演化。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1999 in science",
+    "url": "https://en.wikipedia.org/wiki/1999_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "暗能量",
+   "宇宙加速膨胀",
+   "超新星"
+  ]
+ },
+ {
+  "id": "1999-02-07-stardust-launch",
+  "date": "1999-02-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "星尘号出发：人类首次彗星采样返回任务",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月7日，星尘号探测器发射升空，目标是怀尔德2号彗星。它将在彗发中张开气凝胶捕集网收集尘埃颗粒，再飞回地球投下返回舱——人类第一次把彗星物质带回实验室。",
+  "detail": "2004年1月星尘号以约6公里每秒穿越怀尔德2号彗发，气凝胶成功捕获数千颗粒；它还顺路采集了星际尘埃，并拍下彗核特写——一座布满撞击坑的5公里冰岩。2006年1月返回舱以5万公里时速落回犹他州沙漠，样品中发现了甘氨酸等有机物与 crystalline 硅酸盐，挑战了彗星『原始纯净』的预设。",
+  "impact": "彗星物质第一次进手，太阳系形成初期的原料配方被逐粒检视。",
+  "aftermath": "任务额外考察了坦普尔1号（2011年）；样品分析持续至今，颗粒分配向全球实验室开放。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1999 in science",
+    "url": "https://en.wikipedia.org/wiki/1999_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "星尘号",
+   "怀尔德2号",
+   "彗星采样"
+  ]
+ },
+ {
+  "id": "1999-07-23-chandra-launch",
+  "date": "1999-07-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "钱德拉X射线天文台入轨：史上最强X射线之眼睁开",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月23日，哥伦比亚号航天飞机把钱德拉X射线天文台送入高椭圆轨道。这台以印度裔物理学家钱德拉塞卡命名的望远镜，将X射线成像精度推到角秒级，与哈勃并列为旗舰天文台。",
+  "detail": "钱德拉的镜子要求抛光到原子级平滑，轨道远地点14万公里以避开地球辐射带。服役期间它看清了超新星遗迹的激波结构、直接证据链上的黑洞吸积流、星系团中的热气体分布与暗物质证据（子弹星系团），并为哈勃深场提供X射线配对。2024年NASA因预算提议削减运营，引发天文界抗议。",
+  "impact": "X射线天文学获得哈勃级分辨率，黑洞与星系团研究进入高清时代。",
+  "aftermath": "钱德拉至今在轨工作超25年；2022年发射的XRISM与其形成观测接力。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1999 in science",
+    "url": "https://en.wikipedia.org/wiki/1999_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "钱德拉",
+   "X射线天文",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1999-08-17-izmit-earthquake",
+  "date": "1999-08-17",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伊兹密特大地震：北安纳托利亚断裂再次撕开",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月17日凌晨，土耳其西北部伊兹密尔（科贾埃利）发生7.6级地震，死亡超过1.7万人，40秒内地表撕裂150公里。这次地震成为板块边界断裂力学与地震预测研究的标志性案例。",
+  "detail": "地震发生在北安纳托利亚断裂的西段，震源浅（约15公里）、发生在人口密集的工业带，大量五层以上『软层』建筑整体倒塌。土耳其此前对断裂带西段应力加载与地震空区的科学预警并未转化为建筑规范执行，地震后的『建筑质量问责』成为社会焦点。三个月后台湾集集地震（9·21）接连发生，1999年被称为全球强震之年。",
+  "impact": "断裂带应力转移模型获得实测校验，土耳其建筑抗震规范被迫全面重修。",
+  "aftermath": "此后北安纳托利亚断裂西段（马尔马拉海段）被列为全球地震风险最高的『地震空区』之一，2023年土耳其-叙利亚地震再次验证了这一担忧。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1999 in science",
+    "url": "https://en.wikipedia.org/wiki/1999_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伊兹密尔地震",
+   "北安纳托利亚断裂",
+   "地震学"
+  ]
+ },
+ {
+  "id": "1999-12-02-chromosome22-sequenced",
+  "date": "1999-12-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类22号染色体全序列发表：第一条被测完的人类染色体",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月2日，《自然》发表人类22号染色体的完整序列——人类基因组中第一条被完整测序的染色体，约3350万个碱基对、545个基因。人类基因组计划从『作图』跨入『逐条读透』阶段。",
+  "detail": "22号染色体是除21号外最短的常染色体，却与精神分裂症、心脏病、多种癌症相关。英日美五国团队联合完成测序，填补了此前草图中的大量缺口，建立了『高质量完成序列』的标准作业流程（BAC克隆步移+精细组装）。测序还发现22号染色体存在大量重复序列与结构变异，为后续染色体排序奠定方法。",
+  "impact": "人类基因组『逐条通关』的第一步完成，方法学被复制到其余23条染色体。",
+  "aftermath": "2003年人类基因组宣告完成、2022年T2T真正补全所有缺口，22号染色体是这条二十多年接力线的起点。",
+  "sources": [
+   {
+    "title": "Wikipedia: 1999 in science",
+    "url": "https://en.wikipedia.org/wiki/1999_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "22号染色体",
+   "基因组测序",
+   "人类基因组计划"
+  ]
+ },
+ {
+  "id": "2000-01-06-last-pyrenean-ibex",
+  "date": "2000-01-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "最后一只野生比利牛斯羱羊死亡：物种灭绝与复活实验的开端",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月6日，西班牙奥尔德萨山区一棵倒下的树压死了最后一只自然出生的比利牛斯羱羊（Celia）。该亚种宣告灭绝；三年后科学家用她的皮肤细胞尝试克隆，做出全球首个已灭绝物种的『复活』胚胎。",
+  "detail": "比利牛斯羱羊是欧洲山地的特有亚种，20世纪因盗猎与疾病骤减，1999年仅存这一只被无线电追踪的个体。其死亡触发西班牙与法国的联合保育反思。2003年科学家用Celia冻存细胞与家山羊卵母细胞克隆，208枚胚胎中1例发育成功，降生数分钟后因肺畸形死亡——去灭绝（de-extinction）技术路线的第一次尝试。",
+  "impact": "物种灭绝的最后一幕被记录在案，也开启『去灭绝』技术的先声。",
+  "aftermath": "此后旅鸽、猛犸象、袋狼等物种的复活计划相继立项；2021年美国公司宣布拟复活的物种清单，争议与期望并存。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "比利牛斯羱羊",
+   "灭绝",
+   "去灭绝"
+  ]
+ },
+ {
+  "id": "2000-01-07-hallmarks-of-cancer",
+  "date": "2000-01-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《癌症的标志性特征》发表：肿瘤学的统一框架诞生",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月7日，哈纳汉与温伯格在《细胞》发表综述《癌症的标志性特征》，把上百种癌症的机制归纳为6条共同能力：自给生长信号、无视抑制信号、逃亡凋亡、无限复制、持续血管生成与侵袭转移。肿瘤学从此有了『元素周期表』式的思维框架。",
+  "detail": "此前癌症研究按基因、通路、器官碎片化推进，综述用一套最小公倍式的逻辑把分子机制统一起来。2011年作者增补至10项（含能量代谢重编程、逃避免疫清除等），2022年再扩到14项并纳入衰老细胞与多态微生物组。该文成为史上被引最高的肿瘤学文献之一。",
+  "impact": "癌症从上百种疾病被统一理解为一组能力获得症，靶向疗法研发有了清晰靶单。",
+  "aftermath": "免疫检查点抑制剂、CAR-T等新疗法的机制解释都借用了这一框架；框架本身仍在随肿瘤免疫学迭代。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "癌症",
+   "哈纳汉",
+   "温伯格",
+   "肿瘤学"
+  ]
+ },
+ {
+  "id": "2000-02-14-near-eros-orbit",
+  "date": "2000-02-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NEAR号进入爱神星轨道：人类首次环绕小行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月14日情人节，NEAR舒梅克号减速进入爱神星轨道，成为人类第一个环绕小行星飞行的探测器。这颗34公里长的『土豆』从此有了自己的专属卫星。",
+  "detail": "爱神星是已知最大的近地小行星之一，NEAR用激光测距仪与多光谱相机测绘其引力场与表面，发现其整体近乎均匀致密、缺乏分层，表面覆盖细粒风化层与大量碎石。2001年任务结束时NEAR在爱神星表面软着陆，成为首个小行星着陆器。",
+  "impact": "小行星的内部结构与表面环境第一次被系统测量，近地天体普查有了直接标定。",
+  "aftermath": "爱神星数据后来用于评估小行星采矿与行星防御的物理参数；日本的隼鸟号次年即踏上采样返回之路。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "NEAR舒梅克",
+   "爱神星",
+   "小行星"
+  ]
+ },
+ {
+  "id": "2000-03-01-iceberg-b15-calved",
+  "date": "2000-03-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "B-15冰山崩离罗斯冰架：有记录以来最大冰山",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月，一块面积达1.1万平方公里（与牙买加相当）的巨型冰山从南极罗斯冰架崩离，编号B-15。这是卫星观测史上最大的冰山之一，南极冰盖的动态首次以如此夸张的方式进入公众视野。",
+  "detail": "B-15崩离时厚约200米，之后数年在南极海域漂移并逐步分裂，最大碎片B-15A长期堵塞麦克默多湾航道，影响企鹅觅食路径与科考补给。它的崩解虽属冰架自然循环，但叠加气候变暖背景下南极冰架崩解频率上升的整体趋势，成为冰川学研究的天然实验对象。",
+  "impact": "南极冰架动力学被置于聚光灯下，卫星遥感成为冰盖监测的基础设施。",
+  "aftermath": "此后拉森A/B/C冰架接连崩解（2017年Larsen C分裂出A-68冰山），冰架稳定性成为海平面预测的关键变量。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "B-15",
+   "南极",
+   "冰架"
+  ]
+ },
+ {
+  "id": "2000-04-01-naica-crystal-cave",
+  "date": "2000-04-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "奈卡水晶洞重见天日：地下300米的巨型石膏晶簇",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月，墨西哥奇瓦瓦州奈卡矿的钻机在地下300米处凿穿一个天然洞穴：洞壁上竖立着数十根长达11米、重达55吨的巨型透明石膏（亚硒酸盐）晶体。『水晶洞』从此成为地质学奇迹。",
+  "detail": "晶体生长条件极端苛刻：洞穴长期浸泡在50度左右的富矿物水中，硫酸钙缓慢结晶成超大规模晶柱，百万年间不间断生长。洞内温度58度、湿度90-99%，人类裸探只能停留数分钟，科学家须穿冰衣作业。2017年 pumping 停止后洞穴重新被水淹没，生长将继续。",
+  "impact": "矿物结晶学的极端案例现世，地球深部化学环境的长期稳定性被直观展示。",
+  "aftermath": "洞内封存的微生物已培养出存活数万年的样本，深部生物圈研究由此获得明星标本。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "奈卡水晶洞",
+   "石膏晶体",
+   "地质学"
+  ]
+ },
+ {
+  "id": "2000-06-26-human-genome-draft-announced",
+  "date": "2000-06-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类基因组工作草图全球联合宣布",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月26日，美国总统克林顿与英国首相布莱尔通过卫星连线联合宣布：人类基因组工作草图完成。公立的人类基因组计划与私营塞雷拉公司同台亮相，一场六年竞赛以平局收场。",
+  "detail": "草图覆盖约90%常染色质区域、30亿碱基对的约85%完成度。发布会上文特尔与柯林斯分坐两侧，CEO与官方团队各自宣称领先，最终数据同时在线发布。2001年2月双方在《自然》与《科学》分别发表分析：人类基因数仅约2-3万，远低于此前预估的10万，蛋白质编码区仅占基因组约2%。",
+  "impact": "生命科学的『元素周期表』初版发布，基因组学产业与专利大战同步引爆。",
+  "aftermath": "2003年宣告完成、2022年T2T补全最后一个缺口；基因测序价格从30亿美元降至千元级，直接催生了今天的精准医学。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人类基因组",
+   "柯林斯",
+   "文特尔",
+   "基因组学"
+  ]
+ },
+ {
+  "id": "2000-08-10-msigma-relation",
+  "date": "2000-08-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "M-σ关系发表：黑洞与星系共同演化的铁证",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月10日，《天体物理期刊》连发两篇论文（费拉雷斯-梅里特与格布哈特团队）确立M-σ关系：星系中心黑洞质量与核球恒星速度弥散的四次方成正比。两类尺度悬殊的系统，被发现共享同一条『装配说明书』。",
+  "detail": "该关系的普适性超乎想象：无论旋涡星系还是椭圆星系，跨度上百万倍的黑洞质量都落在同一趋势线上，暗示黑洞生长与核球形成通过同一反馈机制耦合——类星体辐射吹走气体、终止恒星形成。它成为活动星系核反馈模型的观测基石。",
+  "impact": "星系与超大质量黑洞的共生演化（co-evolution）成为星系物理的主流范式。",
+  "aftermath": "詹姆斯·韦布望远镜与ALMA正检验该关系在宇宙早期的偏离；活动星系核反馈已是星系形成模拟的标准组件。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "M-sigma关系",
+   "黑洞",
+   "星系演化"
+  ]
+ },
+ {
+  "id": "2000-11-02-expedition1-iss",
+  "date": "2000-11-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "远征1号进驻国际空间站：人类太空不间断驻留开始",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月2日，俄罗斯联盟TM-31飞船对接国际空间站，两名俄罗斯宇航员与一名美国宇航员组成的远征1号进驻。从这一天起，太空中始终有人类存在，至今已超过25年。",
+  "detail": "首批驻站宇航员在仅有三个舱段的初期ISS上生活了136天，主要任务是装配调试与激活生命保障系统。此后远征任务编号持续滚动，驻站人数通常3-7人，高峰期可超10人。空间站成为微重力科学、生命科学、地球观测与国际合作的独特平台，累计完成实验数千项。",
+  "impact": "『太空常驻』从科幻设定变为日常现实，人类成为跨行星栖息意义上的多星球物种（勉强算）。",
+  "aftermath": "2021年起中国天宫空间站建成并常态化驻人，近地轨道的双站时代到来。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际空间站",
+   "远征1号",
+   "载人航天"
+  ]
+ },
+ {
+  "id": "2000-12-14-arabidopsis-genome",
+  "date": "2000-12-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "拟南芥全基因组发表：第一个被测完的植物基因组",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月14日，《自然》发表模式植物拟南芥的全基因组序列，约1.25亿碱基对、2.6万个基因。植物科学从此拥有自己的『标准参考书』，分子植物学进入加速期。",
+  "detail": "拟南芥因世代短、基因组小、易转化而被称为『植物界的果蝇』。多国联合测序发现其近2.6万个基因中有大量重复与片段加倍痕迹，凸显植物基因组的『复制-分化』进化模式。此后水稻（2002年）等作物基因组接续完成，CRISPR时代植物编辑的靶点设计大量依托拟南芥知识库。",
+  "impact": "植物基因组学获得统一参照系，作物改良的分子路径全面打通。",
+  "aftermath": "拟南芥信息资源（TAIR）成为全球植物研究者日常工具；2020年代其野生型品系数百个基因组被重测序，演化植物学随之爆发。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in science",
+    "url": "https://en.wikipedia.org/wiki/2000_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "拟南芥",
+   "植物基因组",
+   "模式生物"
+  ]
+ },
+ {
+  "id": "2001-01-08-noah-gaur-cloned",
+  "date": "2001-01-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首只濒危物种克隆动物『诺亚』出生",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月8日，一头克隆小牛『诺亚』在美国艾奥瓦州出生——它是借家养奶牛代孕诞生的白臀野牛（gaur），人类第一次用克隆技术复制濒危物种。可惜诺亚两天后因痢疾夭折，但技术路线已被验证。",
+  "detail": "先进细胞技术公司把白臀野牛的皮肤细胞核注入去核奶牛卵母细胞，80枚胚胎移植后仅1例足月。诺亚之死虽与克隆无关，却给『克隆方舟』泼了冷水：后续十年的濒危物种克隆屡遭失败，直到2020年黑足雪貂『伊丽莎白·安』健康成长并繁殖，思路才真正跑通。",
+  "impact": "濒危物种的细胞保藏从被动档案升级为主动育种资源，『冷冻动物园』概念进入主流。",
+  "aftermath": "圣地亚哥冷冻动物园已存近千种物种的细胞；2020年代黑足雪貂与普氏野马的克隆个体已放归试验，去灭绝与基因救援进入实操阶段。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "克隆",
+   "白臀野牛",
+   "物种保护"
+  ]
+ },
+ {
+  "id": "2001-02-12-near-eros-landing",
+  "date": "2001-02-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NEAR号成功着陆爱神星：人类首次登陆小行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月12日，任务已超期的NEAR舒梅克号在燃料所剩无几之际尝试不可能的操作：降落在小行星爱神星表面。它以约每小时6公里的速度触地，太阳能板完好，还多传回了两周数据——人类第一次登陆小行星。",
+  "detail": "原任务只计划环绕观测，团队在最后两周临时设计着陆程序，利用导航相机实时避障。着陆点位于以行星科学家尤金·舒梅克命名的陨石坑旁，致敬这位从未等到航天飞机时代的先驱。传回的近距影像显示小行星表面覆盖细粒风化层，帮助解释小行星矿物的红外特征。",
+  "impact": "小行星着陆从理论题变为已解题，采样返回与行星防御任务的技术信心大增。",
+  "aftermath": "日本隼鸟号2005年跟进采样，2010年带回微粒；OSIRIS-REx与隼鸟2号在2020年代把小行星采样变成常规。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "NEAR舒梅克",
+   "爱神星",
+   "小行星"
+  ]
+ },
+ {
+  "id": "2001-02-15-genome-draft-papers",
+  "date": "2001-02-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类基因组草图论文发表：公立与私营两版同周登场",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月15日与16日，《自然》与《科学》分别发表人类基因组计划与塞雷拉公司的草图论文。两个团队对基因数量的估计出奇一致：仅约3万个，远低于此前的10万预言，人类自我认知被直接修正。",
+  "detail": "公立版覆盖约90%常染色质区域，塞雷拉版用鸟枪法整合后宣称覆盖率更高但受限于拼接质量。论文揭示：人类蛋白质编码区只占基因组约1.5%，重复序列才是主角；人与人之间的DNA差异仅约0.1%。此后二十年，ENCODE等计划致力于解释剩余98%的『暗物质』功能。",
+  "impact": "基因组学的参考坐标系发布，生物学进入后基因组时代。",
+  "aftermath": "数据之争促成了Bermuda原则式的开放共享文化；2022年T2T联盟发布首个无缝隙完整版，两版草图的 rivalry 仍被津津乐道。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人类基因组",
+   "塞雷拉",
+   "基因组学"
+  ]
+ },
+ {
+  "id": "2001-07-toumai-skull",
+  "date": "2001-07",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "乍得人『图迈』头骨出土：人类家族的最早面孔",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月，布鲁内团队在乍得德腊砂岩中发掘出一具约700万年前的头骨，定名撒海尔人乍得种（Sahelanthropus tchadensis），昵称『图迈』（当地语意为『生命的希望』）。这是当时已知最古老的人族化石，比此前纪录还早100万年。",
+  "detail": "图迈的面孔组合令人困惑：从后方看像黑猩猩的颅腔，但眉弓连续、犬齿小而近似人族、枕骨大孔位置偏前提示可能直立行走。它发现于中非而非东非大裂谷，直接冲击『人类起源于裂谷草原』的经典叙事。是否直立行走至今仍有争论——2004年报告的股骨与尺骨显示其可能兼具树栖与地面行走。",
+  "impact": "人族起源时间被前推至700万年，地点从东非扩展到中非。",
+  "aftermath": "2020年代对股骨的分析引发直立与否的激烈笔战；人与黑猩猩分家的分子钟估计（约600-800万年前）与图迈基本吻合。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "图迈",
+   "撒海尔人",
+   "古人类学"
+  ]
+ },
+ {
+  "id": "2001-07-02-abiocor-artificial-heart",
+  "date": "2001-07-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首例全植入型人工心脏移植成功",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月2日，肯塔基州犹太医院为59岁的罗伯特·图尔斯植入AbioCor全人工心脏——第一颗无需管线穿出体表、完全植入体内的人工心脏。术后他存活151天，人工心脏从科幻走向临床。",
+  "detail": "AbioCor重约1公斤，由经皮能量传输供电，避免旧式装置的感染风险。图尔斯术后恢复良好、能外出就餐，但因并发症于11月去世。此后14名终末期心衰患者接受该装置，最长存活者超过17个月。设备因体积大、仅适合体型较大患者而未大规模商业化，但证明了全植入循环支持的可能性。",
+  "impact": "人工心脏的技术瓶颈（供能、抗凝、小型化）被逐一验证，心衰治疗新增终极选项。",
+  "aftermath": "后续 SynCardia、HeartMate 3 等辅助泵大量应用，全人工心脏仍在迭代；2020年代磁悬浮人工心脏成为移植等待者的常规桥接。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人工心脏",
+   "AbioCor",
+   "心衰"
+  ]
+ },
+ {
+  "id": "2001-11-27-hd209458b-atmosphere",
+  "date": "2001-11-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "哈勃测得系外行星大气：HD 209458 b 的钠被看到",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月27日，NASA宣布哈勃望远镜在凌星系外行星HD 209458 b的大气中探测到钠元素吸收——人类第一次『闻到』另一颗行星的大气成分。系外行星研究从测质量走向测成分。",
+  "detail": "HD 209458 b是最早一批被观测到凌星的行星（1999年测得），凌星时恒星光谱中的钠吸收线变深，指向膨胀的大气层。团队后来又用同一行星发现逃逸的氢尾（『烤棉花糖』式蒸发），证实热木星在恒星辐照下持续失重。大气表征自此成为系外行星科学的核心赛道。",
+  "impact": "系外行星从『知道在哪』升级到『知道由什么构成』，宜居性研究有了起点。",
+  "aftermath": "2020年代韦布望远镜已能解析系外行星大气中的水、二氧化碳乃至光化学产物，测量范式全部源自这次钠线观测。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2001 in science",
+    "url": "https://en.wikipedia.org/wiki/2001_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "HD 209458 b",
+   "系外行星大气",
+   "哈勃"
+  ]
+ },
+ {
+  "id": "2003-02-01-columbia-disaster",
+  "date": "2003-02-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "哥伦比亚号再入解体：航天飞机时代的黄昏",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月1日，哥伦比亚号完成任务返航再入大气层时在得克萨斯上空解体，7名宇航员全部遇难。事故原因是发射时外贮箱泡沫击碎左翼前缘隔热瓦，高温等离子体从破洞切入机体。",
+  "detail": "发射后第81秒一块手提箱大小的泡沫块击中左翼，工程界多次请求卫星拍摄检查未获管理层批准——挑战者号的决策文化阴影重演。解体后NASA停飞航天飞机两年半，此后航天飞机仅用于完成国际空间站建设，2011年永久退役。宇航员包括首位以色列宇航员拉蒙与印度裔女指令长乔娜。",
+  "impact": "航天飞机计划走向终结，NASA被迫为深空探索重构载人路线。",
+  "aftermath": "星座计划、商业乘员计划接续出现；2020年SpaceX载人龙飞船复飞美国载人航天能力。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哥伦比亚号",
+   "航天飞机",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2003-02-11-wmap-first-results",
+  "date": "2003-02-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "WMAP公布首张宇宙微波背景精测图：宇宙学参数被钉死",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月11日，NASA公布威尔金森微波各向异性探测器（WMAP）的首年结果：一幅全天宇宙微波背景涨落图。宇宙年龄137亿年、普通物质4%、暗物质23%、暗能量73%——一组至今沿用框架的参数被一次公布。",
+  "detail": "WMAP在日地拉格朗日L2点连续观测9年，角分辨率是COBE的33倍。其声学峰结构精确定义了宇宙的空间曲率（近乎平坦）、重子密度与再电离时间，还把哈勃常数测量精度推到个位数百分比。团队领队斯珀吉尔与贝内特获多项大奖，标准宇宙学模型（ΛCDM）自此有了可引用的默认参数表。",
+  "impact": "宇宙学从『各家各说』进入单一标准模型时代，参数误差以百分比计。",
+  "aftermath": "普朗克卫星2013年起以更高精度复核，ΛCDM微调但未动摇；唯一的裂缝——哈勃常数危机——正由WMAP打下的标尺暴露。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "WMAP",
+   "宇宙微波背景",
+   "宇宙学"
+  ]
+ },
+ {
+  "id": "2003-02-26-sars-urbani",
+  "date": "2003-02-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "乌尔巴尼确诊首例SARS：一场全球新发传染病的警报",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月26日，世界卫生组织驻河内医生卡洛·乌尔巴尼确诊一名美国商人感染『非典型肺炎』，并第一时间向WHO通报命名SARS。疫情随后蔓延30余国、8000余人感染，成为21世纪第一场全球传染病大考。",
+  "detail": "病原体此前已在广东流行数月（首例可追溯至2002年11月佛山），乌尔巴尼的确诊让国际防控体系提前介入。他本人在3月29日因感染殉职。WHO在3月发出全球警报、4月确认病原为新型冠状病毒（SARS-CoV）、6月宣布疫情受控——从预警到扑灭仅3个月，成为国际卫生条例改革的直接动因。",
+  "impact": "全球传染病监测与『旅行建议』机制经受实战检验，SARS成为中国公共卫生体系改革的起点。",
+  "aftermath": "2020年新冠大流行中，各国决策与SARS经验的比较研究大量涌现；超传播事件、密切接触追踪等概念由此定型。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "SARS",
+   "乌尔巴尼",
+   "传染病"
+  ]
+ },
+ {
+  "id": "2003-04-14-human-genome-complete",
+  "date": "2003-04-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类基因组测序宣告完成：30亿碱基对读毕",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月14日，国际人类基因组计划联盟在华盛顿宣布：人类基因组测序完成——覆盖约99% euchromatic 区域，精确度99.99%，比原计划提前两年、低于预算。人类第一次拥有了自己的完整生命密码本。",
+  "detail": "2001年草图之后，团队用两年半填平缝隙、复核精度，最终交付约30亿碱基对的『完成序列』。同月正值DNA双螺旋发表50周年，宣告仪式刻意呼应1953年的发现。宣言同时强调所有数据即刻公开，任何人可自由使用。此后的十年里，参考序列成为医学、法医、演化研究的默认坐标系。",
+  "impact": "人类基因组计划画上句号，基因组信息正式成为全球公共品。",
+  "aftermath": "真正的完整版拖到2022年由T2T联盟交付（含此前无法测通的着丝粒与端粒），但2003年这一版已支撑起全基因组关联研究、肿瘤基因组图谱等海量后续工程。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人类基因组计划",
+   "测序完成",
+   "基因组学"
+  ]
+ },
+ {
+  "id": "2003-06-02-mars-express-launch",
+  "date": "2003-06-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "火星快车发射：欧洲首个火星任务出发",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月2日，欧洲空间局火星快车号搭乘联盟号火箭升空，这是欧洲第一个行星探测任务。12月25日它顺利入轨火星，但其着陆器『猎兔犬2号』失联——此后十年才在照片里被发现其实已安全着陆。",
+  "detail": "火星快车携带的雷达（MARSIS）首次穿透火星南极冰盖，发现地下液态水湖的证据（2018年报告，仍存争议）；它还拍下火卫一的精细影像、确认火星大气中的甲烷波动。猎兔犬2号在2003年圣诞节失联成为英伦之痛，2015年NASA影像显示它其实成功着陆，只是太阳能板未能完全展开、天线被挡。",
+  "impact": "欧洲跻身火星探测俱乐部，冰盖雷达探测开辟火星地下水研究路径。",
+  "aftermath": "火星快车至今仍在轨工作超20年，是欧洲寿命最长的行星任务；欧洲此后与俄罗斯合作ExoMars、独立发展Ros alind Franklin火星车。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "火星快车",
+   "ESA",
+   "猎兔犬2号"
+  ]
+ },
+ {
+  "id": "2003-10-15-shenzhou5-yangliwei",
+  "date": "2003-10-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "神舟五号载人升空：中国成为第三个独立载人航天国家",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "10月15日上午9时，长征二号F火箭把神舟五号送入轨道，航天员杨利伟在太空飞行21小时23分、绕地14圈后于次日安全着陆。中国成为继苏联、美国之后第三个独立实现载人航天的国家。",
+  "detail": "杨利伟在轨展示中国国旗与联合国旗，录制了《太空一日》里的真实体验（火箭低频共振曾让他极为不适，此后型号针对性改进）。神舟五号验证了载人飞船全系统：逃逸塔、生命保障、返回搜救。发射地酒泉与测控网至此全面经受实战检验，中国载人航天『三步走』战略完成关键一步。",
+  "impact": "中国载人航天从无人试验跨入载人时代，世界载人航天格局变为三足鼎立。",
+  "aftermath": "此后神舟系列常态化，2021年天宫空间站开建、2022年建成，中国成为唯一独立运营空间站的国家。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "神舟五号",
+   "杨利伟",
+   "载人航天",
+   "中国航天"
+  ]
+ },
+ {
+  "id": "2003-10-16-gendicine-gene-therapy",
+  "date": "2003-10-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "中国批准全球首个商业化基因治疗药物今又生",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "10月16日，中国药监局批准深圳赛百诺的『今又生』（重组人p53腺病毒注射液）上市——全球第一个获准商业化生产的基因治疗药物，用于头颈部鳞癌联合放疗。中国就此成为基因治疗产业的第一个『吃螃蟹』国家。",
+  "detail": "今又生以改造后无害的腺病毒为载体，把野生型p53抑癌基因导入肿瘤细胞，配合放疗触发凋亡。其临床数据规模与对照设计曾受国际争议，美国与欧洲此后多年未批同类产品，但中国率先给出许可，比西方首个基因疗法（2017年Luxturna）早了14年。此后中国基因治疗管线数量跃居世界前列。",
+  "impact": "基因治疗从实验室概念变成合法商品，监管与伦理框架被逼成型。",
+  "aftermath": "2020年代CAR-T、AAV疗法在全球密集获批，中国基因治疗监管经验成为早期范本；今又生本身市场规模有限，但历史地位被反复重估。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2003 in science",
+    "url": "https://en.wikipedia.org/wiki/2003_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "今又生",
+   "基因治疗",
+   "p53",
+   "中国"
+  ]
+ },
+ {
+  "id": "2004-01-04-mer-rovers-land",
+  "date": "2004-01-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "勇气号与机遇号先后登陆火星：90天任务跑出15年传奇",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月4日勇气号在古谢夫陨石坑着陆，1月25日机遇号在子午线平原着陆。这对双胞胎火星车原定任务90天，结果分别跑了约6年和近15年，成为行星探测史上性价比最高的任务。",
+  "detail": "机遇号在着陆点附近直接撞见赤铁矿『蓝莓』结核与沉积岩层理，证实火星古代曾有咸水环境；勇气号在哥伦比亚山发现热液活动的硅质沉积。两车共行驶超过50公里，传回数十万张影像。2010年勇气号困于沙地失联，2018年沙尘暴中断机遇号通讯，NASA数月唤醒无效后宣布任务结束。",
+  "impact": "火星从『找水』升级为『还原古代环境』，着陆点科学规划模式确立。",
+  "aftermath": "它们的影像（如机遇号最后的全景图）成为公众记忆；毅力号2021年着陆时向这对前辈致意，火星车接力延续至今。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "勇气号",
+   "机遇号",
+   "火星车",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2004-03-27-x43a-hypersonic",
+  "date": "2004-03-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "X-43A冲出7倍音速：吸气式超燃冲压发动机验证成功",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月27日，NASA的X-43A无人验证机在B-52母机投放后由飞马火箭加速，超燃冲压发动机点火工作10秒，飞行速度达7倍音速（约8000公里/小时）——吸气式发动机的速度纪录自此改写。",
+  "detail": "同年11月16日第二次试飞更进一步冲到9.6马赫（约11000公里/小时），至今仍是吸气式动力飞行器的最快纪录。超燃冲压发动机没有旋转部件，靠超音速气流在燃烧室内直接点燃燃料，工程难度极高：燃料要在几毫秒内完成混合燃烧。X-43A验证了这一路径的可行性，直接启发了后来的X-51与各国高超声速武器计划。",
+  "impact": "高超声速吸气飞行从纸面推导变成实测数据，临近空间动力竞赛开幕。",
+  "aftermath": "2020年代中美俄的高超音速武器与可重复使用空天飞机计划，技术上都能追溯到这两次各10秒钟的点火。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "X-43A",
+   "超燃冲压",
+   "高超声速"
+  ]
+ },
+ {
+  "id": "2004-06-21-spaceshipone-100km",
+  "date": "2004-06-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "太空船一号冲上100公里：私人航天首次进入太空",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "6月21日，62岁试飞员梅尔维尔驾驶鲍尔·艾伦资助的太空船一号爬升到100.1公里，越过国际公认的太空边界线。这是完全由私人资金建造的载人飞船第一次进入太空，商业航天的闸门被推开。",
+  "detail": "太空船一号由鲁坦设计的缩尺复合体公司打造，采用母机高空投放+混合火箭推进+羽毛球式折翼再入的独特构型。9月29日与10月4日两次飞行间隔不足两周，赢得1000万美元安萨里X大奖。维珍银河随后买下技术授权，衍生出商业亚轨道旅游的太空船二号。",
+  "impact": "私人资本进入载人航天，『新航天』时代的技术与监管先例同时落地。",
+  "aftermath": "2021年布兰森亲乘太空船二号飞上太空；SpaceX则证明了私人力量同样能玩转轨道级任务。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "太空船一号",
+   "商业航天",
+   "X大奖"
+  ]
+ },
+ {
+  "id": "2004-07-01-cassini-orbit-insertion",
+  "date": "2004-07-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "卡西尼号入轨土星：13年环土观测开始",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月1日，卡西尼号点亮主发动机96分钟，精准减速进入土星轨道，成为土星的首个人造卫星。此后13年它绕行土星294圈，把土星系统的每一颗主要卫星都翻了个底朝天。",
+  "detail": "入轨后头几个小时它就穿过土星环平面拍下前所未有的环细节。随后数年：2005年惠更斯号着陆泰坦；2008年确认土卫二南极虎纹裂缝喷出水汽羽流；2013年拍到土星北极六边形急流。2017年9月15日，为避免污染可能宜居的冰卫星，卡西尼受控坠入土星大气，以『壮丽终章』谢幕。",
+  "impact": "土星与冰卫星海洋的科学图景完整成型，外太阳系生命探索的重点被重新排定。",
+  "aftermath": "土卫二羽流与泰坦湖泊直接催生了欧罗巴快船、JUICE与泰坦蜻蜓号三旗舰任务。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "卡西尼",
+   "土星",
+   "土卫二",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2004-10-22-graphene-paper",
+  "date": "2004-10-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "石墨烯论文发表：一种原子厚度的材料改变物理学",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月22日，《科学》发表海姆与诺沃肖洛夫的论文：他们用胶带反复剥离石墨，得到了只有一个碳原子厚的二维晶体——石墨烯，并测得其载流子行为。『二维材料不可能存在』的教科书断言被一卷胶带推翻。",
+  "detail": "此前理论认为二维晶体因热涨落无法稳定存在。曼彻斯特大学的两人用透明胶带机械剥离石墨片，在光学显微镜下找到单片石墨烯，并验证其电子迁移率极高、强度是钢的200倍、透明度97%。2010年两人获诺贝尔物理学奖。此后六方氮化硼、二硫化钼等二维材料家族迅速扩员。",
+  "impact": "凝聚态物理开辟二维材料方向，柔性电子与新型半导体研究拿到万能底板。",
+  "aftermath": "石墨烯已进入电池、传感器、复合材料产业；二维材料异质结与魔角石墨烯超导（2018年）延续着这一发现的学术生命力。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "石墨烯",
+   "海姆",
+   "二维材料"
+  ]
+ },
+ {
+  "id": "2004-12-26-indian-ocean-tsunami",
+  "date": "2004-12-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "印度洋9.1级地震海啸：23万人遇难的无预警灾难",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月26日，苏门答腊近海发生9.1级地震——40年来最强，海底逆冲撕裂1300公里断层，激起最高30米的海啸，横扫印尼、泰国、斯里兰卡、印度等12国海岸，死亡与失踪超过22.7万人。",
+  "detail": "印度洋当时没有海啸预警系统，沿岸数百万游客与居民在地震后90分钟内对即将到来的巨浪一无所知。灾害推动联合国2006年建成印度洋海啸预警系统，印尼、泰国部署浮标与警报塔；科学界借此完善了地震破裂分段模型与海啸数值模拟。2005年后的多次同类地震（2011年日本、2018年帕卢）均处于改进后的监测体系之下。",
+  "impact": "全球海啸预警体系在惨痛代价后建成，地震海啸耦合模拟成为灾害学标准工具。",
+  "aftermath": "2011年东日本大地震的预警表现与2004年形成对照；灾后重建与死者DNA识别（泰国国际鉴定组）也推动法医学规模化发展。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2004 in science",
+    "url": "https://en.wikipedia.org/wiki/2004_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "印度洋海啸",
+   "地震",
+   "灾害预警"
+  ]
+ },
+ {
+  "id": "2005-01-05-eris-identified",
+  "date": "2005-01-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "阋神星现身：比冥王星更大的『第十行星』引爆行星定义之争",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月5日，布朗团队在帕洛玛山巡天数据中确认一颗海外天体——阋神星（Eris）。它比冥王星更远也更重，『太阳系第十大行星』的头条只热闹了数月：这场发现最终以冥王星被开除出行星行列收场。",
+  "detail": "阋神星远日点达97.5天文单位，质量比冥王星大27%，还拥有一颗卫星阋卫一。国际天文联合会因它陷入定义危机：2006年布拉格大会通过新行星定义，冥王星与阋神星、谷神星一并归入『矮行星』。布朗自称『杀死了冥王星的人』，公众抗议与教科书重印潮随之而来。",
+  "impact": "行星的科学定义被重新裁定，太阳系的认识框架从九大行星改为八行星+矮行星带。",
+  "aftermath": "2015年新视野号飞掠冥王星，其『心形』冰原令降级争议再起；阋神星本身至今只有远距观测数据。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阋神星",
+   "冥王星",
+   "矮行星"
+  ]
+ },
+ {
+  "id": "2005-01-14-huygens-titan-landing",
+  "date": "2005-01-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "惠更斯号着陆土卫六：外太阳系最远的软着陆",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月14日，惠更斯号探测器脱离母船卡西尼号，穿越土卫六（泰坦）的橙色浓雾，在冰冻地表上着陆并工作了72分钟——这是人类探测器在月球以外最远的一次软着陆。",
+  "detail": "泰坦是唯一拥有浓密大气（氮气为主）的卫星，表面温度零下179度，甲烷在那里扮演水的角色。惠更斯号下降途中拍到类似河道的 drainage 系统与『海岸线』，着陆时压入湿沙般的甲烷泥，回传了泰坦表面的声音（首次录制外星世界的声学数据）。数据证实泰坦存在甲烷循环的『水文学』。",
+  "impact": "外太阳系第一次被原位测量，泰坦的甲烷循环与宜居性研究从此有了地面真值。",
+  "aftermath": "惠更斯的发现是蜻蜓号核动力旋翼机（2030年代登陆泰坦）的直接理由；卡西尼雷达则在其后补全了泰坦的湖泊地图。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "惠更斯号",
+   "土卫六",
+   "ESA"
+  ]
+ },
+ {
+  "id": "2005-03-23-exoplanet-light",
+  "date": "2005-03-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首次观测到系外行星自身的光",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月23日，NASA宣布两个独立团队用斯皮策太空望远镜分别观测到两颗热木星（TrES-1与HD 209458 b）发出的红外光——通过凌星前后亮度差直接分离出行星辐射。系外行星第一次『自己发光』被看到。",
+  "detail": "方法称为次级凌星：行星绕到恒星背后时总亮度略降，差值即行星自身辐射。测量得到的行星温度（约1000K量级）与理论预期吻合，也开启了凌星相位曲线与大气热结构的观测方向。同年另一团队用哈勃以偏振法宣称探测到行星反照光。",
+  "impact": "系外行星的温度与昼夜温差变得可测，大气表征研究再下一城。",
+  "aftermath": "2020年代韦布望远镜直接拍摄系外行星光谱、绘制热木星天气图，观测框架正是在2005年这组『看不见的行星终于亮了』的观测上铺开。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "系外行星",
+   "斯皮策",
+   "红外天文"
+  ]
+ },
+ {
+  "id": "2005-07-04-deep-impact-tempel1",
+  "date": "2005-07-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "深度撞击号成功撞击坦普尔1号彗星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月4日美国独立日，深度撞击号释放的370公斤铜制撞击器以10公里每秒撞入坦普尔1号彗核，撞击扬起的尘埃羽流被母船与全球望远镜同时记录。人类第一次主动『打』了一颗彗星来看它的内部。",
+  "detail": "撞击坑喷发的物质显示彗星内部并非均匀原始：尘埃中含黏土与碳酸盐等需要液态水才能形成的矿物，挑战『彗星=纯净原始冰尘』的假设。撞击的光变曲线被用于反演彗核表面密度与结构强度。母船后来延伸任务（EPOXI）又飞掠了哈特利2号彗星。",
+  "impact": "彗星内部成分首次被直接采样，彗星-小行星的界线反而变得模糊。",
+  "aftermath": "2011年星尘号回访坦普尔1号拍到了撞击坑；罗塞塔号2014年登彗核进一步接棒了彗星内部结构研究。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "深度撞击",
+   "坦普尔1号",
+   "彗星"
+  ]
+ },
+ {
+  "id": "2005-08-31-chimp-genome-draft",
+  "date": "2005-08-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "黑猩猩基因组草图发表：人与黑猩猩的1.2%差异被摊开",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月31日，《自然》发表黑猩猩基因组草图，与人类基因组逐位对比的结果显示：两者DNA相似度约96-98%，人类并非由现代黑猩猩演化而来，而是与黑猩猩共享约600-800万年前分家的祖先。",
+  "detail": "对比揭示了两类差异：单碱基替换约3500万处，另有大量插入缺失与染色体融合（人类2号染色体由两条祖先染色体融合而来）。数十个在人类中快速演化的基因涉及脑发育、免疫与嗅觉退化。后续研究确定现代人类与尼安德特人的分化时间也大量依赖这份参照系。",
+  "impact": "分子层面的人猿分界被精确刻画，演化医学与认知科学的比较研究有了分子标尺。",
+  "aftermath": "此后大猩猩（2012年）、红毛猩猩（2011年）等巨猿基因组相继完成，灵长类基因组计划（2023年）把比较尺度扩展到200余种。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "黑猩猩基因组",
+   "人类演化",
+   "比较基因组学"
+  ]
+ },
+ {
+  "id": "2005-10-05-1918-flu-reconstructed",
+  "date": "2005-10-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "1918大流感病毒被复活：对当前毒株最致命的流感重见天日",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月5日，《自然》与《科学》同期刊发美国团队成果：从阿拉斯加冻土与病理标本中拼出1918年大流感病毒全部8个基因节段，并复活出活病毒。小鼠实验显示其对肺组织的破坏力远超普通流感，与当前禽流感（H5N1）的致病特征相近。",
+  "detail": "陶本伯格团队从一位因纽特女性的冻埋遗体与美军病理标本石蜡块中提取碎片化RNA，历时十年拼合全序列；陶氏与河冈义裕在CDC高防护实验室重建活毒。研究确认1918病毒是完全适应人类的禽源H1N1。这项『复活史上最致命病毒』的工作引发巨大的双用途研究争议，也直接塑造了大流行防范（preparedness）的病毒学储备思路。",
+  "impact": "大流行病毒的分子病理被破译，流感大流行的预警指标有了具体清单。",
+  "aftermath": "河冈团队此后进行多次禽流感可获得性研究（gain-of-function）争议（2011年H5N1论文风波），学界为此建立了流感研究暂停与风险评估机制。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "1918大流感",
+   "病毒复活",
+   "流感"
+  ]
+ },
+ {
+  "id": "2005-11-27-face-transplant-dinoire",
+  "date": "2005-11-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "全球首例部分面部移植手术完成",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月27日，法国亚眠的医生团队为被狗咬毁面部的38岁女子伊莎贝尔·迪努瓦尔实施部分面部移植：移植了鼻子、嘴唇与下颌区域。患者术后数月能进食、说话并面对镜子，医学史上最富伦理争议的手术类型由此开篇。",
+  "detail": "面部移植不同于一般器官移植：需吻合血管、神经与肌肉，追求的是表情与功能而非单纯存活。迪努瓦尔术后经历两次排斥危机，长期服用免疫抑制剂。她于2016年因健康问题（含癌症，可能与免疫抑制相关）去世。此后全球完成数十例面部移植，中国2006年完成亚洲首例。",
+  "impact": "异体面部复合组织移植（VCA）成为独立外科门类，身份与免疫的伦理讨论同步展开。",
+  "aftermath": "后续全脸移植与手移植案例积累经验；免疫抑制的长期风险仍是最大瓶颈，诱导免疫耐受是当前研究方向。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2005 in science",
+    "url": "https://en.wikipedia.org/wiki/2005_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "面部移植",
+   "迪努瓦尔",
+   "外科"
+  ]
+ },
+ {
+  "id": "2006-01-15-stardust-sample-return",
+  "date": "2006-01-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "星尘号返回舱着陆：人类首次带回彗星尘埃",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月15日，星尘号的返回舱以近5万公里时速冲入犹他州上空大气，随后打开降落伞软着陆。舱内气凝胶捕集网里的数千颗怀尔德2号彗星尘埃颗粒，是人类第一次从彗星采样带回地球。",
+  "detail": "样品分析带来惊喜：颗粒中发现了只能在高温下形成的晶态硅酸盐与甘氨酸——彗星并非全是『寒冷原始』的存货，太阳系早期的高温混合比预想普遍。返回舱的完好回收也验证了超高速再入热防护设计，该技术后来被用于猎户座飞船研制。任务随后加飞坦普尔1号彗星补拍深度撞击的伤口。",
+  "impact": "彗星物质从遥测推断变成手持实物，太阳系形成化学获得基准样品。",
+  "aftermath": "气凝胶捕集与返回舱技术被隼鸟号、OSIRIS-REx等任务继承；样品至今仍向全球实验室分配。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "星尘号",
+   "彗星采样",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2006-01-19-new-horizons-launch",
+  "date": "2006-01-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "新视野号发射：冥王星探测的十年长跑起跑",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1月19日，新视野号探测器从卡纳维拉尔角发射，以有史以来最快的出发速度直奔冥王星。发射时它瞄准的还是『第九大行星』，八个月后冥王星被降级为矮行星——这趟任务成了为『小弟』正名之旅。",
+  "detail": "为赶上木星引力助推的窗口（每13年一次），团队抢在两年内造出探测器并发射；新视野号9小时即越过月球轨道。2007年借木星弹弓提速并测试仪器，2015年7月14日飞掠冥王星，拍下心形冰原，2020年代继续飞向柯伊伯带天体Arrokoth（2019年飞掠）。它携带一份克劳德·莱维-斯特劳斯的骨灰与『远程航天员』铭牌。",
+  "impact": "柯伊伯带从数据推断变成实地勘察，冥王星系统获得首张高清肖像。",
+  "aftermath": "新视野号至今仍在遥远柯伊伯带观测；其数据改写了外太阳系的地质与大气模型，催生新一轮冥王星轨道器提案。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "新视野号",
+   "冥王星",
+   "柯伊伯带"
+  ]
+ },
+ {
+  "id": "2006-03-09-enceladus-geysers",
+  "date": "2006-03-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "卡西尼发现土卫二喷泉：冰壳之下的海洋证据",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月9日，《科学》公布卡西尼号发现：土卫二（恩克拉多斯）南极的『虎纹』裂缝正喷出高达数百公里的水汽与冰晶羽流——这颗直径仅500公里的冰卫星藏着活跃的内部海洋。",
+  "detail": "羽流物质含钠盐与有机分子、二氧化硅纳米颗粒，指向与岩石接触的咸水海洋；热流测量显示南极下有局部热异常。土卫二由此跃升为太阳系最宜居候选地之一。后续卡西尼多次穿越羽流『喝』到样本，直到2017年壮丽终章。最新研究甚至认为其海洋年龄可能不到10亿年。",
+  "impact": "冰卫星海洋世界研究从木卫二单线扩展，生命探索的候选名单重排。",
+  "aftermath": "Enceladus采样返回与轨道器概念（如Enceladus Life Finder）持续立项评审，羽流观测已成为冰卫星任务的标准目标。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "土卫二",
+   "冰下海洋",
+   "卡西尼"
+  ]
+ },
+ {
+  "id": "2006-04-15-lab-grown-bladder",
+  "date": "2006-04-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "实验室培育的膀胱移植成功：组织工程的临床首胜",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月15日，《柳叶刀》发表阿塔拉团队的成果：7名脊柱裂患者植入了用自身细胞在可降解支架上培育的膀胱，随访近4年功能改善明显。组织工程第一次交出长期有效的器官替代品。",
+  "detail": "团队从患者膀胱取少量细胞，在膀胱形状的支架上扩增培养数周，再缝合到患者残存膀胱上——用自体细胞避免了免疫排斥。后续扩展研究（2011年更新）显示部分患者需再手术，但作为概念验证意义重大。阿塔拉2007年随后又展示了培育的心脏瓣膜与阴道器官（2014年报告）。",
+  "impact": "『用你自己的细胞长一个器官』从论文标题变成临床路径。",
+  "aftermath": "3D生物打印、类器官与干细胞分化的爆发都以此为先声；全球组织工程器官的临床管线至今仍在缓慢爬坡。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "组织工程",
+   "膀胱",
+   "再生医学"
+  ]
+ },
+ {
+  "id": "2006-05-15-chromosome1-published",
+  "date": "2006-05-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类1号染色体序列发表：逐条测序时代收官",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月15日，《自然》发表人类1号染色体的完整序列——最大、基因最多（3141个）的人类染色体，也是按染色体测序策略的最后一条。至此人类基因组24条染色体全部有了完成度序列。",
+  "detail": "1号染色体与350多种疾病相关，测序难度在于大量重复片段与结构变异。英美德团队历时十年用BAC克隆逐一攻克。这条染色体收官也标志着HGP时代『染色体式』测序技术的谢幕——此后全基因组鸟枪法与高通量测序接管了战场，测序成本曲线从此陡降。",
+  "impact": "参考基因组逐条补齐，高通量测序接棒开启千人基因组时代。",
+  "aftermath": "2008年千人基因组计划启动、2014年Illumina HiSeq X把全基因组测序拉进1000美元；1号染色体是旧技术的绝唱。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "1号染色体",
+   "人类基因组",
+   "测序"
+  ]
+ },
+ {
+  "id": "2006-08-24-pluto-dwarf-planet",
+  "date": "2006-08-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "布拉格大会表决：冥王星被重新定义为矮行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "8月24日，国际天文联合会布拉格大会以举手表决通过行星新定义：行星必须围绕太阳运行、近乎球形并已清空轨道附近区域。冥王星因『清空邻居』不达标，与阋神星、谷神星一起归入矮行星。教科书连夜重印，全球哀嚎与抗议并存。",
+  "detail": "导火索是阋神星（比冥王星更重）的发现：不划清界限，太阳系行星会无限膨胀。新定义背后是柯伊伯带发现的累积压力。支持者认为定义回归物理本质，反对者（包括不少行星科学家）抨击『清空轨道』条款的任意性，联名抗议延续至今。新视野号2015年飞掠时特意致敬这颗『降级的行星』。",
+  "impact": "行星的科学定义首次由投票裁定，公众科学与教科书体系同步洗牌。",
+  "aftermath": "此后行星定义争论每年都在IAU大会重现；冥王星的心形冰原发现让『它是否值得行星头衔』的讨论再度升温。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "冥王星",
+   "IAU",
+   "矮行星"
+  ]
+ },
+ {
+  "id": "2006-12-13-baiji-functionally-extinct",
+  "date": "2006-12-13",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "长江白鱀豚被宣布『功能性灭绝』",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "12月13日，中、美、日等六国科学家结束为期38天的长江国际科考：行程3336公里没有目击到一头白鱀豚，团队宣布这一物种功能性灭绝——残存个体已不足以延续种群。这是50年来首个被宣布灭绝的大型水生哺乳动物。",
+  "detail": "白鱀豚曾广泛分布于长江中下游，20世纪中叶种群尚有数千头。航运螺旋桨击伤、渔网误捕、水体污染与工程切割栖息地层层加码，1980年代起种群断崖式下滑。2007年8月曾有人拍摄到疑似白鱀豚个体，但学界认为偶见个体无法改变种群崩溃。江豚成为长江仅存的大型水生哺乳动物。",
+  "impact": "长江生态承载力的极限被点名，淡水豚保护成为水系治理的标志议题。",
+  "aftermath": "此后十年长江实施十年禁渔与沿岸治理，江豚数量在2022年调查中出现回升；白鱀豚标本成为博物馆里的警钟。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2006 in science",
+    "url": "https://en.wikipedia.org/wiki/2006_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "白鱀豚",
+   "长江",
+   "物种灭绝"
+  ]
+ },
+ {
+  "id": "2007-02-07-berlin-patient-hiv-cure",
+  "date": "2007-02-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "柏林病人接受移植：首例艾滋病功能性治愈的开端",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月7日，身患白血病与艾滋病的蒂莫西·雷·布朗在柏林接受了来自携带CCR5-Δ32突变供者的造血干细胞移植。术后他的白血病与HIV同时消失——人类第一次真正治愈了一名艾滋病患者。",
+  "detail": "Δ32突变让CCR5共受体失效，HIV多数毒株因此无法入侵细胞。移植后布朗停用抗逆转录病毒药物，病毒再未反弹。2008年论文公布时学界谨慎，2011年续报确认治愈，此后『希望之城病人』『伦敦病人』等复制案例相继出现。布朗2019年白血病复发去世，但他的名字已成为治愈研究的代号。",
+  "impact": "『艾滋病不可治愈』的定论被打破，治愈研究从边缘议题变成全球竞速。",
+  "aftermath": "CCR5编辑（包括2018年争议性的基因编辑婴儿事件）与广谱抗体疗法延续这条路线；骨髓移植因风险过高仍无法推广为常规疗法。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2007 in science",
+    "url": "https://en.wikipedia.org/wiki/2007_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "柏林病人",
+   "CCR5",
+   "艾滋病治愈"
+  ]
+ },
+ {
+  "id": "2007-04-24-gliese581c",
+  "date": "2007-04-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "格利泽581c：第一颗『宜居带』系外行星成为头条",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "4月24日，欧洲南方天文台团队宣布在红矮星格利泽581周围发现行星Gliese 581 c：约5倍地球质量，轨道位于宜居带边缘——『可能有液态水』的系外行星第一次进入大众视野，《时代》周刊将其列入年度百大人物（作为行星）。",
+  "detail": "该行星用视向速度法测得，初期估算表面温度可能支持液态水，随后研究发现潮汐锁定与温室效应可能使其更像金星。围绕同一恒星后续又发现581d、581g（后者存在性后被否定）等行星，形成著名的『宜居带 lottery』。发现地点智利拉西拉天文台使用3.6米望远镜与HARPS光谱仪。",
+  "impact": "『宜居带』从教科书概念变成媒体热词，系外行星搜索的公众关注度暴涨。",
+  "aftermath": "此后TRAPPIST-1（2017年）、比邻星b（2016年）等宜居带行星接连登场，但『宜居』与『有人住』之间的距离仍是天文学最诚实的注脚。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2007 in science",
+    "url": "https://en.wikipedia.org/wiki/2007_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "格利泽581c",
+   "系外行星",
+   "宜居带"
+  ]
+ },
+ {
+  "id": "2007-09-27-dawn-launch",
+  "date": "2007-09-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "黎明号启程：一个探测器同时环绕两颗小天体",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "9月27日，NASA黎明号探测器发射，携带科幻感十足的离子推进器，目标是灶神星与谷神星——它将成为第一个先后环绕两颗地外天体、并能在两者之间转移轨道的航天器。",
+  "detail": "离子推进连续工作数万小时，微弱推力靠时间累积完成轨道转移。2011年入轨灶神星测绘14个月，揭示其南极巨型撞击与分异历史；2015年入轨谷神星，发现神秘亮斑——后确认为碳酸钠盐类，指向冰下的咸水残余。谷神星因此从『矮行星』变成『海洋世界遗迹』。",
+  "impact": "小行星带两大天体的地质史被完整建立，矮行星的演化多样性首次被展示。",
+  "aftermath": "黎明号2018年燃料耗尽，以受控姿态留在谷神星轨道；谷神星冰下咸水2020年被确认为现存，宜居性讨论重启。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2007 in science",
+    "url": "https://en.wikipedia.org/wiki/2007_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "黎明号",
+   "灶神星",
+   "谷神星",
+   "离子推进"
+  ]
+ },
+ {
+  "id": "2007-10-24-change1-launch",
+  "date": "2007-10-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "嫦娥一号发射：中国深空探测从这里起步",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "10月24日，长征三号甲火箭在西昌把嫦娥一号送入奔月轨道，中国第一次月球探测任务启程。11月7日它进入环月轨道，次年传回中国首幅全月球影像图。",
+  "detail": "嫦娥一号绘制了1:250万全月图，搭载的微波辐射计首次对全月进行微波亮度温度测量，反演月壤厚度并估算氦-3资源分布；γ/X谱仪绘制了全月元素分布图。2009年3月1日任务以受控撞月结束，撞点影像由随后的嫦娥系列接续。探月工程『绕、落、回』三步走的第一步就此完成。",
+  "impact": "中国探月工程正式开局，深空测控网与月面科学体系同步建成。",
+  "aftermath": "嫦娥三号（2013年落月）、四号（2019年人类首次月背着陆）、五号（2020年采样返回）与嫦娥六号月背采样（2024年）构成完整链条。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2007 in science",
+    "url": "https://en.wikipedia.org/wiki/2007_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "嫦娥一号",
+   "探月工程",
+   "中国航天"
+  ]
+ },
+ {
+  "id": "2007-11-20-human-ips-cells",
+  "date": "2007-11-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类iPS细胞诞生：皮肤细胞被『返老还童』成干细胞",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月20日，山中伸弥团队与汤姆森团队几乎同时宣布：普通人体皮肤细胞只需转入四个转录因子，就能被重编程为诱导多能干细胞（iPS细胞）。再生医学的伦理困境——胚胎干细胞来源问题——出现了绕开的可能。",
+  "detail": "山中2006年先用小鼠细胞验证『四因子魔法』，2007年11月人类版本落地，与威斯康星的汤姆森团队（用不同因子组合）同日发表。iPS细胞可分化为任意组织且不破坏胚胎，避开了美国联邦资金对胚胎干细胞研究的限制。山中伸弥因此与格登分享2012年诺贝尔生理学或医学奖——从发现到诺奖仅6年。",
+  "impact": "患者特异性的『自体』多能干细胞成为可能，再生医学与疾病建模全面换轨。",
+  "aftermath": "iPS已用于视网膜移植（日本2014年首例）、帕金森与心衰临床研究；山中团队预测2030年代iPS衍生疗法将覆盖更多适应症。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2007 in science",
+    "url": "https://en.wikipedia.org/wiki/2007_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "iPS细胞",
+   "山中伸弥",
+   "再生医学"
+  ]
+ },
+ {
+  "id": "2008-05-12-wenchuan-earthquake",
+  "date": "2008-05-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "汶川8.0级大地震：龙门山断裂的世纪之痛",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "5月12日14时28分，四川汶川发生8.0级地震，震源深度14公里，69227人遇难、失踪17923人，是中华人民共和国成立以来破坏力最强的地震。龙门山断裂带在约90秒内破裂长达300余公里。",
+  "detail": "地震发生于青藏高原东缘的龙门山逆冲断裂带，主震释放的能量相当于400余颗广岛原子弹。北川、映秀等城镇几乎被完全摧毁，大面积山体滑坡与堰塞湖（唐家山）构成次生灾害链。灾后中国重建了地震预警系统与建筑抗震规范，汶川成为全球研究逆冲断裂与同震形变（GPS/InSAR）最重要的案例之一。",
+  "impact": "中国地震监测、预警与应急体系全面重构，断裂带活动性普查升级为国家级工程。",
+  "aftermath": "2022年芦山、2022年泸定等后续地震均处于重建后的监测体系内；成都高新减灾研究所的预警系统已覆盖全国多数地震带。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "汶川地震",
+   "龙门山断裂",
+   "地震学"
+  ]
+ },
+ {
+  "id": "2008-05-25-phoenix-lands-mars",
+  "date": "2008-05-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "凤凰号着陆火星北极：第一次亲手挖到火星水冰",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月25日，凤凰号以反推着陆方式降落在火星北极平原，随后的挖掘作业直接确认浅层土壤中存在水冰——火星地表之下藏水从推论变成感官事实。",
+  "detail": "凤凰号机械臂刨开表土后，几天内可见白色物质蒸发消失（盐类不会如此），质谱仪加热样品更释放出水汽。它还在土壤中检测到高氯酸盐，微调了火星土壤化学图景。任务在极昼结束后因电量耗尽于11月结束，2010年NASA尝试在冬季尘霜覆盖中唤醒失败。凤凰号的名言：『我挖到了冰！』（发现冰的推文）。",
+  "impact": "火星浅层水冰被原位证实，未来载人任务就地取水的选址逻辑确立。",
+  "aftermath": "后续探测确认火星中纬度与极地冰储量巨大；凤凰号的着陆技术（无气囊反推）正是好奇号与毅力号天空起重机的技术前身。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "凤凰号",
+   "火星水冰",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2008-09-10-lhc-first-beam",
+  "date": "2008-09-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "大型强子对撞机首次注入质子束：27公里的能量之环点亮",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "9月10日，日内瓦地下100米、周长27公里的大型强子对撞机（LHC）首次将质子束注入并成功贯通一圈。全球粒子物理的旗舰装置在历经14年建造后正式开机——尽管9天后就因磁体失联事故停摆一年。",
+  "detail": "LHC由约9000块超导磁体驱动，设计将质子加速到7 TeV并对撞，可重现大爆炸后万亿分之一秒的宇宙状态。2008年的液氦泄漏损毁了50余块磁体，2009年11月重启后于2010年3月实现7 TeV设计能量对撞。2012年希格斯玻色子在此被发现；此后质心能量于2015年提升至13 TeV。",
+  "impact": "人类建造的能量最高的加速器投入运行，粒子物理标准模型的最后拼图就位。",
+  "aftermath": "LHC仍在升级（高亮度LHC计划2029年重启）；未来环形对撞机（FCC）等万亿级后续方案正在论证。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "LHC",
+   "CERN",
+   "粒子物理"
+  ]
+ },
+ {
+  "id": "2008-09-25-shenzhou7-spacewalk",
+  "date": "2008-09-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "神舟七号发射：翟志刚完成中国人首次太空行走",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "9月25日，神舟七号发射升空，9月27日下午翟志刚身着『飞天』舱外服出舱活动约19分钟，挥舞五星红旗——中国人第一次把足迹刻在太空。轨道舱另由刘伯明配合，景海鹏值守返回舱。",
+  "detail": "出舱过程险象环生：舱门开启时轨道舱火警警报误报，翟志刚与刘伯明商定『就算回不去，也要让五星红旗在太空飘扬』后按计划出舱；事后查明是传感器误报。『飞天』舱外服是中国自主研制，单套重120公斤。任务还验证了卫星伴随飞行与中继星数据链。",
+  "impact": "中国载人航天掌握出舱技术，空间站建设的核心能力之一就位。",
+  "aftermath": "2021年天和核心舱发射后，出舱活动（EVA）成为空间站常态化操作；女航天员王亚平2021年完成中国人第二次出舱。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "神舟七号",
+   "翟志刚",
+   "太空行走",
+   "中国航天"
+  ]
+ },
+ {
+  "id": "2008-09-28-falcon1-orbit",
+  "date": "2008-09-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "猎鹰1号第四次试射成功：私营火箭首次入轨",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "9月28日，SpaceX的猎鹰1号在夸贾林环礁第四次发射，成功进入轨道——历史上第一枚完全由私人资金研制并进入轨道的液体燃料火箭。此前三次连败已把这家公司逼到破产边缘。",
+  "detail": "马斯克当时资金仅够再试一到两次，前三次失败（燃油泄漏、级间分离、级间震荡）几乎耗尽特斯拉与他的个人资产。第四次全胜后NASA在12月授予16亿美元商业补给合同，公司起死回生。猎鹰1号的技术（Merlin发动机、级间设计）直接演化为猎鹰9号。",
+  "impact": "商业航天从『玩具』变成可靠的运力提供方，NASA的采购模式被重写。",
+  "aftermath": "猎鹰9号2010年首飞、2015年实现第一级回收；2020年代SpaceX承包了全球一半以上的轨道发射质量。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "猎鹰1号",
+   "SpaceX",
+   "商业航天"
+  ]
+ },
+ {
+  "id": "2008-10-07-2008tc3-predicted-impact",
+  "date": "2008-10-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "2008 TC3：人类第一次提前预警的小行星撞击",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月7日凌晨，天文学家在撞击前19小时发现一颗约4米的小行星2008 TC3正冲向地球，并精确预报了进入大气层的时间地点。它如约在苏丹上空爆炸，残骸随后被回收——人类第一次完整观测『预告-撞击-取样』全流程。",
+  "detail": "卡塔利娜巡天发现该天体后，JPL与比萨的轨道计算独立给出一致预报：撞击点苏丹努比亚沙漠上空。目击者看到火球，次年搜寻队找到47块陨石（定名Almahata Sitta），属于罕见的ureilite类型。此后预警系统成熟：2014、2018、2022年又多次成功预警小天体撞击，2024年撞击预警时间已缩至数小时。",
+  "impact": "行星防御的『预警闭环』首次跑通，小行星撞击从不可知变成可计算。",
+  "aftermath": "DART任务2022年成功改变小行星轨道，把『预警』升级为『干预』；未来十年近地天体普查完成度将达90%以上。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in science",
+    "url": "https://en.wikipedia.org/wiki/2008_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "2008 TC3",
+   "行星防御",
+   "陨石"
+  ]
+ },
+ {
+  "id": "2009-02-03-corot7b-rocky-exoplanet",
+  "date": "2009-02-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "CoRoT-7b：第一颗被测出密度的岩石系外行星",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月3日，欧洲空间局宣布CoRoT卫星发现行星CoRoT-7b：半径约1.7倍地球。结合视向速度测得的质量，其密度显示这是一颗岩石行星——人类第一次确认太阳系外存在『类地质地』的行星。",
+  "detail": "此前确认的系外行星多为气态巨行星。CoRoT-7b用凌星法测半径、HARPS测质量，双管齐下算出密度接近地球，暗示岩石构成；理论推断其朝向恒星面温度可能超过2000度，表面或是熔岩海。后续发现的Kepler-10b、开普勒任务的三百余颗小于2倍地球半径的候选体延续了『岩石行星』谱系。",
+  "impact": "系外行星分类学真正建立，『超级地球』成为行星科学的中心议题。",
+  "aftermath": "2020年代韦布望远镜开始测量岩石行星大气；CoRoT-7b这类熔岩世界的大气（汽化岩石）成为新的观测目标。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "CoRoT-7b",
+   "超级地球",
+   "系外行星"
+  ]
+ },
+ {
+  "id": "2009-02-10-iridium-kosmos-collision",
+  "date": "2009-02-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "铱星33与宇宙2251相撞：首例在轨卫星相撞事故",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2月10日，美国商用通信卫星铱星33与退役俄罗斯军用卫星宇宙2251在西伯利亚上空789公里处以每秒约11.7公里相对速度相撞，双双解体，产生约2300块可追踪碎片——人类历史上第一次两颗完整卫星在轨相撞。",
+  "detail": "宇宙2251是1993年失效的卫星，轨道预报显示碰撞概率长期被低估；铱星33是有66颗卫星的商用星座成员。碎片云扩散到数百至1500公里高度，此后多年多起航天器不得不机动规避。2007年中国反卫星试验的碎片（3400余块可追踪）与本事件叠加，近地轨道拥挤问题浮出水面。",
+  "impact": "空间态势感知与轨道碎片模型（ORDEM、MASTER）全面升级，规避机动成为低轨运营日常。",
+  "aftermath": "星链等巨型星座出现后，2020年代自动避碰与离轨规则成为国际议程；凯斯勒综合征的隐忧被反复引用。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "卫星碰撞",
+   "空间碎片",
+   "铱星"
+  ]
+ },
+ {
+  "id": "2009-03-07-kepler-launch",
+  "date": "2009-03-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "开普勒望远镜升空：系外行星普查机器出发",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月7日，NASA开普勒空间望远镜发射，它将连续4年凝视天鹅座方向15万颗恒星，捕捉行星凌星时万分之一的亮度下降。任务最终改写了人类对『行星有多普遍』的认知。",
+  "detail": "开普勒发现行星数量以千计：确认超过2700颗，包括岩质行星、宜居带候选与 Kepler-452b 等『地球堂兄弟』。2013年两个反作用轮故障后，团队借太阳光压发明K2延伸任务又发现数百颗。统计结果震撼：银河系中行星可能比恒星还多，仅宜居带岩质行星就数以亿计。",
+  "impact": "系外行星从『零星发现』进入『统计学』时代，德雷克公式中的行星项被填上。",
+  "aftermath": "开普勒2018年燃料耗尽退役；TESS、PLATO与韦布接力，宜居带行星大气表征成为前沿。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "开普勒",
+   "系外行星",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2009-05-sts125-hubble-final-service",
+  "date": "2009-05",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "STS-125：最后一次哈勃维修，望远镜满血新生",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月，亚特兰蒂斯号完成航天飞机对哈勃的第五次也是最后一次维修：更换广域相机3、修复先进巡天相机、换装新电池陀螺仪与低前置光遮蔽装置。哈勃的观测能力达到历史峰值。",
+  "detail": "宇航员五次太空行走共37小时，拆装的精细程度被比作『戴着滑雪手套修钟表』。升级后的WFC3让哈勃在紫外与近红外同时发力，直接产出2009-2012年的哈勃极深场（XDF）与引力透镜星系团巡天，宇宙年龄测量精确到1.38亿年误差。2011年航天飞机退役后，哈勃再无被服务的机会。",
+  "impact": "哈勃以最强状态进入独居时代，此后十余年的巅峰产出都有赖此次大修。",
+  "aftermath": "哈勃至今仍在工作，与韦布望远镜红紫外互补；2024年陀螺仪降级运行，重访维修的讨论已不可行。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "哈勃",
+   "STS-125",
+   "太空维修"
+  ]
+ },
+ {
+  "id": "2009-10-01-ardi-fossil",
+  "date": "2009-10-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『阿迪』骨架发表：440万年前的人类祖先改写演化剧本",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月1日，《科学》以11篇论文的专辑形式公布地猿始祖种（Ardipithecus ramidus，『阿迪』）的完整研究：一具440万年前、保存约45%的女性骨架。她的形态让『人类像黑猩猩』的默认想象崩塌。",
+  "detail": "阿迪的脚趾对握适合抓握树枝，但骨盆与手脚结构显示她能直立行走；犬齿细小、两性体型差异小，暗示雄性间暴力竞争弱于黑猩猩。这意味着人类与黑猩猩的共同祖先『不像任何一方』，教科书上『缺毛的四足黑猩猩式祖先』形象被废弃。埃塞俄比亚阿法尔地区的17年发掘由怀特团队主导。",
+  "impact": "人类演化树的根部形态被重画，『黑猩猩作为时间机器』的方法论被证伪。",
+  "aftermath": "阿迪与后续的图根原人、南方古猿序列共同支持『直立行走远早于脑扩容』的演化逻辑；其栖息的林地环境也挑战了『草原出走』假说。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿迪",
+   "地猿",
+   "古人类学"
+  ]
+ },
+ {
+  "id": "2009-10-09-lcross-lunar-impact",
+  "date": "2009-10-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "LCROSS撞月：月球南极溅起水花",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月9日，NASA的LCROSS半人马座上面级以9000公里时速撞向月球南极Cabeus陨石坑，紧随其后的牧羊探测器穿过扬起的羽流，光谱确认其中含水——月球并非干燥星球，极地永久阴影区藏着水冰。",
+  "detail": "羽流分析显示月壤含水约5.6%（质量），另检出氨、甲烷、银等挥发分。这些水冰藏于数十亿年不见阳光的冷阱（温度低至零下240度），是未来月球基地的就地资源。LCROSS与LRO（勘测轨道器）同年发射，重写了月球极地探测的优先级。",
+  "impact": "月球水资源从假说变为可开采清单，阿尔忒弥斯计划的南极选址逻辑由此建立。",
+  "aftermath": "2023年印度月船三号着陆南极区、各国钻探任务排队；IM-1等商业着陆器也开始瞄准极地冰。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in science",
+    "url": "https://en.wikipedia.org/wiki/2009_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "LCROSS",
+   "月球水冰",
+   "NASA"
+  ]
+ },
+ {
+  "id": "2010-03-24-denisovan-genome",
+  "date": "2010-03-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "丹尼索瓦人现形：一段指骨的DNA揭出未知人种",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "3月24日，《自然》发表帕博团队的成果：西伯利亚丹尼索瓦洞出土的一根4万年前的指骨，其线粒体DNA既非尼安德特人也非智人——一个全新古人类种群（丹尼索瓦人）被纯靠基因手段命名。",
+  "detail": "后续全基因组分析显示丹尼索瓦人曾广泛分布于东亚至东南亚，与智人有过多次混血：今天巴布亚人与东南亚人群携带约4-6%丹尼索瓦血统，藏族人的EPAS1高原适应基因也来自他们。一颗完整的下颌骨直到2019年才在青藏高原（夏河人）被确认属于丹尼索瓦人。帕博因此获2022年诺贝尔生理学或医学奖。",
+  "impact": "古DNA从鉴定工具变成发现工具，人类家族图谱被重新绘制。",
+  "aftermath": "此后『幽灵谱系』研究激增，尼安德特人与丹尼索瓦人的混血后代（丹妮）也被基因检出；人类演化史进入分子考古时代。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "丹尼索瓦人",
+   "古DNA",
+   "帕博"
+  ]
+ },
+ {
+  "id": "2010-05-07-neanderthal-genome-draft",
+  "date": "2010-05-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "尼安德特人基因组草图发表：现代人体内藏着古人血统",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月7日，《科学》发表帕博团队的尼安德特人基因组草图：与现代人对比显示，除非洲裔外的所有现代人群携带约1-4%尼安德特人DNA——欧亚智人走出非洲后曾与尼人多次混血。",
+  "detail": "从3.8万年前尼安德特人骨提取DNA、克服百万年降解与微生物污染，是古DNA方法论十年攻坚的巅峰。结论一举终结『走出非洲取代说』与『多地区连续说』的百年论战：两者都以有限方式成立。后续研究确认尼人基因影响我们的免疫、凝血、代谢乃至新冠重症风险。",
+  "impact": "古人类学从骨骼比较进入基因组时代，人类演化叙事彻底改写。",
+  "aftermath": "2020年尼安德特人基因组完整版发布；帕博获2022年诺贝尔生理学或医学奖，古DNA成为独立学科。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "尼安德特人",
+   "古DNA",
+   "帕博",
+   "基因组"
+  ]
+ },
+ {
+  "id": "2010-05-20-venter-synthetic-cell",
+  "date": "2010-05-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "文特尔团队造出『人造生命』：全合成基因组驱动的细胞",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "5月20日，《科学》在线发表克雷格·文特尔研究所的成果：团队用化学方法合成了丝状支原体的完整基因组（约108万碱基对），植入山羊支原体的空壳细胞后，合成基因组接管细胞并开始分裂。第一个由『写在电脑里的基因组』驱动的生命诞生，代号Synthia。",
+  "detail": "团队花15年、4000万美元攻克超大片段DNA的拼接、移植与甲基化识别难题，甚至给基因组加了『水印』（写入研究者名字与诗句）。实验证明DNA序列本身就是生命的操作系统，蛋白质只是硬件。成果引发生物安全与『什么是生命』的哲学争论。",
+  "impact": "合成生物学从改造基因升级到合成整个基因组，生命可被从头设计获得实证。",
+  "aftermath": "此后合成基因组规模不断刷新；2020年代最小基因组（JCVI-syn3.0，473个基因）与活体医药（合成微生物疗法）延续这一路线。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "合成生物学",
+   "文特尔",
+   "人造生命"
+  ]
+ },
+ {
+  "id": "2010-07-08-solar-impulse-24h",
+  "date": "2010-07-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "阳光动力号完成24小时纯太阳能飞行",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "7月8日清晨，瑞士阳光动力号原型机降落在佩耶纳机场，此前它已靠12000余块太阳能电池在白天爬升蓄能、夜间靠电池续航，完成了人类首次24小时不间断纯太阳能载人飞行。",
+  "detail": "翼展63.4米与空客A340相当，机体却只有1600公斤，飞行员皮卡德与博尔施伯格轮流执行单人不间断环球飞行的分段任务。2015-2016年阳光动力2号分17段完成环球飞行，其中从日本到夏威夷的太平洋航段连续飞行118小时创下纪录。",
+  "impact": "证明太阳能载人飞行在工程上完全可行，清洁能源航空从口号变成航迹。",
+  "aftermath": "太阳能无人机（伪卫星）如今可在平流层连续驻空数月；电动与氢能支线客机已进入试飞阶段。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阳光动力",
+   "太阳能飞机",
+   "清洁能源"
+  ]
+ },
+ {
+  "id": "2010-10-11-hesc-trial-begins",
+  "date": "2010-10-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首个人类胚胎干细胞疗法临床试验启动",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月11日，加州Geron公司宣布为首位脊髓损伤患者注入人胚胎干细胞分化的少突胶质前体细胞——人类历史上第一次把胚胎干细胞疗法推进临床试验。治疗目标是让瘫痪的脊髓重新长出绝缘髓鞘。",
+  "detail": "试验在FDA的十年审查后获批，动物实验显示受伤大鼠运动功能显著恢复。2011年11月Geron以商业化理由中止试验（仅4名患者），数据虽提示安全性但无力证明疗效，行业信心受挫。胚胎干细胞研究随即在诱导多能干细胞（iPS）的势头下继续演进。",
+  "impact": "胚胎干细胞疗法走完从监管僵局到临床的第一步，干细胞医学的监管范式被建立。",
+  "aftermath": "此后胚胎干细胞衍生疗法（黄斑变性、糖尿病）重启试验；iPS疗法因免疫与伦理优势成为并行主线。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "胚胎干细胞",
+   "脊髓损伤",
+   "再生医学"
+  ]
+ },
+ {
+  "id": "2010-10-14-rinderpest-eradicated",
+  "date": "2010-10-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "牛瘟被宣布全球根除：人类第二次消灭一种疫病",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "10月14日，联合国粮农组织宣布牛瘟（rinderpest）全球根除——继1980年天花之后，人类历史上第二种被彻底消灭的疾病（首种动物疫病）。",
+  "detail": "牛瘟病毒致死率极高，18-19世纪的流行曾摧毁非洲与欧洲的牛群、引发饥荒与社会动荡。根除战役靠热稳定疫苗（图氏疫苗可在无冷链地区使用）、社区兽医网络与全球血清监测完成，2011年5月OIE与FAO正式宣布根除。这一模式直接移植到全球消灭脊髓灰质炎与牛肺疫战役。",
+  "impact": "『从人传染到动物疫病』的根除方法论被验证，兽医公共卫生地位陡升。",
+  "aftermath": "FAO因此获多项国际奖；下一步全球根除目标（脊髓灰质炎、麦地那龙线虫）仍在最后一公里。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "牛瘟",
+   "疾病根除",
+   "FAO"
+  ]
+ },
+ {
+  "id": "2010-11-17-antihydrogen-trapped",
+  "date": "2010-11-17",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "反物质原子首次被『抓住』：38个反氢原子关进磁笼",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "11月17日，《自然》发表CERN的ALPHA实验成果：38个反氢原子被磁阱捕获约0.2秒——人类第一次稳定囚禁中性反物质原子，物质与反物质对称性的对照实验从此有了实验台。",
+  "detail": "反氢原子不带净电荷，无法用电场囚禁，团队靠其磁矩用超导磁体的极小势阱捕获。2011年捕获时间延长到1000秒，2012年首次观测反氢原子光谱，2018年测得1S-2S跃迁与氢完全一致。任何微小差异都指向CP破坏之外的新物理，这是检验粒子物理CPT定理的最精密天平之一。",
+  "impact": "反物质从转瞬即逝的奇观变成可长期研究的对象，CPT对称性检验进入精密时代。",
+  "aftermath": "ALPHA后续测量引力对反物质的作用（2023年确认反氢『往下掉』），BASE实验则囚禁了反质子并准备运输。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "反物质",
+   "反氢原子",
+   "ALPHA",
+   "CERN"
+  ]
+ },
+ {
+  "id": "2010-12-08-dragon-orbital-recovery",
+  "date": "2010-12-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "龙飞船首飞：商业飞船第一次从轨道成功返回",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "12月8日，SpaceX的龙飞船由猎鹰9号送入轨道，绕地球两圈后按计划再入并溅落太平洋被完整回收——历史上第一艘成功从轨道返回的商业研制航天器。NASA的商业航天路线图关键一环落地。",
+  "detail": "龙飞船基于猎鹰9号运力与Merlin技术，首飞即完成全流程（入轨、分离、防热大底、降落伞）。2012年5月龙飞船对接国际空间站，成为首艘造访ISS的商业飞船；载人龙2020年复飞美国载人航天。回收技术（防热盾、导航制导）为其后的可复用与星际飞船（Starship）计划奠基。",
+  "impact": "商业公司证明可独立完成轨道往返，NASA从『总包商』转型为『客户』。",
+  "aftermath": "货运龙2020年退役后由货运龙2号接班；载人龙累计完成十余次载人任务，商业空间站方案均以其为基础论证。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in science",
+    "url": "https://en.wikipedia.org/wiki/2010_in_science",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "龙飞船",
+   "SpaceX",
+   "商业航天"
+  ]
+ }
+]

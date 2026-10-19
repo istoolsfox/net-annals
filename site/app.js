@@ -38,9 +38,13 @@ const CATS = [
 const CAT = Object.fromEntries(CATS.map(c => [c.k, c]));
 const CONF = { verified: ['实证', 'v'], 'single-source': ['单一来源', 's'], uncertain: ['存疑', 'u'] };
 
+/* ── UIState：纯视图状态（与数据过滤状态分离） ─────────────────── */
+const UIState = { expandAll: false };
+
 /* ── Store：状态 + 选择器（唯一事实源） ─────────────────── */
 const Store = {
   events: [],
+  ready: false,
   filters: { cats: new Set(CATS.map(c => c.k)), q: '', mileOnly: false },
 
   /** 事件所属时代索引；越界钳制到最后一个时代（杜绝事件被静默丢弃） */
@@ -128,7 +132,7 @@ const Timeline = {
       const cards = g.querySelector('.cards');
       for (const e of list) {
         const holder = document.createElement('div');
-        holder.className = 'card' + (flip ? ' right' : '') + (e.milestone ? ' mile' : '');
+        holder.className = 'card' + (flip ? ' right' : '') + (e.milestone ? ' mile' : '') + (UIState.expandAll ? ' open' : '');
         holder.dataset.id = e.id;
         holder.innerHTML = this.cardHtml(e);
         cards.appendChild(holder);
@@ -136,6 +140,13 @@ const Timeline = {
         flip = 1 - flip;
       }
       body.appendChild(g);
+      // 视口内的卡片立即置亮：跳转/筛选后不等待 IO 回调窗口
+      requestAnimationFrame(() => {
+        for (const holder of body.querySelectorAll('.card:not(.in)')) {
+          const r = holder.getBoundingClientRect();
+          if (r.top < innerHeight && r.bottom > 0) holder.classList.add('in');
+        }
+      });
     }
   },
 
@@ -154,7 +165,7 @@ const Timeline = {
         <span class="cConf ${conf[1]}">${conf[0]}</span>${acc}
         <span class="cAcc">${e.region === 'cn' ? '中国' : '世界'}</span>
       </div>
-      <h3 class="cTitle"><a href="${esc(src0.url || '#')}" target="_blank" rel="noopener" title="点击标题跳转原文">${esc(e.title)} <span class="arrow">↗</span></a></h3>
+      <h3 class="cTitle"><a href="${esc(safeUrl(src0.url))}" target="_blank" rel="noopener" title="点击标题跳转原文">${esc(e.title)} <span class="arrow">↗</span></a></h3>
       <p class="cSum">${esc(sum)}${long ? ' <span class="hint">展开看全文</span>' : ''}</p>
       <button class="cMore">展开经过与影响 <i>∨</i></button>
       <div class="cBody">
@@ -173,18 +184,29 @@ const Timeline = {
     this.buildSections();
   },
 
-  /** 导航：先同步渲染目标时代，再瞬时定位（杜绝长滑与落点漂移） */
+  /** 导航：先同步渲染目标时代，再瞬时定位（杜绝长滑与落点漂移）。boot 未就绪时排队。 */
   jumpTo(i) {
+    if (!Store.ready) { (this._pending ??= new Set()).add(i); return; }
+    this._jump(i);
+  },
+  flushPending() {
+    if (!this._pending) return;
+    for (const i of this._pending) this._jump(i);
+    this._pending.clear();
+  },
+  _jump(i) {
     const sec = document.getElementById(`era-${i}`);
     if (!sec) return;
-    this.renderEra(i);                               // 渲染先于滚动
-    const y = sec.getBoundingClientRect().top + window.scrollY - 128;
+    this.renderEra(i);                                // 渲染先于滚动
+    const toolbarH = document.getElementById('toolbar').getBoundingClientRect().height;
+    const y = sec.getBoundingClientRect().top + window.scrollY - toolbarH - 18;
     window.scrollTo({ top: y, behavior: 'instant' }); // 瞬时定位
   },
 };
 
 /* ── 工具函数 ─────────────────── */
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
 const $ = s => document.querySelector(s);
 
 /* ── Toolbar：控制层（用户操作 → Store 变更 → Timeline 重绘） ─────────────────── */
@@ -219,7 +241,9 @@ const Toolbar = {
       t = setTimeout(() => { Store.setFilter({ q: e.target.value }); Timeline.rebuild(); }, 180);
     });
     $('#expandAll').onclick = () => {
-      const on = $('#expandAll').classList.toggle('on');
+      UIState.expandAll = !UIState.expandAll;
+      const on = UIState.expandAll;
+      $('#expandAll').classList.toggle('on', on);
       $('#expandAll').textContent = on ? '全部收起' : '全部展开';
       document.querySelectorAll('.card').forEach(c => c.classList.toggle('open', on));
     };
@@ -255,7 +279,7 @@ const Toolbar = {
     let cur = 0;
     for (const [i] of ERAS.entries()) {
       const sec = document.getElementById(`era-${i}`);
-      if (sec && sec.getBoundingClientRect().top <= 200) cur = i;
+      if (sec && sec.getBoundingClientRect().top <= 280) cur = i;
     }
     document.querySelectorAll('#eraJump .chip').forEach((b, i) => b.classList.toggle('on', i === cur));
   },
@@ -282,6 +306,8 @@ async function boot() {
     Timeline.init();
     Toolbar.init();
     Timeline.buildSections();
+    Store.ready = true;
+    Timeline.flushPending();
   } catch (err) {
     document.getElementById('timeline').innerHTML = `<div class="empty">数据加载失败（${esc(err.message)}）。请先运行 scripts/deploy.sh 或 build.sh。</div>`;
   }
