@@ -1,1436 +1,1816 @@
 [
-{
-"id": "2005-02-14-youtube-founded",
-"date": "2005-02-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "YouTube 成立：视频分享时代开启",
-"category": "company",
-"region": "world",
-"milestone": true,
-"summary_30s": "三名前 PayPal 员工查德·贺利、陈士骏、贾德·卡林姆在情人节这天注册了 YouTube。4月23日网站传上第一条视频《我在动物园》，一个『人人都能上传视频』的时代就此开始，整个互联网的内容形态被改写。",
-"detail": "YouTube 由查德·贺利（Chad Hurley）、陈士骏（Steve Chen）、贾德·卡林姆（Jawed Karim）于2005年2月14日创立，三人皆是 PayPal 早期员工。2005年4月23日，卡林姆上传了网站第一条视频《我在动物园》；同年5月网站开放公测，约六个月后转为正式版本。『上传、分享、嵌入』的极简流程让普通网民第一次可以轻松发布视频，网站的 Flash 播放器嵌入代码迅速扩散到各类博客与论坛。",
-"impact": "确立了 UGC 视频平台的标准形态，视频成为互联网第一大内容品类。",
-"aftermath": "2006年10月 Google 宣布以16.5亿美元收购 YouTube；此后 YouTube 长期占据全球视频网站头把交椅，其模式在中国被土豆、优酷等网站复制。",
-"sources": [
-{
-"title": "维基百科：YouTube",
-"url": "https://zh.wikipedia.org/wiki/YouTube",
-"type": "wiki"
-}
-],
-"tags": [
-"YouTube",
-"视频",
-"Web2.0"
-]
-},
-{
-"id": "2005-03-06-douban-launch",
-"date": "2005-03-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "豆瓣上线",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "程序员杨勃（阿北）在北京豆瓣胡同附近的星巴克里敲出的读书网站正式上线，后扩展到电影、音乐。没有大公司背景、靠书影音『标记与评论』起家，豆瓣成了中国文艺青年的精神角落，也是 Web 2.0 在中国的代表作品。",
-"detail": "2005年3月6日，杨勃（网名『阿北』）创立的豆瓣网上线，网站以他居住的豆瓣胡同命名，初期以图书评价为核心，随后扩展出电影、音乐条目与『想读/在读/读过』等标记体系。创办资金来自朋友的近二十万元集资，杨勃曾在上海徐家汇的星巴克咖啡馆里写了数月代码。小组、日记等功能上线后，豆瓣逐渐从工具网站演化为兴趣社区，『豆瓣小组』『豆瓣评分』成为中文互联网的独特景观。",
-"impact": "开创了中文互联网以兴趣聚合、以口碑评分驱动的内容社区模式。",
-"aftermath": "2006年豆瓣获得 IDGVC 天使投资；其评分体系日后成为中国影视、图书行业无法忽视的口碑风向标，也屡屡因评分争议站上风口浪尖。",
-"sources": [
-{
-"title": "维基百科：豆瓣",
-"url": "https://zh.wikipedia.org/wiki/豆瓣",
-"type": "wiki"
-},
-{
-"title": "维基百科：杨勃",
-"url": "https://zh.wikipedia.org/wiki/杨勃",
-"type": "wiki"
-}
-],
-"tags": [
-"豆瓣",
-"Web2.0",
-"书影音"
-]
-},
-{
-"id": "2005-04-15-tudou-launch",
-"date": "2005-04-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "土豆网上线：中国第一家视频网站",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "王微在 上海创办土豆网（最初域名 toodou.com），上线时间比 YouTube 正式公开还早，口号是『每个人都是生活的导演』。中国网民第一次有了属于自己的视频发布平台，中国视频行业的『土豆时代』拉开帷幕。",
-"detail": "土豆网由王微（Gary Wang）与马克·范德齐斯（Marc van der Chijs）创立，公司于2005年2月15日注册，网站于2005年4月15日正式上线，最初使用 toodou.com 域名，后更为 tudou.com。它是中国最早的 UGC 视频分享网站之一，上线甚至早于 YouTube 正式走向公众。『每个人都是生活的导演』这一口号广为流传，播客（Podcast）、原创短片、网友自拍由此获得中文互联网的主舞台。",
-"impact": "中国视频分享行业的起点，催生了此后十年的网络视频大战。",
-"aftermath": "土豆先后获多轮融资并于2011年登陆纳斯达克；2012年3月12日与老对手优酷以换股方式合并为优酷土豆集团，2016年该集团被阿里巴巴全资收购。",
-"sources": [
-{
-"title": "维基百科：土豆网",
-"url": "https://zh.wikipedia.org/wiki/土豆网",
-"type": "wiki"
-}
-],
-"tags": [
-"土豆网",
-"视频",
-"王微"
-]
-},
-{
-"id": "2005-04-01-56com-launch",
-"date": "2005-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "56网（我乐网）上线",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前网易员工周娟创办的 56网（56.com）上线，与土豆网同期加入中国视频分享赛道。『我乐』主打用户上传与娱乐分享，与土豆、优酷、酷6并称中国视频网站早期『四大玩家』。",
-"detail": "56网于2005年4月上线，创始人为前网易员工周娟，是中文互联网最早一批视频分享网站之一。网站以用户原创与娱乐内容为主，社区氛围活跃，巅峰期与土豆网、优酷网、酷6网并列为中国视频行业的代表性玩家。2011年9月27日，人人公司宣布以8000万美元全资收购56网，它成为少数『卖身』成功的早期视频网站。",
-"impact": "中国视频分享赛道最早的一批入场者之一，见证了 UGC 视频从兴起到整合的完整周期。",
-"aftermath": "被人人收购后转型会员付费与直播尝试，2017年后业务逐步收缩，成为视频行业第一批被遗忘的名字。",
-"sources": [
-{
-"title": "维基百科：56网",
-"url": "https://zh.wikipedia.org/wiki/56网",
-"type": "wiki"
-}
-],
-"tags": [
-"56网",
-"视频"
-]
-},
-{
-"id": "2005-06-06-qzone-launch",
-"date": "2005-06-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "QQ空间上线：亿级用户的个人主页",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯推出 QQ空间（Qzone），让每个 QQ 用户都有了可以装扮的『小窝』：换皮肤、写日志、养宠物、踩空间。它把博客做成了全民娱乐品，『非主流』火星文相册和黄钻会员成为中国一代网民的集体记忆。",
-"detail": "QQ空间于2005年4月以『空间小窝』名义内测，2005年6月6日正式上线。依托 QQ 庞大的用户底盘，QQ空间以花哨的页面装扮、日志、相册、音乐盒为核心，通过黄钻、道具等增值服务变现。2007年其单月活跃用户超过1亿，2008年腾讯宣布单月活跃用户超1亿、单日流量超10亿，QQ空间成为全球用户量最大的社交网络产品之一。",
-"impact": "把『个人主页/博客』第一次送到数亿普通中国网民手里，也为腾讯验证了虚拟增值服务的印钞能力。",
-"aftermath": "QQ空间长期稳居中文社交网络头部；随着用户向移动互联网迁移，2014年底 wap 版逐步异常，产品最终在移动时代逐渐边缘化。",
-"sources": [
-{
-"title": "维基百科：QQ空间",
-"url": "https://zh.wikipedia.org/wiki/QQ空间",
-"type": "wiki"
-}
-],
-"tags": [
-"腾讯",
-"QQ空间",
-"社交网络"
-]
-},
-{
-"id": "2005-06-06-wow-cn-launch",
-"date": "2005-06-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《魔兽世界》国服开服：一代人的艾泽拉斯",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "暴雪旗舰网游《魔兽世界》由第九城市代理在大陆开服，『为了部落』响彻网吧。点卡月卡制、大型副本和阵营对抗重新定义了中国人对网络游戏的想象，也把网吧生意推上顶峰。",
-"detail": "2005年6月6日，第九城市代理运营的《魔兽世界》中国大陆服务器开启运营，玩家涌入艾泽拉斯大陆。凭借暴雪精良的世界观与副本设计，加上此前《魔兽争霸3》积累的群众基础，魔兽迅速成为中国网吧的主流游戏，公会、开荒、四十人副本（MC、BWL）成为流行语。九城靠魔兽一役跻身网游大厂，2005年12月纳斯达克上市。此后资料片接力：『燃烧的远征』2007年9月6日国服上线，『巫妖王之怒』前夕2008年12月8日先行开放。",
-"impact": "把中国网游从『练级打怪』带入大型多人世界观时代，塑造了整整一代玩家的网游审美。",
-"aftermath": "2009年4月代理权易主网易引发行业地震；魔兽国服此后历经多次停服与重启，2023年1月一度停运，2024年8月回归。",
-"sources": [
-{
-"title": "维基百科：魔兽世界",
-"url": "https://zh.wikipedia.org/wiki/魔兽世界",
-"type": "wiki"
-}
-],
-"tags": [
-"魔兽世界",
-"第九城市",
-"暴雪",
-"网游"
-]
-},
-{
-"id": "2005-08-05-baidu-ipo",
-"date": "2005-08-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "百度纳斯达克上市：首日暴涨354%",
-"category": "company",
-"region": "cn",
-"milestone": true,
-"summary_30s": "百度以每股27美元登陆纳斯达克，当天收盘122.54美元，涨幅353.85%，创下当时美股IPO首日涨幅纪录，堪比互联网泡沫巅峰。『中国的Google』概念点燃华尔街，中文互联网公司的价值被全球重新定价。",
-"detail": "2005年8月5日，百度在美国纳斯达克上市，发行价27美元。开盘即大涨，收盘报122.54美元，首日涨幅353.85%，成为Google上市以来美国股市表现最强劲的IPO之一。上市当天百度员工与李彦宏在纳斯达克敲钟的画面传回国内，成为中国互联网创业的标志性时刻。充裕的资金让百度在此后与 Google 中国的搜索大战中弹药充足。",
-"impact": "确立了中国互联网公司的全球资本市场地位，直接刺激了此后数年中国概念股赴美上市潮。",
-"aftermath": "百度借势巩固中文搜索霸主地位，与腾讯、阿里并称 BAT；此后故事还包括O2O、AI 转型与『魏则西事件』后的舆论危机。",
-"sources": [
-{
-"title": "维基百科：百度",
-"url": "https://zh.wikipedia.org/wiki/百度",
-"type": "wiki"
-}
-],
-"tags": [
-"百度",
-"上市",
-"纳斯达克",
-"李彦宏"
-]
-},
-{
-"id": "2005-08-11-yahoo-alibaba-deal",
-"date": "2005-08-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雅虎10亿美元入股阿里巴巴，雅虎中国并入",
-"category": "company",
-"region": "cn",
-"milestone": true,
-"summary_30s": "雅虎宣布以10亿美元现金加上雅虎中国全部业务，换取阿里巴巴约40%股份。这是当时中国互联网史上最大交易，马云用『雅虎中国』换来弹药与时间，也为日后阿里系与雅虎、软银的资本故事埋下伏笔。",
-"detail": "2005年8月11日，雅虎与阿里巴巴达成交易：雅虎支付10亿美元，并获得阿里巴巴约40%股权，雅虎中国的门户、搜索与3721等业务整体并入阿里巴巴。《纽约时报》当时以『雅虎花10亿美元换阿里巴巴40%股份』报道此事。马云借交易获得了搜索引擎技术与巨额资金，雅虎则押注中国电商。交易附带的关键条款（2010年起雅虎投票权变化）日后成为双方长期博弈的焦点。",
-"impact": "中国互联网史上标志性并购，重塑了阿里、雅虎与软银三方格局，也奠定了淘宝打赢 eBay 中国之战的资本基础。",
-"aftermath": "阿里后来逐步回购雅虎股份；雅虎本身2017年被威瑞森收购核心业务，而这笔投资成为雅虎残值中最值钱的部分。",
-"sources": [
-{
-"title": "维基百科：阿里巴巴集团",
-"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
-"type": "wiki"
-}
-],
-"tags": [
-"阿里巴巴",
-"雅虎",
-"马云",
-"并购"
-]
-},
-{
-"id": "2005-08-27-super-girl-final",
-"date": "2005-08-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "超级女声总决赛：短信票选出的全民偶像",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "湖南卫视《2005超级女声》总决赛之夜，李宇春以352万短信票夺冠，周笔畅、张靓颖分列二三。『玉米』『笔亲』大规模拉票让电视选秀第一次与互联网动员深度结合，收视率达11.65，成为现象级全民事件。",
-"detail": "2005年8月27日，《超级女声》三进一总决赛举行，李宇春以3528308票夺冠，亚军周笔畅、季军张靓颖，该场收视率达11.65、收视份额29.54%。观众通过手机短信投票决定选手去留，粉丝在贴吧、QQ群、论坛里组织拉票，『PK』『玉米』等词一夜之间成为大众词汇。这是中国电视选秀的巅峰之作，也是传统媒体与网络社群力量第一次大规模合流。",
-"impact": "开创了『全民投票选秀』模式，粉丝文化与网络动员自此进入主流视野。",
-"aftermath": "选秀节目此后遍地开花；李宇春登上《时代》周刊亚洲版封面，张靓颖走向国际舞台，而短信投票模式后来被监管叫停。",
-"sources": [
-{
-"title": "维基百科：2005年超级女声",
-"url": "https://zh.wikipedia.org/wiki/2005年超级女声",
-"type": "wiki"
-}
-],
-"tags": [
-"超级女声",
-"选秀",
-"李宇春",
-"湖南卫视"
-]
-},
-{
-"id": "2005-11-22-xbox360-launch",
-"date": "2005-11-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Xbox 360 发售：主机大战进入高清时代",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软率先打响第七世代主机战争：11月22日 Xbox 360 在北美发售，随后登陆欧洲、日本。它比索尼 PS3 早上市近一年抢得先机，《光环》《战争机器》等大作让『盒子』第一次在欧美市场真正站稳。",
-"detail": "Xbox 360 于2005年5月E3前首次曝光，11月22日在北美首发，12月2日登陆欧洲，12月10日进入日本，港台市场则要到2006年3月16日。作为最早上市的高清世代主机，Xbox 360 以 Xbox Live 在线服务与成就系统重新定义了主机联网体验，《光环3》《战争机器》系列成为一代人的记忆。在中国大陆，它经由非正规渠道进入玩家手中，2005年前后正是国内主机玩家圈快速扩张的时期。",
-"impact": "第七世代主机战争的发令枪，微软首次在主机市场取得对索尼的先发优势。",
-"aftermath": "Xbox 360 全球销量超8000万台；但其『三红』硬件故障也成为游戏史著名的质量事故，微软为此付出逾10亿美元延保成本。",
-"sources": [
-{
-"title": "维基百科：Xbox 360",
-"url": "https://zh.wikipedia.org/wiki/Xbox_360",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Xbox",
-"游戏主机"
-]
-},
-{
-"id": "2005-05-01-lenovo-ibm-pc",
-"date": "2005-05-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "联想完成收购 IBM PC：『蛇吞象』交割",
-"category": "company",
-"region": "cn",
-"milestone": true,
-"summary_30s": "2004年12月宣布的联想收购 IBM 个人电脑业务在这一天正式完成交割：12.5亿美元现金加股票，把 ThinkPad 这个『笔记本里的劳斯莱斯』收入囊中。一家中国公司一夜之间跃居全球第三大 PC 厂商。",
-"detail": "联想集团以6.5亿美元现金加6亿美元股票（另有债务承担，合计约12.5亿美元对价，不含桌面硬盘业务）收购 IBM 全球台式机与笔记本业务，2004年12月宣布、2005年5月1日完成交割。Think 品牌与 IBM 的企业客户渠道整体并入新联想，公司总部设双址、英文为官方语言，杨元庆出任董事长。这笔交易被媒体称为『蛇吞象』，是中国制造业全球化最著名的案例之一。",
-"impact": "中国科技公司首次完成世界级的巨型跨国并购，联想自此跻身全球 PC 市场第一梯队。",
-"aftermath": "整合初期的文化冲突与利润下滑曾饱受质疑，但联想最终在2013年登顶全球 PC 出货量第一，并延续多年。",
-"sources": [
-{
-"title": "维基百科：联想集团",
-"url": "https://zh.wikipedia.org/wiki/联想集团",
-"type": "wiki"
-}
-],
-"tags": [
-"联想",
-"IBM",
-"ThinkPad",
-"并购"
-]
-},
-{
-"id": "2005-11-28-shanda-free-mmorpg",
-"date": "2005-11-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "盛大宣布《传奇》《梦幻国度》永久免费",
-"category": "company",
-"region": "cn",
-"milestone": true,
-"summary_30s": "盛大网络突然宣布《梦幻国度》《传奇》等王牌游戏永久免费，靠卖装备和增值服务赚钱的『免费模式』自此席卷中国网游业。免费游戏收入不降反升，人均消费从每季度约30元涨到55元。",
-"detail": "2005年11月28日、29日，盛大网络先后宣布《梦幻国度》与《传奇》永久免费运营，几天后《传奇世界》跟进。此前中国网游主要靠点卡计时收费，盛大此举等于亲手废掉自己最大的一棵摇钱树。免费后玩家基数迅速扩大，人均季度消费从一季度的约30元提升至四季度的约55元，盛大用数据证明了『免费+道具付费』的商业模型，随后其他网游公司纷纷跟进。",
-"impact": "中国网游商业模式的历史转折点，『免费游戏、道具收费』成为此后二十年行业主流。",
-"aftermath": "道具付费模式催生了人民币玩家文化与『氪金』生态，也为后来的手游免费内购模式提供了模板。",
-"sources": [
-{
-"title": "维基百科：盛大网络",
-"url": "https://zh.wikipedia.org/wiki/盛大网络",
-"type": "wiki"
-}
-],
-"tags": [
-"盛大",
-"免费模式",
-"网游",
-"陈天桥"
-]
-},
-{
-"id": "2005-12-01-blog-queen-xu-jinglei",
-"date": "2005-12-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "博客元年：新浪名人博客与『博客女王』徐静蕾",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2005年被称为中国『博客元年』，新浪强力推动名人博客，年底徐静蕾开博后访问量一路飙升，最终登顶全球博客点击排名，被称『博客女王』。明星写日记，网民来围观，博客从极客玩具变成大众媒体。",
-"detail": "2005年，博客服务在中国全面爆发，新浪、搜狐等门户先后重兵投入，新浪以拉明星开博的策略迅速起量。演员徐静蕾于2005年底开设博客『老徐』，记录日常琐事的文字意外走红，访问量一度排名全球第一；到2007年7月，其博客开博620天点击量突破一亿。名人效应带动普通网民蜂拥开设博客，书写与阅读门槛被前所未有地拉低。",
-"impact": "博客成为第一代全民自媒体，为后来的微博、公众号时代完成了用户启蒙。",
-"aftermath": "独立博客与 BSP 在2010年后迅速让位于微博与微信，但『人人都有话筒』的媒介逻辑从此确立。",
-"sources": [
-{
-"title": "维基百科：徐静蕾",
-"url": "https://zh.wikipedia.org/wiki/徐静蕾",
-"type": "wiki"
-}
-],
-"tags": [
-"博客",
-"新浪",
-"徐静蕾",
-"Web2.0"
-]
-},
-{
-"id": "2005-12-08-xiaonei-founded",
-"date": "2005-12-08",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "校内网上线：中国大学生的 Facebook 时刻",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "王兴与清华、天大的几位同学创办校内网（xiaonei.com），克隆 Facebook 的实名制校园社交模式，靠『凑人头找同学』在高校病毒式扩散。中国 SNS 大战的第一声枪响，来自这间民宅里的创业团队。",
-"detail": "2005年12月8日，王兴、王慧文、赖斌强、唐阳等人创办校内网，模仿 Facebook 以高校为切入点做实名社交。产品依靠学生间的口口相传与线下推广在大学校园迅速铺开，『上校内』一度成为大学生标配。2006年10月，校内网被千橡互动收购；2009年8月4日官方宣布更名为『人人网』，8月14日启用新域名 renren.com，从校园走向全民。",
-"impact": "把实名制社交网络第一次带到中国大学生群体，培养了最早一批 SNS 用户习惯。",
-"aftermath": "人人网2011年风光赴美上市后迅速衰落；王兴则带着同一批团队转身做了饭否与美团。",
-"sources": [
-{
-"title": "维基百科：校内网",
-"url": "https://zh.wikipedia.org/wiki/校内网",
-"type": "wiki"
-}
-],
-"tags": [
-"校内网",
-"人人网",
-"王兴",
-"SNS"
-]
-},
-{
-"id": "2005-08-03-pleasant-goat-debut",
-"date": "2005-08-03",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《喜羊羊与灰太狼》首播",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "国产动画《喜羊羊与灰太狼》开播，狼抓羊的简单设定和密集笑点精准击中低龄观众，此后十多年陪伴了几代中国孩子的暑假。『灰太狼』『喜羊羊』成为国产动画商业化的最大 IP 之一。",
-"detail": "2005年8月3日，由广东原创动力制作的《喜羊羊与灰太狼》首播。剧集以青青草原上狼与羊的攻防战为主线，制作成本不高却因节奏明快、角色讨喜而在电视台反复重播，积累起惊人的国民度。围绕动画推出的电影、玩具、授权商品构成了完整的商业链条，2009年首部大电影《牛气冲天》以小成本斩获过亿票房，验证了国产动画电影的变现能力。",
-"impact": "国产低龄动画商业化的标杆案例，『喜羊羊』一度成为国产动画的代名词。",
-"aftermath": "系列持续推出新作与大电影；2013年后随着《熊出没》等竞争者崛起，喜羊羊热度逐步让出头部位置。",
-"sources": [
-{
-"title": "维基百科：喜羊羊与灰太狼",
-"url": "https://zh.wikipedia.org/wiki/喜羊羊与灰太狼",
-"type": "wiki"
-}
-],
-"tags": [
-"喜羊羊",
-"国产动画",
-"IP"
-]
-},
-{
-"id": "2006-01-02-wulinwaizhuan-premiere",
-"date": "2006-01-02",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《武林外传》央视首播：网感喜剧的开山之作",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2006年1月2日，《武林外传》在央视八套首播。客栈里的古装情景喜剧把当代网络流行语揉进对白，『排山倒海』『额滴神啊』风靡一时。它成为中文情景喜剧的巅峰之一，也是网络语言登陆主流电视的标志。",
-"detail": "《武林外传》由尚敬执导，2006年1月2日在中央电视台电视剧频道（央视八套）首播。该剧以同福客栈为舞台，把武侠外壳与当代职场、网络文化嫁接，台词中大量化用论坛热词与流行梗，形成独特的『网感』。首播后从口碑平平到反复重播逆袭，佟湘玉、白展堂等角色成为经典形象，剧中笑点至今仍在短视频平台被反复引用。",
-"impact": "证明了网络亚文化语言可以反向征服主流电视，中文情景喜剧自此多了一座高峰。",
-"aftermath": "宁财神、姚晨、闫妮、沙溢等主创此后各奔前程；大电影与衍生剧集屡屡试水，但均难以复制剧版的口碑。",
-"sources": [
-{
-"title": "维基百科：武林外传（电视剧）",
-"url": "https://zh.wikipedia.org/wiki/武林外传_(电视剧)",
-"type": "wiki"
-}
-],
-"tags": [
-"武林外传",
-"情景喜剧",
-"央视"
-]
-},
-{
-"id": "2006-01-26-google-cn-launch",
-"date": "2006-01-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google 启用 google.cn，正式落子中国",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "Google 推出中国版网站 google.cn，正式以本土化域名服务中国用户；同年11月24日谷歌中国公司在北京注册成立。全球搜索巨头与百度在中国正面开战，中文搜索进入双雄时代。",
-"detail": "2006年1月26日，Google 推出 google.cn 中国版网站，这是 Google 进入中国市场的关键商业动作；2006年11月24日，谷歌（中国）公司在北京注册成立。谷歌中国随后推出本地化产品与招聘攻势，在高校大举吸纳工程师。此前百度已于纳斯达克上市、用户基数庞大，中文搜索市场的双雄格局就此成形，这场竞争一直延续到2010年 Google 调整中国业务为止。",
-"impact": "中文搜索进入百度与 Google 正面竞争的时代，中国互联网人才薪酬与工程文化被大幅抬高。",
-"aftermath": "2010年 Google 调整中国业务后，百度在搜索市场份额一路扩大，谷歌中国收缩为广告与开发者业务。",
-"sources": [
-{
-"title": "维基百科：谷歌中国",
-"url": "https://zh.wikipedia.org/wiki/谷歌中国",
-"type": "wiki"
-}
-],
-"tags": [
-"Google",
-"谷歌中国",
-"搜索"
-]
-},
-{
-"id": "2006-03-02-ds-lite-japan",
-"date": "2006-03-02",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "NDS Lite 发售：掌机『破圈』之作",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "任天堂 DS Lite 在日本发售，更轻更亮的双屏掌机迅速卖到断货。『脑锻炼』『任天狗』把大量女性和中老年玩家拉进游戏世界，NDS 最终成为史上最畅销掌机，DS Lite 功不可没。",
-"detail": "任天堂 DS Lite 于2006年3月2日在日本首发，6月11日登陆北美，6月23日登陆欧洲。相比初代 NDS，它机身更小巧、屏幕亮度可调，设计精致，上市后长期供不应求。配合《脑锻炼》《任天狗》等破圈软件，NDS 系列最终成为史上最畅销掌机，DS Lite 是其中最受欢迎的型号之一，水货也大量流入中国市场，成为掌机玩家的标配。",
-"impact": "掌机从核心玩家玩具变成大众消费品，触屏双屏的交互实验领先智能手机时代一步。",
-"aftermath": "NDS 的触屏经验直接影响了后来的 iPhone 交互设计与任天堂自家的 3DS、Switch。",
-"sources": [
-{
-"title": "维基百科：任天堂DS Lite",
-"url": "https://zh.wikipedia.org/wiki/任天堂DS_Lite",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"掌机",
-"NDS"
-]
-},
-{
-"id": "2006-03-21-twitter-first-tweet",
-"date": "2006-03-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Twitter 第一条推文：140个字符改变世界",
-"category": "internet",
-"region": "world",
-"milestone": true,
-"summary_30s": "杰克·多西发出史上第一条推文『just setting up my twttr』，微博客形态就此诞生。140字符的碎碎念后来成了全球新闻的源头、名人攻防的战场，中文世界的饭否、新浪微博都是它的精神后裔。",
-"detail": "2006年3月21日晚9点50分（太平洋时间），Twitter 联合创始人杰克·多西（Jack Dorsey）发出第一条推文『just setting up my twttr』，公司同日创办；同年7月网站向公众开放。『What are you doing?』的极简设定让发布门槛降到前所未有的程度，突发新闻、直播围观、话题标签（#）都从这里生长出来。Twitter 证明了『轻量级广播』是一种全新的媒介形态。",
-"impact": "开创微博客品类，重塑新闻传播与公共讨论的节奏。",
-"aftermath": "Twitter 于2022年被马斯克收购并更名 X；其产品逻辑在中国被饭否（2007）、新浪微博（2009）先后承接。",
-"sources": [
-{
-"title": "维基百科：Twitter",
-"url": "https://zh.wikipedia.org/wiki/Twitter",
-"type": "wiki"
-}
-],
-"tags": [
-"Twitter",
-"微博客",
-"社交媒体"
-]
-},
-{
-"id": "2006-06-21-youku-beta",
-"date": "2006-06-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "优酷网公测：古永锵再创业",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前搜狐总裁古永锵创办合一网络，6月21日优酷网开始公测，年底正式运营。凭借『快者为王』的产品策略和版权采购的胆识，优酷后来居上成为中国视频第一名，『看视频上优酷』一度是大众习惯。",
-"detail": "古永锵于2005年11月创立合一网络技术有限公司，2006年6月21日优酷网启动公测，同年12月21日正式运营。古永锵提出『快者为王』，主打播放速度与用户体验，并在版权剧与自制内容上持续加码。2007年前后中国视频网站大混战，优酷凭借融资能力与产品口碑脱颖而出，与土豆形成双雄对峙，其后更率先冲刺资本市场。",
-"impact": "中国网络视频行业头部格局的奠定者之一。",
-"aftermath": "2010年优酷登陆纽交所，2012年3月12日与土豆换股合并为优酷土豆集团；2016年集团被阿里巴巴全资收购。",
-"sources": [
-{
-"title": "维基百科：优酷",
-"url": "https://zh.wikipedia.org/wiki/优酷",
-"type": "wiki"
-}
-],
-"tags": [
-"优酷",
-"视频",
-"古永锵"
-]
-},
-{
-"id": "2006-07-01-ku6-launch",
-"date": "2006-07-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "酷6网上线试运行",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前搜狐高级副总裁李善友创办的酷6网于2006年7月开始试运行，加入视频网站混战。它以『有钱一起赚』的分成模式吸引草根创作者，并率先搭上盛大这条大船抢下第一个上市名头。",
-"detail": "酷6网由李善友创立，2006年7月上线试运行，是最早入场的中国视频网站之一。酷6以用户创作激励与广告分成模式为卖点，力图在土豆、优酷之间抢出第三极。2010年酷6借盛大旗下的华友世纪曲线登陆纳斯达克，成为中国第一家上市的视频网站，但此后在与版权重投入的竞赛中掉队，业绩持续承压，最终在视频大战中被边缘化。",
-"impact": "视频网站『创作分成』模式的早期试验者，也演示了烧钱大战中小玩家的宿命。",
-"aftermath": "酷6几经转手与转型，2016年后逐渐淡出主流视野，成为视频行业教科书里的注脚。",
-"sources": [
-{
-"title": "维基百科：酷6网",
-"url": "https://zh.wikipedia.org/wiki/酷6网",
-"type": "wiki"
-}
-],
-"tags": [
-"酷6网",
-"视频",
-"李善友"
-]
-},
-{
-"id": "2006-09-01-audition-cn",
-"date": "2006-09-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《劲舞团》国服发行：网吧里的键盘节奏",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "久游网代理的音乐舞蹈游戏《劲舞团》国服发行，方向键加空格敲出的连击和炫丽婚房让无数网吧少年沉迷。它是音乐节奏网游在中国的巅峰，也是『非主流』文化的标配装备。",
-"detail": "《劲舞团》（Audition）为韩国开发的音乐舞蹈网游，由久游网代理在中国大陆运营，2006年9月1日发行。游戏以方向键加空格的按键判定为核心玩法，配合时装、结婚系统形成强社交属性，迅速成为网吧在线人数榜前列的常客，女性玩家比例远高于传统网游。『劲舞团』也由此与『非主流』发型、火星文一起，构成2006至2008年中国网吧文化的标志性图景。",
-"impact": "把音乐节奏玩法和虚拟形象社交做到全民级别，是舞蹈网游品类在中国的顶点。",
-"aftermath": "久游凭借劲舞团一度冲刺上市未果；腾讯后续以 QQ 炫舞承接了同一品类的用户，劲舞团热度在2010年后逐渐消退。",
-"sources": [
-{
-"title": "维基百科：劲舞团",
-"url": "https://zh.wikipedia.org/wiki/劲舞团",
-"type": "wiki"
-}
-],
-"tags": [
-"劲舞团",
-"久游网",
-"网游"
-]
-},
-{
-"id": "2006-09-26-nokia-n95-announce",
-"date": "2006-09-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "诺基亚 N95 发布：『机皇』的最后一舞",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "诺基亚发布 N95：双向滑盖、500万像素、GPS、S60系统，一台手机几乎堆满当年所有尖端配置，被称为塞班时代的『机皇』。它也成了功能机巅峰最后的辉煌——次年 iPhone 面世。",
-"detail": "诺基亚于2006年9月26日公布 N95，2007年3月底在全球发售。双向滑盖造型、500万像素卡尔蔡司镜头、内置 GPS 与音乐播放使其被捧为『全能机皇』，上市价高企仍供不应求，是塞班 S60 时代智能手机工业的代表作。对许多中国消费者来说，N95 就是『最想买而买不起』的那部手机。但就在它上市前后，苹果发布了 iPhone，智能手机的规则被彻底改写。",
-"impact": "功能机/塞班时代手机硬件能力的顶点，也是诺基亚霸权的黄昏注脚。",
-"aftermath": "诺基亚在智能机转型中节节败退，手机业务最终于2013年出售给微软；N95 成为一代人记忆中的『神机』。",
-"sources": [
-{
-"title": "维基百科：诺基亚N95",
-"url": "https://zh.wikipedia.org/wiki/诺基亚N95",
-"type": "wiki"
-}
-],
-"tags": [
-"诺基亚",
-"N95",
-"手机"
-]
-},
-{
-"id": "2006-10-01-xiaonei-oak-acquisition",
-"date": "2006-10-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "千橡收购校内网：SNS 归入陈一舟",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "上线的校园社交新星校内网被千橡互动收购，王兴团队套现离场。陈一舟把校内与自家 5Q 校园网合并，继续在高校扩张，中国最大的实名 SNS 由此成形，王兴则带着团队转身再创业。",
-"detail": "2006年10月，运营仅十个月的校内网被陈一舟的千橡互动收购，王兴、王慧文等创始团队退出。千橡随即将校内网与其旗下的 5Q 校园网合并，凭借资金优势在高校持续推广，校内用户规模迅速做大，并于2009年更名人人网走向全民。对王兴而言，这次出售让他蛰伏再出发——次年创办饭否，此后再创美团，成为中国互联网最重要的连续创业者之一。",
-"impact": "中国 SNS 第一轮洗牌的关键落子，也成就了日后美团创始团队的第一次退出。",
-"aftermath": "人人网2011年赴美上市风光一时，此后急速衰落；陈一舟的千橡则在直播、二手车等赛道反复尝试。",
-"sources": [
-{
-"title": "维基百科：校内网",
-"url": "https://zh.wikipedia.org/wiki/校内网",
-"type": "wiki"
-}
-],
-"tags": [
-"校内网",
-"千橡",
-"王兴",
-"陈一舟"
-]
-},
-{
-"id": "2006-10-01-guichuideng-published",
-"date": "2006-10-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "《鬼吹灯》实体书出版：盗墓小说开山",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "天下霸唱的《鬼吹灯》从天涯论坛走红后推出实体书，胡八一、摸金校尉、粽子成为一代人的暗号。网络连载养出的盗墓题材自此成为中文类型小说最大的金矿之一。",
-"detail": "《鬼吹灯》最初在网络论坛连载并迅速爆红，2006年10月由安徽文艺出版社出版实体书，正式进入大众视野。小说开创的『摸金校尉』体系与倒斗黑话影响了此后一整批网络类型文学，《盗墓笔记》等后来者均在其开创的赛道上发力。网络连载—实体出版—影视改编的变现链条也由这一代网络小说首次完整跑通，作者天下霸唱从此名利双收。",
-"impact": "网络类型文学商业化的里程碑，盗墓题材成为此后二十年影视改编的常青 IP。",
-"aftermath": "《鬼吹灯》《盗墓笔记》系列影视改编不断，从电影到网剧持续产出爆款，也带来了两家版权方多年的授权博弈。",
-"sources": [
-{
-"title": "维基百科：鬼吹灯",
-"url": "https://zh.wikipedia.org/wiki/鬼吹灯",
-"type": "wiki"
-}
-],
-"tags": [
-"鬼吹灯",
-"网络文学",
-"天下霸唱"
-]
-},
-{
-"id": "2006-10-09-google-buys-youtube",
-"date": "2006-10-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google 16.5亿美元收购 YouTube",
-"category": "company",
-"region": "world",
-"milestone": true,
-"summary_30s": "成立不到两年的 YouTube 被 Google 以16.5亿美元股票收购，这笔当时惊人的买卖被质疑『人傻钱多』，后来被证明是互联网史上最划算的收购之一——今天的 YouTube 是全球最大的视频平台。",
-"detail": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube，交易于同年11月13日完成。当时 YouTube 尚未盈利、深陷版权争议，外界普遍认为价格离谱。但 Google 的服务器与广告体系解决了带宽与变现难题，YouTube 与版权方达成收益分成后化敌为友。创始团队陈士骏、贺利身家暴涨，这桩交易也成为 Web 2.0 时代最成功的退出案例，被写进无数创业教材。",
-"impact": "确立『巨头收购平台』的价值锚点，视频分享正式进入巨头主导时代。",
-"aftermath": "YouTube 此后成长为全球最大视频平台；中国市场上，土豆优酷等沿着同一条路烧钱十年，最终由阿里系完成整合。",
-"sources": [
-{
-"title": "维基百科：YouTube",
-"url": "https://zh.wikipedia.org/wiki/YouTube",
-"type": "wiki"
-}
-],
-"tags": [
-"Google",
-"YouTube",
-"收购"
-]
-},
-{
-"id": "2006-11-11-ps3-japan-launch",
-"date": "2006-11-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "PS3 日本首发：蓝光豪赌开局",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "索尼 PS3 在日本率先发售，蓝光光驱与 Cell 处理器让它成本高企、定价高昂。这一代主机战争索尼丢掉了霸主地位，定价亲民的任天堂 Wii 趁虚而入，PS3 前期节节败退。",
-"detail": "PlayStation 3 于2006年11月11日在日本发售，11月17日登陆北美。为推广自家蓝光格式，索尼给 PS3 塞进了昂贵的 Cell 处理器与蓝光光驱，导致首发价高达499/599美元，销量远逊预期，不少玩家转投更便宜好玩的 Wii。PS3 世代前期索尼处境艰难，后期靠《神秘海域》《最后的生还者》等独占大作才逐步翻身，全球销量约8000万台。",
-"impact": "索尼主机霸权由盛转衰的转折点，蓝光阵营则借 PS3 在高清光盘格式之争中笑到最后。",
-"aftermath": "蓝光最终战胜 HD DVD 成为高清光盘标准；PS3 的教训促使索尼在 PS4 时代放下身段重新定价。",
-"sources": [
-{
-"title": "维基百科：PlayStation 3",
-"url": "https://zh.wikipedia.org/wiki/PlayStation_3",
-"type": "wiki"
-}
-],
-"tags": [
-"索尼",
-"PS3",
-"游戏主机"
-]
-},
-{
-"id": "2006-11-19-wii-na-launch",
-"date": "2006-11-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Wii 北美发售：体感游戏破圈",
-"category": "hardware",
-"region": "world",
-"milestone": true,
-"summary_30s": "任天堂 Wii 在北美率先发售，挥动手柄就能打网球。性能垫底却靠体感玩法席卷全球，客厅里不玩游戏的父母和祖辈第一次拿起了手柄，Wii 最终卖出超过一亿台。",
-"detail": "Wii 于2006年11月19日在北美首发，12月2日登陆日本，12月8日登陆欧洲。在索尼微软拼性能的时候，任天堂选择以体感遥控器 Wii Remote 开辟新路，《Wii Sports》《Wii Fit》把家庭主妇、银发族拉进游戏人群，Wii 多次出现全球性缺货，最终累计销量约1.016亿台，帮助任天堂在连续两代主机失利后重回王座，也把『蓝海战略』变成游戏业通用语。",
-"impact": "证明游戏机的胜负手可以不是性能而是交互，『扩大游戏人口』战略大获全胜。",
-"aftermath": "体感热潮后来退潮，但任天堂把『异质思路』延续到 Switch；Wii 的破圈经验被整个行业反复研究。",
-"sources": [
-{
-"title": "维基百科：Wii",
-"url": "https://zh.wikipedia.org/wiki/Wii",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"Wii",
-"体感",
-"游戏主机"
-]
-},
-{
-"id": "2006-11-30-vista-business-launch",
-"date": "2006-11-30",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Windows Vista 企业版发布：五年磨一剑",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "跳票多年的 Windows Vista 面向企业发布（11月8日完成 RTM），2007年1月30日零售版上市。玻璃 Aero 界面惊艳，但硬件要求苛刻、兼容性问题缠身，Vista 成了 Windows 史上最著名的失意版本。",
-"detail": "Windows Vista 于2006年11月8日完成 RTM，2006年11月30日通过批量许可面向企业发布，2007年1月30日正式面向消费者开售。它带来了 Aero 玻璃界面、UAC 安全机制与全新的系统特性，但对内存与显卡要求过高，大量软件与外设驱动不兼容，用户口碑崩塌，企业纷纷选择留在 XP。微软此后以 Windows 7 修复 Vista 留下的烂摊子，花了整整三年。",
-"impact": "XP 因此被用户死守多年，Windows 生命周期管理的教训沿用至今。",
-"aftermath": "2014年微软停止 XP 支持、2017年停止 Vista 主流支持；『大重写之后必有修补版』成为软件业的经典警示。",
-"sources": [
-{
-"title": "维基百科：Windows Vista",
-"url": "https://zh.wikipedia.org/wiki/Windows_Vista",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Windows",
-"操作系统"
-]
-},
-{
-"id": "2007-01-09-iphone-announce",
-"date": "2007-01-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "乔布斯发布 iPhone：重新发明手机",
-"category": "product",
-"region": "world",
-"milestone": true,
-"summary_30s": "Macworld 大会上，乔布斯拿出三种设备合一的产品：宽屏 iPod、革命性手机、突破性上网设备——其实是同一台 iPhone。多点触控干掉了实体键盘，6月29日上市后全世界排队，手机史被拦腰改写。",
-"detail": "2007年1月9日，乔布斯在 Macworld 大会上发布初代 iPhone，把 iPod、手机与互联网设备合而为一，以多点触控屏幕取代实体键盘与触控笔。同年6月29日 iPhone 在美国正式发售，门店排起长队。初代 iPhone 不支持3G、第三方应用最初受限，但其交互范式与后续的 App Store 一起，把手机从通讯工具变成随身电脑。诺基亚、摩托罗拉等旧霸主在随后的五年里相继崩塌。",
-"impact": "智能手机时代的元年，触控交互、App 生态与硬件一体化设计的行业新标准自此确立。",
-"aftermath": "iPhone 此后迭代成苹果最大的收入引擎，App 经济催生数十万开发者与移动创业浪潮；中国手机厂商也沿着这条路径集体崛起。",
-"sources": [
-{
-"title": "维基百科：IPhone（第一代）",
-"url": "https://zh.wikipedia.org/wiki/IPhone_(第一代)",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone",
-"乔布斯",
-"智能手机"
-]
-},
-{
-"id": "2007-05-12-fanfou-launch",
-"date": "2007-05-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "饭否上线：中文微博客的先行者",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "王兴在卖掉校内后创办饭否，把 Twitter 的 140 字模式带入中文世界。它在极客与媒体圈风靡一时，是新浪微博之前中文微博客最重要的一次尝试，王兴的连续创业能力也在此崭露头角。",
-"detail": "2007年5月12日，王兴团队创办的饭否（fanfou.com）上线，是最早的中文微博客服务之一。产品形态与 Twitter 高度相似，聚集了大批互联网从业者、媒体人与段子手，『饭否体』和深夜发吃的传统都诞生于此。饭否证明了短内容在中文语境的生命力，也训练了中国最早的微博客用户群，为后来新浪微博的爆发储备了种子用户。",
-"impact": "中文微博客品类的开创者与用户启蒙者。",
-"aftermath": "饭否2009年中起长期停摆，用户迁往新浪微博；王兴随后全力投入美团，饭否保留小规模社区至今。",
-"sources": [
-{
-"title": "维基百科：饭否",
-"url": "https://zh.wikipedia.org/wiki/饭否",
-"type": "wiki"
-}
-],
-"tags": [
-"饭否",
-"王兴",
-"微博客"
-]
-},
-{
-"id": "2007-05-28-zhuxian-cn-launch",
-"date": "2007-05-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《诛仙》国服运营：仙侠网游顶流",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "完美时空把萧鼎的人气小说《诛仙》搬进网游，2007年4月内测、5月28日大陆正式运营。青云山、碧瑶、张小凡随游戏再火一轮，仙侠网游自此有了自己的『顶流』样板。",
-"detail": "《诛仙》由完美世界开发，改编自萧鼎同名网络小说，2007年4月在大陆开始内测，5月28日正式运营（台湾由游戏新干线于2011年12月21日上线）。游戏以精美的画面引擎还原了小说中的青云门、草庙村与张小凡、碧瑶、陆雪琪的爱恨纠葛，吸引大批原著读者入坑，成为完美时空继《完美世界》之后的又一条收入支柱，并长期运营多个资料片。",
-"impact": "网络小说 IP 改编网游的成功样板，『仙侠』从此成为中国网游的招牌品类。",
-"aftermath": "诛仙 IP 之后延伸出端游续作、手游与影视改编；完美世界借网游收入于2007年7月赴美上市。",
-"sources": [
-{
-"title": "维基百科：诛仙（网络游戏）",
-"url": "https://zh.wikipedia.org/wiki/诛仙_(网络游戏)",
-"type": "wiki"
-}
-],
-"tags": [
-"诛仙",
-"完美时空",
-"仙侠",
-"网游"
-]
-},
-{
-"id": "2007-06-06-acfun-founded",
-"date": "2007-06-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "AcFun（A站）创立：弹幕文化登陆中国",
-"category": "culture",
-"region": "cn",
-"milestone": true,
-"summary_30s": "网名 xilin 的魏军创立 AcFun（A站），以连载动画起家，2008年3月模仿 NICONICO 推出弹幕播放器。『刷弹幕』从此成为中国年轻人看视频的标准姿势，二次元社区的第一块基石就此埋下。",
-"detail": "2007年6月6日，魏军（网名 ACG_xilin）创立 AcFun，最初是个人网站，以连载动画内容为主。2008年3月，AcFun 模仿日本 NICONICO 动画推出弹幕式播放器，评论以字幕形式飘过画面，迅速形成独特的观看仪式与梗文化，『金坷垃』『鬼畜』等亚文化在此发酵。A站与后来的 bilibili 共同培育了中国第一代弹幕用户。约2010年，xilin 以400万元人民币将 AcFun 卖给陈少杰。",
-"impact": "弹幕文化在中国的源头，二次元社区生态的起点。",
-"aftermath": "A站几经易主与经营动荡，最终被快手收购；陈少杰则用从 AcFun 学到的东西做了斗鱼直播。",
-"sources": [
-{
-"title": "维基百科：AcFun",
-"url": "https://zh.wikipedia.org/wiki/AcFun",
-"type": "wiki"
-}
-],
-"tags": [
-"AcFun",
-"弹幕",
-"二次元",
-"A站"
-]
-},
-{
-"id": "2007-07-26-perfectworld-ipo",
-"date": "2007-07-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "完美时空登陆纳斯达克",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "凭借《完美世界》《武林外传》《诛仙》等产品线，池宇峰的完美时空于2007年7月26日在纳斯达克上市。中国网游公司赴美潮中最迅速的一单——成立仅三年。",
-"detail": "完美时空（今完美世界）由池宇峰创办，以自主研发的3D引擎和《完美世界》《诛仙》等仙侠网游迅速做大。2007年7月26日，完美时空在纳斯达克上市，成为中国网游厂商赴美上市潮中的代表案例。上市后公司持续扩张，出海收入可观，《完美世界国际版》在海外多国长期运营，其后更以收购与影视布局打造泛娱乐集团。",
-"impact": "中国游戏公司资本化的又一标杆，验证了自研引擎加仙侠题材的商业模式。",
-"aftermath": "完美世界此后经历私有化再回A区的资本运作，游戏业务持续推出诛仙、完美世界等系列续作。",
-"sources": [
-{
-"title": "维基百科：完美世界（公司）",
-"url": "https://zh.wikipedia.org/wiki/完美世界_(公司)",
-"type": "wiki"
-}
-],
-"tags": [
-"完美世界",
-"完美时空",
-"上市",
-"网游"
-]
-},
-{
-"id": "2007-09-06-tbc-cn-launch",
-"date": "2007-09-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《燃烧的远征》国服上线：外域大门打开",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "魔兽首部资料片《燃烧的远征》在欧美上线八个多月后终于登陆国服，伊利丹『你们这是自寻死路』成为年度梗。国服玩家涌向外域，九城时期的魔兽迎来用户巅峰。",
-"detail": "《魔兽世界》首部资料片《燃烧的远征》于2007年1月16日在欧美上线，国服则于2007年9月6日开启运营。血精灵与德莱尼新种族、飞行坐骑、十人与二十五人副本体系带来玩法升级，国服玩家排队挤爆外域服务器，『你们这是自寻死路』的伊利丹开场CG成为经典梗。魔兽国服在线人数在这一时期达到高点，九城也凭代理费与点卡分成赚得盆满钵满。",
-"impact": "国服魔兽的黄金期注脚，中国大型网游运营规模的里程碑。",
-"aftermath": "下一部资料片《巫妖王之怒》的审批与代理风波，成为2009年魔兽易主事件的导火索。",
-"sources": [
-{
-"title": "维基百科：魔兽世界",
-"url": "https://zh.wikipedia.org/wiki/魔兽世界",
-"type": "wiki"
-}
-],
-"tags": [
-"魔兽世界",
-"燃烧的远征",
-"九城"
-]
-},
-{
-"id": "2007-01-01-kingsoft-ipo",
-"date": "2007-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "金山软件香港上市：求伯君与雷军的二十年长跑",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "写 WPS 起家的金山软件2007年在香港交易所上市（股票代码3888），从 DOS 时代与微软缠斗到挂牌敲锣，这家『中国最老牌软件公司』熬了19年。上市后不久雷军卸任CEO，转身去做天使投资人。",
-"detail": "金山软件以 WPS 办公软件与《剑侠情缘》系列游戏为两大支柱，2007年在香港交易所主板上市。从1988年求伯君写出 WPS，到与微软 Office 正面对抗，再到转型网游找到现金流，金山上市之路走了近二十年，被视为中国本土软件公司的活化石。上市当年雷军逐步卸下CEO职务，此后以天使投资人身份投出 UC、YY 等公司，为日后创办小米蓄力。",
-"impact": "国产基础软件与本土游戏公司资本化的里程碑，也是雷军第一次创业长跑的终点。",
-"aftermath": "金山分拆金山办公、金山云等业务各自上市；雷军2010年创办小米，2011年回归出任金山董事长。",
-"sources": [
-{
-"title": "维基百科：金山软件",
-"url": "https://zh.wikipedia.org/wiki/金山软件",
-"type": "wiki"
-}
-],
-"tags": [
-"金山",
-"WPS",
-"雷军",
-"求伯君"
-]
-},
-{
-"id": "2007-11-01-giant-ipo",
-"date": "2007-11-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "巨人网络纽交所上市：史玉柱的『征途』登顶",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "靠《征途》赚翻的巨人网络于2007年11月1日在纽交所上市，史玉柱从『卖脑白金的』变成身家数百亿的游戏大亨。从巨人大厦烂尾到东山再起，这是中国商界最著名的翻身故事。",
-"detail": "巨人网络由史玉柱于2004年11月18日创办，靠主打有钱人玩家生态的《征途》在免费网游市场异军突起。2007年11月1日，巨人网络在纽约证券交易所上市，市值一度超过42亿美元，史玉柱的个人财富随之暴涨。这是他继巨人集团崩塌、脑白金翻身之后的第三段传奇，《征途》开创的『国战+免费』打法也被行业大量效仿。",
-"impact": "免费网游商业模式的资本化验证，中国网游公司美股上市潮的又一浪。",
-"aftermath": "巨人网络2014年7月18日完成私有化从纽交所退市，后借壳回归A股，转攻手游与金融科技。",
-"sources": [
-{
-"title": "维基百科：巨人网络",
-"url": "https://zh.wikipedia.org/wiki/巨人网络",
-"type": "wiki"
-}
-],
-"tags": [
-"巨人网络",
-"史玉柱",
-"征途",
-"上市"
-]
-},
-{
-"id": "2007-11-01-alibaba-b2b-ipo",
-"date": "2007-11-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "阿里巴巴 B2B 香港上市：募资17亿美元",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2007年11月，阿里巴巴网络有限公司（B2B业务）在香港联交所上市，募资17亿美元，创当时中国互联网公司港股IPO纪录。上市首日股价翻倍，『阿里系』资本版图的第一块拼图挂上了钟。",
-"detail": "阿里巴巴集团旗下的 B2B 业务（阿里巴巴网络有限公司）于2007年11月在香港联合交易所主板上市，集资约17亿美元，上市当日股价大涨，员工与早期投资人收获颇丰，也批量制造了杭州的『千万富翁』级员工。这是阿里巴巴体系第一次整体走向资本市场，为其后淘宝、支付宝的独立融资故事树立了估值参照。",
-"impact": "中国互联网公司港股IPO的标杆，阿里帝国资本运作的起点。",
-"aftermath": "2012年阿里以私有化方式将B2B业务从港交所退市；2014年阿里巴巴集团整体登陆纽交所，创下全球最大IPO纪录。",
-"sources": [
-{
-"title": "维基百科：阿里巴巴网络",
-"url": "https://zh.wikipedia.org/wiki/阿里巴巴网络",
-"type": "wiki"
-}
-],
-"tags": [
-"阿里巴巴",
-"港股",
-"上市",
-"马云"
-]
-},
-{
-"id": "2007-11-05-android-announce",
-"date": "2007-11-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google 发布 Android：开放手机联盟成立",
-"category": "tech",
-"region": "world",
-"milestone": true,
-"summary_30s": "Google 联合数十家厂商成立开放手机联盟（OHA），宣布 Android 开源手机平台。一周后首支官方宣传片亮相，2008年首款 Android 1.0 手机 HTC G1 上市——一场对 iOS 的『人海围剿』正式开始。",
-"detail": "2007年11月5日，Google 宣布基于 Linux 的 Android 平台，并联合高通、摩托罗拉、HTC、中国移动等企业组建开放手机联盟（OHA），系统以 Apache 协议开源，任何厂商可免费使用与定制。2007年11月12日首个公开 Beta SDK 发布；2008年9月23日首个正式版 Android 1.0 随 HTC Dream（T-Mobile G1）面世。开放策略让三星、HTC、华为们迅速跟进，形成与 iOS 平分天下的格局。",
-"impact": "智能手机操作系统的第二极确立，移动互联网的全球普及因此大幅加速。",
-"aftermath": "Android 成为全球市占率第一的手机操作系统；中国手机厂商基于 AOSP 与 GMS 生态之争的故事延续至今。",
-"sources": [
-{
-"title": "维基百科：Android歷史版本",
-"url": "https://zh.wikipedia.org/wiki/Android歷史版本",
-"type": "wiki"
-}
-],
-"tags": [
-"Google",
-"Android",
-"操作系统",
-"智能手机"
-]
-},
-{
-"id": "2007-11-19-kindle-launch",
-"date": "2007-11-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "初代 Kindle 发售：电子书阅读器破局",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "亚马逊以399美元发售初代 Kindle，电子墨水屏加内置3G的『随时买书』体验惊艳，首批存货五个半小时售罄。纸质书的天敌与盟友同时登场，数字阅读自此有了标准形态。",
-"detail": "亚马逊于2007年11月19日发布并开售初代 Kindle，售价399美元。设备采用电子墨水屏，内置免费无线网络，可在任何地方一键购书并60秒内下载，首批库存在五个半小时内售罄，随后长期断货直到2008年4月末才恢复供货。Kindle 证明了电子书不是噱头：亚马逊将硬件、书店与自助出版（KDP）打通，重塑了全球出版业的分发链条。",
-"impact": "电子书市场的引爆点，『买书如点外卖』的阅读体验自此定型。",
-"aftermath": "Kindle 系列迭代十余年并进入中国市场；2023年亚马逊宣布 Kindle 硬件退出中国，电子墨水阅读器市场转向本土品牌。",
-"sources": [
-{
-"title": "维基百科：Amazon Kindle",
-"url": "https://zh.wikipedia.org/wiki/Amazon_Kindle",
-"type": "wiki"
-}
-],
-"tags": [
-"亚马逊",
-"Kindle",
-"电子书"
-]
-},
-{
-"id": "2007-11-02-jay-chou-on-the-run",
-"date": "2007-11-02",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "周杰伦《我很忙》发行：《青花瓷》封神",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "周杰伦第八张国语专辑《我很忙》发行，中国风主打歌《青花瓷》横扫次年第19届金曲奖年度歌曲、最佳作词、最佳作曲三项大奖。『天青色等烟雨』成为华语流行乐古典美学的巅峰注脚。",
-"detail": "2007年11月2日，周杰伦发行第八张国语专辑《我很忙》，收录《牛仔很忙》《彩虹》《青花瓷》《蒲公英的约定》等曲目。方文山作词、周杰伦作曲的《青花瓷》以宋瓷意象写爱情，将中国风推向艺术与流行兼具的高度，次年在第19届金曲奖包揽最佳年度歌曲、最佳作词人奖与最佳作曲人奖。专辑发行时正值数字音乐冲击唱片业，实体销量仍居当年前列，『周杰伦』三个字依旧是销量的保证。",
-"impact": "华语中国风流行乐的巅峰之作，也见证了唱片业黄金时代最后的辉煌。",
-"aftermath": "此后周杰伦逐步转向电影、综艺与巡演，《青花瓷》至今仍是 KTV 与音乐考试的常客。",
-"sources": [
-{
-"title": "维基百科：我很忙",
-"url": "https://zh.wikipedia.org/wiki/我很忙",
-"type": "wiki"
-}
-],
-"tags": [
-"周杰伦",
-"青花瓷",
-"华语流行",
-"金曲奖"
-]
-},
-{
-"id": "2008-02-01-microsoft-yahoo-bid",
-"date": "2008-02-01",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软446亿美元洽购雅虎：一场未遂的豪赌",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软宣布以每股31美元、总额约446亿美元现金加股票收购雅虎，欲在搜索与广告市场合围 Google。雅虎嫌价低拒售，微软5月3日撤回要约。两家『下一个Google』的焦虑症，就此暴露无遗。",
-"detail": "2008年2月1日，微软公开提出以每股31美元、总价约446亿美元收购雅虎。雅虎认为报价低估自身价值，坚持约530亿美元的价格预期，并试图与 Google 展开搜索广告合作作为反制。4月5日微软发出公开信限期三周表态，5月3日正式撤回收购提案。交易告吹后雅虎股价应声下挫，Google 在搜索广告市场的地位则更加稳固，这成为并购史上著名的『两败俱伤』案例。",
-"impact": "互联网巨头第一轮大型并购攻防战，直接催生了雅虎此后十年的拆分与衰亡叙事。",
-"aftermath": "雅虎此后多任CEO无力回天，2016年核心业务贱卖给威瑞森；微软则转身自研 Bing。",
-"sources": [
-{
-"title": "维基百科：雅虎",
-"url": "https://zh.wikipedia.org/wiki/雅虎",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"雅虎",
-"并购"
-]
-},
-{
-"id": "2008-03-01-kaixin001-launch",
-"date": "2008-03-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "开心网上线：白领偷菜时代的开端",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "前新浪高管程炳皓创办的开心网（kaixin001.com）上线，买卖好友、争车位、偷菜小游戏让全国白领上班时间集体『潜水』。短短一年用户破数千万，中国 SNS 迎来最疯狂的一刻。",
-"detail": "开心网由新浪前高管程炳皓于2008年3月创办，以熟人实名社交加轻游戏起家。『朋友买卖』『争车位』让白领们乐此不疲，随后的『偷菜』（开心农场）更是成为全国现象——定闹钟收菜、算计好友成了办公室日常谈资。开心网在几乎没有广告投放的情况下靠口口相传裂变，一年内用户规模跃居中国 SNS 前列，被媒体称作『中国的Facebook』候选。",
-"impact": "把社交网络第一次带进中国办公室人群，轻社交游戏成为 SNS 拉新的标准武器。",
-"aftermath": "千橡抢注 kaixin.com 推出『真假开心网』分流用户，开心网随后疲态尽显，2016年作价数千万卖身；『偷菜』则被 QQ 农场发扬光大。",
-"sources": [
-{
-"title": "维基百科：开心网",
-"url": "https://zh.wikipedia.org/wiki/开心网",
-"type": "wiki"
-}
-],
-"tags": [
-"开心网",
-"SNS",
-"偷菜",
-"程炳皓"
-]
-},
-{
-"id": "2008-04-28-crossfire-cn",
-"date": "2008-04-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《穿越火线》登陆国服：枪战网游全民化",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯代理的韩国枪战网游《穿越火线》（CrossFire）在大陆上线，『Fire in the hole』响彻全国网吧。免费加道具的模式让 CF 迅速登顶，成为后来十年中国FPS品类的绝对霸主。",
-"detail": "《穿越火线》由韩国 Smilegate 开发，2008年4月28日由腾讯引入中国大陆运营。游戏以爆破、团队竞技模式为核心，对机器配置要求亲民，配合免费游玩加会员道具的商业模式，迅速在二三线城市网吧铺开，在线人数长期位居全国网游前列，『运输船』『沙漠灰』成为一代玩家的共同记忆。腾讯凭借 CF 与 DNF 两张王牌，游戏收入曲线陡峭上扬。",
-"impact": "中国 FPS 网游的普及之作，奠定腾讯游戏霸业的核心收入支柱之一。",
-"aftermath": "CF 长盛不衰并衍生手游；韩国原厂 Smilegate 靠中国分成成长为韩国头部游戏公司。",
-"sources": [
-{
-"title": "维基百科：穿越火线",
-"url": "https://zh.wikipedia.org/wiki/穿越火线",
-"type": "wiki"
-}
-],
-"tags": [
-"穿越火线",
-"腾讯",
-"FPS",
-"网游"
-]
-},
-{
-"id": "2008-06-09-iphone-3g",
-"date": "2008-06-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "iPhone 3G 发布：App Store 随行，水货席卷中国",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "WWDC 2008 上乔布斯发布支持3G与 GPS 的 iPhone 3G，199美元的补贴价让iPhone走向大众，7月11日全球开售。国行缺席的日子里，中关村水货与『越狱』生意火爆，中国果粉由此启蒙。",
-"detail": "2008年6月9日，苹果在 WWDC 上发布 iPhone 3G，新增3G网络与 GPS，配合运营商补贴将起售价降到199美元，7月11日在20多个国家和地区开售。iPhone 3G 也是首款搭载 App Store 的 iPhone（随 iPhone OS 2.0 提供），手机从『出厂即定型』变成『越用越强』。由于 iPhone 迟迟未在大陆开售，水货商与越狱刷机服务在中关村生意兴隆，中国第一批 iPhone 用户大多由这一时期启蒙。",
-"impact": "iPhone 从极客玩具走向大众市场，App Store 生态同步起航。",
-"aftermath": "iPhone 3G 全球销量超两千万部；直到2009年10月联通版iPhone 3G才让国行iPhone正式入华。",
-"sources": [
-{
-"title": "维基百科：IPhone 3G",
-"url": "https://zh.wikipedia.org/wiki/IPhone_3G",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"iPhone 3G",
-"水货"
-]
-},
-{
-"id": "2008-06-19-dnf-cn",
-"date": "2008-06-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《地下城与勇士》国服公测：格斗网游之王",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯代理的韩国横版格斗网游 DNF 国服公测，鬼剑士『开无双』、深渊爆粉成为网吧新景观。它与 CF 并称腾讯双核，把腾讯推上中国游戏收入第一的宝座。",
-"detail": "《地下城与勇士》（DNF）由韩国 Neople 开发（后被 NEXON 收购），2008年6月19日由腾讯在中国大陆开启公测。游戏融合街机格斗手感与养成系统，『刷图』『PK场』『深渊』构成核心循环，对低配电脑友好使其在网吧迅速铺开。DNF 与《穿越火线》一道成为腾讯游戏的两大现金牛，其职业体系与梗文化（如『阿拉德大陆』）影响深远。",
-"impact": "横版格斗品类在中国的巅峰之作，腾讯游戏收入登顶的最大功臣之一。",
-"aftermath": "DNF 长寿运营十余年，2020年前后仍屡创单月流水纪录，手游版万众瞩目。",
-"sources": [
-{
-"title": "维基百科：地下城与勇士",
-"url": "https://zh.wikipedia.org/wiki/地下城与勇士",
-"type": "wiki"
-}
-],
-"tags": [
-"DNF",
-"腾讯",
-"格斗网游",
-"Neople"
-]
-},
-{
-"id": "2008-07-10-app-store",
-"date": "2008-07-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "App Store 上线：移动应用经济元年",
-"category": "product",
-"region": "world",
-"milestone": true,
-"summary_30s": "苹果 App Store 上线，首发约500款应用，iPhone 3G 用户可以像逛超市一样给手机装软件。开发者拿七成分成的模式掀起淘金热，『App』自此成为一代人的动词。",
-"detail": "2008年7月10日，苹果 App Store 正式上线，随 iPhone 3G 与 iPhone OS 2.0 体系推出，上线之初提供约500款应用。苹果搭建了完整的开发者协议与支付体系，三七分成让个人开发者也能靠一款小游戏财务自由，《愤怒的小鸟》《植物大战僵尸》等移动爆款由此诞生。Android Market（后来的 Google Play）在三个月后跟进，『应用商店』成为智能手机的标配器官。",
-"impact": "创造了移动应用经济：数百万开发者的职业赛道与数十万亿级生态由此起步。",
-"aftermath": "App 生态催生打车、外卖、短视频等移动互联网大战；苹果抽成模式的争议也延续至今。",
-"sources": [
-{
-"title": "维基百科：App Store (iOS)",
-"url": "https://zh.wikipedia.org/wiki/App_Store_(iOS)",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"App Store",
-"移动应用",
-"开发者"
-]
-},
-{
-"id": "2008-09-02-chrome-launch",
-"date": "2008-09-02",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google Chrome 发布：浏览器大战重启",
-"category": "product",
-"region": "world",
-"milestone": true,
-"summary_30s": "一份提前泄露的38页漫画剧透了 Google 的浏览器：9月2日 Chrome 测试版火速上线。极简界面、V8 引擎、进程隔离，浏览器第一次为『Web 应用』而生。十年后 Chrome 一统江湖。",
-"detail": "2008年9月1日，Scott McCloud 绘制的38页宣传漫画提前流出，Google 顺势在9月2日发布 Chrome 测试版（Windows）。Chrome 主打极速 V8 JavaScript 引擎、独立标签页进程与极简界面，把浏览器从『看网页的窗口』重新定义为『运行 Web 应用的操作系统』。此后 Chrome 凭借快速迭代与 WebKit/Blink 生态逐步吞噬 IE、Firefox 的份额。",
-"impact": "浏览器性能战与标准战的分水岭，Web 技术由此进入重应用时代。",
-"aftermath": "Chrome 后来占据全球浏览器份额七成左右，成为 Google 搜索与广告体系的入口堡垒。",
-"sources": [
-{
-"title": "维基百科：Google Chrome",
-"url": "https://zh.wikipedia.org/wiki/Google_Chrome",
-"type": "wiki"
-}
-],
-"tags": [
-"Google",
-"Chrome",
-"浏览器"
-]
-},
-{
-"id": "2008-09-15-lehman-collapse",
-"date": "2008-09-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雷曼兄弟破产：互联网寒冬的前奏",
-"category": "company",
-"region": "world",
-"milestone": true,
-"summary_30s": "拥有158年历史的投行雷曼兄弟申请破产保护，全球金融危机总爆发。风险投资瞬间捂紧钱包，刚刚过冬的互联网公司再度感到寒意，但也逼出了移动互联网这一轮新周期。",
-"detail": "2008年9月15日，美国第四大投行雷曼兄弟（Lehman Brothers）正式申请破产保护，成为此次金融危机的标志性事件，全球资本市场陷入恐慌，融资环境急冻。对科技行业而言，这轮寒冬冲击了尚未盈利的创业公司，却也加速了资本向『现金牛』与新模式聚集；iPhone 与 Android 带来的移动互联网机会，恰在此后数年成长为最大的一波创业红利。",
-"impact": "全球风险投资周期性收缩的节点，也间接塑造了此后移动互联网创业潮的资金流向。",
-"aftermath": "各国央行开启量化宽松时代，廉价资本在数年后回流科技业，成就了移动互联网十年的爆发。",
-"sources": [
-{
-"title": "Wikipedia: Lehman Brothers",
-"url": "https://en.wikipedia.org/wiki/Lehman_Brothers",
-"type": "wiki"
-}
-],
-"tags": [
-"雷曼兄弟",
-"金融危机",
-"风险投资"
-]
-},
-{
-"id": "2008-09-23-tmobile-g1",
-"date": "2008-09-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "首款 Android 手机 T-Mobile G1 发售",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "HTC 代工的 T-Mobile G1 带着侧滑全键盘开卖，它是全球第一部 Android 手机，预装 Gmail、地图与 Android Market。丑是丑了点，但安卓帝国的第一块砖就此砌下。",
-"detail": "T-Mobile G1（即 HTC Dream）于2008年9月23日在美国发售，是全球首款采用 Google Android 系统的智能手机。设备由 HTC 制造，配备侧滑式 QWERTY 键盘与触摸屏，预装 Gmail、Google 地图、YouTube 与应用商店 Android Market。尽管外形在今日看来笨拙，G1 验证了开源联盟路线的可行性，此后摩托罗拉、三星、HTC 等厂商的安卓机潮水般涌出。",
-"impact": "Android 生态的起点，与 iPhone 形成智能手机双寡头的另一极。",
-"aftermath": "HTC 凭安卓浪潮一度登顶美国市场；Android 最终拿下全球大部分智能手机份额。",
-"sources": [
-{
-"title": "维基百科：HTC Dream",
-"url": "https://zh.wikipedia.org/wiki/HTC_Dream",
-"type": "wiki"
-}
-],
-"tags": [
-"HTC",
-"Android",
-"G1",
-"智能手机"
-]
-},
-{
-"id": "2008-10-31-bitcoin-whitepaper",
-"date": "2008-10-31",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "中本聪发布比特币白皮书",
-"category": "internet",
-"region": "world",
-"milestone": true,
-"summary_30s": "一个署名 Satoshi Nakamoto 的神秘人物在密码学邮件列表贴出《比特币：一种点对点的电子现金系统》，九页论文描述了无需中间人的数字货币。2009年1月创世区块挖出，加密货币时代开启。",
-"detail": "2008年10月31日，化名中本聪（Satoshi Nakamoto）的作者发布比特币白皮书《Bitcoin: A Peer-to-Peer Electronic Cash System》，提出用区块链与工作量证明解决双花问题，让点对点电子现金无需信任第三方即可运转。2009年1月比特币网络创世区块被挖出，此后一个年产千万个『数字货币富翁』与无数争议的行业从这九页纸生长出来。",
-"impact": "区块链技术的起点，数字货币从极客实验演变为影响全球金融的产业。",
-"aftermath": "比特币历经暴涨暴跌与各国监管博弈，区块链概念则在2010年代后期席卷科技与金融业。",
-"sources": [
-{
-"title": "维基百科：比特币",
-"url": "https://zh.wikipedia.org/wiki/比特币",
-"type": "wiki"
-}
-],
-"tags": [
-"比特币",
-"中本聪",
-"区块链"
-]
-},
-{
-"id": "2008-11-01-happy-farm-xiaonei",
-"date": "2008-11-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "『开心农场』登陆校内网：全民偷菜前夜",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "『五分钟』公司开发的社交游戏《开心农场》在校内网上线，种菜偷菜玩法迅速风靡校园，随后横扫白领圈。一款小游戏改写了中国社交网络的用户习惯，也让 SNS 平台看清了轻游戏的价值。",
-"detail": "《开心农场》由『五分钟』团队开发，2008年11月率先在校内网上线。玩家种菜、施肥、去好友地里偷菜，简单的互动精准戳中熟人社交的攀比与亲近心理，用户数据呈病毒式增长。随后游戏移植到 QQ 平台（2009年4月上线，2009年8月腾讯将其改名为《QQ农场》），偷菜热潮彻底席卷全民，定闹钟收菜成为一代人的集体行为艺术。",
-"impact": "中国第一款现象级社交游戏，验证了『轻游戏+关系链』的爆发力。",
-"aftermath": "『五分钟』未能守住先发优势，腾讯凭借 QQ 农场收走最大红利，社交游戏的平台博弈自此写进教科书。",
-"sources": [
-{
-"title": "维基百科：开心农场",
-"url": "https://zh.wikipedia.org/wiki/开心农场",
-"type": "wiki"
-}
-],
-"tags": [
-"开心农场",
-"偷菜",
-"社交游戏",
-"校内网"
-]
-},
-{
-"id": "2008-11-13-wotlk-launch",
-"date": "2008-11-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《巫妖王之怒》欧美上线：魔兽巅峰资料片",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "《魔兽世界》第二部资料片《巫妖王之怒》在北美、欧洲上线，首日销量280万份，创下当时 PC 游戏24小时销售最快纪录。阿尔萨斯的故事线让无数玩家把『窝窝头』封为最伟大的资料片。",
-"detail": "2008年11月13日，《魔兽世界：巫妖王之怒》在欧美上线，玩家进军诺森德挑战巫妖王阿尔萨斯。首日销量280万份，刷新 PC 游戏24小时内销售纪录。死亡骑士英雄职业、成就系统与史诗级的冰冠堡垒终局战让这一资料片被广泛视为魔兽系列的巅峰。而国服玩家还在为『WLK』的上线时间苦苦等待，由此催生的『巫妖王之怒开服了吗』成为持续两年的网络梗。",
-"impact": "《魔兽世界》全球订阅用户推向峰值（约1200万），MMORPG 的黄金顶点。",
-"aftermath": "国服 WLK 因代理易主迟迟未至，2010年8月31日才姗姗来迟；此后魔兽订阅数逐步回落。",
-"sources": [
-{
-"title": "维基百科：魔兽世界：巫妖王之怒",
-"url": "https://zh.wikipedia.org/wiki/魔兽世界：巫妖王之怒",
-"type": "wiki"
-}
-],
-"tags": [
-"魔兽世界",
-"巫妖王之怒",
-"暴雪"
-]
-},
-{
-"id": "2008-01-01-shanzhai-culture",
-"date": "2008-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "山寨机大爆发：深圳华强北的野生创新",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "联发科『交钥匙』方案催生的山寨机在深圳华强北井喷：大喇叭、双卡双待、跑马灯，什么火仿什么，什么便宜造什么。2008年『山寨』一词全民走红，从手机蔓延到一切流行文化。",
-"detail": "依托联发科（MTK）提供的整套手机芯片解决方案，深圳华强北的山寨厂商把造手机的成本降到极致，大喇叭、双卡双待、超长待机、跑马灯外壳成为标志元素，部分机型比品牌机更早装上安卓系统试水。2008年前后『山寨』从深圳电子市场词汇升格为全民流行语，山寨手机大量出口亚非拉，成为全球下沉市场的隐形冠军。",
-"impact": "中国电子制造业草根创新力的集中展示，也是国产手机供应链能力的练兵场。",
-"aftermath": "品牌智能机降价后山寨机迅速退潮，但华强北出身的供应链人才与经验，成为此后小米、传音等国产手机崛起的地基。",
-"sources": [
-{
-"title": "维基百科：山寨文化",
-"url": "https://zh.wikipedia.org/wiki/山寨文化",
-"type": "wiki"
-}
-],
-"tags": [
-"山寨机",
-"华强北",
-"联发科",
-"手机"
-]
-}
+ {
+  "id": "2005-02-14-youtube-founded",
+  "date": "2005-02-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "YouTube 成立：视频分享时代开启",
+  "category": "company",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "三名前 PayPal 员工查德·贺利、陈士骏、贾德·卡林姆在情人节这天注册了 YouTube。4月23日网站传上第一条视频《我在动物园》，一个『人人都能上传视频』的时代就此开始，整个互联网的内容形态被改写。",
+  "detail": "YouTube 由查德·贺利（Chad Hurley）、陈士骏（Steve Chen）、贾德·卡林姆（Jawed Karim）于2005年2月14日创立，三人皆是 PayPal 早期员工。2005年4月23日，卡林姆上传了网站第一条视频《我在动物园》；同年5月网站开放公测，约六个月后转为正式版本。『上传、分享、嵌入』的极简流程让普通网民第一次可以轻松发布视频，网站的 Flash 播放器嵌入代码迅速扩散到各类博客与论坛。",
+  "impact": "确立了 UGC 视频平台的标准形态，视频成为互联网第一大内容品类。",
+  "aftermath": "2006年10月 Google 宣布以16.5亿美元收购 YouTube；此后 YouTube 长期占据全球视频网站头把交椅，其模式在中国被土豆、优酷等网站复制。",
+  "sources": [
+   {
+    "title": "维基百科：YouTube",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "YouTube",
+   "视频",
+   "Web2.0"
+  ]
+ },
+ {
+  "id": "2005-03-06-douban-launch",
+  "date": "2005-03-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "豆瓣上线",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "程序员杨勃（阿北）在北京豆瓣胡同附近的星巴克里敲出的读书网站正式上线，后扩展到电影、音乐。没有大公司背景、靠书影音『标记与评论』起家，豆瓣成了中国文艺青年的精神角落，也是 Web 2.0 在中国的代表作品。",
+  "detail": "2005年3月6日，杨勃（网名『阿北』）创立的豆瓣网上线，网站以他居住的豆瓣胡同命名，初期以图书评价为核心，随后扩展出电影、音乐条目与『想读/在读/读过』等标记体系。创办资金来自朋友的近二十万元集资，杨勃曾在上海徐家汇的星巴克咖啡馆里写了数月代码。小组、日记等功能上线后，豆瓣逐渐从工具网站演化为兴趣社区，『豆瓣小组』『豆瓣评分』成为中文互联网的独特景观。",
+  "impact": "开创了中文互联网以兴趣聚合、以口碑评分驱动的内容社区模式。",
+  "aftermath": "2006年豆瓣获得 IDGVC 天使投资；其评分体系日后成为中国影视、图书行业无法忽视的口碑风向标，也屡屡因评分争议站上风口浪尖。",
+  "sources": [
+   {
+    "title": "维基百科：豆瓣",
+    "url": "https://zh.wikipedia.org/wiki/豆瓣",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：杨勃",
+    "url": "https://zh.wikipedia.org/wiki/杨勃",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "豆瓣",
+   "Web2.0",
+   "书影音"
+  ]
+ },
+ {
+  "id": "2005-04-15-tudou-launch",
+  "date": "2005-04-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "土豆网上线：中国第一家视频网站",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "王微在 上海创办土豆网（最初域名 toodou.com），上线时间比 YouTube 正式公开还早，口号是『每个人都是生活的导演』。中国网民第一次有了属于自己的视频发布平台，中国视频行业的『土豆时代』拉开帷幕。",
+  "detail": "土豆网由王微（Gary Wang）与马克·范德齐斯（Marc van der Chijs）创立，公司于2005年2月15日注册，网站于2005年4月15日正式上线，最初使用 toodou.com 域名，后更为 tudou.com。它是中国最早的 UGC 视频分享网站之一，上线甚至早于 YouTube 正式走向公众。『每个人都是生活的导演』这一口号广为流传，播客（Podcast）、原创短片、网友自拍由此获得中文互联网的主舞台。",
+  "impact": "中国视频分享行业的起点，催生了此后十年的网络视频大战。",
+  "aftermath": "土豆先后获多轮融资并于2011年登陆纳斯达克；2012年3月12日与老对手优酷以换股方式合并为优酷土豆集团，2016年该集团被阿里巴巴全资收购。",
+  "sources": [
+   {
+    "title": "维基百科：土豆网",
+    "url": "https://zh.wikipedia.org/wiki/土豆网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "土豆网",
+   "视频",
+   "王微"
+  ]
+ },
+ {
+  "id": "2005-04-01-56com-launch",
+  "date": "2005-04-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "56网（我乐网）上线",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "前网易员工周娟创办的 56网（56.com）上线，与土豆网同期加入中国视频分享赛道。『我乐』主打用户上传与娱乐分享，与土豆、优酷、酷6并称中国视频网站早期『四大玩家』。",
+  "detail": "56网于2005年4月上线，创始人为前网易员工周娟，是中文互联网最早一批视频分享网站之一。网站以用户原创与娱乐内容为主，社区氛围活跃，巅峰期与土豆网、优酷网、酷6网并列为中国视频行业的代表性玩家。2011年9月27日，人人公司宣布以8000万美元全资收购56网，它成为少数『卖身』成功的早期视频网站。",
+  "impact": "中国视频分享赛道最早的一批入场者之一，见证了 UGC 视频从兴起到整合的完整周期。",
+  "aftermath": "被人人收购后转型会员付费与直播尝试，2017年后业务逐步收缩，成为视频行业第一批被遗忘的名字。",
+  "sources": [
+   {
+    "title": "维基百科：56网",
+    "url": "https://zh.wikipedia.org/wiki/56网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "56网",
+   "视频"
+  ]
+ },
+ {
+  "id": "2005-06-06-qzone-launch",
+  "date": "2005-06-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "QQ空间上线：亿级用户的个人主页",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "腾讯推出 QQ空间（Qzone），让每个 QQ 用户都有了可以装扮的『小窝』：换皮肤、写日志、养宠物、踩空间。它把博客做成了全民娱乐品，『非主流』火星文相册和黄钻会员成为中国一代网民的集体记忆。",
+  "detail": "QQ空间于2005年4月以『空间小窝』名义内测，2005年6月6日正式上线。依托 QQ 庞大的用户底盘，QQ空间以花哨的页面装扮、日志、相册、音乐盒为核心，通过黄钻、道具等增值服务变现。2007年其单月活跃用户超过1亿，2008年腾讯宣布单月活跃用户超1亿、单日流量超10亿，QQ空间成为全球用户量最大的社交网络产品之一。",
+  "impact": "把『个人主页/博客』第一次送到数亿普通中国网民手里，也为腾讯验证了虚拟增值服务的印钞能力。",
+  "aftermath": "QQ空间长期稳居中文社交网络头部；随着用户向移动互联网迁移，2014年底 wap 版逐步异常，产品最终在移动时代逐渐边缘化。",
+  "sources": [
+   {
+    "title": "维基百科：QQ空间",
+    "url": "https://zh.wikipedia.org/wiki/QQ空间",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "QQ空间",
+   "社交网络"
+  ]
+ },
+ {
+  "id": "2005-06-06-wow-cn-launch",
+  "date": "2005-06-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《魔兽世界》国服开服：一代人的艾泽拉斯",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "暴雪旗舰网游《魔兽世界》由第九城市代理在大陆开服，『为了部落』响彻网吧。点卡月卡制、大型副本和阵营对抗重新定义了中国人对网络游戏的想象，也把网吧生意推上顶峰。网吧生意随之水涨船高。",
+  "detail": "2005年6月6日，第九城市代理运营的《魔兽世界》中国大陆服务器开启运营，玩家涌入艾泽拉斯大陆。凭借暴雪精良的世界观与副本设计，加上此前《魔兽争霸3》积累的群众基础，魔兽迅速成为中国网吧的主流游戏，公会、开荒、四十人副本（MC、BWL）成为流行语。九城靠魔兽一役跻身网游大厂，2005年12月纳斯达克上市。此后资料片接力：『燃烧的远征』2007年9月6日国服上线，『巫妖王之怒』前夕2008年12月8日先行开放。",
+  "impact": "把中国网游从『练级打怪』带入大型多人世界观时代，塑造了整整一代玩家的网游审美。",
+  "aftermath": "2009年4月代理权易主网易引发行业地震；魔兽国服此后历经多次停服与重启，2023年1月一度停运，2024年8月回归。",
+  "sources": [
+   {
+    "title": "维基百科：魔兽世界",
+    "url": "https://zh.wikipedia.org/wiki/魔兽世界",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "魔兽世界",
+   "第九城市",
+   "暴雪",
+   "网游"
+  ]
+ },
+ {
+  "id": "2005-08-05-baidu-ipo",
+  "date": "2005-08-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "百度纳斯达克上市：首日暴涨354%",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "百度以每股27美元登陆纳斯达克，当天收盘122.54美元，涨幅353.85%，创下当时美股IPO首日涨幅纪录，堪比互联网泡沫巅峰。『中国的Google』概念点燃华尔街，中文互联网公司的价值被全球重新定价。",
+  "detail": "2005年8月5日，百度在美国纳斯达克上市，发行价27美元。开盘即大涨，收盘报122.54美元，首日涨幅353.85%，成为Google上市以来美国股市表现最强劲的IPO之一。上市当天百度员工与李彦宏在纳斯达克敲钟的画面传回国内，成为中国互联网创业的标志性时刻。充裕的资金让百度在此后与 Google 中国的搜索大战中弹药充足。",
+  "impact": "确立了中国互联网公司的全球资本市场地位，直接刺激了此后数年中国概念股赴美上市潮。",
+  "aftermath": "百度借势巩固中文搜索霸主地位，与腾讯、阿里并称 BAT；此后故事还包括O2O、AI 转型与『魏则西事件』后的舆论危机。",
+  "sources": [
+   {
+    "title": "维基百科：百度",
+    "url": "https://zh.wikipedia.org/wiki/百度",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "百度",
+   "上市",
+   "纳斯达克",
+   "李彦宏"
+  ]
+ },
+ {
+  "id": "2005-08-11-yahoo-alibaba-deal",
+  "date": "2005-08-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "雅虎10亿美元入股阿里巴巴，雅虎中国并入",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "雅虎宣布以10亿美元现金加上雅虎中国全部业务，换取阿里巴巴约40%股份。这是当时中国互联网史上最大交易，马云用『雅虎中国』换来弹药与时间，也为日后阿里系与雅虎、软银的资本故事埋下伏笔。",
+  "detail": "2005年8月11日，雅虎与阿里巴巴达成交易：雅虎支付10亿美元，并获得阿里巴巴约40%股权，雅虎中国的门户、搜索与3721等业务整体并入阿里巴巴。《纽约时报》当时以『雅虎花10亿美元换阿里巴巴40%股份』报道此事。马云借交易获得了搜索引擎技术与巨额资金，雅虎则押注中国电商。交易附带的关键条款（2010年起雅虎投票权变化）日后成为双方长期博弈的焦点。",
+  "impact": "中国互联网史上标志性并购，重塑了阿里、雅虎与软银三方格局，也奠定了淘宝打赢 eBay 中国之战的资本基础。",
+  "aftermath": "阿里后来逐步回购雅虎股份；雅虎本身2017年被威瑞森收购核心业务，而这笔投资成为雅虎残值中最值钱的部分。",
+  "sources": [
+   {
+    "title": "维基百科：阿里巴巴集团",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿里巴巴",
+   "雅虎",
+   "马云",
+   "并购"
+  ]
+ },
+ {
+  "id": "2005-08-27-super-girl-final",
+  "date": "2005-08-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "超级女声总决赛：短信票选出的全民偶像",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "湖南卫视《2005超级女声》总决赛之夜，李宇春以352万短信票夺冠，周笔畅、张靓颖分列二三。『玉米』『笔亲』大规模拉票让电视选秀第一次与互联网动员深度结合，收视率达11.65，成为现象级全民事件。",
+  "detail": "2005年8月27日，《超级女声》三进一总决赛举行，李宇春以3528308票夺冠，亚军周笔畅、季军张靓颖，该场收视率达11.65、收视份额29.54%。观众通过手机短信投票决定选手去留，粉丝在贴吧、QQ群、论坛里组织拉票，『PK』『玉米』等词一夜之间成为大众词汇。这是中国电视选秀的巅峰之作，也是传统媒体与网络社群力量第一次大规模合流。",
+  "impact": "开创了『全民投票选秀』模式，粉丝文化与网络动员自此进入主流视野。",
+  "aftermath": "选秀节目此后遍地开花；李宇春登上《时代》周刊亚洲版封面，张靓颖走向国际舞台，而短信投票模式后来被监管叫停。",
+  "sources": [
+   {
+    "title": "维基百科：2005年超级女声",
+    "url": "https://zh.wikipedia.org/wiki/2005年超级女声",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "超级女声",
+   "选秀",
+   "李宇春",
+   "湖南卫视"
+  ]
+ },
+ {
+  "id": "2005-11-22-xbox360-launch",
+  "date": "2005-11-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Xbox 360 发售：主机大战进入高清时代",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "微软率先打响第七世代主机战争：11月22日 Xbox 360 在北美发售，随后登陆欧洲、日本。它比索尼 PS3 早上市近一年抢得先机，《光环》《战争机器》等大作让『盒子』第一次在欧美市场真正站稳。",
+  "detail": "Xbox 360 于2005年5月E3前首次曝光，11月22日在北美首发，12月2日登陆欧洲，12月10日进入日本，港台市场则要到2006年3月16日。作为最早上市的高清世代主机，Xbox 360 以 Xbox Live 在线服务与成就系统重新定义了主机联网体验，《光环3》《战争机器》系列成为一代人的记忆。在中国大陆，它经由非正规渠道进入玩家手中，2005年前后正是国内主机玩家圈快速扩张的时期。",
+  "impact": "第七世代主机战争的发令枪，微软首次在主机市场取得对索尼的先发优势。",
+  "aftermath": "Xbox 360 全球销量超8000万台；但其『三红』硬件故障也成为游戏史著名的质量事故，微软为此付出逾10亿美元延保成本。",
+  "sources": [
+   {
+    "title": "维基百科：Xbox 360",
+    "url": "https://zh.wikipedia.org/wiki/Xbox_360",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Xbox",
+   "游戏主机"
+  ]
+ },
+ {
+  "id": "2005-05-01-lenovo-ibm-pc",
+  "date": "2005-05-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "联想完成收购 IBM PC：『蛇吞象』交割",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "2004年12月宣布的联想收购 IBM 个人电脑业务在这一天正式完成交割：12.5亿美元现金加股票，把 ThinkPad 这个『笔记本里的劳斯莱斯』收入囊中。一家中国公司一夜之间跃居全球第三大 PC 厂商。",
+  "detail": "联想集团以6.5亿美元现金加6亿美元股票（另有债务承担，合计约12.5亿美元对价，不含桌面硬盘业务）收购 IBM 全球台式机与笔记本业务，2004年12月宣布、2005年5月1日完成交割。Think 品牌与 IBM 的企业客户渠道整体并入新联想，公司总部设双址、英文为官方语言，杨元庆出任董事长。这笔交易被媒体称为『蛇吞象』，是中国制造业全球化最著名的案例之一。",
+  "impact": "中国科技公司首次完成世界级的巨型跨国并购，联想自此跻身全球 PC 市场第一梯队。",
+  "aftermath": "整合初期的文化冲突与利润下滑曾饱受质疑，但联想最终在2013年登顶全球 PC 出货量第一，并延续多年。",
+  "sources": [
+   {
+    "title": "维基百科：联想集团",
+    "url": "https://zh.wikipedia.org/wiki/联想集团",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "联想",
+   "IBM",
+   "ThinkPad",
+   "并购"
+  ]
+ },
+ {
+  "id": "2005-11-28-shanda-free-mmorpg",
+  "date": "2005-11-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "盛大宣布《传奇》《梦幻国度》永久免费",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "盛大网络突然宣布《梦幻国度》《传奇》等王牌游戏永久免费，靠卖装备和增值服务赚钱的『免费模式』自此席卷中国网游业。免费游戏收入不降反升，人均消费从每季度约30元涨到55元。",
+  "detail": "2005年11月28日、29日，盛大网络先后宣布《梦幻国度》与《传奇》永久免费运营，几天后《传奇世界》跟进。此前中国网游主要靠点卡计时收费，盛大此举等于亲手废掉自己最大的一棵摇钱树。免费后玩家基数迅速扩大，人均季度消费从一季度的约30元提升至四季度的约55元，盛大用数据证明了『免费+道具付费』的商业模型，随后其他网游公司纷纷跟进。",
+  "impact": "中国网游商业模式的历史转折点，『免费游戏、道具收费』成为此后二十年行业主流。",
+  "aftermath": "道具付费模式催生了人民币玩家文化与『氪金』生态，也为后来的手游免费内购模式提供了模板。",
+  "sources": [
+   {
+    "title": "维基百科：盛大网络",
+    "url": "https://zh.wikipedia.org/wiki/盛大网络",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "盛大",
+   "免费模式",
+   "网游",
+   "陈天桥"
+  ]
+ },
+ {
+  "id": "2005-12-01-blog-queen-xu-jinglei",
+  "date": "2005-12-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "博客元年：新浪名人博客与『博客女王』徐静蕾",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2005年被称为中国『博客元年』，新浪强力推动名人博客，年底徐静蕾开博后访问量一路飙升，最终登顶全球博客点击排名，被称『博客女王』。明星写日记，网民来围观，博客从极客玩具变成大众媒体。",
+  "detail": "2005年，博客服务在中国全面爆发，新浪、搜狐等门户先后重兵投入，新浪以拉明星开博的策略迅速起量。演员徐静蕾于2005年底开设博客『老徐』，记录日常琐事的文字意外走红，访问量一度排名全球第一；到2007年7月，其博客开博620天点击量突破一亿。名人效应带动普通网民蜂拥开设博客，书写与阅读门槛被前所未有地拉低。",
+  "impact": "博客成为第一代全民自媒体，为后来的微博、公众号时代完成了用户启蒙。",
+  "aftermath": "独立博客与 BSP 在2010年后迅速让位于微博与微信，但『人人都有话筒』的媒介逻辑从此确立。",
+  "sources": [
+   {
+    "title": "维基百科：徐静蕾",
+    "url": "https://zh.wikipedia.org/wiki/徐静蕾",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "博客",
+   "新浪",
+   "徐静蕾",
+   "Web2.0"
+  ]
+ },
+ {
+  "id": "2005-12-08-xiaonei-founded",
+  "date": "2005-12-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "校内网上线：中国大学生的 Facebook 时刻",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "王兴与清华、天大的几位同学创办校内网（xiaonei.com），克隆 Facebook 的实名制校园社交模式，靠『凑人头找同学』在高校病毒式扩散。中国 SNS 大战的第一声枪响，来自这间民宅里的创业团队。",
+  "detail": "2005年12月8日，王兴、王慧文、赖斌强、唐阳等人创办校内网，模仿 Facebook 以高校为切入点做实名社交。产品依靠学生间的口口相传与线下推广在大学校园迅速铺开，『上校内』一度成为大学生标配。2006年10月，校内网被千橡互动收购；2009年8月4日官方宣布更名为『人人网』，8月14日启用新域名 renren.com，从校园走向全民。",
+  "impact": "把实名制社交网络第一次带到中国大学生群体，培养了最早一批 SNS 用户习惯。",
+  "aftermath": "人人网2011年风光赴美上市后迅速衰落；王兴则带着同一批团队转身做了饭否与美团。",
+  "sources": [
+   {
+    "title": "维基百科：校内网",
+    "url": "https://zh.wikipedia.org/wiki/校内网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "校内网",
+   "人人网",
+   "王兴",
+   "SNS"
+  ]
+ },
+ {
+  "id": "2005-08-03-pleasant-goat-debut",
+  "date": "2005-08-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《喜羊羊与灰太狼》首播",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "国产动画《喜羊羊与灰太狼》开播，狼抓羊的简单设定和密集笑点精准击中低龄观众，此后十多年陪伴了几代中国孩子的暑假。『灰太狼』『喜羊羊』成为国产动画商业化的最大 IP 之一。",
+  "detail": "2005年8月3日，由广东原创动力制作的《喜羊羊与灰太狼》首播。剧集以青青草原上狼与羊的攻防战为主线，制作成本不高却因节奏明快、角色讨喜而在电视台反复重播，积累起惊人的国民度。围绕动画推出的电影、玩具、授权商品构成了完整的商业链条，2009年首部大电影《牛气冲天》以小成本斩获过亿票房，验证了国产动画电影的变现能力。",
+  "impact": "国产低龄动画商业化的标杆案例，『喜羊羊』一度成为国产动画的代名词。",
+  "aftermath": "系列持续推出新作与大电影；2013年后随着《熊出没》等竞争者崛起，喜羊羊热度逐步让出头部位置。",
+  "sources": [
+   {
+    "title": "维基百科：喜羊羊与灰太狼",
+    "url": "https://zh.wikipedia.org/wiki/喜羊羊与灰太狼",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "喜羊羊",
+   "国产动画",
+   "IP"
+  ]
+ },
+ {
+  "id": "2006-01-02-wulinwaizhuan-premiere",
+  "date": "2006-01-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《武林外传》央视首播：网感喜剧的开山之作",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2006年1月2日，《武林外传》在央视八套首播。客栈里的古装情景喜剧把当代网络流行语揉进对白，『排山倒海』『额滴神啊』风靡一时。它成为中文情景喜剧的巅峰之一，也是网络语言登陆主流电视的标志。",
+  "detail": "《武林外传》由尚敬执导，2006年1月2日在中央电视台电视剧频道（央视八套）首播。该剧以同福客栈为舞台，把武侠外壳与当代职场、网络文化嫁接，台词中大量化用论坛热词与流行梗，形成独特的『网感』。首播后从口碑平平到反复重播逆袭，佟湘玉、白展堂等角色成为经典形象，剧中笑点至今仍在短视频平台被反复引用。",
+  "impact": "证明了网络亚文化语言可以反向征服主流电视，中文情景喜剧自此多了一座高峰。",
+  "aftermath": "宁财神、姚晨、闫妮、沙溢等主创此后各奔前程；大电影与衍生剧集屡屡试水，但均难以复制剧版的口碑。",
+  "sources": [
+   {
+    "title": "维基百科：武林外传（电视剧）",
+    "url": "https://zh.wikipedia.org/wiki/武林外传_(电视剧)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "武林外传",
+   "情景喜剧",
+   "央视"
+  ]
+ },
+ {
+  "id": "2006-01-26-google-cn-launch",
+  "date": "2006-01-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Google 启用 google.cn，正式落子中国",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "Google 推出中国版网站 google.cn，正式以本土化域名服务中国用户；同年11月24日谷歌中国公司在北京注册成立。全球搜索巨头与百度在中国正面开战，中文搜索进入双雄时代。",
+  "detail": "2006年1月26日，Google 推出 google.cn 中国版网站，这是 Google 进入中国市场的关键商业动作；2006年11月24日，谷歌（中国）公司在北京注册成立。谷歌中国随后推出本地化产品与招聘攻势，在高校大举吸纳工程师。此前百度已于纳斯达克上市、用户基数庞大，中文搜索市场的双雄格局就此成形，这场竞争一直延续到2010年 Google 调整中国业务为止。",
+  "impact": "中文搜索进入百度与 Google 正面竞争的时代，中国互联网人才薪酬与工程文化被大幅抬高。",
+  "aftermath": "2010年 Google 调整中国业务后，百度在搜索市场份额一路扩大，谷歌中国收缩为广告与开发者业务。",
+  "sources": [
+   {
+    "title": "维基百科：谷歌中国",
+    "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Google",
+   "谷歌中国",
+   "搜索"
+  ]
+ },
+ {
+  "id": "2006-03-02-ds-lite-japan",
+  "date": "2006-03-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NDS Lite 发售：掌机『破圈』之作",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "任天堂 DS Lite 在日本发售，更轻更亮的双屏掌机迅速卖到断货。『脑锻炼』『任天狗』把大量女性和中老年玩家拉进游戏世界，NDS 最终成为史上最畅销掌机，DS Lite 功不可没。",
+  "detail": "任天堂 DS Lite 于2006年3月2日在日本首发，6月11日登陆北美，6月23日登陆欧洲。相比初代 NDS，它机身更小巧、屏幕亮度可调，设计精致，上市后长期供不应求。配合《脑锻炼》《任天狗》等破圈软件，NDS 系列最终成为史上最畅销掌机，DS Lite 是其中最受欢迎的型号之一，水货也大量流入中国市场，成为掌机玩家的标配。",
+  "impact": "掌机从核心玩家玩具变成大众消费品，触屏双屏的交互实验领先智能手机时代一步。",
+  "aftermath": "NDS 的触屏经验直接影响了后来的 iPhone 交互设计与任天堂自家的 3DS、Switch。",
+  "sources": [
+   {
+    "title": "维基百科：任天堂DS Lite",
+    "url": "https://zh.wikipedia.org/wiki/任天堂DS_Lite",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "任天堂",
+   "掌机",
+   "NDS"
+  ]
+ },
+ {
+  "id": "2006-03-21-twitter-first-tweet",
+  "date": "2006-03-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Twitter 第一条推文：140个字符改变世界",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "杰克·多西发出史上第一条推文『just setting up my twttr』，微博客形态就此诞生。140字符的碎碎念后来成了全球新闻的源头、名人攻防的战场，中文世界的饭否、新浪微博都是它的精神后裔。",
+  "detail": "2006年3月21日晚9点50分（太平洋时间），Twitter 联合创始人杰克·多西（Jack Dorsey）发出第一条推文『just setting up my twttr』，公司同日创办；同年7月网站向公众开放。『What are you doing?』的极简设定让发布门槛降到前所未有的程度，突发新闻、直播围观、话题标签（#）都从这里生长出来。Twitter 证明了『轻量级广播』是一种全新的媒介形态。",
+  "impact": "开创微博客品类，重塑新闻传播与公共讨论的节奏。",
+  "aftermath": "Twitter 于2022年被马斯克收购并更名 X；其产品逻辑在中国被饭否（2007）、新浪微博（2009）先后承接。",
+  "sources": [
+   {
+    "title": "维基百科：Twitter",
+    "url": "https://zh.wikipedia.org/wiki/Twitter",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Twitter",
+   "微博客",
+   "社交媒体"
+  ]
+ },
+ {
+  "id": "2006-06-21-youku-beta",
+  "date": "2006-06-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "优酷网公测：古永锵再创业",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "前搜狐总裁古永锵创办合一网络，6月21日优酷网开始公测，年底正式运营。凭借『快者为王』的产品策略和版权采购的胆识，优酷后来居上成为中国视频第一名，『看视频上优酷』一度是大众习惯。",
+  "detail": "古永锵于2005年11月创立合一网络技术有限公司，2006年6月21日优酷网启动公测，同年12月21日正式运营。古永锵提出『快者为王』，主打播放速度与用户体验，并在版权剧与自制内容上持续加码。2007年前后中国视频网站大混战，优酷凭借融资能力与产品口碑脱颖而出，与土豆形成双雄对峙，其后更率先冲刺资本市场。",
+  "impact": "中国网络视频行业头部格局的奠定者之一。",
+  "aftermath": "2010年优酷登陆纽交所，2012年3月12日与土豆换股合并为优酷土豆集团；2016年集团被阿里巴巴全资收购。",
+  "sources": [
+   {
+    "title": "维基百科：优酷",
+    "url": "https://zh.wikipedia.org/wiki/优酷",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "优酷",
+   "视频",
+   "古永锵"
+  ]
+ },
+ {
+  "id": "2006-07-01-ku6-launch",
+  "date": "2006-07-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "酷6网上线试运行",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "前搜狐高级副总裁李善友创办的酷6网于2006年7月开始试运行，加入视频网站混战。它以『有钱一起赚』的分成模式吸引草根创作者，并率先搭上盛大这条大船抢下第一个上市名头。",
+  "detail": "酷6网由李善友创立，2006年7月上线试运行，是最早入场的中国视频网站之一。酷6以用户创作激励与广告分成模式为卖点，力图在土豆、优酷之间抢出第三极。2010年酷6借盛大旗下的华友世纪曲线登陆纳斯达克，成为中国第一家上市的视频网站，但此后在与版权重投入的竞赛中掉队，业绩持续承压，最终在视频大战中被边缘化。",
+  "impact": "视频网站『创作分成』模式的早期试验者，也演示了烧钱大战中小玩家的宿命。",
+  "aftermath": "酷6几经转手与转型，2016年后逐渐淡出主流视野，成为视频行业教科书里的注脚。",
+  "sources": [
+   {
+    "title": "维基百科：酷6网",
+    "url": "https://zh.wikipedia.org/wiki/酷6网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "酷6网",
+   "视频",
+   "李善友"
+  ]
+ },
+ {
+  "id": "2006-09-01-audition-cn",
+  "date": "2006-09-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《劲舞团》国服发行：网吧里的键盘节奏",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "久游网代理的音乐舞蹈游戏《劲舞团》国服发行，方向键加空格敲出的连击和炫丽婚房让无数网吧少年沉迷。它是音乐节奏网游在中国的巅峰，也是『非主流』文化的标配装备。久游网也借此跻身一线网游运营商。",
+  "detail": "《劲舞团》（Audition）为韩国开发的音乐舞蹈网游，由久游网代理在中国大陆运营，2006年9月1日发行。游戏以方向键加空格的按键判定为核心玩法，配合时装、结婚系统形成强社交属性，迅速成为网吧在线人数榜前列的常客，女性玩家比例远高于传统网游。『劲舞团』也由此与『非主流』发型、火星文一起，构成2006至2008年中国网吧文化的标志性图景。",
+  "impact": "把音乐节奏玩法和虚拟形象社交做到全民级别，是舞蹈网游品类在中国的顶点。",
+  "aftermath": "久游凭借劲舞团一度冲刺上市未果；腾讯后续以 QQ 炫舞承接了同一品类的用户，劲舞团热度在2010年后逐渐消退。",
+  "sources": [
+   {
+    "title": "维基百科：劲舞团",
+    "url": "https://zh.wikipedia.org/wiki/劲舞团",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "劲舞团",
+   "久游网",
+   "网游"
+  ]
+ },
+ {
+  "id": "2006-09-26-nokia-n95-announce",
+  "date": "2006-09-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "诺基亚 N95 发布：『机皇』的最后一舞",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "诺基亚发布 N95：双向滑盖、500万像素、GPS、S60系统，一台手机几乎堆满当年所有尖端配置，被称为塞班时代的『机皇』。它也成了功能机巅峰最后的辉煌——次年 iPhone 面世。",
+  "detail": "诺基亚于2006年9月26日公布 N95，2007年3月底在全球发售。双向滑盖造型、500万像素卡尔蔡司镜头、内置 GPS 与音乐播放使其被捧为『全能机皇』，上市价高企仍供不应求，是塞班 S60 时代智能手机工业的代表作。对许多中国消费者来说，N95 就是『最想买而买不起』的那部手机。但就在它上市前后，苹果发布了 iPhone，智能手机的规则被彻底改写。",
+  "impact": "功能机/塞班时代手机硬件能力的顶点，也是诺基亚霸权的黄昏注脚。",
+  "aftermath": "诺基亚在智能机转型中节节败退，手机业务最终于2013年出售给微软；N95 成为一代人记忆中的『神机』。",
+  "sources": [
+   {
+    "title": "维基百科：诺基亚N95",
+    "url": "https://zh.wikipedia.org/wiki/诺基亚N95",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "N95",
+   "手机"
+  ]
+ },
+ {
+  "id": "2006-10-01-xiaonei-oak-acquisition",
+  "date": "2006-10-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "千橡收购校内网：SNS 归入陈一舟",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "上线的校园社交新星校内网被千橡互动收购，王兴团队套现离场。陈一舟把校内与自家 5Q 校园网合并，继续在高校扩张，中国最大的实名 SNS 由此成形，王兴则带着团队转身再创业。",
+  "detail": "2006年10月，运营仅十个月的校内网被陈一舟的千橡互动收购，王兴、王慧文等创始团队退出。千橡随即将校内网与其旗下的 5Q 校园网合并，凭借资金优势在高校持续推广，校内用户规模迅速做大，并于2009年更名人人网走向全民。对王兴而言，这次出售让他蛰伏再出发——次年创办饭否，此后再创美团，成为中国互联网最重要的连续创业者之一。",
+  "impact": "中国 SNS 第一轮洗牌的关键落子，也成就了日后美团创始团队的第一次退出。",
+  "aftermath": "人人网2011年赴美上市风光一时，此后急速衰落；陈一舟的千橡则在直播、二手车等赛道反复尝试。",
+  "sources": [
+   {
+    "title": "维基百科：校内网",
+    "url": "https://zh.wikipedia.org/wiki/校内网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "校内网",
+   "千橡",
+   "王兴",
+   "陈一舟"
+  ]
+ },
+ {
+  "id": "2006-10-01-guichuideng-published",
+  "date": "2006-10-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "《鬼吹灯》实体书出版：盗墓小说开山",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "天下霸唱的《鬼吹灯》从天涯论坛走红后推出实体书，胡八一、摸金校尉、粽子成为一代人的暗号。网络连载养出的盗墓题材自此成为中文类型小说最大的金矿之一。实体化让这个盗墓宇宙开始收获第一桶金。",
+  "detail": "《鬼吹灯》最初在网络论坛连载并迅速爆红，2006年10月由安徽文艺出版社出版实体书，正式进入大众视野。小说开创的『摸金校尉』体系与倒斗黑话影响了此后一整批网络类型文学，《盗墓笔记》等后来者均在其开创的赛道上发力。网络连载—实体出版—影视改编的变现链条也由这一代网络小说首次完整跑通，作者天下霸唱从此名利双收。",
+  "impact": "网络类型文学商业化的里程碑，盗墓题材成为此后二十年影视改编的常青 IP。",
+  "aftermath": "《鬼吹灯》《盗墓笔记》系列影视改编不断，从电影到网剧持续产出爆款，也带来了两家版权方多年的授权博弈。",
+  "sources": [
+   {
+    "title": "维基百科：鬼吹灯",
+    "url": "https://zh.wikipedia.org/wiki/鬼吹灯",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "鬼吹灯",
+   "网络文学",
+   "天下霸唱"
+  ]
+ },
+ {
+  "id": "2006-10-09-google-buys-youtube",
+  "date": "2006-10-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Google 16.5亿美元收购 YouTube",
+  "category": "company",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "成立不到两年的 YouTube 被 Google 以16.5亿美元股票收购，这笔当时惊人的买卖被质疑『人傻钱多』，后来被证明是互联网史上最划算的收购之一——今天的 YouTube 是全球最大的视频平台。",
+  "detail": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube，交易于同年11月13日完成。当时 YouTube 尚未盈利、深陷版权争议，外界普遍认为价格离谱。但 Google 的服务器与广告体系解决了带宽与变现难题，YouTube 与版权方达成收益分成后化敌为友。创始团队陈士骏、贺利身家暴涨，这桩交易也成为 Web 2.0 时代最成功的退出案例，被写进无数创业教材。",
+  "impact": "确立『巨头收购平台』的价值锚点，视频分享正式进入巨头主导时代。",
+  "aftermath": "YouTube 此后成长为全球最大视频平台；中国市场上，土豆优酷等沿着同一条路烧钱十年，最终由阿里系完成整合。",
+  "sources": [
+   {
+    "title": "维基百科：YouTube",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Google",
+   "YouTube",
+   "收购"
+  ]
+ },
+ {
+  "id": "2006-11-11-ps3-japan-launch",
+  "date": "2006-11-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "PS3 日本首发：蓝光豪赌开局",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "索尼 PS3 在日本率先发售，蓝光光驱与 Cell 处理器让它成本高企、定价高昂。这一代主机战争索尼丢掉了霸主地位，定价亲民的任天堂 Wii 趁虚而入，PS3 前期节节败退。",
+  "detail": "PlayStation 3 于2006年11月11日在日本发售，11月17日登陆北美。为推广自家蓝光格式，索尼给 PS3 塞进了昂贵的 Cell 处理器与蓝光光驱，导致首发价高达499/599美元，销量远逊预期，不少玩家转投更便宜好玩的 Wii。PS3 世代前期索尼处境艰难，后期靠《神秘海域》《最后的生还者》等独占大作才逐步翻身，全球销量约8000万台。",
+  "impact": "索尼主机霸权由盛转衰的转折点，蓝光阵营则借 PS3 在高清光盘格式之争中笑到最后。",
+  "aftermath": "蓝光最终战胜 HD DVD 成为高清光盘标准；PS3 的教训促使索尼在 PS4 时代放下身段重新定价。",
+  "sources": [
+   {
+    "title": "维基百科：PlayStation 3",
+    "url": "https://zh.wikipedia.org/wiki/PlayStation_3",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "索尼",
+   "PS3",
+   "游戏主机"
+  ]
+ },
+ {
+  "id": "2006-11-19-wii-na-launch",
+  "date": "2006-11-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Wii 北美发售：体感游戏破圈",
+  "category": "hardware",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "任天堂 Wii 在北美率先发售，挥动手柄就能打网球。性能垫底却靠体感玩法席卷全球，客厅里不玩游戏的父母和祖辈第一次拿起了手柄，Wii 最终卖出超过一亿台。体感手柄成了当年圣诞季的抢手货。",
+  "detail": "Wii 于2006年11月19日在北美首发，12月2日登陆日本，12月8日登陆欧洲。在索尼微软拼性能的时候，任天堂选择以体感遥控器 Wii Remote 开辟新路，《Wii Sports》《Wii Fit》把家庭主妇、银发族拉进游戏人群，Wii 多次出现全球性缺货，最终累计销量约1.016亿台，帮助任天堂在连续两代主机失利后重回王座，也把『蓝海战略』变成游戏业通用语。",
+  "impact": "证明游戏机的胜负手可以不是性能而是交互，『扩大游戏人口』战略大获全胜。",
+  "aftermath": "体感热潮后来退潮，但任天堂把『异质思路』延续到 Switch；Wii 的破圈经验被整个行业反复研究。",
+  "sources": [
+   {
+    "title": "维基百科：Wii",
+    "url": "https://zh.wikipedia.org/wiki/Wii",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "任天堂",
+   "Wii",
+   "体感",
+   "游戏主机"
+  ]
+ },
+ {
+  "id": "2006-11-30-vista-business-launch",
+  "date": "2006-11-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Windows Vista 企业版发布：五年磨一剑",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "跳票多年的 Windows Vista 面向企业发布（11月8日完成 RTM），2007年1月30日零售版上市。玻璃 Aero 界面惊艳，但硬件要求苛刻、兼容性问题缠身，Vista 成了 Windows 史上最著名的失意版本。",
+  "detail": "Windows Vista 于2006年11月8日完成 RTM，2006年11月30日通过批量许可面向企业发布，2007年1月30日正式面向消费者开售。它带来了 Aero 玻璃界面、UAC 安全机制与全新的系统特性，但对内存与显卡要求过高，大量软件与外设驱动不兼容，用户口碑崩塌，企业纷纷选择留在 XP。微软此后以 Windows 7 修复 Vista 留下的烂摊子，花了整整三年。",
+  "impact": "XP 因此被用户死守多年，Windows 生命周期管理的教训沿用至今。",
+  "aftermath": "2014年微软停止 XP 支持、2017年停止 Vista 主流支持；『大重写之后必有修补版』成为软件业的经典警示。",
+  "sources": [
+   {
+    "title": "维基百科：Windows Vista",
+    "url": "https://zh.wikipedia.org/wiki/Windows_Vista",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Windows",
+   "操作系统"
+  ]
+ },
+ {
+  "id": "2007-01-09-iphone-announce",
+  "date": "2007-01-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "乔布斯发布 iPhone：重新发明手机",
+  "category": "product",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "Macworld 大会上，乔布斯拿出三种设备合一的产品：宽屏 iPod、革命性手机、突破性上网设备——其实是同一台 iPhone。多点触控干掉了实体键盘，6月29日上市后全世界排队，手机史被拦腰改写。",
+  "detail": "2007年1月9日，乔布斯在 Macworld 大会上发布初代 iPhone，把 iPod、手机与互联网设备合而为一，以多点触控屏幕取代实体键盘与触控笔。同年6月29日 iPhone 在美国正式发售，门店排起长队。初代 iPhone 不支持3G、第三方应用最初受限，但其交互范式与后续的 App Store 一起，把手机从通讯工具变成随身电脑。诺基亚、摩托罗拉等旧霸主在随后的五年里相继崩塌。",
+  "impact": "智能手机时代的元年，触控交互、App 生态与硬件一体化设计的行业新标准自此确立。",
+  "aftermath": "iPhone 此后迭代成苹果最大的收入引擎，App 经济催生数十万开发者与移动创业浪潮；中国手机厂商也沿着这条路径集体崛起。",
+  "sources": [
+   {
+    "title": "维基百科：IPhone（第一代）",
+    "url": "https://zh.wikipedia.org/wiki/IPhone_(第一代)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPhone",
+   "乔布斯",
+   "智能手机"
+  ]
+ },
+ {
+  "id": "2007-05-12-fanfou-launch",
+  "date": "2007-05-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "饭否上线：中文微博客的先行者",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "王兴在卖掉校内后创办饭否，把 Twitter 的 140 字模式带入中文世界。它在极客与媒体圈风靡一时，是新浪微博之前中文微博客最重要的一次尝试，王兴的连续创业能力也在此崭露头角。",
+  "detail": "2007年5月12日，王兴团队创办的饭否（fanfou.com）上线，是最早的中文微博客服务之一。产品形态与 Twitter 高度相似，聚集了大批互联网从业者、媒体人与段子手，『饭否体』和深夜发吃的传统都诞生于此。饭否证明了短内容在中文语境的生命力，也训练了中国最早的微博客用户群，为后来新浪微博的爆发储备了种子用户。",
+  "impact": "中文微博客品类的开创者与用户启蒙者。",
+  "aftermath": "饭否2009年中起长期停摆，用户迁往新浪微博；王兴随后全力投入美团，饭否保留小规模社区至今。",
+  "sources": [
+   {
+    "title": "维基百科：饭否",
+    "url": "https://zh.wikipedia.org/wiki/饭否",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "饭否",
+   "王兴",
+   "微博客"
+  ]
+ },
+ {
+  "id": "2007-05-28-zhuxian-cn-launch",
+  "date": "2007-05-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《诛仙》国服运营：仙侠网游顶流",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "完美时空把萧鼎的人气小说《诛仙》搬进网游，2007年4月内测、5月28日大陆正式运营。青云山、碧瑶、张小凡随游戏再火一轮，仙侠网游自此有了自己的『顶流』样板。仙侠品类自此有了自己的标杆。",
+  "detail": "《诛仙》由完美世界开发，改编自萧鼎同名网络小说，2007年4月在大陆开始内测，5月28日正式运营（台湾由游戏新干线于2011年12月21日上线）。游戏以精美的画面引擎还原了小说中的青云门、草庙村与张小凡、碧瑶、陆雪琪的爱恨纠葛，吸引大批原著读者入坑，成为完美时空继《完美世界》之后的又一条收入支柱，并长期运营多个资料片。",
+  "impact": "网络小说 IP 改编网游的成功样板，『仙侠』从此成为中国网游的招牌品类。",
+  "aftermath": "诛仙 IP 之后延伸出端游续作、手游与影视改编；完美世界借网游收入于2007年7月赴美上市。",
+  "sources": [
+   {
+    "title": "维基百科：诛仙（网络游戏）",
+    "url": "https://zh.wikipedia.org/wiki/诛仙_(网络游戏)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "诛仙",
+   "完美时空",
+   "仙侠",
+   "网游"
+  ]
+ },
+ {
+  "id": "2007-06-06-acfun-founded",
+  "date": "2007-06-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "AcFun（A站）创立：弹幕文化登陆中国",
+  "category": "culture",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "网名 xilin 的魏军创立 AcFun（A站），以连载动画起家，2008年3月模仿 NICONICO 推出弹幕播放器。『刷弹幕』从此成为中国年轻人看视频的标准姿势，二次元社区的第一块基石就此埋下。",
+  "detail": "2007年6月6日，魏军（网名 ACG_xilin）创立 AcFun，最初是个人网站，以连载动画内容为主。2008年3月，AcFun 模仿日本 NICONICO 动画推出弹幕式播放器，评论以字幕形式飘过画面，迅速形成独特的观看仪式与梗文化，『金坷垃』『鬼畜』等亚文化在此发酵。A站与后来的 bilibili 共同培育了中国第一代弹幕用户。约2010年，xilin 以400万元人民币将 AcFun 卖给陈少杰。",
+  "impact": "弹幕文化在中国的源头，二次元社区生态的起点。",
+  "aftermath": "A站几经易主与经营动荡，最终被快手收购；陈少杰则用从 AcFun 学到的东西做了斗鱼直播。",
+  "sources": [
+   {
+    "title": "维基百科：AcFun",
+    "url": "https://zh.wikipedia.org/wiki/AcFun",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "AcFun",
+   "弹幕",
+   "二次元",
+   "A站"
+  ]
+ },
+ {
+  "id": "2007-07-26-perfectworld-ipo",
+  "date": "2007-07-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "完美时空登陆纳斯达克",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "凭借《完美世界》《武林外传》《诛仙》等产品线，池宇峰的完美时空于2007年7月26日在纳斯达克上市。中国网游公司赴美潮中最迅速的一单——成立仅三年。自研引擎加仙侠题材的故事就此讲给了全世界。",
+  "detail": "完美时空（今完美世界）由池宇峰创办，以自主研发的3D引擎和《完美世界》《诛仙》等仙侠网游迅速做大。2007年7月26日，完美时空在纳斯达克上市，成为中国网游厂商赴美上市潮中的代表案例。上市后公司持续扩张，出海收入可观，《完美世界国际版》在海外多国长期运营，其后更以收购与影视布局打造泛娱乐集团。",
+  "impact": "中国游戏公司资本化的又一标杆，验证了自研引擎加仙侠题材的商业模式。",
+  "aftermath": "完美世界此后经历私有化再回A区的资本运作，游戏业务持续推出诛仙、完美世界等系列续作。",
+  "sources": [
+   {
+    "title": "维基百科：完美世界（公司）",
+    "url": "https://zh.wikipedia.org/wiki/完美世界_(公司)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "完美世界",
+   "完美时空",
+   "上市",
+   "网游"
+  ]
+ },
+ {
+  "id": "2007-09-06-tbc-cn-launch",
+  "date": "2007-09-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《燃烧的远征》国服上线：外域大门打开",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "魔兽首部资料片《燃烧的远征》在欧美上线八个多月后终于登陆国服，伊利丹『你们这是自寻死路』成为年度梗。国服玩家涌向外域，九城时期的魔兽迎来用户巅峰。国服魔兽自此步入用户与口碑的双巅峰。",
+  "detail": "《魔兽世界》首部资料片《燃烧的远征》于2007年1月16日在欧美上线，国服则于2007年9月6日开启运营。血精灵与德莱尼新种族、飞行坐骑、十人与二十五人副本体系带来玩法升级，国服玩家排队挤爆外域服务器，『你们这是自寻死路』的伊利丹开场CG成为经典梗。魔兽国服在线人数在这一时期达到高点，九城也凭代理费与点卡分成赚得盆满钵满。",
+  "impact": "国服魔兽的黄金期注脚，中国大型网游运营规模的里程碑。",
+  "aftermath": "下一部资料片《巫妖王之怒》的审批与代理风波，成为2009年魔兽易主事件的导火索。",
+  "sources": [
+   {
+    "title": "维基百科：魔兽世界",
+    "url": "https://zh.wikipedia.org/wiki/魔兽世界",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "魔兽世界",
+   "燃烧的远征",
+   "九城"
+  ]
+ },
+ {
+  "id": "2007-01-01-kingsoft-ipo",
+  "date": "2007-01-01",
+  "date_accuracy": "year",
+  "date_confidence": "single-source",
+  "title": "金山软件香港上市：求伯君与雷军的二十年长跑",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "写 WPS 起家的金山软件2007年在香港交易所上市（股票代码3888），从 DOS 时代与微软缠斗到挂牌敲锣，这家『中国最老牌软件公司』熬了19年。上市后不久雷军卸任CEO，转身去做天使投资人。",
+  "detail": "金山软件以 WPS 办公软件与《剑侠情缘》系列游戏为两大支柱，2007年在香港交易所主板上市。从1988年求伯君写出 WPS，到与微软 Office 正面对抗，再到转型网游找到现金流，金山上市之路走了近二十年，被视为中国本土软件公司的活化石。上市当年雷军逐步卸下CEO职务，此后以天使投资人身份投出 UC、YY 等公司，为日后创办小米蓄力。",
+  "impact": "国产基础软件与本土游戏公司资本化的里程碑，也是雷军第一次创业长跑的终点。",
+  "aftermath": "金山分拆金山办公、金山云等业务各自上市；雷军2010年创办小米，2011年回归出任金山董事长。",
+  "sources": [
+   {
+    "title": "维基百科：金山软件",
+    "url": "https://zh.wikipedia.org/wiki/金山软件",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "金山",
+   "WPS",
+   "雷军",
+   "求伯君"
+  ]
+ },
+ {
+  "id": "2007-11-01-giant-ipo",
+  "date": "2007-11-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "巨人网络纽交所上市：史玉柱的『征途』登顶",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "靠《征途》赚翻的巨人网络于2007年11月1日在纽交所上市，史玉柱从『卖脑白金的』变成身家数百亿的游戏大亨。从巨人大厦烂尾到东山再起，这是中国商界最著名的翻身故事。",
+  "detail": "巨人网络由史玉柱于2004年11月18日创办，靠主打有钱人玩家生态的《征途》在免费网游市场异军突起。2007年11月1日，巨人网络在纽约证券交易所上市，市值一度超过42亿美元，史玉柱的个人财富随之暴涨。这是他继巨人集团崩塌、脑白金翻身之后的第三段传奇，《征途》开创的『国战+免费』打法也被行业大量效仿。",
+  "impact": "免费网游商业模式的资本化验证，中国网游公司美股上市潮的又一浪。",
+  "aftermath": "巨人网络2014年7月18日完成私有化从纽交所退市，后借壳回归A股，转攻手游与金融科技。",
+  "sources": [
+   {
+    "title": "维基百科：巨人网络",
+    "url": "https://zh.wikipedia.org/wiki/巨人网络",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "巨人网络",
+   "史玉柱",
+   "征途",
+   "上市"
+  ]
+ },
+ {
+  "id": "2007-11-01-alibaba-b2b-ipo",
+  "date": "2007-11-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "阿里巴巴 B2B 香港上市：募资17亿美元",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2007年11月，阿里巴巴网络有限公司（B2B业务）在香港联交所上市，募资17亿美元，创当时中国互联网公司港股IPO纪录。上市首日股价翻倍，『阿里系』资本版图的第一块拼图挂上了钟。",
+  "detail": "阿里巴巴集团旗下的 B2B 业务（阿里巴巴网络有限公司）于2007年11月在香港联合交易所主板上市，集资约17亿美元，上市当日股价大涨，员工与早期投资人收获颇丰，也批量制造了杭州的『千万富翁』级员工。这是阿里巴巴体系第一次整体走向资本市场，为其后淘宝、支付宝的独立融资故事树立了估值参照。",
+  "impact": "中国互联网公司港股IPO的标杆，阿里帝国资本运作的起点。",
+  "aftermath": "2012年阿里以私有化方式将B2B业务从港交所退市；2014年阿里巴巴集团整体登陆纽交所，创下全球最大IPO纪录。",
+  "sources": [
+   {
+    "title": "维基百科：阿里巴巴网络",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴网络",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿里巴巴",
+   "港股",
+   "上市",
+   "马云"
+  ]
+ },
+ {
+  "id": "2007-11-05-android-announce",
+  "date": "2007-11-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Google 发布 Android：开放手机联盟成立",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "Google 联合数十家厂商成立开放手机联盟（OHA），宣布 Android 开源手机平台。一周后首支官方宣传片亮相，2008年首款 Android 1.0 手机 HTC G1 上市——一场对 iOS 的『人海围剿』正式开始。",
+  "detail": "2007年11月5日，Google 宣布基于 Linux 的 Android 平台，并联合高通、摩托罗拉、HTC、中国移动等企业组建开放手机联盟（OHA），系统以 Apache 协议开源，任何厂商可免费使用与定制。2007年11月12日首个公开 Beta SDK 发布；2008年9月23日首个正式版 Android 1.0 随 HTC Dream（T-Mobile G1）面世。开放策略让三星、HTC、华为们迅速跟进，形成与 iOS 平分天下的格局。",
+  "impact": "智能手机操作系统的第二极确立，移动互联网的全球普及因此大幅加速。",
+  "aftermath": "Android 成为全球市占率第一的手机操作系统；中国手机厂商基于 AOSP 与 GMS 生态之争的故事延续至今。",
+  "sources": [
+   {
+    "title": "维基百科：Android歷史版本",
+    "url": "https://zh.wikipedia.org/wiki/Android歷史版本",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Google",
+   "Android",
+   "操作系统",
+   "智能手机"
+  ]
+ },
+ {
+  "id": "2007-11-19-kindle-launch",
+  "date": "2007-11-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "初代 Kindle 发售：电子书阅读器破局",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "亚马逊以399美元发售初代 Kindle，电子墨水屏加内置3G的『随时买书』体验惊艳，首批存货五个半小时售罄。纸质书的天敌与盟友同时登场，数字阅读自此有了标准形态。",
+  "detail": "亚马逊于2007年11月19日发布并开售初代 Kindle，售价399美元。设备采用电子墨水屏，内置免费无线网络，可在任何地方一键购书并60秒内下载，首批库存在五个半小时内售罄，随后长期断货直到2008年4月末才恢复供货。Kindle 证明了电子书不是噱头：亚马逊将硬件、书店与自助出版（KDP）打通，重塑了全球出版业的分发链条。",
+  "impact": "电子书市场的引爆点，『买书如点外卖』的阅读体验自此定型。",
+  "aftermath": "Kindle 系列迭代十余年并进入中国市场；2023年亚马逊宣布 Kindle 硬件退出中国，电子墨水阅读器市场转向本土品牌。",
+  "sources": [
+   {
+    "title": "维基百科：Amazon Kindle",
+    "url": "https://zh.wikipedia.org/wiki/Amazon_Kindle",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "Kindle",
+   "电子书"
+  ]
+ },
+ {
+  "id": "2007-11-02-jay-chou-on-the-run",
+  "date": "2007-11-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "周杰伦《我很忙》发行：《青花瓷》封神",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "周杰伦第八张国语专辑《我很忙》发行，中国风主打歌《青花瓷》横扫次年第19届金曲奖年度歌曲、最佳作词、最佳作曲三项大奖。『天青色等烟雨』成为华语流行乐古典美学的巅峰注脚。",
+  "detail": "2007年11月2日，周杰伦发行第八张国语专辑《我很忙》，收录《牛仔很忙》《彩虹》《青花瓷》《蒲公英的约定》等曲目。方文山作词、周杰伦作曲的《青花瓷》以宋瓷意象写爱情，将中国风推向艺术与流行兼具的高度，次年在第19届金曲奖包揽最佳年度歌曲、最佳作词人奖与最佳作曲人奖。专辑发行时正值数字音乐冲击唱片业，实体销量仍居当年前列，『周杰伦』三个字依旧是销量的保证。",
+  "impact": "华语中国风流行乐的巅峰之作，也见证了唱片业黄金时代最后的辉煌。",
+  "aftermath": "此后周杰伦逐步转向电影、综艺与巡演，《青花瓷》至今仍是 KTV 与音乐考试的常客。",
+  "sources": [
+   {
+    "title": "维基百科：我很忙",
+    "url": "https://zh.wikipedia.org/wiki/我很忙",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "周杰伦",
+   "青花瓷",
+   "华语流行",
+   "金曲奖"
+  ]
+ },
+ {
+  "id": "2008-02-01-microsoft-yahoo-bid",
+  "date": "2008-02-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "微软446亿美元洽购雅虎：一场未遂的豪赌",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "微软宣布以每股31美元、总额约446亿美元现金加股票收购雅虎，欲在搜索与广告市场合围 Google。雅虎嫌价低拒售，微软5月3日撤回要约。两家『下一个Google』的焦虑症，就此暴露无遗。",
+  "detail": "2008年2月1日，微软公开提出以每股31美元、总价约446亿美元收购雅虎。雅虎认为报价低估自身价值，坚持约530亿美元的价格预期，并试图与 Google 展开搜索广告合作作为反制。4月5日微软发出公开信限期三周表态，5月3日正式撤回收购提案。交易告吹后雅虎股价应声下挫，Google 在搜索广告市场的地位则更加稳固，这成为并购史上著名的『两败俱伤』案例。",
+  "impact": "互联网巨头第一轮大型并购攻防战，直接催生了雅虎此后十年的拆分与衰亡叙事。",
+  "aftermath": "雅虎此后多任CEO无力回天，2016年核心业务贱卖给威瑞森；微软则转身自研 Bing。",
+  "sources": [
+   {
+    "title": "维基百科：雅虎",
+    "url": "https://zh.wikipedia.org/wiki/雅虎",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "微软",
+   "雅虎",
+   "并购"
+  ]
+ },
+ {
+  "id": "2008-03-01-kaixin001-launch",
+  "date": "2008-03-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "开心网上线：白领偷菜时代的开端",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "前新浪高管程炳皓创办的开心网（kaixin001.com）上线，买卖好友、争车位、偷菜小游戏让全国白领上班时间集体『潜水』。短短一年用户破数千万，中国 SNS 迎来最疯狂的一刻。",
+  "detail": "开心网由新浪前高管程炳皓于2008年3月创办，以熟人实名社交加轻游戏起家。『朋友买卖』『争车位』让白领们乐此不疲，随后的『偷菜』（开心农场）更是成为全国现象——定闹钟收菜、算计好友成了办公室日常谈资。开心网在几乎没有广告投放的情况下靠口口相传裂变，一年内用户规模跃居中国 SNS 前列，被媒体称作『中国的Facebook』候选。",
+  "impact": "把社交网络第一次带进中国办公室人群，轻社交游戏成为 SNS 拉新的标准武器。",
+  "aftermath": "千橡抢注 kaixin.com 推出『真假开心网』分流用户，开心网随后疲态尽显，2016年作价数千万卖身；『偷菜』则被 QQ 农场发扬光大。",
+  "sources": [
+   {
+    "title": "维基百科：开心网",
+    "url": "https://zh.wikipedia.org/wiki/开心网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "开心网",
+   "SNS",
+   "偷菜",
+   "程炳皓"
+  ]
+ },
+ {
+  "id": "2008-04-28-crossfire-cn",
+  "date": "2008-04-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《穿越火线》登陆国服：枪战网游全民化",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "腾讯代理的韩国枪战网游《穿越火线》（CrossFire）在大陆上线，『Fire in the hole』响彻全国网吧。免费加道具的模式让 CF 迅速登顶，成为后来十年中国FPS品类的绝对霸主。",
+  "detail": "《穿越火线》由韩国 Smilegate 开发，2008年4月28日由腾讯引入中国大陆运营。游戏以爆破、团队竞技模式为核心，对机器配置要求亲民，配合免费游玩加会员道具的商业模式，迅速在二三线城市网吧铺开，在线人数长期位居全国网游前列，『运输船』『沙漠灰』成为一代玩家的共同记忆。腾讯凭借 CF 与 DNF 两张王牌，游戏收入曲线陡峭上扬。",
+  "impact": "中国 FPS 网游的普及之作，奠定腾讯游戏霸业的核心收入支柱之一。",
+  "aftermath": "CF 长盛不衰并衍生手游；韩国原厂 Smilegate 靠中国分成成长为韩国头部游戏公司。",
+  "sources": [
+   {
+    "title": "维基百科：穿越火线",
+    "url": "https://zh.wikipedia.org/wiki/穿越火线",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "穿越火线",
+   "腾讯",
+   "FPS",
+   "网游"
+  ]
+ },
+ {
+  "id": "2008-06-09-iphone-3g",
+  "date": "2008-06-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "iPhone 3G 发布：App Store 随行，水货席卷中国",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "WWDC 2008 上乔布斯发布支持3G与 GPS 的 iPhone 3G，199美元的补贴价让iPhone走向大众，7月11日全球开售。国行缺席的日子里，中关村水货与『越狱』生意火爆，中国果粉由此启蒙。",
+  "detail": "2008年6月9日，苹果在 WWDC 上发布 iPhone 3G，新增3G网络与 GPS，配合运营商补贴将起售价降到199美元，7月11日在20多个国家和地区开售。iPhone 3G 也是首款搭载 App Store 的 iPhone（随 iPhone OS 2.0 提供），手机从『出厂即定型』变成『越用越强』。由于 iPhone 迟迟未在大陆开售，水货商与越狱刷机服务在中关村生意兴隆，中国第一批 iPhone 用户大多由这一时期启蒙。",
+  "impact": "iPhone 从极客玩具走向大众市场，App Store 生态同步起航。",
+  "aftermath": "iPhone 3G 全球销量超两千万部；直到2009年10月联通版iPhone 3G才让国行iPhone正式入华。",
+  "sources": [
+   {
+    "title": "维基百科：IPhone 3G",
+    "url": "https://zh.wikipedia.org/wiki/IPhone_3G",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPhone 3G",
+   "水货"
+  ]
+ },
+ {
+  "id": "2008-06-19-dnf-cn",
+  "date": "2008-06-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《地下城与勇士》国服公测：格斗网游之王",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "腾讯代理的韩国横版格斗网游 DNF 国服公测，鬼剑士『开无双』、深渊爆粉成为网吧新景观。它与 CF 并称腾讯双核，把腾讯推上中国游戏收入第一的宝座。格斗网游自此有了全民级的样本。",
+  "detail": "《地下城与勇士》（DNF）由韩国 Neople 开发（后被 NEXON 收购），2008年6月19日由腾讯在中国大陆开启公测。游戏融合街机格斗手感与养成系统，『刷图』『PK场』『深渊』构成核心循环，对低配电脑友好使其在网吧迅速铺开。DNF 与《穿越火线》一道成为腾讯游戏的两大现金牛，其职业体系与梗文化（如『阿拉德大陆』）影响深远。",
+  "impact": "横版格斗品类在中国的巅峰之作，腾讯游戏收入登顶的最大功臣之一。",
+  "aftermath": "DNF 长寿运营十余年，2020年前后仍屡创单月流水纪录，手游版万众瞩目。",
+  "sources": [
+   {
+    "title": "维基百科：地下城与勇士",
+    "url": "https://zh.wikipedia.org/wiki/地下城与勇士",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "DNF",
+   "腾讯",
+   "格斗网游",
+   "Neople"
+  ]
+ },
+ {
+  "id": "2008-07-10-app-store",
+  "date": "2008-07-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "App Store 上线：移动应用经济元年",
+  "category": "product",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "苹果 App Store 上线，首发约500款应用，iPhone 3G 用户可以像逛超市一样给手机装软件。开发者拿七成分成的模式掀起淘金热，『App』自此成为一代人的动词。",
+  "detail": "2008年7月10日，苹果 App Store 正式上线，随 iPhone 3G 与 iPhone OS 2.0 体系推出，上线之初提供约500款应用。苹果搭建了完整的开发者协议与支付体系，三七分成让个人开发者也能靠一款小游戏财务自由，《愤怒的小鸟》《植物大战僵尸》等移动爆款由此诞生。Android Market（后来的 Google Play）在三个月后跟进，『应用商店』成为智能手机的标配器官。",
+  "impact": "创造了移动应用经济：数百万开发者的职业赛道与数十万亿级生态由此起步。",
+  "aftermath": "App 生态催生打车、外卖、短视频等移动互联网大战；苹果抽成模式的争议也延续至今。",
+  "sources": [
+   {
+    "title": "维基百科：App Store (iOS)",
+    "url": "https://zh.wikipedia.org/wiki/App_Store_(iOS)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "App Store",
+   "移动应用",
+   "开发者"
+  ]
+ },
+ {
+  "id": "2008-09-02-chrome-launch",
+  "date": "2008-09-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Google Chrome 发布：浏览器大战重启",
+  "category": "product",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "一份提前泄露的38页漫画剧透了 Google 的浏览器：9月2日 Chrome 测试版火速上线。极简界面、V8 引擎、进程隔离，浏览器第一次为『Web 应用』而生。十年后 Chrome 一统江湖。",
+  "detail": "2008年9月1日，Scott McCloud 绘制的38页宣传漫画提前流出，Google 顺势在9月2日发布 Chrome 测试版（Windows）。Chrome 主打极速 V8 JavaScript 引擎、独立标签页进程与极简界面，把浏览器从『看网页的窗口』重新定义为『运行 Web 应用的操作系统』。此后 Chrome 凭借快速迭代与 WebKit/Blink 生态逐步吞噬 IE、Firefox 的份额。",
+  "impact": "浏览器性能战与标准战的分水岭，Web 技术由此进入重应用时代。",
+  "aftermath": "Chrome 后来占据全球浏览器份额七成左右，成为 Google 搜索与广告体系的入口堡垒。",
+  "sources": [
+   {
+    "title": "维基百科：Google Chrome",
+    "url": "https://zh.wikipedia.org/wiki/Google_Chrome",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Google",
+   "Chrome",
+   "浏览器"
+  ]
+ },
+ {
+  "id": "2008-09-15-lehman-collapse",
+  "date": "2008-09-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "雷曼兄弟破产：互联网寒冬的前奏",
+  "category": "company",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "拥有158年历史的投行雷曼兄弟申请破产保护，全球金融危机总爆发。风险投资瞬间捂紧钱包，刚刚过冬的互联网公司再度感到寒意，但也逼出了移动互联网这一轮新周期。寒冬里活下来的模式决定了此后十年。",
+  "detail": "2008年9月15日，美国第四大投行雷曼兄弟（Lehman Brothers）正式申请破产保护，成为此次金融危机的标志性事件，全球资本市场陷入恐慌，融资环境急冻。对科技行业而言，这轮寒冬冲击了尚未盈利的创业公司，却也加速了资本向『现金牛』与新模式聚集；iPhone 与 Android 带来的移动互联网机会，恰在此后数年成长为最大的一波创业红利。",
+  "impact": "全球风险投资周期性收缩的节点，也间接塑造了此后移动互联网创业潮的资金流向。",
+  "aftermath": "各国央行开启量化宽松时代，廉价资本在数年后回流科技业，成就了移动互联网十年的爆发。",
+  "sources": [
+   {
+    "title": "Wikipedia: Lehman Brothers",
+    "url": "https://en.wikipedia.org/wiki/Lehman_Brothers",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "雷曼兄弟",
+   "金融危机",
+   "风险投资"
+  ]
+ },
+ {
+  "id": "2008-09-23-tmobile-g1",
+  "date": "2008-09-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首款 Android 手机 T-Mobile G1 发售",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "HTC 代工的 T-Mobile G1 带着侧滑全键盘开卖，它是全球第一部 Android 手机，预装 Gmail、地图与 Android Market。丑是丑了点，但安卓帝国的第一块砖就此砌下。",
+  "detail": "T-Mobile G1（即 HTC Dream）于2008年9月23日在美国发售，是全球首款采用 Google Android 系统的智能手机。设备由 HTC 制造，配备侧滑式 QWERTY 键盘与触摸屏，预装 Gmail、Google 地图、YouTube 与应用商店 Android Market。尽管外形在今日看来笨拙，G1 验证了开源联盟路线的可行性，此后摩托罗拉、三星、HTC 等厂商的安卓机潮水般涌出。",
+  "impact": "Android 生态的起点，与 iPhone 形成智能手机双寡头的另一极。",
+  "aftermath": "HTC 凭安卓浪潮一度登顶美国市场；Android 最终拿下全球大部分智能手机份额。",
+  "sources": [
+   {
+    "title": "维基百科：HTC Dream",
+    "url": "https://zh.wikipedia.org/wiki/HTC_Dream",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "HTC",
+   "Android",
+   "G1",
+   "智能手机"
+  ]
+ },
+ {
+  "id": "2008-10-31-bitcoin-whitepaper",
+  "date": "2008-10-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "中本聪发布比特币白皮书",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "一个署名 Satoshi Nakamoto 的神秘人物在密码学邮件列表贴出《比特币：一种点对点的电子现金系统》，九页论文描述了无需中间人的数字货币。2009年1月创世区块挖出，加密货币时代开启。",
+  "detail": "2008年10月31日，化名中本聪（Satoshi Nakamoto）的作者发布比特币白皮书《Bitcoin: A Peer-to-Peer Electronic Cash System》，提出用区块链与工作量证明解决双花问题，让点对点电子现金无需信任第三方即可运转。2009年1月比特币网络创世区块被挖出，此后一个年产千万个『数字货币富翁』与无数争议的行业从这九页纸生长出来。",
+  "impact": "区块链技术的起点，数字货币从极客实验演变为影响全球金融的产业。",
+  "aftermath": "比特币历经暴涨暴跌与各国监管博弈，区块链概念则在2010年代后期席卷科技与金融业。",
+  "sources": [
+   {
+    "title": "维基百科：比特币",
+    "url": "https://zh.wikipedia.org/wiki/比特币",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "比特币",
+   "中本聪",
+   "区块链"
+  ]
+ },
+ {
+  "id": "2008-11-01-happy-farm-xiaonei",
+  "date": "2008-11-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "『开心农场』登陆校内网：全民偷菜前夜",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "『五分钟』公司开发的社交游戏《开心农场》在校内网上线，种菜偷菜玩法迅速风靡校园，随后横扫白领圈。一款小游戏改写了中国社交网络的用户习惯，也让 SNS 平台看清了轻游戏的价值。",
+  "detail": "《开心农场》由『五分钟』团队开发，2008年11月率先在校内网上线。玩家种菜、施肥、去好友地里偷菜，简单的互动精准戳中熟人社交的攀比与亲近心理，用户数据呈病毒式增长。随后游戏移植到 QQ 平台（2009年4月上线，2009年8月腾讯将其改名为《QQ农场》），偷菜热潮彻底席卷全民，定闹钟收菜成为一代人的集体行为艺术。",
+  "impact": "中国第一款现象级社交游戏，验证了『轻游戏+关系链』的爆发力。",
+  "aftermath": "『五分钟』未能守住先发优势，腾讯凭借 QQ 农场收走最大红利，社交游戏的平台博弈自此写进教科书。",
+  "sources": [
+   {
+    "title": "维基百科：开心农场",
+    "url": "https://zh.wikipedia.org/wiki/开心农场",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "开心农场",
+   "偷菜",
+   "社交游戏",
+   "校内网"
+  ]
+ },
+ {
+  "id": "2008-11-13-wotlk-launch",
+  "date": "2008-11-13",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《巫妖王之怒》欧美上线：魔兽巅峰资料片",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "《魔兽世界》第二部资料片《巫妖王之怒》在北美、欧洲上线，首日销量280万份，创下当时 PC 游戏24小时销售最快纪录。阿尔萨斯的故事线让无数玩家把『窝窝头』封为最伟大的资料片。",
+  "detail": "2008年11月13日，《魔兽世界：巫妖王之怒》在欧美上线，玩家进军诺森德挑战巫妖王阿尔萨斯。首日销量280万份，刷新 PC 游戏24小时内销售纪录。死亡骑士英雄职业、成就系统与史诗级的冰冠堡垒终局战让这一资料片被广泛视为魔兽系列的巅峰。而国服玩家还在为『WLK』的上线时间苦苦等待，由此催生的『巫妖王之怒开服了吗』成为持续两年的网络梗。",
+  "impact": "《魔兽世界》全球订阅用户推向峰值（约1200万），MMORPG 的黄金顶点。",
+  "aftermath": "国服 WLK 因代理易主迟迟未至，2010年8月31日才姗姗来迟；此后魔兽订阅数逐步回落。",
+  "sources": [
+   {
+    "title": "维基百科：魔兽世界：巫妖王之怒",
+    "url": "https://zh.wikipedia.org/wiki/魔兽世界：巫妖王之怒",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "魔兽世界",
+   "巫妖王之怒",
+   "暴雪"
+  ]
+ },
+ {
+  "id": "2008-01-01-shanzhai-culture",
+  "date": "2008-01-01",
+  "date_accuracy": "year",
+  "date_confidence": "single-source",
+  "title": "山寨机大爆发：深圳华强北的野生创新",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "联发科『交钥匙』方案催生的山寨机在深圳华强北井喷：大喇叭、双卡双待、跑马灯，什么火仿什么，什么便宜造什么。2008年『山寨』一词全民走红，从手机蔓延到一切流行文化。",
+  "detail": "依托联发科（MTK）提供的整套手机芯片解决方案，深圳华强北的山寨厂商把造手机的成本降到极致，大喇叭、双卡双待、超长待机、跑马灯外壳成为标志元素，部分机型比品牌机更早装上安卓系统试水。2008年前后『山寨』从深圳电子市场词汇升格为全民流行语，山寨手机大量出口亚非拉，成为全球下沉市场的隐形冠军。",
+  "impact": "中国电子制造业草根创新力的集中展示，也是国产手机供应链能力的练兵场。",
+  "aftermath": "品牌智能机降价后山寨机迅速退潮，但华强北出身的供应链人才与经验，成为此后小米、传音等国产手机崛起的地基。",
+  "sources": [
+   {
+    "title": "维基百科：山寨文化",
+    "url": "https://zh.wikipedia.org/wiki/山寨文化",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "山寨机",
+   "华强北",
+   "联发科",
+   "手机"
+  ]
+ },
+ {
+  "id": "2009-04-16-wow-to-netease",
+  "date": "2009-04-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《魔兽世界》易主：九城出局，网易接盘",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "网易宣布与暴雪达成合作，拿下《魔兽世界》大陆代理权，运营近四年的九城痛失最大摇钱树。6月6日九城停服、9月19日网易开服，三个月真空期让数百万玩家干等，中国网游代理模式的教科书案例。",
+  "detail": "2009年4月16日，网易与暴雪宣布合作，《魔兽世界》大陆运营权自九城转至网易（网之易）。6月6日23点59分九城正式停服，玩家数据交接与审批拖延导致长达三个月的服务真空，期间『WLK什么时候开』成为全网热梗；9月19日，网易接手的国服服务器开启运营。九城失去魔兽后一蹶不振，网易则补齐了游戏业务最重的一块拼图，中国网游代理格局就此改写。",
+  "impact": "中国网游史上最著名的代理权易主案，直接改写了九城与网易两家公司的命运曲线。",
+  "aftermath": "九城此后再未恢复元气；网易运营魔兽十余年，历经多次停服与重启，2024年8月国服回归。",
+  "sources": [
+   {
+    "title": "维基百科：第九城市",
+    "url": "https://zh.wikipedia.org/wiki/第九城市",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：魔兽世界",
+    "url": "https://zh.wikipedia.org/wiki/魔兽世界",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "魔兽世界",
+   "九城",
+   "网易",
+   "暴雪"
+  ]
+ },
+ {
+  "id": "2009-04-01-qq-farm",
+  "date": "2009-04-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "QQ农场上线：全民偷菜时代",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "腾讯把《开心农场》搬上QQ平台，后改名《QQ农场》。定闹钟收菜、算计好友成色，数亿QQ用户被一款种菜游戏重新激活，社交游戏第一次摸到全民量级，腾讯也再次证明『后发制人』。",
+  "detail": "2009年4月，开心农场的 QQ 平台版上线；同年8月，腾讯将其改名为《QQ农场》并持续深化自有版本。依托QQ关系链与数亿用户底盘，偷菜从白领小众玩法变成真正的全民行为——上班族定闹钟起床收菜、办公室互相『下手』成为社会话题。QQ农场与QQ餐厅等轻游戏构成的体系，为腾讯的空间增值服务贡献了可观收入。",
+  "impact": "中国互联网史上规模最大的社交游戏现象，也坐实了腾讯『模仿+超越』的行业争议。",
+  "aftermath": "偷菜热潮在2012年后自然退烧；『五分钟』等原创团队则成了大平台收割小创作者的经典教训。",
+  "sources": [
+   {
+    "title": "维基百科：开心农场",
+    "url": "https://zh.wikipedia.org/wiki/开心农场",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "QQ农场",
+   "偷菜",
+   "腾讯",
+   "社交游戏"
+  ]
+ },
+ {
+  "id": "2009-05-05-plants-vs-zombies",
+  "date": "2009-05-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《植物大战僵尸》发售：塔防游戏全民化",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "宝开游戏（PopCap）的《植物大战僵尸》在PC端发售，豌豆射手与『僵尸吃脑子』迅速攻陷全球办公室。它是塔防品类的破圈神作，两年后移动版更是长期霸榜付费榜。休闲游戏第一次站上了舞台中央。",
+  "detail": "2009年5月5日，PopCap Games 推出《植物大战僵尸》PC版。游戏以阳光种植防御的塔防玩法、憨态可掬的植物与僵尸形象风靡全球，疯狂戴夫、戴夫门前的草坪成为流行符号。2010年 iOS 版上线后长期占据付费下载榜首位，宝开也因此在2011年被 EA 以约6.5亿美元（含奖金）收购。在中国，PvZ 与盗版、改编文化一起成为无差别国民游戏。",
+  "impact": "塔防玩法完成全民普及，休闲游戏商业价值的最佳示范。",
+  "aftermath": "系列推出续作与手游长线运营；『植物大战僵尸』在中国衍生的同人改编甚至比正版更早深入乡镇网吧。",
+  "sources": [
+   {
+    "title": "维基百科：植物大战僵尸",
+    "url": "https://zh.wikipedia.org/wiki/植物大战僵尸",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "植物大战僵尸",
+   "PopCap",
+   "塔防",
+   "休闲游戏"
+  ]
+ },
+ {
+  "id": "2009-06-25-michael-jackson-died",
+  "date": "2009-06-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "迈克尔·杰克逊逝世：互联网第一次全球悼念",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "流行之王迈克尔·杰克逊在伦敦演出复出前夕离世，全球互联网陷入史上第一次真正的集体悼念：Twitter 崩溃、谷歌被搜爆、线上零售唱片瞬间卖空。数字时代的巨星告别方式自此改写。",
+  "detail": "2009年6月25日，迈克尔·杰克逊在筹备复出演唱会期间猝然离世，终年50岁。消息传开的数小时内，Twitter 消息量暴增导致服务告急，Google 因搜索量激增触发误判，线上商店的 MJ 专辑一夜售罄。全球网民在社交网络上自发组织悼念，纪念视频与《Heal the World》翻唱刷屏。这是社交媒体时代第一次超大规模的全球哀悼，也宣告了巨星叙事与互联网传播的深度合流。",
+  "impact": "社交媒体第一次展现全球性实时传播与动员能力，成为互联网文化史的分界事件。",
+  "aftermath": "其纪录片《This Is It》全球热映；MJ 音乐版权资产此后成为资本追逐的标的。",
+  "sources": [
+   {
+    "title": "维基百科：迈克尔·杰克逊",
+    "url": "https://zh.wikipedia.org/wiki/迈克尔·杰克逊",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "迈克尔·杰克逊",
+   "流行音乐",
+   "社交媒体"
+  ]
+ },
+ {
+  "id": "2009-06-26-bilibili-founded",
+  "date": "2009-06-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Mikufans 创立：bilibili 的前夜",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "9岁的徐逸（⑨bishi）创建 Mikufans.cn，作为 A 站动荡时期的『备胎』弹幕站；2010年1月24日改名 bilibili。谁也没想到，这个小站日后成为中国二次元文化的中心。",
+  "detail": "2009年6月26日，徐逸（网名⑨bishi）创办弹幕视频网站 Mikufans.cn，初衷是在 AcFun 经营动荡时给用户提供一个备用社区。2010年1月24日，网站正式更名为 bilibili（哔哩哔哩）。凭借番剧、鬼畜、游戏区的内容生态与『干杯』社区文化，B站逐步壮大，2018年登陆纳斯达克，从爱好者小站成长为影响一代年轻人的内容平台。",
+  "impact": "中国二次元弹幕社区的第二极诞生，日后成为 Z 世代内容消费的主阵地。",
+  "aftermath": "bilibili 2018年美股上市、2021年回港二次上市，从『小破站』进化为市值数百亿美元的上市公司。",
+  "sources": [
+   {
+    "title": "维基百科：哔哩哔哩",
+    "url": "https://zh.wikipedia.org/wiki/哔哩哔哩",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "bilibili",
+   "B站",
+   "弹幕",
+   "徐逸"
+  ]
+ },
+ {
+  "id": "2009-07-01-chrome-os-announce",
+  "date": "2009-07-01",
+  "date_accuracy": "month",
+  "date_confidence": "single-source",
+  "title": "Google 宣布 Chrome OS：浏览器就是操作系统",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "Google 宣布开发基于 Chrome 浏览器的操作系统 Chrome OS，目标直指上网本：开机即浏览器，一切都在云端。当时被笑『想得美』，后来 Chromebook 真的在教育市场卖出了几亿台。",
+  "detail": "2009年7月，Google 官方宣布正在开发开源操作系统 Chrome OS，以 Chrome 浏览器为核心，主打快速启动与云端应用，首个目标市场是上网本。项目团队部分来自早前收购的 Picazo 等公司，2010年底首批 Chromebook 试点机亮相，2011年起正式商用。『浏览器即操作系统』在发布时显得激进，但十年后 Chromebook 在全球教育市场拿下可观份额。",
+  "impact": "把『Web 即平台』的愿景推到操作系统层级，冲击了微软的 Windows 垄断叙事。",
+  "aftermath": "Chromebook 在教育市场站稳脚跟；其思想遗产也影响了后来 PWA 与云游戏的演进。",
+  "sources": [
+   {
+    "title": "维基百科：ChromeOS",
+    "url": "https://zh.wikipedia.org/wiki/ChromeOS",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Google",
+   "Chrome OS",
+   "操作系统"
+  ]
+ },
+ {
+  "id": "2009-07-16-jia-junpeng",
+  "date": "2009-07-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『贾君鹏你妈妈喊你回家吃饭』：空帖引爆魔兽吧",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2009年7月16日，百度贴吧魔兽世界吧一句『贾君鹏你妈妈喊你回家吃饭』数小时收获数十万回复，成为中文网络史上最著名的空帖现象。它诞生于魔兽停服的真空期，也让『回家吃饭』成为年度流行语。",
+  "detail": "2009年7月16日上午，一个仅有标题『贾君鹏你妈妈喊你回家吃饭』、无正文的帖子出现在百度贴吧魔兽世界吧，短时间内回复暴涨至数十万条，参与者乐此不疲地编造『贾君鹏』的身世故事。当时正值魔兽国服易主停服的真空期，无处安放的玩家情绪借这场狂欢宣泄。『贾君鹏』迅速登上各大媒体，成为中国互联网群体行为研究的经典样本。",
+  "impact": "中文网络迷因现象的巅峰案例，展现了社区情绪在特定情境下的爆发力。",
+  "aftermath": "多年后有自称策划者称此为营销事件，真假莫辨；『你妈妈喊你回家吃饭』则永久留在了网络流行语词典里。",
+  "sources": [
+   {
+    "title": "维基百科：贾君鹏事件",
+    "url": "https://zh.wikipedia.org/wiki/贾君鹏事件",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "贾君鹏",
+   "百度贴吧",
+   "网络迷因",
+   "魔兽世界"
+  ]
+ },
+ {
+  "id": "2009-08-04-renren-rebrand",
+  "date": "2009-08-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "校内网更名人人网：从校园走向全民",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "千橡宣布将『校内网』更名为『人人网』，8月14日启用新域名 renren.com。走出校园围墙的中国 Facebook 终于摘掉『学生证』，这既是扩张宣言，也悄悄抹去了它最珍贵的校园滤镜。",
+  "detail": "2009年8月4日，千橡互动官方宣布校内网更名为『人人网』，8月14日正式启用 renren.com 新域名。更名意在把用户从高校延伸到整个社会人群，与开心网、QQ空间正面争夺白领市场。此后人人网一度如日中天，2011年5月登陆纽交所，市值一度超过70亿美元；但移动转型迟缓，随后用户持续流失，成为『被时代抛弃』的典型案例。",
+  "impact": "中国 SNS 从校园深耕转向全民竞争的关键一步。",
+  "aftermath": "人人网上市即巅峰，此后错失移动时代，2018年以2000万美元把人人网社交平台卖给北京多牛互动。",
+  "sources": [
+   {
+    "title": "维基百科：校内网",
+    "url": "https://zh.wikipedia.org/wiki/校内网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "人人网",
+   "校内网",
+   "SNS",
+   "千橡"
+  ]
+ },
+ {
+  "id": "2009-08-14-sina-weibo-beta",
+  "date": "2009-08-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "新浪微博内测：中国社交媒体的下一个十年",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "新浪于8月14日开始内测微博服务，早期用 t.sina.cn 域名。饭否折戟留下的真空被门户巨头迅速填补，名人认证+转发机制让微博两年狂飙数亿用户，中国由此进入『围观』时代。",
+  "detail": "2009年8月14日，新浪启动微博服务内测，最初域名 t.sina.cn，产品形态对标 Twitter 并强化了评论、转发与名人认证体系。凭借门户时代的媒体资源与明星运营能力，新浪微博用户爆发式增长，2011年4月启用 weibo.com 域名。微博让普通人第一次实时围观公共事件、直接对话明星，重新定义了中国的舆论场与粉丝经济，此后虽有微信强势分流，但微博仍是热点事件的第一现场。",
+  "impact": "开创中国微博客的霸主格局，重塑媒体、营销与粉丝文化的运行方式。",
+  "aftermath": "微博2014年登陆纳斯达克；在短视频冲击下转型为热点社区与明星粉丝平台，至今仍是中文互联网重要舆论场。",
+  "sources": [
+   {
+    "title": "维基百科：新浪微博",
+    "url": "https://zh.wikipedia.org/wiki/新浪微博",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "新浪微博",
+   "微博",
+   "社交媒体",
+   "新浪"
+  ]
+ },
+ {
+  "id": "2009-01-01-shanda-games-ipo",
+  "date": "2009-01-01",
+  "date_accuracy": "year",
+  "date_confidence": "single-source",
+  "title": "盛大游戏分拆上市：中国游戏第一股易位",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2009年，盛大网络把游戏业务分拆为盛大游戏赴美上市，成为当年度美股市场最受瞩目的中国 IPO 之一。『母子公司同时上市』的资本实验在中国互联网公司中开了先河。",
+  "detail": "2009年，盛大网络将旗下游戏业务分拆为独立的盛大游戏，在纳斯达克挂牌上市，融资约1.04亿美元。母公司盛大网络与子公司盛大游戏双双在美交易，这种『分拆上市』架构在当时的中国互联网公司中极为罕见，展示了陈天桥资本运作的想象力。游戏业务独立后，盛大网络母体则加速向『网络迪士尼』的娱乐集团方向转型，此后又逐步布局文学、视频等资产。",
+  "impact": "中国游戏公司分拆上市的首次尝试，盛大系资本版图的巅峰时刻。",
+  "aftermath": "盛大游戏此后经历私有化与多轮股权转手，最终并入世纪华通体系；盛大网络则逐渐淡出一线互联网阵营。",
+  "sources": [
+   {
+    "title": "维基百科：盛大游戏",
+    "url": "https://zh.wikipedia.org/wiki/盛大游戏",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "盛大游戏",
+   "盛大",
+   "上市",
+   "分拆"
+  ]
+ },
+ {
+  "id": "2009-10-22-windows7-launch",
+  "date": "2009-10-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Windows 7 发售：微软的救赎之作",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "被 Vista 伤透心的世界迎来了 Windows 7：10月22日零售开卖（大陆10月23日），更快、更稳、更好看。XP 用户终于心甘情愿升级，Win7 成为 Windows 史上口碑最好的版本之一，一用就是十年。",
+  "detail": "Windows 7 于2009年7月22日完成 RTM，10月22日在美国等市场零售发售，中国大陆及台湾为10月23日。它在 Vista 的架构上打磨性能与兼容性，加入 Aero Snap、跳转列表等易用特性，上市后好评如潮，企业与新装机用户迅速采纳。Win7 的成功帮助微软挽回 Vista 造成的信誉损失，其生命周期超长——直到2020年1月才正式停止支持，至今仍有遗老用户。",
+  "impact": "证明『打磨好过重写』，成为 Windows 世代最长寿、口碑最好的版本之一。",
+  "aftermath": "Win7 之后 Windows 8 大改翻车、Win10 回归稳态；Win7 的成功公式被视为操作系统产品线的教科书。",
+  "sources": [
+   {
+    "title": "维基百科：Windows 7",
+    "url": "https://zh.wikipedia.org/wiki/Windows_7",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Windows 7",
+   "操作系统"
+  ]
+ },
+ {
+  "id": "2009-11-11-double-eleven",
+  "date": "2009-11-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首届双十一：27个品牌的促销实验",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "淘宝商城（后来的天猫）在光棍节搞了一次全场五折促销，李宁、联想、飞利浦等27个品牌参加，当日交易额5200万元，约为日常十倍。没人想到，这个『试水活动』会长成全球最大的购物节。",
+  "detail": "2009年11月11日，张勇（逍遥子）团队在淘宝商城发起首届『双十一』促销，原定30多个品牌中途有人退出，最终李宁、联想、飞利浦等27家商户参与，当日成交额突破5200万元，约为平时日交易额的10倍。这次光棍节营销的意外成功让阿里决定年年办下去，双十一逐步演化为覆盖物流、支付、直播、晚会的全球最大购物节，单日交易额后来突破数千亿元。",
+  "impact": "人造购物节的鼻祖，彻底改写中国零售的营销日历与电商基础设施节奏。",
+  "aftermath": "京东、拼多多等平台相继跟进大促；双十一也从全民狂欢逐渐走向理性，成为观察中国消费景气的年度指标。",
+  "sources": [
+   {
+    "title": "维基百科：双十一",
+    "url": "https://zh.wikipedia.org/wiki/双十一",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "双十一",
+   "淘宝商城",
+   "天猫",
+   "电商"
+  ]
+ },
+ {
+  "id": "2009-12-11-angry-birds",
+  "date": "2009-12-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《愤怒的小鸟》上架 App Store：手游时代的 opener",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "芬兰小公司 Rovio 的第52款游戏《愤怒的小鸟》在 App Store 上架，弹弓加物理引擎的简单玩法一飞冲天。它证明了 App Store 时代一款手游可以成为全球流行文化，手游产业自此起飞。",
+  "detail": "2009年12月11日，Rovio 的《愤怒的小鸟》（Angry Birds）在 iOS App Store 首发上线。游戏以弹弓发射小鸟攻击绿猪为核心玩法，操作极简而手感精准，依靠口碑在 App Store 排行榜持续攀升，此后移植到安卓等几乎所有平台，总下载量数十亿次。红色小鸟形象出现在毛绒玩具、动画电影乃至主题公园，成为第一个真正意义上的『手游超级IP』。",
+  "impact": "移动游戏商业化的启蒙之作，让全世界看到 App 付费/内购模式的爆发力。",
+  "aftermath": "Rovio 借势推出续作与电影，但后续产品未能复制奇迹；2016年《愤怒的小鸟》大电影票房仍达3.5亿美元。",
+  "sources": [
+   {
+    "title": "维基百科：愤怒的小鸟（游戏）",
+    "url": "https://zh.wikipedia.org/wiki/愤怒的小鸟_(游戏)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "愤怒的小鸟",
+   "Rovio",
+   "手游",
+   "App Store"
+  ]
+ },
+ {
+  "id": "2009-12-18-avatar-release",
+  "date": "2009-12-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《阿凡达》北美上映：3D 电影工业革命",
+  "category": "culture",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "詹姆斯·卡梅隆憋了12年的《阿凡达》北美上映，潘多拉星球的3D视效让电影工业跨代升级。次月登陆内地后一票难求，黄牛炒到数百元，中国银幕数与3D厅建设自此狂飙。影院排队盛况成了一代人的时代记忆。",
+  "detail": "2009年12月18日，《阿凡达》在北美上映（中国内地2010年1月4日公映）。影片以表演捕捉技术与3D立体呈现构建潘多拉星球，全球首轮票房27.49亿美元，创下影史纪录（后经重映累计29.23亿美元）。内地市场首周斩获2.7亿元，北京等地出现凌晨排队与天价黄牛票，『看电影』第一次成为中国人的全社会话题。它的成功直接刺激了中国影院的3D银幕建设潮与国产大片工业化焦虑。",
+  "impact": "3D 电影与巨幕时代的引爆点，全球影院基建尤其是中国市场因它而变。",
+  "aftermath": "《阿凡达》长期稳居全球票房榜首（后被《复联4》短暂超越、重映夺回）；中国电影市场随后十年成为全球增长引擎。",
+  "sources": [
+   {
+    "title": "维基百科：阿凡达",
+    "url": "https://zh.wikipedia.org/wiki/阿凡达",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "阿凡达",
+   "卡梅隆",
+   "3D电影",
+   "票房"
+  ]
+ }
 ]

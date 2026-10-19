@@ -101,7 +101,7 @@ function initToggle() {
 
 /* ── 三维星河 ─────────────────────────────────────── */
 let renderer, scene, camera, points, glow, sel;
-const rig = { tx: xOf(1994.2), yaw: 0, pitch: 0.55, dist: 96 };
+const rig = { tx: (xOf(T0) + xOf(T1)) / 2, yaw: 0, pitch: 0.62, dist: 0 }; // dist=0 → 首帧按视口计算全景
 let tween = null, raycaster, mouse = new THREE.Vector2(), uTime = { value: 0 }, uProgress = { value: 0 };
 let mLabels = [], yLabels = [], posArr, milestones = [];
 
@@ -110,7 +110,7 @@ function initGalaxy() {
   renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
   renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
   scene = new THREE.Scene();
-  scene.fog = new THREE.FogExp2(0x05070f, 0.00135);
+  scene.fog = new THREE.FogExp2(0x05070f, 0.00025);
   camera = new THREE.PerspectiveCamera(55, 1, 0.1, 3000);
 
   buildEraBands(); buildTicks(); buildBackdrop();
@@ -166,7 +166,7 @@ function buildPoints() {
         vec4 mv = modelViewMatrix * vec4(position, 1.0);
         float tw = 0.72 + 0.28 * sin(uTime * (0.9 + aPhase * 1.8) + aPhase * 40.0);
         vA = tw;
-        gl_PointSize = aSize * uPR * (170.0 / -mv.z);
+        gl_PointSize = max(aSize * uPR * (300.0 / -mv.z), 1.6 * uPR);
         gl_Position = projectionMatrix * mv;
       }`,
     fragmentShader: `
@@ -193,14 +193,14 @@ function buildGlow() {
   g.setAttribute('aPhase', new THREE.BufferAttribute(ph, 1));
   const m = new THREE.ShaderMaterial({
     transparent: true, depthWrite: false, blending: THREE.AdditiveBlending,
-    uniforms: { uTime, uProgress },
+    uniforms: { uTime, uProgress, uPR: { value: Math.min(devicePixelRatio, 2) } },
     vertexShader: `
-      attribute float aPhase; uniform float uTime, uProgress;
+      attribute float aPhase; uniform float uTime, uProgress, uPR;
       varying float vA;
       void main(){
         vec4 mv = modelViewMatrix * vec4(position, 1.0);
         vA = 0.55 + 0.45 * sin(uTime * 1.6 + aPhase * 20.0);
-        gl_PointSize = (26.0 + 6.0 * sin(uTime * 1.6 + aPhase * 20.0)) * (170.0 / -mv.z);
+        gl_PointSize = max((34.0 + 8.0 * sin(uTime * 1.6 + aPhase * 20.0)) * (300.0 / -mv.z), 4.0 * uPR);
         gl_Position = projectionMatrix * mv;
       }`,
     fragmentShader: `
@@ -291,7 +291,7 @@ function buildLabels() {
 /* ── 相机与交互 ───────────────────────────────────── */
 function fitDist(spanYears) {
   const fovX = 2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(camera.fov / 2)) * camera.aspect);
-  return Math.min(320, Math.max(30, (spanYears * U * 1.28) / (2 * Math.tan(fovX / 2))));
+  return Math.min(2400, Math.max(30, (spanYears * U * 1.02) / (2 * Math.tan(fovX / 2))));
 }
 function flyTo(tx, dist) {
   tween = { t0: performance.now(), dur: 950, fromX: rig.tx, toX: tx, fromD: rig.dist, toD: dist };
@@ -306,6 +306,7 @@ function tweenProgress() {
   })();
 }
 function updateCamera() {
+  if (rig.dist === 0) rig.dist = fitDist(T1 - T0);
   if (tween) {
     const p = Math.min(1, (performance.now() - tween.t0) / tween.dur);
     const e = p < 0.5 ? 4 * p ** 3 : 1 - Math.pow(-2 * p + 2, 3) / 2;
@@ -335,7 +336,8 @@ function bindControls(canvas) {
       moved += Math.abs(dx) + Math.abs(dy);
       if (down.shift) { rig.yaw = THREE.MathUtils.clamp(rig.yaw + dx * 0.003, -1.0, 1.0); }
       else {
-        rig.tx = THREE.MathUtils.clamp(rig.tx - dx * (rig.dist / 620), xOf(T0 - 1), xOf(T1));
+        const panScale = THREE.MathUtils.clamp(rig.dist / 620, 0.02, 4);
+  rig.tx = THREE.MathUtils.clamp(rig.tx - dx * panScale, xOf(T0 - 1), xOf(T1));
         rig.pitch = THREE.MathUtils.clamp(rig.pitch + dy * 0.0022, 0.1, 1.25);
       }
       down.x = ev.clientX; down.y = ev.clientY;
@@ -349,7 +351,7 @@ function bindControls(canvas) {
   canvas.addEventListener('pointerleave', () => { $('#hoverTip').style.display = 'none'; });
   canvas.addEventListener('wheel', ev => {
     ev.preventDefault(); tween = null;
-    rig.dist = THREE.MathUtils.clamp(rig.dist * Math.exp(ev.deltaY * 0.001), 26, 320);
+    rig.dist = THREE.MathUtils.clamp(rig.dist * Math.exp(ev.deltaY * 0.001), 26, 2400);
   }, { passive: false });
   canvas.addEventListener('contextmenu', ev => ev.preventDefault());
   addEventListener('keydown', ev => {
@@ -412,14 +414,21 @@ function updateOverlay() {
     lastX = p.x;
   }
   let shown = 0;
+  const placed = [];
   for (const rec of mLabels) {
     const { e, i } = rec.m;
-    if (!catOn[e.category] || shown >= 26) { rec.el.style.display = 'none'; continue; }
+    if (!catOn[e.category] || shown >= 30) { rec.el.style.display = 'none'; continue; }
     const p = project(posArr[i * 3], posArr[i * 3 + 1] + 1.2, posArr[i * 3 + 2]);
     if (!p || p.x < 40 || p.x > innerWidth - 40 || p.y < 130 || p.y > innerHeight - 80) { rec.el.style.display = 'none'; continue; }
+    const text = e.title.length > 13 ? e.title.slice(0, 13) + '…' : e.title;
+    const estW = text.length * 11.5 + 44;
+    const lx = Math.max(estW / 2 + 6, Math.min(innerWidth - estW / 2 - 6, p.x));
+    const clash = placed.some(r => lx + estW / 2 > r.x0 && lx - estW / 2 < r.x1 && Math.abs(p.y - r.y) < 20);
+    if (clash) { rec.el.style.display = 'none'; continue; }
+    placed.push({ x0: lx - estW / 2, x1: lx + estW / 2, y: p.y });
     rec.el.style.display = 'block';
-    rec.el.innerHTML = `<span class="yr">${e.date.slice(0, 4)}</span>${esc(e.title.length > 14 ? e.title.slice(0, 14) + '…' : e.title)}`;
-    rec.el.style.left = p.x + 'px'; rec.el.style.top = p.y + 'px';
+    rec.el.innerHTML = `<span class="yr">${e.date.slice(0, 4)}</span>${esc(text)}`;
+    rec.el.style.left = lx + 'px'; rec.el.style.top = p.y + 'px';
     shown++;
   }
 }
@@ -444,7 +453,7 @@ function fillDrawer(e, idx) {
   $('#drawerBody').innerHTML = `
     <div class="dMeta">
       <span class="chip cat" style="border-color:${CATMAP[e.category]?.color}66;color:${CATMAP[e.category]?.color}">${CATMAP[e.category]?.name || e.category}</span>
-      ${e.milestone ? '<span class="chip gold">★ 时代转折点</span>' : ''}
+      ${e.milestone && e.category !== 'milestone' ? '<span class="chip gold">★ 时代转折点</span>' : ''}
       <span class="chip">来源${conf[0]}</span>
       ${e.date_accuracy !== 'exact' ? `<span class="chip warn">${e.date_accuracy === 'month' ? '精确到月' : '精确到年'}</span>` : ''}
       <span class="chip">${e.region === 'cn' ? '中国' : '世界'}</span>
