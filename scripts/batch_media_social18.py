@@ -83,6 +83,6 @@ def merge(fn, items):
 
 
 merge("2000-2004.json", E1[0:1])
-merge("2015-2019.json", E1[1:] + E2[0:1])
-merge("2020-2022.json", E2[1:])
+merge("2015-2019.json", E1[1:3])
+merge("2020-2022.json", E1[3:])
 print("补录批次十八完成")
