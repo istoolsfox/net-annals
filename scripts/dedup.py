@@ -42,6 +42,15 @@ def main() -> int:
         out = []
         for e in d:
             dup = (e["id"] in pool or (e["date"], e["title"].strip()) in titles or e["id"] in seen)
+            if not dup:
+                sa, sb = set(e["title"]), None
+                for (d2, t2) in titles:
+                    if d2 == e["date"]:
+                        ov = len(set(e["title"]) & set(t2)) / min(len(set(e["title"])), len(set(t2)))
+                        if ov > 0.6:
+                            dup = True
+                            print(f"  同日相似删除 {f.name}: {e['id']} ╌ {t2[:20]}")
+                            break
             if dup:
                 removed += 1
                 print(f"  与主文件重复删除 {f.name}: {e['id']} {e.get('title','')}")
