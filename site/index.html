@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="中国互联网编年史：从 1987 年第一封电子邮件到今天，精确到日、每条可溯源的时代长卷。">
+<title>互联网编年史 · 中国长河 1986—2026</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="loader"><div class="pulse"></div><div>正在点亮时间长河…</div></div>
+
+<header>
+  <div class="brand">
+    <h1>互联网编年史</h1>
+    <span class="sub">中国长河 1986—2026 · 精确到日 · 每条可溯源</span>
+  </div>
+  <nav id="eraNav"></nav>
+  <div class="toolbar">
+    <div id="catFilters"></div>
+    <div class="viewToggle">
+      <button id="btnGalaxy" class="active">✦ 星河</button>
+      <button id="btnList">☰ 列表</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section id="galaxyView">
+    <canvas id="river"></canvas>
+    <div id="overlay"></div>
+    <div id="hoverTip"></div>
+    <div id="legend"></div>
+    <div id="eraHint">拖拽平移 · 滚轮缩放 · Shift+拖拽旋转<br>点击星点阅读详情 · ← → 翻页</div>
+  </section>
+  <section id="listView" hidden>
+    <div class="listTools">
+      <input id="search" placeholder="搜索标题 / 概括 / 关键词 / 日期…" autocomplete="off">
+      <span id="searchCount"></span>
+    </div>
+    <div id="listContent"></div>
+  </section>
+</main>
+
+<aside id="drawer">
+  <div class="drawerTop">
+    <button id="drawerClose" title="关闭 (Esc)">✕</button>
+  </div>
+  <div id="drawerBody"></div>
+</aside>
+
+<footer>
+  <span id="stats"></span>
+  <span>数据持续增补 · 条目均附原文出处 · 存疑日期明确标注</span>
+  <span id="buildTime"></span>
+</footer>
+
+<div id="legend"></div>
+
+<script src="vendor/three.min.js"></script>
+<script src="app.js"></script>
+<script>
+  // 图例（类别色卡）
+  (function () {
+    const box = document.getElementById('legend');
+    for (const c of CATS) {
+      const s = document.createElement('span');
+      s.innerHTML = `<span class="dot" style="background:${c.color}"></span>${c.name}`;
+      box.appendChild(s);
+    }
+  })();
+</script>
+</body>
+</html>

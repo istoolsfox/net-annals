@@ -1,0 +1,3 @@
+_server_docs/tmp*
+.DS_Store
+site/data.json
