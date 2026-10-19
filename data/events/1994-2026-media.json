@@ -1,0 +1,164 @@
+[
+{
+"id": "2001-01-15-wikipedia-launch",
+"date": "2001-01-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "维基百科上线：人人可编辑的百科全书",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月15日，维基百科（Wikipedia）正式上线，任何人都可以编辑任何词条。这个『疯狂』的实验后来长成了人类最大的知识库：300多种语言、数千万条目，中文维基百科也随之在2002年诞生。",
+"detail": "2001年1月15日，吉米·威尔士与拉里·桑格将维基百科作为Nupedia的补充项目正式上线，采用wiki技术向公众开放编辑。上线首月即积累约1000个条目，增长呈指数级：2001年底条目破2万，2002年10月中文维基百科创立。维基的『人人可编辑+版本历史回滚』机制证明了大规模陌生人协作的可行性，成为Web 2.0最成功的知识生产实验；其非营利模式（维基媒体基金会，2003年设立）与『中立的观点』方针塑造了互联网内容社区的伦理范式。",
+"impact": "人类历史上最大规模的协作知识库诞生，免费开放的知识获取方式深刻改变教育与研究。",
+"aftermath": "2020年代维基百科条目超6000万；AI大模型的训练语料中维基百科质量权重最高，其编辑者社群仍在与机器生成内容共处探索。",
+"sources": [
+{
+"title": "Wikipedia: 维基百科",
+"url": "https://zh.wikipedia.org/wiki/维基百科",
+"type": "wiki"
+}
+],
+"tags": [
+"维基百科",
+"wiki",
+"UGC",
+"知识共享"
+]
+},
+{
+"id": "1999-08-23-blogger-launch",
+"date": "1999-08-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Blogger上线：每个人都能出『个人出版物』",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "8月23日，Blogger.com上线，把『写网页』简化成『写日志』。博客（Blog）一词从此进入大众词典，个人表达第一次有了杂志级的发布渠道——中文世界的『博客』热潮在三年后接踵而至。",
+"detail": "1999年8月23日，Pyra Labs公司的Blogger.com上线，由埃文·威廉姆斯等人开发，首次把博客写作做成傻瓜式托管服务：点几下就能拥有常更新的个人站点。『Weblog』被简化为『blog』并动词化，个人出版、RSS订阅与链接文化（blogroll）随之成型。2003年Google收购Blogger；中文世界则在2002-2005年迎来博客中国、新浪博客等本土热潮，徐静蕾等明星博客把个人写作推向全民。博客是『个人媒体』时代的开端，也是今天公众号、 Newsletter、个人站的精神源头。",
+"impact": "个人出版门槛降为零，Web从『浏览』转向『书写』。",
+"aftermath": "微博、公众号与短视频接管了博客的大众功能；但独立博客与静态站技术在开发者社群中复兴，RSS永生。",
+"sources": [
+{
+"title": "Wikipedia: Blogger",
+"url": "https://zh.wikipedia.org/wiki/Blogger",
+"type": "wiki"
+}
+],
+"tags": [
+"博客",
+"Blogger",
+"个人出版",
+"Web2.0"
+]
+},
+{
+"id": "2004-02-10-flickr-launch",
+"date": "2004-02-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Flickr上线：给照片打上标签的社交网络",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月10日，图片分享网站Flickr上线。它发明了『标签（Tag）』的组织方式，让照片第一次可以被陌生人按主题找到——Web 2.0的黄金气质：分享、标签、社群，全在这一年里成型。",
+"detail": "2004年2月10日，由Ludicorp公司开发的Flickr正式公开，最初本是游戏《Game Neverending》的附属功能，却反客为主成为图片分享的标杆。Flickr普及了『标签（tag）』元数据组织方式与『联系人-好友-家人』的分级分享权限，其API开放策略让第三方应用生态繁荣，被公认为Web 2.0的样板产品。2005年雅虎以约3500万美元收购Flickr；中文世界的图片分享与『相册社交』随之兴起。此后Instagram以更轻的移动形态取代其大众地位，但摄影创作者社群仍以Flickr为家。",
+"impact": "标签化分享与社区型图库的模式确立，UGC图片生态成为社交媒体标配。",
+"aftermath": "雅虎时代政策反复（限容、改名）流失大量用户，2018年SmugMug接手；Flickr『1000张免费』政策变动引发的老用户抗议是平台经济伦理的经典案例。",
+"sources": [
+{
+"title": "Wikipedia: Flickr",
+"url": "https://zh.wikipedia.org/wiki/Flickr",
+"type": "wiki"
+}
+],
+"tags": [
+"Flickr",
+"标签",
+"图片分享",
+"Web2.0"
+]
+},
+{
+"id": "2009-10-26-geocities-closed",
+"date": "2009-10-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GeoCities关站：互联网旧大陆沉没",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月26日，雅虎关闭个人主页服务GeoCities——这个曾容纳3800万个手工网页的『互联网旧大陆』正式沉没。闪动的字、MIDI 背景乐、访客计数器，一代人的初代网络家园从此只能靠档案馆凭吊。",
+"detail": "2009年10月26日，雅虎正式关闭GeoCities的个人主页服务。GeoCities创立于1994年，以『社区街区』的方式组织用户手工搭建的个人网页，巅峰期号称全球访问量第三的网站，3800万个主页闪烁着GIF动图、MIDI背景乐与访客计数器，是无数人的互联网启蒙。关闭消息公布后，『GeoCities档案馆计划』等志愿者用爬虫抢救式保存了约1TB页面数据，互联网档案馆（Archive Team）的抢救行动本身成为数字保存运动的标志性事件。同年前后，Google Reader尚在、RSS繁荣，但『个人手搓主页』的大众时代确已落幕。",
+"impact": "数字文化遗产的保存议题进入公众视野，『链接腐烂』成为互联网史学关键词。",
+"aftermath": "2022年GeoCities考古风潮回归：复刻像素风的个人站、Neocities等复刻平台重新聚集复古网页爱好者。",
+"sources": [
+{
+"title": "Wikipedia: GeoCities",
+"url": "https://zh.wikipedia.org/wiki/GeoCities",
+"type": "wiki"
+}
+],
+"tags": [
+"GeoCities",
+"个人主页",
+"数字保存",
+"互联网考古"
+]
+},
+{
+"id": "2012-08-23-wechat-official-account",
+"date": "2012-08-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微信公众号上线：自媒体时代正式开幕",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月23日，微信上线公众号平台。『再小的个体，也有自己的品牌』——这句slogan很快兑现：写作者、媒体人、小店主纷纷入驻，订阅号打开了移动互联网时代的内容大爆炸，自媒体从行当变成了产业。",
+"detail": "2012年8月23日，微信推出公众平台（公众号），以『再小的个体，也有自己的品牌』为口号，向机构与个人开放内容发布。凭借微信的社交链与移动支付能力，公众号迅速成为中文互联网最大的内容分发渠道：2013-2016年『自媒体』从调侃变成职业，咪蒙等头部号单条广告报价达数十万元，传统媒体人掀起离职创业潮。公众号重塑了广告、电商（小程序前奏）与知识付费的形态，也带来洗稿、标题党与信息茧房的新问题；视频号（2020年）与小红书、抖音相继分走注意力，但公众号至今仍是中文深度内容的基础设施。",
+"impact": "自媒体完成职业化与产业化，内容创业成为中国互联网的黄金赛道之一。",
+"aftermath": "2018年后打开率持续下滑，平台加推『看一看』与付费订阅自救；但品牌公众号与企业微信生态依然稳固。",
+"sources": [
+{
+"title": "Wikipedia: 微信公众号",
+"url": "https://zh.wikipedia.org/wiki/微信公众号",
+"type": "wiki"
+}
+],
+"tags": [
+"公众号",
+"自媒体",
+"微信",
+"内容创业"
+]
+},
+{
+"id": "2013-06-01-xiaohongshu-launch",
+"date": "2013-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "小红书上线：从购物攻略到生活方式社区",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2013年年中，一款叫『小红书』的App上线，最初只是几张海外购物攻略PDF。谁能想到，这个『把功课晒出来』的社区会长成2亿多人的生活方式入口：种草、拔草、避雷，年轻人的消费决策从此被它改写。",
+"detail": "2013年6月前后，毛文超与瞿芳在上海创立小红书，初版产品是把海外购物经验整理成可下载的PDF攻略（『小红书出境购物攻略』），迅速在海淘人群中传播；同年12月转向UGC社区『小红书购物笔记』。凭借真实分享的『种草』文化，平台从跨境购物扩展到美妆、旅行、家居、职场全生活方式，2019年后用户破3亿，『遇事不决小红书』成为年轻人的搜索习惯。它也重塑了品牌营销逻辑：KOC（素人达人）取代明星代言成为美妆行业的投放重点，『虚假种草』与滤镜争议随之而来。",
+"impact": "『种草』成为消费决策的通用语言，UGC电商社区跑通了内容-交易闭环。",
+"aftermath": "2023年小红书电商闭环加速（董洁直播出圈）；『搜索即小红书』的用户心智对传统搜索引擎构成实质挑战。",
+"sources": [
+{
+"title": "Wikipedia: 小红书",
+"url": "https://zh.wikipedia.org/wiki/小红书",
+"type": "wiki"
+}
+],
+"tags": [
+"小红书",
+"种草",
+"生活方式",
+"社区"
+]
+}
+]
