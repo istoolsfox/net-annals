@@ -5,6 +5,8 @@
 - date: month/year 精度归一到 01 日；id 前缀与 date 对齐、转小写
 """
 import json
+import sys
+from datetime import date
 import re
 import sys
 from pathlib import Path
@@ -28,6 +30,17 @@ def main() -> int:
             c = e.get("date_confidence")
             if c in CONF_MAP:
                 e["date_confidence"] = CONF_MAP[c]; dirty = True
+            # 宽松修复畸形日期（如 1990-1001 / 19901001）
+            raw = e.get("date", "")
+            digits = raw.replace("-", "")
+            if len(digits) == 8 and digits.isdigit():
+                try:
+                    date(int(digits[:4]), int(digits[4:6]), int(digits[6:]))
+                    fixed = f"{digits[:4]}-{digits[4:6]}-{digits[6:]}"
+                    if fixed != raw:
+                        e["date"] = fixed; dirty = True
+                except ValueError:
+                    pass
             acc = e.get("date_accuracy")
             if acc == "month" and not e["date"].endswith("01"):
                 e["date"] = e["date"][:8] + "01"; dirty = True
