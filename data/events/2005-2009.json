@@ -1276,6 +1276,33 @@
 ]
 },
 {
+"id": "2009-03-09-uber-founded",
+"date": "2009-03-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Uber 创立：一键叫车改写全球城市",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2009年3月9日，Uber（初名 UberCab）在旧金山注册成立。加勒特·坎普与特拉维斯·卡兰尼克只是想解决『巴黎雪夜打不到车』的抱怨，结果用一部手机干翻了全世界的出租车牌照体系。",
+"detail": "Uber 以动态定价+私家车接单的模式从旧金山起步，2011年进军纽约、巴黎，2013-2014年完成全球扩张（2014年进入中国，与滴滴血战两年后退场）。它定义了『按需经济』（gig economy）：司机成为灵活就业的标志与争议的焦点——劳动权益诉讼席卷美欧英各国法院。估值叙事同样狂飙：2010年首轮估值400万美元，2019年上市时820亿美元，但年年巨亏的烧钱模式也让华尔街反复追问盈利。卡兰尼克2017年在投资人内斗中出局。Uber 的遗产是双重性：乘客获得史上最便利的出行，而『平台与劳动者』的规则至今没有全球共识。",
+"impact": "共享出行从旧金山 experiments 变成全球基础设施，出租车行业壁垒被连根拔起。",
+"aftermath": "Lyft/Grab/Bolt 等区域玩家分治；监管从封禁走向牌照化；自动驾驶（Waymo 等）成为其下一场豪赌。",
+"sources": [
+{
+"title": "Wikipedia: Uber",
+"url": "https://en.wikipedia.org/wiki/Uber",
+"type": "wiki"
+}
+],
+"tags": [
+"Uber",
+"共享出行",
+"零工经济",
+"卡兰尼克"
+]
+},
+{
 "id": "2009-04-06-healthcare-reform",
 "date": "2009-04-06",
 "date_accuracy": "exact",
