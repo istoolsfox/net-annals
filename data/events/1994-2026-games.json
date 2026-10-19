@@ -1,37 +1,5 @@
 [
 {
-"id": "1994-04-02-final-fantasy-vi",
-"date": "1994-04-02",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《最终幻想6》日本发售，16位JRPG的巅峰",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1994年4月2日，史克威尔在超级任天堂上推出《最终幻想6》。十四位主角的群像剧、歌剧段落、世界被毁灭的中盘大转折，把游戏叙事推到了当时的天花板。它在日本卖出超过250万份，至今仍被很多玩家认为是2D时代最好的RPG。",
-"detail": "《最终幻想6》由坂口博信监制、北濑佳范等人执导、天野喜孝担任人设、植松伸夫配乐，1994年4月2日在日本超级任天堂发售，北美版同年10月以《最终幻想3》之名发行。游戏讲述魔导帝国与反抗军的战争以及世界毁灭后的重生，采用14位可操作角色的群像叙事，歌剧演出、双世界结构、无数隐藏分支在当年引发轰动。日版销量约255万份，全球累计逾340万份，16位JRPG的叙事与技术规格在本作达到顶点。北濑佳范等人后来承认，本作的群像叙事经验直接滋养了《最终幻想7》的野心。",
-"impact": "证明游戏可以承载严肃群像叙事，影响了此后JRPG的剧本规格；系列随后借《最终幻想7》全面转向3D与CD平台。",
-"aftermath": "本作1999年移植PS、2006年重制GBA、2014年登陆手机与PC；2022年像素复刻版收录进《最终幻想像素复刻版》合集，其配乐至今仍在全球音乐会巡演。",
-"sources": [
-{
-"title": "1994 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1994_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Final Fantasy VI - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
-"type": "wiki"
-}
-],
-"tags": [
-"史克威尔",
-"最终幻想",
-"JRPG",
-"SFC"
-]
-},
-{
 "id": "1994-09-16-esrb-founded",
 "date": "1994-09-16",
 "date_accuracy": "exact",
@@ -222,100 +190,6 @@
 ]
 },
 {
-"id": "1995-05-11-first-e3",
-"date": "1995-05-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "首届 E3 电子娱乐展开幕，世嘉土星抢跑北美发售",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "1995年5月11日，第一届E3电子娱乐展在洛杉矶开幕，游戏行业从此有了自己的全球最大展会。同一天，世嘉出人意料地宣布土星主机提前在北美上市，比原计划早了几个月，试图抢占先机打压对手。这场抢跑大战拉开了90年代中期主机大战的序幕，E3也在此后二十多年一直是游戏圈最热闹的舞台。",
-"detail": "1990年代中期游戏产业爆发式增长，原有的分散展会已装不下主机厂商的野心，美国互动数字软件协会（IDSA，后改组为ESA）牵头在洛杉矶创办第一届电子娱乐展（Electronic Entertainment Expo，E3），于1995年5月11日至13日举行，任天堂、世嘉、索尼全部到齐。世嘉为抢占第五世代主机先机，在E3开幕当天突然宣布世嘉土星（Sega Saturn）即刻在北美上市，售价399美元，跳过原定档期，试图打索尼一个措手不及；索尼代表次日登台只报出一个“299”的定价便离场，成为游戏史上最著名的发布会瞬间之一。首届E3就此奠定了全球游戏第一大展的地位，也把当年的主机大战推到了台前。",
-"impact": "E3成为此后二十多年游戏行业最重要的发布窗口；土星抢跑虽然短期抢得销量，但供货不足、渠道积压和399美元高价埋下败因。",
-"aftermath": "E3连办至2019年，在疫情与厂商自办线上发布会的冲击下，2023年正式宣告永久停办；土星在北美惨败，世嘉一蹶不振，最终2001年宣布退出主机硬件市场。",
-"sources": [
-{
-"title": "1995 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1995_in_video_games",
-"type": "wiki"
-},
-{
-"title": "E3 - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/E3",
-"type": "wiki"
-}
-],
-"tags": [
-"E3",
-"世嘉",
-"Sega Saturn",
-"主机大战"
-]
-},
-{
-"id": "1995-07-21-virtual-boy-jp-launch",
-"date": "1995-07-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "任天堂 Virtual Boy 发售，早期VR的著名滑铁卢",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "1995年7月21日，任天堂推出号称能看立体画面的Virtual Boy，是它第一次试水“VR”。但机器只有红黑两色画面、必须趴在桌上玩，玩家玩一会儿就头晕眼花，售价还不便宜。上市不到半年任天堂就宣布停产，它成了任天堂历史上最短命的主机。",
-"detail": "Virtual Boy由“Game Boy之父”横井军平主导，用视差技术实现立体3D效果，1995年7月21日在日本发售，美国8月跟进，定价15000日元/179.95美元。但受成本限制，画面只有红黑两色，不支持头部追踪，只能固定在支架上低头游玩，玩家普遍反馈头痛眩晕；游戏阵容也单薄，全年仅二十余款。1995年12月22日任天堂即宣布停产，全球销量约126万台，成为任天堂迄今最失败的主机产品，也终结了横井军平在任天堂的上升势头。",
-"impact": "VR概念的第一次大型商业尝试折戟，证明体验与硬件成本的平衡远比概念重要；任天堂的品牌口碑和财务都受挫。",
-"aftermath": "横井军平1996年离开任天堂，1997年因车祸去世；立体视觉的理念直到2011年3DS的裸眼3D才被延续，Virtual Boy如今成为收藏市场的猎奇珍品。",
-"sources": [
-{
-"title": "1995 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1995_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Virtual Boy - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Virtual_Boy",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"Virtual Boy",
-"VR"
-]
-},
-{
-"id": "1995-09-09-playstation-na-launch",
-"date": "1995-09-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "索尼 PlayStation 登陆北美，主机格局就此改写",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "1995年9月9日，索尼的第一台游戏机PlayStation以299美元登陆北美，比世嘉土星便宜整整100美元。凭借3D画面能力、CD大容量和更低售价，PS迅速赢得玩家和第三方厂商的支持。这台机器最终卖出超过一亿台，把索尼从家电厂商变成了游戏行业的新霸主。",
-"detail": "索尼原本与任天堂合作研发SNES用CD光驱，合作破裂后决定自研主机。1994年12月3日PlayStation在日本首发，1995年9月9日登陆北美，定价299美元，比两个月前抢跑的世嘉土星便宜100美元。PS采用CD-ROM载体、主攻3D多边形渲染，《铁拳》《山脊赛车》等首发游戏直观展示了3D时代的画面水准，第三方厂商因光碟成本低、容量大而纷纷倒向索尼。1995年内PS在北美卖出约80万台、日本约170万台，上市首年就跻身全球最畅销主机之列。",
-"impact": "主机大战的天平从任天堂、世嘉转向索尼，CD-ROM取代卡带成为主流载体，第三方大作全面涌向PS平台。",
-"aftermath": "PS最终全球销量约1.02亿台，是第一台破亿的家用主机；索尼确立PS品牌世代传承（PS2/3/4/5），至今仍是主机市场三强之一。",
-"sources": [
-{
-"title": "1995 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1995_in_video_games",
-"type": "wiki"
-},
-{
-"title": "PlayStation (console) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
-"type": "wiki"
-}
-],
-"tags": [
-"索尼",
-"PlayStation",
-"主机大战"
-]
-},
-{
 "id": "1995-11-05-gamefaqs",
 "date": "1995-11-05",
 "date_accuracy": "exact",
@@ -344,37 +218,6 @@
 "GameFAQs",
 "玩家社区",
 "攻略文化"
-]
-},
-{
-"id": "1995-12-09-warcraft-ii",
-"date": "1995-12-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《魔兽争霸2》发售，RTS联机对战时代的开门人",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1995年12月9日，暴雪的《魔兽争霸2：黑暗之潮》发售。人族与兽族的战争第一次有了漂亮画面和顺畅的联机对战，“约朋友联网打一局”从此成为PC玩家的日常。它把即时战略游戏从小众品类推成90年代末最火的PC游戏类型，也为暴雪后来的战网帝国铺了路。",
-"detail": "暴雪娱乐1995年12月9日发售《魔兽争霸2：黑暗之潮》（Warcraft II: Tides of Darkness）。相比前作，本作引入高分辨率画面、更完善的资源与兵种体系，并首次内置局域网与调制解调器联网对战功能，人族兽族海陆空三线对抗的平衡性设计成为RTS教科书。游戏与资料片合计销量超300万份，与同年Westwood的《命令与征服》一起把即时战略推向PC主流。“魔兽”的世界观也随本作第一次完整成型。",
-"impact": "确立了“采集—造兵—推基地”的现代RTS范式与多人对战文化，催生了电子竞技的早期生态；魔兽IP自此起步。",
-"aftermath": "暴雪随后推出《暗黑破坏神》《星际争霸》与《魔兽争霸3》，魔兽世界观延伸为全球用户最多的网游《魔兽世界》，至今仍是全球最值钱的游戏IP之一。",
-"sources": [
-{
-"title": "1995 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1995_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Warcraft II: Tides of Darkness - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness",
-"type": "wiki"
-}
-],
-"tags": [
-"暴雪",
-"RTS",
-"魔兽"
 ]
 },
 {
@@ -569,70 +412,6 @@
 ]
 },
 {
-"id": "1997-01-31-final-fantasy-vii",
-"date": "1997-01-31",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《最终幻想7》日本发售，JRPG砸钱进入电影化时代",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1997年1月31日，史克威尔把《最终幻想7》搬上PS，CG过场动画惊艳全球，克劳德的大剑与反派萨菲罗斯成为一代人的记忆。开发费传闻高达4500万美元，是当时最贵的游戏之一。它全球卖出近千万套，把JRPG从日式小众变成了世界主流。",
-"detail": "史克威尔放弃任天堂卡带、转投索尼PS的《最终幻想7》于1997年1月31日在日本发售（北美9月7日）。北濑佳范执导、野村哲也人设、植松伸夫配乐，游戏以预渲染背景加CG过场加3D角色构成电影化叙事，爱丽丝之死等桥段冲击力空前。开发成本传闻4500万美元、营销投入更巨，PS版全球销量约972万套，是PS平台最畅销的第三方游戏之一，直接带动PS在欧美销量暴涨，JRPG自此成为全球主流品类，日系大厂全面倒向CD载体。",
-"impact": "标志日系大厂全面转向PS与CD载体，任天堂卡带阵营流失关键第三方；JRPG在欧美从小众爱好跃升为主流品类。",
-"aftermath": "系列后续全部转向3D电影化叙事；分部重制《最终幻想7重制版》于2020年、2024年相继推出，萨菲罗斯至今仍是游戏史上最知名的反派之一。",
-"sources": [
-{
-"title": "1997 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1997_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Final Fantasy VII - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
-"type": "wiki"
-}
-],
-"tags": [
-"史克威尔",
-"最终幻想7",
-"JRPG",
-"PS"
-]
-},
-{
-"id": "1997-03-20-castlevania-sotn",
-"date": "1997-03-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《恶魔城：月下夜想曲》发售，“银河城”名字里的一半",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1997年3月20日，KONAMI的《恶魔城：月下夜想曲》在PS发售。制作人五十岚孝司把系列改成自由探索大城堡，练级、捡装备、解锁新能力的组合成了新流派。初卖平平，多年后封神，这个玩法直接以它命名——“银河城”（Metroidvania）。",
-"detail": "五十岚孝司首次执掌恶魔城系列的《月下夜想曲》（Castlevania: Symphony of the Night）1997年3月20日在日本PS发售（北美10月）。游戏打破系列关卡制传统，把德古拉城堡做成可自由探索的大型立体地图，加入经验值、装备掉落与通关后翻转的“逆城”，配以山根实知琉璃的哥特风配乐和横版像素美术的巅峰表现。首销平淡，但随口碑长期发酵成为公认的必玩神作，其结构与《超级银河战士》一起被合称为“Metroidvania（银河城）”。",
-"impact": "确立“探索驱动的动作RPG”范式，银河城成为独立游戏时代最受欢迎的品类之一；2D横版的美术与音乐规格在本作达到历史高点。",
-"aftermath": "NDS时代《晓月圆舞曲》等延续公式；2019年五十岚团队的众筹之作《血污：夜之仪式》成功兑现这一公式的号召力，《空洞骑士》等独立游戏则把银河城推向新的高度。",
-"sources": [
-{
-"title": "1997 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1997_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Castlevania: Symphony of the Night - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night",
-"type": "wiki"
-}
-],
-"tags": [
-"KONAMI",
-"恶魔城",
-"银河城",
-"五十岚孝司"
-]
-},
-{
 "id": "1997-08-25-goldeneye-007",
 "date": "1997-08-25",
 "date_accuracy": "exact",
@@ -793,37 +572,6 @@
 ]
 },
 {
-"id": "1998-05-22-unreal-engine-era",
-"date": "1998-05-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《虚幻》发售，虚幻引擎开启“卖引擎”时代",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "1998年5月22日，Epic Games推出射击游戏《虚幻》，画面惊艳业界，但影响更大的是它附带的虚幻引擎。从此游戏公司可以花钱买引擎做游戏，不必什么都自己写。虚幻引擎后来成了行业标配，《堡垒之夜》《黑神话：悟空》都跑在它上面。",
-"detail": "Epic Games（时名Epic MegaGames）与Digital Extremes合作开发的《虚幻》（Unreal）1998年5月22日发售，以色彩绚丽的异星场景与美术表现在与《雷神之锤2》的竞争中打出差异化，自带的关卡编辑器让玩家自制地图蔚然成风。Epic同时将引擎对外授权，1999年《虚幻竞技场》进一步推广；虚幻引擎此后迭代至UE2、UE3、UE4、UE5，从FPS专用成长为覆盖全品类的通用引擎，并延伸到影视、汽车等跨行业实时渲染应用。",
-"impact": "“授权引擎”商业模式成立，中小团队得以用大厂级技术开发游戏；Epic从游戏商逐步转型为平台与基础设施公司。",
-"aftermath": "UE4自2015年起免费加分成、UE5的Nanite与Lumen于2022年上线；《堡垒之夜》的成功反哺引擎生态，Epic与苹果的世纪诉讼同样围绕它展开。",
-"sources": [
-{
-"title": "1998 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1998_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Unreal (1998 video game) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Unreal_(1998_video_game)",
-"type": "wiki"
-}
-],
-"tags": [
-"Epic",
-"虚幻引擎",
-"游戏引擎"
-]
-},
-{
 "id": "1998-09-03-metal-gear-solid",
 "date": "1998-09-03",
 "date_accuracy": "exact",
@@ -888,38 +636,6 @@
 ]
 },
 {
-"id": "1998-11-21-ocarina-of-time",
-"date": "1998-11-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《塞尔达传说：时之笛》发售，3D动作游戏的满分模板",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1998年11月21日，《塞尔达传说：时之笛》在日本随N64发售。它发明的“锁定目标”系统解决了3D时代打不中人的老大难，解谜、迷宫、音乐玩法样样封顶。它是媒体满分最多的游戏之一，二十多年后仍排在全球“史上最佳游戏”榜单前排。",
-"detail": "宫本茂、青沼英二团队开发的《塞尔达传说：时之笛》1998年11月21日在日本N64发售（北美11月23日）。游戏把塞尔达系列搬进3D，发明的Z锁定（目标锁定）系统一举解决3D战斗的视角与瞄准难题，马背开放探索、时间旅行解谜、陶笛演奏玩法与地下城设计成为后世范本。全球销量约760万套，媒体均分99分、位列Metacritic历史最高分之一，长期占据“史上最伟大游戏”评选榜首。Z锁定后来被几乎所有3D动作游戏借鉴，成为行业标配功能。",
-"impact": "确立3D动作冒险的目标锁定、上下文交互与地牢节奏范式，“满分游戏”从此有了公认样本。",
-"aftermath": "2000年续作《梅祖拉的假面》、2011年3DS重制版持续再版；任天堂在2017年以《旷野之息》完成系列自我颠覆，续作《王国之泪》2023年再创纪录。",
-"sources": [
-{
-"title": "1998 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1998_in_video_games",
-"type": "wiki"
-},
-{
-"title": "The Legend of Zelda: Ocarina of Time - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"塞尔达",
-"N64",
-"宫本茂"
-]
-},
-{
 "id": "1998-11-27-dreamcast-jp-launch",
 "date": "1998-11-27",
 "date_accuracy": "exact",
@@ -948,38 +664,6 @@
 "世嘉",
 "Dreamcast",
 "联网主机"
-]
-},
-{
-"id": "1999-01-21-super-smash-bros",
-"date": "1999-01-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《任天堂明星大乱斗》日本发售，派对格斗改变格斗游戏",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1999年1月21日，任天堂把马力欧、林克、皮卡丘塞进同一款格斗游戏《任天堂明星大乱斗》，在日本首发。它不要血条、把对手打出场外就赢，谁都能上手热闹一晚上。这种“派对格斗”后来发展成全球最大规模的格斗电竞之一。",
-"detail": "HAL研究所樱井政博执导的《任天堂明星大乱斗》1999年1月21日在日本N64发售（北美4月）。游戏以百分比伤害加击飞出界取代传统血条KO，四人对战混战、道具乱飞、任天堂全明星同框，把格斗游戏从硬核对拆变成全民派对。日本销量约197万份、北美超295万份，成为N64时代最重要的社交游戏之一；系列随后以2001年《DX》、2008年《X》、2014年《For》持续壮大。樱井政博后来成立独立工作室Sora Ltd.，继续主持系列后续作品。",
-"impact": "开创“派对格斗”子类型，让不打格斗游戏的玩家也能享受对战乐趣；任天堂IP大联动同框的产品思路自此成型。",
-"aftermath": "2018年《任天堂明星大乱斗 特别版》销量超3500万份，成为史上最畅销格斗游戏；初代N64版的竞技社区至今活跃，樱井政博成为任天堂旗下最具个人声望的制作人。",
-"sources": [
-{
-"title": "1999 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1999_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Super Smash Bros. (video game) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"大乱斗",
-"樱井政博",
-"派对游戏"
 ]
 },
 {
@@ -1110,38 +794,6 @@
 ]
 },
 {
-"id": "1999-09-30-age-of-empires-ii",
-"date": "1999-09-30",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《帝国时代2》发售，二十年后还在更新的传奇RTS",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "1999年9月30日，《帝国时代2：帝王时代》发售。中世纪文明、城堡攻防、联网对战让它成为网吧常客，微软一度放弃更新，玩家社区硬是把它救活。2019年官方推出决定版，至今还在出新文明，它是史上最长寿的即时战略游戏。",
-"detail": "Ensemble Studios的《帝国时代2：帝王时代》（Age of Empires II）1999年9月30日发售。中世纪13个文明、城堡与攻城器械、均衡的竞技性使其成为网吧与校园联机的常青树；2000年资料片《征服者》之后微软一度停止更新，玩家社区与补丁作者（UserPatch等）硬是维持了十几年的对战生态。2013年推出高清版，2019年《决定版》以4K重制加新文明复活系列，官方DLC与平衡补丁持续至今。",
-"impact": "奠定历史RTS的竞技与观赛文化，成为“老游戏靠社区救活”的著名案例，改变了厂商对老游戏长线运营的态度。",
-"aftermath": "决定版持续更新至今，2021年《帝国时代4》问世；AoE2赛事仍有稳定观众，Steam同时在线长期位居策略游戏前列。",
-"sources": [
-{
-"title": "1999 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/1999_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Age of Empires II: The Age of Kings - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Age_of_Empires_II:_The_Age_of_Kings",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Ensemble",
-"帝国时代2",
-"RTS"
-]
-},
-{
 "id": "2000-02-04-the-sims",
 "date": "2000-02-04",
 "date_accuracy": "exact",
@@ -1262,37 +914,6 @@
 ]
 },
 {
-"id": "2000-06-28-diablo-ii",
-"date": "2000-06-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《暗黑破坏神2》发售，“刷装备”玩法的祖师爷",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2000年6月28日，暴雪的《暗黑破坏神2》发售，上市不久全球销量就突破百万。玩家一遍遍下地牢、打怪、捡装备，“刷宝”从此成为游戏圈通用动词。它定义了此后二十年动作RPG的模板，中国早期的《传奇》《奇迹MU》等一大票网游都吸收了它的装备体系。",
-"detail": "暴雪北方（Blizzard North）开发的《暗黑破坏神2》（Diablo II）于2000年6月28日发售，成为当年最畅销的PC游戏之一，首年销量近400万套。游戏以随机地图、随机掉落的装备体系和五种职业构筑为核心玩法，并内置免费Battle.net联网服务，支持多人组队与天梯排名。2001年资料片《毁灭之王》加入符文之语系统，把“刷宝+配装”的策略深度推到极致，其装备价值体系甚至催生了早期的虚拟物品交易市场。",
-"impact": "确立动作RPG“随机掉落+角色构筑+多人联机”的黄金模板，催生庞大的类暗黑品类；Battle.net也成为网游化运营的样板。",
-"aftermath": "中国的《传奇》《奇迹MU》及后来的《火炬之光》《流放之路》乃至手游《暗黑破坏神：不朽》都可见其血统；正统续作《暗黑破坏神3》《暗黑破坏神4》分别于2012年、2023年发售。",
-"sources": [
-{
-"title": "2000 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2000_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Diablo II - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Diablo_II",
-"type": "wiki"
-}
-],
-"tags": [
-"暴雪",
-"ARPG",
-"刷宝"
-]
-},
-{
 "id": "2000-11-01-shenmue",
 "date": "2000-11-01",
 "date_accuracy": "month",
@@ -1384,134 +1005,6 @@
 "任天堂",
 "GBA",
 "掌机"
-]
-},
-{
-"id": "2001-07-19-final-fantasy-x",
-"date": "2001-07-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《最终幻想10》发售，JRPG进入配音时代",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2001年7月19日，《最终幻想10》在日本PS2发售，是系列第一次全角色配音的正传作品。泰达与尤娜的水中球之旅画面惊艳，全球卖出800万套以上，成为PS2早期最重要的招牌大作，主题曲至今仍在传唱。",
-"detail": "《最终幻想10》2001年7月19日在日本PS2发售（北美12月），是系列登陆PS2的第一部正传，也是系列首次全语音配音。召唤兽战斗、战斗中即时换人与水晶盘成长系统相得益彰，“祈之子”尤娜的悲剧剧情与主题曲《素敌だね》引发强烈共鸣。全球销量约800万套，是PS2最畅销的RPG之一；2003年续作《最终幻想10-2》开创系列直系续作先河。史克威尔借本作彻底坐实了PS2阵营的头号第三方地位。国际版追加的隐藏结局线索，至今仍是玩家乐此不疲的讨论话题。",
-"impact": "展示PS2机能与DVD容量优势，配音与演出规格让JRPG全面升级；日系大厂重心进一步倒向索尼阵营。",
-"aftermath": "2013年HD重制版长销至今；FF10的结局与世界观仍是玩家讨论热点，常被评为系列最佳作品之一。",
-"sources": [
-{
-"title": "2001 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Final Fantasy X - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
-"type": "wiki"
-}
-],
-"tags": [
-"史克威尔",
-"最终幻想10",
-"PS2",
-"JRPG"
-]
-},
-{
-"id": "2001-10-22-gta-iii",
-"date": "2001-10-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《侠盗猎车手3》发售，开放世界从此有了标准答案",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2001年10月22日，《侠盗猎车手3》在PS2上发售，把系列从俯视角改成全3D第三人称，玩家可以在自由城里抢车、接活、横行霸道。它拿下无数年度游戏奖，销量突破千万，“GTA式开放世界”从此成为全行业的模板。",
-"detail": "苏格兰工作室DMA Design（后更名Rockstar North）开发的《侠盗猎车手3》（Grand Theft Auto III）2001年10月22日在北美PS2发售。游戏把系列由2D俯视角改为3D第三人称，任务驱动加自由探索的结构、通缉星级、电台与黑帮剧情构建出一座活的自由城，“可以不接任务、就在城里闲逛”的体验前所未有。全球销量约1450万套，成为2001年现象级作品，也让成人向内容进入主流讨论；PC版2002年跟进，续作计划随即上马。",
-"impact": "确立现代开放世界游戏的基本形态（3D城市+任务系统+高自由度），成人向叙事进入主流游戏谱系，Rockstar跃升为顶级发行商。",
-"aftermath": "2002年《罪恶都市》、2004年《圣安地列斯》接连封神，2013年《GTA5》成为史上最畅销娱乐产品之一（销量超2亿）；围绕GTA的暴力争议也持续了二十多年。",
-"sources": [
-{
-"title": "2001 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Grand Theft Auto III - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
-"type": "wiki"
-}
-],
-"tags": [
-"Rockstar",
-"GTA",
-"开放世界",
-"PS2"
-]
-},
-{
-"id": "2001-11-13-mgs2",
-"date": "2001-11-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《合金装备2》北美发售，开局惊艳全球结局吵翻二十年的神作",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2001年11月13日，《合金装备2：自由之子》在北美发售，开场油轮关的画面让玩家怀疑自己在看电影。它拿下97%的媒体均分，但剧情里雷电突然顶替主角、结局信息量爆炸，把玩家吵了二十年。小岛秀夫用一部游戏讨论了信息时代怎么操纵人心。",
-"detail": "小岛秀夫执导的《合金装备2：自由之子》（Metal Gear Solid 2: Sons of Liberty）2001年11月13日在北美PS2发售（日本12月13日）。开场“油轮关”以近乎电影的运镜与物理效果震撼业界，媒体均分97%，被多家媒体评为年度游戏。但后半程主角突换雷电、剧情转向信息操控与后现代主题，玩家评价两极分化，成为游戏史上讨论度最高的争议剧本之一。游戏全球销量约700万套，展示了PS2的机能与叙事上限。",
-"impact": "把游戏电影化叙事的上限拉高一档，“媒体期待与作者表达的冲突”成为行业经典案例；小岛秀夫的作者地位由此巩固。",
-"aftermath": "雷电后来在《合金装备：崛起》中当上主角翻案；2023年《合金装备 大师合集》收录本作，其结局对假新闻与信息茧房的预言在社交媒体时代被反复重读。",
-"sources": [
-{
-"title": "2001 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Metal Gear Solid 2: Sons of Liberty - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
-"type": "wiki"
-}
-],
-"tags": [
-"KONAMI",
-"小岛秀夫",
-"合金装备2",
-"PS2"
-]
-},
-{
-"id": "2001-11-15-xbox-launch-halo",
-"date": "2001-11-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软 Xbox 北美首发，《光环》一炮定江山",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2001年11月15日，微软在北美发售第一台游戏机Xbox，连同首发大作《光环：战斗进化》一起上市。硬朗的黑色机身、内置硬盘和网线接口，加上重新定义主机射击的《光环》，让微软第一代产品就站稳了脚跟。主机市场从此进入索尼、任天堂、微软三足鼎立。",
-"detail": "微软以巨亏姿态入场：Xbox于2001年11月15日在北美首发，定价299美元，内置8GB硬盘与以太网口，走“高性能+联网”路线。首发游戏《光环：战斗进化》以护盾自动回血、载具战与协作战役重新定义主机FPS，成为Xbox的台柱IP；2002年微软再推出Xbox Live付费联机服务，把语音、好友与对战配对做成标准体验。Xbox最终全球销量约2400万台，虽不敌PS2的1.55亿台，但成功让微软成为主机常驻玩家，Bungie的《光环》也完成从Mac游戏到主机传奇的转身。",
-"impact": "主机市场形成索尼、任天堂、微软三足格局；主机FPS成为微软阵营的招牌品类，付费联机服务模式由Xbox Live确立。",
-"aftermath": "2005年Xbox 360率先进入次世代并大获成功；《光环》系列延续至今，微软以Game Pass订阅制延续其主机战略。",
-"sources": [
-{
-"title": "2001 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Xbox (console) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Xbox_(console)",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Xbox",
-"光环",
-"次世代"
 ]
 },
 {
@@ -1993,38 +1486,6 @@
 ]
 },
 {
-"id": "2004-11-21-nintendo-ds",
-"date": "2004-11-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "任天堂 DS 发售，双屏触摸开启掌机新时代",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2004年11月21日，任天堂在美国抢发双屏掌机Nintendo DS。上下双屏、触摸笔操作、麦克风喊话，看起来像个实验品，结果《任天狗》《脑锻炼》把不玩游戏的大爷大妈都拉进了玩家行列。DS家族最终卖出1.54亿台，是史上最畅销的掌机。",
-"detail": "任天堂DS于2004年11月21日在北美抢先发售（日本12月2日），定价149.99美元，配备上下双屏（下屏触摸）、麦克风与无线联机，并兼容GBA卡带。在社长岩田聪“扩大游戏人口”战略下，《任天狗》《脑锻炼》《欢迎来到动物之森》等触控玩法把休闲与非传统玩家大规模引入游戏世界；2005年Wi-Fi联机服务上线，让《马力欧赛车DS》与宝可梦对战走向全球。2006年更轻薄的DS Lite持续大热，家族累计销量约1.54亿台。",
-"impact": "触摸与双屏扩展了玩法边界，“扩大游戏人口”战略大获成功，休闲玩家第一次成为市场主力；也为智能手机时代的手游浪潮预演了触控交互。",
-"aftermath": "2011年3DS接班（首发遇挫后靠降价与名作翻盘）；DS的触摸交互逻辑被智能手机全面继承，《脑锻炼》等系列至今仍在出新作。",
-"sources": [
-{
-"title": "2004 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2004_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Nintendo DS - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Nintendo_DS",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"NDS",
-"触摸屏",
-"岩田聪"
-]
-},
-{
 "id": "2004-11-23-world-of-warcraft",
 "date": "2004-11-23",
 "date_accuracy": "exact",
@@ -2054,38 +1515,6 @@
 "魔兽世界",
 "MMORPG",
 "艾泽拉斯"
-]
-},
-{
-"id": "2004-12-12-psp-launch",
-"date": "2004-12-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "索尼 PSP 日本首发，掌机第一次装上大彩屏",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2004年12月12日，索尼在日本发售掌机PSP。4.3寸大宽屏、能看电影听歌玩3D游戏，首日卖出超过16万台。年轻人揣着它联机打《怪物猎人》，几个人围着一张桌子狩猎的“集会所”，成了日本一代人的社交记忆。",
-"detail": "索尼2004年12月12日在日本发售PlayStation Portable（PSP），定价19800日元，配备4.3英寸宽屏、UMD光盘载体与记忆棒，兼顾游戏、电影与音乐。首发《山脊赛车》等护航，2005年登陆欧美；《怪物猎人 携带版》系列借PSP无线联机在日本掀起“集会所狩猎”社交现象，成为国民级游戏，家庭聚会、教室联机随处可见。PSP家族累计销量约8200万台，是索尼最畅销的掌机，也用大屏为智能手机时代的移动娱乐做了预演。",
-"impact": "掌机第一次具备多媒体中枢属性，《怪物猎人》联机文化成为日式掌机社交的代表；UMD电影试验虽然失败，但移动影音娱乐的方向被验证。",
-"aftermath": "2011年PSV接班失利，索尼此后退出掌机硬件市场；PSP的破解与模拟器文化让它此后十年仍被广泛怀旧，《怪物猎人》IP转战主机与手游大获成功。",
-"sources": [
-{
-"title": "2004 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2004_in_video_games",
-"type": "wiki"
-},
-{
-"title": "PlayStation Portable - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/PlayStation_Portable",
-"type": "wiki"
-}
-],
-"tags": [
-"索尼",
-"PSP",
-"掌机",
-"怪物猎人"
 ]
 },
 {
@@ -2665,38 +2094,6 @@
 ]
 },
 {
-"id": "2008-04-29-gta-iv",
-"date": "2008-04-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《侠盗猎车手4》发售，自由城的移民挽歌",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2008年4月29日，《侠盗猎车手4》在PS3和Xbox 360上发售。东欧移民尼科在自由城追债谋生的故事一改系列的夸张搞笑，媒体均分98，至今仍是评分最高的开放世界游戏之一。首发一周狂卖600万套，创下当时游戏史上首发纪录。",
-"detail": "Rockstar North开发的《侠盗猎车手4》（Grand Theft Auto IV）2008年4月29日在北美PS3与Xbox 360同步发售（PC当年12月）。游戏采用全新RAGE引擎，自由城的物理、物理碰撞与NPC生态大幅进化，叙事转向严肃：东欧老兵尼科·贝利奇为 past 赎罪在移民黑帮间挣扎，结局道德抉择引发大量讨论。首发日360万套、首周600万套创纪录，全球销量超2500万套，媒体均分98（Metacritic并列最高之一），横扫当年几乎所有年度游戏奖。",
-"impact": "开放世界的物理与叙事标准再度抬高，“严肃化GTA”证明3A游戏可以承载移民与暴力循环这样的沉重命题；首发销量纪录确立游戏作为头部娱乐产品的地位。",
-"aftermath": "首发联机服务与电脑配置门槛引发争议，2010年资料片《失落与诅咒》《夜生活之曲》以独立篇章获好评；2013年《GTA5》接棒成为史上最畅销娱乐产品之一。",
-"sources": [
-{
-"title": "2008 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2008_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Grand Theft Auto IV - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
-"type": "wiki"
-}
-],
-"tags": [
-"Rockstar",
-"GTA4",
-"开放世界",
-"首发纪录"
-]
-},
-{
 "id": "2008-08-06-braid",
 "date": "2008-08-06",
 "date_accuracy": "exact",
@@ -2953,38 +2350,6 @@
 ]
 },
 {
-"id": "2009-08-25-batman-arkham-asylum",
-"date": "2009-08-25",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《蝙蝠侠：阿卡姆疯人院》发售，超级英雄游戏从此有了及格线",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2009年8月25日，Rocksteady的《蝙蝠侠：阿卡姆疯人院》发售。此前漫改游戏基本等于“烂游戏”代名词，这部作品用潜入、侦探和流畅的连击打斗一举翻身，媒体均分92，还创下“评价最高的超级英雄游戏”吉尼斯纪录。",
-"detail": "英国新锐工作室Rocksteady开发的《蝙蝠侠：阿卡姆疯人院》（Batman: Arkham Asylum）2009年8月25日在北美PS3/Xbox 360发售（PC随后）。游戏以蝙蝠侠孤身平定疯人院暴动为舞台，Freeflow连击战斗、捕食者潜入与侦探模式构成三位一体玩法，小丑、稻草人等反派演出与哥特氛围广受好评。媒体均分92，获吉尼斯“评价最高的超级英雄游戏”认证与多个年度提名，全球销量超700万套。",
-"impact": "终结“漫改必烂”的魔咒，阿卡姆战斗系统成为此后动作游戏（含《蜘蛛侠》《对马岛之魂》）的通用模板；超级英雄游戏从此成为主流品类。",
-"aftermath": "阿卡姆三部曲2011、2015年相继封神，华纳后续的《哥谭骑士》《自杀小队》未能复刻成功；Rocksteady转做《自杀小队：战胜正义联盟》（2024）口碑失利，但阿卡姆蝙蝠侠的地位至今不可撼动。",
-"sources": [
-{
-"title": "2009 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2009_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Batman: Arkham Asylum - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum",
-"type": "wiki"
-}
-],
-"tags": [
-"Rocksteady",
-"蝙蝠侠",
-"阿卡姆",
-"漫改游戏"
-]
-},
-{
 "id": "2009-10-13-uncharted-2",
 "date": "2009-10-13",
 "date_accuracy": "exact",
@@ -3142,134 +2507,6 @@
 "荒野大镖客",
 "西部",
 "开放世界"
-]
-},
-{
-"id": "2010-07-27-starcraft-ii",
-"date": "2010-07-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《星际争霸2》发售，电竞等待了十二年的续作",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2010年7月27日，《星际争霸2：自由之翼》全球发售，距离前作过去了整整十二年。首月卖出300万套，职业选手集体转型，韩国电竞全面换血。它把RTS电竞的火种又传了十年，虽然后来被MOBA抢走风头，但“星际2联赛”至今还在办。",
-"detail": "暴雪开发的《星际争霸2：自由之翼》（StarCraft II: Wings of Liberty）2010年7月27日全球同步发售。游戏以三族平衡、Battle.net天梯与录像系统重塑竞技体验，人族雷诺的战役以任务变体+剧情选择获得好评；上市首月销量超300万套，成为2010年最畅销PC游戏。韩国职业联赛整体迁移至星际2，暴雪与GSL联赛体系深度绑定；虫群之心（2013）、虚空之遗（2015）组成三部曲。",
-"impact": "RTS电竞在MOBA崛起前获得十年续命，天梯与联赛体系培养了全球竞技玩家；韩国电竞产业完成从Brood War到星际2的交接。",
-"aftermath": "暴雪2017年重制初代星际，2020年宣布停止付费内容更新转向平衡维护；RTS整体式微但核心社区活跃，星际2赛事至今仍在运行。",
-"sources": [
-{
-"title": "2010 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2010_in_video_games",
-"type": "wiki"
-},
-{
-"title": "StarCraft II: Wings of Liberty - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty",
-"type": "wiki"
-}
-],
-"tags": [
-"暴雪",
-"星际争霸2",
-"电竞",
-"RTS"
-]
-},
-{
-"id": "2010-09-08-amnesia-dark-descent",
-"date": "2010-09-08",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《失忆症：黑暗后裔》发售，没有武器的恐怖才是真恐怖",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2010年9月8日，瑞典小团队Frictional的《失忆症：黑暗后裔》在PC发售。玩家手无寸铁，只能躲进柜子里屏住呼吸听怪物走近，理智值还会掉。这款独立恐怖游戏火遍YouTube实况圈，从此“主播吓叫视频”成了恐怖游戏的标配营销。",
-"detail": "瑞典Frictional Games开发的《失忆症：黑暗后裔》（Amnesia: The Dark Descent）2010年9月8日在PC发行。游戏取消一切战斗手段，玩家只能躲藏、观察与逃跑，注视怪物会累积理智损失，油灯与火把资源管理加剧紧张；配合记忆缺失的叙事，营造了全新的无助式恐怖。初期销量平平，随着YouTube与PewDiePie等主播的惊叫实况爆红而长销，累计销量数百万，成为“主播驱动销售”的第一个教科书案例。",
-"impact": "确立“无战斗恐怖”子类型，《逃生》《层层恐惧》等竞品跟进；游戏实况与恐怖游戏的共生关系自此成立，改变了恐怖游戏的营销逻辑。",
-"aftermath": "Frictional续以《SOMA》（2015）与《失忆症：重生》（2020）；《失忆症》系列授权给The Chinese Room开发新作，躲柜子玩法至今仍是恐怖游戏梗文化的一部分。",
-"sources": [
-{
-"title": "2010 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2010_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Amnesia: The Dark Descent - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent",
-"type": "wiki"
-}
-],
-"tags": [
-"Frictional",
-"恐怖游戏",
-"独立游戏",
-"实况文化"
-]
-},
-{
-"id": "2010-11-04-kinect-launch",
-"date": "2010-11-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软 Kinect 发售，扔掉手柄用身体玩游戏",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2010年11月4日，微软的Kinect体感摄像头随Xbox 360发售：不用任何手柄，站在电视前挥动身体就能玩游戏。首发60天卖出800万台，拿下“最快销售消费电子设备”吉尼斯纪录，但热潮来得快去得也快，成了本世代最大的科技泡沫之一。",
-"detail": "微软以“Project Natal”名义研发的Kinect于2010年11月4日在北美发售（欧洲11月10日、日本11月20日），定价149.99美元，以RGB摄像头与深度传感器实现无手柄全身追踪。首发随《 Kinect冒险！》等游戏掀起体感热潮，上市60天销量800万台，获吉尼斯“销售最快的消费电子设备”纪录；微软一度把它推向Windows与工业应用。但核心玩家抱怨游戏浅、延迟高，休闲热潮退去后销量骤降，2015年后微软停产，2017年Xbox One S起不再支持接口，2023年相关产品线正式终结。",
-"impact": "“免手柄体感”的极限尝试，消费级深度摄像头被大规模量产（其技术后来流向机器人与自动驾驶行业）；也证明休闲体感红利在Wii之后已经透支。",
-"aftermath": "Kinect的深度传感技术衍生出Azure Kinect等企业产品；玩家社区用Kinect做3D扫描、直播动作捕捉至今，“ Natal 的遗产”成为科技转用的经典案例。",
-"sources": [
-{
-"title": "2010 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2010_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Kinect - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Kinect",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Kinect",
-"体感",
-"Xbox 360"
-]
-},
-{
-"id": "2011-02-26-3ds-launch",
-"date": "2011-02-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "任天堂 3DS 发售，裸眼3D先遇冷再翻盘",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2011年2月26日，任天堂3DS在日本发售，上下双屏还能裸眼看3D。开头几个月销量惨淡，任天堂破天荒半年就大降价三分之一，还给老玩家送免费游戏。靠着《马力欧赛车7》《宝可梦》接力，3DS最终卖出7500多万台，完成惊天逆转。",
-"detail": "任天堂3DS于2011年2月26日在日本发售（北美3月27日），定价25000日元，主打裸眼立体3D上屏、陀螺仪与AR功能，兼容DS软件。首发阵容乏力加上智能手机冲击，销量连续数月低迷，任天堂2011年8月宣布降价至15000日元，并向早期用户赠送20款GBA/FC虚拟主机游戏作为补偿——这是任天堂史上罕见的快速降价。随后《超级马里奥3D大陆》《马力欧赛车7》（2011年末）与《宝可梦X/Y》（2013）接力，家族累计销量约7594万台。",
-"impact": "证明掌机市场在智能手机时代仍可守住，但价格与首发阵容的教训深刻；裸眼3D概念完成商业验证后即被任天堂自己淡化。",
-"aftermath": "3DS成为任天堂最后一台专用掌机，2017年Switch以混合形态接班；岩田聪在降价时鞠躬道歉的画面成为经营危机公关的著名一幕。",
-"sources": [
-{
-"title": "2011 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Nintendo 3DS - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Nintendo_3DS",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"3DS",
-"裸眼3D",
-"降价"
 ]
 },
 {
@@ -3529,38 +2766,6 @@
 ]
 },
 {
-"id": "2012-05-15-diablo-iii",
-"date": "2012-05-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《暗黑破坏神3》发售，首日350万份和一场“现金拍卖行”实验",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2012年5月15日，跳票多年的《暗黑破坏神3》发售，首日卖出350万份创下PC首发纪录。但它强制全程联网、还要上线“现金拍卖行”让玩家真金白银交易装备，被老玩家骂翻。暴雪两年后低头关闭拍卖行，这个教训影响了后来所有网游的经济设计。",
-"detail": "暴雪开发的《暗黑破坏神3》（Diablo III）2012年5月15日全球发售。首发24小时卖出350万份、一周630万，创PC游戏首发纪录；但强制在线连接导致首日服务器瘫痪、掉线即掉线死亡，配套的“现金拍卖行”（用真钱交易装备）扭曲了掉落设计，被批“为了安全装备不如直接买”。暴雪2013年承认设计失误，2014年资料片《夺魂之镰》大改掉落并关闭拍卖行，游戏口碑逆转并长销十年，累计销量超3000万。",
-"impact": "PC游戏首发纪录刷新，但“全程联网+真钱交易”的教训成为行业反向教材；此后“离线模式”“无交易服务器”成为ARPG卖点。",
-"aftermath": "《夺魂之镰》让D3逆转为暴雪长青IP；手游《暗黑破坏神：不朽》（2022）与《暗黑破坏神4》（2023）延续，2023年暴雪并入微软，D4首发再创系列纪录。",
-"sources": [
-{
-"title": "2012 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2012_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Diablo III - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Diablo_III",
-"type": "wiki"
-}
-],
-"tags": [
-"暴雪",
-"暗黑破坏神3",
-"拍卖行",
-"首发纪录"
-]
-},
-{
 "id": "2012-11-01-walking-dead-telltale",
 "date": "2012-11-01",
 "date_accuracy": "month",
@@ -3785,38 +2990,6 @@
 ]
 },
 {
-"id": "2013-11-22-xbox-one-launch-drm",
-"date": "2013-11-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Xbox One 首发翻车，微软24小时撤回强制联网政策",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2013年11月22日，微软Xbox One在北美发售。发布前微软宣布强制每天联网、限制二手游戏，被玩家骂上热搜；六月E3上舆论爆炸后，微软在玩家和索尼夹击下宣布全部取消，24小时大反转成了商业史名场面。开局输掉的一仗，让微软重建信任用了整整七年。",
-"detail": "微软2013年5月公布Xbox One：主打电视娱乐与Kinect捆绑，宣布主机需24小时联网验证、二手游戏需付费解锁、游戏厂商可限制转让，玩家社区与媒体哗然。6月19日，在索尼E3公布“PS4不设任何限制”的对照打击下，微软总裁唐·马特里克宣布全部政策撤回（Kinect改为可选），但信任已受损；11月22日Xbox One北美首发，定价499美元且晚于PS4一周，首发销量长期落后。此后微软更换游戏部门掌门（菲尔·斯宾塞主导），收购暴雪前夜的转型由此发端。",
-"impact": "玩家舆论首次直接推翻一家平台巨头的商业政策，“永远在线”成为游戏行业敏感词；微软从此确立玩家优先（Game Pass、跨平台）的新路线。",
-"aftermath": "Xbox One全球销量约5800万台惨淡收场；斯宾塞体系下微软2014年收购Mojang、2020年收购贝塞斯达、2023年收购动视暴雪，以订阅与内容库重塑竞争维度。",
-"sources": [
-{
-"title": "2013 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2013_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Xbox One - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Xbox_One",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Xbox One",
-"DRM",
-"政策反转"
-]
-},
-{
 "id": "2014-03-11-hearthstone",
 "date": "2014-03-11",
 "date_accuracy": "exact",
@@ -4038,38 +3211,6 @@
 "DeNA",
 "手游",
 "NX"
-]
-},
-{
-"id": "2015-05-19-the-witcher-3",
-"date": "2015-05-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《巫师3：狂猎》发售，DLC也要做成大作的“波兰蠢驴”",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2015年5月19日，波兰CD Projekt的《巫师3：狂猎》全球发售。猎魔人杰洛特找养女、打狂猎，每个支线任务都像短篇小说，还免费送玩家两个大型资料片。媒体均分93，横扫当年所有年度游戏，中国玩家给这家公司起了外号：“波兰蠢驴”。",
-"detail": "CD Projekt Red开发的《巫师3：狂猎》（The Witcher 3: Wild Hunt）2015年5月19日全球发售。游戏以“猎魔人寻女”为主线，六个月大的支线（血腥男爵等）以灰色道德叙事树立行业标杆，无DLC收费、免费更新的运营姿态赢得玩家好感；首两周销量600万套，媒体均分93，横扫TGA、DICE与GDC年度游戏。两个大型资料片《石之心》《血与酒》均获满分级口碑，“波兰蠢驴”的爱称从此传遍中国玩家社区。",
-"impact": "RPG支线叙事的质量标准被永久抬高，“买断制+良心DLC”成为对抗服务型收费的口碑旗帜；东欧工作室首次登顶全球年度游戏。",
-"aftermath": "游戏累计销量超5000万份；Netflix剧集2019年开播再度带火原著小说；CDPR 2020年《赛博朋克2077》首发翻车后靠《巫师3》次世代版与续作开发重建信任。",
-"sources": [
-{
-"title": "2015 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
-"type": "wiki"
-},
-{
-"title": "The Witcher 3: Wild Hunt - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
-"type": "wiki"
-}
-],
-"tags": [
-"CD Projekt",
-"巫师3",
-"RPG",
-"波兰游戏"
 ]
 },
 {
@@ -4713,38 +3854,6 @@
 ]
 },
 {
-"id": "2018-10-26-red-dead-redemption-2",
-"date": "2018-10-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《荒野大镖客：救赎2》发售，8亿美元造出的西部史诗",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2018年10月26日，《荒野大镖客：救赎2》发售。范德林德帮在西部末路上挣扎求生，亚瑟·摩根的救赎故事让玩家哭成一片。开发烧了约8亿美元，媒体均分97创当年最高，首发三天狂销7.25亿美元，细节多到马蛋都会因天气变化。",
-"detail": "Rockstar Studios开发、Rockstar发行的《荒野大镖客：救赎2》（Red Dead Redemption 2）2018年10月26日在PS4与Xbox 360后继主机平台发售（PC 2019年11月）。游戏以1899年西部边缘时代为背景，前作角色约翰·马斯顿的前辈亚瑟·摩根在帮派崩解中寻求救赎，物理模拟细节（马的睾丸随气温变化等）成为传播奇观；开发成本约3.7-5.4亿美元级，媒体均分97为当年最高，首发三天销售额7.25亿美元，全球销量超7500万份。",
-"impact": "开放世界拟真度的天花板再抬一级，“慢节奏严肃叙事”在超大投入下获得商业验证；游戏加班（crunch）争议也随之进入行业讨论核心。",
-"aftermath": "线上模式运营不及GTA Online，Rockstar重心转向GTA6；亚瑟·摩根成为玩家票选最受欢迎主角之一，其主题曲与结局台词常年刷屏社交网络。",
-"sources": [
-{
-"title": "2018 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2018_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Red Dead Redemption 2 - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
-"type": "wiki"
-}
-],
-"tags": [
-"Rockstar",
-"荒野大镖客2",
-"开放世界",
-"西部"
-]
-},
-{
 "id": "2018-12-06-epic-games-store",
 "date": "2018-12-06",
 "date_accuracy": "exact",
@@ -4933,102 +4042,6 @@
 "极乐迪斯科",
 "CRPG",
 "叙事"
-],
-"milestone": false
-},
-{
-"id": "2019-11-19-google-stadia",
-"date": "2019-11-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google Stadia 上线，云游戏的第一声号角（和挽歌）",
-"category": "tech",
-"region": "world",
-"summary_30s": "2019年11月19日，谷歌的云游戏平台Stadia上线：不用主机不用下载，浏览器里就能玩3A大作。愿景宏大，现实骨感——网络延迟、游戏少、付费混乱，三年后谷歌宣布关停，设备免费送。云游戏的梦想没死，但谷歌先下了场。",
-"detail": "谷歌在2019年3月GDC公布云游戏平台Stadia，11月19日正式上线：以数据中心串流4K游戏，主打“随时随地在任何屏幕玩3A”。但仅凭订阅与单独买游戏的定价、首发12款游戏的内容荒、延迟与网络门槛，使平台增长远低预期；第一方工作室2021年解散，2022年9月29日谷歌宣布关闭Stadia服务器（2023年1月停运），向玩家退款并开源蓝牙固件让手柄“再就业”。英伟达GeForce Now、Xbox Cloud与腾讯START接棒云游戏探索。",
-"impact": "第一次由科技巨头主导的云游戏大规模实验，验证了技术可行与商业模式失败的组合；“云游戏”自此从炒作期进入务实期。",
-"aftermath": "云游戏转向大厂附赠服务（Game Pass Ultimate、PS Plus Premium）与特定场景（试玩、直播即玩）；谷歌手柄改蓝牙的“善后”操作反而赢得好感。",
-"sources": [
-{
-"title": "2019 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2019_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Google Stadia - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Google_Stadia",
-"type": "wiki"
-}
-],
-"tags": [
-"谷歌",
-"Stadia",
-"云游戏",
-"失败案例"
-],
-"milestone": false
-},
-{
-"id": "2020-03-20-animal-crossing-nh",
-"date": "2020-03-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《集合啦！动物森友会》发售，隔离时代的精神避难所",
-"category": "culture",
-"region": "world",
-"summary_30s": "2020年3月20日，《集合啦！动物森友会》在Switch发售，几天后全球疫情大封锁开始。无处可去的人们涌上无人岛，种花、钓鱼、办婚礼、开毕业典礼，动森成了社交媒体上的精神避难所。首年卖出3700多万份，是无数人的2020年记忆。",
-"detail": "任天堂EPD开发的《集合啦！动物森友会》（Animal Crossing: New Horizons）2020年3月20日全球发售，恰逢新冠疫情大封锁开始。玩家移居无人岛，自由布置岛屿、钓鱼捉虫、与动物邻居生活；跨时空的现实感（同步时钟节日）与低门槛社交（串岛、寄快递）让它在隔离期成为社交货币，岛民婚礼、毕业典礼、商品橱窗刷屏社交网络。首年销量超3700万份，成为Switch最畅销游戏之一，日本社会将其称为“国民游戏”。",
-"impact": "疫情时代“游戏即社交空间”的实证案例，游戏第一次大规模承担毕业典礼、婚礼、发布会等现实仪式；任天堂与游戏的品牌好感度达到峰值。",
-"aftermath": "销量随热潮回落但持续长销，2021年11月大型免费更新2.0+付费DLC“快乐家乐园”再掀回归潮；系列主机独占逻辑延续，动森主题乐园与联名商品不断。",
-"sources": [
-{
-"title": "2020 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2020_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Animal Crossing: New Horizons - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
-"type": "wiki"
-}
-],
-"tags": [
-"动物森友会",
-"任天堂",
-"疫情",
-"Switch"
-],
-"milestone": false
-},
-{
-"id": "2020-07-01-among-us-explosion",
-"date": "2020-07-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "《Among Us》两年前的小游戏爆红，全网都在“谁是内鬼”",
-"category": "culture",
-"region": "world",
-"summary_30s": "2020年下半年，一款2018年上线的4人小游戏《Among Us》突然爆红：太空船船员里藏着内鬼，大家开会投票找出他。主播带火、疫情加持，月活冲到几亿级，“ sus”“内鬼”成了全球网络黑话。续作都因此取消了——全员回坑一代。",
-"detail": "美国三人小团队InnerSloth的《Among Us》（太空狼人杀）2018年上线后默默无闻，2020年夏在Twitch主播与TikTok的带动下病毒式爆发，叠加疫情居家社交需求，月活跃用户一度达5亿级（含手游），PC销量超3200万。开发团队宣布取消《Among Us 2》开发、全员回炉支持一代；颜色词汇“sus”（suspicious）入选柯林斯词典年度词，“内鬼”一词也在中文互联网全面普及。",
-"impact": "主播生态可以在两年后“复活”一款旧游戏，长尾传播的威力首次如此直观；非对称社交推理玩法成为全球聚会游戏新范式。",
-"aftermath": "InnerSloth持续更新地图与职业系统，跨界联动（索尼克、忍者龟）不断；狼人杀类游戏在中国亦有《鹅鸭杀》等继任者延续热度。",
-"sources": [
-{
-"title": "2020 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2020_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Among Us - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Among_Us",
-"type": "wiki"
-}
-],
-"tags": [
-"Among Us",
-"内鬼",
-"狼人杀",
-"主播文化"
 ],
 "milestone": false
 },
@@ -5449,38 +4462,6 @@
 "milestone": false
 },
 {
-"id": "2022-02-25-steam-deck",
-"date": "2022-02-25",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Steam Deck 发售，Valve 把 PC 塞进了掌机",
-"category": "hardware",
-"region": "world",
-"summary_30s": "2022年2月25日，Valve的Steam Deck正式发售：一台能跑Steam游戏库的Linux掌机。几百美元把“便携玩3A”变成现实，Proton兼容层让Windows游戏跑在Linux上。它开创了PC掌机新品类，华硕、联想纷纷跟进，“掌机复兴”开始了。",
-"detail": "Valve开发的Steam Deck于2022年2月25日全球发售，定价399/529/649美元，搭载定制AMD APU与SteamOS（Linux+Proton兼容层），可运行绝大多数Steam游戏。首发供应紧张但口碑扎实，玩家社区验证了“3A掌机”的可行性；2023年底OLED版上市。华硕ROG Ally（2023）、联想Legion Go等Windows掌机跟进形成新品类，索尼Remote Play配件与“掌机复兴”叙事就此展开，Valve亦借Deck完善SteamOS生态。",
-"impact": "开创PC掌机品类并证明Linux游戏兼容层（Proton）的商业可行，Steam生态完成从桌面到移动场景的延伸；主机厂商的“便携独占”逻辑被釜底抽薪。",
-"aftermath": "Valve持续迭代SteamOS并授权第三方设备（2025年起Legend级设备认证）；PC掌机市场在2024-2025年进入混战，成为硬件增长最快的新细分。",
-"sources": [
-{
-"title": "2022 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2022_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Steam Deck - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Steam_Deck",
-"type": "wiki"
-}
-],
-"tags": [
-"Valve",
-"Steam Deck",
-"掌机",
-"Proton"
-],
-"milestone": false
-},
-{
 "id": "2022-09-18-gta6-leak",
 "date": "2022-09-18",
 "date_accuracy": "exact",
@@ -5669,38 +4650,6 @@
 "虚幻引擎",
 "开发者",
 "商业模式"
-],
-"milestone": false
-},
-{
-"id": "2023-10-13-abk-deal-completed",
-"date": "2023-10-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软完成690亿美元收购动视暴雪，游戏史最大交易落槌",
-"category": "company",
-"region": "world",
-"summary_30s": "2023年10月13日，在拿到英国最后一张放行票后，微软正式完成对动视暴雪的690亿美元收购。使命召唤、魔兽、糖果传奇从此姓微软，微软游戏部门一夜之间成为全球第三大发行商。CEO鲍比·科蒂克年底拿着上亿美金退休金离场。",
-"detail": "历经20个月监管拉锯（美国FTC起诉被驳回、英国CMA要求重组云游戏权益后放行），微软于2023年10月13日正式完成对动视暴雪的收购，总额约687亿美元，为游戏业史上最大交易；微软据此成为按收入计全球第三大游戏发行商，动视、暴雪与King的全线IP进入第一方体系，《使命召唤3部曲》2024年起首发进入Game Pass。执掌动视32年的CEO鲍比·科蒂克于2023年12月29日退休，带走数亿美元股权回报；FTC的禁令上诉此后被法院驳回。",
-"impact": "全球游戏业集中度达到历史峰值，“平台+订阅+全IP”的微软模式成立；监管机构对科技巨头游戏并购的审查框架由此定型。",
-"aftermath": "微软2024年初裁员1900人并关闭多家暴雪工作室引发争议；暴雪嘉年华重启、《魔兽》IP进军影视，Xbox战略全面转向多平台发行。",
-"sources": [
-{
-"title": "2023 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2023_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Acquisition of Activision Blizzard by Microsoft - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"动视暴雪",
-"收购",
-"监管"
 ],
 "milestone": false
 },
@@ -6213,38 +5162,6 @@
 "实体光盘",
 "数字化",
 "游戏保存"
-],
-"milestone": false
-},
-{
-"id": "2026-08-04-ea-buyout-closed",
-"date": "2026-08-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "EA 私有化正式交割，550亿美元换了个新老板",
-"category": "company",
-"region": "world",
-"summary_30s": "2026年8月4日，EA的550亿美元私有化交易正式完成交割，这家做了四十多年《 FIFA 》和《模拟人生》的老牌发行商正式退市。沙特主权基金成了新东家，游戏业“上市三巨头”少了一员，资本的故事翻开了新篇章。",
-"detail": "2026年8月4日，由沙特公共投资基金（PIF）、银湖资本与Affinity Partners牵头的550亿美元私有化交易完成交割，EA从纳斯达克退市，成为史上最大杠杆收购的标的。此前EA已多轮裁员（2023-2025年累计数千人）并重组IP线；私有化后新东家表示保持《FC》《战地》《模拟人生》等产品节奏，但杠杆债务与中东资本的长期意图（游戏主权基金生态）持续被业界观察。传统上市游戏三巨头（EA、Take-Two、育碧）中，EA率先离场。",
-"impact": "游戏业头部公司首次整体落入主权财富基金控股，上市公司体系外的“资本游戏”开始影响3A供给；杠杆模式与内容投入的平衡成为行业新风险点。",
-"aftermath": "EA体育年货与《战地》新作按计划推进，员工规模与工作室网络进入新东家成本审查；其他发行商的私有化传闻随之增多。",
-"sources": [
-{
-"title": "2026 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2026_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Electronic Arts - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Electronic_Arts",
-"type": "wiki"
-}
-],
-"tags": [
-"EA",
-"私有化",
-"PIF",
-"交割"
 ],
 "milestone": false
 }
