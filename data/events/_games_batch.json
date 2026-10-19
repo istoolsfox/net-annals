@@ -1,0 +1,384 @@
+[
+{
+"id": "2001-01-31-sega-exits-hardware",
+"date": "2001-01-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "世嘉宣布退出主机硬件，硬件帝国落幕",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年1月31日，世嘉正式宣布停产Dreamcast、退出主机硬件市场，转型为第三方游戏软件商。从80年代与任天堂缠斗的世嘉创世机，到街机霸主，再到土星、DC的连败，这家以速度和个性著称的公司终于认输。索尼克从此只能在别人家的主机上跑了。",
+"detail": "世嘉在土星北美溃败后投入Dreamcast背水一战，但PS2公布后的观望效应使DC销量崩塌。2001年1月31日，世嘉宣布停产Dreamcast，公司转型为全平台第三方软件商，并向DC用户承诺继续供应《疯狂出租车》等后续作品。曾经推出SG-1000、Master System、Mega Drive、土星与DC多代主机的世嘉结束了自己的硬件时代，全球主机格局从此演变为索尼、任天堂与新入场的微软三强。大量世嘉人才流向全行业，樱井政博、名越稔洋等制作人各奔前程。",
+"impact": "主机战争从“任天堂对世嘉”的时代彻底翻页，玩家第一次意识到主机厂商也会退出历史舞台；世嘉IP库成为各大平台争抢的资源。",
+"aftermath": "世嘉以第三方身份依靠索尼克、《如龙》与Atlus（2004年合并）等IP生存；2004年与柏青哥巨头Sammy合并为世嘉Sammy控股，街机与IP授权业务延续至今。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Sega - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Sega",
+"type": "wiki"
+}
+],
+"tags": [
+"世嘉",
+"Dreamcast",
+"主机战争"
+]
+},
+{
+"id": "2001-11-15-xbox-launch-halo",
+"date": "2001-11-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软 Xbox 北美首发，《光环》一炮定江山",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年11月15日，微软在北美发售第一台游戏机Xbox，连同首发大作《光环：战斗进化》一起上市。硬朗的黑色机身、内置硬盘和网线接口，加上重新定义主机射击的《光环》，让微软第一代产品就站稳了脚跟。主机市场从此进入索尼、任天堂、微软三足鼎立。",
+"detail": "微软以巨亏姿态入场：Xbox于2001年11月15日在北美首发，定价299美元，内置8GB硬盘与以太网口，走“高性能+联网”路线。首发游戏《光环：战斗进化》以护盾自动回血、载具战与协作战役重新定义主机FPS，成为Xbox的台柱IP；2002年微软再推出Xbox Live付费联机服务，把语音、好友与对战配对做成标准体验。Xbox最终全球销量约2400万台，虽不敌PS2的1.55亿台，但成功让微软成为主机常驻玩家，Bungie的《光环》也完成从Mac游戏到主机传奇的转身。",
+"impact": "主机市场形成索尼、任天堂、微软三足格局；主机FPS成为微软阵营的招牌品类，付费联机服务模式由Xbox Live确立。",
+"aftermath": "2005年Xbox 360率先进入次世代并大获成功；《光环》系列延续至今，微软以Game Pass订阅制延续其主机战略。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Xbox (console) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+"type": "wiki"
+}
+],
+"tags": [
+"微软",
+"Xbox",
+"光环",
+"次世代"
+]
+},
+{
+"id": "2001-03-21-gba-launch",
+"date": "2001-03-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Game Boy Advance 发售，掌机进入横屏时代",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年3月21日，任天堂在日本发售Game Boy Advance。横握机身、宽屏彩屏，机能直逼超级任天堂，《黄金太阳》《恶魔城》等2D大作在掌机上焕发第二春。GBA家族最终卖出超过8100万台，是掌机黄金年代的中坚。",
+"detail": "Game Boy Advance（GBA）2001年3月21日在日本发售（北美6月11日），定价9800日元，采用横向握持与宽屏彩色液晶，性能接近超级任天堂。首发《马力欧赛车 超级巡回赛》等护航，随后《瓦里奥制造》《黄金太阳》《恶魔城 晓月圆舞曲》《火焰纹章》等2D大作让掌机成为2D游戏的最后堡垒；2003年折叠背光款GBA SP补足照明短板，家族累计销量超8100万台。同年任天堂还发售了NGC主机，GBA与NGC的联动玩法也属业界首创。",
+"impact": "巩固任天堂在掌机市场的垄断地位，2D游戏工业在GBA上延续十年；掌机与主机联动玩法自此起步。",
+"aftermath": "2004年NDS接班后GBA逐渐退场，《宝可梦 红宝石/蓝宝石》等作品成为一代人的记忆；GBA经典陆续登陆Switch会员库，怀旧复刻热潮延续其生命力。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Game Boy Advance - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"GBA",
+"掌机"
+]
+},
+{
+"id": "2001-10-22-gta-iii",
+"date": "2001-10-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《侠盗猎车手3》发售，开放世界从此有了标准答案",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年10月22日，《侠盗猎车手3》在PS2上发售，把系列从俯视角改成全3D第三人称，玩家可以在自由城里抢车、接活、横行霸道。它拿下无数年度游戏奖，销量突破千万，“GTA式开放世界”从此成为全行业的模板。",
+"detail": "苏格兰工作室DMA Design（后更名Rockstar North）开发的《侠盗猎车手3》（Grand Theft Auto III）2001年10月22日在北美PS2发售。游戏把系列由2D俯视角改为3D第三人称，任务驱动加自由探索的结构、通缉星级、电台与黑帮剧情构建出一座活的自由城，“可以不接任务、就在城里闲逛”的体验前所未有。全球销量约1450万套，成为2001年现象级作品，也让成人向内容进入主流讨论；PC版2002年跟进，续作计划随即上马。",
+"impact": "确立现代开放世界游戏的基本形态（3D城市+任务系统+高自由度），成人向叙事进入主流游戏谱系，Rockstar跃升为顶级发行商。",
+"aftermath": "2002年《罪恶都市》、2004年《圣安地列斯》接连封神，2013年《GTA5》成为史上最畅销娱乐产品之一（销量超2亿）；围绕GTA的暴力争议也持续了二十多年。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Grand Theft Auto III - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+"type": "wiki"
+}
+],
+"tags": [
+"Rockstar",
+"GTA",
+"开放世界",
+"PS2"
+]
+},
+{
+"id": "2001-07-19-final-fantasy-x",
+"date": "2001-07-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《最终幻想10》发售，JRPG进入配音时代",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年7月19日，《最终幻想10》在日本PS2发售，是系列第一次全角色配音的正传作品。泰达与尤娜的水中球之旅画面惊艳，全球卖出800万套以上，成为PS2早期最重要的招牌大作，主题曲至今仍在传唱。",
+"detail": "《最终幻想10》2001年7月19日在日本PS2发售（北美12月），是系列登陆PS2的第一部正传，也是系列首次全语音配音。召唤兽战斗、战斗中即时换人与水晶盘成长系统相得益彰，“祈之子”尤娜的悲剧剧情与主题曲《素敌だね》引发强烈共鸣。全球销量约800万套，是PS2最畅销的RPG之一；2003年续作《最终幻想10-2》开创系列直系续作先河。史克威尔借本作彻底坐实了PS2阵营的头号第三方地位。",
+"impact": "展示PS2机能与DVD容量优势，配音与演出规格让JRPG全面升级；日系大厂重心进一步倒向索尼阵营。",
+"aftermath": "2013年HD重制版长销至今；FF10的结局与世界观仍是玩家讨论热点，常被评为系列最佳作品之一。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Final Fantasy X - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+"type": "wiki"
+}
+],
+"tags": [
+"史克威尔",
+"最终幻想10",
+"PS2",
+"JRPG"
+]
+},
+{
+"id": "2001-11-13-mgs2",
+"date": "2001-11-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《合金装备2》北美发售，开局惊艳全球结局吵翻二十年的神作",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年11月13日，《合金装备2：自由之子》在北美发售，开场油轮关的画面让玩家怀疑自己在看电影。它拿下97%的媒体均分，但剧情里雷电突然顶替主角、结局信息量爆炸，把玩家吵了二十年。小岛秀夫用一部游戏讨论了信息时代怎么操纵人心。",
+"detail": "小岛秀夫执导的《合金装备2：自由之子》（Metal Gear Solid 2: Sons of Liberty）2001年11月13日在北美PS2发售（日本12月13日）。开场“油轮关”以近乎电影的运镜与物理效果震撼业界，媒体均分97%，被多家媒体评为年度游戏。但后半程主角突换雷电、剧情转向信息操控与后现代主题，玩家评价两极分化，成为游戏史上讨论度最高的争议剧本之一。游戏全球销量约700万套，展示了PS2的机能与叙事上限。",
+"impact": "把游戏电影化叙事的上限拉高一档，“媒体期待与作者表达的冲突”成为行业经典案例；小岛秀夫的作者地位由此巩固。",
+"aftermath": "雷电后来在《合金装备：崛起》中当上主角翻案；2023年《合金装备 大师合集》收录本作，其结局对假新闻与信息茧房的预言在社交媒体时代被反复重读。",
+"sources": [
+{
+"title": "2001 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2001_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Metal Gear Solid 2: Sons of Liberty - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+"type": "wiki"
+}
+],
+"tags": [
+"KONAMI",
+"小岛秀夫",
+"合金装备2",
+"PS2"
+]
+},
+{
+"id": "2002-10-29-gta-vice-city",
+"date": "2002-10-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《侠盗猎车手：罪恶都市》发售，80年代迈阿密风席卷全球",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年10月29日，《侠盗猎车手：罪恶都市》在PS2发售。霓虹灯、粉西装、滚烫的电台老歌，把80年代迈阿密黑帮片做成了可以玩的都市传说。它是当年的全球销量冠军，主角汤米的名台词至今仍是玩家圈的梗。",
+"detail": "Rockstar North开发的《侠盗猎车手：罪恶都市》（GTA: Vice City）2002年10月29日在北美PS2发售。游戏以1986年迈阿密为原型，霓虹视觉、滚动80年代金曲的复古电台与致敬《疤面煞星》的黑帮叙事构成强烈风格化体验，主角汤米·维赛迪由影星雷·利奥塔配音。全球销量约1750万套，是2002年北美销量冠军、美国市场营收约2.18亿美元，开放世界加成熟内容的配方彻底站稳。",
+"impact": "证明“风格化年代+授权音乐”的沉浸式叙事可以复制，授权老歌进游戏的做法自此流行；Rockstar确立顶级发行商地位。",
+"aftermath": "2004年《圣安地列斯》再创纪录；2012年手机版与2021年《三部曲 决定版》均有本作；2026年《GTA6》官宣重返罪恶都市，情怀直接兑现。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Grand Theft Auto: Vice City - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+"type": "wiki"
+}
+],
+"tags": [
+"Rockstar",
+"GTA",
+"罪恶都市",
+"80年代"
+]
+},
+{
+"id": "2002-11-17-metroid-prime",
+"date": "2002-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《密特罗德 究极》发售，老牌IP最漂亮的3D转身",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年11月17日，任天堂把休眠八年的《密特罗德》交给美国新秀Retro Studios，做成第一人称视角的《密特罗德 究极》。几乎没人相信2D横版神作能转成3D，结果它拿下97分媒体均分和一堆年度游戏奖，成了“3D化翻车重灾区”里最漂亮的转身。",
+"detail": "得州新工作室Retro Studios在宫本茂监督下开发《密特罗德 究极》（Metroid Prime），2002年11月17日与GBA《银河战士 融合》同日登陆北美。游戏把2D探索玩法转译为第一人称“扫描视角”，氛围营造、地图设计与扫描日志叙事被誉为教科书，媒体均分97分，击败《光环》等强敌拿下多个年度大奖。同日发售的GBA《融合》还可与NGC联动解锁传统2D外装彩蛋，构成任天堂双机联动的佳话。",
+"impact": "证明“2D神作3D化”可以不翻车，西方工作室接手日系IP的模式自此获得信任；第一人称探险（非射击）品类有了标杆。",
+"aftermath": "2004年与2007年的续作组成三部曲，2021年《究极4》正式公布；系列高清重制与复刻持续推出，Retro Studios至今仍是任天堂重要的西方第一方。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Metroid Prime - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Metroid_Prime",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"Retro Studios",
+"密特罗德",
+"NGC"
+]
+},
+{
+"id": "2002-09-24-microsoft-buys-rare",
+"date": "2002-09-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软3.75亿美元收购Rare，任天堂痛失王牌工作室",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年9月24日，微软宣布以3.75亿美元收购英国Rare工作室——这家给任天堂做出《黄金眼007》《大金刚国度》《班卓熊》的王牌开发商。任天堂只保住了部分IP，N64时代最锋利的一把刀从此为Xbox打工，玩家一片哀嚎。",
+"detail": "2002年9月24日，微软宣布收购Rare全部股权，交易金额3.75亿美元，是当时游戏业最大收购之一。Rare曾开发《黄金眼007》《大金刚国度》《完美黑暗》《班卓熊大冒险》等任天堂平台的招牌大作，其投奔Xbox被视为任天堂N64至NGC时代第三方失血的标志事件。任天堂保住了大金刚、星际火狐等IP，Rare此后为Xbox开发的《完美黑暗 零》与《凯蜜欧》市场表现平平，王牌光环一度黯淡。",
+"impact": "打响主机独占军备竞赛，“买工作室换独占”成为微软标准操作；任天堂则更加坚决地走第一方自研路线。",
+"aftermath": "Rare在微软旗下转向体感休闲游戏，后来靠《盗贼之海》翻身；2020年代微软跨平台战略下，Rare经典作品陆续以合集形式登陆任天堂平台，成为历史性的和解画面。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Rare (company) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Rare_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"微软",
+"Rare",
+"任天堂",
+"收购"
+]
+},
+{
+"id": "2002-05-16-final-fantasy-xi",
+"date": "2002-05-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《最终幻想11》上线，国民RPG上网冲浪",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年5月16日，史克威尔把国民级RPG《最终幻想》做成了网络游戏《最终幻想11》，在PS2上直接联网玩。客厅玩家第一次在电视前组队打巨龙，还要按月付月费。它一运营就是十几年，教会了日系厂商怎么做MMO。",
+"detail": "《最终幻想11》（Final Fantasy XI）2002年5月16日在日本PS2发售（PC同年11月跟进），是系列首部网络游戏正传，也是PS2上第一款大型MMORPG。玩家通过外置硬盘与网络接入维纳大陆，PC与PS2跨平台同服，2006年Xbox 360版本进一步扩大阵营。订阅制加资料片的长线模式运营超过十年，注册用户一度突破50万，其硬核协作与剧情成就至今被老玩家称道，PlayOnline平台也成为史克威尔网络化的试验田。",
+"impact": "证明主机MMO可行，日系大厂正式入场网游赛道；主机与PC跨平台同服在此后成为行业常态。",
+"aftermath": "2010年《最终幻想14》接棒（1.0版本失败后2013年重生版大获成功）；FF11至今仍在运营，是系列最长寿的正传作品。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Final Fantasy XI - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Final_Fantasy_XI",
+"type": "wiki"
+}
+],
+"tags": [
+"史克威尔",
+"最终幻想11",
+"MMORPG",
+"PS2"
+]
+},
+{
+"id": "2002-09-10-battlefield-1942",
+"date": "2002-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《战地1942》发售，64人海陆空大战开场",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年9月10日，瑞典DICE推出《战地1942》：一张地图64名玩家，开坦克、开飞机、抢据点，海陆空一起打。此前射击游戏多是十几人的小规模对拆，这种大战场一出现就被网吧和战队疯抢。“战地”系列从此起飞。",
+"detail": "瑞典DICE工作室的《战地1942》（Battlefield 1942）2002年9月10日发售。游戏实现64人同时在线的大战场，玩家可操纵坦克、战机、战舰等十余种载具，以抢占据点为核心的征服模式强调团队协同，配套的《沙漠风暴》模组与后续资料片进一步扩大影响。EA于2006年将DICE收入麾下，“战地”自此成为EA对抗《使命召唤》的旗舰系列，大规模多人载具战斗也成为一种独立的玩法范式。",
+"impact": "确立“大地图+据点+载具”的战场类玩法标配，欧洲工作室跻身射击游戏第一梯队；大型多人对战的带宽与服务器技术随之进步。",
+"aftermath": "《战地：叛逆连队》《战地3/4》相继发展，2021年《战地2042》口碑失利后系列进入重启期；DICE仍是EA的核心技术团队。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Battlefield 1942 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Battlefield_1942",
+"type": "wiki"
+}
+],
+"tags": [
+"DICE",
+"EA",
+"战地",
+"多人射击"
+]
+},
+{
+"id": "2002-12-13-zelda-wind-waker",
+"date": "2002-12-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《塞尔达传说：风之杖》日本发售，卡通画风风波里的满分神作",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2002年12月13日，《塞尔达传说：风之杖》在日本NGC发售。此前曝光的卡通渲染画风让老玩家炸了锅，任天堂顶着骂声开发。结果游戏以航海冒险、Fami通40分满分和一段又一段海上奇遇证明：画风不重要，好玩才重要。",
+"detail": "《塞尔达传说：风之杖》（The Wind Waker）2002年12月13日在日本NGC发售（北美2003年3月24日）。游戏采用卡通渲染画风，最初公开时因背离写实预期引发玩家抗议，任天堂坚持完成这一美术路线；成品以大航海探索、隽永的赛璐珞美学与“风之指挥棒”演奏玩法征服评论界，获Fami通40/40满分与Metacritic 96分。销量约443万套，是NGC上最畅销的塞尔达作品。",
+"impact": "打破“写实等于进步”的3D时代偏见，风格化美术路线获得正名；卡通渲染后来被大量游戏与独立作品模仿。",
+"aftermath": "2013年Wii U HD重制版热销；卡通风格延续到《御天之剑》，2023年本作原声黑胶再版一售而空，“海洋塞尔达”仍是系列人气时间线。",
+"sources": [
+{
+"title": "2002 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2002_in_video_games",
+"type": "wiki"
+},
+{
+"title": "The Legend of Zelda: The Wind Waker - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"塞尔达",
+"风之杖",
+"卡通渲染"
+]
+}
+]

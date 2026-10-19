@@ -753,31 +753,6 @@
 ]
 },
 {
-"id": "2023-04-26-hsr",
-"date": "2023-04-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "米哈游《崩坏：星穹铁道》全球上线",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "4月26日米哈游回合制新作《崩坏：星穹铁道》全球公测，上线即登多国iOS畅销榜前列，成为米哈游第二增长曲线。",
-"detail": "《星穹铁道》采用回合制+箱庭探索玩法，上线首月移动端收入估算超十亿元人民币级别，与《原神》形成双旗舰。其「宇宙科幻」题材与强角色运营延续了米哈游内容驱动发行的打法。",
-"impact": "确认米哈游多产品线运营能力，二游赛道竞争全面升级。",
-"aftermath": "与网易《逆水寒》手游、腾讯新游共同抬高2023年国内产品竞争烈度。",
-"sources": [
-{
-"title": "崩坏：星穹铁道",
-"url": "https://zh.wikipedia.org/wiki/崩坏：星穹铁道",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"米哈游"
-]
-},
-{
 "id": "2023-05-05-gotg3",
 "date": "2023-05-05",
 "date_accuracy": "exact",
@@ -851,31 +826,6 @@
 "tags": [
 "AI",
 "谷歌"
-]
-},
-{
-"id": "2023-05-12-totk",
-"date": "2023-05-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《塞尔达传说：王国之泪》发售",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "5月12日《王国之泪》全球发售，三天销量破千万套创系列纪录，「究极手」创造力玩法席卷社交媒体。",
-"detail": "任天堂Switch平台的《王国之泪》首三天销量超1000万套，成为系列最快纪录。「究极手」拼接载具、「余料建造」合成武器的自由度让玩家创作视频在全网刷屏，成为当年游戏文化最大现象之一。",
-"impact": "Switch生命周期末段仍产出千万级爆款，开放世界设计再立标杆。",
-"aftermath": "获TGA2023多项提名；次年Switch 2公布，本作成为跨代护航之一。",
-"sources": [
-{
-"title": "The Legend of Zelda: Tears of the Kingdom",
-"url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"任天堂"
 ]
 },
 {
@@ -1366,31 +1316,6 @@
 "汽车",
 "合作",
 "小鹏"
-]
-},
-{
-"id": "2023-08-03-baldurs-gate3",
-"date": "2023-08-03",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《博德之门3》正式版发售",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "8月3日拉瑞安工作室《博德之门3》正式发售，同时在线峰值超80万，年底横扫各大年度游戏奖。",
-"detail": "脱胎于DND规则的CRPG《博德之门3》以超高自由度与「对任何NPC都可以互动」的设计引爆口碑，Steam同时在线峰值超81万，三个月销量超500万份，最终获得TGA 2023年度游戏等六项大奖。",
-"impact": "把重叙事CRPG拉回主流视线，成为当年游戏口碑标杆。",
-"aftermath": "2024年销量突破千万；拉瑞安宣布不再制作博德之门续作。",
-"sources": [
-{
-"title": "Baldur's Gate 3",
-"url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"TGA"
 ]
 },
 {
@@ -3606,31 +3531,6 @@
 ]
 },
 {
-"id": "2024-08-20-black-myth",
-"date": "2024-08-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《黑神话：悟空》全球发售",
-"category": "product",
-"region": "cn",
-"milestone": true,
-"summary_30s": "8月20日游戏科学《黑神话：悟空》全球发售，Steam同时在线峰值超240万创单机纪录，三日销量破1000万套。",
-"detail": "首款国产3A单机《黑神话：悟空》上线即引爆：Steam同时在线峰值达241万（全平台第二），三天全平台销量超1000万套，山西文旅随取景地爆火，「天命人」成为年度文化符号。游戏获TGA2024最佳动作游戏与玩家之声。",
-"impact": "证明中国市场可以诞生世界级单机买断制大作，带动国产3A立项潮。",
-"aftermath": "首年销量超2800万套；续作与DLC进入开发。",
-"sources": [
-{
-"title": "黑神话：悟空",
-"url": "https://zh.wikipedia.org/wiki/黑神话：悟空",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"国产3A"
-]
-},
-{
 "id": "2024-09-09-iphone16",
 "date": "2024-09-09",
 "date_accuracy": "exact",
@@ -4510,30 +4410,6 @@
 ]
 },
 {
-"id": "2025-02-28-monster-hunter-wilds",
-"date": "2025-02-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《怪物猎人：荒野》全球发售",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2月28日卡普空《怪物猎人：荒野》发售，三天销量突破800万套，创系列最快纪录。",
-"detail": "《荒野》以无缝生态地图与聚焦模式降低入坑门槛，发售三天全球出货即超800万套创系列最快，但优化与内容深度问题也让口碑高开低走，成为「销量神话与差评并存」的年度案例。",
-"impact": "卡普空旗舰IP的商业号召力再创纪录。",
-"aftermath": "后续大型更新逐步挽回口碑。",
-"sources": [
-{
-"title": "Monster Hunter Wilds",
-"url": "https://en.wikipedia.org/wiki/Monster_Hunter_Wilds",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏"
-]
-},
-{
 "id": "2025-03-01-nezha2-global",
 "date": "2025-03-01",
 "date_accuracy": "exact",
@@ -4608,30 +4484,6 @@
 "AI",
 "阿里",
 "开源"
-]
-},
-{
-"id": "2025-03-06-split-fiction",
-"date": "2025-03-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《双影奇境》发售成合作游戏新标杆",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "3月6日《双影奇境》全球发售，一个月销量破200万套，成为《双人成行》之后最成功的双人合作游戏。",
-"detail": "Hazelight工作室延续「买一份送两人」策略，以科幻+奇幻双世界的高强度脑洞关卡征服玩家，Steam好评率长期保持95%以上，并最终入围TGA年度游戏提名。",
-"impact": "双人合作品类被重新拉回大众视野。",
-"aftermath": "工作室宣布下一作继续做「没人做过的东西」。",
-"sources": [
-{
-"title": "Split Fiction",
-"url": "https://en.wikipedia.org/wiki/Split_Fiction",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏"
 ]
 },
 {
@@ -4837,30 +4689,6 @@
 ]
 },
 {
-"id": "2025-04-24-clair-obscur",
-"date": "2025-04-24",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《光与影：33号远征队》发售",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "4月24日法国小团队处女作《光与影：33号远征队》发售，33天内销量破500万套，年底横扫TGA九项大奖。",
-"detail": "Sandfall Interactive约30人团队以回合制+即时反应的独特战斗与法式美术惊艳业界，首月销量超330万份、年内破千万量级，获得TGA史上最多的12项提名并拿下9项大奖。",
-"impact": "年度最佳游戏第一次由「无发行大厂加持的小团队」包揽。",
-"aftermath": "主创团队扩编并筹备新作。",
-"sources": [
-{
-"title": "Clair Obscur: Expedition 33",
-"url": "https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏"
-]
-},
-{
 "id": "2025-04-29-qwen3",
 "date": "2025-04-29",
 "date_accuracy": "exact",
@@ -5037,32 +4865,6 @@
 "tags": [
 "AI",
 "DeepSeek"
-]
-},
-{
-"id": "2025-06-05-switch2",
-"date": "2025-06-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Nintendo Switch 2 全球发售",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "6月5日任天堂Switch 2全球发售，4天销量破350万台创主机纪录，首年出货近2000万台成为史上最强首发主机之一。",
-"detail": "Switch 2采用8英寸1080p屏、支持4K输出与鼠标模式，护航作《马里奥赛车：世界》首周爆发。首四天全球销量超350万台创任天堂纪录，2026财年出货1986万台，击败PS5成为年度最畅销主机。",
-"impact": "主机市场完成换代，任天堂重回巅峰节奏。",
-"aftermath": "2026年销量增速放缓但全年仍居榜首；《银河战士Prime 4》等大作接力。",
-"sources": [
-{
-"title": "Nintendo Switch 2",
-"url": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
-"type": "wiki"
-}
-],
-"tags": [
-"硬件",
-"游戏",
-"任天堂"
 ]
 },
 {
@@ -5453,30 +5255,6 @@
 "AI",
 "文生视频",
 "产品"
-]
-},
-{
-"id": "2025-10-10-battlefield6",
-"date": "2025-10-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《战地6》发售",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "10月10日EA《战地6》全球发售，抢先体验阶段同时在线人数即破系列纪录，成为年度最大射击游戏事件。",
-"detail": "《战地6》以重返现代战争设定与大规模破坏玩法回暖口碑，公测吸引超5亿场对局，正式版Steam同时在线峰值突破70万，创系列历史。它也是EA在《使命召唤》发售前抢下市场空档的关键一役。",
-"impact": "《战地》系列完成口碑翻身，射击品类竞争进入双雄对垒。",
-"aftermath": "首赛季内容与《黑色行动7》档期正面交锋。",
-"sources": [
-{
-"title": "Battlefield 6",
-"url": "https://en.wikipedia.org/wiki/Battlefield_6",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏"
 ]
 },
 {

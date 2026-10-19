@@ -18,6 +18,8 @@ CONF_MAP = {"reported": "single-source", "estimated": "uncertain", "media": "sin
 def main() -> int:
     changed = 0
     for f in sorted(EV.glob("*.json")):
+        if f.name.startswith("."):
+            continue  # agent 备份/分片不参与归一化
         try:
             d = json.loads(f.read_text(encoding="utf-8"))
         except Exception as exc:
@@ -49,6 +51,8 @@ def main() -> int:
             if not e["id"].startswith(e["date"]):
                 slug = re.sub(r"^\d{4}-?\d{0,2}-?\d{0,2}-?", "", e["id"]).strip("-")
                 e["id"] = e["date"] + "-" + (slug or "event"); dirty = True
+            if "." in e["id"]:  # 版本号里的点号不合 slug 规范
+                e["id"] = e["id"].replace(".", "-"); dirty = True
             if e["id"] != e["id"].lower():
                 e["id"] = e["id"].lower(); dirty = True
         if dirty:

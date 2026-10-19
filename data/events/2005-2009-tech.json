@@ -242,32 +242,6 @@
 ]
 },
 {
-"id": "2005-11-22-xbox360-launch",
-"date": "2005-11-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Xbox 360 发售：主机大战进入高清时代",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "微软率先打响第七世代主机战争：11月22日 Xbox 360 在北美发售，随后登陆欧洲、日本。它比索尼 PS3 早上市近一年抢得先机，《光环》《战争机器》等大作让『盒子』第一次在欧美市场真正站稳。",
-"detail": "Xbox 360 于2005年5月E3前首次曝光，11月22日在北美首发，12月2日登陆欧洲，12月10日进入日本，港台市场则要到2006年3月16日。作为最早上市的高清世代主机，Xbox 360 以 Xbox Live 在线服务与成就系统重新定义了主机联网体验，《光环3》《战争机器》系列成为一代人的记忆。在中国大陆，它经由非正规渠道进入玩家手中，2005年前后正是国内主机玩家圈快速扩张的时期。",
-"impact": "第七世代主机战争的发令枪，微软首次在主机市场取得对索尼的先发优势。",
-"aftermath": "Xbox 360 全球销量超8000万台；但其『三红』硬件故障也成为游戏史著名的质量事故，微软为此付出逾10亿美元延保成本。",
-"sources": [
-{
-"title": "维基百科：Xbox 360",
-"url": "https://zh.wikipedia.org/wiki/Xbox_360",
-"type": "wiki"
-}
-],
-"tags": [
-"微软",
-"Xbox",
-"游戏主机"
-]
-},
-{
 "id": "2005-05-01-lenovo-ibm-pc",
 "date": "2005-05-01",
 "date_accuracy": "exact",
@@ -1222,33 +1196,6 @@
 ]
 },
 {
-"id": "2008-07-10-app-store",
-"date": "2008-07-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "App Store 上线：移动应用经济元年",
-"category": "product",
-"region": "world",
-"milestone": true,
-"summary_30s": "苹果 App Store 上线，首发约500款应用，iPhone 3G 用户可以像逛超市一样给手机装软件。开发者拿七成分成的模式掀起淘金热，『App』自此成为一代人的动词。",
-"detail": "2008年7月10日，苹果 App Store 正式上线，随 iPhone 3G 与 iPhone OS 2.0 体系推出，上线之初提供约500款应用。苹果搭建了完整的开发者协议与支付体系，三七分成让个人开发者也能靠一款小游戏财务自由，《愤怒的小鸟》《植物大战僵尸》等移动爆款由此诞生。Android Market（后来的 Google Play）在三个月后跟进，『应用商店』成为智能手机的标配器官。",
-"impact": "创造了移动应用经济：数百万开发者的职业赛道与数十万亿级生态由此起步。",
-"aftermath": "App 生态催生打车、外卖、短视频等移动互联网大战；苹果抽成模式的争议也延续至今。",
-"sources": [
-{
-"title": "维基百科：App Store (iOS)",
-"url": "https://zh.wikipedia.org/wiki/App_Store_(iOS)",
-"type": "wiki"
-}
-],
-"tags": [
-"苹果",
-"App Store",
-"移动应用",
-"开发者"
-]
-},
-{
 "id": "2008-09-02-chrome-launch",
 "date": "2008-09-02",
 "date_accuracy": "exact",
@@ -1493,33 +1440,6 @@
 ]
 },
 {
-"id": "2009-05-05-plants-vs-zombies",
-"date": "2009-05-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《植物大战僵尸》发售：塔防游戏全民化",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "宝开游戏（PopCap）的《植物大战僵尸》在PC端发售，豌豆射手与『僵尸吃脑子』迅速攻陷全球办公室。它是塔防品类的破圈神作，两年后移动版更是长期霸榜付费榜。休闲游戏第一次站上了舞台中央。",
-"detail": "2009年5月5日，PopCap Games 推出《植物大战僵尸》PC版。游戏以阳光种植防御的塔防玩法、憨态可掬的植物与僵尸形象风靡全球，疯狂戴夫、戴夫门前的草坪成为流行符号。2010年 iOS 版上线后长期占据付费下载榜首位，宝开也因此在2011年被 EA 以约6.5亿美元（含奖金）收购。在中国，PvZ 与盗版、改编文化一起成为无差别国民游戏。",
-"impact": "塔防玩法完成全民普及，休闲游戏商业价值的最佳示范。",
-"aftermath": "系列推出续作与手游长线运营；『植物大战僵尸』在中国衍生的同人改编甚至比正版更早深入乡镇网吧。",
-"sources": [
-{
-"title": "维基百科：植物大战僵尸",
-"url": "https://zh.wikipedia.org/wiki/植物大战僵尸",
-"type": "wiki"
-}
-],
-"tags": [
-"植物大战僵尸",
-"PopCap",
-"塔防",
-"休闲游戏"
-]
-},
-{
 "id": "2009-06-26-bilibili-founded",
 "date": "2009-06-26",
 "date_accuracy": "exact",
@@ -1704,33 +1624,6 @@
 "淘宝商城",
 "天猫",
 "电商"
-]
-},
-{
-"id": "2009-12-11-angry-birds",
-"date": "2009-12-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《愤怒的小鸟》上架 App Store：手游时代的 opener",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "芬兰小公司 Rovio 的第52款游戏《愤怒的小鸟》在 App Store 上架，弹弓加物理引擎的简单玩法一飞冲天。它证明了 App Store 时代一款手游可以成为全球流行文化，手游产业自此起飞。",
-"detail": "2009年12月11日，Rovio 的《愤怒的小鸟》（Angry Birds）在 iOS App Store 首发上线。游戏以弹弓发射小鸟攻击绿猪为核心玩法，操作极简而手感精准，依靠口碑在 App Store 排行榜持续攀升，此后移植到安卓等几乎所有平台，总下载量数十亿次。红色小鸟形象出现在毛绒玩具、动画电影乃至主题公园，成为第一个真正意义上的『手游超级IP』。",
-"impact": "移动游戏商业化的启蒙之作，让全世界看到 App 付费/内购模式的爆发力。",
-"aftermath": "Rovio 借势推出续作与电影，但后续产品未能复制奇迹；2016年《愤怒的小鸟》大电影票房仍达3.5亿美元。",
-"sources": [
-{
-"title": "维基百科：愤怒的小鸟（游戏）",
-"url": "https://zh.wikipedia.org/wiki/愤怒的小鸟_(游戏)",
-"type": "wiki"
-}
-],
-"tags": [
-"愤怒的小鸟",
-"Rovio",
-"手游",
-"App Store"
 ]
 },
 {

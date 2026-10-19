@@ -211,7 +211,7 @@ const Timeline = {
     if (!sec) return;
     this.renderEra(i);                                // 渲染先于滚动
     const toolbarH = document.getElementById('toolbar').getBoundingClientRect().height;
-    const y = sec.getBoundingClientRect().top + window.scrollY - toolbarH - 18;
+    const y = sec.getBoundingClientRect().top + window.scrollY - toolbarH - 26;
     window.scrollTo({ top: y, behavior: 'instant' }); // 瞬时定位
   },
 };

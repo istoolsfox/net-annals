@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""跨文件去重：主年段文件优先，-tech 分层文件让位。
+"""跨文件去重：主年段文件优先，领域分层文件让位（文件名字典序即优先级）。
 规则：
-1) 文件内按 id 去重；
-2) 跨文件：-tech 文件中与主文件 id 相同的条目删除；同日期+标题完全相同的也删除；
-3) 输出报告但不删「同事件不同表述」的疑似重复（留给人工/M2 复核）。
+1) 隐藏文件（.开头，agent 备份/分片）一律跳过；
+2) 文件内按 id 去重；
+3) 跨文件：后处理文件中与已收条目 id 相同的删除；同日期+标题字符重叠 >60% 的删除；
+4) 输出报告但不删「同事件不同表述」的疑似重复（留给人工/M2 复核）。
 """
 import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -14,22 +16,32 @@ ROOT = Path(__file__).resolve().parent.parent
 EV = ROOT / "data" / "events"
 
 def main() -> int:
-    files = sorted(EV.glob("*.json"))
-    import re as _re
-    main_files = [f for f in files if _re.match(r"^\d{4}-\d{4}\.json$", f.name)]
-    tech_files = [f for f in files if f not in main_files]
-    pool: dict[str, dict] = {}   # id -> event (来自主文件)
-    titles: set[tuple[str, str]] = set()
+    files = [f for f in sorted(EV.glob("*.json")) if not f.name.startswith(".")]
+    main_files = [f for f in files if re.match(r"^\d{4}-\d{4}\.json$", f.name)]
+    layer_files = [f for f in files if f not in main_files]
+    pool: dict[str, dict] = {}              # id -> event（已收条目）
+    titles: set[tuple[str, str]] = set()    # (date, title)（已收条目）
     removed = 0
 
-    for f in main_files:
+    for f in main_files + layer_files:
         d = json.loads(f.read_text(encoding="utf-8"))
         seen: set[str] = set()
         out = []
         for e in d:
-            if e["id"] in seen:
+            dup = e["id"] in pool or e["id"] in seen \
+                or (e["date"], e["title"].strip()) in titles
+            if not dup:
+                for (d2, t2) in titles:
+                    if d2 != e["date"]:
+                        continue
+                    a, b = set(e["title"]), set(t2)
+                    if len(a & b) / min(len(a), len(b)) > 0.6:
+                        dup = True
+                        print(f"  同日相似删除 {f.name}: {e['id']} ╌ {t2[:24]}")
+                        break
+            if dup:
                 removed += 1
-                print(f"  文件内重复删除 {f.name}: {e['id']}")
+                print(f"  重复删除 {f.name}: {e['id']} {e.get('title','')}")
                 continue
             seen.add(e["id"])
             pool[e["id"]] = e
@@ -37,33 +49,7 @@ def main() -> int:
             out.append(e)
         f.write_text(json.dumps(out, ensure_ascii=False, indent=0), encoding="utf-8")
 
-    for f in tech_files:
-        d = json.loads(f.read_text(encoding="utf-8"))
-        seen: set[str] = set()
-        out = []
-        for e in d:
-            dup = (e["id"] in pool or (e["date"], e["title"].strip()) in titles or e["id"] in seen)
-            if not dup:
-                sa, sb = set(e["title"]), None
-                for (d2, t2) in titles:
-                    if d2 == e["date"]:
-                        ov = len(set(e["title"]) & set(t2)) / min(len(set(e["title"])), len(set(t2)))
-                        if ov > 0.6:
-                            dup = True
-                            print(f"  同日相似删除 {f.name}: {e['id']} ╌ {t2[:20]}")
-                            break
-            if dup:
-                removed += 1
-                print(f"  与主文件重复删除 {f.name}: {e['id']} {e.get('title','')}")
-                continue
-            seen.add(e["id"])
-            out.append(e)
-        f.write_text(json.dumps(out, ensure_ascii=False, indent=0), encoding="utf-8")
-
-    # 全库 id 唯一性终检
-    all_ids = []
-    for f in files:
-        all_ids += [e["id"] for e in json.loads(f.read_text(encoding="utf-8"))]
+    all_ids = [e["id"] for f in files for e in json.loads(f.read_text(encoding="utf-8"))]
     dup = [k for k, v in Counter(all_ids).items() if v > 1]
     print(f"删除重复 {removed} 条；全库 {len(all_ids)} 条；剩余重复 {len(dup)}")
     for x in dup[:10]:

@@ -109,37 +109,6 @@
 ]
 },
 {
-"id": "2020-03-20-dongsen-fashou",
-"date": "2020-03-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《集合啦！动物森友会》发售：隔离时代的快乐岛",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "任天堂 Switch 大作《动物森友会》3月20日全球发售，正赶上全球居家隔离，玩家涌上无人岛种树钓鱼。发售12天销量破1177万份，成为 Switch 史上首销最快游戏。",
-"detail": "动森以慢节奏的岛屿生活模拟对抗高强度的现实，疫情期间全球玩家在岛上办婚礼、开毕业典礼、复刻名画名景。任天堂披露发售12天销量即达1177万份，当年内成为 Switch 系列最畅销作品之一，主机与游戏一度双双断货，国内水货渠道价格翻倍，B站动森相关内容播放量暴涨。",
-"impact": "证明了『治愈系』游戏在危机时代的情绪价值，把 Switch 国民度推上新台阶，也为2020年游戏行业整体逆势爆发定调。",
-"aftermath": "《健身环大冒险》《糖豆人》随后接力；动森此后多年稳居 Switch 销量榜前列，2024年销量已超4700万份。",
-"sources": [
-{
-"title": "维基百科：集合啦！动物森友会",
-"url": "https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83",
-"type": "wiki"
-},
-{
-"title": "维基百科：Animal Crossing: New Horizons",
-"url": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
-"type": "wiki"
-}
-],
-"tags": [
-"任天堂",
-"Switch",
-"动物森友会"
-]
-},
-{
 "id": "2020-04-01-laohu-shoubo",
 "date": "2020-04-01",
 "date_accuracy": "exact",
@@ -400,32 +369,6 @@
 ]
 },
 {
-"id": "2020-09-28-yuanshen-shangxian",
-"date": "2020-09-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《原神》全球上线：中国手游出海的里程碑",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "9月28日米哈游开放世界游戏《原神》全球同步上线，首月移动端收入约2.45亿美元，登顶中国手游出海收入榜，国产游戏第一次以全平台开放世界形态立足全球。多端互通的产品形态在当时行业独一无二。",
-"detail": "《原神》以 iOS、安卓、PC、PS4 多端互通与二次元开放世界的形态面世，主机级品质让『国产手游』第一次在全球主机与PC玩家中赢得尊重。Sensor Tower 数据显示其上线首月移动端收入约2.45亿美元，此后长期位居全球手游收入榜前列。抽卡商业模式与游戏品质的争论同步发酵，『原学』成为网络亚文化。",
-"impact": "中国自研游戏第一次以全球同步、主机级品质参与全球竞争，米哈游成为上海游戏产业名片。",
-"aftermath": "《原神》连年位居全球手游收入前列；米哈游2023年推出《崩坏：星穹铁道》延续方法论，中国游戏出海进入精品化时代。",
-"sources": [
-{
-"title": "维基百科：原神",
-"url": "https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%A5%9E",
-"type": "wiki"
-}
-],
-"tags": [
-"米哈游",
-"原神",
-"游戏出海"
-]
-},
-{
 "id": "2020-10-14-iphone12",
 "date": "2020-10-14",
 "date_accuracy": "exact",
@@ -568,32 +511,6 @@
 "荣耀",
 "华为",
 "出售"
-]
-},
-{
-"id": "2020-12-10-cyberpunk-2077",
-"date": "2020-12-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《赛博朋克2077》发售：最受期待游戏的翻车与回血",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "12月10日CD Projekt Red的《赛博朋克2077》发售，PC端Steam同时在线峰值破百万，但旧主机版灾难级优化引发退款潮，索尼一度将其从PS商店下架。",
-"detail": "游戏预售超过800万份，发售前即收回全部开发与营销成本。PC版口碑与销量双丰收，Steam同时在线峰值105万创单机游戏纪录；但PS4/Xbox One版本漏洞百出，大规模退款接踵而至，12月18日索尼将游戏从 PlayStation Store 下架，CDPR 股价腰斩并遭遇集体诉讼。『预告即成品』的行业潜规则被反噬，预购信任崩塌。",
-"impact": "成为游戏预购信任崩塌的标志性案例，也让『波兰蠢驴』从神坛跌落再艰难爬回。",
-"aftermath": "2021-2022年多轮修复后口碑回升，衍生动画《赛博朋克：边缘行者》2022年爆红并带动销量二次起飞。",
-"sources": [
-{
-"title": "维基百科：赛博朋克2077",
-"url": "https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077",
-"type": "wiki"
-}
-],
-"tags": [
-"赛博朋克2077",
-"CDPR",
-"单机游戏"
 ]
 },
 {
