@@ -5,6 +5,7 @@
 - date: month/year 精度归一到 01 日；id 前缀与 date 对齐、转小写
 """
 import json
+import re
 import sys
 from pathlib import Path
 

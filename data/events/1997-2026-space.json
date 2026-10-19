@@ -1,1124 +1,1124 @@
 [
- {
-  "id": "1997-01-12-sts81-mir-docking",
-  "date": "1997-01-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-81：亚特兰蒂斯号第六次对接和平号空间站",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年1月，亚特兰蒂斯号航天飞机与俄罗斯和平号空间站实现第六次对接，送去补给并接回在站宇航员。这是美俄\"航天飞机-和平号\"计划后期的例行但关键的一站，为国际空间站积累了宝贵的两国联合飞行经验。",
-  "detail": "STS-81任务是航天飞机与和平号对接计划的第六次飞行，亚特兰蒂斯号向空间站运送了约2.7吨物资，并接回在轨驻留四个月的宇航员约翰·布拉哈。此时和平号已显现老化迹象，美俄双方仍持续通过这种\"摆渡\"模式验证交会对接、生命保障与联合科学实验。整个 Shuttle-Mir 计划共完成九次对接，直接为1998年启动的国际空间站工程奠定了运行范式。",
-  "impact": "证明了俄美两国航天系统能够长期协同运行，为国际空间站铺路。",
-  "aftermath": "同年和平号接连发生火灾与撞击事故，合作经受严峻考验。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "航天飞机",
-   "和平号空间站"
-  ]
- },
- {
-  "id": "1997-02-23-mir-fire",
-  "date": "1997-02-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "和平号空间站发生严重火灾",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年2月，和平号空间站上的固态氧发生器突然起火，火焰封堵了部分舱段逃生通道，持续燃烧约14分钟，是当时载人航天史上最严重的在轨火灾。宇航员被迫佩戴防毒面具，事后空间站环境净化花了数周，这次事故拉开了和平号\"多事之秋\"的序幕。",
-  "detail": "火灾由一台锂高氯酸盐固态氧发生器（Vika）点燃引发，火苗裹挟熔融金属喷溅，浓烟迅速充满晶体舱。六名机组一度考虑弃站乘联盟号撤离。火灾后空间站空气过滤系统长期超负荷，NASA 宇航员 Jerry Linenger 在给家人的信中描述了当时的险境。这起事故连同随后的失氧、失压、计算机失灵等连环故障，让外界开始质疑和平号超期服役的安全性。",
-  "impact": "暴露了老化空间站的系统性风险，促使俄美重新评估载人驻留安全。",
-  "aftermath": "四个月后进步号货船又撞穿光谱舱，和平号险些被放弃。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "和平号空间站",
-   "事故"
-  ]
- },
- {
-  "id": "1997-05-05-iridium-first-launch",
-  "date": "1997-05-05",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "铱星星座首批5颗卫星发射，星座时代开启",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年5月5日，德尔塔2号火箭将铱星计划的首批5颗卫星送入轨道。铱星计划由摩托罗拉主导，要用66颗低轨卫星实现全球任意角落的电话通信，是史上第一个真正意义上的巨型低轨星座。它的发射拉开了此后二十多年卫星星座竞争的序幕，也是后来星链的直接精神先祖。",
-  "detail": "铱星单星成本高、技术激进，首次发射用一枚德尔塔2号投送5颗卫星，此后以每次多星的方式密集组网，1998年即基本建成66+6备份星座。它证明了低轨星座在技术上可行，却因终端昂贵、地面蜂窝网络爆发而商业失败。耐人寻味的是，铱星的技术遗产最终被星链继承并放大，铱星公司本身也在破产后靠航空、海事和军用市场复活。",
-  "impact": "开创低轨通信星座先河，其商业模式失败但技术路线被后来的星链验证。",
-  "aftermath": "铱星公司1999年破产，星座后被低价收购转型为专用通信服务。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "卫星星座",
-   "商业航天"
-  ]
- },
- {
-  "id": "1997-05-12-dfh-3",
-  "date": "1997-05-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "东方红三号通信卫星发射成功",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1997年5月12日，长征三号甲火箭将东方红三号送入地球同步转移轨道。东方红三号是中国首颗基于新一代公用平台的大容量通信卫星，标志着中国通信卫星从试验验证转向业务应用，其平台后来发展为中国通信卫星的主力底座，奠定了此后二十年中国商业与民用通信卫星的技术基础。",
-  "detail": "东方红三号装载24路C频段转发器，设计寿命8年，主要承担电视传输、 telephony和数据业务。此前中国的东方红二号系列容量小、寿命短，仅能算是试验性质。东方红三号平台（DFH-3平台）后来派生出东方红四号等后续型号，并成为尼日利亚、委内瑞拉等国际卫星订单的技术母体。发射它的长征三号甲火箭也在当年连续成功，成为高轨发射的主力。",
-  "impact": "中国通信卫星进入实用化、平台化时代。",
-  "aftermath": "DFH-3平台持续改进，支撑了后来东方红四号及多个国际出口卫星。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "中国航天",
-   "通信卫星",
-   "长征火箭"
-  ]
- },
- {
-  "id": "1997-06-25-mir-collision",
-  "date": "1997-06-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "进步M-34撞穿和平号光谱舱，空间站险被放弃",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年6月25日，无人驾驶的进步M-34货船在做手动对接试验时失控，撞穿了和平号空间站光谱舱，舱内迅速失压，宇航员紧急切断电缆封舱保站。这是当时载人航天史上最严重的在轨碰撞事故，和平号电力骤减一半，美俄一度认真讨论弃站。",
-  "detail": "俄罗斯宇航员 Tsibliyev 手动遥控进步号进行新对接系统试验时，飞行器速度过快直冲光谱舱，撞破散热器并击穿舱壁。三名机组关闭舱门保住空间站主体，但光谱舱永久废弃，太阳能帆板受损使空间站长期电力不足。事故调查将原因归于设备缺陷、地面训练不足与操作失误的叠加，俄美联合修复行动（多次舱外作业）后来成为国际空间站运行的重要经验。",
-  "impact": "在轨碰撞的极端案例，直接影响了此后航天器交会对接的安全规范。",
-  "aftermath": "和平号带伤运行到2001年受控离轨坠毁。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "和平号空间站",
-   "事故",
-   "交会对接"
-  ]
- },
- {
-  "id": "1997-07-04-pathfinder-landing",
-  "date": "1997-07-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火星探路者着陆火星，人类首辆火星车开上火星",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年7月4日美国国庆日，火星探路者探测器在火星阿瑞斯谷着陆，释放出人类第一辆在另一颗行星上行驶的火星车\"索杰纳\"。任务用气囊弹跳着陆这一全新方式，以低成本验证了漫游车技术，全网直播的火星全景照片让公众沸腾，被视为行星探测黄金时代的回归。",
-  "detail": "探路者是 NASA\"更快更好更省\"理念的代表作，总成本不到此前大型火星任务的四分之一。着陆采用降落伞加减速火箭加气囊包裹弹跳的组合，索杰纳仅重10.5公斤，靠太阳能行驶，任务原定7天，实际工作了近3个月，传回1.6万张影像。它证明小型低成本火星车可以科学有效，为后来的勇气号、机遇号、好奇号乃至毅力号铺平了道路。",
-  "impact": "开创火星车探测模式，行星探测进入漫游时代。",
-  "aftermath": "NASA 随后的火星车一代比一代大，20年后毅力号已能直升取样。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "火星车",
-   "NASA"
-  ]
- },
- {
-  "id": "1997-09-12-mgs-arrival",
-  "date": "1997-09-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火星全球勘测者抵达火星开始测绘",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年9月，火星全球勘测者（MGS）进入火星轨道，开始长达数年的全球高分辨率测绘。它利用大气制动的创新方式省下大量燃料，拍回了分辨率惊人的地表照片，找回失联二十多年的海盗号着陆器影像，并发现了火星曾经存在水的更多线索，为21世纪火星探测高潮打下基础。",
-  "detail": "MGS 搭载的 MOC 相机分辨率达1.5米级，首次让科学家看清华火星的地貌细节；其激光高度计绘制出第一份全球火星地形图。任务原计划两年，实际持续到2006年11月，期间发现的沟壑、沉积层等证据持续支持\"火星曾有液态水\"的假说。它还承担了后来着陆任务的中继通信，是当之无愧的火星基础设施。",
-  "impact": "以数据质量重塑了火星科学研究，发现了火星水活动的大量证据。",
-  "aftermath": "其发现直接催生了后来凤凰号、好奇号等寻水任务。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "NASA"
-  ]
- },
- {
-  "id": "1997-10-15-cassini-launch",
-  "date": "1997-10-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "卡西尼-惠更斯探测器发射，踏上土星之旅",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年10月15日，泰坦4号火箭将卡西尼-惠更斯联合探测器送入太空。这是美国与欧洲合作的旗舰级行星任务：美国造的卡西尼号将环绕土星，欧洲造的惠更斯号将降落在土卫六。任务因环保争议（携带72斤钚电源）遭遇大规模抗议，却最终成为行星科学史上最成功的任务之一。",
-  "detail": "卡西尼重约6吨，是当时发射过的最大行星探测器，需借助金星、地球、木星四次引力助推才能抵达土星，全程历时7年。任务在轨道运行13年，环绕土星294圈，发现了土卫二喷泉、泰坦甲烷湖泊，并在2017年以壮烈的\"壮丽终章\"俯冲入土星大气。惠更斯号2005年成功登陆土卫六，成为人类探测器着陆过的最远天体。",
-  "impact": "行星探测旗舰任务，重新定义了外太阳系的认知。",
-  "aftermath": "卡西尼2017年坠入土星大气谢幕，土卫二与泰坦成为后续任务的热门目标。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "土星",
-   "NASA",
-   "ESA"
-  ]
- },
- {
-  "id": "1997-10-16-lm3b-return-to-flight",
-  "date": "1997-10-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "长征三号乙复飞成功，发射亚太二号R通信卫星",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1997年10月16日，长征三号乙火箭发射亚太二号R卫星成功。此前长三乙前两次发射（1996年2月与8月）均告失败，其中首飞坠毁爆炸造成重大损失，中国航天陷入国际信任危机。这次复飞成功让中国保住了国际商业发射市场，稳住了长征火箭的信誉，成为长征系列历史上关键的转折点。",
-  "detail": "长三乙是中国当时运载能力最大的高轨火箭，首飞失利曾给外方卫星造成毁灭性损失，国际保险市场一度将中国发射费率大幅上调。此次复飞目标亚太二号R由中国与新加坡合资的亚太通信卫星公司订购。复飞成功后，长三乙当年12月又成功发射亚洲二号R等卫星，逐步恢复市场信心，此后长三乙成为发射嫦娥探月等重大任务的主力火箭之一。",
-  "impact": "挽救了中国国际商业发射的信誉，长征三号乙此后成为高轨主力。",
-  "aftermath": "1998-1999年长征连续成功，中国商业发射市场逐渐回暖。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1997 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "长征火箭",
-   "中国航天",
-   "商业发射"
-  ]
- },
- {
-  "id": "1998-01-06-lunar-prospector",
-  "date": "1998-01-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "月球勘探者发射，在月球两极发现水冰",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年1月6日，低成本探测器月球勘探者发射升空，它是阿波罗计划后 NASA 首个月球任务。发射仅两个月后，其搭载的中子谱仪就在月球两极陨石坑中发现大量水冰迹象，彻底改变了人类对月球资源潜力的判断，直接推动了后来各国的月球探测复兴。",
-  "detail": "月球勘探者只花了6300万美元（不含火箭），是\"更快更好更省\"的典范。它绘制了月球重力场和元素分布图，最著名的发现在于两极永久阴影区可能蕴藏数千万吨水冰——这意味着未来月球基地可以就地取水。1999年7月任务结束时，探测器按计划撞向月球南极，试图激起水汽云以验证水冰存在（未果），但后续印度月船一号、LCROSS 等任务最终证实了水冰。",
-  "impact": "首次给出月球水冰的有力证据，点燃新一轮探月热潮。",
-  "aftermath": "水冰发现后来被 LCROSS 撞击实验证实，成为阿尔忒弥斯选址的关键依据。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "月球探测",
-   "NASA"
-  ]
- },
- {
-  "id": "1998-03-25-lm2c-iridium",
-  "date": "1998-03-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "长征二号丙一年内多次发射铱星",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1998年3月25日，长征二号丙改进型再次将两颗铱星送入轨道。中国在这段时期承担了铱星星座的多次补网发射任务，以一箭双星方式高效组网，这是中国航天深度参与国际商业星座建设的高峰期。此后不久铱星公司破产，这类订单也随着中美发射合作的政治干扰而终结。",
-  "detail": "长征二号丙/SD（带智能分配器）专为铱星一箭双星任务改进，从1997年到1998年完成了6次发射12颗铱星。这种稳定的批量组网发射让中国商业发射一度在国际市场上占据可观份额。但随着1999年铱星破产，加上美国对华卫星出口管制收紧，中国在国际商业发射市场的黄金期戛然而止，此后十多年国际订单寥寥。",
-  "impact": "中国火箭批量参与国际星座建设的高峰，此后因管制与市场变化而中断。",
-  "aftermath": "美国1999年起将卫星出口管辖移交国务院，中国商业发射订单锐减。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "长征火箭",
-   "商业发射",
-   "卫星星座"
-  ]
- },
- {
-  "id": "1998-06-02-sts91-final-shuttle-mir",
-  "date": "1998-06-02",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-91：航天飞机与和平号最后一次对接",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年6月2日，发现号航天飞机执行 STS-91 任务，完成航天飞机与和平号的第九次也是最后一次对接。为期三年的\"航天飞机-和平号\"阶段正式收官，美国宇航员累计在和平号上驻留近两年，所有经验和教训都被直接带入几个月后启动的国际空间站工程。",
-  "detail": "STS-91 搭载了阿尔法磁谱仪 AMS-01 进行首次太空验证，并接回在和平号驻留的 Andrew Thomas。Shuttle-Mir 计划期间美方37名宇航员参与，经历了火灾、撞击、失压等所有可能想象到的危机，被誉为\"国际空间站的彩排\"。NASA 后来的评估认为，没有这些在轨危机处置经验，国际空间站早期运行会艰难得多。",
-  "impact": "为国际空间站完成了全套实战彩排，美俄载人合作模式定型。",
-  "aftermath": "五个月后国际空间站首个舱段发射，合作舞台切换。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "航天飞机",
-   "和平号空间站",
-   "国际空间站"
-  ]
- },
- {
-  "id": "1998-08-27-delta-3-failure",
-  "date": "1998-08-27",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "德尔塔3火箭首飞爆炸，波音商业发射受挫",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年8月27日，波音新型大运力火箭德尔塔3首飞升空71秒后因液压故障失稳，触发自毁，银河10号卫星化为火球。此后德尔塔3又在1999年连败两次，三战三败直接把大卫星发射市场让给了竞争对手，也在无形中催化了波音后来联合俄乌组建海上发射公司等变通策略。",
-  "detail": "德尔塔3是为对抗阿丽亚娜4/5和长三乙而生的中型大运力火箭，首飞失败源于固体助推器液压作动筒故障导致火箭剧烈摆动解体。三连败后波音紧急调整，德尔塔3再未恢复商业订单，其技术反而嫁接进大获成功的德尔塔2/4系列。这次失败也说明：在90年代末群雄并起的商业发射市场，一次首飞失利的代价极其高昂。",
-  "impact": "商业发射竞争白热化的注脚，一款火箭三连败即退出市场。",
-  "aftermath": "波音转向海上发射合资与德尔塔4家族。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "运载火箭",
-   "发射失败"
-  ]
- },
- {
-  "id": "1998-10-24-deep-space-1",
-  "date": "1998-10-24",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "深空一号发射：离子推进器首次用于深空主推进",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年10月24日，NASA 新千年计划的首个探测器深空一号发射。它首次把离子电推进作为深空探测器的主推进系统，还验证了自主导航等十二项高风险新技术，虽然过程中遭遇恒星跟踪器故障等波折，但最终成功飞越小行星1992 KD并拍摄了彗星Borrelly，为电推进时代开了先河。",
-  "detail": "深空一号的离子推进器以氙气为工质，比冲是化学火箭的十倍，但因推力极小需要长时间开机，对可靠性要求苛刻。发射后不久星敏感器失灵，团队靠软件算法救回探测器，任务一度面临夭折，最终不但完成小行星观测，还在燃料余量极少的情况下加拍彗星 Borrelly 特写，成为航天工程韧性的教科书案例。",
-  "impact": "电推进从实验室走向主推进，此后黎明号、隼鸟号等深空任务均受益。",
-  "aftermath": "黎明号、BepiColombo 等后来任务将离子推进作为标配。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "新技术验证",
-   "NASA"
-  ]
- },
- {
-  "id": "1998-10-29-sts95-john-glenn",
-  "date": "1998-10-29",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "77岁参议员约翰·格伦重返太空",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年10月29日，发现号航天飞机执行 STS-95 任务，77岁的约翰·格伦随行升空。格伦是1962年美国第一位绕地球飞行的宇航员，时隔36年重返太空并成为最年长的航天员，全美媒体盛况空前。任务表面研究老年人太空适应性，实际也被视为白宫政治与航天公关的经典组合。",
-  "detail": "格伦1998年时任俄亥俄州联邦参议员，他推动自己进入这次任务的乘组，NASA 借机研究太空飞行对老年骨质疏松与平衡系统的影响。发射当天有数十万人到卡纳维拉尔角围观，时任总统克林顿亲临现场。这次任务也成为航天飞机时代大众关注度最高的飞行之一，为NASA赢得了难得的公众好感。",
-  "impact": "航天史上最著名的\"第二次飞行\"，展示了航天员生涯的另一种可能。",
-  "aftermath": "格伦2016年以95岁高龄去世，这次任务成为他的传奇注脚。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "载人航天",
-   "航天飞机"
-  ]
- },
- {
-  "id": "1998-11-20-zarya-launch",
-  "date": "1998-11-20",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "曙光号功能舱发射，国际空间站时代开始",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年11月20日，俄罗斯质子号火箭将国际空间站第一个舱段——曙光号功能舱送入轨道。冷战结束后美俄欧日加十六国共建的空间站工程正式落地，人类开始在天上建造一座永久性的多国科学前哨。此后二十多年，这座约420吨的轨道实验室成为全球太空合作的象征。",
-  "detail": "曙光号由俄罗斯制造、美国出资，提供了空间站早期的推进、电源与姿态控制能力。两周后奋进号航天飞机送来美国的团结号节点舱与之对接，空间站雏形出现。项目历经冷战遗产、预算危机、哥伦比亚事故等考验，2000年迎来首批常驻乘组，至今已连续有人驻留超过二十五年，成为人类历史上最昂贵的单一工程之一。",
-  "impact": "国际空间站从图纸变为现实，开启全球长期载人驻留时代。",
-  "aftermath": "2000年11月首批常驻乘组进驻，人类在太空的足迹再未中断。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "载人航天"
-  ]
- },
- {
-  "id": "1998-12-04-sts88-unity-docking",
-  "date": "1998-12-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-88：奋进号完成国际空间站首次在轨组装",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年12月4日，奋进号航天飞机将团结号节点舱送入轨道，宇航员三次出舱把曙光号与团结号连接起来，完成国际空间站史上第一次组装作业。美俄两个舱段在轨握手，标志着这座空间站真正开始生长，此后一百多次飞行任务接续将它扩建成如今的人类轨道家园。",
-  "detail": "STS-88机组用机械臂捕获曙光号并与团结号对接，Jerry Ross 与 Jim Newman 完成三次共约21小时的舱外作业连接线缆与天线。两位经验丰富的宇航员后来都创造了出舱次数纪录。这次任务验证了在轨建造的全部关键流程——机械臂捕获、舱段对接、出舱布线，成为此后所有国际空间站组装任务的模板。",
-  "impact": "国际空间站首次舱段组装成功，验证了在轨建站全流程。",
-  "aftermath": "空间站此后扩建一百多次任务，2011年基本建成。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "载人航天"
-  ]
- },
- {
-  "id": "1998-12-11-mco-launch",
-  "date": "1998-12-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火星气候探测器发射，埋下单位换算大祸",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年12月11日，火星气候轨道器发射升空。这颗本来使命不凡的探测器将在次年因为一个荒诞的错误——公制与英制单位没有换算——坠毁在火星大气中。它连同1999年损失的火星极地着陆器，让 NASA 火星计划一夜回到解放前，也促使航天工程对软件与流程管理进行深刻反思。",
-  "detail": "火星气候轨道器由洛克希德·马丁提供的推进数据使用英制磅力单位，而 JPL 的导航软件假定是公制牛顿，修正量差了4.45倍。1999年9月23日探测器切入火星大气过低解体，损失1.25亿美元。事故调查报告指出多个环节的校验均告失效，NASA 随后全面强制公制单位并重构任务审查流程，这一案例至今仍是航天工程课堂的经典教材。",
-  "impact": "工程管理经典的反面教材，改写了 NASA 的审查与单位规范。",
-  "aftermath": "与火星极地着陆器同年失利，NASA 重整火星探测计划。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1998 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "发射失败",
-   "工程管理"
-  ]
- },
- {
-  "id": "1999-02-07-stardust-launch",
-  "date": "1999-02-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "星尘号发射，首次彗星采样返回任务启程",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年2月7日，星尘号探测器发射，目标是在彗星81P/Wild 2尾部采集尘埃样本并带回地球。这是人类首次彗星采样返回任务，其气凝胶捕捉技术堪称巧妙。2006年返回舱成功着陆犹他州，带回的彗星尘埃中甚至发现了太阳系外物质，改写了人们对太阳系形成的认识。",
-  "detail": "星尘号借助非凡的轨道设计在太空中飞行近七年，2004年以6公里/秒的速度穿越Wild 2彗发，用双层气凝胶捕获了上百万颗微粒。2006年1月样本舱脱离主探测器返回地球，任务总成本仅3亿美元级别。样品研究发现彗星中含有高温成因的矿物，说明太阳系早期物质曾被大规模搅动混合，挑战了传统彗星模型。",
-  "impact": "首次带回彗星物质，太阳系早期演化研究获得实物证据。",
-  "aftermath": "星尘号随后延伸任务再探坦普尔1号，于2011年退役。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "彗星",
-   "采样返回"
-  ]
- },
- {
-  "id": "1999-03-28-sea-launch-debut",
-  "date": "1999-03-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "海上发射公司首飞，从赤道海面发射火箭",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年3月28日，由美俄乌挪四方合资的海上发射公司（Sea Launch）用天顶-3SL火箭完成首飞。这种把发射平台开到赤道公海再点火的做法，能最大化地球自转增益，是商业航天史上最富想象力的发射方式之一，此后十余年间发射了三十多次大容量商业卫星。",
-  "detail": "海上发射系统由挪威造的浮动指挥船和乌克兰造的天顶号火箭组成，在赤道太平洋发射可让同步轨道运力提升约20%。首飞搭载虚拟载荷验证全流程成功。公司后来经历2007年发射事故、2009年破产重组，最终因俄乌战争停摆。但赤道海上发射的理念在多年后被中国等新兴商业航天公司重新拾起。",
-  "impact": "验证赤道海上发射的商业价值，成为火箭发射方式的经典变体。",
-  "aftermath": "公司多次沉浮后停运，海上发射理念后来被中国商业航天继承。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "商业航天",
-   "运载火箭"
-  ]
- },
- {
-  "id": "1999-05-27-sts96-first-iss-shuttle",
-  "date": "1999-05-27",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-96：航天飞机首次造访国际空间站",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年5月27日，发现号航天飞机与国际空间站对接，完成航天飞机对空间站的首次造访。宇航员为在轨的曙光号与团结号送去了物资和工具，并完成出舱作业安装吊车。此时空间站只有两个舱段、空无一人，距离首批宇航员进驻还有半年。",
-  "detail": "STS-96 是国际空间站组装飞行2A.1，任务亮点包括利用便携脚蹬出舱、首次在空间站上使用俄制对接舱转移物资。此时空间站处于无人值守状态，航天飞机任务是难得的维护窗口。任务也暴露了在轨二氧化碳超标、物资摆放混乱等管理问题，让 NASA 认识到空间站长期运行远比想象中复杂。",
-  "impact": "航天飞机与空间站的运营模式首次打通。",
-  "aftermath": "半年后首批常驻乘组进驻，空间站进入有人时代。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "航天飞机"
-  ]
- },
- {
-  "id": "1999-07-23-sts93-chandra",
-  "date": "1999-07-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-93发射钱德拉X射线望远镜，首位女指令长执飞",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年7月23日，哥伦比亚号将钱德拉X射线天文台送入轨道，这是 NASA 四大空间望远镜中最后入役的旗舰。同一次任务中，艾琳·柯林斯成为航天飞机史上首位女指令长。钱德拉此后在轨工作超过25年，拍到黑洞边缘、超新星遗迹的无数震撼影像，至今仍是X射线天文学的支柱。",
-  "detail": "钱德拉重约5吨，是航天飞机运载过的最重单一载荷，由上部级火箭推进到远地点14万公里的高椭圆轨道以避开辐射带。柯林斯1995年已作为首位女航天飞机飞行员创造历史，此次晋升指令长。钱德拉的观测帮助确认了宇宙加速膨胀所需的暗能量模型，也多次捕捉到中子星并合等重大事件的X射线对应体。",
-  "impact": "空间天文学旗舰入役，女性首次执掌航天飞机指令长。",
-  "aftermath": "钱德拉服役超25年，与哈勃、斯皮策并称空间望远镜三巨头。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "空间望远镜",
-   "载人航天",
-   "NASA"
-  ]
- },
- {
-  "id": "1999-08-13-iridium-bankruptcy",
-  "date": "1999-08-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "铱星公司破产：史上最昂贵的商业航天梦碎",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年8月13日，投入超过50亿美元的铱星公司申请破产保护。星座建成仅九个月，全球用户只有约两万，远远无法偿还债务。这是商业航天史上最著名的失败之一，给整个行业上了惨痛一课：技术领先不等于商业成功，地面蜂窝网络的爆发式发展碾碎了天基电话的想象。",
-  "detail": "铱星终端重达一斤、通话费每分钟数美元，而此时手机已人手一部。公司背负巨债、股价崩盘，星座面临脱轨销毁的命运。1999年底一家投资财团以约2500万美元的天价折扣买下系统，铱星转型服务航空、海事、军用与政府市场，反而实现盈利至今。这场崩溃让华尔街此后十余年对星座项目退避三舍，直到星链出现才重燃热情。",
-  "impact": "给卫星星座商业泼下冷水，行业阴影持续二十年。",
-  "aftermath": "铱星被低价收购转型专用市场存活至今，星链两十年后重走星座路。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "商业航天",
-   "卫星星座",
-   "破产"
-  ]
- },
- {
-  "id": "1999-09-23-mco-lost",
-  "date": "1999-09-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火星气候轨道器因单位换算错误坠毁",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年9月23日，火星气候轨道器在切入火星轨道时失联坠毁。事后调查发现，承包商提供的数据用英制单位而 NASA 软件按公制计算，导航误差导致探测器一头扎进火星大气。这颗1.25亿美元的探测器以一种近乎荒诞的方式谢幕，成为航天史上最著名的管理事故。",
-  "detail": "轨道器本应对火星气候与水的历史进行系统研究，并与即将抵达的极地着陆器配合。坠毁后 NASA 指定的调查委员会发现，发射前的多项独立校核全部未能发现单位错误，暴露出任务节奏过快、审查流于形式的系统性问题。NASA 随后全面推行公制单位标准，并彻底重构了任务保障流程。",
-  "impact": "航天工程史上最著名的管理教训之一。",
-  "aftermath": "三个月后火星极地着陆器也失联，NASA 火星计划全面整改。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "发射失败",
-   "工程管理"
-  ]
- },
- {
-  "id": "1999-10-14-cbers-1",
-  "date": "1999-10-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "中巴地球资源卫星01星发射，南南航天合作里程碑",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1999年10月14日，长征四号乙首飞将中巴地球资源卫星01星送入轨道。这是中国与巴西联合研制的第一颗资源卫星，也是南半球两个发展中大国在高科技领域标志性的合作工程。卫星数据免费向发展中国家开放，此后中巴资源卫星系列持续更新三十余年，成为国际航天合作的经典范例。",
-  "detail": "CBERS-01由中国空间技术研究院与巴西空间研究院联合研制，双方各承担约一半工作量，巴西借此建立了完整的卫星研制能力。卫星装载CCD相机、红外扫描仪等载荷，服务于两国农业、林业、环境监测。发射它的长征四号乙也在首飞中表现完美。此后01/02/03/04星接续，合作延续至今，巴西后来自主研发的卫星也多脱胎于这条技术线。",
-  "impact": "开创发展中国家间大型航天合作先例，巴西由此建立卫星工业。",
-  "aftermath": "中巴资源卫星系列持续迭代超过25年，04A星等仍在服务。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "中国航天",
-   "国际合作",
-   "对地观测"
-  ]
- },
- {
-  "id": "1999-11-19-shenzhou-1",
-  "date": "1999-11-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "神舟一号发射，中国载人航天工程首飞成功",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1999年11月20日（北京时间），长征二号F火箭首飞将神舟一号试验飞船送入太空，飞船绕地14圈后成功返回内蒙古。这是中国载人航天工程1992年立项后的第一次飞行试验，新火箭与新飞船同时首飞成功，中国由此成为少数具备独立载人航天能力的候选者，中国航天的新纪元自此起步。",
-  "detail": "神舟一号由推进舱、返回舱、轨道舱组成，借用轨道舱进行了一系列空间科学实验，飞行约21小时后在预定点安全着陆。专为载人设计的长征二号F火箭首飞即成功，其冗余设计与故障检测系统为后续任务打下底子。此后神舟二号、三号、四号在2001至2002年接连试验，2003年杨利伟飞天水到渠成。",
-  "impact": "中国载人航天工程实现零的突破，三步走战略迈出第一步。",
-  "aftermath": "四次无人试验后，2003年神舟五号送杨利伟进入太空。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "中国航天",
-   "神舟",
-   "载人航天"
-  ]
- },
- {
-  "id": "1999-12-03-mpl-lost",
-  "date": "1999-12-03",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火星极地着陆器着陆时失联， NASA 火星计划再遭重创",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年12月3日，火星极地着陆器在登陆火星南极时失联，随行的两个深空2号穿透器也石沉大海。事后查明着陆支架的传感器信号在展开时被误读为已着陆，导致发动机关机过早。连同此前坠毁的火星气候轨道器，NASA 一年之内痛失两个火星任务，火星探测跌入谷底。",
-  "detail": "极地着陆器成本约1.65亿美元，目标是研究火星南极水冰与气候循环。失联后 NASA 组织多轮图像排查与信号搜索均告失败，调查发现着陆腿接触传感器的软件逻辑存在致命缺陷，加上可能的大气参数偏差与发动机提前关机。这次双重失败让 NASA 火星计划全面重构，转向\"跟着水走\"的渐进策略，才有了后来的凤凰号与好奇号。",
-  "impact": "火星探测最低谷的标志性事件，倒逼 NASA 重整探测路线。",
-  "aftermath": "整改后的 NASA 火星计划在2004年以双火星车大获成功翻盘。",
-  "sources": [
-   {
-    "title": "Wikipedia: 1999 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "发射失败",
-   "NASA"
-  ]
- },
- {
-  "id": "2000-02-11-srtm",
-  "date": "2000-02-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "奋进号执行航天飞机雷达地形测绘任务",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年2月11日，奋进号航天飞机携带60米长的可展开天线桅杆升空，执行航天飞机雷达地形测绘任务（SRTM）。机组连续工作11天，测绘了地球约80%陆地的三维地形，生成的全球高程数据集至今仍是大量地理信息系统、地图与工程应用的基础数据。",
-  "detail": "SRTM 使用C波段与X波段双频雷达干涉测量，桅杆展开后成为航天飞机部署过的最大单一结构。任务采集了约9.8TB数据，处理后生成30米分辨率全球DEM。Google Earth、各类导航地图、洪水模拟、基建规划都大量使用这份数据。它也是航天飞机为地球科学留下的最著名遗产之一。",
-  "impact": "人类首次获得全球统一高精度的三维地形图。",
-  "aftermath": "SRTM 数据至今仍被广泛使用，为后续星载测绘卫星树立标杆。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "航天飞机",
-   "对地观测"
-  ]
- },
- {
-  "id": "2000-02-14-near-eros-orbit",
-  "date": "2000-02-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "NEAR号进入爱神星轨道，人类首次环绕小行星",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年2月14日情人节，NEAR号探测器进入小行星爱神星（Eros）轨道，成为人类第一个环绕小行星飞行的探测器。它用一年时间把爱神星测绘得明明白白，并在任务尾声临时起意降落到星面，实现了人类首次小行星着陆，为后来的隼鸟号、OSIRIS-REx 小行星采样任务开了先例。",
-  "detail": "NEAR（近地小行星交会）原计划1998年入轨，因发动机点火失败推迟绕日一圈后成功。任务详细测定了这颗34公里长马铃薯状小行星的形状、成分与磁场（没有磁场），确认其为未分异的原始物质。2001年2月任务结束前，团队大胆尝试让没有着陆装置的探测器软着陆，以2.4米/秒的速度轻微磕碰后居然存活并传回数据两周。",
-  "impact": "小行星从远观对象变为可环绕、可着陆的目标，开创小行星探测时代。",
-  "aftermath": "20年后 OSIRIS-REx 从小行星贝努取回样本，技术路线一脉相承。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "小行星",
-   "NASA"
-  ]
- },
- {
-  "id": "2000-04-04-mircorp-last-mir-crew",
-  "date": "2000-04-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "私人公司出资的联盟TM-30造访和平号",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年4月4日，联盟TM-30飞船载两名宇航员飞往和平号，这是空间站历史上最后一艘载人飞船，也是首次由私人公司（荷兰MirCorp）出资资助的载人航天任务。MirCorp 曾雄心勃勃要把和平号改造成商业空间站，甚至开始预售太空旅行，但俄罗斯政府最终还是选择让和平号受控坠毁。",
-  "detail": "MirCorp 由俄能源集团与美国资本合资组建，1999年底签下和平号商业运营权，计划开展太空旅游、广告与在轨制造。这次任务修复了空间站部分系统，验证了商业驻留的可行性。但俄罗斯需要资金投向国际空间站，2001年初决定让和平号离轨。MirCorp 的尝试虽然失败，却是商业空间站与太空旅游理念的最早实践。",
-  "impact": "商业航天首次触碰载人空间站运营，理念超前二十年。",
-  "aftermath": "和平号2001年受控坠毁，商业空间站构想直到二十年后才真正落地。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "和平号空间站",
-   "商业航天"
-  ]
- },
- {
-  "id": "2000-07-12-zvezda-launch",
-  "date": "2000-07-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "星辰号服务舱发射，空间站具备常住条件",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年7月12日，质子号火箭将国际空间站的核心俄制舱段——星辰号服务舱送入轨道。这个舱段提供生命保障、睡眠区、厨房和厕所，让空间站第一次具备了人员长期驻留的基本条件。四个月后首批常驻乘组进驻，人类从此在太空扎下根来。",
-  "detail": "星辰号由俄罗斯赫鲁尼切夫中心建造，原是和平2号空间站的核心舱，因计划取消转用于国际空间站。它提供姿态控制发动机、通信、生保系统，是早期空间站的神经中枢。发射一度因俄罗斯财政困难推迟两年，NASA 不得不准备临时推进舱备选。星辰号至今仍在空间站上服役，承担部分生命保障功能。",
-  "impact": "国际空间站从\"空壳\"变为\"能住人\"，常驻时代的前提条件就绪。",
-  "aftermath": "四个月后远征1号进驻，空间站连续载人至今。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "载人航天"
-  ]
- },
- {
-  "id": "2000-10-11-sts92-100th-shuttle",
-  "date": "2000-10-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "STS-92：航天飞机第100次飞行",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年10月11日，发现号执行航天飞机计划第100次飞行，向国际空间站运送Z1桁架结构与加压对接适配器。1981年哥伦比亚号首飞以来，航天飞机二十年百飞，既是人类史上飞行次数最多的飞船，也背负着两次事故的沉重记忆。",
-  "detail": "STS-92 机组完成四次出舱作业，安装的Z1桁架后来成为空间站太阳能桁架的基座，PMA-3则提供了对接口。日本宇航员若田光一在此任务中出舱。此时航天飞机平均每年飞行八到九次，是空间站建设的中坚。此后又飞了35次，直到2011年7月亚特兰蒂斯号完成第135次也是最后一次任务。",
-  "impact": "航天飞机计划的里程碑，空间站桁架时代开启。",
-  "aftermath": "十一年后航天飞机退役，美国载人航天出现九年的运力空窗。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "航天飞机",
-   "国际空间站"
-  ]
- },
- {
-  "id": "2000-10-31-expedition-1",
-  "date": "2000-10-31",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "远征1号进驻：人类开始在太空永久定居",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年10月31日，联盟TM-31飞船将美俄三名宇航员送入国际空间站，11月2日对接成功，首批常驻乘组进驻。从这一天起到今天，国际空间站连续有人驻留超过二十五年，人类在地球轨道上再没有断过烟火。这是人类太空活动从\"任务式\"转向\"定居式\"的分水岭。",
-  "detail": "远征1号由美国宇航员 Bill Shepherd 与俄罗斯宇航员 Gidzenko、Krikalev 组成，原计划驻留三个多月。初期空间站条件简陋，食物靠穿梭货船补给，地面支持团队在美俄两地轮班。如今空间站常驻七人，年复一年开展数百项实验，累计超过280人先后到访。这一进程深刻改变了空间科学与国际太空合作的面貌。",
-  "impact": "人类太空驻留从此连续不断，空间站成为常设科学平台。",
-  "aftermath": "空间站连续载人超过25年，中国空间站2021年加入常驻行列。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "载人航天"
-  ]
- },
- {
-  "id": "2000-10-31-beidou-1-first",
-  "date": "2000-10-31",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "北斗一号首星发射，中国卫星导航起步",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "2000年10月31日（北京时间），长征三号甲将北斗一号试验卫星的首星送入轨道，年底第二颗入轨后中国拥有了自主的卫星导航定位系统。北斗试验系统首先满足国内定位需求，为此后北斗二号区域系统、北斗三号全球系统的三级跳迈出了第一步，中国成为全球第三个拥有自主导航卫星的国家。",
-  "detail": "北斗一号采用有源定位体制，用户需发送信号才能定位，覆盖中国及周边，定位精度约20米。首星与12月21日的第二星构成双星系统，2003年第三颗备份星入轨后系统正式开通。这个试验系统验证了星座构型、测控与用户终端技术，也暴露了有源体制的容量与隐蔽性局限，为北斗二号转向无源体制（兼容GPS模式）提供了关键经验。",
-  "impact": "中国卫星导航从零起步，开启北斗三十年三级跳。",
-  "aftermath": "2012年北斗二号覆盖亚太，2020年北斗三号全球组网完成。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "中国航天",
-   "北斗",
-   "卫星导航"
-  ]
- },
- {
-  "id": "2000-12-30-cassini-jupiter-flyby",
-  "date": "2000-12-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "卡西尼号木星掠飞，速度纪录与联合观测",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2000年12月30日，卡西尼号以约每秒30公里的相对速度掠过木星，借助引力弹弓加速奔向土星，同时与在木星轨道的伽利略号联手对木星磁场进行双点联合观测。这是人类探测器达到过的最快巡航速度之一，也开创了两台深空探测器协同观测一颗行星的先例。",
-  "detail": "木星飞掠为卡西尼补足了奔向土星的最后一脚加速，期间探测器拍摄了木星大气与磁层的精细影像，与伽利略号的同步观测让科学家第一次能从两个位置同时测量太阳风与行星磁层的相互作用。卡西尼团队还在此时发现土卫六大气中的有机化学远比预想复杂，为惠更斯着陆埋下伏笔。",
-  "impact": "引力助推技术与多探测器协同观测的经典案例。",
-  "aftermath": "卡西尼2004年抵达土星，开启13年的环土星时代。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2000 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "卡西尼号"
-  ]
- },
- {
-  "id": "2001-01-09-shenzhou-2",
-  "date": "2001-01-09",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "神舟二号发射，载人航天工程进入正样飞行阶段",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "2001年1月10日（北京时间），神舟二号试验飞船发射升空，在轨运行近7天后成功返回。这是中国载人航天工程的第二艘无人试验飞船，飞船首次以完整正样状态飞行，搭载了大量空间科学与生命实验载荷，包括动物、植物和微生物，全面考核了飞船各系统的载人飞行能力。",
-  "detail": "神舟二号几乎就是一艘按载人标准制造的飞船，轨道舱留轨运行半年开展空间天文与环境监测。飞行期间首次验证了飞船变轨、测控通信等关键环节，返回舱着陆精度明显提高。任务原计划飞行时间更长，因轨道舱问题提前安排返回。这次飞行让工程指挥部确认飞船技术状态稳定，为神舟三号进入全系统演练铺路。",
-  "impact": "中国载人飞船从试验件走向正样件，载人条件基本就绪。",
-  "aftermath": "2002年神舟三号、四号接连成功，2003年实现载人首飞。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "中国航天",
-   "神舟",
-   "载人航天"
-  ]
- },
- {
-  "id": "2001-02-07-sts98-destiny",
-  "date": "2001-02-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "命运号实验舱入驻国际空间站",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年2月7日，亚特兰蒂斯号将美国命运号实验舱送入国际空间站。这是空间站美国实验段的主体，配备当时最先进的生命科学与材料科学设施，空间站从此从\"工棚\"升级为真正的实验室。命运号至今仍是空间站上最繁忙的科研舱段之一。",
-  "detail": "命运号长8.5米、重约14吨，是 NASA 首个在轨长期运行的专用实验室舱，其指挥与控制系统能在地面失联时接管空间站。任务机组完成三次出舱将其安装到位。命运号的实验柜后来承载了燃烧、流体、蛋白质结晶等大量研究，中国空间站问天、梦天舱的设计也在功能布局上多有借鉴。",
-  "impact": "国际空间站从建设工地变为科研平台的关键一步。",
-  "aftermath": "空间站科研产出逐年攀升，累计发表数千篇论文。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "载人航天"
-  ]
- },
- {
-  "id": "2001-02-12-near-eros-landing",
-  "date": "2001-02-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "NEAR号实现人类首次小行星着陆",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年2月12日，本没有着陆设计的 NEAR号探测器轻触小行星爱神星表面，意外存活并继续传回数据两周，完成人类历史上第一次小行星软着陆。这个计划外的壮举证明小行星表面可以温和接触，为后来的采样返回任务积累了直接经验。",
-  "detail": "NEAR任务原定2月12日结束，团队决定以每秒1.5至1.8米的极低速度尝试着陆，用太阳能帆板作为缓冲。探测器落入一个马鞍形凹陷处，天线朝上居然保持通信。任务共传回69张近距离照片，分辨率最高达1厘米。这次\"摸着石头过河\"的着陆让工程师确认小行星表面并非粉碎性死亡陷阱。",
-  "impact": "首次小行星软着陆，采样返回任务的技术先声。",
-  "aftermath": "十年后隼鸟号带回小行星微粒，二十年后 OSIRIS-REx 完成大规模采样。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "小行星",
-   "NASA"
-  ]
- },
- {
-  "id": "2001-03-23-mir-deorbit",
-  "date": "2001-03-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "和平号空间站受控坠入南太平洋，15年传奇落幕",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年3月23日，服役15年的和平号空间站在控制下坠入南太平洋坟场。这座曾创下最长载人驻留纪录、经历过火灾撞击等无数危机的空间站，最终让位于国际空间站。它的落幕标志着一个时代的结束，其舱段设计、对接技术与运行经验全部被后继者继承。",
-  "detail": "进步M1-5货船三次点火将重达120吨的空间站导入南太平洋预定区域，日本、斐济等国曾临时关闭部分空域。和平号累计接待104名宇航员，创造438天连续驻留等纪录，也因后期老化事故频发而备受争议。俄罗斯最终选择让资源集中于国际空间站。和平号的晶体舱技术后来演变为国际空间站多个俄制舱段。",
-  "impact": "超期服役空间站的谢幕，载人航天资源全面转向国际空间站。",
-  "aftermath": "其舱段设计理念延续到国际空间站俄制段与后来的中国空间站。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "和平号空间站",
-   "离轨"
-  ]
- },
- {
-  "id": "2001-04-07-mars-odyssey-launch",
-  "date": "2001-04-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "2001火星奥德赛号发射，NASA 火星计划翻身仗",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年4月7日，火星奥德赛号发射，肩负着让连败两场的 NASA 火星计划止跌回升的重任。它在轨期间证实火星浅地表存在大量水冰，并绘制了完整的元素分布图，此后二十多年一直作为火星车与着陆器的中继通信卫星服役，成为火星探测的基石工程。",
-  "detail": "奥德赛号2001年10月入轨，其伽马射线谱仪探测到火星中低纬度以下广泛分布的水冰，改写了火星水文的认识。它还率先验证了火星大气制动入轨技术。最持久的影响是作为中继站：此后勇气号、机遇号、好奇号、毅力号与凤凰号的绝大部分数据都经由它传回地球。至今它仍是绕火星运行时间最长的人造物体。",
-  "impact": "NASA 火星计划由败转胜的转折点，火星基础设施的奠基者。",
-  "aftermath": "二十多年持续服役，成为火星中继通信网络的主力。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "火星探测",
-   "NASA"
-  ]
- },
- {
-  "id": "2001-04-19-sts100-canadarm2",
-  "date": "2001-04-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "加拿大臂2号入驻国际空间站",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年4月19日，奋进号航天飞机将加拿大研制的机械臂Canadarm2送入空间站并完成安装。这条17米长的巨型机械臂可以在空间站表面自由爬行，承担此后所有大型舱段的抓捕与安装任务，是空间站建造能力的核心装备，也巩固了加拿大在国际空间站合作中的地位。",
-  "detail": "Canadarm2重约1.6吨，两端都可以抓握，能像尺蠖一样沿空间站桁架移动。它继承了航天飞机加拿大臂的经验，后来又加装了灵巧手Dextre。此后命运号、和谐号、哥伦布等舱段几乎都由它完成安装。它的设计经验直接影响了后来各国空间机械臂（包括中国空间站天和机械臂）的技术路线。",
-  "impact": "空间站在轨建造的核心工具就位，大型舱段安装从此有了手术刀。",
-  "aftermath": "服役至今参与数百次捕获与安装，成为空间站标志符号。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "国际空间站",
-   "空间机械臂"
-  ]
- },
- {
-  "id": "2001-04-28-dennis-tito",
-  "date": "2001-04-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": " Dennis Tito 成为首位自费太空游客",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年4月28日，美国富豪 Dennis Tito 搭乘联盟TM-32飞船抵达国际空间站，成为历史上第一位自费到访空间站的太空游客，为此支付约2000万美元。NASA 一度强烈反对，俄航天局顶住压力促成这次飞行，商业载人航天的闸门由此打开。",
-  "detail": "Tito 是前 JPL 工程师出身的投资经理，通过太空冒险公司买到联盟号的一个座位，在空间站停留近8天。NASA 曾因安全问题抵制，双方最终达成谅解。此后沙特富翁、歌手 Lance Bass 等纷纷询价，太空旅游从科幻变成产业。Tito 的示范效应在二十年后演变为蓝色起源、维珍银河的亚轨道生意和公理号的全私人空间站任务。",
-  "impact": "商业载人航天的元年时刻，太空旅游从此成为产业。",
-  "aftermath": "此后联盟号每年都会搭载付费乘客，二十年后私人航天常态化。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "商业航天",
-   "太空旅游"
-  ]
- },
- {
-  "id": "2001-06-30-wmap",
-  "date": "2001-06-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "WMAP发射，宇宙学进入精确时代",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年6月30日，威尔金森微波各向异性探测器（WMAP）发射，奔赴日地拉格朗日L2点绘制宇宙微波背景辐射温度涨落图。它的观测精确测定了宇宙年龄约137亿年、暗物质占23%、暗能量占73%，把宇宙学从定性猜想变成精确科学，被誉为十年最重要的科学任务之一。",
-  "detail": "WMAP 全天扫描九年，将微波背景涨落测到微开尔文精度。其数据锁定了宇宙的几何形状为平直，确定了重子物质密度与哈勃常数，也让\"宇宙暴胀\"模型获得有力支持。2003年首批结果发布时被称为宇宙学的黄金时刻，后续普朗克卫星在其基础上进一步精化。",
-  "impact": "宇宙学参数第一次被测准，暗能量与暗物质模型确立。",
-  "aftermath": "普朗克卫星2013年发布更精细图谱，宇宙精确模型持续完善。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "空间天文",
-   "宇宙学"
-  ]
- },
- {
-  "id": "2001-08-08-genesis-launch",
-  "date": "2001-08-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "创世纪号发射，捕捉太阳风粒子",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2001年8月8日，创世纪号探测器发射，前往日地L1点展开高纯度收集阵列，捕捉太阳风粒子并带回地球，这是阿波罗计划以来首次从太空取回物质的采样任务。2004年返回时降落伞未能打开，样本舱砸进犹他州沙漠，但科学家从破碎的收集盘中抢救出样本，依然产出了重要成果。",
-  "detail": "创世纪号在L1点悬停约27个月，用电镀硅与蓝宝石阵列收集了约10微克太阳风离子。2004年9月8日返回时，因加速度计装反导致降落伞未展开，执行拦截任务的直升机飞行员无法抓取，样本舱以300公里时速砸地破损。经过多年清洗修复，氧同位素等关键测量仍然完成，发现太阳的氧同位素组成与地球不同，支持太阳系形成于富氧环境的假说。",
-  "impact": "首次取样太阳风，采样返回的失败与补救都成为经典案例。",
-  "aftermath": "其同位素成果持续影响太阳系形成模型研究。",
-  "sources": [
-   {
-    "title": "Wikipedia: 2001 in spaceflight",
-    "url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "深空探测",
-   "采样返回",
-   "NASA"
-  ]
- }
+{
+"id": "1997-01-12-sts81-mir-docking",
+"date": "1997-01-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-81：亚特兰蒂斯号第六次对接和平号空间站",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年1月，亚特兰蒂斯号航天飞机与俄罗斯和平号空间站实现第六次对接，送去补给并接回在站宇航员。这是美俄\"航天飞机-和平号\"计划后期的例行但关键的一站，为国际空间站积累了宝贵的两国联合飞行经验。",
+"detail": "STS-81任务是航天飞机与和平号对接计划的第六次飞行，亚特兰蒂斯号向空间站运送了约2.7吨物资，并接回在轨驻留四个月的宇航员约翰·布拉哈。此时和平号已显现老化迹象，美俄双方仍持续通过这种\"摆渡\"模式验证交会对接、生命保障与联合科学实验。整个 Shuttle-Mir 计划共完成九次对接，直接为1998年启动的国际空间站工程奠定了运行范式。",
+"impact": "证明了俄美两国航天系统能够长期协同运行，为国际空间站铺路。",
+"aftermath": "同年和平号接连发生火灾与撞击事故，合作经受严峻考验。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"航天飞机",
+"和平号空间站"
+]
+},
+{
+"id": "1997-02-23-mir-fire",
+"date": "1997-02-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "和平号空间站发生严重火灾",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年2月，和平号空间站上的固态氧发生器突然起火，火焰封堵了部分舱段逃生通道，持续燃烧约14分钟，是当时载人航天史上最严重的在轨火灾。宇航员被迫佩戴防毒面具，事后空间站环境净化花了数周，这次事故拉开了和平号\"多事之秋\"的序幕。",
+"detail": "火灾由一台锂高氯酸盐固态氧发生器（Vika）点燃引发，火苗裹挟熔融金属喷溅，浓烟迅速充满晶体舱。六名机组一度考虑弃站乘联盟号撤离。火灾后空间站空气过滤系统长期超负荷，NASA 宇航员 Jerry Linenger 在给家人的信中描述了当时的险境。这起事故连同随后的失氧、失压、计算机失灵等连环故障，让外界开始质疑和平号超期服役的安全性。",
+"impact": "暴露了老化空间站的系统性风险，促使俄美重新评估载人驻留安全。",
+"aftermath": "四个月后进步号货船又撞穿光谱舱，和平号险些被放弃。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"和平号空间站",
+"事故"
+]
+},
+{
+"id": "1997-05-05-iridium-first-launch",
+"date": "1997-05-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "铱星星座首批5颗卫星发射，星座时代开启",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年5月5日，德尔塔2号火箭将铱星计划的首批5颗卫星送入轨道。铱星计划由摩托罗拉主导，要用66颗低轨卫星实现全球任意角落的电话通信，是史上第一个真正意义上的巨型低轨星座。它的发射拉开了此后二十多年卫星星座竞争的序幕，也是后来星链的直接精神先祖。",
+"detail": "铱星单星成本高、技术激进，首次发射用一枚德尔塔2号投送5颗卫星，此后以每次多星的方式密集组网，1998年即基本建成66+6备份星座。它证明了低轨星座在技术上可行，却因终端昂贵、地面蜂窝网络爆发而商业失败。耐人寻味的是，铱星的技术遗产最终被星链继承并放大，铱星公司本身也在破产后靠航空、海事和军用市场复活。",
+"impact": "开创低轨通信星座先河，其商业模式失败但技术路线被后来的星链验证。",
+"aftermath": "铱星公司1999年破产，星座后被低价收购转型为专用通信服务。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"卫星星座",
+"商业航天"
+]
+},
+{
+"id": "1997-05-12-dfh-3",
+"date": "1997-05-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东方红三号通信卫星发射成功",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1997年5月12日，长征三号甲火箭将东方红三号送入地球同步转移轨道。东方红三号是中国首颗基于新一代公用平台的大容量通信卫星，标志着中国通信卫星从试验验证转向业务应用，其平台后来发展为中国通信卫星的主力底座，奠定了此后二十年中国商业与民用通信卫星的技术基础。",
+"detail": "东方红三号装载24路C频段转发器，设计寿命8年，主要承担电视传输、 telephony和数据业务。此前中国的东方红二号系列容量小、寿命短，仅能算是试验性质。东方红三号平台（DFH-3平台）后来派生出东方红四号等后续型号，并成为尼日利亚、委内瑞拉等国际卫星订单的技术母体。发射它的长征三号甲火箭也在当年连续成功，成为高轨发射的主力。",
+"impact": "中国通信卫星进入实用化、平台化时代。",
+"aftermath": "DFH-3平台持续改进，支撑了后来东方红四号及多个国际出口卫星。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"中国航天",
+"通信卫星",
+"长征火箭"
+]
+},
+{
+"id": "1997-06-25-mir-collision",
+"date": "1997-06-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "进步M-34撞穿和平号光谱舱，空间站险被放弃",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年6月25日，无人驾驶的进步M-34货船在做手动对接试验时失控，撞穿了和平号空间站光谱舱，舱内迅速失压，宇航员紧急切断电缆封舱保站。这是当时载人航天史上最严重的在轨碰撞事故，和平号电力骤减一半，美俄一度认真讨论弃站。",
+"detail": "俄罗斯宇航员 Tsibliyev 手动遥控进步号进行新对接系统试验时，飞行器速度过快直冲光谱舱，撞破散热器并击穿舱壁。三名机组关闭舱门保住空间站主体，但光谱舱永久废弃，太阳能帆板受损使空间站长期电力不足。事故调查将原因归于设备缺陷、地面训练不足与操作失误的叠加，俄美联合修复行动（多次舱外作业）后来成为国际空间站运行的重要经验。",
+"impact": "在轨碰撞的极端案例，直接影响了此后航天器交会对接的安全规范。",
+"aftermath": "和平号带伤运行到2001年受控离轨坠毁。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"和平号空间站",
+"事故",
+"交会对接"
+]
+},
+{
+"id": "1997-07-04-pathfinder-landing",
+"date": "1997-07-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火星探路者着陆火星，人类首辆火星车开上火星",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年7月4日美国国庆日，火星探路者探测器在火星阿瑞斯谷着陆，释放出人类第一辆在另一颗行星上行驶的火星车\"索杰纳\"。任务用气囊弹跳着陆这一全新方式，以低成本验证了漫游车技术，全网直播的火星全景照片让公众沸腾，被视为行星探测黄金时代的回归。",
+"detail": "探路者是 NASA\"更快更好更省\"理念的代表作，总成本不到此前大型火星任务的四分之一。着陆采用降落伞加减速火箭加气囊包裹弹跳的组合，索杰纳仅重10.5公斤，靠太阳能行驶，任务原定7天，实际工作了近3个月，传回1.6万张影像。它证明小型低成本火星车可以科学有效，为后来的勇气号、机遇号、好奇号乃至毅力号铺平了道路。",
+"impact": "开创火星车探测模式，行星探测进入漫游时代。",
+"aftermath": "NASA 随后的火星车一代比一代大，20年后毅力号已能直升取样。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"火星车",
+"NASA"
+]
+},
+{
+"id": "1997-09-12-mgs-arrival",
+"date": "1997-09-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火星全球勘测者抵达火星开始测绘",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年9月，火星全球勘测者（MGS）进入火星轨道，开始长达数年的全球高分辨率测绘。它利用大气制动的创新方式省下大量燃料，拍回了分辨率惊人的地表照片，找回失联二十多年的海盗号着陆器影像，并发现了火星曾经存在水的更多线索，为21世纪火星探测高潮打下基础。",
+"detail": "MGS 搭载的 MOC 相机分辨率达1.5米级，首次让科学家看清华火星的地貌细节；其激光高度计绘制出第一份全球火星地形图。任务原计划两年，实际持续到2006年11月，期间发现的沟壑、沉积层等证据持续支持\"火星曾有液态水\"的假说。它还承担了后来着陆任务的中继通信，是当之无愧的火星基础设施。",
+"impact": "以数据质量重塑了火星科学研究，发现了火星水活动的大量证据。",
+"aftermath": "其发现直接催生了后来凤凰号、好奇号等寻水任务。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"NASA"
+]
+},
+{
+"id": "1997-10-15-cassini-launch",
+"date": "1997-10-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "卡西尼-惠更斯探测器发射，踏上土星之旅",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年10月15日，泰坦4号火箭将卡西尼-惠更斯联合探测器送入太空。这是美国与欧洲合作的旗舰级行星任务：美国造的卡西尼号将环绕土星，欧洲造的惠更斯号将降落在土卫六。任务因环保争议（携带72斤钚电源）遭遇大规模抗议，却最终成为行星科学史上最成功的任务之一。",
+"detail": "卡西尼重约6吨，是当时发射过的最大行星探测器，需借助金星、地球、木星四次引力助推才能抵达土星，全程历时7年。任务在轨道运行13年，环绕土星294圈，发现了土卫二喷泉、泰坦甲烷湖泊，并在2017年以壮烈的\"壮丽终章\"俯冲入土星大气。惠更斯号2005年成功登陆土卫六，成为人类探测器着陆过的最远天体。",
+"impact": "行星探测旗舰任务，重新定义了外太阳系的认知。",
+"aftermath": "卡西尼2017年坠入土星大气谢幕，土卫二与泰坦成为后续任务的热门目标。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"土星",
+"NASA",
+"ESA"
+]
+},
+{
+"id": "1997-10-16-lm3b-return-to-flight",
+"date": "1997-10-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "长征三号乙复飞成功，发射亚太二号R通信卫星",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1997年10月16日，长征三号乙火箭发射亚太二号R卫星成功。此前长三乙前两次发射（1996年2月与8月）均告失败，其中首飞坠毁爆炸造成重大损失，中国航天陷入国际信任危机。这次复飞成功让中国保住了国际商业发射市场，稳住了长征火箭的信誉，成为长征系列历史上关键的转折点。",
+"detail": "长三乙是中国当时运载能力最大的高轨火箭，首飞失利曾给外方卫星造成毁灭性损失，国际保险市场一度将中国发射费率大幅上调。此次复飞目标亚太二号R由中国与新加坡合资的亚太通信卫星公司订购。复飞成功后，长三乙当年12月又成功发射亚洲二号R等卫星，逐步恢复市场信心，此后长三乙成为发射嫦娥探月等重大任务的主力火箭之一。",
+"impact": "挽救了中国国际商业发射的信誉，长征三号乙此后成为高轨主力。",
+"aftermath": "1998-1999年长征连续成功，中国商业发射市场逐渐回暖。",
+"sources": [
+{
+"title": "Wikipedia: 1997 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1997_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"长征火箭",
+"中国航天",
+"商业发射"
+]
+},
+{
+"id": "1998-01-06-lunar-prospector",
+"date": "1998-01-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "月球勘探者发射，在月球两极发现水冰",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年1月6日，低成本探测器月球勘探者发射升空，它是阿波罗计划后 NASA 首个月球任务。发射仅两个月后，其搭载的中子谱仪就在月球两极陨石坑中发现大量水冰迹象，彻底改变了人类对月球资源潜力的判断，直接推动了后来各国的月球探测复兴。",
+"detail": "月球勘探者只花了6300万美元（不含火箭），是\"更快更好更省\"的典范。它绘制了月球重力场和元素分布图，最著名的发现在于两极永久阴影区可能蕴藏数千万吨水冰——这意味着未来月球基地可以就地取水。1999年7月任务结束时，探测器按计划撞向月球南极，试图激起水汽云以验证水冰存在（未果），但后续印度月船一号、LCROSS 等任务最终证实了水冰。",
+"impact": "首次给出月球水冰的有力证据，点燃新一轮探月热潮。",
+"aftermath": "水冰发现后来被 LCROSS 撞击实验证实，成为阿尔忒弥斯选址的关键依据。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"月球探测",
+"NASA"
+]
+},
+{
+"id": "1998-03-25-lm2c-iridium",
+"date": "1998-03-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "长征二号丙一年内多次发射铱星",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1998年3月25日，长征二号丙改进型再次将两颗铱星送入轨道。中国在这段时期承担了铱星星座的多次补网发射任务，以一箭双星方式高效组网，这是中国航天深度参与国际商业星座建设的高峰期。此后不久铱星公司破产，这类订单也随着中美发射合作的政治干扰而终结。",
+"detail": "长征二号丙/SD（带智能分配器）专为铱星一箭双星任务改进，从1997年到1998年完成了6次发射12颗铱星。这种稳定的批量组网发射让中国商业发射一度在国际市场上占据可观份额。但随着1999年铱星破产，加上美国对华卫星出口管制收紧，中国在国际商业发射市场的黄金期戛然而止，此后十多年国际订单寥寥。",
+"impact": "中国火箭批量参与国际星座建设的高峰，此后因管制与市场变化而中断。",
+"aftermath": "美国1999年起将卫星出口管辖移交国务院，中国商业发射订单锐减。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"长征火箭",
+"商业发射",
+"卫星星座"
+]
+},
+{
+"id": "1998-06-02-sts91-final-shuttle-mir",
+"date": "1998-06-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-91：航天飞机与和平号最后一次对接",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年6月2日，发现号航天飞机执行 STS-91 任务，完成航天飞机与和平号的第九次也是最后一次对接。为期三年的\"航天飞机-和平号\"阶段正式收官，美国宇航员累计在和平号上驻留近两年，所有经验和教训都被直接带入几个月后启动的国际空间站工程。",
+"detail": "STS-91 搭载了阿尔法磁谱仪 AMS-01 进行首次太空验证，并接回在和平号驻留的 Andrew Thomas。Shuttle-Mir 计划期间美方37名宇航员参与，经历了火灾、撞击、失压等所有可能想象到的危机，被誉为\"国际空间站的彩排\"。NASA 后来的评估认为，没有这些在轨危机处置经验，国际空间站早期运行会艰难得多。",
+"impact": "为国际空间站完成了全套实战彩排，美俄载人合作模式定型。",
+"aftermath": "五个月后国际空间站首个舱段发射，合作舞台切换。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"航天飞机",
+"和平号空间站",
+"国际空间站"
+]
+},
+{
+"id": "1998-08-27-delta-3-failure",
+"date": "1998-08-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "德尔塔3火箭首飞爆炸，波音商业发射受挫",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年8月27日，波音新型大运力火箭德尔塔3首飞升空71秒后因液压故障失稳，触发自毁，银河10号卫星化为火球。此后德尔塔3又在1999年连败两次，三战三败直接把大卫星发射市场让给了竞争对手，也在无形中催化了波音后来联合俄乌组建海上发射公司等变通策略。",
+"detail": "德尔塔3是为对抗阿丽亚娜4/5和长三乙而生的中型大运力火箭，首飞失败源于固体助推器液压作动筒故障导致火箭剧烈摆动解体。三连败后波音紧急调整，德尔塔3再未恢复商业订单，其技术反而嫁接进大获成功的德尔塔2/4系列。这次失败也说明：在90年代末群雄并起的商业发射市场，一次首飞失利的代价极其高昂。",
+"impact": "商业发射竞争白热化的注脚，一款火箭三连败即退出市场。",
+"aftermath": "波音转向海上发射合资与德尔塔4家族。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"运载火箭",
+"发射失败"
+]
+},
+{
+"id": "1998-10-24-deep-space-1",
+"date": "1998-10-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "深空一号发射：离子推进器首次用于深空主推进",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年10月24日，NASA 新千年计划的首个探测器深空一号发射。它首次把离子电推进作为深空探测器的主推进系统，还验证了自主导航等十二项高风险新技术，虽然过程中遭遇恒星跟踪器故障等波折，但最终成功飞越小行星1992 KD并拍摄了彗星Borrelly，为电推进时代开了先河。",
+"detail": "深空一号的离子推进器以氙气为工质，比冲是化学火箭的十倍，但因推力极小需要长时间开机，对可靠性要求苛刻。发射后不久星敏感器失灵，团队靠软件算法救回探测器，任务一度面临夭折，最终不但完成小行星观测，还在燃料余量极少的情况下加拍彗星 Borrelly 特写，成为航天工程韧性的教科书案例。",
+"impact": "电推进从实验室走向主推进，此后黎明号、隼鸟号等深空任务均受益。",
+"aftermath": "黎明号、BepiColombo 等后来任务将离子推进作为标配。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"新技术验证",
+"NASA"
+]
+},
+{
+"id": "1998-10-29-sts95-john-glenn",
+"date": "1998-10-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "77岁参议员约翰·格伦重返太空",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年10月29日，发现号航天飞机执行 STS-95 任务，77岁的约翰·格伦随行升空。格伦是1962年美国第一位绕地球飞行的宇航员，时隔36年重返太空并成为最年长的航天员，全美媒体盛况空前。任务表面研究老年人太空适应性，实际也被视为白宫政治与航天公关的经典组合。",
+"detail": "格伦1998年时任俄亥俄州联邦参议员，他推动自己进入这次任务的乘组，NASA 借机研究太空飞行对老年骨质疏松与平衡系统的影响。发射当天有数十万人到卡纳维拉尔角围观，时任总统克林顿亲临现场。这次任务也成为航天飞机时代大众关注度最高的飞行之一，为NASA赢得了难得的公众好感。",
+"impact": "航天史上最著名的\"第二次飞行\"，展示了航天员生涯的另一种可能。",
+"aftermath": "格伦2016年以95岁高龄去世，这次任务成为他的传奇注脚。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"载人航天",
+"航天飞机"
+]
+},
+{
+"id": "1998-11-20-zarya-launch",
+"date": "1998-11-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "曙光号功能舱发射，国际空间站时代开始",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年11月20日，俄罗斯质子号火箭将国际空间站第一个舱段——曙光号功能舱送入轨道。冷战结束后美俄欧日加十六国共建的空间站工程正式落地，人类开始在天上建造一座永久性的多国科学前哨。此后二十多年，这座约420吨的轨道实验室成为全球太空合作的象征。",
+"detail": "曙光号由俄罗斯制造、美国出资，提供了空间站早期的推进、电源与姿态控制能力。两周后奋进号航天飞机送来美国的团结号节点舱与之对接，空间站雏形出现。项目历经冷战遗产、预算危机、哥伦比亚事故等考验，2000年迎来首批常驻乘组，至今已连续有人驻留超过二十五年，成为人类历史上最昂贵的单一工程之一。",
+"impact": "国际空间站从图纸变为现实，开启全球长期载人驻留时代。",
+"aftermath": "2000年11月首批常驻乘组进驻，人类在太空的足迹再未中断。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"载人航天"
+]
+},
+{
+"id": "1998-12-04-sts88-unity-docking",
+"date": "1998-12-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-88：奋进号完成国际空间站首次在轨组装",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年12月4日，奋进号航天飞机将团结号节点舱送入轨道，宇航员三次出舱把曙光号与团结号连接起来，完成国际空间站史上第一次组装作业。美俄两个舱段在轨握手，标志着这座空间站真正开始生长，此后一百多次飞行任务接续将它扩建成如今的人类轨道家园。",
+"detail": "STS-88机组用机械臂捕获曙光号并与团结号对接，Jerry Ross 与 Jim Newman 完成三次共约21小时的舱外作业连接线缆与天线。两位经验丰富的宇航员后来都创造了出舱次数纪录。这次任务验证了在轨建造的全部关键流程——机械臂捕获、舱段对接、出舱布线，成为此后所有国际空间站组装任务的模板。",
+"impact": "国际空间站首次舱段组装成功，验证了在轨建站全流程。",
+"aftermath": "空间站此后扩建一百多次任务，2011年基本建成。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"载人航天"
+]
+},
+{
+"id": "1998-12-11-mco-launch",
+"date": "1998-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火星气候探测器发射，埋下单位换算大祸",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年12月11日，火星气候轨道器发射升空。这颗本来使命不凡的探测器将在次年因为一个荒诞的错误——公制与英制单位没有换算——坠毁在火星大气中。它连同1999年损失的火星极地着陆器，让 NASA 火星计划一夜回到解放前，也促使航天工程对软件与流程管理进行深刻反思。",
+"detail": "火星气候轨道器由洛克希德·马丁提供的推进数据使用英制磅力单位，而 JPL 的导航软件假定是公制牛顿，修正量差了4.45倍。1999年9月23日探测器切入火星大气过低解体，损失1.25亿美元。事故调查报告指出多个环节的校验均告失效，NASA 随后全面强制公制单位并重构任务审查流程，这一案例至今仍是航天工程课堂的经典教材。",
+"impact": "工程管理经典的反面教材，改写了 NASA 的审查与单位规范。",
+"aftermath": "与火星极地着陆器同年失利，NASA 重整火星探测计划。",
+"sources": [
+{
+"title": "Wikipedia: 1998 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1998_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"发射失败",
+"工程管理"
+]
+},
+{
+"id": "1999-02-07-stardust-launch",
+"date": "1999-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "星尘号发射，首次彗星采样返回任务启程",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年2月7日，星尘号探测器发射，目标是在彗星81P/Wild 2尾部采集尘埃样本并带回地球。这是人类首次彗星采样返回任务，其气凝胶捕捉技术堪称巧妙。2006年返回舱成功着陆犹他州，带回的彗星尘埃中甚至发现了太阳系外物质，改写了人们对太阳系形成的认识。",
+"detail": "星尘号借助非凡的轨道设计在太空中飞行近七年，2004年以6公里/秒的速度穿越Wild 2彗发，用双层气凝胶捕获了上百万颗微粒。2006年1月样本舱脱离主探测器返回地球，任务总成本仅3亿美元级别。样品研究发现彗星中含有高温成因的矿物，说明太阳系早期物质曾被大规模搅动混合，挑战了传统彗星模型。",
+"impact": "首次带回彗星物质，太阳系早期演化研究获得实物证据。",
+"aftermath": "星尘号随后延伸任务再探坦普尔1号，于2011年退役。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"彗星",
+"采样返回"
+]
+},
+{
+"id": "1999-03-28-sea-launch-debut",
+"date": "1999-03-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "海上发射公司首飞，从赤道海面发射火箭",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年3月28日，由美俄乌挪四方合资的海上发射公司（Sea Launch）用天顶-3SL火箭完成首飞。这种把发射平台开到赤道公海再点火的做法，能最大化地球自转增益，是商业航天史上最富想象力的发射方式之一，此后十余年间发射了三十多次大容量商业卫星。",
+"detail": "海上发射系统由挪威造的浮动指挥船和乌克兰造的天顶号火箭组成，在赤道太平洋发射可让同步轨道运力提升约20%。首飞搭载虚拟载荷验证全流程成功。公司后来经历2007年发射事故、2009年破产重组，最终因俄乌战争停摆。但赤道海上发射的理念在多年后被中国等新兴商业航天公司重新拾起。",
+"impact": "验证赤道海上发射的商业价值，成为火箭发射方式的经典变体。",
+"aftermath": "公司多次沉浮后停运，海上发射理念后来被中国商业航天继承。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"商业航天",
+"运载火箭"
+]
+},
+{
+"id": "1999-05-27-sts96-first-iss-shuttle",
+"date": "1999-05-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-96：航天飞机首次造访国际空间站",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年5月27日，发现号航天飞机与国际空间站对接，完成航天飞机对空间站的首次造访。宇航员为在轨的曙光号与团结号送去了物资和工具，并完成出舱作业安装吊车。此时空间站只有两个舱段、空无一人，距离首批宇航员进驻还有半年。",
+"detail": "STS-96 是国际空间站组装飞行2A.1，任务亮点包括利用便携脚蹬出舱、首次在空间站上使用俄制对接舱转移物资。此时空间站处于无人值守状态，航天飞机任务是难得的维护窗口。任务也暴露了在轨二氧化碳超标、物资摆放混乱等管理问题，让 NASA 认识到空间站长期运行远比想象中复杂。",
+"impact": "航天飞机与空间站的运营模式首次打通。",
+"aftermath": "半年后首批常驻乘组进驻，空间站进入有人时代。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"航天飞机"
+]
+},
+{
+"id": "1999-07-23-sts93-chandra",
+"date": "1999-07-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-93发射钱德拉X射线望远镜，首位女指令长执飞",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年7月23日，哥伦比亚号将钱德拉X射线天文台送入轨道，这是 NASA 四大空间望远镜中最后入役的旗舰。同一次任务中，艾琳·柯林斯成为航天飞机史上首位女指令长。钱德拉此后在轨工作超过25年，拍到黑洞边缘、超新星遗迹的无数震撼影像，至今仍是X射线天文学的支柱。",
+"detail": "钱德拉重约5吨，是航天飞机运载过的最重单一载荷，由上部级火箭推进到远地点14万公里的高椭圆轨道以避开辐射带。柯林斯1995年已作为首位女航天飞机飞行员创造历史，此次晋升指令长。钱德拉的观测帮助确认了宇宙加速膨胀所需的暗能量模型，也多次捕捉到中子星并合等重大事件的X射线对应体。",
+"impact": "空间天文学旗舰入役，女性首次执掌航天飞机指令长。",
+"aftermath": "钱德拉服役超25年，与哈勃、斯皮策并称空间望远镜三巨头。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"空间望远镜",
+"载人航天",
+"NASA"
+]
+},
+{
+"id": "1999-08-13-iridium-bankruptcy",
+"date": "1999-08-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "铱星公司破产：史上最昂贵的商业航天梦碎",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年8月13日，投入超过50亿美元的铱星公司申请破产保护。星座建成仅九个月，全球用户只有约两万，远远无法偿还债务。这是商业航天史上最著名的失败之一，给整个行业上了惨痛一课：技术领先不等于商业成功，地面蜂窝网络的爆发式发展碾碎了天基电话的想象。",
+"detail": "铱星终端重达一斤、通话费每分钟数美元，而此时手机已人手一部。公司背负巨债、股价崩盘，星座面临脱轨销毁的命运。1999年底一家投资财团以约2500万美元的天价折扣买下系统，铱星转型服务航空、海事、军用与政府市场，反而实现盈利至今。这场崩溃让华尔街此后十余年对星座项目退避三舍，直到星链出现才重燃热情。",
+"impact": "给卫星星座商业泼下冷水，行业阴影持续二十年。",
+"aftermath": "铱星被低价收购转型专用市场存活至今，星链两十年后重走星座路。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"商业航天",
+"卫星星座",
+"破产"
+]
+},
+{
+"id": "1999-09-23-mco-lost",
+"date": "1999-09-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火星气候轨道器因单位换算错误坠毁",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年9月23日，火星气候轨道器在切入火星轨道时失联坠毁。事后调查发现，承包商提供的数据用英制单位而 NASA 软件按公制计算，导航误差导致探测器一头扎进火星大气。这颗1.25亿美元的探测器以一种近乎荒诞的方式谢幕，成为航天史上最著名的管理事故。",
+"detail": "轨道器本应对火星气候与水的历史进行系统研究，并与即将抵达的极地着陆器配合。坠毁后 NASA 指定的调查委员会发现，发射前的多项独立校核全部未能发现单位错误，暴露出任务节奏过快、审查流于形式的系统性问题。NASA 随后全面推行公制单位标准，并彻底重构了任务保障流程。",
+"impact": "航天工程史上最著名的管理教训之一。",
+"aftermath": "三个月后火星极地着陆器也失联，NASA 火星计划全面整改。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"发射失败",
+"工程管理"
+]
+},
+{
+"id": "1999-10-14-cbers-1",
+"date": "1999-10-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中巴地球资源卫星01星发射，南南航天合作里程碑",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1999年10月14日，长征四号乙首飞将中巴地球资源卫星01星送入轨道。这是中国与巴西联合研制的第一颗资源卫星，也是南半球两个发展中大国在高科技领域标志性的合作工程。卫星数据免费向发展中国家开放，此后中巴资源卫星系列持续更新三十余年，成为国际航天合作的经典范例。",
+"detail": "CBERS-01由中国空间技术研究院与巴西空间研究院联合研制，双方各承担约一半工作量，巴西借此建立了完整的卫星研制能力。卫星装载CCD相机、红外扫描仪等载荷，服务于两国农业、林业、环境监测。发射它的长征四号乙也在首飞中表现完美。此后01/02/03/04星接续，合作延续至今，巴西后来自主研发的卫星也多脱胎于这条技术线。",
+"impact": "开创发展中国家间大型航天合作先例，巴西由此建立卫星工业。",
+"aftermath": "中巴资源卫星系列持续迭代超过25年，04A星等仍在服务。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"中国航天",
+"国际合作",
+"对地观测"
+]
+},
+{
+"id": "1999-11-19-shenzhou-1",
+"date": "1999-11-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟一号发射，中国载人航天工程首飞成功",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1999年11月20日（北京时间），长征二号F火箭首飞将神舟一号试验飞船送入太空，飞船绕地14圈后成功返回内蒙古。这是中国载人航天工程1992年立项后的第一次飞行试验，新火箭与新飞船同时首飞成功，中国由此成为少数具备独立载人航天能力的候选者，中国航天的新纪元自此起步。",
+"detail": "神舟一号由推进舱、返回舱、轨道舱组成，借用轨道舱进行了一系列空间科学实验，飞行约21小时后在预定点安全着陆。专为载人设计的长征二号F火箭首飞即成功，其冗余设计与故障检测系统为后续任务打下底子。此后神舟二号、三号、四号在2001至2002年接连试验，2003年杨利伟飞天水到渠成。",
+"impact": "中国载人航天工程实现零的突破，三步走战略迈出第一步。",
+"aftermath": "四次无人试验后，2003年神舟五号送杨利伟进入太空。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"中国航天",
+"神舟",
+"载人航天"
+]
+},
+{
+"id": "1999-12-03-mpl-lost",
+"date": "1999-12-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火星极地着陆器着陆时失联， NASA 火星计划再遭重创",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年12月3日，火星极地着陆器在登陆火星南极时失联，随行的两个深空2号穿透器也石沉大海。事后查明着陆支架的传感器信号在展开时被误读为已着陆，导致发动机关机过早。连同此前坠毁的火星气候轨道器，NASA 一年之内痛失两个火星任务，火星探测跌入谷底。",
+"detail": "极地着陆器成本约1.65亿美元，目标是研究火星南极水冰与气候循环。失联后 NASA 组织多轮图像排查与信号搜索均告失败，调查发现着陆腿接触传感器的软件逻辑存在致命缺陷，加上可能的大气参数偏差与发动机提前关机。这次双重失败让 NASA 火星计划全面重构，转向\"跟着水走\"的渐进策略，才有了后来的凤凰号与好奇号。",
+"impact": "火星探测最低谷的标志性事件，倒逼 NASA 重整探测路线。",
+"aftermath": "整改后的 NASA 火星计划在2004年以双火星车大获成功翻盘。",
+"sources": [
+{
+"title": "Wikipedia: 1999 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/1999_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"发射失败",
+"NASA"
+]
+},
+{
+"id": "2000-02-11-srtm",
+"date": "2000-02-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "奋进号执行航天飞机雷达地形测绘任务",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年2月11日，奋进号航天飞机携带60米长的可展开天线桅杆升空，执行航天飞机雷达地形测绘任务（SRTM）。机组连续工作11天，测绘了地球约80%陆地的三维地形，生成的全球高程数据集至今仍是大量地理信息系统、地图与工程应用的基础数据。",
+"detail": "SRTM 使用C波段与X波段双频雷达干涉测量，桅杆展开后成为航天飞机部署过的最大单一结构。任务采集了约9.8TB数据，处理后生成30米分辨率全球DEM。Google Earth、各类导航地图、洪水模拟、基建规划都大量使用这份数据。它也是航天飞机为地球科学留下的最著名遗产之一。",
+"impact": "人类首次获得全球统一高精度的三维地形图。",
+"aftermath": "SRTM 数据至今仍被广泛使用，为后续星载测绘卫星树立标杆。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"航天飞机",
+"对地观测"
+]
+},
+{
+"id": "2000-02-14-near-eros-orbit",
+"date": "2000-02-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "NEAR号进入爱神星轨道，人类首次环绕小行星",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年2月14日情人节，NEAR号探测器进入小行星爱神星（Eros）轨道，成为人类第一个环绕小行星飞行的探测器。它用一年时间把爱神星测绘得明明白白，并在任务尾声临时起意降落到星面，实现了人类首次小行星着陆，为后来的隼鸟号、OSIRIS-REx 小行星采样任务开了先例。",
+"detail": "NEAR（近地小行星交会）原计划1998年入轨，因发动机点火失败推迟绕日一圈后成功。任务详细测定了这颗34公里长马铃薯状小行星的形状、成分与磁场（没有磁场），确认其为未分异的原始物质。2001年2月任务结束前，团队大胆尝试让没有着陆装置的探测器软着陆，以2.4米/秒的速度轻微磕碰后居然存活并传回数据两周。",
+"impact": "小行星从远观对象变为可环绕、可着陆的目标，开创小行星探测时代。",
+"aftermath": "20年后 OSIRIS-REx 从小行星贝努取回样本，技术路线一脉相承。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"小行星",
+"NASA"
+]
+},
+{
+"id": "2000-04-04-mircorp-last-mir-crew",
+"date": "2000-04-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "私人公司出资的联盟TM-30造访和平号",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年4月4日，联盟TM-30飞船载两名宇航员飞往和平号，这是空间站历史上最后一艘载人飞船，也是首次由私人公司（荷兰MirCorp）出资资助的载人航天任务。MirCorp 曾雄心勃勃要把和平号改造成商业空间站，甚至开始预售太空旅行，但俄罗斯政府最终还是选择让和平号受控坠毁。",
+"detail": "MirCorp 由俄能源集团与美国资本合资组建，1999年底签下和平号商业运营权，计划开展太空旅游、广告与在轨制造。这次任务修复了空间站部分系统，验证了商业驻留的可行性。但俄罗斯需要资金投向国际空间站，2001年初决定让和平号离轨。MirCorp 的尝试虽然失败，却是商业空间站与太空旅游理念的最早实践。",
+"impact": "商业航天首次触碰载人空间站运营，理念超前二十年。",
+"aftermath": "和平号2001年受控坠毁，商业空间站构想直到二十年后才真正落地。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"和平号空间站",
+"商业航天"
+]
+},
+{
+"id": "2000-07-12-zvezda-launch",
+"date": "2000-07-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "星辰号服务舱发射，空间站具备常住条件",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年7月12日，质子号火箭将国际空间站的核心俄制舱段——星辰号服务舱送入轨道。这个舱段提供生命保障、睡眠区、厨房和厕所，让空间站第一次具备了人员长期驻留的基本条件。四个月后首批常驻乘组进驻，人类从此在太空扎下根来。",
+"detail": "星辰号由俄罗斯赫鲁尼切夫中心建造，原是和平2号空间站的核心舱，因计划取消转用于国际空间站。它提供姿态控制发动机、通信、生保系统，是早期空间站的神经中枢。发射一度因俄罗斯财政困难推迟两年，NASA 不得不准备临时推进舱备选。星辰号至今仍在空间站上服役，承担部分生命保障功能。",
+"impact": "国际空间站从\"空壳\"变为\"能住人\"，常驻时代的前提条件就绪。",
+"aftermath": "四个月后远征1号进驻，空间站连续载人至今。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"载人航天"
+]
+},
+{
+"id": "2000-10-11-sts92-100th-shuttle",
+"date": "2000-10-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "STS-92：航天飞机第100次飞行",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年10月11日，发现号执行航天飞机计划第100次飞行，向国际空间站运送Z1桁架结构与加压对接适配器。1981年哥伦比亚号首飞以来，航天飞机二十年百飞，既是人类史上飞行次数最多的飞船，也背负着两次事故的沉重记忆。",
+"detail": "STS-92 机组完成四次出舱作业，安装的Z1桁架后来成为空间站太阳能桁架的基座，PMA-3则提供了对接口。日本宇航员若田光一在此任务中出舱。此时航天飞机平均每年飞行八到九次，是空间站建设的中坚。此后又飞了35次，直到2011年7月亚特兰蒂斯号完成第135次也是最后一次任务。",
+"impact": "航天飞机计划的里程碑，空间站桁架时代开启。",
+"aftermath": "十一年后航天飞机退役，美国载人航天出现九年的运力空窗。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"航天飞机",
+"国际空间站"
+]
+},
+{
+"id": "2000-10-31-expedition-1",
+"date": "2000-10-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "远征1号进驻：人类开始在太空永久定居",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年10月31日，联盟TM-31飞船将美俄三名宇航员送入国际空间站，11月2日对接成功，首批常驻乘组进驻。从这一天起到今天，国际空间站连续有人驻留超过二十五年，人类在地球轨道上再没有断过烟火。这是人类太空活动从\"任务式\"转向\"定居式\"的分水岭。",
+"detail": "远征1号由美国宇航员 Bill Shepherd 与俄罗斯宇航员 Gidzenko、Krikalev 组成，原计划驻留三个多月。初期空间站条件简陋，食物靠穿梭货船补给，地面支持团队在美俄两地轮班。如今空间站常驻七人，年复一年开展数百项实验，累计超过280人先后到访。这一进程深刻改变了空间科学与国际太空合作的面貌。",
+"impact": "人类太空驻留从此连续不断，空间站成为常设科学平台。",
+"aftermath": "空间站连续载人超过25年，中国空间站2021年加入常驻行列。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"载人航天"
+]
+},
+{
+"id": "2000-10-31-beidou-1-first",
+"date": "2000-10-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北斗一号首星发射，中国卫星导航起步",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2000年10月31日（北京时间），长征三号甲将北斗一号试验卫星的首星送入轨道，年底第二颗入轨后中国拥有了自主的卫星导航定位系统。北斗试验系统首先满足国内定位需求，为此后北斗二号区域系统、北斗三号全球系统的三级跳迈出了第一步，中国成为全球第三个拥有自主导航卫星的国家。",
+"detail": "北斗一号采用有源定位体制，用户需发送信号才能定位，覆盖中国及周边，定位精度约20米。首星与12月21日的第二星构成双星系统，2003年第三颗备份星入轨后系统正式开通。这个试验系统验证了星座构型、测控与用户终端技术，也暴露了有源体制的容量与隐蔽性局限，为北斗二号转向无源体制（兼容GPS模式）提供了关键经验。",
+"impact": "中国卫星导航从零起步，开启北斗三十年三级跳。",
+"aftermath": "2012年北斗二号覆盖亚太，2020年北斗三号全球组网完成。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"中国航天",
+"北斗",
+"卫星导航"
+]
+},
+{
+"id": "2000-12-30-cassini-jupiter-flyby",
+"date": "2000-12-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "卡西尼号木星掠飞，速度纪录与联合观测",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2000年12月30日，卡西尼号以约每秒30公里的相对速度掠过木星，借助引力弹弓加速奔向土星，同时与在木星轨道的伽利略号联手对木星磁场进行双点联合观测。这是人类探测器达到过的最快巡航速度之一，也开创了两台深空探测器协同观测一颗行星的先例。",
+"detail": "木星飞掠为卡西尼补足了奔向土星的最后一脚加速，期间探测器拍摄了木星大气与磁层的精细影像，与伽利略号的同步观测让科学家第一次能从两个位置同时测量太阳风与行星磁层的相互作用。卡西尼团队还在此时发现土卫六大气中的有机化学远比预想复杂，为惠更斯着陆埋下伏笔。",
+"impact": "引力助推技术与多探测器协同观测的经典案例。",
+"aftermath": "卡西尼2004年抵达土星，开启13年的环土星时代。",
+"sources": [
+{
+"title": "Wikipedia: 2000 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"卡西尼号"
+]
+},
+{
+"id": "2001-01-09-shenzhou-2",
+"date": "2001-01-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟二号发射，载人航天工程进入正样飞行阶段",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2001年1月10日（北京时间），神舟二号试验飞船发射升空，在轨运行近7天后成功返回。这是中国载人航天工程的第二艘无人试验飞船，飞船首次以完整正样状态飞行，搭载了大量空间科学与生命实验载荷，包括动物、植物和微生物，全面考核了飞船各系统的载人飞行能力。",
+"detail": "神舟二号几乎就是一艘按载人标准制造的飞船，轨道舱留轨运行半年开展空间天文与环境监测。飞行期间首次验证了飞船变轨、测控通信等关键环节，返回舱着陆精度明显提高。任务原计划飞行时间更长，因轨道舱问题提前安排返回。这次飞行让工程指挥部确认飞船技术状态稳定，为神舟三号进入全系统演练铺路。",
+"impact": "中国载人飞船从试验件走向正样件，载人条件基本就绪。",
+"aftermath": "2002年神舟三号、四号接连成功，2003年实现载人首飞。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"中国航天",
+"神舟",
+"载人航天"
+]
+},
+{
+"id": "2001-02-07-sts98-destiny",
+"date": "2001-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "命运号实验舱入驻国际空间站",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年2月7日，亚特兰蒂斯号将美国命运号实验舱送入国际空间站。这是空间站美国实验段的主体，配备当时最先进的生命科学与材料科学设施，空间站从此从\"工棚\"升级为真正的实验室。命运号至今仍是空间站上最繁忙的科研舱段之一。",
+"detail": "命运号长8.5米、重约14吨，是 NASA 首个在轨长期运行的专用实验室舱，其指挥与控制系统能在地面失联时接管空间站。任务机组完成三次出舱将其安装到位。命运号的实验柜后来承载了燃烧、流体、蛋白质结晶等大量研究，中国空间站问天、梦天舱的设计也在功能布局上多有借鉴。",
+"impact": "国际空间站从建设工地变为科研平台的关键一步。",
+"aftermath": "空间站科研产出逐年攀升，累计发表数千篇论文。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"载人航天"
+]
+},
+{
+"id": "2001-02-12-near-eros-landing",
+"date": "2001-02-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "NEAR号实现人类首次小行星着陆",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年2月12日，本没有着陆设计的 NEAR号探测器轻触小行星爱神星表面，意外存活并继续传回数据两周，完成人类历史上第一次小行星软着陆。这个计划外的壮举证明小行星表面可以温和接触，为后来的采样返回任务积累了直接经验。",
+"detail": "NEAR任务原定2月12日结束，团队决定以每秒1.5至1.8米的极低速度尝试着陆，用太阳能帆板作为缓冲。探测器落入一个马鞍形凹陷处，天线朝上居然保持通信。任务共传回69张近距离照片，分辨率最高达1厘米。这次\"摸着石头过河\"的着陆让工程师确认小行星表面并非粉碎性死亡陷阱。",
+"impact": "首次小行星软着陆，采样返回任务的技术先声。",
+"aftermath": "十年后隼鸟号带回小行星微粒，二十年后 OSIRIS-REx 完成大规模采样。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"小行星",
+"NASA"
+]
+},
+{
+"id": "2001-03-23-mir-deorbit",
+"date": "2001-03-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "和平号空间站受控坠入南太平洋，15年传奇落幕",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年3月23日，服役15年的和平号空间站在控制下坠入南太平洋坟场。这座曾创下最长载人驻留纪录、经历过火灾撞击等无数危机的空间站，最终让位于国际空间站。它的落幕标志着一个时代的结束，其舱段设计、对接技术与运行经验全部被后继者继承。",
+"detail": "进步M1-5货船三次点火将重达120吨的空间站导入南太平洋预定区域，日本、斐济等国曾临时关闭部分空域。和平号累计接待104名宇航员，创造438天连续驻留等纪录，也因后期老化事故频发而备受争议。俄罗斯最终选择让资源集中于国际空间站。和平号的晶体舱技术后来演变为国际空间站多个俄制舱段。",
+"impact": "超期服役空间站的谢幕，载人航天资源全面转向国际空间站。",
+"aftermath": "其舱段设计理念延续到国际空间站俄制段与后来的中国空间站。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"和平号空间站",
+"离轨"
+]
+},
+{
+"id": "2001-04-07-mars-odyssey-launch",
+"date": "2001-04-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2001火星奥德赛号发射，NASA 火星计划翻身仗",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年4月7日，火星奥德赛号发射，肩负着让连败两场的 NASA 火星计划止跌回升的重任。它在轨期间证实火星浅地表存在大量水冰，并绘制了完整的元素分布图，此后二十多年一直作为火星车与着陆器的中继通信卫星服役，成为火星探测的基石工程。",
+"detail": "奥德赛号2001年10月入轨，其伽马射线谱仪探测到火星中低纬度以下广泛分布的水冰，改写了火星水文的认识。它还率先验证了火星大气制动入轨技术。最持久的影响是作为中继站：此后勇气号、机遇号、好奇号、毅力号与凤凰号的绝大部分数据都经由它传回地球。至今它仍是绕火星运行时间最长的人造物体。",
+"impact": "NASA 火星计划由败转胜的转折点，火星基础设施的奠基者。",
+"aftermath": "二十多年持续服役，成为火星中继通信网络的主力。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"火星探测",
+"NASA"
+]
+},
+{
+"id": "2001-04-19-sts100-canadarm2",
+"date": "2001-04-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "加拿大臂2号入驻国际空间站",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年4月19日，奋进号航天飞机将加拿大研制的机械臂Canadarm2送入空间站并完成安装。这条17米长的巨型机械臂可以在空间站表面自由爬行，承担此后所有大型舱段的抓捕与安装任务，是空间站建造能力的核心装备，也巩固了加拿大在国际空间站合作中的地位。",
+"detail": "Canadarm2重约1.6吨，两端都可以抓握，能像尺蠖一样沿空间站桁架移动。它继承了航天飞机加拿大臂的经验，后来又加装了灵巧手Dextre。此后命运号、和谐号、哥伦布等舱段几乎都由它完成安装。它的设计经验直接影响了后来各国空间机械臂（包括中国空间站天和机械臂）的技术路线。",
+"impact": "空间站在轨建造的核心工具就位，大型舱段安装从此有了手术刀。",
+"aftermath": "服役至今参与数百次捕获与安装，成为空间站标志符号。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"国际空间站",
+"空间机械臂"
+]
+},
+{
+"id": "2001-04-28-dennis-tito",
+"date": "2001-04-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": " Dennis Tito 成为首位自费太空游客",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年4月28日，美国富豪 Dennis Tito 搭乘联盟TM-32飞船抵达国际空间站，成为历史上第一位自费到访空间站的太空游客，为此支付约2000万美元。NASA 一度强烈反对，俄航天局顶住压力促成这次飞行，商业载人航天的闸门由此打开。",
+"detail": "Tito 是前 JPL 工程师出身的投资经理，通过太空冒险公司买到联盟号的一个座位，在空间站停留近8天。NASA 曾因安全问题抵制，双方最终达成谅解。此后沙特富翁、歌手 Lance Bass 等纷纷询价，太空旅游从科幻变成产业。Tito 的示范效应在二十年后演变为蓝色起源、维珍银河的亚轨道生意和公理号的全私人空间站任务。",
+"impact": "商业载人航天的元年时刻，太空旅游从此成为产业。",
+"aftermath": "此后联盟号每年都会搭载付费乘客，二十年后私人航天常态化。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"商业航天",
+"太空旅游"
+]
+},
+{
+"id": "2001-06-30-wmap",
+"date": "2001-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WMAP发射，宇宙学进入精确时代",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年6月30日，威尔金森微波各向异性探测器（WMAP）发射，奔赴日地拉格朗日L2点绘制宇宙微波背景辐射温度涨落图。它的观测精确测定了宇宙年龄约137亿年、暗物质占23%、暗能量占73%，把宇宙学从定性猜想变成精确科学，被誉为十年最重要的科学任务之一。",
+"detail": "WMAP 全天扫描九年，将微波背景涨落测到微开尔文精度。其数据锁定了宇宙的几何形状为平直，确定了重子物质密度与哈勃常数，也让\"宇宙暴胀\"模型获得有力支持。2003年首批结果发布时被称为宇宙学的黄金时刻，后续普朗克卫星在其基础上进一步精化。",
+"impact": "宇宙学参数第一次被测准，暗能量与暗物质模型确立。",
+"aftermath": "普朗克卫星2013年发布更精细图谱，宇宙精确模型持续完善。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"空间天文",
+"宇宙学"
+]
+},
+{
+"id": "2001-08-08-genesis-launch",
+"date": "2001-08-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "创世纪号发射，捕捉太阳风粒子",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年8月8日，创世纪号探测器发射，前往日地L1点展开高纯度收集阵列，捕捉太阳风粒子并带回地球，这是阿波罗计划以来首次从太空取回物质的采样任务。2004年返回时降落伞未能打开，样本舱砸进犹他州沙漠，但科学家从破碎的收集盘中抢救出样本，依然产出了重要成果。",
+"detail": "创世纪号在L1点悬停约27个月，用电镀硅与蓝宝石阵列收集了约10微克太阳风离子。2004年9月8日返回时，因加速度计装反导致降落伞未展开，执行拦截任务的直升机飞行员无法抓取，样本舱以300公里时速砸地破损。经过多年清洗修复，氧同位素等关键测量仍然完成，发现太阳的氧同位素组成与地球不同，支持太阳系形成于富氧环境的假说。",
+"impact": "首次取样太阳风，采样返回的失败与补救都成为经典案例。",
+"aftermath": "其同位素成果持续影响太阳系形成模型研究。",
+"sources": [
+{
+"title": "Wikipedia: 2001 in spaceflight",
+"url": "https://en.wikipedia.org/wiki/2001_in_spaceflight",
+"type": "wiki"
+}
+],
+"tags": [
+"深空探测",
+"采样返回",
+"NASA"
+]
+}
 ]
