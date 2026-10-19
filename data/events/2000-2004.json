@@ -1,0 +1,1249 @@
+[
+{
+"id": "2000-01-01-baidu-founded",
+"date": "2000-01-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百度成立：中文搜索引擎开始创业",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "李彦宏携120万美元风险投资，在中关村北大资源宾馆两间房里创办百度。名字取自『众里寻他千百度』。此后二十年，『百度一下』成了中国人上网找东西的代名词。",
+"detail": "2000年1月1日百度在线网络技术（北京）有限公司成立，7月正式发布Baidu.com中文搜索引擎，先为门户网站提供后台搜索，2001年9月转为独立搜索门户并推竞价排名。",
+"impact": "中文搜索从『目录分类』进入『机器排序』时代。",
+"aftermath": "2005年8月百度上市首日暴涨354%；此后与谷歌中国缠斗至2010年独大，再与字节、阿里、腾讯共列BAT。",
+"sources": [
+{
+"title": "维基百科：百度",
+"url": "https://zh.wikipedia.org/wiki/百度",
+"type": "wiki"
+}
+],
+"tags": [
+"百度",
+"李彦宏"
+]
+},
+{
+"id": "2000-01-10-aol-time-warner",
+"date": "2000-01-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "AOL 并购时代华纳：互联网泡沫的巅峰婚礼",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "一家成立15年的拨号上网公司，用1650亿美元『收购』了80岁的传媒帝国。这笔史上最大并购是 dot-com 泡沫顶点的标志——三个月后，纳指开始崩塌。",
+"detail": "美国在线以换股方式吞并时代华纳，交易宣布时估值约1650亿美元。合并后文化冲突与泡沫破裂使商誉巨额减记，2009年两者分家。",
+"impact": "『新经济并购旧经济』的神话登顶，随后成为商学院的反面教材。",
+"aftermath": "2000年3月10日纳指见顶5048点后开始漫长下跌。",
+"sources": [
+{
+"title": "Wikipedia: AOL Time Warner",
+"url": "https://en.wikipedia.org/wiki/AOL_Time_Warner",
+"type": "wiki"
+}
+],
+"tags": [
+"并购",
+"泡沫"
+]
+},
+{
+"id": "2000-03-10-nasdaq-peak",
+"date": "2000-03-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "纳斯达克冲上5048点后崩塌：dot-com 泡沫破裂",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "纳指摸到5048.62点的历史最高，随后一路跌去78%，2002年10月见底1114点。全球互联网哀鸿遍野，钱烧完了的中国门户网站马上就要面对『每天睁眼都是烧钱』的日子。",
+"detail": "自由现金流的幻想撑不住估值，微软反垄断判决（4月）与加息成为导火索。数以千计的网络公司倒闭，Webvan、eToys 等明星化为灰烬。",
+"impact": "风险投资全面收缩，互联网公司被迫证明自己能赚钱。",
+"aftermath": "中国三大门户股价一度跌到1美元以下，靠短信与网游绝处逢生；泡沫也留下了宽带、机房与人才，为后来的爆发埋下底座。",
+"sources": [
+{
+"title": "Wikipedia: Dot-com bubble",
+"url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+"type": "wiki"
+}
+],
+"tags": [
+"dot-com",
+"泡沫破裂"
+]
+},
+{
+"id": "2000-04-03-ms-antitrust",
+"date": "2000-04-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美法官裁定微软违反反垄断法",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "联邦法官裁定微软滥用Windows垄断地位、非法压制网景等对手，一度建议拆分公司。『捆绑=垄断』的判决震动整个软件业，也间接松开了互联网创新的枷锁。",
+"detail": "2000年4月3日杰克逊法官作出事实认定与法律结论，6月下达拆分令；2001年上诉法院推翻拆分、维持垄断认定，2001年11月与政府和解。",
+"impact": "微软从『碾压一切』转为守成，为谷歌、苹果的崛起让出战略空间。",
+"aftermath": "该案成为全球反垄断教科书；二十年后谷歌、Meta 又站上了同一被告席。",
+"sources": [
+{
+"title": "Wikipedia: United States v. Microsoft Corp.",
+"url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+"type": "wiki"
+}
+],
+"tags": [
+"微软",
+"反垄断"
+]
+},
+{
+"id": "2000-04-13-sina-ipo",
+"date": "2000-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "新浪抢先登陆纳斯达克：三大门户上市第一枪",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "纳斯达克崩盘边缘，新浪抢先三个月挂牌上市。此后网易、搜狐赶在泡沫彻底破灭前挤进大门——回头看，这是中国互联网公司『死里逃生』的一季度。",
+"detail": "新浪2000年4月13日上市，发行价17美元；6月30日网易、7月12日搜狐相继挂牌。三家上市当日表现均不佳，融资远低于预期，但拿到了过冬的粮草。",
+"impact": "中国互联网公司正式接入全球资本市场，美元VC模式跑通。",
+"aftermath": "2001年三家股价齐破1美元面临退市；靠移动短信增值与网游在2002-2003年翻身。",
+"sources": [
+{
+"title": "维基百科：新浪",
+"url": "https://zh.wikipedia.org/wiki/新浪",
+"type": "wiki"
+}
+],
+"tags": [
+"三大门户",
+"上市"
+]
+},
+{
+"id": "2000-06-30-netease-ipo",
+"date": "2000-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网易上市",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "网易在纳斯达克挂牌，发行价15.5美元。这支股票日后将书写中国互联网最传奇的过山车：跌到几毛钱、停牌危机，再靠网络游戏涨成中国首富的提款机。",
+"detail": "网易2000年6月30日上市，是三大门户中最年轻的。上市后不久爆发财务误报风波，2001年9月被暂停交易近4个月。",
+"impact": "完成融资但遭遇信任危机，倒逼网易转型。",
+"aftermath": "2001年底丁磊押注网络游戏，《大话西游2》《梦幻西游》大获成功；2003年32岁的丁磊成为中国首富。",
+"sources": [
+{
+"title": "维基百科：网易",
+"url": "https://zh.wikipedia.org/wiki/网易",
+"type": "wiki"
+}
+],
+"tags": [
+"网易",
+"上市"
+]
+},
+{
+"id": "2000-07-12-sohu-ipo",
+"date": "2000-07-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "搜狐上市",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "搜狐在纳斯达克挂牌，三大门户全部到齐。上市当天张朝阳意气风发，但股价很快跌破发行价——属于中国互联网的寒冬，真的来了。",
+"detail": "搜狐2000年7月12日上市，发行价13美元。泡沫破裂后股价长期低迷，2001年一度跌破1美元，靠收缩成本与无线业务渡劫。",
+"impact": "中国互联网第一代公司完成美股集体亮相。",
+"aftermath": "搜狐此后孵化搜狗、畅游；2008年奥运赞助商身份是它的高光时刻。",
+"sources": [
+{
+"title": "维基百科：搜狐",
+"url": "https://zh.wikipedia.org/wiki/搜狐",
+"type": "wiki"
+}
+],
+"tags": [
+"搜狐",
+"上市"
+]
+},
+{
+"id": "2000-05-28-dongfang-net",
+"date": "2000-05-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东方网上线：上海官方新闻门户开张",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "上海主要新闻媒体联合组建东方网，5月28日上线。同期北京的千龙网也挂牌——官方媒体开始系统性地『上网抢滩』，新闻网站的国资队与商业门户并跑的时代开始。",
+"detail": "东方网由解放日报、文汇报等上海十大媒体与东方明珠等公司合资组建，定位为大型综合性新闻网站。",
+"impact": "官方新闻网站成为舆论阵地的正式建制。",
+"aftermath": "人民网、新华网、千龙、东方等构成官方网络媒体矩阵，与商业门户长期并行。",
+"sources": [
+{
+"title": "维基百科：东方网",
+"url": "https://zh.wikipedia.org/wiki/东方网",
+"type": "wiki"
+}
+],
+"tags": [
+"东方网",
+"官媒"
+]
+},
+{
+"id": "2000-09-15-sydney-olympics",
+"date": "2000-09-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "悉尼奥运会开幕：中国代表团金牌榜第三",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国军团在悉尼拿下28金，首次跻身金牌榜前三。伏明霞、刘璇、孔令辉成为全民偶像——电视直播之外，门户网站的文字直播开始分流年轻人。",
+"detail": "2000年9月15日至10月1日，第27届奥运会在悉尼举行，中国获28金16银15铜。",
+"impact": "体育热度与民族自信叠加，奥运题材成为广告与传媒的流量密码。",
+"aftermath": "申奥投票在2001年7月到来，悉尼的成功战绩成为北京申奥的最佳注脚。",
+"sources": [
+{
+"title": "维基百科：2000年夏季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"悉尼奥运"
+]
+},
+{
+"id": "2000-11-10-monternet",
+"date": "2000-11-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国移动发布『移动梦网』计划：短信救了互联网",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国移动开放短信平台与内容商分成，催生移动梦网。门户网站靠下载铃声、订阅笑话把短信变成印钞机——三大门户就是靠它在2002年集体扭亏。『移动增值业务』是中国互联网的第一桶金。",
+"detail": "2000年11月10日中国移动宣布『移动梦网创业计划』，以15:85分成邀请SP入驻。短信下行量此后年年翻番，2004年前后中国年短信量达数千亿条。",
+"impact": "为盈利无门的互联网公司找到现金流，手机第一次成为互联网的付费终端。",
+"aftermath": "SP行业野蛮生长后因乱收费被整顿；2009年3G时代让位于应用商店模式。",
+"sources": [
+{
+"title": "维基百科：移动梦网",
+"url": "https://zh.wikipedia.org/wiki/移动梦网",
+"type": "wiki"
+}
+],
+"tags": [
+"移动梦网",
+"短信"
+]
+},
+{
+"id": "2001-04-01-hainan-collision",
+"date": "2001-04-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中美南海撞机事件",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美军侦察机与中国歼-8战斗机在海南岛外海相撞，飞行员王伟牺牲，美机迫降陵水机场。两国对峙11天后以美方致信告一段落。这是世纪之交最紧张的中美军事摩擦。",
+"detail": "2001年4月1日撞机发生后，中方扣留美机组24人11天；美方致信表示『非常抱歉』后机组返美，EP-3机经拆卸后运回。",
+"impact": "中美关系骤然紧张，国内民族情绪高涨，网络舆论开始成为外交事件的回声板。",
+"aftermath": "3个月后撞机阴影未散，北京申奥成功让情绪再逆转；网络民族主义自此成为固定现象。",
+"sources": [
+{
+"title": "维基百科：中美撞机事件",
+"url": "https://zh.wikipedia.org/wiki/中美撞机事件",
+"type": "wiki"
+}
+],
+"tags": [
+"撞机",
+"中美关系"
+]
+},
+{
+"id": "2001-06-01-wangzhidong-out",
+"date": "2001-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "王志东出局：创始人资本教育的第一课",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "新浪上市一年股价跌去九成，董事会解除创始人王志东的CEO与董事职务，引发轩然大波。『创始人干不过董事会』第一次成为中文互联网的公共话题。",
+"detail": "2001年6月初新浪董事会宣布王志东去职，王志东一度召开记者会称解职程序不合法，最终离场，后创办点击科技。",
+"impact": "中国互联网公司治理的成人礼，创始人开始重视股权与投票权设计。",
+"aftermath": "此后二十年，创始人控制权设计（AB股、同股不同权）成为中概股标配议题。",
+"sources": [
+{
+"title": "维基百科：王志东",
+"url": "https://zh.wikipedia.org/wiki/王志东",
+"type": "wiki"
+}
+],
+"tags": [
+"新浪",
+"创始人"
+]
+},
+{
+"id": "2001-07-13-olympic-bid-win",
+"date": "2001-07-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北京申奥成功：萨马兰奇念出 Beijing 的那一夜",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "莫斯科时间18时08分，萨马兰奇宣布2008年奥运会主办城市是北京。中华世纪坛瞬间沸腾，汽车按响喇叭绕城游行，无数人哭了。八年前两票之差的遗憾，一夜还清。",
+"detail": "第二轮投票中北京以56票胜过多伦多、巴黎、伊斯坦布尔。此后『新北京新奥运』成为城市改造总纲领，奥运经济启动。",
+"impact": "国家工程级的大事件，拉动基建、旅游、传媒与民族自信的全面周期。",
+"aftermath": "2008年8月8日奥运开幕成为中国的世纪名片；鸟巢水立方成为一代人的照片背景。",
+"sources": [
+{
+"title": "维基百科：2008年夏季奥林匹克运动会申办过程",
+"url": "https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会申办过程",
+"type": "wiki"
+}
+],
+"tags": [
+"申奥成功",
+"2008奥运"
+]
+},
+{
+"id": "2001-09-11-september-11",
+"date": "2001-09-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "9·11 恐怖袭击：世界被改写的上午",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "两架客机撞塌纽约世贸双子塔，五角大楼被撞，近3000人遇难。全球直播了这一幕。反恐战争、机场安检、地缘格局、甚至你坐飞机脱鞋过安检的习惯，都从这天的早晨开始改变。",
+"detail": "基地组织劫持四架客机发动袭击，两架撞向世贸，一架撞五角大楼，一架在宾州坠毁。新浪等中国门户网站的新闻服务器因流量暴增一度濒临瘫痪——网络媒体第一次在大事件中与电视赛跑。",
+"impact": "美国进入反恐战争时代（阿富汗2001、伊拉克2003），全球安全体系重构。",
+"aftermath": "中国借战略窗口期加速发展经济并完成入世；『本拉登死了』（2011）成为早期微博的国际热搜。",
+"sources": [
+{
+"title": "Wikipedia: September 11 attacks",
+"url": "https://en.wikipedia.org/wiki/September_11_attacks",
+"type": "wiki"
+}
+],
+"tags": [
+"911",
+"反恐"
+]
+},
+{
+"id": "2001-10-07-national-team-worldcup",
+"date": "2001-10-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "国足五里河出线：44年等待圆梦世界杯",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "于根伟一脚捅进阿曼队大门，中国男足首次打进世界杯决赛圈。沈阳五里河体育场瞬间变成泪的海洋，『出线啦』三个字占了第二天所有报纸的头版。",
+"detail": "2002世界杯亚洲区十强赛，国足主场1:0胜阿曼提前两轮出线。米卢蒂诺维奇的『快乐足球』与『态度决定一切』成为流行语。",
+"impact": "全民足球情绪登顶，世界杯期间的比赛日从此是全民节目。",
+"aftermath": "2002年世界杯三战全负未进一球；此后国足再未进过世界杯，『五里河』成为悲情参照物（2007年体育场被爆破拆除）。",
+"sources": [
+{
+"title": "维基百科：中国国家男子足球队",
+"url": "https://zh.wikipedia.org/wiki/中国国家男子足球队",
+"type": "wiki"
+}
+],
+"tags": [
+"国足出线",
+"五里河"
+]
+},
+{
+"id": "2001-10-20-apec-shanghai",
+"date": "2001-10-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "APEC 上海峰会：各国领袖穿唐装亮相",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "亚太经合组织领导人非正式会议在上海举行，小布什在911后首次出国出席，各国领袖集体穿上蓝色唐装拍全家福。中式服装一夜之间卖断货。",
+"detail": "会议聚焦反恐与贸易，中国借东道主身份展示开放形象。江泽民、布什、普京等出席。",
+"impact": "『唐装』成为年度时尚，APEC 峰会确立了中国主场外交的经典模式。",
+"aftermath": "此后G20杭州峰会、进博会等主场外交延续此风格；唐装热潮成为2001年的文化记忆。",
+"sources": [
+{
+"title": "维基百科：2001年上海亚太经合组织会议",
+"url": "https://zh.wikipedia.org/wiki/2001年上海亚太经合组织会议",
+"type": "wiki"
+}
+],
+"tags": [
+"APEC",
+"唐装"
+]
+},
+{
+"id": "2001-10-25-windows-xp",
+"date": "2001-10-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Windows XP 发布：一代人最长寿的操作系统",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "蓝天草地壁纸的 Windows XP 发布，稳定好用，此后统治世界电脑桌面超过十年。中国网吧的显示器里，绿色小草地是所有人共同的天空。",
+"detail": "XP 融合消费级与商用系统（NT内核），自带 Windows Messenger 与远程协助。它在中国『服役』到2014年才彻底停止支持，许多政府与银行机器用了十三年。",
+"impact": "操作系统体验标准化，网游、QQ、盗版软件在此平台上规模化。",
+"aftermath": "『XP退役』（2014-04-08）成为中文互联网的集体怀旧事件；其蓝绿配色成为复古潮流符号。",
+"sources": [
+{
+"title": "Wikipedia: Windows XP",
+"url": "https://en.wikipedia.org/wiki/Windows_XP",
+"type": "wiki"
+}
+],
+"tags": [
+"Windows XP",
+"操作系统"
+]
+},
+{
+"id": "2001-09-28-legend-online",
+"date": "2001-09-28",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《热血传奇》公测：中国网游时代的开端",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "陈天桥的盛大把韩国游戏《传奇》引进中国并开始公测。砍怪、爆装备、沙巴克攻城——网吧从此被『攻占』，网络游戏成为中国互联网第一个真正赚钱的大生意。",
+"detail": "《热血传奇》2001年9月28日公测，在线人数一年内突破数十万，2002年成为全球在线人数最多的网络游戏。盛大靠它从濒临倒闭变成行业霸主。",
+"impact": "点卡收费模式跑通，中国游戏产业全面转向网游，网吧业态因游戏二次爆发。",
+"aftermath": "私服、外挂与未成年人沉迷随之而来；2005年免费模式（征途、传奇免费版）再次改写行业。",
+"sources": [
+{
+"title": "维基百科：热血传奇",
+"url": "https://zh.wikipedia.org/wiki/热血传奇",
+"type": "wiki"
+}
+],
+"tags": [
+"传奇",
+"网游"
+]
+},
+{
+"id": "2001-11-10-wto-doha",
+"date": "2001-11-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "多哈会议通过：中国正式加入世贸组织",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "卡塔尔多哈，世贸组织第四届部长级会议一槌定音：通过中国加入WTO。15年谈判画上句号，12月11日中国正式成为第143个成员。全球化最狂飙的二十年，中国拿到了船票。",
+"detail": "入世后中国按承诺大幅降税、开放市场。外贸进出口此后连年30%上下狂奔，『世界工厂』就此定型。",
+"impact": "出口制造业与外资涌入改变了几亿人的职业与生活轨迹。",
+"aftermath": "2010年中国成为世界第二大经济体与第一出口国；2018年中美贸易战标志着这一红利期的转折。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国加入世界贸易组织",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国加入世界贸易组织",
+"type": "wiki"
+}
+],
+"tags": [
+"入世",
+"多哈"
+]
+},
+{
+"id": "2001-12-02-enron-collapse",
+"date": "2001-12-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "安然申请破产：世纪财务丑闻引爆",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "美国能源巨头安然以约630亿美元债务申请破产，成为当时美国史上最大破产案。造假、审计失职、高管套现——全球资本市场信任危机爆发，也改写了会计与公司治理规则。",
+"detail": "安然破产引发对审计机构安达信的连锁调查，安达信2002年倒闭。美国随后出台《萨班斯-奥克斯利法案》严管上市公司。",
+"impact": "『大而不倒』的神话破灭，公司治理与审计制度全面收紧。",
+"aftermath": "中概股上市此后需要过《萨班斯法案》合规关；财务造假成为全球监管的长青议题。",
+"sources": [
+{
+"title": "Wikipedia: Enron scandal",
+"url": "https://en.wikipedia.org/wiki/Enron_scandal",
+"type": "wiki"
+}
+],
+"tags": [
+"安然",
+"财务造假"
+]
+},
+{
+"id": "2002-01-01-euro-cash",
+"date": "2002-01-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "欧元纸币硬币正式流通",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "三年前的『记账货币』欧元变成钱包里真实的纸币硬币，12国货币在同一天退休。欧洲人排队换新钞的样子，像极了后来的中国人在银行等健康码——不过这次没人抱怨。",
+"detail": "2002年1月1日起，欧元现金在12个国家发行流通，各国旧币有数月兑换过渡期。这是全球货币史上最大规模的货币替换。",
+"impact": "欧洲一体化达到最高潮，跨境旅游与贸易成本进一步下降。",
+"aftermath": "2010年欧债危机暴露机制缺陷；欧元区现扩至20国。",
+"sources": [
+{
+"title": "Wikipedia: Euro",
+"url": "https://en.wikipedia.org/wiki/Euro",
+"type": "wiki"
+}
+],
+"tags": [
+"欧元",
+"货币"
+]
+},
+{
+"id": "2002-01-01-portal-profit",
+"date": "2002-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "短信+网游：三大门户集体扭亏为盈",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "靠移动短信分成和网络游戏，烧了五年钱的三大门户在2002年集体实现盈利。搜狐、新浪、网易从『退市边缘』变成『中概股明星』，互联网第一次证明自己能赚中国人的钱。",
+"detail": "2002年搜狐率先实现全年盈利，新浪、网易跟进；网易股价从0.51美元低点起涨，两年涨近百倍，成为美股传奇。",
+"impact": "商业模式得到验证，资本市场信心重建，中国互联网第二轮融资潮启动。",
+"aftermath": "盈利故事催生2003-2004年第二波创业潮（猫扑商业化、天涯融资、51.com等）。",
+"sources": [
+{
+"title": "维基百科：中国互联网史",
+"url": "https://zh.wikipedia.org/wiki/中国互联网史",
+"type": "wiki"
+}
+],
+"tags": [
+"门户盈利",
+"短信"
+]
+},
+{
+"id": "2002-06-04-worldcup-cn-debut",
+"date": "2002-06-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "国足世界杯首秀：光州0:2负哥斯达黎加",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "44年等待后，中国男足终于站上世界杯赛场。光州之夜0:2不敌哥斯达黎加，随后负巴西、土耳其，三战全败一球未进。但那个夏天，全中国都在看球。",
+"detail": "国足与巴西、土耳其、哥斯达黎加同组。6月8日对巴西之战米卢排阵放手一搏，肇俊哲门柱成为永恒『遗憾镜头』。",
+"impact": "世界杯经济全面点燃：彩电热销、酒吧夜场、彩票竞猜起步。",
+"aftermath": "此后历届世界杯中国队的角色固定为『观众+赞助商+世界杯]',『留给中国队的时间不多了』成为经典弹幕。",
+"sources": [
+{
+"title": "维基百科：2002年国际足联世界杯",
+"url": "https://zh.wikipedia.org/wiki/2002年国际足联世界杯",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"国足"
+]
+},
+{
+"id": "2002-06-16-lanjisu-fire",
+"date": "2002-06-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北京蓝极速网吧大火：25人遇难，网吧整治元年",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "两名未成年少年纵火烧了学院路的蓝极速网吧，25条年轻生命消逝。全国网吧随即大整顿、大关停——『黑网吧』从此成为中国互联网治理史上的关键词。",
+"detail": "火灾发生在凌晨，网吧门窗被封导致逃生困难，遇难者多为高校学生。国务院随后部署全国网吧专项治理，未成年人禁入与实名登记制度确立。",
+"impact": "网吧业从野蛮生长转入强监管，未成年人保护成为网络治理第一主题。",
+"aftermath": "2002年10月《互联网上网服务营业场所管理条例》施行；此后防沉迷、实名制一步步延伸到游戏与社交平台。",
+"sources": [
+{
+"title": "维基百科：蓝极速网吧纵火案",
+"url": "https://zh.wikipedia.org/wiki/蓝极速网吧纵火案",
+"type": "wiki"
+}
+],
+"tags": [
+"蓝极速",
+"网吧治理"
+]
+},
+{
+"id": "2002-08-19-blogchina",
+"date": "2002-08-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "博客中国上线：博客时代的中国起点",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "方兴东、王俊秀创办博客中国（blogchina），把『Blog』翻译成『博客』。人人都能开专栏写作的时代开始酝酿——这是自媒体二十年浪潮的第一块砖。",
+"detail": "博客中国以精英博客起步，2004年『木子美事件』令其流量暴增，2005年融资转型为博客网，与新浪博客、博客网、中国博客网混战博客元年。",
+"impact": "个人出版成为可能，话语权开始从机构媒体向个人迁移。",
+"aftermath": "博客2005-2009年成为主流媒体形态，后被微博（140字）取代；但其『个人媒体』逻辑延续到公众号、抖音与播客。",
+"sources": [
+{
+"title": "维基百科：博客中国",
+"url": "https://zh.wikipedia.org/wiki/博客中国",
+"type": "wiki"
+}
+],
+"tags": [
+"博客",
+"方兴东"
+]
+},
+{
+"id": "2002-11-08-16th-congress",
+"date": "2002-11-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中共十六大：三个代表写入党章",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "十六大提出全面建设小康社会目标，『三个代表』写入党章，最高领导层实现新中国成立以来首次制度化交接。此后十年，中国GDP从世界第六冲到第二。",
+"detail": "2002年11月8日至14日召开，胡锦涛当选总书记。民营企业家代表首次进入党代会。",
+"impact": "增长目标确立，城市化与重化工业景气周期开启，居民财富进入快速积累期。",
+"aftermath": "2003-2012年GDP年均增速超10%；互联网用户从5910万增长到5.64亿。",
+"sources": [
+{
+"title": "维基百科：中国共产党第十六次全国代表大会",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第十六次全国代表大会",
+"type": "wiki"
+}
+],
+"tags": [
+"十六大"
+]
+},
+{
+"id": "2002-12-14-hero-premiere",
+"date": "2002-12-14",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《英雄》上映：中国商业大片时代开幕",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "张艺谋的《英雄》以2.5亿票房刷新华语纪录，画面美到极致、故事寡淡到极点——但这不重要，重要的是中国电影第一次按好莱坞工业模式赢了一把。",
+"detail": "《英雄》包机宣传、严打盗版、全国同步上映，创造中国电影营销新范式。内地票房2.5亿元占当年国产片票房四分之一。",
+"impact": "『大片』成为投资风口，国产电影工业化起步。",
+"aftermath": "《十面埋伏》《无极》《满城尽带黄金甲》接连上映；骂声与票房齐飞的『大片时代』延续到2008年《赤壁》。",
+"sources": [
+{
+"title": "维基百科：英雄 (电影)",
+"url": "https://zh.wikipedia.org/wiki/英雄_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"大片",
+"张艺谋"
+]
+},
+{
+"id": "2003-03-20-iraq-war",
+"date": "2003-03-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "伊拉克战争爆发",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "美英联军绕开联合国打进伊拉克，萨达姆政权三周内垮台。这场没有找到『大规模杀伤性武器』的战争打垮了美国信誉，也用直播镜头给全世界上了战争课。",
+"detail": "3月20日凌晨空袭巴格达，4月9日萨达姆雕像被推倒。战争及其后续动乱持续多年，美军2011年撤出，2014年重返打击ISIS。",
+"impact": "国际秩序单极化走向质疑，能源与地缘格局深远改变。",
+"aftermath": "中文互联网上『邵云环、许杏虎』记忆犹新的南联盟轰炸情绪再次被唤起；反战与阴谋论同时成为论坛热帖。",
+"sources": [
+{
+"title": "Wikipedia: Iraq War",
+"url": "https://en.wikipedia.org/wiki/Iraq_War",
+"type": "wiki"
+}
+],
+"tags": [
+"伊拉克战争"
+]
+},
+{
+"id": "2003-04-20-sars-disclosure",
+"date": "2003-04-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "非典疫情全面公开：一个戴着口罩的春天",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2003年4月20日，卫生部开始每日公开SARS疫情，北京中小学停课、高校封校，全城抢购板蓝根与白醋。那一代人的集体记忆：戴着口罩的高考、被隔离的宿舍、空荡的公交车。",
+"detail": "SARS自2002年11月广东出现，2003年春在北京、香港等地暴发。4月20日之后信息公开、小汤山医院7天建成（5月1日启用）。全球累计病例8000余例、死亡774人。",
+"impact": "公共场所卫生习惯、信息披露制度与应急管理被永久改写；实体零售与出行重创。",
+"aftermath": "被憋在家里的消费者第一次大规模尝试网购，淘宝、京东借势崛起；17年后新冠袭来，SARS成为全民参照系。",
+"sources": [
+{
+"title": "维基百科：SARS事件",
+"url": "https://zh.wikipedia.org/wiki/SARS事件",
+"type": "wiki"
+}
+],
+"tags": [
+"非典",
+"SARS"
+]
+},
+{
+"id": "2003-05-10-taobao-founded",
+"date": "2003-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "淘宝网诞生：非典时期湖畔花园的创业",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2003年5月10日，马云在杭州湖畔花园的公寓里秘密上线淘宝网，对抗如日中天的eBay易趣。免费开店策略击穿对手，中国电商的时代巨星就此登场——后来它改变了所有人的购物车和快递箱。",
+"detail": "项目为保密代号『达摩院』，创始团队被要求回家签『生死状』。2005年淘宝市占率反超易趣，2008年突破千亿成交。",
+"impact": "确立了免费入驻+平台服务的中国电商模式，个体商户大规模上网。",
+"aftermath": "支付宝（2003-10）解决信任后爆发；2012年天猫双11破百亿；淘宝村、直播带货层层进化。",
+"sources": [
+{
+"title": "维基百科：淘宝网",
+"url": "https://zh.wikipedia.org/wiki/淘宝网",
+"type": "wiki"
+}
+],
+"tags": [
+"淘宝",
+"电商"
+]
+},
+{
+"id": "2003-06-20-custody-reform",
+"date": "2003-06-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "孙志刚案推动收容遣送制度废止",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "大学毕业生孙志刚因未带证件被收容并遭殴打致死，舆论沸腾，三位法学博士上书人大。6月20日国务院公布新办法，实施21年的收容遣送制度废止。个体命运推动制度变革的经典一役。",
+"detail": "2003年3月17日孙志刚在广州被收容站殴打致死，《南方都市报》4月25日曝光后引发全民讨论。6月20日新《救助管理办法》公布，8月1日施行。",
+"impact": "网络与媒体舆论首次显示推动立法的巨大能量。",
+"aftermath": "『公民上书』成为新的表达范式；收容教育（2019年废止）、劳教（2013年废止）等制度后来陆续退场。",
+"sources": [
+{
+"title": "维基百科：孙志刚事件",
+"url": "https://zh.wikipedia.org/wiki/孙志刚事件",
+"type": "wiki"
+}
+],
+"tags": [
+"孙志刚",
+"制度变革"
+]
+},
+{
+"id": "2003-10-01-alipay-launch",
+"date": "2003-10-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "支付宝担保交易上线：网上购物敢付钱了",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "淘宝推出担保交易服务支付宝：钱先押在平台，收到货再放款。『你不给我发货我不给钱』的死结被解开，网购信任的地基从此浇筑。",
+"detail": "2003年10月淘宝上线支付宝功能（首笔交易为一台富士相机传说存疑，但服务上线确凿）；2004年12月支付宝独立为公司。",
+"impact": "第三方担保支付成为中国电商爆发的前提，信用体系线上化起步。",
+"aftermath": "2011年快捷支付、2013年余额宝、2014年扫码支付层层进化；支付宝与微信支付双寡头格局形成。",
+"sources": [
+{
+"title": "维基百科：支付宝",
+"url": "https://zh.wikipedia.org/wiki/支付宝",
+"type": "wiki"
+}
+],
+"tags": [
+"支付宝",
+"担保交易"
+]
+},
+{
+"id": "2003-10-15-shenzhou-5",
+"date": "2003-10-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟五号载人飞天：杨利伟成为中国太空第一人",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "2003年10月15日9时，长征火箭把神舟五号送入太空，杨利伟成为中国进入太空第一人。21小时23圈后平安着陆，中国成为继苏美之后第三个独立载人航天的国家。",
+"detail": "杨利伟在轨展示中国国旗与联合国旗，返回舱着陆内蒙古四子王旗。发射直播万人空巷，教科书连夜改版。",
+"impact": "载人航天成为国家科技实力的标志性工程，航天热席卷全国。",
+"aftermath": "2008年神七出舱、2021年天宫空间站建成、2022年太空会师——一代代航天员从杨利伟的脚步延伸出去。",
+"sources": [
+{
+"title": "维基百科：神舟五号",
+"url": "https://zh.wikipedia.org/wiki/神舟五号",
+"type": "wiki"
+}
+],
+"tags": [
+"神舟五号",
+"杨利伟"
+]
+},
+{
+"id": "2003-11-01-yahoo-3721",
+"date": "2003-11-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "雅虎1.2亿美元收购3721",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "周鸿祎的3721『中文上网』插件以1.2亿美元卖给雅虎，创下当时中国互联网并购纪录。『流氓软件』之祖换了个金主，周鸿祎则在雅虎中国干了两年后出走，创立了奇虎360。",
+"detail": "3721以浏览器插件实现中文域名直达，装机量巨大但强插行为饱受诟病。2004年3月交易完成，周鸿祎出任雅虎中国总裁。",
+"impact": "插件分发生意模式暴露无遗，安全与用户权益议题浮出水面。",
+"aftermath": "2005年雅虎中国转投阿里；360免费杀毒（2008）终结流氓软件黄金期。",
+"sources": [
+{
+"title": "维基百科：3721",
+"url": "https://zh.wikipedia.org/wiki/3721",
+"type": "wiki"
+}
+],
+"tags": [
+"3721",
+"雅虎"
+]
+},
+{
+"id": "2003-12-03-baidu-tieba",
+"date": "2003-12-03",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "百度贴吧上线：『为兴趣而生』的社区帝国",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "百度上线贴吧，让每个关键词自动生成一个论坛。李毅吧、魔兽吧、戒赌吧……中国最大规模的兴趣社区在这里生长，『贾君鹏』『太弟』等网络梗从这里出发。",
+"detail": "贴吧2003年12月上线，依托搜索流量迅速成为全球最大的中文社区之一，2005年李毅吧『帝吧出征』文化形成。",
+"impact": "兴趣聚合+低门槛发帖造就最大众化的UGC社区。",
+"aftermath": "2010年代因商业化和内容管理争议衰落；『帝吧出征FB』（2016）成为最后一次全网记忆。",
+"sources": [
+{
+"title": "维基百科：百度贴吧",
+"url": "https://zh.wikipedia.org/wiki/百度贴吧",
+"type": "wiki"
+}
+],
+"tags": [
+"贴吧",
+"社区"
+]
+},
+{
+"id": "2004-02-04-facebook",
+"date": "2004-02-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Facebook 上线：社交网络改变人类关系",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "19岁的扎克伯格在哈佛宿舍上线 TheFacebook，两周内三分之二哈佛学生注册。此后二十年，20多亿人把社交关系、照片和生活搬进了『主页』——中国的人人网、开心网都是它的回声。",
+"detail": "Facebook 从校园起步，2006年开放注册，2012年上市，日活后来突破20亿。『点赞』按钮（2009）成为数字时代最成功的交互设计之一。",
+"impact": "社交网络重构信息分发与人际关系， Cambridge Analytica 等事件也埋下隐私争议。",
+"aftermath": "中国境内社交网络另有路径（校内/开心/微博/微信）；Facebook 母公司2021年改名 Meta 押注元宇宙。",
+"sources": [
+{
+"title": "Wikipedia: History of Facebook",
+"url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+"type": "wiki"
+}
+],
+"tags": [
+"Facebook",
+"社交网络"
+]
+},
+{
+"id": "2004-05-13-shanda-ipo",
+"date": "2004-05-13",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "盛大纳斯达克上市：31岁的中国首富之路",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "靠一款《传奇》发家的盛大网络登陆纳斯达克，31岁的陈天桥身家随之超过丁磊成为当时中国首富候选。『一个游戏公司干翻门户网站』让所有人对网游行业刮目相看。",
+"detail": "盛大2004年5月13日上市，融资1.5亿美元；同年收购新浪19.5%股份未竟全功。2005年《传奇》免费化引发行业地震。",
+"impact": "网游成为资本市场最追捧的中国故事。",
+"aftermath": "陈天桥后转型投资与脑科学；盛大游戏几经易手，『传奇』IP至今仍在换皮收割。",
+"sources": [
+{
+"title": "维基百科：盛大网络",
+"url": "https://zh.wikipedia.org/wiki/盛大网络",
+"type": "wiki"
+}
+],
+"tags": [
+"盛大",
+"陈天桥"
+]
+},
+{
+"id": "2004-06-16-tencent-ipo",
+"date": "2004-06-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "腾讯香港上市：企鹅开始起飞",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "腾讯在香港主板挂牌，发行价3.7港元。当年买它股票当『打新』的人不会想到：这只企鹅的股价二十年涨了上千倍，Q币与QQ秀只是它帝国的第一块砖。",
+"detail": "腾讯2004年6月16日上市，募资约14.4亿港元。上市后陆续确立游戏、门户、拍拍、SOSO的多元化布局。",
+"impact": "港交所第一次迎来大陆互联网超级巨头。",
+"aftermath": "2008年《地下城与勇士》《穿越火线》引爆游戏收入；2011年微信诞生；2021年市值一度逼近1万亿美元。",
+"sources": [
+{
+"title": "维基百科：腾讯",
+"url": "https://zh.wikipedia.org/wiki/腾讯",
+"type": "wiki"
+}
+],
+"tags": [
+"腾讯",
+"上市"
+]
+},
+{
+"id": "2004-08-19-google-ipo",
+"date": "2004-08-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌上市：『不作恶』的时代宣言",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "谷歌以独特的荷兰式拍卖登陆纳斯达克，招股书里写着『不作恶』。1917美元的拆股价格故事、涂鸦LOGO、免费搜索——它将定义此后二十年互联网巨头的两面：伟大与庞大。",
+"detail": "谷歌IPO融资16.7亿美元，发行价85美元。上市后陆续推出Gmail（2004-04）、Google Maps、Android（收购于2005）。",
+"impact": "搜索引擎广告成为最赚钱的商业模式，工程师文化成为硅谷新正统。",
+"aftermath": "2006年进入中国（谷歌中国）、2010年退出搜索服务；2023年起全面转向AI。",
+"sources": [
+{
+"title": "Wikipedia: History of Google",
+"url": "https://en.wikipedia.org/wiki/History_of_Google",
+"type": "wiki"
+}
+],
+"tags": [
+"Google",
+"IPO"
+]
+},
+{
+"id": "2004-08-27-liu-xiang-gold",
+"date": "2004-08-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "刘翔雅典夺冠：12秒91平世界纪录",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "21岁的上海小伙刘翔在雅典奥运会110米栏决赛中跑出12秒91，平世界纪录夺冠，成为中国男子田径奥运第一金。『亚洲有我，世界有他』——黄色人种不能跑的论断被当场击碎。",
+"detail": "刘翔决赛遥遥领先，冲线后披国旗跳上领奖台的画面成为经典。同年他还在世界室内锦标赛等赛事连续夺冠。",
+"impact": "田径热与体育偶像经济爆发，刘翔成为全民偶像与商业宠儿。",
+"aftermath": "2008年北京退赛与2012年伦敦摔倒引发巨大舆论撕裂；2015年退役时舆论已学会温柔。",
+"sources": [
+{
+"title": "维基百科：刘翔",
+"url": "https://zh.wikipedia.org/wiki/刘翔",
+"type": "wiki"
+}
+],
+"tags": [
+"刘翔",
+"雅典奥运"
+]
+},
+{
+"id": "2004-12-08-ibm-pc-deal",
+"date": "2004-12-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "联想17.5亿美元收购IBM PC业务",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "20年前在中科院传达室创业的联想，宣布以17.5亿美元收购IBM全球PC业务，『蛇吞象』震惊世界。ThinkPad从此有了中国主人，中国科技公司第一次如此规模地买下美国标志性资产。",
+"detail": "交易2005年5月完成，联想跃升全球第三大PC厂商，总部设双中心。当初『联想汉卡』起家、香港上市、自有品牌PC的成长路径在此达到高潮。",
+"impact": "中国企业大规模海外并购的信心样板。",
+"aftermath": "2013年联想登顶全球PC第一；并购文化冲突与管理磨合持续多年。",
+"sources": [
+{
+"title": "维基百科：联想集团",
+"url": "https://zh.wikipedia.org/wiki/联想集团",
+"type": "wiki"
+}
+],
+"tags": [
+"联想",
+"IBM"
+]
+},
+{
+"id": "2004-12-26-indian-ocean-tsunami",
+"date": "2004-12-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "印度洋大海啸：22万人遇难的人间惨剧",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "苏门答腊9.1级地震掀起最高30米的海啸，横扫印度洋沿岸12国，22万多人遇难，是史上死亡人数最多的海啸。游客拍下的视频第一次让全球直观看到灾难从海滩涌来。",
+"detail": "海啸波及印尼、泰国、斯里兰卡、印度等地，普吉岛等旅游胜地重创。中国游客多人遇难，全国掀起大规模民间捐助。",
+"impact": "国际海啸预警系统在此后建成；民间慈善捐助自此成为大灾标配。",
+"aftermath": "互联网时代的灾难视频传播、网络募捐自此成型；2008年汶川的全民动员已是升级版。",
+"sources": [
+{
+"title": "维基百科：2004年印度洋海啸",
+"url": "https://zh.wikipedia.org/wiki/2004年印度洋海啸",
+"type": "wiki"
+}
+],
+"tags": [
+"海啸",
+"灾难"
+]
+},
+{
+"id": "2004-05-01-super-girl-s1",
+"date": "2004-05-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "首届《超级女声》开播：全民选秀的试验",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "湖南卫视试水平民唱歌比赛，不设门槛、海选万人。第一届冠军安又琪还没成为现象，但玩法已经跑通——次年的李宇春将把『短信投票』变成全民运动。",
+"detail": "首届《超级女声》2004年举办，与《莱卡我型我秀》等一起试水平民选秀，海选丑闻与毒舌评委成为话题。",
+"impact": "证明『普通人当明星』的巨大流量。",
+"aftermath": "2005年第二届引爆全国，短信投票、粉丝团、中性审美全面出圈。",
+"sources": [
+{
+"title": "维基百科：超级女声",
+"url": "https://zh.wikipedia.org/wiki/超级女声",
+"type": "wiki"
+}
+],
+"tags": [
+"超女",
+"选秀"
+]
+},
+{
+"id": "2003-11-01-muzimei-blog",
+"date": "2003-11-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "木子美《遗情书》：博客第一次冲上全民头条",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "广州女编辑木子美在博客上连载私生活日记《遗情书》，服务器被挤爆，『博客』一词一夜之间从技术词汇变成社会新闻词汇。关于网络表达边界的大讨论由此拉开。",
+"detail": "2003年6月起连载、11月发酵，《遗情书》让博客中国等平台流量暴涨百倍。媒体、学界与监管部门围绕网络内容边界展开持续讨论。",
+"impact": "让普通大众第一次认识『博客』这一形态，也预演了此后每一次网络内容争议。",
+"aftermath": "博客随后进入大众视野并在2005-2007年成为主流；网络内容治理框架逐步建立。",
+"sources": [
+{
+"title": "维基百科：木子美",
+"url": "https://zh.wikipedia.org/wiki/木子美",
+"type": "wiki"
+}
+],
+"tags": [
+"木子美",
+"博客"
+]
+},
+{
+"id": "2004-12-01-kungfu-hustle",
+"date": "2004-12-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "《功夫》上映：周星驰的封神之作",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "周星驰的《功夫》在内地上映，包租婆的狮吼功、斧头帮的舞步、『能力越大责任越大』的错位台词成为永恒梗源。它也是无厘头喜剧从录像厅走进主流院线的加冕礼。",
+"detail": "《功夫》2004年12月内地公映，票房1.7亿元居年度前列，获金马最佳剧情片等大奖，全球录像带与碟片销量惊人。",
+"impact": "周星驰从『喜剧演员』升格为『作者导演』，周氏台词成为互联网时代最高产的梗库之一。",
+"aftermath": "2008年《长江七号》后星爷转向幕后；《功夫》在短视频时代被逐帧二创，常看常新。",
+"sources": [
+{
+"title": "维基百科：功夫 (电影)",
+"url": "https://zh.wikipedia.org/wiki/功夫_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"功夫",
+"周星驰"
+]
+},
+{
+"id": "2003-01-01-qq-show",
+"date": "2003-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "QQ秀上线：为虚拟形象花钱的第一课",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "腾讯推出QQ秀，让用户花钱给卡通形象买衣服发型。两块钱一套的『秀』驯化了无数中国网民为虚拟物品付费的习惯——后来的一切皮肤、装扮、氪金，都从这里开蒙。",
+"detail": "QQ秀2003年推出，与Q币体系配合，成为腾讯早期最重要的增值业务收入来源。红钻贵族（2005）进一步会员化。",
+"impact": "证明了虚拟形象经济在中国的巨大潜力。",
+"aftermath": "游戏皮肤、直播礼物、元宇宙数字人一脉相承；『为虚拟付费』从此刻进中国互联网商业基因。",
+"sources": [
+{
+"title": "维基百科：腾讯QQ",
+"url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+"type": "wiki"
+}
+],
+"tags": [
+"QQ秀",
+"虚拟商品"
+]
+},
+{
+"id": "2002-03-01-eachnet-ebay",
+"date": "2002-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "eBay 3千万美元入股易趣：外资电商抢滩",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "eBay 增资控股中国C2C网站易趣，国际电商巨头全面接管中国个人交易市场。邵亦波志得意满——他不知道两年后一个叫淘宝的网站会让这个决策变得毫无意义。",
+"detail": "eBay 2002年3月以3000万美元购入易趣33%股份，2003年6月以1.5亿美元全资收购。易趣市占率一度超80%。",
+"impact": "外资巨头验证了中国C2C市场的真实需求。",
+"aftermath": "淘宝免费模式+本土化运营在2005年逆转战局；2006年eBay退出中国。",
+"sources": [
+{
+"title": "维基百科：易趣",
+"url": "https://zh.wikipedia.org/wiki/易趣",
+"type": "wiki"
+}
+],
+"tags": [
+"易趣",
+"eBay"
+]
+},
+{
+"id": "2004-01-01-shanghai-housing",
+"date": "2004-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "房价起势：『调控』成为年度关键词",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2004年上海房价暴涨，全国房价进入上行通道，中央开始连续出台调控政策。『买房』从此成为中国人最大的财务决策与最大的焦虑来源，『房奴』一词进入日常语言。",
+"detail": "2003年国务院18号文将房地产定为国民经济支柱产业后，资金涌入。2004年『8·31大限』土地招拍挂全面实施，地价房价齐涨，2005年『国八条』开启调控时代。",
+"impact": "居住成本与财富分化成为此后二十年的社会主议题。",
+"aftermath": "2008-2009、2015-2017几轮暴涨，2016年『房住不炒』提出，2021年后行业进入深度调整。",
+"sources": [
+{
+"title": "维基百科：中国大陆房地产",
+"url": "https://zh.wikipedia.org/wiki/中国大陆房地产",
+"type": "wiki"
+}
+],
+"tags": [
+"房价",
+"调控"
+]
+},
+{
+"id": "2003-01-01-sms-newyear",
+"date": "2003-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "短信拜年成为新年俗：年拜百条拇指忙",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "春节群发拜年短信在2003年前后成为全民仪式，除夕夜信道一度拥堵。『拇指一族』诞生，抄袭的祝福语在亲友间飞舞——微信红包出现前，这是中国人数字化社交的第一次全民实践。",
+"detail": "2002-2004年春节单日短信量数以十亿计，三大门户与SP靠节日短信狂赚。『群发短信收不收』成为人情学难题。",
+"impact": "奠定了移动端节庆社交的行为范式。",
+"aftermath": "2014年微信红包以游戏化方式接棒；短信拜年如今只剩验证码。",
+"sources": [
+{
+"title": "维基百科：短信",
+"url": "https://zh.wikipedia.org/wiki/短信",
+"type": "wiki"
+}
+],
+"tags": [
+"拜年短信",
+"年俗"
+]
+},
+{
+"id": "2004-03-01-netbar-realname",
+"date": "2004-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "网吧实名制实施：上网开始刷身份证",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "《互联网上网服务营业场所管理条例》配套的实名登记在2004年逐步落地，进网吧要刷身份证。『未成年人禁入』从口号变成机检现实，中国网络实名制的第一步从这里迈出。",
+"detail": "蓝极速大火后的条例要求网吧对上网消费者登记身份信息，2004年起各地推行刷卡上网系统，后台对接公安监管平台。",
+"impact": "网络实名监管从线下场所开始积累技术与制度经验。",
+"aftermath": "2010年后手机实名、微博后台实名、网游防沉迷实名层层推进，构成中国互联网实名体系。",
+"sources": [
+{
+"title": "维基百科：网吧",
+"url": "https://zh.wikipedia.org/wiki/网吧",
+"type": "wiki"
+}
+],
+"tags": [
+"实名制",
+"网吧"
+]
+}
+]
