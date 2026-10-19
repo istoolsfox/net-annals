@@ -1,0 +1,576 @@
+[
+{
+"id": "2023-01-15-san-ti-tv",
+"date": "2023-01-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "剧版《三体》开播",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月15日腾讯视频《三体》电视剧开播，刘慈欣科幻IP首次被国产剧完整影像化，口碑持续走高。",
+"detail": "由杨磊执导、张鲁一和于和伟主演的《三体》电视剧在腾讯视频开播，对原著「古筝行动」「三体游戏」等名场面的高还原获得原著粉认可，豆瓣开分8.0后升至8.7，成为近年国产科幻剧口碑标杆，也为同年春节档《流浪地球2》带动的「科幻热」添火。",
+"impact": "验证了中国本土科幻IP影视化的商业与口碑双路径，后续衍生与IP授权大幅提速。",
+"aftermath": "衍生动画、周边与舞台剧接连推出；网飞版《三体》于2024年3月上线形成对照。",
+"sources": [
+{
+"title": "三体（电视剧）",
+"url": "https://zh.wikipedia.org/wiki/三体_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"影视",
+"科幻",
+"腾讯"
+]
+},
+{
+"id": "2023-01-22-wandering-earth-2",
+"date": "2023-01-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《流浪地球2》春节档上映",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月22日《流浪地球2》上映，与《满江红》同档竞争，最终拿下超40亿元票房，标志中国重工业科幻片续作成熟。",
+"detail": "郭帆执导的《流浪地球2》作为前作前传上映，太空电梯、数字生命等设定与大规模实体置景引发热议，最终票房约40.29亿元居2023年度第二，与《满江红》的档期竞争成为春节档话题。影片使用的国产特效流程与设备国产化被广泛讨论。",
+"impact": "续作票房与口碑双赢，把中国科幻电影工业化的讨论推向主流。",
+"aftermath": "系列第三部立项，周边众筹破亿元；《流浪地球3》定档后续年份。",
+"sources": [
+{
+"title": "流浪地球2",
+"url": "https://zh.wikipedia.org/wiki/流浪地球2",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"春节档"
+]
+},
+{
+"id": "2023-01-23-microsoft-openai-invest",
+"date": "2023-01-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软宣布与OpenAI扩大多年期合作并追加数十亿美元投资",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月23日微软宣布与OpenAI扩大多年期合作，追加数十亿美元投资，Azure成为OpenAI独家云，媒体报道规模约百亿美元。",
+"detail": "微软在官方博客宣布与OpenAI扩展多年期合作伙伴关系，追加数十亿美元投资，OpenAI将把模型与Azure独家绑定，微软获得利润分成优先权。双方未披露确切金额，多家媒体报道总额约100亿美元。这是生成式AI竞赛中第一笔超大规模云厂商押注。",
+"impact": "开启大公司围绕基础模型的资本开支竞赛，把OpenAI与微软深度绑定。",
+"aftermath": "OpenAI估值随后升至约290亿美元；微软陆续把GPT-4接入Bing、Office与Windows。",
+"sources": [
+{
+"title": "OpenAI",
+"url": "https://en.wikipedia.org/wiki/OpenAI",
+"type": "wiki"
+},
+{
+"title": "Microsoft News",
+"url": "https://blogs.microsoft.com",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"微软",
+"OpenAI",
+"融资"
+]
+},
+{
+"id": "2023-02-01-chatgpt-100m",
+"date": "2023-02-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "研究称ChatGPT上线两个月月活破1亿",
+"category": "internet",
+"region": "world",
+"milestone": true,
+"summary_30s": "2月1日瑞银联合报告援引Similarweb估算称ChatGPT月活用户破1亿，成为史上用户增长最快的消费级应用。",
+"detail": "瑞银分析师援引Similarweb数据发布报告，估算ChatGPT在2023年1月底月活用户达到约1亿，距上线仅约两个月，此前TikTok达成同等规模用了9个月，引发全球对生成式AI商业化速度的讨论。",
+"impact": "ChatGPT成为AI大规模普及的标志性节点，直接引爆大厂模型竞赛。",
+"aftermath": "各大科技公司加速自研模型上线；服务器容量一度成为OpenAI主要瓶颈。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"用户里程碑"
+]
+},
+{
+"id": "2023-02-01-chatgpt-plus",
+"date": "2023-02-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT Plus 订阅上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "OpenAI于2月1日推出ChatGPT Plus订阅服务，每月20美元，提供高峰期优先访问与更快响应，是ChatGPT首个收费档。",
+"detail": "ChatGPT Plus定价每月20美元，权益包括高峰时段也可使用、更快响应速度和优先体验新功能，后续逐步加入GPT-4、联网、插件等。这是OpenAI第一次向普通用户直接收费，也被视为「订阅制AI助手」这一品类的开端。",
+"impact": "确立了消费级AI助手20美元/月的行业默认定价锚点。",
+"aftermath": "2024年新增Team与企业版；竞品Claude、Gemini随后对标推出同级订阅。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"订阅",
+"OpenAI"
+]
+},
+{
+"id": "2023-02-06-google-bard-announce",
+"date": "2023-02-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌宣布对话式AI「Bard」",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月6日谷歌CEO宣布聊天机器人Bard，应对ChatGPT冲击；次日发布会演示中Bard答错天文问题，股价单日跌约8%。",
+"detail": "谷歌在官方博客预告对话式AI服务Bard，并向部分测试者开放。2月8日巴黎发布会上，Bard在演示中把詹姆斯·韦伯望远镜首张系外行星照片的常识问题答错，截图广泛传播，Alphabet当日市值蒸发超千亿美元。",
+"impact": "暴露大模型「幻觉」问题的标志性案例，也让谷歌AI叙事一度承压。",
+"aftermath": "Bard于3月21日才开放公测，后续更名Gemini并完成赶超。",
+"sources": [
+{
+"title": "Gemini（聊天机器人）",
+"url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2023-02-07-meta-llama",
+"date": "2023-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 发布大模型 LLaMA",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月24日Meta开放LLaMA权重下载（研究许可），7B至65B四档小模型以小搏大，为开源社区爆发埋下伏笔。",
+"detail": "Meta于2月24日宣布向研究者开放LLaMA（Large Language Model Meta AI）权重，含7B、13B、33B、65B四档。官方许可仅限研究用途，但权重很快泄露并在社区流传，催生了Alpaca、Vicuna等一大批微调模型。",
+"impact": "证明了小参数模型的可能性，成为开源大模型生态的直接起点。",
+"aftermath": "7月Meta顺势推出可商用的Llama 2，彻底改变开源模型格局。",
+"sources": [
+{
+"title": "Llama (language model)",
+"url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Meta",
+"开源"
+]
+},
+{
+"id": "2023-02-07-alibaba-tongyi-tease",
+"date": "2023-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里确认研发类ChatGPT产品「通义千问」",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月7日阿里确认在研发类ChatGPT对话机器人，已进入内测，后定名通义千问，成为国内大厂跟进大模型的标志事件之一。",
+"detail": "阿里方面向媒体确认正在研发类ChatGPT产品，已接入阿里云内测，命名与阿里云「通义」系列相关，即后来的通义千问。此后百度、360、字节等国内公司相继确认跟进，形成国内「百模大战」的第一波立项潮。",
+"impact": "国内大厂大模型竞备公开化的起点之一。",
+"aftermath": "通义千问4月11日开启邀测，9月开源Qwen系列。",
+"sources": [
+{
+"title": "通义千问",
+"url": "https://zh.wikipedia.org/wiki/通义千问",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"阿里巴巴"
+]
+},
+{
+"id": "2023-02-08-bing-chat",
+"date": "2023-02-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软发布集成AI的新版必应搜索",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月8日微软发布基于OpenAI模型的全新Bing与Edge，把对话式搜索搬进浏览器，用户排队申请一度超百万。",
+"detail": "微软把OpenAI的下一代模型（后确认基于GPT-4）集成进Bing搜索引擎，提供聊天式检索、长文摘要与Edge侧边栏问答。上线首日申请排队用户超过百万，测试中Bing出现的「类人格」对话（如Sydney）引发关于AI安全与人格化的广泛讨论。",
+"impact": "被视为搜索引擎20年来最大交互变革，倒逼谷歌加速AI化。",
+"aftermath": "产品后更名为Microsoft Copilot，成为微软全线AI助手的品牌。",
+"sources": [
+{
+"title": "Microsoft Copilot",
+"url": "https://en.wikipedia.org/wiki/Microsoft_Copilot",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"微软",
+"搜索"
+]
+},
+{
+"id": "2023-03-01-chatgpt-api",
+"date": "2023-03-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI开放ChatGPT API（gpt-3.5-turbo）",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月1日OpenAI开放ChatGPT与Whisper API，gpt-3.5-turbo定价为此前版本的十分之一，AI应用开发潮随之爆发。",
+"detail": "OpenAI向开发者开放ChatGPT同款模型gpt-3.5-turbo的API接口，输入价格降至每千token 0.002美元，约为此前GPT-3.5系列的十分之一，并提供数据留存策略选项。大量创业公司据此快速搭建AI应用，成为「AI应用井喷」的技术前提。",
+"impact": "大幅降低AI应用门槛，直接引爆2023年AI创业与融资潮。",
+"aftermath": "6月开放函数调用；后续GPT-4 Turbo进一步降价。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"API"
+]
+},
+{
+"id": "2023-03-01-zibo-bbq",
+"date": "2023-03-01",
+"date_accuracy": "month",
+"date_confidence": "estimated",
+"title": "淄博烧烤出圈成现象级文旅事件",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月起大学生「组团赴淄博撸串」短视频刷屏，淄博烧烤凭「小饼卷一切」成为年度最热文旅现象，五一线下客流爆满。",
+"detail": "2023年3月起，「大学生特种兵坐高铁去淄博吃烧烤」的短视频在抖音、小红书刷屏，当地政府随即以公交专线、烧烤专列、监管不涨价等方式接住流量，五一假期淄博游客量与酒店预订量暴增，成为城市文旅营销的年度样本。",
+"impact": "示范了「短视频种草+城市接住流量」的文旅出圈路径，各地随后竞相复制。",
+"aftermath": "哈尔滨、天水等城市在后续一年多里接力复制这一模式。",
+"sources": [
+{
+"title": "淄博烧烤",
+"url": "https://zh.wikipedia.org/wiki/淄博烧烤",
+"type": "wiki"
+}
+],
+"tags": [
+"流行文化",
+"文旅"
+]
+},
+{
+"id": "2023-03-14-gpt4",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GPT-4 发布",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "3月14日OpenAI发布GPT-4，支持图像输入，在美国律师资格考试中进入前10%，性能全面超越GPT-3.5。",
+"detail": "OpenAI发布多模态大模型GPT-4，接受图文输入并输出文本，在律师资格、SAT等专业考试中达到人类前10%水平，上下文长度支持至32K，同步上线ChatGPT Plus与新版Bing。技术报告详述了评测结果但未公布架构、参数与训练数据细节。",
+"impact": "把大模型能力推到「可通过专业考试」的新台阶，成为此后两年对标的基准线。",
+"aftermath": "11月推出GPT-4 Turbo；2024年5月被GPT-4o接替为旗舰。",
+"sources": [
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/gpt-4/",
+"type": "official"
+},
+{
+"title": "GPT-4",
+"url": "https://en.wikipedia.org/wiki/GPT-4",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"GPT"
+]
+},
+{
+"id": "2023-03-14-claude-v1",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 开放 Claude 公测",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月14日OpenAI前员工创办的Anthropic开放AI助手Claude公测，主打「更安全、长文本」，正式加入大模型第一梯队竞争。",
+"detail": "Anthropic由前OpenAI副总裁Dario Amodei兄弟创办，理念是「AI对齐」。Claude首版支持最长10万token上下文，强调 helpful、honest、harmless 的训练目标，通过Slack集成与Notion、Quora等伙伴应用对外开放。",
+"impact": "让OpenAI之外出现了真正有竞争力的闭源头部玩家。",
+"aftermath": "7月发布Claude 2，2024年起以Claude 3系列多次在长文本与代码上与GPT互有胜负。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2023-03-14-chatglm-6b",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "清华系智谱AI开源双语模型 ChatGLM-6B",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月14日智谱AI与清华KEG开源62亿参数双语对话模型ChatGLM-6B，消费级显卡即可部署，成为国内开发者最早大规模自托管的选择。",
+"detail": "ChatGLM-6B基于GLM架构，支持中英双语问答与对话，6B规模经量化后最低6GB显存即可运行，GitHub开源迅速获得数万Star，是国内「百模大战」早期最受欢迎的开源底座之一，衍生出大量垂直领域微调模型。",
+"impact": "显著降低了国内高校与中小团队体验和微调大模型的门槛。",
+"aftermath": "智谱同年7月起推出商用ChatGLM2/3与后续GLM-4系列。",
+"sources": [
+{
+"title": "THUDM/ChatGLM-6B",
+"url": "https://github.com/THUDM/ChatGLM-6B",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"开源",
+"智谱"
+]
+},
+{
+"id": "2023-03-15-midjourney-v5",
+"date": "2023-03-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Midjourney V5 发布，「教皇羽绒服」假图引爆AIGC讨论",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月15日Midjourney发布V5版本，生成图像首次达到「真假难辨」的照片级水准，月底「特朗普被捕」「教皇穿羽绒服」假图疯传。",
+"detail": "Midjourney V5大幅提升写实能力与手部细节，「prompt很小，效果很大」成为圈内口号。3月下旬，用其生成的「特朗普被逮捕」「教皇穿白色羽绒服」等假图在社交网络疯传，多数观众难辨真假，引发全球对AI生成内容识别与治理的集中讨论。",
+"impact": "让「AI假图」第一次成为大众议题，AIGC水印与检测话题升温。",
+"aftermath": "当年6月其估值升至100亿美元，V6于年底上线。",
+"sources": [
+{
+"title": "Midjourney",
+"url": "https://en.wikipedia.org/wiki/Midjourney",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生图"
+]
+},
+{
+"id": "2023-03-16-ernie-bot",
+"date": "2023-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百度发布大模型产品「文心一言」",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月16日百度在北京发布「文心一言」，成为国内首个对标ChatGPT的大厂产品，发布会用录播演示一度引发争议。",
+"detail": "百度在总部举行发布会，创始人李彦宏现场介绍文心一言的文学创作、商业文案、数理推算、中文理解与多模态生成五大能力，演示环节采用预录对话。股价当日一度下跌约10%，但产品随后获数百家企业宣布接入，成为「国产大模型第一枪」。",
+"impact": "标志着国内大厂正面参战大模型，「国产ChatGPT时刻」叙事确立。",
+"aftermath": "8月31日文心一言成为首批面向公众开放的备案产品之一。",
+"sources": [
+{
+"title": "文心一言",
+"url": "https://zh.wikipedia.org/wiki/文心一言",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"百度",
+"大模型"
+]
+},
+{
+"id": "2023-03-16-m365-copilot",
+"date": "2023-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软发布 Microsoft 365 Copilot",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月16日微软发布 Microsoft 365 Copilot，把大模型嵌进 Word、Excel、PPT 等办公全家桶，开启「AI 办公」叙事。",
+"detail": "Microsoft 365 Copilot将GPT-4与Microsoft Graph结合，可在Word续写、Excel分析数据、Outlook写邮件、Teams生成会议纪要，售价将面向企业按席位收费。演示中「一句话生成PPT」「几分钟读完全部邮件」的画面成为年度AI名场面。",
+"impact": "让「AI 改造办公软件」成为SaaS行业的统一路线图。",
+"aftermath": "11月起面向企业开放定价（30美元/用户/月），谷歌Workspace随后跟进。",
+"sources": [
+{
+"title": "Microsoft 365 Copilot",
+"url": "https://en.wikipedia.org/wiki/Microsoft_365_Copilot",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"微软",
+"办公"
+]
+},
+{
+"id": "2023-03-20-runway-gen2",
+"date": "2023-03-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Runway 发布 Gen-2 文生视频",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月20日Runway发布文生视频模型Gen-2，用户输入文字即可生成数秒短片，成为Sora之前最出圈的AI视频工具。",
+"detail": "Runway由纽约大学艺术家创办，Gen-2支持文本、图像加文本生成视频，虽然分辨率与时长有限，但「AI拍片」的想象被打开，被大量创作者用于短片与MV实验，与Stable Video Diffusion、Pika一起构成Sora出现前的AI视频第一梯队。",
+"impact": "把文生视频从实验室demo带入创作者日常工具箱。",
+"aftermath": "2024年推出Gen-3，2025年公司估值一度冲至30亿美元以上。",
+"sources": [
+{
+"title": "Runway (company)",
+"url": "https://en.wikipedia.org/wiki/Runway_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生视频"
+]
+},
+{
+"id": "2023-03-21-bard-public",
+"date": "2023-03-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 Bard 面向公众开放测试",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月21日谷歌 Bard 在美国英国开放公测，采用轻量版LaMDA，谷歌自此全面转入AI防御战。",
+"detail": "Bard公测初期仅向美英成年用户开放，基于轻量化LaMDA模型，谷歌明确表示这只是「实验品」。此后 Bard 快速迭代，5月I/O大会升级为PaLM 2驱动并全球开放，2024年2月更名为Gemini，完成从防御到进攻的品牌切换。",
+"impact": "谷歌正式下场消费级AI助手竞争，与微软形成双巨头对垒。",
+"aftermath": "更名Gemini后订阅版对标ChatGPT Plus，2025年起Gemini系列多次登顶评测。",
+"sources": [
+{
+"title": "Gemini（聊天机器人）",
+"url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2023-03-23-chatgpt-plugins",
+"date": "2023-03-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 插件功能上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月23日OpenAI面向Plus用户开放插件系统，支持联网浏览、代码解释器与第三方应用接入。",
+"detail": "首批插件包括Expedia、Instacart、Zapier等，配合代码解释器（后称Advanced Data Analysis）与浏览功能，ChatGPT从聊天工具转向「平台」。不过插件生态留存有限，2024年4月OpenAI宣布用GPTs与Assistants API取代插件体系。",
+"impact": "第一次把「AI应用生态」概念带向大众。",
+"aftermath": "5月OpenAI应用商店化叙事延续到GPTs；插件体系半年后退役。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"插件"
+]
+},
+{
+"id": "2023-03-28-alibaba-reorg",
+"date": "2023-03-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里巴巴宣布「1+6+N」组织变革",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月28日张勇发全员信宣布阿里拆为六大业务集团与多家业务公司，各自可独立融资上市，是阿里24年来最大组织变革。",
+"detail": "阿里巴巴集团设立阿里云智能、淘宝天猫商业、本地生活、菜鸟、国际数字商业、大文娱六大业务集团和多家业务公司，各集团实行董事会领导下的CEO负责制，可独立面对市场分拆融资或上市。张勇兼任阿里云智能集团CEO。",
+"impact": "各业务线被推向独立经营，为后续云、菜鸟等分拆上市计划铺路。",
+"aftermath": "5月云智能、菜鸟启动上市筹备；9月张勇卸任，吴泳铭接任CEO后调整节奏。",
+"sources": [
+{
+"title": "阿里巴巴集团",
+"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+"type": "wiki"
+}
+],
+"tags": [
+"公司",
+"组织变革"
+]
+},
+{
+"id": "2023-03-30-auto-gpt",
+"date": "2023-03-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "开源项目 Auto-GPT 引爆「AI智能体」热潮",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月30日开源项目Auto-GPT发布，让GPT-4自主拆解任务、调用工具循环执行，上线数周GitHub Star破十万。",
+"detail": "Auto-GPT由开发者Toran Bruce Richards发布，通过让GPT-4自我提示、自主设定子目标并循环调用搜索、文件、记忆等工具，试图实现「给一个目标就自己跑」的智能体。尽管实际成功率低、成本高，它点燃了「AI Agent」的第一波想象力。",
+"impact": "确立了「Agent=LLM+工具+循环」的范式，催生BabyAGI等一串跟风项目。",
+"aftermath": "两年后Claude Code、Manus等产品把Agent热潮做成了成熟品类。",
+"sources": [
+{
+"title": "AutoGPT",
+"url": "https://github.com/Significant-Gravitas/AutoGPT",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Agent",
+"开源"
+]
+}
+]
