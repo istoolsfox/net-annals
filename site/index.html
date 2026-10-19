@@ -1,73 +1,69 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="中国互联网编年史：从 1987 年第一封电子邮件到今天，精确到日、每条可溯源的时代长卷。">
-<title>互联网编年史 · 中国长河 1986—2026</title>
-<link rel="stylesheet" href="style.css?v=4">
+<title>互联网编年史 · 中国长卷 1986—2026</title>
+<link rel="stylesheet" href="style.css?v=11">
 </head>
 <body>
-<div id="loader"><div class="pulse"></div><div>正在点亮时间长河…</div></div>
+<div id="progress"></div>
 
-<header>
-  <div class="brand">
-    <h1>互联网编年史</h1>
-    <span class="sub">中国长河 1986—2026 · 精确到日 · 每条可溯源</span>
-  </div>
-  <nav id="eraNav"></nav>
-  <div class="toolbar">
-    <div id="catFilters"></div>
-    <div class="viewToggle">
-      <button id="btnGalaxy" class="active">✦ 星河</button>
-      <button id="btnList">☰ 列表</button>
-      <button id="filterToggle">筛选</button>
-    </div>
-  </div>
+<header class="topbar">
+  <a class="brand" href="#top"><span class="brandMark">编</span><span class="brandName">互联网编年史</span></a>
+  <nav class="topNav">
+    <a href="#timeline">长卷</a>
+    <a href="#colophon">凡例</a>
+    <button id="themeBtn" title="切换明暗主题">◐</button>
+  </nav>
 </header>
 
-<main>
-  <section id="galaxyView">
-    <canvas id="river"></canvas>
-    <div id="overlay"></div>
-    <div id="hoverTip"></div>
-    <div id="legend"></div>
-    <div id="eraHint">拖拽平移 · 滚轮缩放 · Shift+拖拽旋转<br>点击星点阅读详情 · ← → 翻页</div>
-  </section>
-  <section id="listView" hidden>
-    <div class="listTools">
-      <input id="search" placeholder="搜索标题 / 概括 / 关键词 / 日期…" autocomplete="off">
-      <span id="searchCount"></span>
+<section class="hero" id="top">
+  <p class="eyebrow" id="heroEyebrow">1986 — 2026 · 精确到日 · 每条可溯源</p>
+  <h1 class="heroTitle">互联<em>网</em>编年史</h1>
+  <p class="heroSub" id="heroSub">从一封越过长城的电子邮件，到人人掌中的智能时代——每一件大事、小事、转折事，都钉在它的那一天上。</p>
+  <div class="heroCta">
+    <a class="btn primary" href="#timeline">开始阅读</a>
+    <a class="btn ghost" href="#" id="ctaEras">按时代浏览</a>
+  </div>
+</section>
+
+<div class="toolbar" id="toolbar">
+  <div class="tRow tSearchRow">
+    <div class="searchWrap">
+      <span class="searchIcon">⌕</span>
+      <input id="q" placeholder="搜索标题、关键词、人物或年份…" autocomplete="off">
+      <span id="qCount" class="qCount"></span>
     </div>
-    <div id="listContent"></div>
+    <button id="expandAll" class="tBtn">全部展开</button>
+    <button id="mileOnly" class="tBtn">★ 转折点</button>
+  </div>
+  <div class="tRow tJumpRow"><span class="tLab">时代</span><div id="eraJump" class="chipRow"></div></div>
+  <div class="tRow tFilterRow"><span class="tLab">分类</span><div id="catRow" class="chipRow"></div></div>
+</div>
+
+<main class="page">
+  <section class="intro">
+    <p class="eyebrow">TIMELINE EXPLORER</p>
+    <h2 class="introTitle">四十年，钉在日期上的时代</h2>
+    <p class="introText" id="introText"></p>
   </section>
+  <div id="timeline" class="timeline"></div>
 </main>
 
-<aside id="drawer">
-  <div class="drawerTop">
-    <button id="drawerClose" title="关闭 (Esc)">✕</button>
+<footer class="colophon" id="colophon">
+  <div class="colInner">
+    <p class="eyebrow">COLOPHON · 凡例</p>
+    <h3>这部编年史怎么编的</h3>
+    <p>所有条目遵循<b>「日期有据、来源可溯、存疑注明」</b>三律：每个日期至少一个可靠来源支撑，同一事件日期有分歧时取多数权威口径并记录分歧，查不到精确日期则降级为「精确到月 / 精确到年」并在卡片标注。</p>
+    <p>信息源分三层：骨架层（CNNIC / CERNET 官方大事记、维基百科逐日新闻存档）、血肉层（年度热搜档案、Hacker News 按日检索、Wayback Machine 快照）、情绪层（年度流行语、社区兴衰长文）。星标 <b>★</b> 条目为时代转折点，全库严格控制数量。</p>
+    <p class="colMeta" id="colMeta"></p>
   </div>
-  <div id="drawerBody"></div>
-</aside>
-
-<footer>
-  <span id="stats"></span>
-  <span>数据持续增补 · 条目均附原文出处 · 存疑日期明确标注</span>
-  <span id="buildTime"></span>
 </footer>
 
-<script src="vendor/three.min.js?v=2"></script>
-<script src="app.js?v=8"></script>
-<script>
-  // 图例（类别色卡）
-  (function () {
-    const box = document.getElementById('legend');
-    for (const c of CATS) {
-      const s = document.createElement('span');
-      s.innerHTML = `<span class="dot" style="background:${c.color}"></span>${c.name}`;
-      box.appendChild(s);
-    }
-  })();
-</script>
+<button id="toTop" title="回到顶部">↑</button>
+
+<script src="app.js?v=10"></script>
 </body>
 </html>
