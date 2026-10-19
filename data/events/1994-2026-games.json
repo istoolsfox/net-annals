@@ -1932,7 +1932,7 @@
 "category": "culture",
 "region": "world",
 "milestone": false,
-"summary_30s": "系列第一部全语音、PS2原生3D正作：换人战斗系统与 summoner 尤娜的旅程，让JRPG的声音时代正式开启，把JRPG推进全程语音与PS2级演出的时代，其水球竞技成为系列梗，FF10重制与衍生继续出货。",
+"summary_30s": "系列第一部全语音、PS2原生3D正作：换人战斗系统与 召唤士 尤娜的旅程，让JRPG的声音时代正式开启，把JRPG推进全程语音与PS2级演出的时代，其水球竞技成为系列梗，FF10重制与衍生继续出货。",
 "detail": "2001年7月19日《Final Fantasy X》在PS2日本发售。系列首次全程语音、首次双总监、首次放弃世界地图改为连贯场景，CTB回合制让换人成为战术核心。游戏全球销量超800万，是PS2首发年最重要的日式护航作。",
 "impact": "把JRPG推进全程语音与PS2级演出的时代。",
 "aftermath": "其水球竞技成为系列梗，FF10重制与衍生继续出货。",
@@ -8354,6 +8354,934 @@
 "塞尔达",
 "风之杖",
 "卡通渲染"
+]
+},
+{
+"id": "2005-07-01-hot-coffee",
+"date": "2005-07-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "“热咖啡”事件爆发，GTA被强制改判成人级",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "2005年7月，玩家在《GTA：圣安地列斯》PC版里挖出一段被封禁的迷你游戏：主角可以和女友“做那件事”，民间称它“热咖啡”。消息捅到国会，希拉里亲自发声，ESRB把游戏从17岁改判为成人级，零售商全面下架。这是游戏史上最著名的内容评级风波。",
+"detail": "Mod社群在《GTA：圣安地列斯》PC版文件中发现了被开发者封存、需第三方补丁才能激活的互动情色小游戏“Hot Coffee”。2005年7月事件经媒体放大并惊动政界，参议员希拉里·克林顿呼吁调查游戏业分级制度；7月20日前后，ESRB重查后将游戏从M级（17+）改判为AO级（成人限定），Rockstar被迫暂停生产、发出补丁移除内容并重新送审，零售巨头全面下架，估计损失数千万美元。事件引发联邦贸易委员会调查，并推动了对游戏广告与隐藏内容的行业审查。",
+"impact": "证明“游戏里不存在不等于查不到”，隐藏内容成为评级审查对象；美国政界对游戏业的压力显著升级，随后出现联邦分级立法草案。",
+"aftermath": "游戏改判回M级后重新上架，事件成为游戏监管研究的标志性案例；希拉里的《家庭娱乐保护法案》虽未通过，但ESRB此后对内容完整性审查明显收紧。",
+"sources": [
+{
+"title": "2005 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2005_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Hot Coffee mod - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Hot_Coffee_mod",
+"type": "wiki"
+}
+],
+"tags": [
+"热咖啡",
+"GTA",
+"ESRB",
+"评级争议"
+]
+},
+{
+"id": "2005-09-16-wii-remote-reveal",
+"date": "2005-09-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东京游戏展上，任天堂亮出体感手柄Wii遥控器",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2005年9月16日，任天堂社长岩田聪在东京游戏展开幕演讲上，掏出一根像电视遥控器的手柄——Wii遥控器。不用双摇杆，挥动手臂就能挥球拍、挥剑。业界先是一片质疑，一年后Wii横扫千军，主机操作方式从此多了一个流派：动起来玩。",
+"detail": "2005年9月16日东京游戏展 keynote 上，岩田聪首次公开展示代号“Revolution”的次世代主机所配的Wii遥控器（Wii Remote）：内置加速度传感器与指针定位，可单手持握挥动，后续扩展双节棍手柄。当时业界普遍怀疑体感只是噱头，索尼、微软正比拼高清机能；2006年E3任天堂把主机定名Wii并开放试玩，玩家排起长队。2006年11月Wii发售后，《Wii Sports》让全家老少站到电视机前挥拍打保龄，“扩大游戏人口”的战略彻底兑现。",
+"impact": "体感交互成为主流主机功能，任天堂用差异化路线避开机能军备竞赛；运动、健身、休闲品类在主机上大爆发。",
+"aftermath": "索尼PS Move与微软Kinect相继跟进（2010年），体感热潮约五年后退烧；但体感理念延续到Switch的Joy-Con与《健身环大冒险》，任天堂始终是“玩法优先”路线的代表。",
+"sources": [
+{
+"title": "2005 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2005_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Wii Remote - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Wii_Remote",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"岩田聪",
+"体感",
+"Wii"
+]
+},
+{
+"id": "2006-05-15-new-super-mario-bros",
+"date": "2006-05-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《新超级马力欧兄弟》发售，2D马里奥时隔十四年回归",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2006年5月15日，《新超级马力欧兄弟》在NDS上发售，2D横版马里奥时隔十四年重返舞台，还加上巨大化、踩炮弹等新花样。它全球卖出约3000万份，成为DS最畅销的游戏之一，也开启了“新超级马里奥”系列家庭聚会的传统。",
+"detail": "任天堂EAD为NDS开发的《新超级马力欧兄弟》（New Super Mario Bros.）2006年5月15日在北美发售（日本5月25日）。游戏以3D建模呈现的2D横版玩法回归马力欧本源，新增巨大马力欧、蓝色乌龟壳与双人对抗模式，兼顾老玩家的怀旧与新玩家的亲和力。全球销量约3010万份，长期位居DS销量榜前列，证明横版平台游戏在3D时代依然有巨大市场；任天堂随后在Wii（2009）、3DS、Wii U上推出系列续作，其中Wii版销量超3000万。",
+"impact": "重启2D马里奥产品线，确立“全家同乐横版马里奥”的年节级产品定位；2D平台游戏的商业价值被重新确认。",
+"aftermath": "系列五部正作累计销量近2亿份；2019年《新超级马力欧兄弟U豪华版》登陆Switch继续长销，2020年代横版复兴潮（如《神奇小子》《恶魔城合集》）多少受其带动。",
+"sources": [
+{
+"title": "2006 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2006_in_video_games",
+"type": "wiki"
+},
+{
+"title": "New Super Mario Bros. - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros.",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"马力欧",
+"NDS",
+"平台游戏"
+]
+},
+{
+"id": "2006-08-08-dead-rising",
+"date": "2006-08-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《丧尸围城》发售，一个商场几千只僵尸随便砍",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2006年8月8日，卡普空的《丧尸围城》在Xbox 360上发售。摄影记者弗兰克被困购物中心，面前是同时挤在屏幕里的几百只僵尸，锅铲、电锯、购物车都能当武器。它第一次让玩家感受到“僵尸真的多到杀不完”，开放沙盒加丧尸的配方由此流行。",
+"detail": "稻船敬二监制的《丧尸围城》（Dead Rising）2006年8月8日在北美Xbox 360发售（日本9月28日）。游戏以真实商场为舞台，同屏数百只僵尸依靠360机能实现，几乎所有场景物品都可作武器，限时任务与拍照等级系统构成压力循环；黑色幽默的剧情与“PSYCHO”疯子Boss战成为系列特色。游戏全球销量超百万，衍生出多部续作与重制版，并与《生化危机》并列为卡普空丧尸题材的双支柱。稻船敬二此后离开卡普空创业，本作的限时压力设计至今仍被玩家津津乐道。",
+"impact": "“同屏海量敌人”成为次世代机能的展示指标，丧尸沙盒玩法被《消逝的光芒》《腐烂国度》等广泛继承；限时任务设计也引发长期讨论。",
+"aftermath": "系列四部正作加2024年重制版持续推进；卡普空此后在RE Engine时代把“重制老IP”做成了商业模式，《丧尸围城 豪华复刻版》2024年再战市场。",
+"sources": [
+{
+"title": "2006 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2006_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Dead Rising - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Dead_Rising",
+"type": "wiki"
+}
+],
+"tags": [
+"卡普空",
+"丧尸围城",
+"丧尸",
+"Xbox 360"
+]
+},
+{
+"id": "2006-09-19-okami",
+"date": "2006-09-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《大神》发售，水墨画里斩妖除魔的白狼",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2006年9月19日，卡普空四叶草工作室的《大神》在PS2上发售。玩家扮演日本神话里的太阳神白狼，用“画笔”在画面上直接画圈、画线来施法解谜，整个游戏像一幅会动的水墨画。销量不算火爆，但它拿奖拿到手软，成了“游戏即艺术”的代表作品。",
+"detail": "神谷英树执导、四叶草工作室开发的《大神》（Ōkami）2006年9月19日在北美PS2发售（日本9月21日）。游戏以日本神话为底本，玩家操纵天照大神化身白狼，用“笔调”系统直接在画面上画笔触施放神术（画圆出太阳、画线斩敌），视觉上以水墨加浮世绘风格独步业界。媒体均分93，拿下多个艺术与年度奖项，但初版销量平平（约20万）；2008年Wii版与2012年HD版逐步积累口碑，续作《大神传》2010年推出。",
+"impact": "把传统美术风格做成核心玩法机制的范本，“笔触交互”启发了《画中世界》等一批独立作品；四叶草解散后其成员（神谷、稻叶等）散入白金与Platinum时代。",
+"aftermath": "2017年《大神 绝景版》登陆全平台并持续复刻，2024年卡普空官宣系列新作开发中；本作常被列入“史上最美游戏”榜单，艺术馆展览也多次收录。",
+"sources": [
+{
+"title": "2006 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2006_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Ōkami - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
+"type": "wiki"
+}
+],
+"tags": [
+"卡普空",
+"四叶草",
+"神谷英树",
+"水墨画风"
+]
+},
+{
+"id": "2006-11-17-ps3-launch",
+"date": "2006-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "PlayStation 3 发售，索尼为蓝光打了一场昂贵的仗",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2006年11月17日，索尼在日本抢发（11月11日）后登陆北美的PS3正式开卖，定价499到599美元，贵得让玩家倒吸凉气。索尼给每台机器塞进了蓝光光驱当“高清影碟机”，等于卖一台亏一台。开局虽然狼狈，但十年后PS3还是卖出了8000多万台。",
+"detail": "索尼2006年11月11日在日本发售PS3（北美11月17日、欧洲2007年3月），定价49999日元起，北美499/599美元——是当时最贵的家用主机。为推广自家蓝光格式对抗HD DVD，PS3全系标配蓝光光驱与Cell处理器，单机成本据估计高于售价，被外界讥为“买蓝光播放机送游戏机”。首发《山脊赛车7》等阵容疲软、产能不足，加上Xbox 360先发一年、Wii以体感引爆市场，PS3前两年持续低迷；久夛良木健淡出后平井一夫接手，靠《神秘海域》《战神3》与Slim降价逐步挽回。最终全球销量约8740万台。",
+"impact": "蓝光格式战争因PS3的装机量而最终取胜，高清影碟与游戏主机深度绑定；索尼“亏本卖硬件”的世代策略达到顶峰。",
+"aftermath": "PS4（2013）改走性价比路线大获成功，蓝光则在流媒体时代迅速边缘化；PS3的开局教训成为索尼后续产品定价的铁律。",
+"sources": [
+{
+"title": "2006 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2006_in_video_games",
+"type": "wiki"
+},
+{
+"title": "PlayStation 3 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/PlayStation_3",
+"type": "wiki"
+}
+],
+"tags": [
+"索尼",
+"PS3",
+"蓝光",
+"主机大战"
+]
+},
+{
+"id": "2007-10-24-the-witcher",
+"date": "2007-10-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《巫师》发售，CD Projekt 从盗版论坛走向3A的第一步",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2007年10月24日，波兰公司CD Projekt的处女作《巫师》发售。这家公司早年靠翻译盗版游戏起家，第一部自研游戏就拿下86分媒体分。谁也没想到，二十年后的他们会做出《赛博朋克2077》，成为欧洲最大的游戏公司之一。",
+"detail": "波兰发行商CD Projekt Red（从游戏代理发行商CD Projekt分离出的开发部）改编自安杰伊·萨普科夫斯基小说的《巫师》（The Witcher）2007年10月24日在北美PC发售（欧洲10月26日）。游戏以猎魔人杰洛特为主角，道德灰色的选择、成人向叙事与波兰本土奇幻气质在RPG中独树一帜，全球销量约200万套，为公司赚到第一桶金。2011年《巫师2》与2015年《巫师3：狂猎》相继封神，CDPR从发行商成长为欧洲最大的游戏上市公司之一。",
+"impact": "东欧游戏产业登上世界舞台的标志性事件，“道德选择RPG”的成人化叙事获得商业验证；IP改编（小说→游戏）的路径成为经典案例。",
+"aftermath": "《巫师3》销量超5000万，Netflix剧集2019年开播再掀热潮；2020年《赛博朋克2077》首发风波让CDPR经历信任危机，2020年代以重制与续作重建声誉。",
+"sources": [
+{
+"title": "2007 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2007_in_video_games",
+"type": "wiki"
+},
+{
+"title": "The Witcher (video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"CD Projekt",
+"巫师",
+"RPG",
+"波兰游戏"
+]
+},
+{
+"id": "2007-11-01-super-mario-galaxy",
+"date": "2007-11-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《超级马里奥 银河》发售，马里奥跑进了宇宙",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2007年11月1日，《超级马力欧 银河》在日本Wii上发售。马力欧在小行星之间跳跃，踩着“重力泡泡”绕着星球跑，镜头和重力规则全部推倒重来。它拿下97分的媒体均分，至今仍是评分最高的3D马里奥，被无数开发者当作关卡设计天花板。",
+"detail": "任天堂EAD东京（小泉欢晃执导、宫本茂监制）开发的《超级马力欧 银河》（Super Mario Galaxy）2007年11月1日在日本Wii发售（北美11月12日）。游戏以宇宙为舞台，每个星球都是一座微型箱庭，重力随表面变化，玩家在球体内外自由奔跑跳跃；配合Wii遥控器的指针采集“星星碎片”，交响乐现场录音的配乐也是系列首次。媒体均分97，位列Metacritic历史最高分之一，全球销量约1278万套，2008年《NGC玩家》等多项年度大奖到手。",
+"impact": "展示“规则重写”式关卡设计的巅峰范例，3D平台游戏在Wii世代继续保有艺术与商业双高度；任天堂东京制作的路线自此确立。",
+"aftermath": "2010年《银河2》延续口碑；2020年两作以“3D全明星”合集登陆Switch，2023年有望续作的传闻持续不断，其音乐会在全球常年巡演。",
+"sources": [
+{
+"title": "2007 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2007_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Super Mario Galaxy - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Super_Mario_Galaxy",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"马力欧银河",
+"Wii",
+"平台游戏"
+]
+},
+{
+"id": "2008-09-01-spore",
+"date": "2008-09-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "《孢子》发售，威尔·赖特的“从细胞到宇宙”豪赌",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2008年9月，《模拟人生》之父威尔·赖特憋了八年的《孢子》发售：从一滩细胞玩起，进化成生物、部落、文明，最后开飞船探索五百万颗玩家生成的星球。预售火爆到破纪录，但发售时爆出防拷贝限制激怒玩家，成了亚马逊史上差评最多的商品之一。",
+"detail": "Maxis威尔·赖特主导的《孢子》（Spore）2008年9月7日在北美PC发售（日本9月11日）。游戏横跨细胞、生物、部落、文明、太空五个阶段，生物编辑器可创造无限物种并上传至全球共享数据库，阵容宏大的野心酝酿八年、被视为年度最大赌注。首月销量破百万创PC纪录，但DRM（一台授权码限三次激活）引发玩家在亚马逊刷出数千条一星差评，成为反DRM运动的标志事件；游戏本身因各阶段深度不均评价两极。",
+"impact": "把“玩家生成内容+云数据库”推到PC游戏前沿，也把DRM争议烧成全行业议题；EA此后逐步放宽PC授权政策。",
+"aftermath": "威尔·赖特2009年离开EA；Maxis此后转向《模拟城市》（2013）翻车与《模拟人生4》长线运营，孢子IP仅剩手游与资料片续命。",
+"sources": [
+{
+"title": "2008 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2008_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Spore (2008 video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Spore_(2008_video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"Maxis",
+"EA",
+"孢子",
+"DRM争议"
+]
+},
+{
+"id": "2009-06-24-zenimax-buys-id",
+"date": "2009-06-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ZeniMax 收购 id Software，FPS祖师爷卖身豪门",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2009年6月24日，制作《毁灭战士》《雷神之锤》的传奇工作室id Software被ZeniMax（贝塞斯达母公司）收购。FPS的开山祖师结束了独立时代，与《上古卷轴》的贝塞斯达成了一家人。十二年后，这一大家子又被微软以75亿美元整体买走。",
+"detail": "2009年6月24日，ZeniMax Media宣布收购id Software，约翰·卡马克等创始团队留任，id的《毁灭战士》《雷神之锤》《狂怒》等IP并入ZeniMax旗下，与贝塞斯达形成“RPG+FPS”组合。id此后交出《毁灭战士》（2016）与《毁灭战士：永恒》的口碑复兴；2021年3月微软以75亿美元收购ZeniMax母公司级交易，id与贝塞斯达共同进入Xbox第一方。这笔收购也被视为中型独立工作室在大资本时代难以独立的标志案例。",
+"impact": "FPS历史上最重要的独立工作室纳入大厂体系，id与贝塞斯达的技术与IP产生深度整合；独立工作室出售潮自此加速。",
+"aftermath": "卡马克2013年离开id投身VR；2021年微软收购后，贝塞斯达游戏进入Xbox Game Pass，2023年微软再以690亿美元收购动视暴雪，游戏业进入超级整合时代。",
+"sources": [
+{
+"title": "2009 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2009_in_video_games",
+"type": "wiki"
+},
+{
+"title": "id Software - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Id_Software",
+"type": "wiki"
+}
+],
+"tags": [
+"id Software",
+"ZeniMax",
+"贝塞斯达",
+"收购"
+]
+},
+{
+"id": "2009-11-10-modern-warfare-2",
+"date": "2009-11-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《使命召唤：现代战争2》发售，首发日入账3.1亿美元",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2009年11月10日，《使命召唤：现代战争2》全球发售，北美首日销售额3.1亿美元，五天破5.5亿，把游戏首发的商业纪录拉到好莱坞大片级别。“No Russian”机场屠杀关卡引发全球舆论风暴，但销量照旧一路狂飙。",
+"detail": "Infinity Ward开发的《使命召唤：现代战争2》（Call of Duty: Modern Warfare 2）2009年11月10日全球发售。游戏延续141特遣队剧情，开场“什么都别说”（No Russian）关卡让玩家可选择参与机场屠杀平民，引发各国媒体与政客的强烈批评，动视坚持不予删除；联机延续等级解锁体系并加入“处刑连杀”。北美首日3.1亿美元、五天5.5亿美元刷新娱乐产品首发纪录，全球销量约2290万套，成为2009年最畅销游戏。",
+"impact": "游戏首发正式跻身好莱坞级商业事件，“争议即热度”的传播逻辑首次在大作上完整显现；年货COD的商业模型进入巅峰期。",
+"aftermath": "Infinity Ward 2010年因报酬纠纷出走半数高管（ respawn 由此诞生），动视重组Sledgehammer分担开发；2020年重启版《现代战争》系列延续至今，No Russian仍是行业伦理讨论的常驻案例。",
+"sources": [
+{
+"title": "2009 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2009_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Call of Duty: Modern Warfare 2 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2",
+"type": "wiki"
+}
+],
+"tags": [
+"动视",
+"现代战争2",
+"首发纪录",
+"争议关卡"
+]
+},
+{
+"id": "2010-05-04-humble-indie-bundle",
+"date": "2010-05-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "首个 Humble 独立游戏包上线，随便给钱还能捐慈善",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2010年5月4日，第一个Humble独立游戏捆绑包上线：《世界地牢》《粘粘世界》等五款游戏，玩家自己定价，还能选择钱分给开发者还是慈善机构，而且没有 DRM。两周收到120多万美元，开创了“随心付”卖游戏的商业模式。",
+"detail": "Wolfire Games发起的Humble Indie Bundle于2010年5月4日上线，首期打包《世界地牢》《粘粘世界》《异域奇兵》等五款独立游戏，玩家自定价格（原价约80美元的游戏包最低仅付1美分），可自选分配比例给开发者、慈善机构（Child's Play、电子前线基金会）与平台，并承诺无DRM、跨平台。首期两周收入超120万美元、售出约13.7万份，此后每月一期成为惯例，累计为慈善机构募款超2亿美元。",
+"impact": "“随心付+无DRM+慈善分成”验证了玩家付费意愿的弹性，独立游戏营销从此多了一条爆款路径；捆绑销售模式被 Fanatical 等平台广泛效仿。",
+"aftermath": "Humble Bundle 2017年被IGN母公司收购，2020年代转向常态商店运营；其“开发者直连玩家+透明分成”的理念深刻影响了itch.io等平台。",
+"sources": [
+{
+"title": "2010 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2010_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Humble Bundle - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Humble_Bundle",
+"type": "wiki"
+}
+],
+"tags": [
+"Humble Bundle",
+"独立游戏",
+"随心付",
+"慈善"
+]
+},
+{
+"id": "2011-04-20-psn-outage",
+"date": "2011-04-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "索尼 PSN 遭黑客入侵，7700万玩家断网23天",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2011年4月20日起，索尼PlayStation网络遭黑客攻击全面瘫痪，7700万账户的姓名、密码疑似泄露，网络停摆长达23天。索尼被各国监管调查、赔偿玩家，这次事件成了游戏行业数据安全课的必修案例，也推动了后来的两步验证普及。",
+"detail": "2011年4月，黑客攻击索尼PlayStation Network与Qriocity服务，索尼于4月20日主动关闭网络。调查显示约7700万账户的姓名、地址、生日、登录密码可能被窃取（信用卡信息未证实泄露但风险存疑），PSN停摆23天、部分服务近一个月才恢复；索尼向玩家提供免费游戏与身份盗用保险，遭美国国会质询与多国监管调查，还面临集体诉讼。同一时期索尼还卷入 Anonymous 针对其起诉黑客George Hotz（Geohot）的报复性攻击潮。",
+"impact": "游戏行业第一次大规模数据泄露危机，用户数据安全与通报责任成为平台必修课；两步验证随后逐步成为游戏平台标配。",
+"aftermath": "索尼此后重构安全体系并推PlayStation Plus补偿；2023年另一波黑客组织（Ransomware团伙）再度攻入索尼内部网络，安全议题至今仍是行业敏感带。",
+"sources": [
+{
+"title": "2011 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+"type": "wiki"
+},
+{
+"title": "2011 PlayStation Network outage - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage",
+"type": "wiki"
+}
+],
+"tags": [
+"索尼",
+"PSN",
+"数据泄露",
+"网络安全"
+]
+},
+{
+"id": "2011-06-06-twitch-launch",
+"date": "2011-06-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Twitch 正式上线，看别人打游戏成了大生意",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2011年6月6日，游戏直播平台Twitch正式上线。它从Justin.tv的游戏分频道独立出来，让“看别人打游戏”从论坛串流变成正经营生。十年后它被亚马逊以近10亿美元买下，全球每天有几千万人守着直播间看比赛和唠嗑。",
+"detail": "Twitch由Justin.tv团队分拆，2011年6月6日正式启用独立品牌。它抓住《英雄联盟》《星际争霸2》电竞与实况文化爆发的窗口，低延迟直播+聊天室互动重构了游戏内容的消费方式：主播从爱好变成职业，订阅、打赏与广告构成新经济。2014年亚马逊以约9.7亿美元收购Twitch（击败谷歌报价），此时其月独立访客已超5500万；此后直播成为游戏发售的标准营销渠道，中国也涌现斗鱼、虎牙等本土平台。",
+"impact": "游戏直播成为独立产业，实况文化反哺游戏销量与电竞观众；主播经济、虚拟礼物与平台独播权重塑了游戏媒体生态。",
+"aftermath": "Twitch稳居全球游戏直播头把交椅（YouTube Gaming、Kick 紧追），主播转会费屡创天价；中国直播平台历经千播大战后并入腾讯系，直播打赏监管随之收紧。",
+"sources": [
+{
+"title": "2011 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Twitch (service) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Twitch_(service)",
+"type": "wiki"
+}
+],
+"tags": [
+"Twitch",
+"游戏直播",
+"亚马逊",
+"实况文化"
+]
+},
+{
+"id": "2011-06-27-brown-v-ema",
+"date": "2011-06-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美国最高法院裁定：游戏受言论自由保护",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2011年6月27日，美国最高法院就“布朗诉娱乐商业协会案”作出7比2裁决：电子游戏属于受宪法第一修正案保护的言论，加州禁止向未成年人卖暴力游戏的法律违宪。游戏行业打了十年官司终于拿到“护身符”，这一判决至今仍是行业基石。",
+"detail": "加州2005年立法禁止向未成年人销售暴力视频游戏，行业组织（ESA/EMA）起诉并一路打到最高法院。2011年6月27日，最高法院以7比2裁定游戏与书籍、电影一样受第一修正案保护，斯卡利亚大法官执笔多数意见指出暴力内容分级史不足以支撑针对游戏的特殊立法；此前科伦拜案后的历次立法尝试至此在法律上终结。裁决确认了ESRB自愿分级体系作为行业自律的基础地位。",
+"impact": "游戏在美国获得与其他媒介平等的法律地位，针对游戏内容的立法路径被堵死；此后行业游说转向分级自律与家长教育。",
+"aftermath": "围绕游戏与暴力的学术争论并未停止，但法律框架稳定至今；该案与2011年前后“游戏是不是艺术”的公共讨论互为呼应，常被并列引用。",
+"sources": [
+{
+"title": "2011 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Brown v. Entertainment Merchants Association - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Association",
+"type": "wiki"
+}
+],
+"tags": [
+"最高法院",
+"言论自由",
+"游戏暴力",
+"ESA"
+]
+},
+{
+"id": "2011-09-22-dark-souls",
+"date": "2011-09-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《黑暗之魂》发售，宫崎英高把“虐”变成了世界语言",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2011年9月22日，FromSoftware的《黑暗之魂》在日本PS3发售。篝火、银子、卡在第一个Boss上的玩家，构成了游戏圈新黑话。“你死了”不是失败，是学习。它把小众的“受苦游戏”推成全球现象，魂系从此成为独立品类。",
+"detail": "宫崎英高执导、FromSoftware开发的《黑暗之魂》（Dark Souls）2011年9月22日在日本PS3发售（北美10月、PC 2012年“准备受死版”）。游戏以碎片化叙事、严苛但公平的战斗、篝火存档与异步联机（留言、入侵）构成完整体系，神级场景“亚诺尔隆德”与Boss“葛温”成为玩家集体记忆。初期销量平平，随口碑发酵全球长销超千万；“Souls-like”自此成为Steam正式品类标签。",
+"impact": "开创魂类（Souls-like）品类，高难度设计哲学与碎片化叙事深刻影响《只狼》《空洞骑士》《匹诺曹的谎言》等一大批作品；“You Died”成为游戏史最著名的死亡画面。",
+"aftermath": "宫崎英高随后推出《血源诅咒》《黑暗之魂3》，2019年《只狼》获年度游戏，2022年《艾尔登法环》销量破2500万；FromSoftware被KADOKAWA全资持股并持续扩张。",
+"sources": [
+{
+"title": "2011 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Dark Souls - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Dark_Souls",
+"type": "wiki"
+}
+],
+"tags": [
+"FromSoftware",
+"黑暗之魂",
+"宫崎英高",
+"魂系"
+]
+},
+{
+"id": "2012-01-01-crossfire-billion",
+"date": "2012-01-01",
+"date_accuracy": "year",
+"date_confidence": "verified",
+"title": "《穿越火线》年收入破10亿美元，中国网吧撑起免费射击神话",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2012年，韩国开发的免费射击游戏《穿越火线》全球年收入突破10亿美元，其中绝大部分来自中国——腾讯代理的它在网吧里火到几乎人人在打。这款画面普通的游戏靠道具收费赚翻，让全球厂商看懂了免费游戏+道具收费的威力。",
+"detail": "韩国Smilegate开发、腾讯2008年起在中国大陆代理运营的《穿越火线》（CrossFire）2012年全球收入突破10亿美元，跻身全球收入最高的游戏之列，主要收入来自中国市场的道具付费（英雄级武器等）。它以低配置需求、强社交对抗贴合网吧场景，巅峰期同时在线破百万，与《地下城与勇士》《英雄联盟》《QQ飞车》并称腾讯“四大金刚”；2010年代长期霸榜全球PC游戏收入榜前列。",
+"impact": "免费游玩+道具收费（F2P）模式在中国射击品类彻底跑通，改变了全球厂商对F2P商业上限的认知；腾讯借此确立游戏霸主的现金流基础。",
+"aftermath": "《穿越火线》在中国持续运营超十五年并衍生手游、影视与赛事（CFPL、CFS世界赛）；Smilegate借其利润投资《失落方舟》等新品，腾讯F2P方法论则输出到全球。",
+"sources": [
+{
+"title": "2012 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2012_in_video_games",
+"type": "wiki"
+},
+{
+"title": "CrossFire (video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/CrossFire_(video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"穿越火线",
+"腾讯",
+"F2P",
+"中国游戏市场"
+]
+},
+{
+"id": "2012-02-15-vita-western-launch",
+"date": "2012-02-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "PS Vita 登陆欧美，索尼掌机的最后豪赌",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2012年2月15日，索尼新掌机PS Vita在欧美抢先开卖（日本2011年12月已先发）。5寸触屏、前后双摇杆、主机级画质，硬件无可挑剔，可惜价格贵、游戏少，又撞上手机游戏大潮。它最终只卖出约1600万台，成了索尼最后的掌机。",
+"detail": "索尼代号NGP的PlayStation Vita于2011年12月17日在日本首发，2012年2月15日在欧美抢先体验版开卖（2月22日正式）。硬件集5英寸OLED触屏、前后触摸板、双摇杆与远程畅玩于一身，首发《神秘海域：黄金深渊》《每个人的高尔夫》等；但定价249/299美元偏高，第一方大作断层，遭智能手机与3DS两头挤压，欧美上市即销售疲软。索尼此后放弃第一方掌机开发，转由第三方（Atlus、Falcom等）与独立游戏续命，家族累计销量约1600万台。",
+"impact": "主机厂商与手机争夺掌机市场的战役以失败告终，索尼正式退出专用掌机；日系中小厂商却在Vita上找到了JRPG的避风港。",
+"aftermath": "Vita的模拟器与破解社区让它十年来长盛不衰；《怪物猎人》等IP转投主机与手游，2020年代“掌机复兴”由Steam Deck等PC设备接棒完成。",
+"sources": [
+{
+"title": "2012 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2012_in_video_games",
+"type": "wiki"
+},
+{
+"title": "PlayStation Vita - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/PlayStation_Vita",
+"type": "wiki"
+}
+],
+"tags": [
+"索尼",
+"PS Vita",
+"掌机",
+"失败主机"
+]
+},
+{
+"id": "2012-11-01-walking-dead-telltale",
+"date": "2012-11-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "《行尸走肉》季终封神，Telltale把“选择”做成武器",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2012年，Telltale的《行尸走肉》分五章播完。玩家护送小女孩克莱门汀在末日求生，每一个选择都会改变别人对你的态度，“她会记得的”成了玩家最怕看到的提示。它横扫VGA和BAFTA年度游戏，叙事冒险游戏从此复兴。",
+"detail": "Telltale Games改编同名漫画的《行尸走肉》（The Walking Dead: The Game）2012年4月起分五集发售，11月21日季终章上线。游戏以“选择驱动”为核心：限时对话与分支决定角色生死与关系，“Clementine会记住这个”的系统提示让玩家对每个决定如履薄冰；黑人女主角Lee与小女孩Clementine的羁绊成为年度最催泪叙事。全球销量超850万集，横扫VGA与BAFTA年度游戏，Melissa Hutchison凭克莱门汀获表演奖。",
+"impact": "“叙事冒险+章节化发售”品类复兴，选择与后果的戏剧张力成为流行范式；改编IP游戏从“烂作代名词”翻身为严肃叙事载体。",
+"aftermath": "Telltale后续《与狼同行》《权力游戏》口碑起伏，2018年工作室突然倒闭遣散275人（后部分重生）；“章节式叙事”被《底特律：变人》等继承，克莱门汀的故事以四部曲完结。",
+"sources": [
+{
+"title": "2012 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2012_in_video_games",
+"type": "wiki"
+},
+{
+"title": "The Walking Dead (video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/The_Walking_Dead_(video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"Telltale",
+"行尸走肉",
+"叙事冒险",
+"章节制"
+]
+},
+{
+"id": "2013-08-11-international-3",
+"date": "2013-08-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DOTA2 国际邀请赛奖金池287万美元，众筹改写电竞史",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2013年8月，DOTA2第三届国际邀请赛在西雅图收官，总奖金池高达287万美元，其中大部分来自玩家买虚拟道具众筹。冠军战队拿走140万美元，全球观众涌入直播间。电竞奖金从此上了新台阶，“众筹奖金池”被各家赛事抄作业。",
+"detail": "Valve在西雅图贝纳罗亚音乐厅举办第三届DOTA2国际邀请赛（The International 2013），8月7日至11日举行。通过销售虚拟本子（互动指南），玩家消费的25%计入奖金池，使其从基础160万美元膨胀到287万美元，创当时电竞纪录；瑞典战队Alliance在决胜局击败乌克兰Na'Vi夺冠，拿下约140万美元。比赛直播同时在线人数破百万，纪录片式的赛事呈现让主流媒体开始认真报道电竞。",
+"impact": "“玩家众筹奖金池”成为电竞赛事标准配置，Valve验证了皮肤经济反哺赛事的模式；电竞商业规模自此按亿美元计。",
+"aftermath": "TI奖金池此后逐年膨胀至4000万美元级（2019年TI9），第三方赛事纷纷效仿勇士令状模式；Dota2与英雄联盟双线把电竞推向全球主流体育传播体系。",
+"sources": [
+{
+"title": "2013 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2013_in_video_games",
+"type": "wiki"
+},
+{
+"title": "The International (esports) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/The_International_(esports)",
+"type": "wiki"
+}
+],
+"tags": [
+"DOTA2",
+"电竞",
+"众筹奖金",
+"Valve"
+]
+},
+{
+"id": "2014-03-25-facebook-buys-oculus",
+"date": "2014-03-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Facebook 20亿美元买下 Oculus，VR热潮正式点火",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2014年3月25日，Facebook宣布以20亿美元收购VR头盔公司Oculus。这家公司两年前才在Kickstarter众筹了240万美元，创始团队一夜暴富。这笔交易点燃了科技圈VR热潮，游戏业紧跟着推出PSVR、HTC Vive，虚拟现实十年长跑正式鸣枪。",
+"detail": "帕尔默·拉奇2012年在Kickstarter众筹的Oculus Rift在约翰·卡马克加盟后成为明星项目，2014年3月25日Facebook（Meta前身）宣布以4亿美元现金加16.6亿美元股票将其收入囊中，扎克伯格宣称VR是“下一代计算平台”。众筹支持者因“众筹产品被卖给大公司”而愤怒，Minecraft作者Notch甚至取消Oculus版开发以示抗议。此后索尼公布PSVR（2016年发）、HTC Vive与Valve合作（2016年发），资本与人才涌入VR赛道。",
+"impact": "VR从极客玩具变成科技巨头战略赛道，一级市场VR/AR投资进入十年长周期；“众筹产品被巨头收购”也引发了创作者伦理的长期讨论。",
+"aftermath": "Quest系列（2020年起）靠一体机打开千万级市场，Meta十年累亏数百亿仍坚持；PSVR2、Apple Vision Pro相继入场，VR游戏市场仍在等待它的“Wii时刻”。",
+"sources": [
+{
+"title": "2014 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Oculus VR - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Oculus_VR",
+"type": "wiki"
+}
+],
+"tags": [
+"Facebook",
+"Oculus",
+"VR",
+"收购"
+]
+},
+{
+"id": "2014-08-08-fnaf",
+"date": "2014-08-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《玩具熊的五夜后宫》发售，一个人吓哭了全世界的主播",
+"category": "culture",
+"region": "world",
+"summary_30s": "2014年8月8日，独立开发者Scott Cawthon的《玩具熊的五夜后宫》上架。玩家坐在保安室盯监控，防着夜里乱跑的机械玩偶，动一下都心惊肉跳。主播们的惊叫视频病毒式传播，几个月做出四部续作，一人一IP写了游戏业的效率神话。",
+"detail": "独立开发者Scott Cawthon开发的《玩具熊的五夜后宫》（Five Nights at Freddy's）2014年8月8日在PC在Steam与Desura上架，随后快速移植手机平台。游戏以有限的电量管理监控摄像头、开关门来抵御夜间活动的机械玩偶，静态恐怖与Jump Scare的设计天然适合实况传播；PewDiePie等主播的惊叫视频使其病毒式爆红，一年内连出四部续作。系列累计销量数千万，衍生小说、实体密室与2023年布拉顿影业的真人电影全球卖座。",
+"impact": "“主播友好型恐怖”成为独立游戏设计的显学，Jump Scare文化席卷实况圈；个人开发者靠单一创意实现IP帝国的路径被证明可行。",
+"aftermath": "Scott Cawthon 2021年宣布退休并将IP交给合作公司运营；2023年真人电影票房破2亿美元，2025年续集上映，FNAF成为21世纪最成功的独立恐怖宇宙。",
+"sources": [
+{
+"title": "2014 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Five Nights at Freddy's (video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"FNAF",
+"独立游戏",
+"恐怖游戏",
+"实况文化"
+],
+"milestone": false
+},
+{
+"id": "2014-08-28-gamergate",
+"date": "2014-08-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "玩家之门（GamerGate）爆发，游戏圈文化战争开打",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "2014年8月，一场围绕独立游戏开发者佐伊·奎因的私人恩怨，在网上发酵成名为“玩家之门”的大规模运动：一方喊着“游戏媒体道德”，另一方指控这是对女性从业者的系统性骚扰。争吵持续数年，游戏业的文化战争从此公开化。",
+"detail": "2014年8月，独立开发者佐伊·奎因遭前男友发文指控“以关系换取媒体好评”，相关指控随后被多家媒体证伪，但话题在4chan、Reddit与Twitter上被推上“#GamerGate”标签，8月28日前后全面爆发。运动以“游戏新闻伦理”为名，实际伴随对奎因、评论者Anita Sarkeesian等女性从业者的长期骚扰与人肉；媒体集体刊文批评其厌女倾向，反被运动者视为“越权”。事件持续数年，行业机构与平台逐步完善反骚扰政策，硅谷对社群治理的讨论由此加深。",
+"impact": "游戏业内部的文化分歧公开化、组织化，“游戏媒体与玩家关系”成为长期议题；骚扰防治、平台治理与多元化议题自此进入行业核心议程。",
+"aftermath": "GamerGate常被视为后来欧美网络文化战争的预演；相关人物与议题在十年间反复回流，游戏媒体与创作者社群的信任重建至今仍在进行。",
+"sources": [
+{
+"title": "2014 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Gamergate controversy - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Gamergate_controversy",
+"type": "wiki"
+}
+],
+"tags": [
+"GamerGate",
+"游戏文化",
+"网络骚扰",
+"行业争议"
+]
+},
+{
+"id": "2014-11-06-microsoft-buys-mojang",
+"date": "2014-11-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软25亿美元买下《我的世界》，史上最大游戏收购之一",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2014年11月6日，微软宣布以25亿美元收购《我的世界》开发商Mojang。一个只做了一款游戏的小工作室，卖出了一线3A巨头好几倍的价钱。创始人Notch套现走人发了推文告别，微软则把这块“数字乐高”经营成了全平台的常青摇钱树。",
+"detail": "2014年9月谈判曝光、11月6日完成交割：微软以25亿美元现金收购瑞典Mojang，创当时游戏工作室收购纪录。创始人马库斯·佩尔松（Notch）在交易后发文告别并出售股份离场，联合创始人亦相继离开；《我的世界》此后保持全平台运营，微软不强行改门换面，反而推出教育版、地下城衍生作与年度大更新。2023年微软以687亿美元收购动视暴雪前，这是其游戏业务的旗舰资产；Notch的财富与争议（言论风波被官方除名）都成了行业谈资。",
+"impact": "证明“平台级UGC游戏”的估值逻辑，微软确立“买IP不买立场”的运营哲学；游戏工作室收购的估值基准自此大幅上移。",
+"aftermath": "《我的世界》销量突破3亿成为史上最畅销游戏，电影、教育版与Minecraft Live持续扩张；微软2023年动视暴雪交易把收购纪录推高到近28倍。",
+"sources": [
+{
+"title": "2014 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Mojang Studios - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Mojang_Studios",
+"type": "wiki"
+}
+],
+"tags": [
+"微软",
+"Mojang",
+"我的世界",
+"收购"
+]
+},
+{
+"id": "2015-03-17-nintendo-dena-nx",
+"date": "2015-03-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "任天堂牵手 DeNA 进军手游，代号 NX 的神秘主机首次官宣",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年3月17日，坚持了三十多年“只做自家硬件”的任天堂宣布与手机巨头DeNA合资进军手游，同时抛出一个代号“NX”的新主机概念。消息当天任天堂股价大涨。两年后，NX以Switch的名字登场，拯救了任天堂。",
+"detail": "2015年3月17日，岩田聪在东京宣布任天堂与日本移动巨头DeNA资本合作（互持股份、共同开发），将把马力欧等看家IP带上智能手机平台，终结了长期的“不出手游”路线；同场发布会首次确认正在研发代号“NX”的全新主机概念。此前Wii U惨败、股价低迷，这是任天堂史上罕见的战略转向；同年5月起《Miitomo》等手游陆续推出，2016年《宝可梦GO》全球爆红，2017年3月NX以“Nintendo Switch”之名发售。",
+"impact": "任天堂放弃硬件唯一论，IP授权与移动化成为新支柱；主机“融合掌机与家用”的NX概念为Switch的成功埋下伏笔。",
+"aftermath": "任天堂手游累计下载超8亿次但收入不及预期，公司重心回归Switch与IP授权（电影乐园）；与DeNA的合资公司持续运营，任天堂账号体系打通全平台。",
+"sources": [
+{
+"title": "2015 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Nintendo - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Nintendo",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"DeNA",
+"手游",
+"NX"
+]
+},
+{
+"id": "2015-07-11-iwata-dies",
+"date": "2015-07-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "任天堂社长岩田聪病逝，“在口袋里放游戏的人”走了",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年7月11日，任天堂社长岩田聪因胆管癌去世，年仅55岁。他做出过《地球冒险2》和《任天堂明星大乱斗》，执掌任天堂十三年，先后带出NDS与Wii两个破亿神话，也扛住了Wii U的至暗时刻。全球玩家自发刷屏致敬：“谢谢你玩我的游戏。”",
+"detail": "岩田聪（Satoru Iwata）1959年生于北海道，从HAL研究所程序员成长为天才制作人（《地球冒险2》《宝可梦金银》救火者），2002年接任任天堂社长。任内推出NDS（1.54亿台）与Wii（1.016亿台）两大破亿硬件，确立“扩大游戏人口”战略；Wii U失利后力排众议进军手游并秘密开发NX（后来的Switch）。2015年7月11日因胆管癌病逝，享年55岁；9月君岛达己接任，任天堂开发部门整合为企划制作本部（EPD）。全球玩家与从业者自发悼念，其“我是一名游戏玩家”的自信名言广泛流传。",
+"impact": "任天堂失去最具魅力与决断力的掌舵人，手游化与NX路线在他生命最后时刻定调；全球游戏行业罕见地以同一语调哀悼一位经营者。",
+"aftermath": "2017年Switch发售完成他未竟的翻转，累计销量后来突破1.5亿台；岩田聪的“程序员社长”形象与NDC演讲合集持续影响行业，《岩田先生》传记出版。",
+"sources": [
+{
+"title": "2015 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Satoru Iwata - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Satoru_Iwata",
+"type": "wiki"
+}
+],
+"tags": [
+"岩田聪",
+"任天堂",
+"NDS",
+"Wii"
+]
+},
+{
+"id": "2015-07-27-china-console-ban-lifted",
+"date": "2015-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国全面解除游戏机销售禁令，行货主机十五年解封",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2015年7月27日，国务院发文把上海自贸区的主机解禁试点推广到全国，2000年开始的游戏机销售禁令全面失效。PS4、Xbox One行货从此可以光明正大卖给所有中国玩家。禁了十五年，中国主机市场从零重新开始。",
+"detail": "2014年1月上海自贸区率先试点允许游戏机生产销售，2015年7月27日，国务院办公厅发文（国办发〔2015〕50号相关审批改革）将“允许外资企业从事游戏游艺设备生产和销售”推广至全国，标志2000年国办发39号文确立的游戏机禁令全面失效；文化部门配套的游戏内容审查同步实施，行货PS4（2015年3月起正式销售）与Xbox One（2014年9月）经由上海东方明珠、百视通等渠道进入内地。历经十五年断档，中国正版主机市场在移动互联网时代重新起步。",
+"impact": "主机硬件、行货渠道与正版意识在中国重新建制，索尼、微软、任天堂陆续设立国行体系；但端游与手游已占据主导，主机份额长期偏小。",
+"aftermath": "国行主机历经锁服、审核等波折持续小众化运营；2020年代中国自研主机与黑神话等单机浪潮兴起，被禁十五年耽误的主机文化开始缓慢回补。",
+"sources": [
+{
+"title": "2015 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Video gaming in China - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Video_gaming_in_China",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏机禁令",
+"中国游戏市场",
+"政策",
+"国行"
+]
+},
+{
+"id": "2015-09-01-mgsv-kojima-exit",
+"date": "2015-09-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《合金装备5》发售即诀别，小岛秀夫与 KONAMI 分手",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年9月1日，《合金装备5：幻痛》全球发售，媒体均分95，开放世界潜入震撼业界。但游戏发售前后，制作的小岛秀夫被KONAMI解除高管职务、工作室被改名，名字甚至从包装上消失。年底他宣布离开效力29年的KONAMI，业界哗然。",
+"detail": "小岛秀夫执导的《合金装备5：幻痛》（Metal Gear Solid V: The Phantom Pain）2015年9月1日全球发售，开放世界潜入与“母基地”系统获媒体均分95，全球销量超600万套。但同期KONAMI转型柏青哥与手游业务，内部“待遇门”丑闻爆发：小岛被解除Konami电脑娱乐社长职务，Kojima Productions洛杉矶工作室关闭，游戏包装上“小岛秀夫”署名一度消失；2015年4月Konami从纽约证交所退市，《寂静岭P.T.》项目取消。12月16日，小岛与索尼合作成立独立的新Kojima Productions。",
+"impact": "日本大厂与明星制作人的矛盾公开化，“制作人品牌 vs 公司战略”成为行业长期议题；《寂静岭》取消让恐怖游戏迷痛失神作，直到2024年《寂静岭2重制版》才部分弥补。",
+"aftermath": "小岛2019年推出《死亡搁浅》，2022年《合金装备5》续章传闻与《寂静岭》系列重启（小岛与KONAMI各自新篇）陆续落地；KONAMI靠柏青哥与《游戏王大师决斗》续命，2023年起回归主机发行动作。",
+"sources": [
+{
+"title": "2015 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Metal Gear Solid V: The Phantom Pain - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain",
+"type": "wiki"
+}
+],
+"tags": [
+"小岛秀夫",
+"KONAMI",
+"合金装备5",
+"制作人出走"
+]
+},
+{
+"id": "2015-11-03-activision-king",
+"date": "2015-11-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "动视59亿美元收购 King，《糖果传奇》母公司被收编",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2015年11月3日，动视暴雪宣布以59亿美元收购休闲手游巨头King——《糖果传奇》的开发商。主机大厂买下三消游戏王，看中的是它每天几亿次的消除关卡。这笔交易让动视暴雪一跃成为全球收入前三的游戏公司，也为后来的巨额收购开了头。",
+"detail": "2015年11月3日，动视暴雪宣布以59亿美元收购爱尔兰/瑞典手游公司King（代表作《糖果传奇》《糖果苏打传奇》），2016年2月完成。King巅峰期月活用户超5亿，《糖果传奇》自2012年上线后常年霸榜全球手游收入前列；收购使动视暴雪坐拥主机（COD、魔兽）+PC（暴雪）+移动（King）三线布局，跻身全球收入最高的游戏公司行列。这是当时游戏业第二大收购案，仅次于微软买Mojang。",
+"impact": "传统主机大厂正式把移动休闲市场纳入核心版图，“三消”这类休闲品类被承认是比3A更稳定的印钞机；游戏业巨额整合浪潮加速。",
+"aftermath": "King持续为动视暴雪贡献最大份额的利润；2023年微软收购动视暴雪（690亿美元）后，King成为微软移动战略（Xbox手游）的基石资产。",
+"sources": [
+{
+"title": "2015 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2015_in_video_games",
+"type": "wiki"
+},
+{
+"title": "King (company) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/King_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"动视暴雪",
+"King",
+"糖果传奇",
+"手游"
 ]
 }
 ]

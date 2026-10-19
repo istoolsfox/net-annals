@@ -26,31 +26,6 @@
 ]
 },
 {
-"id": "2023-01-22-wandering-earth-2",
-"date": "2023-01-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《流浪地球2》春节档上映",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "1月22日《流浪地球2》上映，与《满江红》同档竞争，最终拿下超40亿元票房，标志中国重工业科幻片续作成熟。",
-"detail": "郭帆执导的《流浪地球2》作为前作前传上映，太空电梯、数字生命等设定与大规模实体置景引发热议，最终票房约40.29亿元居2023年度第二，与《满江红》的档期竞争成为春节档话题。影片使用的国产特效流程与设备国产化被广泛讨论。",
-"impact": "续作票房与口碑双赢，把中国科幻电影工业化的讨论推向主流。",
-"aftermath": "系列第三部立项，周边众筹破亿元；《流浪地球3》定档后续年份。",
-"sources": [
-{
-"title": "流浪地球2",
-"url": "https://zh.wikipedia.org/wiki/流浪地球2",
-"type": "wiki"
-}
-],
-"tags": [
-"电影",
-"春节档"
-]
-},
-{
 "id": "2023-01-23-microsoft-openai-invest",
 "date": "2023-01-23",
 "date_accuracy": "exact",
@@ -1217,31 +1192,6 @@
 ]
 },
 {
-"id": "2023-07-21-barbenheimer",
-"date": "2023-07-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "「芭本海默」同日档期成为全球文化现象",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "7月21日《芭比》与《奥本海默》北美同日上映，观众「一天连看两部」的Barbenheimer梗席卷全球，合计票房超24亿美元。",
-"detail": "粉红喜剧与黑白传记的极端反差被网友二创成海量梗图，连排双片成为全球影迷仪式，最终《芭比》全球14.45亿美元、《奥本海默》9.75亿美元，被业界称为「救市之作」，展示了对立档期反而互利的意外效果。",
-"impact": "年度最强电影文化现象，带动院线夏季票房强势回暖。",
-"aftermath": "《奥本海默》后来拿下2024年奥斯卡最佳影片。",
-"sources": [
-{
-"title": "Barbenheimer",
-"url": "https://en.wikipedia.org/wiki/Barbenheimer",
-"type": "wiki"
-}
-],
-"tags": [
-"电影",
-"流行文化"
-]
-},
-{
 "id": "2023-07-25-chatgpt-android",
 "date": "2023-07-25",
 "date_accuracy": "exact",
@@ -1508,7 +1458,7 @@
 "summary_30s": "9月12日苹果发布iPhone 15系列，Pro版换装钛金属边框与A17 Pro芯片，全系改用USB-C接口。",
 "detail": "iPhone 15 Pro采用钛金属中框与A17 Pro（3nm首发），静音拨片改为操作按钮，15 Pro Max配备5倍潜望长焦；受欧盟法规推动，Lightning接口被USB-C全面取代。发布时华为Mate 60正热销，「冠军对决」成为当年国内高端市场话题。",
 "impact": "接口统一与钛金属设计成为行业跟随点。",
-"aftermath": "A17 Pro散热争议与 overheating 修复更新；15系列销量保持强势但国内高端份额受Mate 60冲击。",
+"aftermath": "A17 Pro散热争议与 过热 修复更新；15系列销量保持强势但国内高端份额受Mate 60冲击。",
 "sources": [
 {
 "title": "iPhone 15",
@@ -2487,31 +2437,6 @@
 {
 "title": "第二十条（电影）",
 "url": "https://zh.wikipedia.org/wiki/第二十条",
-"type": "wiki"
-}
-],
-"tags": [
-"电影",
-"春节档"
-]
-},
-{
-"id": "2024-02-10-yure",
-"date": "2024-02-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《热辣滚烫》领跑春节档，贾玲瘦身话题刷屏",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2月10日贾玲自导自演《热辣滚烫》上映，「贾玲减了100斤」话题引爆全网，影片最终票房34.6亿元夺春节档冠军。",
-"detail": "翻拍自《百元之恋》的《热辣滚烫》以贾玲减重100斤的真实变化为最大悬念，上映前预告片只闻声不见人吊足胃口，最终以34.6亿元成为2024年春节档冠军与年度票房第二。减重话题同时带动健身、拳击等消费。",
-"impact": "「导演个人IP+悬念营销」达到顶峰。",
-"aftermath": "贾玲转战好莱坞翻拍项目，导演身份进一步国际化。",
-"sources": [
-{
-"title": "热辣滚烫",
-"url": "https://zh.wikipedia.org/wiki/热辣滚烫",
 "type": "wiki"
 }
 ],
