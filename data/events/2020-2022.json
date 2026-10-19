@@ -1,0 +1,946 @@
+[
+{
+"id": "2020-01-20-human-to-human",
+"date": "2020-01-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "钟南山确认新冠病毒『人传人』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "84岁的钟南山在央视镜头前确认新型冠状病毒存在人传人现象，并披露14名医护人员感染。除夕前的这声警报，让亿万人的春节计划在一夜之间改变。",
+"detail": "国家卫健委高级别专家组当日公开研判，武汉等多个城市随后启动突发公共卫生事件一级响应。",
+"impact": "全民防护意识瞬间拉满，口罩成为硬通货。",
+"aftermath": "三年防疫从此启幕；2023年1月8日新冠降为乙类乙管，这段经历成为一代人的集体记忆。",
+"sources": [
+{
+"title": "维基百科：2019冠状病毒病疫情",
+"url": "https://zh.wikipedia.org/wiki/2019冠状病毒病疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"新冠",
+"钟南山"
+]
+},
+{
+"id": "2020-01-23-wuhan-lockdown",
+"date": "2020-01-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "武汉关闭离汉通道：人类现代史上首次千万人级封城",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "凌晨2点公告，10点封城——1100万人口的武汉公交地铁机场火车站全部关闭。这座英雄的城市用76天的坚守，为中国乃至全球争取了宝贵的防疫窗口。",
+"detail": "湖北省内城市相继跟进管控。2月初火神山（10天建成）、雷神山医院交付，方舱医院收治轻症。全国4.2万医护人员逆行驰援。",
+"impact": "经济社会全面进入防疫状态，线上办公、网课、无接触配送一夜普及。",
+"aftermath": "4月8日武汉解封；2020年下半年中国经济率先恢复正增长；防疫措施于2022年12月大幅优化后转入新阶段。",
+"sources": [
+{
+"title": "维基百科：2019冠状病毒病湖北省疫情",
+"url": "https://zh.wikipedia.org/wiki/2019冠状病毒病湖北省疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"武汉封城",
+"新冠"
+]
+},
+{
+"id": "2020-02-07-li-wenliang",
+"date": "2020-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "李文亮医生逝世，全网哀悼",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "最早在同学群发出疫情提醒而被警方训诫的眼科医生李文亮，因感染新冠去世。凌晨的微博被『吹哨人』三个字淹没，国家监委随即派出调查组，他后被评定为烈士。",
+"detail": "李文亮2019年12月30日在同学群提醒注意SARS样病例，1月3日被训诫，2月1日确诊，2月7日凌晨去世。",
+"impact": "信息发布机制、基层治理与公众知情权的大讨论由此展开。",
+"aftermath": "训诫书被撤销；此后疫情信息发布制度调整为每日公布与发布会机制。",
+"sources": [
+{
+"title": "维基百科：李文亮",
+"url": "https://zh.wikipedia.org/wiki/李文亮",
+"type": "wiki"
+}
+],
+"tags": [
+"李文亮",
+"吹哨人"
+]
+},
+{
+"id": "2020-02-11-healthcode-launch",
+"date": "2020-02-11",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "健康码在杭州首发：一码走天下的开始",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "支付宝与杭州政府合作推出全国第一个健康码，绿码通行、黄码观察、红码隔离。此后两年多，这个二维码成为比身份证检查频次更高的东西，直到2022年12月谢幕。",
+"detail": "健康码一周内推广至浙江全省，随后全国铺开，与行程卡（2020-03）配合实现流调数字化。",
+"impact": "个人健康数据第一次成为公共通行凭证，数字治理能力与隐私边界同时被检验。",
+"aftermath": "2022年12月13日行程卡下线，健康码随后陆续停用；数据安全与个人信息保护立法加速。",
+"sources": [
+{
+"title": "维基百科：健康码",
+"url": "https://zh.wikipedia.org/wiki/健康码",
+"type": "wiki"
+}
+],
+"tags": [
+"健康码",
+"数字治理"
+]
+},
+{
+"id": "2020-03-09-us-circuit-breakers",
+"date": "2020-03-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美股十天四次熔断：巴菲特说活久见",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "疫情恐慌点燃全球股灾，美股在3月9日、12日、16日、18日四次熔断——89岁的巴菲特感叹『活久见』。全球央行把利率打到零、开启无限QE，热钱时代重新开始。",
+"detail": "道指从高点暴跌超37%，油价同步崩盘（4月WTI出现-37美元负价格）。",
+"impact": "全球零利率与天量流动性塑造了此后三年的资产泡沫与通胀反噬。",
+"aftermath": "2022年起美联储暴力加息遏制40年最高通胀。",
+"sources": [
+{
+"title": "Wikipedia: 2020 stock market crash",
+"url": "https://en.wikipedia.org/wiki/2020_stock_market_crash",
+"type": "wiki"
+}
+],
+"tags": [
+"熔断",
+"流动性"
+]
+},
+{
+"id": "2020-04-08-wuhan-reopen",
+"date": "2020-04-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "武汉解封：76天后的第一趟出城列车",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "零时刚过，离汉通道重新开启，第一辆小车驶出高速口时鸣笛致意。江滩亮起『英雄的城市、英雄的人民』——中国抗疫最艰难的一段正式翻篇。",
+"detail": "解封当日约5.5万人乘火车离汉，复工复产复学分步推进。",
+"impact": "全国产业链恢复运转，经济逐季回升。",
+"aftermath": "2020年全年中国GDP增长2.3%，成为全球唯一正增长的主要经济体。",
+"sources": [
+{
+"title": "维基百科：2019冠状病毒病湖北省疫情",
+"url": "https://zh.wikipedia.org/wiki/2019冠状病毒病湖北省疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"武汉解封"
+]
+},
+{
+"id": "2020-05-14-dual-circulation",
+"date": "2020-05-14",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "『双循环』格局提出",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "政治局常委会提出构建国内国际双循环新发展格局，以国内大循环为主体。在外部环境剧变的年头，中国经济战略把重心稳稳放回了自己身上。",
+"detail": "2020年10月五中全会将双循环写入『十四五』规划建议。",
+"impact": "内需、供应链自主与统一大市场成为政策主线。",
+"aftermath": "2022年《扩大内需战略规划纲要》发布；出口与内需的再平衡持续至今。",
+"sources": [
+{
+"title": "维基百科：国内国际双循环",
+"url": "https://zh.wikipedia.org/wiki/国内国际双循环",
+"type": "wiki"
+}
+],
+"tags": [
+"双循环",
+"内需"
+]
+},
+{
+"id": "2020-05-28-civil-code",
+"date": "2020-05-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《民法典》通过：社会生活的百科全书",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "七编1260条的《民法典》高票通过，2021年1月1日施行。婚姻、继承、合同、隐私、高空抛物……中国人从摇篮到坟墓的民事生活，第一次有了一部统一的法典。",
+"detail": "编纂历时五年、十次公开征求意见，收到的意见超百万条。人格权独立成编为世界首例。",
+"impact": "民事法律从单行法时代进入法典时代。",
+"aftermath": "居住权、离婚冷静期、人格权保护禁令等新制度陆续走进司法实践。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国民法典",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国民法典",
+"type": "wiki"
+}
+],
+"tags": [
+"民法典"
+]
+},
+{
+"id": "2020-06-30-hk-national-security-law",
+"date": "2020-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "香港国安法颁布实施",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "全国人大常委会通过《香港特别行政区维护国家安全法》并当晚列入基本法附件三实施。修例风波以来的社会动荡就此止息。",
+"detail": "法律规制分裂国家、颠覆、恐怖活动与勾结外国势力四类罪行，设驻港国安公署。",
+"impact": "香港治安秩序恢复，选举制度2021年完善。",
+"aftermath": "美英欧对港政策相应调整；香港国际金融中心地位保持。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国香港特别行政区维护国家安全法",
+"url": "https://zh.wikipedia.org/wiki/香港国安法",
+"type": "wiki"
+}
+],
+"tags": [
+"香港",
+"国安法"
+]
+},
+{
+"id": "2020-07-23-tianwen-1",
+"date": "2020-07-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "天问一号奔火：中国探火第一步",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "长征五号把天问一号送向火星，一次任务完成『绕、落、巡』三步。2021年5月15日祝融号火星车成功着陆乌托邦平原，中国成为第二个在火星表面成功运行探测器的国家。",
+"detail": "环绕器持续在轨探测，祝融号行驶近2公里后于2022年进入休眠。",
+"impact": "行星探测工程（天问系列）全面铺开。",
+"aftermath": "2028年前后天问二号小行星采样、天问三号火星采样返回规划推进。",
+"sources": [
+{
+"title": "维基百科：天问一号",
+"url": "https://zh.wikipedia.org/wiki/天问一号",
+"type": "wiki"
+}
+],
+"tags": [
+"天问一号",
+"火星"
+]
+},
+{
+"id": "2020-08-24-gem-registration",
+"date": "2020-08-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "创业板注册制首批企业上市",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "创业板告别审批制，注册制下新股发行由市场说了算，涨跌幅放宽到20%。A股注册制改革从科创板（2019）走向全市场（2023）的关键一步。",
+"detail": "首批18家企业同日挂牌，日均涨幅与波动同步放大。",
+"impact": "上市效率提升，壳资源价值崩塌。",
+"aftermath": "2023年2月全面注册制落地，主板也告别核准制。",
+"sources": [
+{
+"title": "维基百科：创业板",
+"url": "https://zh.wikipedia.org/wiki/创业板",
+"type": "wiki"
+}
+],
+"tags": [
+"注册制",
+"创业板"
+]
+},
+{
+"id": "2020-11-03-ant-ipo-halt",
+"date": "2020-11-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "蚂蚁IPO暂缓：史上最大上市的急刹车",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "原定11月5日在A+H两地同时上市、估值2.1万亿的蚂蚁集团被紧急暂缓——起因是马云在外滩金融峰会上批『当铺思想』的演讲。中国平台经济的强监管时代自此开场。",
+"detail": "外滩演讲（10月24日）后，四部门约谈蚂蚁实控人，监管以网络小贷新规等阻断上市。2023年蚂蚁被罚71亿元并完成整改。",
+"impact": "平台反垄断、金融科技持牌化全面收紧。",
+"aftermath": "2021年阿里被罚182亿；美团、腾讯等相继被查；2023年平台经济表述转向『健康发展』。",
+"sources": [
+{
+"title": "维基百科：蚂蚁集团",
+"url": "https://zh.wikipedia.org/wiki/蚂蚁集团",
+"type": "wiki"
+}
+],
+"tags": [
+"蚂蚁",
+"监管"
+]
+},
+{
+"id": "2020-11-15-rcep-signed",
+"date": "2020-11-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "RCEP签署：全球最大自贸区诞生",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "东盟十国与中日韩澳新15国签署区域全面经济伙伴关系协定，覆盖全球约30%人口与经济总量。单边主义逆风中，亚太用一支笔给出了另一份答卷。",
+"detail": "RCEP 2022年1月1日生效，90%以上货物贸易最终零关税。",
+"impact": "区域供应链整合与关税减让直接利好外贸。",
+"aftermath": "2023年6月对15国全面生效（菲律宾最后批准）；中国申请加入CPTPP持续推进。",
+"sources": [
+{
+"title": "维基百科：区域全面经济伙伴关系协定",
+"url": "https://zh.wikipedia.org/wiki/区域全面经济伙伴关系协定",
+"type": "wiki"
+}
+],
+"tags": [
+"RCEP",
+"自贸区"
+]
+},
+{
+"id": "2020-11-23-poverty-eradication",
+"date": "2020-11-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "832个贫困县全部摘帽：脱贫攻坚收官",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "贵州宣布最后9个县退出，全国832个贫困县全部摘帽，近1亿农村贫困人口现行标准下脱贫。2021年2月25日大会宣布脱贫攻坚战取得全面胜利——人类减贫史上规模最大的一次战役收官。",
+"detail": "2013年『精准扶贫』提出以来，累计选派300多万驻村干部，财政与金融投入数万亿元。",
+"impact": "绝对贫困消除，乡村振兴成为衔接战略。",
+"aftermath": "2021年国家乡村振兴局挂牌（2023年并入农业农村部）；防止返贫监测机制常态化。",
+"sources": [
+{
+"title": "维基百科：脱贫攻坚战",
+"url": "https://zh.wikipedia.org/wiki/脱贫攻坚战",
+"type": "wiki"
+}
+],
+"tags": [
+"脱贫攻坚",
+"扶贫"
+]
+},
+{
+"id": "2020-12-17-chang-e-5-return",
+"date": "2020-12-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "嫦娥五号带着1731克月壤回家",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "返回器在内蒙古四子王旗着陆，带回了1731克月球样品——这是人类时隔44年再次从月球取土。宇宙快递签收成功，中国深空探测三步走完整闭环。",
+"detail": "任务实现月面自动采样封装、月面起飞、月球轨道交会对接、高速再入返回全套技术验证。",
+"impact": "月壤样品向全球科研机构开放申请，中外合作研究启动。",
+"aftermath": "2024年嫦娥六号完成人类首次月背采样返回1935.3克。",
+"sources": [
+{
+"title": "维基百科：嫦娥五号",
+"url": "https://zh.wikipedia.org/wiki/嫦娥五号",
+"type": "wiki"
+}
+],
+"tags": [
+"嫦娥五号",
+"月壤"
+]
+},
+{
+"id": "2021-02-25-poverty-victory",
+"date": "2021-02-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "全国脱贫攻坚总结表彰大会：宣告全面胜利",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "北京人民大会堂，脱贫攻坚战全面胜利正式宣告：现行标准下9899万农村贫困人口全部脱贫。黄文秀、张桂梅等名字与这个句号一起被写进历史。",
+"detail": "大会同时宣布设立5年过渡期，工作重心转向乡村振兴。",
+"impact": "三农工作重心历史性转移。",
+"aftermath": "脱贫地区特色产业、东西部协作机制持续运转。",
+"sources": [
+{
+"title": "维基百科：脱贫攻坚战",
+"url": "https://zh.wikipedia.org/wiki/脱贫攻坚战",
+"type": "wiki"
+}
+],
+"tags": [
+"脱贫攻坚"
+]
+},
+{
+"id": "2021-05-31-three-child-policy",
+"date": "2021-05-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "三孩政策出台",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "政治局会议决定实施一对夫妻可以生育三个子女政策。『生了二孩生三孩』成为网络热梗，而更现实的问题是：养得起吗？配套的托育、教育、住房支持政策自此加速。",
+"detail": "2016年全面二孩后出生人口连年下滑（2020年1200万），政策进一步放开并于同年8月入法。",
+"impact": "生育支持体系（托育、税收、住房、教育）全面起步。",
+"aftermath": "2022年出生人口956万首次跌破千万，2023年902万；各地发钱催生渐成趋势。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国生育政策",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国生育政策",
+"type": "wiki"
+}
+],
+"tags": [
+"三孩",
+"人口"
+]
+},
+{
+"id": "2021-06-17-shenzhou-12-crew",
+"date": "2021-06-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟十二号进驻天和：中国人有了自己的太空之家",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "聂海胜、刘伯明、汤洪波入驻天和核心舱，中国人第一次进入自己的空间站，一住就是90天。此后空间站成为常年有人值守的中国太空前哨。",
+"detail": "天和核心舱2021年4月29日发射，空间站进入建造阶段。神十二验证90天驻留与两次出舱。",
+"impact": "载人航天进入空间站时代。",
+"aftermath": "2022年问天、梦天实验舱对接，三舱构型建成；2023年起进入常态化运营。",
+"sources": [
+{
+"title": "维基百科：神舟十二号",
+"url": "https://zh.wikipedia.org/wiki/神舟十二号",
+"type": "wiki"
+}
+],
+"tags": [
+"神十二",
+"空间站"
+]
+},
+{
+"id": "2021-07-01-ccp-centenary",
+"date": "2021-07-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国共产党成立100周年庆祝大会",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "天安门广场7万人大会庆祝建党百年，习近平宣告中国全面建成了小康社会，历史性地解决了绝对贫困问题，并提出『伟大建党精神』。",
+"detail": "大会提出向第二个百年奋斗目标进军，共青团员和少先队员集体致献词『请党放心，强国有我』刷屏。",
+"impact": "第二个百年新征程的起点宣示。",
+"aftermath": "2021年11月十九届六中全会通过第三个历史决议，确立『两个确立』。",
+"sources": [
+{
+"title": "维基百科：中国共产党成立100周年",
+"url": "https://zh.wikipedia.org/wiki/中国共产党成立100周年",
+"type": "wiki"
+}
+],
+"tags": [
+"建党百年",
+"小康"
+]
+},
+{
+"id": "2021-07-20-henan-flood",
+"date": "2021-07-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "河南特大暴雨：郑州一小时降下全年三分之一的雨",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "郑州1小时降雨量达201.9毫米破全球纪录，地铁5号线被淹致14人遇难，全城断网断电。『救命文档』在网上自发建立，牵动全国——互联网协同救灾的最大规模实战。",
+"detail": "河南全省398人遇难失踪，直接经济损失超1200亿元。国务院调查组认定存在重大失职。",
+"impact": "城市应急响应、地铁停运标准与舆情协同救灾机制全面检讨。",
+"aftermath": "89名责任人被问责；超标准降雨应对纳入城市体检。",
+"sources": [
+{
+"title": "维基百科：2021年河南水灾",
+"url": "https://zh.wikipedia.org/wiki/2021年河南水灾",
+"type": "wiki"
+}
+],
+"tags": [
+"河南暴雨",
+"郑州"
+]
+},
+{
+"id": "2021-07-24-double-reduction",
+"date": "2021-07-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『双减』政策落地：万亿教培行业一夜变天",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中办国办印发双减意见：学科类培训机构一律不得上市融资、不得占用节假日补课。几千亿市值灰飞烟灭，猿辅导转行卖羽绒服、新东方转型直播带货（东方甄选），一代行业就此改写。",
+"detail": "政策明确学科类机构营转非、资本禁入，校内课后服务托底。",
+"impact": "家庭教育支出结构巨变，在线教育百万从业者转岗。",
+"aftermath": "素质类、职业类培训承接收缩后的需求；隐形变异培训治理持续。",
+"sources": [
+{
+"title": "维基百科：双减",
+"url": "https://zh.wikipedia.org/wiki/双减",
+"type": "wiki"
+}
+],
+"tags": [
+"双减",
+"教培"
+]
+},
+{
+"id": "2021-07-23-tokyo-olympics",
+"date": "2021-07-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东京奥运会开幕：史上首次延期的奥运",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "因疫情推迟一年的东京奥运在空场中开幕，中国代表团38金追平境外最佳。杨倩的糖葫芦美甲、全红婵的『水花消失术』与苏炳添的9秒83，是那个夏天最亮的记忆。",
+"detail": "苏炳添百米9秒83刷新亚洲纪录闯入决赛；14岁全红婵三跳满分夺冠。",
+"impact": "无观众奥运验证大型赛事的数字化生存。",
+"aftermath": "2024巴黎奥运延续全民情绪；体育明星的流量逻辑向短视频迁移。",
+"sources": [
+{
+"title": "维基百科：2020年夏季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2020年夏季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"东京奥运"
+]
+},
+{
+"id": "2021-08-30-minor-game-limits",
+"date": "2021-08-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "未成年人游戏『最严防沉迷新规』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国家新闻出版署通知：未成年人仅可在周五六日及节假日的20-21时玩1小时网游。游戏公司连夜改实名系统，孩子们发现了爷爷奶奶的身份证——游戏与未成年人管理的攻防进入新纪元。",
+"detail": "此前2021年6月游戏版号收紧、8月初媒体称游戏为『精神鸦片』引发行业地震。",
+"impact": "未成年人游戏时长断崖下降，游戏公司转向出海。",
+"aftermath": "中国自研游戏出海收入2021年起连年超180亿美元；版号常态化发放2022年4月恢复。",
+"sources": [
+{
+"title": "维基百科：网络游戏防沉迷系统",
+"url": "https://zh.wikipedia.org/wiki/网络游戏防沉迷系统",
+"type": "wiki"
+}
+],
+"tags": [
+"防沉迷",
+"游戏监管"
+]
+},
+{
+"id": "2021-09-25-meng-wanzhou-return",
+"date": "2021-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "孟晚舟回国：1028天后落地深圳",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "温哥华时间傍晚起飞，深圳时间深夜落地，孟晚舟红裙走出机舱说『如果信念有颜色，一定是中国红』。直播观看人次破亿——这场跨越三年的博弈以她的回国画上句号。",
+"detail": "美方与孟晚舟达成暂缓起诉协议，同日两名被拘加拿大公民获释回国。",
+"impact": "中美加围绕华为的司法战告一段落。",
+"aftermath": "华为2023年携Mate 60回归；孟晚舟2022年起轮值华为轮值董事长。",
+"sources": [
+{
+"title": "Wikipedia: Arrest and detention of Meng Wanzhou",
+"url": "https://en.wikipedia.org/wiki/Arrest_and_detention_of_Meng_Wanzhou",
+"type": "wiki"
+}
+],
+"tags": [
+"孟晚舟",
+"回国"
+]
+},
+{
+"id": "2021-10-16-shenzhou-13",
+"date": "2021-10-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟十三号：中国航天员首次在太空过年",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "翟志刚、王亚平、叶光富开启183天驻留，成为中国在轨时间最长的乘组。除夕夜他们在400公里高空贴春联吃饺子，王亚平成为中国首位出舱的女航天员。",
+"detail": "任务验证长期驻留、出舱活动与径向交会对接（快速返回用，2022-04-16返回）。",
+"impact": "空间站常态化运营能力成熟。",
+"aftermath": "2022年神十四神十五接力，2023年后乘组轮换半年一班。",
+"sources": [
+{
+"title": "维基百科：神舟十三号",
+"url": "https://zh.wikipedia.org/wiki/神舟十三号",
+"type": "wiki"
+}
+],
+"tags": [
+"神十三",
+"太空过年"
+]
+},
+{
+"id": "2021-11-01-pipl-effective",
+"date": "2021-11-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《个人信息保护法》施行：大数据杀熟被明令禁止",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国首部个人信息保护专门法施行，明确处理个人信息须『知情同意』，禁止大数据杀熟，敏感信息处理加码。App 再想偷偷读你的通讯录，得先掂量法律。",
+"detail": "与《网络安全法》（2017）、《数据安全法》（2021-09）构成数据三法。",
+"impact": "个人信息合规成为所有互联网公司的必修课。",
+"aftermath": "2023年网信办查处多起大数据杀熟与过度收集案例；跨境数据流动新规2024年细化。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国个人信息保护法",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国个人信息保护法",
+"type": "wiki"
+}
+],
+"tags": [
+"个人信息保护",
+"数据"
+]
+},
+{
+"id": "2021-04-10-alibaba-fine",
+"date": "2021-04-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里被罚182.28亿：平台反垄断第一罚",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "市场监管总局认定阿里巴巴『二选一』构成滥用市场支配地位，处以其2019年销售额4%的罚款182.28亿元。中国互联网『赢家通吃』的时代被按下暂停键。",
+"detail": "美团、腾讯音乐等随后相继被查被罚；2021年被称为反垄断大年。",
+"impact": "平台竞争规则重写，互联互通（外链开放）被推动。",
+"aftermath": "2022年起监管表述转向『支持平台经济规范健康发展』；2023年蚂蚁整改收官。",
+"sources": [
+{
+"title": "维基百科：阿里巴巴集团",
+"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+"type": "wiki"
+}
+],
+"tags": [
+"反垄断",
+"阿里"
+]
+},
+{
+"id": "2022-02-04-beijing-winter-olympics",
+"date": "2022-02-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北京冬奥会开幕：冰墩墩一夜顶流",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "24节气倒计时开场，北京成为全球首个双奥之城。吉祥物冰墩墩让全世界抢破头，一『墩』难求；谷爱凌、苏翊鸣让『00后』站上雪场C位。",
+"detail": "中国代表团9金4银2铜创冬奥最佳。开闭幕式总导演张艺谋再执棒。",
+"impact": "冰雪运动大众化（『带动三亿人参与冰雪运动』），冬奥经济点燃崇礼与吉林雪场。",
+"aftermath": "冰墩墩成为国产IP出圈样板；2025年哈尔滨亚冬会延续冰雪热度。",
+"sources": [
+{
+"title": "维基百科：2022年冬季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2022年冬季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"冬奥",
+"冰墩墩"
+]
+},
+{
+"id": "2022-02-24-russia-ukraine-war",
+"date": "2022-02-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "俄乌战争爆发：欧洲大陆重回战争",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "凌晨普京宣布『特别军事行动』，俄军从多路进入乌克兰，基辅空袭警报拉响。二战以来欧洲最大规模战争开打，能源、粮食、汇率、移民、军援——此后几年的世界新闻，大半有它的影子。",
+"detail": "战争历经基辅退兵、顿巴斯拉锯、2023年乌反攻、2024年俄占阿夫杰耶夫卡等阶段，成为消耗战。百万计伤亡与流离。",
+"impact": "全球化供应链与能源体系重构，欧洲安全架构崩塌重建。",
+"aftermath": "芬兰瑞典加入北约；中欧班列与中俄贸易结构改变；2025年起多次停火谈判未果。",
+"sources": [
+{
+"title": "Wikipedia: Russian invasion of Ukraine",
+"url": "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine",
+"type": "wiki"
+}
+],
+"tags": [
+"俄乌战争",
+"地缘"
+]
+},
+{
+"id": "2022-03-21-mu5735-crash",
+"date": "2022-03-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东航MU5735空难：132人遇难",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "波音737-800执飞的东航MU5735在广西梧州坠毁，机上123名旅客与9名机组全部遇难，中国民航4227天安全纪录终结。调查工作持续多年，原因仍未公布——每个数字背后都是一个家庭。",
+"detail": "飞机巡航高度骤降坠山，两部黑匣子先后找到。中国民航开展全行业安全大检查。",
+"impact": "航空安全体系与家属援助机制经受大考。",
+"aftermath": "2022年9月民航局发布初步调查报告，最终报告待续。",
+"sources": [
+{
+"title": "维基百科：中国东方航空5735号班机空难",
+"url": "https://zh.wikipedia.org/wiki/中国东方航空5735号班机空难",
+"type": "wiki"
+}
+],
+"tags": [
+"空难",
+"MU5735"
+]
+},
+{
+"id": "2022-03-28-shanghai-lockdown",
+"date": "2022-03-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海分批封控：2500万人的静态管理",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "奥密克戎击穿防线，上海宣布浦东、浦西分批封控，这座以精准防控自豪的城市进入两个月的静态管理。团购群、物资礼包、方舱与居家办公成为2500万人的日常，6月1日全面恢复。",
+"detail": "疫情期间物流受阻、部分就医与民生保障问题引发广泛讨论；5月单日新增降至两位数后逐步解封。",
+"impact": "超大城市治理、供应链与防疫平衡的深度演练。",
+"aftermath": "2022年下半年防疫政策加速优化，11月『二十条』、12月『新十条』相继出台。",
+"sources": [
+{
+"title": "维基百科：2022年上海2019冠状病毒病聚集性疫情",
+"url": "https://zh.wikipedia.org/wiki/2022年上海2019冠状病毒病聚集性疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"上海",
+"封控"
+]
+},
+{
+"id": "2022-06-17-fujian-carrier",
+"date": "2022-06-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "福建舰下水：电磁弹射的超级航母",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国第三艘航母福建舰下水，满载8万余吨，配备电磁弹射——全球只有中美玩得起的装备。命名延续『辽宁、山东』之后的沿海省份序列，东海方向的海空力量自此换代。",
+"detail": "福建舰2022年6月17日下水，2024年起多次海试，歼-35、空警-600上舰测试。",
+"impact": "海军向远洋蓝水跨越。",
+"aftermath": "预计2025-2026年间入列；第四艘航母规划中。",
+"sources": [
+{
+"title": "维基百科：福建号航空母舰",
+"url": "https://zh.wikipedia.org/wiki/福建号航空母舰",
+"type": "wiki"
+}
+],
+"tags": [
+"福建舰",
+"航母"
+]
+},
+{
+"id": "2022-08-04-taiwan-exercises",
+"date": "2022-08-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "佩洛西访台与环台军演",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美国众议院议长佩洛西不顾中方反对访问台湾，解放军随即在台湾周边六海区开展史上首次环岛实弹演训，导弹穿越台岛上空。台海形势进入新常态。",
+"detail": "演训持续一周，后续常态化战备警巡延续。",
+"impact": "台海军事博弈烈度抬升，国际航线与供应链随之调整。",
+"aftermath": "2024年赖清德就任后军演代号『联合利剑』延续。",
+"sources": [
+{
+"title": "维基百科：2022年台湾周边军事演习",
+"url": "https://zh.wikipedia.org/wiki/2022年台湾周边军事演习",
+"type": "wiki"
+}
+],
+"tags": [
+"台海",
+"军演"
+]
+},
+{
+"id": "2022-10-16-20th-congress",
+"date": "2022-10-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中共二十大：中国式现代化新蓝图",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "二十大提出以中国式现代化全面推进中华民族伟大复兴，习近平连任总书记。报告强调统筹发展与安全，新一届领导集体随后亮相。",
+"detail": "大会修改党章，20-22日召开，10月23日新一届常委见记者。",
+"impact": "安全与自主可控在政策中的权重进一步上升。",
+"aftermath": "2023年国务院机构改革聚焦科技与金融；新质生产力（2023-09）成为发展关键词。",
+"sources": [
+{
+"title": "维基百科：中国共产党第二十次全国代表大会",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第二十次全国代表大会",
+"type": "wiki"
+}
+],
+"tags": [
+"二十大"
+]
+},
+{
+"id": "2022-11-20-qatar-worldcup",
+"date": "2022-11-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "卡塔尔世界杯：梅西加冕的沙漠之冬",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "史上最贵世界杯在沙漠中开球，决赛12月18日梅西点球大战击败姆巴佩，球王终于圆梦。中国球迷在决赛前一个月刚刚经历防疫政策转变——『隔着屏幕看世界』的三年结束了。",
+"detail": "阿根廷3:3（4:2点球）胜法国，决赛被誉为史上最伟大。中国制造占满卢赛尔球场与周边。",
+"impact": "大赛IP运营与短视频观赛全面成熟。",
+"aftermath": "2026年美加墨世界杯扩军至48队，中国球迷依旧看客。",
+"sources": [
+{
+"title": "维基百科：2022年国际足联世界杯",
+"url": "https://zh.wikipedia.org/wiki/2022年国际足联世界杯",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"梅西"
+]
+},
+{
+"id": "2022-11-29-space-rendezvous",
+"date": "2022-11-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟十五号升空：中国空间站『太空会师』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "费俊龙、邓清明、张陆入驻天宫，与神十四乘组六人胜利会师，中国空间站首次满员，建造阶段收官。等了24年备飞的邓清明，终于圆梦。",
+"detail": "11月3日梦天实验舱完成转位，『T』字构型建成。2022年底空间站正式进入运营期。",
+"impact": "中国成为独立建成并长期运营空间站的第二个国家。",
+"aftermath": "2023年起乘组轮换常态化；巡天望远镜计划与空间站共轨飞行。",
+"sources": [
+{
+"title": "维基百科：神舟十五号",
+"url": "https://zh.wikipedia.org/wiki/神舟十五号",
+"type": "wiki"
+}
+],
+"tags": [
+"太空会师",
+"空间站"
+]
+},
+{
+"id": "2022-11-30-jiang-zemin",
+"date": "2022-11-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "江泽民逝世",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中共第三代中央领导集体核心、前国家主席江泽民在上海逝世，享年96岁。12月6日追悼大会举行，全国默哀。他主政的十三年，是中国加入WTO、市场经济框架成型的关键期。",
+"detail": "江泽民1989-2002年任总书记，提出『三个代表』重要思想，任内实现香港澳门回归与入世。",
+"impact": "三代领导集体记忆的集体回望。",
+"aftermath": "官方评价其为中国社会主义事业承前启后的重要人物。",
+"sources": [
+{
+"title": "维基百科：江泽民",
+"url": "https://zh.wikipedia.org/wiki/江泽民",
+"type": "wiki"
+}
+],
+"tags": [
+"江泽民"
+]
+},
+{
+"id": "2022-12-07-new-ten-measures",
+"date": "2022-12-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『新十条』发布：防疫进入新阶段",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院联防联控机制发布进一步优化防控的十条措施：不再临时封控、不再全员核酸、无症状与轻症可居家。近三年以核酸与封控为标志的防疫模式就此翻页，一周后新冠降为乙类乙管方案公布。",
+"detail": "12月13日行程卡正式下线。短期内感染高峰对医疗系统形成冲击，退烧药一度紧俏，社区互助换药蔚然成风。",
+"impact": "经济社会全面重启，2023年消费与出行快速修复。",
+"aftermath": "2023年1月8日实施乙类乙管；2023年5月世卫宣布新冠不再构成国际关注的突发公共卫生事件。",
+"sources": [
+{
+"title": "维基百科：2019冠状病毒病中国大陆疫情",
+"url": "https://zh.wikipedia.org/wiki/2019冠状病毒病中国大陆疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"新十条",
+"防疫优化"
+]
+}
+]
