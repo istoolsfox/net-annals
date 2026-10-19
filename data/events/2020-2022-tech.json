@@ -909,32 +909,6 @@
 ]
 },
 {
-"id": "2021-10-28-meta",
-"date": "2021-10-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook改名Meta：『元宇宙』写进公司名",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "10月28日扎克伯格宣布Facebook母公司更名为Meta Platforms，把元宇宙写进公司名，VR部门Reality Labs成为战略核心，『元宇宙元年』就此定型。",
-"detail": "发布会上扎克伯格展示Horizon Worlds与VR会议场景，宣称公司将从社交公司转型为元宇宙公司。更名前一周Facebook刚经历全球大宕机与吹哨人风波，舆论评价两极。此后Meta每年向元宇宙投入超百亿美元，Reality Labs连年巨亏；『metaverse』当选柯林斯词典2021年度词。",
-"impact": "元宇宙从游戏圈黑话升级为全球科技叙事，带动VR硬件、数字人、虚拟资产一轮热潮，也埋下退潮的伏笔。",
-"aftermath": "2022年后概念迅速降温，Meta转向AI；2023年起Llama大模型接棒叙事，『元宇宙』成为过气词汇。",
-"sources": [
-{
-"title": "维基百科：Meta Platforms",
-"url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-"type": "wiki"
-}
-],
-"tags": [
-"Meta",
-"元宇宙",
-"扎克伯格"
-]
-},
-{
 "id": "2021-11-07-edg-duoguan",
 "date": "2021-11-07",
 "date_accuracy": "exact",

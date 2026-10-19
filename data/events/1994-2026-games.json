@@ -9283,5 +9283,602 @@
 "糖果传奇",
 "手游"
 ]
+},
+{
+"id": "2016-03-24-dark-souls-iii",
+"date": "2016-03-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《黑暗之魂3》发售，初火将熄的系列终章",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2016年3月24日，《黑暗之魂3》在日本发售，作为系列终章为传火故事画上句号。灰烬大人再度踏上受苦之旅，无名之王和舞娘劝退了无数新人。它拿下金摇杆年度游戏，全球销量破千万，魂系游戏从此有了完整的“三代曲”。",
+"detail": "FromSoftware开发的《黑暗之魂3》（Dark Souls III）2016年3月24日在日本发售（北美4月12日、PC同步）。游戏以“传火终结”收束系列主题，忧郁的美术、快节奏战斗与无名之王、修女弗蕾德等Boss设计广受推崇；媒体均分89-90，获金摇杆年度游戏，全球销量超1000万份（含年度版）。系列三部曲就此完整，FromSoftware转向《只狼》《艾尔登法环》的开放世界方向。",
+"impact": "魂系三部曲正式收官，“Souls-like”作为稳定品类在Steam确立标签；系列全球销量破2500万，为FromSoftware的大众化铺平道路。",
+"aftermath": "宫崎英高团队此后接连推出《只狼》（2019年度游戏）与《艾尔登法环》（2022）；黑魂系列2020年代保持长销与联名活动，“再来一轮”的社区文化延续至今。",
+"sources": [
+{
+"title": "2016 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2016_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Dark Souls III - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Dark_Souls_III",
+"type": "wiki"
+}
+],
+"tags": [
+"FromSoftware",
+"黑暗之魂3",
+"魂系",
+"宫崎英高"
+]
+},
+{
+"id": "2016-04-05-vr-year-one",
+"date": "2016-04-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "HTC Vive 发售，VR 元年四巨头齐聚",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2016年4月5日，HTC与Valve合作的HTC Vive开卖，加上此前的Oculus Rift和年底的PSVR，三大头显同年上市，消费级VR第一次真正成规模。开发者疯狂涌入，《节奏光剑》等神作后来都从这里长出来。虽然热得快退得也快，但“VR元年”的底子是这一年打的。",
+"detail": "2016年被业界称为“VR元年”：3月28日Oculus Rift消费版开售，4月5日HTC与Valve合作的HTC Vive以“房间级追踪”上市（定价799美元），10月13日索尼PlayStation VR登陆主机平台（399美元），谷歌Daydream移动方案随后跟进。Valve开放SteamVR与Lighthouse定位标准，《工作模拟器》《最初目标》等首发内容引发排队体验潮；但硬件昂贵、内容稀少、眩晕问题待解，热潮在两年内显著降温。",
+"impact": "消费级VR完成第一次规模化落地，游戏之外还外溢到教育、医疗与工业培训；“VR电竞”“VR直播”等概念自此进入大众词典。",
+"aftermath": "2020年Oculus Quest 2以一体机与低价重启市场，2023年PSVR2与Apple Vision Pro相继登场；VR游戏仍在等待爆款临界点，《节奏光剑》成为少数长青案例。",
+"sources": [
+{
+"title": "2016 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2016_in_video_games",
+"type": "wiki"
+},
+{
+"title": "HTC Vive - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/HTC_Vive",
+"type": "wiki"
+}
+],
+"tags": [
+"VR",
+"HTC Vive",
+"Oculus",
+"PSVR"
+]
+},
+{
+"id": "2016-06-21-tencent-supercell",
+"date": "2016-06-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "腾讯牵头86亿美元收购 Supercell，中国资本买下半个手游圈",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2016年6月21日，腾讯牵头财团宣布以86亿美元收购芬兰手游巨头Supercell约84%股份——《部落冲突》《皇室战争》《荒野乱斗》的缔造者。这是当时中国公司最大的海外收购，全球游戏业第一次真切感受到中国资本和市场的分量。",
+"detail": "腾讯联合财团于2016年6月21日宣布收购Supercell约84.3%股权，总对价86亿美元，交易通过财团结构完成（后并入腾讯全资持股）。Supercell以“小团队、爆款矩阵”著称，《部落冲突》《海岛奇兵》《皇室战争》常年霸榜全球手游收入；交易后Supercell保持独立运营，其总部仍驻赫尔辛基。这笔交易在当时是游戏业第三大收购案，仅次于动视-暴雪（2013年前后合并规模）与微软买Mojang，远超同期欧美厂商手笔。",
+"impact": "中国资本第一次系统性进入全球手游头部资产，腾讯“投资+不干预”的出海模式成型；全球游戏业估值体系对中式买家重定价。",
+"aftermath": "腾讯此后相继投资Riot（全资）、育碧、Shift Up等数十家公司，2020年代成为全球收入最高的游戏公司；Supercell营收虽有波动，《荒野乱斗》电竞化与《部落冲突》IP长青延续。",
+"sources": [
+{
+"title": "2016 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2016_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Supercell - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Supercell",
+"type": "wiki"
+}
+],
+"tags": [
+"腾讯",
+"Supercell",
+"出海",
+"手游"
+]
+},
+{
+"id": "2016-09-15-persona-5",
+"date": "2016-09-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《女神异闻录5》发售，怪盗团偷走了全世界的心",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2016年9月15日，Atlus的《女神异闻录5》在日本PS4/PS3发售。红黑撞色的UI、偷心怪盗的舞台剧演出、上百小时的青春群像，媒体均分93。它让“日式RPG过时论”彻底破产，全球销量破千万，连“P5天下第一”都成了玩家梗。",
+"detail": "Atlus（P-Studio，桥野桂执导）开发的《女神异闻录5》（Persona 5）2016年9月15日在日本PS4/PS3发售（欧美2017年4月）。游戏以“心之怪盗团”潜入扭曲欲望的殿堂为主线，超现实主义UI设计、日历制生活模拟与回合制战斗的时尚化改造被奉为教科书；媒体均分93，获多项年度提名与最佳RPG。全球销量突破900万（含皇家版），中文版由世嘉官方发行并引发国内热议，“天下第一”梗出圈。",
+"impact": "日式RPG的美术与系统设计重获全球声量，Atlus从二线晋升为世嘉王牌；中文同步发行也标志着中国单机市场被日厂正式重视。",
+"aftermath": "桥野桂团队后续开发《女神异闻录》新作与《暗喻幻想：ReFantazio》（2024年年度游戏）；P5衍生格斗、音乐游戏与动画铺满全平台，2020年代Atlus多平台化战略全面展开。",
+"sources": [
+{
+"title": "2016 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2016_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Persona 5 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Persona_5",
+"type": "wiki"
+}
+],
+"tags": [
+"Atlus",
+"女神异闻录5",
+"JRPG",
+"世嘉"
+]
+},
+{
+"id": "2017-11-17-battlefront-ii-lootbox",
+"date": "2017-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《星球大战前线2》开箱风波，EA被玩家票成“最烂公司”",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "2017年11月17日，EA的《星球大战：前线2》发售，达斯·维达竟要解锁60多个小时或真金白银，玩家在Reddit用12万条点踩把EA喷成史上最多差评评论。比利时开始调查开箱是否算赌博，各国监管跟进。“氪金开箱”从此成为全球监管议题。",
+"detail": "EA的《星球大战 战争前线II》（Star Wars Battlefront II）2017年11月17日发售，其开箱（Loot Box）系统与英雄解锁时长引发 Reddit 史上最多点踩评论（约68万downvotes），付费优势争议令EA下架全部付费开箱、重做进度系统；此前预购量腰斩，EA财报承认未达预期。比利时2018年裁定部分开箱构成赌博并要求下架，荷兰、中国等跟进限制开箱概率公示，苹果谷歌也要求手游披露抽卡概率。",
+"impact": "开箱机制从商业模式问题升级为“赌博与未成年人保护”的公共监管议题；玩家社区集体行动第一次直接改变3A大作的核心设计。",
+"aftermath": "各国概率公示与年龄限制立法陆续落地（中国2016年起已强制公示概率）；EA转向“服务型内容+外观付费”，暴雪、Riot等厂商主动公开掉率，开箱争议至今仍是全球监管热点。",
+"sources": [
+{
+"title": "2017 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2017_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Loot box - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Loot_box",
+"type": "wiki"
+}
+],
+"tags": [
+"开箱",
+"EA",
+"监管",
+"星球大战"
+]
+},
+{
+"id": "2017-01-01-honor-of-kings-top",
+"date": "2017-01-01",
+"date_accuracy": "year",
+"date_confidence": "verified",
+"title": "《王者荣耀》成全球最赚钱游戏，国民手游年收入24亿美元",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2017年，腾讯的《王者荣耀》以约24亿美元年收入登顶全球，成为最赚钱的游戏。两亿注册用户、小学生到退休阿姨人手一局，“开黑”成了全民动词。它也引发防沉迷大讨论，逼出了中国最严的未成年人游戏限制政策。",
+"detail": "腾讯天美工作室的《王者荣耀》2015年上线后爆发式增长，2017年以约24亿美元收入成为全球收入最高的游戏（SuperData等机构口径），注册用户突破2亿，日活跃用户峰值过亿；“开黑”“五杀”“超神”成为全民流行语，KPL职业联赛与城市赛体系成型。同年其未成年人沉迷争议登上人民日报等媒体，腾讯随后推出健康系统（实名认证、12周岁限时段）并迭代至人脸识别，成为中国游戏防沉迷监管的行业起点。",
+"impact": "国产自研MOBA登顶全球收入榜，证明中国厂商可以凭本土市场做出世界级现金流产品；未成年人保护自此成为悬在中国游戏业头顶的常设议题。",
+"aftermath": "2021年“史上最严防沉迷新规”（未成年人每周3小时）落地，王者荣耀健康系统成为全行业模板；国际版《Arena of Valor》与电竞出海持续推进，王者荣耀世界冠军杯奖金池屡创新高。",
+"sources": [
+{
+"title": "2017 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2017_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Honor of Kings - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Honor_of_Kings",
+"type": "wiki"
+}
+],
+"tags": [
+"王者荣耀",
+"腾讯",
+"中国游戏市场",
+"防沉迷"
+]
+},
+{
+"id": "2018-03-01-china-license-freeze",
+"date": "2018-03-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "中国游戏“版号寒冬”：审批暂停九个月",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2018年3月起，中国游戏版号审批突然全面暂停，一停就是九个月，新游戏没法上线收费。腾讯、网易股价大跌，数万家中小公司熬不过去。12月底版号重启，但行业从此明白：政策是悬在头上的最大变量。",
+"detail": "2018年3月因机构改革（原国家新闻出版广电总局游戏审批职能划转中宣部），游戏版号审批全面暂停，进口与国产新游均无法商业化上线；据伽马数据估算行业直接损失数百亿元，腾讯股价从年初高位近乎腰斩，大量中小厂商裁员倒闭。2018年12月版号重启，首批80款过审，同时监管定调“总量控制、严管未成年人”，此后每逢“停发”传闻都会引发行业股价震荡，版号数量从每年数千款收缩至千款以内。",
+"impact": "中国游戏业第一次系统性体验“政策变量”的威力，大厂转向出海与存量运营，精品化与合规成为生存前提；“版号”成为投资者最敏感的关键词。",
+"aftermath": "2021年再度停发8个月后重启，未成年人防沉迷新规同年落地；出海收入自此成为中国游戏业增长主引擎，版号常态化发放成为行业年景的晴雨表。",
+"sources": [
+{
+"title": "2018 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2018_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Video gaming in China - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Video_gaming_in_China",
+"type": "wiki"
+}
+],
+"tags": [
+"版号",
+"中国游戏市场",
+"监管",
+"腾讯"
+]
+},
+{
+"id": "2018-09-21-telltale-collapse",
+"date": "2018-09-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Telltale Games 遣散250人，叙事游戏明星公司一夜倒闭",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "2018年9月21日，做《行尸走肉》成名的Telltale Games突然宣布关闭大部分业务，250名员工绝大多数当场失业，部分人连遣散费都没有。一个拿了无数年度游戏奖的明星工作室，说没就没。这件事把“游戏行业劳动保障”推上了台面。",
+"detail": "以章节式叙事冒险起家的Telltale Games因《行尸走肉：最终季》资金断裂，于2018年9月21日宣布“多数工作室关闭”，约250名员工中九成即日被裁且多数无遣散费，仅留25人完成Netflix合约；10月6日Skybound接手《行尸走肉：最终季》完成收尾。此前公司产品线过度扩张（《权力的游戏》《 Batman》等十余项目并行）、管理模式僵化、销售疲软，账上现金耗尽。事件引发行业对游戏业“无工会、随时失业”现状的强烈讨论，工会化（unionization）运动自此提速。",
+"impact": "章节叙事商业模式被证伪（至少在当时），明星工作室的现金流管理成为行业教材；开发者劳动权益与工会化议题首次获得全行业声量。",
+"aftermath": "部分前员工成立“TellTale Games重生版”（LCG娱乐）2019年重启品牌，推出《行尸走肉：命运》等续作；2018年后的重大裁员事件频发，行业工会组织（如CWAG）影响力持续增长。",
+"sources": [
+{
+"title": "2018 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2018_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Telltale Games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Telltale_Games",
+"type": "wiki"
+}
+],
+"tags": [
+"Telltale",
+"裁员",
+"章节叙事",
+"行业劳动"
+]
+},
+{
+"id": "2020-08-13-epic-vs-apple",
+"date": "2020-08-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《堡垒之夜》绕过苹果抽成被下架，Epic 状告两大巨头",
+"category": "company",
+"region": "world",
+"summary_30s": "2020年8月13日，Epic故意在《堡垒之夜》手机版里绕开苹果和谷歌的支付通道，两小时内就被App Store下架，Epic立刻起诉苹果，还拍了条恶搞苹果1984广告的视频。这场官司打了三年多，改写了全行业的“苹果税”规则。",
+"detail": "2020年8月13日，Epic在《堡垒之夜》iOS与安卓版中植入直接付费渠道（绕过苹果30%抽成），触犯App Store规则被即时下架；Epic同日起诉苹果与谷歌，并发布恶搞苹果“1984”广告的宣传片征集舆论。诉讼历时三年多：2021年加州法院裁定苹果不得禁止开发者引导外部支付（对Epic有利的关键裁决），美国最高法院2024年维持；欧盟《数字市场法》随后强制第三方商店上车，iOS生态封闭性自此松动。",
+"impact": "“苹果税”从行业潜规则变成公共反垄断议题，游戏公司首次正面挑战应用商店体系；开发者支付引导权在全球范围获得法律支持。",
+"aftermath": "《堡垒之夜》2024年重返美国iOS（经欧盟与判决推动）；Epic商店移动版上线，全球应用商店分成模式进入松动期，微软、Meta等同步开放第三方支付。",
+"sources": [
+{
+"title": "2020 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2020_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Epic Games v. Apple - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Epic_Games_v._Apple",
+"type": "wiki"
+}
+],
+"tags": [
+"Epic",
+"苹果",
+"反垄断",
+"堡垒之夜"
+]
+},
+{
+"id": "2019-01-25-re2-remake",
+"date": "2019-01-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《生化危机2重制版》发售，重制游戏的黄金标准",
+"category": "product",
+"region": "world",
+"summary_30s": "2019年1月25日，卡普空的《生化危机2重制版》发售。1998年的经典被用RE引擎整个重做：第三人称视角、现代画面、原汁原味的警察局恐怖。媒体均分91，拿下金摇杆年度游戏。重制不再等于炒冷饭，卡普空把“重制”做成了金字招牌。",
+"detail": "卡普空使用RE引擎重制的《生化危机2重制版》（Resident Evil 2 Remake）2019年1月25日全球发售。游戏在保留1998年原版剧本与双线结构的基础上，改为越肩视角与资源管理强化，暴君的持续追杀成为恐怖峰值；媒体均分91，拿下金摇杆年度游戏等多个大奖，全球销量超1000万份。卡普空随即确立“经典重制”产品线：《生化危机3》（2020）、《生化危机4》（2023）相继推出，均获商业与口碑双收。",
+"impact": "确立“全引擎重制”的行业标准，重制版从粉丝服务升格为3A主线产品；卡普空凭借RE引擎+重制组合进入史上最强盈利周期。",
+"aftermath": "2022年生化危机2、3重制版合集长销，2025年《生化危机9》官宣；其他厂商（史克威尔、科乐美）纷纷跟进重制路线，重制经济成为行业常态。",
+"sources": [
+{
+"title": "2019 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2019_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Resident Evil 2 (2019 video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"卡普空",
+"生化危机2",
+"重制版",
+"RE引擎"
+]
+},
+{
+"id": "2019-10-06-blitzchung",
+"date": "2019-10-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "炉石选手赛后喊口号被重罚，暴雪卷入舆论风暴",
+"category": "culture",
+"region": "world",
+"summary_30s": "2019年10月，炉石传说香港选手Blitzchung赛后戴面具喊口号，暴雪取消成绩、禁赛一年并扣发奖金，两名解说也遭解约。风波瞬间烧成全球舆论事件：美国议员致信、玩家罢玩、员工罢工。暴雪一周后减刑，但“暴雪失心疯”的骂名背了很多年。",
+"detail": "2019年10月6日，炉石传说特级大师赛亚太分区赛后，香港选手张一航（Blitzchung）戴面罩接受采访喊出政治口号；10月8日暴雪宣布取消其比赛成绩、禁赛12个月、扣发奖金，并终止两名华裔解说的合作。事件被指与中国市场利益相关，引发美国政界联名质疑、玩家社区抵制与暴雪员工内部抗议；10月11日暴雪将禁赛减至6个月、恢复奖金与解说合作，但玩家信任长期受挫，《炉石》《守望》社区出现大规模退坑潮。",
+"impact": "游戏公司的全球市场立场问题第一次成为跨领域政治事件，“企业价值观 vs 市场利益”的行业困境被摆上台面；暴雪品牌形象受重创。",
+"aftermath": "事件成为后来国际游戏与政治争议（如俄区停服、世界杯电竞）的参照案例；暴雪此后在敏感事件上采取更低姿态，2023年暴雪与网易分手风波中再度成为焦点。",
+"sources": [
+{
+"title": "2019 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2019_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Blitzchung controversy - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Blitzchung_controversy",
+"type": "wiki"
+}
+],
+"tags": [
+"暴雪",
+"炉石传说",
+"舆论风暴",
+"电竞"
+]
+},
+{
+"id": "2021-01-01-genshin-impact-year",
+"date": "2021-01-01",
+"date_accuracy": "year",
+"date_confidence": "verified",
+"title": "《原神》首年狂揽约19亿美元，中国自研开放世界征服全球",
+"category": "company",
+"region": "cn",
+"summary_30s": "2021年，米哈游的《原神》移动端收入约19亿美元，拿下TGA最佳移动游戏，全球登顶几十个国家畅销榜。这款中国团队做的开放世界，让“国产游戏只能做氪金页游”的偏见碎了一地，也把中国自研游戏的出海推向新高度。",
+"detail": "米哈游开发的开放世界动作RPG《原神》（Genshin Impact）2020年9月28日全球同步上线（含中文语音与全平台互通），2021年以约19亿美元的移动端年收入位居全球手游最前列，并获TGA 2021最佳移动游戏；PC/PS/移动全平台数据互通与二次元开放世界的组合在全球引发轰动，蒙德至须弥的版本更新持续拉动收入，多语言配音与欧美日韩主播生态全面开花。Sensor Tower等机构估算其上线三年移动端总收入超50亿美元，成为全球收入最高的中国原创游戏。",
+"impact": "中国自研游戏第一次以“文化输出品”姿态登顶全球多市场，全平台互通与二次元工业化生产管线被全球厂商研究；中国游戏出海进入“品牌出海”阶段。",
+"aftermath": "米哈游以原神现金流支撑《崩坏：星穹铁道》（2023）、《绝区零》（2024）全球化发行，总部迁入上海漕河泾新总部；全球大厂纷纷组建二次元开放世界团队对标。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Genshin Impact - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Genshin_Impact",
+"type": "wiki"
+}
+],
+"tags": [
+"米哈游",
+"原神",
+"出海",
+"开放世界"
+]
+},
+{
+"id": "2021-07-20-activision-lawsuit",
+"date": "2021-07-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "加州起诉动视暴雪：职场性骚扰诉讼震动全行业",
+"category": "company",
+"region": "world",
+"summary_30s": "2021年7月20日，加州监管机构起诉动视暴雪：指控公司存在长期性骚扰、兄弟会文化和性别歧视，员工罢工抗议，高管接连离职，股价大跌。此后几天几十位员工被解雇或调查，这桩案子最终直接催化了微软的收购。",
+"detail": "2021年7月20日，加州公平就业与住房部（DFEH）起诉动视暴雪，指控《魔兽世界》《守望先锋》团队长期存在“兄弟会文化”、性骚扰与性别薪酬歧视，并提及“Cosby房间”等细节；员工举行为期数周的罢工与集会，数千人联署要求CEO辞职，暴雪总裁J. Allen Brack 8月3日离职，法律事务高管等相继离开。诉讼历时数年（部分指控2023年被驳回、部分和解），但已彻底动摇公司治理；2022年1月微软宣布690亿美元收购动视暴雪，普遍被解读为危机中的雪中送炭。",
+"impact": "游戏业职场文化（加班、骚扰、多样性）被推上司法与舆论台面，头部公司治理重构；直接改变了动视暴雪的命运轨迹。",
+"aftermath": "Riot同年以1亿美元和解同类集体诉讼；动视暴雪2023年被微软收购后重组管理层，工会（GWA-CWA）首次在微软游戏工作室成立。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "California Department of Fair Employment and Housing v. Activision Blizzard - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/California_Department_of_Fair_Employment_and_Housing_v._Activision_Blizzard",
+"type": "wiki"
+}
+],
+"tags": [
+"动视暴雪",
+"职场文化",
+"诉讼",
+"微软收购"
+]
+},
+{
+"id": "2021-08-30-china-minor-rules",
+"date": "2021-08-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "“史上最严防沉迷”落地，中国未成年人每周只能玩3小时",
+"category": "national",
+"region": "cn",
+"summary_30s": "2021年8月30日，国家新闻出版署下发新规：未成年人只能在周五、六、日和节假日的晚上8点到9点玩游戏，每周最多3小时。当天腾讯网易股价应声大跌，家长群里一片叫好，全球媒体争相报道这道“最严游戏禁令”。",
+"detail": "2021年8月30日，国家新闻出版署发布《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，要求所有网络游戏企业仅可在周五、周六、周日和法定节假日的20时至21时向未成年人提供服务，其他时间一律不得以任何形式向未成年人提供游戏；所有用户须实名认证，接入了统一的身份验证系统。此前2019年的规定为每天1.5小时，新规大幅收紧；腾讯迅速升级“零点巡航”人脸识别，行业随之全面转向成人化、精品化与出海。",
+"impact": "中国未成年人游戏时长被压缩至全球最严水平，国内游戏公司收入结构被迫转向成年人、主机单机与海外市场；“防沉迷”成为全球游戏监管的参照样本之一。",
+"aftermath": "未成年人游戏时长与消费占比此后降至1%上下，行业合规成本常态化；2023年起进口版号恢复常态化，政策进入“严管+常态化审批”阶段。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Video gaming in China - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Video_gaming_in_China",
+"type": "wiki"
+}
+],
+"tags": [
+"防沉迷",
+"未成年人",
+"中国游戏市场",
+"政策"
+]
+},
+{
+"id": "2021-10-28-meta-rebrand",
+"date": "2021-10-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Facebook 改名 Meta，全行业开始讲“元宇宙”",
+"category": "tech",
+"region": "world",
+"summary_30s": "2021年10月28日，扎克伯格宣布Facebook改名Meta，宣布公司未来押注“元宇宙”——一个用VR/AR连接的游戏化虚拟社会。游戏业首当其冲被卷入概念热潮，Roblox、《堡垒之夜》被当作元宇宙样板间，投机与泡沫一起起飞。",
+"detail": "2021年10月28日，扎克伯格在Connect大会上宣布Facebook公司更名为Meta Platforms，宣布未来十年从社交公司转型为“元宇宙公司”，旗舰产品为Quest VR生态与Horizon Worlds虚拟空间。受疫情线上化与Roblox（2021年3月上市，估值一度450亿美元）、《堡垒之夜》演唱会等案例鼓舞，资本市场掀起元宇宙与NFT概念狂潮；游戏公司纷纷更名（如Square Enix旗下Eidos被出售）、Meta十年累亏数百亿美元，热潮在2022年加密市场崩盘后显著退潮。",
+"impact": "游戏被确认为元宇宙的核心基础设施，游戏引擎（虚幻、Unity）与虚拟社交资产获得跨行业定价；游戏公司的“平台化”叙事达到顶峰。",
+"aftermath": "2022年后元宇宙叙事让位于生成式AI，Meta转向AI眼镜与AI研究；但Roblox、堡垒之夜与《我的世界》构成的虚拟社交基本盘依然稳固。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Meta Platforms - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+"type": "wiki"
+}
+],
+"tags": [
+"Meta",
+"元宇宙",
+"Facebook",
+"VR"
+]
+},
+{
+"id": "2021-12-10-it-takes-two",
+"date": "2021-12-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《双人成行》发售，强制两个人玩的年度游戏",
+"category": "product",
+"region": "world",
+"summary_30s": "2021年12月10日，Hazelight的《双人成行》发售，一款必须两个人一起玩的游戏：夫妻变成玩偶在童话世界里复婚，关卡五分钟换一个玩法。它拿下TGA年度游戏，卖出一千多万份，证明了“合作游戏”可以做成大爆款。",
+"detail": "Hazelight工作室（约瑟夫·法列斯执导）的《双人成行》（It Takes Two）2021年12月10日全球发售，强制双人（本地分屏或在线）合作。游戏以濒临离婚的夫妻科迪与小梅变身为玩偶、在童话化家庭场景中修复感情为主线，几乎每个章节更换核心玩法机制，合作设计密度堪称教科书；发行商EA Originals支持下的口碑营销与好友通行证（一人购买双人玩）助推长销，累计销量超2000万份，拿下TGA 2021年度游戏。",
+"impact": "强制合作设计被证明可以成就顶级商业成功，双人合作品类重新进入主流视野；“游戏作为关系修复隐喻”的叙事定位引发广泛共鸣。",
+"aftermath": "Hazelight下一作《双影奇境》（2025）首月销量破纪录，法列斯的“游戏电影论”持续输出；EA Originals模式被视为中型创意游戏的发行样板。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "It Takes Two (video game) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)",
+"type": "wiki"
+}
+],
+"tags": [
+"Hazelight",
+"双人成行",
+"合作游戏",
+"TGA"
+]
+},
+{
+"id": "2021-12-27-riot-settlement",
+"date": "2021-12-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Riot 1亿美元和解性别歧视案，游戏业职场账单越来越贵",
+"category": "company",
+"region": "world",
+"summary_30s": "2021年12月27日，《英雄联盟》开发商Riot Games同意支付1亿美元，就性别歧视与性骚扰集体诉讼达成和解，约2900名女性员工和求职者受益。这是游戏史上最大的职场歧视和解金之一，和暴雪案一起，把行业职场文化改革推上了日程。",
+"detail": "2018年起， Riot Games（英雄联盟开发商）遭女性员工集体诉讼，指控薪酬差距、性骚扰与晋升歧视；案件经历仲裁争议与州法院拉锯后，2021年12月27日Riot同意支付1亿美元和解（含约8000万美元补偿基金），覆盖2014年11月以来约2900名女性员工与求职者，并承诺薪酬公平审计与招聘改革。同期暴雪诉讼、育碧高管离职潮相继发生，游戏业的职场文化治理成为投资者与媒体评估公司风险的固定维度。",
+"impact": "游戏业职场性别问题从舆论议题变成真金白银的法律成本，大厂普遍启动薪酬审计与HR体系改革；招聘透明度成为行业新竞争点。",
+"aftermath": "Riot此后每年发布包容性报告并设立企业文化改革官；行业工会化浪潮（微软动视案后首个工会）与此类和解共同推动劳工议题主流化。",
+"sources": [
+{
+"title": "2021 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Riot Games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Riot_Games",
+"type": "wiki"
+}
+],
+"tags": [
+"Riot",
+"性别歧视",
+"和解",
+"职场文化"
+]
+},
+{
+"id": "2022-01-31-sony-bungie",
+"date": "2022-01-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "索尼36亿美元收购 Bungie，主机军备竞赛白热化",
+"category": "company",
+"region": "world",
+"summary_30s": "2022年1月31日，索尼宣布36亿美元收购《光环》原创者、《命运》开发商Bungie——微软旧部投奔PlayStation。就在两周前微软刚宣布买动视暴雪，主机巨头们疯狂扫货工作室，收购军备竞赛彻底白热化。",
+"detail": "2022年1月31日，索尼互动娱乐（SIE）宣布以36亿美元收购Bungie，这是继微软宣布690亿美元收购动视暴雪（1月18日）后两周内的回应性交易。Bungie保持独立运营并承诺跨平台（《命运2》不撤出Xbox），其“服务型游戏+自研引擎”经验被索尼视为关键资产；同期Take-Two以127亿美元收购Zynga、腾讯收购Sumo、Embracer连环并购，游戏业进入史上最疯狂的整合期。Bungie 2023-2024年经历裁员，索尼推动其参与《马拉松》等项目。",
+"impact": "主机平台竞争全面转向“收购工作室囤内容”，中型独立工作室估值被资本重估；服务型游戏人才成为最抢手资源。",
+"aftermath": "索尼此后相继收购Firewalk等（部分失利，Concord 2024年关服）；Bungie《命运2》持续运营并主导索尼直播服务战略，《马拉松》2025年公布。",
+"sources": [
+{
+"title": "2022 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2022_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Bungie - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Bungie",
+"type": "wiki"
+}
+],
+"tags": [
+"索尼",
+"Bungie",
+"收购",
+"服务型游戏"
+]
+},
+{
+"id": "2022-09-18-gta6-leak",
+"date": "2022-09-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《GTA6》开发版遭史上最大泄露，黑客是个18岁少年",
+"category": "culture",
+"region": "world",
+"summary_30s": "2022年9月18日，90段《GTA6》开发版视频被黑客捅上网络，两位主角、 Vice City 地图一览无余，被称为游戏史上最大泄露。泄露者是个18岁英国少年（Lapsus$团伙成员），后来被法庭裁定无限期住院。Rockstar罕见发信安抚员工“不会影响开发”。",
+"detail": "2022年9月18日，黑客在论坛泄露90段《侠盗猎车手6》开发中素材，包含角色、任务与地图细节，被媒体称为“游戏史上最大泄露事件”。泄露者为英国18岁少年阿伦（网名teapotuberhacker，Lapsus$团伙成员，此前曾攻击Uber与微软），2023年被法庭裁定需无限期住院治疗；Rockstar母公司T2确认源代码同时遭窃，公司向员工公开信保证项目继续。《GTA6》2023年12月正式公布，首支预告24小时播放量破纪录。",
+"impact": "大型游戏公司的信息安全与远程办公脆弱性暴露无遗，“开发版泄露”成为行业安全投入的直接理由；粉丝文化对未完成素材的消化也引发伦理讨论。",
+"aftermath": "Rockstar全面转向线下办公强化安全；2025年《GTA6》两度跳票至2026年11月，每次公布都成为全球娱乐新闻。",
+"sources": [
+{
+"title": "2022 in video games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/2022_in_video_games",
+"type": "wiki"
+},
+{
+"title": "Grand Theft Auto VI - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+"type": "wiki"
+}
+],
+"tags": [
+"GTA6",
+"泄露",
+"Rockstar",
+"信息安全"
+]
 }
 ]
