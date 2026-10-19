@@ -390,8 +390,8 @@
 ]
 },
 {
-"id": "1987-1201-discovers-crispr-repeat",
-"date": "1987-1201",
+"id": "1987-12-01-discovers-crispr-repeat",
+"date": "1987-12-01",
 "date_accuracy": "month",
 "date_confidence": "verified",
 "title": "石野良纯在细菌基因组里记下CRISPR序列的最早一笔",
@@ -442,8 +442,8 @@
 ]
 },
 {
-"id": "1988-0401-brief-history",
-"date": "1988-0401",
+"id": "1988-04-01-brief-history",
+"date": "1988-04-01",
 "date_accuracy": "month",
 "date_confidence": "verified",
 "title": "霍金《时间简史》出版，科普畅销书神话开启",
@@ -520,8 +520,8 @@
 ]
 },
 {
-"id": "1988-1101-established",
-"date": "1988-1101",
+"id": "1988-11-01-established",
+"date": "1988-11-01",
 "date_accuracy": "month",
 "date_confidence": "verified",
 "title": "政府间气候变化专门委员会（IPCC）成立",
@@ -572,8 +572,8 @@
 ]
 },
 {
-"id": "1988-1201-transatlantic-fiber",
-"date": "1988-1201",
+"id": "1988-12-01-transatlantic-fiber",
+"date": "1988-12-01",
 "date_accuracy": "month",
 "date_confidence": "verified",
 "title": "TAT-8：第一条跨大西洋光纤电缆建成",
@@ -702,8 +702,8 @@
 ]
 },
 {
-"id": "1989-0801-first-asteroid-image",
-"date": "1989-0801",
+"id": "1989-08-01-first-asteroid-image",
+"date": "1989-08-01",
 "date_accuracy": "month",
 "date_confidence": "verified",
 "title": "阿雷西博雷达首次直接给小行星成像",
@@ -881,32 +881,6 @@
 "霸王龙",
 "古生物",
 "化石"
-]
-},
-{
-"id": "1990-1001-genome-project-launch",
-"date": "1990-1001",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "人类基因组计划正式启动",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "10月，美国能源部与国立卫生研究院联合启动人类基因组计划，目标15年内测出人类全部约30亿碱基对序列。这是生物学史上规模最大的国际合作项目，预算约30亿美元。",
-"detail": "计划确立『先作图后测序』路线，美英日法德中六国分头承担测序任务，中国承担1%工作量。项目早期采用链终止法测序进展缓慢；1998年文特尔创立塞雷拉公司用全基因组鸟枪法发起竞赛，2000年6月双方共同宣布工作草图完成，2003年4月宣告测序完成。数据即时开放共享成为项目最深远的原则遗产。",
-"impact": "生物学进入基因组时代，为全基因组关联研究与精准医学奠基。",
-"aftermath": "2022年端粒到端粒（T2T）联盟补完最后缺口，发布首个真正完整的人类基因组序列。",
-"sources": [
-{
-"title": "Wikipedia: 1990 in science",
-"url": "https://en.wikipedia.org/wiki/1990_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"人类基因组计划",
-"基因组学",
-"国际合作"
 ]
 }
 ]

@@ -33,7 +33,8 @@ def main() -> int:
             if acc == "year" and not e["date"].endswith("01-01"):
                 e["date"] = e["date"][:5] + "01-01"; dirty = True
             if not e["id"].startswith(e["date"]):
-                e["id"] = e["date"] + "-" + e["id"].split("-", 3)[3]; dirty = True
+                slug = re.sub(r"^\d{4}-?\d{0,2}-?\d{0,2}-?", "", e["id"]).strip("-")
+                e["id"] = e["date"] + "-" + (slug or "event"); dirty = True
             if e["id"] != e["id"].lower():
                 e["id"] = e["id"].lower(); dirty = True
         if dirty:
