@@ -1,0 +1,1174 @@
+[
+{
+"id": "2011-01-21-wechat-launch",
+"date": "2011-01-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微信发布：移动互联网时代的超级入口诞生",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "腾讯广州研发部的七人小团队推出微信1.0。语音对讲、摇一摇、朋友圈、二维码——此后十年，微信重新定义了中国人打电话、付款、打车、工作乃至吵架的方式，成为国民级应用。",
+"detail": "张小龙团队2011年1月21日发布微信iOS版，借语音消息与免费短信替代感实现冷启动，2012年朋友圈与公众号上线，2013年支付功能加持，2014年春节红包完成全民普及。",
+"impact": "IM与操作系统边界消融，所有互联网服务都要回答『在微信里怎么办』。",
+"aftermath": "2018年小程序生态成型；月活超13亿；腾讯市值与微信深度绑定，社交+支付的组合成为全球互联网独特样本。",
+"sources": [
+{
+"title": "维基百科：微信",
+"url": "https://zh.wikipedia.org/wiki/微信",
+"type": "wiki"
+}
+],
+"tags": [
+"微信",
+"张小龙"
+]
+},
+{
+"id": "2010-03-23-google-exit-cn",
+"date": "2010-03-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌搜索服务退出中国大陆",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "谷歌宣布停止依照中国法律对google.cn的搜索结果进行审查，将大陆用户跳转至香港站点。网民排队在清华园的谷歌牌前献花合影。此后中国搜索市场几乎尽归百度。",
+"detail": "事件起于2010年1月谷歌宣布不再接受审查并称遭受网络攻击，与中国政府多轮磋商未果。谷歌保留广告与研发业务。",
+"impact": "中文搜索、安卓生态与外企在华互联网业务的格局重排。",
+"aftermath": "百度市占率升至八成；2018年『蜻蜓』项目流产；谷歌 AI 服务再未进入大陆。",
+"sources": [
+{
+"title": "维基百科：谷歌中国",
+"url": "https://zh.wikipedia.org/wiki/谷歌中国",
+"type": "wiki"
+}
+],
+"tags": [
+"谷歌",
+"搜索引擎"
+]
+},
+{
+"id": "2010-04-14-yushu-earthquake",
+"date": "2010-04-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "青海玉树7.1级地震",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "青海玉树藏族自治州发生7.1级地震，2698人遇难。高原缺氧让救援格外艰难，全国的爱心捐助与志愿者再一次集结——汶川后的中国救灾体系第一次大考。",
+"detail": "震中结古镇房屋大量倒塌，救援面临高原反应与严寒。4月21日全国哀悼。重建投入316亿元。",
+"impact": "民族地区救灾与重建经验积累，应急物流体系完善。",
+"aftermath": "2013年重建基本完成；玉树模式被纳入国家应急案例库。",
+"sources": [
+{
+"title": "维基百科：玉树地震",
+"url": "https://zh.wikipedia.org/wiki/玉树地震",
+"type": "wiki"
+}
+],
+"tags": [
+"玉树",
+"地震"
+]
+},
+{
+"id": "2010-05-01-shanghai-expo",
+"date": "2010-05-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海世博会开幕：城市让生活更美好",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "246个国家和国际组织参展、7308万人次参观，上海世博会创下世博史纪录。顶着38度高温排队8小时看沙特馆，是那一代上海记忆；中国馆的《清明上河图》动起来了。",
+"detail": "世博园区横跨黄浦江两岸，10月31日闭幕。中国馆『东方之冠』成为上海新地标，后世博园区演化为西岸文化走廊。",
+"impact": "城市更新与服务业升级，上海国际形象大幅提升。",
+"aftermath": "志愿者『小白菜』文化、世博护照盖章风潮成为时代记忆；园区后的世博文化公园2021年开放。",
+"sources": [
+{
+"title": "维基百科：中国2010年上海世界博览会",
+"url": "https://zh.wikipedia.org/wiki/中国2010年上海世界博览会",
+"type": "wiki"
+}
+],
+"tags": [
+"世博会",
+"上海"
+]
+},
+{
+"id": "2010-05-01-foxconn-incidents",
+"date": "2010-05-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "富士康连续坠楼事件：流水线上的世界被看见",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2010年上半年，富士康深圳工厂接连发生十余起员工坠楼事件，媒体与学界涌入『紫禁城』般的园区调查。郭台铭三度加薪，中国代工一线工人的生存状态第一次成为全球议题。",
+"detail": "坠楼员工多为20岁上下的新生代农民工，超时加班、原子化宿舍管理被普遍讨论。富士康随后在内地多处建厂分散产能。",
+"impact": "劳动权益、心理健康与企业社会责任进入公共视野。",
+"aftermath": "2012年后机器人替代加速；苹果供应链审计与劳工报告成为行业标配。",
+"sources": [
+{
+"title": "维基百科：富士康",
+"url": "https://zh.wikipedia.org/wiki/富士康",
+"type": "wiki"
+}
+],
+"tags": [
+"富士康",
+"劳工"
+]
+},
+{
+"id": "2010-07-11-south-africa-worldcup",
+"date": "2010-07-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "南非世界杯：西班牙首夺冠，呜呜祖拉响彻全球",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "伊涅斯塔116分钟绝杀，西班牙首捧大力神杯。非洲第一次办世界杯，呜呜祖拉的嗡嗡声灌进每一台电视机——中国球迷第一次大量用微博和视频网站追球。",
+"detail": "章鱼保罗8猜全中成为网络顶流；朝鲜郑大世的眼泪、阿根廷梅西的失意都是话题。",
+"impact": "社交媒体首次深度参与世界杯传播。",
+"aftermath": "『章鱼保罗』成为大数据预测的民间图腾；此后每届世界杯都是短视频流量节日。",
+"sources": [
+{
+"title": "维基百科：2010年国际足联世界杯",
+"url": "https://zh.wikipedia.org/wiki/2010年国际足联世界杯",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"西班牙"
+]
+},
+{
+"id": "2010-08-07-zhouqu-mudslide",
+"date": "2010-08-07",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "甘肃舟曲特大山洪泥石流",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "深夜泥石流冲垮舟曲县城，1557人遇难。全国哀悼再启，汶川两年后，中国救灾体系又一次面对山区特大灾害。",
+"detail": "8月7日23时泥石流冲毁半个县城，白龙江被堰塞体壅高。8月15日全国哀悼。",
+"impact": "山区城镇选址与地质灾害防治政策收紧。",
+"aftermath": "舟曲重建2012年完成；地质灾害群测群防体系全国铺开。",
+"sources": [
+{
+"title": "维基百科：舟曲泥石流",
+"url": "https://zh.wikipedia.org/wiki/舟曲泥石流",
+"type": "wiki"
+}
+],
+"tags": [
+"舟曲",
+"泥石流"
+]
+},
+{
+"id": "2010-11-12-guangzhou-asian-games",
+"date": "2010-11-12",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "广州亚运会开幕：乐羊羊的珠江之夜",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "广州亚运开幕，中国以199金横扫金牌榜。开幕式选在珠江海心沙岛露天举行，帆船与喷泉代替了传统体育场——广州把亚运办成了一场城市大秀。",
+"detail": "45个国家和地区参赛，广州借亚运完成城市中轴线与地铁大扩容。",
+"impact": "珠三角城市界面升级，服务业消费提升。",
+"aftermath": "2022年杭州亚运、2025年大湾区全运延续大型赛事周期。",
+"sources": [
+{
+"title": "维基百科：2010年亚洲运动会",
+"url": "https://zh.wikipedia.org/wiki/2010年亚洲运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"广州亚运"
+]
+},
+{
+"id": "2010-04-17-house-purchase-limits",
+"date": "2010-04-17",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "『国十条』重启限购：史上最严楼市调控",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院出台新『国十条』，房价过高城市可限制购房套数，北京率先祭出限购令。此后十几年，『限购』成为中国楼市最持久的温度计。",
+"detail": "2010年4月17日国十条发布，首套90平米以上首付三成、二套五成，三套停贷。当年北京、深圳等16城限购。",
+"impact": "投资性需求被压制，成交量短期冰冻，房价涨幅放缓。",
+"aftermath": "2011年新国八条扩围至46城；2014年放松、2016年再收紧、2024年逐步退出。",
+"sources": [
+{
+"title": "维基百科：中国大陆房地产调控",
+"url": "https://zh.wikipedia.org/wiki/中国大陆房地产调控",
+"type": "wiki"
+}
+],
+"tags": [
+"限购",
+"楼市调控"
+]
+},
+{
+"id": "2010-12-16-let-the-bullets-fly",
+"date": "2010-12-16",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《让子弹飞》上映：站着把钱挣了",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "姜文的《让子弹飞》以6.7亿刷新国产片纪录，台词被逐句做成『职场/社会』隐喻教材。此后十几年，每逢大事，『让子弹飞一会儿』都会准时出现。",
+"detail": "周润发、葛优、姜文三影帝同台，电影以民国北洋为背景的寓言结构提供了巨大的解读空间。",
+"impact": "华语电影隐喻表达的标杆，互联网二次解读的富矿。",
+"aftermath": "2020年B站等平台掀起重读热潮；『鹅城』成为符号化词汇。",
+"sources": [
+{
+"title": "维基百科：让子弹飞",
+"url": "https://zh.wikipedia.org/wiki/让子弹飞",
+"type": "wiki"
+}
+],
+"tags": [
+"让子弹飞",
+"姜文"
+]
+},
+{
+"id": "2011-02-22-libya-evacuation",
+"date": "2011-02-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "利比亚大撤侨：35860人十日回家",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "利比亚内战爆发，中国动用民航包机、军舰、邮轮在12天内撤出35860名公民。《战狼2》片尾那句『带你回家』的原型，就是这次被称为『国家行动』的撤侨。",
+"detail": "国务院成立应急指挥部，协调海陆空四路撤离，人均花费约3万元人民币全部由国家承担。",
+"impact": "海外利益保护与领事保护能力里程碑。",
+"aftermath": "2011年也门、2015年也门与尼泊尔撤侨相继展开；『护照背后的话』成为流行梗。",
+"sources": [
+{
+"title": "维基百科：利比亚撤侨行动",
+"url": "https://zh.wikipedia.org/wiki/利比亚撤侨行动",
+"type": "wiki"
+}
+],
+"tags": [
+"撤侨",
+"利比亚"
+]
+},
+{
+"id": "2011-03-11-tohoku-tsunami",
+"date": "2011-03-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东日本大地震与福岛核事故",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "日本东北9.0级地震掀起最高40米海啸，约2.2万人遇难，福岛第一核电站堆芯熔毁成为切尔诺贝利后最严重核事故。一周后中国爆发『抢盐风波』——谣言比海啸跑得还快，凸显社交媒体时代的传播课题。",
+"detail": "地震引发的海啸摧毁福岛核电站冷却系统，氢爆与核污水问题延续至今。中国3月17日前后出现碘盐抢购，官方辟谣后迅速平息。",
+"impact": "全球核电政策转向（德国宣布弃核）；日本食品进口限制延续多年。",
+"aftermath": "2021年日本决定排放处理水引发新一轮中日舆情；核能讨论在气候目标下重新升温。",
+"sources": [
+{
+"title": "维基百科：东日本大地震",
+"url": "https://zh.wikipedia.org/wiki/东日本大地震",
+"type": "wiki"
+}
+],
+"tags": [
+"311",
+"福岛"
+]
+},
+{
+"id": "2011-06-30-beijing-shanghai-hsr",
+"date": "2011-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "京沪高铁开通：4小时48分贯穿南北",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1318公里的京沪高铁开通，北京到上海最快4小时48分，比民航门到门更省时。民航打折票从此离不开高铁时刻表，中国进入高铁改写地理的时代。",
+"detail": "京沪高铁为当时世界上一次建成里程最长、标准最高的高速铁路，2017年实现盈利成为全球最赚钱高铁。",
+"impact": "京沪走廊商务形态重构，沿线城市房价与产业再布局。",
+"aftermath": "2016年总客流破亿；沿线『高铁新城』潮与空城争议并存。",
+"sources": [
+{
+"title": "维基百科：京沪高速铁路",
+"url": "https://zh.wikipedia.org/wiki/京沪高速铁路",
+"type": "wiki"
+}
+],
+"tags": [
+"京沪高铁",
+"高铁"
+]
+},
+{
+"id": "2011-03-15-shuanghui-clenbuterol",
+"date": "2011-03-15",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "央视3·15曝光双汇瘦肉精",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "『健美猪』用瘦肉精喂养的新闻在315晚会曝光，肉制品巨头双汇股价大跌、产品下架。从三聚氰胺到瘦肉精，食品安全成为中国消费者最敏感的神经。",
+"detail": "河南孟州等地养猪场违规使用克伦特罗，济源双汇收购『健美猪』。涉案人员获刑，双汇当年损失超百亿销售。",
+"impact": "食品供应链全程追溯与检测加码。",
+"aftermath": "3·15晚会自此成为年度『企业惊魂夜』；2020年代直播带货又被它盯上。",
+"sources": [
+{
+"title": "维基百科：双汇",
+"url": "https://zh.wikipedia.org/wiki/双汇",
+"type": "wiki"
+}
+],
+"tags": [
+"瘦肉精",
+"315"
+]
+},
+{
+"id": "2011-06-20-guomeimei",
+"date": "2011-06-20",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "郭美美炫富事件：红十字会信任危机",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一个自称『红十字会商业总经理』的年轻女子在微博晒玛莎拉蒂与爱马仕，引爆全民对善款去向的追问。红十字会捐款额应声暴跌，中国公益 transparency 议题被迫提前到来。",
+"detail": "事后查明郭美美与红会无关系（后因开设赌场获刑），但损害已经造成。红会随后推行信息公开与捐赠平台改造。",
+"impact": "公益组织公信力危机与透明化改革起点。",
+"aftermath": "2016年《慈善法》施行；互联网公益平台（腾讯公益99公益日等）以流程透明重建信任。",
+"sources": [
+{
+"title": "维基百科：郭美美事件",
+"url": "https://zh.wikipedia.org/wiki/郭美美事件",
+"type": "wiki"
+}
+],
+"tags": [
+"郭美美",
+"红十字会"
+]
+},
+{
+"id": "2011-09-29-tiangong-1",
+"date": "2011-09-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "天宫一号发射：中国空间站第一步",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "天宫一号目标飞行器升空，中国有了第一个太空『家』的雏形。11月初神舟八号与它完成首次交会对接，中国载人航天跻身『俱乐部』核心圈。",
+"detail": "天宫一号在轨运行至2016年，先后与神八、神九、神十对接，验证空间交会对接与航天员驻留技术。",
+"impact": "空间站关键技术全面验证。",
+"aftermath": "2016年天宫二号接棒；2022年天宫空间站三舱建成，长期有人驻留。",
+"sources": [
+{
+"title": "维基百科：天宫一号",
+"url": "https://zh.wikipedia.org/wiki/天宫一号",
+"type": "wiki"
+}
+],
+"tags": [
+"天宫一号",
+"空间站"
+]
+},
+{
+"id": "2011-11-03-docking-success",
+"date": "2011-11-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神八天宫首次太空交会对接",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "凌晨1点36分，神舟八号与天宫一号在343公里高空精准相接。这个『太空之吻』让中国成为独立掌握交会对接技术的第三个国家。",
+"detail": "无人飞船完成两次对接，2012年神九载人验证，刘洋成为首位女航天员。",
+"impact": "空间站建造路线图完全打通。",
+"aftermath": "2021年天舟货运、2022年问天梦天相继入列。",
+"sources": [
+{
+"title": "维基百科：神舟八号",
+"url": "https://zh.wikipedia.org/wiki/神舟八号",
+"type": "wiki"
+}
+],
+"tags": [
+"交会对接"
+]
+},
+{
+"id": "2011-01-26-new8-measures",
+"date": "2011-01-26",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "『新国八条』：限购全面铺开",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "二套房首付提至六成、限购令推向全国主要城市，36城先后跟进。中国的房子从此不只需要钱，还需要户口、社保与运气。",
+"detail": "新国八条将二套房贷首付不低于60%、价格控制目标问责地方政府。",
+"impact": "楼市成交速冻，资金转向未限购城市与商住房。",
+"aftermath": "2011-2013年限购城市扩至46个；2014年放开后2016年再度收紧。",
+"sources": [
+{
+"title": "维基百科：中国大陆房地产调控",
+"url": "https://zh.wikipedia.org/wiki/中国大陆房地产调控",
+"type": "wiki"
+}
+],
+"tags": [
+"新国八条",
+"限购"
+]
+},
+{
+"id": "2012-06-16-shenzhou-9",
+"date": "2012-06-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟九号：首位女航天员刘洋上天并完成手控对接",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "刘洋成为中国首位进入太空的女性，景海鹏、刘旺完成首次手控交会对接。『太空穿针』的直播里，全国观众屏住呼吸看两个8吨的飞行器在万米秒速下对接成功。",
+"detail": "神九乘组驻留天宫一号13天，完成医学生理实验与手控对接。",
+"impact": "载人交会对接全面掌握。",
+"aftermath": "2013年神十王亚平太空授课；2021年神十三王亚平再上太空并出舱。",
+"sources": [
+{
+"title": "维基百科：神舟九号",
+"url": "https://zh.wikipedia.org/wiki/神舟九号",
+"type": "wiki"
+}
+],
+"tags": [
+"神九",
+"刘洋"
+]
+},
+{
+"id": "2012-04-10-scarborough-shoal",
+"date": "2012-04-10",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "黄岩岛对峙：南海议题升温",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中菲公务船在黄岩岛海域对峙近两个月，中国实际控制该环礁。南海从此进入常态化维权阶段，渔政船与海监船的名字开始频繁出现在新闻里。",
+"detail": "对峙起于菲方试图抓扣中国渔民，最终菲船撤离，中国实现对黄岩岛的常态化值守。",
+"impact": "南海维权从口头声明转入实际存在管理。",
+"aftermath": "2012年三沙市设立；2016年南海仲裁案后局势再平衡。",
+"sources": [
+{
+"title": "维基百科：黄岩岛",
+"url": "https://zh.wikipedia.org/wiki/黄岩岛",
+"type": "wiki"
+}
+],
+"tags": [
+"南海",
+"黄岩岛"
+]
+},
+{
+"id": "2012-07-27-london-olympics",
+"date": "2012-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "伦敦奥运会：孙杨叶诗文掀起泳池风暴",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "伦敦奥运中国代表团获38金，境外参赛最好成绩之一。孙杨400自夺金成为中国男子游泳第一人，叶诗文两金震惊世界泳坛——那一年的夏天属于泳池与微博直播的凌晨。",
+"detail": "开幕式以工业革命与治愈神剧《Mr Bean》风格呈现。中国金牌数仅次于美国。",
+"impact": "游泳、击剑等非传统优势项目偶像化。",
+"aftermath": "孙杨此后经历禁赛风波；女性游泳运动员成为中国体育新名片。",
+"sources": [
+{
+"title": "维基百科：2012年夏季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2012年夏季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"伦敦奥运",
+"孙杨"
+]
+},
+{
+"id": "2012-05-14-a-bite-of-china",
+"date": "2012-05-14",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《舌尖上的中国》首播：纪录片成全民下饭剧",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一部美食纪录片让全家老小在深夜对着电视咽口水，淘宝同一食材搜索量暴涨。《舌尖上的中国》证明：认真讲人民生活的东西，永远有最大流量。",
+"detail": "陈晓卿团队制作，央视一套首播即成现象级，海外版权热销。旁白李立宏的声线成为国民记忆。",
+"impact": "美食影像、地方物产电商与『舌尖体』文案全面出圈。",
+"aftermath": "系列拍到第四季；地方文旅局从此学会了『美食带货』。",
+"sources": [
+{
+"title": "维基百科：舌尖上的中国",
+"url": "https://zh.wikipedia.org/wiki/舌尖上的中国",
+"type": "wiki"
+}
+],
+"tags": [
+"舌尖",
+"纪录片"
+]
+},
+{
+"id": "2012-09-25-liaoning-carrier",
+"date": "2012-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "辽宁舰入列：中国第一艘航空母舰",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "由瓦良格号改装而来的辽宁舰正式加入海军序列，中国百年航母梦落地。此后每一次舰载机起降、每一次远海训练，都是头条。",
+"detail": "瓦良格号1998年购自乌克兰，历经十年改装。2012年9月25日入列，歼-15『飞鲨』2012年11月首次着舰。",
+"impact": "海军从近海防御走向远海护卫。",
+"aftermath": "2019年首艘国产航母山东舰、2022年电磁弹射的福建舰相继下水。",
+"sources": [
+{
+"title": "维基百科：辽宁号航空母舰",
+"url": "https://zh.wikipedia.org/wiki/辽宁号航空母舰",
+"type": "wiki"
+}
+],
+"tags": [
+"辽宁舰",
+"航母"
+]
+},
+{
+"id": "2012-11-08-18th-congress",
+"date": "2012-11-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中共十八大：新一届领导集体亮相",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "十八大完成十年一次的领导层交接，习近平当选总书记。此后提出的中国梦、反腐与『新常态』，将定义下一个十年的中国。",
+"detail": "11月15日新一届常委见面会提出『人民对美好生活的向往就是我们的奋斗目标』。",
+"impact": "政策周期切换：反腐、供给侧、脱贫攻坚、互联网+相继铺开。",
+"aftermath": "2017年十九大将习近平新时代中国特色社会主义思想写入党章。",
+"sources": [
+{
+"title": "维基百科：中国共产党第十八次全国代表大会",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第十八次全国代表大会",
+"type": "wiki"
+}
+],
+"tags": [
+"十八大"
+]
+},
+{
+"id": "2012-12-12-ren-zai-jiong-tu",
+"date": "2012-12-12",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《人再囧途之泰囧》上映：国产喜剧票房神话",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "徐峥处女作以12.67亿刷新华语片纪录，『人字拖』王宝强与精英徐朗的泰式闹剧证明：贺岁档的王座属于笑。中小成本喜剧自此成为资本宠儿。",
+"detail": "单片观影人次超3900万，带动泰国清迈旅游暴涨。",
+"impact": "类型片工业化信心确立。",
+"aftermath": "《港囧》《心花路放》跟进；喜剧+文旅联动成为标配。",
+"sources": [
+{
+"title": "维基百科：人再囧途之泰囧",
+"url": "https://zh.wikipedia.org/wiki/人再囧途之泰囧",
+"type": "wiki"
+}
+],
+"tags": [
+"泰囧",
+"贺岁片"
+]
+},
+{
+"id": "2012-01-01-gdp-below-8",
+"date": "2012-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "GDP增速跌破8%：中国经济换挡『新常态』前奏",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "连续十年的两位数增长结束，2012年GDP增速7.9%。出口红利见顶、人口红利见顶，投资与消费接棒——普通人最直观的感受是：钱没以前好挣了。",
+"detail": "2012年起增速逐级下台阶，2015年进入7%以下，官方表述从『高速』转向『中高速』与『新常态』（2014年提出）。",
+"impact": "就业结构向服务业迁移，创业潮与考公热同时兴起。",
+"aftermath": "2013-2015年互联网+与双创成为新的增长叙事。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国经济",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国经济",
+"type": "wiki"
+}
+],
+"tags": [
+"新常态",
+"GDP"
+]
+},
+{
+"id": "2012-12-21-maya-doomsday",
+"date": "2012-12-21",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "玛雅『末日』谣言狂欢：安然无恙的12月21日",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "根据玛雅历法的末日谣言席卷全球，中国也有蜡烛、火柴热卖与方舟门票骗局。12月21日太阳照常升起，网民刷『末日快乐』互道早安——第一次全民参与的互联网式戏谑。",
+"detail": "谣言源于对玛雅长历法的误读，商家借势营销『末日套餐』。多地辟谣、造谣者被处理。",
+"impact": "科普与谣言治理的一次实战演练。",
+"aftermath": "此后每当『末日论』再现，网民自会玩梗自灭；社交媒体辟谣机制逐步成熟。",
+"sources": [
+{
+"title": "维基百科：2012年现象",
+"url": "https://zh.wikipedia.org/wiki/2012年现象",
+"type": "wiki"
+}
+],
+"tags": [
+"末日谣言",
+"玛雅"
+]
+},
+{
+"id": "2013-03-14-xi-elected-president",
+"date": "2013-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "十二届全国人大一次会议：习近平当选国家主席",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "十二届全国人大一次会议选举习近平为国家主席、中央军委主席，新一届国务院组成。此后十年，中国在内政外交上进入全新的节奏。",
+"detail": "同期通过国务院机构改革方案，铁路政企分开，铁道部成为历史。",
+"impact": "国家机构与政策体系进入新一轮重构。",
+"aftermath": "2018年修宪取消国家主席任期限制；反腐败斗争持续深入推进。",
+"sources": [
+{
+"title": "维基百科：习近平",
+"url": "https://zh.wikipedia.org/wiki/习近平",
+"type": "wiki"
+}
+],
+"tags": [
+"国家主席",
+"换届"
+]
+},
+{
+"id": "2013-04-20-yaan-earthquake",
+"date": "2013-04-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "四川雅安芦山7.0级地震",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "芦山地震196人遇难。与汶川不同，这次『灾区不设捐赠账户』——社会力量有序进入、保险理赔前置，中国救灾进入精细化时代。",
+"detail": "雅安地震首次实行社会自发救援与政府统筹结合，互联网募捐平台开始规范。",
+"impact": "救灾从举国动员转向专业分工。",
+"aftermath": "2016年《慈善法》规范网络募捐；地震保险试点落地。",
+"sources": [
+{
+"title": "维基百科：雅安地震",
+"url": "https://zh.wikipedia.org/wiki/雅安地震",
+"type": "wiki"
+}
+],
+"tags": [
+"雅安",
+"地震"
+]
+},
+{
+"id": "2013-06-11-shenzhou-10",
+"date": "2013-06-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "神舟十号与王亚平太空授课",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "聂海胜、张晓光、王亚平飞天，6月20日王亚平在天宫一号为全国6000万中小学生上了一堂40分钟太空物理课。水球实验的画面成为一代孩子的科学启蒙。",
+"detail": "神十完成应用性飞行，验证15天驻留与绕飞交会。太空授课通过央视与网络直播。",
+"impact": "航天科普平民化， STEM 教育话题升温。",
+"aftermath": "2021年『天宫课堂』升级为中国空间站常态科普。",
+"sources": [
+{
+"title": "维基百科：神舟十号",
+"url": "https://zh.wikipedia.org/wiki/神舟十号",
+"type": "wiki"
+}
+],
+"tags": [
+"神十",
+"太空授课"
+]
+},
+{
+"id": "2013-06-05-prism-revelation",
+"date": "2013-06-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "斯诺登曝光棱镜计划：全世界的隐私焦虑",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "29岁的 NSA 雇员斯诺登把美国大规模监听计划交给媒体，全球哗然：你的邮件、通话、搜索记录都可能被看。加密通讯与『端到端』从此成为大众词汇， WhatsApp、Signal 全面转向加密。",
+"detail": "《卫报》《华盛顿邮报》6月5日起连发报道，斯诺登经香港赴俄避难。多家科技公司被指配合，随后纷纷加强加密并公开透明报告。",
+"impact": "全球数据主权、加密与监管关系重构。",
+"aftermath": "欧盟2018年GDPR出台；各国数据本地化立法加速；中国网络安全法（2017）确立数据出境规则。",
+"sources": [
+{
+"title": "Wikipedia: Global surveillance disclosures (2013–present)",
+"url": "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)",
+"type": "wiki"
+}
+],
+"tags": [
+"斯诺登",
+"棱镜"
+]
+},
+{
+"id": "2013-06-20-cash-crunch",
+"date": "2013-06-20",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "『钱荒』：隔夜利率飙到13.44%的六月",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "银行间市场一夜之间借不到钱，隔夜拆借利率冲上13.44%，股市大跌。央行罕见『冷眼旁观』再出手——中国金融监管第一次当众教育银行家：别拿杠杆当家常便饭。",
+"detail": "表外业务与同业空转放大流动性错配，央行初期拒绝放水以警示机构。",
+"impact": "影子银行监管收紧，货币市场利率中枢抬升。",
+"aftermath": "2014年起同业监管持续加码；2016年MPA考核落地。",
+"sources": [
+{
+"title": "维基百科：2013年中国银行间市场钱荒",
+"url": "https://zh.wikipedia.org/wiki/2013年中国银行间市场钱荒",
+"type": "wiki"
+}
+],
+"tags": [
+"钱荒",
+"流动性"
+]
+},
+{
+"id": "2013-09-29-shanghai-ftz",
+"date": "2013-09-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海自贸区挂牌：以开放倒逼改革的新试验田",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国（上海）自由贸易试验区挂牌，负面清单管理模式横空出世——法无禁止即可为。此后自贸区复制推广到全国21个，成为对外开放的制度样品间。",
+"detail": "首版负面清单190条，外资准入管理从审批改为备案为主。金融开放（FT账户）同步试点。",
+"impact": "外资管理体制根本转变，跨境资金与贸易便利化提速。",
+"aftermath": "负面清单从190条压缩到27条（2021版全国版31条）；海南自贸港（2020）再升级。",
+"sources": [
+{
+"title": "维基百科：中国（上海）自由贸易试验区",
+"url": "https://zh.wikipedia.org/wiki/中国（上海）自由贸易试验区",
+"type": "wiki"
+}
+],
+"tags": [
+"自贸区",
+"负面清单"
+]
+},
+{
+"id": "2013-09-07-belt-and-road",
+"date": "2013-09-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『一带一路』倡议提出",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "习近平在哈萨克斯坦提出共建丝绸之路经济带，10月在印尼提出21世纪海上丝绸之路。中国对外经济合作从此有了一张覆盖亚欧非的大蓝图。",
+"detail": "2015年愿景与行动文件发布，亚投行（2015年底成立）成为融资支柱。",
+"impact": "基建出海、产能合作与人民币国际化获得新载体。",
+"aftermath": "截至2024年150多国签署合作文件；中欧班列年开行超1.7万列。",
+"sources": [
+{
+"title": "维基百科：一带一路",
+"url": "https://zh.wikipedia.org/wiki/一带一路",
+"type": "wiki"
+}
+],
+"tags": [
+"一带一路",
+"亚投行"
+]
+},
+{
+"id": "2013-04-01-chinese-aunties-gold",
+"date": "2013-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国大妈抢金：与华尔街对赌三百吨",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国际金价暴跌，中国大妈们涌进金店横扫300吨黄金，被称为『大战华尔街』。后来金价又跌了两年才回来——但大妈们的购买力，从此成为全球市场必须考虑的变量。",
+"detail": "4月中旬国际金价两日暴跌13%，国内金店断货、排队限购。",
+"impact": "『中国大妈』成为国际财经报道的固定意象。",
+"aftermath": "2019-2020年金价新高后抢金潮再现；黄金饰品消费长期稳居全球第一。",
+"sources": [
+{
+"title": "维基百科：黄金",
+"url": "https://zh.wikipedia.org/wiki/黄金",
+"type": "wiki"
+}
+],
+"tags": [
+"中国大妈",
+"抢金"
+]
+},
+{
+"id": "2013-12-14-chang-e-3-landing",
+"date": "2013-12-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "嫦娥三号落月：玉兔号在月面留下第一道车辙",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "嫦娥三号在月球虹湾软着陆，玉兔号月球车驶上月面。中国成为美苏之后第三个实现月面软着陆的国家，直播里那道车辙印让无数人起鸡皮疙瘩。",
+"detail": "着陆器与『玉兔号』完成月面巡视勘察372天，天文月基望远镜首次观测。",
+"impact": "探月工程『落』阶段完成。",
+"aftermath": "2019年嫦娥四号人类首次月背着陆；2020年嫦娥五号取样返回1731克月壤。",
+"sources": [
+{
+"title": "维基百科：嫦娥三号",
+"url": "https://zh.wikipedia.org/wiki/嫦娥三号",
+"type": "wiki"
+}
+],
+"tags": [
+"嫦娥三号",
+"玉兔"
+]
+},
+{
+"id": "2013-01-01-clean-plate-campaign",
+"date": "2013-01-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "『光盘行动』：一个 hashtag 改变的餐桌",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "网友发起『光盘行动』，号召吃光盘中餐，从微博走进餐厅再写进政府倡导。反对浪费第一次成为全民参与的线上运动——社会动员进入 hashtag 时代。",
+"detail": "2013年1月公益组织与媒体联合发起，中央厉行节约规定同月出台，公款吃喝风被遏制。",
+"impact": "餐饮业推出小份菜、半份菜；高端餐饮转型大众市场。",
+"aftermath": "2020年反食品浪费法立法；『光盘打卡』小程序化。",
+"sources": [
+{
+"title": "维基百科：光盘行动",
+"url": "https://zh.wikipedia.org/wiki/光盘行动",
+"type": "wiki"
+}
+],
+"tags": [
+"光盘行动",
+"反浪费"
+]
+},
+{
+"id": "2013-11-09-third-plenum",
+"date": "2013-11-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "十八届三中全会：全面深化改革的60条",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "三中全会通过《关于全面深化改革若干重大问题的决定》，市场在资源配置中起『决定性作用』、单独二孩、废除劳教、设国安委——16个领域330多项改革，蓝图之大前所未有。",
+"detail": "决定历时两年部署，成立中央全面深化改革领导小组统筹推进。",
+"impact": "生育政策、司法改革、户籍改革等陆续破冰。",
+"aftermath": "2015年全面二孩、2021年三孩政策递进；劳教制度2013年底废止。",
+"sources": [
+{
+"title": "维基百科：中国共产党第十八届中央委员会第三次全体会议",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第十八届中央委员会第三次全体会议",
+"type": "wiki"
+}
+],
+"tags": [
+"三中全会",
+"改革"
+]
+},
+{
+"id": "2013-03-31-h7n9",
+"date": "2013-03-31",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "H7N9禽流感首度通报",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国家卫计委通报人感染H7N9禽流感病例，这是该病毒首次感染人类。活禽市场关闭、基因测序数据快速公开——与非典十年后的对比，成了公共卫生进步的标尺。",
+"detail": "上海、安徽首报3例，当年感染130余人、死亡40余人。病毒基因序列数日内向全球共享。",
+"impact": "疫情信息公开与科研响应机制较2003年显著改善。",
+"aftermath": "活禽交易限制与冰鲜上市政策推进；2017年H7N9疫苗用于家禽。",
+"sources": [
+{
+"title": "维基百科：H7N9",
+"url": "https://zh.wikipedia.org/wiki/H7N9",
+"type": "wiki"
+}
+],
+"tags": [
+"H7N9",
+"禽流感"
+]
+},
+{
+"id": "2014-03-01-kunming-attack",
+"date": "2014-03-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "昆明火车站暴力恐怖袭击事件",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一伙暴徒在昆明火车站持刀砍杀无辜旅客，31人遇难、141人受伤。案件被定性为新疆分裂势力策划的暴恐活动，全国公共场所安保自此全面升级。",
+"detail": "8名暴徒当场被击毙4人、抓获3人，案件同年审结。事件后车站机场安检等级提高，特警巡逻常态化。",
+"impact": "反恐成为公共安全优先事项，『平安中国』建设提速。",
+"aftermath": "2015年《反恐怖主义法》通过；全社会反恐防范体系成型。",
+"sources": [
+{
+"title": "维基百科：昆明火车站暴力恐怖袭击事件",
+"url": "https://zh.wikipedia.org/wiki/昆明火车站暴力恐怖袭击事件",
+"type": "wiki"
+}
+],
+"tags": [
+"暴恐",
+"反恐"
+]
+},
+{
+"id": "2014-11-11-apec-blue",
+"date": "2014-11-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "APEC北京峰会与『APEC蓝』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "APEC领导人会议周在北京举行，为保蓝天周边限产限行，久违的湛蓝天空被称为『APEC蓝』。网民许愿『愿APEC蓝常在』——环保第一次以这种方式全民共情。",
+"detail": "会议期间京津冀累计停产限产企业上万家，单双号限行。会议通过《北京纲领》与亚太自贸区路线图。",
+"impact": "区域联防联控治理路径被验证。",
+"aftermath": "2017年北方清洁取暖改造启动；2022年北京冬奥再交『冬奥蓝』答卷。",
+"sources": [
+{
+"title": "维基百科：亚太经济合作组织",
+"url": "https://zh.wikipedia.org/wiki/亚太经济合作组织",
+"type": "wiki"
+}
+],
+"tags": [
+"APEC",
+"APEC蓝"
+]
+},
+{
+"id": "2014-11-17-shanghai-hk-connect",
+"date": "2014-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "沪港通开通：A股与港股第一次直连",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "沪港两地交易所结算桥打通，内地股民用A股账户直接买港股，外资也多了一条进场通道。中国资本市场国际化的『管道输血』模式自此定型。",
+"detail": "首日北向成交130亿、南向17亿。2016年深港通、2021年债券通相继开闸。",
+"impact": "A股投资者结构与国际定价逻辑逐步接轨。",
+"aftermath": "2024年互联互通标的扩容至逾2000只，成为外资配置中国的主要通道。",
+"sources": [
+{
+"title": "维基百科：沪港通",
+"url": "https://zh.wikipedia.org/wiki/沪港通",
+"type": "wiki"
+}
+],
+"tags": [
+"沪港通",
+"资本市场"
+]
+},
+{
+"id": "2014-07-13-germany-worldcup",
+"date": "2014-07-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "巴西世界杯：德国7:1血洗巴西并夺冠",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "半决赛德国7:1横扫东道主巴西，史称『米内罗惨案』，决赛格策加时绝杀阿根廷。这场世界杯也是社交媒体与视频网站第一次全面接管赛事传播——凌晨的进球，你是在手机上看的。",
+"detail": "克洛泽超越罗纳尔多成为世界杯历史射手王，梅西获金球奖。",
+"impact": "赛事短视频与数据可视化成为标配。",
+"aftermath": "『7:1』成为巴西足球的心理阴影刻度；2022年梅西终圆梦。",
+"sources": [
+{
+"title": "维基百科：2014年国际足联世界杯",
+"url": "https://zh.wikipedia.org/wiki/2014年国际足联世界杯",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"德国"
+]
+},
+{
+"id": "2014-02-27-memorial-day-decision",
+"date": "2014-02-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "人大设立两个纪念日：抗战胜利纪念日与国家公祭日",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "全国人大常委会以立法形式设立9月3日中国人民抗日战争胜利纪念日和12月13日南京大屠杀死难者国家公祭日。历史记忆自此有了国家级的固定仪式。",
+"detail": "2014年12月13日首次国家公祭仪式在南京举行，此后每年鸣响和平大钟。",
+"impact": "历史教育与国家仪式制度化。",
+"aftermath": "2015年抗战胜利70周年大阅兵；2018年烈士保护法出台。",
+"sources": [
+{
+"title": "维基百科：南京大屠杀死难者国家公祭日",
+"url": "https://zh.wikipedia.org/wiki/南京大屠杀死难者国家公祭日",
+"type": "wiki"
+}
+],
+"tags": [
+"公祭日",
+"抗战"
+]
+},
+{
+"id": "2014-01-01-housing-deregulation",
+"date": "2014-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "限购松绑：楼市从冰点到救市",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2014年楼市遇冷，46个限购城市到年底只剩北上广深和三亚坚守，『930新政』重启房贷宽松。三年前不可一世的政策，在下行面前学会了转身。",
+"detail": "『930』央行房贷新政认定『还清即首套』，利率下限重回7折。2015年再降息降准六次。",
+"impact": "2015-2016年楼市转暖并在棚改货币化中暴涨。",
+"aftermath": "2016年『房住不炒』定调；2024年限购基本退出历史舞台。",
+"sources": [
+{
+"title": "维基百科：中国大陆房地产调控",
+"url": "https://zh.wikipedia.org/wiki/中国大陆房地产调控",
+"type": "wiki"
+}
+],
+"tags": [
+"限购松绑",
+"930新政"
+]
+},
+{
+"id": "2014-10-20-fourth-plenum",
+"date": "2014-10-20",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "十八届四中全会：全面依法治国专题部署",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中央全会首次以依法治国为主题，提出建设中国特色社会主义法治体系。『重大决策终身追责』『巡回法庭』『公益诉讼』等百余项改革措施铺开。",
+"detail": "决定提出180多项举措，最高人民法院巡回法庭（2015）与跨行政区划法院设立。",
+"impact": "司法体制改革全面提速。",
+"aftermath": "2020年《民法典》通过；员额制法官检察官改革完成。",
+"sources": [
+{
+"title": "维基百科：中国共产党第十八届中央委员会第四次全体会议",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第十八届中央委员会第四次全体会议",
+"type": "wiki"
+}
+],
+"tags": [
+"四中全会",
+"依法治国"
+]
+},
+{
+"id": "2013-06-01-crowdfunding-birth",
+"date": "2013-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "众筹元年：点名时间、众筹网与『众筹』入词",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "点名时间等平台让『众筹』进入中文词汇，智能硬件、独立电影、专辑唱片开始向网友预筹资金。大众创业有了第一种没有门槛的资金来源——尽管成功者仍属少数。",
+"detail": "2011年点名时间成立，2013年进入爆发期， Smartisan T1 发布会? 锤子手机首场众筹等案例出圈；2014年京东众筹上线。",
+"impact": "预购式融资教育了市场，也预演了后来的知识付费与打赏经济。",
+"aftermath": "2016年股权众筹被规范收紧；产品众筹并入电商与内容平台。",
+"sources": [
+{
+"title": "维基百科：众筹",
+"url": "https://zh.wikipedia.org/wiki/众筹",
+"type": "wiki"
+}
+],
+"tags": [
+"众筹",
+"创业"
+]
+}
+]
