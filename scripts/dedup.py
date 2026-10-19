@@ -15,8 +15,9 @@ EV = ROOT / "data" / "events"
 
 def main() -> int:
     files = sorted(EV.glob("*.json"))
-    main_files = [f for f in files if "-tech" not in f.name]
-    tech_files = [f for f in files if "-tech" in f.name]
+    import re as _re
+    main_files = [f for f in files if _re.match(r"^\d{4}-\d{4}\.json$", f.name)]
+    tech_files = [f for f in files if f not in main_files]
     pool: dict[str, dict] = {}   # id -> event (来自主文件)
     titles: set[tuple[str, str]] = set()
     removed = 0

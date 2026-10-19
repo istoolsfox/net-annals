@@ -84,6 +84,13 @@ main { position: fixed; inset: 0; }
   pointer-events: auto; cursor: pointer;
 }
 .mLabel .yr { color: var(--gold); font-weight: 700; margin-right: 4px; }
+.eLabel {
+  position: absolute; transform: translate(-50%, -100%);
+  font-size: 0.72rem; letter-spacing: .18em; color: rgba(180, 200, 255, 0.55);
+  white-space: nowrap; pointer-events: none;
+  text-shadow: 0 1px 3px rgba(0,0,0,.8);
+}
+#river { touch-action: none; }
 #hoverTip {
   position: absolute; z-index: 40; pointer-events: none;
   max-width: 320px; padding: 8px 12px; border-radius: 10px;
@@ -215,9 +222,16 @@ footer {
 @keyframes breathe { 0%,100% { transform: scale(1); opacity: .8; } 50% { transform: scale(1.5); opacity: 1; } }
 
 @media (max-width: 720px) {
-  #legend { display: none; }
-  #eraHint { display: none; }
-  #catFilters { max-width: 100%; }
+  #legend, #eraHint { display: none; }
   #drawer { width: 100vw; }
-  #listView { padding-top: 190px; }
+  #listView { padding-top: 170px; }
+  header { padding: 8px 12px 6px; }
+  .brand h1 { font-size: 1.05rem; }
+  #eraNav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  #eraNav::-webkit-scrollbar { display: none; }
+  #catFilters { display: none; max-height: 30vh; overflow-y: auto; }
+  body.show-filters #catFilters { display: flex; }
+  #filterToggle { display: inline-flex !important; }
+  .viewToggle { margin-left: 0; }
 }
+#filterToggle { display: none; font-size: 0.78rem; padding: 4px 12px; border-radius: 999px; border: 1px solid var(--line); color: var(--dim); }

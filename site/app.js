@@ -94,6 +94,7 @@ function initEraNav() {
 }
 function setActive(btn) { document.querySelectorAll('#eraNav button').forEach(x => x.classList.remove('active')); btn.classList.add('active'); }
 function initToggle() {
+  $('#filterToggle').onclick = () => document.body.classList.toggle('show-filters');
   const g = $('#btnGalaxy'), l = $('#btnList');
   g.onclick = () => { view = 'galaxy'; $('#galaxyView').hidden = false; $('#listView').hidden = true; g.classList.add('active'); l.classList.remove('active'); };
   l.onclick = () => { view = 'list'; $('#galaxyView').hidden = true; $('#listView').hidden = false; l.classList.add('active'); g.classList.remove('active'); renderList(); };
@@ -103,7 +104,7 @@ function initToggle() {
 let renderer, scene, camera, points, glow, sel;
 const rig = { tx: (xOf(T0) + xOf(T1)) / 2, yaw: 0, pitch: 0.62, dist: 0 }; // dist=0 → 首帧按视口计算全景
 let tween = null, raycaster, mouse = new THREE.Vector2(), uTime = { value: 0 }, uProgress = { value: 0 };
-let mLabels = [], yLabels = [], posArr, milestones = [];
+let mLabels = [], yLabels = [], eraLabels = [], posArr, milestones = [];
 
 function initGalaxy() {
   const canvas = $('#river');
@@ -272,6 +273,13 @@ function buildBackdrop() {
 
 function buildLabels() {
   const ov = $('#overlay');
+  for (const era of ERAS) {
+    const d = document.createElement('div');
+    d.className = 'eLabel';
+    d.textContent = `${era.name} ${String(Math.floor(era.range[0])).slice(2)}–${String(Math.ceil(era.range[1])).slice(2)}`;
+    ov.appendChild(d);
+    eraLabels.push({ era, el: d });
+  }
   for (let y = 1986; y <= 2026; y++) {
     const d = document.createElement('div');
     d.className = 'yLabel' + (y % 10 === 0 ? ' decade' : '');
@@ -325,26 +333,74 @@ function updateCamera() {
 
 function bindControls(canvas) {
   let down = null, moved = 0;
+  const touches = new Map();
+  let pinchBase = null;
   canvas.addEventListener('pointerdown', ev => {
+    canvas.setPointerCapture(ev.pointerId);
+    if (ev.pointerType === 'touch') {
+      touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+      if (touches.size === 2) {
+        const [a, b] = [...touches.values()];
+        pinchBase = { gap: Math.hypot(a.x - b.x, a.y - b.y), dist: rig.dist };
+        down = null;
+      } else if (touches.size === 1) {
+        down = { x: ev.clientX, y: ev.clientY, shift: false };
+        moved = 0;
+      }
+      tween = null;
+      return;
+    }
     down = { x: ev.clientX, y: ev.clientY, shift: ev.shiftKey || ev.button === 2 };
-    moved = 0; canvas.setPointerCapture(ev.pointerId);
-    tween = null;
+    moved = 0; tween = null;
   });
   canvas.addEventListener('pointermove', ev => {
+    if (touches.has(ev.pointerId)) {
+      touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+      if (touches.size === 2 && pinchBase) {
+        const [a, b] = [...touches.values()];
+        const gap = Math.hypot(a.x - b.x, a.y - b.y);
+        if (gap > 10) rig.dist = THREE.MathUtils.clamp(pinchBase.dist * (pinchBase.gap / gap), 26, 2400);
+      } else if (touches.size === 1 && down) {
+        const dx = ev.clientX - down.x, dy = ev.clientY - down.y;
+        moved += Math.abs(dx) + Math.abs(dy);
+        const panScale = THREE.MathUtils.clamp(rig.dist / 620, 0.02, 4);
+        rig.tx = THREE.MathUtils.clamp(rig.tx - dx * panScale, xOf(T0 - 1), xOf(T1));
+        rig.pitch = THREE.MathUtils.clamp(rig.pitch + dy * 0.0022, 0.1, 1.25);
+        down.x = ev.clientX; down.y = ev.clientY;
+      }
+      return;
+    }
     if (down) {
       const dx = ev.clientX - down.x, dy = ev.clientY - down.y;
       moved += Math.abs(dx) + Math.abs(dy);
       if (down.shift) { rig.yaw = THREE.MathUtils.clamp(rig.yaw + dx * 0.003, -1.0, 1.0); }
       else {
         const panScale = THREE.MathUtils.clamp(rig.dist / 620, 0.02, 4);
-  rig.tx = THREE.MathUtils.clamp(rig.tx - dx * panScale, xOf(T0 - 1), xOf(T1));
+        rig.tx = THREE.MathUtils.clamp(rig.tx - dx * panScale, xOf(T0 - 1), xOf(T1));
         rig.pitch = THREE.MathUtils.clamp(rig.pitch + dy * 0.0022, 0.1, 1.25);
       }
       down.x = ev.clientX; down.y = ev.clientY;
       $('#river').style.cursor = 'grabbing';
     } else hover(ev);
   });
+  const endTouch = ev => {
+    touches.delete(ev.pointerId);
+    if (touches.size < 2) pinchBase = null;
+    if (touches.size === 1) {
+      const [p] = [...touches.values()];
+      down = { x: p.x, y: p.y, shift: false }; moved = 99;
+    } else if (touches.size === 0) down = null;
+  };
+  canvas.addEventListener('pointercancel', endTouch);
   canvas.addEventListener('pointerup', ev => {
+    if (ev.pointerType === 'touch') {
+      const wasPinch = touches.size >= 2;
+      endTouch(ev);
+      if (wasPinch) return;
+      if (moved < 10) pick(ev);
+      $('#river').style.cursor = 'grab';
+      return;
+    }
     if (down && moved < 7) pick(ev);
     down = null; $('#river').style.cursor = 'grab';
   });
@@ -412,6 +468,14 @@ function updateOverlay() {
     el.style.display = 'block';
     el.style.left = p.x + 'px'; el.style.top = (p.y + 6) + 'px';
     lastX = p.x;
+  }
+  for (const { era, el } of eraLabels) {
+    const pa = project(xOf(era.range[0]), -2.2, 24), pb = project(xOf(era.range[1]), -2.2, 24);
+    if (!pa || !pb || pa.y < 100 || pa.y > innerHeight - 40) { el.style.display = 'none'; continue; }
+    if (Math.abs(pb.x - pa.x) < 150) { el.style.display = 'none'; continue; }
+    el.style.display = 'block';
+    el.style.left = ((pa.x + pb.x) / 2) + 'px';
+    el.style.top = (Math.max(pa.y, pb.y) - 4) + 'px';
   }
   let shown = 0;
   const placed = [];

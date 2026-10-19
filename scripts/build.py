@@ -160,6 +160,11 @@ def main() -> int:
         print(f"    - {w}")
     if len(warnings) > 20:
         print(f"    … 其余 {len(warnings) - 20} 条略")
+    months = sorted(month_counter)
+    if months:
+        thin = [k for k in months if month_counter[k] < 5]
+        print(f"  月度密度：覆盖 {len(months)} 个月，平均 {n / len(months):.1f} 条/月；<5条的薄月 {len(thin)} 个"
+              + (f"（最早：{', '.join(thin[:5])}…）" if thin else ""))
     print("  按年分布：")
     for y in years:
         bar = "█" * max(1, min(60, per_year[y] // 10))
