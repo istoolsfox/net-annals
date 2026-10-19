@@ -125,6 +125,33 @@
 ]
 },
 {
+"id": "2020-03-16-mrna-first-human-dose",
+"date": "2020-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "新冠疫苗首剂注入人体：创纪录的 mRNA 竞赛开跑",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2020年3月16日，西雅图，志愿者 Jennifer Haller 接受第一剂 mRNA-1273——从病毒基因序列公布到首剂人体试验仅用63天，创下疫苗史上最快纪录。mRNA 技术路线的豪赌，从这一针开始。",
+"detail": "莫德纳与 NIH 合作，2020年1月11日中国科学家公布病毒序列、1月13日即敲定 mRNA 序列设计——不需要活病毒，只需要一段『说明书』。同期辉瑞-BioNTech（德国 BNT162b2）、牛津-阿斯利康（腺病毒载体）、中国科兴/国药（灭活）等多路线并行，全球进入『压缩式』研发：一期二期合并、10万人级三期、滚动审阅。12月辉瑞/莫德纳先后交出95%级别的有效率——mRNA 这个此前从未上市过的技术路线一战封神，Karikó 与 Weissman 获2023年诺贝尔生理学奖。中国以灭活路线保供全球南方，两条路线的分野也成为此后疫苗外交的叙事线。",
+"impact": "mRNA 从冷门技术变成平台型产业，疫苗研发周期从十年压缩到一年。",
+"aftermath": "mRNA 平台向癌症疫苗/罕见病延伸；对疫苗的不信任与『太快了』的疑虑成为公共卫生新课题。",
+"sources": [
+{
+"title": "Wikipedia: COVID-19 vaccine",
+"url": "https://en.wikipedia.org/wiki/COVID-19_vaccine",
+"type": "wiki"
+}
+],
+"tags": [
+"mRNA疫苗",
+"新冠疫苗",
+"莫德纳",
+"破纪录"
+]
+},
+{
 "id": "2020-04-02-luckin-fraud",
 "date": "2020-04-02",
 "date_accuracy": "exact",
@@ -402,6 +429,33 @@
 ]
 },
 {
+"id": "2020-12-11-pfizer-eua",
+"date": "2020-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "辉瑞疫苗获美国紧急使用授权：大规模接种倒计时",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2020年12月11日，FDA 授予辉瑞-BioNTech 疫苗紧急使用授权（EUA）——三天后纽约护士 Sandra Lindsay 成为美国首位接种者。英国12月2日抢下全球首批授权，欧盟12月21日跟进，人类历史上最大的疫苗接种运动正式开始。",
+"detail": "辉瑞-BioNTech 的 BNT162b2 三期有效率95%、对重症接近100%，从立项到上市只用了11个月（正常疫苗需10年）。冷链-70℃的运输要求催生了干冰物流与超低温冰柜抢购潮；各国采购博弈（欧盟『预购协议』、COVAX 机制）开始上演。12月14日起美国接种，2021年全球接种量破百亿剂。中国国药/科兴以灭活路线在2020年12月30日与2021年2月获附条件上市，向120多个国家出口。疫苗 nationalism、专利豁免争论（印度南非提案）、『免疫鸿沟』成为 2021 年全球治理三大议题。",
+"impact": "史上最快疫苗上市与最大规模接种，mRNA 平台的正名之战。",
+"aftermath": "加强针与变异株更新（2021-2023）成为常态；疫苗犹豫在多国政治化。",
+"sources": [
+{
+"title": "Wikipedia: COVID-19 vaccine",
+"url": "https://en.wikipedia.org/wiki/COVID-19_vaccine",
+"type": "wiki"
+}
+],
+"tags": [
+"辉瑞",
+"EUA",
+"疫苗接种",
+"BioNTech"
+]
+},
+{
 "id": "2020-12-17-chang-e-5-return",
 "date": "2020-12-17",
 "date_accuracy": "exact",
@@ -649,6 +703,33 @@
 "tags": [
 "双减",
 "教培"
+]
+},
+{
+"id": "2021-08-23-fda-full-approval",
+"date": "2021-08-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "FDA 正式批准辉瑞疫苗：从『紧急』到『正式』",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2021年8月23日，FDA 给予辉瑞疫苗正式批准（商品名 Comirnaty）——这是全球第一款走完完整审批流程的新冠疫苗。『还没批完就让打』的质疑声失去依据，企业强制接种与美国强制令诉讼的大门同时被推开。",
+"detail": "正式批准给了16岁以上人群，是临床试验6个月数据的完整审评。拜登上任后的强制令（百人以上企业接种或检测）正缺『正式批准』的合法性拼图，批准次日起联邦承包商、医护、军队的强制接种令接连落地，触发一波联邦法院诉讼潮（2022年1月最高法院裁定 OSHA 强制令越权，但医保体系内强制维持）。对全球而言，『正式批准』是监管信心的里程碑：日本、澳洲等地的采购与接种决策纷纷提速。中国同期以灭活全流程接种+加强针推进，2021年底全程接种率超85%。『疫苗强制』成为此后多国政治光谱切割的议题（加拿大自由车队 2022）。",
+"impact": "新冠应对从应急转向制度化，疫苗政策与个人自由的边界之争正式入场。",
+"aftermath": "Comirnaty 之后莫德纳（2022-01）获批；Novavax 蛋白路线（2022-07）补上『传统技术』选项。",
+"sources": [
+{
+"title": "Wikipedia: COVID-19 vaccine",
+"url": "https://en.wikipedia.org/wiki/COVID-19_vaccine",
+"type": "wiki"
+}
+],
+"tags": [
+"FDA",
+"正式批准",
+"疫苗强制",
+"Comirnaty"
 ]
 },
 {

@@ -237,6 +237,33 @@
 ]
 },
 {
+"id": "2015-09-18-vw-emissions-scandal",
+"date": "2015-09-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "大众『排放门』曝光：1300万辆柴油车的系统性作弊",
+"category": "company",
+"region": "world",
+"milestone": true,
+"summary_30s": "2015年9月18日，美国 EPA 指控大众在近50万辆柴油车上安装『失效保护装置』——检测到排放测试就开启净化程序，日常驾驶则超标最高40倍。『排放门』轰然引爆：大众 CEO 一周内辞职，全球召回约1100万辆车，罚款与赔偿累计超过300亿欧元。",
+"detail": "作弊软件由工程师团队多年编写维护，波及大众、奥迪、斯柯达、西雅特乃至保时捷。事件 consequences 深远：大众股票市值一度蒸发三分之一，美国司法部刑事追诉、工程师与高管入狱，德国展开多起调查；它同时成为整个欧洲柴油战略的转折点——各国城市相继划定柴油车限行区，欧洲车企集体转向电动化。大众的『悔改』同样惊人：2020年代它成为全球电动化最激进的巨头之一（ID.系列、保时捷 Taycan），『排放门』反而成了转型加速器。事件还改写了监管：WLTP 实测规程取代旧循环，『路试检测』（PEMS）成为标配。",
+"impact": "企业合规史与环保监管史的分水岭，欧洲柴油时代加速终结。",
+"aftermath": "全球车企排放诉讼此起彼伏（宝马/戴姆勒被波及）；『软件定义作弊』让监管进入代码审计时代。",
+"sources": [
+{
+"title": "Wikipedia: Volkswagen emissions scandal",
+"url": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+"type": "wiki"
+}
+],
+"tags": [
+"大众",
+"排放门",
+"柴油车",
+"企业合规"
+]
+},
+{
 "id": "2015-10-05-tuyouyou-nobel",
 "date": "2015-10-05",
 "date_accuracy": "exact",
@@ -1050,6 +1077,33 @@
 ]
 },
 {
+"id": "2017-07-28-model3-delivery",
+"date": "2017-07-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Model 3 首批交付：电动车的『iPhone 时刻』",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2017年7月28日，特斯拉向30位（多为内部员工）车主交付首批 Model 3。这款3.5万美元起售的紧凑轿车背负着『把电动车卖给大众』的使命——产能地狱与排队订单同时到来，汽车业的新旧分水岭就此立起。",
+"detail": "Model 3 预订一周斩获37.5万单（单价1000美元定金），成为史上最火爆的新车预订。但生产端噩梦随之而来：弗里蒙特工厂『产能地狱』（马斯克睡工厂、周产5000辆死线、自动化悖论——过度机器人化反而拖累），2018年才爬坡成功。2019年上海超级工厂投产（当年开工当年造车）彻底解决产能并拉低成本，Model 3 随后成为全球最畅销电动车、多次登顶全品类销冠。它还定义了『极简』范式：中控一块屏、无仪表盘、OTA 一切，传统车企的按钮哲学从此节节败退。中国对手（比亚迪汉、小鹏P7等）以它为对标做出更便宜的版本，电动车渗透率的黄金十年由它点燃。",
+"impact": "电动车从奢侈品变成大众消费品，全球汽车业转型的时间表被强行拨快。",
+"aftermath": "Model Y（2020）成为全球最畅销车型（2023年超120万辆）；特斯拉以一己之力改写了中国新能源产业的竞争强度。",
+"sources": [
+{
+"title": "Wikipedia: Tesla Model 3",
+"url": "https://en.wikipedia.org/wiki/Tesla_Model_3",
+"type": "wiki"
+}
+],
+"tags": [
+"Model 3",
+"特斯拉",
+"产能地狱",
+"上海工厂"
+]
+},
+{
 "id": "2017-08-08-jiuzhaigou-earthquake",
 "date": "2017-08-08",
 "date_accuracy": "exact",
@@ -1074,6 +1128,33 @@
 "地震",
 "地震预警",
 "灾后重建"
+]
+},
+{
+"id": "2017-08-30-car-t-kymriah",
+"date": "2017-08-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "首款 CAR-T 疗法获批：用患者自己的免疫细胞治癌",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2017年8月30日，FDA 批准诺华的 Kymriah——人类历史上第一款 CAR-T 细胞疗法获批上市。它从患者体内取出 T 细胞、改造后回输体内追杀癌细胞，治疗急性淋巴细胞白血病的缓解率高达83%，定价47.5万美元一次。",
+"detail": "CAR-T 的科学底座由 Carl June 团队奠定（2011年治疗白血病患者 Emily 的『奇迹痊愈』轰动世界，Emily 至今无癌生存）。Kymriah 批准后，吉利德 Yescarta（2017-10）、百济神州等相继入场；中国以极快的速度跟进——2017年底复星凯特、药明巨诺两大合资落地，2021年6月阿基仑赛（复刻 Yescarta）获 NMPA 批准，中国成为 CAR-T 全球第二主场，120万元一针的价格催生了『首款百万医疗险覆盖』的保险创新。限制同样明显：实体瘤有效率低、细胞因子风暴风险、制备周期长，『现货型』（通用型 CAR-NK）是下一代战场。",
+"impact": "细胞治疗从实验室走到处方，『活着的药物』成为肿瘤治疗第四支柱。",
+"aftermath": "2024年 FDA 开始调查 CAR-T 的继发肿瘤风险；mRNA 体内 CAR（in vivo CAR-T）成为新前沿。",
+"sources": [
+{
+"title": "Wikipedia: Tisagenlecleucel",
+"url": "https://en.wikipedia.org/wiki/Tisagenlecleucel",
+"type": "wiki"
+}
+],
+"tags": [
+"CAR-T",
+"细胞治疗",
+"白血病",
+"诺华"
 ]
 },
 {
