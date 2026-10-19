@@ -100,7 +100,8 @@ a{color:inherit}
   content:"";position:absolute;left:50%;top:0;bottom:0;width:2px;transform:translateX(-50%);
   background:linear-gradient(180deg, transparent, var(--line2) 3%, var(--line2) 97%, transparent);
 }
-.eraSec{padding-top:34px}
+.eraSec{padding-top:34px;scroll-margin-top:136px}
+#eraJump .chip.on{color:var(--text);border-color:var(--accent);background:color-mix(in srgb, var(--accent) 16%, transparent)}
 .eraHead{display:flex;align-items:center;gap:16px;margin-bottom:34px}
 .eraPill{
   flex:none;font-family:var(--serif);font-weight:700;font-size:.95rem;
