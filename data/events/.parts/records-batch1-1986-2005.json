@@ -228,8 +228,8 @@
         "type": "wiki"
       },
       {
-        "title": "Wikipedia：大世界 (上海)",
-        "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)",
+        "title": "Wikipedia：大世界",
+        "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B8%96%E7%95%8C",
         "type": "wiki"
       }
     ],
@@ -330,9 +330,9 @@
         "type": "wiki"
       },
       {
-        "title": "University of Alberta：Chinook 1994 match archive",
-        "url": "https://webdocs.cs.ualberta.ca/~chinook/matches/1994/Boston",
-        "type": "official"
+        "title": "基督教科学箴言报：1994 年人机跳棋对抗报道",
+        "url": "https://www.csmonitor.com/1994/0818/18013.html",
+        "type": "news"
       }
     ],
     "tags": [
@@ -364,8 +364,8 @@
         "type": "wiki"
       },
       {
-        "title": "ESPN：X Games history",
-        "url": "https://www.espn.com/xgames/",
+        "title": "X Games 官网",
+        "url": "https://www.xgames.com/",
         "type": "official"
       }
     ],

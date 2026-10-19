@@ -113,7 +113,7 @@ add(
     "2010 年代后大世界基尼斯屡因『无意义纪录』『商业炒作』被舆论批评，但作为文旅抓手至今仍在运营，上海大世界已改造为非遗展示空间。",
     [
         {"title": "百度百科：上海大世界基尼斯总部有限公司", "url": "https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E5%A4%A7%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B0%BC%E6%96%AF%E6%80%BB%E9%83%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/64386051", "type": "wiki"},
-        {"title": "Wikipedia：大世界 (上海)", "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)", "type": "wiki"},
+        {"title": "Wikipedia：大世界", "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B8%96%E7%95%8C", "type": "wiki"},
     ],
     ["大世界基尼斯", "中国奇人", "吉尼斯", "纪录认证", "上海", "民间绝活"],
 )
@@ -158,7 +158,7 @@ add(
     "Chinook 的跳棋数据库与解算成果如今公开供学界使用；『完美信息游戏可被穷尽』成为人工智能研究的经典注脚。",
     [
         {"title": "Wikipedia：Chinook (computer program)", "url": "https://en.wikipedia.org/wiki/Chinook_(computer_program)", "type": "wiki"},
-        {"title": "University of Alberta：Chinook 1994 match archive", "url": "https://webdocs.cs.ualberta.ca/~chinook/matches/1994/Boston", "type": "official"},
+        {"title": "基督教科学箴言报：1994 年人机跳棋对抗报道", "url": "https://www.csmonitor.com/1994/0818/18013.html", "type": "news"},
     ],
     ["跳棋", "Chinook", "人机大战", "人工智能", "阿尔伯塔大学", "廷斯利"],
 )
@@ -173,7 +173,7 @@ add(
     "X Games 至今举办三十余届并扩展至亚洲；滑板、冲浪、攀岩经其专业化训练体系培养的选手，在 2021 年东京奥运会完成奥运首秀。",
     [
         {"title": "Wikipedia：X Games", "url": "https://en.wikipedia.org/wiki/X_Games", "type": "wiki"},
-        {"title": "ESPN：X Games history", "url": "https://www.espn.com/xgames/", "type": "official"},
+        {"title": "X Games 官网", "url": "https://www.xgames.com/", "type": "official"},
     ],
     ["X Games", "极限运动", "滑板", "ESPN", "亚文化", "青年文化"],
 )

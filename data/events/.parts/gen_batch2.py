@@ -22,7 +22,6 @@ add(
     "世界数独锦标赛至今每年举办；智利、中国、印度等承办地轮换，速解选手的平均用时逐年刷新，手机数独应用的段位赛也继承了同一套打法。",
     [
         {"title": "Wikipedia：World Sudoku Championship", "url": "https://en.wikipedia.org/wiki/World_Sudoku_Championship", "type": "wiki"},
-        {"title": "Wikipedia：Jana Tylová", "url": "https://en.wikipedia.org/wiki/Jana_Tylov%C3%A1", "type": "wiki"},
     ],
     ["数独", "世界锦标赛", "智力竞技", "卢卡", "蒂洛娃", "谜题"],
 )
@@ -81,8 +80,8 @@ add(
     "速拧圈的『七秒大关』被攻克，训练方法（CFOP 公式库）与专业魔方研发随之提速。",
     "此后三阶单次纪录以约每两三年一破的节奏推进：5.66、5.25、4.90、4.73 直至 2018 年杜宇生的 3.47 秒；艾克斯代克后来转型为赛事组织者与魔方测评人。",
     [
-        {"title": "WCA：Erik Akkersdijk 个人成绩页", "url": "https://www.worldcubeassociation.org/persons/2003AKKE01", "type": "official"},
-        {"title": "Wikipedia：Erik Akkersdijk", "url": "https://en.wikipedia.org/wiki/Erik_Akkersdijk", "type": "wiki"},
+        {"title": "WCA：Erik Akkersdijk 个人成绩页", "url": "https://www.worldcubeassociation.org/persons/2005AKKE01", "type": "official"},
+        {"title": "Wikipedia：Speedcubing", "url": "https://en.wikipedia.org/wiki/Speedcubing", "type": "wiki"},
     ],
     ["魔方", "速拧", "世界纪录", "艾克斯代克", "捷克公开赛", "CFOP"],
 )
@@ -261,7 +260,7 @@ add(
     "欧洲选手重夺三阶纪录，CFOP 方法与魔方硬件（磁力魔方前身）的研发竞争白热化。",
     "瓦尔克此后长期位居世界前列并保持五阶等多项纪录；他创立的魔方品牌与教程影响了全球一代速拧玩家。",
     [
-        {"title": "WCA：Mats Valk 个人成绩页", "url": "https://www.worldcubeassociation.org/persons/2010VALK01", "type": "official"},
+        {"title": "RuWix：魔方世界纪录演进", "url": "https://ruwix.com/blog/", "type": "blog"},
         {"title": "Wikipedia：Speedcubing", "url": "https://en.wikipedia.org/wiki/Speedcubing", "type": "wiki"},
     ],
     ["魔方", "速拧", "瓦尔克", "世界纪录", "欧洲", "五秒时代"],

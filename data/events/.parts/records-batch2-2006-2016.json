@@ -17,11 +17,6 @@
         "title": "Wikipedia：World Sudoku Championship",
         "url": "https://en.wikipedia.org/wiki/World_Sudoku_Championship",
         "type": "wiki"
-      },
-      {
-        "title": "Wikipedia：Jana Tylová",
-        "url": "https://en.wikipedia.org/wiki/Jana_Tylov%C3%A1",
-        "type": "wiki"
       }
     ],
     "tags": [
@@ -151,12 +146,12 @@
     "sources": [
       {
         "title": "WCA：Erik Akkersdijk 个人成绩页",
-        "url": "https://www.worldcubeassociation.org/persons/2003AKKE01",
+        "url": "https://www.worldcubeassociation.org/persons/2005AKKE01",
         "type": "official"
       },
       {
-        "title": "Wikipedia：Erik Akkersdijk",
-        "url": "https://en.wikipedia.org/wiki/Erik_Akkersdijk",
+        "title": "Wikipedia：Speedcubing",
+        "url": "https://en.wikipedia.org/wiki/Speedcubing",
         "type": "wiki"
       }
     ],
@@ -558,9 +553,9 @@
     "aftermath": "瓦尔克此后长期位居世界前列并保持五阶等多项纪录；他创立的魔方品牌与教程影响了全球一代速拧玩家。",
     "sources": [
       {
-        "title": "WCA：Mats Valk 个人成绩页",
-        "url": "https://www.worldcubeassociation.org/persons/2010VALK01",
-        "type": "official"
+        "title": "RuWix：魔方世界纪录演进",
+        "url": "https://ruwix.com/blog/",
+        "type": "blog"
       },
       {
         "title": "Wikipedia：Speedcubing",

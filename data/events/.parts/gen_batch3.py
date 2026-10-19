@@ -82,7 +82,7 @@ add(
     "高速机电系统的极限演示成为工程教学与科普的明星案例，也再次引发『机器何时全面超越人类』的讨论。",
     "此后多国团队继续挑战更快纪录，0.2 秒级的方案陆续出现；而人类选手的 3 秒级纪录在机器人面前仍保有『运气与美感』的独特性。",
     [
-        {"title": "MIT News：机器人 0.38 秒复原魔方", "url": "https://news.mit.edu/2018/solving-rubiks-cube-fraction-second-0315", "type": "official"},
+        {"title": "Guinness World Records：机器人复原魔方最快纪录", "url": "https://www.guinnessworldrecords.com/world-records/fastest-time-to-solve-a-rubiks-cube-by-a-robot", "type": "official"},
         {"title": "Wikipedia：Rubik's Cube（机器求解）", "url": "https://en.wikipedia.org/wiki/Rubik%27s_Cube", "type": "wiki"},
     ],
     ["机器人", "魔方", "麻省理工", "工程极客", "高速电机", "开源"],
@@ -203,7 +203,6 @@ add(
     "肖巴特的纪录至今仍是该项目吉尼斯世界纪录；竞技自由潜水的静态闭气（无纯氧辅助）纪录则在 11 至 12 分钟区间，两条曲线各自演进。",
     [
         {"title": "Guinness World Records：肖巴特 24:37 纪录", "url": "https://www.guinnessworldrecords.com/world-records/longest-time-breath-held-voluntarily", "type": "official"},
-        {"title": "Wikipedia：Budimir Šobat", "url": "https://en.wikipedia.org/wiki/Budimir_%C5%A0obat", "type": "wiki"},
     ],
     ["闭气", "自由潜水", "吉尼斯", "肖巴特", "克罗地亚", "人体极限"],
 )
@@ -247,7 +246,7 @@ add(
     "滑板完成从街头亚文化到奥运正式项目的加冕，全球滑板产业与青少年参与度随之升温。",
     "堀米雄斗 2024 年巴黎奥运成功卫冕街式金牌；滑板此后在洛杉矶奥运周期继续扩张分项，职业联赛与奥运体系的融合持续深化。",
     [
-        {"title": "Wikipedia：Yuto Horigome", "url": "https://en.wikipedia.org/wiki/Yuto_Horigome_(skateboarder)", "type": "wiki"},
+        {"title": "Wikipedia：Yuto Horigome", "url": "https://en.wikipedia.org/wiki/Yuto_Horigome_%28skateboarder%29", "type": "wiki"},
         {"title": "Wikipedia：Skateboarding at the 2020 Summer Olympics", "url": "https://en.wikipedia.org/wiki/Skateboarding_at_the_2020_Summer_Olympics", "type": "wiki"},
     ],
     ["滑板", "奥运会", "堀米雄斗", "街式", "首金", "东京"],
@@ -293,7 +292,7 @@ add(
     "此后三阶平均纪录长期在中国选手间流转：许瑞航、王艺衡先后刷新，2025 年前后平均纪录已推进到 3.9 秒区间；中国魔方产业与美国、匈牙利厂商并驾齐驱。",
     [
         {"title": "百度百科：许瑞航", "url": "https://baike.baidu.com/item/%E8%AE%B8%E7%91%9E%E8%88%AA/57256856", "type": "wiki"},
-        {"title": "WCA：许瑞航个人成绩页", "url": "https://www.worldcubeassociation.org/persons/2016XURU01", "type": "official"},
+        {"title": "WCA：武汉魔方公开赛 2021 赛事页", "url": "https://www.worldcubeassociation.org/competitions/WuhanOpen2021", "type": "official"},
     ],
     ["魔方", "速拧", "许瑞航", "平均纪录", "武汉", "中国速拧"],
 )

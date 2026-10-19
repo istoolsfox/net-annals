@@ -155,8 +155,8 @@
     "aftermath": "此后多国团队继续挑战更快纪录，0.2 秒级的方案陆续出现；而人类选手的 3 秒级纪录在机器人面前仍保有『运气与美感』的独特性。",
     "sources": [
       {
-        "title": "MIT News：机器人 0.38 秒复原魔方",
-        "url": "https://news.mit.edu/2018/solving-rubiks-cube-fraction-second-0315",
+        "title": "Guinness World Records：机器人复原魔方最快纪录",
+        "url": "https://www.guinnessworldrecords.com/world-records/fastest-time-to-solve-a-rubiks-cube-by-a-robot",
         "type": "official"
       },
       {
@@ -430,11 +430,6 @@
         "title": "Guinness World Records：肖巴特 24:37 纪录",
         "url": "https://www.guinnessworldrecords.com/world-records/longest-time-breath-held-voluntarily",
         "type": "official"
-      },
-      {
-        "title": "Wikipedia：Budimir Šobat",
-        "url": "https://en.wikipedia.org/wiki/Budimir_%C5%A0obat",
-        "type": "wiki"
       }
     ],
     "tags": [
@@ -530,7 +525,7 @@
     "sources": [
       {
         "title": "Wikipedia：Yuto Horigome",
-        "url": "https://en.wikipedia.org/wiki/Yuto_Horigome_(skateboarder)",
+        "url": "https://en.wikipedia.org/wiki/Yuto_Horigome_%28skateboarder%29",
         "type": "wiki"
       },
       {
@@ -636,8 +631,8 @@
         "type": "wiki"
       },
       {
-        "title": "WCA：许瑞航个人成绩页",
-        "url": "https://www.worldcubeassociation.org/persons/2016XURU01",
+        "title": "WCA：武汉魔方公开赛 2021 赛事页",
+        "url": "https://www.worldcubeassociation.org/competitions/WuhanOpen2021",
         "type": "official"
       }
     ],
