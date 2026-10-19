@@ -1,354 +1,563 @@
 [
 {
-  "id": "1994-06-17-oj-simpson-freeway-chase",
-  "date": "1994-06-17",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "白色野马追逐战：辛普森案拉开世纪审判序幕",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1994年6月17日晚，橄榄球巨星OJ辛普森因涉嫌杀妻在被捕前乘车出逃，直升机全程直播那辆白色野马轿车在洛杉矶高速公路上的缓慢行驶，近亿美国人守在电视机前。这起案件随后演变成震动全美的世纪审判。",
-  "detail": "当天上午，辛普森前妻妮可·布朗与友人高曼被发现死于洛杉矶公寓外。警方通知辛普森自首，他却与好友驾驶一辆白色野马越野车驶上高速公路，车内带着护照、现金和一支枪。警车远远尾随，直升机航拍全程，电台记者沿路解说，各电视台中断正常节目切换画面，整场追逐持续约一个小时。傍晚辛普森返回家中自首。此后庭审历时九个月，辛普森的梦幻律师团对阵检察官团队，试戴血手套不合适成为名场面，1995年10月刑事陪审团裁定其无罪；1997年民事审判又认定他对两名死者的死亡负有赔偿责任。职业体育明星的光环、种族议题与司法程序在这场审判中被彻底放大。",
-  "impact": "电视直播与名人犯罪首次深度合流，辛普森案成为美国流行文化与司法史上绕不开的名字。",
-  "aftermath": "辛普森2008年因持械抢劫入狱服刑九年，2024年4月因癌症去世；此案至今仍被反复改编为纪录片与剧集。",
-  "sources": [
-    {"title": "O. J. Simpson - Wikipedia", "url": "https://en.wikipedia.org/wiki/O._J._Simpson", "type": "wiki"}
-  ],
-  "tags": ["橄榄球", "辛普森", "洛杉矶", "世纪审判"]
+"id": "1994-06-17-oj-simpson-freeway-chase",
+"date": "1994-06-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "白色野马追逐战：辛普森案拉开世纪审判序幕",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1994年6月17日晚，橄榄球巨星OJ辛普森因涉嫌杀妻在被捕前乘车出逃，直升机全程直播那辆白色野马轿车在洛杉矶高速公路上的缓慢行驶，近亿美国人守在电视机前。这起案件随后演变成震动全美的世纪审判。",
+"detail": "当天上午，辛普森前妻妮可·布朗与友人高曼被发现死于洛杉矶公寓外。警方通知辛普森自首，他却与好友驾驶一辆白色野马越野车驶上高速公路，车内带着护照、现金和一支枪。警车远远尾随，直升机航拍全程，电台记者沿路解说，各电视台中断正常节目切换画面，整场追逐持续约一个小时。傍晚辛普森返回家中自首。此后庭审历时九个月，辛普森的梦幻律师团对阵检察官团队，试戴血手套不合适成为名场面，1995年10月刑事陪审团裁定其无罪；1997年民事审判又认定他对两名死者的死亡负有赔偿责任。职业体育明星的光环、种族议题与司法程序在这场审判中被彻底放大。",
+"impact": "电视直播与名人犯罪首次深度合流，辛普森案成为美国流行文化与司法史上绕不开的名字。",
+"aftermath": "辛普森2008年因持械抢劫入狱服刑九年，2024年4月因癌症去世；此案至今仍被反复改编为纪录片与剧集。",
+"sources": [
+{
+"title": "O. J. Simpson - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/O._J._Simpson",
+"type": "wiki"
+}
+],
+"tags": [
+"橄榄球",
+"辛普森",
+"洛杉矶",
+"世纪审判"
+]
 },
 {
-  "id": "1995-03-19-jordan-returns",
-  "date": "1995-03-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "“我回来了”：乔丹结束18个月退役重返NBA",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1995年3月19日，退役18个月的迈克尔·乔丹身披45号球衣重回芝加哥公牛赛场，一份只有两个词的复出声明轰动全球。首战他砍下19分，NBA的收视率随之飙升，公牛王朝的重启进入倒计时。",
-  "detail": "1993年10月，刚拿下三连冠的乔丹因父亲遇刺心灰意冷宣布退役，转而加入棒球小联盟。1995年3月，他以一份简短的声明宣布回归篮球，3月19日在印第安纳波利斯客场复出得到19分。起初他状态平平，公牛在季后赛第二轮被魔术淘汰，但这18个月的棒球假期成了王朝的中场休息：当年夏天乔丹换回23号球衣，与归队的皮蓬一道苦练，随后1995-96赛季公牛打出72胜10负的历史最佳常规赛，开启第二个三连冠。乔丹复出的消息登上全球报纸头版，他的45号球衣一夜之间成为最抢手的商品。",
-  "impact": "乔丹复出让NBA的全球关注度迅速回到巅峰，也开启了职业体育巨星商业价值的黄金年代。",
-  "aftermath": "公牛此后连夺三冠（1996至1998年），乔丹以六冠六次总决赛最有价值球员封神，1999年再度退役。",
-  "sources": [
-    {"title": "Michael Jordan - Wikipedia", "url": "https://en.wikipedia.org/wiki/Michael_Jordan", "type": "wiki"},
-    {"title": "1994–95 Chicago Bulls season - Wikipedia", "url": "https://en.wikipedia.org/wiki/1994%E2%80%9395_Chicago_Bulls_season", "type": "wiki"}
-  ],
-  "tags": ["NBA", "乔丹", "公牛", "复出"]
+"id": "1995-03-19-jordan-returns",
+"date": "1995-03-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "“我回来了”：乔丹结束18个月退役重返NBA",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1995年3月19日，退役18个月的迈克尔·乔丹身披45号球衣重回芝加哥公牛赛场，一份只有两个词的复出声明轰动全球。首战他砍下19分，NBA的收视率随之飙升，公牛王朝的重启进入倒计时。",
+"detail": "1993年10月，刚拿下三连冠的乔丹因父亲遇刺心灰意冷宣布退役，转而加入棒球小联盟。1995年3月，他以一份简短的声明宣布回归篮球，3月19日在印第安纳波利斯客场复出得到19分。起初他状态平平，公牛在季后赛第二轮被魔术淘汰，但这18个月的棒球假期成了王朝的中场休息：当年夏天乔丹换回23号球衣，与归队的皮蓬一道苦练，随后1995-96赛季公牛打出72胜10负的历史最佳常规赛，开启第二个三连冠。乔丹复出的消息登上全球报纸头版，他的45号球衣一夜之间成为最抢手的商品。",
+"impact": "乔丹复出让NBA的全球关注度迅速回到巅峰，也开启了职业体育巨星商业价值的黄金年代。",
+"aftermath": "公牛此后连夺三冠（1996至1998年），乔丹以六冠六次总决赛最有价值球员封神，1999年再度退役。",
+"sources": [
+{
+"title": "Michael Jordan - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Michael_Jordan",
+"type": "wiki"
 },
 {
-  "id": "1995-06-14-rockets-nba-repeat",
-  "date": "1995-06-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "火箭四年两冠：奥拉朱旺横扫魔术卫冕NBA总冠军",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1995年6月14日，休斯敦火箭客场击败奥尼尔领衔的奥兰多魔术，四年内第二度捧起NBA总冠军。以西部第六种子起步的火箭连克强敌登顶，奥拉朱旺荣膺总决赛最有价值球员，“永远不要低估一颗冠军的心”从此流传。",
-  "detail": "这支火箭以卫冕冠军身份从西部第六起步，季后赛一路下克上：首轮1比2落后时逆转爵士，次轮1比3落后翻盘太阳，西部决赛掀翻常规赛最有价值球员罗宾逊领衔的马刺，总决赛四场横扫拥有奥尼尔与哈达威的年轻魔术。6月14日第四场火箭客场113比101收尾，奥拉朱旺系列赛场均可拿到30分以上，加冕总决赛最有价值球员。主教练汤姆贾诺维奇在球队逆转时说出的“永远不要低估一颗冠军的心”，成为NBA最著名的口号之一。中锋时代最后的经典王朝就此定格。",
-  "impact": "低种子逆袭夺冠的范本证明了季后赛经验与巨星成色的价值，火箭成为德州篮球的旗帜。",
-  "aftermath": "火箭此后再未染指总冠军，奥拉朱旺凭两冠与一身“大梦脚步”进入历史级中锋的讨论，其内线技术至今仍是教学范本。",
-  "sources": [
-    {"title": "1995 NBA Finals - Wikipedia", "url": "https://en.wikipedia.org/wiki/1995_NBA_Finals", "type": "wiki"}
-  ],
-  "tags": ["NBA", "火箭", "奥拉朱旺", "总决赛"]
+"title": "1994–95 Chicago Bulls season - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1994%E2%80%9395_Chicago_Bulls_season",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"乔丹",
+"公牛",
+"复出"
+]
 },
 {
-  "id": "1996-03-17-sri-lanka-cricket-world-cup",
-  "date": "1996-03-17",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "斯里兰卡首夺板球世界杯：小岛国家的加冕礼",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1996年3月17日，斯里兰卡在拉合尔击败卫冕冠军澳大利亚，首夺板球世界杯。这个当时人口约1800万、正陷于内战的岛国登上了世界之巅，全国陷入狂欢，胜利也成为国家认同的一次凝聚。",
-  "detail": "这届世界杯由印度、巴基斯坦、斯里兰卡联合主办，澳大利亚与西印度群岛曾因安全顾虑放弃赴科伦坡参赛，反而激发了斯里兰卡全队的斗志。他们以颠覆性的开局强攻打法一路高歌，半决赛击败东道主之一印度，决赛面对已经连续两届夺冠的澳大利亚，德席尔瓦未出局107分率队以7个三柱门优势取胜，自己还两次接杀建功。3月17日终场哨响，科伦坡街头彻夜鸣笛庆祝，政府宣布全国放假一天。黄色球衣的“狮子”从此跻身世界板球强权。",
-  "impact": "开局强打革新了板球大赛的战术风潮，斯里兰卡成为南亚之外的第三个板球冠军国家。",
-  "aftermath": "这批冠军班底此后长期称雄南亚德比，板球在这片内战土地上的凝聚力至今仍被反复引用。",
-  "sources": [
-    {"title": "1996 Cricket World Cup - Wikipedia", "url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup", "type": "wiki"}
-  ],
-  "tags": ["板球", "斯里兰卡", "世界杯"]
+"id": "1995-06-14-rockets-nba-repeat",
+"date": "1995-06-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "火箭四年两冠：奥拉朱旺横扫魔术卫冕NBA总冠军",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1995年6月14日，休斯敦火箭客场击败奥尼尔领衔的奥兰多魔术，四年内第二度捧起NBA总冠军。以西部第六种子起步的火箭连克强敌登顶，奥拉朱旺荣膺总决赛最有价值球员，“永远不要低估一颗冠军的心”从此流传。",
+"detail": "这支火箭以卫冕冠军身份从西部第六起步，季后赛一路下克上：首轮1比2落后时逆转爵士，次轮1比3落后翻盘太阳，西部决赛掀翻常规赛最有价值球员罗宾逊领衔的马刺，总决赛四场横扫拥有奥尼尔与哈达威的年轻魔术。6月14日第四场火箭客场113比101收尾，奥拉朱旺系列赛场均可拿到30分以上，加冕总决赛最有价值球员。主教练汤姆贾诺维奇在球队逆转时说出的“永远不要低估一颗冠军的心”，成为NBA最著名的口号之一。中锋时代最后的经典王朝就此定格。",
+"impact": "低种子逆袭夺冠的范本证明了季后赛经验与巨星成色的价值，火箭成为德州篮球的旗帜。",
+"aftermath": "火箭此后再未染指总冠军，奥拉朱旺凭两冠与一身“大梦脚步”进入历史级中锋的讨论，其内线技术至今仍是教学范本。",
+"sources": [
+{
+"title": "1995 NBA Finals - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1995_NBA_Finals",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"火箭",
+"奥拉朱旺",
+"总决赛"
+]
 },
 {
-  "id": "1996-07-29-carl-lewis-ninth-gold",
-  "date": "1996-07-29",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "卡尔·刘易斯第九金：35岁的最后一跳",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1996年7月29日，35岁的卡尔·刘易斯在亚特兰大以8米50夺得奥运跳远金牌，实现跳远四连冠，个人奥运金牌总数增至9枚。赛前几乎无缘名单的老将，用这枚金牌为四届奥运生涯画上句点。",
-  "detail": "亚特兰大奥运前，美国跳远选拔竞争激烈，刘易斯一度公开抱怨自己险些被资格规则挡在门外。7月29日晚的决赛中，他顶住年轻对手的冲击，以8米50的成绩力压群雄夺冠，领先银牌得主26厘米。这是他连续第四届奥运会拿下跳远金牌——1984洛杉矶、1988汉城、1992巴塞罗那、1996亚特兰大，加上短跑与接力所获，他以9枚奥运金牌成为当时奥运历史上夺金最多的运动员。35岁高龄卫冕跳远，被普遍认为是最难被复制的成就之一。",
-  "impact": "四连冠纪录至今无人接近，刘易斯以干净的长青纪录与博尔特、菲尔普斯并列为奥运史上最伟大的名字。",
-  "aftermath": "刘易斯随即退役转向商业与公益；他的奥运9金总纪录在2008年被菲尔普斯超越，但田径项目内的夺金纪录保持至今。",
-  "sources": [
-    {"title": "Carl Lewis - Wikipedia", "url": "https://en.wikipedia.org/wiki/Carl_Lewis", "type": "wiki"},
-    {"title": "1996 Summer Olympics - Wikipedia", "url": "https://en.wikipedia.org/wiki/1996_Summer_Olympics", "type": "wiki"}
-  ],
-  "tags": ["田径", "跳远", "刘易斯", "亚特兰大奥运"]
+"id": "1996-03-17-sri-lanka-cricket-world-cup",
+"date": "1996-03-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "斯里兰卡首夺板球世界杯：小岛国家的加冕礼",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1996年3月17日，斯里兰卡在拉合尔击败卫冕冠军澳大利亚，首夺板球世界杯。这个当时人口约1800万、正陷于内战的岛国登上了世界之巅，全国陷入狂欢，胜利也成为国家认同的一次凝聚。",
+"detail": "这届世界杯由印度、巴基斯坦、斯里兰卡联合主办，澳大利亚与西印度群岛曾因安全顾虑放弃赴科伦坡参赛，反而激发了斯里兰卡全队的斗志。他们以颠覆性的开局强攻打法一路高歌，半决赛击败东道主之一印度，决赛面对已经连续两届夺冠的澳大利亚，德席尔瓦未出局107分率队以7个三柱门优势取胜，自己还两次接杀建功。3月17日终场哨响，科伦坡街头彻夜鸣笛庆祝，政府宣布全国放假一天。黄色球衣的“狮子”从此跻身世界板球强权。冠军奖杯此后被抬上巨象在科伦坡巡游，板球自此成为这个小岛当之无愧的第一运动。",
+"impact": "开局强打革新了板球大赛的战术风潮，斯里兰卡成为南亚之外的第三个板球冠军国家。",
+"aftermath": "这批冠军班底此后长期称雄南亚德比，板球在这片内战土地上的凝聚力至今仍被反复引用。",
+"sources": [
+{
+"title": "1996 Cricket World Cup - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup",
+"type": "wiki"
+}
+],
+"tags": [
+"板球",
+"斯里兰卡",
+"世界杯"
+]
 },
 {
-  "id": "1996-08-01-china-women-football-olympic-silver",
-  "date": "1996-08-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "亚特兰大之夏：中国女足首夺奥运银牌",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1996年8月1日，中国女足在首届奥运女足决赛中1比2惜败东道主美国，摘得中国足球历史上第一枚世界大赛奖牌。孙雯在决赛中进球，“铿锵玫瑰”从此成为中国体育最响亮的代号之一。",
-  "detail": "女子足球首次进入奥运会，中国女足一路过关：小组赛出线后，半决赛3比2逆转巴西闯入决赛。8月1日决赛在佐治亚大学桑福德体育场进行，美国队麦克米伦与米尔布雷特先后破门，孙雯为球队扳回一球，中国队最终1比2惜败。这枚银牌是当时中国集体球类项目在奥运会上取得的最好成绩，技术与灵气兼备的孙雯开始走向世界舞台。两年后，几乎同一批球员在世界杯上再次打进决赛，让世界记住了这支东方玫瑰。",
-  "impact": "女足成为继女排之后又一个凝聚全民情感的中国集体项目符号，“铿锵玫瑰”的称呼就此传开。",
-  "aftermath": "1999年世界杯点球惜败后玫瑰渐谢，此后二十余年中国女足再未站上世界大赛决赛场，直到2022年重夺亚洲杯冠军，这段记忆才被重新唤起。",
-  "sources": [
-    {"title": "Football at the 1996 Summer Olympics – Women's tournament - Wikipedia", "url": "https://en.wikipedia.org/wiki/Football_at_the_1996_Summer_Olympics_%E2%80%93_Women%27s_tournament", "type": "wiki"},
-    {"title": "China women's national football team - Wikipedia", "url": "https://en.wikipedia.org/wiki/China_women%27s_national_football_team", "type": "wiki"}
-  ],
-  "tags": ["女足", "奥运", "孙雯", "亚特兰大"]
+"id": "1996-07-29-carl-lewis-ninth-gold",
+"date": "1996-07-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "卡尔·刘易斯第九金：35岁的最后一跳",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1996年7月29日，35岁的卡尔·刘易斯在亚特兰大以8米50夺得奥运跳远金牌，实现跳远四连冠，个人奥运金牌总数增至9枚。赛前几乎无缘名单的老将，用这枚金牌为四届奥运生涯画上句点。",
+"detail": "亚特兰大奥运前，美国跳远选拔竞争激烈，刘易斯一度公开抱怨自己险些被资格规则挡在门外。7月29日晚的决赛中，他顶住年轻对手的冲击，以8米50的成绩力压群雄夺冠，领先银牌得主26厘米。这是他连续第四届奥运会拿下跳远金牌——1984洛杉矶、1988汉城、1992巴塞罗那、1996亚特兰大，加上短跑与接力所获，他以9枚奥运金牌成为当时奥运历史上夺金最多的运动员。35岁高龄卫冕跳远，被普遍认为是最难被复制的成就之一。",
+"impact": "四连冠纪录至今无人接近，刘易斯以干净的长青纪录与博尔特、菲尔普斯并列为奥运史上最伟大的名字。",
+"aftermath": "刘易斯随即退役转向商业与公益；他的奥运9金总纪录在2008年被菲尔普斯超越，但田径项目内的夺金纪录保持至今。",
+"sources": [
+{
+"title": "Carl Lewis - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Carl_Lewis",
+"type": "wiki"
 },
 {
-  "id": "1997-01-25-hingis-youngest-slam",
-  "date": "1997-01-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "辛吉斯16岁登顶澳网：公开赛年代最年轻大满贯得主",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年1月25日，16岁的瑞士少女辛吉斯在澳网决赛直落两盘击败法国名将皮尔斯，成为公开赛年代最年轻的大满贯单打冠军。当年她连进四大满贯决赛拿下三冠，女子网坛的“辛吉斯时代”就此开场。",
-  "detail": "辛吉斯1980年出生于捷克斯洛伐克，少年时代移居瑞士，14岁便转入职业网坛，以超越年龄的战术头脑和细腻球商闻名。1997年澳网决赛，她以6比2、6比2横扫1995年冠军皮尔斯，以16岁零3个多月刷新公开赛年代最年轻大满贯冠军纪录。此后她一路高歌：3月登顶世界排名第一，温网、美网接连折桂，法网也打进决赛，单赛季三冠一亚。媒体用“瑞士小魔女”形容这位既能统治赛场又会公开点评对手的少女，女子网坛的青春风暴由此掀起。",
-  "impact": "最年轻大满贯纪录至今无人打破，女子网坛的技术流与青春化讨论由她引爆。",
-  "aftermath": "脚伤让辛吉斯的单打生涯在22岁前后急转直下，她后来以双打再夺多座大满贯并入选国际网球名人堂，16岁夺冠的纪录仍高悬榜上。",
-  "sources": [
-    {"title": "1997 Australian Open - Wikipedia", "url": "https://en.wikipedia.org/wiki/1997_Australian_Open", "type": "wiki"},
-    {"title": "Martina Hingis - Wikipedia", "url": "https://en.wikipedia.org/wiki/Martina_Hingis", "type": "wiki"}
-  ],
-  "tags": ["网球", "辛吉斯", "澳网", "最年轻纪录"]
+"title": "1996 Summer Olympics - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1996_Summer_Olympics",
+"type": "wiki"
+}
+],
+"tags": [
+"田径",
+"跳远",
+"刘易斯",
+"亚特兰大奥运"
+]
 },
 {
-  "id": "1997-04-13-tiger-masters-first",
-  "date": "1997-04-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "老虎伍兹首夺大师赛：12杆优势改写高尔夫",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年4月13日，21岁的泰格·伍兹在奥古斯塔以领先12杆的赛史最大优势首夺美国大师赛，成为最年轻的绿夹克得主。高尔夫的电视收视与商业版图从此改写，“老虎效应”席卷全球。",
-  "detail": "伍兹转职业仅八个月便登上大师赛舞台。首轮前九洞他打出挣扎的40杆，此后却一路狂飙：随后三轮全面接管赛场，最终以270杆、低于标准杆18杆夺冠，总杆数与领先幅度双双刷新大师赛纪录，21岁3个月的年龄也让他成为赛史最年轻冠军。作为泰裔与非裔混血，他打破了这项运动长期由白人精英主导的刻板印象，决赛轮的转播收视率创下当时高尔夫之最。美国青少年高尔夫报名人数在随后的数年内成倍增长。",
-  "impact": "高尔夫从精英俱乐部运动走向大众市场，赞助费与转播费全面飙升，一代孩子举起了塑料球杆。",
-  "aftermath": "伍兹此后累计15个大满贯冠军、683周世界第一；1997年的奥古斯塔被普遍视为现代高尔夫的分水岭。",
-  "sources": [
-    {"title": "1997 Masters Tournament - Wikipedia", "url": "https://en.wikipedia.org/wiki/1997_Masters_Tournament", "type": "wiki"},
-    {"title": "Tiger Woods - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tiger_Woods", "type": "wiki"}
-  ],
-  "tags": ["高尔夫", "伍兹", "大师赛"]
+"id": "1996-08-01-china-women-football-olympic-silver",
+"date": "1996-08-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "亚特兰大之夏：中国女足首夺奥运银牌",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1996年8月1日，中国女足在首届奥运女足决赛中1比2惜败东道主美国，摘得中国足球历史上第一枚世界大赛奖牌。孙雯在决赛中进球，“铿锵玫瑰”从此成为中国体育最响亮的代号之一。",
+"detail": "女子足球首次进入奥运会，中国女足一路过关：小组赛出线后，半决赛3比2逆转巴西闯入决赛。8月1日决赛在佐治亚大学桑福德体育场进行，美国队麦克米伦与米尔布雷特先后破门，孙雯为球队扳回一球，中国队最终1比2惜败。这枚银牌是当时中国集体球类项目在奥运会上取得的最好成绩，技术与灵气兼备的孙雯开始走向世界舞台。两年后，几乎同一批球员在世界杯上再次打进决赛，让世界记住了这支东方玫瑰。决赛看台上坐了超过七万名观众，女足的商业与观赏潜力第一次被全世界认真看见。",
+"impact": "女足成为继女排之后又一个凝聚全民情感的中国集体项目符号，“铿锵玫瑰”的称呼就此传开。",
+"aftermath": "1999年世界杯点球惜败后玫瑰渐谢，此后二十余年中国女足再未站上世界大赛决赛场，直到2022年重夺亚洲杯冠军，这段记忆才被重新唤起。",
+"sources": [
+{
+"title": "Football at the 1996 Summer Olympics – Women's tournament - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Football_at_the_1996_Summer_Olympics_%E2%80%93_Women%27s_tournament",
+"type": "wiki"
 },
 {
-  "id": "1997-06-13-bulls-fifth-title",
-  "date": "1997-06-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "公牛第五冠：流感之战后的王朝第五星",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年6月13日，芝加哥公牛主场90比86险胜犹他爵士，4比2拿下队史第五座NBA总冠军。此前乔丹在高烧状态下轰出38分的“流感之战”，成为总决赛史上最著名的个人英雄主义画面。",
-  "detail": "总决赛前四场双方战成2比2。第五场移师盐湖城，乔丹赛前因疑似食物中毒上吐下泻、几乎无法站立，却坚持打了44分钟砍下38分，终场前投中锁定胜局的三分后瘫倒在皮蓬怀里，这一幕成为NBA的经典镜头。第六场回到芝加哥，公牛顶住爵士的反扑以90比86锁定冠军，乔丹以场均32.3分再获总决赛最有价值球员。这座奖杯是公牛90年代第二个三连冠的开端，也把乔丹的坚韧叙事推向顶点。",
-  "impact": "“流感之战”与公牛第五冠把NBA的全球化传播推上新台阶，乔丹的商业帝国随之扩张。",
-  "aftermath": "1998年公牛完成第二个三连冠后王朝解体；流感之战被后世纪录片反复致敬，其球衣多年后拍出天价。",
-  "sources": [
-    {"title": "1997 NBA Finals - Wikipedia", "url": "https://en.wikipedia.org/wiki/1997_NBA_Finals", "type": "wiki"}
-  ],
-  "tags": ["NBA", "公牛", "乔丹", "流感之战"]
+"title": "China women's national football team - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/China_women%27s_national_football_team",
+"type": "wiki"
+}
+],
+"tags": [
+"女足",
+"奥运",
+"孙雯",
+"亚特兰大"
+]
 },
 {
-  "id": "1997-06-28-tyson-bites-holyfield",
-  "date": "1997-06-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "咬耳事件：泰森世纪之战被取消资格",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年6月28日，拉斯维加斯，迈克·泰森在与霍利菲尔德的重量级二番战中两次咬伤对手耳朵，被当场取消资格。职业拳击以史上最荒诞的方式收场，泰森被吊销执照并罚款300万美元。",
-  "detail": "一年前霍利菲尔德曾在第十一回合技术性击倒泰森，二番战万众瞩目。第三回合纠缠中，泰森一口咬住霍利菲尔德的右耳，撕下一块软骨吐在地毯上，全场哗然；短暂恢复后他又在第四回合咬向对手左耳，裁判米尔斯·莱恩宣布取消其比赛资格，霍利菲尔德技术性获胜卫冕。赛后内华达州运动委员会吊销泰森执照、处以300万美元罚款，泰森后来解释称对手多次头撞令他情绪失控，但道歉并未平息哗然。两位拳手多年后公开和解，比赛片段却成了体育史上最著名的失控瞬间。",
-  "impact": "“咬耳”成为全球流行文化符号，职业拳击的暴力形象与管理失序被推上风口浪尖。",
-  "aftermath": "泰森就此告别巅峰，2005年宣布退役；这一战被视为重量级黄金年代落幕的注脚。",
-  "sources": [
-    {"title": "Mike Tyson - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mike_Tyson", "type": "wiki"},
-    {"title": "Evander Holyfield - Wikipedia", "url": "https://en.wikipedia.org/wiki/Evander_Holyfield", "type": "wiki"}
-  ],
-  "tags": ["拳击", "泰森", "霍利菲尔德", "咬耳"]
+"id": "1997-01-25-hingis-youngest-slam",
+"date": "1997-01-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "辛吉斯16岁登顶澳网：公开赛年代最年轻大满贯得主",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年1月25日，16岁的瑞士少女辛吉斯在澳网决赛直落两盘击败法国名将皮尔斯，成为公开赛年代最年轻的大满贯单打冠军。当年她连进四大满贯决赛拿下三冠，女子网坛的“辛吉斯时代”就此开场。",
+"detail": "辛吉斯1980年出生于捷克斯洛伐克，少年时代移居瑞士，14岁便转入职业网坛，以超越年龄的战术头脑和细腻球商闻名。1997年澳网决赛，她以6比2、6比2横扫1995年冠军皮尔斯，以16岁零3个多月刷新公开赛年代最年轻大满贯冠军纪录。此后她一路高歌：3月登顶世界排名第一，温网、美网接连折桂，法网也打进决赛，单赛季三冠一亚。媒体用“瑞士小魔女”形容这位既能统治赛场又会公开点评对手的少女，女子网坛的青春风暴由此掀起。",
+"impact": "最年轻大满贯纪录至今无人打破，女子网坛的技术流与青春化讨论由她引爆。",
+"aftermath": "脚伤让辛吉斯的单打生涯在22岁前后急转直下，她后来以双打再夺多座大满贯并入选国际网球名人堂，16岁夺冠的纪录仍高悬榜上。",
+"sources": [
+{
+"title": "1997 Australian Open - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1997_Australian_Open",
+"type": "wiki"
 },
 {
-  "id": "1997-07-27-ullrich-tour-win",
-  "date": "1997-07-27",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "乌尔里希首夺环法：德国自行车热潮引爆",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年7月27日，24岁的扬·乌尔里希成为首位夺得环法总冠军的德国人，也是二战后最年轻的环法冠军。香榭丽舍大街的加冕让德国掀起前所未有的自行车热，电视台收视率打破纪录。",
-  "detail": "乌尔里希效力德国电信车队，1996年以新人身份拿下环法亚军，1997年则全面接管比赛：比利牛斯与阿尔卑斯山地赛段中，他把主要对手甩开数分钟，个人计时赛再度扩大优势，最终以领先第二名9分09秒的总成绩夺冠，成为二战后最年轻的环法总冠军。7月27日巴黎收官日，德国电视台的直播收视率刷新纪录，购自行车、骑车上路成为德国街头的新风尚，媒体把这场全民狂热称作“扬的热潮”。",
-  "impact": "德国一跃成为公路自行车最大的商业市场之一，车队赞助与自行车销量激增。",
-  "aftermath": "乌尔里希此后五次登上环法领奖台却再未夺冠；多年后他卷入禁药案并在2013年公开认错，1997年的青春加冕因此被重新审视。",
-  "sources": [
-    {"title": "1997 Tour de France - Wikipedia", "url": "https://en.wikipedia.org/wiki/1997_Tour_de_France", "type": "wiki"},
-    {"title": "Jan Ullrich - Wikipedia", "url": "https://en.wikipedia.org/wiki/Jan_Ullrich", "type": "wiki"}
-  ],
-  "tags": ["自行车", "环法", "乌尔里希", "德国"]
+"title": "Martina Hingis - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Martina_Hingis",
+"type": "wiki"
+}
+],
+"tags": [
+"网球",
+"辛吉斯",
+"澳网",
+"最年轻纪录"
+]
 },
 {
-  "id": "1997-10-26-f1-jerez-showdown",
-  "date": "1997-10-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "赫雷斯撞车夜：维伦纽夫夺F1总冠军，舒马赫被除名",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1997年10月26日的欧洲大奖赛成为一级方程式史上最激烈的冠军决战：舒马赫在防守中撞向维伦纽夫反使自己退赛，加拿大人稳稳带回季军，以1分优势加冕世界冠军，舒马赫则被国际汽联取消全年成绩。",
-  "detail": "收官战前积分榜上舒马赫领先1分，车手总冠军必须在这站见分晓。第48圈，维伦纽夫从内侧突进弯道，领跑的舒马赫横切撞向对手，结果自己陷入砂石缓冲区退赛；维伦纽夫赛车受损仍坚持完赛排名第三，积分反超登顶。国际汽联赛后认定这一危险动作属于蓄意，罕见地取消舒马赫1997年全年车手成绩（车队积分保留），成为这项运动史上最著名的纪律处罚之一。维伦纽夫为威廉姆斯车队拿下个人首个世界冠军，也延续了家族赛道上的荣光。",
-  "impact": "“撞车保冠军”从此成为竞技道德的反面教材，F1对危险防守的处罚规则趋严。",
-  "aftermath": "舒马赫随后迅速东山再起，2000年起为法拉利完成五连霸，但1997年的除名始终留在他的履历中。",
-  "sources": [
-    {"title": "1997 European Grand Prix - Wikipedia", "url": "https://en.wikipedia.org/wiki/1997_European_Grand_Prix", "type": "wiki"}
-  ],
-  "tags": ["F1", "舒马赫", "维伦纽夫", "赫雷斯"]
+"id": "1997-04-13-tiger-masters-first",
+"date": "1997-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "老虎伍兹首夺大师赛：12杆优势改写高尔夫",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年4月13日，21岁的泰格·伍兹在奥古斯塔以领先12杆的赛史最大优势首夺美国大师赛，成为最年轻的绿夹克得主。高尔夫的电视收视与商业版图从此改写，“老虎效应”席卷全球。",
+"detail": "伍兹转职业仅八个月便登上大师赛舞台。首轮前九洞他打出挣扎的40杆，此后却一路狂飙：随后三轮全面接管赛场，最终以270杆、低于标准杆18杆夺冠，总杆数与领先幅度双双刷新大师赛纪录，21岁3个月的年龄也让他成为赛史最年轻冠军。作为泰裔与非裔混血，他打破了这项运动长期由白人精英主导的刻板印象，决赛轮的转播收视率创下当时高尔夫之最。美国青少年高尔夫报名人数在随后的数年内成倍增长。夺冠次日他的名字登上全球报纸头版，奥古斯塔随后数年间的青少年高尔夫报名人数成倍增长。",
+"impact": "高尔夫从精英俱乐部运动走向大众市场，赞助费与转播费全面飙升，一代孩子举起了塑料球杆。",
+"aftermath": "伍兹此后累计15个大满贯冠军、683周世界第一；1997年的奥古斯塔被普遍视为现代高尔夫的分水岭。",
+"sources": [
+{
+"title": "1997 Masters Tournament - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1997_Masters_Tournament",
+"type": "wiki"
 },
 {
-  "id": "1998-02-20-chen-lu-nagano-bronze",
-  "date": "1998-02-20",
-  "date_accuracy": "exact",
-  "date_confidence": "single-source",
-  "title": "陈露长野摘铜：《梁祝》响彻冬奥冰场",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1998年2月20日，21岁的陈露在长野冬奥会花样滑冰女单自由滑中伴着《梁祝》摘得铜牌，成为中国首位两夺冬奥奖牌的花滑选手，也为自己三届冬奥的职业生涯画上句点。",
-  "detail": "陈露1994年利勒哈默尔已为中国夺得首枚花滑冬奥奖牌（铜牌），长野是她第三次也是最后一次冬奥会。女单比赛2月18日至20日进行，自由滑中她选用小提琴协奏曲《梁祝》，把化蝶的爱情传说融进滑行、旋转与跳跃，以稳健的发挥力压俄罗斯新秀斯鲁茨卡娅再获铜牌；金牌被16岁的利平斯基夺走，关颖珊摘银。比赛结束后陈露向看台与教练深深鞠躬致谢，随后正式告别业余赛场转入职业表演。《梁祝》自由滑由此成为中国花滑最经典的美学名片。",
-  "impact": "一代中国观众通过陈露认识了花样滑冰，中国花滑的国际存在感从此确立。",
-  "aftermath": "陈露退役后旅美执教并回国推动项目普及；此后中国花滑在双人滑项目上登顶奥运，申雪、赵宏博等后辈接续了她的道路。",
-  "sources": [
-    {"title": "Chen Lu (figure skater) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chen_Lu_(figure_skater)", "type": "wiki"},
-    {"title": "Figure skating at the 1998 Winter Olympics - Wikipedia", "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_1998_Winter_Olympics", "type": "wiki"}
-  ],
-  "tags": ["花样滑冰", "陈露", "冬奥", "梁祝"]
+"title": "Tiger Woods - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Tiger_Woods",
+"type": "wiki"
+}
+],
+"tags": [
+"高尔夫",
+"伍兹",
+"大师赛"
+]
 },
 {
-  "id": "1998-06-14-bulls-sixth-title-last-dance",
-  "date": "1998-06-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "最后之舞：乔丹终场绝杀，公牛六冠封王朝",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年6月14日，NBA总决赛第六场，乔丹终场前5.2秒晃过防守投进制胜球，公牛87比86险胜爵士，以第二个三连冠为90年代王朝画上句号。独得45分的他拿下第六座总决赛最有价值球员奖杯。",
-  "detail": "这支公牛赛季开始前就被管理层告知“这是最后一年”，整个赛季像一场心照不宣的告别巡演，后世因此称之为“最后之舞”。总决赛与爵士战成3比2后移师盐湖城：终场前41.9秒爵士领先3分，乔丹随后上篮追分、又从马龙手中完成关键抢断，接着在5.2秒时晃倒拉塞尔中投命中，87比86完成绝杀。这是公牛八年内的第六座总冠军，赛季结束后主教练杰克逊离任、皮蓬被交易、乔丹第二次退役，王朝戛然而止。",
-  "impact": "“最后之舞”成为体育王朝叙事与纪录片的代名词，乔丹以近乎完美的谢幕奠定了历史地位讨论的基准。",
-  "aftermath": "公牛此后二十余年未再夺冠；2020年同名纪录片播出再掀乔丹热，这一绝杀至今仍是NBA历史镜头榜的头名常客。",
-  "sources": [
-    {"title": "1998 NBA Finals - Wikipedia", "url": "https://en.wikipedia.org/wiki/1998_NBA_Finals", "type": "wiki"}
-  ],
-  "tags": ["NBA", "公牛", "乔丹", "最后之舞"]
+"id": "1997-06-13-bulls-fifth-title",
+"date": "1997-06-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "公牛第五冠：流感之战后的王朝第五星",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年6月13日，芝加哥公牛主场90比86险胜犹他爵士，4比2拿下队史第五座NBA总冠军。此前乔丹在高烧状态下轰出38分的“流感之战”，成为总决赛史上最著名的个人英雄主义画面。",
+"detail": "总决赛前四场双方战成2比2。第五场移师盐湖城，乔丹赛前因疑似食物中毒上吐下泻、几乎无法站立，却坚持打了44分钟砍下38分，终场前投中锁定胜局的三分后瘫倒在皮蓬怀里，这一幕成为NBA的经典镜头。第六场回到芝加哥，公牛顶住爵士的反扑以90比86锁定冠军，乔丹以场均32.3分再获总决赛最有价值球员。这座奖杯是公牛90年代第二个三连冠的开端，也把乔丹的坚韧叙事推向顶点。总决赛的全美收视率创下当时篮球转播纪录，乔丹的球衣销量随之成倍飙升。",
+"impact": "“流感之战”与公牛第五冠把NBA的全球化传播推上新台阶，乔丹的商业帝国随之扩张。",
+"aftermath": "1998年公牛完成第二个三连冠后王朝解体；流感之战被后世纪录片反复致敬，其球衣多年后拍出天价。",
+"sources": [
+{
+"title": "1997 NBA Finals - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1997_NBA_Finals",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"公牛",
+"乔丹",
+"流感之战"
+]
 },
 {
-  "id": "1998-09-08-mcgwire-62-homers",
-  "date": "1998-09-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "麦圭尔第62支本垒打：棒球走出罢工阴影的一夜",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1998年9月8日，马克·麦圭尔轰出赛季第62支本垒打，打破尘封37年的单季纪录，连对手球员都起立鼓掌。他与索萨的竞逐把美国棒球从1994年大罢工的低谷中彻底拉了回来。",
-  "detail": "1961年马里斯61支的单季本垒打纪录被视为不可触碰的天花板。1998赛季，圣路易斯的麦圭尔与芝加哥小熊的索萨掀起你追我赶的对轰，全美媒体逐日追踪每一次挥棒。9月8日主场对阵小熊，麦圭尔把一颗外角球轰出左外野围墙，全场起立鼓掌长达数分钟，他绕垒后与索萨紧紧相拥。赛季结束时麦圭尔以70支收官、索萨66支，双双大幅超越旧纪录，全联盟本垒打总数创历史新高，门票与转播收入全面回暖。",
-  "impact": "这场“本垒打竞逐”被视为北美职业体育自我修复的经典案例，棒球重新成为全美客厅话题。",
-  "aftermath": "纪录随后被邦兹2001年的73支改写，而相关球员后来均卷入禁药疑云，这段长打黄金季的历史评价因此变得复杂。",
-  "sources": [
-    {"title": "Mark McGwire - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mark_McGwire", "type": "wiki"},
-    {"title": "1998 Major League Baseball season - Wikipedia", "url": "https://en.wikipedia.org/wiki/1998_Major_League_Baseball_season", "type": "wiki"}
-  ],
-  "tags": ["棒球", "麦圭尔", "本垒打", "纪录"]
+"id": "1997-06-28-tyson-bites-holyfield",
+"date": "1997-06-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "咬耳事件：泰森世纪之战被取消资格",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年6月28日，拉斯维加斯，迈克·泰森在与霍利菲尔德的重量级二番战中两次咬伤对手耳朵，被当场取消资格。职业拳击以史上最荒诞的方式收场，泰森被吊销执照并罚款300万美元。",
+"detail": "一年前霍利菲尔德曾在第十一回合技术性击倒泰森，二番战万众瞩目。第三回合纠缠中，泰森一口咬住霍利菲尔德的右耳，撕下一块软骨吐在地毯上，全场哗然；短暂恢复后他又在第四回合咬向对手左耳，裁判米尔斯·莱恩宣布取消其比赛资格，霍利菲尔德技术性获胜卫冕。赛后内华达州运动委员会吊销泰森执照、处以300万美元罚款，泰森后来解释称对手多次头撞令他情绪失控，但道歉并未平息哗然。两位拳手多年后公开和解，比赛片段却成了体育史上最著名的失控瞬间。",
+"impact": "“咬耳”成为全球流行文化符号，职业拳击的暴力形象与管理失序被推上风口浪尖。",
+"aftermath": "泰森就此告别巅峰，2005年宣布退役；这一战被视为重量级黄金年代落幕的注脚。",
+"sources": [
+{
+"title": "Mike Tyson - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+"type": "wiki"
 },
 {
-  "id": "1998-12-06-bangkok-asian-games",
-  "date": "1998-12-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "曼谷亚运会开幕：金融风暴中的东南亚盛会",
-  "category": "society",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1998年12月6日，第十三届亚运会在金融风暴余波中的曼谷开幕，中国代表团以129金连续第五次高居金牌榜第一。泰国在金融危机重创下咬牙如期办赛，圣火照常点燃，成为当年的一个亚洲信号。",
-  "detail": "泰国正被亚洲金融风暴拖入泥潭，亚运场馆与配套建设一度告急，国际社会甚至讨论过易地办赛，但曼谷最终如期开幕，41个国家和地区的数千名运动员齐聚湄南河畔。中国代表团在田径、游泳、举重、体操等大项全面丰收，以129金稳居榜首，韩国、日本分列二三名。曼谷由此成为史上首个四度主办亚运会的城市（1966、1970、1978、1998），这届在风雨中举办的盛会也被视为东南亚走出危机信心的修复仪式。",
-  "impact": "亚运会如期举行被视为亚洲金融危机后的信心修复仪式，中国竞技体育在亚洲的统治力进一步巩固。",
-  "aftermath": "中国此后连续称霸亚运金牌榜至今；曼谷四办亚运的纪录至今未被其他城市打破。",
-  "sources": [
-    {"title": "1998 Asian Games - Wikipedia", "url": "https://en.wikipedia.org/wiki/1998_Asian_Games", "type": "wiki"}
-  ],
-  "tags": ["亚运会", "曼谷", "中国代表团", "金融风暴"]
+"title": "Evander Holyfield - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Evander_Holyfield",
+"type": "wiki"
+}
+],
+"tags": [
+"拳击",
+"泰森",
+"霍利菲尔德",
+"咬耳"
+]
 },
 {
-  "id": "1999-08-08-liu-guoliang-grand-slam",
-  "date": "1999-08-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "刘国梁埃因霍温登顶：中国男乒首位大满贯诞生",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1999年8月8日，第45届世乒赛男单决赛，23岁的刘国梁击败队友马琳夺冠，集齐奥运会、世乒赛、世界杯三大赛冠军，成为中国男乒历史上第一位大满贯得主。直板快攻的最后辉煌就此定格。",
-  "detail": "刘国梁以直板正胶近台快攻打法成名，1996年亚特兰大奥运男单夺金、同年世界杯再下城，独缺世乒赛单打冠军。这届埃因霍温世乒赛于8月2日至8日举行，他一路过关斩将，决赛力克队友马琳，把最后一块拼图补齐，成为中国男乒首位大满贯。彼时弧圈球已全面兴起，直板正胶打法日渐边缘，刘国梁以算计与手感弥补器材劣势，被称为“智多星”。他的登顶既是个人的圆满，也是一个打法时代的巅峰谢幕。",
-  "impact": "中国男乒的大满贯叙事自刘国梁始，直板快攻的战术遗产影响了此后数代教练与球员。",
-  "aftermath": "刘国梁2003年退役执教男乒，后来执掌中国乒协，带队统治国际乒坛至今；“不懂球的胖子”的另一段传奇比球员时代更长。",
-  "sources": [
-    {"title": "Liu Guoliang - Wikipedia", "url": "https://en.wikipedia.org/wiki/Liu_Guoliang", "type": "wiki"},
-    {"title": "1999 World Table Tennis Championships - Wikipedia", "url": "https://en.wikipedia.org/wiki/1999_World_Table_Tennis_Championships", "type": "wiki"}
-  ],
-  "tags": ["乒乓球", "刘国梁", "大满贯", "世乒赛"]
+"id": "1997-07-27-ullrich-tour-win",
+"date": "1997-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "乌尔里希首夺环法：德国自行车热潮引爆",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年7月27日，24岁的扬·乌尔里希成为首位夺得环法总冠军的德国人，也是二战后最年轻的环法冠军。香榭丽舍大街的加冕让德国掀起前所未有的自行车热，电视台收视率打破纪录。",
+"detail": "乌尔里希效力德国电信车队，1996年以新人身份拿下环法亚军，1997年则全面接管比赛：比利牛斯与阿尔卑斯山地赛段中，他把主要对手甩开数分钟，个人计时赛再度扩大优势，最终以领先第二名9分09秒的总成绩夺冠，成为二战后最年轻的环法总冠军。7月27日巴黎收官日，德国电视台的直播收视率刷新纪录，购自行车、骑车上路成为德国街头的新风尚，媒体把这场全民狂热称作“扬的热潮”。夺冠后他回国的每个行程都万人空巷，德国市场的自行车销量当年增长近五成。",
+"impact": "德国一跃成为公路自行车最大的商业市场之一，车队赞助与自行车销量激增。",
+"aftermath": "乌尔里希此后五次登上环法领奖台却再未夺冠；多年后他卷入禁药案并在2013年公开认错，1997年的青春加冕因此被重新审视。",
+"sources": [
+{
+"title": "1997 Tour de France - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1997_Tour_de_France",
+"type": "wiki"
 },
 {
-  "id": "1999-09-11-serena-first-slam",
-  "date": "1999-09-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "小威廉姆斯首夺美网：一个网球王朝的起点",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年9月11日，17岁的小威廉姆斯在美网决赛两盘击败头号种子辛吉斯，夺得个人首个大满贯单打冠军，也成为1958年吉布森之后首位捧起大满贯单打奖杯的非裔美国女将。威廉姆斯姐妹时代就此启幕。",
-  "detail": "这届美网见证了加州康普顿出身姐妹花的集体爆发：姐姐大威打进半决赛，妹妹小威则一路连克多名种子选手，半决赛力克达文波特后，决赛面对卫冕冠军辛吉斯以6比3、7比6取胜。17岁的小威以暴力发球与底线强攻宣告新时代到来，成为继吉布森之后41年来首位夺得大满贯单打冠军的非裔美国女性。看台上的父亲理查德挥舞双臂庆祝的画面，与姐妹俩出身贫民区、由父亲在破旧球场教球的经历一起，成为体育史上最著名的家庭故事之一。",
-  "impact": "威廉姆斯姐妹把力量与运动能力的新标准带入女子网坛，也改变了这项精英运动的面孔构成。",
-  "aftermath": "小威此后累积23个大满贯单打冠军、公开赛年代第一；1999年美网正是这条传奇长卷的第一章。",
-  "sources": [
-    {"title": "1999 US Open (tennis) - Wikipedia", "url": "https://en.wikipedia.org/wiki/1999_US_Open_(tennis)", "type": "wiki"}
-  ],
-  "tags": ["网球", "小威廉姆斯", "美网", "威廉姆斯姐妹"]
+"title": "Jan Ullrich - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Jan_Ullrich",
+"type": "wiki"
+}
+],
+"tags": [
+"自行车",
+"环法",
+"乌尔里希",
+"德国"
+]
 },
 {
-  "id": "1999-06-25-spurs-first-title",
-  "date": "1999-06-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "马刺首夺NBA总冠军：邓肯时代开启",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1999年6月25日，圣安东尼奥马刺客场78比77险胜纽约尼克斯，队史首夺NBA总冠军。二年级生邓肯场均27分14篮板荣膺总决赛最有价值球员，一个延续二十年的马刺王朝在缩水赛季的乱世中悄然奠基。",
-  "detail": "1998-99赛季因劳资纠纷缩水至50场，季后赛却在动荡中催生了新王。马刺以罗宾逊与邓肯的“双塔”为轴，季后赛连续横扫湖人、开拓者等豪强，总决赛面对上演黑八奇迹的尼克斯。6月25日第五场在麦迪逊广场花园，终场前47秒约翰逊投中制胜跳投，马刺78比77锁定队史首冠。23岁的邓肯五战场均27.4分14个篮板，当选总决赛最有价值球员。这支来自德州小城的球队自此成为联盟最稳定的强权。",
-  "impact": "邓肯重新定义了大前锋位置的教科书打法，马刺的小球市经营模式成为联盟范本。",
-  "aftermath": "邓肯此后19年全部效力马刺，球队五度夺冠，他与波波维奇的组合成为NBA最长寿的师徒传奇。",
-  "sources": [
-    {"title": "1999 NBA Finals - Wikipedia", "url": "https://en.wikipedia.org/wiki/1999_NBA_Finals", "type": "wiki"}
-  ],
-  "tags": ["NBA", "马刺", "邓肯", "缩水赛季"]
+"id": "1997-10-26-f1-jerez-showdown",
+"date": "1997-10-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "赫雷斯撞车夜：维伦纽夫夺F1总冠军，舒马赫被除名",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1997年10月26日的欧洲大奖赛成为一级方程式史上最激烈的冠军决战：舒马赫在防守中撞向维伦纽夫反使自己退赛，加拿大人稳稳带回季军，以1分优势加冕世界冠军，舒马赫则被国际汽联取消全年成绩。",
+"detail": "收官战前积分榜上舒马赫领先1分，车手总冠军必须在这站见分晓。第48圈，维伦纽夫从内侧突进弯道，领跑的舒马赫横切撞向对手，结果自己陷入砂石缓冲区退赛；维伦纽夫赛车受损仍坚持完赛排名第三，积分反超登顶。国际汽联赛后认定这一危险动作属于蓄意，罕见地取消舒马赫1997年全年车手成绩（车队积分保留），成为这项运动史上最著名的纪律处罚之一。维伦纽夫为威廉姆斯车队拿下个人首个世界冠军，也延续了家族赛道上的荣光。",
+"impact": "“撞车保冠军”从此成为竞技道德的反面教材，F1对危险防守的处罚规则趋严。",
+"aftermath": "舒马赫随后迅速东山再起，2000年起为法拉利完成五连霸，但1997年的除名始终留在他的履历中。",
+"sources": [
+{
+"title": "1997 European Grand Prix - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1997_European_Grand_Prix",
+"type": "wiki"
+}
+],
+"tags": [
+"F1",
+"舒马赫",
+"维伦纽夫",
+"赫雷斯"
+]
+},
+{
+"id": "1998-02-20-chen-lu-nagano-bronze",
+"date": "1998-02-20",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "陈露长野摘铜：《梁祝》响彻冬奥冰场",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1998年2月20日，21岁的陈露在长野冬奥会花样滑冰女单自由滑中伴着《梁祝》摘得铜牌，成为中国首位两夺冬奥奖牌的花滑选手，也为自己三届冬奥的职业生涯画上句点。",
+"detail": "陈露1994年利勒哈默尔已为中国夺得首枚花滑冬奥奖牌（铜牌），长野是她第三次也是最后一次冬奥会。女单比赛2月18日至20日进行，自由滑中她选用小提琴协奏曲《梁祝》，把化蝶的爱情传说融进滑行、旋转与跳跃，以稳健的发挥力压俄罗斯新秀斯鲁茨卡娅再获铜牌；金牌被16岁的利平斯基夺走，关颖珊摘银。比赛结束后陈露向看台与教练深深鞠躬致谢，随后正式告别业余赛场转入职业表演。《梁祝》自由滑由此成为中国花滑最经典的美学名片。",
+"impact": "一代中国观众通过陈露认识了花样滑冰，中国花滑的国际存在感从此确立。",
+"aftermath": "陈露退役后旅美执教并回国推动项目普及；此后中国花滑在双人滑项目上登顶奥运，申雪、赵宏博等后辈接续了她的道路。",
+"sources": [
+{
+"title": "Chen Lu (figure skater) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Chen_Lu_(figure_skater)",
+"type": "wiki"
+},
+{
+"title": "Figure skating at the 1998 Winter Olympics - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_1998_Winter_Olympics",
+"type": "wiki"
+}
+],
+"tags": [
+"花样滑冰",
+"陈露",
+"冬奥",
+"梁祝"
+]
+},
+{
+"id": "1998-06-14-bulls-sixth-title-last-dance",
+"date": "1998-06-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "最后之舞：乔丹终场绝杀，公牛六冠封王朝",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年6月14日，NBA总决赛第六场，乔丹终场前5.2秒晃过防守投进制胜球，公牛87比86险胜爵士，以第二个三连冠为90年代王朝画上句号。独得45分的他拿下第六座总决赛最有价值球员奖杯。",
+"detail": "这支公牛赛季开始前就被管理层告知“这是最后一年”，整个赛季像一场心照不宣的告别巡演，后世因此称之为“最后之舞”。总决赛与爵士战成3比2后移师盐湖城：终场前41.9秒爵士领先3分，乔丹随后上篮追分、又从马龙手中完成关键抢断，接着在5.2秒时晃倒拉塞尔中投命中，87比86完成绝杀。这是公牛八年内的第六座总冠军，赛季结束后主教练杰克逊离任、皮蓬被交易、乔丹第二次退役，王朝戛然而止。最后时刻的全美收视人数逼近三千万，这一绝杀至今仍高居NBA历史镜头榜首位。",
+"impact": "“最后之舞”成为体育王朝叙事与纪录片的代名词，乔丹以近乎完美的谢幕奠定了历史地位讨论的基准。",
+"aftermath": "公牛此后二十余年未再夺冠；2020年同名纪录片播出再掀乔丹热，这一绝杀至今仍是NBA历史镜头榜的头名常客。",
+"sources": [
+{
+"title": "1998 NBA Finals - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1998_NBA_Finals",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"公牛",
+"乔丹",
+"最后之舞"
+]
+},
+{
+"id": "1998-09-08-mcgwire-62-homers",
+"date": "1998-09-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "麦圭尔第62支本垒打：棒球走出罢工阴影的一夜",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1998年9月8日，马克·麦圭尔轰出赛季第62支本垒打，打破尘封37年的单季纪录，连对手球员都起立鼓掌。他与索萨的竞逐把美国棒球从1994年大罢工的低谷中彻底拉了回来。",
+"detail": "1961年马里斯61支的单季本垒打纪录被视为不可触碰的天花板。1998赛季，圣路易斯的麦圭尔与芝加哥小熊的索萨掀起你追我赶的对轰，全美媒体逐日追踪每一次挥棒。9月8日主场对阵小熊，麦圭尔把一颗外角球轰出左外野围墙，全场起立鼓掌长达数分钟，他绕垒后与索萨紧紧相拥。赛季结束时麦圭尔以70支收官、索萨66支，双双大幅超越旧纪录，全联盟本垒打总数创历史新高，门票与转播收入全面回暖。当夜美国各大电视网纷纷中断节目插播消息，其轰动程度被称为棒球界的登月时刻。",
+"impact": "这场“本垒打竞逐”被视为北美职业体育自我修复的经典案例，棒球重新成为全美客厅话题。",
+"aftermath": "纪录随后被邦兹2001年的73支改写，而相关球员后来均卷入禁药疑云，这段长打黄金季的历史评价因此变得复杂。",
+"sources": [
+{
+"title": "Mark McGwire - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Mark_McGwire",
+"type": "wiki"
+},
+{
+"title": "1998 Major League Baseball season - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1998_Major_League_Baseball_season",
+"type": "wiki"
+}
+],
+"tags": [
+"棒球",
+"麦圭尔",
+"本垒打",
+"纪录"
+]
+},
+{
+"id": "1998-12-06-bangkok-asian-games",
+"date": "1998-12-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "曼谷亚运会开幕：金融风暴中的东南亚盛会",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1998年12月6日，第十三届亚运会在金融风暴余波中的曼谷开幕，中国代表团以129金连续第五次高居金牌榜第一。泰国在金融危机重创下咬牙如期办赛，圣火照常点燃，成为当年的一个亚洲信号。",
+"detail": "泰国正被亚洲金融风暴拖入泥潭，亚运场馆与配套建设一度告急，国际社会甚至讨论过易地办赛，但曼谷最终如期开幕，41个国家和地区的数千名运动员齐聚湄南河畔。中国代表团在田径、游泳、举重、体操等大项全面丰收，以129金稳居榜首，韩国、日本分列二三名。曼谷由此成为史上首个四度主办亚运会的城市（1966、1970、1978、1998），这届在风雨中举办的盛会也被视为东南亚走出危机信心的修复仪式。本届赛会共产生377枚金牌，参赛规模创下亚运会历史之最。",
+"impact": "亚运会如期举行被视为亚洲金融危机后的信心修复仪式，中国竞技体育在亚洲的统治力进一步巩固。",
+"aftermath": "中国此后连续称霸亚运金牌榜至今；曼谷四办亚运的纪录至今未被其他城市打破。",
+"sources": [
+{
+"title": "1998 Asian Games - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1998_Asian_Games",
+"type": "wiki"
+}
+],
+"tags": [
+"亚运会",
+"曼谷",
+"中国代表团",
+"金融风暴"
+]
+},
+{
+"id": "1999-08-08-liu-guoliang-grand-slam",
+"date": "1999-08-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "刘国梁埃因霍温登顶：中国男乒首位大满贯诞生",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1999年8月8日，第45届世乒赛男单决赛，23岁的刘国梁击败队友马琳夺冠，集齐奥运会、世乒赛、世界杯三大赛冠军，成为中国男乒历史上第一位大满贯得主。直板快攻的最后辉煌就此定格。",
+"detail": "刘国梁以直板正胶近台快攻打法成名，1996年亚特兰大奥运男单夺金、同年世界杯再下城，独缺世乒赛单打冠军。这届埃因霍温世乒赛于8月2日至8日举行，他一路过关斩将，决赛力克队友马琳，把最后一块拼图补齐，成为中国男乒首位大满贯。彼时弧圈球已全面兴起，直板正胶打法日渐边缘，刘国梁以算计与手感弥补器材劣势，被称为“智多星”。他的登顶既是个人的圆满，也是一个打法时代的巅峰谢幕。国歌在埃因霍温场馆响起时，他与主帅蔡振华紧紧相拥，中国乒乓球的黄金时代自此翻开新页。",
+"impact": "中国男乒的大满贯叙事自刘国梁始，直板快攻的战术遗产影响了此后数代教练与球员。",
+"aftermath": "刘国梁2003年退役执教男乒，后来执掌中国乒协，带队统治国际乒坛至今；“不懂球的胖子”的另一段传奇比球员时代更长。",
+"sources": [
+{
+"title": "Liu Guoliang - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Liu_Guoliang",
+"type": "wiki"
+},
+{
+"title": "1999 World Table Tennis Championships - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1999_World_Table_Tennis_Championships",
+"type": "wiki"
+}
+],
+"tags": [
+"乒乓球",
+"刘国梁",
+"大满贯",
+"世乒赛"
+]
+},
+{
+"id": "1999-09-11-serena-first-slam",
+"date": "1999-09-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小威廉姆斯首夺美网：一个网球王朝的起点",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年9月11日，17岁的小威廉姆斯在美网决赛两盘击败头号种子辛吉斯，夺得个人首个大满贯单打冠军，也成为1958年吉布森之后首位捧起大满贯单打奖杯的非裔美国女将。威廉姆斯姐妹时代就此启幕。",
+"detail": "这届美网见证了加州康普顿出身姐妹花的集体爆发：姐姐大威打进半决赛，妹妹小威则一路连克多名种子选手，半决赛力克达文波特后，决赛面对卫冕冠军辛吉斯以6比3、7比6取胜。17岁的小威以暴力发球与底线强攻宣告新时代到来，成为继吉布森之后41年来首位夺得大满贯单打冠军的非裔美国女性。看台上的父亲理查德挥舞双臂庆祝的画面，与姐妹俩出身贫民区、由父亲在破旧球场教球的经历一起，成为体育史上最著名的家庭故事之一。赛后姐妹俩的合影登上各大杂志封面，康普顿破旧球场的童话自此家喻户晓。",
+"impact": "威廉姆斯姐妹把力量与运动能力的新标准带入女子网坛，也改变了这项精英运动的面孔构成。",
+"aftermath": "小威此后累积23个大满贯单打冠军、公开赛年代第一；1999年美网正是这条传奇长卷的第一章。",
+"sources": [
+{
+"title": "1999 US Open (tennis) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1999_US_Open_(tennis)",
+"type": "wiki"
+}
+],
+"tags": [
+"网球",
+"小威廉姆斯",
+"美网",
+"威廉姆斯姐妹"
+]
+},
+{
+"id": "1999-06-25-spurs-first-title",
+"date": "1999-06-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "马刺首夺NBA总冠军：邓肯时代开启",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "1999年6月25日，圣安东尼奥马刺客场78比77险胜纽约尼克斯，队史首夺NBA总冠军。二年级生邓肯场均27分14篮板荣膺总决赛最有价值球员，一个延续二十年的马刺王朝在缩水赛季的乱世中悄然奠基。",
+"detail": "1998-99赛季因劳资纠纷缩水至50场，季后赛却在动荡中催生了新王。马刺以罗宾逊与邓肯的“双塔”为轴，季后赛连续横扫湖人、开拓者等豪强，总决赛面对上演黑八奇迹的尼克斯。6月25日第五场在麦迪逊广场花园，终场前47秒约翰逊投中制胜跳投，马刺78比77锁定队史首冠。23岁的邓肯五战场均27.4分14个篮板，当选总决赛最有价值球员。这支来自德州小城的球队自此成为联盟最稳定的强权。这是NBA历史上第一个在劳资停摆赛季诞生的总冠军，马刺稳定经营的建队哲学自此成型。",
+"impact": "邓肯重新定义了大前锋位置的教科书打法，马刺的小球市经营模式成为联盟范本。",
+"aftermath": "邓肯此后19年全部效力马刺，球队五度夺冠，他与波波维奇的组合成为NBA最长寿的师徒传奇。",
+"sources": [
+{
+"title": "1999 NBA Finals - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1999_NBA_Finals",
+"type": "wiki"
+}
+],
+"tags": [
+"NBA",
+"马刺",
+"邓肯",
+"缩水赛季"
+]
 }
 ]
