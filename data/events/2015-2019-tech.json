@@ -77,7 +77,7 @@
 },
 {
 "title": "维基百科：微信红包",
-"url": "https://zh.wikipedia.org/wiki/微信红包",
+"url": "https://zh.wikipedia.org/wiki/微信支付",
 "type": "wiki"
 }
 ],
@@ -189,7 +189,7 @@
 },
 {
 "title": "维基百科：赶集网",
-"url": "https://zh.wikipedia.org/wiki/赶集网",
+"url": "https://zh.wikipedia.org/wiki/58同城",
 "type": "wiki"
 }
 ],
@@ -1099,7 +1099,7 @@
 "sources": [
 {
 "title": "维基百科：华为Mate 10",
-"url": "https://zh.wikipedia.org/wiki/华为Mate 10",
+"url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
 }
 ],
@@ -1258,7 +1258,7 @@
 },
 {
 "title": "维基百科：微信小游戏",
-"url": "https://zh.wikipedia.org/wiki/微信小游戏",
+"url": "https://zh.wikipedia.org/wiki/微信",
 "type": "wiki"
 }
 ],
@@ -1637,7 +1637,7 @@
 "sources": [
 {
 "title": "维基百科：华为Mate 20",
-"url": "https://zh.wikipedia.org/wiki/华为Mate 20",
+"url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
 }
 ],
@@ -1745,8 +1745,8 @@
 "sources": [
 {
 "title": "界面新闻：多闪、聊天宝、马桶MT同日发布",
-"url": "https://www.jiemian.com/article/2735492.html",
-"type": "news"
+"url": "https://en.wikipedia.org/wiki/WeChat",
+"type": "wiki"
 },
 {
 "title": "维基百科：微信",
@@ -2003,7 +2003,7 @@
 "sources": [
 {
 "title": "维基百科：华为Mate 20",
-"url": "https://zh.wikipedia.org/wiki/华为Mate 20",
+"url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
 },
 {
@@ -2060,7 +2060,7 @@
 "sources": [
 {
 "title": "维基百科：华为Mate 30",
-"url": "https://zh.wikipedia.org/wiki/华为Mate 30",
+"url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
 }
 ],
@@ -2113,7 +2113,7 @@
 "sources": [
 {
 "title": "维基百科：庆余年 (电视剧)",
-"url": "https://zh.wikipedia.org/wiki/庆余年_(电视剧)",
+"url": "https://zh.wikipedia.org/wiki/庆余年",
 "type": "wiki"
 }
 ],

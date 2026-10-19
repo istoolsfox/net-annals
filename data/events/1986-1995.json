@@ -1,5 +1,35 @@
 [
 {
+"id": "1986-01-01-canet-project",
+"date": "1986-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "中国学术网 CANet 项目启动：中国互联网的起点",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "北京市计算机应用技术研究所与德国卡尔斯鲁厄大学合作，启动中国学术网（CANet）项目。这是中国第一个与国际互联网接轨的实验性网络，后来的第一封跨国电子邮件就从这里发出。",
+"detail": "1986年，在德国卡尔斯鲁厄大学维纳·措恩（Werner Zorn）教授与中国方面的合作下，双方开始建设中国学术网 CANet（Chinese Academic Network），为中德之间建立计算机通信链路。这是中国互联网公认的前史起点。",
+"impact": "打通了中国与国际学术网络的物理与协议通道，培养了中国第一批互联网技术骨干。",
+"aftermath": "1987年CANet发出中国第一封电子邮件；1990年注册.CN域名；1994年中国实现全功能接入。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+},
+{
+"title": "中央网信办：中国全功能接入国际互联网30周年述评",
+"url": "https://www.cac.gov.cn/2024-04/20/c_1715291120716362.htm",
+"type": "official"
+}
+],
+"tags": [
+"CANet",
+"前史"
+]
+},
+{
 "id": "1986-04-12-compulsory-education-law",
 "date": "1986-04-12",
 "date_accuracy": "exact",
@@ -50,28 +80,28 @@
 ]
 },
 {
-"id": "1986-01-01-canet-project",
-"date": "1986-01-01",
-"date_accuracy": "year",
+"id": "1987-09-01-huawei-founded",
+"date": "1987-09-01",
+"date_accuracy": "month",
 "date_confidence": "single-source",
-"title": "中国学术网 CANet 项目启动：中国互联网的起点",
-"category": "internet",
+"title": "华为在深圳创立",
+"category": "company",
 "region": "cn",
 "milestone": false,
-"summary_30s": "北京市计算机应用技术研究所与德国卡尔斯鲁厄大学合作，启动中国学术网（CANet）项目。这是中国第一个与国际互联网接轨的实验性网络，后来的第一封跨国电子邮件就从这里发出。",
-"detail": "1986年，在德国卡尔斯鲁厄大学维纳·措恩（Werner Zorn）教授与中国方面的合作下，双方开始建设中国学术网 CANet（Chinese Academic Network），为中德之间建立计算机通信链路。这是中国互联网公认的前史起点。",
-"impact": "打通了中国与国际学术网络的物理与协议通道，培养了中国第一批互联网技术骨干。",
-"aftermath": "1987年CANet发出中国第一封电子邮件；1990年注册.CN域名；1994年中国实现全功能接入。",
+"summary_30s": "43岁的任正非与同伴用2.1万元在深圳注册华为公司，最初只是一家代理销售香港程控交换机的『二道贩子』。这家公司日后成为中国乃至全球最大的通信设备商。",
+"detail": "1987年9月，华为技术有限公司在深圳注册成立，初期代理香港鸿年公司的程控交换机。此后转向自主研发，1993年推出C&C08数字程控交换机，逐步切入电信网络设备市场。",
+"impact": "为中国通信基础设施提供了本土供应商，间接降低了电话与宽带的普及成本。",
+"aftermath": "华为成长为全球最大电信设备商，2019年起遭遇美国制裁，2023年携麒麟芯片回归，2025年推出鸿蒙电脑。",
 "sources": [
 {
-"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
-"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
-"type": "official"
+"title": "维基百科：华为",
+"url": "https://zh.wikipedia.org/wiki/华为",
+"type": "wiki"
 }
 ],
 "tags": [
-"CANet",
-"前史"
+"华为",
+"通信"
 ]
 },
 {
@@ -102,31 +132,6 @@
 "tags": [
 "第一封邮件",
 "CANet"
-]
-},
-{
-"id": "1987-09-01-huawei-founded",
-"date": "1987-09-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "华为在深圳创立",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "43岁的任正非与同伴用2.1万元在深圳注册华为公司，最初只是一家代理销售香港程控交换机的『二道贩子』。这家公司日后成为中国乃至全球最大的通信设备商。",
-"detail": "1987年9月，华为技术有限公司在深圳注册成立，初期代理香港鸿年公司的程控交换机。此后转向自主研发，1993年推出C&C08数字程控交换机，逐步切入电信网络设备市场。",
-"impact": "为中国通信基础设施提供了本土供应商，间接降低了电话与宽带的普及成本。",
-"aftermath": "华为成长为全球最大电信设备商，2019年起遭遇美国制裁，2023年携麒麟芯片回归，2025年推出鸿蒙电脑。",
-"sources": [
-{
-"title": "维基百科：华为",
-"url": "https://zh.wikipedia.org/wiki/华为",
-"type": "wiki"
-}
-],
-"tags": [
-"华为",
-"通信"
 ]
 },
 {
@@ -204,6 +209,81 @@
 ]
 },
 {
+"id": "1988-02-23-red-sorghum-bear",
+"date": "1988-02-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《红高粱》获柏林金熊奖：中国电影第一次登顶欧洲",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "张艺谋执导、莫言原著的《红高粱》拿下柏林电影节金熊奖，这是中国电影第一次获得欧洲三大电影节最高奖。颠轿、高粱地、十八里红——中国影像美学从此被世界看见。",
+"detail": "影片1987年上映，1988年2月获第38届柏林国际电影节金熊奖。此后张艺谋与莫言分别拿下奥斯卡最佳外语片提名与诺贝尔文学奖（2012）。",
+"impact": "中国第五代导演登上世界舞台，'中国色'成为国际影展的美学符号。",
+"aftermath": "《菊豆》《大红灯笼高高挂》接连入围；2018年张艺谋又以《影》回归水墨美学。",
+"sources": [
+{
+"title": "维基百科：红高粱 (电影)",
+"url": "https://zh.wikipedia.org/wiki/红高粱_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"红高粱",
+"柏林电影节"
+]
+},
+{
+"id": "1988-04-13-hainan-province",
+"date": "1988-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "海南建省办经济特区：中国最大特区诞生",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "七届全国人大一次会议批准设立海南省和海南经济特区——中国最大的经济特区。十万人才过海峡的『闯海人』潮，是1990年代最浪漫的迁徙记忆。",
+"detail": "海南从广东省划出独立建省，全省为经济特区。1988年『十万人才下海南』，潘石屹、冯仑等『万通六君子』皆发迹于此。",
+"impact": "特区试验从深圳模式扩展到省级规模。",
+"aftermath": "2018年海南自贸港建设接棒；海南成为改革开放的长期试验田。",
+"sources": [
+{
+"title": "维基百科：海南省",
+"url": "https://zh.wikipedia.org/wiki/海南省",
+"type": "wiki"
+}
+],
+"tags": [
+"海南",
+"特区"
+]
+},
+{
+"id": "1988-05-10-zhongguancun-test-zone",
+"date": "1988-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北京新技术产业开发试验区成立：中关村的『户口』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院批准成立北京市新技术产业开发试验区——中国第一个国家级高新区，『电子一条街』上的小公司们从此有了政策身份。中国硅谷的制度的摇篮，在这里摇起来了。",
+"detail": "试验区以中关村为中心，联想、四通、方正等公司率先入驻，享受税收与外汇留成优惠。",
+"impact": "确立了『高新区』这一中国科技产业的空间范式。",
+"aftermath": "此后国家级高新区铺满全国；中关村2010年升格为国家自主创新示范区。",
+"sources": [
+{
+"title": "维基百科：中关村科技园区",
+"url": "https://zh.wikipedia.org/wiki/中关村科技园区",
+"type": "wiki"
+}
+],
+"tags": [
+"中关村",
+"高新区"
+]
+},
+{
 "id": "1989-01-01-ball-virus-cn",
 "date": "1989-01-01",
 "date_accuracy": "year",
@@ -244,13 +324,88 @@
 "sources": [
 {
 "title": "Wikipedia: Information Management: A Proposal",
-"url": "https://en.wikipedia.org/wiki/Information_Management:_A_Proposal",
+"url": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
 "type": "wiki"
 }
 ],
 "tags": [
 "WWW",
 "万维网"
+]
+},
+{
+"id": "1989-04-21-gameboy-launch",
+"date": "1989-04-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Game Boy 发售：掌上游戏时代开启",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "任天堂推出 Game Boy，绿黄灰的屏幕、四节五号电池、俄罗斯方块——游戏机第一次装进口袋。水货与组装卡带随后涌入中国，无数孩子在课桌下练出了盲操作。",
+"detail": "Game Boy 首发捆绑《俄罗斯方块》，全球销量约1.19亿台（含 GB Color），统治掌机市场近15年。",
+"impact": "掌机形态确立，任天堂商业模式成型。",
+"aftermath": "GBA（2001）、NDS（2004）、Switch（2017）延续血脉；中国玩家的掌机记忆由此开端。",
+"sources": [
+{
+"title": "Wikipedia: Game Boy",
+"url": "https://en.wikipedia.org/wiki/Game_Boy",
+"type": "wiki"
+}
+],
+"tags": [
+"Game Boy",
+"任天堂"
+]
+},
+{
+"id": "1989-10-30-project-hope",
+"date": "1989-10-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "希望工程实施：一张『大眼睛』改变的教育",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国青少年发展基金会发起希望工程，救助贫困地区失学儿童。1991年苏明娟那双渴望读书的『大眼睛』成为整代人共同的公益记忆——它是无数普通中国人第一次参与慈善的方式。",
+"detail": "首笔捐款来自青基会20万元启动资金；1990年第一所希望小学在安徽金寨落成。至2021年累计资助学生超600万名。",
+"impact": "全民公益意识觉醒，『捐出一元钱』成为学校动员的固定动作。",
+"aftermath": "2019年希望工程30周年升级为助力乡村振兴；互联网募捐平台使其持续进化。",
+"sources": [
+{
+"title": "维基百科：希望工程",
+"url": "https://zh.wikipedia.org/wiki/希望工程",
+"type": "wiki"
+}
+],
+"tags": [
+"希望工程",
+"公益"
+]
+},
+{
+"id": "1990-01-01-legend-first-pc",
+"date": "1990-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "联想推出首款自有品牌微机",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中关村小公司联想推出第一款自有品牌电脑『联想286』，从卖别人电脑（代理AST、IBM）转向自己造电脑。中国家庭购买国产兼容机的时代由此开启。",
+"detail": "联想1984年以20万元起家，靠汉卡完成原始积累。1990年前后推出自有品牌微机，价格低于进口品牌，主打中小企业与家庭。",
+"impact": "国产微机拉低了电脑价格，为90年代中后期家用电脑普及铺路。",
+"aftermath": "2004年联想收购IBM PC业务，2013年起成为全球最大PC厂商。",
+"sources": [
+{
+"title": "维基百科：联想集团",
+"url": "https://zh.wikipedia.org/wiki/联想集团",
+"type": "wiki"
+}
+],
+"tags": [
+"联想",
+"微机"
 ]
 },
 {
@@ -279,6 +434,31 @@
 ]
 },
 {
+"id": "1990-04-24-hubble-launch",
+"date": "1990-04-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "哈勃太空望远镜升空：人类的深空之眼",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "发现号航天飞机把哈勃望远镜送入轨道。此后35年，它拍下创生之柱、哈勃深场——那些挂满教室与屏保的照片，让人类第一次直观看见宇宙的深处与过去。",
+"detail": "哈勃主镜初期有球差，1993年航天飞机维修任务矫正。截至2020年代仍持续产出科学成果。",
+"impact": "天文学进入太空望远镜时代，宇宙年龄测量被精确化。",
+"aftermath": "2021年韦布望远镜接棒红外波段；哈勃仍在服役，成为人类工程史上最长寿的科学仪器之一。",
+"sources": [
+{
+"title": "Wikipedia: Hubble Space Telescope",
+"url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+"type": "wiki"
+}
+],
+"tags": [
+"哈勃",
+"太空望远镜"
+]
+},
+{
 "id": "1990-09-22-asian-games-beijing",
 "date": "1990-09-22",
 "date_accuracy": "exact",
@@ -304,28 +484,28 @@
 ]
 },
 {
-"id": "1990-11-28-cn-domain-registered",
-"date": "1990-11-28",
-"date_accuracy": "exact",
+"id": "1990-10-01-human-genome-project",
+"date": "1990-10-01",
+"date_accuracy": "month",
 "date_confidence": "verified",
-"title": ".CN 顶级域名在国际注册：中国在互联网上有了名字",
-"category": "internet",
-"region": "cn",
+"title": "人类基因组计划启动：生命科学的登月工程",
+"category": "tech",
+"region": "world",
 "milestone": false,
-"summary_30s": "1990年11月28日，钱天白代表中国在国际互联网信息中心注册了国家顶级域名 .CN，服务器暂设在德国卡尔斯鲁厄大学。从这天起，中国在互联网的地址簿里有了一块自己的地盘。",
-"detail": "由于当时中国尚未直接接入国际互联网，.CN域名由德方协助管理。钱天白被后世称为『中国互联网之父』之一。域名注册标志着中国网络身份的确立。",
-"impact": "此后中国的学术与商业网站逐步启用 .CN 域名。",
-"aftermath": "1994年全功能接入后，1994年5月 .CN 域名服务器迁回国内，由中科院网络中心管理。",
+"summary_30s": "美国能源部与NIH牵头启动人类基因组计划，目标读出人类23对染色体的全部碱基序列。这项耗资30亿美元的『生命登月』，为三十年后mRNA疫苗与基因编辑时代埋下了伏笔。",
+"detail": "1990年10月正式启动，英日法德中相继加入（中国承担1%测序）。2003年4月宣告完成。",
+"impact": "测序成本此后指数级下降，催生了整个基因组产业。",
+"aftermath": "华大基因（1999年参与1%测序起家）成为中国代表；2020年代基因治疗、合成生物学全面起步。",
 "sources": [
 {
-"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
-"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
-"type": "official"
+"title": "Wikipedia: Human Genome Project",
+"url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+"type": "wiki"
 }
 ],
 "tags": [
-".CN",
-"域名"
+"基因组",
+"生物科技"
 ]
 },
 {
@@ -354,28 +534,28 @@
 ]
 },
 {
-"id": "1990-12-19-shanghai-stock-exchange",
-"date": "1990-12-19",
+"id": "1990-11-28-cn-domain-registered",
+"date": "1990-11-28",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "上海证券交易所开业",
-"category": "economy",
+"title": ".CN 顶级域名在国际注册：中国在互联网上有了名字",
+"category": "internet",
 "region": "cn",
 "milestone": false,
-"summary_30s": "1990年12月19日，上海证券交易所在浦江饭店鸣锣开业，首批8只股票上市。中国资本市场重新开张，『炒股』从此进入普通人的生活词典。",
-"detail": "改革开放后股票试点自1984年小飞乐起步，上交所的成立让证券交易集中化、规范化，当日成交笔数有限但意义重大。老八股（真空电子、飞乐音响等）成为中国股民的第一代记忆。",
-"impact": "为国企融资开辟渠道，也让城市家庭第一次大规模接触金融投资。",
-"aftermath": "1990年12月1日深交所先期试营业；A股此后经历数轮疯牛与熊市（2007年6124点、2015年5178点）。",
+"summary_30s": "1990年11月28日，钱天白代表中国在国际互联网信息中心注册了国家顶级域名 .CN，服务器暂设在德国卡尔斯鲁厄大学。从这天起，中国在互联网的地址簿里有了一块自己的地盘。",
+"detail": "由于当时中国尚未直接接入国际互联网，.CN域名由德方协助管理。钱天白被后世称为『中国互联网之父』之一。域名注册标志着中国网络身份的确立。",
+"impact": "此后中国的学术与商业网站逐步启用 .CN 域名。",
+"aftermath": "1994年全功能接入后，1994年5月 .CN 域名服务器迁回国内，由中科院网络中心管理。",
 "sources": [
 {
-"title": "维基百科：上海证券交易所",
-"url": "https://zh.wikipedia.org/wiki/上海证券交易所",
-"type": "wiki"
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
 }
 ],
 "tags": [
-"股市",
-"资本市场"
+".CN",
+"域名"
 ]
 },
 {
@@ -401,6 +581,81 @@
 "tags": [
 "股市",
 "深圳"
+]
+},
+{
+"id": "1990-12-19-shanghai-stock-exchange",
+"date": "1990-12-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海证券交易所开业",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1990年12月19日，上海证券交易所在浦江饭店鸣锣开业，首批8只股票上市。中国资本市场重新开张，『炒股』从此进入普通人的生活词典。",
+"detail": "改革开放后股票试点自1984年小飞乐起步，上交所的成立让证券交易集中化、规范化，当日成交笔数有限但意义重大。老八股（真空电子、飞乐音响等）成为中国股民的第一代记忆。",
+"impact": "为国企融资开辟渠道，也让城市家庭第一次大规模接触金融投资。",
+"aftermath": "1990年12月1日深交所先期试营业；A股此后经历数轮疯牛与熊市（2007年6124点、2015年5178点）。",
+"sources": [
+{
+"title": "维基百科：上海证券交易所",
+"url": "https://zh.wikipedia.org/wiki/上海证券交易所",
+"type": "wiki"
+}
+],
+"tags": [
+"股市",
+"资本市场"
+]
+},
+{
+"id": "1991-02-28-gulf-war-end",
+"date": "1991-02-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "海湾战争停火：第一场电视直播的现代化战争",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "42天空袭加100小时地面战，多国部队把伊拉克军队赶出科威特。这场战争通过CNN的直播画面走进全球客厅，也让各国军队第一次看清了信息化战争的模样——精确制导、电子战、卫星导航将主导未来。",
+"detail": "1991年1月17日空袭开始，2月28日停火。F-117隐形战机与战斧巡航导弹成为时代符号。",
+"impact": "军队信息化转型成为全球共识，GPS民用化提速。",
+"aftermath": "中国军队自此启动机械化信息化复合发展；GPS后来成为智能手机标配，北斗2020年完成组网。",
+"sources": [
+{
+"title": "维基百科：海湾战争",
+"url": "https://zh.wikipedia.org/wiki/海湾战争",
+"type": "wiki"
+}
+],
+"tags": [
+"海湾战争",
+"信息化"
+]
+},
+{
+"id": "1991-07-01-first-gsm-call",
+"date": "1991-07-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GSM 标准第一次通话：数字手机的时代之门",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "芬兰运营商 Radiolinja 的网络上打出了世界上第一通 GSM 电话。数字蜂窝标准从此铺向全球——你后来用的每一部诺基亚、每一张SIM卡、每一个11位手机号，都是这门技术的后代。",
+"detail": "GSM 由欧洲标准化组织制定，1987年多国签署备忘录，1991年7月芬兰首次商用通话，1992年发出第一条短信。",
+"impact": "移动通信从模拟进入数字时代，漫游与短信成为可能。",
+"aftermath": "中国1994年建成 GSM 网络，手机用户1997年破千万；GSM 的遗产延续到今天的4G/5G核心网。",
+"sources": [
+{
+"title": "Wikipedia: GSM",
+"url": "https://en.wikipedia.org/wiki/GSM",
+"type": "wiki"
+}
+],
+"tags": [
+"GSM",
+"移动通信"
 ]
 },
 {
@@ -509,6 +764,56 @@
 ]
 },
 {
+"id": "1992-01-01-editorial-dept",
+"date": "1992-01-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "《编辑部的故事》首播：中国第一部电视情景喜剧",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "葛优、吕丽萍的《人间指南》杂志社里，六个编辑用贫嘴聊遍世相。它是国产情景喜剧的开山之作，葛优躺三十年后的回火证明：好笑的东西真的不过时。",
+"detail": "王朔、冯小刚参与策划编剧，1992年初在北京台播出。金句『钱不是万能的，没有钱是万万不能的』由此传遍全国。",
+"impact": "确立了此后《我爱我家》《武林外传》的喜剧谱系。",
+"aftermath": "冯小刚从编剧转导演；葛优躺表情包（2016）让它二次翻红。",
+"sources": [
+{
+"title": "维基百科：编辑部的故事",
+"url": "https://zh.wikipedia.org/wiki/编辑部的故事",
+"type": "wiki"
+}
+],
+"tags": [
+"编辑部的故事",
+"情景喜剧"
+]
+},
+{
+"id": "1992-05-21-sh-price-liberalized",
+"date": "1992-05-21",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "上交所放开股价：单日暴涨105%的疯狂星期二",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "上交所全面放开股票价格限制，沪指当天从616点蹿到1265点，涨幅105%。券商营业部门口的自行车摆满人行道——中国股民第一次见识到什么叫『市场』。",
+"detail": "此前股价涨跌幅受限，放开后一哄而上。当年上交所成交额猛增数倍，认购证文化萌芽（次年8·10事件埋线）。",
+"impact": "资本市场市场化定价迈出关键一步。",
+"aftermath": "暴涨与暴涨后的暴跌教育了第一批股民；1996年起实行10%涨跌停板。",
+"sources": [
+{
+"title": "维基百科：上海证券交易所",
+"url": "https://zh.wikipedia.org/wiki/上海证券交易所",
+"type": "wiki"
+}
+],
+"tags": [
+"股价放开",
+"A股"
+]
+},
+{
 "id": "1992-10-12-14th-party-congress",
 "date": "1992-10-12",
 "date_accuracy": "exact",
@@ -531,6 +836,31 @@
 "tags": [
 "市场经济",
 "改革"
+]
+},
+{
+"id": "1992-11-01-eu-founded",
+"date": "1992-11-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《马斯特里赫特条约》生效：欧洲联盟成立",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "冷战后欧洲各国把主权再装进一个更大的笼子：欧盟正式成立，单一市场、共同外交、统一货币（七年后）有了制度框架。欧洲一体化达到历史最高水位。",
+"detail": "马约1992年2月签署、11月1日生效，欧盟取代欧共体，确立三支柱结构。",
+"impact": "欧洲内部贸易与人员流动自由化，欧元计划提速。",
+"aftermath": "1999年欧元启动、2004年东扩；2016年英国脱欧公投与债务危机成为一体化的反向压力测试。",
+"sources": [
+{
+"title": "Wikipedia: Maastricht Treaty",
+"url": "https://en.wikipedia.org/wiki/Maastricht_Treaty",
+"type": "wiki"
+}
+],
+"tags": [
+"欧盟",
+"马约"
 ]
 },
 {
@@ -634,6 +964,31 @@
 ]
 },
 {
+"id": "1993-04-27-wang-koo-talks",
+"date": "1993-04-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "汪辜会谈：两岸授权高层第一次握手",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "海协会会长汪道涵与海基会董事长辜振甫在新加坡举行会谈，签署四项协议。两岸隔绝四十多年后，授权民间团体第一次坐下来正式谈事务性议题。",
+"detail": "会谈达成『九二共识』的实践基础，成果包括公证书使用、挂号函件、两会联系制度。",
+"impact": "两岸交流制度化开端。",
+"aftermath": "2005年连战访问、2008年三通、2015年习马会，两岸高层互动以此逻辑递进。",
+"sources": [
+{
+"title": "维基百科：汪辜会谈",
+"url": "https://zh.wikipedia.org/wiki/汪辜会谈",
+"type": "wiki"
+}
+],
+"tags": [
+"汪辜会谈",
+"两岸"
+]
+},
+{
 "id": "1993-04-30-cern-www-royalty-free",
 "date": "1993-04-30",
 "date_accuracy": "exact",
@@ -649,7 +1004,7 @@
 "sources": [
 {
 "title": "Wikipedia: History of the web",
-"url": "https://en.wikipedia.org/wiki/History_of_the_web",
+"url": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
 "type": "wiki"
 }
 ],
@@ -684,6 +1039,31 @@
 ]
 },
 {
+"id": "1993-09-01-beijing-in-new-york",
+"date": "1993-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "《北京人在纽约》首播：出国潮的国民电视剧",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "『如果你爱他，就把他送到纽约，因为那里是天堂；如果你恨他……』姜文的唱片商人王启明，把改革开放后第一批出国者的梦想与失落演给了全国看。",
+"detail": "中国第一部全程在美国实地拍摄的电视剧，1993年9月在央视播出，收视率高企，冯小刚联合导演。",
+"impact": "出国潮的集体心理写照，『新大陆想象』进入大众文化。",
+"aftermath": "此后《不见不散》《刮痧》延续移民叙事；留学生规模1990年代起年年攀升。",
+"sources": [
+{
+"title": "维基百科：北京人在纽约",
+"url": "https://zh.wikipedia.org/wiki/北京人在纽约",
+"type": "wiki"
+}
+],
+"tags": [
+"北京人在纽约",
+"出国潮"
+]
+},
+{
 "id": "1994-01-01-tax-sharing-reform",
 "date": "1994-01-01",
 "date_accuracy": "exact",
@@ -706,6 +1086,56 @@
 "tags": [
 "财税",
 "土地财政"
+]
+},
+{
+"id": "1994-01-01-cernet-project",
+"date": "1994-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "CERNET 立项：全国第一个互联网骨干网开建",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国家计委批复建设中国教育和科研计算机网（CERNET），由清华、北大等高校承担。这是中国第一个全国性互联网骨干网，几代大学生的大学生活因此多了『机房通宵』这项活动。",
+"detail": "CERNET 1994年开始建设，1995年底连接百余所高校，网络中心设在清华大学。它是中国最早实现全国互联的网络之一，也是最早接入国际互联网出口的学术网络。",
+"impact": "高校学生成为最早的网络原住民，BBS、FTP、MUD 等网络文化在校园先流行起来。",
+"aftermath": "CERNET 至今仍服务全国高校，并支撑了 IPv6 下一代互联网试验（CERNET2）。",
+"sources": [
+{
+"title": "中国教育和科研计算机网：互联网大事记",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"CERNET",
+"校园网"
+]
+},
+{
+"id": "1994-01-01-yahoo-directory",
+"date": "1994-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "Yahoo! 创立：从『杰瑞的万维网指南』到门户之王",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "斯坦福博士生杨致远和大卫·费罗把手工整理的网站目录做成了 Yahoo!。在搜索引擎诞生前，上网就是从它的分类目录一层层点下去——门户网站的全部形态，由此定型。",
+"detail": "1994年网站以『Jerry and David's Guide to the World Wide Web』上线并更名 Yahoo!，1995年3月公司成立，1996年上市。",
+"impact": "『门户』模式成为互联网第一代商业范式。",
+"aftermath": "2000年市值一度登顶；此后被谷歌搜索与社交时代超越，2017年核心业务卖给 Verizon。",
+"sources": [
+{
+"title": "Wikipedia: Yahoo!",
+"url": "https://en.wikipedia.org/wiki/Yahoo!",
+"type": "wiki"
+}
+],
+"tags": [
+"Yahoo",
+"门户"
 ]
 },
 {
@@ -764,53 +1194,53 @@
 ]
 },
 {
-"id": "1994-01-01-cernet-project",
-"date": "1994-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "CERNET 立项：全国第一个互联网骨干网开建",
-"category": "internet",
-"region": "cn",
+"id": "1994-07-17-brazil-worldcup",
+"date": "1994-07-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美国世界杯决赛：巴乔射失点球的背影",
+"category": "culture",
+"region": "world",
 "milestone": false,
-"summary_30s": "国家计委批复建设中国教育和科研计算机网（CERNET），由清华、北大等高校承担。这是中国第一个全国性互联网骨干网，几代大学生的大学生活因此多了『机房通宵』这项活动。",
-"detail": "CERNET 1994年开始建设，1995年底连接百余所高校，网络中心设在清华大学。它是中国最早实现全国互联的网络之一，也是最早接入国际互联网出口的学术网络。",
-"impact": "高校学生成为最早的网络原住民，BBS、FTP、MUD 等网络文化在校园先流行起来。",
-"aftermath": "CERNET 至今仍服务全国高校，并支撑了 IPv6 下一代互联网试验（CERNET2）。",
+"summary_30s": "巴西对意大利决战玫瑰碗球场，120分钟互交白卷后进入点球大战，巴乔把最后一个点球踢向天空——那个低头站立的马尾辫背影，成为世界杯历史上最著名的一帧。",
+"detail": "巴西四夺冠军，罗马里奥与贝贝托的摇篮舞风靡全球。中国观众通过卫星转播完整收看。",
+"impact": "世界杯商业价值与电视转播进入新高度。",
+"aftermath": "巴乔的背影成为体育摄影的经典意象，被无数文章引用至今。",
 "sources": [
 {
-"title": "中国教育和科研计算机网：互联网大事记",
-"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
-"type": "official"
-}
-],
-"tags": [
-"CERNET",
-"校园网"
-]
-},
-{
-"id": "1990-01-01-legend-first-pc",
-"date": "1990-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
-"title": "联想推出首款自有品牌微机",
-"category": "hardware",
-"region": "cn",
-"milestone": false,
-"summary_30s": "中关村小公司联想推出第一款自有品牌电脑『联想286』，从卖别人电脑（代理AST、IBM）转向自己造电脑。中国家庭购买国产兼容机的时代由此开启。",
-"detail": "联想1984年以20万元起家，靠汉卡完成原始积累。1990年前后推出自有品牌微机，价格低于进口品牌，主打中小企业与家庭。",
-"impact": "国产微机拉低了电脑价格，为90年代中后期家用电脑普及铺路。",
-"aftermath": "2004年联想收购IBM PC业务，2013年起成为全球最大PC厂商。",
-"sources": [
-{
-"title": "维基百科：联想集团",
-"url": "https://zh.wikipedia.org/wiki/联想集团",
+"title": "维基百科：1994年国际足联世界杯",
+"url": "https://zh.wikipedia.org/wiki/1994年国际足联世界杯",
 "type": "wiki"
 }
 ],
 "tags": [
-"联想",
-"微机"
+"世界杯",
+"巴乔"
+]
+},
+{
+"id": "1994-10-13-netscape-navigator",
+"date": "1994-10-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网景 Navigator 1.0 发布：普通人上网的第一扇门",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "Mosaic 原班人马打造的 Netscape Navigator 发布，速度快、界面友好，发布一年拿下约八成浏览器市场。亿万人的『第一次上网』发生在它的地址栏里——包括次年通过拨号上线的中国第一批网民。",
+"detail": "Navigator 1.0 免费供个人使用，支持当时最完整的 HTML 与安全套接字雏形，随光盘与FTP流传。",
+"impact": "浏览器成为互联网的『操作系统』，网站数量爆炸式增长。",
+"aftermath": "微软以 IE 反击引发浏览器大战；网景1998年开源代码，成为 Firefox 的祖先。",
+"sources": [
+{
+"title": "Wikipedia: Netscape Navigator",
+"url": "https://en.wikipedia.org/wiki/Netscape_Navigator",
+"type": "wiki"
+}
+],
+"tags": [
+"网景",
+"浏览器"
 ]
 },
 {
@@ -879,7 +1309,7 @@
 "sources": [
 {
 "title": "维基百科：中国黄页",
-"url": "https://zh.wikipedia.org/wiki/中国黄页",
+"url": "https://zh.wikipedia.org/wiki/马云",
 "type": "wiki"
 }
 ],
@@ -911,6 +1341,31 @@
 "tags": [
 "双休日",
 "休闲"
+]
+},
+{
+"id": "1995-06-01-cs-game-era",
+"date": "1995-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "单机游戏黄金期：仙剑、红警、命令与征服",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "90年代中期是中文单机游戏的黄金岁月：《仙剑奇侠传》让无数人第一次为游戏流泪，《命令与征服》《红色警戒》在电脑室被复制成无数软盘。游戏与电脑一起走进中国家庭。",
+"detail": "1995年台湾大宇推出《仙剑奇侠传DOS版》，成为中文RPG巅峰之一；同一时期 Westwood 的《命令与征服》（1995）定义即时战略，其盗版光盘在中国电脑室横行多年。",
+"impact": "游戏成为买电脑的重要理由之一，也奠定了中国玩家的口味与市场规模。",
+"aftermath": "1998年《星际争霸》、2001年《传奇》网游化接力；中国后来成为全球最大游戏市场。",
+"sources": [
+{
+"title": "维基百科：仙剑奇侠传 (游戏)",
+"url": "https://zh.wikipedia.org/wiki/仙剑奇侠传_(游戏)",
+"type": "wiki"
+}
+],
+"tags": [
+"单机游戏",
+"90年代"
 ]
 },
 {
@@ -1029,7 +1484,7 @@
 "sources": [
 {
 "title": "维基百科：中国网络史",
-"url": "https://zh.wikipedia.org/wiki/中国网络史",
+"url": "https://zh.wikipedia.org/wiki/中国互联网",
 "type": "wiki"
 }
 ],
@@ -1086,31 +1541,6 @@
 "tags": [
 "早期网民",
 "统计"
-]
-},
-{
-"id": "1995-06-01-cs-game-era",
-"date": "1995-06-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "单机游戏黄金期：仙剑、红警、命令与征服",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "90年代中期是中文单机游戏的黄金岁月：《仙剑奇侠传》让无数人第一次为游戏流泪，《命令与征服》《红色警戒》在电脑室被复制成无数软盘。游戏与电脑一起走进中国家庭。",
-"detail": "1995年台湾大宇推出《仙剑奇侠传DOS版》，成为中文RPG巅峰之一；同一时期 Westwood 的《命令与征服》（1995）定义即时战略，其盗版光盘在中国电脑室横行多年。",
-"impact": "游戏成为买电脑的重要理由之一，也奠定了中国玩家的口味与市场规模。",
-"aftermath": "1998年《星际争霸》、2001年《传奇》网游化接力；中国后来成为全球最大游戏市场。",
-"sources": [
-{
-"title": "维基百科：仙剑奇侠传 (游戏)",
-"url": "https://zh.wikipedia.org/wiki/仙剑奇侠传_(游戏)",
-"type": "wiki"
-}
-],
-"tags": [
-"单机游戏",
-"90年代"
 ]
 }
 ]

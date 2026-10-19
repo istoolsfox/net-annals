@@ -590,7 +590,7 @@
 "sources": [
 {
 "title": "百川智能",
-"url": "https://zh.wikipedia.org/wiki/百川智能",
+"url": "https://zh.wikipedia.org/wiki/王小川",
 "type": "wiki"
 }
 ],
@@ -1079,7 +1079,7 @@
 "sources": [
 {
 "title": "百川智能",
-"url": "https://zh.wikipedia.org/wiki/百川智能",
+"url": "https://zh.wikipedia.org/wiki/王小川",
 "type": "wiki"
 }
 ],
@@ -1130,7 +1130,7 @@
 "sources": [
 {
 "title": "逆水寒（手游）",
-"url": "https://zh.wikipedia.org/wiki/逆水寒_(手游)",
+"url": "https://zh.wikipedia.org/wiki/网易",
 "type": "wiki"
 }
 ],
@@ -1876,7 +1876,7 @@
 "sources": [
 {
 "title": "Humane",
-"url": "https://en.wikipedia.org/wiki/Humane_(company)",
+"url": "https://en.wikipedia.org/wiki/Humane_AI_Pin",
 "type": "wiki"
 }
 ],
@@ -2029,8 +2029,8 @@
 "sources": [
 {
 "title": "Pika Labs",
-"url": "https://en.wikipedia.org/wiki/Pika_Labs",
-"type": "wiki"
+"url": "https://pika.art",
+"type": "official"
 }
 ],
 "tags": [
@@ -2211,7 +2211,7 @@
 "sources": [
 {
 "title": "三大队",
-"url": "https://zh.wikipedia.org/wiki/三大队_(电影)",
+"url": "https://zh.wikipedia.org/wiki/三大队",
 "type": "wiki"
 }
 ],
@@ -2561,7 +2561,7 @@
 "sources": [
 {
 "title": "第二十条（电影）",
-"url": "https://zh.wikipedia.org/wiki/第二十条_(电影)",
+"url": "https://zh.wikipedia.org/wiki/第二十条",
 "type": "wiki"
 }
 ],
@@ -3000,7 +3000,7 @@
 "sources": [
 {
 "title": "我的阿勒泰",
-"url": "https://zh.wikipedia.org/wiki/我的阿勒泰_(电视剧)",
+"url": "https://zh.wikipedia.org/wiki/我的阿勒泰",
 "type": "wiki"
 }
 ],
@@ -3184,7 +3184,7 @@
 "sources": [
 {
 "title": "庆余年（电视剧）",
-"url": "https://zh.wikipedia.org/wiki/庆余年_(电视剧)",
+"url": "https://zh.wikipedia.org/wiki/庆余年",
 "type": "wiki"
 }
 ],
@@ -3208,7 +3208,7 @@
 "sources": [
 {
 "title": "中华人民共和国过境免签政策",
-"url": "https://zh.wikipedia.org/wiki/过境免签",
+"url": "https://en.wikipedia.org/wiki/Visa_policy_of_China",
 "type": "wiki"
 }
 ],
@@ -3264,8 +3264,8 @@
 },
 {
 "title": "Apple 官方",
-"url": "https://www.apple.com/newsroom/2024/06/apple-introduces-apple-intelligence/",
-"type": "official"
+"url": "https://en.wikipedia.org/wiki/Apple_Intelligence",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -3878,8 +3878,8 @@
 "sources": [
 {
 "title": "2024 Nobel Prize in Chemistry",
-"url": "https://en.wikipedia.org/wiki/2024_Nobel_Prize_in_Chemistry",
-"type": "wiki"
+"url": "https://www.nobelprize.org/prizes/chemistry/2024/summary/",
+"type": "official"
 }
 ],
 "tags": [
@@ -4600,7 +4600,7 @@
 "sources": [
 {
 "title": "QwenLM/QwQ-32B",
-"url": "https://github.com/QwenLM/QwQ-32B",
+"url": "https://github.com/QwenLM/QwQ",
 "type": "official"
 }
 ],
@@ -5725,7 +5725,7 @@
 "sources": [
 {
 "title": "华为Mate",
-"url": "https://zh.wikipedia.org/wiki/华为Mate",
+"url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
 }
 ],
@@ -5802,8 +5802,8 @@
 "sources": [
 {
 "title": "TGA 2025 完整获奖名单",
-"url": "https://indienova.com/indie-game-news/the-game-awards-2025-winners",
-"type": "media"
+"url": "https://en.wikipedia.org/wiki/The_Game_Awards_2025",
+"type": "wiki"
 }
 ],
 "tags": [
