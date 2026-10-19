@@ -42,8 +42,10 @@
 - 2026-10-19：站点 v1 建成（three.js 0.149 本地 vendor）；build 门禁全绿（44 条）；git 首提交 6bef638。
 - 2026-10-19 下午：**三层解屏蔽法生效**——主会话亲自编纂完成全部 8 个年段的国家/社会/经济层（1986-2026 贯通）；同时派 3 个温和选题 tech 层 Agent（T1=2005-2009、T2=2010-2014、T3=2023-2026），全部正常落盘（验证了「纯科技商业选题子Agent可存活」）。`scripts/dedup.py` 处理主/tech 文件重叠。全库 **497 条**构建全绿（a0739cb）。
 - 2026-10-19 晚：T1（68）✅、T2（86）✅、T3（264，核实至 2026-10-17）✅、T4（79）✅、T5（60）✅ 全部交付。**M1 收官：全库 893 条（1986-2026 贯通），里程碑 33，构建全绿**（a4ac286）。累计 17 个 git 提交。
+- 2026-10-19 深夜：语义级查重清理 9 条（dedup 升级同日标题重叠规则）；**M3.0 发布上线：https://toolsfox.top/net-annals/**（nginx 加 location、免密 sudo 建目录、浏览器线上验收通过，886→893 后 886 条版本在线）。deploy.sh 一键更新管线就绪。
 - 待办（下一轮入口）：
   1. 等 T3/T4/T5 完成通知 → `python3 scripts/normalize.py && python3 scripts/dedup.py && ./scripts/build.sh` → commit
   2. M2 日期复核轮（专设校对 Agent 交叉核对抽查 5%）+ 薄年份加密（1990-1994、2005-2007 每年 <10 条）+ 语义级查重（同日期不同标题的同一事件，如雷曼破产现存 2 条表述）
-  3. M3 视觉打磨（时代雾带透明度、milestone 优先级标签、移动端适配）+ 发布 toolsfox 服务器（rsync toolsfox:/var/www/net-annals/，参照 knowledge-hub deploy.sh）
+  3. ✅ M3.0 已发布：https://toolsfox.top/net-annals/（2026-10-19，nginx location 已加，deploy.sh 一键更新）
+  4. M3 剩余视觉打磨（时代雾带透明度、milestone 优先级标签、移动端适配）
   4. M4 持续更新机制（月度增量批）

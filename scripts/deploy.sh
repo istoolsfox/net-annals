@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# 一键发布：构建校验 → rsync 到 toolsfox 服务器
+# 用法：./scripts/deploy.sh
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+echo "==> 1/2 构建校验合并"
+python3 scripts/normalize.py
+python3 scripts/dedup.py
+python3 scripts/build.py
+
+echo "==> 2/2 发布到 toolsfox.top"
+rsync -az --delete site/ toolsfox:/var/www/net-annals/
+
+echo
+echo "✅ 已发布 → https://toolsfox.top/net-annals/"
