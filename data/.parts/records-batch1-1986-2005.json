@@ -1,0 +1,925 @@
+[
+  {
+    "id": "1986-11-22-tyson-youngest-heavyweight-champ",
+    "date": "1986-11-22",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "泰森二十岁加冕：重量级拳坛最年轻世界冠军",
+    "category": "world",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1986 年 11 月 22 日，20 岁的迈克·泰森在拉斯维加斯两回合击倒特雷弗·伯比克，拿下世界重量级拳王金腰带，成为历史上最年轻的重量级冠军。这个身高一米八的壮汉从此成了八十年代末全球最具威慑力的名字，也把电视 boxing 推向付费观看的黄金年代。",
+    "detail": "1986 年 11 月 22 日，美国拉斯维加斯的希尔顿酒店体育馆，20 岁零 145 天的迈克·泰森（Mike Tyson）向 WBC 重量级拳王特雷弗·伯比克（Trevor Berbick）发起挑战。泰森此前 27 战全胜，其中 25 场击倒对手，出拳密度和抗打能力远超同侪。比赛只进行了两个回合：泰森连续重击将伯比克打倒在地，伯比克挣扎起身后又踉跄倒下，裁判随即终止比赛。泰森就此成为拳击史上最年轻的重量级世界冠军，把富尔顿当时的纪录提前了数岁。此后的两年里，他连续统一 WBC、WBA、IBF 三大组织金腰带，『史上最可怕的拳手』形象深入全球电视观众心中。",
+    "impact": "泰森从此成为八十年代末全球电视转播的票房保证，付费看拳（PPV）模式借他起飞，重量级拳坛进入『泰森恐惧时代』。",
+    "aftermath": "泰森 1990 年东京爆冷输给道格拉斯，1992 年入狱，1997 年咬耳事件身败名裂；但『最年轻重量级拳王』这一纪录至今无人打破，仍是他职业生涯最硬的一行注脚。",
+    "sources": [
+      {
+        "title": "Wikipedia：Mike Tyson",
+        "url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Trevor Berbick",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Berbick",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "拳击",
+      "泰森",
+      "拳王",
+      "最年轻纪录",
+      "拉斯维加斯",
+      "付费转播"
+    ]
+  },
+  {
+    "id": "1986-01-01-sudoku-nikoli-rules",
+    "date": "1986-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "verified",
+    "title": "日本谜题杂志为『数字独身』定规矩：数独正式定型",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "数独的前身是美国的『数字拼图』，1984 年被日本谜题出版社 Nikoli 引进并改名，1986 年 Nikoli 确立两条关键规则——每行每宫数字不重复、提示数限制在三十个以内并讲究对称——现代数独就此定型。此后二十年，这种九宫格谜题从日本报纸蔓延到全世界，成了人类最普及的纸上智力运动。",
+    "detail": "数独的祖先是 1979 年美国谜题杂志刊载的 Number Place（数字拼图），但真正让它变成全球现象的是日本。1984 年，日本谜题出版社 Nikoli 在《谜题通信 Nikoli》上将它引入日本，取名为『数字は独身に限る』（数字只能出现一次），简称数独。1986 年，Nikoli 确立了延续至今的三条设计铁律：数字排列对称美观、提示格不超过 30 个、解法唯一。这些限制让数独从普通填字游戏变成了一种讲究手感与美感的智力艺术，也奠定了它在日本报纸上的国民地位。此后新西兰退休法官韦恩·古尔德开发了自动出题程序，2004 年把它带进英国《泰晤士报》，数独随后席卷全球报刊，成为史上流行最广的纸笔谜题。",
+    "impact": "数独从此有了统一的世界语：一张九宫格、一支铅笔，任何语言的人都能玩到一起。",
+    "aftermath": "2006 年首届世界数独锦标赛在意大利卢卡举行；如今数独已进入全球几乎所有主流报纸，手机数独应用累计下载以十亿计。",
+    "sources": [
+      {
+        "title": "Wikipedia：Sudoku",
+        "url": "https://en.wikipedia.org/wiki/Sudoku",
+        "type": "wiki"
+      },
+      {
+        "title": "Nikoli：Puzzle history（数独在日本）",
+        "url": "https://www.nikoli.co.jp/en",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "数独",
+      "Nikoli",
+      "智力竞技",
+      "谜题",
+      "纸上游戏",
+      "日本"
+    ]
+  },
+  {
+    "id": "1986-06-16-yangtze-raft-drift",
+    "date": "1986-06-16",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "长江首漂启程：科漂队从沱沱河下水，用生命丈量六千公里",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "1986 年 6 月 16 日，中国长江科学考察漂流探险队从长江正源沱沱河下水，历时半年漂完六千三百多公里全程，成为人类首次全程漂流长江。因不愿让美国人抢下『首漂』之名，三支队伍先后下水，十名队员长眠江中。这场用血肉之躯对抗激流的壮举，是八十年代理想主义最悲壮的一页。",
+    "detail": "1985 年美国漂流探险家肯·沃伦宣布将漂流长江，激发了中国青年的强烈反响。1986 年 6 月，中国长江科学考察漂流探险队从成都誓师出发，6 月 16 日在长江正源沱沱河正式下水开漂；随后四川、河南等地的民间队伍也相继组队入江，形成三支队伍竞漂。他们乘坐简陋的密封式漂流船，穿越虎跳峡、老君滩等数十处死亡险滩，没有现代救生装备，靠人力与意志硬闯。11 月，探险队最终抵达入海口，完成人类首次长江全程漂流。代价极为惨重：包括洛阳队在内的十名队员遇难，其中『洛阳铁人』郎保洛等四人在虎跳峡附近牺牲，举国震动。",
+    "impact": "『长漂』与次年的黄河漂流一起，成为八十年代民族情绪与探险精神的标志事件，也促使社会开始反思无装备盲目冒险的代价。",
+    "aftermath": "此后专业漂流运动在中国逐渐规范发展，虎跳峡等险段如今已是世界级漂流与徒步胜地；长漂队员的纪念碑仍立在长江源头。",
+    "sources": [
+      {
+        "title": "Wikipedia：长江漂流事件",
+        "url": "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B1%9F%E6%BC%82%E6%B5%81%E4%BA%8B%E4%BB%B6",
+        "type": "wiki"
+      },
+      {
+        "title": "百度百科：长江漂流",
+        "url": "https://baike.baidu.com/item/%E9%95%BF%E6%B1%9F%E6%BC%82%E6%B5%81/1078081",
+        "type": "wiki"
+      },
+      {
+        "title": "中国探险协会：长漂纪念文",
+        "url": "https://caa1993.org.cn/content/94/2692.shtml",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "长江漂流",
+      "中国奇人",
+      "探险",
+      "八十年代",
+      "沱沱河",
+      "理想主义"
+    ]
+  },
+  {
+    "id": "1987-03-29-wrestlemania-iii",
+    "date": "1987-03-29",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "摔角狂热三：庞蒂亚克银色穹顶创下室内观赛纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1987 年 3 月 29 日，WWF（WWE 前身）第三届摔角狂热在底特律郊外的银色穹顶举行，官方宣布到场 93173 人，创下当时室内活动观赛人数世界纪录。胡克·霍根对抗巨人安德烈的『世纪对决』让职业摔角从小众巡回演出变成全美流行文化，也开启了付费电视时代的摔角盛世。",
+    "detail": "1987 年 3 月 29 日，世界摔角联合会（WWF，即后来的 WWE）在密歇根州庞蒂亚克银色穹顶体育场举办第三届摔角狂热（WrestleMania III）。主赛是全美观众挂念数月的恩怨局：卫冕冠军胡克·霍根（Hulk Hogan）对抗身高两米二四、十五年未曾被正面压制的巨人安德烈（André the Giant）。比赛当晚官方公布 93173 人到场，创下室内活动观赛人数纪录；霍根在全场山呼海啸中完成招牌技，成功压制安德烈。副赛上兰迪·萨维奇与瑞奇·斯廷博特的 15 分钟大战也被公认为经典。这场比赛的转播覆盖了数百万付费家庭，职业摔角自此完成从地方巡演到全国性娱乐帝国的跨越。",
+    "impact": "室内观赛人数纪录与主赛剧本一起，把摔角狂热确立为年审娱乐事件，摔角正式与好莱坞明星、流行音乐同台竞技。",
+    "aftermath": "安德烈与霍根的这方擂台成为流行文化符号；WWE 后来把它评为摔角史上最伟大比赛之一，2025 年前后以安德烈为题的传记影视再度让这一夜被新一代观众熟知。",
+    "sources": [
+      {
+        "title": "Wikipedia：WrestleMania III",
+        "url": "https://en.wikipedia.org/wiki/WrestleMania_III",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Hulk Hogan vs. André the Giant",
+        "url": "https://en.wikipedia.org/wiki/Hulk_Hogan",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "职业摔角",
+      "WWE",
+      "摔角狂热",
+      "观赛纪录",
+      "霍根",
+      "巨人安德烈"
+    ]
+  },
+  {
+    "id": "1990-02-11-tyson-douglas-upset",
+    "date": "1990-02-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "东京巨蛋世纪冷门：巴斯特·道格拉斯十回合击倒泰森",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1990 年 2 月 11 日，东京巨蛋，42 赔 1 的赔率下，名不见经传的詹姆斯·『巴斯特』·道格拉斯在第十回合击倒不可一世的泰森，摘走三条重量级金腰带。这是拳击史上最大的冷门之一，泰森的不败神话一夕崩塌，也宣告了八九十年代之交拳坛秩序的洗牌。",
+    "detail": "1990 年 2 月 11 日，卫冕三冠（WBC、WBA、IBF）的迈克·泰森来到刚刚落成的东京巨蛋，迎战排名远在十名开外的挑战者詹姆斯·道格拉斯（James Buster Douglas）。赛前博彩公司开出道格拉斯 42 赔 1 的悬殊赔率，多数评论员认为比赛撑不过三个回合。然而道格拉斯母亲病逝前曾预言儿子将击败泰森，他把这场悲愤化为力量，全程用刺拳控制距离。第八回合道格拉斯一度击倒泰森，却也被泰森反击读秒，读秒后顽强站起；第十回合，道格拉斯一记左勾拳接连环重击将泰森放倒，泰森爬起时神志涣散，裁判认定其无法继续，比赛终止。举世哗然。道格拉斯赛后把金腰带扛回俄亥俄州哥伦布市，而泰森的王朝就此出现裂缝，几个月后他因强奸案入狱，拳坛进入群雄混战时代。",
+    "impact": "这是现代体育史上最具标志性的冷门之一，『任何人都可能被打败』从此成为拳坛叙事的原点。",
+    "aftermath": "道格拉斯半年后输给霍利菲尔德迅速淡出，泰森 1995 年复出；但东京巨蛋这一夜至今仍被反复搬上纪录片和影评节目。",
+    "sources": [
+      {
+        "title": "Wikipedia：Mike Tyson vs. Buster Douglas",
+        "url": "https://en.wikipedia.org/wiki/Mike_Tyson_vs._Buster_Douglas",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Buster Douglas",
+        "url": "https://en.wikipedia.org/wiki/Buster_Douglas",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "拳击",
+      "泰森",
+      "冷门",
+      "东京巨蛋",
+      "道格拉斯",
+      "赔率"
+    ]
+  },
+  {
+    "id": "1991-10-01-first-world-memory-championship",
+    "date": "1991-10-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "首届世界记忆锦标赛在伦敦开赛：记忆成为竞技项目",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1991 年 10 月，思维导图发明人托尼·博赞与国际象棋大师雷蒙德·基恩在伦敦雅典娜俱乐部创办首届世界记忆锦标赛，英国人多米尼克·奥布莱恩夺冠。八分钟记一副扑克、一小时记上千位数字自此有了世界排名，人类记忆从奇技淫巧变成了有规则、有等级、有世界冠军的正式竞技。",
+    "detail": "1991 年 10 月，英国心理学家托尼·博赞（Tony Buzan）与国际象棋大师雷蒙德·基恩（Raymond Keene）在伦敦雅典娜俱乐部（Athenaeum）举办首届世界记忆锦标赛（World Memory Championship）。比赛设快速扑克、二进制数字、人名面孔、随机单词等十个项目，综合积分决出总冠军。首届冠军由英国人多米尼克·奥布莱恩（Dominic O'Brien）获得——他 30 岁才开始训练记忆，凭自创的『多米尼克系统』把抽象数字变成人物与场景，此后八次问鼎世界冠军。这项赛事把记忆术从街头表演变成了标准化竞技，选手要在裁判监督下记忆并还原上千位随机数字、几十副扑克牌。",
+    "impact": "记忆竞赛第一次有了世界冠军头衔，记忆训练法从此进入学校与职场的主流视野。",
+    "aftermath": "赛事此后在伦敦、法兰克福、广州等地轮办；2010 年 12 月中国大学生王峰在广州夺冠，中国随后成为记忆竞技强国，《最强大脑》等节目将这项运动推向大众。",
+    "sources": [
+      {
+        "title": "Wikipedia：World Memory Championships",
+        "url": "https://en.wikipedia.org/wiki/World_Memory_Championships",
+        "type": "wiki"
+      },
+      {
+        "title": "World Memory Sports Council：八冠王奥布莱恩",
+        "url": "https://www.worldmemorychampionships.com/eight-times-world-memory-champion-makes-comeback-60-disprove-age-myth",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "世界记忆锦标赛",
+      "智力竞技",
+      "记忆术",
+      "多米尼克",
+      "伦敦",
+      "托尼·博赞"
+    ]
+  },
+  {
+    "id": "1992-07-06-shanghai-great-world-jinnesi",
+    "date": "1992-07-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "上海大世界基尼斯创立：中国有了自己的『纪录认证所』",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "1992 年 7 月 6 日，上海大世界基尼斯总部经批准成立，参照英国吉尼斯的模式为『中国之最』颁发证书。三十多年里它认证了四千八百多项纪录，从最大的石磨到最多的 simultaneously 广场舞，成为中国民间绝活、地方文旅与商业营销舞台上的独特存在，也常被网友调侃为『土味吉尼斯』。",
+    "detail": "1992 年，上海游乐名所『大世界』的管理方借鉴英国吉尼斯世界纪录的运营模式，经共青团上海市委批准，于 7 月 6 日成立上海大世界基尼斯总部，专事中国范围『之最』的申报与认证。它很快成为地方电视台与文旅活动的合作伙伴：最大的月饼、最长的绣花鞋、万人同舞、最多人同时泡脚，五花八门的『中国之最』在大世界基尼斯的证书上集结。它与英国吉尼斯并无隶属关系，双方早期的合作也在 1996 年终止。三十余年间，总部累计颁出四千八百多项纪录，参与方遍及全国三十四个省级行政区，成为观察中国民间创造力与商业营销合流的一面镜子。",
+    "impact": "中国从此有了本土化的纪录认证体系，地方活动多了一块『全国之最』的金字招牌。",
+    "aftermath": "2010 年代后大世界基尼斯屡因『无意义纪录』『商业炒作』被舆论批评，但作为文旅抓手至今仍在运营，上海大世界已改造为非遗展示空间。",
+    "sources": [
+      {
+        "title": "百度百科：上海大世界基尼斯总部有限公司",
+        "url": "https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E5%A4%A7%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B0%BC%E6%96%AF%E6%80%BB%E9%83%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/64386051",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：大世界 (上海)",
+        "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大世界基尼斯",
+      "中国奇人",
+      "吉尼斯",
+      "纪录认证",
+      "上海",
+      "民间绝活"
+    ]
+  },
+  {
+    "id": "1993-11-12-ufc-1",
+    "date": "1993-11-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "UFC 1 在丹佛开打：八人乱斗催生现代综合格斗",
+    "category": "culture",
+    "region": "world",
+    "milestone": true,
+    "summary_30s": "1993 年 11 月 12 日，首届终极格斗锦标赛（UFC 1）在科罗拉多州丹佛举行，八名不同流派的武者同场混战，巴西柔术练习者罗伊斯·格雷西以小博大夺冠。这场『哪种武术最强』的实验性比赛引发巨大争议，却意外奠定了现代综合格斗（MMA）的起点，三十年后 UFC 已是全球增长最快的体育娱乐品牌之一。",
+    "detail": "1993 年 11 月 12 日，由广告人阿特·戴维与巴西格雷西家族合作创办的第一届终极格斗锦标赛（Ultimate Fighting Championship）在丹佛麦克尼科尔斯体育馆开打。规则极简：不分体重级别、几乎没有禁技，八名拳手分别代表拳击、摔跤、空手道、相扑、踢拳与巴西柔术，捉对厮杀决出『最强武术』。结果体重不到 80 公斤的罗伊斯·格雷西（Royce Gracie）靠地面降服技术连胜三人夺冠，震动武术界——原来站立搏击高手在地面缠斗面前如此脆弱。比赛因过于血腥遭政客与媒体围剿，一度在全美多数州被禁。但格雷西家族借此把巴西柔术推向世界，各流派武者开始交叉学习，MMA 作为独立运动由此诞生。",
+    "impact": "『哪种武术最强』有了第一个数据答案，全球武馆的课表从此改写。",
+    "aftermath": "2001 年 Zuffa 公司收购 UFC 后建立统一规则与医疗监管，2016 年以 40 亿美元易主，如今 UFC 已进入体育主流，MMA 选手成为收入最高的运动员群体之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：UFC 1",
+        "url": "https://en.wikipedia.org/wiki/UFC_1",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Ultimate Fighting Championship",
+        "url": "https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "UFC",
+      "综合格斗",
+      "MMA",
+      "格雷西",
+      "丹佛",
+      "无限制格斗"
+    ]
+  },
+  {
+    "id": "1993-04-30-k1-grand-prix-1993",
+    "date": "1993-04-30",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "K-1 首届大赛在东京开打：站立格斗的黄金时代启幕",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1993 年 4 月 30 日，日本空手道出身的石井和义在东京创办的首届 K-1 世界大奖赛开打，八名顶级踢拳、空手道、泰拳高手在统一规则下捉对决胜，哥伦比亚人布里科夺冠。K-1 把站立格斗做成灯光炫目的体育娱乐产品，九十年代一票难求，泰森、霍利菲尔德之外，世界格斗版图上从此有了『日本规格』。",
+    "detail": "1993 年 4 月 30 日，由前极真空手道练习者石井和义（后更名石井馆义）策划的首届 K-1 World Grand Prix 在东京国立代代木竞技场举行。K-1 的理念是把空手道、踢拳、泰拳、跆拳道等不同背景的站立技击手放进统一规则（允许拳击与腿法、禁肘禁摔），用重量级明星与娱乐化包装做出一档体育大秀。首届八人锦标赛爆出冷门：克罗地亚重炮手布兰科·西卡蒂奇（Branko Cikatić）一路重击夺冠。此后 K-1 吸引了荷兰、泰国、克罗地亚等国的最强站立选手，彼得·阿茨、欧内斯托·胡斯特、杰罗姆·勒·邦纳等名字在九十年代的东京巨蛋与横滨体育馆屡屡引发抢票热潮。",
+    "impact": "站立格斗第一次有了世界性的统一舞台与商业规格，东亚与欧洲的踢拳市场被彻底盘活。",
+    "aftermath": "K-1 在 2000 年代初到达巅峰后因母公司财务与经营风波走低，但其规则与赛事范式被 Glory、ONE 冠军赛等后继者继承，站立格斗至今沿用『K-1 规格』。",
+    "sources": [
+      {
+        "title": "Wikipedia：K-1",
+        "url": "https://en.wikipedia.org/wiki/K-1",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：K-1 World Grand Prix",
+        "url": "https://en.wikipedia.org/wiki/K-1_World_Grand_Prix",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "K-1",
+      "站立格斗",
+      "踢拳",
+      "石井和义",
+      "东京",
+      "格斗娱乐"
+    ]
+  },
+  {
+    "id": "1994-08-01-chinook-world-checkers-champion",
+    "date": "1994-08-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "跳棋程序 Chinook 登顶：计算机首次拿下人类世界冠军",
+    "category": "tech",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1994 年 8 月，加拿大阿尔伯塔大学开发的西洋跳棋程序 Chinook 与传奇棋王马里恩·廷斯利进行复赛，六盘和棋后廷斯利因健康原因退赛，Chinook 被宣布为『人机世界冠军』。这是计算机程序第一次在智力游戏中夺下人类世界冠军头衔——比深蓝击败国际象棋世界冠军早了三年。",
+    "detail": "1989 年起，阿尔伯塔大学乔纳森·谢弗教授团队开发跳棋程序 Chinook，目标是挑战被公认为史上最强跳棋手的马里恩·廷斯利（Marion Tinsley）——他自 1950 年代起几乎从无败绩。1992 年的人机对抗赛中，廷斯利以 4 胜 2 负 33 和险胜。1994 年 8 月双方在波士顿复赛，前六盘全部和棋后，廷斯利因确诊胰腺癌退出比赛，Chinook 依规程被授予『人机世界冠军』头衔。虽然带有些许遗憾，但这是计算机程序首次获得人类智力游戏的顶级世界冠军，验证了数据库+搜索算法足以逼近人类巅峰智慧。此后谢弗团队继续运算十八年，2007 年宣布已把跳棋完全解算——双方都完美应对时必为和棋。",
+    "impact": "人机对抗的第一块多米诺骨牌倒下，为三年后深蓝的世纪之战铺平了舆论与算法之路。",
+    "aftermath": "Chinook 的跳棋数据库与解算成果如今公开供学界使用；『完美信息游戏可被穷尽』成为人工智能研究的经典注脚。",
+    "sources": [
+      {
+        "title": "Wikipedia：Chinook (computer program)",
+        "url": "https://en.wikipedia.org/wiki/Chinook_(computer_program)",
+        "type": "wiki"
+      },
+      {
+        "title": "University of Alberta：Chinook 1994 match archive",
+        "url": "https://webdocs.cs.ualberta.ca/~chinook/matches/1994/Boston",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "跳棋",
+      "Chinook",
+      "人机大战",
+      "人工智能",
+      "阿尔伯塔大学",
+      "廷斯利"
+    ]
+  },
+  {
+    "id": "1995-06-24-first-x-games",
+    "date": "1995-06-24",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届 X Games 开幕：滑板与极限运动有了自己的奥运会",
+    "category": "culture",
+    "region": "world",
+    "milestone": true,
+    "summary_30s": "1995 年 6 月 24 日，美国娱乐与体育节目电视网在罗德岛州普罗维登斯举办首届极限运动会（X Games），滑板、单板滑雪前身项目的街头文化第一次被搬上国家级转播舞台。此后三十年，X Games 让极限运动从小众亚文化变成全球青年消费符号，也为滑板、冲浪等进入奥运会铺好了路。",
+    "detail": "1995 年 6 月 24 日至 7 月 1 日，ESPN 在罗德岛州普罗维登斯与纽波特举办首届 Extreme Games，后更名 X Games。赛事涵盖滑板、BMX 小轮车、旱冰、悬崖跳水、跳台速降与水上摩托等数十个夏季项目，把原本散落街头与车库的地下玩家请进有转播、有奖金、有赞助商的正赛场。首届比赛意外火爆，美国家庭通过 ESPN 第一次在黄金时段看到少年们飞跃大跳台。此后 X Games 每年夏冬各办一届，陆续走向旧金山、费城、洛杉矶，并增设全球分站。它催生了托尼·霍克、肖恩·怀特、克洛伊·金等巨星，也让 Vans、Red Bull 等品牌与青年文化深度绑定。",
+    "impact": "极限运动第一次拥有年度电视化、商业化的顶级舞台，街头文化被主流消费社会正式接纳。",
+    "aftermath": "X Games 至今举办三十余届并扩展至亚洲；滑板、冲浪、攀岩经其专业化训练体系培养的选手，在 2021 年东京奥运会完成奥运首秀。",
+    "sources": [
+      {
+        "title": "Wikipedia：X Games",
+        "url": "https://en.wikipedia.org/wiki/X_Games",
+        "type": "wiki"
+      },
+      {
+        "title": "ESPN：X Games history",
+        "url": "https://www.espn.com/xgames/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "X Games",
+      "极限运动",
+      "滑板",
+      "ESPN",
+      "亚文化",
+      "青年文化"
+    ]
+  },
+  {
+    "id": "1997-04-21-osullivan-fastest-147",
+    "date": "1997-04-21",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "火箭五分二十秒轰出满分：斯诺克史上最快 147",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1997 年 4 月 21 日，21 岁的罗尼·奥沙利文在谢菲尔德克鲁斯堡世锦赛首轮对米克·普赖斯的比赛中，只用 5 分 20 秒就完成满分 147，平均每杆不到 9 秒。这杆快到摄影机都跟不上的满分杆被称作『史上最快 147』，二十多年无人接近，成为斯诺克运动最著名的瞬间之一。",
+    "detail": "1997 年 4 月 21 日，斯诺克世锦赛首轮，罗尼·奥沙利文（Ronnie O'Sullivan）面对米克·普赖斯（Mick Price）。第五局开球后，奥沙利文几乎没有思考：连续 15 组红黑球加清彩球，15 杆红黑组合行云流水，全程仅用 5 分 20 秒，平均每杆约 8.8 秒。对手索然坐在椅子上看完全程，现场观众起立欢呼，连解说的评述都几乎跟不上节奏。这杆满分杆刷新了当时最快 147 纪录，把此前纪录快了近两分钟，被球迷称为『The 147』。奥沙利文左手天赋、出杆速度与心理松弛自此有了官方注脚，『火箭』绰号从此坐实。",
+    "impact": "斯诺克运动最著名的影像之一诞生，电视机前的观众第一次直观感受顶级选手与普通职业选手的鸿沟。",
+    "aftermath": "此后二十余年奥沙利文屡屡冲击但未能再快，这杆 5 分 20 秒的 147 仍被官方与媒体认定为史上最快满分杆；他也成为斯诺克史上最伟大的球员之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：1997 World Snooker Championship",
+        "url": "https://en.wikipedia.org/wiki/1997_World_Snooker_Championship",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Ronnie O'Sullivan",
+        "url": "https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "斯诺克",
+      "奥沙利文",
+      "满分杆",
+      "147",
+      "世锦赛",
+      "火箭"
+    ]
+  },
+  {
+    "id": "1997-10-11-pride-1",
+    "date": "1997-10-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "PRIDE 首届大赛东京巨蛋开打：日本格斗黄金时代开启",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1997 年 10 月 11 日，首届 PRIDE 格斗大赛在东京巨蛋举行，近五万观众涌入看高田延彦对阵瑞克森·格雷西。这场因 UFC 封禁风波而生的日本赛事，此后十余年汇集世界最强 MMA 选手，把综合格斗做成了电视黄金档娱乐，孕育了菲多、猫王等亚洲格斗偶像。",
+    "detail": "1997 年 10 月 11 日，由高田延彦与川原英夫等策划的 PRIDE Fighting Championships 首届赛事在东京巨蛋举行，官方公布到场观众逾 4.7 万人。主赛是日本职业摔角国民英雄高田延彦对阵 UFC 初代冠军罗伊斯·格雷西的弟弟、九战全胜的瑞克森·格雷西（Rickson Gracie），这场『日本柔道 vs 巴西柔术』的复仇之战吸引了全日本目光。虽然高田落败，但 PRIDE 凭借巨蛋级别的制作、开放的规则与顶级选手库迅速崛起，博彩公司与电视台争相合作。九十年代末至 2000 年代中期，PRIDE 是世界综合格斗规格最高、阵容最强的赛事，樱庭和志以小搏大战胜格雷西家族的传奇也诞生于此。",
+    "impact": "综合格斗的世界中心一度从拉斯维加斯移向东京，日本成为亚洲格斗工业的样板。",
+    "aftermath": "2007 年 PRIDE 因母公司丑闻被 UFC 母公司收购后停办，其选手与制作班底大量流入 UFC；东京巨蛋格斗盛世成为一代观众的集体记忆。",
+    "sources": [
+      {
+        "title": "Wikipedia：Pride Fighting Championships",
+        "url": "https://en.wikipedia.org/wiki/Pride_Fighting_Championships",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：PRIDE 1",
+        "url": "https://en.wikipedia.org/wiki/PRIDE_1",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "PRIDE",
+      "综合格斗",
+      "东京巨蛋",
+      "高田延彦",
+      "格雷西",
+      "日本格斗"
+    ]
+  },
+  {
+    "id": "1997-06-01-ke-shouliang-jump-yellow-river",
+    "date": "1997-06-01",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "柯受良飞越黄河：1.58 秒跨越壶口瀑布",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "1997 年 6 月 1 日 13 时 19 分，台湾艺人柯受良驾驶三菱跑车从陕西一侧腾空，用 1.58 秒飞越宽约 55 米的黄河壶口瀑布，成为驾车飞越黄河第一人。香港回归前夕，央视与凤凰卫视同步直播，亿万观众见证了这场向母亲河致敬的豪赌。",
+    "detail": "1997 年 6 月 1 日 13 时 19 分 7 秒，绰号『小黑』的台湾特技艺人柯受良驾驶一辆三菱 Lancer Evolution IV RS 跑车，在黄河壶口瀑布山西一侧的助跑道上猛踩油门。此前他三次试飞，第一次严重翻车，后两次也只飞出 42 米多，正飞成败未知。助跑约 265 米后，赛车腾空 1.58 秒、飞越约 55 米宽的瀑布口，稳稳落在对岸陕西一侧的接台上。为这次飞越，柯受良耗资约 1500 万元人民币，卖房筹款、九个月现场筹备，央视与凤凰卫视全程直播，亿万观众守在电视机前。飞越成功后他高举双手致意，成为香港回归前夕最提气的民间时刻之一。",
+    "impact": "『飞黄』与同年香港回归交织在一起，成为九七年中国大众记忆里最燃的一幕；极限特技运动自此进入内地大众视野。",
+    "aftermath": "柯受良 2003 年病逝，飞越用的赛车如今保存在浙江家乡；此后飞越长城、飞越天门山等特技挑战接连出现，但『飞越黄河第一人』始终只有他一人。",
+    "sources": [
+      {
+        "title": "凤凰网：柯受良飞越黄河",
+        "url": "http://sports.ifeng.com/zonghe/200908/0830_4685_1326609.shtml",
+        "type": "news"
+      },
+      {
+        "title": "Wikipedia：柯受良",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9F%AF%E5%8F%97%E8%89%AF",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "柯受良",
+      "飞越黄河",
+      "壶口瀑布",
+      "特技",
+      "1997",
+      "直播"
+    ]
+  },
+  {
+    "id": "1998-06-28-hell-in-a-cell-debut",
+    "date": "1998-06-28",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "地狱牢笼赛诞生：人魔从五米铁笼顶端跃下",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1998 年 6 月 28 日，WWF 国王擂台大赛上，送葬者对阵米克·福利的『地狱牢笼赛』首次亮相：福利先后被从五米高的铁笼顶摔进解说台与擂台，全场惊呆。这场比赛把职业摔角的危险表演推向极限，成为摔角史上被引用最多的画面，也引发此后对选手安全的长年争论。",
+    "detail": "1998 年 6 月 28 日，WWF 付费赛事『国王擂台』（King of the Ring）在匹兹堡举行，送葬者（Undertaker）与米克·福利（Mankind，化名）进行史上第一场地狱牢笼赛（Hell in a Cell）：五米高的钢笼将整个擂台罩住，无场外计数、无资格限制。比赛进行中，福利爬上笼顶躲避，却被送葬者一把掀下，直接砸穿转播解说台；数分钟后他又被扔回笼顶，铁皮塌陷，从五米高处再次坠落擂台。裁判几度要求停赛，福利带伤坚持完赛。这段影像让 WWF 在与 WCW 的收视大战中再下一城，也把『地狱牢笼』变成摔角史上最著名的比赛类型之一。",
+    "impact": " Hell in a Cell 自此成为 WWF 年度招牌赛制；这场比赛则被视为摔角暴力美学与表演伦理的分水岭。",
+    "aftermath": "米克·福利多年后写下畅销自传细述伤痛；WWE 至今每年仍举办地狱牢笼赛，但选手安全规范已大幅收紧。",
+    "sources": [
+      {
+        "title": "Wikipedia：King of the Ring (1998)",
+        "url": "https://en.wikipedia.org/wiki/King_of_the_Ring_(1998)",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Hell in a Cell",
+        "url": "https://en.wikipedia.org/wiki/Hell_in_a_Cell",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "职业摔角",
+      "WWE",
+      "地狱牢笼",
+      "送葬者",
+      "米克·福利",
+      "极端表演"
+    ]
+  },
+  {
+    "id": "1999-06-27-tony-hawk-lands-900",
+    "date": "1999-06-27",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "托尼·霍克转出人类第一个 900 度：滑板的登月时刻",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1999 年 6 月 27 日，31 岁的托尼·霍克在旧金山 X Games 大跳台上连续转体两圈半，稳稳落地——人类历史上第一个滑板 900 度动作诞生。全场观众冲进场地把他抬起，这一跳被认为是滑板运动的技术登月，也把『900』变成极限运动不可逾越的代名词。",
+    "detail": "1999 年 6 月 27 日，X Games 第五届在旧金山 30 号码头旁的大跳台（Big Air）举行最佳动作赛。31 岁的托尼·霍克（Tony Hawk）此前已连续十年冲击 900 度——腾空后沿身体纵轴转体两圈半再落地。当天比赛接近尾声，他在十余次尝试失败后仍未放弃，最后一次冲刺起跳，身体在空中完成 900 度旋转，板面平稳吸地。霍克自己都难以置信地举臂滑行，观众涌入场地将他高高抛起。这是滑板史上第一个被官方记录的 900，此前被认为超出人类极限。霍克此后再未在正式比赛中重复这一动作，多年后只成功过寥寥数次。",
+    "impact": "滑板运动的『不可能』被改写，X Games 与霍克的个人品牌双双起飞，滑板游戏《Tony Hawk's Pro Skater》次年问世成为现象级产品。",
+    "aftermath": "此后二十年间全球只有个位数滑手在公园地形完成 900，霍克本人 2016 年 48 岁时最后一次成功；『900 时刻』至今是极限运动的图腾画面。",
+    "sources": [
+      {
+        "title": "Wikipedia：Tony Hawk",
+        "url": "https://en.wikipedia.org/wiki/Tony_Hawk",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：X Games",
+        "url": "https://en.wikipedia.org/wiki/X_Games",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "滑板",
+      "托尼·霍克",
+      "900 度",
+      "X Games",
+      "极限运动",
+      "大跳台"
+    ]
+  },
+  {
+    "id": "1999-06-21-kasparov-versus-the-world",
+    "date": "1999-06-21",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "卡斯帕罗夫网络对弈全世界：一人单挑五万人的世纪棋局",
+    "category": "internet",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1999 年 6 月 21 日，国际象棋世界冠军卡斯帕罗夫在微软 MSN 网站上开启『对弈全世界』：全球 75 国超过五万名业余棋手投票决定黑方每一步，与世界第一白方较量。四个多月、62 回合后，卡斯帕罗夫在深度的弃子攻势中获胜，这场网络实验被视为人类历史上第一次大规模互联网协同智力对抗。",
+    "detail": "1999 年 6 月 21 日至 10 月 16 日，世界国际象棋第一人加里·卡斯帕罗夫（Garry Kasparov）在微软 MSN 赞助的网站上与『全世界』对弈：来自 75 个国家、超过 5 万名注册棋手每 24 小时对黑方下一步棋投票，由四名少年国象高手与顾问组成战术小组提供候选。白方卡斯帕罗夫独立应对。对局从常规开局迅速走向诡异变例，第 10 回合起卡斯帕罗夫祭出冒险的弃子强攻，把局面拖入深水区。全球军团曾在中盘一度占优，但因投票机制各执己见，多次错过最佳防守。第 62 回合，全球军团认输，卡斯帕罗夫赛后称这是他下过最『烧脑』的一盘棋。",
+    "impact": "这是互联网史上第一次全球大规模协作对抗单一智者的实验，『群体智慧是否会败给天才』的争论从此有了著名案例。",
+    "aftermath": "对局棋谱成为国象研究经典材料；多人协作对弈此后被多次复制（如维基百科式解谜、Foldit 蛋白质游戏），网络协作竞技自此登上历史舞台。",
+    "sources": [
+      {
+        "title": "Wikipedia：Kasparov versus the World",
+        "url": "https://en.wikipedia.org/wiki/Kasparov_versus_the_World",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Garry Kasparov",
+        "url": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "国际象棋",
+      "卡斯帕罗夫",
+      "网络对弈",
+      "群体智慧",
+      "MSN",
+      "协作实验"
+    ]
+  },
+  {
+    "id": "2001-07-04-kobayashi-50-hot-dogs",
+    "date": "2001-07-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "小林尊纽约狂吞 50 个热狗：大胃王竞技被改写",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2001 年 7 月 4 日，23 岁的日本大学生小林尊首次参加纽约内森杯热狗大胃王大赛，10 分钟吞下 50 个热狗，几乎把此前世界纪录 25.125 个翻倍。美国解说目瞪口呆的这段转播让大胃王竞技一夜出圈，也开启了小林尊六连霸的热狗王朝。",
+    "detail": "2001 年 7 月 4 日美国独立日，纽约科尼岛的内森杯（Nathan's Famous）国际热狗大胃王大赛上，身高仅一米七出头的日本选手小林尊（Takeru Kobayashi）首次亮相。此前百年赛事的最好成绩是 25.125 个热狗（含面包），被视为人类生理极限。小林尊在 10 分钟内一口气吞下 50 个，翻倍打破纪录，现场主持人反复核对接数，美国解说惊呼『日本方面有新的计算方式』。他的秘密是一套系统性训练：扩张胃容量、把热狗掰断加快吞咽、用『所罗门手法』避免面包噎喉，把大胃王从民俗游戏变成科学训练的竞技项目。此后他连夺六届冠军，把纪录一路推到 2006 年的 53.75 个。",
+    "impact": "大胃王竞技从此有了职业化标准与全球知名度，美国 Major League Eating 联盟的电视转播生意随之起飞。",
+    "aftermath": "2007 年美国人乔伊·切斯纳特终结小林王朝；小林尊 2021 年纪录片《竞食者》复盘职业生涯，因长期训练导致下颌与胃部伤病，2024 年他宣布因健康原因退役。",
+    "sources": [
+      {
+        "title": "Wikipedia：Takeru Kobayashi",
+        "url": "https://en.wikipedia.org/wiki/Takeru_Kobayashi",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Nathan's Hot Dog Eating Contest",
+        "url": "https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大胃王",
+      "小林尊",
+      "热狗大赛",
+      "竞食",
+      "纪录翻倍",
+      "纽约"
+    ]
+  },
+  {
+    "id": "2001-01-01-zuffa-acquires-ufc",
+    "date": "2001-01-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "Zuffa 收购 UFC：综合格斗从地下走向正规军",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2001 年 1 月，赌场大亨洛伦佐与弗兰克·费尔蒂塔兄弟的公司 Zuffa 以约 200 万美元买下濒临被禁的 UFC，白手套经纪人白大拿出任总裁。新东家重写规则、争取医疗监管与州体育委员会认可，把这项曾被参议员称为『人类斗鸡』的运动做成全球最大的格斗帝国。",
+    "detail": "1993 年诞生的 UFC 因规则极端、画面血腥，到九十年代末已被全美绝大多数州禁办，付费订购惨淡，原东家半送半卖急于脱手。2001 年 1 月，拉斯维加斯赌业费尔蒂塔家族的 Zuffa 公司以约 200 万美元完成收购，白大拿（Dana White）出任总裁。Zuffa 上任后做了三件事：制定统一规则（分重量级、明确禁技）、说服内华达州体育委员会实施医疗监督、与付费电视与博彩渠道重建合作。UFC 由此从地下黑拳转型为受监管的职业联赛，2005 年真人秀《终极斗士》以赔本制作换来收视爆红，成为转折点。Zuffa 入手时值 200 万美元的资产，2016 年以约 40 亿美元卖给 WME-IMG，十五年间增值两千倍。",
+    "impact": "综合格斗从被禁边缘走进主流体育监管体系，现代 UFC 的商业框架自此奠定。",
+    "aftermath": "UFC 现已扩展至全球市场并开设精英联赛；白大拿任职至今，费尔蒂塔兄弟与白大拿成为体育商业史上最著名的抄底案例之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：Zuffa",
+        "url": "https://en.wikipedia.org/wiki/Zuffa",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Ultimate Fighting Championship",
+        "url": "https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "UFC",
+      "Zuffa",
+      "白大拿",
+      "收购",
+      "体育商业",
+      "综合格斗"
+    ]
+  },
+  {
+    "id": "2001-03-26-wwf-acquires-wcw",
+    "date": "2001-03-26",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "WWF 收购 WCW：摔角收视大战落幕，一家独大时代开始",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2001 年 3 月 26 日，WWF 董事长麦克马洪在自家周赛节目现场宣布收购老对手 WCW，持续近六年的『周一晚收视大战』落幕。两大摔角联盟火并曾把职业摔角推上电视黄金档巅峰，随着 WCW 倒下，北美摔角进入 WWE 一家独大的二十余年。",
+    "detail": "九十年代中期起，特纳旗下的 WCW（世界冠军摔角）凭 nWo 军团剧情连续 80 余周压过 WWF 的周赛收视，两大联盟周一晚间正面对撞，史称『周一晚大战』（Monday Night Wars）。1998 年后 WCW 创作失控、巨星老化、合同失衡，收视与财务急转直下。2001 年 3 月，特纳广播母公司被收购重组，WCW 遭贱卖。3 月 26 日晚，WWF 老板文斯·麦克马洪在自家节目上宣布同时拿下 WCW 的商标、录像库与部分合同，并在当期节目直播 WCW『入侵』剧情的引子。北美职业摔角自此告别双雄时代。",
+    "impact": "摔角行业完成大一统，WWF 于 2002 年更名 WWE，向全球娱乐公司转型。",
+    "aftermath": "ECW、WCW 明星此后大量并入 WWE 剧情线；2019 年 AEW 成立才再次形成分庭抗礼，收视大战的教训成为体育娱乐管理经典案例。",
+    "sources": [
+      {
+        "title": "Wikipedia：Monday Night Wars",
+        "url": "https://en.wikipedia.org/wiki/Monday_Night_Wars",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：World Championship Wrestling",
+        "url": "https://en.wikipedia.org/wiki/World_Championship_Wrestling",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "职业摔角",
+      "WWE",
+      "WCW",
+      "收视大战",
+      "收购",
+      "麦克马洪"
+    ]
+  },
+  {
+    "id": "2001-07-29-zhang-jian-crosses-english-channel",
+    "date": "2001-07-29",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "张健横渡英吉利海峡：中国人首次游过百年海峡",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2001 年 7 月 29 日 13 时 30 分，北京体育大学教师张健从英国多佛尔下水，以 11 小时 55 分游过英吉利海峡，于 30 日凌晨在法国加莱登岸，成为第一位横渡英吉利海峡的中国人。此前一年他曾连续游 50 小时横渡渤海海峡，『横渡』自此成为中国大众体育的年度热词。",
+    "detail": "2001 年 7 月 29 日 13 时 30 分，时年 37 岁的北京体育大学教师张健从英国多佛尔莎士比亚海滩下水，向英吉利海峡发起挑战。海峡直线宽度约 34 公里，水温常年在 16 摄氏度上下，洋流与风浪会把实际游程拉长到 50 公里以上，国际横渡界把它视为公开水域的珠穆朗玛。张健全程未借助防寒泳衣，靠教练船补给能量饮料，途中顶住洋流偏离，游程约 50 多公里，耗时 11 小时 55 分，于 30 日凌晨 1 时 25 分在法国加莱附近登岸，成为完成这一挑战的首位中国人。此前他已于 2000 年 8 月以 50 小时连续游泳横渡渤海海峡（123.58 公里），创造男子公开水域最长距离纪录。",
+    "impact": "张健的两次横渡让公开水域游泳进入中国大众视野，各地掀起『横渡』热，专业公开水域项目此后进入全国运动会。",
+    "aftermath": "张健后来推动横渡兴凯湖、青海湖等活动并创办横渡赛事；英吉利海峡横渡者名录中自此有了中国人的名字，至今已有数十位中国人完成该挑战。",
+    "sources": [
+      {
+        "title": "中国新闻网：张健成功横渡英吉利海峡",
+        "url": "https://www.chinanews.com.cn/2001-07-29/26/109269.html",
+        "type": "news"
+      },
+      {
+        "title": "BBC 中文网：张健横渡海峡报道",
+        "url": "http://news.bbc.co.uk/chinese/simp/hi/newsid_1460000/newsid_1463700/1463738.stm",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "张健",
+      "横渡",
+      "英吉利海峡",
+      "公开水域",
+      "中国奇人",
+      "耐力运动"
+    ]
+  },
+  {
+    "id": "2003-08-23-world-rubiks-champ-toronto",
+    "date": "2003-08-23",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "世界魔方锦标赛在多伦多复办：速拧沉寂二十年后重燃",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "1982 年布达佩斯首届魔方世锦赛后，全球速拧赛事中断二十年。2003 年 8 月 23 日，荷兰魔友朗·范布勒姆等在多伦多重启世界魔方锦标赛，各国玩家带着自改装的魔方同场竞技，中国选手也自此登上国际赛场。这次复办直接催生了次年世界魔方协会（WCA）的成立，现代速拧运动自此起步。",
+    "detail": "魔方在 1980 年代初风靡全球，1982 年匈牙利布达佩斯举办了首届世界魔方锦标赛，美国学生 Minh Thai 以 22.95 秒夺冠。此后魔方热退潮，跨国赛事停摆近二十年。2003 年 8 月 23 日至 24 日，荷兰速拧活动家朗·范布勒姆（Ron van Bruchem）等在加拿大多伦多安大略科学中心重启世界魔方锦标赛（World Rubik's Games Championship），来自十余个国家的选手参加三阶速拧、盲拧、单手、最少步等十余个项目，丹麦选手杰斯珀以约 16 秒的平均成绩拿下三阶冠军。赛事采用统一计时与复原标准，选手间自发形成的公平竞赛文化自此制度化，丹麦选手以 16 秒级的平均成绩拿下三阶速拧冠军。中国魔友开始通过论坛关注并出国参赛，为日后中国速拧崛起埋下伏笔。",
+    "impact": "速拧运动在互联网时代重新组织起来，统一规则的跨国赛事体系重新建立。",
+    "aftermath": "2004 年范布勒姆与毛胜台发起成立世界魔方协会（WCA），全球赛事进入年赛千场的规模；中国自 2006 年起举办 WCA 认证赛事，如今是全球参赛人数最多的速拧大国之一。",
+    "sources": [
+      {
+        "title": "WCA：Speedcubing history",
+        "url": "https://www.worldcubeassociation.org/speedcubing-history",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Speedcubing",
+        "url": "https://en.wikipedia.org/wiki/Speedcubing",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "世界魔方锦标赛",
+      "多伦多",
+      "范布勒姆",
+      "WCA"
+    ]
+  },
+  {
+    "id": "2003-05-23-moneymaker-wsop-main-event",
+    "date": "2003-05-23",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "会计员 86 美元卫星赛赢下世界扑克冠军：扑克热潮引爆",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2003 年 5 月 23 日，27 岁的田纳西会计克里斯·穆尼梅克凭 86 美元线上卫星赛门票杀入世界扑克大赛主赛决赛桌，击败职业选手山米·法哈夺冠，捧走 250 万美元。一个普通上班族的逆袭让电视观众相信『我也可以』，全球在线扑克注册量自此爆炸式增长，史称『穆尼梅克效应』。",
+    "detail": "2003 年 5 月，世界扑克大赛（WSOP）主赛事在拉斯维加斯宾尼马戏场开打，839 名选手中包括大批职业高手。决赛桌于 5 月 23 日开始，业余选手克里斯·穆尼梅克（Chris Moneymaker）——他只花 86 美元在 PokerStars 卫星赛赢得出线权，此前从未打过线下职业赛——先在淘汰阶段放倒顶级高手菲利普·艾维，再与职业牌手山米·法哈（Sammy Farha）进入一对一。转播镜头用新引入的底牌透视技术让观众看到双方底牌，穆尼梅克多次以虚张声势的『全下』施压，最终在最后一把牌里把小对子打成葫芦完成逆转，捧走 250 万美元冠军奖池。ESPN 的剪辑转播把这场草根逆袭讲成了灰姑娘故事。",
+    "impact": "在线扑克用户数在随后两年增长数十倍，电视扑克节目蜂拥出现，『人人可成职业牌手』的想象重塑了整个行业。",
+    "aftermath": "穆尼梅克此后成为职业牌手与扑克大使；WSOP 主赛事参赛人数次年翻倍、2006 年达 8773 人；美国 2011 年『黑色星期五』整顿线上扑克后热潮降温，但『穆尼梅克效应』仍是行业史的分水岭。",
+    "sources": [
+      {
+        "title": "Wikipedia：Chris Moneymaker",
+        "url": "https://en.wikipedia.org/wiki/Chris_Moneymaker",
+        "type": "wiki"
+      },
+      {
+        "title": "WSOP 官方选手页：Christopher Moneymaker",
+        "url": "https://www.wsop.com/players/296107270/christopher-moneymaker",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "扑克",
+      "WSOP",
+      "穆尼梅克",
+      "卫星赛",
+      "草根逆袭",
+      "在线扑克"
+    ]
+  },
+  {
+    "id": "2004-08-01-wca-founded",
+    "date": "2004-08-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "世界魔方协会成立：速拧运动有了全球规则与排行榜",
+    "category": "culture",
+    "region": "world",
+    "milestone": true,
+    "summary_30s": "2004 年 8 月，荷兰魔友朗·范布勒姆与加州理工学生毛胜台起草第一版章程，世界魔方协会（WCA）正式成立。统一规则、认证赛事、官方排行榜三件套让散落各国的速拧玩家从此有了同一个世界，全球魔方比赛由每年几场增至如今上千场，速拧成为覆盖百余国的正规智力运动。",
+    "detail": "2003 年多伦多世界魔方锦标赛复办后，组织者意识到零散赛事无法支撑一项运动的成长。2004 年 8 月，荷兰的朗·范布勒姆（Ron van Bruchem）与美国加州理工学院的华人学生毛胜台（Tyson Mao）起草并发布了 WCA 第一版规章，世界魔方协会（World Cube Association）正式组建，两人任首届代表。WCA 确立了比赛认证、计时判罚、成绩公布与官方世界纪录的完整体系，覆盖三阶速拧、盲拧、单手、最少步、脚拧及各阶魔方与异形共十几个项目。同年 10 月协会在荷兰完成注册。此后美国、德国、中国等地的认证赛事快速增长，WCA 官网排行榜成为全球魔友的公共记分牌。",
+    "impact": "速拧自此从兴趣小组升级为有章程、有纪录、有排名的正规智力运动，全球社区有了统一身份。",
+    "aftermath": "WCA 赛事如今每年在 140 多个国家和地区举办逾千场；中国是办赛与参赛最多的国家之一，男女世界纪录榜长期由中日韩美澳等国选手刷新。",
+    "sources": [
+      {
+        "title": "WCA：Speedcubing history",
+        "url": "https://www.worldcubeassociation.org/speedcubing-history",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：World Cube Association",
+        "url": "https://en.wikipedia.org/wiki/World_Cube_Association",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "WCA",
+      "魔方",
+      "速拧",
+      "标准化",
+      "毛胜台",
+      "世界纪录"
+    ]
+  },
+  {
+    "id": "2004-11-20-first-guinness-world-records-day",
+    "date": "2004-11-20",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首个吉尼斯世界纪录日：一亿册里程碑催生的全球破纪录节",
+    "category": "society",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2004 年 11 月，《吉尼斯世界纪录大全》全球销量突破一亿册，成为史上最畅销的版权图书。出版方顺势在 11 月 20 日举办了首个吉尼斯世界纪录日，此后每年 11 月固定举办，全球各地同日集中挑战纪录，从最多的双人抱抱到最大的抛饼，成了破纪录者的年度狂欢。",
+    "detail": "1955 年，爱尔兰吉尼斯啤酒公司为解决酒吧争论出版了《吉尼斯世界纪录大全》，半个世纪后它已成为全球最畅销的版权书。2004 年 11 月，出版方宣布全球销量突破 1 亿册，并在 11 月 20 日首次举办吉尼斯世界纪录日（Guinness World Records Day）：全球数十个国家的挑战者同日冲击各类纪录，从『一分钟内最多人一起转呼啦圈』到『最大规模挥手』，电视台与报纸全程跟进。此后这一活动固定为每年 11 月上中旬的全球性节日，累计吸引超过五十个国家和地区参与，单届刷新纪录数百项，成为吉尼斯品牌最重要的年度营销与大众参与场景。",
+    "impact": "『破纪录』从个人猎奇升级为有固定节日的全球参与式活动，纪录文化被制度化。",
+    "aftermath": "纪录日至今每年举办；中国的大世界基尼斯虽无隶属关系，但同场竞争中也把纪录狂欢本土化，各地挑战活动常年不断。",
+    "sources": [
+      {
+        "title": "Guinness World Records：GWR Day",
+        "url": "https://www.guinnessworldrecords.com/gwrday",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Guinness World Records",
+        "url": "https://en.wikipedia.org/wiki/Guinness_World_Records",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "吉尼斯",
+      "世界纪录日",
+      "一亿册",
+      "纪录文化",
+      "大众参与",
+      "出版"
+    ]
+  },
+  {
+    "id": "2004-11-12-the-times-first-sudoku",
+    "date": "2004-11-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《泰晤士报》首刊数独：一张九宫格引爆全球报纸",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2004 年 11 月 12 日，伦敦《泰晤士报》刊出首篇数独， supply 来自新西兰退休法官韦恩·古尔德的自动出题程序。数独迅速席卷英国各大报章，次年登陆美国《纽约时报》，一张九宫格让全球报纸迎来十年来最成功的谜题栏目，纸质媒体找到了留住读者的新抓手。",
+    "detail": "数独虽在 1980 年代由日本 Nikoli 定型，但真正引爆全球的是一次偶然旅行：1997 年，新西兰退休法官韦恩·古尔德（Wayne Gould）在东京一家书店看到数独集，着迷回国后花六年写了自动出题程序。2004 年 11 月 12 日，他成功说服伦敦《泰晤士报》免费刊登首个数独栏目。读者反响远超预期，英国《每日邮报》《卫报》在几周内跟进，报业掀起数独大战；2005 年《纽约时报》也开设数独版。古尔德坚持免费供题、靠出版社推广的策略让数独在两年内进入全球七百多家媒体，相关图书销量破千万，『数独』一词在 2004 年底之前对多数西方读者还闻所未闻，如今已是常识。",
+    "impact": "数独成为报纸发行大战的武器之一，也证明了纸质媒体仍能靠轻量智力内容锁住用户。",
+    "aftermath": "数独此后进入学校课堂与手机应用，世界数独锦标赛于 2006 年创办；全球报纸的数独栏目延续至今。",
+    "sources": [
+      {
+        "title": "Wikipedia：Sudoku（Wayne Gould 与泰晤士报）",
+        "url": "https://en.wikipedia.org/wiki/Sudoku",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Wayne Gould",
+        "url": "https://en.wikipedia.org/wiki/Wayne_Gould",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "数独",
+      "泰晤士报",
+      "韦恩·古尔德",
+      "报纸",
+      "谜题",
+      "全球热潮"
+    ]
+  },
+  {
+    "id": "2005-04-03-ding-junhui-china-open-title",
+    "date": "2005-04-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "丁俊晖北京夺首冠：18 岁少年点燃中国斯诺克",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2005 年 4 月 3 日，18 岁的丁俊晖在中国公开赛决赛 9 比 5 击败七届世界冠军亨德利，拿下个人首个排名赛冠军。一个江苏宜兴少年在北京改写了中国台球史：此后斯诺克学院、台球房在全国爆发式增长，中国成长为斯诺克世界第二大市场。",
+    "detail": "2005 年 4 月 3 日，斯诺克中国公开赛决赛在北京海淀体育馆举行，持外卡出战的 18 岁中国小将丁俊晖一路淘汰艾伯顿、达赫迪等名将，决赛面对统治九十年代的『台球皇帝』斯蒂芬·亨德利（Stephen Hendry）。丁俊晖以 9 比 5 完胜，夺得个人职业生涯第一个世界排名赛冠军，全场观众起立鼓掌。这个从宜兴一家小台球房走出的少年，8 岁摸杆、小学辍学专练，父亲丁文钧押上全家积蓄支持他南下东莞练球。首冠之后，丁俊晖同年 12 月又在英锦赛登顶，成为首位拿下英锦赛的非英伦三岛选手。",
+    "impact": "中国公开赛一票难求，台球房数量此后数年翻倍增长，斯诺克从『桌球厅』升级为全国性体面运动。",
+    "aftermath": "丁俊晖生涯共获 14 个排名赛冠军并两度打入世锦赛决赛；2010 年代以来中国军团在职业巡回赛人数过百，2025 年赵心童首夺世锦赛冠军，被普遍视为丁俊晖开拓的收获。",
+    "sources": [
+      {
+        "title": "Wikipedia：丁俊晖",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%81%E4%BF%8A%E6%99%96",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：2005 China Open",
+        "url": "https://en.wikipedia.org/wiki/2005_China_Open",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "斯诺克",
+      "丁俊晖",
+      "中国公开赛",
+      "亨德利",
+      "台球热",
+      "首冠"
+    ]
+  }
+]

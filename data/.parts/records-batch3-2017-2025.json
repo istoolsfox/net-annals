@@ -1,0 +1,891 @@
+[
+  {
+    "id": "2017-11-08-rodrigo-koxa-80-foot-wave",
+    "date": "2017-11-08",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "八十英尺巨浪被驯服：纳扎雷纪录推向新高度",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2017 年 11 月 8 日，巴西冲浪手罗德里戈·科夏在葡萄牙纳扎雷冲上一面约 80 英尺（24.4 米）的巨浪，次年经世界冲浪联盟认证为人类冲浪的最大浪，刷新了麦克纳马拉六年前的纪录。巨浪冲浪的『80 英尺时代』自此开启，向百英尺极限继续逼近。",
+    "detail": "2017 年 11 月 8 日，纳扎雷又迎来大西洋涌浪的高峰日。巴西老将罗德里戈·科夏（Rodrigo Koxa）借摩托艇拖拽冲上一面巨型浪墙，完成下滑后顺利脱离白水区。事后影像经世界冲浪联盟（WSL）大浪奖评审团联合水文学家反复测算，认定浪高约 80 英尺（24.4 米），于 2018 年 4 月正式认证为新的最大浪冲浪纪录，打破了加勒特·麦克纳马拉 2011 年的 78 英尺。科夏此前经历过冲浪重伤与低谷，领奖时数度哽咽。纳扎雷的海底峡谷再次证明自己是全球巨浪的唯一舞台，此后每个冬天，冲浪界都在等待更大的那一堵墙。",
+    "impact": "巨浪冲浪纪录的认证体系与测算标准因这次争议较少的认证趋于成熟，赛事商业化加速。",
+    "aftermath": "2020 年前后，德国选手塞巴斯蒂安·斯图德特纳在同一海域再次刷新实测浪高纪录，向百英尺极限推进；纳扎雷的巨浪观赏与小镇旅游经济持续扩张。",
+    "sources": [
+      {
+        "title": "Wikipedia：Rodrigo Koxa",
+        "url": "https://en.wikipedia.org/wiki/Rodrigo_Koxa",
+        "type": "wiki"
+      },
+      {
+        "title": "World Surf League：大浪奖认证报道",
+        "url": "https://www.worldsurfleague.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "冲浪",
+      "巨浪",
+      "纳扎雷",
+      "科夏",
+      "纪录认证",
+      "极限运动"
+    ]
+  },
+  {
+    "id": "2019-04-06-jack-cai-blindfolded-record",
+    "date": "2019-04-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "十六秒盲拧复原魔方：澳大利亚选手刷新盲拧纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2019 年 4 月 6 日，澳大利亚选手杰克·蔡在布里斯班的一场 WCA 认证赛上蒙住双眼，只用 16.22 秒便复原三阶魔方，刷新盲拧世界纪录。记忆、观察与手速三合一的盲拧项目自此进入『十六秒时代』，人类大脑与指尖的配合被推向新境界。",
+    "detail": "2019 年 4 月 6 日，在布里斯班举行的 Koalafication Brisbane 2019 认证赛上，澳大利亚魔方选手杰克·蔡（Jack Cai）在盲拧项目中跑出 16.22 秒，打破世界纪录。盲拧的流程是：观察阶段把打乱状态记入脑中并推演解法（约 10 秒内），随后戴眼罩纯凭记忆复原。蔡此前已长期统治该项目，多次刷新纪录。这一成绩后被吉尼斯世界纪录收录为『最快盲拧复原魔方』。同年 8 月，美国选手马克斯·希利亚德以 15.50 秒接棒，盲拧纪录的推进速度明显加快，顶尖选手的观察加复原总时间已逼近人类记忆与手指的生理极限。",
+    "impact": "盲拧从小众观赏项目变成速拧赛场最受关注的『玄学时刻』，记忆训练方法被系统化整理。",
+    "aftermath": "盲拧纪录此后被更快刷新，三阶盲拧平均成绩也逼近 20 秒；中国选手在此项目长期保持竞争力，多条分项纪录写有中国名字。",
+    "sources": [
+      {
+        "title": "Guinness World Records：最快盲拧魔方纪录",
+        "url": "https://www.guinnessworldrecords.com/news/2019/6/aussie-breaks-record-for-fastest-time-to-solve-a-rubiks-cube-blindfolded-578055",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Speedcubing（盲拧）",
+        "url": "https://en.wikipedia.org/wiki/Speedcubing",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "盲拧",
+      "世界纪录",
+      "杰克·蔡",
+      "布里斯班",
+      "记忆"
+    ]
+  },
+  {
+    "id": "2017-12-01-zou-lujian-wins-memory-championship",
+    "date": "2017-12-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "邹璐建登顶世界记忆锦标赛：中国再添世界记忆冠军",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2017 年 12 月，中国选手邹璐建在世界记忆锦标赛总冠军争夺中胜出，终结美国选手的连霸，成为继王峰之后中国第二位世界记忆冠军。中国军团自此在记忆竞技世界版图上站稳头部位置，训练方法与选手梯队全面成型。",
+    "detail": "2017 年 12 月，第 26 届世界记忆锦标赛举行，中国选手邹璐建在马拉松数字、快速扑克、人名面孔等十个项目中综合积分领先，击败寻求连霸的美国名将亚历克斯·穆伦等各国高手，夺得总冠军。邹璐建以超强的快速扑克与抽象图形能力著称，曾多次刷新分项世界纪录——他保持的 17 秒左右记一副扑克牌的成绩长期位居人类前列。夺冠后他把训练体系整理成教程，活跃于各类脑力节目与青少年记忆培训，中国选手在世界记忆锦标赛的领奖台上自此常态化。",
+    "impact": "记忆竞技的中国时代全面到来，国内记忆培训与脑力赛事市场随之扩大。",
+    "aftermath": "此后中国选手多次夺得世界记忆锦标赛总冠军，上海、广州等城市多次承办国际记忆赛事；邹璐建转向脑力教育创业，持续参与选手培养。",
+    "sources": [
+      {
+        "title": "Wikipedia：World Memory Championships（历届冠军）",
+        "url": "https://en.wikipedia.org/wiki/World_Memory_Championships",
+        "type": "wiki"
+      },
+      {
+        "title": "国际记忆运动联盟统计：邹璐建扑克纪录",
+        "url": "https://iam-stats.org/discipline.php?id=SPDCARDS",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "世界记忆锦标赛",
+      "邹璐建",
+      "记忆竞技",
+      "中国军团",
+      "快速扑克",
+      "脑力"
+    ]
+  },
+  {
+    "id": "2018-11-24-du-yusheng-347",
+    "date": "2018-11-24",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "三秒四七复原魔方：杜宇生改写人类速度极限",
+    "category": "culture",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "2018 年 11 月 24 日，中国大学生杜宇生在芜湖公开赛上以 3.47 秒复原三阶魔方，把此前 4.22 秒的世界纪录一下子推进了 0.75 秒，成为人类历史上第一个『四秒内』复原魔方的人。这一纪录保持了四年半，被誉为速拧史上最不可思议的一跳。",
+    "detail": "2018 年 11 月 24 日，WCA 芜湖公开赛（Wuhu Open 2018）现场，南昌职业学院模具设计专业学生杜宇生在单次复原中抓起打乱的魔方，手部几乎残影般掠过，计时器停在三秒四七——此前世界纪录是澳大利亚名将泽姆德格斯的 4.22 秒，人类已在这条赛道上争夺了六年。3.47 秒意味着平均每秒转动约 12 次，其中包含一次近乎完美的预判与运气极佳的打乱。有趣的是，同一轮里他其余几次复原成绩平平，该轮平均成绩仅排第三，但单次奇迹已然封神。这一成绩由 WCA 官方认证并引发全球媒体跟进，中国魔方热随之迎来新高潮。",
+    "impact": "中国选手首次站上三阶单次世界之巅，国内魔方培训与赛事报名人数激增。",
+    "aftermath": "3.47 秒保持至 2023 年 6 月被美国选手马克斯·帕克的 3.13 秒刷新；此后王艺衡、耿暄一等中国少年接连破纪录，中国已取代欧美成为三阶速拧的纪录主场。",
+    "sources": [
+      {
+        "title": "WCA：Wuhu Open 2018 赛事页",
+        "url": "https://www.worldcubeassociation.org/competitions/WuhuOpen2018",
+        "type": "official"
+      },
+      {
+        "title": "RuWix：杜宇生 3.47 纪录解析",
+        "url": "https://ruwix.com/blog/yusheng-du-record-347",
+        "type": "blog"
+      },
+      {
+        "title": "百度百科：杜宇生破世界纪录（校方新闻）",
+        "url": "https://www.nvu.edu.cn/mobile/show.php?contentid=7252",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "杜宇生",
+      "芜湖",
+      "3.47 秒",
+      "世界纪录"
+    ]
+  },
+  {
+    "id": "2018-03-01-mit-cube-solving-robot",
+    "date": "2018-03-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "零点三八秒复原魔方：机器人的手比肉眼还快",
+    "category": "tech",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2018 年 3 月，麻省理工学院的两位研究者发布视频：他们打造的机器人只用 0.38 秒就复原了一个三阶魔方，刷新当时机器人速拧纪录，比此前纪录快了近一倍。工业电机、定制魔方与高速视觉算法的组合，把『机器转速』推到了肉眼几乎看不清的程度。",
+    "detail": "2018 年 3 月，麻省理工学院研究生本·卡茨与贾里德·迪卡洛在个人实验室里完成了这台魔方机器人：它用六台大功率工业伺服电机分别驱动魔方六个面，配合高速摄像头识别打乱状态与求解算法，从拍摄到复原完毕仅 0.38 秒。视频中魔方的转动已快到人眼无法分辨，只能靠慢放观看。此前 2016 年德国工程师团队的机器人纪录是 0.637 秒，这一次直接砍掉了近四成时间。两位作者把设计与踩坑过程写成博客开源分享，成为硬件极客圈的名场面。",
+    "impact": "高速机电系统的极限演示成为工程教学与科普的明星案例，也再次引发『机器何时全面超越人类』的讨论。",
+    "aftermath": "此后多国团队继续挑战更快纪录，0.2 秒级的方案陆续出现；而人类选手的 3 秒级纪录在机器人面前仍保有『运气与美感』的独特性。",
+    "sources": [
+      {
+        "title": "MIT News：机器人 0.38 秒复原魔方",
+        "url": "https://news.mit.edu/2018/solving-rubiks-cube-fraction-second-0315",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Rubik's Cube（机器求解）",
+        "url": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "机器人",
+      "魔方",
+      "麻省理工",
+      "工程极客",
+      "高速电机",
+      "开源"
+    ]
+  },
+  {
+    "id": "2018-10-06-ufc-229-khabib-vs-mcgregor",
+    "date": "2018-10-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "哈比布降服麦格雷加：UFC 史上最高付费之战以混战收场",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2018 年 10 月 6 日，拉斯维加斯 UFC 229 主赛，俄罗斯『小鹰』哈比布第四回合裸绞降服爱尔兰巨星康纳·麦格雷加，守住轻量级金腰带；赛后他的队友翻出铁笼冲向对方团队，引发 UFC 史上最大规模场外混战。这场积怨两年的对决创下约 240 万次付费收看的历史纪录。",
+    "detail": "2018 年 10 月 6 日，UFC 229 在拉斯维加斯 T-Mobile 体育馆开打，主赛是轻量级冠军哈比布·努尔马戈梅多夫（Khabib Nurmagomedov）与两年前在纽约街头袭击其团队大巴而结怨的康纳·麦格雷加（Conor McGregor）。哈比布以摔跤压制与地面控制全面主导，第四回合以裸绞完成降服，把战绩提升至 27 战全胜。裁判刚宣布结果，哈比布翻出铁笼扑向麦格雷加的团队成员，其队友也跳入笼内袭击对手，全场混乱长达数分钟，多名当事人随后遭禁赛罚款。比赛前后的口水战与这场闹剧推高了商业数据：约 240 万次美国本土付费收看，至今仍是 UFC 之最。",
+    "impact": "综合格斗的话题性与商业价值被推至巅峰，也暴露出选手管理与安保的漏洞。",
+    "aftermath": "哈比布此后统一轻量级并保持 29 战全胜于 2020 年急流勇退；麦格雷加商业价值不减但再未夺得金腰带，两人的恩怨成为 UFC 十年最大的流量资产。",
+    "sources": [
+      {
+        "title": "Wikipedia：UFC 229",
+        "url": "https://en.wikipedia.org/wiki/UFC_229",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Khabib Nurmagomedov",
+        "url": "https://en.wikipedia.org/wiki/Khabib_Nurmagomedov",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "UFC",
+      "哈比布",
+      "麦格雷加",
+      "付费收看",
+      "拉斯维加斯",
+      "综合格斗"
+    ]
+  },
+  {
+    "id": "2018-12-01-joseph-saelee-ctwc-champion",
+    "date": "2018-12-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "十六岁少年登顶俄罗斯方块世锦赛：滚指时代到来",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2018 年 12 月，16 岁的华裔少年约瑟夫·李? 约瑟夫·塞利在经典俄罗斯方块世界锦标赛决赛中三比零横扫七冠王诺伊鲍尔夺冠。他用『滚指』技法突破了延续三十年的按键速度极限，把这项老游戏的竞技水平拉进了新次元。",
+    "detail": "2018 年 12 月初，经典俄罗斯方块世界锦标赛（CTWC）在美国波特兰举行决赛。16 岁的加州华裔少年约瑟夫·塞利（Joseph Saelee）首次杀入决赛，面对统治赛事七届的传奇选手乔纳斯·诺伊鲍尔（Jonas Neubauer）。塞利使用了颠覆性的『滚指』（hyper-tapping）技术——传统玩法是左右手轮流按方向键，而他用同一根手指在键上快速滚动触发连发，操作速度翻倍，得以在高速关卡存活到此前人类从未企及的高度。三比零，诺伊鲍尔的王朝就此落幕。塞利次年蝉联冠军并把纪录推得更远，一批年轻选手竞相效仿，『滚指一代』自此接管了这项运动。",
+    "impact": "三十年的技术天花板被一名少年打破，老游戏竞技的进化论有了最新注脚。",
+    "aftermath": "塞利后来多次夺冠并淡出赛场；滚指成为顶尖选手标配，2023 年后有玩家进一步用『直接滚动掌指』突破极限，最终触发了人类首次『击穿』游戏。",
+    "sources": [
+      {
+        "title": "Wikipedia：Classic Tetris World Championship",
+        "url": "https://en.wikipedia.org/wiki/Classic_Tetris_World_Championship",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Joseph Saelee",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Saelee",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "俄罗斯方块",
+      "CTWC",
+      "塞利",
+      "滚指",
+      "波特兰",
+      "复古电竞"
+    ]
+  },
+  {
+    "id": "2018-07-11-chillal-cuts-66-year-nails",
+    "date": "2018-07-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "六十六年指甲一朝剪断：印度老人告别世界最长指甲",
+    "category": "society",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2018 年 7 月 11 日，印度浦那老人什里达尔·奇拉尔在纽约剪掉了留了 66 年的左手指甲——五指总长 9.1 米，最长的一根超过两米，是全球公认的世界最长指甲。剪甲手术用了两名医护人员，他感叹此后终于能睡个安稳觉，也留下无法复原的左手永久损伤。",
+    "detail": "2018 年 7 月 11 日，82 岁的印度老人什里达尔·奇拉尔（Shridhar Chillal）在纽约雷普利『信不信由你』博物馆完成一场特殊的告别：医护用电锯般的专业工具为他剪下左手五根指甲，总长 9.1 米，其中最长的小指指甲超过两米。奇拉尔 1957 年起因与老师的一次争执立誓留甲，此后 66 年从不敢剪左手，为此左手肌肉萎缩、神经受损，无法再做重活。剪下的指甲当场被博物馆收藏展出。他此前多年以『单手最长指甲』保持吉尼斯纪录，此次剪甲仪式由博物馆策划直播，全球数百万人围观。",
+    "impact": "这一别具象征的剪甲仪式成为吉尼斯纪录文化最著名的镜头之一，也引发关于身体极限与生活代价的讨论。",
+    "aftermath": "奇拉尔此后安度晚年；博物馆的指甲展品长期展出，他的故事被多国纪录片与教材引用，成为『为纪录付出一切』的极端样本。",
+    "sources": [
+      {
+        "title": "Wikipedia：Shridhar Chillal",
+        "url": "https://en.wikipedia.org/wiki/Shridhar_Chillal",
+        "type": "wiki"
+      },
+      {
+        "title": "Guinness World Records：最长指甲纪录",
+        "url": "https://www.guinnessworldrecords.com/world-records/longest-fingernails-on-a-single-hand-ever",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "吉尼斯",
+      "奇拉尔",
+      "最长指甲",
+      "印度",
+      "人体纪录",
+      "纽约"
+    ]
+  },
+  {
+    "id": "2019-04-07-wrestlemania-35-womens-main-event",
+    "date": "2019-04-07",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "女子首次压轴摔角狂热：贝基·林奇赢得全女大战",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2019 年 4 月 7 日，第 35 届摔角狂热在纽约大都会人寿体育场收官，贝基·林奇在三重威胁赛中同时击败隆达·罗西与夏洛特·弗莱尔，包揽两条女子冠军腰带——这是创办三十五年来女子比赛第一次被放在压轴主赛位置，女性选手在摔角行业的地位就此改写。",
+    "detail": "2019 年 4 月 7 日，WWE 摔角狂热 35 在新泽西州大都会人寿体育场举行，压轴主赛史无前例地交给女子选手：贝基·林奇（Becky Lynch）、隆达·罗西（Ronda Rousey）与夏洛特·弗莱尔（Charlotte Flair）进行『赢家通吃』三重威胁赛，胜者同时持有两条品牌女子冠军腰带。赛前林奇以『The Man』人设红遍全网，罗西则从前 UFC 冠军转行而来，话题度爆表。比赛约 21 分钟，最终林奇在混乱中压制罗西获胜，全场数万人起立欢呼。这是 1985 年摔角狂热创办以来女子第一次打压轴，也兑现了 WWE 数年前推动的『女子革命』承诺。",
+    "impact": "女子摔角的行业地位被制度性确认，其比赛时长、剧情权重与商业价值全面对齐男子主赛。",
+    "aftermath": "此后摔角狂热多次由女子比赛担纲重要时段，2021 年起两大女子品牌赛并行发展；罗西、林奇与弗莱尔成为体育娱乐最卖座的女性明星。",
+    "sources": [
+      {
+        "title": "Wikipedia：WrestleMania 35",
+        "url": "https://en.wikipedia.org/wiki/WrestleMania_35",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Becky Lynch",
+        "url": "https://en.wikipedia.org/wiki/Becky_Lynch",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "职业摔角",
+      "WWE",
+      "女子主赛",
+      "贝基·林奇",
+      "隆达·罗西",
+      "女性突破"
+    ]
+  },
+  {
+    "id": "2019-10-02-aew-dynamite-debut",
+    "date": "2019-10-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "AEW 周赛首播：摔角收视大战时隔十八年重燃",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2019 年 10 月 2 日，新联盟全精英摔角（AEW）的周赛《Dynamite》在 TNT 电视台开播，首期收视力压对手登上周三档第一。这是 2001 年 WCW 倒下后北美第一次出现真正能与 WWE 分庭抗礼的摔角公司，摔角行业重新进入双雄时代。",
+    "detail": "2019 年 10 月 2 日，由富豪沙希德·汗家族注资、科迪·罗兹与青年双打组合等独立摔角明星发起的全精英摔角（All Elite Wrestling）推出旗舰周赛《AEW Dynamite》，首期在华盛顿特区的体育馆录制并在 TNT 电视台黄金档直播，收视人数登顶当晚有线电视榜单。AEW 打出的旗号是尊重摔角本身：更长的比赛时间、更硬核对打、给选手创作自由，并签下杰里科等巨星。此前 WWE 已独自统治北美摔角十八年，没有资本与渠道敢正面挑战。Dynamite 的稳定播出让独立摔角选手第一次拥有了大规模就业与成名平台。",
+    "impact": "摔角行业的雇佣市场与叙事风格被重新激活，双雄竞争让观众重新有了选择权。",
+    "aftermath": "AEW 此后每年举办多场付费大赛并扩展国际巡演；WWE 则以更大的资本与流媒体布局应对，两家的人才流动与收视比拼延续至今。",
+    "sources": [
+      {
+        "title": "Wikipedia：AEW Dynamite",
+        "url": "https://en.wikipedia.org/wiki/AEW_Dynamite",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：All Elite Wrestling",
+        "url": "https://en.wikipedia.org/wiki/All_Elite_Wrestling",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "AEW",
+      "职业摔角",
+      "收视大战",
+      "TNT",
+      "独立摔角",
+      "行业竞争"
+    ]
+  },
+  {
+    "id": "2020-05-02-hafthor-501-deadlift",
+    "date": "2020-05-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "501 公斤硬拉：『魔山』在自家健身房改写力量纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2020 年 5 月 2 日，因疫情被困冰岛家中的哈夫索尔·比约恩松——美剧《权力的游戏》中『魔山』的扮演者——在自家健身房直播中硬拉起 501 公斤，打破艾迪·霍尔保持近四年的 500 公斤纪录。隔着屏幕围观的全球力量迷见证了第一根『五百公斤俱乐部』易主的时刻。",
+    "detail": "2020 年 5 月 2 日，冰岛大力士、演员哈夫索尔·比约恩松（Hafþór Björnsson）在自家健身房进行了一场线上直播挑战。与霍尔 2016 年赛场硬拉不同，这次挑战没有现场观众与正式赛事加持，全程直播、由裁判与认证人员在场判定。他完成多次尝试后成功拉起 501 公斤——比霍尔的原纪录多一公斤。霍尔的助手与部分力量圈人士当场质疑其器材与场地标准，两人隔空口水战延续数年。比约恩松身高两米零六，因饰演《权力的游戏》『魔山』而全球闻名，此前已是欧洲最强男人赛常客。",
+    "impact": "硬拉纪录首次突破 500 公斤大关，线上直播认证也成为疫情时代体育挑战的新形态。",
+    "aftermath": "比约恩松 2023 年退役转型拳击与商业；霍尔与他 2022 年举办了一场表演赛握手言和，500 公斤俱乐部的口水战就此翻篇。",
+    "sources": [
+      {
+        "title": "Wikipedia：Hafþór Júlíus Björnsson",
+        "url": "https://en.wikipedia.org/wiki/Haf%C3%BE%C3%B3r_J%C3%BAl%C3%ADus_Bj%C3%B6rnsson",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Deadlift（世界纪录演进）",
+        "url": "https://en.wikipedia.org/wiki/Deadlift",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大力士",
+      "硬拉",
+      "501 公斤",
+      "魔山",
+      "冰岛",
+      "直播挑战"
+    ]
+  },
+  {
+    "id": "2020-08-12-cctv-criticizes-mukbang",
+    "date": "2020-08-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "央视点名『大胃王』吃播：浪费争议下的行业急刹车",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2020 年 8 月 12 日，央视新闻节目点名批评部分『大胃王』吃播：假吃催吐、暴饮暴食、误导消费，严重浪费粮食。各大平台随即下架整治相关内容，火了两年的大胃王直播赛道急刹车，也引发了关于吃播文化、粮食安全与流量伦理的全民讨论。",
+    "detail": "2020 年 8 月 12 日，央视新闻播出《一粥一饭不易和『餐饮浪费』说不》等报道，批评网络吃播中的『大胃王』乱象：有的主播靠剪辑假吃、有的催吐保持身材、以『能吃』为噱头博取流量，与节约粮食的社会导向背道而驰。报道引用联合国粮农组织数据称全球每年约三分之一粮食被损耗浪费。随后抖音、快手、B 站等平台迅速行动，对涉嫌浪费的吃播内容限流下架，多家 MCN 机构停更大胃王账号，一些头部主播转型美食探店或健身内容。这场整顿发生在全国倡导『光盘行动』的背景下，被视为平台内容治理与主流价值观共振的标志性事件。",
+    "impact": "吃播行业的流量逻辑被强制改写，『大胃王』作为内容品类在中国迅速退潮。",
+    "aftermath": "此后大胃王内容转向海外平台或地下化；健康饮食、光盘行动成为平台扶持的正向内容方向，2024 年仍有媒体回访『大胃王』借深夜怪异吃播回潮的现象。",
+    "sources": [
+      {
+        "title": "观察者网：央视批评大胃王吃播",
+        "url": "https://www.guancha.cn/politics/2020_08_13_561261.shtml",
+        "type": "news"
+      },
+      {
+        "title": "人民日报（人民周刊）：让变味的吃播回归正途",
+        "url": "http://paper.people.com.cn/rmzk/html/2020-09/14/content_2008816.htm",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "吃播",
+      "大胃王",
+      "央视",
+      "浪费",
+      "平台治理",
+      "流量伦理"
+    ]
+  },
+  {
+    "id": "2021-03-27-sobat-2437-static-apnea-record",
+    "date": "2021-03-27",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "二十四分三十七秒：人类闭气时长的吉尼斯极限",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 3 月 27 日，克罗地亚自由潜水员布迪米尔·肖巴特在锡萨克水池中闭气 24 分 37 秒，刷新『自愿闭气最长时间』吉尼斯世界纪录。在提前吸纯氧储备的条件下，人类把『一口气』的极限推进到了将近半个钟头。",
+    "detail": "2021 年 3 月 27 日，52 岁的克罗地亚人布迪米尔·肖巴特（Budimir Šobat）在锡萨克一座泳池的静态闭气挑战中，将脸埋入水下 24 分 37.36 秒，刷新了由他自己保持的吉尼斯世界纪录。此类挑战采用『纯氧预呼吸』规则：下水前先吸约 20 分钟纯氧，大幅提高血液氧储量，属吉尼斯认证的『静态闭气（纯氧辅助）』项目；即便如此，24 分钟以上仍伴随极高的黑视与脑损伤风险，现场配有医护与计时监督。肖巴特此前于 2020 年 12 月创下 24 分 11 秒的原纪录，这次把成绩又提高 26 秒。他数十年从事自由潜水训练，是该项目的世界顶尖选手。",
+    "impact": "人类闭气极限被明确定格在 24 分半量级，静态闭气的生理学研究因这类挑战获得珍贵数据。",
+    "aftermath": "肖巴特的纪录至今仍是该项目吉尼斯世界纪录；竞技自由潜水的静态闭气（无纯氧辅助）纪录则在 11 至 12 分钟区间，两条曲线各自演进。",
+    "sources": [
+      {
+        "title": "Guinness World Records：肖巴特 24:37 纪录",
+        "url": "https://www.guinnessworldrecords.com/world-records/longest-time-breath-held-voluntarily",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Budimir Šobat",
+        "url": "https://en.wikipedia.org/wiki/Budimir_%C5%A0obat",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "闭气",
+      "自由潜水",
+      "吉尼斯",
+      "肖巴特",
+      "克罗地亚",
+      "人体极限"
+    ]
+  },
+  {
+    "id": "2021-04-24-ufc-261-full-capacity-return",
+    "date": "2021-04-24",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "一万五千人满场回归：UFC 261 打开疫情后体育大门",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 4 月 24 日，UFC 261 在佛罗里达州杰克逊维尔的体育馆迎来一万五千名满场观众，成为北美疫情以来第一场满座的职业体育赛事。三场冠军战全部以终结结束，欢呼声浪通过转播传遍世界——体育场馆的满座时代自此重启。",
+    "detail": "2021 年 4 月 24 日，UFC 261 在佛罗里达州杰克逊维尔的退伍军人纪念体育馆举行，主办方在州政府许可下全额开放约 1.5 万个座位，是北美自 2020 年 3 月疫情封锁以来第一场满座的大型职业赛事。当晚三场冠军战全部以终结结束：次中量级之王乌斯曼重拳终结马斯维达尔，女将纳马尤纳斯一记头踢首回合爆冷终结卫冕冠军张伟丽，震动全球华人体育圈，蝇量级女王舍甫琴科亦以终结方式卫冕。现场观众的欢呼声成为转播里的『新常态』，被其他联盟视为复赛样板。",
+    "impact": "职业体育的满座时代由格斗率先重启，场馆经济与巡演赛制随之恢复。",
+    "aftermath": "此后各联盟陆续恢复满场；张伟丽在半年后复仇成功重夺金腰带，成为中文互联网的励志经典；UFC 261 被评为年度最佳赛事之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：UFC 261",
+        "url": "https://en.wikipedia.org/wiki/UFC_261",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Zhang Weili",
+        "url": "https://en.wikipedia.org/wiki/Zhang_Weili",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "UFC",
+      "满场回归",
+      "疫情",
+      "杰克逊维尔",
+      "张伟丽",
+      "体育重启"
+    ]
+  },
+  {
+    "id": "2021-07-04-joey-chestnut-76-hot-dogs",
+    "date": "2021-07-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "七十六个热狗：切斯纳特把人类极限再推一格",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 7 月 4 日，乔伊·切斯纳特在纽约内森杯热狗大赛的 10 分钟里吞下 76 个热狗，刷新自己保持的世界纪录。观赛人数因疫情线上化暴涨，这位竞食之王的个人表演把大胃王运动的极限数字定格在『七十六』。",
+    "detail": "2021 年 7 月 4 日，纽约科尼岛内森杯国际热狗大胃王大赛在疫情限流下回归，现场观众稀少、线上围观暴涨。37 岁的卫冕冠军乔伊·切斯纳特从开场就保持恐怖节奏，最终以 76 个热狗（含面包）刷新个人 2018 年创造的 74 个纪录，再度改写人类竞食的天花板。赛后他坦言目标本来就是 76——一个从训练数据里推算出来的整数。他的主要对手斯托尼当年缺席，切斯纳特就此完成对 2015 年爆冷失利的彻底翻篇，继续把纪录与自己深度绑定。",
+    "impact": "竞食运动的标志性数字被推到 76，线上转播让这一传统赛事获得直播时代的新观众。",
+    "aftermath": "切斯纳特此后多年继续卫冕；2025 年他因代言冲突缺席正赛，转而在别处独自吃下 70 多个以证实力，纪录至今无人接近。",
+    "sources": [
+      {
+        "title": "Wikipedia：Joey Chestnut",
+        "url": "https://en.wikipedia.org/wiki/Joey_Chestnut",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Nathan's Hot Dog Eating Contest",
+        "url": "https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大胃王",
+      "热狗大赛",
+      "切斯纳特",
+      "76 个",
+      "纪录",
+      "纽约"
+    ]
+  },
+  {
+    "id": "2021-07-25-horigome-first-olympic-street-gold",
+    "date": "2021-07-25",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "奥运滑板第一金：堀米雄斗为滑板正名",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 7 月 25 日，东京奥运会男子滑板街式决赛在有明城市运动公园决出，22 岁的日本选手堀米雄斗最后一轮反超夺冠，成为奥运历史上第一位滑板金牌得主。街头的孩子终于站上了奥运最高领奖台，滑板的百年? 半个世纪的反叛史翻开了正式竞技的一页。",
+    "detail": "2021 年 7 月 25 日，延迟一年的东京奥运会滑板男子街式决赛在有明城市运动公园举行，这是滑板运动自上世纪诞生以来首次进入奥运赛场。决赛采取『公园线路+大绝招』双赛制，巴西、美国、日本好手轮番冲击。最后一轮，来自东京的 22 岁选手堀米雄斗（Yuto Horigome）顶住压力完成高质量绝招组合，以 37.18 分反超巴西人凯尔文·霍夫勒夺得金牌——他在自己家门口、滑板文化盛行的城市为这项运动摘下奥运首金。赛后颁奖礼上选手们以滑板文化的方式互相致意，画面传遍全球。",
+    "impact": "滑板完成从街头亚文化到奥运正式项目的加冕，全球滑板产业与青少年参与度随之升温。",
+    "aftermath": "堀米雄斗 2024 年巴黎奥运成功卫冕街式金牌；滑板此后在洛杉矶奥运周期继续扩张分项，职业联赛与奥运体系的融合持续深化。",
+    "sources": [
+      {
+        "title": "Wikipedia：Yuto Horigome",
+        "url": "https://en.wikipedia.org/wiki/Yuto_Horigome_(skateboarder)",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Skateboarding at the 2020 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/Skateboarding_at_the_2020_Summer_Olympics",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "滑板",
+      "奥运会",
+      "堀米雄斗",
+      "街式",
+      "首金",
+      "东京"
+    ]
+  },
+  {
+    "id": "2021-07-26-nishiya-momiji-13-year-old-gold",
+    "date": "2021-07-26",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "十三岁西矢椛夺冠：奥运滑板女子首金与最年轻纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 7 月 26 日，东京奥运会女子滑板街式决赛，13 岁的日本选手西矢椛以 15.26 分逆转夺冠，成为奥运滑板史上第一位女子冠军，也是亚洲最年轻的奥运冠军之一。她在领奖台上的稚嫩笑容，成为这届奥运最出圈的画面之一。",
+    "detail": "2021 年 7 月 26 日，东京奥运会女子滑板街式决赛举行，13 岁的日本选手西矢椛（Momiji Nishiya）在大绝招轮次顶住压力完成高质量动作，以 15.26 分力压巴西名将蕾尔·席尔瓦与日本队友中山枫奈夺冠。出生于 2007 年的她彼时只有 13 岁 11 个月，成为奥运史上最年轻的冠军之一，也是日本奥运史上最年轻的金牌得主。决赛现场几乎全是十几岁的选手，观众第一次直观看到滑板项目的『少年化』图景。女子滑板的奥运首秀与男子一样引发全球收视热潮，滑板品牌的少女产品线随之被点燃。",
+    "impact": "女子滑板完成奥运加冕，『少年冠军』现象推动各国青训体系加速布局。",
+    "aftermath": "西矢椛此后多年统治世界排名并入选 2024 年巴黎奥运，14 岁的英国小将 Sky Brown 等新一代继续涌现，女子滑板的竞技与商业版图快速扩大。",
+    "sources": [
+      {
+        "title": "Wikipedia：Momiji Nishiya",
+        "url": "https://en.wikipedia.org/wiki/Momiji_Nishiya",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Skateboarding at the 2020 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/Skateboarding_at_the_2020_Summer_Olympics",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "滑板",
+      "西矢椛",
+      "奥运首金",
+      "最年轻",
+      "东京",
+      "女子竞技"
+    ]
+  },
+  {
+    "id": "2021-08-05-sport-climbing-olympic-debut-gold",
+    "date": "2021-08-05",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "攀岩奥运首金：西班牙少年希内斯全能登顶",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2021 年 8 月 5 日，东京奥运会运动攀岩男子全能决赛落幕，18 岁的西班牙选手阿尔贝托·希内斯在速度、抱石、难度三合一的赛制中综合胜出，摘得奥运史上第一枚攀岩金牌。次日斯洛文尼亚名将加恩布雷特夺女子金牌，攀岩自此有了奥运冠军谱系。",
+    "detail": "2021 年 8 月 5 日，东京奥运会运动攀岩男子全能决赛在青海城市运动公园举行，赛制为速度赛、抱石赛与难度赛三项积分相加——这一『三项合一』的特殊赛制引来不少职业选手抱怨，却成就了历史性时刻。18 岁的西班牙少年阿尔贝托·希内斯·洛佩斯（Alberto Ginés López）在抱石与难度两项中稳定发挥，力压美国名将科尔曼与奥地利好手舒伯特夺冠。8 月 6 日，女子全能决赛中世界排名第一的斯洛文尼亚选手亚尼娅·加恩布雷特（Janja Garnbret）毫无悬念登顶。中国选手潘愚非、宋懿龄亦参赛，完成中国攀岩奥运首秀。",
+    "impact": "攀岩完成奥运首秀，从户外小众运动变成有奖牌、有转播的竞技项目，室内岩馆产业随之提速。",
+    "aftermath": "2024 年巴黎奥运将速度攀岩单列为独立项目，中国速度攀岩队一举成名；希内斯与加恩布雷特此后仍是最具统治力的选手之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：Sport climbing at the 2020 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/Sport_climbing_at_the_2020_Summer_Olympics",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Alberto Ginés López",
+        "url": "https://en.wikipedia.org/wiki/Alberto_Gin%C3%A9s_L%C3%B3pez",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "攀岩",
+      "奥运会",
+      "希内斯",
+      "全能赛",
+      "东京",
+      "首金"
+    ]
+  },
+  {
+    "id": "2021-06-05-xu-ruihang-chinese-average-record",
+    "date": "2021-06-05",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "五秒四八平均：许瑞航为中国拿下首个三阶平均纪录",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2021 年 6 月 5 日，13 岁的浙江丽水少年许瑞航在武汉魔方公开赛上以平均 5.48 秒复原三阶魔方，为中国拿下第一个三阶平均世界纪录。单次纪录靠『神来一笔』，平均纪录才代表稳定实力——中国速拧自此从奇迹走向统治。",
+    "detail": "2021 年 6 月 5 日，WCA 武汉魔方公开赛现场，13 岁的许瑞航在五次复原中取得 5.48 秒的平均成绩（去掉最快与最慢后取中间三次均值），打破世界纪录，成为首位在三阶平均项目上登顶世界的中国选手。他此前已在国内外赛场崭露头角，并追平过 3.47 秒的单次世界纪录。与单次纪录的运气成分不同，平均纪录需要整场比赛的稳定输出，被视为衡量顶尖选手综合实力的标尺。许瑞航以流畅的复原路径与冷静的心态著称，被视为中国速拧『Z 世代』的代表人物。",
+    "impact": "中国速拧从『单次奇迹』进化到『平均统治』，国内训练体系与魔方研发能力获得世界级认证。",
+    "aftermath": "此后三阶平均纪录长期在中国选手间流转：许瑞航、王艺衡先后刷新，2025 年前后平均纪录已推进到 3.9 秒区间；中国魔方产业与美国、匈牙利厂商并驾齐驱。",
+    "sources": [
+      {
+        "title": "百度百科：许瑞航",
+        "url": "https://baike.baidu.com/item/%E8%AE%B8%E7%91%9E%E8%88%AA/57256856",
+        "type": "wiki"
+      },
+      {
+        "title": "WCA：许瑞航个人成绩页",
+        "url": "https://www.worldcubeassociation.org/persons/2016XURU01",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "许瑞航",
+      "平均纪录",
+      "武汉",
+      "中国速拧"
+    ]
+  },
+  {
+    "id": "2022-05-02-osullivan-seventh-world-title",
+    "date": "2022-05-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "奥沙利文第七冠：追平亨德利的克鲁斯堡传奇",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2022 年 5 月 2 日，46 岁的罗尼·奥沙利文在谢菲尔德克鲁斯堡以 18 比 13 击败特鲁姆普，第七次捧起斯诺克世锦赛冠军奖杯，追平亨德利的纪录，同时成为斯诺克史上最年长的世锦赛冠军。四十岁后的他反而越打越强，成为竞技体育『常青』的教科书。",
+    "detail": "2022 年 5 月 2 日，斯诺克世锦赛决赛在谢菲尔德克鲁斯堡剧院结束，罗尼·奥沙利文（Ronnie O'Sullivan）与贾德·特鲁姆普战至第二阶段后段仍胶着，最终以 18 比 13 取胜，第七次登顶世锦赛，追平斯蒂芬·亨德利保持的现代纪录。46 岁的他也超越 1978 年的雷登，成为史上最年长的世锦赛冠军。赛后他与家人相拥，坦言职业生涯的『迟来的圆满』。奥沙利文 1993 年转职业，生涯 ranking 冠军数此后继续刷新至四十余个，单杆破百总数更是历史第一，『火箭』的长青与争议并存，但七冠让他坐稳『史上最伟大』的讨论中心。",
+    "impact": "斯诺克运动的传承叙事达到高潮，老将与新生代的对抗成为此后几年的主线。",
+    "aftermath": "此后奥沙利文仍保持顶级竞争力与世界第一排名；七冠纪录在 2020 年代中期仍是并列最多，他四十余个排名赛冠军与历史第一的破百杆数延续着传奇。",
+    "sources": [
+      {
+        "title": "Wikipedia：2022 World Snooker Championship",
+        "url": "https://en.wikipedia.org/wiki/2022_World_Snooker_Championship",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Ronnie O'Sullivan",
+        "url": "https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "斯诺克",
+      "奥沙利文",
+      "第七冠",
+      "克鲁斯堡",
+      "特鲁姆普",
+      "常青"
+    ]
+  },
+  {
+    "id": "2022-10-04-chess-com-niemann-report",
+    "date": "2022-10-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "七十二页作弊报告：国际象棋的信任危机",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2022 年 10 月 4 日，国际象棋平台发布 72 页调查报告，指认美国新星尼曼在线上对局中长期作弊，但表示没有他线下作弊的证据。事件源于 9 月尼曼爆冷击败世界冠军卡尔森后卡尔森愤而退赛，风波席卷整个棋坛，反作弊体系自此全面升级。",
+    "detail": "2022 年 9 月 4 日，19 岁的美国棋手汉斯·尼曼（Hans Niemann）在圣路易斯辛克菲尔德杯上战胜世界第一马格努斯·卡尔森，次日卡尔森罕见退赛，随即在另一场比赛开局一步即认输以示抗议。舆论开始疯狂猜测作弊手段，甚至出现『无线装置』等阴谋论，尼曼坚决否认。10 月 4 日，国际象棋平台 Chess.com 发布 72 页调查报告：尼曼曾在线上对局中作弊超过百局并一度被封号，但报告称『没有证据表明他线下比赛作弊』。美国棋联与辛克菲尔德杯组委会随后启动独立调查，最终也未发现线下作弊实据。这场风波让国际象棋的反作弊讨论达到前所未有的高度。",
+    "impact": "顶级赛事的反作弊检测、延迟转播与金属探测等手段全面升级，棋手与平台的信任契约被重写。",
+    "aftermath": "尼曼起诉卡尔森与平台的诉讼于 2024 年达成和解；事件持续影响新生代棋手的公众形象，关于 AI 时代棋力佐证的讨论延续至今。",
+    "sources": [
+      {
+        "title": "Wikipedia：Hans Niemann",
+        "url": "https://en.wikipedia.org/wiki/Hans_Niemann",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Magnus Carlsen",
+        "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "国际象棋",
+      "作弊风波",
+      "尼曼",
+      "卡尔森",
+      "反作弊",
+      "信任危机"
+    ]
+  },
+  {
+    "id": "2023-06-11-max-park-313",
+    "date": "2023-06-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "三秒一三：马克斯·帕克终结杜宇生时代",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2023 年 6 月 11 日，美国选手马克斯·帕克在加州长滩的认证赛上以 3.13 秒复原三阶魔方，打破了杜宇生保持四年半的 3.47 秒世界纪录。这位纪录片《速拧者》里走出的自闭症谱系少年，把人类速度极限再一次向前推动。",
+    "detail": "2023 年 6 月 11 日，加州长滩的 Pride in Long Beach 2023 认证赛上，21 岁的马克斯·帕克（Max Park）在单次复原中跑出 3.13 秒，一举打破杜宇生 2018 年创造、保持了四年半之久的 3.47 秒世界纪录。帕克幼年确诊自闭症谱系障碍，父亲用魔方训练他的手部精细动作与专注力，他最终成长为世界顶尖选手，其成长故事被 Netflix 纪录片《速拧者》（The Speed Cubers）记录并感动全球观众。3.13 秒的成绩证明单次纪录的重心已从『运气』转向『稳定输出的上限』。次年 2 月，中国 11 岁少年王艺衡以 3.08 秒接棒，纪录争夺回到中美少年对决的格局。",
+    "impact": "杜宇生时代的落幕标志着速拧纪录进入『三秒区间』，纪录片与短视频让速拧选手第一次拥有大众粉丝。",
+    "aftermath": "帕克此后仍稳居世界前三并多次刷新平均纪录；三阶单次纪录在其后两年内被王艺衡与耿暄一连续刷新至 3.05 秒。",
+    "sources": [
+      {
+        "title": "Wikipedia：Max Park",
+        "url": "https://en.wikipedia.org/wiki/Max_Park",
+        "type": "wiki"
+      },
+      {
+        "title": "RuWix：Max Park 3.13 世界纪录",
+        "url": "https://ruwix.com/blog/",
+        "type": "blog"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "马克斯·帕克",
+      "3.13 秒",
+      "自闭症",
+      "纪录片"
+    ]
+  },
+  {
+    "id": "2023-12-21-willis-gibson-beats-tetris",
+    "date": "2023-12-21",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "十三岁少年『击穿』俄罗斯方块：人类首次逼死游戏",
+    "category": "culture",
+    "region": "world",
+    "milestone": true,
+    "summary_30s": "2023 年 12 月 21 日，13 岁的美国少年威利斯·吉布森在直播中把 1989 年版俄罗斯方块打到第 157 关，触发游戏崩溃『击穿』画面——此前只有人工智能程序做到过。人类第一次在这个游戏里逼死自己设计的规则，一段持续三十余年的极限传说就此改写。",
+    "detail": "2023 年 12 月 21 日，俄克拉何马州 13 岁少年威利斯·吉布森（Willis Gibson，网名 Blue Scuti）在直播中挑战 NES 原版俄罗斯方块。他使用滚指技术一路冲过此前人类从未到达的关卡，最终在第 157 关触发游戏崩溃：画面冻结、方块堆叠错乱——这就是玩家所说的『击穿』（kill screen），过去三十年里只有研究者用人工智能工具实现过，人手从未做到。游戏崩溃瞬间他低声说『我要昏过去了』。几天后视频被主流媒体发现，全网为之轰动。游戏设计的极限，第一次被人类反应速度与预案推到了尽头。",
+    "impact": "复古游戏竞技的『人类不可能』叙事被终结，经典游戏研究、反应速度训练与社区文化获得空前的主流关注。",
+    "aftermath": "此后几个月内多名选手相继复制击穿，纪录向更低年龄与更短时间推进；学界开始研究高速决策下的青少年认知极限，CTWC 专门增设『击穿』纪念环节。",
+    "sources": [
+      {
+        "title": "Wikipedia：Willis Gibson",
+        "url": "https://en.wikipedia.org/wiki/Willis_Gibson",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Classic Tetris World Championship",
+        "url": "https://en.wikipedia.org/wiki/Classic_Tetris_World_Championship",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "俄罗斯方块",
+      "击穿",
+      "吉布森",
+      "速通",
+      "人类首次",
+      "复古游戏"
+    ]
+  },
+  {
+    "id": "2024-11-15-jake-paul-vs-mike-tyson",
+    "date": "2024-11-15",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "网红拳手对阵 58 岁泰森：流媒体时代的『世纪之战』",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2024 年 11 月 15 日，27 岁的网红拳手杰克·保罗在达拉斯用八回合点数击败 58 岁的拳王迈克·泰森。这场比赛由流媒体平台独家直播，全球数千万家庭同时观看，创下体育直播的观看纪录，也引发了『表演赛还是体育』的持久争论。",
+    "detail": "2024 年 11 月 15 日，YouTube 出身、转型职业拳手的杰克·保罗（Jake Paul）与前重量级世界冠军迈克·泰森（Mike Tyson）在达拉斯的 AT&T 体育场交手。比赛由流媒体平台 Netflix 全球独家直播，平台方面称全球约有 6000 万家庭同时在线，峰值流量导致部分用户卡顿，创下流媒体体育赛事观看纪录。58 岁的泰森自 2005 年退役后首次正式回归拳台，前两回合偶有重拳惊现，但整体节奏缓慢，八回合后三位裁判一致判保罗点数获胜。赛前炒作与赛中落差让舆论分成两派：一边惊叹流媒体改写了体育消费，一边批评这是对竞技体育的消解。",
+    "impact": "流媒体平台第一次以独家体育大事件证明了自己的承载与商业化能力，拳击表演赛模式被重新定价。",
+    "aftermath": "此后 Netflix 继续买下多场格斗赛事直播权；泰森宣布这是生涯最后一战，保罗则继续挑战退役老将与职业选手的混合赛程。",
+    "sources": [
+      {
+        "title": "Wikipedia：Jake Paul vs. Mike Tyson",
+        "url": "https://en.wikipedia.org/wiki/Jake_Paul_vs._Mike_Tyson",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Mike Tyson",
+        "url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "拳击",
+      "泰森",
+      "保罗",
+      "流媒体",
+      "表演赛",
+      "直播纪录"
+    ]
+  },
+  {
+    "id": "2025-02-16-yiheng-wang-308-record",
+    "date": "2025-02-16",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "三秒零八：11 岁的王艺衡同时握有魔方单次与平均纪录",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2025 年 2 月 16 日，11 岁的中国少年王艺衡在马来西亚的一场魔方公开赛上以 3.08 秒复原三阶魔方，打破马克斯·帕克的单次世界纪录，并由此成为历史上第一位同时保持三阶单次与平均两项世界纪录的选手。中国少年第一次全面统治速拧最高领奖台。",
+    "detail": "2025 年 2 月 16 日，在马来西亚举行的 XMUM Cube Open 2025（厦门大学马来西亚分校承办）现场，11 岁的王艺衡（Yiheng Wang）以 3.08 秒的单次成绩刷新世界纪录，把马克斯·帕克的 3.13 秒又推进了一格。王艺衡自 9 岁起多次刷新三阶平均世界纪录——2023 年 3 月他在吉隆坡以 4.69 秒首破平均纪录时年仅 9 岁，此后一路推进到 3.9 秒区间。3.08 秒让他同时持有单次与平均两项世界纪录，成为速拧史上最年轻的『双纪录王』。",
+    "impact": "中国少年选手完成对三阶速拧两条纪录线的全面接管，国内魔方教育与竞技体系受到空前关注。",
+    "aftermath": "两个月后的 4 月 13 日，更年轻的耿暄一以 3.05 秒再度刷新单次纪录，中国选手包揽单次与平均双榜；速拧的『中国少年时代』正式开始。",
+    "sources": [
+      {
+        "title": "百度百科：王艺衡",
+        "url": "https://baike.baidu.com/item/%E7%8E%8B%E8%89%BA%E8%A1%A1/62834111",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Yiheng Wang",
+        "url": "https://en.wikipedia.org/wiki/Yiheng_Wang",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "王艺衡",
+      "3.08 秒",
+      "双纪录",
+      "马来西亚"
+    ]
+  },
+  {
+    "id": "2025-04-13-geng-xuanyi-305-record",
+    "date": "2025-04-13",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "三秒零五：耿暄一再破魔方世界纪录，少年纪录继续内卷",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2025 年 4 月 13 日，中国少年选手耿暄一在沈阳春季魔方赛上以 3.05 秒复原三阶魔方，打破王艺衡两个月前创造的 3.08 秒世界纪录。人类复原魔方的极限被推进到三秒边缘，纪录开始在十几岁的中国少年之间来回易主。",
+    "detail": "2025 年 4 月 13 日，WCA 沈阳春季魔方赛复赛现场，耿暄一（Xuanyi Geng）在单次复原中跑出 3.05 秒，打破王艺衡 2025 年 2 月创造的 3.08 秒世界纪录。从杜宇生 2018 年的 3.47 秒，到马克斯·帕克的 3.13 秒、王艺衡的 3.08 秒再到耿暄一的 3.05 秒，三阶单次纪录在七年间被推进了 0.42 秒，且最近两次刷新全部出自十几岁的中国少年之手。这一成绩令全球魔方社区震动：按照当前的训练体系与器材水平，人类正逼近三秒大关。同年夏天，耿暄一等中国少年赴美国西雅图参加世界魔方锦标赛，继续取得佳绩。",
+    "impact": "三阶速拧正式进入『三秒区间倒计时』，中国青少年魔方训练体系成为世界公认的最强流水线。",
+    "aftermath": "此后单次纪录仍在中国少年之间快速流转，平均纪录也由王艺衡等继续刷新；海外社区开始讨论下一代训练方法与人工智能辅助复盘的边界。",
+    "sources": [
+      {
+        "title": "维基百科：耿暄一",
+        "url": "https://zh.wikipedia.org/wiki/%E8%80%BF%E6%9A%84%E4%B8%80",
+        "type": "wiki"
+      },
+      {
+        "title": "魔方小站：耿暄一破纪录报道",
+        "url": "https://maru.tw/2025-4-13-xuanyi-geng-break-3x3-wr-3-05",
+        "type": "blog"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "耿暄一",
+      "3.05 秒",
+      "沈阳",
+      "少年内卷"
+    ]
+  }
+]

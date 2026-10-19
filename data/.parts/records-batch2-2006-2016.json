@@ -1,0 +1,988 @@
+[
+  {
+    "id": "2006-03-11-first-world-sudoku-championship",
+    "date": "2006-03-11",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届世界数独锦标赛在卢卡开赛：九宫格有了世界冠军",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2006 年 3 月，来自 22 个国家的选手齐聚意大利卢卡，争夺第一个世界数独锦标赛冠军头衔。捷克 31 岁女会计师雅娜·蒂洛娃连胜决赛三轮登顶。借着全球数独热潮的东风，纸上谜题从此有了年度世界大赛，各国选手开始为一张九宫格集训。",
+    "detail": "数独在 2005 年前后席卷全球报章后，世界谜题联合会与意大利《共和报》决定趁热打铁，在托斯卡纳古城卢卡举办首届世界数独锦标赛（World Sudoku Championship）。比赛于 2006 年 3 月 10 日开幕、11 日收官，选手除标准数独外还要应对对角线、异形宫、杀手数独等变形题，按解题速度与正确率积分。决赛中，来自捷克的会计师雅娜·蒂洛娃（Jana Tylová）击败美国斯坦福学生托马斯·斯奈德等强手夺冠，成为首位数独世界冠军。这项赛事自此后每年举办一届，中国自 2007 年起组队参赛，并承办过 2013 年北京世锦赛。",
+    "impact": "数独从报纸休闲版块升格为正式国际智力竞技项目，各国数独协会与国家队体系相继建立。",
+    "aftermath": "世界数独锦标赛至今每年举办；智利、中国、印度等承办地轮换，速解选手的平均用时逐年刷新，手机数独应用的段位赛也继承了同一套打法。",
+    "sources": [
+      {
+        "title": "Wikipedia：World Sudoku Championship",
+        "url": "https://en.wikipedia.org/wiki/World_Sudoku_Championship",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Jana Tylová",
+        "url": "https://en.wikipedia.org/wiki/Jana_Tylov%C3%A1",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "数独",
+      "世界锦标赛",
+      "智力竞技",
+      "卢卡",
+      "蒂洛娃",
+      "谜题"
+    ]
+  },
+  {
+    "id": "2006-01-01-guinness-china-night-cctv",
+    "date": "2006-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "single-source",
+    "title": "《吉尼斯中国之夜》开播：纪录挑战成了电视综艺",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2006 年，央视推出《吉尼斯中国之夜》，把世界纪录挑战搬上电视舞台：中外选手同台比拼倒立行走、舌尖转报、蒙眼踢毽等奇绝技艺，现场认证、当场颁证。节目连续多年成为收视黑马，让『挑战吉尼斯』成了全民参与的文化娱乐项目，也捧红了一批民间奇人。",
+    "detail": "2006 年起，中央电视台推出大型竞技综艺节目《吉尼斯中国之夜》，与吉尼斯世界纪录机构合作，由现场认证官对每场挑战进行裁定。节目汇聚两类挑战者：一是拥有独门绝活的中国民间奇人，如倒立骑自行车、用眼睛吹气球、舌尖书法；二是专程来华的外国纪录保持者，双方隔空叫板。王伟、胡智荣等一批『中国奇人』经由节目进入大众视野，『挑战吉尼斯』从报纸上的异闻变成家庭客厅里的谈资。节目高峰期每逢节假日播出，多次创下同时段收视第一，并推动了各地文旅活动引入纪录挑战作为噱头。",
+    "impact": "纪录挑战被综艺化、常态化，吉尼斯文化在中国完成大众普及，民间绝活有了国家级展示窗口。",
+    "aftermath": "节目播出十余季，后随综艺市场迭代淡出；但中国挑战者近年频繁刷新吉尼斯官方纪录，纪录旅游与短视频时代的『挑战』内容延续着同一种观演关系。",
+    "sources": [
+      {
+        "title": "百度百科：吉尼斯中国之夜",
+        "url": "https://baike.baidu.com/item/%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A4%9C",
+        "type": "wiki"
+      },
+      {
+        "title": "Guinness World Records 官网",
+        "url": "https://www.guinnessworldrecords.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "吉尼斯",
+      "中国奇人",
+      "电视综艺",
+      "民间绝技",
+      "纪录挑战",
+      "央视"
+    ]
+  },
+  {
+    "id": "2007-06-30-first-crossfit-games",
+    "date": "2007-06-30",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届 CrossFit 运动会开赛：健身房里长出世界冠军",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2007 年 6 月 30 日，首届 CrossFit 运动会在加州阿罗马斯的一座农场举行，几十名健身者比拼当场公布的神秘训练项目，加拿大人詹姆斯·菲茨杰拉德夺冠。谁也没想到，这个草台班子赛事日后变成奖金百万、电视转播的『健身界奥运会』，把功能性健身推向全球。",
+    "detail": "2007 年 6 月 30 日，CrossFit 健身体系的创始人格雷格·格拉斯曼在加州阿罗马斯的自家农场（The Ranch）举办首届 CrossFit Games。比赛规则独特：所有项目当天现场公布——包括跑山、举重、划船与未知动作组合——以检验『全能身体』而非单项特长。首届只有约 70 名选手，加拿大人詹姆斯·菲茨杰拉德（James Fitzgerald）夺冠，奖金区区 500 美元。赛事的核心卖点自此确立：『找出地球上最全面的健身者』。随着 CrossFit Box 健身房在全球扩张，赛事规模指数级增长，2009 年起增设分区赛，2011 年起通过线上公开赛筛选，转播权售予 ESPN，冠军奖金一度涨至 30 万美元以上。",
+    "impact": "功能性健身从车库文化变成有赛制、有明星、有转播的竞技产业，健身房业态被重新定义。",
+    "aftermath": "2010 年代 CrossFit 全球 Box 数量过万；赛事 2020 年代几经易主调整，但『现场公布赛题』的赛制哲学保留至今，中国多家城市 CrossFit 馆仍每年举办区域选拔。",
+    "sources": [
+      {
+        "title": "Wikipedia：CrossFit Games",
+        "url": "https://en.wikipedia.org/wiki/CrossFit_Games",
+        "type": "wiki"
+      },
+      {
+        "title": "CrossFit Games 官网",
+        "url": "https://games.crossfit.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "CrossFit",
+      "健身竞技",
+      "全能身体",
+      "阿罗马斯",
+      "功能性训练",
+      "体育产业"
+    ]
+  },
+  {
+    "id": "2007-07-04-joey-chestnut-ends-kobayashi-era",
+    "date": "2007-07-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "乔伊·切斯纳特吞下 66 个热狗：终结小林尊六连霸",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2007 年 7 月 4 日，纽约科尼岛内森杯热狗大赛上，23 岁的加州人乔伊·切斯纳特以 66 个热狗击败小林尊的 49 个，终结了日本选手长达六年的统治。美国竞食运动的『国耻』就此洗雪，切斯纳特自此开启长达近二十年的热狗王朝。",
+    "detail": "2007 年 7 月 4 日，美国独立日传统赛事内森杯国际热狗大胃王大赛迎来复仇之战。此前六年，日本选手小林尊年年夺冠，美国选手节节败退，媒体把它上升为『美日较劲』。本土新秀乔伊·切斯纳特（Joey Chestnut）2005 年起挑战失败两次，这次携职业训练成果回归：10 分钟内吞下 66 个热狗，刷新赛会纪录，压过小林尊的 49 个（当年小林受下颌伤病困扰）。切斯纳特高举星条旗的画面登上全美头版。此后他把个人最好成绩逐年推高，2016 年达到 70 个、2021 年创造 76 个的惊人纪录。",
+    "impact": "竞食运动在美国完成『本土英雄叙事』，内森杯的电视转播与商业赞助随之升级。",
+    "aftermath": "切斯纳特此后连续夺冠十余年，成为竞食运动代名词；2025 年他因代言纠纷一度被禁赛，随后转向独立挑战继续刷新纪录。",
+    "sources": [
+      {
+        "title": "Wikipedia：Joey Chestnut",
+        "url": "https://en.wikipedia.org/wiki/Joey_Chestnut",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Nathan's Hot Dog Eating Contest",
+        "url": "https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大胃王",
+      "热狗大赛",
+      "切斯纳特",
+      "小林尊",
+      "竞食",
+      "独立日"
+    ]
+  },
+  {
+    "id": "2008-07-12-erik-akkersdijk-708",
+    "date": "2008-07-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "七秒复原魔方：荷兰青年艾克斯代克刷新世界纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2008 年 7 月 12 日，18 岁的荷兰学生埃里克·艾克斯代克在捷克公开赛上以 7.08 秒复原三阶魔方，打破世界纪录。当时人类复原魔方的平均速度还在十几秒徘徊，七秒之速如同天外来客，标志着速拧进入『个位数时代』。",
+    "detail": "2008 年 7 月 12 日至 13 日，捷克公开赛（Czech Open）在帕尔杜比采举行，埃里克·艾克斯代克（Erik Akkersdijk）在单次复原中跑出 7.08 秒，把美国选手汤米的方法效率推到新高度——他此前已持有四阶、五阶等多项世界纪录，是那个年代技术流速拧的集大成者。7.08 秒的成绩由 WCA 官方认证，成为三阶单次世界纪录，同一周末他还以 11.55 秒的平均成绩赢得全场冠军。这一纪录保持了两年多，随后被澳大利亚少年费利克斯·泽姆德格斯以 6.24 秒接棒，人类复原魔方的速度自此一路冲向十秒以内、五秒以内。",
+    "impact": "速拧圈的『七秒大关』被攻克，训练方法（CFOP 公式库）与专业魔方研发随之提速。",
+    "aftermath": "此后三阶单次纪录以约每两三年一破的节奏推进：5.66、5.25、4.90、4.73 直至 2018 年杜宇生的 3.47 秒；艾克斯代克后来转型为赛事组织者与魔方测评人。",
+    "sources": [
+      {
+        "title": "WCA：Erik Akkersdijk 个人成绩页",
+        "url": "https://www.worldcubeassociation.org/persons/2003AKKE01",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Erik Akkersdijk",
+        "url": "https://en.wikipedia.org/wiki/Erik_Akkersdijk",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "世界纪录",
+      "艾克斯代克",
+      "捷克公开赛",
+      "CFOP"
+    ]
+  },
+  {
+    "id": "2009-04-14-ashrita-furman-100-records",
+    "date": "2009-04-14",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "阿什里塔·福尔曼同时手握 100 项吉尼斯纪录",
+    "category": "society",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2009 年 4 月 14 日，纽约人阿什里塔·福尔曼成为人类历史上第一个同时保持 100 项吉尼斯世界纪录的人，从立鸡蛋、跳高跷到反手引体，他用三十年把『破纪录』活成了职业。他一生创造过六百多项纪录，至今仍是吉尼斯史上最多产的纪录保持者。",
+    "detail": "2009 年 4 月 14 日，布鲁克林健康食品店主阿什里塔·福尔曼（Ashrita Furman）在吉尼斯认证官见证下完成第 100 项同时有效纪录——他用平衡杆顶着棒球拍行走，补齐了最后一格。福尔曼 1979 年首次创造纪录（骑独轮车跳绳），受印度导师斯里·钦莫伊『超越自我』哲学影响，他把破纪录当成修行：为了练跳高跷摔断过肋骨，为了吹气球用坏了上千只。他的纪录横跳远、跳绳、西瓜斧劈、最快苹果削皮等上百个门类，累计创造超过 600 项、同时保持过 100 余项。吉尼斯官方为他单开『最多同时保持纪录』的条目，并称他为『吉尼斯先生』。",
+    "impact": "『职业破纪录者』这一身份被具象化，吉尼斯纪录文化拥有了最具人格化的代言人。",
+    "aftermath": "福尔曼至今仍活跃于纪录挑战一线，带团在世界各地创造集体纪录；吉尼斯 60 周年庆典将他列为传奇保持者首位。",
+    "sources": [
+      {
+        "title": "Wikipedia：Ashrita Furman",
+        "url": "https://en.wikipedia.org/wiki/Ashrita_Furman",
+        "type": "wiki"
+      },
+      {
+        "title": "Guinness World Records：Ashrita Furman Hall of Fame",
+        "url": "https://www.guinnessworldrecords.com/records/hall-of-fame/ashrita-furman",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "吉尼斯",
+      "世界纪录",
+      "福尔曼",
+      "奇人",
+      "破纪录者",
+      "纽约"
+    ]
+  },
+  {
+    "id": "2010-08-08-first-classic-tetris-world-championship",
+    "date": "2010-08-08",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届经典俄罗斯方块世界锦标赛：老游戏办出世界大赛",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2010 年 8 月 8 日，首届经典俄罗斯方块世界锦标赛（CTWC）在洛杉矶一家小影院举行，几十名玩家用原版任天堂红白机比拼得分。谁也没想到这个怀旧局会办成延续十余年的世界大赛，更没人想到三十多年后这项运动还在不断突破人类极限。",
+    "detail": "2010 年 8 月 8 日，游戏制片人罗宾·米哈拉与纪录片导演亚当·科尼利奥等人发起的首届经典俄罗斯方块世界锦标赛（Classic Tetris World Championship）在洛杉矶市中心独立影院举办。比赛全部使用 1989 年任天堂 NES 原版《俄罗斯方块》的 B 型模式，现场大屏直播选手操作，观众入场免费。首届冠军是华裔选手 Harry Hong，此后乔纳斯·诺伊鲍尔七次夺冠成为初代球王。这项赛事意外激活了被冷落二十年的老游戏竞技研究：选手们发明『滚指』（hyper-tapping）等新手法，把速度推到人类反应极限，并首次见到游戏设计的最深层——『击穿』关卡导致画面崩溃。",
+    "impact": "老游戏竞技化、直播化的样板赛事就此确立，为后来速通文化、复古电竞提供了范式。",
+    "aftermath": "CTWC 至今每年举办，决赛现场一票难求；2023 年 13 岁少年完成人类首次『击穿』游戏，2024 年起人工智能模型也被引入研究，这项运动仍在生长。",
+    "sources": [
+      {
+        "title": "Wikipedia：Classic Tetris World Championship",
+        "url": "https://en.wikipedia.org/wiki/Classic_Tetris_World_Championship",
+        "type": "wiki"
+      },
+      {
+        "title": "CTWC 官网",
+        "url": "https://thectwc.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "俄罗斯方块",
+      "CTWC",
+      "复古游戏",
+      "电竞",
+      "洛杉矶",
+      "竞技"
+    ]
+  },
+  {
+    "id": "2010-12-01-wang-feng-first-chinese-memory-champion",
+    "date": "2010-12-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "王峰广州登顶：中国首位世界记忆冠军诞生",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2010 年 12 月，第 19 届世界记忆锦标赛在广州举行，武汉大学在读研究生王峰击败各国高手夺得总冠军，成为中国乃至亚洲第一位世界记忆冠军。在家门口的这枚金牌引爆了中国的记忆培训热，『最强大脑』的全民想象自此发端。",
+    "detail": "2010 年 12 月，世界记忆锦标赛（World Memory Championship）首次落户中国广州，来自二十多个国家的记忆高手比拼马拉松数字、快速扑克、抽象图形等十个项目。武汉大学学生王峰此前已多次刷新快速数字等项目的世界纪录，主场作战的他以明显优势夺得总冠军，成为 1991 年赛事创办以来首位中国籍世界冠军，也是首位非欧美冠军。他一小时内记忆 1980 位随机数字的成绩被载入赛事史册。夺冠后王峰受邀参与各类记忆节目与演讲，2014 年作为队长参加江苏卫视《最强大脑》第一季，与德国选手对抗的中德赛让他成为国民级『脑力偶像』。",
+    "impact": "记忆竞技在中国完成从猎奇到竞技的认知转变，记忆培训产业迎来爆发期。",
+    "aftermath": "此后邹璐建（2017 年）等中国选手接连登顶，中国成为世界记忆锦标赛金牌最多的国家之一；王峰后来投身脑力教育创业，中国军团在世界赛场长期占据前列。",
+    "sources": [
+      {
+        "title": "Wikipedia：World Memory Championships（历届冠军表）",
+        "url": "https://en.wikipedia.org/wiki/World_Memory_Championships",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：王峰（记忆选手）",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B3%B0",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "世界记忆锦标赛",
+      "王峰",
+      "广州",
+      "中国首位",
+      "记忆竞技",
+      "脑力"
+    ]
+  },
+  {
+    "id": "2010-12-24-hou-yifan-youngest-womens-world-chess-champion",
+    "date": "2010-12-24",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "十六岁侯逸凡加冕棋后：国际象棋最年轻女子世界冠军",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2010 年 12 月 24 日，16 岁的中国少女侯逸凡在土耳其哈塔伊的女子世界锦标赛决赛中击败同胞阮露斐夺冠，成为国际象棋历史上最年轻的女子世界冠军。天才少女自此开启四冠棋后生涯，也把中国国际象棋『女队强国』的地位推向顶峰。",
+    "detail": "2010 年 12 月，国际象棋女子世界锦标赛在土耳其哈塔伊举行，采用 64 人淘汰制。16 岁的山东姑娘侯逸凡作为头号种子一路过关，决赛与 22 岁的同胞阮露斐展开内战，快棋加赛以 3 比 1 取胜，于 12 月 24 日捧起冠军奖杯，超越匈牙利名将小波尔加同龄时的成绩，成为史上最年轻的女子世界冠军。侯逸凡 5 岁学棋、13 岁成为男子特级大师，被认为是小波尔加之后最具统治力的女棋手。此后她于 2011、2013、2016 年三度卫冕或重夺后冠，2017 年起还南下攻读牛津与深圳大学学位，成为罕见的『学者型棋后』。",
+    "impact": "中国国际象棋实现女子个人世界冠军的持续垄断，棋类教育在家长圈热度大涨。",
+    "aftermath": "侯逸凡四夺女子世界冠军，等级分长期居女子世界第一；她后来担任大学教授推动棋类普及，中国男女棋手均在国象世界赛场保持竞争力。",
+    "sources": [
+      {
+        "title": "Wikipedia：Hou Yifan",
+        "url": "https://en.wikipedia.org/wiki/Hou_Yifan",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Women's World Chess Championship 2010",
+        "url": "https://en.wikipedia.org/wiki/Women%27s_World_Chess_Championship_2010",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "国际象棋",
+      "侯逸凡",
+      "棋后",
+      "最年轻纪录",
+      "哈塔伊",
+      "中国国象"
+    ]
+  },
+  {
+    "id": "2010-10-10-liu-wei-wins-china-got-talent",
+    "date": "2010-10-10",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "无臂钢琴师刘伟夺冠首届中国达人秀：用脚趾弹响生命",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2010 年 10 月 10 日，首届《中国达人秀》总决赛在上海体育场落幕，10 岁触电失去双臂、用双脚弹钢琴的北京青年刘伟夺冠。他那句『要么赶紧死，要么精彩地活着』响彻全国，一个普通青年的绝境求生成为年度最打动中国的故事。",
+    "detail": "2010 年 10 月 10 日，东方卫视引进国外模式的选秀节目《中国达人秀》第一季总决赛在上海体育场举行。23 岁的刘伟 10 岁时因触电失去双臂，12 岁学会用脚吃饭穿衣，18 岁苦练两年用脚趾弹钢琴达到专业七级水平。决赛舞台上，他用双脚弹奏《梦想的翅膀》（改编自《You Are Beautiful》），评委周立波、伊能静与数万观众起立致敬。他那句『我的人生只有两条路，要么赶紧死，要么精彩地活着』被广为传诵。刘伟夺冠后登上维也纳金色大厅舞台，当选 2011 年度『感动中国』人物。",
+    "impact": "『达人』一词进入国民词汇，草根才艺选秀在中国确立道德与才艺并重的叙事范式。",
+    "aftermath": "刘伟此后出书、发行专辑并投身公益，激励无数残障人士；各卫视达人秀、励志选秀节目在他之后迎来数年黄金期。",
+    "sources": [
+      {
+        "title": "Wikipedia：刘伟 (钢琴师)",
+        "url": "https://en.wikipedia.org/wiki/Liu_Wei_(pianist)",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：中国达人秀",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "中国达人秀",
+      "刘伟",
+      "无臂钢琴",
+      "励志",
+      "草根选秀",
+      "感动中国"
+    ]
+  },
+  {
+    "id": "2011-06-25-feliks-zemdegs-sub-six",
+    "date": "2011-06-25",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "六秒以内复原魔方：澳大利亚少年泽姆德格斯跨过新门槛",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2011 年 6 月 25 日，17 岁的澳大利亚少年费利克斯·泽姆德格斯在墨尔本冬季公开赛上以 5.66 秒复原三阶魔方，成为人类历史上第一个在正式比赛中六秒内复原的选手。此后数年他把世界纪录反复改写到自己名下，成为速拧运动第一位全球级明星。",
+    "detail": "2011 年 6 月 25 日，墨尔本冬季公开赛（Melbourne Winter Open）上，费利克斯·泽姆德格斯（Feliks Zemdegs）以 5.66 秒的单次成绩打破世界纪录，首次把官方成绩带进六秒以内。泽姆德格斯 2008 年底才从网络视频自学速拧，两年后已称霸赛场：他此后累计刷新一百多项世界纪录，两夺世界魔方锦标赛总冠军，长期同时保持三阶单次与平均双榜第一。他的复原手法以预判（提前想好步骤）、公式精度与『X-cross』开局著称，训练视频在 YouTube 被全球魔友拆解学习，让速拧第一次拥有了跨圈层的偶像。",
+    "impact": "速拧运动的『明星时代』开启，魔方教学视频与高端魔方硬件市场随之爆发。",
+    "aftermath": "泽姆德格斯的纪录此后被埃特、杜宇生、马克斯·帕克等新一代选手接棒；他至今仍活跃于赛场与直播社区，被视为速拧史上最伟大选手之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：Feliks Zemdegs",
+        "url": "https://en.wikipedia.org/wiki/Feliks_Zemdegs",
+        "type": "wiki"
+      },
+      {
+        "title": "WCA：Melbourne Winter Open 2011 赛事页",
+        "url": "https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2011",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "泽姆德格斯",
+      "世界纪录",
+      "六秒大关",
+      "墨尔本"
+    ]
+  },
+  {
+    "id": "2011-11-01-mcnamara-nazare-78-foot-wave",
+    "date": "2011-11-01",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "七十八英尺巨浪被征服：纳扎雷从此成为冲浪圣地",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2011 年 11 月 1 日，美国冲浪手加勒特·麦克纳马拉在葡萄牙纳扎雷小镇挑战一堵约 78 英尺（约 24 米）的巨浪并成功冲出，随后被权威机构认证为当时人类冲过的最大浪。无名渔村纳扎雷一夜成名，成为全球极限冲浪者的朝圣地，『巨浪冲浪』从此进入新纪元。",
+    "detail": "2011 年 11 月 1 日，夏威夷裔冲浪名将加勒特·麦克纳马拉（Garrett McNamara）来到葡萄牙中北部小镇纳扎雷（Nazaré）。这里因海底大峡谷把大西洋涌浪聚集成双倍浪高，能形成百米间隔的怪物浪。麦克纳马拉在摩托艇拖拽下冲上一面被摄影师测估约 78 英尺（23.8 米）的巨浪，成功完成下滑与脱离，影像震动世界。冲浪界权威机构在 2012 年核实并授予他『最大浪冲浪』纪录。此前纳扎雷只是渔夫与游客的小镇，此后每年冬季全球顶尖冲浪手与摄影师集结于此，浪高纪录被一再刷新，小镇旅游与巨浪观赏经济随之起飞。",
+    "impact": "巨浪冲浪的『百英尺时代』由这次认证开启，人类与海洋极限的对话有了新的刻度。",
+    "aftermath": "2017 年罗德里戈·科夏在同一海域冲出 80 英尺刷新纪录，2020 年代科夏又冲出 87 英尺的实测巨浪；纳扎雷每年举办大浪挑战赛，成为全球极限运动的地标。",
+    "sources": [
+      {
+        "title": "Wikipedia：Garrett McNamara",
+        "url": "https://en.wikipedia.org/wiki/Garrett_McNamara",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Nazaré, Portugal",
+        "url": "https://en.wikipedia.org/wiki/Nazar%C3%A9,_Portugal",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "冲浪",
+      "巨浪",
+      "纳扎雷",
+      "麦克纳马拉",
+      "极限运动",
+      "纪录认证"
+    ]
+  },
+  {
+    "id": "2011-01-06-first-agdq-marathon",
+    "date": "2011-01-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届 AGDQ 慈善速通马拉松：打通游戏也能做慈善",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2011 年 1 月 6 日，首届『精彩游戏速通马拉松』（AGDQ）在马里兰州开幕，几十名速通玩家连续五天直播通关各类游戏，为防癌基金会募款五万多美元。谁也没想到这个慈善活动会成长为每年两届、单届募款数百万美元的全球速通文化圣地。",
+    "detail": "2011 年 1 月 6 日至 11 日，游戏速通社区在马里兰州切维蔡斯的国家 4-H 青年会议中心举办首届 Awesome Games Done Quick（AGDQ）：速通选手轮番上台，用最短时间通关《超级马里奥》《恶魔城》等游戏，全程网络直播，观众随打赏捐款。首届活动五天为防癌基金会（Prevent Cancer Foundation）募得 52520 美元，规模虽小但模式跑通。与之配套的夏季活动 SGDQ 为无国界医生募款。此后 AGDQ 每年一月举办，2015 年起单届募款突破百万美元，2017 年突破两百万，直播观看峰值数十万人，速通从地下极客爱好变成有正赛日程、有明星选手、有慈善背书的网络文化盛事。",
+    "impact": "速通文化获得慈善背书与主流曝光，直播时代的游戏竞技有了长青品牌。",
+    "aftermath": "AGDQ 累计为慈善机构募款超过五千万美元；疫情期间转为线上后热度不减，速通明星频繁登上主流媒体，游戏公司的『速通模式』设计也成为行业惯例。",
+    "sources": [
+      {
+        "title": "Wikipedia：Games Done Quick",
+        "url": "https://en.wikipedia.org/wiki/Games_Done_Quick",
+        "type": "wiki"
+      },
+      {
+        "title": "Games Done Quick 官网",
+        "url": "https://gamesdonequick.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "速通",
+      "AGDQ",
+      "慈善直播",
+      "游戏竞技",
+      "马里兰",
+      "直播文化"
+    ]
+  },
+  {
+    "id": "2012-06-06-nitsch-253m-no-limits-dive",
+    "date": "2012-06-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "赫尔伯特·尼奇挑战 253 米深潜：最深处是生的边界",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2012 年 6 月 6 日，奥地利自由潜水之王赫尔伯特·尼奇在希腊圣托里尼海域挂配重直下 253.2 米——相当于十层楼高的水深。他抵达目标深度后上升时因减压病重伤昏迷，救回一命却再难完全恢复。人类自由下潜的极限被这次『半步之遥』标定，也留下深潜运动最悲壮的一页。",
+    "detail": "2012 年 6 月 6 日，多次打破自由潜水世界纪录的奥地利人赫尔伯特·尼奇（Herbert Nitsch）在希腊圣托里尼发起『一口气的深度』（No Limits）挑战：仅靠一口气、配重坠与浮升气囊，目标 253.2 米。他顺利抵达 253.2 米的触底深度，打破自己保持的 214 米认证纪录，但快速上升过程中体内氮气形成气泡，导致严重减压病与脑损伤，浮出水面后陷入昏迷。尼奇经历多次高压氧治疗与数年康复，虽重新下水，但语言与运动机能留下永久损伤。由于下山式的健康争议，253.2 米未被主流自由潜水组织正式收录，他 2007 年的 214 米仍被视为官方认证最深纪录。",
+    "impact": "自由潜水的『人类极限』被标定在两百多米，深潜安全规范与医学研究因这次事故大幅加强。",
+    "aftermath": "尼奇后来以演讲与自传继续推动深潜科普；No Limits 项目因风险过高被多数赛事停办，恒重项目成为竞技主流。",
+    "sources": [
+      {
+        "title": "Wikipedia：Herbert Nitsch",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Nitsch",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Freediving",
+        "url": "https://en.wikipedia.org/wiki/Freediving",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "自由潜水",
+      "尼奇",
+      "深潜",
+      "253 米",
+      "减压病",
+      "人体极限"
+    ]
+  },
+  {
+    "id": "2012-08-04-pistorius-runs-olympic-400m",
+    "date": "2012-08-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "刀锋战士站上奥运跑道：双下肢截肢者首次出战奥运径赛",
+    "category": "society",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2012 年 8 月 4 日，南非选手『刀锋战士』奥斯卡·皮斯托瑞斯踩着碳纤维假肢跑进伦敦碗，成为历史上第一位参加奥运田径赛的双腿截肢运动员。他晋级 400 米半决赛，全场起立鼓掌——人类对『残障』与『竞技』边界的想象被这一晚改写。",
+    "detail": "2012 年 8 月 4 日，伦敦奥运会男子 400 米预赛第一组，南非选手奥斯卡·皮斯托瑞斯（Oscar Pistorius）以 45.44 秒的成绩晋级半决赛。他 11 个月大时因先天疾病被截去双膝以下，靠一对碳纤维『刀锋』假肢训练成才。此前国际田联曾以假肢存能优势为由禁止他参加健全人赛事，2008 年体育仲裁法庭推翻禁令，他历经四年诉讼与资格赛才站上伦敦碗。小组赛结束信号响起时，八万人全场起立鼓掌长达数分钟。他随后还参加了残奥会并夺金。同年 9 月残奥会后，他被控枪杀女友，2014 年起经历多次审判与改判，传奇就此蒙上阴影。",
+    "impact": "残障运动员与健全人同场竞技的大门被正式打开，此后假肢技术与参赛规则持续演进。",
+    "aftermath": "皮斯托瑞斯案件成为体育史上最大的个人坠落之一；2023 年他假释出狱。但『刀锋战士』在伦敦的那 45 秒，仍是残奥运动最具历史意义的一幕之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：Oscar Pistorius",
+        "url": "https://en.wikipedia.org/wiki/Oscar_Pistorius",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：2012 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/2012_Summer_Olympics",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "残障运动",
+      "刀锋战士",
+      "伦敦奥运",
+      "碳纤维假肢",
+      "400 米",
+      "边界突破"
+    ]
+  },
+  {
+    "id": "2013-11-22-carlsen-becomes-world-champion",
+    "date": "2013-11-22",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "卡尔森登基：国际象棋迎来『最强人类』时代",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2013 年 11 月 22 日，22 岁的挪威天才马格努斯·卡尔森在印度金奈以 6.5 比 3.5 击败卫冕冠军阿南德，首次加冕国际象棋世界冠军。他以直觉式压制风格著称，此后统治棋坛十余年，等级分一度刷新人类历史极值，被广泛视为史上最强棋手。",
+    "detail": "2013 年 11 月，国际象棋世界冠军对抗赛在印度金奈举行，挑战者马格努斯·卡尔森（Magnus Carlsen）对阵卫冕的印度棋王维斯瓦纳坦·阿南德（Viswanathan Anand）。卡尔森 13 岁即获特级大师称号，以中盘『缓慢绞杀』的压制风格闻名，不需要死记开局也能把对手磨垮。前九局他取得 3 胜 6 和，11 月 22 日第十局再下一城，以 6.5 比 3.5 提前锁定冠军，成为第 16 位、也是史上第二年轻的国际象棋世界冠军。颁奖礼上挪威首相亲致贺电，国象商业赞助随之在北欧升温。卡尔森此后连续卫冕至 2023 年主动放弃卫冕战。",
+    "impact": "国际象棋进入『卡尔森时代』，其比赛直播与网络解说带动全球国象人口明显增长。",
+    "aftermath": "卡尔森等级分 2014 年冲上 2882 的历史极值并保持至今；2022 年他涉入对手作弊风波主动发声，2023 年起淡出世界冠军赛但仍是快棋与超快棋世界第一。",
+    "sources": [
+      {
+        "title": "Wikipedia：World Chess Championship 2013",
+        "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2013",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Magnus Carlsen",
+        "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "国际象棋",
+      "卡尔森",
+      "世界冠军",
+      "金奈",
+      "阿南德",
+      "棋坛统治"
+    ]
+  },
+  {
+    "id": "2013-03-03-mats-valk-555",
+    "date": "2013-03-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "五秒五五复原魔方：荷兰少年瓦尔克刷新世界纪录",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2013 年 3 月 3 日，16 岁的荷兰选手马茨·瓦尔克在本土佐芬赫公开赛上以 5.55 秒复原三阶魔方，打破澳大利亚人保持的世界纪录。欧洲速拧自此接棒领跑，复原速度的人类极限被继续向前推进。",
+    "detail": "2013 年 3 月 2 日至 3 日，佐芬赫公开赛（Zonhoven Open）在比利时佐芬赫举行，16 岁的荷兰选手马茨·瓦尔克（Mats Valk）在单次复原中以 5.55 秒打破世界纪录，把此前费利克斯·泽姆德格斯的 5.66 秒又推进了 0.11 秒。瓦尔克以独特的『Valk 式 F2L』复原路径闻名，他的破纪录视频在魔方社区广为流传。这一纪录次年即被美国人科林·伯恩斯以 5.25 秒刷新，随后 2015 年卢卡斯·埃特的 4.90 秒首次突破五秒大关——人类复原三阶魔方的时间线自此进入『五秒内』时代。",
+    "impact": "欧洲选手重夺三阶纪录，CFOP 方法与魔方硬件（磁力魔方前身）的研发竞争白热化。",
+    "aftermath": "瓦尔克此后长期位居世界前列并保持五阶等多项纪录；他创立的魔方品牌与教程影响了全球一代速拧玩家。",
+    "sources": [
+      {
+        "title": "WCA：Mats Valk 个人成绩页",
+        "url": "https://www.worldcubeassociation.org/persons/2010VALK01",
+        "type": "official"
+      },
+      {
+        "title": "Wikipedia：Speedcubing",
+        "url": "https://en.wikipedia.org/wiki/Speedcubing",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "瓦尔克",
+      "世界纪录",
+      "欧洲",
+      "五秒时代"
+    ]
+  },
+  {
+    "id": "2014-01-03-super-brain-premiere",
+    "date": "2014-01-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "《最强大脑》首播：脑力竞技成了全民爆款综艺",
+    "category": "culture",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2014 年 1 月 3 日，江苏卫视《最强大脑》开播，把记忆、心算、辨音、微观辨识等脑力挑战搬上黄金档：『中国雨人』周玮的心算、王峰的对抗赛轮番刷屏。这档节目让『世界记忆冠军』『脑力竞技』从圈子术语变成国民话题，也把一批民间奇才送进公众视野。",
+    "detail": "2014 年 1 月 3 日，江苏卫视推出科学竞技真人秀《最强大脑》，节目引进德国《Super Brain》模式，以『让科学流行起来』为口号，评委席由陶晶莹、梁冬、魏坤琳（Dr. 魏）组成，以科学评审标准给选手打分。首季即爆红：『中国雨人』周玮十六位开根号的心算震撼全国，引发对特殊天才与教育包容的大讨论；世界记忆冠军王峰、魔方盲拧高手、辨水奇人等轮番登场。节目此后连续多季升级为国际对抗赛，与德国、意大利、日本等队交锋，收视率常年位居同时段前列。",
+    "impact": "脑力竞技完成从冷门赛事到国民综艺的跨越，记忆培训、思维训练行业随之水涨船高。",
+    "aftermath": "节目播出十年以上，捧出王昱珩（水哥）、杨易等草根天才；其海外对抗模式后来被多国借鉴，『最强大脑』成为脑力竞技的中文代名词。",
+    "sources": [
+      {
+        "title": "Wikipedia：最强大脑",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91",
+        "type": "wiki"
+      },
+      {
+        "title": "江苏卫视官网",
+        "url": "https://www.jstv.com/",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "最强大脑",
+      "脑力综艺",
+      "记忆竞技",
+      "周玮",
+      "江苏卫视",
+      "科学真人秀"
+    ]
+  },
+  {
+    "id": "2014-05-01-carlsen-2882-record-rating",
+    "date": "2014-05-01",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "国际象棋等级分 2882：人类棋力历史极值诞生",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2014 年 5 月，国际棋联公布最新等级分榜：马格努斯·卡尔森以 2882 分刷新人类历史最高等级分。此前四十年，人类棋力的天花板在 2800 分上下徘徊，这一分数此后十多年无人接近，成为衡量『史上最强棋手』之争的硬指标。",
+    "detail": "2014 年 5 月，国际棋联（FIDE）等级分榜公布，24 岁的挪威棋王马格努斯·卡尔森以 2882 分位居世界第一，刷新了他自己保持的历史最高纪录。等级分系统由物理学家埃洛设计，2800 分长期被视为人类棋力『不可能的关口』——此前只有卡斯帕罗夫达到过 2851 的旧极值。卡尔森自 2013 年登顶世界冠军后连续在超快棋、快棋、慢棋全面统治，2014 年 4 至 5 月的连胜把分数推至 2882。这一数字此后十余年始终无人超越，棋坛『史上最强』的讨论基本以它为锚点。2024 年前后他仍有 2880 上下的表现，等级分神话仍在延续。",
+    "impact": "人类棋力的量化极值被重设，国际象棋的竞技叙事进入『衡量卡尔森』的时代。",
+    "aftermath": "2022 年前后卡尔森多次表示不再追逐等级分峰值，主动淡出世界冠军赛；2882 至今仍是国际棋联历史最高分，AI 时代的人类棋力纪录保持完好。",
+    "sources": [
+      {
+        "title": "Wikipedia：FIDE rankings",
+        "url": "https://en.wikipedia.org/wiki/FIDE_rankings",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Magnus Carlsen",
+        "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "国际象棋",
+      "卡尔森",
+      "等级分",
+      "2882",
+      "人类极限",
+      "FIDE"
+    ]
+  },
+  {
+    "id": "2014-04-06-undertaker-streak-ends-at-wm30",
+    "date": "2014-04-06",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "送葬者连胜终结于摔角狂热 30：二十一连败为一人",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2014 年 4 月 6 日，新奥尔良摔角狂热 30 主赛段，布洛克·莱斯纳三记重摔压制送葬者，终结了摔角史上最著名的『21 比 0』连胜纪录。全场死寂的十秒钟成为摔角史上最大震撼，这一幕的争议与回味延续至今。",
+    "detail": "2014 年 4 月 6 日，WWE 第 30 届摔角狂热（WrestleMania XXX）在新奥尔良梅赛德斯-奔驰超级穹顶举行。传奇选手送葬者（The Undertaker）在此前 21 届摔角狂热保持不败，『连胜』已成为每年狂热日的固定仪式。当晚他与布洛克·莱斯纳（Brock Lesnar）对战，比赛中段莱斯纳第三次使出招牌 F5 后完成压制，裁判三拍落定——直播现场从错愕转为全场死寂，摄像镜头扫过观众难以置信的脸。这是 WWE 历史上冲击力最大的『剧本反转』之一，也象征着老一代摔角神话让位给新生代剧情。",
+    "impact": "『送葬者连胜』作为体育娱乐史上最长寿的剧本纪录就此封存，狂热日的仪式感叙事进入新阶段。",
+    "aftermath": "送葬者 2020 年正式退役并以纪录片《最后之旅》告别；连胜终结战被反复评选为摔角史上最具争议的比赛之一。",
+    "sources": [
+      {
+        "title": "Wikipedia：WrestleMania XXX",
+        "url": "https://en.wikipedia.org/wiki/WrestleMania_XXX",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：The Undertaker",
+        "url": "https://en.wikipedia.org/wiki/The_Undertaker",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "职业摔角",
+      "WWE",
+      "送葬者",
+      "连胜终结",
+      "莱斯纳",
+      "摔角狂热"
+    ]
+  },
+  {
+    "id": "2014-02-24-wwe-network-launch",
+    "date": "2014-02-24",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "WWE 自建流媒体上线：摔角告别单场付费时代",
+    "category": "company",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2014 年 2 月 24 日，WWE 上线自有流媒体平台 WWE Network，把三十多年全部大赛录像库与每年十二场付费大赛打包成每月 9.9 美元订阅。传统按次付费的 PPV 模式就此终结，摔角成为最早全面流媒体化的体育娱乐品类之一。",
+    "detail": "2014 年 2 月 24 日，WWE 在美国本土上线自有流媒体服务 WWE Network：每月 9.9 美元即可观看全年十二场付费大赛（PPV）直播，以及数千小时的历史录像库。此前一场 PPV 需单次支付 50 至 70 美元，这一改变直接把消费门槛降到十分之一。上线首月订阅用户接近 70 万，公司为此调整财报预期、股价一度震荡，但战略方向不可逆转。摔角由此比大多数职业体育联盟更早拥抱『订阅制+全库点播』模式，全球摔迷第一次可以随时回看任意年代的经典战役。",
+    "impact": "体育娱乐内容的分发模式被重新定价，PPV 单场付费的黄金时代落幕。",
+    "aftermath": "WWE Network 2021 年业务并入 Peacock 平台，但『订阅制看摔角』已成行业标配；各大摔角联盟与格斗赛事随后纷纷自建流媒体或捆绑平台。",
+    "sources": [
+      {
+        "title": "Wikipedia：WWE Network",
+        "url": "https://en.wikipedia.org/wiki/WWE_Network",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：WWE",
+        "url": "https://en.wikipedia.org/wiki/WWE",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "WWE",
+      "流媒体",
+      "订阅制",
+      "PPV",
+      "摔角产业",
+      "内容平台"
+    ]
+  },
+  {
+    "id": "2015-05-02-mayweather-pacquiao-fight-of-century",
+    "date": "2015-05-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "世纪之战落幕：梅威瑟点胜帕奎奥，史上最贵拳赛",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2015 年 5 月 2 日，拳坛等待六年的『世纪之战』在拉斯维加斯米高梅上演：不败拳王梅威瑟十二回合点数击败帕奎奥，一次性收入约 2.4 亿美元。这场比赛以约 460 万次美国本土付费收看与超 6 亿美元总收入，成为拳击商业史的最高峰之一。",
+    "detail": "2015 年 5 月 2 日，弗洛伊德·梅威瑟（Floyd Mayweather）与曼尼·帕奎奥（Manny Pacquiao）在拉斯维加斯米高梅大酒店开战。两人分别统治过羽量级到中量级的黄金时代，粉丝期待这场比赛超过六年，谈判几度破裂。比赛当晚，米高梅花园竞技场座无虚席，场边坐着拳王阿里、球星与影星；美国本土付费收看达 460 万次、单项收入约 4.4 亿至 5 亿美元，门票均价一度炒至五位数。技术层面，梅威瑟以标志性的防守反击全程控制节奏，帕奎奥肩部带伤出击乏力，十二回合后三位裁判一致判梅威瑟获胜，其战绩升至 48 战全胜。",
+    "impact": "拳击运动商业价值的历史峰值被书写，此后多年无赛事超越其付费纪录。",
+    "aftermath": "梅威瑟保持不败退役后多次表演赛捞金；帕奎奥 2021 年退役转战政坛。这场比赛的『欠债感』——未能打出想象中的激战——仍是拳迷常年的争论话题。",
+    "sources": [
+      {
+        "title": "Wikipedia：Floyd Mayweather Jr. vs. Manny Pacquiao",
+        "url": "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr._vs._Manny_Pacquiao",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Floyd Mayweather Jr.",
+        "url": "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "拳击",
+      "梅威瑟",
+      "帕奎奥",
+      "世纪之战",
+      "付费收看",
+      "拉斯维加斯"
+    ]
+  },
+  {
+    "id": "2015-11-21-lucas-etter-first-sub-five",
+    "date": "2015-11-21",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "四秒九零复原魔方：人类首次跑进五秒以内",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2015 年 11 月 21 日，14 岁的美国少年卢卡斯·埃特在马里兰一场校内赛上以 4.90 秒复原三阶魔方，人类第一次在正式比赛中突破五秒大关。视频上传后魔方圈为之沸腾，吉尼斯与主流媒体跟进报道，速拧运动的『5 秒时代』就此开启。",
+    "detail": "2015 年 11 月 21 日，在马里兰州克拉克维尔的河山高中赛（River Hill Fall）上，14 岁的卢卡斯·埃特（Lucas Etter）在单次复原中跑出 4.904 秒，成为历史上第一位五秒内复原三阶魔方的选手，打破了此前马茨·瓦尔克与科林·伯恩斯先后保持的 5 秒级纪录。同日现场还有选手跑出 5.09 等好成绩，整个魔方圈为『sub-5』成真而狂欢。埃特的成绩经 WCA 认证并被吉尼斯收录，视频在社交网络病毒式传播，让速拧运动第一次大规模出圈。此后单次纪录在 4.73（泽姆德格斯）、3.47（杜宇生）等节点不断推进。",
+    "impact": "五秒大关的突破标志着速拧训练体系与魔方硬件进入成熟期，青少年选手成为舞台主角。",
+    "aftermath": "埃特后来进入大学并保持高水平竞技；『sub-5』如今已是顶尖选手的常规操作，纪录线向三秒区间逼近。",
+    "sources": [
+      {
+        "title": "NPR：少年 4.904 秒复原魔方报道",
+        "url": "https://www.npr.org/sections/thetwo-way/2015/11/24/457249523/watch-teen-solves-rubiks-cube-in-record-time-fellow-speed-cubers-go-wild",
+        "type": "news"
+      },
+      {
+        "title": "Wikipedia：Speedcubing",
+        "url": "https://en.wikipedia.org/wiki/Speedcubing",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "魔方",
+      "速拧",
+      "埃特",
+      "五秒大关",
+      "世界纪录",
+      "青少年"
+    ]
+  },
+  {
+    "id": "2015-07-04-matt-stonie-upsets-chestnut",
+    "date": "2015-07-04",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "马特·斯托尼爆冷终结切斯纳特五连霸",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2015 年 7 月 4 日，内森杯热狗大赛爆出大冷门：23 岁的素食博主马特·斯托尼以 62 比 60 击败四连冠的乔伊·切斯纳特，终结其五连霸。这是科尼岛八年来首次易主，短视频时代的『小个子大胃王』自此登上竞食舞台中央。",
+    "detail": "2015 年 7 月 4 日，纽约科尼岛内森杯热狗大赛迎来震动：此前四年连霸、卫冕成绩 61 个的乔伊·切斯纳特迎战 23 岁的马特·斯托尼（Matt Stonie）。斯托尼身高不足一米七、体重五十多公斤，因在 YouTube 发布『狂吃巨量食物』视频走红，其清洁的吞咽节奏与精准的补给策略常年打磨。10 分钟比赛结束时计牌显示 62 比 60，切斯纳特五连霸戛然而止，全场哗然。斯托尼成为 2000 年后最年轻的热狗冠军之一，也证明了竞食竞技正在从体力转向技术与视频化人格。",
+    "impact": "竞食运动的偶像形象从本土大块头转向流量时代的多面选手，视频平台成为竞食明星的第二战场。",
+    "aftermath": "切斯纳特次年复仇并重夺冠军，此后连续夺冠至 2024 年；斯托尼继续经营吃播频道，两人在多类食物纪录上长期互有胜负。",
+    "sources": [
+      {
+        "title": "Wikipedia：Matt Stonie",
+        "url": "https://en.wikipedia.org/wiki/Matt_Stonie",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Nathan's Hot Dog Eating Contest",
+        "url": "https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大胃王",
+      "热狗大赛",
+      "斯托尼",
+      "切斯纳特",
+      "冷门",
+      "吃播"
+    ]
+  },
+  {
+    "id": "2015-04-07-chen-panbin-100-marathons-100-days",
+    "date": "2015-04-07",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "陈盆滨开跑『挑战100』：一百天跑一百个马拉松",
+    "category": "society",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2015 年 4 月 7 日，浙江渔民出身的极限马拉松选手陈盆滨从广州塔下起跑，开始『挑战100』：连续一百天、每天一个马拉松，全程 4219 公里跑遍东南沿海直至北京。7 月 10 日完赛，成为完成这一挑战的中国第一人，把耐力极限的想象力推到国民面前。",
+    "detail": "2015 年 4 月 7 日，有『耐力狂人』之称的陈盆滨从广州塔下出发，启动『挑战100』计划：连续 100 天、每天完赛一个标准马拉松（42.195 公里），沿广东、福建、浙江、上海、江苏、山东、河北等省市的东南沿海路线北上，全程 4219.54 公里。姚明、郑洁等体育明星专程陪跑第一棒。他每天凌晨起跑，途中面对暴雨、高温与伤病，仍保持每天 4 小时上下的完赛节奏，7 月 10 日抵达北京五棵松体育馆完成挑战。此前他已在七大洲完成过数十场极限马拉松，2014 年在南极 100 公里极限马拉松夺冠，成为完成七大洲极限马拉松的世界第一人。",
+    "impact": "『每日一马』的极限耐力叙事进入中国大众视野，路跑与马拉松热在此后数年持续升温。",
+    "aftermath": "陈盆滨此后继续推广耐力运动并挑战滑雪登山等新项目；『挑战100』成为中国路跑文化的标志性事件之一，各地民间超马与连续挑战活动随之涌现。",
+    "sources": [
+      {
+        "title": "文汇报：陈盆滨挑战100开跑",
+        "url": "https://www.whb.cn/zhuzhan/paobuzhe/20150407/27998.html",
+        "type": "news"
+      },
+      {
+        "title": "中国新闻网：陈盆滨百日百马收官报道",
+        "url": "https://www.chinanews.com.cn/ty/2015/07-15/7405688_2.shtml",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "陈盆滨",
+      "极限马拉松",
+      "百日百马",
+      "耐力运动",
+      "中国奇人",
+      "路跑"
+    ]
+  },
+  {
+    "id": "2016-07-09-eddie-hall-500kg-deadlift",
+    "date": "2016-07-09",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "500 公斤硬拉：艾迪·霍尔把人类力量推上新刻度",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2016 年 7 月 9 日，英国大力士艾迪·霍尔在利兹举行的世界硬拉挑战赛上拉起 500 公斤杠铃——相当于半吨重量，成为人类史上第一位硬拉 500 公斤的人。他完成动作后当场晕倒、鼻血飞溅的画面传遍世界，大力士运动的最重一杠由此写下。",
+    "detail": "2016 年 7 月 9 日，首届世界硬拉锦标赛（World Deadlift Championship）在英国利兹举行。英格兰巨汉艾迪·霍尔（Eddie Hall）宣布将挑战 500 公斤——此前人类硬拉纪录为 465 公斤，多数专家认为 500 公斤超出人体结构极限。霍尔在全场齐声呐喊中弯腰发力，杠铃离地、锁定，裁判示意有效，全场沸腾；他随即因颅内压力过高当场昏厥，鼻血喷溅。500 公斤硬拉自此成为力量运动的神迹时刻，霍尔也因这次极限尝试出现视网膜与血管损伤，休养数月。2017 年他登上世界大力士赛（WSM）最高领奖台，完成运动生涯双峰。",
+    "impact": "力量运动的最重标尺被重置，硬拉专项赛事的商业价值随之水涨船高。",
+    "aftermath": "2020 年冰岛演员『魔山』哈夫索尔以 501 公斤打破霍尔纪录；霍尔转型演员与健身网红，出演《权力的游戏》前传剧集，纪录片《最强者》讲述其生涯。",
+    "sources": [
+      {
+        "title": "Wikipedia：Eddie Hall",
+        "url": "https://en.wikipedia.org/wiki/Eddie_Hall",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：World's Strongest Man",
+        "url": "https://en.wikipedia.org/wiki/World%27s_Strongest_Man",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "大力士",
+      "硬拉",
+      "500 公斤",
+      "艾迪·霍尔",
+      "力量纪录",
+      "利兹"
+    ]
+  },
+  {
+    "id": "2016-08-03-ioc-adds-surfing-skateboarding-climbing",
+    "date": "2016-08-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "国际奥委会批准五项入奥：滑板冲浪攀岩登上奥运舞台",
+    "category": "culture",
+    "region": "world",
+    "milestone": true,
+    "summary_30s": "2016 年 8 月 3 日，国际奥委会里约全会表决通过：棒垒球、空手道、滑板、运动攀岩、冲浪五个大项进入东京奥运会。街头文化与传统体育的百年壁垒就此打破，年轻人最熟悉的项目第一次有了奥运奖牌，奥运会开始向『更快、更潮』转身。",
+    "detail": "2016 年 8 月 3 日，国际奥委会在里约热内卢召开第 129 次全会，表决通过东京奥运会新增五个大项的提案：棒垒球（合并申办）、空手道、滑板、运动攀岩与冲浪。这一决定采纳了奥委会『2020 议程』关于贴近年轻人的改革方向——五个项目合计新增 18 枚金牌，参赛者多为十几二十岁的街头选手。滑板与冲浪的原生社区一度抗议『被收编』，担心奥运规则阉割街头文化；但更多运动员视其为职业化的机会。这也是奥运史上单次新增大项最多的扩容之一。",
+    "impact": "街头运动的职业化通道被打通，X Games 体系培养的选手有了新的顶级出口。",
+    "aftermath": "2021 年东京奥运会上，滑板与攀岩完成首秀，13 岁的西矢椛等新星诞生；2024 年巴黎、2028 年洛杉矶延续并扩大冲浪、攀岩与滑板项目，街头与奥运的融合不可逆转。",
+    "sources": [
+      {
+        "title": "Wikipedia：2020 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/2020_Summer_Olympics",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：129th IOC Session",
+        "url": "https://en.wikipedia.org/wiki/129th_IOC_Session",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "奥运会",
+      "滑板",
+      "攀岩",
+      "冲浪",
+      "入奥",
+      "IOC"
+    ]
+  },
+  {
+    "id": "2016-11-12-mcgregor-two-division-ufc-champ",
+    "date": "2016-11-12",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "康纳·麦格雷加双冠加身：UFC 首位双量级王",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2016 年 11 月 12 日，爱尔兰拳手康纳·麦格雷加在纽约麦迪逊广场花园的 UFC 205 上第二回合击倒轻量级冠军阿尔瓦雷斯，成为 UFC 历史上第一位同时持有两个量级金腰带的选手。他高举两条金腰带的画面，成为格斗运动商业化的时代注脚。",
+    "detail": "2016 年 11 月 12 日，UFC 首次获准进入纽约州举办赛事——此前纽约因监管争议二十余年禁止职业综合格斗，UFC 205 顺势落户纽约地标麦迪逊广场花园。爱尔兰明星康纳·麦格雷加（Conor McGregor）已持有羽量级冠军腰带，当晚升重挑战轻量级冠军埃迪·阿尔瓦雷斯（Eddie Alvarez）。他凭借精准的左手重拳在第二回合完成 TKO，成为 UFC 二十余年历史上首位双量级冠军。总裁白大拿亲自为他同时系上两条金腰带。麦格雷加赛后宣布将暂别赛场等待孩子出生，三个月后他与拳王梅威瑟的跨界之战官宣，商业热度再攀顶峰。",
+    "impact": "综合格斗终于登陆纽约，『双冠王』成为格斗商业价值的新计量单位。",
+    "aftermath": "2017 年他与梅威瑟的跨界大战吸引全球眼球；此后因伤病与场外风波战绩起伏，但仍是 UFC 历史上商业号召力最强的选手。",
+    "sources": [
+      {
+        "title": "Wikipedia：UFC 205",
+        "url": "https://en.wikipedia.org/wiki/UFC_205",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia：Conor McGregor",
+        "url": "https://en.wikipedia.org/wiki/Conor_McGregor",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "UFC",
+      "麦格雷加",
+      "双冠王",
+      "麦迪逊广场花园",
+      "综合格斗",
+      "商业格斗"
+    ]
+  },
+  {
+    "id": "2016-10-18-darbian-456878-super-mario-bros",
+    "date": "2016-10-18",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "四分五十六秒通 Mario：速通纪录进入毫秒之争",
+    "category": "culture",
+    "region": "world",
+    "milestone": false,
+    "summary_30s": "2016 年 10 月 18 日，美国选手 Darbian 把《超级马里奥兄弟》最快通关纪录推进到 4 分 56.878 秒，成为首位把纪录带入 4 分 56 区间的玩家。任天堂三十年前的老游戏在直播时代持续产生毫秒级的新纪录，速通文化自此有了教科书案例。",
+    "detail": "2016 年 10 月 18 日，美国速通选手 Darbian（本名布拉德利·伦纳德）在直播中通关 1985 年的《超级马里奥兄弟》，用时 4 分 56.878 秒，刷新世界纪录。这款游戏的速通已有三十余年历史，纪录的推进早已进入『帧数』级别：选手要在八-四关卡利用水波像素对齐、旗杆极限跳等技术从每一帧里抠出时间。Darbian 的纪录直播吸引了数十万观众围观，解说逐帧复盘的视频成为速通入门教材。此后kosmic、Niftski 等选手继续以百分之几秒的幅度刷新，纪录推进成为直播时代的慢性马拉松。",
+    "impact": "『毫秒级』速通争夺成为游戏竞技文化的代表场景，任天堂老游戏在新生代玩家中翻红。",
+    "aftermath": "《超级马里奥兄弟》世界纪录此后仍被不断刷新（目前 4 分 54 秒区间），Twitch 与 YouTube 上的逐帧分析视频让速通成为游戏研究的热门课题。",
+    "sources": [
+      {
+        "title": "Wikipedia：Super Mario Bros.",
+        "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+        "type": "wiki"
+      },
+      {
+        "title": "Speedrun.com：SMB1 排行榜",
+        "url": "https://www.speedrun.com/smb1",
+        "type": "official"
+      }
+    ],
+    "tags": [
+      "速通",
+      "超级马里奥",
+      "世界纪录",
+      "直播",
+      "任天堂",
+      "毫秒之争"
+    ]
+  }
+]
