@@ -8,22 +8,22 @@
 
 | 批次 | 范围 | 产出文件 | 状态 |
 | --- | --- | --- | --- |
-| P0 平台编年 | 全时段 | data/platforms.md v2 | 🔄 研究中 |
-| P1a | 1986–1995 | data/events/1986-1995.json | 🔄 第2轮研究中 |
-| P1b | 1996–1999 | data/events/1996-1999.json | 🔄 第2轮研究中 |
-| P2a | 2000–2002 | data/events/2000-2002.json | 🔄 第2轮研究中 |
-| P2b | 2003–2004 | data/events/2003-2004.json | 🔄 第2轮研究中 |
-| P3a | 2005–2007 | data/events/2005-2007.json | 🔄 第2轮研究中 |
-| P3b | 2008–2009 | data/events/2008-2009.json | 🔄 第2轮研究中 |
-| P4a | 2010–2012 | data/events/2010-2012.json | 🔄 第2轮研究中 |
-| P4b | 2013–2014 | data/events/2013-2014.json | 🔄 第2轮研究中 |
-| P5a | 2015–2017 | data/events/2015-2017.json | 🔄 第2轮研究中 |
-| P5b | 2018–2019 | data/events/2018-2019.json | 🔄 第2轮研究中 |
-| P6a | 2020–2021 | data/events/2020-2021.json | 🔄 第2轮研究中 |
-| P6b | 2022 | data/events/2022.json | 🔄 第2轮研究中 |
-| P7 智能时代 | 2023–2026 | data/events/2023-2026.json | 🔄 研究中（第1轮未断，仍在跑） |
-| S1 星河站点 v1 | site/ | index.html + app.js + style.css | 🔄 建设中 |
-| S2 构建门禁 | scripts/ | build.py ✅ / build.sh ⬜ | 🔄 |
+| P0 平台编年 | 全时段 | data/platforms.md v2 | ✅ 完成（86 平台，git 6bef638） |
+| P1a | 1986–1995 | data/events/1986-1995.json | ✅ 主会话编纂 44 条（git 6bef638） |
+| P1b | 1996–1999 | data/events/1996-1999.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P2a | 2000–2002 | data/events/2000-2002.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P2b | 2003–2004 | data/events/2003-2004.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P3a | 2005–2007 | data/events/2005-2007.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P3b | 2008–2009 | data/events/2008-2009.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P4a | 2010–2012 | data/events/2010-2012.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P4b | 2013–2014 | data/events/2013-2014.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P5a | 2015–2017 | data/events/2015-2017.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P5b | 2018–2019 | data/events/2018-2019.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P6a | 2020–2021 | data/events/2020-2021.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P6b | 2022 | data/events/2022.json | ⬜ 待主会话编纂（Agent 已阵亡） |
+| P7 智能时代 | 2023–2026 | data/events/2023-2026.json | ⬜ 待主会话编纂（第1轮 Agent 亦阵亡 1301） |
+| S1 星河站点 v1 | site/ | index.html + app.js + style.css | ✅ 建成并冒烟通过（git 6bef638） |
+| S2 构建门禁 | scripts/ | build.py + build.sh | ✅ 全绿（git 6bef638） |
 
 状态图例：⬜未开始 / 🔄进行中 / ✅完成（数据已合并+抽查复核）/ 🔁需返工
 
@@ -42,4 +42,7 @@
 
 ## 运行记录
 
-- 2026-10-19：立项。P0–P7 八个子 Agent 并行发出；S1/S2 由主会话并行建设。
+- 2026-10-19：立项。服务器清单拉取；PLAN/schema/sources/platforms v1 就绪。
+- 2026-10-19：第1轮子 Agent（8路）6 路被上游内容过滤阵亡；改派小批次（12路）后又阵亡 11 路（1301 内容过滤×9 + 1302 速率限制×2），且均未落盘。结论：**年代史研究不可依赖子 Agent 的检索链路，改为主会话亲自编纂**；子 Agent 仅 P0（平台核查，✅完成）与 P7（2023-2026，仍在跑）存活。
+- 2026-10-19：站点 v1 建成（three.js 0.149 本地 vendor）；build 门禁全绿（44 条）；git 首提交 6bef638。
+- 下一轮入口：按上表从 P1b（1996-1999）开始逐段编纂 → ./scripts/build.sh → commit。编纂方法见 data/schema.md §核查纪律 与 1986-1995-notes.md 的体例。
