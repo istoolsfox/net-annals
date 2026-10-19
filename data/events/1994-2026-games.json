@@ -9569,7 +9569,8 @@
 "苹果",
 "反垄断",
 "堡垒之夜"
-]
+],
+"milestone": false
 },
 {
 "id": "2019-01-25-re2-remake",
@@ -9600,7 +9601,8 @@
 "生化危机2",
 "重制版",
 "RE引擎"
-]
+],
+"milestone": false
 },
 {
 "id": "2019-10-06-blitzchung",
@@ -9631,7 +9633,8 @@
 "炉石传说",
 "舆论风暴",
 "电竞"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-01-01-genshin-impact-year",
@@ -9662,7 +9665,8 @@
 "原神",
 "出海",
 "开放世界"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-07-20-activision-lawsuit",
@@ -9693,7 +9697,8 @@
 "职场文化",
 "诉讼",
 "微软收购"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-08-30-china-minor-rules",
@@ -9724,7 +9729,8 @@
 "未成年人",
 "中国游戏市场",
 "政策"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-10-28-meta-rebrand",
@@ -9755,7 +9761,8 @@
 "元宇宙",
 "Facebook",
 "VR"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-12-10-it-takes-two",
@@ -9786,7 +9793,8 @@
 "双人成行",
 "合作游戏",
 "TGA"
-]
+],
+"milestone": false
 },
 {
 "id": "2021-12-27-riot-settlement",
@@ -9817,7 +9825,8 @@
 "性别歧视",
 "和解",
 "职场文化"
-]
+],
+"milestone": false
 },
 {
 "id": "2022-01-31-sony-bungie",
@@ -9848,7 +9857,8 @@
 "Bungie",
 "收购",
 "服务型游戏"
-]
+],
+"milestone": false
 },
 {
 "id": "2022-09-18-gta6-leak",
@@ -9879,6 +9889,7 @@
 "泄露",
 "Rockstar",
 "信息安全"
-]
+],
+"milestone": false
 }
 ]

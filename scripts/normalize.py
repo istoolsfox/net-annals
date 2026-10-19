@@ -29,6 +29,8 @@ def main() -> int:
         for e in d:
             if e.get("region") == "china":
                 e["region"] = "cn"; dirty = True
+            if not isinstance(e.get("milestone"), bool):  # 缺失/畸形 milestone 兜底
+                e["milestone"] = False; dirty = True
             c = e.get("date_confidence")
             if c in CONF_MAP:
                 e["date_confidence"] = CONF_MAP[c]; dirty = True
