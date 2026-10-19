@@ -128,7 +128,7 @@ const Timeline = {
     for (const [year, list] of byYear) {
       const g = document.createElement('div');
       g.className = 'yearGroup';
-      g.innerHTML = `<div class="yBadge"><span>${year}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
+      g.innerHTML = `<div class="yBadge" data-year="${year}" title="点击复制这一年的链接"><span>${year}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
       for (const e of list) {
         const holder = document.createElement('div');
@@ -168,13 +168,13 @@ const Timeline = {
       <h3 class="cTitle"><a href="${esc(safeUrl(src0.url))}" target="_blank" rel="noopener" title="点击标题跳转原文">${esc(e.title)} <span class="arrow">↗</span></a></h3>
       <p class="cSum">${esc(sum)}${long ? ' <span class="hint">展开看全文</span>' : ''}</p>
       <button class="cMore">展开经过与影响 <i>∨</i></button>
-      <div class="cBody">
+      <div class="cBody"><div class="cBodyInner">
         <div class="sec"><span class="lab">经过</span><p>${esc(e.detail)}</p></div>
         <div class="sec"><span class="lab">影响</span><p>${esc(e.impact)}</p></div>
         <div class="sec"><span class="lab">后续</span><p>${esc(e.aftermath)}</p></div>
         <div class="sec"><span class="lab">数据来源</span><ul class="srcList">${e.sources.map(s =>
           `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>
-      </div>`;
+      </div></div>`;
   },
 
   /** 筛选变化：全部重建（简单正确优先；900 条的字符串过滤开销可忽略） */
@@ -193,6 +193,18 @@ const Timeline = {
     if (!this._pending) return;
     for (const i of this._pending) this._jump(i);
     this._pending.clear();
+  },
+  jumpToYear(year, replaceUrl = false) {
+    const eraIdx = Store.eraIndex(year + '-06-01');
+    this.renderEra(eraIdx);
+    const g = [...document.querySelectorAll(`#era-${eraIdx} .yearGroup`)]
+      .find(x => x.querySelector('.yBadge span')?.textContent === year);
+    if (!g) { this.jumpTo(eraIdx); return; }
+    const y = g.getBoundingClientRect().top + window.scrollY - 150;
+    window.scrollTo({ top: y, behavior: 'instant' });
+    if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
+    g.querySelector('.yBadge').classList.add('flash');
+    setTimeout(() => g.querySelector('.yBadge')?.classList.remove('flash'), 2200);
   },
   _jump(i) {
     const sec = document.getElementById(`era-${i}`);
@@ -231,14 +243,14 @@ const Toolbar = {
         f.cats.has(c.k) ? f.cats.delete(c.k) : f.cats.add(c.k);
         b.classList.toggle('on', f.cats.has(c.k));
         b.classList.toggle('off', !f.cats.has(c.k));
-        Timeline.rebuild();
+        Timeline.rebuild(); syncReset();
       };
       row.appendChild(b);
     }
     let t;
     $('#q').addEventListener('input', e => {
       clearTimeout(t);
-      t = setTimeout(() => { Store.setFilter({ q: e.target.value }); Timeline.rebuild(); }, 180);
+      t = setTimeout(() => { Store.setFilter({ q: e.target.value }); Timeline.rebuild(); syncReset(); }, 180);
     });
     $('#expandAll').onclick = () => {
       UIState.expandAll = !UIState.expandAll;
@@ -247,10 +259,29 @@ const Toolbar = {
       $('#expandAll').textContent = on ? '全部收起' : '全部展开';
       document.querySelectorAll('.card').forEach(c => c.classList.toggle('open', on));
     };
+    const reset = document.createElement('button');
+    reset.className = 'tBtn'; reset.id = 'resetAll'; reset.textContent = '↺ 重置';
+    reset.style.display = 'none';
+    reset.onclick = () => {
+      Store.setFilter({ q: '', mileOnly: false, cats: new Set(CATS.map(c => c.k)) });
+      $('#q').value = '';
+      $('#mileOnly').classList.remove('on');
+      document.querySelectorAll('#catRow .chip').forEach(b => { b.classList.add('on'); b.classList.remove('off'); });
+      Timeline.rebuild();
+      syncReset();
+    };
+    $('#mileOnly').after(reset);
+    window.syncReset = () => {
+      const f = Store.filters;
+      const dirty = f.q.trim() || f.mileOnly || f.cats.size < CATS.length;
+      $('#resetAll').style.display = dirty ? 'inline-block' : 'none';
+    };
+    const _obs = new MutationObserver(syncReset);
+    _obs.observe(document.getElementById('qCount'), { childList: true, characterData: true, subtree: true });
     $('#mileOnly').onclick = () => {
       Store.setFilter({ mileOnly: !Store.filters.mileOnly });
       $('#mileOnly').classList.toggle('on', Store.filters.mileOnly);
-      Timeline.rebuild();
+      Timeline.rebuild(); syncReset();
     };
     $('#themeBtn').onclick = () => {
       const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
@@ -258,15 +289,30 @@ const Toolbar = {
     };
     $('#ctaEras').onclick = e => { e.preventDefault(); Timeline.jumpTo(0); };
     $('#toTop').onclick = () => window.scrollTo({ top: 0, behavior: 'instant' });
+    let lastSave = 0;
     addEventListener('scroll', () => {
       const h = document.documentElement;
       $('#progress').style.width = (h.scrollTop / (h.scrollHeight - h.clientHeight) * 100) + '%';
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
       this.markCurrentEra();
+      const now = Date.now();
+      if (now - lastSave > 2000 && Store.ready) {          // 节流记录阅读位置
+        lastSave = now;
+        const y = this.currentYear();
+        if (y) localStorage.setItem('na-last-read', y);
+      }
     }, { passive: true });
 
     // 时代长卷内的事件代理：展开/收起
     $('#timeline').addEventListener('click', ev => {
+      const badge = ev.target.closest('.yBadge');
+      if (badge) {
+        const url = location.origin + location.pathname + '?year=' + badge.dataset.year;
+        navigator.clipboard?.writeText(url).then(
+          () => toast(`已复制 ${badge.dataset.year} 年的链接`),
+          () => toast('复制失败，请手动复制地址栏'));
+        return;
+      }
       const more = ev.target.closest('.cMore');
       if (more) { more.closest('.card').classList.toggle('open'); return; }
       const card = ev.target.closest('.card');
@@ -274,7 +320,7 @@ const Toolbar = {
     });
   },
 
-  /** 当前所在时代高亮（回答"我在哪个时代"） */
+  /** 当前所在时代高亮 + 工具栏实时年份指示（回答"我读到哪了"） */
   markCurrentEra() {
     let cur = 0;
     for (const [i] of ERAS.entries()) {
@@ -282,6 +328,19 @@ const Toolbar = {
       if (sec && sec.getBoundingClientRect().top <= 280) cur = i;
     }
     document.querySelectorAll('#eraJump .chip').forEach((b, i) => b.classList.toggle('on', i === cur));
+    const y = this.currentYear();
+    const lab = document.querySelector('.tJumpRow .tLab');
+    if (lab) lab.textContent = y ? `${y} · ${ERAS[cur].name}` : '时代';
+  },
+  currentYear() {
+    let best = null;
+    for (const g of document.querySelectorAll('.yearGroup')) {
+      if (g.getBoundingClientRect().top <= 300) {
+        const y = g.querySelector('.yBadge span')?.textContent;
+        if (y) best = y;
+      }
+    }
+    return best;
   },
 };
 
@@ -308,6 +367,20 @@ async function boot() {
     Timeline.buildSections();
     Store.ready = true;
     Timeline.flushPending();
+    const wantYear = new URLSearchParams(location.search).get('year');
+    const lastRead = localStorage.getItem('na-last-read');
+    if (wantYear && /^\d{4}$/.test(wantYear)) {
+      Timeline.jumpToYear(wantYear, true);
+    } else if (lastRead && /^\d{4}$/.test(lastRead)) {
+      const bar = document.createElement('div');
+      bar.className = 'resumeBar';
+      bar.innerHTML = `<span>上次读到 <b>${lastRead}</b> 年</span><button class="btn primary" style="padding:7px 18px;font-size:.76rem">继续阅读</button><button class="btn ghost" style="padding:7px 18px;font-size:.76rem">从头开始</button>`;
+      document.body.appendChild(bar);
+      bar.querySelector('.btn.primary').onclick = () => { Timeline.jumpToYear(lastRead); bar.remove(); localStorage.removeItem('na-last-read'); };
+      bar.querySelector('.btn.ghost').onclick = () => { bar.remove(); localStorage.removeItem('na-last-read'); };
+      setTimeout(() => bar.classList.add('show'), 400);
+      setTimeout(() => bar.remove(), 12000);
+    }
   } catch (err) {
     document.getElementById('timeline').innerHTML = `<div class="empty">数据加载失败（${esc(err.message)}）。请先运行 scripts/deploy.sh 或 build.sh。</div>`;
   }

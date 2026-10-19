@@ -121,6 +121,14 @@ a{color:inherit}
   box-shadow:0 0 0 4px var(--bg);
 }
 .yBadge small{font-family:var(--mono);font-size:.6rem;font-weight:400;opacity:.75;margin-left:6px}
+.yBadge{cursor:pointer;transition:transform .15s}
+.yBadge:hover{transform:translateX(-50%) scale(1.12) !important}
+@media (max-width:860px){ .yBadge:hover{transform:scale(1.12)} }
+.yBadge.flash{animation:badgeFlash .55s ease 3}
+@keyframes badgeFlash{
+  0%,100%{background:var(--accent2);box-shadow:0 0 0 4px var(--bg)}
+  50%{background:var(--accent);box-shadow:0 0 0 10px color-mix(in srgb, var(--accent) 35%, transparent)}
+}
 
 /* 卡片：中央线左右交替 */
 .cards{display:grid;grid-template-columns:1fr 96px 1fr;row-gap:26px}
@@ -165,8 +173,14 @@ a{color:inherit}
 }
 .cMore:hover{text-decoration:underline}
 .cBody{border-top:1px solid var(--line);margin-top:12px;padding-top:12px;display:none}
-.card.open .cBody{display:block}
-.card.open .cMore i{display:inline-block;transform:rotate(180deg)}
+.cBody{
+  display:grid;grid-template-rows:0fr;margin-top:0;border-top:1px solid transparent;
+  transition:grid-template-rows .28s ease, margin-top .28s ease, border-color .28s ease;
+}
+.cBodyInner{overflow:hidden;min-height:0}
+.card.open .cBody{grid-template-rows:1fr;margin-top:12px;padding-top:12px;border-top-color:var(--line)}
+.card.open .cMore i{display:inline-block;transform:rotate(180deg);transition:transform .2s}
+.cMore i{display:inline-block;transition:transform .2s}
 .sec{margin-bottom:12px}
 .sec:last-child{margin-bottom:2px}
 .sec .lab{display:block;font-family:var(--mono);font-size:.66rem;letter-spacing:.28em;color:var(--faint);margin-bottom:3px}
@@ -215,3 +229,13 @@ a{color:inherit}
   .heroSub{font-size:.95rem}
   #toTop{right:14px;bottom:14px}
 }
+
+.resumeBar{
+  position:fixed;left:50%;bottom:26px;transform:translate(-50%, 120px);z-index:80;
+  display:flex;align-items:center;gap:14px;padding:10px 14px 10px 20px;
+  background:var(--panel);border:1px solid var(--accent);border-radius:12px;
+  box-shadow:0 10px 40px rgba(0,0,0,.4);font-size:.9rem;
+  opacity:0;transition:all .45s cubic-bezier(.22,.9,.3,1);
+}
+.resumeBar.show{opacity:1;transform:translate(-50%,0)}
+.resumeBar b{color:var(--accent);font-family:var(--serif)}
