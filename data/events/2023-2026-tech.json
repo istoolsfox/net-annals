@@ -1,3581 +1,3581 @@
 [
- {
-  "id": "2023-01-15-san-ti-tv",
-  "date": "2023-01-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "剧版《三体》开播",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1月15日腾讯视频《三体》电视剧开播，刘慈欣科幻IP首次被国产剧完整影像化，口碑持续走高。",
-  "detail": "由杨磊执导、张鲁一和于和伟主演的《三体》电视剧在腾讯视频开播，对原著「古筝行动」「三体游戏」等名场面的高还原获得原著粉认可，豆瓣开分8.0后升至8.7，成为近年国产科幻剧口碑标杆，也为同年春节档《流浪地球2》带动的「科幻热」添火。",
-  "impact": "验证了中国本土科幻IP影视化的商业与口碑双路径，后续衍生与IP授权大幅提速。",
-  "aftermath": "衍生动画、周边与舞台剧接连推出；网飞版《三体》于2024年3月上线形成对照。",
-  "sources": [
-   {
-    "title": "三体（电视剧）",
-    "url": "https://zh.wikipedia.org/wiki/三体_(电视剧)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "影视",
-   "科幻",
-   "腾讯"
-  ]
- },
- {
-  "id": "2023-01-22-wandering-earth-2",
-  "date": "2023-01-22",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《流浪地球2》春节档上映",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "1月22日《流浪地球2》上映，与《满江红》同档竞争，最终拿下超40亿元票房，标志中国重工业科幻片续作成熟。",
-  "detail": "郭帆执导的《流浪地球2》作为前作前传上映，太空电梯、数字生命等设定与大规模实体置景引发热议，最终票房约40.29亿元居2023年度第二，与《满江红》的档期竞争成为春节档话题。影片使用的国产特效流程与设备国产化被广泛讨论。",
-  "impact": "续作票房与口碑双赢，把中国科幻电影工业化的讨论推向主流。",
-  "aftermath": "系列第三部立项，周边众筹破亿元；《流浪地球3》定档后续年份。",
-  "sources": [
-   {
-    "title": "流浪地球2",
-    "url": "https://zh.wikipedia.org/wiki/流浪地球2",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "春节档"
-  ]
- },
- {
-  "id": "2023-01-23-microsoft-openai-invest",
-  "date": "2023-01-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "微软宣布与OpenAI扩大多年期合作并追加数十亿美元投资",
-  "category": "company",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1月23日微软宣布与OpenAI扩大多年期合作，追加数十亿美元投资，Azure成为OpenAI独家云，媒体报道规模约百亿美元。",
-  "detail": "微软在官方博客宣布与OpenAI扩展多年期合作伙伴关系，追加数十亿美元投资，OpenAI将把模型与Azure独家绑定，微软获得利润分成优先权。双方未披露确切金额，多家媒体报道总额约100亿美元。这是生成式AI竞赛中第一笔超大规模云厂商押注。",
-  "impact": "开启大公司围绕基础模型的资本开支竞赛，把OpenAI与微软深度绑定。",
-  "aftermath": "OpenAI估值随后升至约290亿美元；微软陆续把GPT-4接入Bing、Office与Windows。",
-  "sources": [
-   {
-    "title": "OpenAI",
-    "url": "https://en.wikipedia.org/wiki/OpenAI",
-    "type": "wiki"
-   },
-   {
-    "title": "Microsoft News",
-    "url": "https://blogs.microsoft.com",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "微软",
-   "OpenAI",
-   "融资"
-  ]
- },
- {
-  "id": "2023-02-01-chatgpt-100m",
-  "date": "2023-02-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "研究称ChatGPT上线两个月月活破1亿",
-  "category": "internet",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "2月1日瑞银联合报告援引Similarweb估算称ChatGPT月活用户破1亿，成为史上用户增长最快的消费级应用。",
-  "detail": "瑞银分析师援引Similarweb数据发布报告，估算ChatGPT在2023年1月底月活用户达到约1亿，距上线仅约两个月，此前TikTok达成同等规模用了9个月，引发全球对生成式AI商业化速度的讨论。",
-  "impact": "ChatGPT成为AI大规模普及的标志性节点，直接引爆大厂模型竞赛。",
-  "aftermath": "各大科技公司加速自研模型上线；服务器容量一度成为OpenAI主要瓶颈。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "用户里程碑"
-  ]
- },
- {
-  "id": "2023-02-01-chatgpt-plus",
-  "date": "2023-02-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT Plus 订阅上线",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "OpenAI于2月1日推出ChatGPT Plus订阅服务，每月20美元，提供高峰期优先访问与更快响应，是ChatGPT首个收费档。",
-  "detail": "ChatGPT Plus定价每月20美元，权益包括高峰时段也可使用、更快响应速度和优先体验新功能，后续逐步加入GPT-4、联网、插件等。这是OpenAI第一次向普通用户直接收费，也被视为「订阅制AI助手」这一品类的开端。",
-  "impact": "确立了消费级AI助手20美元/月的行业默认定价锚点。",
-  "aftermath": "2024年新增Team与企业版；竞品Claude、Gemini随后对标推出同级订阅。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "订阅",
-   "OpenAI"
-  ]
- },
- {
-  "id": "2023-02-06-google-bard-announce",
-  "date": "2023-02-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌宣布对话式AI「Bard」",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月6日谷歌CEO宣布聊天机器人Bard，应对ChatGPT冲击；次日发布会演示中Bard答错天文问题，股价单日跌约8%。",
-  "detail": "谷歌在官方博客预告对话式AI服务Bard，并向部分测试者开放。2月8日巴黎发布会上，Bard在演示中把詹姆斯·韦伯望远镜首张系外行星照片的常识问题答错，截图广泛传播，Alphabet当日市值蒸发超千亿美元。",
-  "impact": "暴露大模型「幻觉」问题的标志性案例，也让谷歌AI叙事一度承压。",
-  "aftermath": "Bard于3月21日才开放公测，后续更名Gemini并完成赶超。",
-  "sources": [
-   {
-    "title": "Gemini（聊天机器人）",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌"
-  ]
- },
- {
-  "id": "2023-02-07-alibaba-tongyi-tease",
-  "date": "2023-02-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里确认研发类ChatGPT产品「通义千问」",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "2月7日阿里确认在研发类ChatGPT对话机器人，已进入内测，后定名通义千问，成为国内大厂跟进大模型的标志事件之一。",
-  "detail": "阿里方面向媒体确认正在研发类ChatGPT产品，已接入阿里云内测，命名与阿里云「通义」系列相关，即后来的通义千问。此后百度、360、字节等国内公司相继确认跟进，形成国内「百模大战」的第一波立项潮。",
-  "impact": "国内大厂大模型竞备公开化的起点之一。",
-  "aftermath": "通义千问4月11日开启邀测，9月开源Qwen系列。",
-  "sources": [
-   {
-    "title": "通义千问",
-    "url": "https://zh.wikipedia.org/wiki/通义千问",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "阿里巴巴"
-  ]
- },
- {
-  "id": "2023-02-07-meta-llama",
-  "date": "2023-02-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Meta 发布大模型 LLaMA",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月24日Meta开放LLaMA权重下载（研究许可），7B至65B四档小模型以小搏大，为开源社区爆发埋下伏笔。",
-  "detail": "Meta于2月24日宣布向研究者开放LLaMA（Large Language Model Meta AI）权重，含7B、13B、33B、65B四档。官方许可仅限研究用途，但权重很快泄露并在社区流传，催生了Alpaca、Vicuna等一大批微调模型。",
-  "impact": "证明了小参数模型的可能性，成为开源大模型生态的直接起点。",
-  "aftermath": "7月Meta顺势推出可商用的Llama 2，彻底改变开源模型格局。",
-  "sources": [
-   {
-    "title": "Llama (language model)",
-    "url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Meta",
-   "开源"
-  ]
- },
- {
-  "id": "2023-02-08-bing-chat",
-  "date": "2023-02-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "微软发布集成AI的新版必应搜索",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月8日微软发布基于OpenAI模型的全新Bing与Edge，把对话式搜索搬进浏览器，用户排队申请一度超百万。",
-  "detail": "微软把OpenAI的下一代模型（后确认基于GPT-4）集成进Bing搜索引擎，提供聊天式检索、长文摘要与Edge侧边栏问答。上线首日申请排队用户超过百万，测试中Bing出现的「类人格」对话（如Sydney）引发关于AI安全与人格化的广泛讨论。",
-  "impact": "被视为搜索引擎20年来最大交互变革，倒逼谷歌加速AI化。",
-  "aftermath": "产品后更名为Microsoft Copilot，成为微软全线AI助手的品牌。",
-  "sources": [
-   {
-    "title": "Microsoft Copilot",
-    "url": "https://en.wikipedia.org/wiki/Microsoft_Copilot",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "微软",
-   "搜索"
-  ]
- },
- {
-  "id": "2023-03-01-chatgpt-api",
-  "date": "2023-03-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI开放ChatGPT API（gpt-3.5-turbo）",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月1日OpenAI开放ChatGPT与Whisper API，gpt-3.5-turbo定价为此前版本的十分之一，AI应用开发潮随之爆发。",
-  "detail": "OpenAI向开发者开放ChatGPT同款模型gpt-3.5-turbo的API接口，输入价格降至每千token 0.002美元，约为此前GPT-3.5系列的十分之一，并提供数据留存策略选项。大量创业公司据此快速搭建AI应用，成为「AI应用井喷」的技术前提。",
-  "impact": "大幅降低AI应用门槛，直接引爆2023年AI创业与融资潮。",
-  "aftermath": "6月开放函数调用；后续GPT-4 Turbo进一步降价。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "API"
-  ]
- },
- {
-  "id": "2023-03-01-cursor-launch",
-  "date": "2023-03-01",
-  "date_accuracy": "month",
-  "date_confidence": "verified",
-  "title": "AI 代码编辑器 Cursor 首次发布",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月Anysphere公司推出AI代码编辑器Cursor，把GPT模型直接嵌进VS Code式编辑环境，「对话改代码」逐渐取代补全式编程。",
-  "detail": "由MIT辍学生团队Anysphere开发的Cursor基于VS Code分支改造，支持整库上下文问答、行内编辑与Tab补全，早期接入GPT-4后口碑在开发者社区迅速发酵，成为「AI原生IDE」品类的代表。",
-  "impact": "开创了AI代码编辑器赛道，两年后成为程序员渗透率最高的AI工具之一。",
-  "aftermath": "2025年母公司Anysphere估值突破百亿美元，与GitHub Copilot正面竞争。",
-  "sources": [
-   {
-    "title": "Cursor 官网",
-    "url": "https://cursor.com",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "编程",
-   "开发者工具"
-  ]
- },
- {
-  "id": "2023-03-14-chatglm-6b",
-  "date": "2023-03-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "清华系智谱AI开源双语模型 ChatGLM-6B",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "3月14日智谱AI与清华KEG开源62亿参数双语对话模型ChatGLM-6B，消费级显卡即可部署，成为国内开发者最早大规模自托管的选择。",
-  "detail": "ChatGLM-6B基于GLM架构，支持中英双语问答与对话，6B规模经量化后最低6GB显存即可运行，GitHub开源迅速获得数万Star，是国内「百模大战」早期最受欢迎的开源底座之一，衍生出大量垂直领域微调模型。",
-  "impact": "显著降低了国内高校与中小团队体验和微调大模型的门槛。",
-  "aftermath": "智谱同年7月起推出商用ChatGLM2/3与后续GLM-4系列。",
-  "sources": [
-   {
-    "title": "THUDM/ChatGLM-6B",
-    "url": "https://github.com/THUDM/ChatGLM-6B",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "开源",
-   "智谱"
-  ]
- },
- {
-  "id": "2023-03-14-claude-v1",
-  "date": "2023-03-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 开放 Claude 公测",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月14日OpenAI前员工创办的Anthropic开放AI助手Claude公测，主打「更安全、长文本」，正式加入大模型第一梯队竞争。",
-  "detail": "Anthropic由前OpenAI副总裁Dario Amodei兄弟创办，理念是「AI对齐」。Claude首版支持最长10万token上下文，强调 helpful、honest、harmless 的训练目标，通过Slack集成与Notion、Quora等伙伴应用对外开放。",
-  "impact": "让OpenAI之外出现了真正有竞争力的闭源头部玩家。",
-  "aftermath": "7月发布Claude 2，2024年起以Claude 3系列多次在长文本与代码上与GPT互有胜负。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2023-03-14-gpt4",
-  "date": "2023-03-14",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "GPT-4 发布",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "3月14日OpenAI发布GPT-4，支持图像输入，在美国律师资格考试中进入前10%，性能全面超越GPT-3.5。",
-  "detail": "OpenAI发布多模态大模型GPT-4，接受图文输入并输出文本，在律师资格、SAT等专业考试中达到人类前10%水平，上下文长度支持至32K，同步上线ChatGPT Plus与新版Bing。技术报告详述了评测结果但未公布架构、参数与训练数据细节。",
-  "impact": "把大模型能力推到「可通过专业考试」的新台阶，成为此后两年对标的基准线。",
-  "aftermath": "11月推出GPT-4 Turbo；2024年5月被GPT-4o接替为旗舰。",
-  "sources": [
-   {
-    "title": "OpenAI 官方",
-    "url": "https://openai.com/index/gpt-4/",
-    "type": "official"
-   },
-   {
-    "title": "GPT-4",
-    "url": "https://en.wikipedia.org/wiki/GPT-4",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "GPT"
-  ]
- },
- {
-  "id": "2023-03-15-midjourney-v5",
-  "date": "2023-03-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Midjourney V5 发布，「教皇羽绒服」假图引爆AIGC讨论",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月15日Midjourney发布V5版本，生成图像首次达到「真假难辨」的照片级水准，月底「特朗普被捕」「教皇穿羽绒服」假图疯传。",
-  "detail": "Midjourney V5大幅提升写实能力与手部细节，「prompt很小，效果很大」成为圈内口号。3月下旬，用其生成的「特朗普被逮捕」「教皇穿白色羽绒服」等假图在社交网络疯传，多数观众难辨真假，引发全球对AI生成内容识别与治理的集中讨论。",
-  "impact": "让「AI假图」第一次成为大众议题，AIGC水印与检测话题升温。",
-  "aftermath": "当年6月其估值升至100亿美元，V6于年底上线。",
-  "sources": [
-   {
-    "title": "Midjourney",
-    "url": "https://en.wikipedia.org/wiki/Midjourney",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "文生图"
-  ]
- },
- {
-  "id": "2023-03-16-ernie-bot",
-  "date": "2023-03-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "百度发布大模型产品「文心一言」",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "3月16日百度在北京发布「文心一言」，成为国内首个对标ChatGPT的大厂产品，发布会用录播演示一度引发争议。",
-  "detail": "百度在总部举行发布会，创始人李彦宏现场介绍文心一言的文学创作、商业文案、数理推算、中文理解与多模态生成五大能力，演示环节采用预录对话。股价当日一度下跌约10%，但产品随后获数百家企业宣布接入，成为「国产大模型第一枪」。",
-  "impact": "标志着国内大厂正面参战大模型，「国产ChatGPT时刻」叙事确立。",
-  "aftermath": "8月31日文心一言成为首批面向公众开放的备案产品之一。",
-  "sources": [
-   {
-    "title": "文心一言",
-    "url": "https://zh.wikipedia.org/wiki/文心一言",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "百度",
-   "大模型"
-  ]
- },
- {
-  "id": "2023-03-16-m365-copilot",
-  "date": "2023-03-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "微软发布 Microsoft 365 Copilot",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月16日微软发布 Microsoft 365 Copilot，把大模型嵌进 Word、Excel、PPT 等办公全家桶，开启「AI 办公」叙事。",
-  "detail": "Microsoft 365 Copilot将GPT-4与Microsoft Graph结合，可在Word续写、Excel分析数据、Outlook写邮件、Teams生成会议纪要，售价将面向企业按席位收费。演示中「一句话生成PPT」「几分钟读完全部邮件」的画面成为年度AI名场面。",
-  "impact": "让「AI 改造办公软件」成为SaaS行业的统一路线图。",
-  "aftermath": "11月起面向企业开放定价（30美元/用户/月），谷歌Workspace随后跟进。",
-  "sources": [
-   {
-    "title": "Microsoft 365 Copilot",
-    "url": "https://en.wikipedia.org/wiki/Microsoft_365_Copilot",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "微软",
-   "办公"
-  ]
- },
- {
-  "id": "2023-03-20-runway-gen2",
-  "date": "2023-03-20",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Runway 发布 Gen-2 文生视频",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月20日Runway发布文生视频模型Gen-2，用户输入文字即可生成数秒短片，成为Sora之前最出圈的AI视频工具。",
-  "detail": "Runway由纽约大学艺术家创办，Gen-2支持文本、图像加文本生成视频，虽然分辨率与时长有限，但「AI拍片」的想象被打开，被大量创作者用于短片与MV实验，与Stable Video Diffusion、Pika一起构成Sora出现前的AI视频第一梯队。",
-  "impact": "把文生视频从实验室demo带入创作者日常工具箱。",
-  "aftermath": "2024年推出Gen-3，2025年公司估值一度冲至30亿美元以上。",
-  "sources": [
-   {
-    "title": "Runway (company)",
-    "url": "https://en.wikipedia.org/wiki/Runway_(company)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "文生视频"
-  ]
- },
- {
-  "id": "2023-03-21-bard-public",
-  "date": "2023-03-21",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌 Bard 面向公众开放测试",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月21日谷歌 Bard 在美国英国开放公测，采用轻量版LaMDA，谷歌自此全面转入AI防御战。",
-  "detail": "Bard公测初期仅向美英成年用户开放，基于轻量化LaMDA模型，谷歌明确表示这只是「实验品」。此后 Bard 快速迭代，5月I/O大会升级为PaLM 2驱动并全球开放，2024年2月更名为Gemini，完成从防御到进攻的品牌切换。",
-  "impact": "谷歌正式下场消费级AI助手竞争，与微软形成双巨头对垒。",
-  "aftermath": "更名Gemini后订阅版对标ChatGPT Plus，2025年起Gemini系列多次登顶评测。",
-  "sources": [
-   {
-    "title": "Gemini（聊天机器人）",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌"
-  ]
- },
- {
-  "id": "2023-03-23-chatgpt-plugins",
-  "date": "2023-03-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT 插件功能上线",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月23日OpenAI面向Plus用户开放插件系统，支持联网浏览、代码解释器与第三方应用接入。",
-  "detail": "首批插件包括Expedia、Instacart、Zapier等，配合代码解释器（后称Advanced Data Analysis）与浏览功能，ChatGPT从聊天工具转向「平台」。不过插件生态留存有限，2024年4月OpenAI宣布用GPTs与Assistants API取代插件体系。",
-  "impact": "第一次把「AI应用生态」概念带向大众。",
-  "aftermath": "5月OpenAI应用商店化叙事延续到GPTs；插件体系半年后退役。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "插件"
-  ]
- },
- {
-  "id": "2023-03-28-alibaba-reorg",
-  "date": "2023-03-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里巴巴宣布「1+6+N」组织变革",
-  "category": "company",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "3月28日张勇发全员信宣布阿里拆为六大业务集团与多家业务公司，各自可独立融资上市，是阿里24年来最大组织变革。",
-  "detail": "阿里巴巴集团设立阿里云智能、淘宝天猫商业、本地生活、菜鸟、国际数字商业、大文娱六大业务集团和多家业务公司，各集团实行董事会领导下的CEO负责制，可独立面对市场分拆融资或上市。张勇兼任阿里云智能集团CEO。",
-  "impact": "各业务线被推向独立经营，为后续云、菜鸟等分拆上市计划铺路。",
-  "aftermath": "5月云智能、菜鸟启动上市筹备；9月张勇卸任，吴泳铭接任CEO后调整节奏。",
-  "sources": [
-   {
-    "title": "阿里巴巴集团",
-    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "公司",
-   "组织变革"
-  ]
- },
- {
-  "id": "2023-03-30-auto-gpt",
-  "date": "2023-03-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "开源项目 Auto-GPT 引爆「AI智能体」热潮",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月30日开源项目Auto-GPT发布，让GPT-4自主拆解任务、调用工具循环执行，上线数周GitHub Star破十万。",
-  "detail": "Auto-GPT由开发者Toran Bruce Richards发布，通过让GPT-4自我提示、自主设定子目标并循环调用搜索、文件、记忆等工具，试图实现「给一个目标就自己跑」的智能体。尽管实际成功率低、成本高，它点燃了「AI Agent」的第一波想象力。",
-  "impact": "确立了「Agent=LLM+工具+循环」的范式，催生BabyAGI等一串跟风项目。",
-  "aftermath": "两年后Claude Code、Manus等产品把Agent热潮做成了成熟品类。",
-  "sources": [
-   {
-    "title": "AutoGPT",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Agent",
-   "开源"
-  ]
- },
- {
-  "id": "2023-04-10-baichuan-founding",
-  "date": "2023-04-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "王小川创办百川智能",
-  "category": "company",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "4月10日搜狗前CEO王小川宣布创立大模型公司百川智能，获5000万美元启动资金，成为「大模型五小虎」代表。",
-  "detail": "王小川宣布创立北京百川智能科技有限公司，早前透露已获5000万美元启动资金，来自其与业内友人共同出资，公司目标是打造中国版OpenAI。百川与智谱、月之暗面、MiniMax、零一万物被合称为中国大模型「五小虎」。",
-  "impact": "把大模型创业潮从大厂扩展到明星创始人初创公司。",
-  "aftermath": "10月完成A轮3亿美元融资（阿里、腾讯、小米参投）；后并入医疗AI方向。",
-  "sources": [
-   {
-    "title": "百川智能",
-    "url": "https://zh.wikipedia.org/wiki/百川智能",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "创业",
-   "融资"
-  ]
- },
- {
-  "id": "2023-04-10-sensenova",
-  "date": "2023-04-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "商汤发布「日日新」大模型体系",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "4月10日商汤科技在技术开放日发布「日日新」大模型体系及「商量」对话模型，CV龙头正式切入大语言模型。",
-  "detail": "商汤发布以「日日新SenseNova」命名的大模型体系，包含自然语言对话模型「商量SenseChat」、文生图「秒画」等，基于 SenseCore AI大装置训练。同场展示了AIGC、自动驾驶感知等落地场景。",
-  "impact": "国内视觉AI龙头转向大模型路线的标志性动作。",
-  "aftermath": "2024年商汤把「生成式AI」确立为第一战略，日日新持续迭代至5.5/6版本。",
-  "sources": [
-   {
-    "title": "商汤科技",
-    "url": "https://zh.wikipedia.org/wiki/商汤科技",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "商汤"
-  ]
- },
- {
-  "id": "2023-04-11-qwen-beta",
-  "date": "2023-04-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里云峰会：通义千问开启邀测",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "4月11日阿里云峰会宣布通义千问开启企业邀测，阿里全线产品将全面接入「大模型改造」。",
-  "detail": "阿里云峰会上张勇宣布通义千问开启邀请测试，未来所有产品都将接入大模型改造；钉钉同步演示了魔法棒等AI功能。通义千问自此从内测走向公测节奏，并与后来开源的Qwen系列形成「闭源+开源」双线。",
-  "impact": "阿里确立「模型即服务」云战略，国内云厂商AI化竞速开启。",
-  "aftermath": "8月开源Qwen-7B；2024年9月Qwen2.5开源后成为全球衍生模型最多的开源家族之一。",
-  "sources": [
-   {
-    "title": "通义千问",
-    "url": "https://zh.wikipedia.org/wiki/通义千问",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "阿里云"
-  ]
- },
- {
-  "id": "2023-04-13-bedrock",
-  "date": "2023-04-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "亚马逊发布企业级大模型平台 Bedrock",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "4月13日亚马逊发布Bedrock，向AWS企业客户提供多家模型厂商的API托管服务，主打「不把数据训练给模型」。",
-  "detail": "Bedrock让AWS客户通过API调用AI21、Anthropic Claude、Stability AI等模型并微调，强调数据不出客户环境；同日还发布了自有模型Titan与代码助手CodeWhisperer。云三巨头自此都完成了「模型+云」布局。",
-  "impact": "企业采购大模型的主流方式从自建转向「云上选模型」。",
-  "aftermath": "9月亚马逊宣布向Anthropic投资至多40亿美元并深度绑定Claude上云。",
-  "sources": [
-   {
-    "title": "Amazon Bedrock",
-    "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "亚马逊",
-   "云"
-  ]
- },
- {
-  "id": "2023-04-13-rtx4070",
-  "date": "2023-04-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "英伟达 RTX 4070 显卡上市",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "4月13日RTX 4070以549美元国发4499元上市，作为40系主流甜品卡填补4000元档，延续40系能效口碑。",
-  "detail": "RTX 4070基于Ada Lovelace架构AD104核心，12GB GDDR6X显存，性能大致追平上代旗舰3090而功耗大幅降低，首发国行4499元。40系凭借DLSS 3帧生成与低功耗在高价周期中逐步走量。",
-  "impact": "主流价位完成40系铺货，AI热潮同时推高同代数据中心GPU需求。",
-  "aftermath": "4060于6月29日跟进上市；40系Super系列次年1月发布。",
-  "sources": [
-   {
-    "title": "GeForce RTX 40 series",
-    "url": "https://en.wikipedia.org/wiki/GeForce_RTX_40_series",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "英伟达",
-   "显卡"
-  ]
- },
- {
-  "id": "2023-04-22-hysj",
-  "date": "2023-04-22",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《漫长的季节》开播成年度口碑剧王",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "4月22日辛爽执导的《漫长的季节》在腾讯视频开播，豆瓣评分涨至9.4，成为近年国产剧最高分之一。",
-  "detail": "范伟、秦昊、陈明昊主演的东北往事题材悬疑剧以三条时间线讲述桦钢往事，电影化视听与生活化表演获得罕见口碑，大结局后豆瓣稳定在9.4分，被广泛称为「国剧天花板」。",
-  "impact": "证明精品短剧集路线的商业与口碑价值。",
-  "aftermath": "带动悬疑生活流剧集跟拍潮；主创辛爽、编剧班底成为头部资源。",
-  "sources": [
-   {
-    "title": "漫长的季节",
-    "url": "https://zh.wikipedia.org/wiki/漫长的季节",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "剧集",
-   "口碑"
-  ]
- },
- {
-  "id": "2023-04-26-hsr",
-  "date": "2023-04-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "米哈游《崩坏：星穹铁道》全球上线",
-  "category": "product",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "4月26日米哈游回合制新作《崩坏：星穹铁道》全球公测，上线即登多国iOS畅销榜前列，成为米哈游第二增长曲线。",
-  "detail": "《星穹铁道》采用回合制+箱庭探索玩法，上线首月移动端收入估算超十亿元人民币级别，与《原神》形成双旗舰。其「宇宙科幻」题材与强角色运营延续了米哈游内容驱动发行的打法。",
-  "impact": "确认米哈游多产品线运营能力，二游赛道竞争全面升级。",
-  "aftermath": "与网易《逆水寒》手游、腾讯新游共同抬高2023年国内产品竞争烈度。",
-  "sources": [
-   {
-    "title": "崩坏：星穹铁道",
-    "url": "https://zh.wikipedia.org/wiki/崩坏：星穹铁道",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "米哈游"
-  ]
- },
- {
-  "id": "2023-05-05-gotg3",
-  "date": "2023-05-05",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《银河护卫队3》上映",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "5月5日《银河护卫队3》全球上映，全球票房约8.46亿美元，成为漫威第四、五阶段口碑与票房难得的双丰收之作。",
-  "detail": "詹姆斯·古恩执导的银河护卫队收官之作在全球收获约8.46亿美元票房，烂番茄新鲜度与观众评分均居漫威近年前列，其「火箭浣熊起源」篇章被普遍认为是漫威后期情感完成度最高的作品之一。",
-  "impact": "漫威电影宇宙低谷期中少有的口碑修复案例。",
-  "aftermath": "古恩随后转投DC执掌新宇宙；漫威于2024年起明显收缩年更片单。",
-  "sources": [
-   {
-    "title": "Guardians of the Galaxy Vol. 3",
-    "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "漫威"
-  ]
- },
- {
-  "id": "2023-05-06-iflyspark",
-  "date": "2023-05-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "科大讯飞发布「星火」认知大模型",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "5月6日科大讯飞发布星火认知大模型V1.0，主打教育办公场景，承诺年内迭代至对标ChatGPT的水平。",
-  "detail": "讯飞星火发布时演示了多风格写作、数学推理、代码生成等能力，并宣布6月、8月、10月三次升级节点，重点落地教育（学习机）、办公（办公本）与汽车座舱。星火依托讯飞在B端与教育硬件的渠道快速铺开。",
-  "impact": "国产大模型「场景落地」路线的代表，硬件捆绑成为特色打法。",
-  "aftermath": "星火V3.5、V4.0陆续发布；2024年起聚焦教育与学生硬件。",
-  "sources": [
-   {
-    "title": "科大讯飞",
-    "url": "https://zh.wikipedia.org/wiki/科大讯飞",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "讯飞",
-   "大模型"
-  ]
- },
- {
-  "id": "2023-05-10-google-io",
-  "date": "2023-05-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌 I/O 2023：PaLM 2 与全产品AI化",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "5月10日谷歌I/O大会发布PaLM 2模型，Bard全面开放并支持180余国，搜索、地图、照片全线注入生成式AI。",
-  "detail": "谷歌宣布Bard取消候补名单、切换到更强的PaLM 2并支持40种语言；搜索推出SGE生成式摘要实验；Workspace集成Duet AI「帮我写」。整场发布会以25次提到AI的节奏宣告谷歌进入「AI-first」全面防御反击。",
-  "impact": "谷歌把AI从单点产品升级为全生态改造工程。",
-  "aftermath": "12月Gemini 1.0发布；2024年AI Overviews全面上线搜索。",
-  "sources": [
-   {
-    "title": "Google I/O",
-    "url": "https://en.wikipedia.org/wiki/Google_I/O",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌"
-  ]
- },
- {
-  "id": "2023-05-12-totk",
-  "date": "2023-05-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《塞尔达传说：王国之泪》发售",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "5月12日《王国之泪》全球发售，三天销量破千万套创系列纪录，「究极手」创造力玩法席卷社交媒体。",
-  "detail": "任天堂Switch平台的《王国之泪》首三天销量超1000万套，成为系列最快纪录。「究极手」拼接载具、「余料建造」合成武器的自由度让玩家创作视频在全网刷屏，成为当年游戏文化最大现象之一。",
-  "impact": "Switch生命周期末段仍产出千万级爆款，开放世界设计再立标杆。",
-  "aftermath": "获TGA2023多项提名；次年Switch 2公布，本作成为跨代护航之一。",
-  "sources": [
-   {
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "任天堂"
-  ]
- },
- {
-  "id": "2023-05-18-chatgpt-ios",
-  "date": "2023-05-18",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT iOS 应用全球上线",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "5月18日OpenAI发布ChatGPT iOS版（美区首发），数日内冲上App Store下载榜首，AI助手进入移动时代。",
-  "detail": "ChatGPT官方App支持语音输入（Whisper转写）、历史同步与Plus订阅，上线不到一周下载量破50万并登顶美国App Store免费榜。安卓版7月25日跟进。第三方「套壳」应用此前靠ChatGPT概念大赚，官方App直接终结了这一窗口。",
-  "impact": "AI助手的默认入口从网页转向手机。",
-  "aftermath": "2024年桌面端与语音模式陆续上线，ChatGPT周活跃用户在2025年破8亿。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "移动"
-  ]
- },
- {
-  "id": "2023-05-23-anthropic-series-c",
-  "date": "2023-05-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 完成4.5亿美元C轮融资",
-  "category": "company",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "5月23日Anthropic完成4.5亿美元C轮融资，谷歌、Salesforce等参投，年内累计融资超10亿美元。",
-  "detail": "本轮由Spark Capital领投，谷歌、Salesforce Ventures、Zoom等参与，加上此前谷歌近4亿美元投资，Anthropic在半年内融资总额超过10亿美元，估值约在40-50亿美元区间，成为OpenAI之外融资最快的AI初创。",
-  "impact": "确立「双头部」格局：OpenAI与Anthropic瓜分顶级AI风险资本。",
-  "aftermath": "9月亚马逊40亿美元、2024年谷歌追加；2025年估值升至千亿美元级。",
-  "sources": [
-   {
-    "title": "Anthropic",
-    "url": "https://en.wikipedia.org/wiki/Anthropic",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "融资",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2023-05-30-nvidia-1t",
-  "date": "2023-05-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "英伟达市值盘中突破1万亿美元",
-  "category": "company",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "5月30日英伟达市值盘中突破1万亿美元，成为史上首家「万亿芯片公司」，AI算力卖铲人叙事确立。",
-  "detail": "受AI训练需求爆发带动，英伟达5月24日给出远超预期的二季度指引后股价暴涨约25%，5月30日盘中市值一度突破1万亿美元，加入苹果、微软、谷歌、亚马逊所在的万亿俱乐部。其H100在市场上一卡难求。",
-  "impact": "资本市场正式为「AI算力」定价，英伟达成为AI时代的最大赢家。",
-  "aftermath": "2024年6月市值破3万亿、2025年7月破4万亿、10月破5万亿。",
-  "sources": [
-   {
-    "title": "Nvidia",
-    "url": "https://en.wikipedia.org/wiki/Nvidia",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "英伟达",
-   "市值",
-   "AI算力"
-  ]
- },
- {
-  "id": "2023-05-31-rev1999",
-  "date": "2023-05-31",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《重返未来：1999》全球公测",
-  "category": "product",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "5月31日深蓝互动的复古神秘学题材二游《重返未来：1999》全球上线，凭独特英伦复古美术打出差异化。",
-  "detail": "以1999年末「暴雨」为引子的时空题材回合制RPG，用粤语配音、复古海报美术形成强烈风格辨识度，上线后登顶中国iOS免费榜并在海外获得稳定受众，成为2023年中小厂商差异化突围的样本。",
-  "impact": "证明强美术风格可以撬动二游红海市场。",
-  "aftermath": "周年庆与联动运营保持稳定流水，成为「小而美」二游代表。",
-  "sources": [
-   {
-    "title": "重返未来：1999",
-    "url": "https://zh.wikipedia.org/wiki/重返未来：1999",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "二次元"
-  ]
- },
- {
-  "id": "2023-06-01-quest3",
-  "date": "2023-06-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Meta 提前发布 Quest 3 头显",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "6月1日Meta赶在WWDC前公布Quest 3（499美元起），主打彩色透视混合现实，狙击苹果头显发布。",
-  "detail": "Quest 3采用高通骁龙XR2 Gen 2与彩色视频透视，比上代薄40%，128GB版定价499美元，10月10日发货。扎克伯格选择在苹果发布会前四天官宣，直接展开「MR定价权」舆论战。",
-  "impact": "消费级MR头显进入「苹果Meta对标」时代。",
-  "aftermath": "2024年Meta推低价版Quest 3S；Quest 3成为透视MR的主力出货机型。",
-  "sources": [
-   {
-    "title": "Meta Quest 3",
-    "url": "https://en.wikipedia.org/wiki/Meta_Quest_3",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "VR",
-   "Meta"
-  ]
- },
- {
-  "id": "2023-06-02-spiderverse",
-  "date": "2023-06-02",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《蜘蛛侠：纵横宇宙》上映",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "6月2日《蜘蛛侠：纵横宇宙》全球上映，全球票房约6.9亿美元，动画视觉风格再被奉为行业标杆。",
-  "detail": "索尼动画的《纵横宇宙》延续多元宇宙叙事，以「每进一个宇宙换一种画风」的视觉实验获得压倒性好评，北美开画1.2亿美元创索尼动画纪录，全球累计约6.9亿美元，并推动「迈尔斯」成为Z世代最受欢迎的蜘蛛侠。",
-  "impact": "把「动画可以不是子供向」的叙事推向主流片厂。",
-  "aftermath": "续作《超越宇宙》多次延期，成为系列悬案。",
-  "sources": [
-   {
-    "title": "Spider-Man: Across the Spider-Verse",
-    "url": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "动画"
-  ]
- },
- {
-  "id": "2023-06-05-vision-pro",
-  "date": "2023-06-05",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "苹果发布 Vision Pro 空间计算头显",
-  "category": "hardware",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "6月5日WWDC发布Vision Pro，3499美元定价的「空间计算设备」配备双4K Micro-OLED与眼手交互，库克称其为Mac之后的下一个时代。",
-  "detail": "Vision Pro搭载M2+R1双芯片、23M像素屏幕与12摄像头，以眼动+手势+语音交互替代手柄，visionOS可运行iOS应用。发布会将其定位为「空间计算」，并非「VR」。首发仅美国，2024年2月2日上市，次年扩展到更多市场。",
-  "impact": "让「空间计算」成为XR行业统一叙事，带动供应商与内容生态转向。",
-  "aftermath": "上市初期热度高但销量放缓；2025年起苹果转向轻量版与AI眼镜路线传闻。",
-  "sources": [
-   {
-    "title": "Apple 官方",
-    "url": "https://www.apple.com/apple-vision-pro/",
-    "type": "official"
-   },
-   {
-    "title": "Apple Vision Pro",
-    "url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果",
-   "XR"
-  ]
- },
- {
-  "id": "2023-06-15-baichuan-7b",
-  "date": "2023-06-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "百川智能开源 Baichuan-7B",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "6月15日成立仅两个月的百川智能开源70亿参数中英双语模型Baichuan-7B，创国内大模型公司开源速度纪录。",
-  "detail": "Baichuan-7B基于2.6万亿token中英语料训练，开源后迅速登顶多个中文评测榜单的7B档，GitHub与社区下载火爆，与ChatGLM-6B并列成为国内最常被微调的底座之一。9月百川再开源130亿参数的Baichuan2。",
-  "impact": "国内「五小虎」用开源速度证明了自己。",
-  "aftermath": "百川后转向医疗大模型方向，开源节奏让位于闭源API。",
-  "sources": [
-   {
-    "title": "百川智能",
-    "url": "https://zh.wikipedia.org/wiki/百川智能",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "开源",
-   "百川"
-  ]
- },
- {
-  "id": "2023-06-22-lost-in-stars",
-  "date": "2023-06-22",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《消失的她》端午档引爆暑期档",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "6月22日《消失的她》端午档上映，最终票房35.23亿，用话题营销开创「情绪爽片」暑期档公式。",
-  "detail": "陈思诚监制的悬疑片以「恋爱脑警告」话题在短视频平台引爆，女性观众占比与复看率极高，最终票房35.23亿元列年度第四，验证了「短视频切片+情绪议题」的新宣发模型，直接拉高了整个2023暑期档的热度。",
-  "impact": "「话题营销+情绪消费」成为国产片宣发主流打法。",
-  "aftermath": "暑期档随后被《孤注一掷》《长安三万里》接力推至206亿影史纪录。",
-  "sources": [
-   {
-    "title": "消失的她",
-    "url": "https://zh.wikipedia.org/wiki/消失的她",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "暑期档"
-  ]
- },
- {
-  "id": "2023-06-30-justice-mobile",
-  "date": "2023-06-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "网易《逆水寒》手游上线",
-  "category": "product",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "6月30日网易《逆水寒》手游公测，以「不肝不氪」与AI NPC等差异化卖点首月流水破20亿元，重塑MMO品类。",
-  "detail": "《逆水寒》手游主打「殊途同归」的自由养成、外观单点付费与低价定位，并首批接入智能NPC对话（伏羲大模型），上线首月全平台流水估算超20亿元，迅速成为网易旗舰，引发MMO品类「价格战」。",
-  "impact": "把MMO从重肝重氪拖向低门槛大DAU模式，AI NPC首次规模商用。",
-  "aftermath": "网易随后把AI智能体能力推广到旗下更多产品。",
-  "sources": [
-   {
-    "title": "逆水寒（手游）",
-    "url": "https://zh.wikipedia.org/wiki/逆水寒_(手游)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "网易"
-  ]
- },
- {
-  "id": "2023-07-06-waic",
-  "date": "2023-07-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "2023世界人工智能大会（WAIC）开幕",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "7月6日WAIC在上海开幕，国内30余个大模型同台，白热化的「百模大战」首次集体亮相。",
-  "detail": "本届大会以「智联世界 生成未来」为主题，商汤、百度、阿里、腾讯、讯飞、华为及众多创业公司集中展示大模型，参展模型数量远超往届，「百模大战」成为全场关键词。机器狗、人形机器人与AIGC应用占据展馆主位。",
-  "impact": "宣告中国AI产业从单点追赶进入全面竞赛阶段。",
-  "aftermath": "8月首批大模型备案后，行业焦点从发布会转向商业化落地。",
-  "sources": [
-   {
-    "title": "世界人工智能大会",
-    "url": "https://zh.wikipedia.org/wiki/世界人工智能大会",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "大会",
-   "上海"
-  ]
- },
- {
-  "id": "2023-07-08-changan",
-  "date": "2023-07-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "国产动画电影《长安三万里》上映",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "7月8日追光动画《长安三万里》上映，凭借48首唐诗的「文化DNA」后劲十足，最终票房18.24亿元创追光纪录。",
-  "detail": "影片以高适与李白的友谊串起盛唐群像，「轻舟已过万重山」等段落带动大量亲子与诗歌观影潮，口碑曲线罕见地随档期走高，最终拿下18.24亿元，成为追光最卖座作品并获金鸡奖最佳美术片。",
-  "impact": "唐诗IP+动画长片验证了「文化向」动画的商业天花板。",
-  "aftermath": "追光「新文化」系列立项《聊斋：兰若寺》等后续作品。",
-  "sources": [
-   {
-    "title": "长安三万里",
-    "url": "https://zh.wikipedia.org/wiki/长安三万里",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "动画"
-  ]
- },
- {
-  "id": "2023-07-11-claude2",
-  "date": "2023-07-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 发布 Claude 2",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月11日Anthropic发布Claude 2，上下文扩至100K token，代码与数学能力大幅提升，向GPT-3.5发起正面挑战。",
-  "detail": "Claude 2向美国英国公众开放网页版，支持上传PDF等文件问答，在律师资格与GRE等基准上明显进步，API价格低于同代GPT-4。100K上下文成为其最大卖点，为后来的长文档分析场景开了先河。",
-  "impact": "长上下文从此成为模型竞争的核心维度之一。",
-  "aftermath": "11月Claude 2.1把上下文推到200K；次年Claude 3系列登顶多项评测。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2023-07-18-llama2",
-  "date": "2023-07-18",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Meta 开源 Llama 2 并开放商用",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "7月18日Meta与微软联合发布Llama 2，7B/13B/70B三档权重可免费商用，彻底改写开源大模型格局。",
-  "detail": "Llama 2在2万亿token上训练，附带安全微调版本，明确允许商业与研究使用（月活7亿以上巨头除外），微软Azure同步提供托管。开源几周内下载量破百万，成为全球企业私有化部署大模型的事实起点。",
-  "impact": "「开源追赶闭源」从此成为行业基本盘，直接催化全球自建模型潮。",
-  "aftermath": "2024年Llama 3/3.1(405B)、2025年Llama 4接续发布。",
-  "sources": [
-   {
-    "title": "Llama (language model)",
-    "url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Meta",
-   "开源"
-  ]
- },
- {
-  "id": "2023-07-20-fengshen",
-  "date": "2023-07-20",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《封神第一部》上映实现口碑逆袭",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "7月20日《封神第一部：朝歌风云》上映，从首日平淡到口碑发酵，最终票房26.34亿元成为暑期档现象。",
-  "detail": "乌尔善执导的神话史诗以「质子团」话题与工业化制作出圈，首日票房落后《消失的她》《长安三万里》，但点映口碑与「纣王是有史以来最会PUA的男人」等玩梗推动排片逆跌，最终26.34亿元收官。",
-  "impact": "「自来水」口碑逆袭案例被反复研究，国产重工业奇幻重新立项。",
-  "aftermath": "第二部第三部于2025年春节档及后续档期接力上映。",
-  "sources": [
-   {
-    "title": "封神第一部：朝歌风云",
-    "url": "https://zh.wikipedia.org/wiki/封神第一部：朝歌风云",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "暑期档"
-  ]
- },
- {
-  "id": "2023-07-21-barbenheimer",
-  "date": "2023-07-21",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "「芭本海默」同日档期成为全球文化现象",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月21日《芭比》与《奥本海默》北美同日上映，观众「一天连看两部」的Barbenheimer梗席卷全球，合计票房超24亿美元。",
-  "detail": "粉红喜剧与黑白传记的极端反差被网友二创成海量梗图，连排双片成为全球影迷仪式，最终《芭比》全球14.45亿美元、《奥本海默》9.75亿美元，被业界称为「救市之作」，展示了对立档期反而互利的意外效果。",
-  "impact": "年度最强电影文化现象，带动院线夏季票房强势回暖。",
-  "aftermath": "《奥本海默》后来拿下2024年奥斯卡最佳影片。",
-  "sources": [
-   {
-    "title": "Barbenheimer",
-    "url": "https://en.wikipedia.org/wiki/Barbenheimer",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "流行文化"
-  ]
- },
- {
-  "id": "2023-07-25-chatgpt-android",
-  "date": "2023-07-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT 安卓版上线",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月25日ChatGPT安卓版在美国等地上架Google Play，移动端双平台补齐，加速AI助手大众化。",
-  "detail": "安卓版与iOS功能对齐，上线后迅速登顶多国下载榜，官方应用取代了大量第三方「套壳」应用，成为全球用户接触大模型的最主要入口之一。",
-  "impact": "ChatGPT完成移动端布局，装机量进入指数增长通道。",
-  "aftermath": "2025年ChatGPT周活突破8亿，移动端成为主战场。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "移动"
-  ]
- },
- {
-  "id": "2023-07-26-sdxl",
-  "date": "2023-07-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Stability AI 开源 SDXL 1.0",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月26日Stability AI发布SDXL 1.0并开放权重，开源文生图画质首次逼近闭源产品。",
-  "detail": "SDXL采用更大UNet与双文本编码器，支持1024分辨率原生生成，画质与提示词遵循度大幅提升，成为ComfyUI、WebUI生态的新底座，也是「本地跑图」人群的主流选择，巩固了开源图像模型对Midjourney的追赶。",
-  "impact": "开源文生图确立「社区微调+LoRA」生态模式。",
-  "aftermath": "Stability随后陷入经营动荡，2024年3月CEO Emerling? Emad Mostaque离职。",
-  "sources": [
-   {
-    "title": "Stability AI",
-    "url": "https://en.wikipedia.org/wiki/Stability_AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "开源",
-   "文生图"
-  ]
- },
- {
-  "id": "2023-07-26-vw-xpeng",
-  "date": "2023-07-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "大众7亿美元入股小鹏，联合开发中国车型",
-  "category": "company",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "7月26日大众宣布向小鹏汽车投资约7亿美元，持股约4.99%，双方将基于小鹏平台共同开发中国市场车型。",
-  "detail": "大众汽车宣布与小鹏达成技术合作框架，向小鹏增资约7亿美元获得约4.99%股份，将联合开发两款针对中国中型车市场的电动车型，预计2026年投产。这是跨国车企首次反向采购中国新势力的纯电平台技术。",
-  "impact": "中国智能电动车技术首次被国际巨头「技术反向引入」。",
-  "aftermath": "双方联合开发的CMP平台与电子架构合作持续深化，后续扩展至增程与更多车型。",
-  "sources": [
-   {
-    "title": "小鹏汽车",
-    "url": "https://zh.wikipedia.org/wiki/小鹏汽车",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "合作",
-   "小鹏"
-  ]
- },
- {
-  "id": "2023-08-03-baldurs-gate3",
-  "date": "2023-08-03",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《博德之门3》正式版发售",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "8月3日拉瑞安工作室《博德之门3》正式发售，同时在线峰值超80万，年底横扫各大年度游戏奖。",
-  "detail": "脱胎于DND规则的CRPG《博德之门3》以超高自由度与「对任何NPC都可以互动」的设计引爆口碑，Steam同时在线峰值超81万，三个月销量超500万份，最终获得TGA 2023年度游戏等六项大奖。",
-  "impact": "把重叙事CRPG拉回主流视线，成为当年游戏口碑标杆。",
-  "aftermath": "2024年销量突破千万；拉瑞安宣布不再制作博德之门续作。",
-  "sources": [
-   {
-    "title": "Baldur's Gate 3",
-    "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "TGA"
-  ]
- },
- {
-  "id": "2023-08-03-qwen-7b",
-  "date": "2023-08-03",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里开源通义千问 Qwen-7B",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "8月3日阿里云开源70亿参数通用模型Qwen-7B，此后Qwen系列逐步成为全球下载量最大的开源模型家族。",
-  "detail": "Qwen-7B在3万亿token中英多语料上训练，附带了对话版与长上下文版本，评测在多语言、代码、数学上表现突出，被国内外社区广泛微调。此后Qwen1.5、Qwen2、Qwen2.5持续迭代并开源，衍生模型数量登顶全球开源社区。",
-  "impact": "中国大厂在开源模型上从跟跑转为领跑。",
-  "aftermath": "2024年9月Qwen2.5、2025年4月Qwen3相继发布。",
-  "sources": [
-   {
-    "title": "QwenLM/Qwen",
-    "url": "https://github.com/QwenLM/Qwen",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "阿里",
-   "开源"
-  ]
- },
- {
-  "id": "2023-08-05-guzhu",
-  "date": "2023-08-05",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《孤注一掷》上映成暑期档票房冠军",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "8月5日反诈题材《孤注一掷》上映，最终票房38.48亿元拿下2023年暑期档冠军，话题营销再度奏效。",
-  "detail": "影片以境外电诈园区为题材，王传君的拜佛反派与「多一人观影，少一人受骗」口号引爆短视频传播，最终38.48亿元位列2023年度票房第三，与《消失的她》《封神》共同构成「话题爽片」驱动的206亿影史最强暑期档。",
-  "impact": "证实社会议题+短视频宣发的高转化模型。",
-  "aftermath": "同题材剧集与后续影片密集立项。",
-  "sources": [
-   {
-    "title": "孤注一掷",
-    "url": "https://zh.wikipedia.org/wiki/孤注一掷",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "暑期档"
-  ]
- },
- {
-  "id": "2023-08-29-mate60",
-  "date": "2023-08-29",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "华为 Mate 60 Pro 无预告开售",
-  "category": "hardware",
-  "region": "cn",
-  "milestone": true,
-  "summary_30s": "8月29日华为商城突然上架Mate 60 Pro「先锋计划」，搭载麒麟9000S芯片，全网排队抢购，成为现象级手机事件。",
-  "detail": "华为在没有任何发布会的情况下直接开售Mate 60 Pro，实测确认搭载国产工艺的麒麟9000S并支持卫星通话，被解读为供应链突围的标志。发售数月内线上线下长期缺货，带火整个华为手机盘面，「遥遥领先」刷屏网络。",
-  "impact": "国产高端手机市场的竞争格局被重新点燃。",
-  "aftermath": "Mate 60系列带动华为2024年国内份额大幅回升；麒麟芯片成为行业焦点话题。",
-  "sources": [
-   {
-    "title": "Huawei Mate 60",
-    "url": "https://en.wikipedia.org/wiki/Huawei_Mate_60",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "华为",
-   "手机"
-  ]
- },
- {
-  "id": "2023-08-31-llm-public",
-  "date": "2023-08-31",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "文心一言等首批大模型产品面向公众开放",
-  "category": "product",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "8月31日起文心一言、百川智能、智谱清言等首批通过备案的大模型产品面向全社会开放，App当日下载量暴涨。",
-  "detail": "在监管备案机制落地后，百度文心一言、字节豆包、百川智能、智谱清言等第一批产品于8月31日向公众开放，文心一言App当日登顶苹果免费榜。国产大模型从「内测邀请」进入全民可用阶段，各家随即开启拉新大战。",
-  "impact": "国产大模型C端竞争正式开闸。",
-  "aftermath": "此后「通过备案」成为产品上线的前置门槛，开放批次陆续扩大。",
-  "sources": [
-   {
-    "title": "文心一言",
-    "url": "https://zh.wikipedia.org/wiki/文心一言",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "产品",
-   "互联网"
-  ]
- },
- {
-  "id": "2023-09-01-summer-boxoffice",
-  "date": "2023-09-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "2023暑期档票房206亿元创影史纪录",
-  "category": "culture",
-  "region": "cn",
-  "milestone": true,
-  "summary_30s": "8月31日2023暑期档收官，总票房206.19亿元刷新影史暑期档纪录，《消失的她》《孤注一掷》《封神》三部爆款领跑。",
-  "detail": "2023年暑期档（6-8月）票房达206.19亿元，观影人次超5.05亿，均创同期影史新高。《消失的她》《孤注一掷》《封神第一部》《长安三万里》等多元爆款接力，其中4部影片票房破15亿。",
-  "impact": "线下观影强势复苏，「话题+情绪」宣发模型成型。",
-  "aftermath": "全年票房549亿元回到2019年八成以上水平。",
-  "sources": [
-   {
-    "title": "中国电影票房",
-    "url": "https://zh.wikipedia.org/wiki/中国电影列表",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "票房"
-  ]
- },
- {
-  "id": "2023-09-06-baichuan2",
-  "date": "2023-09-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "百川智能开源 Baichuan2 系列",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "9月6日百川智能发布开源Baichuan2系列（7B/13B），数学代码与多语言能力较一代显著提升。",
-  "detail": "Baichuan2在2.6万亿token语料上训练，覆盖中英多语言场景，发布时在C-Eval、AGIEval等多个中文评测上居同类前列，宽松的社区许可使其迅速成为国内企业私有化部署的常用底座之一。",
-  "impact": "为国内中小模型私有化部署提供了又一主流选择。",
-  "aftermath": "百川后续重心转向闭源模型与医疗方向。",
-  "sources": [
-   {
-    "title": "baichuan-inc/Baichuan2",
-    "url": "https://github.com/baichuan-inc/Baichuan2",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "开源"
-  ]
- },
- {
-  "id": "2023-09-07-hunyuan",
-  "date": "2023-09-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "腾讯发布混元大模型",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "9月7日腾讯在全球数字生态大会上发布混元大模型，宣布腾讯云及微信生态陆续接入，「最后一个入局的大厂」交卷。",
-  "detail": "腾讯混元大模型（Hunyuan）主打中文创作、逻辑推理与多模态，宣布接入腾讯云、腾讯会议、微信读书等产品。作为头部大厂中较晚上线的模型，腾讯强调「产业落地」路线，混元随后逐步开源了文生图与视频模型。",
-  "impact": "国内大厂模型拼图补齐，腾讯把AI能力与社交生态绑定。",
-  "aftermath": "2024年混元开源文生图模型；2025年混元T1推理模型上线。",
-  "sources": [
-   {
-    "title": "腾讯",
-    "url": "https://zh.wikipedia.org/wiki/腾讯",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "腾讯"
-  ]
- },
- {
-  "id": "2023-09-12-iphone15",
-  "date": "2023-09-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "苹果发布 iPhone 15 系列：全系灵动岛与 USB-C",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月12日苹果发布iPhone 15系列，Pro版换装钛金属边框与A17 Pro芯片，全系改用USB-C接口。",
-  "detail": "iPhone 15 Pro采用钛金属中框与A17 Pro（3nm首发），静音拨片改为操作按钮，15 Pro Max配备5倍潜望长焦；受欧盟法规推动，Lightning接口被USB-C全面取代。发布时华为Mate 60正热销，「冠军对决」成为当年国内高端市场话题。",
-  "impact": "接口统一与钛金属设计成为行业跟随点。",
-  "aftermath": "A17 Pro散热争议与 overheating 修复更新；15系列销量保持强势但国内高端份额受Mate 60冲击。",
-  "sources": [
-   {
-    "title": "iPhone 15",
-    "url": "https://en.wikipedia.org/wiki/IPhone_15",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果",
-   "手机"
-  ]
- },
- {
-  "id": "2023-09-13-mistral7b",
-  "date": "2023-09-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "法国 Mistral AI 开源 Mistral 7B",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月13日成立仅半年的Mistral AI开源70亿参数模型Mistral 7B，以小博大性能超同期Llama 2 13B，欧洲AI独角兽登场。",
-  "detail": "Mistral 7B采用分组查询与滑动窗口注意力等技术，在7B规模上击败Llama 2 13B，以Apache 2.0许可发布。公司由DeepMind与Meta前研究员创办，同年12月完成4.15亿美元融资，被称为「欧洲OpenAI」。",
-  "impact": "证明小模型+好架构的路线，欧洲在大模型版图占据一席。",
-  "aftermath": "12月「种子」开源Torrent下载玩法出圈；2024年发布Mistral Large。",
-  "sources": [
-   {
-    "title": "Mistral AI",
-    "url": "https://en.wikipedia.org/wiki/Mistral_AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "开源",
-   "欧洲"
-  ]
- },
- {
-  "id": "2023-09-23-asian-games-esports",
-  "date": "2023-09-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "杭州亚运会开幕，电竞首次成为亚运正式项目",
-  "category": "culture",
-  "region": "cn",
-  "milestone": true,
-  "summary_30s": "9月23日杭州亚运会开幕，电子竞技首次作为正式项目产生金牌，中国代表团在《王者荣耀亚运版本》等项目夺金。",
-  "detail": "杭州第19届亚运会将《王者荣耀亚运版本》《和平精英亚运版本》《DOTA2》《英雄联盟》等7个电竞项目列为正式比赛，中国电竞国家队夺得多枚金牌，电竞选手以「国家队」身份升国旗奏国歌，电竞「体育化」取得里程碑。",
-  "impact": "电竞正名化进入新阶段，带动国内电竞产业与观赛热度。",
-  "aftermath": "王者荣耀亚运版等产品的联动运营成为厂商重点；电竞入奥讨论持续。",
-  "sources": [
-   {
-    "title": "2022年亚洲运动会",
-    "url": "https://zh.wikipedia.org/wiki/2022年亚洲运动会",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电竞",
-   "亚运",
-   "游戏"
-  ]
- },
- {
-  "id": "2023-09-25-amazon-anthropic",
-  "date": "2023-09-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "亚马逊宣布向 Anthropic 投资至多40亿美元",
-  "category": "company",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月25日亚马逊宣布向Anthropic投资至多40亿美元，Anthropic承诺以AWS为首选云，「云厂商竞购模型公司」格局形成。",
-  "detail": "亚马逊分批投入至多40亿美元并获得Anthropic少数股权，Anthropic将把Claude模型接入AWS Bedrock，并使用Trainium/Inferentia自研芯片训练模型。与微软-OpenAI、谷歌-Anthropic三足鼎立的「云+模型」联盟就此成型。",
-  "impact": "基础模型竞争变成超大规模云厂商的军备竞赛。",
-  "aftermath": "2024年11月亚马逊追加至80亿美元。",
-  "sources": [
-   {
-    "title": "Anthropic",
-    "url": "https://en.wikipedia.org/wiki/Anthropic",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "融资",
-   "亚马逊"
-  ]
- },
- {
-  "id": "2023-09-25-chatgpt-multimodal",
-  "date": "2023-09-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT 上线语音对话与图像理解",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月25日ChatGPT向Plus用户开放语音对话与图像输入，可用语音聊天并「看图说话」，多模态助手形态初现。",
-  "detail": "语音功能采用Whisper转写与全新TTS合成五种音色，图像功能支持拍摄或上传图片进行讨论。语音对话让ChatGPT的使用场景从打字扩展到开车、做饭等双手忙碌场景，为后来的实时语音模式铺路。",
-  "impact": "AI语音助手从科幻设定变成日常功能。",
-  "aftermath": "2024年5月GPT-4o把语音延迟降到接近真人对话。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "语音",
-   "多模态"
-  ]
- },
- {
-  "id": "2023-10-17-ernie4",
-  "date": "2023-10-17",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "百度发布文心大模型4.0",
-  "category": "tech",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "10月17日百度世界大会发布文心4.0，李彦宏称其综合能力「与GPT-4相比毫不逊色」，并演示了画图、代码等场景。",
-  "detail": "文心4.0在理解、生成、逻辑、记忆四大能力上迭代，现场演示了对联、数理题与代码生成。李彦宏提出「卡脖子的是应用，不是模型」，主张大模型价值在应用落地。发布会同时展示了插件生态与灵境笙等AIGC产品。",
-  "impact": "国产模型首次公开对标GPT-4，「应用落地」成为国产AI主叙事。",
-  "aftermath": "文心4.0向公众开放后，百度转向「模型+应用」双轮，2025年推出文心4.5系列。",
-  "sources": [
-   {
-    "title": "文心一言",
-    "url": "https://zh.wikipedia.org/wiki/文心一言",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "百度"
-  ]
- },
- {
-  "id": "2023-10-26-xiaomi14",
-  "date": "2023-10-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "小米发布 14 系列与自研操作系统澎湃OS",
-  "category": "hardware",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "10月26日小米发布搭载骁龙8 Gen3的14系列与自研「澎湃OS」，雷军宣布小米战略升级为「人车家全生态」。",
-  "detail": "小米14首发第三代骁龙8，徕卡光学与「屏幕、性能、影像」全面对标iPhone，发布后预订火爆，成为当年最畅销国产高端机型之一。同场发布的澎湃OS（HyperOS）宣布打通手机、汽车、IoT，成为小米生态统一底座。",
-  "impact": "小米完成「手机×汽车×IoT」的操作系统叙事铺垫。",
-  "aftermath": "澎湃OS成为后续手机与小米SU7车机的共同底座。",
-  "sources": [
-   {
-    "title": "小米14",
-    "url": "https://zh.wikipedia.org/wiki/小米14",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "小米",
-   "手机"
-  ]
- },
- {
-  "id": "2023-10-30-m3-mac",
-  "date": "2023-10-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "苹果发布 M3 系列芯片与新 MacBook Pro",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月30日苹果发布3nm M3、M3 Pro、M3 Max芯片及新MacBook Pro与iMac、Mac mini更新，主打硬件光线追踪与更长续航。",
-  "detail": "M3系列采用台积电3nm工艺，首次在Mac GPU上支持硬件级光线追踪与动态缓存，入门MacBook Pro 14直接砍掉13寸Touch Bar机型。M3 Max支持最高128GB统一内存，强化对大模型本地推理的吸引力。",
-  "impact": "Mac开始以「本地跑AI」作为卖点之一。",
-  "aftermath": "2024年10月M4系列接管全线，Mac mini完成重设计。",
-  "sources": [
-   {
-    "title": "Apple silicon",
-    "url": "https://en.wikipedia.org/wiki/Apple_silicon",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果",
-   "笔记本"
-  ]
- },
- {
-  "id": "2023-11-04-grok",
-  "date": "2023-11-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "马斯克旗下 xAI 发布聊天机器人 Grok",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月4日马斯克宣布xAI首款产品Grok，接入X平台实时数据、人设「敢说」，对ChatGPT发起「反审查」定位的挑战。",
-  "detail": "Grok基于xAI自研的Grok-1模型（训练四个月），卖点是实时接入X（原推特）数据流与幽默毒舌的回答风格，向X Premium+订阅用户开放。马斯克称其为「maximum truth-seeking AI」，实际评测中表现与头部模型尚有差距。",
-  "impact": "科技富豪个人IP与AI产品深度绑定的新营销范式出现。",
-  "aftermath": "Grok-2（2024年8月）、Grok-3（2025年2月）持续迭代。",
-  "sources": [
-   {
-    "title": "Grok (chatbot)",
-    "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "xAI"
-  ]
- },
- {
-  "id": "2023-11-06-devday",
-  "date": "2023-11-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI 首届开发者大会：GPT-4 Turbo 与 GPTs",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月6日OpenAI首届DevDay发布GPT-4 Turbo（128K、降价2.7倍）、自定义「GPTs」与Assistants API，奥特曼喊出「应用商店」愿景。",
-  "detail": "GPT-4 Turbo把上下文扩至128K token并大幅降价，Knowledge截止更新到2023年4月；GPTs允许无代码自定义助手并预告GPT Store分成模式；Assistants API让开发者内置记忆与工具调用。发布会45分钟连发十余项更新，被称「创企噩梦日」。",
-  "impact": "OpenAI从模型公司转向平台生态，「杀死创业公司」的讨论升温。",
-  "aftermath": "1个月后GPT Store上线；11天后公司爆发董事会风波。",
-  "sources": [
-   {
-    "title": "OpenAI 官方",
-    "url": "https://openai.com/index/introducing-gpts/",
-    "type": "official"
-   },
-   {
-    "title": "OpenAI DevDay",
-    "url": "https://en.wikipedia.org/wiki/OpenAI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "平台"
-  ]
- },
- {
-  "id": "2023-11-09-humane-pin",
-  "date": "2023-11-09",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Humane 发布 AI Pin 硬件",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月9日OpenAI前高管创办的Humane发布无屏幕胸针AI Pin（699美元+订阅），被称为「iPhone杀手」，上市后迅速沦为科技圈著名翻车。",
-  "detail": "AI Pin以激光投影+语音交互替代手机屏幕，主打「AI原生设备」。2024年4月开售后评测普遍批评发热、识别慢、续航差，销量惨淡。2025年2月HP以1.16亿美元收购其资产并停止设备服务，「AI硬件第一泡沫」破裂。",
-  "impact": "为「AI硬件」热潮提供了第一批警示样本。",
-  "aftermath": "随后Rabbit R1同样遇冷；「AI硬件要能解决真实高频需求」成为共识。",
-  "sources": [
-   {
-    "title": "Humane",
-    "url": "https://en.wikipedia.org/wiki/Humane_(company)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "AI"
-  ]
- },
- {
-  "id": "2023-11-16-alibaba-cloud-no-spinoff",
-  "date": "2023-11-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里巴巴宣布不再推进阿里云完全分拆",
-  "category": "company",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "11月16日阿里财报电话会上宣布由于美国出口管制不确定性，不再推进阿里云智能集团完全分拆上市。",
-  "detail": "阿里在2023年9月季度业绩公告中称，美国近期扩大对先进计算芯片出口限制给云智能集团的业务前景带来不确定性，决定不再推进云智能集团完全分拆，同时盒马IPO暂缓。此前3月「1+6+N」改革中最受关注的分拆计划按下暂停键。",
-  "impact": "阿里战略从「分拆上市」转向「聚焦核心+AI驱动」。",
-  "aftermath": "蔡崇信任集团董事会主席、吴泳铭任CEO，提出「用户为先、AI驱动」两大战略重心。",
-  "sources": [
-   {
-    "title": "阿里巴巴集团",
-    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "公司",
-   "阿里云"
-  ]
- },
- {
-  "id": "2023-11-16-steam-deck-oled",
-  "date": "2023-11-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Steam Deck OLED 开售",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月16日V社开售Steam Deck OLED，换装HDR OLED屏、更轻机身与更强续航，掌机体验大幅升级。",
-  "detail": "新款Steam Deck换用7.4英寸90Hz HDR OLED屏，续航提升30-50%，散热与Wi-Fi 6E升级，399美元起。PC掌机品类在2023年随ROG Ally等竞品共同起量，Steam OS「掌机化Linux」生态成为独特卖点。",
-  "impact": "巩固了Valve在PC掌机生态的主导地位。",
-  "aftermath": "2025年V社确认下一代Steam硬件在研；Switch 2上市后掌机市场全面升温。",
-  "sources": [
-   {
-    "title": "Steam Deck",
-    "url": "https://en.wikipedia.org/wiki/Steam_Deck",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "游戏",
-   "掌机"
-  ]
- },
- {
-  "id": "2023-11-17-openai-coup",
-  "date": "2023-11-17",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI 董事会罢免 Altman，五天后回归",
-  "category": "company",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "11月17日OpenAI董事会突然解除Sam Altman的CEO职务并让他退出董事会，引发「硅谷宫斗」，微软介入后11月21日宣布其回归、董事会重组。",
-  "detail": "董事会以「与CEO的沟通中不够坦率」为由解雇Altman，President Brockman辞职；738名员工中超过700人签署联名信威胁集体离职，投资者施压，微软CEO纳德拉宣布聘用两人领导新的微软AI团队。11月21日晚，双方达成协议：Altman回归CEO，董事会重组（Bret Taylor任主席），原董事会成员出局。",
-  "impact": "AI治理与公司控制权的冲突被放到聚光灯下，「非营利架构」问题成为行业议题。",
-  "aftermath": "OpenAI加速商业化；2024年底启动重组为营利性结构的进程。",
-  "sources": [
-   {
-    "title": "Removal of Sam Altman from OpenAI",
-    "url": "https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "公司"
-  ]
- },
- {
-  "id": "2023-11-19-s13-t1",
-  "date": "2023-11-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "英雄联盟S13全球总决赛：T1 夺冠",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月19日T1在首尔决赛3:0横扫WBG夺冠，Faker拿下个人第四座S赛冠军，「东八区决赛夜」观看人数创纪录。",
-  "detail": "S13总决赛在韩国首尔高尺天空巨蛋举行，T1决赛零封WBG，Faker成为历史首位四冠中单。据播报数据，赛事全球收视创历史新高（含中国直播平台观看数据），LPL与LCK的对抗继续是电竞最大流量池。",
-  "impact": "S赛IP商业价值见顶，Faker确立历史第一人地位。",
-  "aftermath": "T1此后2024、2025连续夺冠，达成三连冠伟业。",
-  "sources": [
-   {
-    "title": "2023 League of Legends World Championship",
-    "url": "https://en.wikipedia.org/wiki/2023_League_of_Legends_World_Championship",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电竞",
-   "英雄联盟"
-  ]
- },
- {
-  "id": "2023-11-21-claude21",
-  "date": "2023-11-21",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 发布 Claude 2.1：200K 超长上下文",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月21日Anthropic发布Claude 2.1，把上下文窗口扩至20万token（约15万字），幻觉率大幅下降。",
-  "detail": "Claude 2.1支持上传整本书级文档进行问答，API加入system prompt与工具使用beta功能，长文本可靠性显著提升。200K上下文在当时所有公开模型中最长，为「把知识库丢给AI」的场景奠定基础。",
-  "impact": "长上下文成为 Anthropic 的招牌能力，知识库问答范式普及。",
-  "aftermath": "2024年Claude 3以更长可用上下文与更强推理接棒。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Anthropic",
-   "长文本"
-  ]
- },
- {
-  "id": "2023-11-28-pika",
-  "date": "2023-11-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Pika 1.0 发布，AI 视频创业升温",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月28日斯坦福辍学生创办的Pika发布1.0版文生视频产品，邀请码一码难求，与Runway、Sora一起 heating AI视频赛道。",
-  "detail": "Pika 1.0支持文本/图像生成3D动画、动漫、电影风格短片，并提供局部改写与镜头扩展等功能，产品化体验领先，发布后一周用户破50万。公司随后完成约5500万美元融资，估值2-3亿美元。",
-  "impact": "把AI视频从研究demo推向大众创作工具。",
-  "aftermath": "2024年Sora以60秒长视频震撼行业，AI视频军备竞赛升级。",
-  "sources": [
-   {
-    "title": "Pika Labs",
-    "url": "https://en.wikipedia.org/wiki/Pika_Labs",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "文生视频"
-  ]
- },
- {
-  "id": "2023-11-30-cybertruck",
-  "date": "2023-11-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "特斯拉 Cybertruck 开始首批交付",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月30日特斯拉在得州工厂交付首批赛博皮卡Cybertruck，起售价约6.1万美元，四年前发布的概念车终于量产。",
-  "detail": "Cybertruck以不锈钢外骨骼与楔形设计闻名，发布会曾因「防弹玻璃被砸裂」名场面出圈。量产版性能、续航与产能均不及当年宣传指标，但仍以独特设计制造了大量话题，成为美国街头最显眼的新物种。",
-  "impact": "年度最具争议的量产车，重塑皮卡设计与舆论场。",
-  "aftermath": "产能爬坡缓慢；2025年推出更长续航版本。",
-  "sources": [
-   {
-    "title": "Tesla Cybertruck",
-    "url": "https://en.wikipedia.org/wiki/Tesla_Cybertruck",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "特斯拉"
-  ]
- },
- {
-  "id": "2023-11-30-pdd-over-baba",
-  "date": "2023-11-30",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "拼多多市值一度超越阿里巴巴",
-  "category": "company",
-  "region": "cn",
-  "milestone": true,
-  "summary_30s": "11月30日拼多多美股市值盘中首次超过阿里巴巴，成为市值最高的中概电商，「砍一刀」战胜「猫狗」成为标志性时刻。",
-  "detail": "受Temu出海与国内低价策略驱动，拼多多11月28日发布的三季度财报远超预期，股价大涨，11月30日盘中市值一度超越阿里巴巴。阿里内网员工热议「那个看不起眼的砍一刀，现在成了老大哥」，马云罕见回帖表态「相信明天的阿里」。",
-  "impact": "电商行业从消费升级叙事切换到「低价+出海」叙事。",
-  "aftermath": "阿里随后推进用户为先改革与淘宝天猫合体；Temu在全球疯狂买量扩张。",
-  "sources": [
-   {
-    "title": "拼多多",
-    "url": "https://zh.wikipedia.org/wiki/拼多多",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电商",
-   "市值"
-  ]
- },
- {
-  "id": "2023-12-06-gemini1",
-  "date": "2023-12-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌发布 Gemini 1.0",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "12月6日谷歌发布筹备半年、训练耗资巨大的原生多模态大模型Gemini 1.0，Ultra版在MMLU等基准上首次超过GPT-4。",
-  "detail": "Gemini分Ultra、Pro、Nano三档，原生支持文本、图像、音频、视频输入，Gemini Ultra在32项基准中30项刷新纪录（MMLU得分90.0%）。Pro版即刻接入Bard，Nano进入Pixel 8 Pro。DeepMind与谷歌大脑团队完成合并以支撑该项目。",
-  "impact": "谷歌第一次在模型基准上正面压过OpenAI，AI竞争回到胶着状态。",
-  "aftermath": "Ultra版延至2024年2月开放；Bard随后更名Gemini。",
-  "sources": [
-   {
-    "title": "Gemini (language model)",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
-    "type": "wiki"
-   },
-   {
-    "title": "Google 官方博客",
-    "url": "https://blog.google/products/gemini/",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌",
-   "Gemini"
-  ]
- },
- {
-  "id": "2023-12-07-tga2023",
-  "date": "2023-12-07",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "TGA 2023：《博德之门3》获年度游戏",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月7日TGA 2023颁奖，《博德之门3》获年度游戏，宫崎英高获首个「方向奖」，塞尔达、漫威蜘蛛侠2同场陪跑。",
-  "detail": "《博德之门3》包揽年度游戏、最佳RPG、最佳多人等六项大奖；《王国之泪》获最佳动作冒险，宫崎英高拿下新设的最佳游戏指导。2023年被称为「游戏大年」，TGA投票参与人数创纪录，颁奖礼同时公布多款新作。",
-  "impact": "CRPG叙事作品登顶年度游戏，玩家社区话语权提升。",
-  "aftermath": "博德之门3持续热卖，2024年3月登陆Xbox。",
-  "sources": [
-   {
-    "title": "The Game Awards 2023",
-    "url": "https://en.wikipedia.org/wiki/The_Game_Awards_2023",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "TGA"
-  ]
- },
- {
-  "id": "2023-12-11-dongfang",
-  "date": "2023-12-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "东方甄选「小作文」风波",
-  "category": "company",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "12月上旬东方甄选小编与董宇辉的「小作文」署名之争演变为粉丝大战，公司掉粉、股价暴跌，CEO免职、俞敏洪下场。",
-  "detail": "12月5日东方甄选小编在视频下强调文案为团队创作，被董宇辉粉丝解读为打压头部主播，孙东旭「摔手机」旧闻、天权主播摔讲解词等操作让舆情失控，公司三日掉粉数十万、股价累跌超两成。12月16日董宇辉停播后复播，CEO孙东旭被免职，俞敏洪兼任CEO并成立「与辉同行」独立工作室。",
-  "impact": "直播电商「超头依赖」风险第一次全面暴露。",
-  "aftermath": "2024年7月董宇辉离职带走与辉同行，东方甄选转向去头部化运营。",
-  "sources": [
-   {
-    "title": "东方甄选",
-    "url": "https://zh.wikipedia.org/wiki/东方甄选",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "直播电商",
-   "公司"
-  ]
- },
- {
-  "id": "2023-12-13-gemini-api",
-  "date": "2023-12-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Gemini Pro API 开放",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月13日谷歌通过AI Studio开放Gemini Pro API，开发者可免费体验，正式向OpenAI的开发者腹地开战。",
-  "detail": "谷歌在AI Studio提供Gemini Pro的免费额度与API密钥，企业可通过Vertex AI付费调用，中文等多语言支持与32K上下文一步到位，价格低于GPT-4 Turbo。谷歌以「免费+低价」策略快速拉拢开发者。",
-  "impact": "开发者多模型混用成为常态，模型调用进入价格战。",
-  "aftermath": "2024年Gemini 1.5以百万token上下文和更低价格继续施压。",
-  "sources": [
-   {
-    "title": "Gemini (language model)",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌",
-   "API"
-  ]
- },
- {
-  "id": "2023-12-15-sandui",
-  "date": "2023-12-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《三大队》上映成年末口碑黑马",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "12月15日电影《三大队》上映，张译主演追凶故事口碑发酵，最终票房7.05亿元成为贺岁档黑马。",
-  "detail": "改编自真实事件与网文「请转告局长，三大队任务完成了」，张译的刑警队长执念十二年追凶，情感浓度获得观众认可，豆瓣开分7.9后稳定在7.8左右，成为2023年末口碑与票房兼具的现实主义作品。",
-  "impact": "现实主义罪案题材的商业可行性再次被验证。",
-  "aftermath": "同题材剧集版2024年上线。",
-  "sources": [
-   {
-    "title": "三大队",
-    "url": "https://zh.wikipedia.org/wiki/三大队_(电影)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影"
-  ]
- },
- {
-  "id": "2023-12-26-m9",
-  "date": "2023-12-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "问界 M9 上市，华为「科技车皇」入场",
-  "category": "hardware",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "12月26日华为问界M9上市，46.98万元起售，发布两小时大定破万，成为50万元级国产豪华车市场最大变量。",
-  "detail": "问界M9搭载华为途灵底盘、ADS 2.0高阶智驾、鸿蒙座舱与华为xPixel车灯，以「1000万以内最好的SUV」话术对标BBA，上市2小时大定突破1万台，直接冲击传统豪华品牌的核心腹地。",
-  "impact": "国产新能源车首次在50万以上价位成建制地收割传统豪华市场份额。",
-  "aftermath": "M9持续月销破万，成为2024年中国50万以上车型销量冠军。",
-  "sources": [
-   {
-    "title": "问界M9",
-    "url": "https://zh.wikipedia.org/wiki/问界M9",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "华为"
-  ]
- },
- {
-  "id": "2023-12-27-blossoms",
-  "date": "2023-12-27",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "王家卫剧版《繁花》开播",
-  "category": "culture",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "12月27日王家卫执导的首部剧集《繁花》在腾讯视频开播，沪语版与普通话版同步，成为开年最大文化现象。",
-  "detail": "改编自金宇澄茅盾文学奖小说，胡歌、马伊琍、唐嫣、辛芷蕾演绎90年代黄河路众生相，电影级光影与沪语对白引发收视与文旅双热潮，和平饭店、排骨年糕等成为打卡对象，剧集最终豆瓣评分8.7。",
-  "impact": "电影导演下场拍剧抬高国剧质感上限，带动上海文旅热。",
-  "aftermath": "2024年初央视版本播出，「繁花热」延续整月。",
-  "sources": [
-   {
-    "title": "繁花（电视剧）",
-    "url": "https://zh.wikipedia.org/wiki/繁花_(电视剧)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "剧集",
-   "影视"
-  ]
- },
- {
-  "id": "2023-12-28-xiaomi-auto-tech",
-  "date": "2023-12-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "小米汽车技术发布会：SU7 正式亮相",
-  "category": "hardware",
-  "region": "cn",
-  "milestone": false,
-  "summary_30s": "12月28日小米举行汽车技术发布会，首款车SU7亮相，宣布自研电机、大压铸与800V平台，定价悬念吊足全网。",
-  "detail": "雷军用三个多小时讲解小米汽车五大核心技术：HyperEngine V8s电机（27200rpm）、9100吨大压铸、CTB电池、800V平台与澎湃OS车机，确认2024年上半年上市。发布会后全网开启「猜价格」大讨论，「9.9万交个朋友」成为年度梗。",
-  "impact": "手机大厂造车的第一张答卷正式摊牌。",
-  "aftermath": "2024年3月28日SU7上市即爆单，小米汽车成为当年最强新车品牌。",
-  "sources": [
-   {
-    "title": "小米SU7",
-    "url": "https://zh.wikipedia.org/wiki/小米SU7",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "小米"
-  ]
- },
- {
-  "id": "2024-01-08-ces2024",
-  "date": "2024-01-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "CES 2024：AI 满场与 RTX 40 SUPER 系列",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "1月8日CES 2024在拉斯维加斯开幕，生成式AI成为绝对主题，英伟达发布RTX 40 SUPER系列显卡。",
-  "detail": "CES 2024上AI概念贯穿家电、汽车与PC：透明电视、AI机器人、智能座舱密集发布；英伟达在开幕前发布RTX 4070 SUPER/4070 Ti SUPER/4080 SUPER三款显卡，价格下探强化40系性价比。AI PC概念由联想、英特尔等集体推向舞台中央。",
-  "impact": "「AI硬件」取代元宇宙成为消费电子行业统一叙事。",
-  "aftermath": "AI PC在2024年全年成为PC厂商的统一卖点。",
-  "sources": [
-   {
-    "title": "GeForce RTX 40 series",
-    "url": "https://en.wikipedia.org/wiki/GeForce_RTX_40_series",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "CES",
-   "英伟达"
-  ]
- },
- {
-  "id": "2024-01-16-glm4",
-  "date": "2024-01-16",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "智谱 AI 发布 GLM-4",
-  "category": "tech",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "1月16日智谱AI发布GLM-4及其「All Tools」能力，宣称整体性能比肩GPT-4，开放智能体与全工具调用。",
-  "detail": "GLM-4支持128K上下文、多模态与工具调用，在多项中文评测上超过GPT-4，智能体可自主理解意图并调用浏览器、代码解释器等。智谱同期推出GLM-4开放平台，商业化进入快车道，成为国内被接入最多的模型厂商之一。",
-  "impact": "国产模型第一次系统性对标GPT-4能力集。",
-  "aftermath": "2025年7月GLM-4.5开源后智谱跻身开源第一梯队。",
-  "sources": [
-   {
-    "title": "智谱AI",
-    "url": "https://zh.wikipedia.org/wiki/智谱AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "智谱"
-  ]
- },
- {
-  "id": "2024-01-27-lol-lpl",
-  "date": "2024-01-27",
-  "date_accuracy": "month",
-  "date_confidence": "estimated",
-  "title": "英雄联盟 S14 赛季 MSI 落地成都成电竞大年开端",
-  "category": "culture",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "2024年英雄联盟电竞中国区热度回升，MSI季中赛落地成都，LPL与LCK对抗持续成为电竞最大流量场。",
-  "detail": "2024年MSI季中冠军赛5月在成都举行，LPL赛区GEN与BLG的对决带动国内观赛热潮；11月S14全球总决赛在伦敦举行，BLG夺得亚军，英雄联盟电竞在亚运后完成新一轮商业化升级，联盟化与主客场运营继续深化。",
-  "impact": "英雄联盟电竞保持国内电竞第一IP地位。",
-  "aftermath": "2025年S赛落地中国成都，T1三连冠。",
-  "sources": [
-   {
-    "title": "League of Legends esports",
-    "url": "https://en.wikipedia.org/wiki/League_of_Legends_esports",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电竞"
-  ]
- },
- {
-  "id": "2024-01-29-evergrande",
-  "date": "2024-01-29",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "香港法院下令中国恒大清盘",
-  "category": "company",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "1月29日香港高等法院对中国恒大集团发出清盘令，负债超2.4万亿元的全球负债最大房企进入清算程序。",
-  "detail": "恒大自2021年爆发债务危机后多次展期重组未果，香港法院在重组方案缺乏实质进展后下达清盘令，委任清盘人接管，恒大系股票长期停牌。其债务处置成为地产行业风险出清的标志性事件。",
-  "impact": "地产债务风险处置进入司法清盘阶段。",
-  "aftermath": "恒大系资产陆续被处置；关联理财产品与项目交付持续牵动多方。",
-  "sources": [
-   {
-    "title": "恒大集团",
-    "url": "https://zh.wikipedia.org/wiki/中国恒大集团",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "公司",
-   "地产"
-  ]
- },
- {
-  "id": "2024-02-01-qq",
-  "date": "2024-02-01",
-  "date_accuracy": "month",
-  "date_confidence": "estimated",
-  "title": "「猫meme」短视频在B站与抖音流行",
-  "category": "culture",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "2024年「猫meme」成为B站与抖音最热短视频模板，用猫咪表情包演绎剧情的「猫meme文学」席卷平台。",
-  "detail": "以猫咪素材配剧情字幕的「猫meme」视频在2024年初爆发，B站UP主与商家大量使用该模板讲故事带货，官方账号也下场整活，形成年度平台级meme现象，并带动「猫meme号」批量涨粉的生意。",
-  "impact": "平台内容生产进一步模板化、meme化。",
-  "aftermath": "此后「偷感」「红温」等梗接力，梗文化电商化加深。",
-  "sources": [
-   {
-    "title": "Bilibili",
-    "url": "https://zh.wikipedia.org/wiki/哔哩哔哩",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "流行文化",
-   "短视频"
-  ]
- },
- {
-  "id": "2024-02-02-vision-pro-launch",
-  "date": "2024-02-02",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Apple Vision Pro 美国开售",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月2日Vision Pro在美国正式发售，首发排队火爆，但「噱头大于实用」的评测与佩戴不适成为主要争议。",
-  "detail": "Vision Pro以3499美元开售，苹果称首周末预购约20万台。评测盛赞屏幕与空间视频体验，但重量与续航限制使用时长，内容生态薄弱，「买回去吃灰」成为高频评价。全年出货预估下修至50万台以内。",
-  "impact": "空间计算从概念落地为商品，行业意识到消费级MR仍需更轻更便宜。",
-  "aftermath": "2024年6月起陆续在其他市场发售；苹果转向研发更轻的后续机型。",
-  "sources": [
-   {
-    "title": "Apple Vision Pro",
-    "url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果",
-   "XR"
-  ]
- },
- {
-  "id": "2024-02-03-kimi-viral",
-  "date": "2024-02-03",
-  "date_accuracy": "month",
-  "date_confidence": "verified",
-  "title": "Kimi 智能助手春节后爆火",
-  "category": "internet",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "2月起月之暗面的Kimi凭20万字长文本处理能力在A股「Kimi概念股」与用户端同时爆火，成为国产AI应用顶流。",
-  "detail": "Kimi支持超长文档总结、网页阅读与多文件问答，春节期间在微博、股吧出圈，「Kimi概念股」一度成为A股热炒主题。用户量暴涨致服务器限流，App Store效率榜登顶，带动「国产AI应用元年」讨论。",
-  "impact": "国内AI应用第一次出现现象级C端爆款。",
-  "aftermath": "3月18日200万字版本上线；各家快速跟进长文本能力。",
-  "sources": [
-   {
-    "title": "月之暗面",
-    "url": "https://zh.wikipedia.org/wiki/月之暗面",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Kimi"
-  ]
- },
- {
-  "id": "2024-02-08-bard-gemini",
-  "date": "2024-02-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌 Bard 更名 Gemini，推出订阅版",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月8日谷歌把Bard更名为Gemini，推出对标ChatGPT Plus的Gemini Advanced订阅，品牌彻底切换。",
-  "detail": "谷歌把聊天产品、App与订阅体系统一到Gemini品牌下，Gemini Ultra 1.0通过19.99美元/月的Google One AI Premium订阅提供，并同步推出安卓应用。此举宣告谷歌结束「防御性实验品」定位。",
-  "impact": "AI助手「订阅制+超级应用化」路径确立。",
-  "aftermath": "Gemini 1.5系列于当月发布，谷歌此后以品牌统一性持续迭代。",
-  "sources": [
-   {
-    "title": "Gemini (chatbot)",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌"
-  ]
- },
- {
-  "id": "2024-02-10-yure",
-  "date": "2024-02-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《热辣滚烫》领跑春节档，贾玲瘦身话题刷屏",
-  "category": "culture",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "2月10日贾玲自导自演《热辣滚烫》上映，「贾玲减了100斤」话题引爆全网，影片最终票房34.6亿元夺春节档冠军。",
-  "detail": "翻拍自《百元之恋》的《热辣滚烫》以贾玲减重100斤的真实变化为最大悬念，上映前预告片只闻声不见人吊足胃口，最终以34.6亿元成为2024年春节档冠军与年度票房第二。减重话题同时带动健身、拳击等消费。",
-  "impact": "「导演个人IP+悬念营销」达到顶峰。",
-  "aftermath": "贾玲转战好莱坞翻拍项目，导演身份进一步国际化。",
-  "sources": [
-   {
-    "title": "热辣滚烫",
-    "url": "https://zh.wikipedia.org/wiki/热辣滚烫",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "春节档"
-  ]
- },
- {
-  "id": "2024-02-15-gemini15",
-  "date": "2024-02-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌发布 Gemini 1.5：百万 token 上下文",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "2月15日谷歌发布Gemini 1.5 Pro，支持最多100万token上下文并展示1000万token实验，长文本军备竞赛升级。",
-  "detail": "Gemini 1.5采用MoE架构，在长上下文检索测试（大海捞针）中达到99%以上召回率，可一次处理1小时视频、11小时音频与3万行代码。谷歌向部分开发者开放预览，5月起规模开放。",
-  "impact": "「上下文长度」从此成为模型发布会的固定指标。",
-  "aftermath": "8月Gemini 1.5 Pro正式支持200万token。",
-  "sources": [
-   {
-    "title": "Gemini (language model)",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌",
-   "长文本"
-  ]
- },
- {
-  "id": "2024-02-15-sora",
-  "date": "2024-02-15",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI 发布文生视频模型 Sora",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "2月15日OpenAI发布Sora，可生成长达60秒、多镜头连贯的高清视频，被称「视频界GPT-3时刻」。",
-  "detail": "Sora基于扩散模型与Transformer结合，支持60秒1080p视频、多角色多镜头一致性，演示中「东京街头的女人」等片段以假乱真。OpenAI称其为「世界模拟器」，同期公布技术报告。产品未即时开放，引发行业震动与内容行业恐慌。",
-  "impact": "文生视频进入「物理世界理解」叙事阶段，影视行业焦虑公开化。",
-  "aftermath": "3月好莱坞导演奥普拉? 恰逢好莱坞导演比尔·马奥尼等公开呼吁；2024年12月Sora正式向公众开放。",
-  "sources": [
-   {
-    "title": "Sora",
-    "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
-    "type": "wiki"
-   },
-   {
-    "title": "OpenAI 官方",
-    "url": "https://openai.com/index/sora/",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "文生视频",
-   "OpenAI"
-  ]
- },
- {
-  "id": "2024-02-26-wahaha",
-  "date": "2024-02-26",
-  "date_accuracy": "month",
-  "date_confidence": "verified",
-  "title": "娃哈哈销量因创始人话题暴涨成现象级消费潮",
-  "category": "culture",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "2月底娃哈哈创始人离世引发全民情怀消费，AD钙奶等产品线上线下卖断货，「国民品牌」情绪成为年度消费现象。",
-  "detail": "2024年2月下旬娃哈哈创始人宗庆后去世的消息带动全民怀旧情绪，网友涌入直播间与线下商超抢购AD钙奶、纯净水，官方旗舰店销售额暴涨数十倍，一度宣布暂停线上订单。同期农夫山泉因舆论风波被卷入「娃哈哈vs农夫山泉」的对比叙事，饮料行业格局话题出圈。",
-  "impact": "「情绪消费」第一次以如此规模冲击实体饮料市场。",
-  "aftermath": "热潮数周后回落；娃哈哈2024年下半年启动管理层与股权调整。",
-  "sources": [
-   {
-    "title": "娃哈哈",
-    "url": "https://zh.wikipedia.org/wiki/娃哈哈",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "消费",
-   "流行文化"
-  ]
- },
- {
-  "id": "2024-03-01-li-mega",
-  "date": "2024-03-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "理想 MEGA 上市遭遇舆论风波",
-  "category": "hardware",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "3月1日理想首款纯电MPV MEGA上市（55.98万元），上市即遭恶意图与舆论围攻，订单遇冷成为年度最惨新车发布之一。",
-  "detail": "理想MEGA以「50万以上销量第一」为目标上市，但外形被恶意P图嘲讽传播，订单未达预期，李想公开发声反击网络暴力。理想随后下调全年销量目标，把纯电产品线节奏推迟，聚焦增程主力车型。",
-  "impact": "「网暴能杀死一台车」成为行业共识，车企公关策略集体转向。",
-  "aftermath": "理想2024年靠L6稳住基本盘；纯电战略推迟到2025年i系列。",
-  "sources": [
-   {
-    "title": "理想MEGA",
-    "url": "https://zh.wikipedia.org/wiki/理想MEGA",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "理想"
-  ]
- },
- {
-  "id": "2024-03-04-claude3",
-  "date": "2024-03-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 发布 Claude 3 系列",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月4日Anthropic发布Claude 3家族（Opus/Sonnet/Haiku），Opus在多数基准超越GPT-4，长文本与多模态一步到位。",
-  "detail": "Claude 3支持视觉输入与200K上下文，Opus在MMLU、GSM8K等基准上首次全面领先GPT-4，Sonnet以1/5价格提供接近能力，Haiku主打速度。Anthropic自此确立了「三档产品线」的行业模板。",
-  "impact": "GPT-4「一家独大」时代结束，模型评测「轮流登顶」成为常态。",
-  "aftermath": "6月Claude 3.5 Sonnet以更低价高性能统治开发者口碑。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2024-03-06-figure-01",
-  "date": "2024-03-06",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Figure 01 人形机器人接入 OpenAI 模型演示对话",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月13日Figure发布与OpenAI合作的Figure 01机器人演示视频，机器人以自然语言实时对话并执行「递苹果」等任务，人形机器人+大模型范式引爆。",
-  "detail": "演示中Figure 01听懂「我能吃点东西吗」并正确递上苹果，解释桌面物品分类逻辑，端到端响应速度接近人类对话节奏。Figure此前获微软、OpenAI、英伟达、贝索斯等6.75亿美元投资，估值26亿美元。",
-  "impact": "「大模型作为机器人大脑」成为人形机器人行业共识。",
-  "aftermath": "Figure后与OpenAI分道扬镳转自研模型；国内宇树、智元加速跟进。",
-  "sources": [
-   {
-    "title": "Figure AI",
-    "url": "https://en.wikipedia.org/wiki/Figure_AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "机器人",
-   "AI"
-  ]
- },
- {
-  "id": "2024-03-08-dune2",
-  "date": "2024-03-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《沙丘2》上映，好莱坞年度口碑票房双冠",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月8日《沙丘2》中美同步上映，全球票房7.14亿美元，成为当年全球票房前列与口碑最佳的视效巨制。",
-  "detail": "丹尼斯·维伦纽瓦执导的《沙丘2》以IMAX级沙漠美学与「沙虫骑乘」名场面获得压倒性好评，北美开画8250万美元超预期，全球累计约7.14亿美元，被普遍认为是「为电影院而生的电影」典范。",
-  "impact": "为大银幕体验价值背书，IMAX画幅成为宣发标配。",
-  "aftermath": "《沙丘3》（圣灾）进入制作流程。",
-  "sources": [
-   {
-    "title": "Dune: Part Two",
-    "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "好莱坞"
-  ]
- },
- {
-  "id": "2024-03-12-devin",
-  "date": "2024-03-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Cognition 发布「AI 软件工程师」Devin",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月12日初创公司Cognition发布Devin，宣称是「首个AI软件工程师」，可端到端独立完成开发任务，刷屏开发者社区。",
-  "detail": "Devin能接受一句指令后自主规划、写码、调试并部署，演示其在SWE-bench上解决13.86%的问题（远超此前模型）。虽然实际使用中被指演示夸大，但它把「AI Agent 干完整工作」的期待值拉满。",
-  "impact": "「AI 程序员替代论」大讨论的开端。",
-  "aftermath": "编程Agent赛道随后挤进Claude Code、Cursor Agent、Codex等；Cognition 2025年收购Windsurf。",
-  "sources": [
-   {
-    "title": "Cognition Labs",
-    "url": "https://en.wikipedia.org/wiki/Cognition_Labs",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "编程",
-   "Agent"
-  ]
- },
- {
-  "id": "2024-03-18-gtc-blackwell",
-  "date": "2024-03-18",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "英伟达 GTC 2024：Blackwell 架构发布",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月18日黄仁勋在GTC发布Blackwell架构与B200芯片，宣称训练大模型的能耗与成本降至1/25，开启AI算力新周期。",
-  "detail": "Blackwell采用双芯封装（两个Die拼成一颗GPU），2080亿晶体管，GB200 NVL72机架级方案把万亿参数模型训练成本降低约75%。黄仁勋称生成式AI进入「新工业革命」，GTC参会人数暴涨至1.6万。",
-  "impact": "AI算力军备竞赛再升一级，供应链（台积电、CoWoS）全面吃紧。",
-  "aftermath": "2024年10月GB200开始交付，Blackwell成为当年最大算力叙事。",
-  "sources": [
-   {
-    "title": "Blackwell (microarchitecture)",
-    "url": "https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "英伟达",
-   "芯片"
-  ]
- },
- {
-  "id": "2024-03-18-kimi-200w",
-  "date": "2024-03-18",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Kimi 长文本升级 200 万字并因爆火限流",
-  "category": "product",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "3月18日月之暗面宣布Kimi支持200万字无损长文本内测，此前Kimi因用户暴涨一度服务器限流，成为2024年初最火的国产AI应用。",
-  "detail": "Kimi智能助手凭20万字长文本能力在2024年2-3月出圈，3月一度登顶App Store效率榜并因流量激增限流「怎么玩都忙不过来」。3月18日再推200万字无损长文本，掀起国产大模型「长文本军备竞赛」（阿里通义、百度随后跟进千万字级）。",
-  "impact": "国产AI应用第一次出现C端「顶流」产品。",
-  "aftermath": "月之暗面5月估值升至33亿美元；2025年发布K2开源模型。",
-  "sources": [
-   {
-    "title": "月之暗面",
-    "url": "https://zh.wikipedia.org/wiki/月之暗面",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Kimi",
-   "产品"
-  ]
- },
- {
-  "id": "2024-03-22-suno-v3",
-  "date": "2024-03-22",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Suno V3 发布，AI 生成完整歌曲出圈",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "3月22日Suno发布V3模型，输入歌词风格即可生成带人声的完整歌曲，AI音乐第一次大规模进入大众视野。",
-  "detail": "Suno V3可按提示生成一分钟级、含人声与编曲的完整歌曲，质量首次达到「可以发朋友圈」的水平，用户自制AI神曲在社交平台刷屏，唱片业对版权的抗议随之升温，环球音乐随后起诉Suno。",
-  "impact": "生成式音乐从工具走向消费品，音乐版权冲突公开化。",
-  "aftermath": "V4于2024年11月发布；版权诉讼成为AI公司常态。",
-  "sources": [
-   {
-    "title": "Suno AI",
-    "url": "https://en.wikipedia.org/wiki/Suno_AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "音乐"
-  ]
- },
- {
-  "id": "2024-03-28-su7",
-  "date": "2024-03-28",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "小米 SU7 上市：27 分钟大定破 5 万",
-  "category": "hardware",
-  "region": "china",
-  "milestone": true,
-  "summary_30s": "3月28日小米SU7上市，21.59万元起售，27分钟大定破5万台，成为现象级爆品，「雷军」个人IP与流量打法震惊汽车业。",
-  "detail": "SU7 Max定价29.99万元低于预期，发布会全网刷屏，24小时大定8.8万台。雷军把手机圈发布会打法带进汽车：对标保时捷Tesla的参数叙事、粉丝运营与流量营销，友商高层纷纷下场互动。SU7交付长期排队，产能成为最大瓶颈。",
-  "impact": "「流量造车」模式确立，汽车营销进入新媒体时代。",
-  "aftermath": "SU7全年交付超13万台；小米2025年推YU7与SU7 Ultra。",
-  "sources": [
-   {
-    "title": "小米SU7",
-    "url": "https://zh.wikipedia.org/wiki/小米SU7",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "小米",
-   "爆品"
-  ]
- },
- {
-  "id": "2024-07-04-waic24",
-  "date": "2024-07-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "WAIC 2024 上海开幕",
-  "category": "tech",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "7月4日世界人工智能大会在上海开幕，大模型进入「卷落地」阶段，人形机器人首次成为全场焦点。",
-  "detail": "WAIC 2024全馆展览规模创新高，国内主要大模型厂商与20余款人形机器人同台，特斯拉Optimus二代、宇树、智元等亮相，「具身智能」首次成为大会核心议题。大模型讨论从参数竞赛转向行业落地与价格。",
-  "impact": "具身智能从概念走向台前，产业资本加速涌入机器人赛道。",
-  "aftermath": "2024下半年国内人形机器人创业与融资潮爆发。",
-  "sources": [
-   {
-    "title": "世界人工智能大会",
-    "url": "https://zh.wikipedia.org/wiki/世界人工智能大会",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "机器人",
-   "大会"
-  ]
- },
- {
-  "id": "2024-07-11-luobo-viral",
-  "date": "2024-07-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "萝卜快跑在武汉爆火，无人驾驶出租车登上热搜",
-  "category": "product",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "7月11日前后百度萝卜快跑在武汉订单暴涨、大量投运无人出租车，「网约车司机失业焦虑」话题引爆全网讨论。",
-  "detail": "萝卜快跑在武汉规模化投放第六代无人车，10公里车程价格远低于网约车，单日单车峰值订单超20单的报道广泛传播，出租车司机抗议与「技术抢饭碗」的社会讨论冲上热搜。百度披露萝卜快跑累计订单已超600万单。",
-  "impact": "Robotaxi商业化第一次以如此规模进入大众视野。",
-  "aftermath": "萝卜快跑随后推进香港测试与中东、东南亚出海。",
-  "sources": [
-   {
-    "title": "萝卜快跑",
-    "url": "https://zh.wikipedia.org/wiki/萝卜快跑",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "自动驾驶",
-   "百度",
-   "出行"
-  ]
- },
- {
-  "id": "2024-07-19-crowdstrike-outage",
-  "date": "2024-07-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "CrowdStrike 更新事故引发全球「蓝屏」",
-  "category": "internet",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "7月19日安全软件CrowdStrike的错误更新导致全球约850万台Windows设备蓝屏死机，航空、银行、医院大面积瘫痪。",
-  "detail": "CrowdStrike Falcon安全产品的缺陷更新在数小时内造成全球IT瘫痪：航班停飞、医院系统中断、银行与零售受影响，微软估算受影响设备约850万台。这一事件成为史上影响最广的IT故障之一，也让「单一供应商依赖」的系统性风险进入公众视野。",
-  "impact": "全球数字化系统的脆弱性被直观演示，企业灾备与供应链冗余议题升温。",
-  "aftermath": "CrowdStrike营收受挫并面临集体诉讼；各行业加强更新灰度发布机制。",
-  "sources": [
-   {
-    "title": "2024 CrowdStrike incident",
-    "url": "https://en.wikipedia.org/wiki/2024_CrowdStrike_incident",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "互联网",
-   "事故",
-   "微软"
-  ]
- },
- {
-  "id": "2024-07-23-llama31",
-  "date": "2024-07-23",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Meta 发布 Llama 3.1 405B",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月23日Meta发布Llama 3.1系列，405B开源模型在多数基准追平GPT-4o与Claude 3.5 Sonnet，「开源追平闭源」宣言落地。",
-  "detail": "Llama 3.1把上下文扩至128K、支持8种语言，405B版本基于15万亿token训练，扎克伯格称开源是「正确的一边」。许可证允许蒸馏输出给其他模型，进一步放大生态外溢。",
-  "impact": "开源模型第一次在旗舰级别与闭源正面打平。",
-  "aftermath": "企业私有部署与国内厂商「套壳蒸馏」随之兴起。",
-  "sources": [
-   {
-    "title": "Llama (language model)",
-    "url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Meta",
-   "开源"
-  ]
- },
- {
-  "id": "2024-07-24-mistral-large-2",
-  "date": "2024-07-24",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Mistral 发布 Mistral Large 2",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月24日法国Mistral AI发布123B参数的Mistral Large 2，代码与多语言能力对标Llama 3 405B，参数量却只有其三分之一。",
-  "detail": "Mistral Large 2拥有128K上下文与数十种语言能力，在代码生成上表现突出，采用研究许可发布（商用需授权）。欧洲AI旗舰以「小而精」路线持续对标美国巨头。",
-  "impact": "非美国阵营的基础模型竞争力持续上升。",
-  "aftermath": "Mistral随后进军企业服务与Le Chat消费端。",
-  "sources": [
-   {
-    "title": "Mistral AI",
-    "url": "https://en.wikipedia.org/wiki/Mistral_AI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "欧洲"
-  ]
- },
- {
-  "id": "2024-07-25-dongyuhui-depart",
-  "date": "2024-07-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "董宇辉离职东方甄选，「与辉同行」独立",
-  "category": "company",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "7月25日东方甄选公告董宇辉离职，「与辉同行」作价7658万元出售给董宇辉个人，俞敏洪称「一场好聚好散」。",
-  "detail": "自2023年底「小作文」风波后，东方甄选为董宇辉设立独立工作室与辉同行。2024年7月25日公司公告将其100%股权以7658万元转让给董宇辉，账面资金也随其带走，东方甄选彻底去头部化，股价一度大跌。",
-  "impact": "直播电商「超头绑定」模式以体面分手的方式谢幕。",
-  "aftermath": "与辉同行独立运营后转型文化访谈带货；东方甄选重建自营矩阵。",
-  "sources": [
-   {
-    "title": "东方甄选",
-    "url": "https://zh.wikipedia.org/wiki/东方甄选",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "直播电商",
-   "公司"
-  ]
- },
- {
-  "id": "2024-07-26-deadpool-wolverine",
-  "date": "2024-07-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《死侍与金刚狼》全球上映救市",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "7月26日《死侍与金刚狼》全球上映，全球票房13.38亿美元，成为当年票房最高R级片与漫威救市之作。",
-  "detail": "瑞安·雷诺兹与休·杰克曼联手的《死侍与金刚狼》以「情怀回收+打破第四面墙」策略大卖，全球13.38亿美元票房登顶2024年度票房榜，把低谷中的漫威电影宇宙拉回商业化正轨。",
-  "impact": "R级超英片票房天花板被大幅抬高。",
-  "aftermath": "漫威确认死侍将进入后续阶段作品。",
-  "sources": [
-   {
-    "title": "Deadpool & Wolverine",
-    "url": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "电影",
-   "漫威"
-  ]
- },
- {
-  "id": "2024-08-13-grok2",
-  "date": "2024-08-13",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "xAI 发布 Grok-2",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "8月13日马斯克旗下xAI发布Grok-2与Grok-2 mini，能力进入第一梯队，生图功能因尺度宽松引发争议。",
-  "detail": "Grok-2在推理与代码上显著进步，接入X平台免费分发；其图像生成因对名人形象限制宽松，一时间Grok生成的假图泛滥，X随后收紧部分限制。xAI同期在孟菲斯建设超算Colossus。",
-  "impact": "AI生图的滥用风险与平台治理矛盾集中爆发。",
-  "aftermath": "2025年2月Grok-3发布，xAI跻身头部模型阵营。",
-  "sources": [
-   {
-    "title": "Grok (chatbot)",
-    "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "xAI"
-  ]
- },
- {
-  "id": "2024-08-20-black-myth",
-  "date": "2024-08-20",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《黑神话：悟空》全球发售",
-  "category": "product",
-  "region": "china",
-  "milestone": true,
-  "summary_30s": "8月20日游戏科学《黑神话：悟空》全球发售，Steam同时在线峰值超240万创单机纪录，三日销量破1000万套。",
-  "detail": "首款国产3A单机《黑神话：悟空》上线即引爆：Steam同时在线峰值达241万（全平台第二），三天全平台销量超1000万套，山西文旅随取景地爆火，「天命人」成为年度文化符号。游戏获TGA2024最佳动作游戏与玩家之声。",
-  "impact": "证明中国市场可以诞生世界级单机买断制大作，带动国产3A立项潮。",
-  "aftermath": "首年销量超2800万套；续作与DLC进入开发。",
-  "sources": [
-   {
-    "title": "黑神话：悟空",
-    "url": "https://zh.wikipedia.org/wiki/黑神话：悟空",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "国产3A"
-  ]
- },
- {
-  "id": "2024-09-09-iphone16",
-  "date": "2024-09-09",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "苹果发布 iPhone 16 系列，主打 Apple Intelligence",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月9日苹果发布iPhone 16系列，全系搭载A18芯片并为Apple Intelligence预留硬件，但AI功能延期引发「期货」质疑。",
-  "detail": "iPhone 16系列全系升级A18/A18 Pro、新增拍照按钮与操作按钮，为Apple Intelligence铺路。但发布会最大卖点AI功能要到10月才随iOS 18.1上线英语版，中文版遥遥无期，被认为拉低了换机吸引力。",
-  "impact": "「AI手机」首次成为苹果官方叙事，但体验滞后令换机周期继续拉长。",
-  "aftermath": "Apple Intelligence 10月上线英语版；iPhone 16国内上市初期价格很快松动。",
-  "sources": [
-   {
-    "title": "iPhone 16",
-    "url": "https://en.wikipedia.org/wiki/IPhone_16",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果",
-   "AI手机"
-  ]
- },
- {
-  "id": "2024-09-10-mate-xt",
-  "date": "2024-09-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "华为发布全球首款三折叠手机 Mate XT",
-  "category": "hardware",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "9月10日华为发布全球首款三折叠手机Mate XT非凡大师，19999元起，预约人数超600万，一机难求。",
-  "detail": "Mate XT采用内外三折形态，展开10.2英寸，最薄处3.6毫米，搭载麒麟芯片与红枫原色影像。黄牛炒价一度到10万元，成为现象级产品，也展示了华为在折叠屏供应链上的统治力。",
-  "impact": "折叠屏形态竞赛进入「多折」阶段。",
-  "aftermath": "三折叠成为2025-2026年国产厂商旗舰竞逐方向。",
-  "sources": [
-   {
-    "title": "华为Mate XT",
-    "url": "https://zh.wikipedia.org/wiki/华为Mate_XT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "华为",
-   "折叠屏"
-  ]
- },
- {
-  "id": "2024-09-10-o1",
-  "date": "2024-09-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI 发布 o1 推理模型",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "9月12日OpenAI发布o1-preview，用「思考时间」换推理能力，奥数与博士级科学题表现质变，「推理模型」范式确立。",
-  "detail": "o1（代号Strawberry）通过强化学习训练模型生成思维链，在AIME奥数、Codeforces与博士级科学问题上大幅超越GPT-4o，代价是响应时间变长与费用更高。行业随后跟进复制：DeepSeek-R1、Claude扩展思考、Gemini Thinking均由此发端。",
-  "impact": "「推理时计算扩展」成为继预训练之后的第二增长曲线。",
-  "aftermath": "12月o1正式版发布；12月26日o3在ARC-AGI上表现震惊业界。",
-  "sources": [
-   {
-    "title": "OpenAI o1",
-    "url": "https://en.wikipedia.org/wiki/OpenAI_o1",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "推理模型"
-  ]
- },
- {
-  "id": "2024-09-11-notebooklm-audio",
-  "date": "2024-09-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "NotebookLM 推出音频概览，AI 播客出圈",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月11日谷歌NotebookLM上线「Audio Overview」，可把文档变成双人对谈播客，自然度惊人，用户上传资料量暴涨。",
-  "detail": "NotebookLM的音频概览功能由两个AI主持人像播客一样讨论用户上传的资料，语气、插科打诨高度拟真，上线后社交平台疯传试听，带动这款「小众工具」成为现象级应用。",
-  "impact": "「把资料变成播客」成为AI内容生产的爆款模板。",
-  "aftermath": "2025年谷歌开放自定义指令并推出视频概览。",
-  "sources": [
-   {
-    "title": "NotebookLM",
-    "url": "https://en.wikipedia.org/wiki/NotebookLM",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌",
-   "播客"
-  ]
- },
- {
-  "id": "2024-09-19-ledao-l60",
-  "date": "2024-09-19",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "蔚来乐道 L60 上市",
-  "category": "hardware",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "9月19日蔚来子品牌乐道首款车L60上市，14.99万元起（BaaS方案），对标Model Y的家用纯电SUV。",
-  "detail": "乐道L60以「围绕家庭」的定位、可换电与低能耗（百公里12.1度）切入20万元级纯电市场，BaaS电池租用方案把起售价拉到14.99万。上市后订单超预期，产能爬坡成为挑战。",
-  "impact": "蔚来完成「主品牌+乐道」双品牌布局，换电生态向家庭用户开放。",
-  "aftermath": "2025年乐道L90接力，蔚来多品牌矩阵成形。",
-  "sources": [
-   {
-    "title": "乐道汽车",
-    "url": "https://zh.wikipedia.org/wiki/乐道汽车",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "蔚来"
-  ]
- },
- {
-  "id": "2024-09-24-meta-connect",
-  "date": "2024-09-24",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Meta Connect 2024：Llama 3.2、Quest 3S 与 Orion 原型",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "9月25日Meta Connect发布多模态开源Llama 3.2、低价头显Quest 3S，并展示AR眼镜原型Orion。",
-  "detail": "Llama 3.2首次带来11B/90B视觉模型与1B/3B端侧小模型；299美元的Quest 3S巩固入门MR市场；扎克伯格展示内部研发十年的真AR眼镜Orion（不发售），对垒苹果与谷歌的下一代计算平台。",
-  "impact": "开源多模态与AR眼镜叙事同时升温。",
-  "aftermath": "2025年Meta与雷朋合作AI眼镜大卖，AI眼镜成为新风口。",
-  "sources": [
-   {
-    "title": "Meta Quest 3S",
-    "url": "https://en.wikipedia.org/wiki/Meta_Quest_3S",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "Meta",
-   "AR"
-  ]
- },
- {
-  "id": "2024-09-26-computer-use",
-  "date": "2024-09-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Claude 升级并推出 Computer Use 操控电脑能力",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月22日Anthropic发布新版Claude 3.5 Sonnet与「Computer Use」公测，AI首次可直接看屏幕、动鼠标完成电脑操作。",
-  "detail": "Computer Use让Claude像人一样截屏、移动光标、点击与输入，可跨应用完成填表、订票等任务，是首个大规模开放「通用电脑操作」的模型能力，Agent从API调用走向GUI操作。",
-  "impact": "「AI操作电脑」成为Agent竞争的通用接口。",
-  "aftermath": "2025年OpenAI推出Operator/Agent模式，各家跟进GUI Agent。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Agent",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2024-10-01-openai-66b",
-  "date": "2024-10-01",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "OpenAI 完成66亿美元融资，估值1570亿美元",
-  "category": "company",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月2日OpenAI宣布完成66亿美元融资，Thrive Capital领投，微软、英伟达、软银等参投，估值升至1570亿美元。",
-  "detail": "本轮融资是硅谷史上最大规模之一，附加条件罕见：投资人被要求支持OpenAI重组并可能失去投资（若18个月内未完成）。OpenAI同月周活用户达2.5亿，商业化与重组压力同步上升。",
-  "impact": "AI融资规模进入百亿美元量级，行业两极分化加剧。",
-  "aftermath": "OpenAI随后经历高管连环离职，2025年推进营利性架构重组。",
-  "sources": [
-   {
-    "title": "OpenAI",
-    "url": "https://en.wikipedia.org/wiki/OpenAI",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "OpenAI",
-   "融资"
-  ]
- },
- {
-  "id": "2024-10-08-nobel-hinton",
-  "date": "2024-10-08",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "诺贝尔物理学奖授予神经网络先驱 Hinton 与 Hopfield",
-  "category": "tech",
-  "region": "world",
-  "milestone": true,
-  "summary_30s": "10月8日2024年诺贝尔物理学奖授予Hinton与Hopfield，表彰其人工神经网络与机器学习奠基性发现，AI首次摘得物理诺奖。",
-  "detail": "瑞典皇家科学院将物理学奖授予约翰·霍普菲尔德与杰弗里·辛顿，表彰他们在1980年代对人工神经网络基础方法的贡献。Hinton在采访中自嘲「没料到会得物理奖」，并表达了对AI风险的担忧。次日化学奖授予AlphaFold团队。",
-  "impact": "AI研究获得最高科学荣誉背书，「AI元年」叙事盖章。",
-  "aftermath": "Hinton获奖前数月刚从谷歌离职并公开警告AI风险。",
-  "sources": [
-   {
-    "title": "Nobel Prize in Physics",
-    "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "诺奖"
-  ]
- },
- {
-  "id": "2024-10-09-nobel-alphafold",
-  "date": "2024-10-09",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "诺贝尔化学奖授予 AlphaFold 团队",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月9日诺贝尔化学奖一半授予DeepMind的Hassabis与Jumper（AlphaFold2），AI连续两天登上诺奖舞台。",
-  "detail": "戴密斯·哈萨比斯与约翰·江珀因蛋白质结构预测获得化学奖，另一半授予计算蛋白质设计的大卫·贝克。AlphaFold2已预测超过2亿个蛋白质结构，全球超200万研究者使用。",
-  "impact": "「AI for Science」获得科学界最高认可。",
-  "aftermath": "AlphaFold 3商业化与药物研发管线加速。",
-  "sources": [
-   {
-    "title": "2024 Nobel Prize in Chemistry",
-    "url": "https://en.wikipedia.org/wiki/2024_Nobel_Prize_in_Chemistry",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "DeepMind",
-   "诺奖"
-  ]
- },
- {
-  "id": "2024-10-10-cybercab",
-  "date": "2024-10-10",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "特斯拉发布无人出租车 Cybercab",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月10日特斯拉在洛杉矶发布两座无人驾驶出租车Cybercab与Robovan概念车，宣布2026年量产、目标2.5万美元级成本。",
-  "detail": "Cybercab无方向盘与踏板，采用感应充电；马斯克称2026年投产，2027年前量产，成本低于3万美元。Robotaxi服务计划先在德州加州落地，全程依赖纯视觉FSD。发布会演示偏少被批「PPT色彩浓」。",
-  "impact": "Robotaxi叙事重回特斯拉战略中心。",
-  "aftermath": "2025年特斯拉在奥斯汀试运营Robotaxi，安全性争议不断。",
-  "sources": [
-   {
-    "title": "Tesla Cybercab",
-    "url": "https://en.wikipedia.org/wiki/Tesla_Cybercab",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "特斯拉",
-   "自动驾驶"
-  ]
- },
- {
-  "id": "2024-10-25-blackops6",
-  "date": "2024-10-25",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "《使命召唤：黑色行动6》发售并首日进 Game Pass",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月25日《使命召唤：黑色行动6》发售，首次首发即进Xbox Game Pass，玩家数与订阅拉新创纪录。",
-  "detail": "《黑色行动6》以冷战间谍叙事与全向移动机制获得好评，首发登陆Game Pass成为微软「内容即服务」战略的标志性动作，推动Xbox月活创纪录。",
-  "impact": "3A大作「订阅首发」模式跑通。",
-  "aftermath": "微软2025年上调Game Pass价格，订阅与买断并行。",
-  "sources": [
-   {
-    "title": "Call of Duty: Black Ops 6",
-    "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "微软"
-  ]
- },
- {
-  "id": "2024-10-29-m4-mac",
-  "date": "2024-10-29",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "苹果发布 M4 系列 Mac：Mac mini 重设计",
-  "category": "hardware",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "10月29日苹果发布M4版iMac、MacBook Pro与全新Mac mini，机身缩至掌心大小，主打AI性能与能效。",
-  "detail": "M4采用3nm第二代工艺、16核神经引擎（38 TOPS），面向Apple Intelligence优化；Mac mini以12.7厘米见方的机身重设计，起售价下调至4999元人民币，被视为「最小桌面旗舰」。",
-  "impact": "桌面AI性能入门门槛进一步降低。",
-  "aftermath": "M4系列成为本地跑大模型的热门选择。",
-  "sources": [
-   {
-    "title": "Mac mini",
-    "url": "https://en.wikipedia.org/wiki/Mac_mini",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "硬件",
-   "苹果"
-  ]
- },
- {
-  "id": "2024-11-04-claude-35-haiku",
-  "date": "2024-11-04",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Anthropic 发布 Claude 3.5 Haiku",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "11月4日Anthropic发布小模型Claude 3.5 Haiku，以接近前代旗舰的能力与更高速度服务高频企业场景。",
-  "detail": "Claude 3.5 Haiku主打低延迟与低成本，在编码与工具调用上超过Claude 3 Opus，适用于客服、内容审核等高并发场景，补齐了Anthropic的「大中小」产品线。",
-  "impact": "小模型在企业侧的地位持续上升。",
-  "aftermath": "2025年Haiku 4.5接续迭代。",
-  "sources": [
-   {
-    "title": "Claude (language model)",
-    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "Anthropic"
-  ]
- },
- {
-  "id": "2024-11-12-doubao-mau",
-  "date": "2024-11-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "豆包月活破6000万，登顶国内AI应用",
-  "category": "internet",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "11月12日第三方报告显示豆包App月活近6000万，超越Kimi等成为国内用户量第一的AI原生应用。",
-  "detail": "量子位智库报告显示，豆包以约5998万MAU居国内AI应用榜首，远超第二名；字节以多端矩阵、免费策略与抖音导流实现快速起量。同期ChatGPT仍居全球第一，但国内格局首现「字节领跑」。",
-  "impact": "国内AI to C竞争进入「流量规模」阶段。",
-  "aftermath": "2025年豆包月活过亿，AI助手赛道进入大厂主导期。",
-  "sources": [
-   {
-    "title": "豆包",
-    "url": "https://zh.wikipedia.org/wiki/豆包",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "字节",
-   "应用"
-  ]
- },
- {
-  "id": "2024-12-09-sora-launch",
-  "date": "2024-12-09",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "Sora 正式向公众开放",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月9日OpenAI在「12天直播」中把Sora开放给Plus与Pro用户，拖了10个月的视频生成产品终于上线。",
-  "detail": "OpenAI于12月5日开启连续12天直播发布（「Shipmas」），第三天上线Sora网页版，支持1080p20秒视频、故事板与混剪功能；因流量过大一度暂停注册。同期o1正式版、ChatGPT搜索、Canvas等密集发布。",
-  "impact": "文生视频从演示稿进入消费者手中。",
-  "aftermath": "2025年谷歌Veo、快手可灵等竞品快速迭代，AI视频进入比拼期。",
-  "sources": [
-   {
-    "title": "Sora",
-    "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "文生视频",
-   "OpenAI"
-  ]
- },
- {
-  "id": "2024-12-11-chatgpt-search",
-  "date": "2024-12-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "ChatGPT 搜索功能向所有用户开放",
-  "category": "product",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月11日OpenAI把ChatGPT搜索开放给全部免费用户，AI搜索与谷歌正面对抗进入深水区。",
-  "detail": "ChatGPT search整合实时网页结果与新闻、体育、股票卡片，支持语音与地图信息，浏览器扩展可将其设为默认搜索。此后ChatGPT周活快速逼近4亿，传统搜索引擎份额开始出现松动迹象。",
-  "impact": "「先问AI再搜索」的用户习惯加速形成。",
-  "aftermath": "2025年谷歌Gemini深度接入搜索，AI搜索大战白热化。",
-  "sources": [
-   {
-    "title": "ChatGPT",
-    "url": "https://en.wikipedia.org/wiki/ChatGPT",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "搜索"
-  ]
- },
- {
-  "id": "2024-12-11-gemini-2",
-  "date": "2024-12-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "谷歌发布 Gemini 2.0：Agent 时代宣言",
-  "category": "tech",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月11日谷歌发布Gemini 2.0 Flash实验版，主打原生工具调用与多模态输出，宣称进入「Agentic era」。",
-  "detail": "Gemini 2.0带来原生图像与音频输出、实时多模态流式API，配套发布Project Astra升级、Project Mariner浏览器Agent与Jules编程Agent。谷歌把2025年定义为「Agent元年」。",
-  "impact": "AI竞争重心从聊天转向自主执行任务。",
-  "aftermath": "2025年3月Gemini 2.5 Pro登顶多项榜单。",
-  "sources": [
-   {
-    "title": "Gemini (language model)",
-    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "AI",
-   "谷歌",
-   "Agent"
-  ]
- },
- {
-  "id": "2024-12-11-jiyue",
-  "date": "2024-12-11",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "极越汽车爆雷：员工围堵CEO、就地解散",
-  "category": "company",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "12月11日百度吉利合资的极越汽车爆出欠薪停产，员工围堵CEO夏一平直播间，公司「原地解散」成为年度车企最大塌方。",
-  "detail": "极越被曝70亿元资金窟窿，12月11日启动「创业2.0」裁员后员工讨薪，视频会议、直播、门店集体瘫痪，售后与车主权益成为烂尾问题。吉利与百度随后联合兜底员工社保与车辆维保。",
-  "impact": "新势力造车「输血依赖」模式的风险全面暴露。",
-  "aftermath": "极越车主获接管维保；行业合资造车模式进入清算反思期。",
-  "sources": [
-   {
-    "title": "极越",
-    "url": "https://zh.wikipedia.org/wiki/极越",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "汽车",
-   "公司"
-  ]
- },
- {
-  "id": "2024-12-12-tga2024",
-  "date": "2024-12-12",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "TGA 2024：《宇宙机器人》获年度游戏",
-  "category": "culture",
-  "region": "world",
-  "milestone": false,
-  "summary_30s": "12月12日TGA 2024颁奖，索尼《宇宙机器人》爆冷击败《黑神话：悟空》获年度游戏，引发巨大争议。",
-  "detail": "Astro Bot拿下年度游戏、最佳家庭等四项大奖；《黑神话：悟空》获最佳动作游戏与玩家之声。结果公布后「年度游戏该给谁」成为全球玩家社区论战焦点，黑神话虽败犹荣的讨论席卷中文互联网。",
-  "impact": "「玩家之声」与评委票的分裂被放大。",
-  "aftermath": "黑神话持续热销，2025年8月周年销量超2800万。",
-  "sources": [
-   {
-    "title": "The Game Awards 2024",
-    "url": "https://en.wikipedia.org/wiki/The_Game_Awards_2024",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "游戏",
-   "TGA"
-  ]
- },
- {
-  "id": "2024-12-17-alibaba-intime",
-  "date": "2024-12-17",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "阿里巴巴出售银泰百货",
-  "category": "company",
-  "region": "china",
-  "milestone": false,
-  "summary_30s": "12月17日阿里宣布以约74亿元向雅戈尔集团出售银泰百货全部股权，预计录得约93亿元亏损，「新零售」实验谢幕。",
-  "detail": "阿里2017年以约198亿港元私有化银泰开启新零售改造，七年后以约74亿元出售，账面亏损约93亿元。阿里表示这是聚焦核心业务的非核心资产退出。同期高鑫零售也进入出售流程。",
-  "impact": "新零售叙事退潮，阿里回归电商与AI主业。",
-  "aftermath": "高鑫零售随后售予德弘资本，线下资产持续剥离。",
-  "sources": [
-   {
-    "title": "阿里巴巴集团",
-    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
-    "type": "wiki"
-   }
-  ],
-  "tags": [
-   "公司",
-   "阿里",
-   "零售"
-  ]
- },
- {
-  "id": "2024-12-26-deepseek-v3",
-  "date": "2024-12-26",
-  "date_accuracy": "exact",
-  "date_confidence": "verified",
-  "title": "DeepSeek-V3 开源：训练成本仅约557万美元",
-  "category": "tech",
-  "region": "china",
-  "milestone": true,
-  "summary_30s": "12月26日DeepSeek开源V3（671B参数MoE），官方论文披露完整训练仅用约2048张H800、成本约557.6万美元，震动业界。",
-  "detail": "DeepSeek-V3总参数671B、激活37B，采用MLA与DeepSeekMoE及FP8混合精度训练，在数学代码上比肩GPT-4o与Claude 3.5。训练成本量级远低于海外巨头，引发「效率路线能否追平美国」的大讨论。",
-  "impact": "中国模型第一次以工程效率成为全球焦点。",
-  "aftermath": "一个月后R1发布，DeepSeek完成全球出圈。",
-  "sources": [
-   {
-    "title": "DeepSeek",
-    "url": "https://zh.wikipedia.org/wiki/DeepSeek",
-    "type": "wiki"
-   },
-   {
-    "title": "deepseek-ai/DeepSeek-V3",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-    "type": "official"
-   }
-  ],
-  "tags": [
-   "AI",
-   "DeepSeek",
-   "开源"
-  ]
- }
+{
+"id": "2023-01-15-san-ti-tv",
+"date": "2023-01-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "剧版《三体》开播",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月15日腾讯视频《三体》电视剧开播，刘慈欣科幻IP首次被国产剧完整影像化，口碑持续走高。",
+"detail": "由杨磊执导、张鲁一和于和伟主演的《三体》电视剧在腾讯视频开播，对原著「古筝行动」「三体游戏」等名场面的高还原获得原著粉认可，豆瓣开分8.0后升至8.7，成为近年国产科幻剧口碑标杆，也为同年春节档《流浪地球2》带动的「科幻热」添火。",
+"impact": "验证了中国本土科幻IP影视化的商业与口碑双路径，后续衍生与IP授权大幅提速。",
+"aftermath": "衍生动画、周边与舞台剧接连推出；网飞版《三体》于2024年3月上线形成对照。",
+"sources": [
+{
+"title": "三体（电视剧）",
+"url": "https://zh.wikipedia.org/wiki/三体_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"影视",
+"科幻",
+"腾讯"
+]
+},
+{
+"id": "2023-01-22-wandering-earth-2",
+"date": "2023-01-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《流浪地球2》春节档上映",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月22日《流浪地球2》上映，与《满江红》同档竞争，最终拿下超40亿元票房，标志中国重工业科幻片续作成熟。",
+"detail": "郭帆执导的《流浪地球2》作为前作前传上映，太空电梯、数字生命等设定与大规模实体置景引发热议，最终票房约40.29亿元居2023年度第二，与《满江红》的档期竞争成为春节档话题。影片使用的国产特效流程与设备国产化被广泛讨论。",
+"impact": "续作票房与口碑双赢，把中国科幻电影工业化的讨论推向主流。",
+"aftermath": "系列第三部立项，周边众筹破亿元；《流浪地球3》定档后续年份。",
+"sources": [
+{
+"title": "流浪地球2",
+"url": "https://zh.wikipedia.org/wiki/流浪地球2",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"春节档"
+]
+},
+{
+"id": "2023-01-23-microsoft-openai-invest",
+"date": "2023-01-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软宣布与OpenAI扩大多年期合作并追加数十亿美元投资",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月23日微软宣布与OpenAI扩大多年期合作，追加数十亿美元投资，Azure成为OpenAI独家云，媒体报道规模约百亿美元。",
+"detail": "微软在官方博客宣布与OpenAI扩展多年期合作伙伴关系，追加数十亿美元投资，OpenAI将把模型与Azure独家绑定，微软获得利润分成优先权。双方未披露确切金额，多家媒体报道总额约100亿美元。这是生成式AI竞赛中第一笔超大规模云厂商押注。",
+"impact": "开启大公司围绕基础模型的资本开支竞赛，把OpenAI与微软深度绑定。",
+"aftermath": "OpenAI估值随后升至约290亿美元；微软陆续把GPT-4接入Bing、Office与Windows。",
+"sources": [
+{
+"title": "OpenAI",
+"url": "https://en.wikipedia.org/wiki/OpenAI",
+"type": "wiki"
+},
+{
+"title": "Microsoft News",
+"url": "https://blogs.microsoft.com",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"微软",
+"OpenAI",
+"融资"
+]
+},
+{
+"id": "2023-02-01-chatgpt-100m",
+"date": "2023-02-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "研究称ChatGPT上线两个月月活破1亿",
+"category": "internet",
+"region": "world",
+"milestone": true,
+"summary_30s": "2月1日瑞银联合报告援引Similarweb估算称ChatGPT月活用户破1亿，成为史上用户增长最快的消费级应用。",
+"detail": "瑞银分析师援引Similarweb数据发布报告，估算ChatGPT在2023年1月底月活用户达到约1亿，距上线仅约两个月，此前TikTok达成同等规模用了9个月，引发全球对生成式AI商业化速度的讨论。",
+"impact": "ChatGPT成为AI大规模普及的标志性节点，直接引爆大厂模型竞赛。",
+"aftermath": "各大科技公司加速自研模型上线；服务器容量一度成为OpenAI主要瓶颈。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"用户里程碑"
+]
+},
+{
+"id": "2023-02-01-chatgpt-plus",
+"date": "2023-02-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT Plus 订阅上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "OpenAI于2月1日推出ChatGPT Plus订阅服务，每月20美元，提供高峰期优先访问与更快响应，是ChatGPT首个收费档。",
+"detail": "ChatGPT Plus定价每月20美元，权益包括高峰时段也可使用、更快响应速度和优先体验新功能，后续逐步加入GPT-4、联网、插件等。这是OpenAI第一次向普通用户直接收费，也被视为「订阅制AI助手」这一品类的开端。",
+"impact": "确立了消费级AI助手20美元/月的行业默认定价锚点。",
+"aftermath": "2024年新增Team与企业版；竞品Claude、Gemini随后对标推出同级订阅。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"订阅",
+"OpenAI"
+]
+},
+{
+"id": "2023-02-06-google-bard-announce",
+"date": "2023-02-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌宣布对话式AI「Bard」",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月6日谷歌CEO宣布聊天机器人Bard，应对ChatGPT冲击；次日发布会演示中Bard答错天文问题，股价单日跌约8%。",
+"detail": "谷歌在官方博客预告对话式AI服务Bard，并向部分测试者开放。2月8日巴黎发布会上，Bard在演示中把詹姆斯·韦伯望远镜首张系外行星照片的常识问题答错，截图广泛传播，Alphabet当日市值蒸发超千亿美元。",
+"impact": "暴露大模型「幻觉」问题的标志性案例，也让谷歌AI叙事一度承压。",
+"aftermath": "Bard于3月21日才开放公测，后续更名Gemini并完成赶超。",
+"sources": [
+{
+"title": "Gemini（聊天机器人）",
+"url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2023-02-07-alibaba-tongyi-tease",
+"date": "2023-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里确认研发类ChatGPT产品「通义千问」",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月7日阿里确认在研发类ChatGPT对话机器人，已进入内测，后定名通义千问，成为国内大厂跟进大模型的标志事件之一。",
+"detail": "阿里方面向媒体确认正在研发类ChatGPT产品，已接入阿里云内测，命名与阿里云「通义」系列相关，即后来的通义千问。此后百度、360、字节等国内公司相继确认跟进，形成国内「百模大战」的第一波立项潮。",
+"impact": "国内大厂大模型竞备公开化的起点之一。",
+"aftermath": "通义千问4月11日开启邀测，9月开源Qwen系列。",
+"sources": [
+{
+"title": "通义千问",
+"url": "https://zh.wikipedia.org/wiki/通义千问",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"阿里巴巴"
+]
+},
+{
+"id": "2023-02-07-meta-llama",
+"date": "2023-02-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 发布大模型 LLaMA",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月24日Meta开放LLaMA权重下载（研究许可），7B至65B四档小模型以小搏大，为开源社区爆发埋下伏笔。",
+"detail": "Meta于2月24日宣布向研究者开放LLaMA（Large Language Model Meta AI）权重，含7B、13B、33B、65B四档。官方许可仅限研究用途，但权重很快泄露并在社区流传，催生了Alpaca、Vicuna等一大批微调模型。",
+"impact": "证明了小参数模型的可能性，成为开源大模型生态的直接起点。",
+"aftermath": "7月Meta顺势推出可商用的Llama 2，彻底改变开源模型格局。",
+"sources": [
+{
+"title": "Llama (language model)",
+"url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Meta",
+"开源"
+]
+},
+{
+"id": "2023-02-08-bing-chat",
+"date": "2023-02-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软发布集成AI的新版必应搜索",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月8日微软发布基于OpenAI模型的全新Bing与Edge，把对话式搜索搬进浏览器，用户排队申请一度超百万。",
+"detail": "微软把OpenAI的下一代模型（后确认基于GPT-4）集成进Bing搜索引擎，提供聊天式检索、长文摘要与Edge侧边栏问答。上线首日申请排队用户超过百万，测试中Bing出现的「类人格」对话（如Sydney）引发关于AI安全与人格化的广泛讨论。",
+"impact": "被视为搜索引擎20年来最大交互变革，倒逼谷歌加速AI化。",
+"aftermath": "产品后更名为Microsoft Copilot，成为微软全线AI助手的品牌。",
+"sources": [
+{
+"title": "Microsoft Copilot",
+"url": "https://en.wikipedia.org/wiki/Microsoft_Copilot",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"微软",
+"搜索"
+]
+},
+{
+"id": "2023-03-01-chatgpt-api",
+"date": "2023-03-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI开放ChatGPT API（gpt-3.5-turbo）",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月1日OpenAI开放ChatGPT与Whisper API，gpt-3.5-turbo定价为此前版本的十分之一，AI应用开发潮随之爆发。",
+"detail": "OpenAI向开发者开放ChatGPT同款模型gpt-3.5-turbo的API接口，输入价格降至每千token 0.002美元，约为此前GPT-3.5系列的十分之一，并提供数据留存策略选项。大量创业公司据此快速搭建AI应用，成为「AI应用井喷」的技术前提。",
+"impact": "大幅降低AI应用门槛，直接引爆2023年AI创业与融资潮。",
+"aftermath": "6月开放函数调用；后续GPT-4 Turbo进一步降价。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"API"
+]
+},
+{
+"id": "2023-03-01-cursor-launch",
+"date": "2023-03-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "AI 代码编辑器 Cursor 首次发布",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月Anysphere公司推出AI代码编辑器Cursor，把GPT模型直接嵌进VS Code式编辑环境，「对话改代码」逐渐取代补全式编程。",
+"detail": "由MIT辍学生团队Anysphere开发的Cursor基于VS Code分支改造，支持整库上下文问答、行内编辑与Tab补全，早期接入GPT-4后口碑在开发者社区迅速发酵，成为「AI原生IDE」品类的代表。",
+"impact": "开创了AI代码编辑器赛道，两年后成为程序员渗透率最高的AI工具之一。",
+"aftermath": "2025年母公司Anysphere估值突破百亿美元，与GitHub Copilot正面竞争。",
+"sources": [
+{
+"title": "Cursor 官网",
+"url": "https://cursor.com",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"编程",
+"开发者工具"
+]
+},
+{
+"id": "2023-03-14-chatglm-6b",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "清华系智谱AI开源双语模型 ChatGLM-6B",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月14日智谱AI与清华KEG开源62亿参数双语对话模型ChatGLM-6B，消费级显卡即可部署，成为国内开发者最早大规模自托管的选择。",
+"detail": "ChatGLM-6B基于GLM架构，支持中英双语问答与对话，6B规模经量化后最低6GB显存即可运行，GitHub开源迅速获得数万Star，是国内「百模大战」早期最受欢迎的开源底座之一，衍生出大量垂直领域微调模型。",
+"impact": "显著降低了国内高校与中小团队体验和微调大模型的门槛。",
+"aftermath": "智谱同年7月起推出商用ChatGLM2/3与后续GLM-4系列。",
+"sources": [
+{
+"title": "THUDM/ChatGLM-6B",
+"url": "https://github.com/THUDM/ChatGLM-6B",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"开源",
+"智谱"
+]
+},
+{
+"id": "2023-03-14-claude-v1",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 开放 Claude 公测",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月14日OpenAI前员工创办的Anthropic开放AI助手Claude公测，主打「更安全、长文本」，正式加入大模型第一梯队竞争。",
+"detail": "Anthropic由前OpenAI副总裁Dario Amodei兄弟创办，理念是「AI对齐」。Claude首版支持最长10万token上下文，强调 helpful、honest、harmless 的训练目标，通过Slack集成与Notion、Quora等伙伴应用对外开放。",
+"impact": "让OpenAI之外出现了真正有竞争力的闭源头部玩家。",
+"aftermath": "7月发布Claude 2，2024年起以Claude 3系列多次在长文本与代码上与GPT互有胜负。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2023-03-14-gpt4",
+"date": "2023-03-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GPT-4 发布",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "3月14日OpenAI发布GPT-4，支持图像输入，在美国律师资格考试中进入前10%，性能全面超越GPT-3.5。",
+"detail": "OpenAI发布多模态大模型GPT-4，接受图文输入并输出文本，在律师资格、SAT等专业考试中达到人类前10%水平，上下文长度支持至32K，同步上线ChatGPT Plus与新版Bing。技术报告详述了评测结果但未公布架构、参数与训练数据细节。",
+"impact": "把大模型能力推到「可通过专业考试」的新台阶，成为此后两年对标的基准线。",
+"aftermath": "11月推出GPT-4 Turbo；2024年5月被GPT-4o接替为旗舰。",
+"sources": [
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/gpt-4/",
+"type": "official"
+},
+{
+"title": "GPT-4",
+"url": "https://en.wikipedia.org/wiki/GPT-4",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"GPT"
+]
+},
+{
+"id": "2023-03-15-midjourney-v5",
+"date": "2023-03-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Midjourney V5 发布，「教皇羽绒服」假图引爆AIGC讨论",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月15日Midjourney发布V5版本，生成图像首次达到「真假难辨」的照片级水准，月底「特朗普被捕」「教皇穿羽绒服」假图疯传。",
+"detail": "Midjourney V5大幅提升写实能力与手部细节，「prompt很小，效果很大」成为圈内口号。3月下旬，用其生成的「特朗普被逮捕」「教皇穿白色羽绒服」等假图在社交网络疯传，多数观众难辨真假，引发全球对AI生成内容识别与治理的集中讨论。",
+"impact": "让「AI假图」第一次成为大众议题，AIGC水印与检测话题升温。",
+"aftermath": "当年6月其估值升至100亿美元，V6于年底上线。",
+"sources": [
+{
+"title": "Midjourney",
+"url": "https://en.wikipedia.org/wiki/Midjourney",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生图"
+]
+},
+{
+"id": "2023-03-16-ernie-bot",
+"date": "2023-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百度发布大模型产品「文心一言」",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月16日百度在北京发布「文心一言」，成为国内首个对标ChatGPT的大厂产品，发布会用录播演示一度引发争议。",
+"detail": "百度在总部举行发布会，创始人李彦宏现场介绍文心一言的文学创作、商业文案、数理推算、中文理解与多模态生成五大能力，演示环节采用预录对话。股价当日一度下跌约10%，但产品随后获数百家企业宣布接入，成为「国产大模型第一枪」。",
+"impact": "标志着国内大厂正面参战大模型，「国产ChatGPT时刻」叙事确立。",
+"aftermath": "8月31日文心一言成为首批面向公众开放的备案产品之一。",
+"sources": [
+{
+"title": "文心一言",
+"url": "https://zh.wikipedia.org/wiki/文心一言",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"百度",
+"大模型"
+]
+},
+{
+"id": "2023-03-16-m365-copilot",
+"date": "2023-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软发布 Microsoft 365 Copilot",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月16日微软发布 Microsoft 365 Copilot，把大模型嵌进 Word、Excel、PPT 等办公全家桶，开启「AI 办公」叙事。",
+"detail": "Microsoft 365 Copilot将GPT-4与Microsoft Graph结合，可在Word续写、Excel分析数据、Outlook写邮件、Teams生成会议纪要，售价将面向企业按席位收费。演示中「一句话生成PPT」「几分钟读完全部邮件」的画面成为年度AI名场面。",
+"impact": "让「AI 改造办公软件」成为SaaS行业的统一路线图。",
+"aftermath": "11月起面向企业开放定价（30美元/用户/月），谷歌Workspace随后跟进。",
+"sources": [
+{
+"title": "Microsoft 365 Copilot",
+"url": "https://en.wikipedia.org/wiki/Microsoft_365_Copilot",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"微软",
+"办公"
+]
+},
+{
+"id": "2023-03-20-runway-gen2",
+"date": "2023-03-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Runway 发布 Gen-2 文生视频",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月20日Runway发布文生视频模型Gen-2，用户输入文字即可生成数秒短片，成为Sora之前最出圈的AI视频工具。",
+"detail": "Runway由纽约大学艺术家创办，Gen-2支持文本、图像加文本生成视频，虽然分辨率与时长有限，但「AI拍片」的想象被打开，被大量创作者用于短片与MV实验，与Stable Video Diffusion、Pika一起构成Sora出现前的AI视频第一梯队。",
+"impact": "把文生视频从实验室demo带入创作者日常工具箱。",
+"aftermath": "2024年推出Gen-3，2025年公司估值一度冲至30亿美元以上。",
+"sources": [
+{
+"title": "Runway (company)",
+"url": "https://en.wikipedia.org/wiki/Runway_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生视频"
+]
+},
+{
+"id": "2023-03-21-bard-public",
+"date": "2023-03-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 Bard 面向公众开放测试",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月21日谷歌 Bard 在美国英国开放公测，采用轻量版LaMDA，谷歌自此全面转入AI防御战。",
+"detail": "Bard公测初期仅向美英成年用户开放，基于轻量化LaMDA模型，谷歌明确表示这只是「实验品」。此后 Bard 快速迭代，5月I/O大会升级为PaLM 2驱动并全球开放，2024年2月更名为Gemini，完成从防御到进攻的品牌切换。",
+"impact": "谷歌正式下场消费级AI助手竞争，与微软形成双巨头对垒。",
+"aftermath": "更名Gemini后订阅版对标ChatGPT Plus，2025年起Gemini系列多次登顶评测。",
+"sources": [
+{
+"title": "Gemini（聊天机器人）",
+"url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2023-03-23-chatgpt-plugins",
+"date": "2023-03-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 插件功能上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月23日OpenAI面向Plus用户开放插件系统，支持联网浏览、代码解释器与第三方应用接入。",
+"detail": "首批插件包括Expedia、Instacart、Zapier等，配合代码解释器（后称Advanced Data Analysis）与浏览功能，ChatGPT从聊天工具转向「平台」。不过插件生态留存有限，2024年4月OpenAI宣布用GPTs与Assistants API取代插件体系。",
+"impact": "第一次把「AI应用生态」概念带向大众。",
+"aftermath": "5月OpenAI应用商店化叙事延续到GPTs；插件体系半年后退役。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"插件"
+]
+},
+{
+"id": "2023-03-28-alibaba-reorg",
+"date": "2023-03-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里巴巴宣布「1+6+N」组织变革",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月28日张勇发全员信宣布阿里拆为六大业务集团与多家业务公司，各自可独立融资上市，是阿里24年来最大组织变革。",
+"detail": "阿里巴巴集团设立阿里云智能、淘宝天猫商业、本地生活、菜鸟、国际数字商业、大文娱六大业务集团和多家业务公司，各集团实行董事会领导下的CEO负责制，可独立面对市场分拆融资或上市。张勇兼任阿里云智能集团CEO。",
+"impact": "各业务线被推向独立经营，为后续云、菜鸟等分拆上市计划铺路。",
+"aftermath": "5月云智能、菜鸟启动上市筹备；9月张勇卸任，吴泳铭接任CEO后调整节奏。",
+"sources": [
+{
+"title": "阿里巴巴集团",
+"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+"type": "wiki"
+}
+],
+"tags": [
+"公司",
+"组织变革"
+]
+},
+{
+"id": "2023-03-30-auto-gpt",
+"date": "2023-03-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "开源项目 Auto-GPT 引爆「AI智能体」热潮",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月30日开源项目Auto-GPT发布，让GPT-4自主拆解任务、调用工具循环执行，上线数周GitHub Star破十万。",
+"detail": "Auto-GPT由开发者Toran Bruce Richards发布，通过让GPT-4自我提示、自主设定子目标并循环调用搜索、文件、记忆等工具，试图实现「给一个目标就自己跑」的智能体。尽管实际成功率低、成本高，它点燃了「AI Agent」的第一波想象力。",
+"impact": "确立了「Agent=LLM+工具+循环」的范式，催生BabyAGI等一串跟风项目。",
+"aftermath": "两年后Claude Code、Manus等产品把Agent热潮做成了成熟品类。",
+"sources": [
+{
+"title": "AutoGPT",
+"url": "https://github.com/Significant-Gravitas/AutoGPT",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Agent",
+"开源"
+]
+},
+{
+"id": "2023-04-10-baichuan-founding",
+"date": "2023-04-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "王小川创办百川智能",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月10日搜狗前CEO王小川宣布创立大模型公司百川智能，获5000万美元启动资金，成为「大模型五小虎」代表。",
+"detail": "王小川宣布创立北京百川智能科技有限公司，早前透露已获5000万美元启动资金，来自其与业内友人共同出资，公司目标是打造中国版OpenAI。百川与智谱、月之暗面、MiniMax、零一万物被合称为中国大模型「五小虎」。",
+"impact": "把大模型创业潮从大厂扩展到明星创始人初创公司。",
+"aftermath": "10月完成A轮3亿美元融资（阿里、腾讯、小米参投）；后并入医疗AI方向。",
+"sources": [
+{
+"title": "百川智能",
+"url": "https://zh.wikipedia.org/wiki/百川智能",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"创业",
+"融资"
+]
+},
+{
+"id": "2023-04-10-sensenova",
+"date": "2023-04-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "商汤发布「日日新」大模型体系",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月10日商汤科技在技术开放日发布「日日新」大模型体系及「商量」对话模型，CV龙头正式切入大语言模型。",
+"detail": "商汤发布以「日日新SenseNova」命名的大模型体系，包含自然语言对话模型「商量SenseChat」、文生图「秒画」等，基于 SenseCore AI大装置训练。同场展示了AIGC、自动驾驶感知等落地场景。",
+"impact": "国内视觉AI龙头转向大模型路线的标志性动作。",
+"aftermath": "2024年商汤把「生成式AI」确立为第一战略，日日新持续迭代至5.5/6版本。",
+"sources": [
+{
+"title": "商汤科技",
+"url": "https://zh.wikipedia.org/wiki/商汤科技",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"商汤"
+]
+},
+{
+"id": "2023-04-11-qwen-beta",
+"date": "2023-04-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里云峰会：通义千问开启邀测",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月11日阿里云峰会宣布通义千问开启企业邀测，阿里全线产品将全面接入「大模型改造」。",
+"detail": "阿里云峰会上张勇宣布通义千问开启邀请测试，未来所有产品都将接入大模型改造；钉钉同步演示了魔法棒等AI功能。通义千问自此从内测走向公测节奏，并与后来开源的Qwen系列形成「闭源+开源」双线。",
+"impact": "阿里确立「模型即服务」云战略，国内云厂商AI化竞速开启。",
+"aftermath": "8月开源Qwen-7B；2024年9月Qwen2.5开源后成为全球衍生模型最多的开源家族之一。",
+"sources": [
+{
+"title": "通义千问",
+"url": "https://zh.wikipedia.org/wiki/通义千问",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"阿里云"
+]
+},
+{
+"id": "2023-04-13-bedrock",
+"date": "2023-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "亚马逊发布企业级大模型平台 Bedrock",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月13日亚马逊发布Bedrock，向AWS企业客户提供多家模型厂商的API托管服务，主打「不把数据训练给模型」。",
+"detail": "Bedrock让AWS客户通过API调用AI21、Anthropic Claude、Stability AI等模型并微调，强调数据不出客户环境；同日还发布了自有模型Titan与代码助手CodeWhisperer。云三巨头自此都完成了「模型+云」布局。",
+"impact": "企业采购大模型的主流方式从自建转向「云上选模型」。",
+"aftermath": "9月亚马逊宣布向Anthropic投资至多40亿美元并深度绑定Claude上云。",
+"sources": [
+{
+"title": "Amazon Bedrock",
+"url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"亚马逊",
+"云"
+]
+},
+{
+"id": "2023-04-13-rtx4070",
+"date": "2023-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达 RTX 4070 显卡上市",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月13日RTX 4070以549美元国发4499元上市，作为40系主流甜品卡填补4000元档，延续40系能效口碑。",
+"detail": "RTX 4070基于Ada Lovelace架构AD104核心，12GB GDDR6X显存，性能大致追平上代旗舰3090而功耗大幅降低，首发国行4499元。40系凭借DLSS 3帧生成与低功耗在高价周期中逐步走量。",
+"impact": "主流价位完成40系铺货，AI热潮同时推高同代数据中心GPU需求。",
+"aftermath": "4060于6月29日跟进上市；40系Super系列次年1月发布。",
+"sources": [
+{
+"title": "GeForce RTX 40 series",
+"url": "https://en.wikipedia.org/wiki/GeForce_RTX_40_series",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"英伟达",
+"显卡"
+]
+},
+{
+"id": "2023-04-22-hysj",
+"date": "2023-04-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《漫长的季节》开播成年度口碑剧王",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月22日辛爽执导的《漫长的季节》在腾讯视频开播，豆瓣评分涨至9.4，成为近年国产剧最高分之一。",
+"detail": "范伟、秦昊、陈明昊主演的东北往事题材悬疑剧以三条时间线讲述桦钢往事，电影化视听与生活化表演获得罕见口碑，大结局后豆瓣稳定在9.4分，被广泛称为「国剧天花板」。",
+"impact": "证明精品短剧集路线的商业与口碑价值。",
+"aftermath": "带动悬疑生活流剧集跟拍潮；主创辛爽、编剧班底成为头部资源。",
+"sources": [
+{
+"title": "漫长的季节",
+"url": "https://zh.wikipedia.org/wiki/漫长的季节",
+"type": "wiki"
+}
+],
+"tags": [
+"剧集",
+"口碑"
+]
+},
+{
+"id": "2023-04-26-hsr",
+"date": "2023-04-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "米哈游《崩坏：星穹铁道》全球上线",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月26日米哈游回合制新作《崩坏：星穹铁道》全球公测，上线即登多国iOS畅销榜前列，成为米哈游第二增长曲线。",
+"detail": "《星穹铁道》采用回合制+箱庭探索玩法，上线首月移动端收入估算超十亿元人民币级别，与《原神》形成双旗舰。其「宇宙科幻」题材与强角色运营延续了米哈游内容驱动发行的打法。",
+"impact": "确认米哈游多产品线运营能力，二游赛道竞争全面升级。",
+"aftermath": "与网易《逆水寒》手游、腾讯新游共同抬高2023年国内产品竞争烈度。",
+"sources": [
+{
+"title": "崩坏：星穹铁道",
+"url": "https://zh.wikipedia.org/wiki/崩坏：星穹铁道",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"米哈游"
+]
+},
+{
+"id": "2023-05-05-gotg3",
+"date": "2023-05-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《银河护卫队3》上映",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月5日《银河护卫队3》全球上映，全球票房约8.46亿美元，成为漫威第四、五阶段口碑与票房难得的双丰收之作。",
+"detail": "詹姆斯·古恩执导的银河护卫队收官之作在全球收获约8.46亿美元票房，烂番茄新鲜度与观众评分均居漫威近年前列，其「火箭浣熊起源」篇章被普遍认为是漫威后期情感完成度最高的作品之一。",
+"impact": "漫威电影宇宙低谷期中少有的口碑修复案例。",
+"aftermath": "古恩随后转投DC执掌新宇宙；漫威于2024年起明显收缩年更片单。",
+"sources": [
+{
+"title": "Guardians of the Galaxy Vol. 3",
+"url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"漫威"
+]
+},
+{
+"id": "2023-05-06-iflyspark",
+"date": "2023-05-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "科大讯飞发布「星火」认知大模型",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月6日科大讯飞发布星火认知大模型V1.0，主打教育办公场景，承诺年内迭代至对标ChatGPT的水平。",
+"detail": "讯飞星火发布时演示了多风格写作、数学推理、代码生成等能力，并宣布6月、8月、10月三次升级节点，重点落地教育（学习机）、办公（办公本）与汽车座舱。星火依托讯飞在B端与教育硬件的渠道快速铺开。",
+"impact": "国产大模型「场景落地」路线的代表，硬件捆绑成为特色打法。",
+"aftermath": "星火V3.5、V4.0陆续发布；2024年起聚焦教育与学生硬件。",
+"sources": [
+{
+"title": "科大讯飞",
+"url": "https://zh.wikipedia.org/wiki/科大讯飞",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"讯飞",
+"大模型"
+]
+},
+{
+"id": "2023-05-10-google-io",
+"date": "2023-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 I/O 2023：PaLM 2 与全产品AI化",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月10日谷歌I/O大会发布PaLM 2模型，Bard全面开放并支持180余国，搜索、地图、照片全线注入生成式AI。",
+"detail": "谷歌宣布Bard取消候补名单、切换到更强的PaLM 2并支持40种语言；搜索推出SGE生成式摘要实验；Workspace集成Duet AI「帮我写」。整场发布会以25次提到AI的节奏宣告谷歌进入「AI-first」全面防御反击。",
+"impact": "谷歌把AI从单点产品升级为全生态改造工程。",
+"aftermath": "12月Gemini 1.0发布；2024年AI Overviews全面上线搜索。",
+"sources": [
+{
+"title": "Google I/O",
+"url": "https://en.wikipedia.org/wiki/Google_I/O",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2023-05-12-totk",
+"date": "2023-05-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《塞尔达传说：王国之泪》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月12日《王国之泪》全球发售，三天销量破千万套创系列纪录，「究极手」创造力玩法席卷社交媒体。",
+"detail": "任天堂Switch平台的《王国之泪》首三天销量超1000万套，成为系列最快纪录。「究极手」拼接载具、「余料建造」合成武器的自由度让玩家创作视频在全网刷屏，成为当年游戏文化最大现象之一。",
+"impact": "Switch生命周期末段仍产出千万级爆款，开放世界设计再立标杆。",
+"aftermath": "获TGA2023多项提名；次年Switch 2公布，本作成为跨代护航之一。",
+"sources": [
+{
+"title": "The Legend of Zelda: Tears of the Kingdom",
+"url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"任天堂"
+]
+},
+{
+"id": "2023-05-18-chatgpt-ios",
+"date": "2023-05-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT iOS 应用全球上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月18日OpenAI发布ChatGPT iOS版（美区首发），数日内冲上App Store下载榜首，AI助手进入移动时代。",
+"detail": "ChatGPT官方App支持语音输入（Whisper转写）、历史同步与Plus订阅，上线不到一周下载量破50万并登顶美国App Store免费榜。安卓版7月25日跟进。第三方「套壳」应用此前靠ChatGPT概念大赚，官方App直接终结了这一窗口。",
+"impact": "AI助手的默认入口从网页转向手机。",
+"aftermath": "2024年桌面端与语音模式陆续上线，ChatGPT周活跃用户在2025年破8亿。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"移动"
+]
+},
+{
+"id": "2023-05-23-anthropic-series-c",
+"date": "2023-05-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 完成4.5亿美元C轮融资",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月23日Anthropic完成4.5亿美元C轮融资，谷歌、Salesforce等参投，年内累计融资超10亿美元。",
+"detail": "本轮由Spark Capital领投，谷歌、Salesforce Ventures、Zoom等参与，加上此前谷歌近4亿美元投资，Anthropic在半年内融资总额超过10亿美元，估值约在40-50亿美元区间，成为OpenAI之外融资最快的AI初创。",
+"impact": "确立「双头部」格局：OpenAI与Anthropic瓜分顶级AI风险资本。",
+"aftermath": "9月亚马逊40亿美元、2024年谷歌追加；2025年估值升至千亿美元级。",
+"sources": [
+{
+"title": "Anthropic",
+"url": "https://en.wikipedia.org/wiki/Anthropic",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"融资",
+"Anthropic"
+]
+},
+{
+"id": "2023-05-30-nvidia-1t",
+"date": "2023-05-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达市值盘中突破1万亿美元",
+"category": "company",
+"region": "world",
+"milestone": true,
+"summary_30s": "5月30日英伟达市值盘中突破1万亿美元，成为史上首家「万亿芯片公司」，AI算力卖铲人叙事确立。",
+"detail": "受AI训练需求爆发带动，英伟达5月24日给出远超预期的二季度指引后股价暴涨约25%，5月30日盘中市值一度突破1万亿美元，加入苹果、微软、谷歌、亚马逊所在的万亿俱乐部。其H100在市场上一卡难求。",
+"impact": "资本市场正式为「AI算力」定价，英伟达成为AI时代的最大赢家。",
+"aftermath": "2024年6月市值破3万亿、2025年7月破4万亿、10月破5万亿。",
+"sources": [
+{
+"title": "Nvidia",
+"url": "https://en.wikipedia.org/wiki/Nvidia",
+"type": "wiki"
+}
+],
+"tags": [
+"英伟达",
+"市值",
+"AI算力"
+]
+},
+{
+"id": "2023-05-31-rev1999",
+"date": "2023-05-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《重返未来：1999》全球公测",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月31日深蓝互动的复古神秘学题材二游《重返未来：1999》全球上线，凭独特英伦复古美术打出差异化。",
+"detail": "以1999年末「暴雨」为引子的时空题材回合制RPG，用粤语配音、复古海报美术形成强烈风格辨识度，上线后登顶中国iOS免费榜并在海外获得稳定受众，成为2023年中小厂商差异化突围的样本。",
+"impact": "证明强美术风格可以撬动二游红海市场。",
+"aftermath": "周年庆与联动运营保持稳定流水，成为「小而美」二游代表。",
+"sources": [
+{
+"title": "重返未来：1999",
+"url": "https://zh.wikipedia.org/wiki/重返未来：1999",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"二次元"
+]
+},
+{
+"id": "2023-06-01-quest3",
+"date": "2023-06-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 提前发布 Quest 3 头显",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月1日Meta赶在WWDC前公布Quest 3（499美元起），主打彩色透视混合现实，狙击苹果头显发布。",
+"detail": "Quest 3采用高通骁龙XR2 Gen 2与彩色视频透视，比上代薄40%，128GB版定价499美元，10月10日发货。扎克伯格选择在苹果发布会前四天官宣，直接展开「MR定价权」舆论战。",
+"impact": "消费级MR头显进入「苹果Meta对标」时代。",
+"aftermath": "2024年Meta推低价版Quest 3S；Quest 3成为透视MR的主力出货机型。",
+"sources": [
+{
+"title": "Meta Quest 3",
+"url": "https://en.wikipedia.org/wiki/Meta_Quest_3",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"VR",
+"Meta"
+]
+},
+{
+"id": "2023-06-02-spiderverse",
+"date": "2023-06-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《蜘蛛侠：纵横宇宙》上映",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月2日《蜘蛛侠：纵横宇宙》全球上映，全球票房约6.9亿美元，动画视觉风格再被奉为行业标杆。",
+"detail": "索尼动画的《纵横宇宙》延续多元宇宙叙事，以「每进一个宇宙换一种画风」的视觉实验获得压倒性好评，北美开画1.2亿美元创索尼动画纪录，全球累计约6.9亿美元，并推动「迈尔斯」成为Z世代最受欢迎的蜘蛛侠。",
+"impact": "把「动画可以不是子供向」的叙事推向主流片厂。",
+"aftermath": "续作《超越宇宙》多次延期，成为系列悬案。",
+"sources": [
+{
+"title": "Spider-Man: Across the Spider-Verse",
+"url": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"动画"
+]
+},
+{
+"id": "2023-06-05-vision-pro",
+"date": "2023-06-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 Vision Pro 空间计算头显",
+"category": "hardware",
+"region": "world",
+"milestone": true,
+"summary_30s": "6月5日WWDC发布Vision Pro，3499美元定价的「空间计算设备」配备双4K Micro-OLED与眼手交互，库克称其为Mac之后的下一个时代。",
+"detail": "Vision Pro搭载M2+R1双芯片、23M像素屏幕与12摄像头，以眼动+手势+语音交互替代手柄，visionOS可运行iOS应用。发布会将其定位为「空间计算」，并非「VR」。首发仅美国，2024年2月2日上市，次年扩展到更多市场。",
+"impact": "让「空间计算」成为XR行业统一叙事，带动供应商与内容生态转向。",
+"aftermath": "上市初期热度高但销量放缓；2025年起苹果转向轻量版与AI眼镜路线传闻。",
+"sources": [
+{
+"title": "Apple 官方",
+"url": "https://www.apple.com/apple-vision-pro/",
+"type": "official"
+},
+{
+"title": "Apple Vision Pro",
+"url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"XR"
+]
+},
+{
+"id": "2023-06-15-baichuan-7b",
+"date": "2023-06-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百川智能开源 Baichuan-7B",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月15日成立仅两个月的百川智能开源70亿参数中英双语模型Baichuan-7B，创国内大模型公司开源速度纪录。",
+"detail": "Baichuan-7B基于2.6万亿token中英语料训练，开源后迅速登顶多个中文评测榜单的7B档，GitHub与社区下载火爆，与ChatGLM-6B并列成为国内最常被微调的底座之一。9月百川再开源130亿参数的Baichuan2。",
+"impact": "国内「五小虎」用开源速度证明了自己。",
+"aftermath": "百川后转向医疗大模型方向，开源节奏让位于闭源API。",
+"sources": [
+{
+"title": "百川智能",
+"url": "https://zh.wikipedia.org/wiki/百川智能",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"开源",
+"百川"
+]
+},
+{
+"id": "2023-06-22-lost-in-stars",
+"date": "2023-06-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《消失的她》端午档引爆暑期档",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月22日《消失的她》端午档上映，最终票房35.23亿，用话题营销开创「情绪爽片」暑期档公式。",
+"detail": "陈思诚监制的悬疑片以「恋爱脑警告」话题在短视频平台引爆，女性观众占比与复看率极高，最终票房35.23亿元列年度第四，验证了「短视频切片+情绪议题」的新宣发模型，直接拉高了整个2023暑期档的热度。",
+"impact": "「话题营销+情绪消费」成为国产片宣发主流打法。",
+"aftermath": "暑期档随后被《孤注一掷》《长安三万里》接力推至206亿影史纪录。",
+"sources": [
+{
+"title": "消失的她",
+"url": "https://zh.wikipedia.org/wiki/消失的她",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"暑期档"
+]
+},
+{
+"id": "2023-06-30-justice-mobile",
+"date": "2023-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网易《逆水寒》手游上线",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月30日网易《逆水寒》手游公测，以「不肝不氪」与AI NPC等差异化卖点首月流水破20亿元，重塑MMO品类。",
+"detail": "《逆水寒》手游主打「殊途同归」的自由养成、外观单点付费与低价定位，并首批接入智能NPC对话（伏羲大模型），上线首月全平台流水估算超20亿元，迅速成为网易旗舰，引发MMO品类「价格战」。",
+"impact": "把MMO从重肝重氪拖向低门槛大DAU模式，AI NPC首次规模商用。",
+"aftermath": "网易随后把AI智能体能力推广到旗下更多产品。",
+"sources": [
+{
+"title": "逆水寒（手游）",
+"url": "https://zh.wikipedia.org/wiki/逆水寒_(手游)",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"网易"
+]
+},
+{
+"id": "2023-07-06-waic",
+"date": "2023-07-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2023世界人工智能大会（WAIC）开幕",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月6日WAIC在上海开幕，国内30余个大模型同台，白热化的「百模大战」首次集体亮相。",
+"detail": "本届大会以「智联世界 生成未来」为主题，商汤、百度、阿里、腾讯、讯飞、华为及众多创业公司集中展示大模型，参展模型数量远超往届，「百模大战」成为全场关键词。机器狗、人形机器人与AIGC应用占据展馆主位。",
+"impact": "宣告中国AI产业从单点追赶进入全面竞赛阶段。",
+"aftermath": "8月首批大模型备案后，行业焦点从发布会转向商业化落地。",
+"sources": [
+{
+"title": "世界人工智能大会",
+"url": "https://zh.wikipedia.org/wiki/世界人工智能大会",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"大会",
+"上海"
+]
+},
+{
+"id": "2023-07-08-changan",
+"date": "2023-07-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "国产动画电影《长安三万里》上映",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月8日追光动画《长安三万里》上映，凭借48首唐诗的「文化DNA」后劲十足，最终票房18.24亿元创追光纪录。",
+"detail": "影片以高适与李白的友谊串起盛唐群像，「轻舟已过万重山」等段落带动大量亲子与诗歌观影潮，口碑曲线罕见地随档期走高，最终拿下18.24亿元，成为追光最卖座作品并获金鸡奖最佳美术片。",
+"impact": "唐诗IP+动画长片验证了「文化向」动画的商业天花板。",
+"aftermath": "追光「新文化」系列立项《聊斋：兰若寺》等后续作品。",
+"sources": [
+{
+"title": "长安三万里",
+"url": "https://zh.wikipedia.org/wiki/长安三万里",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"动画"
+]
+},
+{
+"id": "2023-07-11-claude2",
+"date": "2023-07-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude 2",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月11日Anthropic发布Claude 2，上下文扩至100K token，代码与数学能力大幅提升，向GPT-3.5发起正面挑战。",
+"detail": "Claude 2向美国英国公众开放网页版，支持上传PDF等文件问答，在律师资格与GRE等基准上明显进步，API价格低于同代GPT-4。100K上下文成为其最大卖点，为后来的长文档分析场景开了先河。",
+"impact": "长上下文从此成为模型竞争的核心维度之一。",
+"aftermath": "11月Claude 2.1把上下文推到200K；次年Claude 3系列登顶多项评测。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2023-07-18-llama2",
+"date": "2023-07-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 开源 Llama 2 并开放商用",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "7月18日Meta与微软联合发布Llama 2，7B/13B/70B三档权重可免费商用，彻底改写开源大模型格局。",
+"detail": "Llama 2在2万亿token上训练，附带安全微调版本，明确允许商业与研究使用（月活7亿以上巨头除外），微软Azure同步提供托管。开源几周内下载量破百万，成为全球企业私有化部署大模型的事实起点。",
+"impact": "「开源追赶闭源」从此成为行业基本盘，直接催化全球自建模型潮。",
+"aftermath": "2024年Llama 3/3.1(405B)、2025年Llama 4接续发布。",
+"sources": [
+{
+"title": "Llama (language model)",
+"url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Meta",
+"开源"
+]
+},
+{
+"id": "2023-07-20-fengshen",
+"date": "2023-07-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《封神第一部》上映实现口碑逆袭",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月20日《封神第一部：朝歌风云》上映，从首日平淡到口碑发酵，最终票房26.34亿元成为暑期档现象。",
+"detail": "乌尔善执导的神话史诗以「质子团」话题与工业化制作出圈，首日票房落后《消失的她》《长安三万里》，但点映口碑与「纣王是有史以来最会PUA的男人」等玩梗推动排片逆跌，最终26.34亿元收官。",
+"impact": "「自来水」口碑逆袭案例被反复研究，国产重工业奇幻重新立项。",
+"aftermath": "第二部第三部于2025年春节档及后续档期接力上映。",
+"sources": [
+{
+"title": "封神第一部：朝歌风云",
+"url": "https://zh.wikipedia.org/wiki/封神第一部：朝歌风云",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"暑期档"
+]
+},
+{
+"id": "2023-07-21-barbenheimer",
+"date": "2023-07-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "「芭本海默」同日档期成为全球文化现象",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月21日《芭比》与《奥本海默》北美同日上映，观众「一天连看两部」的Barbenheimer梗席卷全球，合计票房超24亿美元。",
+"detail": "粉红喜剧与黑白传记的极端反差被网友二创成海量梗图，连排双片成为全球影迷仪式，最终《芭比》全球14.45亿美元、《奥本海默》9.75亿美元，被业界称为「救市之作」，展示了对立档期反而互利的意外效果。",
+"impact": "年度最强电影文化现象，带动院线夏季票房强势回暖。",
+"aftermath": "《奥本海默》后来拿下2024年奥斯卡最佳影片。",
+"sources": [
+{
+"title": "Barbenheimer",
+"url": "https://en.wikipedia.org/wiki/Barbenheimer",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"流行文化"
+]
+},
+{
+"id": "2023-07-25-chatgpt-android",
+"date": "2023-07-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 安卓版上线",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月25日ChatGPT安卓版在美国等地上架Google Play，移动端双平台补齐，加速AI助手大众化。",
+"detail": "安卓版与iOS功能对齐，上线后迅速登顶多国下载榜，官方应用取代了大量第三方「套壳」应用，成为全球用户接触大模型的最主要入口之一。",
+"impact": "ChatGPT完成移动端布局，装机量进入指数增长通道。",
+"aftermath": "2025年ChatGPT周活突破8亿，移动端成为主战场。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"移动"
+]
+},
+{
+"id": "2023-07-26-sdxl",
+"date": "2023-07-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Stability AI 开源 SDXL 1.0",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月26日Stability AI发布SDXL 1.0并开放权重，开源文生图画质首次逼近闭源产品。",
+"detail": "SDXL采用更大UNet与双文本编码器，支持1024分辨率原生生成，画质与提示词遵循度大幅提升，成为ComfyUI、WebUI生态的新底座，也是「本地跑图」人群的主流选择，巩固了开源图像模型对Midjourney的追赶。",
+"impact": "开源文生图确立「社区微调+LoRA」生态模式。",
+"aftermath": "Stability随后陷入经营动荡，2024年3月CEO Emerling? Emad Mostaque离职。",
+"sources": [
+{
+"title": "Stability AI",
+"url": "https://en.wikipedia.org/wiki/Stability_AI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"开源",
+"文生图"
+]
+},
+{
+"id": "2023-07-26-vw-xpeng",
+"date": "2023-07-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "大众7亿美元入股小鹏，联合开发中国车型",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月26日大众宣布向小鹏汽车投资约7亿美元，持股约4.99%，双方将基于小鹏平台共同开发中国市场车型。",
+"detail": "大众汽车宣布与小鹏达成技术合作框架，向小鹏增资约7亿美元获得约4.99%股份，将联合开发两款针对中国中型车市场的电动车型，预计2026年投产。这是跨国车企首次反向采购中国新势力的纯电平台技术。",
+"impact": "中国智能电动车技术首次被国际巨头「技术反向引入」。",
+"aftermath": "双方联合开发的CMP平台与电子架构合作持续深化，后续扩展至增程与更多车型。",
+"sources": [
+{
+"title": "小鹏汽车",
+"url": "https://zh.wikipedia.org/wiki/小鹏汽车",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"合作",
+"小鹏"
+]
+},
+{
+"id": "2023-08-03-baldurs-gate3",
+"date": "2023-08-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《博德之门3》正式版发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "8月3日拉瑞安工作室《博德之门3》正式发售，同时在线峰值超80万，年底横扫各大年度游戏奖。",
+"detail": "脱胎于DND规则的CRPG《博德之门3》以超高自由度与「对任何NPC都可以互动」的设计引爆口碑，Steam同时在线峰值超81万，三个月销量超500万份，最终获得TGA 2023年度游戏等六项大奖。",
+"impact": "把重叙事CRPG拉回主流视线，成为当年游戏口碑标杆。",
+"aftermath": "2024年销量突破千万；拉瑞安宣布不再制作博德之门续作。",
+"sources": [
+{
+"title": "Baldur's Gate 3",
+"url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"TGA"
+]
+},
+{
+"id": "2023-08-03-qwen-7b",
+"date": "2023-08-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里开源通义千问 Qwen-7B",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月3日阿里云开源70亿参数通用模型Qwen-7B，此后Qwen系列逐步成为全球下载量最大的开源模型家族。",
+"detail": "Qwen-7B在3万亿token中英多语料上训练，附带了对话版与长上下文版本，评测在多语言、代码、数学上表现突出，被国内外社区广泛微调。此后Qwen1.5、Qwen2、Qwen2.5持续迭代并开源，衍生模型数量登顶全球开源社区。",
+"impact": "中国大厂在开源模型上从跟跑转为领跑。",
+"aftermath": "2024年9月Qwen2.5、2025年4月Qwen3相继发布。",
+"sources": [
+{
+"title": "QwenLM/Qwen",
+"url": "https://github.com/QwenLM/Qwen",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"阿里",
+"开源"
+]
+},
+{
+"id": "2023-08-05-guzhu",
+"date": "2023-08-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《孤注一掷》上映成暑期档票房冠军",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月5日反诈题材《孤注一掷》上映，最终票房38.48亿元拿下2023年暑期档冠军，话题营销再度奏效。",
+"detail": "影片以境外电诈园区为题材，王传君的拜佛反派与「多一人观影，少一人受骗」口号引爆短视频传播，最终38.48亿元位列2023年度票房第三，与《消失的她》《封神》共同构成「话题爽片」驱动的206亿影史最强暑期档。",
+"impact": "证实社会议题+短视频宣发的高转化模型。",
+"aftermath": "同题材剧集与后续影片密集立项。",
+"sources": [
+{
+"title": "孤注一掷",
+"url": "https://zh.wikipedia.org/wiki/孤注一掷",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"暑期档"
+]
+},
+{
+"id": "2023-08-29-mate60",
+"date": "2023-08-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为 Mate 60 Pro 无预告开售",
+"category": "hardware",
+"region": "cn",
+"milestone": true,
+"summary_30s": "8月29日华为商城突然上架Mate 60 Pro「先锋计划」，搭载麒麟9000S芯片，全网排队抢购，成为现象级手机事件。",
+"detail": "华为在没有任何发布会的情况下直接开售Mate 60 Pro，实测确认搭载国产工艺的麒麟9000S并支持卫星通话，被解读为供应链突围的标志。发售数月内线上线下长期缺货，带火整个华为手机盘面，「遥遥领先」刷屏网络。",
+"impact": "国产高端手机市场的竞争格局被重新点燃。",
+"aftermath": "Mate 60系列带动华为2024年国内份额大幅回升；麒麟芯片成为行业焦点话题。",
+"sources": [
+{
+"title": "Huawei Mate 60",
+"url": "https://en.wikipedia.org/wiki/Huawei_Mate_60",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"华为",
+"手机"
+]
+},
+{
+"id": "2023-08-31-llm-public",
+"date": "2023-08-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "文心一言等首批大模型产品面向公众开放",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月31日起文心一言、百川智能、智谱清言等首批通过备案的大模型产品面向全社会开放，App当日下载量暴涨。",
+"detail": "在监管备案机制落地后，百度文心一言、字节豆包、百川智能、智谱清言等第一批产品于8月31日向公众开放，文心一言App当日登顶苹果免费榜。国产大模型从「内测邀请」进入全民可用阶段，各家随即开启拉新大战。",
+"impact": "国产大模型C端竞争正式开闸。",
+"aftermath": "此后「通过备案」成为产品上线的前置门槛，开放批次陆续扩大。",
+"sources": [
+{
+"title": "文心一言",
+"url": "https://zh.wikipedia.org/wiki/文心一言",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"产品",
+"互联网"
+]
+},
+{
+"id": "2023-09-01-summer-boxoffice",
+"date": "2023-09-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2023暑期档票房206亿元创影史纪录",
+"category": "culture",
+"region": "cn",
+"milestone": true,
+"summary_30s": "8月31日2023暑期档收官，总票房206.19亿元刷新影史暑期档纪录，《消失的她》《孤注一掷》《封神》三部爆款领跑。",
+"detail": "2023年暑期档（6-8月）票房达206.19亿元，观影人次超5.05亿，均创同期影史新高。《消失的她》《孤注一掷》《封神第一部》《长安三万里》等多元爆款接力，其中4部影片票房破15亿。",
+"impact": "线下观影强势复苏，「话题+情绪」宣发模型成型。",
+"aftermath": "全年票房549亿元回到2019年八成以上水平。",
+"sources": [
+{
+"title": "中国电影票房",
+"url": "https://zh.wikipedia.org/wiki/中国电影列表",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"票房"
+]
+},
+{
+"id": "2023-09-06-baichuan2",
+"date": "2023-09-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百川智能开源 Baichuan2 系列",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月6日百川智能发布开源Baichuan2系列（7B/13B），数学代码与多语言能力较一代显著提升。",
+"detail": "Baichuan2在2.6万亿token语料上训练，覆盖中英多语言场景，发布时在C-Eval、AGIEval等多个中文评测上居同类前列，宽松的社区许可使其迅速成为国内企业私有化部署的常用底座之一。",
+"impact": "为国内中小模型私有化部署提供了又一主流选择。",
+"aftermath": "百川后续重心转向闭源模型与医疗方向。",
+"sources": [
+{
+"title": "baichuan-inc/Baichuan2",
+"url": "https://github.com/baichuan-inc/Baichuan2",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"开源"
+]
+},
+{
+"id": "2023-09-07-hunyuan",
+"date": "2023-09-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "腾讯发布混元大模型",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月7日腾讯在全球数字生态大会上发布混元大模型，宣布腾讯云及微信生态陆续接入，「最后一个入局的大厂」交卷。",
+"detail": "腾讯混元大模型（Hunyuan）主打中文创作、逻辑推理与多模态，宣布接入腾讯云、腾讯会议、微信读书等产品。作为头部大厂中较晚上线的模型，腾讯强调「产业落地」路线，混元随后逐步开源了文生图与视频模型。",
+"impact": "国内大厂模型拼图补齐，腾讯把AI能力与社交生态绑定。",
+"aftermath": "2024年混元开源文生图模型；2025年混元T1推理模型上线。",
+"sources": [
+{
+"title": "腾讯",
+"url": "https://zh.wikipedia.org/wiki/腾讯",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"腾讯"
+]
+},
+{
+"id": "2023-09-12-iphone15",
+"date": "2023-09-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 iPhone 15 系列：全系灵动岛与 USB-C",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月12日苹果发布iPhone 15系列，Pro版换装钛金属边框与A17 Pro芯片，全系改用USB-C接口。",
+"detail": "iPhone 15 Pro采用钛金属中框与A17 Pro（3nm首发），静音拨片改为操作按钮，15 Pro Max配备5倍潜望长焦；受欧盟法规推动，Lightning接口被USB-C全面取代。发布时华为Mate 60正热销，「冠军对决」成为当年国内高端市场话题。",
+"impact": "接口统一与钛金属设计成为行业跟随点。",
+"aftermath": "A17 Pro散热争议与 overheating 修复更新；15系列销量保持强势但国内高端份额受Mate 60冲击。",
+"sources": [
+{
+"title": "iPhone 15",
+"url": "https://en.wikipedia.org/wiki/IPhone_15",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"手机"
+]
+},
+{
+"id": "2023-09-13-mistral7b",
+"date": "2023-09-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "法国 Mistral AI 开源 Mistral 7B",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月13日成立仅半年的Mistral AI开源70亿参数模型Mistral 7B，以小博大性能超同期Llama 2 13B，欧洲AI独角兽登场。",
+"detail": "Mistral 7B采用分组查询与滑动窗口注意力等技术，在7B规模上击败Llama 2 13B，以Apache 2.0许可发布。公司由DeepMind与Meta前研究员创办，同年12月完成4.15亿美元融资，被称为「欧洲OpenAI」。",
+"impact": "证明小模型+好架构的路线，欧洲在大模型版图占据一席。",
+"aftermath": "12月「种子」开源Torrent下载玩法出圈；2024年发布Mistral Large。",
+"sources": [
+{
+"title": "Mistral AI",
+"url": "https://en.wikipedia.org/wiki/Mistral_AI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"开源",
+"欧洲"
+]
+},
+{
+"id": "2023-09-23-asian-games-esports",
+"date": "2023-09-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "杭州亚运会开幕，电竞首次成为亚运正式项目",
+"category": "culture",
+"region": "cn",
+"milestone": true,
+"summary_30s": "9月23日杭州亚运会开幕，电子竞技首次作为正式项目产生金牌，中国代表团在《王者荣耀亚运版本》等项目夺金。",
+"detail": "杭州第19届亚运会将《王者荣耀亚运版本》《和平精英亚运版本》《DOTA2》《英雄联盟》等7个电竞项目列为正式比赛，中国电竞国家队夺得多枚金牌，电竞选手以「国家队」身份升国旗奏国歌，电竞「体育化」取得里程碑。",
+"impact": "电竞正名化进入新阶段，带动国内电竞产业与观赛热度。",
+"aftermath": "王者荣耀亚运版等产品的联动运营成为厂商重点；电竞入奥讨论持续。",
+"sources": [
+{
+"title": "2022年亚洲运动会",
+"url": "https://zh.wikipedia.org/wiki/2022年亚洲运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"电竞",
+"亚运",
+"游戏"
+]
+},
+{
+"id": "2023-09-25-amazon-anthropic",
+"date": "2023-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "亚马逊宣布向 Anthropic 投资至多40亿美元",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月25日亚马逊宣布向Anthropic投资至多40亿美元，Anthropic承诺以AWS为首选云，「云厂商竞购模型公司」格局形成。",
+"detail": "亚马逊分批投入至多40亿美元并获得Anthropic少数股权，Anthropic将把Claude模型接入AWS Bedrock，并使用Trainium/Inferentia自研芯片训练模型。与微软-OpenAI、谷歌-Anthropic三足鼎立的「云+模型」联盟就此成型。",
+"impact": "基础模型竞争变成超大规模云厂商的军备竞赛。",
+"aftermath": "2024年11月亚马逊追加至80亿美元。",
+"sources": [
+{
+"title": "Anthropic",
+"url": "https://en.wikipedia.org/wiki/Anthropic",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"融资",
+"亚马逊"
+]
+},
+{
+"id": "2023-09-25-chatgpt-multimodal",
+"date": "2023-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 上线语音对话与图像理解",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月25日ChatGPT向Plus用户开放语音对话与图像输入，可用语音聊天并「看图说话」，多模态助手形态初现。",
+"detail": "语音功能采用Whisper转写与全新TTS合成五种音色，图像功能支持拍摄或上传图片进行讨论。语音对话让ChatGPT的使用场景从打字扩展到开车、做饭等双手忙碌场景，为后来的实时语音模式铺路。",
+"impact": "AI语音助手从科幻设定变成日常功能。",
+"aftermath": "2024年5月GPT-4o把语音延迟降到接近真人对话。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"语音",
+"多模态"
+]
+},
+{
+"id": "2023-10-17-ernie4",
+"date": "2023-10-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百度发布文心大模型4.0",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月17日百度世界大会发布文心4.0，李彦宏称其综合能力「与GPT-4相比毫不逊色」，并演示了画图、代码等场景。",
+"detail": "文心4.0在理解、生成、逻辑、记忆四大能力上迭代，现场演示了对联、数理题与代码生成。李彦宏提出「卡脖子的是应用，不是模型」，主张大模型价值在应用落地。发布会同时展示了插件生态与灵境笙等AIGC产品。",
+"impact": "国产模型首次公开对标GPT-4，「应用落地」成为国产AI主叙事。",
+"aftermath": "文心4.0向公众开放后，百度转向「模型+应用」双轮，2025年推出文心4.5系列。",
+"sources": [
+{
+"title": "文心一言",
+"url": "https://zh.wikipedia.org/wiki/文心一言",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"百度"
+]
+},
+{
+"id": "2023-10-26-xiaomi14",
+"date": "2023-10-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米发布 14 系列与自研操作系统澎湃OS",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月26日小米发布搭载骁龙8 Gen3的14系列与自研「澎湃OS」，雷军宣布小米战略升级为「人车家全生态」。",
+"detail": "小米14首发第三代骁龙8，徕卡光学与「屏幕、性能、影像」全面对标iPhone，发布后预订火爆，成为当年最畅销国产高端机型之一。同场发布的澎湃OS（HyperOS）宣布打通手机、汽车、IoT，成为小米生态统一底座。",
+"impact": "小米完成「手机×汽车×IoT」的操作系统叙事铺垫。",
+"aftermath": "澎湃OS成为后续手机与小米SU7车机的共同底座。",
+"sources": [
+{
+"title": "小米14",
+"url": "https://zh.wikipedia.org/wiki/小米14",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"小米",
+"手机"
+]
+},
+{
+"id": "2023-10-30-m3-mac",
+"date": "2023-10-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 M3 系列芯片与新 MacBook Pro",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月30日苹果发布3nm M3、M3 Pro、M3 Max芯片及新MacBook Pro与iMac、Mac mini更新，主打硬件光线追踪与更长续航。",
+"detail": "M3系列采用台积电3nm工艺，首次在Mac GPU上支持硬件级光线追踪与动态缓存，入门MacBook Pro 14直接砍掉13寸Touch Bar机型。M3 Max支持最高128GB统一内存，强化对大模型本地推理的吸引力。",
+"impact": "Mac开始以「本地跑AI」作为卖点之一。",
+"aftermath": "2024年10月M4系列接管全线，Mac mini完成重设计。",
+"sources": [
+{
+"title": "Apple silicon",
+"url": "https://en.wikipedia.org/wiki/Apple_silicon",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"笔记本"
+]
+},
+{
+"id": "2023-11-04-grok",
+"date": "2023-11-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "马斯克旗下 xAI 发布聊天机器人 Grok",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月4日马斯克宣布xAI首款产品Grok，接入X平台实时数据、人设「敢说」，对ChatGPT发起「反审查」定位的挑战。",
+"detail": "Grok基于xAI自研的Grok-1模型（训练四个月），卖点是实时接入X（原推特）数据流与幽默毒舌的回答风格，向X Premium+订阅用户开放。马斯克称其为「maximum truth-seeking AI」，实际评测中表现与头部模型尚有差距。",
+"impact": "科技富豪个人IP与AI产品深度绑定的新营销范式出现。",
+"aftermath": "Grok-2（2024年8月）、Grok-3（2025年2月）持续迭代。",
+"sources": [
+{
+"title": "Grok (chatbot)",
+"url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"xAI"
+]
+},
+{
+"id": "2023-11-06-devday",
+"date": "2023-11-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 首届开发者大会：GPT-4 Turbo 与 GPTs",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月6日OpenAI首届DevDay发布GPT-4 Turbo（128K、降价2.7倍）、自定义「GPTs」与Assistants API，奥特曼喊出「应用商店」愿景。",
+"detail": "GPT-4 Turbo把上下文扩至128K token并大幅降价，Knowledge截止更新到2023年4月；GPTs允许无代码自定义助手并预告GPT Store分成模式；Assistants API让开发者内置记忆与工具调用。发布会45分钟连发十余项更新，被称「创企噩梦日」。",
+"impact": "OpenAI从模型公司转向平台生态，「杀死创业公司」的讨论升温。",
+"aftermath": "1个月后GPT Store上线；11天后公司爆发董事会风波。",
+"sources": [
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/introducing-gpts/",
+"type": "official"
+},
+{
+"title": "OpenAI DevDay",
+"url": "https://en.wikipedia.org/wiki/OpenAI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"平台"
+]
+},
+{
+"id": "2023-11-09-humane-pin",
+"date": "2023-11-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Humane 发布 AI Pin 硬件",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月9日OpenAI前高管创办的Humane发布无屏幕胸针AI Pin（699美元+订阅），被称为「iPhone杀手」，上市后迅速沦为科技圈著名翻车。",
+"detail": "AI Pin以激光投影+语音交互替代手机屏幕，主打「AI原生设备」。2024年4月开售后评测普遍批评发热、识别慢、续航差，销量惨淡。2025年2月HP以1.16亿美元收购其资产并停止设备服务，「AI硬件第一泡沫」破裂。",
+"impact": "为「AI硬件」热潮提供了第一批警示样本。",
+"aftermath": "随后Rabbit R1同样遇冷；「AI硬件要能解决真实高频需求」成为共识。",
+"sources": [
+{
+"title": "Humane",
+"url": "https://en.wikipedia.org/wiki/Humane_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"AI"
+]
+},
+{
+"id": "2023-11-16-alibaba-cloud-no-spinoff",
+"date": "2023-11-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里巴巴宣布不再推进阿里云完全分拆",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月16日阿里财报电话会上宣布由于美国出口管制不确定性，不再推进阿里云智能集团完全分拆上市。",
+"detail": "阿里在2023年9月季度业绩公告中称，美国近期扩大对先进计算芯片出口限制给云智能集团的业务前景带来不确定性，决定不再推进云智能集团完全分拆，同时盒马IPO暂缓。此前3月「1+6+N」改革中最受关注的分拆计划按下暂停键。",
+"impact": "阿里战略从「分拆上市」转向「聚焦核心+AI驱动」。",
+"aftermath": "蔡崇信任集团董事会主席、吴泳铭任CEO，提出「用户为先、AI驱动」两大战略重心。",
+"sources": [
+{
+"title": "阿里巴巴集团",
+"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+"type": "wiki"
+}
+],
+"tags": [
+"公司",
+"阿里云"
+]
+},
+{
+"id": "2023-11-16-steam-deck-oled",
+"date": "2023-11-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Steam Deck OLED 开售",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月16日V社开售Steam Deck OLED，换装HDR OLED屏、更轻机身与更强续航，掌机体验大幅升级。",
+"detail": "新款Steam Deck换用7.4英寸90Hz HDR OLED屏，续航提升30-50%，散热与Wi-Fi 6E升级，399美元起。PC掌机品类在2023年随ROG Ally等竞品共同起量，Steam OS「掌机化Linux」生态成为独特卖点。",
+"impact": "巩固了Valve在PC掌机生态的主导地位。",
+"aftermath": "2025年V社确认下一代Steam硬件在研；Switch 2上市后掌机市场全面升温。",
+"sources": [
+{
+"title": "Steam Deck",
+"url": "https://en.wikipedia.org/wiki/Steam_Deck",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"游戏",
+"掌机"
+]
+},
+{
+"id": "2023-11-17-openai-coup",
+"date": "2023-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 董事会罢免 Altman，五天后回归",
+"category": "company",
+"region": "world",
+"milestone": true,
+"summary_30s": "11月17日OpenAI董事会突然解除Sam Altman的CEO职务并让他退出董事会，引发「硅谷宫斗」，微软介入后11月21日宣布其回归、董事会重组。",
+"detail": "董事会以「与CEO的沟通中不够坦率」为由解雇Altman，President Brockman辞职；738名员工中超过700人签署联名信威胁集体离职，投资者施压，微软CEO纳德拉宣布聘用两人领导新的微软AI团队。11月21日晚，双方达成协议：Altman回归CEO，董事会重组（Bret Taylor任主席），原董事会成员出局。",
+"impact": "AI治理与公司控制权的冲突被放到聚光灯下，「非营利架构」问题成为行业议题。",
+"aftermath": "OpenAI加速商业化；2024年底启动重组为营利性结构的进程。",
+"sources": [
+{
+"title": "Removal of Sam Altman from OpenAI",
+"url": "https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"公司"
+]
+},
+{
+"id": "2023-11-19-s13-t1",
+"date": "2023-11-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英雄联盟S13全球总决赛：T1 夺冠",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月19日T1在首尔决赛3:0横扫WBG夺冠，Faker拿下个人第四座S赛冠军，「东八区决赛夜」观看人数创纪录。",
+"detail": "S13总决赛在韩国首尔高尺天空巨蛋举行，T1决赛零封WBG，Faker成为历史首位四冠中单。据播报数据，赛事全球收视创历史新高（含中国直播平台观看数据），LPL与LCK的对抗继续是电竞最大流量池。",
+"impact": "S赛IP商业价值见顶，Faker确立历史第一人地位。",
+"aftermath": "T1此后2024、2025连续夺冠，达成三连冠伟业。",
+"sources": [
+{
+"title": "2023 League of Legends World Championship",
+"url": "https://en.wikipedia.org/wiki/2023_League_of_Legends_World_Championship",
+"type": "wiki"
+}
+],
+"tags": [
+"电竞",
+"英雄联盟"
+]
+},
+{
+"id": "2023-11-21-claude21",
+"date": "2023-11-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude 2.1：200K 超长上下文",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月21日Anthropic发布Claude 2.1，把上下文窗口扩至20万token（约15万字），幻觉率大幅下降。",
+"detail": "Claude 2.1支持上传整本书级文档进行问答，API加入system prompt与工具使用beta功能，长文本可靠性显著提升。200K上下文在当时所有公开模型中最长，为「把知识库丢给AI」的场景奠定基础。",
+"impact": "长上下文成为 Anthropic 的招牌能力，知识库问答范式普及。",
+"aftermath": "2024年Claude 3以更长可用上下文与更强推理接棒。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic",
+"长文本"
+]
+},
+{
+"id": "2023-11-28-pika",
+"date": "2023-11-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Pika 1.0 发布，AI 视频创业升温",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月28日斯坦福辍学生创办的Pika发布1.0版文生视频产品，邀请码一码难求，与Runway、Sora一起 heating AI视频赛道。",
+"detail": "Pika 1.0支持文本/图像生成3D动画、动漫、电影风格短片，并提供局部改写与镜头扩展等功能，产品化体验领先，发布后一周用户破50万。公司随后完成约5500万美元融资，估值2-3亿美元。",
+"impact": "把AI视频从研究demo推向大众创作工具。",
+"aftermath": "2024年Sora以60秒长视频震撼行业，AI视频军备竞赛升级。",
+"sources": [
+{
+"title": "Pika Labs",
+"url": "https://en.wikipedia.org/wiki/Pika_Labs",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生视频"
+]
+},
+{
+"id": "2023-11-30-cybertruck",
+"date": "2023-11-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特斯拉 Cybertruck 开始首批交付",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月30日特斯拉在得州工厂交付首批赛博皮卡Cybertruck，起售价约6.1万美元，四年前发布的概念车终于量产。",
+"detail": "Cybertruck以不锈钢外骨骼与楔形设计闻名，发布会曾因「防弹玻璃被砸裂」名场面出圈。量产版性能、续航与产能均不及当年宣传指标，但仍以独特设计制造了大量话题，成为美国街头最显眼的新物种。",
+"impact": "年度最具争议的量产车，重塑皮卡设计与舆论场。",
+"aftermath": "产能爬坡缓慢；2025年推出更长续航版本。",
+"sources": [
+{
+"title": "Tesla Cybertruck",
+"url": "https://en.wikipedia.org/wiki/Tesla_Cybertruck",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"特斯拉"
+]
+},
+{
+"id": "2023-11-30-pdd-over-baba",
+"date": "2023-11-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "拼多多市值一度超越阿里巴巴",
+"category": "company",
+"region": "cn",
+"milestone": true,
+"summary_30s": "11月30日拼多多美股市值盘中首次超过阿里巴巴，成为市值最高的中概电商，「砍一刀」战胜「猫狗」成为标志性时刻。",
+"detail": "受Temu出海与国内低价策略驱动，拼多多11月28日发布的三季度财报远超预期，股价大涨，11月30日盘中市值一度超越阿里巴巴。阿里内网员工热议「那个看不起眼的砍一刀，现在成了老大哥」，马云罕见回帖表态「相信明天的阿里」。",
+"impact": "电商行业从消费升级叙事切换到「低价+出海」叙事。",
+"aftermath": "阿里随后推进用户为先改革与淘宝天猫合体；Temu在全球疯狂买量扩张。",
+"sources": [
+{
+"title": "拼多多",
+"url": "https://zh.wikipedia.org/wiki/拼多多",
+"type": "wiki"
+}
+],
+"tags": [
+"电商",
+"市值"
+]
+},
+{
+"id": "2023-12-06-gemini1",
+"date": "2023-12-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌发布 Gemini 1.0",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "12月6日谷歌发布筹备半年、训练耗资巨大的原生多模态大模型Gemini 1.0，Ultra版在MMLU等基准上首次超过GPT-4。",
+"detail": "Gemini分Ultra、Pro、Nano三档，原生支持文本、图像、音频、视频输入，Gemini Ultra在32项基准中30项刷新纪录（MMLU得分90.0%）。Pro版即刻接入Bard，Nano进入Pixel 8 Pro。DeepMind与谷歌大脑团队完成合并以支撑该项目。",
+"impact": "谷歌第一次在模型基准上正面压过OpenAI，AI竞争回到胶着状态。",
+"aftermath": "Ultra版延至2024年2月开放；Bard随后更名Gemini。",
+"sources": [
+{
+"title": "Gemini (language model)",
+"url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+"type": "wiki"
+},
+{
+"title": "Google 官方博客",
+"url": "https://blog.google/products/gemini/",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"Gemini"
+]
+},
+{
+"id": "2023-12-07-tga2023",
+"date": "2023-12-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "TGA 2023：《博德之门3》获年度游戏",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月7日TGA 2023颁奖，《博德之门3》获年度游戏，宫崎英高获首个「方向奖」，塞尔达、漫威蜘蛛侠2同场陪跑。",
+"detail": "《博德之门3》包揽年度游戏、最佳RPG、最佳多人等六项大奖；《王国之泪》获最佳动作冒险，宫崎英高拿下新设的最佳游戏指导。2023年被称为「游戏大年」，TGA投票参与人数创纪录，颁奖礼同时公布多款新作。",
+"impact": "CRPG叙事作品登顶年度游戏，玩家社区话语权提升。",
+"aftermath": "博德之门3持续热卖，2024年3月登陆Xbox。",
+"sources": [
+{
+"title": "The Game Awards 2023",
+"url": "https://en.wikipedia.org/wiki/The_Game_Awards_2023",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"TGA"
+]
+},
+{
+"id": "2023-12-11-dongfang",
+"date": "2023-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "东方甄选「小作文」风波",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月上旬东方甄选小编与董宇辉的「小作文」署名之争演变为粉丝大战，公司掉粉、股价暴跌，CEO免职、俞敏洪下场。",
+"detail": "12月5日东方甄选小编在视频下强调文案为团队创作，被董宇辉粉丝解读为打压头部主播，孙东旭「摔手机」旧闻、天权主播摔讲解词等操作让舆情失控，公司三日掉粉数十万、股价累跌超两成。12月16日董宇辉停播后复播，CEO孙东旭被免职，俞敏洪兼任CEO并成立「与辉同行」独立工作室。",
+"impact": "直播电商「超头依赖」风险第一次全面暴露。",
+"aftermath": "2024年7月董宇辉离职带走与辉同行，东方甄选转向去头部化运营。",
+"sources": [
+{
+"title": "东方甄选",
+"url": "https://zh.wikipedia.org/wiki/东方甄选",
+"type": "wiki"
+}
+],
+"tags": [
+"直播电商",
+"公司"
+]
+},
+{
+"id": "2023-12-13-gemini-api",
+"date": "2023-12-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Gemini Pro API 开放",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月13日谷歌通过AI Studio开放Gemini Pro API，开发者可免费体验，正式向OpenAI的开发者腹地开战。",
+"detail": "谷歌在AI Studio提供Gemini Pro的免费额度与API密钥，企业可通过Vertex AI付费调用，中文等多语言支持与32K上下文一步到位，价格低于GPT-4 Turbo。谷歌以「免费+低价」策略快速拉拢开发者。",
+"impact": "开发者多模型混用成为常态，模型调用进入价格战。",
+"aftermath": "2024年Gemini 1.5以百万token上下文和更低价格继续施压。",
+"sources": [
+{
+"title": "Gemini (language model)",
+"url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"API"
+]
+},
+{
+"id": "2023-12-15-sandui",
+"date": "2023-12-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《三大队》上映成年末口碑黑马",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月15日电影《三大队》上映，张译主演追凶故事口碑发酵，最终票房7.05亿元成为贺岁档黑马。",
+"detail": "改编自真实事件与网文「请转告局长，三大队任务完成了」，张译的刑警队长执念十二年追凶，情感浓度获得观众认可，豆瓣开分7.9后稳定在7.8左右，成为2023年末口碑与票房兼具的现实主义作品。",
+"impact": "现实主义罪案题材的商业可行性再次被验证。",
+"aftermath": "同题材剧集版2024年上线。",
+"sources": [
+{
+"title": "三大队",
+"url": "https://zh.wikipedia.org/wiki/三大队_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"电影"
+]
+},
+{
+"id": "2023-12-26-m9",
+"date": "2023-12-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "问界 M9 上市，华为「科技车皇」入场",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月26日华为问界M9上市，46.98万元起售，发布两小时大定破万，成为50万元级国产豪华车市场最大变量。",
+"detail": "问界M9搭载华为途灵底盘、ADS 2.0高阶智驾、鸿蒙座舱与华为xPixel车灯，以「1000万以内最好的SUV」话术对标BBA，上市2小时大定突破1万台，直接冲击传统豪华品牌的核心腹地。",
+"impact": "国产新能源车首次在50万以上价位成建制地收割传统豪华市场份额。",
+"aftermath": "M9持续月销破万，成为2024年中国50万以上车型销量冠军。",
+"sources": [
+{
+"title": "问界M9",
+"url": "https://zh.wikipedia.org/wiki/问界M9",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"华为"
+]
+},
+{
+"id": "2023-12-27-blossoms",
+"date": "2023-12-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "王家卫剧版《繁花》开播",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月27日王家卫执导的首部剧集《繁花》在腾讯视频开播，沪语版与普通话版同步，成为开年最大文化现象。",
+"detail": "改编自金宇澄茅盾文学奖小说，胡歌、马伊琍、唐嫣、辛芷蕾演绎90年代黄河路众生相，电影级光影与沪语对白引发收视与文旅双热潮，和平饭店、排骨年糕等成为打卡对象，剧集最终豆瓣评分8.7。",
+"impact": "电影导演下场拍剧抬高国剧质感上限，带动上海文旅热。",
+"aftermath": "2024年初央视版本播出，「繁花热」延续整月。",
+"sources": [
+{
+"title": "繁花（电视剧）",
+"url": "https://zh.wikipedia.org/wiki/繁花_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"剧集",
+"影视"
+]
+},
+{
+"id": "2023-12-28-xiaomi-auto-tech",
+"date": "2023-12-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米汽车技术发布会：SU7 正式亮相",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月28日小米举行汽车技术发布会，首款车SU7亮相，宣布自研电机、大压铸与800V平台，定价悬念吊足全网。",
+"detail": "雷军用三个多小时讲解小米汽车五大核心技术：HyperEngine V8s电机（27200rpm）、9100吨大压铸、CTB电池、800V平台与澎湃OS车机，确认2024年上半年上市。发布会后全网开启「猜价格」大讨论，「9.9万交个朋友」成为年度梗。",
+"impact": "手机大厂造车的第一张答卷正式摊牌。",
+"aftermath": "2024年3月28日SU7上市即爆单，小米汽车成为当年最强新车品牌。",
+"sources": [
+{
+"title": "小米SU7",
+"url": "https://zh.wikipedia.org/wiki/小米SU7",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"小米"
+]
+},
+{
+"id": "2024-01-08-ces2024",
+"date": "2024-01-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "CES 2024：AI 满场与 RTX 40 SUPER 系列",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月8日CES 2024在拉斯维加斯开幕，生成式AI成为绝对主题，英伟达发布RTX 40 SUPER系列显卡。",
+"detail": "CES 2024上AI概念贯穿家电、汽车与PC：透明电视、AI机器人、智能座舱密集发布；英伟达在开幕前发布RTX 4070 SUPER/4070 Ti SUPER/4080 SUPER三款显卡，价格下探强化40系性价比。AI PC概念由联想、英特尔等集体推向舞台中央。",
+"impact": "「AI硬件」取代元宇宙成为消费电子行业统一叙事。",
+"aftermath": "AI PC在2024年全年成为PC厂商的统一卖点。",
+"sources": [
+{
+"title": "GeForce RTX 40 series",
+"url": "https://en.wikipedia.org/wiki/GeForce_RTX_40_series",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"CES",
+"英伟达"
+]
+},
+{
+"id": "2024-01-16-glm4",
+"date": "2024-01-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "智谱 AI 发布 GLM-4",
+"category": "tech",
+"region": "china",
+"milestone": false,
+"summary_30s": "1月16日智谱AI发布GLM-4及其「All Tools」能力，宣称整体性能比肩GPT-4，开放智能体与全工具调用。",
+"detail": "GLM-4支持128K上下文、多模态与工具调用，在多项中文评测上超过GPT-4，智能体可自主理解意图并调用浏览器、代码解释器等。智谱同期推出GLM-4开放平台，商业化进入快车道，成为国内被接入最多的模型厂商之一。",
+"impact": "国产模型第一次系统性对标GPT-4能力集。",
+"aftermath": "2025年7月GLM-4.5开源后智谱跻身开源第一梯队。",
+"sources": [
+{
+"title": "智谱AI",
+"url": "https://zh.wikipedia.org/wiki/智谱AI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"智谱"
+]
+},
+{
+"id": "2024-01-27-lol-lpl",
+"date": "2024-01-27",
+"date_accuracy": "month",
+"date_confidence": "estimated",
+"title": "英雄联盟 S14 赛季 MSI 落地成都成电竞大年开端",
+"category": "culture",
+"region": "china",
+"milestone": false,
+"summary_30s": "2024年英雄联盟电竞中国区热度回升，MSI季中赛落地成都，LPL与LCK对抗持续成为电竞最大流量场。",
+"detail": "2024年MSI季中冠军赛5月在成都举行，LPL赛区GEN与BLG的对决带动国内观赛热潮；11月S14全球总决赛在伦敦举行，BLG夺得亚军，英雄联盟电竞在亚运后完成新一轮商业化升级，联盟化与主客场运营继续深化。",
+"impact": "英雄联盟电竞保持国内电竞第一IP地位。",
+"aftermath": "2025年S赛落地中国成都，T1三连冠。",
+"sources": [
+{
+"title": "League of Legends esports",
+"url": "https://en.wikipedia.org/wiki/League_of_Legends_esports",
+"type": "wiki"
+}
+],
+"tags": [
+"电竞"
+]
+},
+{
+"id": "2024-01-29-evergrande",
+"date": "2024-01-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "香港法院下令中国恒大清盘",
+"category": "company",
+"region": "china",
+"milestone": false,
+"summary_30s": "1月29日香港高等法院对中国恒大集团发出清盘令，负债超2.4万亿元的全球负债最大房企进入清算程序。",
+"detail": "恒大自2021年爆发债务危机后多次展期重组未果，香港法院在重组方案缺乏实质进展后下达清盘令，委任清盘人接管，恒大系股票长期停牌。其债务处置成为地产行业风险出清的标志性事件。",
+"impact": "地产债务风险处置进入司法清盘阶段。",
+"aftermath": "恒大系资产陆续被处置；关联理财产品与项目交付持续牵动多方。",
+"sources": [
+{
+"title": "恒大集团",
+"url": "https://zh.wikipedia.org/wiki/中国恒大集团",
+"type": "wiki"
+}
+],
+"tags": [
+"公司",
+"地产"
+]
+},
+{
+"id": "2024-02-01-qq",
+"date": "2024-02-01",
+"date_accuracy": "month",
+"date_confidence": "estimated",
+"title": "「猫meme」短视频在B站与抖音流行",
+"category": "culture",
+"region": "china",
+"milestone": false,
+"summary_30s": "2024年「猫meme」成为B站与抖音最热短视频模板，用猫咪表情包演绎剧情的「猫meme文学」席卷平台。",
+"detail": "以猫咪素材配剧情字幕的「猫meme」视频在2024年初爆发，B站UP主与商家大量使用该模板讲故事带货，官方账号也下场整活，形成年度平台级meme现象，并带动「猫meme号」批量涨粉的生意。",
+"impact": "平台内容生产进一步模板化、meme化。",
+"aftermath": "此后「偷感」「红温」等梗接力，梗文化电商化加深。",
+"sources": [
+{
+"title": "Bilibili",
+"url": "https://zh.wikipedia.org/wiki/哔哩哔哩",
+"type": "wiki"
+}
+],
+"tags": [
+"流行文化",
+"短视频"
+]
+},
+{
+"id": "2024-02-02-vision-pro-launch",
+"date": "2024-02-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Apple Vision Pro 美国开售",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月2日Vision Pro在美国正式发售，首发排队火爆，但「噱头大于实用」的评测与佩戴不适成为主要争议。",
+"detail": "Vision Pro以3499美元开售，苹果称首周末预购约20万台。评测盛赞屏幕与空间视频体验，但重量与续航限制使用时长，内容生态薄弱，「买回去吃灰」成为高频评价。全年出货预估下修至50万台以内。",
+"impact": "空间计算从概念落地为商品，行业意识到消费级MR仍需更轻更便宜。",
+"aftermath": "2024年6月起陆续在其他市场发售；苹果转向研发更轻的后续机型。",
+"sources": [
+{
+"title": "Apple Vision Pro",
+"url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"XR"
+]
+},
+{
+"id": "2024-02-03-kimi-viral",
+"date": "2024-02-03",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Kimi 智能助手春节后爆火",
+"category": "internet",
+"region": "china",
+"milestone": false,
+"summary_30s": "2月起月之暗面的Kimi凭20万字长文本处理能力在A股「Kimi概念股」与用户端同时爆火，成为国产AI应用顶流。",
+"detail": "Kimi支持超长文档总结、网页阅读与多文件问答，春节期间在微博、股吧出圈，「Kimi概念股」一度成为A股热炒主题。用户量暴涨致服务器限流，App Store效率榜登顶，带动「国产AI应用元年」讨论。",
+"impact": "国内AI应用第一次出现现象级C端爆款。",
+"aftermath": "3月18日200万字版本上线；各家快速跟进长文本能力。",
+"sources": [
+{
+"title": "月之暗面",
+"url": "https://zh.wikipedia.org/wiki/月之暗面",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Kimi"
+]
+},
+{
+"id": "2024-02-08-bard-gemini",
+"date": "2024-02-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 Bard 更名 Gemini，推出订阅版",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月8日谷歌把Bard更名为Gemini，推出对标ChatGPT Plus的Gemini Advanced订阅，品牌彻底切换。",
+"detail": "谷歌把聊天产品、App与订阅体系统一到Gemini品牌下，Gemini Ultra 1.0通过19.99美元/月的Google One AI Premium订阅提供，并同步推出安卓应用。此举宣告谷歌结束「防御性实验品」定位。",
+"impact": "AI助手「订阅制+超级应用化」路径确立。",
+"aftermath": "Gemini 1.5系列于当月发布，谷歌此后以品牌统一性持续迭代。",
+"sources": [
+{
+"title": "Gemini (chatbot)",
+"url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2024-02-10-yure",
+"date": "2024-02-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《热辣滚烫》领跑春节档，贾玲瘦身话题刷屏",
+"category": "culture",
+"region": "china",
+"milestone": false,
+"summary_30s": "2月10日贾玲自导自演《热辣滚烫》上映，「贾玲减了100斤」话题引爆全网，影片最终票房34.6亿元夺春节档冠军。",
+"detail": "翻拍自《百元之恋》的《热辣滚烫》以贾玲减重100斤的真实变化为最大悬念，上映前预告片只闻声不见人吊足胃口，最终以34.6亿元成为2024年春节档冠军与年度票房第二。减重话题同时带动健身、拳击等消费。",
+"impact": "「导演个人IP+悬念营销」达到顶峰。",
+"aftermath": "贾玲转战好莱坞翻拍项目，导演身份进一步国际化。",
+"sources": [
+{
+"title": "热辣滚烫",
+"url": "https://zh.wikipedia.org/wiki/热辣滚烫",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"春节档"
+]
+},
+{
+"id": "2024-02-15-gemini15",
+"date": "2024-02-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌发布 Gemini 1.5：百万 token 上下文",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月15日谷歌发布Gemini 1.5 Pro，支持最多100万token上下文并展示1000万token实验，长文本军备竞赛升级。",
+"detail": "Gemini 1.5采用MoE架构，在长上下文检索测试（大海捞针）中达到99%以上召回率，可一次处理1小时视频、11小时音频与3万行代码。谷歌向部分开发者开放预览，5月起规模开放。",
+"impact": "「上下文长度」从此成为模型发布会的固定指标。",
+"aftermath": "8月Gemini 1.5 Pro正式支持200万token。",
+"sources": [
+{
+"title": "Gemini (language model)",
+"url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"长文本"
+]
+},
+{
+"id": "2024-02-15-sora",
+"date": "2024-02-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布文生视频模型 Sora",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2月15日OpenAI发布Sora，可生成长达60秒、多镜头连贯的高清视频，被称「视频界GPT-3时刻」。",
+"detail": "Sora基于扩散模型与Transformer结合，支持60秒1080p视频、多角色多镜头一致性，演示中「东京街头的女人」等片段以假乱真。OpenAI称其为「世界模拟器」，同期公布技术报告。产品未即时开放，引发行业震动与内容行业恐慌。",
+"impact": "文生视频进入「物理世界理解」叙事阶段，影视行业焦虑公开化。",
+"aftermath": "3月好莱坞导演奥普拉? 恰逢好莱坞导演比尔·马奥尼等公开呼吁；2024年12月Sora正式向公众开放。",
+"sources": [
+{
+"title": "Sora",
+"url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
+"type": "wiki"
+},
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/sora/",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"文生视频",
+"OpenAI"
+]
+},
+{
+"id": "2024-02-26-wahaha",
+"date": "2024-02-26",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "娃哈哈销量因创始人话题暴涨成现象级消费潮",
+"category": "culture",
+"region": "china",
+"milestone": false,
+"summary_30s": "2月底娃哈哈创始人离世引发全民情怀消费，AD钙奶等产品线上线下卖断货，「国民品牌」情绪成为年度消费现象。",
+"detail": "2024年2月下旬娃哈哈创始人宗庆后去世的消息带动全民怀旧情绪，网友涌入直播间与线下商超抢购AD钙奶、纯净水，官方旗舰店销售额暴涨数十倍，一度宣布暂停线上订单。同期农夫山泉因舆论风波被卷入「娃哈哈vs农夫山泉」的对比叙事，饮料行业格局话题出圈。",
+"impact": "「情绪消费」第一次以如此规模冲击实体饮料市场。",
+"aftermath": "热潮数周后回落；娃哈哈2024年下半年启动管理层与股权调整。",
+"sources": [
+{
+"title": "娃哈哈",
+"url": "https://zh.wikipedia.org/wiki/娃哈哈",
+"type": "wiki"
+}
+],
+"tags": [
+"消费",
+"流行文化"
+]
+},
+{
+"id": "2024-03-01-li-mega",
+"date": "2024-03-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "理想 MEGA 上市遭遇舆论风波",
+"category": "hardware",
+"region": "china",
+"milestone": false,
+"summary_30s": "3月1日理想首款纯电MPV MEGA上市（55.98万元），上市即遭恶意图与舆论围攻，订单遇冷成为年度最惨新车发布之一。",
+"detail": "理想MEGA以「50万以上销量第一」为目标上市，但外形被恶意P图嘲讽传播，订单未达预期，李想公开发声反击网络暴力。理想随后下调全年销量目标，把纯电产品线节奏推迟，聚焦增程主力车型。",
+"impact": "「网暴能杀死一台车」成为行业共识，车企公关策略集体转向。",
+"aftermath": "理想2024年靠L6稳住基本盘；纯电战略推迟到2025年i系列。",
+"sources": [
+{
+"title": "理想MEGA",
+"url": "https://zh.wikipedia.org/wiki/理想MEGA",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"理想"
+]
+},
+{
+"id": "2024-03-04-claude3",
+"date": "2024-03-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude 3 系列",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月4日Anthropic发布Claude 3家族（Opus/Sonnet/Haiku），Opus在多数基准超越GPT-4，长文本与多模态一步到位。",
+"detail": "Claude 3支持视觉输入与200K上下文，Opus在MMLU、GSM8K等基准上首次全面领先GPT-4，Sonnet以1/5价格提供接近能力，Haiku主打速度。Anthropic自此确立了「三档产品线」的行业模板。",
+"impact": "GPT-4「一家独大」时代结束，模型评测「轮流登顶」成为常态。",
+"aftermath": "6月Claude 3.5 Sonnet以更低价高性能统治开发者口碑。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2024-03-06-figure-01",
+"date": "2024-03-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Figure 01 人形机器人接入 OpenAI 模型演示对话",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月13日Figure发布与OpenAI合作的Figure 01机器人演示视频，机器人以自然语言实时对话并执行「递苹果」等任务，人形机器人+大模型范式引爆。",
+"detail": "演示中Figure 01听懂「我能吃点东西吗」并正确递上苹果，解释桌面物品分类逻辑，端到端响应速度接近人类对话节奏。Figure此前获微软、OpenAI、英伟达、贝索斯等6.75亿美元投资，估值26亿美元。",
+"impact": "「大模型作为机器人大脑」成为人形机器人行业共识。",
+"aftermath": "Figure后与OpenAI分道扬镳转自研模型；国内宇树、智元加速跟进。",
+"sources": [
+{
+"title": "Figure AI",
+"url": "https://en.wikipedia.org/wiki/Figure_AI",
+"type": "wiki"
+}
+],
+"tags": [
+"机器人",
+"AI"
+]
+},
+{
+"id": "2024-03-08-dune2",
+"date": "2024-03-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《沙丘2》上映，好莱坞年度口碑票房双冠",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月8日《沙丘2》中美同步上映，全球票房7.14亿美元，成为当年全球票房前列与口碑最佳的视效巨制。",
+"detail": "丹尼斯·维伦纽瓦执导的《沙丘2》以IMAX级沙漠美学与「沙虫骑乘」名场面获得压倒性好评，北美开画8250万美元超预期，全球累计约7.14亿美元，被普遍认为是「为电影院而生的电影」典范。",
+"impact": "为大银幕体验价值背书，IMAX画幅成为宣发标配。",
+"aftermath": "《沙丘3》（圣灾）进入制作流程。",
+"sources": [
+{
+"title": "Dune: Part Two",
+"url": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"好莱坞"
+]
+},
+{
+"id": "2024-03-12-devin",
+"date": "2024-03-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Cognition 发布「AI 软件工程师」Devin",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月12日初创公司Cognition发布Devin，宣称是「首个AI软件工程师」，可端到端独立完成开发任务，刷屏开发者社区。",
+"detail": "Devin能接受一句指令后自主规划、写码、调试并部署，演示其在SWE-bench上解决13.86%的问题（远超此前模型）。虽然实际使用中被指演示夸大，但它把「AI Agent 干完整工作」的期待值拉满。",
+"impact": "「AI 程序员替代论」大讨论的开端。",
+"aftermath": "编程Agent赛道随后挤进Claude Code、Cursor Agent、Codex等；Cognition 2025年收购Windsurf。",
+"sources": [
+{
+"title": "Cognition Labs",
+"url": "https://en.wikipedia.org/wiki/Cognition_Labs",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"编程",
+"Agent"
+]
+},
+{
+"id": "2024-03-18-gtc-blackwell",
+"date": "2024-03-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达 GTC 2024：Blackwell 架构发布",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月18日黄仁勋在GTC发布Blackwell架构与B200芯片，宣称训练大模型的能耗与成本降至1/25，开启AI算力新周期。",
+"detail": "Blackwell采用双芯封装（两个Die拼成一颗GPU），2080亿晶体管，GB200 NVL72机架级方案把万亿参数模型训练成本降低约75%。黄仁勋称生成式AI进入「新工业革命」，GTC参会人数暴涨至1.6万。",
+"impact": "AI算力军备竞赛再升一级，供应链（台积电、CoWoS）全面吃紧。",
+"aftermath": "2024年10月GB200开始交付，Blackwell成为当年最大算力叙事。",
+"sources": [
+{
+"title": "Blackwell (microarchitecture)",
+"url": "https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"英伟达",
+"芯片"
+]
+},
+{
+"id": "2024-03-18-kimi-200w",
+"date": "2024-03-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Kimi 长文本升级 200 万字并因爆火限流",
+"category": "product",
+"region": "china",
+"milestone": false,
+"summary_30s": "3月18日月之暗面宣布Kimi支持200万字无损长文本内测，此前Kimi因用户暴涨一度服务器限流，成为2024年初最火的国产AI应用。",
+"detail": "Kimi智能助手凭20万字长文本能力在2024年2-3月出圈，3月一度登顶App Store效率榜并因流量激增限流「怎么玩都忙不过来」。3月18日再推200万字无损长文本，掀起国产大模型「长文本军备竞赛」（阿里通义、百度随后跟进千万字级）。",
+"impact": "国产AI应用第一次出现C端「顶流」产品。",
+"aftermath": "月之暗面5月估值升至33亿美元；2025年发布K2开源模型。",
+"sources": [
+{
+"title": "月之暗面",
+"url": "https://zh.wikipedia.org/wiki/月之暗面",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Kimi",
+"产品"
+]
+},
+{
+"id": "2024-03-22-suno-v3",
+"date": "2024-03-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Suno V3 发布，AI 生成完整歌曲出圈",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月22日Suno发布V3模型，输入歌词风格即可生成带人声的完整歌曲，AI音乐第一次大规模进入大众视野。",
+"detail": "Suno V3可按提示生成一分钟级、含人声与编曲的完整歌曲，质量首次达到「可以发朋友圈」的水平，用户自制AI神曲在社交平台刷屏，唱片业对版权的抗议随之升温，环球音乐随后起诉Suno。",
+"impact": "生成式音乐从工具走向消费品，音乐版权冲突公开化。",
+"aftermath": "V4于2024年11月发布；版权诉讼成为AI公司常态。",
+"sources": [
+{
+"title": "Suno AI",
+"url": "https://en.wikipedia.org/wiki/Suno_AI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"音乐"
+]
+},
+{
+"id": "2024-03-28-su7",
+"date": "2024-03-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米 SU7 上市：27 分钟大定破 5 万",
+"category": "hardware",
+"region": "china",
+"milestone": true,
+"summary_30s": "3月28日小米SU7上市，21.59万元起售，27分钟大定破5万台，成为现象级爆品，「雷军」个人IP与流量打法震惊汽车业。",
+"detail": "SU7 Max定价29.99万元低于预期，发布会全网刷屏，24小时大定8.8万台。雷军把手机圈发布会打法带进汽车：对标保时捷Tesla的参数叙事、粉丝运营与流量营销，友商高层纷纷下场互动。SU7交付长期排队，产能成为最大瓶颈。",
+"impact": "「流量造车」模式确立，汽车营销进入新媒体时代。",
+"aftermath": "SU7全年交付超13万台；小米2025年推YU7与SU7 Ultra。",
+"sources": [
+{
+"title": "小米SU7",
+"url": "https://zh.wikipedia.org/wiki/小米SU7",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"小米",
+"爆品"
+]
+},
+{
+"id": "2024-07-04-waic24",
+"date": "2024-07-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WAIC 2024 上海开幕",
+"category": "tech",
+"region": "china",
+"milestone": false,
+"summary_30s": "7月4日世界人工智能大会在上海开幕，大模型进入「卷落地」阶段，人形机器人首次成为全场焦点。",
+"detail": "WAIC 2024全馆展览规模创新高，国内主要大模型厂商与20余款人形机器人同台，特斯拉Optimus二代、宇树、智元等亮相，「具身智能」首次成为大会核心议题。大模型讨论从参数竞赛转向行业落地与价格。",
+"impact": "具身智能从概念走向台前，产业资本加速涌入机器人赛道。",
+"aftermath": "2024下半年国内人形机器人创业与融资潮爆发。",
+"sources": [
+{
+"title": "世界人工智能大会",
+"url": "https://zh.wikipedia.org/wiki/世界人工智能大会",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"机器人",
+"大会"
+]
+},
+{
+"id": "2024-07-11-luobo-viral",
+"date": "2024-07-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "萝卜快跑在武汉爆火，无人驾驶出租车登上热搜",
+"category": "product",
+"region": "china",
+"milestone": false,
+"summary_30s": "7月11日前后百度萝卜快跑在武汉订单暴涨、大量投运无人出租车，「网约车司机失业焦虑」话题引爆全网讨论。",
+"detail": "萝卜快跑在武汉规模化投放第六代无人车，10公里车程价格远低于网约车，单日单车峰值订单超20单的报道广泛传播，出租车司机抗议与「技术抢饭碗」的社会讨论冲上热搜。百度披露萝卜快跑累计订单已超600万单。",
+"impact": "Robotaxi商业化第一次以如此规模进入大众视野。",
+"aftermath": "萝卜快跑随后推进香港测试与中东、东南亚出海。",
+"sources": [
+{
+"title": "萝卜快跑",
+"url": "https://zh.wikipedia.org/wiki/萝卜快跑",
+"type": "wiki"
+}
+],
+"tags": [
+"自动驾驶",
+"百度",
+"出行"
+]
+},
+{
+"id": "2024-07-19-crowdstrike-outage",
+"date": "2024-07-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "CrowdStrike 更新事故引发全球「蓝屏」",
+"category": "internet",
+"region": "world",
+"milestone": true,
+"summary_30s": "7月19日安全软件CrowdStrike的错误更新导致全球约850万台Windows设备蓝屏死机，航空、银行、医院大面积瘫痪。",
+"detail": "CrowdStrike Falcon安全产品的缺陷更新在数小时内造成全球IT瘫痪：航班停飞、医院系统中断、银行与零售受影响，微软估算受影响设备约850万台。这一事件成为史上影响最广的IT故障之一，也让「单一供应商依赖」的系统性风险进入公众视野。",
+"impact": "全球数字化系统的脆弱性被直观演示，企业灾备与供应链冗余议题升温。",
+"aftermath": "CrowdStrike营收受挫并面临集体诉讼；各行业加强更新灰度发布机制。",
+"sources": [
+{
+"title": "2024 CrowdStrike incident",
+"url": "https://en.wikipedia.org/wiki/2024_CrowdStrike_incident",
+"type": "wiki"
+}
+],
+"tags": [
+"互联网",
+"事故",
+"微软"
+]
+},
+{
+"id": "2024-07-23-llama31",
+"date": "2024-07-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 发布 Llama 3.1 405B",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月23日Meta发布Llama 3.1系列，405B开源模型在多数基准追平GPT-4o与Claude 3.5 Sonnet，「开源追平闭源」宣言落地。",
+"detail": "Llama 3.1把上下文扩至128K、支持8种语言，405B版本基于15万亿token训练，扎克伯格称开源是「正确的一边」。许可证允许蒸馏输出给其他模型，进一步放大生态外溢。",
+"impact": "开源模型第一次在旗舰级别与闭源正面打平。",
+"aftermath": "企业私有部署与国内厂商「套壳蒸馏」随之兴起。",
+"sources": [
+{
+"title": "Llama (language model)",
+"url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Meta",
+"开源"
+]
+},
+{
+"id": "2024-07-24-mistral-large-2",
+"date": "2024-07-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Mistral 发布 Mistral Large 2",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月24日法国Mistral AI发布123B参数的Mistral Large 2，代码与多语言能力对标Llama 3 405B，参数量却只有其三分之一。",
+"detail": "Mistral Large 2拥有128K上下文与数十种语言能力，在代码生成上表现突出，采用研究许可发布（商用需授权）。欧洲AI旗舰以「小而精」路线持续对标美国巨头。",
+"impact": "非美国阵营的基础模型竞争力持续上升。",
+"aftermath": "Mistral随后进军企业服务与Le Chat消费端。",
+"sources": [
+{
+"title": "Mistral AI",
+"url": "https://en.wikipedia.org/wiki/Mistral_AI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"欧洲"
+]
+},
+{
+"id": "2024-07-25-dongyuhui-depart",
+"date": "2024-07-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "董宇辉离职东方甄选，「与辉同行」独立",
+"category": "company",
+"region": "china",
+"milestone": false,
+"summary_30s": "7月25日东方甄选公告董宇辉离职，「与辉同行」作价7658万元出售给董宇辉个人，俞敏洪称「一场好聚好散」。",
+"detail": "自2023年底「小作文」风波后，东方甄选为董宇辉设立独立工作室与辉同行。2024年7月25日公司公告将其100%股权以7658万元转让给董宇辉，账面资金也随其带走，东方甄选彻底去头部化，股价一度大跌。",
+"impact": "直播电商「超头绑定」模式以体面分手的方式谢幕。",
+"aftermath": "与辉同行独立运营后转型文化访谈带货；东方甄选重建自营矩阵。",
+"sources": [
+{
+"title": "东方甄选",
+"url": "https://zh.wikipedia.org/wiki/东方甄选",
+"type": "wiki"
+}
+],
+"tags": [
+"直播电商",
+"公司"
+]
+},
+{
+"id": "2024-07-26-deadpool-wolverine",
+"date": "2024-07-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《死侍与金刚狼》全球上映救市",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月26日《死侍与金刚狼》全球上映，全球票房13.38亿美元，成为当年票房最高R级片与漫威救市之作。",
+"detail": "瑞安·雷诺兹与休·杰克曼联手的《死侍与金刚狼》以「情怀回收+打破第四面墙」策略大卖，全球13.38亿美元票房登顶2024年度票房榜，把低谷中的漫威电影宇宙拉回商业化正轨。",
+"impact": "R级超英片票房天花板被大幅抬高。",
+"aftermath": "漫威确认死侍将进入后续阶段作品。",
+"sources": [
+{
+"title": "Deadpool & Wolverine",
+"url": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"漫威"
+]
+},
+{
+"id": "2024-08-13-grok2",
+"date": "2024-08-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "xAI 发布 Grok-2",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "8月13日马斯克旗下xAI发布Grok-2与Grok-2 mini，能力进入第一梯队，生图功能因尺度宽松引发争议。",
+"detail": "Grok-2在推理与代码上显著进步，接入X平台免费分发；其图像生成因对名人形象限制宽松，一时间Grok生成的假图泛滥，X随后收紧部分限制。xAI同期在孟菲斯建设超算Colossus。",
+"impact": "AI生图的滥用风险与平台治理矛盾集中爆发。",
+"aftermath": "2025年2月Grok-3发布，xAI跻身头部模型阵营。",
+"sources": [
+{
+"title": "Grok (chatbot)",
+"url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"xAI"
+]
+},
+{
+"id": "2024-08-20-black-myth",
+"date": "2024-08-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《黑神话：悟空》全球发售",
+"category": "product",
+"region": "china",
+"milestone": true,
+"summary_30s": "8月20日游戏科学《黑神话：悟空》全球发售，Steam同时在线峰值超240万创单机纪录，三日销量破1000万套。",
+"detail": "首款国产3A单机《黑神话：悟空》上线即引爆：Steam同时在线峰值达241万（全平台第二），三天全平台销量超1000万套，山西文旅随取景地爆火，「天命人」成为年度文化符号。游戏获TGA2024最佳动作游戏与玩家之声。",
+"impact": "证明中国市场可以诞生世界级单机买断制大作，带动国产3A立项潮。",
+"aftermath": "首年销量超2800万套；续作与DLC进入开发。",
+"sources": [
+{
+"title": "黑神话：悟空",
+"url": "https://zh.wikipedia.org/wiki/黑神话：悟空",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"国产3A"
+]
+},
+{
+"id": "2024-09-09-iphone16",
+"date": "2024-09-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 iPhone 16 系列，主打 Apple Intelligence",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月9日苹果发布iPhone 16系列，全系搭载A18芯片并为Apple Intelligence预留硬件，但AI功能延期引发「期货」质疑。",
+"detail": "iPhone 16系列全系升级A18/A18 Pro、新增拍照按钮与操作按钮，为Apple Intelligence铺路。但发布会最大卖点AI功能要到10月才随iOS 18.1上线英语版，中文版遥遥无期，被认为拉低了换机吸引力。",
+"impact": "「AI手机」首次成为苹果官方叙事，但体验滞后令换机周期继续拉长。",
+"aftermath": "Apple Intelligence 10月上线英语版；iPhone 16国内上市初期价格很快松动。",
+"sources": [
+{
+"title": "iPhone 16",
+"url": "https://en.wikipedia.org/wiki/IPhone_16",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"AI手机"
+]
+},
+{
+"id": "2024-09-10-mate-xt",
+"date": "2024-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为发布全球首款三折叠手机 Mate XT",
+"category": "hardware",
+"region": "china",
+"milestone": false,
+"summary_30s": "9月10日华为发布全球首款三折叠手机Mate XT非凡大师，19999元起，预约人数超600万，一机难求。",
+"detail": "Mate XT采用内外三折形态，展开10.2英寸，最薄处3.6毫米，搭载麒麟芯片与红枫原色影像。黄牛炒价一度到10万元，成为现象级产品，也展示了华为在折叠屏供应链上的统治力。",
+"impact": "折叠屏形态竞赛进入「多折」阶段。",
+"aftermath": "三折叠成为2025-2026年国产厂商旗舰竞逐方向。",
+"sources": [
+{
+"title": "华为Mate XT",
+"url": "https://zh.wikipedia.org/wiki/华为Mate_XT",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"华为",
+"折叠屏"
+]
+},
+{
+"id": "2024-09-10-o1",
+"date": "2024-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 o1 推理模型",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "9月12日OpenAI发布o1-preview，用「思考时间」换推理能力，奥数与博士级科学题表现质变，「推理模型」范式确立。",
+"detail": "o1（代号Strawberry）通过强化学习训练模型生成思维链，在AIME奥数、Codeforces与博士级科学问题上大幅超越GPT-4o，代价是响应时间变长与费用更高。行业随后跟进复制：DeepSeek-R1、Claude扩展思考、Gemini Thinking均由此发端。",
+"impact": "「推理时计算扩展」成为继预训练之后的第二增长曲线。",
+"aftermath": "12月o1正式版发布；12月26日o3在ARC-AGI上表现震惊业界。",
+"sources": [
+{
+"title": "OpenAI o1",
+"url": "https://en.wikipedia.org/wiki/OpenAI_o1",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"推理模型"
+]
+},
+{
+"id": "2024-09-11-notebooklm-audio",
+"date": "2024-09-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "NotebookLM 推出音频概览，AI 播客出圈",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月11日谷歌NotebookLM上线「Audio Overview」，可把文档变成双人对谈播客，自然度惊人，用户上传资料量暴涨。",
+"detail": "NotebookLM的音频概览功能由两个AI主持人像播客一样讨论用户上传的资料，语气、插科打诨高度拟真，上线后社交平台疯传试听，带动这款「小众工具」成为现象级应用。",
+"impact": "「把资料变成播客」成为AI内容生产的爆款模板。",
+"aftermath": "2025年谷歌开放自定义指令并推出视频概览。",
+"sources": [
+{
+"title": "NotebookLM",
+"url": "https://en.wikipedia.org/wiki/NotebookLM",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"播客"
+]
+},
+{
+"id": "2024-09-19-ledao-l60",
+"date": "2024-09-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "蔚来乐道 L60 上市",
+"category": "hardware",
+"region": "china",
+"milestone": false,
+"summary_30s": "9月19日蔚来子品牌乐道首款车L60上市，14.99万元起（BaaS方案），对标Model Y的家用纯电SUV。",
+"detail": "乐道L60以「围绕家庭」的定位、可换电与低能耗（百公里12.1度）切入20万元级纯电市场，BaaS电池租用方案把起售价拉到14.99万。上市后订单超预期，产能爬坡成为挑战。",
+"impact": "蔚来完成「主品牌+乐道」双品牌布局，换电生态向家庭用户开放。",
+"aftermath": "2025年乐道L90接力，蔚来多品牌矩阵成形。",
+"sources": [
+{
+"title": "乐道汽车",
+"url": "https://zh.wikipedia.org/wiki/乐道汽车",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"蔚来"
+]
+},
+{
+"id": "2024-09-24-meta-connect",
+"date": "2024-09-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta Connect 2024：Llama 3.2、Quest 3S 与 Orion 原型",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月25日Meta Connect发布多模态开源Llama 3.2、低价头显Quest 3S，并展示AR眼镜原型Orion。",
+"detail": "Llama 3.2首次带来11B/90B视觉模型与1B/3B端侧小模型；299美元的Quest 3S巩固入门MR市场；扎克伯格展示内部研发十年的真AR眼镜Orion（不发售），对垒苹果与谷歌的下一代计算平台。",
+"impact": "开源多模态与AR眼镜叙事同时升温。",
+"aftermath": "2025年Meta与雷朋合作AI眼镜大卖，AI眼镜成为新风口。",
+"sources": [
+{
+"title": "Meta Quest 3S",
+"url": "https://en.wikipedia.org/wiki/Meta_Quest_3S",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"Meta",
+"AR"
+]
+},
+{
+"id": "2024-09-26-computer-use",
+"date": "2024-09-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Claude 升级并推出 Computer Use 操控电脑能力",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月22日Anthropic发布新版Claude 3.5 Sonnet与「Computer Use」公测，AI首次可直接看屏幕、动鼠标完成电脑操作。",
+"detail": "Computer Use让Claude像人一样截屏、移动光标、点击与输入，可跨应用完成填表、订票等任务，是首个大规模开放「通用电脑操作」的模型能力，Agent从API调用走向GUI操作。",
+"impact": "「AI操作电脑」成为Agent竞争的通用接口。",
+"aftermath": "2025年OpenAI推出Operator/Agent模式，各家跟进GUI Agent。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Agent",
+"Anthropic"
+]
+},
+{
+"id": "2024-10-01-openai-66b",
+"date": "2024-10-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 完成66亿美元融资，估值1570亿美元",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月2日OpenAI宣布完成66亿美元融资，Thrive Capital领投，微软、英伟达、软银等参投，估值升至1570亿美元。",
+"detail": "本轮融资是硅谷史上最大规模之一，附加条件罕见：投资人被要求支持OpenAI重组并可能失去投资（若18个月内未完成）。OpenAI同月周活用户达2.5亿，商业化与重组压力同步上升。",
+"impact": "AI融资规模进入百亿美元量级，行业两极分化加剧。",
+"aftermath": "OpenAI随后经历高管连环离职，2025年推进营利性架构重组。",
+"sources": [
+{
+"title": "OpenAI",
+"url": "https://en.wikipedia.org/wiki/OpenAI",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"融资"
+]
+},
+{
+"id": "2024-10-08-nobel-hinton",
+"date": "2024-10-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "诺贝尔物理学奖授予神经网络先驱 Hinton 与 Hopfield",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "10月8日2024年诺贝尔物理学奖授予Hinton与Hopfield，表彰其人工神经网络与机器学习奠基性发现，AI首次摘得物理诺奖。",
+"detail": "瑞典皇家科学院将物理学奖授予约翰·霍普菲尔德与杰弗里·辛顿，表彰他们在1980年代对人工神经网络基础方法的贡献。Hinton在采访中自嘲「没料到会得物理奖」，并表达了对AI风险的担忧。次日化学奖授予AlphaFold团队。",
+"impact": "AI研究获得最高科学荣誉背书，「AI元年」叙事盖章。",
+"aftermath": "Hinton获奖前数月刚从谷歌离职并公开警告AI风险。",
+"sources": [
+{
+"title": "Nobel Prize in Physics",
+"url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"诺奖"
+]
+},
+{
+"id": "2024-10-09-nobel-alphafold",
+"date": "2024-10-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "诺贝尔化学奖授予 AlphaFold 团队",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月9日诺贝尔化学奖一半授予DeepMind的Hassabis与Jumper（AlphaFold2），AI连续两天登上诺奖舞台。",
+"detail": "戴密斯·哈萨比斯与约翰·江珀因蛋白质结构预测获得化学奖，另一半授予计算蛋白质设计的大卫·贝克。AlphaFold2已预测超过2亿个蛋白质结构，全球超200万研究者使用。",
+"impact": "「AI for Science」获得科学界最高认可。",
+"aftermath": "AlphaFold 3商业化与药物研发管线加速。",
+"sources": [
+{
+"title": "2024 Nobel Prize in Chemistry",
+"url": "https://en.wikipedia.org/wiki/2024_Nobel_Prize_in_Chemistry",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"DeepMind",
+"诺奖"
+]
+},
+{
+"id": "2024-10-10-cybercab",
+"date": "2024-10-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特斯拉发布无人出租车 Cybercab",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月10日特斯拉在洛杉矶发布两座无人驾驶出租车Cybercab与Robovan概念车，宣布2026年量产、目标2.5万美元级成本。",
+"detail": "Cybercab无方向盘与踏板，采用感应充电；马斯克称2026年投产，2027年前量产，成本低于3万美元。Robotaxi服务计划先在德州加州落地，全程依赖纯视觉FSD。发布会演示偏少被批「PPT色彩浓」。",
+"impact": "Robotaxi叙事重回特斯拉战略中心。",
+"aftermath": "2025年特斯拉在奥斯汀试运营Robotaxi，安全性争议不断。",
+"sources": [
+{
+"title": "Tesla Cybercab",
+"url": "https://en.wikipedia.org/wiki/Tesla_Cybercab",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"特斯拉",
+"自动驾驶"
+]
+},
+{
+"id": "2024-10-25-blackops6",
+"date": "2024-10-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《使命召唤：黑色行动6》发售并首日进 Game Pass",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月25日《使命召唤：黑色行动6》发售，首次首发即进Xbox Game Pass，玩家数与订阅拉新创纪录。",
+"detail": "《黑色行动6》以冷战间谍叙事与全向移动机制获得好评，首发登陆Game Pass成为微软「内容即服务」战略的标志性动作，推动Xbox月活创纪录。",
+"impact": "3A大作「订阅首发」模式跑通。",
+"aftermath": "微软2025年上调Game Pass价格，订阅与买断并行。",
+"sources": [
+{
+"title": "Call of Duty: Black Ops 6",
+"url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"微软"
+]
+},
+{
+"id": "2024-10-29-m4-mac",
+"date": "2024-10-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 M4 系列 Mac：Mac mini 重设计",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月29日苹果发布M4版iMac、MacBook Pro与全新Mac mini，机身缩至掌心大小，主打AI性能与能效。",
+"detail": "M4采用3nm第二代工艺、16核神经引擎（38 TOPS），面向Apple Intelligence优化；Mac mini以12.7厘米见方的机身重设计，起售价下调至4999元人民币，被视为「最小桌面旗舰」。",
+"impact": "桌面AI性能入门门槛进一步降低。",
+"aftermath": "M4系列成为本地跑大模型的热门选择。",
+"sources": [
+{
+"title": "Mac mini",
+"url": "https://en.wikipedia.org/wiki/Mac_mini",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果"
+]
+},
+{
+"id": "2024-11-04-claude-35-haiku",
+"date": "2024-11-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude 3.5 Haiku",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月4日Anthropic发布小模型Claude 3.5 Haiku，以接近前代旗舰的能力与更高速度服务高频企业场景。",
+"detail": "Claude 3.5 Haiku主打低延迟与低成本，在编码与工具调用上超过Claude 3 Opus，适用于客服、内容审核等高并发场景，补齐了Anthropic的「大中小」产品线。",
+"impact": "小模型在企业侧的地位持续上升。",
+"aftermath": "2025年Haiku 4.5接续迭代。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2024-11-12-doubao-mau",
+"date": "2024-11-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "豆包月活破6000万，登顶国内AI应用",
+"category": "internet",
+"region": "china",
+"milestone": false,
+"summary_30s": "11月12日第三方报告显示豆包App月活近6000万，超越Kimi等成为国内用户量第一的AI原生应用。",
+"detail": "量子位智库报告显示，豆包以约5998万MAU居国内AI应用榜首，远超第二名；字节以多端矩阵、免费策略与抖音导流实现快速起量。同期ChatGPT仍居全球第一，但国内格局首现「字节领跑」。",
+"impact": "国内AI to C竞争进入「流量规模」阶段。",
+"aftermath": "2025年豆包月活过亿，AI助手赛道进入大厂主导期。",
+"sources": [
+{
+"title": "豆包",
+"url": "https://zh.wikipedia.org/wiki/豆包",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"字节",
+"应用"
+]
+},
+{
+"id": "2024-12-09-sora-launch",
+"date": "2024-12-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Sora 正式向公众开放",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月9日OpenAI在「12天直播」中把Sora开放给Plus与Pro用户，拖了10个月的视频生成产品终于上线。",
+"detail": "OpenAI于12月5日开启连续12天直播发布（「Shipmas」），第三天上线Sora网页版，支持1080p20秒视频、故事板与混剪功能；因流量过大一度暂停注册。同期o1正式版、ChatGPT搜索、Canvas等密集发布。",
+"impact": "文生视频从演示稿进入消费者手中。",
+"aftermath": "2025年谷歌Veo、快手可灵等竞品快速迭代，AI视频进入比拼期。",
+"sources": [
+{
+"title": "Sora",
+"url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生视频",
+"OpenAI"
+]
+},
+{
+"id": "2024-12-11-chatgpt-search",
+"date": "2024-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ChatGPT 搜索功能向所有用户开放",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月11日OpenAI把ChatGPT搜索开放给全部免费用户，AI搜索与谷歌正面对抗进入深水区。",
+"detail": "ChatGPT search整合实时网页结果与新闻、体育、股票卡片，支持语音与地图信息，浏览器扩展可将其设为默认搜索。此后ChatGPT周活快速逼近4亿，传统搜索引擎份额开始出现松动迹象。",
+"impact": "「先问AI再搜索」的用户习惯加速形成。",
+"aftermath": "2025年谷歌Gemini深度接入搜索，AI搜索大战白热化。",
+"sources": [
+{
+"title": "ChatGPT",
+"url": "https://en.wikipedia.org/wiki/ChatGPT",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"搜索"
+]
+},
+{
+"id": "2024-12-11-gemini-2",
+"date": "2024-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌发布 Gemini 2.0：Agent 时代宣言",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月11日谷歌发布Gemini 2.0 Flash实验版，主打原生工具调用与多模态输出，宣称进入「Agentic era」。",
+"detail": "Gemini 2.0带来原生图像与音频输出、实时多模态流式API，配套发布Project Astra升级、Project Mariner浏览器Agent与Jules编程Agent。谷歌把2025年定义为「Agent元年」。",
+"impact": "AI竞争重心从聊天转向自主执行任务。",
+"aftermath": "2025年3月Gemini 2.5 Pro登顶多项榜单。",
+"sources": [
+{
+"title": "Gemini (language model)",
+"url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"Agent"
+]
+},
+{
+"id": "2024-12-11-jiyue",
+"date": "2024-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "极越汽车爆雷：员工围堵CEO、就地解散",
+"category": "company",
+"region": "china",
+"milestone": false,
+"summary_30s": "12月11日百度吉利合资的极越汽车爆出欠薪停产，员工围堵CEO夏一平直播间，公司「原地解散」成为年度车企最大塌方。",
+"detail": "极越被曝70亿元资金窟窿，12月11日启动「创业2.0」裁员后员工讨薪，视频会议、直播、门店集体瘫痪，售后与车主权益成为烂尾问题。吉利与百度随后联合兜底员工社保与车辆维保。",
+"impact": "新势力造车「输血依赖」模式的风险全面暴露。",
+"aftermath": "极越车主获接管维保；行业合资造车模式进入清算反思期。",
+"sources": [
+{
+"title": "极越",
+"url": "https://zh.wikipedia.org/wiki/极越",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"公司"
+]
+},
+{
+"id": "2024-12-12-tga2024",
+"date": "2024-12-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "TGA 2024：《宇宙机器人》获年度游戏",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月12日TGA 2024颁奖，索尼《宇宙机器人》爆冷击败《黑神话：悟空》获年度游戏，引发巨大争议。",
+"detail": "Astro Bot拿下年度游戏、最佳家庭等四项大奖；《黑神话：悟空》获最佳动作游戏与玩家之声。结果公布后「年度游戏该给谁」成为全球玩家社区论战焦点，黑神话虽败犹荣的讨论席卷中文互联网。",
+"impact": "「玩家之声」与评委票的分裂被放大。",
+"aftermath": "黑神话持续热销，2025年8月周年销量超2800万。",
+"sources": [
+{
+"title": "The Game Awards 2024",
+"url": "https://en.wikipedia.org/wiki/The_Game_Awards_2024",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"TGA"
+]
+},
+{
+"id": "2024-12-17-alibaba-intime",
+"date": "2024-12-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里巴巴出售银泰百货",
+"category": "company",
+"region": "china",
+"milestone": false,
+"summary_30s": "12月17日阿里宣布以约74亿元向雅戈尔集团出售银泰百货全部股权，预计录得约93亿元亏损，「新零售」实验谢幕。",
+"detail": "阿里2017年以约198亿港元私有化银泰开启新零售改造，七年后以约74亿元出售，账面亏损约93亿元。阿里表示这是聚焦核心业务的非核心资产退出。同期高鑫零售也进入出售流程。",
+"impact": "新零售叙事退潮，阿里回归电商与AI主业。",
+"aftermath": "高鑫零售随后售予德弘资本，线下资产持续剥离。",
+"sources": [
+{
+"title": "阿里巴巴集团",
+"url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+"type": "wiki"
+}
+],
+"tags": [
+"公司",
+"阿里",
+"零售"
+]
+},
+{
+"id": "2024-12-26-deepseek-v3",
+"date": "2024-12-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek-V3 开源：训练成本仅约557万美元",
+"category": "tech",
+"region": "china",
+"milestone": true,
+"summary_30s": "12月26日DeepSeek开源V3（671B参数MoE），官方论文披露完整训练仅用约2048张H800、成本约557.6万美元，震动业界。",
+"detail": "DeepSeek-V3总参数671B、激活37B，采用MLA与DeepSeekMoE及FP8混合精度训练，在数学代码上比肩GPT-4o与Claude 3.5。训练成本量级远低于海外巨头，引发「效率路线能否追平美国」的大讨论。",
+"impact": "中国模型第一次以工程效率成为全球焦点。",
+"aftermath": "一个月后R1发布，DeepSeek完成全球出圈。",
+"sources": [
+{
+"title": "DeepSeek",
+"url": "https://zh.wikipedia.org/wiki/DeepSeek",
+"type": "wiki"
+},
+{
+"title": "deepseek-ai/DeepSeek-V3",
+"url": "https://github.com/deepseek-ai/DeepSeek-V3",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源"
+]
+}
 ]
