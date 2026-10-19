@@ -1,46 +1,1116 @@
 [
-{"id":"1986-04-12-compulsory-education-law","date":"1986-04-12","date_accuracy":"exact","date_confidence":"verified","title":"《义务教育法》通过：义务教育时代开启","category":"milestone","region":"cn","milestone":true,"summary_30s":"全国人大通过《义务教育法》，中国正式推行九年义务教育：上学不要学费，送孩子读书是国家和家长的法定义务。它让此后几代普通人的人生从『能不能上学』变成『必须上学』，也为后来的互联网时代准备好了几亿会读写的新用户。","detail":"1986年4月12日，六届全国人大四次会议通过《中华人民共和国义务教育法》，同年7月1日起施行。法律规定国家实行九年义务教育，适龄儿童入学是义务也是权利，禁止任何组织或个人招用应接受义务教育的儿童就业。这是新中国第一部关于基础教育的法律。","impact":"基础教育迅速普及，学龄儿童入学率大幅提升；农村学校、教师队伍大规模扩建。","aftermath":"2000年全国基本普及九年义务教育；2011年宣布全面完成普及。义务教育人口成为2000年代起网民的主力来源。","sources":[{"title":"维基百科：中华人民共和国义务教育法","url":"https://zh.wikipedia.org/wiki/中华人民共和国义务教育法","type":"wiki"}],"tags":["义务教育","教育"]},
-{"id":"1986-09-01-china-womens-volleyball-five-peat","date":"1986-09-01","date_accuracy":"month","date_confidence":"single-source","title":"中国女排世锦赛夺冠，达成『五连冠』","category":"culture","region":"cn","milestone":false,"summary_30s":"中国女排在捷克斯洛伐克世锦赛上卫冕，完成世界大赛五连冠。『学习女排、振兴中华』是80年代最响的口号之一，女排精神成为一代人的集体记忆。","detail":"1986年9月，中国女排在世界女子排球锦标赛决赛中击败古巴队，实现奥运会、世界杯、世锦赛连续五次夺冠，史上首次五连冠。郎平等一代球员成为全民偶像。","impact":"女排成为80年代中国社会自信的象征符号，被写进教科书和无数演讲。","aftermath":"此后女排经历低谷与重生，2016年里约奥运再夺冠，2021年后新老交替持续。","sources":[{"title":"维基百科：中国国家女子排球队","url":"https://zh.wikipedia.org/wiki/中国国家女子排球队","type":"wiki"}],"tags":["女排","80年代"]},
-{"id":"1986-01-01-canet-project","date":"1986-01-01","date_accuracy":"year","date_confidence":"single-source","title":"中国学术网 CANet 项目启动：中国互联网的起点","category":"internet","region":"cn","milestone":false,"summary_30s":"北京市计算机应用技术研究所与德国卡尔斯鲁厄大学合作，启动中国学术网（CANet）项目。这是中国第一个与国际互联网接轨的实验性网络，后来的第一封跨国电子邮件就从这里发出。","detail":"1986年，在德国卡尔斯鲁厄大学维纳·措恩（Werner Zorn）教授与中国方面的合作下，双方开始建设中国学术网 CANet（Chinese Academic Network），为中德之间建立计算机通信链路。这是中国互联网公认的前史起点。","impact":"打通了中国与国际学术网络的物理与协议通道，培养了中国第一批互联网技术骨干。","aftermath":"1987年CANet发出中国第一封电子邮件；1990年注册.CN域名；1994年中国实现全功能接入。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["CANet","前史"]},
-{"id":"1987-09-14-first-email","date":"1987-09-14","date_accuracy":"exact","date_confidence":"verified","title":"中国第一封电子邮件发出：『越过长城，走向世界』","category":"milestone","region":"cn","milestone":true,"summary_30s":"1987年9月14日夜，中国兵器工业计算机应用技术研究所的计算机经意大利的转发，向德国卡尔斯鲁厄大学发出了中国第一封电子邮件，内容是『Across the Great Wall we can reach every corner in the world』（越过长城，走向世界）。这是中国与互联网的第一次握手。","detail":"邮件由中德合作项目组发出，措辞由项目参与者商定，王运丰、措恩等是关键人物。通说记载发送时间为1987年9月14日21时07分；另有考证认为该邮件实际于9月20日才成功送达德国主机，两种说法并存（详见notes）。","impact":"这是中国电子通信史上第一封经网络发出的电子邮件，证明中国可以接入国际学术网络。","aftermath":"中国在此后注册.CN域名、建设学术网络，直至1994年全功能接入互联网；这封邮件的措辞后来被反复引用，成为中国互联网史的标志性文本。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"},{"title":"维基百科：钱天白","url":"https://zh.wikipedia.org/wiki/钱天白","type":"wiki"}],"tags":["第一封邮件","CANet"]},
-{"id":"1987-09-01-huawei-founded","date":"1987-09-01","date_accuracy":"month","date_confidence":"single-source","title":"华为在深圳创立","category":"company","region":"cn","milestone":false,"summary_30s":"43岁的任正非与同伴用2.1万元在深圳注册华为公司，最初只是一家代理销售香港程控交换机的『二道贩子』。这家公司日后成为中国乃至全球最大的通信设备商。","detail":"1987年9月，华为技术有限公司在深圳注册成立，初期代理香港鸿年公司的程控交换机。此后转向自主研发，1993年推出C&C08数字程控交换机，逐步切入电信网络设备市场。","impact":"为中国通信基础设施提供了本土供应商，间接降低了电话与宽带的普及成本。","aftermath":"华为成长为全球最大电信设备商，2019年起遭遇美国制裁，2023年携麒麟芯片回归，2025年推出鸿蒙电脑。","sources":[{"title":"维基百科：华为","url":"https://zh.wikipedia.org/wiki/华为","type":"wiki"}],"tags":["华为","通信"]},
-{"id":"1987-11-01-first-mobile-phone-cn","date":"1987-11-01","date_accuracy":"month","date_confidence":"single-source","title":"中国开通首个蜂窝移动电话网，『大哥大』登场","category":"hardware","region":"cn","milestone":false,"summary_30s":"广东开通中国第一个蜂窝移动电话网，模拟制式『大哥大』开始出现。一部电话要两三万元，相当于普通人十几年工资，拿在手里是身份的象征——这是手机进入中国的起点。","detail":"1987年11月，广东建成开通中国第一个模拟蜂窝移动电话系统（900MHz TACS制式，广州），首批用户使用摩托罗拉等公司的手持终端，民间俗称『大哥大』。当年全国用户仅数百户。","impact":"开启了移动通信在中国的商业化，但价格高昂，长期是少数人的奢侈品。","aftermath":"1994年中国联通成立打破垄断、GSM网络铺开后手机迅速普及，2024年中国手机用户已超17亿。","sources":[{"title":"维基百科：大哥大","url":"https://zh.wikipedia.org/wiki/大哥大","type":"wiki"}],"tags":["大哥大","移动通信"]},
-{"id":"1988-01-01-science-productive-force","date":"1988-01-01","date_accuracy":"year","date_confidence":"single-source","title":"邓小平提出『科学技术是第一生产力』","category":"national","region":"cn","milestone":false,"summary_30s":"1988年，邓小平明确提出『科学技术是第一生产力』。这句话为之后的科技体制改革、『科教兴国』和高技术产业政策定下基调，也是后来各地政府愿意砸钱修网络、建园区的思想起点。","detail":"1988年9月，邓小平在会见外宾和听取汇报时多次强调科学技术在生产力诸要素中的首要地位。该论断随后被写入官方文件，成为改革开放中期科技政策的核心表述。","impact":"推动高新技术产业开发区、863计划的持续投入，为互联网等新技术进入中国减少了观念阻力。","aftermath":"『科教兴国』1995年成为国家战略；此后三十年中国研发投入持续增长至世界第二。","sources":[{"title":"维基百科：邓小平","url":"https://zh.wikipedia.org/wiki/邓小平","type":"wiki"}],"tags":["科技政策"]},
-{"id":"1988-01-01-ihep-decnet","date":"1988-01-01","date_accuracy":"year","date_confidence":"single-source","title":"高能物理研究所通过 X.25 接入国际 DECnet","category":"internet","region":"cn","milestone":false,"summary_30s":"中科院高能物理研究所建成 X.25 协议的专线，接入欧洲高能物理网络 DECnet/HEPnet，中国科学家第一次可以和国际同行远程交换计算数据。这不是互联网，但是互联网的前夜。","detail":"1988年，高能物理研究所（IHEP）利用与西欧核子中心等机构的合作，通过 X.25 分组交换网接入国际高能物理网络，实现电子邮件传递与远程计算资源共享，服务北京正负电子对撞机的国际合作。","impact":"证明了中国科研机构对国际联网的实际需求与能力，为后续专线接入互联网积累经验。","aftermath":"1993年高能所开通到斯坦福的64K专线；1994年中国全功能接入互联网。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["高能所","前史"]},
-{"id":"1989-01-01-ball-virus-cn","date":"1989-01-01","date_accuracy":"year","date_confidence":"single-source","title":"首例计算机病毒『小球』在中国现身","category":"tech","region":"cn","milestone":false,"summary_30s":"1989年，源自国外的『小球』病毒（Bouncing Ball）在中国被大量发现，被感染的计算机会在屏幕上弹出弹跳的小圆点。这是中国第一次大规模遭遇计算机病毒，杀毒软件行业由此萌芽。","detail":"小球病毒属引导区型病毒，通过软盘拷贝传播，感染IBM PC兼容机。1989年前后随进口软件和软盘交换传入中国并在机关单位扩散，国内最早的杀毒与防病毒卡业务随即出现。","impact":"普通单位第一次意识到计算机也会『生病』，催生了瑞星、江民等本土安全产业。","aftermath":"病毒与反病毒成为中国互联网时代持续的主题，CIH、熊猫烧香、勒索软件轮番登场。","sources":[{"title":"维基百科：计算机病毒","url":"https://zh.wikipedia.org/wiki/计算机病毒","type":"wiki"}],"tags":["病毒","90年代"]},
-{"id":"1989-03-13-www-proposal","date":"1989-03-13","date_accuracy":"exact","date_confidence":"verified","title":"万维网构想提出：Berners-Lee 在 CERN 递交提案","category":"milestone","region":"world","milestone":true,"summary_30s":"英国科学家蒂姆·伯纳斯-李在欧洲核子研究中心提交《信息管理：一项提案》，提出用超文本把全世界的文档连成一张网。这张『网』就是万维网（WWW）——你今天上网打开的每一个页面，概念都源于这份文件。","detail":"提案最初被领导批注『含糊但令人兴奋』。1990年伯纳斯-李写出第一个浏览器和服务器，1991年万维网在学术圈推广。超文本、URL、HTTP构成了万维网的三块基石。","impact":"让互联网从科学家专用工具变成普通人可用的信息空间，是互联网大众化的决定性一步。","aftermath":"1993年CERN宣布放弃专利，万维网爆炸式增长，最终成为互联网的同义词。","sources":[{"title":"Wikipedia: Information Management: A Proposal","url":"https://en.wikipedia.org/wiki/Information_Management:_A_Proposal","type":"wiki"}],"tags":["WWW","万维网"]},
-{"id":"1990-04-07-asiasat-1-launch","date":"1990-04-07","date_accuracy":"exact","date_confidence":"single-source","title":"长征三号发射『亚洲一号』：中国首次国际商业卫星发射","category":"tech","region":"cn","milestone":false,"summary_30s":"1990年4月7日，长征三号火箭在西昌把美国造的『亚洲一号』通信卫星送入太空，这是中国首次承揽国际商业卫星发射，亚洲上空从此有了一颗面向全地区的电视通信卫星。","detail":"亚洲一号由香港亚洲卫星公司持有（原为美国西联所有），用于覆盖亚洲的通信与电视传输。此次发射是中国航天进入国际商业发射市场的开端。","impact":"此后卫视节目开始覆盖整个亚洲，中国观众通过卫星看到了更多境外频道。","aftermath":"中国商业发射服务持续至今；卫星电视在90年代进入宾馆与家庭。","sources":[{"title":"Wikipedia: AsiaSat 1","url":"https://en.wikipedia.org/wiki/AsiaSat_1","type":"wiki"}],"tags":["航天","卫星"]},
-{"id":"1990-09-22-asian-games-beijing","date":"1990-09-22","date_accuracy":"exact","date_confidence":"verified","title":"北京亚运会开幕：中国首次承办大型国际综合运动会","category":"national","region":"cn","milestone":false,"summary_30s":"1990年9月22日，第11届亚运会在北京开幕，这是新中国第一次承办大型国际综合运动会。全国人民为『熊猫盼盼』慷慨解囊，电视转播让亿万人第一次同时盯着同一块屏幕欢呼。","detail":"亚运会新建了奥林匹克体育中心等场馆，吉祥物是熊猫盼盼，会歌《亚洲雄风》传唱全国。37个国家和地区代表团参赛，中国获183枚金牌居首。","impact":"证明了中国的组织能力与开放形象，直接催生了后来的北京奥运申办。","aftermath":"2001年北京申奥成功、2008年举办奥运会，都以此为基础。亚运主题曲歌手刘欢、韦唯从此家喻户晓。","sources":[{"title":"维基百科：1990年亚洲运动会","url":"https://zh.wikipedia.org/wiki/1990年亚洲运动会","type":"wiki"}],"tags":["亚运会","集体记忆"]},
-{"id":"1990-11-28-cn-domain-registered","date":"1990-11-28","date_accuracy":"exact","date_confidence":"verified","title":".CN 顶级域名在国际注册：中国在互联网上有了名字","category":"internet","region":"cn","milestone":false,"summary_30s":"1990年11月28日，钱天白代表中国在国际互联网信息中心注册了国家顶级域名 .CN，服务器暂设在德国卡尔斯鲁厄大学。从这天起，中国在互联网的地址簿里有了一块自己的地盘。","detail":"由于当时中国尚未直接接入国际互联网，.CN域名由德方协助管理。钱天白被后世称为『中国互联网之父』之一。域名注册标志着中国网络身份的确立。","impact":"此后中国的学术与商业网站逐步启用 .CN 域名。","aftermath":"1994年全功能接入后，1994年5月 .CN 域名服务器迁回国内，由中科院网络中心管理。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":[".CN","域名"]},
-{"id":"1990-11-01-kewang-tv","date":"1990-11-01","date_accuracy":"month","date_confidence":"single-source","title":"电视剧《渴望》首播，万人空巷","category":"culture","region":"cn","milestone":false,"summary_30s":"50集室内剧《渴望》在央视播出，讲刘慧芳一家的悲欢。播出时犯罪率下降、公交提前收班的传说流传至今——中国电视剧第一个全民现象级作品。","detail":"《渴望》由北京电视艺术中心制作，1990年11月起播出，张凯丽主演。它是中国第一部大型室内连续剧，采用边拍边播模式，收视率最高超过90%。","impact":"确立了此后二十年家庭伦理剧的范式，『举国看一部剧』成为媒介事件的标准模板。","aftermath":"此后《编辑部的故事》《北京人在纽约》等延续热潮；电视剧长期是中国家庭娱乐的中心，直到被视频网站改写。","sources":[{"title":"维基百科：渴望 (电视剧)","url":"https://zh.wikipedia.org/wiki/渴望_(电视剧)","type":"wiki"}],"tags":["电视剧","90年代"]},
-{"id":"1990-12-19-shanghai-stock-exchange","date":"1990-12-19","date_accuracy":"exact","date_confidence":"verified","title":"上海证券交易所开业","category":"economy","region":"cn","milestone":false,"summary_30s":"1990年12月19日，上海证券交易所在浦江饭店鸣锣开业，首批8只股票上市。中国资本市场重新开张，『炒股』从此进入普通人的生活词典。","detail":"改革开放后股票试点自1984年小飞乐起步，上交所的成立让证券交易集中化、规范化，当日成交笔数有限但意义重大。老八股（真空电子、飞乐音响等）成为中国股民的第一代记忆。","impact":"为国企融资开辟渠道，也让城市家庭第一次大规模接触金融投资。","aftermath":"1990年12月1日深交所先期试营业；A股此后经历数轮疯牛与熊市（2007年6124点、2015年5178点）。","sources":[{"title":"维基百科：上海证券交易所","url":"https://zh.wikipedia.org/wiki/上海证券交易所","type":"wiki"}],"tags":["股市","资本市场"]},
-{"id":"1990-12-01-shenzhen-stock-exchange","date":"1990-12-01","date_accuracy":"exact","date_confidence":"single-source","title":"深圳证券交易所试营业","category":"economy","region":"cn","milestone":false,"summary_30s":"深圳证券交易所开始集中试营业，与上交所一南一北构成中国两大证券交易枢纽，深市后来孕育了万科、腾讯、比亚迪等一代代明星公司。","detail":"深交所1990年12月1日试营业，1991年7月3日正式开业。早期以『老五股』闻名。","impact":"使南方民间资本有了正规交易场所，深圳『资本市场+科技』的组合日后成为中国创新经济的核心引擎。","aftermath":"2004年中小板、2009年创业板、2021年注册制改革陆续落地。","sources":[{"title":"维基百科：深圳证券交易所","url":"https://zh.wikipedia.org/wiki/深圳证券交易所","type":"wiki"}],"tags":["股市","深圳"]},
-{"id":"1991-08-06-first-website","date":"1991-08-06","date_accuracy":"exact","date_confidence":"verified","title":"世界第一个网站上线","category":"internet","region":"world","milestone":false,"summary_30s":"蒂姆·伯纳斯-李把人类第一个网站 info.cern.ch 放上互联网，介绍什么是万维网。这个页面今天仍可访问——你与互联网所有的相遇，都从这一页开始。","detail":"伯纳斯-李在 NeXT 电脑上写出的第一个浏览器与服务器于1990年圣诞节前后完成，1991年8月6日网站通过 alt.hypertext 新闻组向公众公布，任何人都可以访问 info.cern.ch。","impact":"网站这种形态从此存在，1991-1993年间网站数量仍以个位数、十位数计。","aftermath":"1993年浏览器 Mosaic 发布、CERN放弃专利后，网站数量呈指数增长；如今全球网站数以亿计。","sources":[{"title":"世界上第一个网站（CERN 保存至今）","url":"http://info.cern.ch","type":"archive"},{"title":"Wikipedia: WorldWideWeb","url":"https://en.wikipedia.org/wiki/WorldWideWeb","type":"wiki"}],"tags":["第一个网站","WWW"]},
-{"id":"1991-10-05-linux-released","date":"1991-10-05","date_accuracy":"exact","date_confidence":"verified","title":"Linus 发布 Linux 0.01","category":"tech","region":"world","milestone":false,"summary_30s":"21岁的芬兰大学生 Linus Torvalds 在新闻组贴出自制操作系统内核 Linux 0.01，欢迎全世界一起改。这个『学生玩具』日后运行在全世界大多数服务器、所有安卓手机和全球超级计算机上。","detail":"1991年10月5日，Torvalds 发布 Linux 0.01 版并附上著名声明『just a hobby, won't be big and professional』。Linux 采用 GPL 协议后成为开源运动的旗帜。","impact":"证明了分布式协作开发模式的威力，为后来中国互联网公司低成本建服务器群奠定基础。","aftermath":"安卓基于 Linux 内核；今天绝大多数中国互联网服务运行在 Linux 服务器上。","sources":[{"title":"Wikipedia: History of Linux","url":"https://en.wikipedia.org/wiki/History_of_Linux","type":"wiki"}],"tags":["Linux","开源"]},
-{"id":"1991-12-25-ussr-dissolution","date":"1991-12-25","date_accuracy":"exact","date_confidence":"verified","title":"苏联解体，冷战时代落幕","category":"world","region":"world","milestone":false,"summary_30s":"戈尔巴乔夫辞去苏联总统，克里姆林宫上空的苏联旗降下。存在69年的苏联解体为15个国家，冷战两极格局终结，全球进入美国主导的单极时代——互联网正是在这个新秩序下开始全球扩张。","detail":"1991年12月25日晚戈尔巴乔夫发表电视辞职演说，12月26日苏联最高苏维埃确认联盟停止存在。独联体接替了联盟的法律地位。","impact":"全球地缘政治重组，市场经济与全球化成为90年代的主旋律，跨国科技公司在其中受益最大。","aftermath":"俄罗斯及中亚国家后来分别接入互联网；美国主导的互联网治理体系（ICANN 1998年成立）在此背景下形成。","sources":[{"title":"维基百科：苏联解体","url":"https://zh.wikipedia.org/wiki/苏联解体","type":"wiki"}],"tags":["苏联","冷战"]},
-{"id":"1992-01-18-deng-southern-tour","date":"1992-01-18","date_accuracy":"exact","date_confidence":"verified","title":"邓小平南方谈话：改革再加速，下海潮开启","category":"national","region":"cn","milestone":false,"summary_30s":"88岁的邓小平南下武昌、深圳、珠海、上海，一路说『胆子要大一点，步子要快一点』。南方谈话终结了姓社姓资的争论，第二年数十万公务员、教师、学者辞职下海——中国第一代商人潮涌向市场。","detail":"1992年1月18日至2月21日，邓小平视察南方多地并发表系列谈话，强调发展才是硬道理、市场经济不等于资本主义。谈话随后成为中央决策依据。","impact":"直接促成1992-1994年的创业潮（『92派』企业家），政府机构出现大面积下海。","aftermath":"1992-1994年间新注册公司数量暴增；马云、马化腾、李彦宏一代创业者都曾受这一氛围感召。","sources":[{"title":"维基百科：邓小平南巡","url":"https://zh.wikipedia.org/wiki/邓小平南巡","type":"wiki"}],"tags":["南巡","下海"]},
-{"id":"1992-10-12-14th-party-congress","date":"1992-10-12","date_accuracy":"exact","date_confidence":"verified","title":"中共十四大确立社会主义市场经济体制目标","category":"national","region":"cn","milestone":false,"summary_30s":"中共十四大明确提出经济体制改革的目标是建立社会主义市场经济体制。『市场经济』从争论中的词变成官方目标，商品、价格、竞争重新定义了中国人的日常生活。","detail":"1992年10月12日至18日，中共十四大在北京召开，江泽民作报告。1993年八届全国人大通过宪法修正案，将『社会主义市场经济』写入宪法。","impact":"为价格并轨、住房商品化、电信与互联网商业化铺平制度道路。","aftermath":"此后国企改革、住房改革、入世谈判均以市场经济为前提推进。","sources":[{"title":"维基百科：中国共产党第十四次全国代表大会","url":"https://zh.wikipedia.org/wiki/中国共产党第十四次全国代表大会","type":"wiki"}],"tags":["市场经济","改革"]},
-{"id":"1993-01-01-grain-coupons-abolished","date":"1993-01-01","date_accuracy":"year","date_confidence":"single-source","title":"粮票退出历史舞台：凭票吃饭的时代结束","category":"society","region":"cn","milestone":false,"summary_30s":"延续近40年的粮票在1993年全面停用，中国人吃饭不再需要票证。从『定量供应』到『想买就买』，这是普通人餐桌上的市场化革命。","detail":"粮票始自1955年统购统销制度。1992年十四大确立市场经济后，各地陆续放开粮食销售价格与经营，1993年全国基本取消粮票，油票、布票等此前已陆续废止。","impact":"商品流通彻底市场化，农民进城打工、餐饮业繁荣有了前提。","aftermath":"票证成为收藏品；『凭票供应』只在此后的特殊时期（如疫情期间的物资保供）被短暂类比。","sources":[{"title":"维基百科：粮票","url":"https://zh.wikipedia.org/wiki/粮票","type":"wiki"}],"tags":["粮票","市场化"]},
-{"id":"1993-01-01-golden-projects","date":"1993-01-01","date_accuracy":"year","date_confidence":"single-source","title":"『三金工程』启动：政府先行铺设信息高速路","category":"internet","region":"cn","milestone":false,"summary_30s":"1993年，国家启动以金桥（国家公用经济信息网）、金关（外贸通关）、金卡（电子货币）为代表的『三金工程』。政府用真金白银为信息基础设施铺路，互联网商用化的政策土壤由此形成。","detail":"1993年起，为应对金融、外贸、税收等国民经济主领域的信息化需求，国家批准建设一系列国家级信息工程，金桥网后来成为中国早期互联网络之一。","impact":"培养了第一批通信与网络建设队伍，让『信息化』成为各级政府的正式议题。","aftermath":"金桥网1996年接入国际互联网成为四大骨干之一；三金工程演化为持续至今的『金字号』电子政务体系。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["三金工程","信息化"]},
-{"id":"1993-03-02-ihep-slac-line","date":"1993-03-02","date_accuracy":"exact","date_confidence":"single-source","title":"高能所开通到美国的64K专线（限科研使用）","category":"internet","region":"cn","milestone":false,"summary_30s":"中科院高能物理研究所与美国斯坦福直线加速器中心之间的64K专线接通，中国有了第一条直连美国的数字线路。但它只允许科研人员收发邮件、共享数据，还不是真正的互联网接入。","detail":"这条专线为北京正负电子对撞机的国际合作服务，美方限制其仅用于科研通信，不得用于其他用途。尽管如此，它让中国科研界第一次体验了『实时』的跨国网络。","impact":"积累了专线运营、TCP/IP 实践与人才，为一年后的全功能接入扫清技术障碍。","aftermath":"1994年4月NCFC全功能接入后，高能所成为中国最早对外提供网络服务的机构之一，1994年还建了中国第一个WWW服务器。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["高能所","专线"]},
-{"id":"1993-04-22-mosaic-released","date":"1993-04-22","date_accuracy":"exact","date_confidence":"verified","title":"Mosaic 浏览器发布：普通人第一次『看得见』互联网","category":"tech","region":"world","milestone":false,"summary_30s":"美国伊利诺伊大学 NCSA 中心发布图形浏览器 Mosaic，第一次让图片和文字同屏显示。之前上网是黑底白字的命令行，之后是『网页』。互联网用户在此后一年内增长十倍。","detail":"Mosaic 由马克·安德森等人开发，支持图片内嵌、点击链接，安装包可在软盘上流传。它兼容当时主流的 Unix、Windows、Mac。","impact":"把互联网从学术工具变成消费产品，直接引发1994-1995年的建站热潮。","aftermath":"安德森毕业后创办网景，Mosaic 的技术血脉延续到 IE 与 Netscape；今天所有浏览器的祖先都指向这里。","sources":[{"title":"Wikipedia: Mosaic (web browser)","url":"https://en.wikipedia.org/wiki/Mosaic_(web_browser)","type":"wiki"}],"tags":["浏览器","Mosaic"]},
-{"id":"1993-04-30-cern-www-royalty-free","date":"1993-04-30","date_accuracy":"exact","date_confidence":"verified","title":"CERN 宣布万维网免费开放：互联网的『大宪章』时刻","category":"milestone","region":"world","milestone":true,"summary_30s":"1993年4月30日，欧洲核子研究中心宣布把万维网技术免费向所有人开放，永不收费。这个决定让任何人不付一分钱就能建网站、写浏览器——今天庞大到无法想象的互联网，就是从这个『免费』决定里长出来的。","detail":"CERN 发表声明放弃 WWW 的知识产权，允许任何人无偿使用、修改、商业化 HTTP、HTML 与 URL 规范。若当时选择收费授权，万维网可能沦为少数公司的私有技术。","impact":"网站数量在随后一年增长约百倍，商业互联网时代的大门被推开。","aftermath":"2013年CERN重申这一承诺；伯纳斯-李后来创立 W3C 继续维护开放标准。","sources":[{"title":"Wikipedia: History of the web","url":"https://en.wikipedia.org/wiki/History_of_the_web","type":"wiki"}],"tags":["WWW","开放"]},
-{"id":"1993-09-23-olympic-bid-lost","date":"1993-09-23","date_accuracy":"exact","date_confidence":"single-source","title":"北京申奥以两票之差失利，全民同守电视机","category":"society","region":"cn","milestone":false,"summary_30s":"1993年9月23日晚，蒙特卡洛投票现场传出结果：悉尼以45比43战胜北京获得2000年奥运会主办权。无数中国人守着直播等待萨马兰奇念出『Beijing』，失利瞬间全国集体沉默。这是前互联网时代最大规模的全民同步情绪事件之一。","detail":"这是中国第一次申办奥运会，口号『开放的中国盼奥运』遍布街头。投票前中方一度乐观，两票之差成为一代人的意难平。","impact":"催生了后来的『申奥必胜』执念，体育与国家荣誉深度绑定。","aftermath":"2001年7月13日北京申奥成功，全国狂欢的场面与1993年的失落互为镜像。","sources":[{"title":"维基百科：2000年夏季奥林匹克运动会","url":"https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会","type":"wiki"}],"tags":["申奥","集体记忆"]},
-{"id":"1994-01-01-tax-sharing-reform","date":"1994-01-01","date_accuracy":"exact","date_confidence":"verified","title":"分税制改革实施","category":"national","region":"cn","milestone":false,"summary_30s":"1994年1月1日起分税制施行，中央与地方按税种分钱。这是中国财政史上影响最深远的改革之一，它让中央财政充裕起来，也让地方政府此后二十年拼命『卖地』——房价故事的总开关之一在这里拧开。","detail":"改革将增值税等主要税种在央地之间按比例划分，国税、地税两套系统分立（2018年合并）。地方财权上收、事权不变，被迫寻找预算外收入。","impact":"中央宏观调控能力增强；地方财政对土地出让的依赖逐步形成。","aftermath":"土地财政支撑了城市化狂飙，也埋下高房价与地方债务问题；2021年后房地产转型使这一问题进入再平衡阶段。","sources":[{"title":"维基百科：分税制","url":"https://zh.wikipedia.org/wiki/分税制","type":"wiki"}],"tags":["财税","土地财政"]},
-{"id":"1994-04-20-full-internet-connection","date":"1994-04-20","date_accuracy":"exact","date_confidence":"verified","title":"中国全功能接入国际互联网","category":"milestone","region":"cn","milestone":true,"summary_30s":"1994年4月20日，中关村地区教育与科研示范网络（NCFC）通过美国Sprint公司的64K国际专线接入国际互联网，中国成为全球第77个真正拥有全功能互联网的国家。这一天被公认为『中国互联网元年』的起点。","detail":"接入工程由中科院主持，胡启恒、钱华林等推动。全功能意味着 TCP/IP 完整接入，可收发邮件、访问网页、传输文件。此前中国只能通过限用专线做局部通信。","impact":"互联网正式进入中国，学术网络率先联网，商业互联网在随后一年启动。","aftermath":"1994-1996年建成四大骨干网（CERNET、ChinaNet、CSTNet、ChinaGBN），1997年全国网民62万，2024年网民超11亿。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"},{"title":"中央网信办：中国全功能接入国际互联网30周年述评","url":"https://www.cac.gov.cn/2024-04/20/c_1715291120716362.htm","type":"official"}],"tags":["接入互联网","NCFC"]},
-{"id":"1994-05-21-cn-dns-home","date":"1994-05-21","date_accuracy":"exact","date_confidence":"single-source","title":".CN 域名服务器迁回国内","category":"internet","region":"cn","milestone":false,"summary_30s":"中科院网络中心完成 .CN 域名服务器的设置，把1990年寄存在德国的国家级域名管理权收回国内。中国的网络身份从此自己保管。","detail":"1994年5月21日，钱天白、钱华林等完成 .CN 顶级域名服务器在国内的架设，中科院计算机网络中心成为 .CN 的注册管理机构。","impact":"中国可以自主分配域名，为商业网站爆发做准备。","aftermath":"1997年CNNIC成立接管域名注册；.CN 后成为全球注册量最大的国家顶级域名之一。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":[".CN","DNS"]},
-{"id":"1994-01-01-cernet-project","date":"1994-01-01","date_accuracy":"year","date_confidence":"single-source","title":"CERNET 立项：全国第一个互联网骨干网开建","category":"internet","region":"cn","milestone":false,"summary_30s":"国家计委批复建设中国教育和科研计算机网（CERNET），由清华、北大等高校承担。这是中国第一个全国性互联网骨干网，几代大学生的大学生活因此多了『机房通宵』这项活动。","detail":"CERNET 1994年开始建设，1995年底连接百余所高校，网络中心设在清华大学。它是中国最早实现全国互联的网络之一，也是最早接入国际互联网出口的学术网络。","impact":"高校学生成为最早的网络原住民，BBS、FTP、MUD 等网络文化在校园先流行起来。","aftermath":"CERNET 至今仍服务全国高校，并支撑了 IPv6 下一代互联网试验（CERNET2）。","sources":[{"title":"中国教育和科研计算机网：互联网大事记","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["CERNET","校园网"]},
-{"id":"1990-01-01-legend-first-pc","date":"1990-01-01","date_accuracy":"year","date_confidence":"single-source","title":"联想推出首款自有品牌微机","category":"hardware","region":"cn","milestone":false,"summary_30s":"中关村小公司联想推出第一款自有品牌电脑『联想286』，从卖别人电脑（代理AST、IBM）转向自己造电脑。中国家庭购买国产兼容机的时代由此开启。","detail":"联想1984年以20万元起家，靠汉卡完成原始积累。1990年前后推出自有品牌微机，价格低于进口品牌，主打中小企业与家庭。","impact":"国产微机拉低了电脑价格，为90年代中后期家用电脑普及铺路。","aftermath":"2004年联想收购IBM PC业务，2013年起成为全球最大PC厂商。","sources":[{"title":"维基百科：联想集团","url":"https://zh.wikipedia.org/wiki/联想集团","type":"wiki"}],"tags":["联想","微机"]},
-{"id":"1995-01-01-labor-law","date":"1995-01-01","date_accuracy":"exact","date_confidence":"verified","title":"《劳动法》施行：打工有了全国统一的法律","category":"society","region":"cn","milestone":false,"summary_30s":"1995年1月1日《劳动法》施行，八小时工作制、劳动合同、最低工资有了全国统一的法律依据。此后亿万农民工进城、白领加班，权利与纠纷都从这部法律出发。","detail":"《中华人民共和国劳动法》1994年7月通过，1995年施行，确立劳动合同制、工时制度、工资保障与社保原则，配套『双休日』于同年5月落地。","impact":"劳动力市场化有了基本规则，为大规模人口流动提供了制度底座。","aftermath":"2008年《劳动合同法》进一步细化；996讨论（2019）后最高法明确严重超时加班违法。","sources":[{"title":"维基百科：中华人民共和国劳动法","url":"https://zh.wikipedia.org/wiki/中华人民共和国劳动法","type":"wiki"}],"tags":["劳动法","打工"]},
-{"id":"1995-01-01-chinanet-trial","date":"1995-01-01","date_accuracy":"month","date_confidence":"single-source","title":"中国电信在北京上海启动 Internet 接入服务","category":"internet","region":"cn","milestone":false,"summary_30s":"邮电部电信总局开始在北京、上海向公众提供 Internet 接入服务（先试用后正式），普通人家里的电话线从此可以拨上互联网。上网费、电话费分开计价的『拨号上网』时代开始。","detail":"ChinaNet 骨干网于1995年初在北京、上海开通节点，向用户提供拨号与专线接入，随后向全国铺开。当时的资费极为昂贵，上网以小时计。","impact":"互联网第一次面向普通市民开放，1995-1996年网民以数万计增长。","aftermath":"1996-1997年 ChinaNet 骨干网全国建成；『猫』声一夜成为一代人的听觉记忆。","sources":[{"title":"中国互联网网络基础技术起源及发展大事记（CERNET）","url":"https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml","type":"official"}],"tags":["拨号上网","ChinaNet"]},
-{"id":"1995-04-01-china-page","date":"1995-04-01","date_accuracy":"month","date_confidence":"single-source","title":"马云在杭州创办『中国黄页』","category":"company","region":"cn","milestone":false,"summary_30s":"30岁的英语教师马云辞职，借2万元办起『中国黄页』，给国内企业做网页挂到国外服务器上——中国最早的互联网创业公司之一。当时绝大多数中国人还不知道网页是什么。","detail":"中国黄页为外经贸等机构和企业制作英文网页，1995年4月起运营。因国内尚无互联网出口，页面需寄到美国上传。项目后被杭州电信合并，马云1997年北上对外经贸部合作，1999年回杭州创办阿里巴巴。","impact":"证明互联网在中国可以是生意而不只是科研项目。","aftermath":"阿里巴巴1999年成立后成为全球电商巨头，中国黄页被视为中国互联网创业的原点故事之一。","sources":[{"title":"维基百科：中国黄页","url":"https://zh.wikipedia.org/wiki/中国黄页","type":"wiki"}],"tags":["中国黄页","马云"]},
-{"id":"1995-05-01-two-day-weekend","date":"1995-05-01","date_accuracy":"exact","date_confidence":"single-source","title":"双休日正式实行","category":"society","region":"cn","milestone":false,"summary_30s":"1995年5月1日起，全国实行五天工作制，中国人迎来第一个双休日。多出来的一天改变了休闲方式：商场周末爆满、电视综艺做大、后来连上网吧都是因为它。","detail":"1994年3月起中国实行『大小周末』过渡，1995年5月1日起全面实行每周40小时工作制。","impact":"闲暇时间制度化，为消费、旅游、娱乐和后来的互联网时长经济提供了时间基础。","aftermath":"1999年起『黄金周』出现；互联网内容消费（游戏、视频、直播）都建立在这多出来的24小时上。","sources":[{"title":"维基百科：双休日","url":"https://zh.wikipedia.org/wiki/双休日","type":"wiki"}],"tags":["双休日","休闲"]},
-{"id":"1995-08-08-smth-bbs","date":"1995-08-08","date_accuracy":"exact","date_confidence":"single-source","title":"水木清华 BBS 开站：中国网络社区之祖","category":"internet","region":"cn","milestone":false,"summary_30s":"1995年8月8日，清华学生建起『水木清华』BBS，这是中国大陆第一个同时在线过千的校园论坛。『上水木』成为一代大学生的日常，中文网络社区的词汇、规矩和文化从这里生长出来。","detail":"水木清华BBS最初运行在清华校园网服务器上，采用 Firebird 系 BBS 软件， Telnet 登录。高峰期同时在线过万，是90年代末中国高校网络的中心。","impact":"开创了中文网络社区的版面文化、ID文化与管理员制度，大量网络流行语发源于此。","aftermath":"2005年校方改制引发『水木风波』，社区迁出为水木社区；天涯、猫扑、贴吧接棒社区时代。","sources":[{"title":"维基百科：水木社区","url":"https://zh.wikipedia.org/wiki/水木社区","type":"wiki"}],"tags":["水木","BBS"]},
-{"id":"1995-08-09-netscape-ipo","date":"1995-08-09","date_accuracy":"exact","date_confidence":"verified","title":"网景 IPO：互联网淘金热的发令枪","category":"company","region":"world","milestone":true,"summary_30s":"成立仅16个月、从未盈利的浏览器公司网景在纳斯达克上市，发行价28美元，开盘冲到71美元。华尔街第一次为『互联网』这个词疯狂，硅谷的创业-风投-上市公式从此定型，也点燃了后来烧到中国的 dot-com 热潮。","detail":"Netscape Navigator 由 Mosaic 团队核心开发，上市时占浏览器市场约八成。IPO 当日市值一度超过30亿美元，被视为 dot-com 泡沫的起点。","impact":"风险资本开始系统性押注互联网公司，『先烧钱抢用户、后考虑赚钱』的模式诞生。","aftermath":"1998年微软捆绑IE击垮网景；2000年泡沫破裂；但融资公式延续至今，中国门户、电商均沿用此路径。","sources":[{"title":"Wikipedia: Netscape","url":"https://en.wikipedia.org/wiki/Netscape","type":"wiki"}],"tags":["网景","IPO"]},
-{"id":"1995-08-24-windows-95","date":"1995-08-24","date_accuracy":"exact","date_confidence":"verified","title":"Windows 95 发布：图形界面走进中国家庭","category":"hardware","region":"world","milestone":false,"summary_30s":"微软发布 Windows 95，『开始』按钮第一次出现。全球当晚排队抢购，中国兼容机店里从此有了统一的装机模板——普通中国家庭的第一台『能看图能听歌』的电脑，多半装着它。","detail":"Win95 采用32位图形界面，内置拨号网络，让普通人配置调制解调器上网成为可能。发布首日销量约7万套，首年超4000万份。","impact":"大幅降低电脑使用门槛，家用电脑在中国快速普及；『开始菜单』成为几十年的交互常识。","aftermath":"1998年 Windows 98 进一步支持中文与USB；中国家用电脑保有量在90年代末突破千万。","sources":[{"title":"Wikipedia: Windows 95","url":"https://en.wikipedia.org/wiki/Windows_95","type":"wiki"}],"tags":["Windows 95","电脑"]},
-{"id":"1995-09-01-yh-founded","date":"1995-09-01","date_accuracy":"month","date_confidence":"single-source","title":"瀛海威创立：『中国人离信息高速公路还有多远』","category":"company","region":"cn","milestone":false,"summary_30s":"张树新夫妇创办瀛海威科技，做中国最早的『互联网服务商+内容平台』。次年中关村竖起著名广告牌『中国人离信息高速公路还有多远——向北1500米』，这是中国互联网最早、最响亮的启蒙广告。","detail":"瀛海威1995年9月成立，自营拨号网络『瀛海威时空』，提供资讯、论坛与邮件，用户需购买专用软件登录。公司后来因路线与电信资费问题衰落，1998年张树新出局。","impact":"教育了最早一批中国网民，『信息高速公路』一词因此进入大众词汇。","aftermath":"1997年改为 ISP 后在与电信的竞争中败落；瀛海威成为中国互联网『先驱变先烈』的代名词。","sources":[{"title":"维基百科：瀛海威","url":"https://zh.wikipedia.org/wiki/瀛海威","type":"wiki"}],"tags":["瀛海威","ISP"]},
-{"id":"1995-09-01-netwave-lessons","date":"1995-09-01","date_accuracy":"month","date_confidence":"single-source","title":"『网虫』『冲浪』：第一批网络词汇进入生活","category":"culture","region":"cn","milestone":false,"summary_30s":"1995年前后，『信息高速公路』『网虫』『冲浪』『伊妹儿（E-mail）』开始出现在报刊与电视里。中国社会用一种半懂不懂的热情翻译着这个新世界，第一批网民在『网上冲浪』这个词里登场。","detail":"早期媒体科普将 Internet 译作『国际互联网络』，上网被称为冲浪，活跃网民自称网虫，新手指『菜鸟』。这些词经《电脑报》《大众软件》等媒体扩散。","impact":"网络从实验室概念变成流行文化符号，吸引更多普通家庭购买调制解调器。","aftermath":"网络词汇此后每个年代都在批量制造：BBS灌水、GG/MM、神马、yyds，语言学家称之为汉语近百年最大的词汇增量期。","sources":[{"title":"维基百科：中国网络史","url":"https://zh.wikipedia.org/wiki/中国网络史","type":"wiki"}],"tags":["网络文化","词汇"]},
-{"id":"1995-11-01-internet-cafe-early","date":"1995-11-01","date_accuracy":"month","date_confidence":"single-source","title":"中国第一批网吧出现","category":"internet","region":"cn","milestone":false,"summary_30s":"电脑条件有限的家庭开始去『电脑室』花钱上网，1995年前后北京上海出现最早的营业性网络咖啡屋。一小时几十块的『互联网茶座』，是后来数十万家网吧的鼻祖。","detail":"最早的营业性上网场所多以『网络咖啡屋』『电脑室』名义出现，主打收发邮件和浏览英文网站，客源以外企员工和留学生为主。1996-1997年网吧形态在北京（实华开网络咖啡屋等）成型。","impact":"让没有电脑的人也能上网，成为90年代末网络普及的最大推手，也埋下青少年管理的长期议题。","aftermath":"2002年蓝极速大火后《网吧管理条例》出台；网吧在2010年代被手游和网课取代，『网吧元年』成为怀旧词。","sources":[{"title":"维基百科：网吧","url":"https://zh.wikipedia.org/wiki/网吧","type":"wiki"}],"tags":["网吧","90年代"]},
-{"id":"1995-12-01-cnnic-prep","date":"1995-12-01","date_accuracy":"month","date_confidence":"single-source","title":"中国网民数量突破『1万级』：互联网第一代原住民","category":"internet","region":"cn","milestone":false,"summary_30s":"1995年底，中国上网计算机和用户仍以千计、万计，几乎全是高校师生、科研人员和外企白领。他们是第一代网络原住民——后来中国互联网的公司创始人，大多就藏在这几万人里。","detail":"1997年CNNIC首次统计时全国网民62万，由此倒推1995-1996年网民仅数万人，其中学生与科研人员占比过半。第一代用户几乎决定了此后中文网络的内容品味。","impact":"高知群体先行塑造了早期中文互联网重技术、重人文的社区气质。","aftermath":"1998年后网民结构开始大众化，2000年破千万，2008年登顶全球第一，2024年超11亿。","sources":[{"title":"中国互联网络信息中心（CNNIC）","url":"https://www.cnnic.com.cn/","type":"official"}],"tags":["早期网民","统计"]},
-{"id":"1995-06-01-cs-game-era","date":"1995-06-01","date_accuracy":"month","date_confidence":"single-source","title":"单机游戏黄金期：仙剑、红警、命令与征服","category":"culture","region":"cn","milestone":false,"summary_30s":"90年代中期是中文单机游戏的黄金岁月：《仙剑奇侠传》让无数人第一次为游戏流泪，《命令与征服》《红色警戒》在电脑室被复制成无数软盘。游戏与电脑一起走进中国家庭。","detail":"1995年台湾大宇推出《仙剑奇侠传DOS版》，成为中文RPG巅峰之一；同一时期 Westwood 的《命令与征服》（1995）定义即时战略，其盗版光盘在中国电脑室横行多年。","impact":"游戏成为买电脑的重要理由之一，也奠定了中国玩家的口味与市场规模。","aftermath":"1998年《星际争霸》、2001年《传奇》网游化接力；中国后来成为全球最大游戏市场。","sources":[{"title":"维基百科：仙剑奇侠传 (游戏)","url":"https://zh.wikipedia.org/wiki/仙剑奇侠传_(游戏)","type":"wiki"}],"tags":["单机游戏","90年代"]}
+{
+"id": "1986-04-12-compulsory-education-law",
+"date": "1986-04-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《义务教育法》通过：义务教育时代开启",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "全国人大通过《义务教育法》，中国正式推行九年义务教育：上学不要学费，送孩子读书是国家和家长的法定义务。它让此后几代普通人的人生从『能不能上学』变成『必须上学』，也为后来的互联网时代准备好了几亿会读写的新用户。",
+"detail": "1986年4月12日，六届全国人大四次会议通过《中华人民共和国义务教育法》，同年7月1日起施行。法律规定国家实行九年义务教育，适龄儿童入学是义务也是权利，禁止任何组织或个人招用应接受义务教育的儿童就业。这是新中国第一部关于基础教育的法律。",
+"impact": "基础教育迅速普及，学龄儿童入学率大幅提升；农村学校、教师队伍大规模扩建。",
+"aftermath": "2000年全国基本普及九年义务教育；2011年宣布全面完成普及。义务教育人口成为2000年代起网民的主力来源。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国义务教育法",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国义务教育法",
+"type": "wiki"
+}
+],
+"tags": [
+"义务教育",
+"教育"
+]
+},
+{
+"id": "1986-09-01-china-womens-volleyball-five-peat",
+"date": "1986-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国女排世锦赛夺冠，达成『五连冠』",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中国女排在捷克斯洛伐克世锦赛上卫冕，完成世界大赛五连冠。『学习女排、振兴中华』是80年代最响的口号之一，女排精神成为一代人的集体记忆。",
+"detail": "1986年9月，中国女排在世界女子排球锦标赛决赛中击败古巴队，实现奥运会、世界杯、世锦赛连续五次夺冠，史上首次五连冠。郎平等一代球员成为全民偶像。",
+"impact": "女排成为80年代中国社会自信的象征符号，被写进教科书和无数演讲。",
+"aftermath": "此后女排经历低谷与重生，2016年里约奥运再夺冠，2021年后新老交替持续。",
+"sources": [
+{
+"title": "维基百科：中国国家女子排球队",
+"url": "https://zh.wikipedia.org/wiki/中国国家女子排球队",
+"type": "wiki"
+}
+],
+"tags": [
+"女排",
+"80年代"
+]
+},
+{
+"id": "1986-01-01-canet-project",
+"date": "1986-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "中国学术网 CANet 项目启动：中国互联网的起点",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "北京市计算机应用技术研究所与德国卡尔斯鲁厄大学合作，启动中国学术网（CANet）项目。这是中国第一个与国际互联网接轨的实验性网络，后来的第一封跨国电子邮件就从这里发出。",
+"detail": "1986年，在德国卡尔斯鲁厄大学维纳·措恩（Werner Zorn）教授与中国方面的合作下，双方开始建设中国学术网 CANet（Chinese Academic Network），为中德之间建立计算机通信链路。这是中国互联网公认的前史起点。",
+"impact": "打通了中国与国际学术网络的物理与协议通道，培养了中国第一批互联网技术骨干。",
+"aftermath": "1987年CANet发出中国第一封电子邮件；1990年注册.CN域名；1994年中国实现全功能接入。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"CANet",
+"前史"
+]
+},
+{
+"id": "1987-09-14-first-email",
+"date": "1987-09-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国第一封电子邮件发出：『越过长城，走向世界』",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "1987年9月14日夜，中国兵器工业计算机应用技术研究所的计算机经意大利的转发，向德国卡尔斯鲁厄大学发出了中国第一封电子邮件，内容是『Across the Great Wall we can reach every corner in the world』（越过长城，走向世界）。这是中国与互联网的第一次握手。",
+"detail": "邮件由中德合作项目组发出，措辞由项目参与者商定，王运丰、措恩等是关键人物。通说记载发送时间为1987年9月14日21时07分；另有考证认为该邮件实际于9月20日才成功送达德国主机，两种说法并存（详见notes）。",
+"impact": "这是中国电子通信史上第一封经网络发出的电子邮件，证明中国可以接入国际学术网络。",
+"aftermath": "中国在此后注册.CN域名、建设学术网络，直至1994年全功能接入互联网；这封邮件的措辞后来被反复引用，成为中国互联网史的标志性文本。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+},
+{
+"title": "维基百科：钱天白",
+"url": "https://zh.wikipedia.org/wiki/钱天白",
+"type": "wiki"
+}
+],
+"tags": [
+"第一封邮件",
+"CANet"
+]
+},
+{
+"id": "1987-09-01-huawei-founded",
+"date": "1987-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "华为在深圳创立",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "43岁的任正非与同伴用2.1万元在深圳注册华为公司，最初只是一家代理销售香港程控交换机的『二道贩子』。这家公司日后成为中国乃至全球最大的通信设备商。",
+"detail": "1987年9月，华为技术有限公司在深圳注册成立，初期代理香港鸿年公司的程控交换机。此后转向自主研发，1993年推出C&C08数字程控交换机，逐步切入电信网络设备市场。",
+"impact": "为中国通信基础设施提供了本土供应商，间接降低了电话与宽带的普及成本。",
+"aftermath": "华为成长为全球最大电信设备商，2019年起遭遇美国制裁，2023年携麒麟芯片回归，2025年推出鸿蒙电脑。",
+"sources": [
+{
+"title": "维基百科：华为",
+"url": "https://zh.wikipedia.org/wiki/华为",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"通信"
+]
+},
+{
+"id": "1987-11-01-first-mobile-phone-cn",
+"date": "1987-11-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国开通首个蜂窝移动电话网，『大哥大』登场",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "广东开通中国第一个蜂窝移动电话网，模拟制式『大哥大』开始出现。一部电话要两三万元，相当于普通人十几年工资，拿在手里是身份的象征——这是手机进入中国的起点。",
+"detail": "1987年11月，广东建成开通中国第一个模拟蜂窝移动电话系统（900MHz TACS制式，广州），首批用户使用摩托罗拉等公司的手持终端，民间俗称『大哥大』。当年全国用户仅数百户。",
+"impact": "开启了移动通信在中国的商业化，但价格高昂，长期是少数人的奢侈品。",
+"aftermath": "1994年中国联通成立打破垄断、GSM网络铺开后手机迅速普及，2024年中国手机用户已超17亿。",
+"sources": [
+{
+"title": "维基百科：大哥大",
+"url": "https://zh.wikipedia.org/wiki/大哥大",
+"type": "wiki"
+}
+],
+"tags": [
+"大哥大",
+"移动通信"
+]
+},
+{
+"id": "1988-01-01-science-productive-force",
+"date": "1988-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "邓小平提出『科学技术是第一生产力』",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1988年，邓小平明确提出『科学技术是第一生产力』。这句话为之后的科技体制改革、『科教兴国』和高技术产业政策定下基调，也是后来各地政府愿意砸钱修网络、建园区的思想起点。",
+"detail": "1988年9月，邓小平在会见外宾和听取汇报时多次强调科学技术在生产力诸要素中的首要地位。该论断随后被写入官方文件，成为改革开放中期科技政策的核心表述。",
+"impact": "推动高新技术产业开发区、863计划的持续投入，为互联网等新技术进入中国减少了观念阻力。",
+"aftermath": "『科教兴国』1995年成为国家战略；此后三十年中国研发投入持续增长至世界第二。",
+"sources": [
+{
+"title": "维基百科：邓小平",
+"url": "https://zh.wikipedia.org/wiki/邓小平",
+"type": "wiki"
+}
+],
+"tags": [
+"科技政策"
+]
+},
+{
+"id": "1988-01-01-ihep-decnet",
+"date": "1988-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "高能物理研究所通过 X.25 接入国际 DECnet",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中科院高能物理研究所建成 X.25 协议的专线，接入欧洲高能物理网络 DECnet/HEPnet，中国科学家第一次可以和国际同行远程交换计算数据。这不是互联网，但是互联网的前夜。",
+"detail": "1988年，高能物理研究所（IHEP）利用与西欧核子中心等机构的合作，通过 X.25 分组交换网接入国际高能物理网络，实现电子邮件传递与远程计算资源共享，服务北京正负电子对撞机的国际合作。",
+"impact": "证明了中国科研机构对国际联网的实际需求与能力，为后续专线接入互联网积累经验。",
+"aftermath": "1993年高能所开通到斯坦福的64K专线；1994年中国全功能接入互联网。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"高能所",
+"前史"
+]
+},
+{
+"id": "1989-01-01-ball-virus-cn",
+"date": "1989-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "首例计算机病毒『小球』在中国现身",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1989年，源自国外的『小球』病毒（Bouncing Ball）在中国被大量发现，被感染的计算机会在屏幕上弹出弹跳的小圆点。这是中国第一次大规模遭遇计算机病毒，杀毒软件行业由此萌芽。",
+"detail": "小球病毒属引导区型病毒，通过软盘拷贝传播，感染IBM PC兼容机。1989年前后随进口软件和软盘交换传入中国并在机关单位扩散，国内最早的杀毒与防病毒卡业务随即出现。",
+"impact": "普通单位第一次意识到计算机也会『生病』，催生了瑞星、江民等本土安全产业。",
+"aftermath": "病毒与反病毒成为中国互联网时代持续的主题，CIH、熊猫烧香、勒索软件轮番登场。",
+"sources": [
+{
+"title": "维基百科：计算机病毒",
+"url": "https://zh.wikipedia.org/wiki/计算机病毒",
+"type": "wiki"
+}
+],
+"tags": [
+"病毒",
+"90年代"
+]
+},
+{
+"id": "1989-03-13-www-proposal",
+"date": "1989-03-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "万维网构想提出：Berners-Lee 在 CERN 递交提案",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "英国科学家蒂姆·伯纳斯-李在欧洲核子研究中心提交《信息管理：一项提案》，提出用超文本把全世界的文档连成一张网。这张『网』就是万维网（WWW）——你今天上网打开的每一个页面，概念都源于这份文件。",
+"detail": "提案最初被领导批注『含糊但令人兴奋』。1990年伯纳斯-李写出第一个浏览器和服务器，1991年万维网在学术圈推广。超文本、URL、HTTP构成了万维网的三块基石。",
+"impact": "让互联网从科学家专用工具变成普通人可用的信息空间，是互联网大众化的决定性一步。",
+"aftermath": "1993年CERN宣布放弃专利，万维网爆炸式增长，最终成为互联网的同义词。",
+"sources": [
+{
+"title": "Wikipedia: Information Management: A Proposal",
+"url": "https://en.wikipedia.org/wiki/Information_Management:_A_Proposal",
+"type": "wiki"
+}
+],
+"tags": [
+"WWW",
+"万维网"
+]
+},
+{
+"id": "1990-04-07-asiasat-1-launch",
+"date": "1990-04-07",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "长征三号发射『亚洲一号』：中国首次国际商业卫星发射",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1990年4月7日，长征三号火箭在西昌把美国造的『亚洲一号』通信卫星送入太空，这是中国首次承揽国际商业卫星发射，亚洲上空从此有了一颗面向全地区的电视通信卫星。",
+"detail": "亚洲一号由香港亚洲卫星公司持有（原为美国西联所有），用于覆盖亚洲的通信与电视传输。此次发射是中国航天进入国际商业发射市场的开端。",
+"impact": "此后卫视节目开始覆盖整个亚洲，中国观众通过卫星看到了更多境外频道。",
+"aftermath": "中国商业发射服务持续至今；卫星电视在90年代进入宾馆与家庭。",
+"sources": [
+{
+"title": "Wikipedia: AsiaSat 1",
+"url": "https://en.wikipedia.org/wiki/AsiaSat_1",
+"type": "wiki"
+}
+],
+"tags": [
+"航天",
+"卫星"
+]
+},
+{
+"id": "1990-09-22-asian-games-beijing",
+"date": "1990-09-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北京亚运会开幕：中国首次承办大型国际综合运动会",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1990年9月22日，第11届亚运会在北京开幕，这是新中国第一次承办大型国际综合运动会。全国人民为『熊猫盼盼』慷慨解囊，电视转播让亿万人第一次同时盯着同一块屏幕欢呼。",
+"detail": "亚运会新建了奥林匹克体育中心等场馆，吉祥物是熊猫盼盼，会歌《亚洲雄风》传唱全国。37个国家和地区代表团参赛，中国获183枚金牌居首。",
+"impact": "证明了中国的组织能力与开放形象，直接催生了后来的北京奥运申办。",
+"aftermath": "2001年北京申奥成功、2008年举办奥运会，都以此为基础。亚运主题曲歌手刘欢、韦唯从此家喻户晓。",
+"sources": [
+{
+"title": "维基百科：1990年亚洲运动会",
+"url": "https://zh.wikipedia.org/wiki/1990年亚洲运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"亚运会",
+"集体记忆"
+]
+},
+{
+"id": "1990-11-28-cn-domain-registered",
+"date": "1990-11-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": ".CN 顶级域名在国际注册：中国在互联网上有了名字",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1990年11月28日，钱天白代表中国在国际互联网信息中心注册了国家顶级域名 .CN，服务器暂设在德国卡尔斯鲁厄大学。从这天起，中国在互联网的地址簿里有了一块自己的地盘。",
+"detail": "由于当时中国尚未直接接入国际互联网，.CN域名由德方协助管理。钱天白被后世称为『中国互联网之父』之一。域名注册标志着中国网络身份的确立。",
+"impact": "此后中国的学术与商业网站逐步启用 .CN 域名。",
+"aftermath": "1994年全功能接入后，1994年5月 .CN 域名服务器迁回国内，由中科院网络中心管理。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+".CN",
+"域名"
+]
+},
+{
+"id": "1990-11-01-kewang-tv",
+"date": "1990-11-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "电视剧《渴望》首播，万人空巷",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "50集室内剧《渴望》在央视播出，讲刘慧芳一家的悲欢。播出时犯罪率下降、公交提前收班的传说流传至今——中国电视剧第一个全民现象级作品。",
+"detail": "《渴望》由北京电视艺术中心制作，1990年11月起播出，张凯丽主演。它是中国第一部大型室内连续剧，采用边拍边播模式，收视率最高超过90%。",
+"impact": "确立了此后二十年家庭伦理剧的范式，『举国看一部剧』成为媒介事件的标准模板。",
+"aftermath": "此后《编辑部的故事》《北京人在纽约》等延续热潮；电视剧长期是中国家庭娱乐的中心，直到被视频网站改写。",
+"sources": [
+{
+"title": "维基百科：渴望 (电视剧)",
+"url": "https://zh.wikipedia.org/wiki/渴望_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"电视剧",
+"90年代"
+]
+},
+{
+"id": "1990-12-19-shanghai-stock-exchange",
+"date": "1990-12-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "上海证券交易所开业",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1990年12月19日，上海证券交易所在浦江饭店鸣锣开业，首批8只股票上市。中国资本市场重新开张，『炒股』从此进入普通人的生活词典。",
+"detail": "改革开放后股票试点自1984年小飞乐起步，上交所的成立让证券交易集中化、规范化，当日成交笔数有限但意义重大。老八股（真空电子、飞乐音响等）成为中国股民的第一代记忆。",
+"impact": "为国企融资开辟渠道，也让城市家庭第一次大规模接触金融投资。",
+"aftermath": "1990年12月1日深交所先期试营业；A股此后经历数轮疯牛与熊市（2007年6124点、2015年5178点）。",
+"sources": [
+{
+"title": "维基百科：上海证券交易所",
+"url": "https://zh.wikipedia.org/wiki/上海证券交易所",
+"type": "wiki"
+}
+],
+"tags": [
+"股市",
+"资本市场"
+]
+},
+{
+"id": "1990-12-01-shenzhen-stock-exchange",
+"date": "1990-12-01",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "深圳证券交易所试营业",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "深圳证券交易所开始集中试营业，与上交所一南一北构成中国两大证券交易枢纽，深市后来孕育了万科、腾讯、比亚迪等一代代明星公司。",
+"detail": "深交所1990年12月1日试营业，1991年7月3日正式开业。早期以『老五股』闻名。",
+"impact": "使南方民间资本有了正规交易场所，深圳『资本市场+科技』的组合日后成为中国创新经济的核心引擎。",
+"aftermath": "2004年中小板、2009年创业板、2021年注册制改革陆续落地。",
+"sources": [
+{
+"title": "维基百科：深圳证券交易所",
+"url": "https://zh.wikipedia.org/wiki/深圳证券交易所",
+"type": "wiki"
+}
+],
+"tags": [
+"股市",
+"深圳"
+]
+},
+{
+"id": "1991-08-06-first-website",
+"date": "1991-08-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "世界第一个网站上线",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "蒂姆·伯纳斯-李把人类第一个网站 info.cern.ch 放上互联网，介绍什么是万维网。这个页面今天仍可访问——你与互联网所有的相遇，都从这一页开始。",
+"detail": "伯纳斯-李在 NeXT 电脑上写出的第一个浏览器与服务器于1990年圣诞节前后完成，1991年8月6日网站通过 alt.hypertext 新闻组向公众公布，任何人都可以访问 info.cern.ch。",
+"impact": "网站这种形态从此存在，1991-1993年间网站数量仍以个位数、十位数计。",
+"aftermath": "1993年浏览器 Mosaic 发布、CERN放弃专利后，网站数量呈指数增长；如今全球网站数以亿计。",
+"sources": [
+{
+"title": "世界上第一个网站（CERN 保存至今）",
+"url": "http://info.cern.ch",
+"type": "archive"
+},
+{
+"title": "Wikipedia: WorldWideWeb",
+"url": "https://en.wikipedia.org/wiki/WorldWideWeb",
+"type": "wiki"
+}
+],
+"tags": [
+"第一个网站",
+"WWW"
+]
+},
+{
+"id": "1991-10-05-linux-released",
+"date": "1991-10-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Linus 发布 Linux 0.01",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "21岁的芬兰大学生 Linus Torvalds 在新闻组贴出自制操作系统内核 Linux 0.01，欢迎全世界一起改。这个『学生玩具』日后运行在全世界大多数服务器、所有安卓手机和全球超级计算机上。",
+"detail": "1991年10月5日，Torvalds 发布 Linux 0.01 版并附上著名声明『just a hobby, won't be big and professional』。Linux 采用 GPL 协议后成为开源运动的旗帜。",
+"impact": "证明了分布式协作开发模式的威力，为后来中国互联网公司低成本建服务器群奠定基础。",
+"aftermath": "安卓基于 Linux 内核；今天绝大多数中国互联网服务运行在 Linux 服务器上。",
+"sources": [
+{
+"title": "Wikipedia: History of Linux",
+"url": "https://en.wikipedia.org/wiki/History_of_Linux",
+"type": "wiki"
+}
+],
+"tags": [
+"Linux",
+"开源"
+]
+},
+{
+"id": "1991-12-25-ussr-dissolution",
+"date": "1991-12-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苏联解体，冷战时代落幕",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "戈尔巴乔夫辞去苏联总统，克里姆林宫上空的苏联旗降下。存在69年的苏联解体为15个国家，冷战两极格局终结，全球进入美国主导的单极时代——互联网正是在这个新秩序下开始全球扩张。",
+"detail": "1991年12月25日晚戈尔巴乔夫发表电视辞职演说，12月26日苏联最高苏维埃确认联盟停止存在。独联体接替了联盟的法律地位。",
+"impact": "全球地缘政治重组，市场经济与全球化成为90年代的主旋律，跨国科技公司在其中受益最大。",
+"aftermath": "俄罗斯及中亚国家后来分别接入互联网；美国主导的互联网治理体系（ICANN 1998年成立）在此背景下形成。",
+"sources": [
+{
+"title": "维基百科：苏联解体",
+"url": "https://zh.wikipedia.org/wiki/苏联解体",
+"type": "wiki"
+}
+],
+"tags": [
+"苏联",
+"冷战"
+]
+},
+{
+"id": "1992-01-18-deng-southern-tour",
+"date": "1992-01-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "邓小平南方谈话：改革再加速，下海潮开启",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "88岁的邓小平南下武昌、深圳、珠海、上海，一路说『胆子要大一点，步子要快一点』。南方谈话终结了姓社姓资的争论，第二年数十万公务员、教师、学者辞职下海——中国第一代商人潮涌向市场。",
+"detail": "1992年1月18日至2月21日，邓小平视察南方多地并发表系列谈话，强调发展才是硬道理、市场经济不等于资本主义。谈话随后成为中央决策依据。",
+"impact": "直接促成1992-1994年的创业潮（『92派』企业家），政府机构出现大面积下海。",
+"aftermath": "1992-1994年间新注册公司数量暴增；马云、马化腾、李彦宏一代创业者都曾受这一氛围感召。",
+"sources": [
+{
+"title": "维基百科：邓小平南巡",
+"url": "https://zh.wikipedia.org/wiki/邓小平南巡",
+"type": "wiki"
+}
+],
+"tags": [
+"南巡",
+"下海"
+]
+},
+{
+"id": "1992-10-12-14th-party-congress",
+"date": "1992-10-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中共十四大确立社会主义市场经济体制目标",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中共十四大明确提出经济体制改革的目标是建立社会主义市场经济体制。『市场经济』从争论中的词变成官方目标，商品、价格、竞争重新定义了中国人的日常生活。",
+"detail": "1992年10月12日至18日，中共十四大在北京召开，江泽民作报告。1993年八届全国人大通过宪法修正案，将『社会主义市场经济』写入宪法。",
+"impact": "为价格并轨、住房商品化、电信与互联网商业化铺平制度道路。",
+"aftermath": "此后国企改革、住房改革、入世谈判均以市场经济为前提推进。",
+"sources": [
+{
+"title": "维基百科：中国共产党第十四次全国代表大会",
+"url": "https://zh.wikipedia.org/wiki/中国共产党第十四次全国代表大会",
+"type": "wiki"
+}
+],
+"tags": [
+"市场经济",
+"改革"
+]
+},
+{
+"id": "1993-01-01-grain-coupons-abolished",
+"date": "1993-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "粮票退出历史舞台：凭票吃饭的时代结束",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "延续近40年的粮票在1993年全面停用，中国人吃饭不再需要票证。从『定量供应』到『想买就买』，这是普通人餐桌上的市场化革命。",
+"detail": "粮票始自1955年统购统销制度。1992年十四大确立市场经济后，各地陆续放开粮食销售价格与经营，1993年全国基本取消粮票，油票、布票等此前已陆续废止。",
+"impact": "商品流通彻底市场化，农民进城打工、餐饮业繁荣有了前提。",
+"aftermath": "票证成为收藏品；『凭票供应』只在此后的特殊时期（如疫情期间的物资保供）被短暂类比。",
+"sources": [
+{
+"title": "维基百科：粮票",
+"url": "https://zh.wikipedia.org/wiki/粮票",
+"type": "wiki"
+}
+],
+"tags": [
+"粮票",
+"市场化"
+]
+},
+{
+"id": "1993-01-01-golden-projects",
+"date": "1993-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "『三金工程』启动：政府先行铺设信息高速路",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1993年，国家启动以金桥（国家公用经济信息网）、金关（外贸通关）、金卡（电子货币）为代表的『三金工程』。政府用真金白银为信息基础设施铺路，互联网商用化的政策土壤由此形成。",
+"detail": "1993年起，为应对金融、外贸、税收等国民经济主领域的信息化需求，国家批准建设一系列国家级信息工程，金桥网后来成为中国早期互联网络之一。",
+"impact": "培养了第一批通信与网络建设队伍，让『信息化』成为各级政府的正式议题。",
+"aftermath": "金桥网1996年接入国际互联网成为四大骨干之一；三金工程演化为持续至今的『金字号』电子政务体系。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"三金工程",
+"信息化"
+]
+},
+{
+"id": "1993-03-02-ihep-slac-line",
+"date": "1993-03-02",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "高能所开通到美国的64K专线（限科研使用）",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中科院高能物理研究所与美国斯坦福直线加速器中心之间的64K专线接通，中国有了第一条直连美国的数字线路。但它只允许科研人员收发邮件、共享数据，还不是真正的互联网接入。",
+"detail": "这条专线为北京正负电子对撞机的国际合作服务，美方限制其仅用于科研通信，不得用于其他用途。尽管如此，它让中国科研界第一次体验了『实时』的跨国网络。",
+"impact": "积累了专线运营、TCP/IP 实践与人才，为一年后的全功能接入扫清技术障碍。",
+"aftermath": "1994年4月NCFC全功能接入后，高能所成为中国最早对外提供网络服务的机构之一，1994年还建了中国第一个WWW服务器。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"高能所",
+"专线"
+]
+},
+{
+"id": "1993-04-22-mosaic-released",
+"date": "1993-04-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Mosaic 浏览器发布：普通人第一次『看得见』互联网",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "美国伊利诺伊大学 NCSA 中心发布图形浏览器 Mosaic，第一次让图片和文字同屏显示。之前上网是黑底白字的命令行，之后是『网页』。互联网用户在此后一年内增长十倍。",
+"detail": "Mosaic 由马克·安德森等人开发，支持图片内嵌、点击链接，安装包可在软盘上流传。它兼容当时主流的 Unix、Windows、Mac。",
+"impact": "把互联网从学术工具变成消费产品，直接引发1994-1995年的建站热潮。",
+"aftermath": "安德森毕业后创办网景，Mosaic 的技术血脉延续到 IE 与 Netscape；今天所有浏览器的祖先都指向这里。",
+"sources": [
+{
+"title": "Wikipedia: Mosaic (web browser)",
+"url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+"type": "wiki"
+}
+],
+"tags": [
+"浏览器",
+"Mosaic"
+]
+},
+{
+"id": "1993-04-30-cern-www-royalty-free",
+"date": "1993-04-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "CERN 宣布万维网免费开放：互联网的『大宪章』时刻",
+"category": "milestone",
+"region": "world",
+"milestone": true,
+"summary_30s": "1993年4月30日，欧洲核子研究中心宣布把万维网技术免费向所有人开放，永不收费。这个决定让任何人不付一分钱就能建网站、写浏览器——今天庞大到无法想象的互联网，就是从这个『免费』决定里长出来的。",
+"detail": "CERN 发表声明放弃 WWW 的知识产权，允许任何人无偿使用、修改、商业化 HTTP、HTML 与 URL 规范。若当时选择收费授权，万维网可能沦为少数公司的私有技术。",
+"impact": "网站数量在随后一年增长约百倍，商业互联网时代的大门被推开。",
+"aftermath": "2013年CERN重申这一承诺；伯纳斯-李后来创立 W3C 继续维护开放标准。",
+"sources": [
+{
+"title": "Wikipedia: History of the web",
+"url": "https://en.wikipedia.org/wiki/History_of_the_web",
+"type": "wiki"
+}
+],
+"tags": [
+"WWW",
+"开放"
+]
+},
+{
+"id": "1993-09-23-olympic-bid-lost",
+"date": "1993-09-23",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "北京申奥以两票之差失利，全民同守电视机",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1993年9月23日晚，蒙特卡洛投票现场传出结果：悉尼以45比43战胜北京获得2000年奥运会主办权。无数中国人守着直播等待萨马兰奇念出『Beijing』，失利瞬间全国集体沉默。这是前互联网时代最大规模的全民同步情绪事件之一。",
+"detail": "这是中国第一次申办奥运会，口号『开放的中国盼奥运』遍布街头。投票前中方一度乐观，两票之差成为一代人的意难平。",
+"impact": "催生了后来的『申奥必胜』执念，体育与国家荣誉深度绑定。",
+"aftermath": "2001年7月13日北京申奥成功，全国狂欢的场面与1993年的失落互为镜像。",
+"sources": [
+{
+"title": "维基百科：2000年夏季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"申奥",
+"集体记忆"
+]
+},
+{
+"id": "1994-01-01-tax-sharing-reform",
+"date": "1994-01-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "分税制改革实施",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1994年1月1日起分税制施行，中央与地方按税种分钱。这是中国财政史上影响最深远的改革之一，它让中央财政充裕起来，也让地方政府此后二十年拼命『卖地』——房价故事的总开关之一在这里拧开。",
+"detail": "改革将增值税等主要税种在央地之间按比例划分，国税、地税两套系统分立（2018年合并）。地方财权上收、事权不变，被迫寻找预算外收入。",
+"impact": "中央宏观调控能力增强；地方财政对土地出让的依赖逐步形成。",
+"aftermath": "土地财政支撑了城市化狂飙，也埋下高房价与地方债务问题；2021年后房地产转型使这一问题进入再平衡阶段。",
+"sources": [
+{
+"title": "维基百科：分税制",
+"url": "https://zh.wikipedia.org/wiki/分税制",
+"type": "wiki"
+}
+],
+"tags": [
+"财税",
+"土地财政"
+]
+},
+{
+"id": "1994-04-20-full-internet-connection",
+"date": "1994-04-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国全功能接入国际互联网",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "1994年4月20日，中关村地区教育与科研示范网络（NCFC）通过美国Sprint公司的64K国际专线接入国际互联网，中国成为全球第77个真正拥有全功能互联网的国家。这一天被公认为『中国互联网元年』的起点。",
+"detail": "接入工程由中科院主持，胡启恒、钱华林等推动。全功能意味着 TCP/IP 完整接入，可收发邮件、访问网页、传输文件。此前中国只能通过限用专线做局部通信。",
+"impact": "互联网正式进入中国，学术网络率先联网，商业互联网在随后一年启动。",
+"aftermath": "1994-1996年建成四大骨干网（CERNET、ChinaNet、CSTNet、ChinaGBN），1997年全国网民62万，2024年网民超11亿。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+},
+{
+"title": "中央网信办：中国全功能接入国际互联网30周年述评",
+"url": "https://www.cac.gov.cn/2024-04/20/c_1715291120716362.htm",
+"type": "official"
+}
+],
+"tags": [
+"接入互联网",
+"NCFC"
+]
+},
+{
+"id": "1994-05-21-cn-dns-home",
+"date": "1994-05-21",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": ".CN 域名服务器迁回国内",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中科院网络中心完成 .CN 域名服务器的设置，把1990年寄存在德国的国家级域名管理权收回国内。中国的网络身份从此自己保管。",
+"detail": "1994年5月21日，钱天白、钱华林等完成 .CN 顶级域名服务器在国内的架设，中科院计算机网络中心成为 .CN 的注册管理机构。",
+"impact": "中国可以自主分配域名，为商业网站爆发做准备。",
+"aftermath": "1997年CNNIC成立接管域名注册；.CN 后成为全球注册量最大的国家顶级域名之一。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+".CN",
+"DNS"
+]
+},
+{
+"id": "1994-01-01-cernet-project",
+"date": "1994-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "CERNET 立项：全国第一个互联网骨干网开建",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国家计委批复建设中国教育和科研计算机网（CERNET），由清华、北大等高校承担。这是中国第一个全国性互联网骨干网，几代大学生的大学生活因此多了『机房通宵』这项活动。",
+"detail": "CERNET 1994年开始建设，1995年底连接百余所高校，网络中心设在清华大学。它是中国最早实现全国互联的网络之一，也是最早接入国际互联网出口的学术网络。",
+"impact": "高校学生成为最早的网络原住民，BBS、FTP、MUD 等网络文化在校园先流行起来。",
+"aftermath": "CERNET 至今仍服务全国高校，并支撑了 IPv6 下一代互联网试验（CERNET2）。",
+"sources": [
+{
+"title": "中国教育和科研计算机网：互联网大事记",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"CERNET",
+"校园网"
+]
+},
+{
+"id": "1990-01-01-legend-first-pc",
+"date": "1990-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "联想推出首款自有品牌微机",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "中关村小公司联想推出第一款自有品牌电脑『联想286』，从卖别人电脑（代理AST、IBM）转向自己造电脑。中国家庭购买国产兼容机的时代由此开启。",
+"detail": "联想1984年以20万元起家，靠汉卡完成原始积累。1990年前后推出自有品牌微机，价格低于进口品牌，主打中小企业与家庭。",
+"impact": "国产微机拉低了电脑价格，为90年代中后期家用电脑普及铺路。",
+"aftermath": "2004年联想收购IBM PC业务，2013年起成为全球最大PC厂商。",
+"sources": [
+{
+"title": "维基百科：联想集团",
+"url": "https://zh.wikipedia.org/wiki/联想集团",
+"type": "wiki"
+}
+],
+"tags": [
+"联想",
+"微机"
+]
+},
+{
+"id": "1995-01-01-labor-law",
+"date": "1995-01-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《劳动法》施行：打工有了全国统一的法律",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年1月1日《劳动法》施行，八小时工作制、劳动合同、最低工资有了全国统一的法律依据。此后亿万农民工进城、白领加班，权利与纠纷都从这部法律出发。",
+"detail": "《中华人民共和国劳动法》1994年7月通过，1995年施行，确立劳动合同制、工时制度、工资保障与社保原则，配套『双休日』于同年5月落地。",
+"impact": "劳动力市场化有了基本规则，为大规模人口流动提供了制度底座。",
+"aftermath": "2008年《劳动合同法》进一步细化；996讨论（2019）后最高法明确严重超时加班违法。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国劳动法",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国劳动法",
+"type": "wiki"
+}
+],
+"tags": [
+"劳动法",
+"打工"
+]
+},
+{
+"id": "1995-01-01-chinanet-trial",
+"date": "1995-01-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国电信在北京上海启动 Internet 接入服务",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "邮电部电信总局开始在北京、上海向公众提供 Internet 接入服务（先试用后正式），普通人家里的电话线从此可以拨上互联网。上网费、电话费分开计价的『拨号上网』时代开始。",
+"detail": "ChinaNet 骨干网于1995年初在北京、上海开通节点，向用户提供拨号与专线接入，随后向全国铺开。当时的资费极为昂贵，上网以小时计。",
+"impact": "互联网第一次面向普通市民开放，1995-1996年网民以数万计增长。",
+"aftermath": "1996-1997年 ChinaNet 骨干网全国建成；『猫』声一夜成为一代人的听觉记忆。",
+"sources": [
+{
+"title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+}
+],
+"tags": [
+"拨号上网",
+"ChinaNet"
+]
+},
+{
+"id": "1995-04-01-china-page",
+"date": "1995-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "马云在杭州创办『中国黄页』",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "30岁的英语教师马云辞职，借2万元办起『中国黄页』，给国内企业做网页挂到国外服务器上——中国最早的互联网创业公司之一。当时绝大多数中国人还不知道网页是什么。",
+"detail": "中国黄页为外经贸等机构和企业制作英文网页，1995年4月起运营。因国内尚无互联网出口，页面需寄到美国上传。项目后被杭州电信合并，马云1997年北上对外经贸部合作，1999年回杭州创办阿里巴巴。",
+"impact": "证明互联网在中国可以是生意而不只是科研项目。",
+"aftermath": "阿里巴巴1999年成立后成为全球电商巨头，中国黄页被视为中国互联网创业的原点故事之一。",
+"sources": [
+{
+"title": "维基百科：中国黄页",
+"url": "https://zh.wikipedia.org/wiki/中国黄页",
+"type": "wiki"
+}
+],
+"tags": [
+"中国黄页",
+"马云"
+]
+},
+{
+"id": "1995-05-01-two-day-weekend",
+"date": "1995-05-01",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "双休日正式实行",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年5月1日起，全国实行五天工作制，中国人迎来第一个双休日。多出来的一天改变了休闲方式：商场周末爆满、电视综艺做大、后来连上网吧都是因为它。",
+"detail": "1994年3月起中国实行『大小周末』过渡，1995年5月1日起全面实行每周40小时工作制。",
+"impact": "闲暇时间制度化，为消费、旅游、娱乐和后来的互联网时长经济提供了时间基础。",
+"aftermath": "1999年起『黄金周』出现；互联网内容消费（游戏、视频、直播）都建立在这多出来的24小时上。",
+"sources": [
+{
+"title": "维基百科：双休日",
+"url": "https://zh.wikipedia.org/wiki/双休日",
+"type": "wiki"
+}
+],
+"tags": [
+"双休日",
+"休闲"
+]
+},
+{
+"id": "1995-08-08-smth-bbs",
+"date": "1995-08-08",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "水木清华 BBS 开站：中国网络社区之祖",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年8月8日，清华学生建起『水木清华』BBS，这是中国大陆第一个同时在线过千的校园论坛。『上水木』成为一代大学生的日常，中文网络社区的词汇、规矩和文化从这里生长出来。",
+"detail": "水木清华BBS最初运行在清华校园网服务器上，采用 Firebird 系 BBS 软件， Telnet 登录。高峰期同时在线过万，是90年代末中国高校网络的中心。",
+"impact": "开创了中文网络社区的版面文化、ID文化与管理员制度，大量网络流行语发源于此。",
+"aftermath": "2005年校方改制引发『水木风波』，社区迁出为水木社区；天涯、猫扑、贴吧接棒社区时代。",
+"sources": [
+{
+"title": "维基百科：水木社区",
+"url": "https://zh.wikipedia.org/wiki/水木社区",
+"type": "wiki"
+}
+],
+"tags": [
+"水木",
+"BBS"
+]
+},
+{
+"id": "1995-08-09-netscape-ipo",
+"date": "1995-08-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网景 IPO：互联网淘金热的发令枪",
+"category": "company",
+"region": "world",
+"milestone": true,
+"summary_30s": "成立仅16个月、从未盈利的浏览器公司网景在纳斯达克上市，发行价28美元，开盘冲到71美元。华尔街第一次为『互联网』这个词疯狂，硅谷的创业-风投-上市公式从此定型，也点燃了后来烧到中国的 dot-com 热潮。",
+"detail": "Netscape Navigator 由 Mosaic 团队核心开发，上市时占浏览器市场约八成。IPO 当日市值一度超过30亿美元，被视为 dot-com 泡沫的起点。",
+"impact": "风险资本开始系统性押注互联网公司，『先烧钱抢用户、后考虑赚钱』的模式诞生。",
+"aftermath": "1998年微软捆绑IE击垮网景；2000年泡沫破裂；但融资公式延续至今，中国门户、电商均沿用此路径。",
+"sources": [
+{
+"title": "Wikipedia: Netscape",
+"url": "https://en.wikipedia.org/wiki/Netscape",
+"type": "wiki"
+}
+],
+"tags": [
+"网景",
+"IPO"
+]
+},
+{
+"id": "1995-08-24-windows-95",
+"date": "1995-08-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Windows 95 发布：图形界面走进中国家庭",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "微软发布 Windows 95，『开始』按钮第一次出现。全球当晚排队抢购，中国兼容机店里从此有了统一的装机模板——普通中国家庭的第一台『能看图能听歌』的电脑，多半装着它。",
+"detail": "Win95 采用32位图形界面，内置拨号网络，让普通人配置调制解调器上网成为可能。发布首日销量约7万套，首年超4000万份。",
+"impact": "大幅降低电脑使用门槛，家用电脑在中国快速普及；『开始菜单』成为几十年的交互常识。",
+"aftermath": "1998年 Windows 98 进一步支持中文与USB；中国家用电脑保有量在90年代末突破千万。",
+"sources": [
+{
+"title": "Wikipedia: Windows 95",
+"url": "https://en.wikipedia.org/wiki/Windows_95",
+"type": "wiki"
+}
+],
+"tags": [
+"Windows 95",
+"电脑"
+]
+},
+{
+"id": "1995-09-01-yh-founded",
+"date": "1995-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "瀛海威创立：『中国人离信息高速公路还有多远』",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "张树新夫妇创办瀛海威科技，做中国最早的『互联网服务商+内容平台』。次年中关村竖起著名广告牌『中国人离信息高速公路还有多远——向北1500米』，这是中国互联网最早、最响亮的启蒙广告。",
+"detail": "瀛海威1995年9月成立，自营拨号网络『瀛海威时空』，提供资讯、论坛与邮件，用户需购买专用软件登录。公司后来因路线与电信资费问题衰落，1998年张树新出局。",
+"impact": "教育了最早一批中国网民，『信息高速公路』一词因此进入大众词汇。",
+"aftermath": "1997年改为 ISP 后在与电信的竞争中败落；瀛海威成为中国互联网『先驱变先烈』的代名词。",
+"sources": [
+{
+"title": "维基百科：瀛海威",
+"url": "https://zh.wikipedia.org/wiki/瀛海威",
+"type": "wiki"
+}
+],
+"tags": [
+"瀛海威",
+"ISP"
+]
+},
+{
+"id": "1995-09-01-netwave-lessons",
+"date": "1995-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "『网虫』『冲浪』：第一批网络词汇进入生活",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年前后，『信息高速公路』『网虫』『冲浪』『伊妹儿（E-mail）』开始出现在报刊与电视里。中国社会用一种半懂不懂的热情翻译着这个新世界，第一批网民在『网上冲浪』这个词里登场。",
+"detail": "早期媒体科普将 Internet 译作『国际互联网络』，上网被称为冲浪，活跃网民自称网虫，新手指『菜鸟』。这些词经《电脑报》《大众软件》等媒体扩散。",
+"impact": "网络从实验室概念变成流行文化符号，吸引更多普通家庭购买调制解调器。",
+"aftermath": "网络词汇此后每个年代都在批量制造：BBS灌水、GG/MM、神马、yyds，语言学家称之为汉语近百年最大的词汇增量期。",
+"sources": [
+{
+"title": "维基百科：中国网络史",
+"url": "https://zh.wikipedia.org/wiki/中国网络史",
+"type": "wiki"
+}
+],
+"tags": [
+"网络文化",
+"词汇"
+]
+},
+{
+"id": "1995-11-01-internet-cafe-early",
+"date": "1995-11-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国第一批网吧出现",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "电脑条件有限的家庭开始去『电脑室』花钱上网，1995年前后北京上海出现最早的营业性网络咖啡屋。一小时几十块的『互联网茶座』，是后来数十万家网吧的鼻祖。",
+"detail": "最早的营业性上网场所多以『网络咖啡屋』『电脑室』名义出现，主打收发邮件和浏览英文网站，客源以外企员工和留学生为主。1996-1997年网吧形态在北京（实华开网络咖啡屋等）成型。",
+"impact": "让没有电脑的人也能上网，成为90年代末网络普及的最大推手，也埋下青少年管理的长期议题。",
+"aftermath": "2002年蓝极速大火后《网吧管理条例》出台；网吧在2010年代被手游和网课取代，『网吧元年』成为怀旧词。",
+"sources": [
+{
+"title": "维基百科：网吧",
+"url": "https://zh.wikipedia.org/wiki/网吧",
+"type": "wiki"
+}
+],
+"tags": [
+"网吧",
+"90年代"
+]
+},
+{
+"id": "1995-12-01-cnnic-prep",
+"date": "1995-12-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "中国网民数量突破『1万级』：互联网第一代原住民",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年底，中国上网计算机和用户仍以千计、万计，几乎全是高校师生、科研人员和外企白领。他们是第一代网络原住民——后来中国互联网的公司创始人，大多就藏在这几万人里。",
+"detail": "1997年CNNIC首次统计时全国网民62万，由此倒推1995-1996年网民仅数万人，其中学生与科研人员占比过半。第一代用户几乎决定了此后中文网络的内容品味。",
+"impact": "高知群体先行塑造了早期中文互联网重技术、重人文的社区气质。",
+"aftermath": "1998年后网民结构开始大众化，2000年破千万，2008年登顶全球第一，2024年超11亿。",
+"sources": [
+{
+"title": "中国互联网络信息中心（CNNIC）",
+"url": "https://www.cnnic.com.cn/",
+"type": "official"
+}
+],
+"tags": [
+"早期网民",
+"统计"
+]
+},
+{
+"id": "1995-06-01-cs-game-era",
+"date": "1995-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "单机游戏黄金期：仙剑、红警、命令与征服",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "90年代中期是中文单机游戏的黄金岁月：《仙剑奇侠传》让无数人第一次为游戏流泪，《命令与征服》《红色警戒》在电脑室被复制成无数软盘。游戏与电脑一起走进中国家庭。",
+"detail": "1995年台湾大宇推出《仙剑奇侠传DOS版》，成为中文RPG巅峰之一；同一时期 Westwood 的《命令与征服》（1995）定义即时战略，其盗版光盘在中国电脑室横行多年。",
+"impact": "游戏成为买电脑的重要理由之一，也奠定了中国玩家的口味与市场规模。",
+"aftermath": "1998年《星际争霸》、2001年《传奇》网游化接力；中国后来成为全球最大游戏市场。",
+"sources": [
+{
+"title": "维基百科：仙剑奇侠传 (游戏)",
+"url": "https://zh.wikipedia.org/wiki/仙剑奇侠传_(游戏)",
+"type": "wiki"
+}
+],
+"tags": [
+"单机游戏",
+"90年代"
+]
+}
 ]

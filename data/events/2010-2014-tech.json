@@ -1,0 +1,454 @@
+[
+{
+"id": "2010-01-01-weibo-era",
+"date": "2010-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "微博元年：140字改写中国人上网方式",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "新浪微博2009年8月上线后，2010年进入爆发期：明星、媒体、草根大V集体入驻，转发和评论让人人都有话筒，各大门户纷纷跟进推出自家微博。这一年被称为中国『微博元年』，社交媒体时代正式开场。",
+"detail": "新浪借助名人战略快速做大盘子，众多一线明星开设微博，普通用户第一次能『零距离围观』公众人物。腾讯、搜狐、网易随后全部跟进微博产品，『粉丝』『转发』『热搜』成为全民词汇。碎片化的140字配合图片链接，改变了新闻传播的速度和形态，也重塑了公关和营销行业。",
+"impact": "中国互联网从论坛博客时代进入社交媒体时代，信息传播速度和公共讨论的形态被彻底改写。",
+"aftermath": "新浪微博2014年4月登陆纳斯达克；随后微信崛起分流熟人社交，微博转型为公开舆论场与热点广场，延续至今。",
+"sources": [
+{
+"title": "维基百科：新浪微博",
+"url": "https://zh.wikipedia.org/wiki/新浪微博",
+"type": "wiki"
+}
+],
+"tags": [
+"微博",
+"新浪",
+"社交媒体"
+]
+},
+{
+"id": "2010-01-04-avatar-china-release",
+"date": "2010-01-04",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "《阿凡达》中国上映：3D大片一票难求",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "詹姆斯·卡梅隆的《阿凡达》登陆中国内地，3D和IMAX场次场场爆满，热门影厅票价被黄牛炒到数百元，观众凌晨排队抢票。这部电影让中国观众第一次见识3D大片的震撼，当年内地票房约13.4亿元，是年度冠军。",
+"detail": "《阿凡达》在全球掀起观影狂潮，中国市场的火爆程度尤甚：一线城市IMAX票开票即空，不少观众专程跨城观影。影院纷纷紧急加装3D设备，片方还因档期排片问题引发过院线换片风波。影片的潘多拉星世界也成为中国影迷长期讨论的文化符号。",
+"impact": "直接刺激中国影院3D银幕和IMAX影厅的建设潮，中国电影市场加速扩容。",
+"aftermath": "中国银幕数此后十年增长数十倍，并于2012年前后超过日本成为全球第二大票仓；《阿凡达》续集计划延续十余年。",
+"sources": [
+{
+"title": "维基百科：阿凡达 (电影)",
+"url": "https://zh.wikipedia.org/wiki/阿凡达_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"阿凡达",
+"电影",
+"3D"
+]
+},
+{
+"id": "2010-01-27-ipad-launch",
+"date": "2010-01-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布初代iPad，开创平板电脑品类",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "乔布斯在旧金山发布会上掏出一块9.7英寸的大屏设备——iPad，介于手机和笔记本之间。发布之初不少人不屑地称它是『放大版iPhone』，但它随后开创了平板电脑这个全新品类，重新定义了人们躺着看视频、读新闻的方式。",
+"detail": "iPad搭载自研A4芯片，支持多点触控、电子书、视频和游戏，4月在美国开售。发布前业界普遍看衰，乔布斯在发布会上专门演示了它在上网、邮件、相册、电子书等场景的体验。开售后市场反响远超预期，上市不到一个月卖出百万台。",
+"impact": "开创平板电脑品类，把触屏内容消费推向家庭和老人小孩等非典型用户，也为移动互联网内容生态补上大屏入口。",
+"aftermath": "安卓厂商大规模跟进推出平板；iPad上市当年即售出近1500万台，并长期占据平板市场大头。",
+"sources": [
+{
+"title": "维基百科：IPad (第一代)",
+"url": "https://zh.wikipedia.org/wiki/IPad_(第一代)",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"iPad",
+"平板电脑"
+]
+},
+{
+"id": "2010-03-01-china-group-buy-boom",
+"date": "2010-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "团购模式登陆中国，『千团大战』开幕",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "美国Groupon模式传入中国后，美团、拉手网、糯米网等团购网站在2010年如雨后春笋般冒出，『今天你团了吗』成为流行语。到年底全国团购网站已达数千家，资本蜂拥而入，中国互联网史上最惨烈的烧钱大战之一拉开帷幕。",
+"detail": "美团3月4日率先上线，拉手网、糯米网等随即跟进，『每日一团』的商品折扣模式迅速铺向全国城市。低门槛让创业者蜂拥而入，一年之内涌现数千家团购网站，地推团队在写字楼间贴满广告。行业在爆发的同时也埋下虚假团购、卷款跑路等乱象。",
+"impact": "团购成为中国O2O的启蒙运动，教育了本地生活服务市场，也创造了烧钱换市场的经典范式。",
+"aftermath": "2011年Groupon携腾讯入华使战况白热化，随后数年大洗牌，数千家网站倒闭，最终美团、大众点评等极少数玩家胜出。",
+"sources": [
+{
+"title": "维基百科：美团",
+"url": "https://zh.wikipedia.org/wiki/美团",
+"type": "wiki"
+},
+{
+"title": "维基百科：拉手网",
+"url": "https://zh.wikipedia.org/wiki/拉手网",
+"type": "wiki"
+}
+],
+"tags": [
+"团购",
+"千团大战",
+"O2O"
+]
+},
+{
+"id": "2010-03-04-meituan-founding",
+"date": "2010-03-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "王兴创办美团网上线",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "校内网、饭否的创造者王兴再次创业，参照美国Groupon模式上线美团网，成为中国内地最早的团购网站。首单上线后成交数十份，这家小网站日后成长为覆盖外卖、到店、酒旅的本地生活超级平台。",
+"detail": "王兴此前创办的校内网卖给千橡、饭否又遭遇关停，2010年初他把目光投向刚在美国爆红的Groupon，于1月组建团队，3月4日正式上线美团网。早期美团坚持商户审核与消费者先行赔付，在千团大战的乱象中积累了口碑，也奠定『以客户为中心』的经营底色。",
+"impact": "中国团购行业自此发端，本地生活服务的互联网化有了最早的样板。",
+"aftermath": "美团在千团大战中活到最后，2015年与大众点评合并，2018年美团点评在港交所上市。",
+"sources": [
+{
+"title": "维基百科：美团",
+"url": "https://zh.wikipedia.org/wiki/美团",
+"type": "wiki"
+}
+],
+"tags": [
+"美团",
+"王兴",
+"团购"
+]
+},
+{
+"id": "2010-03-05-qq-100m-concurrent",
+"date": "2010-03-05",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "QQ同时在线突破1亿：全球第一个亿级IM",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2010年3月5日晚，腾讯宣布QQ同时在线账户数突破1亿，成为全球首个同时在线破亿的即时通讯平台。一个聊天软件同时挂着一亿人在线，这在当时的全球互联网都是未曾有过的数字，也直观展示了中国网民的规模。",
+"detail": "腾讯为这一时刻举办了庆祝活动，第1亿个同时在线用户在当晚产生，马化腾与高管团队共同见证。彼时中国网民刚突破4亿，相当于每四个网民就有一人同时挂在QQ上。QQ空间、QQ游戏构成的『在线生活』生态也随用户规模水涨船高。",
+"impact": "标志中国互联网用户规模达到世界级体量，腾讯的社交霸主地位进一步巩固。",
+"aftermath": "QQ同时在线此后继续攀升，并在移动互联网时代通过手机QQ延续国民应用地位。",
+"sources": [
+{
+"title": "维基百科：腾讯QQ",
+"url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+"type": "wiki"
+}
+],
+"tags": [
+"QQ",
+"腾讯",
+"里程碑"
+]
+},
+{
+"id": "2010-03-23-galaxy-s-launch",
+"date": "2010-03-23",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "三星发布GALAXY S，安卓阵营出现真正对手",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "三星在美国发布首款GALAXY S智能手机（i9000），搭载Android系统与艳丽的Super AMOLED屏幕。它是第一款在体验上被认为足以正面抗衡iPhone的安卓手机，三星由此开启与苹果长达数年的双雄对决。",
+"detail": "GALAXY S轻薄机身配上4英寸Super AMOLED屏，销量迅速突破千万台。三星以机海战术叠加旗舰精品路线，在全球各大运营商同步铺货，为日后GALAXY系列打下根基。iPhone与GALAXY的双旗舰格局，也定义了此后多年智能手机市场的竞争主线。",
+"impact": "安卓阵营第一次拥有全球级的标杆旗舰，智能手机市场进入苹果、三星两强格局。",
+"aftermath": "GALAXY系列逐年迭代，三星在2012年后登顶全球手机出货量第一并保持多年。",
+"sources": [
+{
+"title": "维基百科：三星Galaxy S",
+"url": "https://zh.wikipedia.org/wiki/三星Galaxy_S",
+"type": "wiki"
+}
+],
+"tags": [
+"三星",
+"安卓",
+"智能手机"
+]
+},
+{
+"id": "2010-04-06-xiaomi-founding",
+"date": "2010-04-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "雷军创立小米公司",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "40岁的雷军与林斌、黎万强等合伙人在中关村银谷大厦一起喝了碗小米粥，小米公司悄然成立。没有发布会、没有报道，这家小公司先做了个安卓_rom_叫MIUI，一年后将用一款1999元的手机搅动整个中国手机行业。",
+"detail": "创业团队除雷军外多为谷歌、微软、摩托罗拉背景的工程师。小米选择从MIUI操作系统切入，靠论坛招募发烧友内测，每周五更新，积累了最早的种子用户。『为发烧而生』的互联网手机模式——电商直销、成本定价、用户参与开发——在这段时间成型。",
+"impact": "互联网思维做手机的路线由此确立，日后彻底改变中国智能手机的定价与销售逻辑。",
+"aftermath": "2011年8月小米手机1发布即爆红；2014年小米登顶中国智能手机市场份额第一。",
+"sources": [
+{
+"title": "维基百科：小米公司",
+"url": "https://zh.wikipedia.org/wiki/小米公司",
+"type": "wiki"
+}
+],
+"tags": [
+"小米",
+"雷军",
+"创业"
+]
+},
+{
+"id": "2010-05-26-apple-surpasses-microsoft",
+"date": "2010-05-26",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "苹果市值超越微软：PC时代让位",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "纽约股市收盘时，苹果市值约2220亿美元，首次超过老对手微软的约2190亿美元。两家缠斗三十余年的公司完成权杖交接，市场用真金白银宣告：个人电脑时代落幕，移动互联网时代登基。",
+"detail": "1997年濒临破产时，微软曾向苹果注资1.5亿美元施以援手；十三年后，靠iPod、iPhone连续命苹果完成反超。当时苹果仅次于埃克森美孚，位居全美市值第二。这场超越被认为是科技产业从桌面计算转向移动计算的标志性时刻。",
+"impact": "资本市场重新定价移动生态的价值，全球科技公司纷纷把战略重心转向移动互联网。",
+"aftermath": "2011年8月苹果超越埃克森美孚成为全球市值第一，此后长期占据这一位置。",
+"sources": [
+{
+"title": "维基百科：Apple Inc.",
+"url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"微软",
+"市值"
+]
+},
+{
+"id": "2010-06-07-iphone-4-launch",
+"date": "2010-06-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "iPhone 4发布：『再一次，改变一切』",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "乔布斯在WWDC上发布iPhone 4：视网膜屏幕、前置摄像头、FaceTime视频通话、玻璃不锈钢机身。它被普遍认为是智能手机设计的分水岭，发布后在全球引发通宵排队，9月引进中国时同样一机难求。",
+"detail": "iPhone 4的960×640视网膜屏幕让竞品瞬间显得粗糙，前置摄像头让视频通话和自拍成为日常，A4处理器确立了苹果自研芯片的路线。尽管上市初期曝出『天线门』信号争议，依然挡不住抢购热潮，上市三天卖出170万台。",
+"impact": "确立此后数年智能手机的设计标准，移动拍照、视频通话和App生态加速普及；国行版9月25日开售，中国成为苹果最重要的增长市场。",
+"aftermath": "iPhone 4成为一代神机与情怀符号，苹果借此完成对诺基亚、摩托罗拉等旧王者的超越。",
+"sources": [
+{
+"title": "维基百科：IPhone 4",
+"url": "https://zh.wikipedia.org/wiki/IPhone_4",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"iPhone",
+"智能手机"
+]
+},
+{
+"id": "2010-07-01-vancl-meme",
+"date": "2010-07-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "凡客体爆红：全民PS造梗时代开启",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "凡客诚品的品牌广告『爱网络，爱自由；我不是谁，我是韩寒』被网友疯狂套用改写，PS版本铺满论坛微博，从郭德纲到猫猫狗狗都有了自己的『凡客体』。这是中文互联网第一次全民参与的品牌造梗狂欢。",
+"detail": "凡客为推广服饰邀请韩寒、王珞丹代言，排比句式的文艺文案意外成为模板，网友批量替换人名与爱好，每天产生数千张版本。凡客的品牌知名度随恶搞浪潮一夜打响，广告投放效果远超预期，但爆红也透支了品牌严肃感。",
+"impact": "证明网络流行文化可以反向成就商业品牌，『体』式文案成为此后多年营销与社交传播的标准打法。",
+"aftermath": "凡客此后在资本扩张中陷入库存危机逐渐沉寂；而造梗式传播成为中文互联网的常态文化生产方式。",
+"sources": [
+{
+"title": "维基百科：凡客体",
+"url": "https://zh.wikipedia.org/wiki/凡客体",
+"type": "wiki"
+}
+],
+"tags": [
+"凡客体",
+"凡客诚品",
+"网络流行语"
+]
+},
+{
+"id": "2010-07-27-starcraft2-wol-launch",
+"date": "2010-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《星际争霸II：自由之翼》全球发售",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "暴雪娱乐的《星际争霸II：自由之翼》在全球同步发售，距离前作已过去12年。首月销量即超300万套，网吧里人族枪兵 rush 的声音再度响起，RTS游戏与电子竞技迎来教科书级的回归。",
+"detail": "《自由之翼》以人族战役开篇，对战模式继承前作精髓并加入天梯系统，暴雪还为它打造了全新的战网平台。韩国依旧是最狂热的市场，中国玩家则在等待国服获批的日子里涌向外服与网吧。它也孕育了此后直播平台最早的一批游戏解说明星。",
+"impact": "确立现代电竞天梯与观赛体系的样板，游戏直播文化的重要源头。",
+"aftermath": "网易代理的国服于2011年上线；《星际2》电竞体系（GSL、WCS）影响深远，尽管RTS品类此后整体衰落。",
+"sources": [
+{
+"title": "维基百科：星际争霸II：自由之翼",
+"url": "https://zh.wikipedia.org/wiki/星际争霸II：自由之翼",
+"type": "wiki"
+}
+],
+"tags": [
+"星际争霸",
+"暴雪",
+"游戏"
+]
+},
+{
+"id": "2010-08-12-letv-ipo",
+"date": "2010-08-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "乐视网登陆创业板：A股第一家视频网站",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "名不见经传的乐视网在深圳创业板上市，成为A股第一家视频网站。当时优酷、土豆还在美国为亏损发愁，靠版权分销默默盈利的乐视已经先敲了钟。这家公司日后将抛出『平台+内容+终端+应用』的庞大故事。",
+"detail": "乐视网由贾跃亭创立，以网络视频版权分销和付费点播为主业，上市前已实现盈利，正好契合创业板的盈利门槛。上市募资为其囤积版权提供弹药，乐视在版权价格起飞前低位扫货，赚得盆满钵满，也为日后自制与硬件扩张埋下伏笔。",
+"impact": "打开中国视频网站的A股资本通道，版权价值被资本市场重新认识。",
+"aftermath": "乐视2015年市值一度突破1500亿元，2017年资金链断裂，2020年7月从创业板退市，留下『下周回国』的时代记忆。",
+"sources": [
+{
+"title": "维基百科：乐视网",
+"url": "https://zh.wikipedia.org/wiki/乐视网",
+"type": "wiki"
+}
+],
+"tags": [
+"乐视",
+"贾跃亭",
+"上市"
+]
+},
+{
+"id": "2010-10-06-instagram-launch",
+"date": "2010-10-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Instagram上线：手机拍照分享从此不同",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "两个斯坦福毕业生把一款叫Burbn的签到应用改造成纯粹的拍照分享工具，Instagram在苹果App Store上线。滤镜让随手拍变得『高级』，上线首日下载2.5万次，十周用户破百万，手机摄影美学时代开始。",
+"detail": "凯文·斯特罗姆和迈克·克里格在旧金山一间小办公室里上线了这款免费应用，正方形画幅加复古滤镜成为标志性视觉语言。上传即分享的轻量体验击中了智能手机普及的节点，Instagram迅速成为全球图片社交的代名词。",
+"impact": "定义了移动端的图片社交形态，孕育了视觉网红文化，也重塑了摄影与广告行业。",
+"aftermath": "2012年4月被Facebook以约10亿美元收购，此后成长为全球最重要的社交平台之一。",
+"sources": [
+{
+"title": "维基百科：Instagram",
+"url": "https://zh.wikipedia.org/wiki/Instagram",
+"type": "wiki"
+}
+],
+"tags": [
+"Instagram",
+"图片社交",
+"App"
+]
+},
+{
+"id": "2010-11-03-3q-war",
+"date": "2010-11-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "3Q大战爆发：QQ『一个艰难的决定』",
+"category": "internet",
+"region": "cn",
+"milestone": true,
+"summary_30s": "奇虎360推出『扣扣保镖』拦截QQ广告与弹窗，腾讯当晚发布公开信，宣布在装有360软件的电脑上停止运行QQ，让数亿用户『二选一』。中国互联网史上最激烈的客户端战争全面爆发，办公室与网吧里一片哀嚎。",
+"detail": "双方冲突从隐私保护器一路升级：360发布扣扣保镖修改QQ功能，腾讯则以『艰难的决定』回应，强制用户卸载其一。数亿网民被迫在电脑前做选择题，各大门户和论坛沸反盈天。闹剧数日后以双方软件恢复兼容告一段落，随后两家公司展开了长达四年的连环诉讼。",
+"impact": "让『客户端垄断』『用户权益』成为行业公共议题，也成为中国互联网竞争生态的分水岭事件。",
+"aftermath": "最高法2014年终审认定QQ『二选一』不构成垄断、360败诉；腾讯痛定思痛转向开放平台战略，为日后投资生态铺路。",
+"sources": [
+{
+"title": "维基百科：3Q大战",
+"url": "https://zh.wikipedia.org/wiki/3Q大战",
+"type": "wiki"
+}
+],
+"tags": [
+"3Q大战",
+"腾讯",
+"360"
+]
+},
+{
+"id": "2010-11-04-kinect-launch",
+"date": "2010-11-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微软Kinect发售：扔掉手柄玩体感",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "微软为Xbox 360推出体感外设Kinect，在北美开售。玩家无需任何手柄，站在电视前挥手踢腿就能操控游戏，全家老小都能上手。这个『把人变成手柄』的设备上市60天狂卖800万台，创下当时消费电子销售速度纪录。",
+"detail": "Kinect集成了深度摄像头、彩色摄像头与麦克风阵列，能识别人体骨骼动作与语音。《Kinect冒险》等合家欢游戏让它成为节日爆款，极客们还把它破解接到电脑上做各种奇怪实验，意外带火了消费级体感技术的开源生态。",
+"impact": "体感交互首次大规模进入家庭，被视为游戏之外机器人、视觉技术领域的意外推手。",
+"aftermath": "60天800万台的销量被吉尼斯纪录收录；Kinect后来推出Windows版用于行业，但二代之后微软停止了该产品线。",
+"sources": [
+{
+"title": "维基百科：Kinect",
+"url": "https://zh.wikipedia.org/wiki/Kinect",
+"type": "wiki"
+}
+],
+"tags": [
+"微软",
+"Xbox",
+"体感"
+]
+},
+{
+"id": "2010-12-08-youku-dangdang-ipo",
+"date": "2010-12-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "优酷、当当同日登陆纽交所",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月8日晚，视频网站优酷与图书电商当当网同一天在纽约证券交易所挂牌。优酷上市首日暴涨约161%，创当年美国IPO首日涨幅纪录，当当大涨近九成，中国互联网公司掀起新一轮赴美上市热潮。",
+"detail": "优酷以『中国YouTube+Hulu』的故事融资约2.3亿美元，市值一度超过行业老二土豆近一倍；老牌B2C当当则带着十年坚守的电商成绩单敲钟。同日双响的盛况让2010年被称为中国互联网公司的『上市大年』，麦考林、优酷、当当等接连出海。",
+"impact": "视频与电商两大赛道完成资本化标志性一跃，中概股在美迎来高光时刻。",
+"aftermath": "优酷2012年与土豆合并，2016年被阿里全资收购；当当2016年私有化退市。",
+"sources": [
+{
+"title": "维基百科：优酷",
+"url": "https://zh.wikipedia.org/wiki/优酷",
+"type": "wiki"
+},
+{
+"title": "维基百科：当当网",
+"url": "https://zh.wikipedia.org/wiki/当当网",
+"type": "wiki"
+}
+],
+"tags": [
+"优酷",
+"当当",
+"上市"
+]
+}
+]

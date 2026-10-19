@@ -1,0 +1,730 @@
+[
+{
+"id": "2023-01-08-class-b-management",
+"date": "2023-01-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "新冠降为『乙类乙管』：三年防疫正式转段",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "新冠病毒感染从『乙类甲管』调整为乙类乙管：不再隔离、不再判定密接、入境放开。持续近三年的封控、核酸、健康码时代正式落幕，出境游机票瞬间搜索爆量。",
+"detail": "2022年12月26日公告、2023年1月8日实施。2月世卫评估维持国际关注事件，5月5日宣布新冠不再构成『国际关注的突发公共卫生事件』。",
+"impact": "经济生活全面重启，消费、旅游、会展快速修复。",
+"aftermath": "2023年GDP增长5.2%；疫后修复的进出口与房地产分化成为宏观主线。",
+"sources": [
+{
+"title": "维基百科：2019冠状病毒病中国大陆疫情",
+"url": "https://zh.wikipedia.org/wiki/2019冠状病毒病中国大陆疫情",
+"type": "wiki"
+}
+],
+"tags": [
+"乙类乙管",
+"放开"
+]
+},
+{
+"id": "2023-01-17-population-decline",
+"date": "2023-01-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "统计局公布：中国人口61年来首次负增长",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2022年末全国人口14.1175亿，比上年末减少85万——1962年以来首次负增长。出生人口956万首次跌破千万。人口拐点从学术预言变成了统计公报。",
+"detail": "2023年、2024年人口继续下降（2024年出生954万），老龄化率升至15%以上。",
+"impact": "养老、社保、房地产与教育政策全面转向。",
+"aftermath": "2024年延迟退休决定、2025年国家育儿补贴制度相继出台；『银发经济』升格为国家战略。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国人口",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国人口",
+"type": "wiki"
+}
+],
+"tags": [
+"人口",
+"负增长"
+]
+},
+{
+"id": "2023-02-06-turkey-syria-quake",
+"date": "2023-02-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "土耳其叙利亚7.8级强震：五万余人遇难",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "土耳其南部一天内两次7.8级地震，土叙两国超5.9万人遇难，数百万建筑损毁。中国救援队与公羊救援队等民间力量奔赴灾区——大地震的救援画面刷屏全球。",
+"detail": "余震持续数月，世界银行估算土耳其损失超千亿美元。",
+"impact": "建筑抗震标准与跨国救援机制再受检验。",
+"aftermath": "土耳其2023年大选在震后举行；重建工程持续多年。",
+"sources": [
+{
+"title": "维基百科：2023年土耳其-叙利亚地震",
+"url": "https://zh.wikipedia.org/wiki/2023年土耳其-叙利亚地震",
+"type": "wiki"
+}
+],
+"tags": [
+"土耳其地震"
+]
+},
+{
+"id": "2023-03-10-saudi-iran-deal",
+"date": "2023-03-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "中国斡旋沙伊复交：世纪和解在北京",
+"category": "world",
+"region": "cn",
+"milestone": false,
+"summary_30s": "在中国的斡旋下，沙特与伊朗在北京宣布恢复外交关系。两个中东宿敌握手，全世界的头条都在问同一句话：中国什么时候成了调解人？",
+"detail": "3月10日三方联合声明发布，两国使馆数月内重开，中东『和解潮』（也门、叙利亚复交）由此蔓延。",
+"impact": "中国在中东的地缘政治角色公开化、制度化。",
+"aftermath": "2024年巴勒斯坦各派『北京宣言』延续斡旋路线；美国中东秩序面临新变量。",
+"sources": [
+{
+"title": "维基百科：沙特阿拉伯-伊朗关系",
+"url": "https://zh.wikipedia.org/wiki/沙特阿拉伯-伊朗关系",
+"type": "wiki"
+}
+],
+"tags": [
+"沙伊和解",
+"斡旋"
+]
+},
+{
+"id": "2023-03-01-zibo-bbq",
+"date": "2023-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "淄博烧烤出圈：大学生组团『进淄赶烤』",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "一批大学生周末坐高铁去淄博吃烧烤，小饼卷肉的灵魂吃法经短视频引爆全国。一座重工业老城凭『好客+实在』成为顶流——文旅局长们连夜抄作业。",
+"detail": "3月起客流暴增，五一假期淄博高铁票秒空，官方增设21条烧烤公交专线。",
+"impact": "城市文旅营销进入『网红化』时代。",
+"aftermath": "哈尔滨（2024）、天水（2024）、隰县小西天（2024）接力出圈；『泼天富贵』成为文旅关键词。",
+"sources": [
+{
+"title": "维基百科：淄博烧烤",
+"url": "https://zh.wikipedia.org/wiki/淄博烧烤",
+"type": "wiki"
+}
+],
+"tags": [
+"淄博烧烤",
+"文旅"
+]
+},
+{
+"id": "2023-05-28-c919-maiden",
+"date": "2023-05-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "C919商业首航：国产大飞机载客起飞",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "东航C919从上海虹桥飞抵北京首都机场，中国商飞16年磨一剑的大飞机正式投入商业运营。此后航线一条条铺开，『坐国产大飞机』成为航空爱好者的打卡清单。",
+"detail": "C919 2017年首飞、2022年取证，首航执行MU9191航班。至2025年已交付十余架、开通沪蓉等干线。",
+"impact": "干线客机市场出现第三个玩家，航空产业链国产化提速。",
+"aftermath": "C929宽体机研制推进；发动机等核心部件国产化持续攻关。",
+"sources": [
+{
+"title": "维基百科：C919",
+"url": "https://zh.wikipedia.org/wiki/C919",
+"type": "wiki"
+}
+],
+"tags": [
+"C919",
+"大飞机"
+]
+},
+{
+"id": "2023-06-24-wagner-mutiny",
+"date": "2023-06-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "瓦格纳兵变一日游：普里戈任进退莫斯科",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "瓦格纳雇佣军突然掉转枪口占领俄南部军区总部并向莫斯科进军，举世震惊；24小时后又在白俄罗斯调停下收兵。两个月后普里戈任坠机身亡——这出黑色大戏写满了俄乌战争的裂痕。",
+"detail": "兵变起于国防军与瓦格纳的矛盾公开化。8月23日普里戈任公务机坠毁，俄方结论为机上人员死亡。",
+"impact": "俄国内部权力结构的不稳定性暴露无遗。",
+"aftermath": "瓦格纳部分力量转移非洲；俄国防部收编私营军事力量。",
+"sources": [
+{
+"title": "Wikipedia: Wagner Group rebellion",
+"url": "https://en.wikipedia.org/wiki/Wagner_Group_rebellion",
+"type": "wiki"
+}
+],
+"tags": [
+"瓦格纳",
+"俄乌"
+]
+},
+{
+"id": "2023-07-29-bering-rain",
+"date": "2023-07-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "京津冀极端暴雨：涿州的洪水与全国的牵挂",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "台风杜苏芮残余环流带来华北百年一遇暴雨，北京门头沟、河北涿州洪灾严重，涿州书店库房泡水的画面让出版业集体心碎。100余人遇难，京津冀协同抗洪成为夏天记忆。",
+"detail": "海河流域发生流域性特大洪水，蓄滞洪区启用8处。",
+"impact": "防洪工程与灾后重建（国债支持）体系升级。",
+"aftermath": "2023年10月增发1万亿国债用于防灾减灾建设。",
+"sources": [
+{
+"title": "维基百科：2023年华北暴雨",
+"url": "https://zh.wikipedia.org/wiki/2023年华北暴雨",
+"type": "wiki"
+}
+],
+"tags": [
+"杜苏芮",
+"涿州"
+]
+},
+{
+"id": "2023-09-23-hangzhou-asian-games",
+"date": "2023-09-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "杭州亚运会开幕：数字火炬手跨江而来",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "超过1亿人参与的『数字火炬手』汇成一个巨人踏钱塘江而来点燃主火炬——开幕式这一幕把『全民参与『做到了极致。电竞首次成为正式比赛项目，中国队包揽王者荣耀与英雄联盟金牌。",
+"detail": "杭州亚运延期一年后举行，40个大项、史上规模最大。智能亚运（云上转播、自动驾驶）成为科技展示窗。",
+"impact": "大型赛事的数字化运营样板。",
+"aftermath": "2025年哈尔滨亚冬会、2026年爱知名古屋亚运接续。",
+"sources": [
+{
+"title": "维基百科：2022年亚洲运动会",
+"url": "https://zh.wikipedia.org/wiki/2022年亚洲运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"杭州亚运"
+]
+},
+{
+"id": "2023-10-07-hamas-israel-war",
+"date": "2023-10-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "哈马斯突袭以色列：加沙战争爆发",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "哈马斯越境突袭以色列，1200余人遇难、250余人被掳；以色列随即对加沙展开大规模军事行动。新一轮巴以冲突绵延多年，人道危机与地区连锁反应（红海航运、黎以战线）波及全球。",
+"detail": "冲突造成加沙数万人死亡，停火协议多轮拉锯。胡塞武装红海袭船战重创国际航运。",
+"impact": "全球航运绕行好望角，中东格局再洗牌。",
+"aftermath": "2025年1月停火协议签署后又多次反复；两国方案国际共识被反复重申。",
+"sources": [
+{
+"title": "Wikipedia: Gaza war",
+"url": "https://en.wikipedia.org/wiki/Gaza_war",
+"type": "wiki"
+}
+],
+"tags": [
+"巴以",
+"加沙"
+]
+},
+{
+"id": "2023-09-28-evergrande-xujiayin",
+"date": "2023-09-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "许家印被依法采取强制措施：恒大时代落幕",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "恒大集团公告称许家印因涉嫌违法犯罪被依法采取强制措施。曾是中国首富、公司年销7000亿的地产帝国，最终留下2.4万亿负债和遍地停工楼盘。",
+"detail": "2021年恒大流动性危机爆发后，理财兑付、美元债违约相继发生；2024年3月港交所对恒大地产作出退市决定（2025年完成）。",
+"impact": "地产行业出清的标志性节点。",
+"aftermath": "保交楼持续推进；房企从开发模式转向代建与运营。",
+"sources": [
+{
+"title": "维基百科：恒大集团",
+"url": "https://zh.wikipedia.org/wiki/恒大集团",
+"type": "wiki"
+}
+],
+"tags": [
+"恒大",
+"许家印"
+]
+},
+{
+"id": "2023-12-18-jishishan-quake",
+"date": "2023-12-18",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "甘肃积石山6.2级地震",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "深夜6.2级地震袭击甘肃积石山，151人遇难。零下十几度的寒夜救援、物资车的车灯连成长龙——北方寒冬里的这场地震考验着应急体系的每一个环节。",
+"detail": "震中位于青海甘肃交界，甘肃117人、青海32人遇难。",
+"impact": "冬季地震救援与过渡安置经验积累。",
+"aftermath": "灾后重建2024年推进，农房抗震改造扩面。",
+"sources": [
+{
+"title": "维基百科：2023年积石山地震",
+"url": "https://zh.wikipedia.org/wiki/2023年积石山地震",
+"type": "wiki"
+}
+],
+"tags": [
+"积石山",
+"地震"
+]
+},
+{
+"id": "2024-01-01-harbin-ice-city",
+"date": "2024-01-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "哈尔滨冰雪游爆火：『尔滨』的宠粉狂欢",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "冻梨切片摆盘、人造月亮、鄂伦春族巡游——哈尔滨为南方『小土豆』们掏出了家底，元旦假期旅游收入59亿。一座东北老城靠真诚与创意翻红，全网文旅卷成了一锅粥。",
+"detail": "2023-2024冰雪季哈尔滨接待游客8700余万人次，冰雪大世界门票秒罄。",
+"impact": "冰雪经济升格为国家战略（2024年国办发文）。",
+"aftermath": "2025年亚冬会在哈尔滨举行；『南方小金豆』成为年度热词。",
+"sources": [
+{
+"title": "维基百科：哈尔滨冰雪大世界",
+"url": "https://zh.wikipedia.org/wiki/哈尔滨冰雪大世界",
+"type": "wiki"
+}
+],
+"tags": [
+"哈尔滨",
+"冰雪经济"
+]
+},
+{
+"id": "2024-04-13-iran-israel-exchange",
+"date": "2024-04-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "伊朗首次从本土直接袭击以色列",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "以色列空袭伊朗驻叙使馆后，伊朗以300余架无人机与导弹直接打击以色列本土，中东两个宿敌第一次正面互射。全球屏息等待油价起飞，多数攻击被拦截。",
+"detail": "袭击起于4月1日大马士革使馆建筑被炸。10月伊朗再度导弹袭击，以色列回击。",
+"impact": "中东冲突『影子战争』转入公开化。",
+"aftermath": "2025年6月以色列空袭伊朗核设施引发12天战争后停火。",
+"sources": [
+{
+"title": "Wikipedia: Iran–Israel conflict",
+"url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_conflict",
+"type": "wiki"
+}
+],
+"tags": [
+"伊朗",
+"以色列"
+]
+},
+{
+"id": "2024-06-25-chang-e-6-return",
+"date": "2024-06-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "嫦娥六号带回1935.3克月背样品：人类首次",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "53天往返，嫦娥六号从月球背面南极-艾特肯盆地采回1935.3克样品——人类历史上第一次拿到月背的土。月球演化的『另一面』，从此对地球科学家敞开。",
+"detail": "6月25日返回器着陆内蒙古，鹊桥二号中继星保障月背通信。",
+"impact": "月背地质研究进入新纪元，样品陆续向全球开放研究。",
+"aftermath": "研究显示月背与正面成分显著差异；2030年前载人登月工程目标推进。",
+"sources": [
+{
+"title": "维基百科：嫦娥六号",
+"url": "https://zh.wikipedia.org/wiki/嫦娥六号",
+"type": "wiki"
+}
+],
+"tags": [
+"嫦娥六号",
+"月背"
+]
+},
+{
+"id": "2024-07-26-paris-olympics",
+"date": "2024-07-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "巴黎奥运会：塞纳河上的开幕式与40金平美国",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "奥运开幕式第一次搬出体育场，运动员乘船游览塞纳河。中国代表团40金与美国并列金牌榜第一（境外最佳），潘展乐100自世界纪录、郑钦文网球单金、马龙六金——巴黎的夏天属于这些名字。",
+"detail": "霹雳舞首次入奥，巴黎以极简办赛与城市地标场馆出圈。",
+"impact": "中国竞技体育境外最佳战绩，新生代运动员商业价值爆发。",
+"aftermath": "2028洛杉矶奥运备战启动；网球、游泳成为新流量入口。",
+"sources": [
+{
+"title": "维基百科：2024年夏季奥林匹克运动会",
+"url": "https://zh.wikipedia.org/wiki/2024年夏季奥林匹克运动会",
+"type": "wiki"
+}
+],
+"tags": [
+"巴黎奥运",
+"40金"
+]
+},
+{
+"id": "2024-09-13-delayed-retirement",
+"date": "2024-09-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "延迟退休落地：渐进式延迟男至63岁女至58岁",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "人大常委会通过决定：自2025年1月1日起用15年时间渐进延迟法定退休年龄，男职工延至63岁。四十年没变的退休线改了——每个打工人的日历都因此重算。",
+"detail": "同步实施弹性退休与最低缴费年限逐步提高（2030年起从15年渐增至20年）。",
+"impact": "养老金体系可持续性与个人职业规划双重调整。",
+"aftermath": "个人养老金制度2024年12月全国推开；银发就业市场兴起。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国退休制度",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国退休制度",
+"type": "wiki"
+}
+],
+"tags": [
+"延迟退休",
+"养老"
+]
+},
+{
+"id": "2024-09-24-policy-swift",
+"date": "2024-09-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "金融三部门重磅组合拳：A股国庆前的史诗级行情",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "央行、金管局、证监会联合宣布降准降息、创设互换便利与回购增持再贷款。A股随后五个交易日暴涨25%，成交额破3.5万亿创纪录，服务器一度被买爆——『牛市来了』冲上每个群聊。",
+"detail": "9月26日政治局会议加码『促进房地产市场止跌回稳』，10月发改委、财政部接力发布增量政策。",
+"impact": "市场信心大幅修复，居民资产配置再平衡。",
+"aftermath": "2024全年GDP增长5.0%；2025年政策延续『稳股市稳楼市』基调。",
+"sources": [
+{
+"title": "维基百科：上海证券交易所综合股价指数",
+"url": "https://zh.wikipedia.org/wiki/上海证券交易所综合股价指数",
+"type": "wiki"
+}
+],
+"tags": [
+"924新政",
+"牛市"
+]
+},
+{
+"id": "2024-11-06-trump-reelected",
+"date": "2024-11-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特朗普赢得大选重返白宫",
+"category": "world",
+"region": "world",
+"milestone": false,
+"summary_30s": "特朗普击败哈里斯，成为百余年来首位卸任后再度当选的美国总统。关税、移民、能源与对华政策的『特朗普2.0』版本，成为此后四年全球最大的变量。",
+"detail": "2025年1月20日就职后迅速签署上百项行政令，对华关税战2.0（2025-04对等关税）重启。",
+"impact": "全球贸易与科技竞争烈度再升级。",
+"aftermath": "2025年4月对等关税引发全球市场巨震后多轮谈判；中美日内瓦、伦敦会谈推动阶段性缓和。",
+"sources": [
+{
+"title": "Wikipedia: 2024 United States presidential election",
+"url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+"type": "wiki"
+}
+],
+"tags": [
+"特朗普",
+"大选"
+]
+},
+{
+"id": "2024-11-12-holiday-adjustment",
+"date": "2024-11-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "放假办法修订：除夕重回法定假日、五一多放两天",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院修订《全国年节及纪念日放假办法》：自2025年起除夕纳入春节假期、劳动节增为2天法定假，全年法定节假日增至13天。消息一出，全年抢票攻略连夜更新——这是打工人最直接感受到的政策温度。",
+"detail": "调休『连上七天班』的吐槽推动此次改革，同时明确调休原则。",
+"impact": "假日经济扩容，除夕团圆与五一出游双升级。",
+"aftermath": "2025年春运客流创历史新高；带薪休假落实讨论继续。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国节日与公众假期",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国节日与公众假期",
+"type": "wiki"
+}
+],
+"tags": [
+"放假",
+"除夕"
+]
+},
+{
+"id": "2025-01-20-deepseek-r1",
+"date": "2025-01-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek-R1 发布：中国大模型的『新王时刻』",
+"category": "milestone",
+"region": "cn",
+"milestone": true,
+"summary_30s": "杭州公司深度求索发布推理模型 DeepSeek-R1，性能比肩 OpenAI o1、训练成本却只有零头，且彻底开源。1月底其 App 登顶中美应用商店，英伟达单日蒸发5890亿美元创股史纪录——世界第一次把『AI 平权』四个字与中国公司连在一起。",
+"detail": "R1 以纯强化学习激发推理能力，API 价格约为同类的几十分之一。1月27日英伟达股价暴跌17%，硅谷连夜复现论文。",
+"impact": "全球AI竞争叙事改写：开源路线与成本曲线成为新主战场。",
+"aftermath": "R1-0528、V3.1、V3.2 等持续迭代；国产芯片适配与各行业本地化部署爆发，『DeepSeek 时刻』写入商业史。",
+"sources": [
+{
+"title": "DeepSeek 官方",
+"url": "https://api-docs.deepseek.com/news/news250120",
+"type": "official"
+}
+],
+"tags": [
+"DeepSeek",
+"大模型"
+]
+},
+{
+"id": "2025-01-29-nezha-2",
+"date": "2025-01-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《哪吒之魔童闹海》上映：154亿全球动画影史第一",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "哪吒2以154亿元票房登顶全球动画电影票房榜、冲进全球影史前五，把《头脑特工队2》《星球大战》们统统甩在身后。『我命由我不由天』续写第二部，中国动画工业终于站上世界之巅。",
+"detail": "春节档票房破纪录，单片观影人次超3亿；海外上映刷新华语片纪录。",
+"impact": "国产动画工业化能力获得全球级验证。",
+"aftermath": "光线传媒股价暴涨；饺子团队新作与《哪吒3》筹备成为长期话题。",
+"sources": [
+{
+"title": "维基百科：哪吒之魔童闹海",
+"url": "https://zh.wikipedia.org/wiki/哪吒之魔童闹海",
+"type": "wiki"
+}
+],
+"tags": [
+"哪吒2",
+"票房"
+]
+},
+{
+"id": "2025-04-02-reciprocal-tariffs",
+"date": "2025-04-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美国『对等关税』落地：全球贸易剧烈震荡",
+"category": "economy",
+"region": "world",
+"milestone": false,
+"summary_30s": "特朗普宣布对全球征收『对等关税』，对华税率一度叠加至145%，全球股市汇市巨震。中国对等反制，世界贸易体系迎来1930年代以来最大压力测试。",
+"detail": "4月9日部分关税暂缓90天；5月12日中美日内瓦联合声明大幅下调互相税率，此后多轮会谈维持脆弱缓和。",
+"impact": "供应链二次迁移、转口贸易与内需对冲全面启动。",
+"aftermath": "关税战2.0常态化，中国出口转向东盟、拉美与『一带一路』市场。",
+"sources": [
+{
+"title": "Wikipedia: Tariffs in the second Trump administration",
+"url": "https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration",
+"type": "wiki"
+}
+],
+"tags": [
+"关税战",
+"对等关税"
+]
+},
+{
+"id": "2025-07-28-child-subsidy",
+"date": "2025-07-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "国家育儿补贴制度出台：每孩每年3600元到3岁",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "全国统一的育儿补贴制度落地：3岁以下每孩每年3600元，多地配套生育奖励（呼和浩特三孩10万、济南二孩每月600元等）。生不生依然是个问题，但国家第一次真金白银地进场了。",
+"detail": "补贴自2025年1月1日起算，通过全国系统直发。",
+"impact": "生育支持从口号进入现金时代。",
+"aftermath": "托育扩容、学前教育免费（2025年秋季起大班免保教费）等组合拳继续加码。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国生育政策",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国生育政策",
+"type": "wiki"
+}
+],
+"tags": [
+"育儿补贴",
+"生育支持"
+]
+},
+{
+"id": "2025-09-03-80th-parade",
+"date": "2025-09-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "纪念抗战胜利80周年阅兵",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "九三阅兵在天安门举行，东风-61、鹰击-21等新装备首次亮相，26国元首观礼。钢铁洪流与无人作战方队的组合，宣告一场以智能化为底色的军事变革正在完成。",
+"detail": "阅兵展示众多首次公开的导弹与无人装备，民间剪辑二创刷屏短视频平台。",
+"impact": "国防成果集中展示与国际信号传递。",
+"aftermath": "2027年建军百年目标临近，无人智能装备列装加速。",
+"sources": [
+{
+"title": "维基百科：纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会",
+"url": "https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会",
+"type": "wiki"
+}
+],
+"tags": [
+"九三阅兵",
+"80周年"
+]
+},
+{
+"id": "2025-10-23-fourth-plenum-15five",
+"date": "2025-10-23",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "二十届四中全会：谋划『十五五』规划建议",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "四中全会审议通过『十五五』规划建议，锚定2035年基本实现社会主义现代化。科技自立自强、扩大内需与民生保障被置于更突出位置——未来五年的国家剧本定稿。",
+"detail": "2026年3月全国人大表决通过《十五五规划纲要》，GDP预期目标定为4.5%-5%。",
+"impact": "未来五年政策资源的总分配表出炉。",
+"aftermath": "新质生产力、统一大市场、生育支持等成为十五五重点工程。",
+"sources": [
+{
+"title": "新华网",
+"url": "https://www.news.cn/politics/20260305/e5c6a09cba0f445b9ee6cc6f8973132a/c.html",
+"type": "news"
+}
+],
+"tags": [
+"十五五",
+"四中全会"
+]
+},
+{
+"id": "2026-02-16-cny-eve-gala",
+"date": "2026-02-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "除夕夜春晚：除夕放假后的第一个团圆夜",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "放假办法修订后的第一个除夕，全国打工人第一次合法地在除夕当天回家。春晚在爆竹声中照常开演——几亿人围炉守岁的旧俗，在制度层面被找了回来。",
+"detail": "2026年春节为2月17日，除夕2月16日；假期自2月15日（腊月廿八调休）起连放。",
+"impact": "春节假期的实际团圆时长显著增加。",
+"aftermath": "春运客流、文旅消费再创新高。",
+"sources": [
+{
+"title": "维基百科：中华人民共和国节日与公众假期",
+"url": "https://zh.wikipedia.org/wiki/中华人民共和国节日与公众假期",
+"type": "wiki"
+}
+],
+"tags": [
+"除夕",
+"春晚"
+]
+},
+{
+"id": "2026-03-05-two-sessions-2026",
+"date": "2026-03-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2026年全国两会开幕：『十五五』开局定调",
+"category": "national",
+"region": "cn",
+"milestone": false,
+"summary_30s": "十四届全国人大四次会议开幕，政府工作报告提出2026年GDP增长4.5%-5%、新增就业1200万以上，把『着力建设强大国内市场』列为任务之首。『十五五』的第一个春天，从人民大会堂开始。",
+"detail": "报告强调坚持内需主导、统筹促消费和扩投资，发布于3月5日。",
+"impact": "2026年宏观政策主线确定：扩内需、强科技、保民生。",
+"aftermath": "消费补贴、AI+行动等专项政策随后逐月落地。",
+"sources": [
+{
+"title": "中国政府网：2026年政府工作报告",
+"url": "http://www.gov.cn/yaowen/liebiao/202603/content_7062625.htm",
+"type": "official"
+},
+{
+"title": "新华网解读",
+"url": "https://www.news.cn/politics/20260305/e5c6a09cba0f445b9ee6cc6f8973132a/c.html",
+"type": "news"
+}
+],
+"tags": [
+"两会",
+"十五五"
+]
+},
+{
+"id": "2026-06-11-world-cup-2026",
+"date": "2026-06-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "美加墨世界杯开幕：48队时代的首届世界杯",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "世界杯首次扩军到48支球队、横跨美国加拿大墨西哥16座城市开踢。中国男足依旧没进决赛圈，但中国元素从球场广告到球迷消费依旧无孔不入——这个夏天，全世界的时差都是足球时差。",
+"detail": "决赛定于7月19日新泽西大都会人寿球场举行。",
+"impact": "北美夏季体育经济爆发，观赛社交与短视频二创再成流量顶点。",
+"aftermath": "2030年世界杯由西葡摩三国承办并横跨三大洲揭幕。",
+"sources": [
+{
+"title": "Wikipedia: 2026 FIFA World Cup",
+"url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"48队"
+]
+}
+]
