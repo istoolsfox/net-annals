@@ -1,0 +1,1586 @@
+[
+{
+"id": "2020-01-01-tiktok-downloads-first",
+"date": "2020-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "TikTok登顶2020全球下载榜：中国App的全球化样本",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "移动数据分析机构App Annie年度报告显示，TikTok以约8.5亿次下载蝉联2020年全球应用下载榜第一，短视频与算法推荐的中国模式完成全球输出。短视频军备竞赛自此席卷全球。",
+"detail": "疫情让全球用户时长涌向手机，TikTok在美国、欧洲、东南亚、拉美全面爆发，连续第二年登顶全球下载榜。字节跳动把『算法分发+短视频+全民创作』的抖音方法论原样复制到海外，本地化运营叠加创作者激励，让 TikTok 成为第一家真正意义上全球化的中国互联网公司，Facebook 被迫以 Reels 应对。",
+"impact": "中国互联网产品第一次在全球C端市场占据统治级地位，字节跳动估值随之飙升为全球最大独角兽。",
+"aftermath": "2021年TikTok月活突破10亿并启动TikTok Shop电商化；全球短视频军备竞赛延续至今。",
+"sources": [
+{
+"title": "维基百科：TikTok",
+"url": "https://en.wikipedia.org/wiki/TikTok",
+"type": "wiki"
+}
+],
+"tags": [
+"TikTok",
+"字节跳动",
+"出海"
+]
+},
+{
+"id": "2020-01-07-tesla-model3-shanghai",
+"date": "2020-01-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特斯拉国产 Model 3 首批交付：上海超级工厂的『特斯拉速度』",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "特斯拉上海超级工厂竣工不到一年即投产，1月7日首批国产 Model 3 交付员工车主，马斯克到场助阵。国产化让 Model 3 价格一路下探，中国新能源汽车市场被彻底搅动。",
+"detail": "上海超级工厂2019年初动工、当年年底整车下线，被业界称为『特斯拉速度』。2020年1月7日，首批国产 Model 3 交付内部员工车主，马斯克亲临现场。随着零部件国产化率提升，Model 3 起售价逐步降至25万元以内，直接冲击蔚来、小鹏等中国造车新势力和传统燃油B级车市场。2020年特斯拉全球交付近50万辆，中国工厂成为最大增量来源。",
+"impact": "中国从特斯拉的对手盘变成它最大的单一市场与供应链腹地，宁德时代等中国供应商借此深度绑定全球电动车产业链。",
+"aftermath": "Model Y 2021年初在上海投产交付；特斯拉股价2020年大涨，市值超越丰田登顶全球车企；本土新势力与比亚迪在2021年后开启全面反攻。",
+"sources": [
+{
+"title": "维基百科：特斯拉超级工厂（上海）",
+"url": "https://en.wikipedia.org/wiki/Gigafactory_Shanghai",
+"type": "wiki"
+}
+],
+"tags": [
+"特斯拉",
+"新能源汽车",
+"上海超级工厂"
+]
+},
+{
+"id": "2020-01-21-shipinhao-neice",
+"date": "2020-01-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微信视频号开启内测：微信补上短视频这一课",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月21日晚，微信『视频号』开启内测，入口放在发现页朋友圈下方。在抖音快手的夹击下，微信终于直接下场做短视频，马化腾称它是微信事业群『全厂的希望』。抖音与微信的正面交锋自此全面展开。",
+"detail": "张小龙1月9日在微信公开课上预告要做『短内容』，半个月后视频号开启内测，初期仅向广州、成都、西安、沈阳四城用户开放。视频号采用社交推荐机制，与公众号、小程序、微信支付打通，被视为微信在图文时代之后对短视频时代的正面回应。此后视频号逐步全量开放，公众号可插入视频号内容，直播功能相继上线。",
+"impact": "微信生态第一次有了日活过亿的短视频场域，视频号随后成为腾讯业绩会上被反复提及的新增长点。",
+"aftermath": "2021-2022年视频号演唱会直播与带货直播相继破圈，成为抖音快手之外的第三极短视频平台。",
+"sources": [
+{
+"title": "财新：微信内测视频号能否搅局短视频江湖",
+"url": "https://m.caixin.com/m/2020-01-22/101507136.html",
+"type": "news"
+},
+{
+"title": "新浪财经：视频号复盘（提及2020-01-21内测）",
+"url": "https://finance.sina.com.cn/jjxw/2023-09-25/doc-imznxqsy4182952.shtml",
+"type": "news"
+}
+],
+"tags": [
+"微信",
+"视频号",
+"短视频"
+]
+},
+{
+"id": "2020-02-13-xiaomi-mi10",
+"date": "2020-02-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米10纯线上发布：小米十周年冲高第一战",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "疫情之中，小米用纯直播方式发布十周年旗舰小米10，3999元起步价首次站稳高端。雷军戴口罩讲完整场发布会，开启了科技圈『云发布会』模式。这一年国产手机的高端争夺战正式打响。",
+"detail": "2月13日小米通过纯线上直播发布小米10系列，搭载骁龙865与一亿像素相机，3999元起的定价比小米9高出约千元，是小米数字系列第一次冲击4000元档。雷军全程戴口罩完成整场演讲，各厂商随后纷纷效仿线上发布会。小米10系列生命周期销量可观，验证了小米高端化战略的可行性。",
+"impact": "2020年旗舰季全部搬到线上，小米确立『冲击高端』主线，为其后对标苹果与宣布造车铺路。",
+"aftermath": "2020年8月雷军发表十周年公开演讲，2021年小米把高端化写进组织与研发投入，2024年SU7上市完成『人车家』叙事合流。",
+"sources": [
+{
+"title": "维基百科：Xiaomi Mi 10",
+"url": "https://en.wikipedia.org/wiki/Xiaomi_Mi_10",
+"type": "wiki"
+}
+],
+"tags": [
+"小米",
+"雷军",
+"旗舰手机"
+]
+},
+{
+"id": "2020-03-20-dongsen-fashou",
+"date": "2020-03-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《集合啦！动物森友会》发售：隔离时代的快乐岛",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "任天堂 Switch 大作《动物森友会》3月20日全球发售，正赶上全球居家隔离，玩家涌上无人岛种树钓鱼。发售12天销量破1177万份，成为 Switch 史上首销最快游戏。",
+"detail": "动森以慢节奏的岛屿生活模拟对抗高强度的现实，疫情期间全球玩家在岛上办婚礼、开毕业典礼、复刻名画名景。任天堂披露发售12天销量即达1177万份，当年内成为 Switch 系列最畅销作品之一，主机与游戏一度双双断货，国内水货渠道价格翻倍，B站动森相关内容播放量暴涨。",
+"impact": "证明了『治愈系』游戏在危机时代的情绪价值，把 Switch 国民度推上新台阶，也为2020年游戏行业整体逆势爆发定调。",
+"aftermath": "《健身环大冒险》《糖豆人》随后接力；动森此后多年稳居 Switch 销量榜前列，2024年销量已超4700万份。",
+"sources": [
+{
+"title": "维基百科：集合啦！动物森友会",
+"url": "https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83",
+"type": "wiki"
+},
+{
+"title": "维基百科：Animal Crossing: New Horizons",
+"url": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+"type": "wiki"
+}
+],
+"tags": [
+"任天堂",
+"Switch",
+"动物森友会"
+]
+},
+{
+"id": "2020-04-01-laohu-shoubo",
+"date": "2020-04-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "罗永浩抖音直播首秀：1.1亿销售额的带货时代注脚",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月1日晚罗永浩在抖音开启直播带货首秀，3小时支付交易总额1.1亿元，累计观看4800万人次。欠债翻身的中年男人，站上了直播电商的风口。首秀日期选在愚人节当天，自带话题度。",
+"detail": "首秀货品从手机、茶饮到剃须刀覆盖全品类，罗永浩以『相声式带货』制造了巨大话题量，抖音也给出首页流量支持。『真还传』人设与屡战屡败的企业家形象叠加，让这场直播成为2020年直播电商元年的标志性事件。此后『交个朋友』直播间固定开播，销售虽有起伏但稳居抖音头部。",
+"impact": "名人IP+平台流量+全品类货盘的组合被反复验证，抖音借此补上直播带货头牌，『所有生意都值得重做一遍』成为当年口号。",
+"aftermath": "交个朋友2023年在港借壳上市；老罗2022年6月宣布淡出社交平台，把直播间交给团队；知识型直播随后在东方甄选身上复刻。",
+"sources": [
+{
+"title": "维基百科：罗永浩",
+"url": "https://zh.wikipedia.org/wiki/%E7%BD%97%E6%B0%B8%E6%B5%A9",
+"type": "wiki"
+}
+],
+"tags": [
+"罗永浩",
+"直播带货",
+"抖音"
+]
+},
+{
+"id": "2020-04-01-zoom-baofa",
+"date": "2020-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "Zoom 借疫情爆发：视频会议成为全民基础设施",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "疫情把全球会议搬进 Zoom，2020年4月其日会参与人次达3亿，较2019年12月暴增约20倍，『Zoom疲劳』成为全球通用词，视频会议第一次变成水电煤式的基础设施。",
+"detail": "Zoom 凭『一键入会』的极简体验碾压传统视频会议软件，2020年一季度营收同比增长169%。爆红也伴随麻烦：会议轰炸（Zoombombing）与加密安全争议接连出现，Zoom 宣布功能冻结90天集中修复。国内腾讯会议、钉钉同样爆发，钉钉甚至被居家上课的小学生打一星后『在线求饶』，成为年度互联网名场面。",
+"impact": "远程办公从备用方案变成常态选项，企业协作软件赛道被彻底打开。",
+"aftermath": "Zoom 股价2020年10月见顶后随疫情消退回落；腾讯会议、飞书在国内延续增长，混合办公成为全球企业的标配制度。",
+"sources": [
+{
+"title": "维基百科：Zoom (software)",
+"url": "https://en.wikipedia.org/wiki/Zoom_(software)",
+"type": "wiki"
+}
+],
+"tags": [
+"Zoom",
+"远程办公",
+"疫情经济"
+]
+},
+{
+"id": "2020-05-03-houlang",
+"date": "2020-05-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "B站《后浪》刷屏：破圈战略的宣言片",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月3日晚B站发布演讲视频《后浪》，何冰的独白一夜刷屏朋友圈，B站2020年『破圈』战役正式打响，同时也引发关于代际话语的巨大争议。视频发布当晚即冲上微博热搜，次日讨论持续发酵。",
+"detail": "《后浪》由国家一级演员何冰演讲、bilibili 团队制作，五四前夜发布后迅速登上热搜，并在央视一套等平台同步露出。视频发布后B站股价上涨，2020年B站以《后浪》《入海》《喜相逢》三部曲持续向大众市场扩张，当年月活用户突破2亿。围绕视频『只呈现精英青年生活』的批评也大量出现，社区属性与大众化的张力开始显现。",
+"impact": "这是B站从二次元社区向全年龄内容平台跃迁的标志性营销事件，bilibili 从此进入主流视野。",
+"aftermath": "2021年B站在港交所二次上市，UP主生态持续扩张，社区扩容与内容质量的争论延续至今。",
+"sources": [
+{
+"title": "bilibili《后浪》官方视频",
+"url": "https://www.bilibili.com/video/BV1FV411d7u7",
+"type": "video"
+}
+],
+"tags": [
+"B站",
+"后浪",
+"破圈"
+]
+},
+{
+"id": "2020-06-11-wangyi-huigang",
+"date": "2020-06-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "网易回港二次上市：中概股回流第一波",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月11日网易在港交所二次上市，代码9999.HK，发行价123港元，首日收涨约5.7%，成为继阿里之后第二家回港的大型中概股。募资超210亿港元，投向全球化与技术创新。",
+"detail": "网易此次发行新股募资超过210亿港元，投向全球化与技术创新。2019年底阿里巴巴率先回港之后，网易与一周后的京东接连挂牌，确认了中概股回港二次上市的批量通道。彼时美股监管环境生变，双重融资渠道成为大型中概股的确定性选择，港股科技板块生态自此被重塑。",
+"impact": "打开了2020-2022年的中概股回港潮，百度、B站、携程、理想等相继跟进，港股从此拥有完整的互联网科技板块。",
+"aftermath": "2022年后『双重主要上市』取代二次上市成为主流；网易游戏海外扩张延续多年，港股表现长期稳健。",
+"sources": [
+{
+"title": "维基百科：网易",
+"url": "https://zh.wikipedia.org/wiki/%E7%BD%91%E6%98%93",
+"type": "wiki"
+}
+],
+"tags": [
+"网易",
+"港交所",
+"中概股回归"
+]
+},
+{
+"id": "2020-06-12-langjie-shoubo",
+"date": "2020-06-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《乘风破浪的姐姐》开播：30+女艺人翻红元年",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月12日芒果TV《乘风破浪的姐姐》无预警空降开播，宁静、张雨绮等30位30+女艺人竞演翻红，首日播放量破亿，『她综艺』成为行业热词。首播即屠榜热搜，热度延续整个夏天。",
+"detail": "节目上线当天无预热即屠榜热搜，首期播放量迅速破亿，芒果超媒股价应声大涨。《姐姐》把30+女性题材与竞演综艺结合，宁静的『还要介绍我是谁，那我这十几年白干了』与张雨绮的直率人设轮番出圈。它让熟龄艺人翻红成为综艺新逻辑，也让芒果TV的综艺能力被资本市场重估。",
+"impact": "综艺市场从流量明星选秀转向情怀与熟龄艺人翻红逻辑，芒果TV用户规模迈上新台阶。",
+"aftermath": "『姐姐』『哥哥』系列连办多季成为芒果王牌IP；2022年第三季王心凌翻红再度复刻这一模式。",
+"sources": [
+{
+"title": "维基百科：乘风破浪的姐姐",
+"url": "https://zh.wikipedia.org/wiki/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90",
+"type": "wiki"
+}
+],
+"tags": [
+"综艺",
+"芒果TV",
+"乘风破浪的姐姐"
+]
+},
+{
+"id": "2020-06-16-yinmi-de-jiaoluo",
+"date": "2020-06-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《隐秘的角落》开播：国产悬疑剧的高光时刻",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月16日爱奇艺迷雾剧场《隐秘的角落》开播，次日豆瓣开分9.0，『一起爬山吗』成为年度热梗，短剧集悬疑剧第一次成为全民爆款。秦昊的演技与辛爽的视听风格被反复称道。",
+"detail": "辛爽执导、改编自紫金陈小说《坏小孩》，秦昊、王景春、荣梓杉主演，12集体量对标美剧制作。播出后豆瓣评分一度冲到9.2，片尾曲与『爬山梗』二创刷屏，张东升成为年度反派符号。迷雾剧场由此确立品牌，同年《沉默的真相》再获口碑封神，国产短剧集第一次集体赢得大众市场。",
+"impact": "证明『短+精』的剧场模式可以做出国民级内容，视频平台从拼量转向拼精品，各大平台随后纷纷复制悬疑剧场。",
+"aftermath": "2021年迷雾剧场口碑滑坡，但《隐秘的角落》仍是国产短剧集天花板之一；张颂文等实力派演员此后陆续走红。",
+"sources": [
+{
+"title": "维基百科：隐秘的角落",
+"url": "https://zh.wikipedia.org/wiki/%E9%9A%90%E7%A7%98%E7%9A%84%E8%A7%92%E8%90%BD",
+"type": "wiki"
+}
+],
+"tags": [
+"悬疑剧",
+"爱奇艺",
+"迷雾剧场"
+]
+},
+{
+"id": "2020-06-18-jingdong-huigang",
+"date": "2020-06-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "京东回港二次上市：618当天敲钟",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月18日京东在港交所二次上市，代码9618.HK，发行价226港元，募资约300亿港元，正好赶上自家618大促当天挂牌。与网易仅隔一周先后挂牌，港股自此迎来零售科技集群。",
+"detail": "京东集团-SW与网易仅隔一周先后回港，募资投向供应链与技术创新以及低线市场拓展。2020年京东完成对达达的增持与整合，『物流+零售』的供应链故事在港股获得重新定价。此后京东系资产陆续分拆证券化，港股迎来零售科技集团集群。京东零售、物流、健康的分拆证券化路线图由此全面展开。",
+"impact": "确认了中概股回港二次上市的批量通道，京东健康、京东物流等子公司随后密集上市。",
+"aftermath": "2020年12月京东健康上市、2021年5月京东物流上市；京东2022年完成港股双重主要上市转换。",
+"sources": [
+{
+"title": "维基百科：京东",
+"url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E4%B8%9C",
+"type": "wiki"
+}
+],
+"tags": [
+"京东",
+"港交所",
+"二次上市"
+]
+},
+{
+"id": "2020-07-30-lixiao-shangshi",
+"date": "2020-07-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "理想汽车登陆纳斯达克：李想二次创业敲钟",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月30日理想汽车以代码 LI 登陆纳斯达克，发行价11.5美元，首日大涨43%，成为继蔚来之后第二家上市的中国造车新势力。IPO募资约10亿美元，当天股票代码LI正式亮相。",
+"detail": "理想 ONE 以增程式路线切入家庭用户，2020年上半年交付量快速爬坡并率先实现毛利转正，李想选择在窗口期果断上市，IPO募资约10亿美元。首日收盘16.46美元，市场给『增程+家庭SUV』的差异化路线投了票。一个月后小鹏跟进，中国新势力在美股集体亮相。",
+"impact": "新势力融资通道彻底打开，中国电动车军团开始与特斯拉在资本市场正面对垒。",
+"aftermath": "理想2023年完成港交所双重主要上市，凭L系列成为当年新势力销量冠军。",
+"sources": [
+{
+"title": "维基百科：理想汽车",
+"url": "https://zh.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6",
+"type": "wiki"
+}
+],
+"tags": [
+"理想汽车",
+"造车新势力",
+"纳斯达克"
+]
+},
+{
+"id": "2020-08-21-babai-shangying",
+"date": "2020-08-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《八佰》上映：中国电影市场复工第一炮",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月21日管虎《八佰》上映，最终票房超31亿元，一度登顶2020年全球票房榜，是影院复工后首部拉回观众的华语重磅大片。点映口碑发酵后首周票房即破10亿元，IMAX场场售罄。",
+"detail": "作为影院复工后的首部重磅华语大片，《八佰》点映口碑发酵后首周票房破10亿，IMAX场次售罄成常态。影片全程使用 IMAX 摄影机拍摄的工业化规格被广泛讨论，叙事争议与票房神话同时发生。全年中国电影市场因疫情大幅萎缩，《八佰》以一己之力把观众拉回影院，并成为当年全球票房最高的非好莱坞电影之一。",
+"impact": "拉开中国电影市场修复与国产片强势周期的序幕，《你好，李焕英》《长津湖》接连刷新纪录。",
+"aftermath": "2021年《长津湖》以57.75亿元登顶中国影史票房榜；主旋律商业大片成为此后数年的票房支柱类型。",
+"sources": [
+{
+"title": "维基百科：八佰",
+"url": "https://zh.wikipedia.org/wiki/%E5%85%AB%E4%BD%B0",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"票房",
+"八佰"
+]
+},
+{
+"id": "2020-08-27-xiaopeng-shangshi",
+"date": "2020-08-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小鹏汽车纽交所上市：智能化标签的新势力第三极",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月27日小鹏汽车以代码 XPEV 登陆纽交所，发行价15美元，首日收涨超41%，一个月内第三家敲钟的中国新势力车企。IPO募资约15亿美元，P7轿跑同期交付爬坡。",
+"detail": "小鹏以全栈自研智能驾驶（XPILOT）为卖点，P7轿跑2020年上半年上市后交付快速爬坡。IPO发行价从指导区间上调至15美元，募资约15亿美元，同年12月再度增发。何小鹏作为UC创始人二次创业的故事，让小鹏成为『互联网人造车』的代表样本。",
+"impact": "蔚小理三强在2020年全部完成美股上市，资本加持下中国智能电动车供应链加速成熟。",
+"aftermath": "小鹏2021年港交所双重上市；2022年后经历G9风波与组织调整，2024年凭MONA系列重回销量头部。",
+"sources": [
+{
+"title": "维基百科：小鹏汽车",
+"url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6",
+"type": "wiki"
+}
+],
+"tags": [
+"小鹏汽车",
+"造车新势力",
+"纽交所"
+]
+},
+{
+"id": "2020-09-28-yuanshen-shangxian",
+"date": "2020-09-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《原神》全球上线：中国手游出海的里程碑",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月28日米哈游开放世界游戏《原神》全球同步上线，首月移动端收入约2.45亿美元，登顶中国手游出海收入榜，国产游戏第一次以全平台开放世界形态立足全球。多端互通的产品形态在当时行业独一无二。",
+"detail": "《原神》以 iOS、安卓、PC、PS4 多端互通与二次元开放世界的形态面世，主机级品质让『国产手游』第一次在全球主机与PC玩家中赢得尊重。Sensor Tower 数据显示其上线首月移动端收入约2.45亿美元，此后长期位居全球手游收入榜前列。抽卡商业模式与游戏品质的争论同步发酵，『原学』成为网络亚文化。",
+"impact": "中国自研游戏第一次以全球同步、主机级品质参与全球竞争，米哈游成为上海游戏产业名片。",
+"aftermath": "《原神》连年位居全球手游收入前列；米哈游2023年推出《崩坏：星穹铁道》延续方法论，中国游戏出海进入精品化时代。",
+"sources": [
+{
+"title": "维基百科：原神",
+"url": "https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%A5%9E",
+"type": "wiki"
+}
+],
+"tags": [
+"米哈游",
+"原神",
+"游戏出海"
+]
+},
+{
+"id": "2020-10-14-iphone12",
+"date": "2020-10-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "iPhone 12发布：苹果进入5G与直角边框时代",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月14日凌晨苹果发布iPhone 12系列，全系5G并回归直角边框设计，起步价5499元。取消附赠充电头引发争议，但挡不住它成为新一代爆款。四款机型同场齐发，覆盖全价位段。",
+"detail": "iPhone 12 mini/12/12 Pro/12 Pro Max 四款齐发，全系OLED屏幕与A14仿生芯片，是苹果第一个5G系列。MagSafe 磁吸生态与杜比视界录像成为新卖点，不附赠充电器的『环保』策略被全球厂商效仿也饱受争议。iPhone 12上市后长期供不应求，2021财年苹果营收创新高，在中国高端市场份额持续走高。",
+"impact": "拉开全球5G手机换机潮，华为让出的高端市场被苹果大量承接，中国高端机格局开始改写。",
+"aftermath": "2021年iPhone 13延续直角设计并加量降价，『13香』供不应求；5G换机潮随后两年覆盖全球主流市场。",
+"sources": [
+{
+"title": "维基百科：iPhone 12",
+"url": "https://en.wikipedia.org/wiki/IPhone_12",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"iPhone 12",
+"5G手机"
+]
+},
+{
+"id": "2020-10-16-wuxian-lieche",
+"date": "2020-10-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《鬼灭之刃 无限列车篇》上映：疫情中的票房奇迹",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月16日《鬼灭之刃剧场版：无限列车篇》在日本上映，最终票房约404亿日元，超越《千与千寻》登顶日本影史票房冠军，并成为2020年全球票房冠军。上映时日本影院仍受上座率限制。",
+"detail": "上映时日本影院仍在上座率限制之中，影片却连破首周末、最快百亿等多项纪录，最终票房约404亿日元，终结了《千与千寻》保持19年的纪录，并在年底登顶2020年全球票房榜，终结了好莱坞对该席位的长期垄断。『鬼灭经济』席卷日本，漫画单年销量破亿册，周边与音乐全面开花。",
+"impact": "动漫剧场版的商业天花板被全球重估，IP运营的工业化模式成为行业范本。",
+"aftermath": "《咒术回战0》等接棒刷新纪录；无限列车篇TV版2021年播出，ufotable 成为全球动画工业标杆之一。",
+"sources": [
+{
+"title": "维基百科：剧场版 鬼灭之刃 无限列车篇",
+"url": "https://zh.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88_%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83_%E7%84%A1%E9%99%90%E5%88%97%E8%BB%8A%E7%AF%87",
+"type": "wiki"
+},
+{
+"title": "维基百科：Demon Slayer: Mugen Train",
+"url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Mugen_Train",
+"type": "wiki"
+}
+],
+"tags": [
+"鬼灭之刃",
+"日本电影",
+"票房纪录"
+]
+},
+{
+"id": "2020-10-22-mate40",
+"date": "2020-10-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为Mate 40发布：麒麟9000的『绝版之作』",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月22日晚华为线上发布Mate 40系列，麒麟9000是全球首款5nm 5G SoC。受代工断供影响备货有限，它被普遍视为麒麟高端芯片的绝唱。发布前一个月，台积电代工通道刚刚关闭。",
+"detail": "Mate 40系列搭载台积电5nm工艺的麒麟9000，发布即面临备货有限的现实——9月15日台积电对华为的代工通道正式关闭。缺货与溢价成为常态，余承东多次坦承『麒麟芯片成为绝唱』。这一年华为手机出货量一度登顶全球第一后开始回落，中国高端手机市场迎来真空期。",
+"impact": "中国手机高端格局被改写：苹果迅速填补空白，小米OV争抢高端，国产自研芯片议题进入全民视野。",
+"aftermath": "2021年华为手机出货暴跌、荣耀独立；2023年Mate 60系列携麒麟回归成为现象级事件。",
+"sources": [
+{
+"title": "维基百科：Huawei Mate 40",
+"url": "https://en.wikipedia.org/wiki/Huawei_Mate_40",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"麒麟9000",
+"Mate 40"
+]
+},
+{
+"id": "2020-11-11-mac-m1",
+"date": "2020-11-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果M1芯片发布：Mac告别英特尔时代",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月11日凌晨苹果发布自研电脑芯片M1及三款Mac，iPhone同源架构进入电脑。性能与能效碾压同级Intel机型，Mac开始两年全面切换自研芯片。MacBook Air从此不再需要风扇。",
+"detail": "M1基于Arm架构、5nm工艺，集成CPU、GPU与神经网络引擎：MacBook Air 从此无需风扇，续航最高18小时。Rosetta 2让旧软件平滑迁移，首发兼容性问题远好于预期，评测普遍给出『苹果给笔记本行业上了一课』的评价。这是苹果两年过渡期计划的第一步，Intel股价应声下跌。",
+"impact": "打破x86在个人电脑四十年的统治叙事，引发Windows阵营跟进Arm PC，『自研芯片』成为全球科技公司的必修课。",
+"aftermath": "2021年M1 Pro/Max、2022年M2、2023年M3系列陆续推出，Mac产品线两年内完成全面切换。",
+"sources": [
+{
+"title": "维基百科：Apple M1",
+"url": "https://en.wikipedia.org/wiki/Apple_M1",
+"type": "wiki"
+},
+{
+"title": "维基百科：Apple silicon",
+"url": "https://en.wikipedia.org/wiki/Apple_silicon",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"M1芯片",
+"Mac"
+]
+},
+{
+"id": "2020-11-17-rongyao-chushou",
+"date": "2020-11-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "荣耀正式脱离华为：30余家代理商接盘自救",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月17日多家企业在《深圳特区报》发布联合声明：华为整体出售荣耀业务资产，由深圳智信新信息技术有限公司接手，华为不再持股、不再参与经营。荣耀品牌与团队整体迁移、独立运营。",
+"detail": "收购方深圳智信新由深圳国资与30余家荣耀代理商、经销商共同出资设立。华为官方声明称交割后的荣耀『不占有任何股份，也不参与经营管理与决策』，意在让产业链得以延续。独立后的荣耀随后与高通、联发科恢复合作，用一年多时间把市场份额从谷底拉回国内前列。",
+"impact": "华为以『断臂』保全了一条产业链与数万岗位，国产手机竞争格局重新洗牌。",
+"aftermath": "2021年荣耀50系列发布后份额迅速回升，2023年折叠屏与Magic系列冲击高端；2024年荣耀启动股改并谋求上市。",
+"sources": [
+{
+"title": "华为官网：华为出售荣耀声明",
+"url": "https://www.huawei.com/cn/news/2020/11/huawei-honor-statement",
+"type": "official"
+},
+{
+"title": "新浪财经：华为正式出售荣耀给深圳智信新",
+"url": "https://finance.sina.com.cn/tech/2020-11-17/doc-iiznctke1804290.shtml",
+"type": "news"
+}
+],
+"tags": [
+"荣耀",
+"华为",
+"出售"
+]
+},
+{
+"id": "2020-12-10-cyberpunk-2077",
+"date": "2020-12-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《赛博朋克2077》发售：最受期待游戏的翻车与回血",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月10日CD Projekt Red的《赛博朋克2077》发售，PC端Steam同时在线峰值破百万，但旧主机版灾难级优化引发退款潮，索尼一度将其从PS商店下架。",
+"detail": "游戏预售超过800万份，发售前即收回全部开发与营销成本。PC版口碑与销量双丰收，Steam同时在线峰值105万创单机游戏纪录；但PS4/Xbox One版本漏洞百出，大规模退款接踵而至，12月18日索尼将游戏从 PlayStation Store 下架，CDPR 股价腰斩并遭遇集体诉讼。『预告即成品』的行业潜规则被反噬，预购信任崩塌。",
+"impact": "成为游戏预购信任崩塌的标志性案例，也让『波兰蠢驴』从神坛跌落再艰难爬回。",
+"aftermath": "2021-2022年多轮修复后口碑回升，衍生动画《赛博朋克：边缘行者》2022年爆红并带动销量二次起飞。",
+"sources": [
+{
+"title": "维基百科：赛博朋克2077",
+"url": "https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077",
+"type": "wiki"
+}
+],
+"tags": [
+"赛博朋克2077",
+"CDPR",
+"单机游戏"
+]
+},
+{
+"id": "2021-01-21-weixin-shizhounian",
+"date": "2021-01-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微信十周年与8.0版本：状态、动态表情上线",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月21日微信十周岁当天，8.0版本上线『状态』与动态表情，张小龙在微信之夜预判视频化表达是下一个十年。每天10.9亿人打开微信的数据首次公开。状态功能让用户第一次给自己贴上心情标签。",
+"detail": "1月19日微信之夜张小龙发表近两小时演讲，披露每天10.9亿人打开微信、7.8亿人进朋友圈，预告视频号与直播是未来重点。两天后8.0版本全量推送：『状态』让用户给自己贴上心情标签，可播放的动态表情与浮窗改版同步上线。这是微信红包大战之后最大的一次版本改版，微信的重心从『沟通』向『表达』倾斜。",
+"impact": "状态与视频号为之后三年的社交与内容演进定了调，微信开始认真面对年轻化与视频化的双重命题。",
+"aftermath": "视频号2021-2022年高速增长，微信键盘、摇一摇下线等迭代持续；十周年演讲数据成为研究中国移动互联网的基本引用。",
+"sources": [
+{
+"title": "维基百科：微信",
+"url": "https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BF%A1",
+"type": "wiki"
+}
+],
+"tags": [
+"微信",
+"张小龙",
+"版本更新"
+]
+},
+{
+"id": "2021-01-27-gamestop",
+"date": "2021-01-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GameStop散户大战华尔街：WallStreetBets的轧空狂欢",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月27日GameStop收盘报347.51美元、单日暴涨135%。Reddit论坛WallStreetBets的散户抱团轧空对冲基金，一周内股价涨超10倍，空头机构巨亏离场。",
+"detail": "散户借助零佣金券商Robinhood与期权杠杆，把被机构重度做空的线下游戏零售商GameStop从年初约20美元一路推高。重仓做空的Melvin Capital巨亏获同业注资27.5亿美元，香橼研究宣布放弃做空业务。1月28日Robinhood等券商限制GME买入，舆论哗然，『金融民主化』与『打爆空头』成为全球meme。",
+"impact": "散户力量的组织化第一次震撼华尔街，社交平台加零佣金交易如何改变市场结构，从此进入全球监管视野。",
+"aftermath": "2021年2月美国国会举行听证；『meme股』现象蔓延全球，2024年散户回归再度引爆GameStop行情。",
+"sources": [
+{
+"title": "维基百科：GameStop short squeeze",
+"url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+"type": "wiki"
+}
+],
+"tags": [
+"GameStop",
+"散户",
+"华尔街"
+]
+},
+{
+"id": "2021-02-01-clubhouse",
+"date": "2021-02-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Clubhouse爆火：马斯克开麦引爆语音社交",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月1日马斯克在Clubhouse开麦畅聊火星与比特币，邀请码一码难求。这款音频社交App当月下载量暴涨至近千万次，全球科技圈排队求码。国内大厂一周内紧急跟进克隆产品。",
+"detail": "Clubhouse以『邀请制+实时语音房间』营造稀缺感与精英感，马斯克与Robinhood CEO的对谈让名人效应叠加。Sensor Tower数据显示其2月全球下载量达960万次，年初B轮融资估值已达10亿美元。国内大厂一周内紧急上线多款『对话吧』类克隆产品，语音社交风口昙花一现。",
+"impact": "证明了实时音频的社交想象力，也预演了『马斯克效应』对新产品的带动力，但热度随后快速退潮。",
+"aftermath": "2021年7月Clubhouse取消邀请制后用户回落；Twitter Spaces、Discord语音吸收了场景，中文克隆产品全部关停。",
+"sources": [
+{
+"title": "维基百科：Clubhouse (app)",
+"url": "https://en.wikipedia.org/wiki/Clubhouse_(app)",
+"type": "wiki"
+}
+],
+"tags": [
+"Clubhouse",
+"语音社交",
+"马斯克"
+]
+},
+{
+"id": "2021-02-05-kuaishou-shangshi",
+"date": "2021-02-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "快手登陆港交所：短视频第一股首日暴涨",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月5日快手科技在港交所挂牌，代码1024.HK，发行价115港元，首日收涨160.87%报300港元，市值约1.23万亿港元，散户认购超额约1200倍。短视频商业模式自此有了资本市场的定价锚。",
+"detail": "快手以『1024』这个程序员彩蛋代码上市，公开发售获得约1200倍认购，募资约542亿港元，创下当时港股IPO认购与冻结资金的纪录之一。『短视频第一股』给直播加广告加电商的商业模式定了价，也为字节跳动等未上市公司提供了估值锚。宿华、程一笑的联合创始人结构随上市首次完整亮相资本市场。",
+"impact": "短视频的商业模型第一次获得万亿级港元市值定价，直播电商板块估值整体重估。",
+"aftermath": "股价随后深度回调，2023年凭降本增效与电商增长市值修复；快手的万亿市值至今仍是港股互联网的分水岭案例。",
+"sources": [
+{
+"title": "维基百科：快手",
+"url": "https://zh.wikipedia.org/wiki/%E5%BF%AB%E6%89%8B",
+"type": "wiki"
+}
+],
+"tags": [
+"快手",
+"短视频",
+"港交所"
+]
+},
+{
+"id": "2021-02-12-lihuanying",
+"date": "2021-02-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《你好，李焕英》上映：贾玲的春节档奇迹",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "春节档《你好，李焕英》凭口碑逆袭，最终票房54.13亿元，贾玲一度成为全球票房最高的女导演，『含腾量』与催泪梗席卷社交网络。沈腾、张小斐的喜剧班底与母女题材功不可没。",
+"detail": "贾玲把怀念母亲的真人真事搬上银幕。春节档前期《唐人街探案3》一骑绝尘，但李焕英凭借泪点与口碑完成单日票房反超，最终以54.13亿元位居当时中国影史票房第二。张小斐一夜之间从配角演员变成顶流，贾玲的商业价值全面爆发，合家欢催泪成为春节档营销模板。",
+"impact": "春节档全年最大票仓的地位进一步固化，女性导演与家庭情感题材的商业价值被市场重估。",
+"aftermath": "好莱坞买下翻拍版权；贾玲2024年凭《热辣滚烫》再创春节档票房纪录。",
+"sources": [
+{
+"title": "维基百科：你好，李焕英",
+"url": "https://zh.wikipedia.org/wiki/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%9D%8E%E7%84%95%E8%8B%B1",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"春节档",
+"贾玲"
+]
+},
+{
+"id": "2021-03-10-roblox",
+"date": "2021-03-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Roblox纽交所上市：『元宇宙第一股』诞生",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月10日Roblox以直接上市方式登陆纽交所，收盘市值约450亿美元，比一年前估值涨了约7倍。『元宇宙』从此有了资本市场的锚。直接上市无新股发行，招股书把元宇宙写进公司叙事。",
+"detail": "Roblox以UGC游戏平台著称，玩家用Roblox Studio创作内容，2020年疫情中平均日活用户增至3260万。直接上市首日股价大涨，市值约450亿美元，招股书把『元宇宙』写进公司叙事。此后一年，元宇宙成为全球科技圈第一热词，VR硬件、虚拟偶像、数字资产全部被纳入这一叙事。",
+"impact": "为『下一代互联网』给出第一个美股定价样本，带动概念股与VR硬件的一轮投资热潮。",
+"aftermath": "2021年10月Facebook更名Meta、2022年微软宣布收购动视暴雪均被解读为元宇宙卡位；概念2022年后退潮，Roblox用户持续增长但股价回落。",
+"sources": [
+{
+"title": "维基百科：Roblox Corporation",
+"url": "https://en.wikipedia.org/wiki/Roblox_Corporation",
+"type": "wiki"
+}
+],
+"tags": [
+"Roblox",
+"元宇宙",
+"上市"
+]
+},
+{
+"id": "2021-03-29-bilibili-huigang",
+"date": "2021-03-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "B站回港二次上市：小破站拿到第二融资通道",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月29日哔哩哔哩在港交所二次上市，代码9626.HK，发行价808港元，首日小幅收跌。招股书披露月活用户已突破2亿。IPO募资约200亿港元，首日虽小幅破发但通道价值凸显。",
+"detail": "B站以『Z世代文化社区』叙事回港，IPO募资约200亿港元投向内容与研发。上市前夕B站经历短暂的服务故障与测试页面泄露风波，挂牌首日遭遇破发，但港股通道为其后续国创动画、电竞、直播的大额投入提供了双市场弹药。2021年全年B站月活向2.7亿迈进，破圈战略继续推进。",
+"impact": "中概回港潮延续，B站获得双市场融资通道，二次元社区与大众平台的身份之争进入新阶段。",
+"aftermath": "2022年B站月活突破3亿；2023年起公司转向降本增效，聚焦主业盈利。",
+"sources": [
+{
+"title": "维基百科：哔哩哔哩",
+"url": "https://zh.wikipedia.org/wiki/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9",
+"type": "wiki"
+}
+],
+"tags": [
+"哔哩哔哩",
+"港交所",
+"二次上市"
+]
+},
+{
+"id": "2021-03-30-xiaomi-zaoche",
+"date": "2021-03-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "雷军宣布小米造车：『为小米汽车而战』",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月30日小米春季发布会上，雷军宣布成立智能电动车全资子公司，首期投资100亿元、十年100亿美元，称这是他『人生最后一次重大创业项目』。发布会现场打出『为小米汽车而战』的横幅。",
+"detail": "发布会现场打出『为小米汽车而战』横幅，雷军亲自带队，宣布十年投入100亿美元，小米充足的现金储备成为底气。同年9月小米汽车公司注册成立，团队从汽车与手机行业大量招兵买马。手机厂商集体下场造车的信号弹就此打响，新能源车赛道的人才与供应链争夺战白热化。",
+"impact": "消费电子巨头正式跨入造车，中国新能源车产业再添千亿级玩家，行业竞争进入生态化竞争阶段。",
+"aftermath": "2023年12月小米汽车技术发布会亮相，2024年3月SU7上市即爆单，首年交付超13万辆。",
+"sources": [
+{
+"title": "维基百科：小米汽车",
+"url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+"type": "wiki"
+}
+],
+"tags": [
+"小米",
+"雷军",
+"造车"
+]
+},
+{
+"id": "2021-06-01-mixue-zhutiqu",
+"date": "2021-06-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "蜜雪冰城主题曲爆火：『你爱我我爱你』的鬼畜狂欢",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年6月，蜜雪冰城主题曲『你爱我，我爱你，蜜雪冰城甜蜜蜜』在B站鬼畜区与抖音全面刷屏，官方顺势整活，雪王IP一夜国民化。雪王IP同步完成一轮国民化，门店BGM洗脑循环。",
+"detail": "这首改编自美国民谣《Oh! Susanna》的魔性主题曲经B站UP主多语种、多曲风二创后病毒式扩散，官方视频播放量达数千万，门店BGM洗脑循环。蜜雪冰城顺势强化『雪王』形象运营，低价加高国民度的『雪王经济学』被媒体反复拆解，茶饮品牌第一次靠土味营销完成全国性出圈。",
+"impact": "证明了下沉市场品牌的IP化路径，魔性二创成为低成本营销的标准打法。",
+"aftermath": "2022年3月蜜雪冰城门店突破2万家；2025年3月在港交所上市，成为现制饮品市值第一股。",
+"sources": [
+{
+"title": "维基百科：蜜雪冰城",
+"url": "https://zh.wikipedia.org/wiki/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E",
+"type": "wiki"
+}
+],
+"tags": [
+"蜜雪冰城",
+"雪王",
+"营销"
+]
+},
+{
+"id": "2021-06-02-hongmeng-shouji",
+"date": "2021-06-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "鸿蒙OS 2发布：手机版鸿蒙正式登场",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月2日华为发布HarmonyOS 2，手机、平板、手表等全线设备开放升级，分布式软总线让多设备无缝协同，鸿蒙从发布会走向数亿终端。超级终端可把手机平板耳机音箱一键组网协同。",
+"detail": "发布会宣布Mate 40系列等百余款机型开放升级，超级终端可把手机、平板、耳机、音箱一键组网协同。华为同步把开源鸿蒙（OpenHarmony）捐赠给开放原子开源基金会，构建独立生态。年底华为公布搭载鸿蒙的设备数突破2.2亿台，『万物互联』从概念落地为产品卖点。",
+"impact": "中国操作系统第一次拥有亿级终端生态，iOS与安卓之外出现了第三种手机系统叙事。",
+"aftermath": "2024年原生鸿蒙HarmonyOS NEXT发布，彻底脱离安卓兼容，鸿蒙进入独立生态阶段。",
+"sources": [
+{
+"title": "维基百科：HarmonyOS",
+"url": "https://en.wikipedia.org/wiki/HarmonyOS",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"鸿蒙",
+"操作系统"
+]
+},
+{
+"id": "2021-06-30-didi-shangshi",
+"date": "2021-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "滴滴登陆纽交所：出行巨头的低调上市",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月30日滴滴以代码DIDI在纽交所挂牌，发行价14美元，市值约670亿美元。从递交招股书到挂牌仅约20天，未办敲钟仪式，流程低调到反常。IPO募资约44亿美元，为当年中概股最大单之一。",
+"detail": "滴滴招股书披露其全球年活跃用户近5亿，中国出行业务年交易额千亿级，青桔单车、社区团购与国际化构成增长叙事。IPO募资约44亿美元，是当年中概股最大单之一。上市后股价即持续走低，不到一年后从纽交所退市，这桩IPO成为中国互联网公司上市节奏与估值逻辑的转折点。",
+"impact": "中国共享出行龙头的资本化收官，也标志着中概股在美融资的黄金窗口期接近尾声。",
+"aftermath": "2022年6月滴滴完成从纽交所退市，此后转向场外交易；出行市场格局进入相对稳定期。",
+"sources": [
+{
+"title": "维基百科：DiDi",
+"url": "https://en.wikipedia.org/wiki/DiDi",
+"type": "wiki"
+}
+],
+"tags": [
+"滴滴",
+"网约车",
+"上市"
+]
+},
+{
+"id": "2021-07-29-p50",
+"date": "2021-07-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为P50系列发布：只有4G的旗舰机",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月29日华为发布P50系列，因芯片断供全系仅支持4G网络，计算光学摄影成为最大卖点。『5G缺席的旗舰』成为行业时代注脚。原色双影像与计算光学成为这场发布会的反击武器。",
+"detail": "P50 Pro搭载原色双影像单元与计算光学XD Optics，处理器却只能使用骁龙888 4G版与麒麟9000 4G库存混搭。余承东在发布会上多次提及供应链受限，售价不降反升。这一年华为手机出货量从全球第一大幅滑落，P50成为『戴着镣铐』的产品代表，高端市场份额真空期全面开启。",
+"impact": "手机影像竞争从堆传感器转向算法与色彩科学，『计算摄影』被放大；华为高端份额由苹果与安卓阵营瓜分。",
+"aftermath": "2022年Mate 50延续4G但加入北斗卫星消息；2023年Mate 60系列携麒麟芯片回归，完成戏剧性反转。",
+"sources": [
+{
+"title": "维基百科：Huawei P50",
+"url": "https://en.wikipedia.org/wiki/Huawei_P50",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"P50",
+"影像"
+]
+},
+{
+"id": "2021-08-10-mix4",
+"date": "2021-08-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米MIX 4发布：屏下摄像头量产第一战",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月10日小米发布MIX 4，屏下摄像头实现无孔『真全面屏』，4999元起。这是屏下摄像方案第一次由一线厂商大规模量产。时隔近三年回归的MIX系列，同场还发布了四足机器人铁蛋。",
+"detail": "MIX系列时隔近三年回归，陶瓷机身加120W秒充加CUP屏下摄像头，小米称屏下技术研发投入超过5亿元。同场发布的还有仿生四足机器人CyberDog『铁蛋』，发布会变成技术全家桶展示，雷军并立下三年拿下全球手机销量第一的目标。MIX 4前期热销但后续表现平平，屏下方案的显示与自拍取舍仍是行业难题。",
+"impact": "全面屏形态探索进入『真全面屏』阶段，但主流方案随后回到挖孔屏，屏下摄像暂成支线技术。",
+"aftermath": "2022年起各厂商小规模试水屏下方案；小米2023年MIX Fold 3转向折叠屏路线。",
+"sources": [
+{
+"title": "维基百科：小米MIX 4",
+"url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3MIX_4",
+"type": "wiki"
+},
+{
+"title": "观察者网：小米发布MIX 4，屏下摄像头时代降临",
+"url": "https://www.guancha.cn/industry-science/2021_08_11_602449.shtml",
+"type": "news"
+}
+],
+"tags": [
+"小米",
+"MIX 4",
+"屏下摄像头"
+]
+},
+{
+"id": "2021-09-15-iphone13",
+"date": "2021-09-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "iPhone 13发布：加量降价，『13香』供不应求",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月15日凌晨苹果发布iPhone 13系列，起步容量翻倍至128GB、刘海缩小、续航提升，定价不升反降。『13香』成为热词，首发再次供不应求。电影效果模式把焦点转移的拍法大众化。",
+"detail": "iPhone 13 Pro首次搭载120Hz ProMotion高刷屏，电影效果模式把『焦点转移』拍法大众化。5199元起的定价让iPhone 13在中国市场持续热销，2021年四季度苹果重夺全球手机出货第一，在中国高端市场的份额大幅领先。全球芯片紧缺反而强化了苹果的供应链优先权，Pro系列交付周期一度拉长。",
+"impact": "高端手机市场『一家独大』格局强化，安卓阵营被迫在影像与折叠屏上另寻差异化。",
+"aftermath": "iPhone 13成为此后多年二手保值率标杆；2022年iPhone 14 Pro的灵动岛接棒。",
+"sources": [
+{
+"title": "维基百科：iPhone 13",
+"url": "https://en.wikipedia.org/wiki/IPhone_13",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"iPhone 13",
+"高刷屏"
+]
+},
+{
+"id": "2021-09-30-changjinhuchang",
+"date": "2021-09-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《长津湖》上映：57.75亿刷新中国影史票房纪录",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国庆档《长津湖》上映，最终票房57.75亿元，超越《战狼2》登顶中国影史票房榜。三位大导演分段执导的大制作被称作中国电影工业化样本。陈凯歌、徐克、林超贤三位导演分段执导。",
+"detail": "陈凯歌、徐克、林超贤三位导演分段执导，影片以超大规模实拍与特效协作呈现，映期一路延长，观众以『二刷三刷』助推长尾票房，最终以57.75亿元超越《战狼2》登顶中国影史。它的成功让头部大片的马太效应达到新高度，档期集中度进一步加剧。超大规模实拍与特效协作被广泛视为中国电影工业化的代表案例。",
+"impact": "主旋律商业大片成为票房支柱类型，中国电影市场的头部集中度达到历史峰值。",
+"aftermath": "续作《长津湖之水门桥》2022年春节档再收40.67亿元；该票房纪录此后保持了三年多。",
+"sources": [
+{
+"title": "维基百科：长津湖（电影）",
+"url": "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B4%A5%E6%B9%96_(%E7%94%B5%E5%BD%B1)",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"票房纪录",
+"长津湖"
+]
+},
+{
+"id": "2021-10-19-m1-pro-max",
+"date": "2021-10-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "M1 Pro/Max发布：MacBook Pro『刘海屏』归来",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月19日凌晨苹果发布M1 Pro与M1 Max芯片及全新14/16英寸MacBook Pro，砍掉Touch Bar、找回SD卡槽与HDMI，性能对标移动工作站。",
+"detail": "新MacBook Pro采用mini-LED『Liquid视网膜XDR屏』与1080p摄像头，刘海屏设计引发争议却挡不住订单火爆，Pro版交付周期一度长达数月。M1 Max的GPU能效让游戏本阵营压力陡增，视频剪辑与音乐制作软件全面转向Apple Silicon，『苹果芯片完胜Intel』自此成为常态叙事。",
+"impact": "专业创作者市场的权力发生转移，Windows笔记本阵营在能效上被全面压制，加速追赶。",
+"aftermath": "2022年M2系列、2023年M3 Pro/Max延续节奏，苹果自研芯片矩阵覆盖从手机到Mac Studio全线。",
+"sources": [
+{
+"title": "维基百科：Apple M1（含Pro/Max）",
+"url": "https://en.wikipedia.org/wiki/Apple_M1",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"M1 Max",
+"MacBook Pro"
+]
+},
+{
+"id": "2021-10-28-meta",
+"date": "2021-10-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Facebook改名Meta：『元宇宙』写进公司名",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月28日扎克伯格宣布Facebook母公司更名为Meta Platforms，把元宇宙写进公司名，VR部门Reality Labs成为战略核心，『元宇宙元年』就此定型。",
+"detail": "发布会上扎克伯格展示Horizon Worlds与VR会议场景，宣称公司将从社交公司转型为元宇宙公司。更名前一周Facebook刚经历全球大宕机与吹哨人风波，舆论评价两极。此后Meta每年向元宇宙投入超百亿美元，Reality Labs连年巨亏；『metaverse』当选柯林斯词典2021年度词。",
+"impact": "元宇宙从游戏圈黑话升级为全球科技叙事，带动VR硬件、数字人、虚拟资产一轮热潮，也埋下退潮的伏笔。",
+"aftermath": "2022年后概念迅速降温，Meta转向AI；2023年起Llama大模型接棒叙事，『元宇宙』成为过气词汇。",
+"sources": [
+{
+"title": "维基百科：Meta Platforms",
+"url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+"type": "wiki"
+}
+],
+"tags": [
+"Meta",
+"元宇宙",
+"扎克伯格"
+]
+},
+{
+"id": "2021-11-07-edg-duoguan",
+"date": "2021-11-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "EDG夺冠：中国电竞的全民之夜",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月7日凌晨，EDG在冰岛雷克雅未克以3:2力克韩国DK战队，首夺英雄联盟全球总决赛冠军。高校宿舍楼集体沸腾，热搜被全部承包。决赛打满五局，制胜团战在冰岛凌晨打响。",
+"detail": "决赛打到第五局，赛前普遍不被看好的EDG顶住压力完成制胜团战。夺冠之夜微博热搜前几十位几乎全部与EDG相关，话题阅读量数十亿，无数大学生的『夺冠就裸奔』赌约刷屏，央视新闻等官方媒体发文祝贺。英雄联盟S赛第一次让中国观众的情绪以如此规模的同频方式爆发。",
+"impact": "电竞从圈层狂欢升级为全民情绪事件，LPL的商业价值与赛事版权费随之水涨船高。",
+"aftermath": "2023年杭州亚运会电竞成为正式奖牌项目；EDG夺冠夜的社交裂变成为体育营销教科书案例。",
+"sources": [
+{
+"title": "维基百科：Edward Gaming",
+"url": "https://en.wikipedia.org/wiki/Edward_Gaming",
+"type": "wiki"
+},
+{
+"title": "维基百科：EDG电子竞技俱乐部",
+"url": "https://zh.wikipedia.org/wiki/EDG%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E4%BF%B1%E4%B9%90%E9%83%A8",
+"type": "wiki"
+}
+],
+"tags": [
+"EDG",
+"英雄联盟",
+"电竞"
+]
+},
+{
+"id": "2021-12-20-weiya-fakuan",
+"date": "2021-12-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "薇娅因偷逃税被罚13.41亿：直播电商格局重排",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月20日税务部门公布对头部主播薇娅偷逃税追缴并处罚款共13.41亿元，其账号随即全网被封。直播带货『一姐』时代就此落幕。此前雪梨、林珊珊已被处罚，行业强合规周期全面开启。",
+"detail": "13.41亿元的天文数字让全民第一次直观感受头部主播的吸金能力。此前雪梨、林珊珊已被处罚，薇娅案后直播带货行业全面进入强合规周期：头部主播补税自查、品牌转向自播店播、平台扶持中腰部主播。超级主播的议价权体系被重塑，直播电商从野蛮生长转向精细化运营。",
+"impact": "直播电商的行业结构被改写，品牌自播崛起，主播与平台的关系重新定价。",
+"aftermath": "2022年东方甄选以知识带货异军突起，行业进入多元时代；头部主播依赖症成为此后数年反复讨论的治理命题。",
+"sources": [
+{
+"title": "维基百科：薇娅",
+"url": "https://zh.wikipedia.org/wiki/%E8%96%87%E5%A8%85",
+"type": "wiki"
+}
+],
+"tags": [
+"薇娅",
+"直播电商",
+"税务合规"
+]
+},
+{
+"id": "2021-12-28-xiaomi-12",
+"date": "2021-12-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米12发布：雷军宣布正式对标苹果",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月28日小米发布小屏旗舰小米12系列，雷军喊出『正式对标苹果、向苹果学习』，同场发布MIUI 13与自研澎湃P1快充芯片。澎湃P1是小米时隔多年重启的自研芯片。",
+"detail": "小米12以6.28英寸小屏加骁龙8 Gen 1主打手感，澎湃P1是小米时隔多年重启自研芯片，负责快充管理。加上『全面对标iPhone』的表态，这场发布会被视为小米高端化战略的全面宣言。此前2021年二季度小米手机出货量一度超越苹果位居全球第二，高端化的底气与压力同步抬升。",
+"impact": "高端化从口号变成组织与研发的长期投入，小米进入品牌升维的关键三年。",
+"aftermath": "2022年小米13系列继续对标iPhone；2023年发布澎湃OS，2024年SU7上市完成『人车家全生态』闭环。",
+"sources": [
+{
+"title": "维基百科：Xiaomi 12",
+"url": "https://en.wikipedia.org/wiki/Xiaomi_12",
+"type": "wiki"
+}
+],
+"tags": [
+"小米",
+"雷军",
+"旗舰手机"
+]
+},
+{
+"id": "2022-04-01-liugonghong",
+"date": "2022-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "刘畊宏直播健身爆火：『刘畊宏女孩』的居家操课",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2022年4月，刘畊宏与妻子vivi的抖音健身操直播突然爆火，一个月内粉丝从百万级飙升至5000万以上，《本草纲目》毽子操成为全民BGM。毽子操打卡迅速成为年轻人的社交货币。",
+"detail": "多地居民居家期间，跟练直播健身成为日常，刘畊宏把周杰伦《本草纲目》编成毽子操，『腰间的肥肉咔咔掉』成为年度热梗。直播间在线人数一度突破百万量级并持续攀升，抖音健身内容供给随之井喷，素人教练与明星教练课程成为新赛道。这场爆火被视为居家经济与内容直播结合的标志性事件。",
+"impact": "居家健身从线下健身房需求变成直播内容消费，健身垂类的直播电商与课程付费模型被快速验证。",
+"aftermath": "热度随后自然回落，刘畊宏转向健身品牌与直播带货；健身直播成为平台常规品类。",
+"sources": [
+{
+"title": "维基百科：刘畊宏",
+"url": "https://zh.wikipedia.org/wiki/%E5%88%98%E7%95%8A%E5%AE%8F",
+"type": "wiki"
+}
+],
+"tags": [
+"刘畊宏",
+"健身直播",
+"抖音"
+]
+},
+{
+"id": "2022-05-20-wangxinling",
+"date": "2022-05-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "王心凌《爱你》翻红：『王心凌男孩』现象",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月20日《乘风破浪的姐姐3》首播，王心凌一首《爱你》引发全网模仿，中年男粉集体考古，『王心凌男孩』成为现象级热词。出道时同款唱跳复刻《爱你》，情怀考古潮席卷短视频平台。",
+"detail": "近40岁的王心凌以出道时同款唱跳演绎2004年的《爱你》，短视频平台迅速掀起模仿潮，芒果超媒股价连涨，王心凌的演唱会门票此后场场秒罄。『甜心教主』的翻红被总结为考古营销加情怀杀的经典案例，节目热度与艺人商业价值双双回春，老牌港台艺人的内地综艺翻红路径就此定型。",
+"impact": "情怀经济与考古营销被验证为综艺选人与艺人运营的新商业模型，『回忆杀』成为标配打法。",
+"aftermath": "王心凌2022年开启巡回演唱会场场爆满；浪姐IP此后多季延续翻红叙事。",
+"sources": [
+{
+"title": "维基百科：王心凌",
+"url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%83%E5%87%8C",
+"type": "wiki"
+}
+],
+"tags": [
+"王心凌",
+"乘风破浪",
+"翻红"
+]
+},
+{
+"id": "2022-06-02-menghualu",
+"date": "2022-06-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《梦华录》开播：古偶剧口碑翻身仗",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月2日刘亦菲、陈晓主演的《梦华录》在腾讯视频开播，豆瓣开分8.8，把被骂『古偶丑』的古装剧市场拉回口碑正轨，『顾盼生辉』CP刷屏一夏。宋制美学与汴京茶坊创业线是最大看点。",
+"detail": "剧集取材关汉卿杂剧《赵盼儿风月救风尘》，汴京茶坊创业线与宋制美学成为最大看点，播出期间刷新腾讯视频年度剧集热度纪录，『茶百戏』『果子』带动宋式生活美学走热，汉服与茶饮品牌联名随之而起。刘亦菲的电视剧回归被舆论称为『天选古偶女主』，陈晓的古装剧身价同步上涨。",
+"impact": "古偶剧从流水线批判重新赢得口碑话语权，主演商业价值回暖，宋制美学成为文旅消费新热点。",
+"aftermath": "2022年下半年《苍兰诀》接力，古偶市场进入口碑内卷阶段；宋韵文旅持续升温。",
+"sources": [
+{
+"title": "维基百科：梦华录",
+"url": "https://zh.wikipedia.org/wiki/%E6%A2%A6%E5%8D%8E%E5%BD%95",
+"type": "wiki"
+}
+],
+"tags": [
+"电视剧",
+"刘亦菲",
+"腾讯视频"
+]
+},
+{
+"id": "2022-06-07-wwdc-m2",
+"date": "2022-06-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WWDC发布M2芯片与全新MacBook Air",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月7日凌晨WWDC发布第二代自研芯片M2，以及取消楔形造型、新增『午夜』配色的全新MacBook Air，官方称这是Air史上最大一次改版。MagSafe磁吸充电在新Air上回归。",
+"detail": "M2采用增强版5nm工艺，CPU较M1提速18%、GPU提速35%，视频解码引擎大幅增强。新MacBook Air厚度仅11.3毫米、重约1.24公斤，MagSafe磁吸充电回归，去掉了标志性的楔形设计。同场发布的13英寸MacBook Pro沿用旧模具被吐槽『套壳』，但M2的整体能效表现继续压制Windows轻薄本。",
+"impact": "苹果自研芯片进入平台化迭代，『轻薄长续航等于Mac』的认知进一步固化。",
+"aftermath": "2023年15英寸MacBook Air发布补齐尺寸线；M3于2023年10月登场。",
+"sources": [
+{
+"title": "维基百科：Apple M2",
+"url": "https://en.wikipedia.org/wiki/Apple_M2",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"M2",
+"MacBook Air"
+]
+},
+{
+"id": "2022-06-09-dongyuhui",
+"date": "2022-06-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "董宇辉双语带货出圈：新东方转型的体面样本",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月9日前后，东方甄选主播董宇辉的中英双语知识带货刷屏抖音，直播间一周涨粉超300万，单日GMV破千万，教培转型的体面样本完成出圈。新东方在线股价随后数日成倍上涨。",
+"detail": "双减后新东方在线转向农产品直播，2021年12月28日东方甄选开播，前半年惨淡经营，董宇辉自嘲直播间『只有我爸妈下两单』。6月上旬他边卖牛排边讲人生哲理与英文单词的风格被切片传播，6月10日单日GMV突破千万元、新增粉丝32万，新东方在线股价随后数日成倍上涨。『知识型直播』一夜成为行业新范式。",
+"impact": "证明内容与人格魅力可以对冲低价逻辑，也为教培行业人才的再就业提供了最高光的注脚。",
+"aftermath": "2023年董宇辉经历『小作文事件』，2024年独立成立『与辉同行』；东方甄选陷入大主播依赖症的长期讨论。",
+"sources": [
+{
+"title": "维基百科：东方甄选",
+"url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89",
+"type": "wiki"
+},
+{
+"title": "时代周报：东方甄选与董宇辉复盘",
+"url": "https://time-weekly.com/post/323237",
+"type": "news"
+}
+],
+"tags": [
+"东方甄选",
+"董宇辉",
+"直播电商"
+]
+},
+{
+"id": "2022-06-21-lixang-l9",
+"date": "2022-06-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "理想L9发布：『500万以内最好家用SUV』",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月21日理想发布第二款车型L9，45.98万元起的六座家庭旗舰SUV，李想喊出『500万以内最好的家用SUV』，上市72小时预订量超3万。冰箱彩电大沙发精准命中中国家庭用户。",
+"detail": "L9取消传统仪表盘，用方向盘安全交互屏加大尺寸中控屏与后排娱乐屏的组合，冰箱、彩电、大沙发被网友玩梗却精准命中家庭用户，官方称72小时预订量超过3万台。同年秋交付后，L9连续数月位居中国大型SUV销量前列，证明『家庭移动空间』的定位可以撑起45万元以上定价。",
+"impact": "『冰箱彩电大沙发』定义了中国家庭新能源SUV的产品范式，问界、极氪等竞品全面跟进。",
+"aftermath": "理想凭L系列在2023年成为新势力销量冠军；2024年MEGA受挫后重回家庭SUV主线。",
+"sources": [
+{
+"title": "维基百科：理想汽车",
+"url": "https://zh.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6",
+"type": "wiki"
+}
+],
+"tags": [
+"理想汽车",
+"L9",
+"家用SUV"
+]
+},
+{
+"id": "2022-07-15-zuiweida-de-zuopin",
+"date": "2022-07-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "周杰伦《最伟大的作品》发行：时隔六年的全民期待",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月15日周杰伦第15张专辑《最伟大的作品》正式发行，7月6日先行曲MV首播即爆。时隔六年发片，『周杰伦发新专辑』成为7月最大文化事件。各大音乐平台为独家资源展开明牌竞争。",
+"detail": "专辑以1920年代巴黎艺术之旅为概念，MV中周杰伦用魔术穿越遇见马格利特、达利、莫奈等艺术家，先行曲MV首播即获近千万次播放并登上热搜。数字专辑在QQ音乐等平台开启预售即屠榜，各大音乐平台为抢占周杰伦资源展开明牌竞争。乐评两极：先锋艺术概念与『周氏情歌』的回望并存，但全网同时听歌的盛况再无第二人。",
+"impact": "在短视频时代，周杰伦仍是华语乐坛唯一能让全网同时点开一首歌的顶流，数字专辑模式的最后一个超级案例。",
+"aftermath": "2023年嘉年华世界巡演门票秒罄并带动演出经济；此后周杰伦进入单曲与巡演时代。",
+"sources": [
+{
+"title": "维基百科：最伟大的作品",
+"url": "https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81",
+"type": "wiki"
+}
+],
+"tags": [
+"周杰伦",
+"专辑",
+"数字音乐"
+]
+},
+{
+"id": "2022-07-25-erjiu",
+"date": "2022-07-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《二舅》刷屏：『精神内耗』成年度词",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月25日B站UP主『衣戈猜想』发布11分钟视频《回村三天，二舅治好了我的精神内耗》，一夜刷屏并登顶全站排行榜，『精神内耗』成为年度热词。11分钟的文学性旁白一夜破圈。",
+"detail": "视频以文学性旁白讲述二舅在苦难中自洽的一生，上线即冲上B站全站排行榜第一，播放量数日破千万级，各大平台与媒体全面转发。围绕『苦难叙事』『鸡汤与真实』的评论激辩随之而来，网友对视频细节真实性的质疑也开始发酵，作者一度把二舅接离村庄回避关注。它是短视频时代文学性叙事的巅峰样本，也是流量伦理讨论的标志案例。",
+"impact": "『精神内耗』从心理学词汇变成全民自嘲，内容真实性与流量伦理的讨论自此长期化。",
+"aftermath": "作者此后未再跟进二舅话题，视频热度回落；『二舅式文案』成为内容行业的模仿对象与批评靶子。",
+"sources": [
+{
+"title": "维基百科：回村三天，二舅治好了我的精神内耗",
+"url": "https://zh.wikipedia.org/wiki/%E5%9B%9E%E6%9D%91%E4%B8%89%E5%A4%A9%EF%BC%8C%E4%BA%8C%E8%88%85%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97",
+"type": "wiki"
+}
+],
+"tags": [
+"B站",
+"二舅",
+"精神内耗"
+]
+},
+{
+"id": "2022-09-01-temu-shangxian",
+"date": "2022-09-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "拼多多Temu美国上线：出海砍一刀开始",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月1日拼多多跨境电商平台Temu在美国上线，主打极致低价与免运费。上线一个半月即成为美国下载量最高的购物App，中国电商出海进入Temu时刻。全托管模式让工厂型卖家只管供货。",
+"detail": "Temu承接拼多多的供应链与营销打法，以『Team Up, Price Down』为口号杀入北美。全托管模式让工厂型卖家只管供货，定价、物流、售后由平台包办，『像在国内做拼多多一样做美国生意』。10月中旬Temu登顶美国购物类App下载榜，与SHEIN、TikTok Shop共同构成跨境出海『新三样』。",
+"impact": "美国零售市场受到中国供应链直连模式的直接冲击，跨境出海从铺货时代进入平台化时代。",
+"aftermath": "2023年2月Temu超级碗广告『Shop like a billionaire』出圈，此后扩张至数十国，与SHEIN的价格战升级。",
+"sources": [
+{
+"title": "CNBC：Pinduoduo launches U.S. shopping site Temu",
+"url": "https://www.cnbc.com/2022/09/02/chinas-e-commerce-giant-pinduoduo-launches-us-shopping-site-temu.html",
+"type": "news"
+},
+{
+"title": "维基百科：Temu",
+"url": "https://en.wikipedia.org/wiki/Temu",
+"type": "wiki"
+}
+],
+"tags": [
+"拼多多",
+"Temu",
+"跨境电商"
+]
+},
+{
+"id": "2022-09-06-mate50",
+"date": "2022-09-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为Mate 50发布：北斗卫星消息成杀手锏",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月6日华为发布Mate 50系列，在5G缺席的情况下首发北斗卫星消息功能，无信号也能发送位置信息。『向上捅破天』成为年度科技热词。同周发布的iPhone 14也带来卫星通信。",
+"detail": "Mate 50搭载昆仑玻璃与可变光圈主摄，北斗卫星消息是发布会最大爆点——在荒漠、海上等无网络环境可通过北斗短报文发出求救信息，余承东称之为『向上捅破天』的技术。同周发布的iPhone 14也带来卫星通信（仅限美加），『卫星手机』从此成为旗舰标配竞赛。Mate 50发布即热销，华为高端品牌力在至暗时刻显现韧性。",
+"impact": "卫星通信从航天技术变成消费功能，手机直连卫星成为独立产业赛道。",
+"aftermath": "2023年Mate 60 Pro实现卫星通话并携麒麟芯片回归；国产卫星互联网加速组网。",
+"sources": [
+{
+"title": "维基百科：Huawei Mate 50",
+"url": "https://en.wikipedia.org/wiki/Huawei_Mate_50",
+"type": "wiki"
+}
+],
+"tags": [
+"华为",
+"Mate 50",
+"北斗卫星"
+]
+},
+{
+"id": "2022-09-08-iphone14",
+"date": "2022-09-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "iPhone 14发布：Pro版灵动岛成唯一主角",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月8日凌晨苹果发布iPhone 14系列，标准版升级有限遭群嘲，Pro版的『灵动岛』交互与4800万像素主摄成为全场焦点，Pro系列供不应求。标准版沿用A15引发挤牙膏争议。",
+"detail": "灵动岛把药丸挖孔变成动态交互区域，被评价为『把缺陷变成卖点』的教科书案例。标准版沿用A15芯片引发『挤牙膏』争议，Pro版A16加持常亮屏推动高端占比再创新高。卫星通信（美加）与车祸检测同步上线，发售初期Pro系列一度加价难求。苹果产品线的『Pro化』分化从此成为行业趋势。",
+"impact": "高端机与标准版的分化定型，安卓阵营开始模仿灵动岛式交互与卫星通信卖点。",
+"aftermath": "2023年iPhone 15 Pro以钛金属与USB-C接棒；灵动岛此后下放至全系列。",
+"sources": [
+{
+"title": "维基百科：iPhone 14",
+"url": "https://en.wikipedia.org/wiki/IPhone_14",
+"type": "wiki"
+}
+],
+"tags": [
+"苹果",
+"iPhone 14",
+"灵动岛"
+]
+},
+{
+"id": "2022-09-14-yang-ge-yang",
+"date": "2022-09-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《羊了个羊》爆火：两日崩三次服务器的小程序神话",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月13日起微信小程序游戏《羊了个羊》两天连登热搜、服务器24小时崩溃3次，号称『通关率0.1%』的第二关与地域排行榜让它成为全民话题。官方紧急招聘后端开发的话题也一并出圈。",
+"detail": "这款消除类小游戏以省份排行榜驱动裂变攀比，上线48小时制造22个热搜并冲上微博热搜第一，官方紧急招后端开发的话题也一起出圈。广告复活与道具内购构成商业模式，创始人后来透露营收破亿。爆火随即伴随抄袭《3 tiles》的质疑，热度数周内退潮，但它验证了小程序游戏裂变模型的爆发力。",
+"impact": "小程序游戏证明『社交裂变+攀比机制』仍是流量密码，为2023年小游戏市场大爆发做了预演。",
+"aftermath": "小游戏赛道此后高速增长，2023年市场规模突破200亿元，成为手游之外的最大增量市场。",
+"sources": [
+{
+"title": "央视财经：『羊了个羊』轻松冲上热搜第一",
+"url": "https://jingji.cctv.com/2022/09/15/ARTIqNL4rhHYKFeVxOhVQHnl220915.shtml",
+"type": "news"
+},
+{
+"title": "澎湃新闻：羊了个羊真相调查",
+"url": "https://www.thepaper.cn/newsDetail_forward_19900225",
+"type": "news"
+}
+],
+"tags": [
+"羊了个羊",
+"小游戏",
+"微信生态"
+]
+},
+{
+"id": "2022-09-27-pico4",
+"date": "2022-09-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "PICO 4国内发布：字节跳动的VR豪赌",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月27日字节跳动旗下PICO发布PICO 4头显，Pancake光学方案加彩色透视，国内2499元起售，被视为对标Meta Quest 2的国产VR答卷。字节此前以约90亿元收购PICO。",
+"detail": "字节2021年8月以约90亿元收购PICO后，为其定下百万台级的销量目标。PICO 4主打VR健身、视频与演唱会直播场景，机身更轻薄，国内内容生态与补贴力度空前。它一度带动国内VR消费出货放量，但硬件客单价与内容供给的天花板很快显现，元宇宙概念也在同期退潮。",
+"impact": "国内VR消费市场第一次有大厂长期重仓，『VR健身』成为最有说服力的破圈场景。",
+"aftermath": "2023年字节大幅收缩PICO投入，VR消费热退潮，团队转向AI与新品类硬件。",
+"sources": [
+{
+"title": "维基百科：Pico (company)",
+"url": "https://en.wikipedia.org/wiki/Pico_(company)",
+"type": "wiki"
+}
+],
+"tags": [
+"PICO",
+"字节跳动",
+"VR"
+]
+},
+{
+"id": "2022-10-27-musk-shougou-tuite",
+"date": "2022-10-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "马斯克440亿美元完成收购推特",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月27日马斯克以每股54.2美元、总价约440亿美元完成对推特的收购，随即解散董事会、解雇高管，全球社交平台迎来近年最大所有权变更。入主当天即解雇CEO等高管。",
+"detail": "这场从2022年1月开始建仓、4月宣布收购、7月反悔、10月被逼履约的收购大戏收尾。马斯克入主当天解雇CEO阿格拉瓦尔等高管，一周内裁员约一半，随后推出付费蓝V认证引发假冒账号风波，多家大品牌暂停广告投放。推特的平台规则、审核尺度与商业模式进入全面重构期。",
+"impact": "全球舆论场的基础设施易主，『言论自由与内容审核』之争白热化，超级App化转型开启。",
+"aftermath": "2023年7月推特更名为X，蓝色小鸟标志谢幕；平台广告收入大幅下滑，马斯克随后创立xAI。",
+"sources": [
+{
+"title": "维基百科：Acquisition of Twitter by Elon Musk",
+"url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+"type": "wiki"
+}
+],
+"tags": [
+"马斯克",
+"推特",
+"收购"
+]
+},
+{
+"id": "2022-11-20-shijiebei-zhongguo",
+"date": "2022-11-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "卡塔尔世界杯：中国企业成最大赞助商群体",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月20日卡塔尔世界杯开幕，据Global Data统计中国企业赞助总额约8.83亿美元居各国之首。万达、海信、vivo、蒙牛四家官方赞助商与义乌制造『包场』赛场内外。",
+"detail": "决赛球场卢塞尔体育场由中国企业参与承建，场边广告牌上『中国第一，世界第二』等中文广告刷屏社交网络，海信的争议营销反而收获巨大流量。抖音首次以新媒体身份拿下转播权，边看边聊与竞猜互动拉动日活；义乌生产的世界杯周边占全球市场份额约七成。这届世界杯成为中国品牌全球化能力的集中检阅场。",
+"impact": "顶级体育IP的中国赞助规模首次登顶各国之首，体育营销成为中国品牌出海的标配路径。",
+"aftermath": "海信、vivo、蒙牛等此后继续赞助欧洲杯、奥运会等顶级赛事，中国体育赞助走向常态化。",
+"sources": [
+{
+"title": "维基百科：2022 FIFA World Cup",
+"url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
+"type": "wiki"
+}
+],
+"tags": [
+"世界杯",
+"中国赞助商",
+"体育营销"
+]
+},
+{
+"id": "2022-12-11-xiaomi-13",
+"date": "2022-12-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米13发布：小屏旗舰与徕卡长焦的继续对标",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月11日小米发布小米13系列，直角边框小屏旗舰加徕卡光学全焦段影像，雷军在年度演讲后继续高举对标苹果的大旗。小屏加徕卡75mm长焦的组合，标准版口碑持续发酵。",
+"detail": "小米13以6.36英寸小屏、第二代骁龙8与徕卡75mm长焦为卖点，同场发布MIUI 14。发售后『小而美』的口碑持续发酵，标准版生命周期销量超出预期，被视为小米高端化的里程碑机型。2022年全球手机市场大幅下行，小米却以影像联名与高端化对冲行业寒冬，徕卡、蔡司、哈苏的影像军备竞赛进入白热化。",
+"impact": "小屏旗舰重新成为细分赛道，国产旗舰的差异化从参数堆料转向影像与设计语言。",
+"aftermath": "2023年小米14搭载澎湃OS与骁龙8 Gen 3继续热销；2024年SU7上市，小米进入人车家全生态阶段。",
+"sources": [
+{
+"title": "维基百科：Xiaomi 13",
+"url": "https://en.wikipedia.org/wiki/Xiaomi_13",
+"type": "wiki"
+}
+],
+"tags": [
+"小米13",
+"徕卡",
+"高端化"
+]
+},
+{
+"id": "2022-12-16-afanda-shuizhidao",
+"date": "2022-12-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《阿凡达：水之道》上映：疫情后的影院救市之作",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月16日《阿凡达：水之道》中美同步上映，中国内地最终票房约9.7亿元，未达预期但仍扛起年末档期；全球票房超23亿美元，跻身影史前三。水下动作捕捉技术刷新了电影工业标准。",
+"detail": "卡梅隆筹备十余年的续作以水下动作捕捉技术刷新工业标准，IMAX与CINITY场次一票难求。中国内地市场彼时正处于低谷，影片被寄予救市厚望，最终约9.7亿元的成绩低于此前数十亿的预期，也标记了好莱坞大片在中国市场号召力的拐点。高格式观影习惯却在此轮进一步普及。",
+"impact": "IMAX与CINITY等特殊制式成为观影首选，同时宣告好莱坞大片在华的默认号召力时代结束。",
+"aftermath": "2025年系列第三部上映；中国票房头部此后全面让位于国产片。",
+"sources": [
+{
+"title": "维基百科：Avatar: The Way of Water",
+"url": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+"type": "wiki"
+}
+],
+"tags": [
+"阿凡达",
+"电影",
+"IMAX"
+]
+}
+]
