@@ -483,6 +483,33 @@
 ]
 },
 {
+"id": "2024-05-15-fico-assassination-attempt",
+"date": "2024-05-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "斯洛伐克总理菲佐遇刺：欧洲政治暴力的回归信号",
+"category": "world",
+"region": "world",
+"milestone": true,
+"summary_30s": "2024年5月15日，71岁退休诗人尤拉伊·辛图拉在汉德洛瓦文化活动的公开场合连开五枪，击中斯洛伐克总理罗伯特·菲佐腹部与头部——欧洲主要领导人二十余年来首次遇刺受伤。欧洲『政治暴力低烈度时代』的幻觉被一枪打破。",
+"detail": "辛图拉是持执照的作家，动机被定性为『政治不满』（反对菲佐的亲俄立场与媒体改革）而非宗教极端——这使案件成为『民主内部暴力』的研究样本。菲佐经两次手术脱险，数月后复出。案件的涟漪超出斯洛伐克：6天后斯洛伐克通过刑法修正案（疑似加速审议）；一个月后欧洲议会选举中极右翼扩张、乌克兰与摩尔多瓦的选举暴力幽灵回归；美国7月特朗普遇刺未遂——2024年成为全球『对政治人物的暴力』回到前台的一年。欧洲各国的公开活动安保全面升级，『政治人物与民众的物理接近』这一民主传统本身成为被讨论的安全成本。",
+"impact": "欧洲高层政治暴力长期缺席后的回归标志，公开政治活动的安保范式重估。",
+"aftermath": "辛图拉2025年被判21年监禁；菲佐复出后政策更强硬，欧洲政治极化加剧。",
+"sources": [
+{
+"title": "Wikipedia: Attempted assassination of Robert Fico",
+"url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Robert_Fico",
+"type": "wiki"
+}
+],
+"tags": [
+"菲佐",
+"斯洛伐克",
+"政治暴力",
+"欧洲"
+]
+},
+{
 "id": "2024-06-11-apple-intelligence",
 "date": "2024-06-11",
 "date_accuracy": "exact",
