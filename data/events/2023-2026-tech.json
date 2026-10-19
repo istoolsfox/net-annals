@@ -728,6 +728,31 @@
 ]
 },
 {
+"id": "2023-04-25-tianya",
+"date": "2023-04-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "天涯社区无法访问，中文互联网初代社区谢幕",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月25日起天涯社区网站与App无法访问，这个25岁的初代中文网络社区实质停摆，引发一代网民集体怀念。",
+"detail": "因欠费停服，「天涯再 inaccessible」登上热搜，老网友自发抢救「神帖」存档。天涯曾孵化《鬼吹灯》《明朝那些事儿》等超级IP，是中文互联网社区文化的源头之一。",
+"impact": "Web1.0/2.0初代社区的历史终章。",
+"aftermath": "随后其直播带货自救、域名与商标被拍卖，均未起死回生。",
+"sources": [
+{
+"title": "天涯社区",
+"url": "https://zh.wikipedia.org/wiki/天涯社区",
+"type": "wiki"
+}
+],
+"tags": [
+"互联网",
+"社区"
+]
+},
+{
 "id": "2023-04-26-hsr",
 "date": "2023-04-26",
 "date_accuracy": "exact",
@@ -1677,6 +1702,32 @@
 ]
 },
 {
+"id": "2023-09-27-quest3-connect",
+"date": "2023-09-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta Connect：Quest 3 定价狙击苹果，雷朋AI眼镜亮相",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月27日Meta Connect发布Quest 3（499美元，10月10日发售）与雷朋Meta智能眼镜，扎克伯格以低价路线对垒苹果Vision Pro。",
+"detail": "Quest 3比Vision Pro便宜近3000美元；雷朋Meta智能眼镜以「戴着不像设备的AI眼镜」定位意外走红，成为此后两年最畅销的智能眼镜形态。",
+"impact": "AI眼镜品类被意外验证，「轻智能眼镜」成为新风口。",
+"aftermath": "雷朋Meta 2025年销量破千万，带动国内外厂商集体跟进。",
+"sources": [
+{
+"title": "Meta Quest 3",
+"url": "https://en.wikipedia.org/wiki/Meta_Quest_3",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"Meta",
+"XR"
+]
+},
+{
 "id": "2023-10-17-ernie4",
 "date": "2023-10-17",
 "date_accuracy": "exact",
@@ -2244,6 +2295,30 @@
 ]
 },
 {
+"id": "2024-01-01-lol-lpl",
+"date": "2024-01-01",
+"date_accuracy": "month",
+"date_confidence": "uncertain",
+"title": "英雄联盟 S14 赛季 MSI 落地成都成电竞大年开端",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2024年英雄联盟电竞中国区热度回升，MSI季中赛落地成都，LPL与LCK对抗持续成为电竞最大流量场。",
+"detail": "2024年MSI季中冠军赛5月在成都举行，LPL赛区GEN与BLG的对决带动国内观赛热潮；11月S14全球总决赛在伦敦举行，BLG夺得亚军，英雄联盟电竞在亚运后完成新一轮商业化升级，联盟化与主客场运营继续深化。",
+"impact": "英雄联盟电竞保持国内电竞第一IP地位。",
+"aftermath": "2025年S赛落地中国成都，T1三连冠。",
+"sources": [
+{
+"title": "League of Legends esports",
+"url": "https://en.wikipedia.org/wiki/League_of_Legends_esports",
+"type": "wiki"
+}
+],
+"tags": [
+"电竞"
+]
+},
+{
 "id": "2024-01-08-ces2024",
 "date": "2024-01-08",
 "date_accuracy": "exact",
@@ -2295,27 +2370,28 @@
 ]
 },
 {
-"id": "2024-01-01-lol-lpl",
-"date": "2024-01-01",
-"date_accuracy": "month",
-"date_confidence": "uncertain",
-"title": "英雄联盟 S14 赛季 MSI 落地成都成电竞大年开端",
-"category": "culture",
+"id": "2024-01-18-love-deepspace",
+"date": "2024-01-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "叠纸《恋与深空》全球上线",
+"category": "product",
 "region": "cn",
 "milestone": false,
-"summary_30s": "2024年英雄联盟电竞中国区热度回升，MSI季中赛落地成都，LPL与LCK对抗持续成为电竞最大流量场。",
-"detail": "2024年MSI季中冠军赛5月在成都举行，LPL赛区GEN与BLG的对决带动国内观赛热潮；11月S14全球总决赛在伦敦举行，BLG夺得亚军，英雄联盟电竞在亚运后完成新一轮商业化升级，联盟化与主客场运营继续深化。",
-"impact": "英雄联盟电竞保持国内电竞第一IP地位。",
-"aftermath": "2025年S赛落地中国成都，T1三连冠。",
+"summary_30s": "1月18日叠纸网络3D乙游《恋与深空》全球上线，首月流水估算破5亿元，把女性向游戏推向全球化新高度。",
+"detail": "《恋与深空》以3D即时战斗+恋爱交互重塑乙游品类，上线即登顶多国iOS下载榜，国内女性向游戏市场随之扩容，「秦彻」「沈星回」等角色成为社交平台年度话题，叠纸由此跻身头部厂商。",
+"impact": "女性向游戏第一次以全球3A级制作规格出圈。",
+"aftermath": "2025年周年庆流水再创新高，乙游赛道全面3D化。",
 "sources": [
 {
-"title": "League of Legends esports",
-"url": "https://en.wikipedia.org/wiki/League_of_Legends_esports",
+"title": "Love and Deepspace",
+"url": "https://en.wikipedia.org/wiki/Love_and_Deepspace",
 "type": "wiki"
 }
 ],
 "tags": [
-"电竞"
+"游戏",
+"二次元"
 ]
 },
 {
@@ -2344,6 +2420,31 @@
 ]
 },
 {
+"id": "2024-02-01-kimi-viral",
+"date": "2024-02-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Kimi 智能助手春节后爆火",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月起月之暗面的Kimi凭20万字长文本处理能力在A股「Kimi概念股」与用户端同时爆火，成为国产AI应用顶流。",
+"detail": "Kimi支持超长文档总结、网页阅读与多文件问答，春节期间在微博、股吧出圈，「Kimi概念股」一度成为A股热炒主题。用户量暴涨致服务器限流，App Store效率榜登顶，带动「国产AI应用元年」讨论。",
+"impact": "国内AI应用第一次出现现象级C端爆款。",
+"aftermath": "3月18日200万字版本上线；各家快速跟进长文本能力。",
+"sources": [
+{
+"title": "月之暗面",
+"url": "https://zh.wikipedia.org/wiki/月之暗面",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Kimi"
+]
+},
+{
 "id": "2024-02-01-qq",
 "date": "2024-02-01",
 "date_accuracy": "month",
@@ -2366,6 +2467,31 @@
 "tags": [
 "流行文化",
 "短视频"
+]
+},
+{
+"id": "2024-02-01-wahaha",
+"date": "2024-02-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "娃哈哈销量因创始人话题暴涨成现象级消费潮",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月底娃哈哈创始人离世引发全民情怀消费，AD钙奶等产品线上线下卖断货，「国民品牌」情绪成为年度消费现象。",
+"detail": "2024年2月下旬娃哈哈创始人宗庆后去世的消息带动全民怀旧情绪，网友涌入直播间与线下商超抢购AD钙奶、纯净水，官方旗舰店销售额暴涨数十倍，一度宣布暂停线上订单。同期农夫山泉因舆论风波被卷入「娃哈哈vs农夫山泉」的对比叙事，饮料行业格局话题出圈。",
+"impact": "「情绪消费」第一次以如此规模冲击实体饮料市场。",
+"aftermath": "热潮数周后回落；娃哈哈2024年下半年启动管理层与股权调整。",
+"sources": [
+{
+"title": "娃哈哈",
+"url": "https://zh.wikipedia.org/wiki/娃哈哈",
+"type": "wiki"
+}
+],
+"tags": [
+"消费",
+"流行文化"
 ]
 },
 {
@@ -2395,31 +2521,6 @@
 ]
 },
 {
-"id": "2024-02-01-kimi-viral",
-"date": "2024-02-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "Kimi 智能助手春节后爆火",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2月起月之暗面的Kimi凭20万字长文本处理能力在A股「Kimi概念股」与用户端同时爆火，成为国产AI应用顶流。",
-"detail": "Kimi支持超长文档总结、网页阅读与多文件问答，春节期间在微博、股吧出圈，「Kimi概念股」一度成为A股热炒主题。用户量暴涨致服务器限流，App Store效率榜登顶，带动「国产AI应用元年」讨论。",
-"impact": "国内AI应用第一次出现现象级C端爆款。",
-"aftermath": "3月18日200万字版本上线；各家快速跟进长文本能力。",
-"sources": [
-{
-"title": "月之暗面",
-"url": "https://zh.wikipedia.org/wiki/月之暗面",
-"type": "wiki"
-}
-],
-"tags": [
-"AI",
-"Kimi"
-]
-},
-{
 "id": "2024-02-08-bard-gemini",
 "date": "2024-02-08",
 "date_accuracy": "exact",
@@ -2442,6 +2543,31 @@
 "tags": [
 "AI",
 "谷歌"
+]
+},
+{
+"id": "2024-02-10-d20tiao",
+"date": "2024-02-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "张艺谋《第二十条》春节档逆袭",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月10日《第二十条》上映，凭借现实主义口碑在春节档走出长线逆袭，最终票房24.54亿元。",
+"detail": "影片以「正当防卫」法条为题，雷佳音、马丽的喜剧外壳包裹严肃议题，排片与票房连续逆跌，成为张艺谋近年商业口碑双收之作，与《热辣滚烫》《飞驰人生2》共同构成2024春节档80亿量级。",
+"impact": "「法治议题+合家欢」组合被验证。",
+"aftermath": "最高检等官方账号下场解读，现实题材热度延续。",
+"sources": [
+{
+"title": "第二十条（电影）",
+"url": "https://zh.wikipedia.org/wiki/第二十条_(电影)",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"春节档"
 ]
 },
 {
@@ -2524,31 +2650,6 @@
 "AI",
 "文生视频",
 "OpenAI"
-]
-},
-{
-"id": "2024-02-01-wahaha",
-"date": "2024-02-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "娃哈哈销量因创始人话题暴涨成现象级消费潮",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2月底娃哈哈创始人离世引发全民情怀消费，AD钙奶等产品线上线下卖断货，「国民品牌」情绪成为年度消费现象。",
-"detail": "2024年2月下旬娃哈哈创始人宗庆后去世的消息带动全民怀旧情绪，网友涌入直播间与线下商超抢购AD钙奶、纯净水，官方旗舰店销售额暴涨数十倍，一度宣布暂停线上订单。同期农夫山泉因舆论风波被卷入「娃哈哈vs农夫山泉」的对比叙事，饮料行业格局话题出圈。",
-"impact": "「情绪消费」第一次以如此规模冲击实体饮料市场。",
-"aftermath": "热潮数周后回落；娃哈哈2024年下半年启动管理层与股权调整。",
-"sources": [
-{
-"title": "娃哈哈",
-"url": "https://zh.wikipedia.org/wiki/娃哈哈",
-"type": "wiki"
-}
-],
-"tags": [
-"消费",
-"流行文化"
 ]
 },
 {
@@ -2781,6 +2882,501 @@
 ]
 },
 {
+"id": "2024-04-08-total-eclipse",
+"date": "2024-04-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "北美日全食带来流量与科普狂欢",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月8日北美迎来罕见日全食，社交平台直播与观测热潮席卷美加墨，成为年度最大天文流量事件。",
+"detail": "贯穿墨西哥、美国、加拿大的日全食路径覆盖数千万人口，NASA直播与各地观测派对带来全网刷屏，相关旅游、眼镜销售火爆。中国直播平台也大量转播，成为跨平台的全民围观事件。",
+"impact": "天文现象的社交媒体化传播样本。",
+"aftermath": "相关科普内容热度持续数周。",
+"sources": [
+{
+"title": "Solar eclipse of April 8, 2024",
+"url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024",
+"type": "wiki"
+}
+],
+"tags": [
+"文化现象"
+]
+},
+{
+"id": "2024-04-15-tesla-layoffs",
+"date": "2024-04-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "特斯拉宣布全球裁员超10%",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月15日马斯克内部信宣布特斯拉全球裁员超10%（约1.4万人），此后高管连环离职，公司进入收缩期。",
+"detail": "特斯拉在一季度交付同比下滑后启动史上最大规模裁员，涉及各级别岗位；随后超级充电团队负责人与多名高管离职，引发充电网络建设担忧。同期FSD入华推进与Robotaxi叙事成为公司重心。",
+"impact": "新能源车企从扩张转向降本，行业价格战压力传导至巨头。",
+"aftermath": "特斯拉裁员延续多个季度；2025年重心转向Robotaxi与Optimus。",
+"sources": [
+{
+"title": "Tesla",
+"url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"特斯拉",
+"裁员"
+]
+},
+{
+"id": "2024-04-18-llama3",
+"date": "2024-04-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Meta 发布 Llama 3（8B/70B）",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月18日Meta发布Llama 3的8B与70B版本，70B在多数基准上比肩GPT-4级别，开源模型进一步逼近闭源旗舰。",
+"detail": "Llama 3基于15万亿token语料训练（是Llama 2的7倍），采用128K词表与GQA架构，Meta同步将其接入WhatsApp、Instagram等全家桶的Meta AI助手。405B版本7月跟进，成为当时最大开源模型。",
+"impact": "开源与闭源模型的差距在2024年显著收窄。",
+"aftermath": "7月Llama 3.1（含405B）发布；2025年4月Llama 4转向MoE。",
+"sources": [
+{
+"title": "Llama (language model)",
+"url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Meta",
+"开源"
+]
+},
+{
+"id": "2024-05-01-deepseek-v2",
+"date": "2024-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "DeepSeek-V2 开源，API 价格战开打",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月DeepSeek开源V2模型（236B总参数MoE），API定价低至百万token仅1元，直接掀起国产大模型价格战。",
+"detail": "DeepSeek-V2采用MLA注意力与MoE架构，总参数236B、激活21B，推理成本大幅下降，DeepSeek将API定价降到每百万token输入1元、输出2元的量级，引发智谱、字节、阿里轮番降价，「价格战」贯穿整个夏天。",
+"impact": "国产模型推理成本大幅下探，为后续应用爆发与出海低价铺路。",
+"aftermath": "12月V3以更低训练成本惊艳业界；2025年1月R1引爆全球。",
+"sources": [
+{
+"title": "DeepSeek",
+"url": "https://zh.wikipedia.org/wiki/DeepSeek",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源",
+"价格战"
+]
+},
+{
+"id": "2024-05-07-wode-aletai",
+"date": "2024-05-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "迷你剧《我的阿勒泰》爆红",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月7日改编自李娟散文的《我的阿勒泰》开播，8集体量成为「散文影视化」爆款，带动新疆文旅热。",
+"detail": "由滕丛丛执导、马伊琍与周依然主演的《我的阿勒泰》在央视一套与爱奇艺同步播出，以诗意镜头呈现北疆牧区生活，豆瓣8.8分，「去阿勒泰」成为年轻人旅行口号，也开启了「散文体剧集」这一新品类讨论。",
+"impact": "长剧寡淡期中，短体量、散文风内容跑出爆款公式。",
+"aftermath": "新疆文旅订单暴涨；同类「治愈系地域剧」持续立项。",
+"sources": [
+{
+"title": "我的阿勒泰",
+"url": "https://zh.wikipedia.org/wiki/我的阿勒泰_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"剧集",
+"文旅"
+]
+},
+{
+"id": "2024-05-08-alphafold3",
+"date": "2024-05-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepMind 发布 AlphaFold 3",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月8日谷歌DeepMind在《自然》发表AlphaFold 3，能预测蛋白质与DNA、RNA、小分子的相互作用，生物AI叙事再进一步。",
+"detail": "AlphaFold 3基于扩散模型架构，把预测范围从单一蛋白质结构扩展到「所有生命分子」的复合物相互作用，药物发现场景直接受益。同年10月，AlphaFold相关成果获得诺贝尔化学奖。",
+"impact": "AI for Science成为基础模型之外最重要的AI叙事线。",
+"aftermath": "DeepMind同期成立药物研发公司Isomorphic Labs推进商业化。",
+"sources": [
+{
+"title": "AlphaFold",
+"url": "https://en.wikipedia.org/wiki/AlphaFold",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"DeepMind",
+"生物"
+]
+},
+{
+"id": "2024-05-10-geshou2024",
+"date": "2024-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《歌手2024》直播竞演引爆全网玩梗",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月10日《歌手2024》全开麦直播首播，那英对阵国际唱将的「守国门」梗刷屏，摇人玩梗成为年度综艺事件。",
+"detail": "湖南卫视《歌手2024》采用全开麦不修音直播，首期香缇·莫与凡希亚的唱功碾压引发「五旬老太守国门」式全民玩梗，韩红等歌手「请战」接力，节目热度横扫整个夏天，成为音综直播化、玩梗化传播的标志性案例。",
+"impact": "直播竞演+全民二创的综艺传播模型确立。",
+"aftermath": "「摇人」嘉宾轮番上场维持热度至收官。",
+"sources": [
+{
+"title": "歌手2024",
+"url": "https://zh.wikipedia.org/wiki/歌手2024",
+"type": "wiki"
+}
+],
+"tags": [
+"综艺",
+"流行文化"
+]
+},
+{
+"id": "2024-05-10-zeekr-ipo",
+"date": "2024-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "极氪登陆纽交所",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月10日吉利旗下极氪在纽交所挂牌，成为「最快上市新能源车企」（成立37个月），募资约4.4亿美元。",
+"detail": "极氪以ZK为代码登陆纽交所，发行价21美元，成为2021年以来赴美上市的最大中概IPO之一。上市首日破发，但极氪由此打通美元融资渠道，与蔚来、理想、小鹏同台美股。",
+"impact": "中概新能源车IPO通道重启。",
+"aftermath": "2025年吉利推动极氪私有化并表，回归集团整合路线。",
+"sources": [
+{
+"title": "极氪",
+"url": "https://zh.wikipedia.org/wiki/极氪",
+"type": "wiki"
+}
+],
+"tags": [
+"汽车",
+"上市"
+]
+},
+{
+"id": "2024-05-13-gpt4o",
+"date": "2024-05-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-4o：全双工语音登场",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月13日OpenAI发布原生多模态模型GPT-4o，「o」代表omni，语音对话延迟降至数百毫秒，可被打断，演示近乎真人对话。",
+"detail": "GPT-4o文本、音频、图像统一在一个神经网络处理，语音响应平均320毫秒，支持唱歌、表情与情绪，免费用户也可使用（限额）。演示中「实时翻译」「看摄像头解题」被视为人机交互拐点，电影《她》被反复引用。",
+"impact": "语音AI交互体验跨过实用门槛，全球语音助手赛道重估。",
+"aftermath": "7月因声音争议下架「Sky」音色；12月高级语音模式全量开放。",
+"sources": [
+{
+"title": "GPT-4o",
+"url": "https://en.wikipedia.org/wiki/GPT-4o",
+"type": "wiki"
+},
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/hello-gpt-4o/",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"语音"
+]
+},
+{
+"id": "2024-05-14-google-io24",
+"date": "2024-05-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 I/O 2024：AI Overviews 与 Veo",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月14日谷歌I/O大会宣布搜索AI摘要（AI Overviews）在美上线，发布视频模型Veo与Agent助手Astra。",
+"detail": "谷歌把生成式AI摘要直接做进搜索首页（AI Overviews），并展示Project Astra实时多模态助手、视频生成模型Veo、音乐工具Lyria与Gemini 1.5 Flash。Google全面进入「AI改造搜索」的深水区。",
+"impact": "搜索产品形态进入AI摘要时代，站长与广告生态震动。",
+"aftermath": "AI Overviews上线首周因荒谬答案被群嘲，谷歌紧急收紧。",
+"sources": [
+{
+"title": "Google I/O",
+"url": "https://en.wikipedia.org/wiki/Google_I/O",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"搜索"
+]
+},
+{
+"id": "2024-05-15-doubao-launch",
+"date": "2024-05-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "字节发布豆包大模型，掀起新一轮降价",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月15日字节火山引擎发布豆包大模型家族，主力模型定价0.0008元/千tokens，比行业均价低99%，价格战再升级。",
+"detail": "字节跳动首次正式对外发布自研「豆包」大模型家族（原内部代号Skylark），宣布主力模型按千tokens 0.8厘计费，宣称企业级定价「厘时代」。豆包App同期持续增长，成为字节AI to C的旗舰。",
+"impact": "大模型API进入「厘时代」，应用层成本门槛大幅下降。",
+"aftermath": "豆包App 2024年底月活破6000万成为国内第一；2025年豆包视频生成模型上线。",
+"sources": [
+{
+"title": "豆包",
+"url": "https://zh.wikipedia.org/wiki/豆包",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"字节",
+"价格战"
+]
+},
+{
+"id": "2024-05-16-qyjn2",
+"date": "2024-05-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《庆余年2》时隔五年回归成爆款",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月16日《庆余年2》开播，创腾讯视频热度值最快破3.4万纪录，成为2024年剧集流量之王。",
+"detail": "时隔五年回归的《庆余年2》首播即引爆，腾讯视频站内热度值历史新高，央视八套与腾讯视频联播，广告招商破纪录。张若昀主演的原班人马与「小范大人」话题让它成为2024年讨论度最高的国剧。",
+"impact": "超级IP长周期运营模式跑通。",
+"aftermath": "第三部确认制作，古装IP剧市场信心回升。",
+"sources": [
+{
+"title": "庆余年（电视剧）",
+"url": "https://zh.wikipedia.org/wiki/庆余年_(电视剧)",
+"type": "wiki"
+}
+],
+"tags": [
+"剧集"
+]
+},
+{
+"id": "2024-06-01-city-not-city",
+"date": "2024-06-01",
+"date_accuracy": "month",
+"date_confidence": "uncertain",
+"title": "「city不city啊」梗带火入境游话题",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月前后外国博主「保保熊」的「上海city不city啊」魔性视频全网刷屏，「city不city」成为形容洋气时髦的年度热词。",
+"detail": "外国旅行博主「保保熊」在视频中反复用中英混搭的「city不city啊」「好city啊」形容中国城市的现代化体验，魔性语调被大量二创，恰好叠加144小时过境免签带动的入境游热潮，「China Travel」成为海外平台流量密码。",
+"impact": "外国博主拍中国成为内容赛道，入境游话题破圈。",
+"aftermath": "免签政策扩容后「China Travel」内容持续走红全年。",
+"sources": [
+{
+"title": "中华人民共和国过境免签政策",
+"url": "https://zh.wikipedia.org/wiki/过境免签",
+"type": "wiki"
+}
+],
+"tags": [
+"流行文化",
+"文旅"
+]
+},
+{
+"id": "2024-06-07-qwen2",
+"date": "2024-06-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "阿里开源 Qwen2 系列",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月7日阿里开源Qwen2系列（0.5B至72B），多语言、代码与数学能力大幅提升，成为全球开源社区主力底座。",
+"detail": "Qwen2在7万亿token多语言语料上训练，72B版在多项英文基准超过Llama 3 70B，中文能力保持领先，HuggingFace下载量迅速登顶。此后Qwen2.5（9月）进一步扩大优势，衍生微调模型数量成为全球开源第一。",
+"impact": "中国开源模型首次在全球开源生态占据中心位置。",
+"aftermath": "2025年Qwen3发布并长期占据开源衍生榜第一。",
+"sources": [
+{
+"title": "QwenLM/Qwen2",
+"url": "https://github.com/QwenLM/Qwen2",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"阿里",
+"开源"
+]
+},
+{
+"id": "2024-06-10-wwdc-apple-intelligence",
+"date": "2024-06-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WWDC 2024：苹果发布 Apple Intelligence",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月10日苹果在WWDC发布Apple Intelligence，Siri迎来大模型改造，与OpenAI合作把ChatGPT接入系统。",
+"detail": "Apple Intelligence主打端侧3B模型+私有云计算的混合架构，提供写作工具、通知摘要、图像生成与全新Siri；苹果罕见官宣与OpenAI合作，Siri可调用ChatGPT。仅iPhone 15 Pro及以上机型支持。发布会没提「AI」全称而用「Apple Intelligence」的命名成为话题。",
+"impact": "端侧AI成为手机行业标配叙事，「AI手机」概念全面引爆。",
+"aftermath": "2024年10月英语版上线，中文版2025年4月落地，进度屡次延期。",
+"sources": [
+{
+"title": "Apple Intelligence",
+"url": "https://en.wikipedia.org/wiki/Apple_Intelligence",
+"type": "wiki"
+},
+{
+"title": "Apple 官方",
+"url": "https://www.apple.com/newsroom/2024/06/apple-introduces-apple-intelligence/",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"苹果",
+"手机"
+]
+},
+{
+"id": "2024-06-12-sd3",
+"date": "2024-06-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Stable Diffusion 3 中型模型开放",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月12日Stability AI开放Stable Diffusion 3 Medium权重，文字渲染能力大幅提升，但社区反馈口碑平平。",
+"detail": "SD3 Medium（2B参数）主打图像内文字生成的准确性，采用MMDiT架构。发布后因生成人物效果退化引发社区批评，Stability随后修复并推 Large 版本。此时公司因资金与管理动荡处于多事之秋。",
+"impact": "开源文生图进入「文字渲染」竞赛阶段。",
+"aftermath": "Stability 2024年6月CEO Emad Mostaque离任，公司重组。",
+"sources": [
+{
+"title": "Stable Diffusion",
+"url": "https://en.wikipedia.org/wiki/Stable_Diffusion",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"文生图"
+]
+},
+{
+"id": "2024-06-18-nvidia-3t",
+"date": "2024-06-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达市值超越苹果、微软登顶全球第一",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月18日英伟达市值收盘突破3.3万亿美元，超越微软成为全球市值最高公司，AI算力叙事登顶。",
+"detail": "受益于AI数据中心需求爆发与股价年内涨超170%，英伟达市值首次超过苹果与微软成为全球第一，从2023年5月突破1万亿到登顶只用约一年。黄仁勋称世界正处于「新工业革命」的开端。",
+"impact": "AI基础设施公司首次坐上全球市值头把交椅。",
+"aftermath": "2025年1月DeepSeek冲击、7月破4万亿、10月破5万亿，波动中上行。",
+"sources": [
+{
+"title": "Nvidia",
+"url": "https://en.wikipedia.org/wiki/Nvidia",
+"type": "wiki"
+}
+],
+"tags": [
+"英伟达",
+"市值"
+]
+},
+{
+"id": "2024-06-20-claude35",
+"date": "2024-06-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude 3.5 Sonnet",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月20日Anthropic发布Claude 3.5 Sonnet，以双倍速度和1/5的价格超越Claude 3 Opus，成为开发者口碑之王。",
+"detail": "Claude 3.5 Sonnet在编码、长文档理解与视觉问答上大幅进步，速度是3 Opus的两倍、API价格仅其五分之一，上线后在LMSYS竞技场与编程评测中登顶，Artifacts实时预览功能同步推出。",
+"impact": "「性价比旗舰」成为模型竞争的新战场，开发者向Anthropic明显迁移。",
+"aftermath": "10月升级版3.5 Sonnet+Computer Use再掀Agent浪潮。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic",
+"编程"
+]
+},
+{
+"id": "2024-06-28-vision-pro-cn",
+"date": "2024-06-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Apple Vision Pro 国行版开售",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "6月28日Vision Pro在中国大陆正式开售，国行29999元起，首发热度远低于美国，长期供需宽松。",
+"detail": "Vision Pro于6月14日开启国行预售、28日开售，苹果为中国市场提供了专属内容与App生态适配。与美区首发热潮相比，国行首销没有再现排队盛况，第三方渠道很快出现折扣，市场对高价MR的冷静态度显现。",
+"impact": "高价MR的消费级困境在中国市场同样成立。",
+"aftermath": "苹果后续在2025年10月国行上线Apple Intelligence等AI功能以提振生态。",
+"sources": [
+{
+"title": "Apple Vision Pro",
+"url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"XR"
+]
+},
+{
 "id": "2024-07-04-waic24",
 "date": "2024-07-04",
 "date_accuracy": "exact",
@@ -2804,6 +3400,31 @@
 "AI",
 "机器人",
 "大会"
+]
+},
+{
+"id": "2024-07-04-zzz",
+"date": "2024-07-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "米哈游《绝区零》全球公测",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月4日米哈游都市题材新作《绝区零》全球上线，米哈游形成三款旗舰并行运营的产品矩阵。",
+"detail": "《绝区零》以潮流都市+动作战斗切入年轻用户，上线首月移动端收入位居全球手游前列。米哈游自此同时运营《原神》《星穹铁道》《绝区零》三条产品线，成为全球内容型手游的最强厂商之一。",
+"impact": "米哈游完成多品牌矩阵，全球二游竞争标杆再抬高。",
+"aftermath": "与《鸣潮》《蓝原》等新作共同掀起动作二游红海。",
+"sources": [
+{
+"title": "绝区零",
+"url": "https://zh.wikipedia.org/wiki/绝区零",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"米哈游"
 ]
 },
 {
@@ -3291,6 +3912,30 @@
 "汽车",
 "特斯拉",
 "自动驾驶"
+]
+},
+{
+"id": "2024-10-14-double11-2024",
+"date": "2024-10-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2024年双十一提前开卖，「史上最长双十一」开跑",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月14日晚8点天猫京东同步开启2024双十一预售，比往年提前十天，大促周期被拉长至一个月以上。",
+"detail": "各平台取消官方预售定金玩法、主打「现货+官方立减」，以简单低价争夺用户。双十一「日历化」彻底消失，回归「现货+低价」的竞争本质。",
+"impact": "电商大促从营销狂欢转向存量竞争。",
+"aftermath": "2025-2026年大促周期继续前移，补贴竞争加剧。",
+"sources": [
+{
+"title": "双十一",
+"url": "https://zh.wikipedia.org/wiki/双十一",
+"type": "wiki"
+}
+],
+"tags": [
+"电商"
 ]
 },
 {
@@ -3890,6 +4535,30 @@
 ]
 },
 {
+"id": "2025-02-28-monster-hunter-wilds",
+"date": "2025-02-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《怪物猎人：荒野》全球发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月28日卡普空《怪物猎人：荒野》发售，三天销量突破800万套，创系列最快纪录。",
+"detail": "《荒野》以无缝生态地图与聚焦模式降低入坑门槛，发售三天全球出货即超800万套创系列最快，但优化与内容深度问题也让口碑高开低走，成为「销量神话与差评并存」的年度案例。",
+"impact": "卡普空旗舰IP的商业号召力再创纪录。",
+"aftermath": "后续大型更新逐步挽回口碑。",
+"sources": [
+{
+"title": "Monster Hunter Wilds",
+"url": "https://en.wikipedia.org/wiki/Monster_Hunter_Wilds",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
+]
+},
+{
 "id": "2025-03-01-nezha2-global",
 "date": "2025-03-01",
 "date_accuracy": "exact",
@@ -3964,6 +4633,30 @@
 "AI",
 "阿里",
 "开源"
+]
+},
+{
+"id": "2025-03-06-split-fiction",
+"date": "2025-03-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《双影奇境》发售成合作游戏新标杆",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月6日《双影奇境》全球发售，一个月销量破200万套，成为《双人成行》之后最成功的双人合作游戏。",
+"detail": "Hazelight工作室延续「买一份送两人」策略，以科幻+奇幻双世界的高强度脑洞关卡征服玩家，Steam好评率长期保持95%以上，并最终入围TGA年度游戏提名。",
+"impact": "双人合作品类被重新拉回大众视野。",
+"aftermath": "工作室宣布下一作继续做「没人做过的东西」。",
+"sources": [
+{
+"title": "Split Fiction",
+"url": "https://en.wikipedia.org/wiki/Split_Fiction",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
 ]
 },
 {
@@ -4166,6 +4859,30 @@
 "tags": [
 "汽车",
 "车展"
+]
+},
+{
+"id": "2025-04-24-clair-obscur",
+"date": "2025-04-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《光与影：33号远征队》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月24日法国小团队处女作《光与影：33号远征队》发售，33天内销量破500万套，年底横扫TGA九项大奖。",
+"detail": "Sandfall Interactive约30人团队以回合制+即时反应的独特战斗与法式美术惊艳业界，首月销量超330万份、年内破千万量级，获得TGA史上最多的12项提名并拿下9项大奖。",
+"impact": "年度最佳游戏第一次由「无发行大厂加持的小团队」包揽。",
+"aftermath": "主创团队扩编并筹备新作。",
+"sources": [
+{
+"title": "Clair Obscur: Expedition 33",
+"url": "https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
 ]
 },
 {
@@ -4470,6 +5187,1615 @@
 ],
 "tags": [
 "电影"
+]
+},
+{
+"id": "2025-07-09-nvda-4t",
+"date": "2025-07-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达成为全球首家市值破4万亿美元公司",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月9日英伟达股价盘中市值突破4万亿美元，成为历史上首家达到该量级的公司，AI算力龙头地位再获确认。",
+"detail": "受数据中心GPU需求持续爆发推动，英伟达市值从3万亿到4万亿仅用时约一年，超越整个德国股市市值规模。DeepSeek冲击引发的算力担忧被彻底证伪，全球AI资本开支竞赛继续升温。",
+"impact": "AI基础设施资产被资本市场给到历史最高定价。",
+"aftermath": "10月底市值进一步突破5万亿美元。",
+"sources": [
+{
+"title": "Nvidia",
+"url": "https://en.wikipedia.org/wiki/Nvidia",
+"type": "wiki"
+}
+],
+"tags": [
+"英伟达",
+"市值"
+]
+},
+{
+"id": "2025-07-12-kimi-k2",
+"date": "2025-07-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "月之暗面开源万亿参数模型 Kimi K2",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月12日月之暗面开源Kimi K2，总参数达1万亿的MoE模型，主打Agentic能力，以约同类1/10的成本对标闭源旗舰。",
+"detail": "K2采用384专家MoE架构（激活32B），在编码与智能体任务上表现突出，API定价约为同级模型的十分之一。K2让月之暗面重新回到模型竞赛中心，也吹响了中国团队7月开源集中爆发的号角。",
+"impact": "开源阵营在智能体（Agentic）能力上首次形成规模优势。",
+"aftermath": "2026年7月K2的继任者K3跻身全球前三。",
+"sources": [
+{
+"title": "MoonshotAI/Kimi-K2",
+"url": "https://github.com/MoonshotAI/Kimi-K2",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Kimi",
+"开源"
+]
+},
+{
+"id": "2025-07-28-glm45",
+"date": "2025-07-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "智谱开源 GLM-4.5",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月28日智谱开源GLM-4.5（355B参数MoE），主打推理、编码与智能体三合一，在多项智能体基准仅次于头部闭源模型。",
+"detail": "GLM-4.5总参数355B、激活32B，另提供轻量版Air；官方称对Kimi K2综合胜率53.9%。国产开源模型在7月形成K2、GLM-4.5、Qwen3-Coder「三连发」，被外媒称为中国AI开源月。",
+"impact": "中国开源模型在Agent时代的竞争力全面确立。",
+"aftermath": "2026年2月GLM-5接棒，参数规模升至744B。",
+"sources": [
+{
+"title": "GLM-4.5 官方博客",
+"url": "https://z.ai/blog/glm-4.5",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"智谱",
+"开源"
+]
+},
+{
+"id": "2025-08-02-langlangshan",
+"date": "2025-08-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《浪浪山小妖怪》上映成暑期档黑马",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月2日动画电影《浪浪山小妖怪》上映，凭「小妖怪也要走出浪浪山」的打工人共鸣实现票房口碑双逆袭。",
+"detail": "衍生自爆款短片集《中国奇谭》的动画长片，以小猪妖的取经路隐喻普通职场人，上映后评分走高、排片逆袭，最终票房超15亿元，成为暑期档最大黑马，「浪浪山」再度成为年轻人的精神关键词。",
+"impact": "「小人物叙事+国民IP衍生」模式得到商业验证。",
+"aftermath": "上美影加速「奇谭宇宙」后续开发。",
+"sources": [
+{
+"title": "浪浪山小妖怪",
+"url": "https://zh.wikipedia.org/wiki/浪浪山小妖怪",
+"type": "wiki"
+}
+],
+"tags": [
+"电影",
+"动画"
+]
+},
+{
+"id": "2025-08-07-gpt5",
+"date": "2025-08-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-5",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "8月7日OpenAI发布GPT-5，统一路由「快答」与「深度思考」，免费用户亦可用，幻觉率显著下降。",
+"detail": "GPT-5把GPT系列与o系列合并为单一系统，内置实时路由器按任务难度在快速响应与长思考间切换，数学、代码、多模态与幻觉指标全面刷新，全量面向免费用户开放。发布会「Some生图」梗刷屏。",
+"impact": "旗舰模型「免费化+统一化」成为行业新基准。",
+"aftermath": "11月GPT-5.1、12月GPT-5.2快速接力。",
+"sources": [
+{
+"title": "GPT-5",
+"url": "https://en.wikipedia.org/wiki/GPT-5",
+"type": "wiki"
+},
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/introducing-gpt-5/",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI"
+]
+},
+{
+"id": "2025-08-19-dsv31",
+"date": "2025-08-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek 发布 V3.1：混合推理架构",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月19日DeepSeek发布V3.1，首个混合推理（思考/非思考一体）模型，继续以极低价格开源。",
+"detail": "V3.1把思考与非思考模式合入同一模型，长上下文与Agent工具调用能力增强，API价格保持行业最低档。9月底又推出V3.1-Terminus修复短板，DeepSeek以「慢公司」节奏维持开源旗舰地位。",
+"impact": "混合推理成为开源模型的标准形态。",
+"aftermath": "2026年4月DeepSeek-V4开启新一代。",
+"sources": [
+{
+"title": "DeepSeek",
+"url": "https://zh.wikipedia.org/wiki/DeepSeek",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源"
+]
+},
+{
+"id": "2025-09-09-iphone17",
+"date": "2025-09-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 iPhone 17 系列与超薄 iPhone Air",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月9日苹果发布iPhone 17系列，全系升级ProMotion高刷，新增5.6毫米厚的iPhone Air，标准版首次「加量降价」。",
+"detail": "iPhone 17标准版补齐120Hz高刷与双摄升级，Pro版换装A19 Pro与铝制散热一体外壳；全新iPhone Air以5.6毫米厚度取消SIM卡槽，主打极致轻薄。Air的销量表现与eSIM生态成为发布后焦点。",
+"impact": "苹果产品线首次形成「数字/Pro/Air」三线并行格局。",
+"aftermath": "iPhone Air初期供应紧张；标准版因性价比在国内销量超预期。",
+"sources": [
+{
+"title": "IPhone 17",
+"url": "https://en.wikipedia.org/wiki/IPhone_17",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"手机"
+]
+},
+{
+"id": "2025-09-12-borderlands4",
+"date": "2025-09-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《无主之地4》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月12日Gearbox《无主之地4》全球发售，系列时隔六年回归，首发销量与同时在线均创系列新高。",
+"detail": "《无主之地4》延续「刷宝射击」配方并升级地图无缝设计，Steam同时在线峰值超30万，成为系列最佳。作为2025年3A大年中的重磅作品，它与《光与影：33号远征队》《死亡搁浅2》共同构成年度大作矩阵。",
+"impact": "老牌系列IP在买断制市场的持续号召力。",
+"aftermath": "后续DLC与性能修复补丁密集推出。",
+"sources": [
+{
+"title": "Borderlands 4",
+"url": "https://en.wikipedia.org/wiki/Borderlands_4",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
+]
+},
+{
+"id": "2025-09-25-xiaomi17",
+"date": "2025-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "小米 17 系列提前发布对标 iPhone 17",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "9月25日雷军罕见地把小米17系列提前至与iPhone 17同月发布，全系直接叫板苹果，高端化战略进一步提速。",
+"detail": "小米17/17 Pro/17 Pro Max全系搭载玄戒或骁龙旗舰平台，取消「数字标准版缩配」的惯例，价格与配置全面对标iPhone 17。雷军在发布会多次点名对比苹果，发布会后预订火爆。",
+"impact": "国产旗舰与iPhone的正面竞争进入「同场对拳」阶段。",
+"aftermath": "小米2026年延续双旗舰节奏，17系列国内份额创新高。",
+"sources": [
+{
+"title": "小米手机",
+"url": "https://zh.wikipedia.org/wiki/小米手机",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"小米",
+"手机"
+]
+},
+{
+"id": "2025-09-29-sonnet45",
+"date": "2025-09-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude Sonnet 4.5",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月29日Anthropic发布Claude Sonnet 4.5，可自主编码30小时不间断，SWE-bench Verified成绩登顶。",
+"detail": "Sonnet 4.5把「长时程任务」推到新高度：官方演示其连续工作30小时完成复杂工程，在OSWorld等电脑操作基准上大幅领先。它迅速成为Cursor、Claude Code等编程工具的主力模型。",
+"impact": "「AI外包整个功能模块」开始成为工程团队的常态。",
+"aftermath": "11月Opus 4.5进一步拉高自主工作时长上限。",
+"sources": [
+{
+"title": "Claude (language model)",
+"url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+"type": "wiki"
+}
+],
+"tags": [
+"AI",
+"Anthropic",
+"编程"
+]
+},
+{
+"id": "2025-09-30-sora2",
+"date": "2025-09-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 Sora 2 与社交 App",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月30日OpenAI发布Sora 2并同步上线独立Sora短视频App，「Cameo」功能让用户把真人形象授权进AI视频，首日登顶美区App Store。",
+"detail": "Sora 2支持同步生成音效对白、物理一致性大幅提升；Sora App采用竖屏信息流+邀请制，被称作「OpenAI版TikTok」，上线数日登顶美区免费榜。版权与肖像授权机制引发好莱坞与用户的双重争议。",
+"impact": "AI视频第一次以「社交平台」形态进入大众消费。",
+"aftermath": "安卓版11月底上线；产品于2026年4月26日关停，引发「AI社交」路线大讨论。",
+"sources": [
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/sora-2",
+"type": "official"
+},
+{
+"title": "Reuters",
+"url": "https://www.reuters.com/world/americas/openai-launches-ai-video-tool-sora-standalone-app-2025-09-30",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"文生视频",
+"产品"
+]
+},
+{
+"id": "2025-10-10-battlefield6",
+"date": "2025-10-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《战地6》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月10日EA《战地6》全球发售，抢先体验阶段同时在线人数即破系列纪录，成为年度最大射击游戏事件。",
+"detail": "《战地6》以重返现代战争设定与大规模破坏玩法回暖口碑，公测吸引超5亿场对局，正式版Steam同时在线峰值突破70万，创系列历史。它也是EA在《使命召唤》发售前抢下市场空档的关键一役。",
+"impact": "《战地》系列完成口碑翻身，射击品类竞争进入双雄对垒。",
+"aftermath": "首赛季内容与《黑色行动7》档期正面交锋。",
+"sources": [
+{
+"title": "Battlefield 6",
+"url": "https://en.wikipedia.org/wiki/Battlefield_6",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
+]
+},
+{
+"id": "2025-10-15-m5-macbook",
+"date": "2025-10-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 M5 芯片 MacBook Pro 与新款 Vision Pro",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月15日苹果发布搭载M5芯片的14英寸MacBook Pro与Vision Pro更新，主打本地AI性能提升。",
+"detail": "M5采用第三代3nm工艺，神经加速器使本地大模型推理性能大幅提升；同期Vision Pro换装M5并降低部分重量。苹果把「能跑本地AI」作为Mac新卖点持续强化。",
+"impact": "端侧AI成为苹果硬件更新的第一叙事。",
+"aftermath": "2026年M5系列扩展到更多Mac机型。",
+"sources": [
+{
+"title": "Apple silicon",
+"url": "https://en.wikipedia.org/wiki/Apple_silicon",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"苹果"
+]
+},
+{
+"id": "2025-10-16-pokemon-za",
+"date": "2025-10-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《宝可梦传说 Z-A》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月16日《宝可梦传说 Z-A》全球发售，重返密阿雷市的开放箱庭玩法让宝可梦主线重回热度巅峰。",
+"detail": "作为Switch 2时代首批重磅第一方大作，《宝可梦传说 Z-A》以单城实时战斗与超级进化回归为核心卖点，全球销量首周即破数百万份，与Switch 2硬件形成相互拉动。",
+"impact": "宝可梦IP在新主机周期实现开门红。",
+"aftermath": "Switch 2首年软件阵容继续扩充。",
+"sources": [
+{
+"title": "Pokémon Legends: Z-A",
+"url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Z-A",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏",
+"宝可梦"
+]
+},
+{
+"id": "2025-10-29-nvda-5t",
+"date": "2025-10-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英伟达市值突破5万亿美元",
+"category": "company",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月29日英伟达市值史上首破5万亿美元，超过全球多数国家GDP，从4万亿到5万亿仅用约百日。",
+"detail": "受AI资本开支持续超预期推动，英伟达在10月28日收盘后发布强劲财报指引，次日盘中市值突破5万亿美元大关，成为人类历史上第一家达到该市值的公司，相当于全球GDP排名前五国家的规模。",
+"impact": "AI算力被定价为「国家级」资产，泡沫争论同升温。",
+"aftermath": "投资者开始担忧AI资本开支循环的可持续性。",
+"sources": [
+{
+"title": "Nvidia",
+"url": "https://en.wikipedia.org/wiki/Nvidia",
+"type": "wiki"
+}
+],
+"tags": [
+"英伟达",
+"市值"
+]
+},
+{
+"id": "2025-11-01-gta6-delay",
+"date": "2025-11-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "《GTA6》再度延期至 2026年11月19日",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月初R星官宣《GTA6》从2026年5月26日推迟至11月19日发售，全球玩家社区「哀嚎」，游戏史最强预约继续吊胃口。",
+"detail": "Rockstar在11月初通过Newswire确认延期，称需要额外时间打磨。此前《GTA6》首支预告曾创游戏预告播放纪录，2026年5月Take-Two再度确认新档期锁定，营销节奏在下半年逐步铺开。",
+"impact": "单款游戏的档期足以牵动全球主机市场排期。",
+"aftermath": "发售日锁定2026年11月19日（本次整理周期之后），相关周边与联动提前启动。",
+"sources": [
+{
+"title": "Rockstar Newswire",
+"url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+"type": "official"
+},
+{
+"title": "Variety",
+"url": "https://variety.com/2025/gaming/news/gta-6-release-delayed-november-2026-1236571679",
+"type": "media"
+}
+],
+"tags": [
+"游戏",
+"GTA"
+]
+},
+{
+"id": "2025-11-09-s15-t1",
+"date": "2025-11-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "英雄联盟S15全球总决赛：T1 成都加冕三连冠",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月9日S15总决赛在成都举行，T1决胜局3:2险胜KT实现历史首个三连冠，Faker达成六冠。",
+"detail": "S15首次落地中国西南，成都场馆一票难求。T1与KT打满五局的「 telecommunications 内战」载入史册，Faker以第六座召唤师奖杯巩固历史第一人，T1成为S赛历史上第一支三连冠队伍。",
+"impact": "英雄联盟电竞IP商业价值重回顶点。",
+"aftermath": "2026赛季联赛化与世赛申办竞争继续升温。",
+"sources": [
+{
+"title": "英雄联盟全球总决赛",
+"url": "https://zh.wikipedia.org/wiki/英雄联盟全球总决赛",
+"type": "wiki"
+}
+],
+"tags": [
+"电竞",
+"英雄联盟"
+]
+},
+{
+"id": "2025-11-12-gpt51",
+"date": "2025-11-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-5.1",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月12日OpenAI发布GPT-5.1，Instant更会聊天、Thinking可自适应思考时长，个性化指令全面升级。",
+"detail": "GPT-5.1 Instant以更自然的对话风格与个性化预设为主打，Thinking版本能根据任务难度自动调整推理时间。11月19日第二批模型跟进，旧版GPT-5被移入「旧版模型」菜单，一个月后GPT-5.2接棒。",
+"impact": "模型迭代进入「月更节奏」，差异化转向对话体验。",
+"aftermath": "2026年2月GPT-5.3系列聚焦编程与智能体。",
+"sources": [
+{
+"title": "OpenAI 官方",
+"url": "https://openai.com/index/gpt-5-1",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI"
+]
+},
+{
+"id": "2025-11-14-blackops7",
+"date": "2025-11-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《使命召唤：黑色行动7》发售",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月14日《黑色行动7》发售，与《战地6》正面对决，年度射击双雄之争成为玩家社区最大话题。",
+"detail": "《黑色行动7》延续战役+多人+僵尸模式组合，首发再进Game Pass。尽管口碑褒贬不一，其装机量仍稳居年末第一梯队，与《战地6》的服务器分流战成为厂商运营的经典案例。",
+"impact": "年货射击的双雄竞争进入白热化。",
+"aftermath": "《战地6》凭口碑拿下更多长线玩家。",
+"sources": [
+{
+"title": "Call of Duty: Black Ops 7",
+"url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_7",
+"type": "wiki"
+}
+],
+"tags": [
+"游戏"
+]
+},
+{
+"id": "2025-11-18-gemini3",
+"date": "2025-11-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌发布 Gemini 3",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月18日谷歌发布Gemini 3，发布首日即接入搜索AI Mode，Pro版在推理基准全面登顶，被称谷歌「翻身之作」。",
+"detail": "Gemini 3 Pro基于MoE架构、支持100万token上下文，首发即整合进搜索、Gemini App与开发者API，Gemini 3 Deep Think同步亮相；配套的Gemini 3 Pro Image（Nano Banana 新一代）同日推出。发布当日谷歌股价大涨。",
+"impact": "谷歌第一次在旗舰模型上建立明显领先身位。",
+"aftermath": "2026年2月Gemini 3.1 Pro、10月Gemini 4接续发布。",
+"sources": [
+{
+"title": "Google 官方博客",
+"url": "https://blog.google/products-and-platforms/products/gemini/gemini-3",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"Gemini"
+]
+},
+{
+"id": "2025-11-24-opus45",
+"date": "2025-11-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude Opus 4.5",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月24日Anthropic发布Opus 4.5，编程与长时程智能体任务登顶多项基准，同时大幅降价三成。",
+"detail": "Opus 4.5在SWE-bench Verified等真实工程基准刷新纪录，价格从15/75美元降至5/25美元，官方称「前沿智能变得可负担」。它成为2026年初企业级编程与Agent场景的首选模型之一。",
+"impact": "旗舰模型「性能涨+价格降」首次同时出现。",
+"aftermath": "2026年2月Opus 4.6、4月Opus 4.7接续。",
+"sources": [
+{
+"title": "Anthropic",
+"url": "https://www.anthropic.com/news",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2025-11-25-mate80",
+"date": "2025-11-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "华为发布 Mate 80 系列与 Mate X7",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月25日华为Mate 80系列与折叠旗舰Mate X7发布，麒麟芯片与红枫影像继续升级，预约量再破纪录。",
+"detail": "Mate 80系列搭载新一代麒麟芯片与鸿蒙OS 6，Mate X7折叠屏主打影像与轻薄，发布前商城预约人数数百万。华为高端旗舰在国内市场对苹果的压制力进一步增强。",
+"impact": "国产高端旗舰完成对iPhone的品牌对位。",
+"aftermath": "鸿蒙生态应用数持续增长，海外市场缓慢恢复。",
+"sources": [
+{
+"title": "华为Mate",
+"url": "https://zh.wikipedia.org/wiki/华为Mate",
+"type": "wiki"
+}
+],
+"tags": [
+"硬件",
+"华为",
+"手机"
+]
+},
+{
+"id": "2025-12-05-moore-threads",
+"date": "2025-12-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "摩尔线程登陆科创板：「国产GPU第一股」首日暴涨468%",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月5日国产GPU公司摩尔线程上市，发行价114.28元，开盘大涨468%，市值一度超3000亿元。",
+"detail": "摩尔线程以「国产GPU第一股」身份登陆科创板，首日开盘价650元、市值破3000亿；五个交易日内股价冲至941元，累计涨幅超700%，市值突破4400亿。其仍处亏损期的高估值引发市场对AI算力资产泡沫的争论。",
+"impact": "国产GPU资产获得资本市场极致定价。",
+"aftermath": "国产算力公司上市潮跟进，监管提示风险。",
+"sources": [
+{
+"title": "摩尔线程上市首日大涨",
+"url": "https://wap.eastmoney.com/a/202512053583769520.html",
+"type": "media"
+}
+],
+"tags": [
+"公司",
+"芯片",
+"上市"
+]
+},
+{
+"id": "2025-12-12-gpt52",
+"date": "2025-12-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-5.2",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月12日OpenAI发布GPT-5.2，GPT-5.1转入旧版模型菜单，月度迭代节奏延续到年底。",
+"detail": "GPT-5.2在推理与代理任务上继续小幅领先，配合Codex等编程产品形成组合拳。从GPT-5到5.2仅四个月，「旗舰模型月更化」成为OpenAI应对谷歌与Anthropic夹击的节奏选择。",
+"impact": "模型发布从「大版本」转向「持续交付」。",
+"aftermath": "2026年2月GPT-5.3系列把重心转向编程智能体。",
+"sources": [
+{
+"title": "OpenAI 模型发布说明",
+"url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI"
+]
+},
+{
+"id": "2025-12-12-tga2025",
+"date": "2025-12-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "TGA 2025：《光与影：33号远征队》获年度游戏",
+"category": "culture",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月12日TGA 2025颁奖，法国小团队处女作《光与影：33号远征队》横扫9奖夺年度游戏，创12项提名历史纪录。",
+"detail": "Sandfall Interactive约30人团队打造的首部作品《光与影：33号远征队》击败《死亡搁浅2》《空洞骑士：丝之歌》等强敌，以回合制+法语的独特气质横扫TGA，成为独立团队逆袭的最佳注脚。",
+"impact": "「小团队、强作者性」作品登顶行业最高奖。",
+"aftermath": "游戏销量随之突破千万级，续作提上日程。",
+"sources": [
+{
+"title": "TGA 2025 完整获奖名单",
+"url": "https://indienova.com/indie-game-news/the-game-awards-2025-winners",
+"type": "media"
+}
+],
+"tags": [
+"游戏",
+"TGA"
+]
+},
+{
+"id": "2026-01-06-ces2026",
+"date": "2026-01-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "CES 2026：物理AI 与具身智能唱主角",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月6日CES 2026在拉斯维加斯开幕，AI从概念走向落地：约25款AI陪伴机器人、人形机器人与AI眼镜成为全场主角，中国参展商超千家。",
+"detail": "本届CES的关键词从「演示AI」变成「卖AI硬件」：波士顿动力机器人进入现代汽车工厂「打工」，追觅展出爬楼梯家庭机器人，Meta与雷朋引领AI眼镜本地化计算，英特尔18A芯片等底层设施同步亮相。Arm总结「物理AI」「边缘AI」等五大趋势。",
+"impact": "消费电子展的展台逻辑从App转向具身智能体。",
+"aftermath": "2026年国内AI陪伴机器人与AI眼镜出货量爆发。",
+"sources": [
+{
+"title": "Arm：CES 2026五大技术趋势",
+"url": "https://www.arm.com/zh-CN/company/news/2026/01/top-trends-for-ces-2026",
+"type": "official"
+}
+],
+"tags": [
+"硬件",
+"CES",
+"机器人"
+]
+},
+{
+"id": "2026-01-08-zhipu-ipo",
+"date": "2026-01-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "智谱AI上市，被称为「大模型第一股」",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月8日智谱AI挂牌上市，成为国内大模型公司上市第一股，首席科学家唐杰现场宣布新一代GLM-5即将推出。",
+"detail": "智谱AI在上市当日对外披露MaaS平台年收入高速增长，并预告GLM-5。作为「六小虎」中最先走通资本路径的公司，其上市被解读为大模型行业从烧钱竞赛进入商业化验证阶段的信号。",
+"impact": "大模型创业公司第一次获得公开市场定价。",
+"aftermath": "2月GLM-5发布开源；行业再融资与上市辅导密集启动。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"公司",
+"上市"
+]
+},
+{
+"id": "2026-01-10-clawdbot",
+"date": "2026-01-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "个人开发者发布开源智能体 Clawdbot",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月10日个人开发者Peter Steinberger发布开源AI智能体Clawdbot，由个人项目成长为现象级开源Agent，后更名OpenClaw。",
+"detail": "Clawdbot以「接入个人消息渠道的私人AI助理」定位在GitHub病毒式走红，成为个人开发者对抗大厂Agent产品的标志性开源项目，社区生态随后衍生出大量插件与Skills体系。",
+"impact": "开源个人Agent第一次形成全球社区规模。",
+"aftermath": "多家模型厂商（含智谱）为其定制优化基座模型。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"Agent",
+"开源"
+]
+},
+{
+"id": "2026-01-22-ernie5",
+"date": "2026-01-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "百度发布文心大模型5.0",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月22日百度发布文心大模型5.0，主打原生多模态与Agent能力，落地场景从对话转向企业工作流。",
+"detail": "文心5.0延续百度「模型+应用」路线，强化多模态理解与工具调用，配合文心App与智能云推向政企市场。在国产模型第一梯队格局基本固化后，百度把重心放在行业解决方案与搜索AI化。",
+"impact": "国产模型竞争从「追平GPT」转向「行业落地」。",
+"aftermath": "文心系列在搜索与自动驾驶场景持续整合。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"百度"
+]
+},
+{
+"id": "2026-01-29-alphagenome",
+"date": "2026-01-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepMind 发布人类基因组模型 AlphaGenome",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1月29日谷歌DeepMind发布AlphaGenome，可读取超百万DNA碱基并预测基因变异影响，AI for Science再下一城。",
+"detail": "AlphaGenome作为专注人类基因组的AI模型，能对长序列DNA做功能注释与变异效应预测，服务遗传病研究与药物靶点发现，被视为AlphaFold之后DeepMind在生命科学线的又一步。",
+"impact": "基因组学进入「大模型化」阶段。",
+"aftermath": "科研界围绕其预测可靠性展开验证与跟进。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"DeepMind",
+"生物"
+]
+},
+{
+"id": "2026-02-05-gpt53-codex",
+"date": "2026-02-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-5.3-Codex",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月5日OpenAI发布智能体编程模型GPT-5.3-Codex，官方称其在开发过程中「参与构建了自己」，2月13日GPT-5.3 Instant跟进。",
+"detail": "GPT-5.3-Codex定位「迄今最强智能体编程模型」，结合工具使用与长任务执行；2月13日发布的GPT-5.3 Instant则面向日常问答与搜索。OpenAI同期宣布退役GPT-4.5、o3等旧模型，产品线加速收敛。",
+"impact": "编程智能体成为大模型厂商的正面战场。",
+"aftermath": "9月GPT-6 Astra接棒旗舰；Codex模型体系并入ChatGPT订阅。",
+"sources": [
+{
+"title": "OpenAI 模型发布说明",
+"url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"编程"
+]
+},
+{
+"id": "2026-02-05-opus46",
+"date": "2026-02-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude Opus 4.6",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月5日Anthropic发布Opus 4.6，上下文扩至100万token，新增「Agent团队」多智能体协作，价格保持不变。",
+"detail": "Opus 4.6主打更长任务续航与多Agent协同（Agent Teams），同步发布213页系统卡披露安全评测。与同日的GPT-5.3-Codex相隔数小时，2月上旬的模型连发被媒体称为「史上最密集发布周」。",
+"impact": "多智能体协作成为旗舰模型的新标配能力。",
+"aftermath": "4月16日Opus 4.7进一步强化软件工程能力。",
+"sources": [
+{
+"title": "Anthropic 官方",
+"url": "https://www.anthropic.com/news/claude-opus-4-6",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2026-02-11-glm5",
+"date": "2026-02-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "智谱发布并开源 GLM-5：744B 参数剑指「智能体工程」",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月11日智谱发布GLM-5并次日开源，744B参数MoE，主打把编程从「Vibe Coding」升级为端到端交付的「Agentic Engineering」。",
+"detail": "GLM-5曾在OpenRouter盲测中以匿名代号登场，约四分之一测试者误认为是Claude Sonnet 5。发布后3月15日GLM-5-Turbo、3月27日GLM-5.1相继跟进，GLM Coding Plan订阅用户快速增长。",
+"impact": "国产开源模型继续保持在编程与Agent第一梯队的存在感。",
+"aftermath": "8月GLM-5.2进入国内开源「爆发月」阵列。",
+"sources": [
+{
+"title": "智谱模型与产品发布记录",
+"url": "https://docs.bigmodel.cn/cn/update/new-releases",
+"type": "official"
+},
+{
+"title": "DoNews",
+"url": "https://www.donews.com/news/detail/1/6425972.html",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"智谱",
+"开源"
+]
+},
+{
+"id": "2026-02-16-chunwan-robot",
+"date": "2026-02-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2026马年春晚：宇树机器人上演《武BOT》",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月16日除夕夜，宇树机器人第三次登上春晚，与塔沟武校学员表演武术节目《武BOT》，醉拳倒地后自行起身名场面出圈海外。",
+"detail": "机器人完成醉拳、双节棍、舞剑等动作，刷新连续花式翻桌跑酷与弹射空翻纪录，官方称实现全球首次4m/s高速集群运动。节目引发外媒与外国网友热议，「机器人武林大会」再度把具身智能推向全民话题。",
+"impact": "人形机器人完成从「秧歌」到「武术」的表演升级，产业热度二次引爆。",
+"aftermath": "银河通用同期成为春晚指定具身大模型机器人，行业融资与出货加速。",
+"sources": [
+{
+"title": "新华网",
+"url": "http://www.news.cn/liangzi/20260225/165167d3a1a94c438ac099b1ff5112c7/c.html",
+"type": "media"
+}
+],
+"tags": [
+"机器人",
+"春晚",
+"宇树"
+]
+},
+{
+"id": "2026-02-19-gemini31",
+"date": "2026-02-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌发布 Gemini 3.1 Pro 预览版",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2月19日谷歌发布Gemini 3.1 Pro预览版，这是Gemini系列首个「.1」中期迭代，主打复杂推理升级。",
+"detail": "Gemini 3.1 Pro在数学、代码与智能体评测上继续提升，3月9日原Gemini 3 Pro预览版关停切换。在2月全球模型连发潮中，谷歌以快节奏小步迭代应对OpenAI与Anthropic的夹击。",
+"impact": "旗舰模型竞争进入「月更+小版本」时代。",
+"aftermath": "5月I/O上谷歌称Gemini 3系列成为最受欢迎模型系列；10月Gemini 4接棒。",
+"sources": [
+{
+"title": "Gemini API 版本说明",
+"url": "https://ai.google.dev/gemini-api/docs/changelog?hl=zh-cn",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2026-02-22-chunji-2026",
+"date": "2026-02-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2026春节档收官：总票房57.5亿，《飞驰人生3》夺魁",
+"category": "culture",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2026春节档总票房约57.52亿元，《飞驰人生3》以约29.27亿元断层领跑，沈腾成为档期最大赢家。",
+"detail": "档期前三天总票房即破50亿元，《飞驰人生3》《惊蛰无声》《镖人：风起大漠》《熊出没·年年有熊》位列前四。与2025年《哪吒2》的「断层神话」相比，2026年档期回归「头部喜剧+系列IP」的常规结构。",
+"impact": "春节档进入「系列IP续集主导」阶段。",
+"aftermath": "《飞驰人生3》冲击年度票房冠军。",
+"sources": [
+{
+"title": "2026年春节档电影总票房突破50亿元",
+"url": "https://wap.eastmoney.com/a/202602223651876198.html",
+"type": "media"
+}
+],
+"tags": [
+"电影",
+"春节档"
+]
+},
+{
+"id": "2026-03-16-gtc26",
+"date": "2026-03-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GTC 2026：英伟达 Vera Rubin 平台全面量产",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "3月16日黄仁勋在GTC发布Vera Rubin平台，7款新芯片进入全面生产，推理性能提升5倍、每token成本降至1/10。",
+"detail": "VR200 GPU提供50 PFLOPS FP4算力、吞吐较B300提升3.3倍；Vera CPU专为智能体AI设计。黄仁勋宣布英伟达从「芯片公司」向「AI运营商」演进，Kyber机架级Rubin Ultra定档2027年。",
+"impact": "智能体时代的算力平台竞争提前锁定。",
+"aftermath": "Rubin成为2026年全球AI数据中心建设的主力平台。",
+"sources": [
+{
+"title": "NVIDIA 官方新闻稿",
+"url": "http://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"英伟达",
+"芯片"
+]
+},
+{
+"id": "2026-03-30-luobo-dubai",
+"date": "2026-03-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "萝卜快跑在迪拜启动全无人商业化运营",
+"category": "product",
+"region": "cn",
+"milestone": false,
+"summary_30s": "3月30日萝卜快跑在迪拜开启全无人驾驶商业化运营，成为迪拜首个全无人自营Robotaxi平台，中国自动驾驶出海加速。",
+"detail": "萝卜快跑在当地建成规模最大的无人车队，此前已覆盖全球20余城、累计订单超2000万单。武汉大本营实现7×24小时全无人运营的同时，伦敦测试也在筹备中。中国Robotaxi从「武汉样板」走向全球市场。",
+"impact": "中国自动驾驶运营商首次在中东核心市场实现全无人商业闭环。",
+"aftermath": "2026年5月全球服务城市达27座，无人里程突破2.2亿公里。",
+"sources": [
+{
+"title": "萝卜快跑",
+"url": "https://zh.wikipedia.org/wiki/萝卜快跑",
+"type": "wiki"
+}
+],
+"tags": [
+"自动驾驶",
+"百度",
+"出海"
+]
+},
+{
+"id": "2026-04-16-opus47",
+"date": "2026-04-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Anthropic 发布 Claude Opus 4.7",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月16日Anthropic发布Opus 4.7，主攻高级软件工程能力，媒体称AI应用正从「vibe coding」走向「vibe working」。",
+"detail": "Opus 4.7在复杂工程任务与长时程Agent上继续领先，与DeepSeek V4 Preview、GPT-5.5同处4月下旬的密集发布窗口，模型发布密度达到月均十余款的水平。",
+"impact": "模型迭代节奏进一步压缩到「两周一款」。",
+"aftermath": "9月Claude Fable 5.1开启新一代命名。",
+"sources": [
+{
+"title": "Anthropic",
+"url": "https://www.anthropic.com/news",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"Anthropic"
+]
+},
+{
+"id": "2026-04-24-beijing-autoshow",
+"date": "2026-04-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2026北京车展开幕",
+"category": "hardware",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月24日第十九届北京车展开幕，主题「领时代 智未来」，超千家企业参展，Robotaxi与具身机器人首次大规模进馆。",
+"detail": "与2025年上海车展相比，本届车展的展示重心进一步从电动化转向智能化：高阶辅助驾驶平权、AI座舱与机器人展台挤占传统动力总成展位，跨国车企的中国研发中心成为新卖点。",
+"impact": "全球车展叙事完成「电动化到智能化」的交接。",
+"aftermath": "2027上海车展提前启动筹备。",
+"sources": [
+{
+"title": "2026北京国际汽车展览会",
+"url": "http://www.autosanghai.com/?sjls",
+"type": "official"
+}
+],
+"tags": [
+"汽车",
+"车展"
+]
+},
+{
+"id": "2026-04-24-dsv4",
+"date": "2026-04-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek-V4 Preview 开源",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "4月24日DeepSeek开源新一代旗舰V4 Preview，模型与API同日上线，延续「低成本+全开源」路线。",
+"detail": "V4延续开源传统，后续在Hugging Face放出多模态MoE版本（552B骨干、支持百万token上下文），5月22日完整版以「最低调的方式」正式落地，被海外社区称为「最受期待的开源模型」。",
+"impact": "DeepSeek继续以开源姿态定义「性价比旗舰」标准。",
+"aftermath": "8月V4-Flash单周调用量达8.2万亿token；10月V4.1-Flash上线。",
+"sources": [
+{
+"title": "DeepSeek 官方公告",
+"url": "https://api-docs.deepseek.com/news/news260424",
+"type": "official"
+},
+{
+"title": "CNBC",
+"url": "https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源"
+]
+},
+{
+"id": "2026-04-24-gpt55",
+"date": "2026-04-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-5.5 与 GPT-5.5 Pro",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月24日OpenAI发布GPT-5.5与GPT-5.5 Pro，支持百万token上下文，与DeepSeek-V4同日发布形成正面交锋。",
+"detail": "GPT-5.5定价比前代上探（输入5美元/百万token、输出30美元），Pro版面向企业复杂任务；同日DeepSeek-V4开源上线，中美旗舰模型「同日对拳」成为4月模型大战的高潮。",
+"impact": "旗舰模型发布开始出现「撞车营销」。",
+"aftermath": "9月GPT-6 Astra完成新一代交替。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"OpenAI"
+]
+},
+{
+"id": "2026-04-26-sora-shutdown",
+"date": "2026-04-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 关停 Sora 产品",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "4月26日OpenAI的Sora网页端与App停止服务，API也定于9月24日停用，上线仅半年的「AI版TikTok」谢幕。",
+"detail": "Sora 2曾以Cameo社交玩法登顶美区下载榜，但内容版权纠纷、社区生态失控与算力成本让产品难以持续。关停公告确认视频生成能力将回归API与专业创作工具，而非消费社交。",
+"impact": "「AI视频+社交平台」路线第一次被头部玩家正式证伪。",
+"aftermath": "谷歌Veo系与国内可灵等承接创作者迁移。",
+"sources": [
+{
+"title": "OpenAI 帮助中心",
+"url": "https://help.openai.com/en/articles/20001152",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"文生视频",
+"产品"
+]
+},
+{
+"id": "2026-05-01-switch2-fy",
+"date": "2026-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Switch 2 首财年出货1986万台，问鼎年度主机销量冠军",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "任天堂公布2026财年（截至3月31日）Switch 2出货1986万台，超越PS5成为年度最畅销游戏主机。",
+"detail": "Switch 2上市首年即刷新主机首发纪录：截至2026年6月累计销量2184万台，比初代Switch同期多出约600万台；8月官方口径总销量突破2300万，但增速在2026年内明显回落，进入长尾周期。",
+"impact": "主机市场完成换代并重回任天堂主导。",
+"aftermath": "2026年下半年任天堂靠第一方大作维持动能。",
+"sources": [
+{
+"title": "VGChartz Switch 2 销量对比",
+"url": "https://www.vgchartz.com/article/468548/switch-2-vs-switch-1-sales-comparison-june-2026",
+"type": "media"
+}
+],
+"tags": [
+"硬件",
+"游戏",
+"任天堂"
+]
+},
+{
+"id": "2026-05-01-io26",
+"date": "2026-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Google I/O 2026：Gemma 4 开放模型亮相",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "5月Google I/O 2026发布开放模型Gemma 4与新一代端侧模型Gemini Nano 4预览，端云一体的AI战略继续下沉。",
+"detail": "谷歌在本届I/O上把Gemini 3系列确立为核心产品线，同时开放Gemma 4权重供开发者自托管，Gemini Nano 4通过AIcore进入安卓端侧预览，「小模型跑在手机上」成为安卓生态的新基建。",
+"impact": "端侧AI模型成为手机厂商与芯片厂商的共同路线图。",
+"aftermath": "安卓旗舰机型的NPU军备竞赛升级。",
+"sources": [
+{
+"title": "Android Developers 官方博客",
+"url": "https://developer.android.com/blog/posts/top-ai-on-android-updates-for-building-intelligent-experiences-from-google-i-o-26",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"谷歌",
+"端侧"
+]
+},
+{
+"id": "2026-05-22-dsv4-ga",
+"date": "2026-05-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek-V4 正式版「静默」落地",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "5月22日DeepSeek-V4正式版悄然上线，没有发布会，被海外推理平台称为「史上最受期待的开源模型」。",
+"detail": "V4完整版延续「不开发布会、直接上新」的风格，多模态MoE版本与API同步就位，性价比策略延续。此后8月DeepSeek V4-Flash单周处理8.2万亿token，成为全球调用量最高的模型之一。",
+"impact": "「静默迭代」成为头部开源厂商的标准动作。",
+"aftermath": "10月V4.1-Flash继续更新。",
+"sources": [
+{
+"title": "DeepSeek API 更新日志",
+"url": "https://api-docs.deepseek.com/updates",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源"
+]
+},
+{
+"id": "2026-06-08-wwdc26",
+"date": "2026-06-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "WWDC 2026：新一代 Apple Intelligence 与「Siri AI」",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月8日苹果WWDC发布新一代Apple Intelligence与大幅重构的Siri，iOS 27等全系系统同步，AI叙事补课之年。",
+"detail": "本届WWDC把系统级AI深度整合进iOS、macOS等全平台：Siri以「Siri AI」形态重做理解与执行能力，Wallet、支付与家长控制等系统功能同步AI化。市场关注点在于苹果能否兑现前两年「期货」的AI承诺。",
+"impact": "苹果AI进入「系统级重构」深水区。",
+"aftermath": "9月iPhone 18 Pro与iOS 27正式版同步落地。",
+"sources": [
+{
+"title": "Apple 新闻稿",
+"url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"苹果"
+]
+},
+{
+"id": "2026-06-23-wef-top10",
+"date": "2026-06-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "世界经济论坛发布2026十大新兴技术",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月23日世界经济论坛发布年度十大新兴技术，AI从「软件优先」转向实体落地，能源与医疗技术占据主导。",
+"detail": "入选技术包括全场景并网能源、直接提锂、被动辐射制冷材料、PFAS降解技术等，报告强调「公众信任」是技术普及的前提。AI相关条目全部指向物理世界应用（机器人、能源与医疗）。",
+"impact": "全球技术议程从数字AI转向「AI×实体」。",
+"aftermath": "物理AI成为下半年各大厂商发布会的统一关键词。",
+"sources": [
+{
+"title": "世界经济论坛",
+"url": "https://cn.weforum.org/media/next-wave-of-emerging-technologies-could-bring-energy-healthcare-and-infrastructure-development-closer-to-people-cn",
+"type": "official"
+}
+],
+"tags": [
+"技术趋势"
+]
+},
+{
+"id": "2026-06-30-ai-funding-h1",
+"date": "2026-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "2026上半年中国AI融资约2270亿元创纪录",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "第三方统计显示2026上半年中国AI及应用领域录得约1595起融资、披露总额约2270亿元，具身智能占288起。",
+"detail": "仅上半年融资事件就超过2025年全年，其中具身智能及机器人融资288起、超460亿元，资金向头部约20家企业集中；红杉中国、高瓴等机构在一季度合计出手数十次。AI资本开支与融资规模同步创历史新高。",
+"impact": "AI成为一级市场绝对主线，「泡沫论」与「产业论」并行。",
+"aftermath": "宇树、摩尔线程等标的上市后表现成为二级风向标。",
+"sources": [
+{
+"title": "21世纪经济报道",
+"url": "https://m.21jingji.com/article/20260923/herald/80dbccc73d0bba5b2e5084f7be957b34_zaker.html",
+"type": "media"
+}
+],
+"tags": [
+"融资",
+"AI",
+"机器人"
+]
+},
+{
+"id": "2026-06-01-chatgpt-share",
+"date": "2026-06-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "ChatGPT 全球市场份额首次跌破五成",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "据新华社6月综述，ChatGPT全球市场份额首度跌破50%，Gemini与Claude快速蚕食，「一超多强」格局松动。",
+"detail": "2026年上半年，谷歌Gemini凭借搜索与安卓生态扩张、Anthropic凭借企业编程场景，持续分流ChatGPT用户；到5月第三方数据显示ChatGPT份额已从峰值约八成降至六成以下，6月首次跌破一半。",
+"impact": "AI助手市场的「iPhone时刻」进入群雄混战阶段。",
+"aftermath": "各厂商转向订阅捆绑与Agent生态争夺留存。",
+"sources": [
+{
+"title": "新华网",
+"url": "https://www.news.cn/world/20260701/a7215e23c886416aabffbcef8e737e2b/c.html",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"市场格局"
+]
+},
+{
+"id": "2026-07-01-gpt-live",
+"date": "2026-07-01",
+"date_accuracy": "month",
+"date_confidence": "uncertain",
+"title": "OpenAI 推出全双工语音模型 GPT-Live",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月OpenAI发布全双工语音模型GPT-Live，语音对话可随时插话与打断，把GPT-4o时代的语音路线推向新高度。",
+"detail": "GPT-Live主打「同时听说的实时语音」，在延迟与自然度上对标人类电话对话，接入ChatGPT语音模式与开发者Realtime API。语音助手成为巨头们在Agent之外的第二战场。",
+"impact": "实时语音交互成为AI助手的标准能力。",
+"aftermath": "同期xAI的Grok Voice 3.0等竞品密集跟进。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"语音",
+"OpenAI"
+]
+},
+{
+"id": "2026-07-09-grok45",
+"date": "2026-07-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "xAI 发布 Grok 4.5",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月9日xAI发布Grok 4.5，基于1.5T参数新模型并支持视觉输入，API定价降至2美元/百万token。",
+"detail": "Grok 4.5加入第三方编程数据补充训练，主打性价比旗舰定位，继续绑定X平台分发。xAI同期推进Colossus超算扩容，与OpenAI、谷歌形成「算力+模型」的三方消耗战。",
+"impact": "前沿模型定价继续下探，API价格战全球化。",
+"aftermath": "10月Grok Voice 3.0跟进语音赛道。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"xAI"
+]
+},
+{
+"id": "2026-07-16-kimi-k3",
+"date": "2026-07-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "月之暗面开源 Kimi K3：史上最大开放权重模型",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "7月16日Kimi K3以2.8T总参数开源，被称为「史上最大开放权重模型」，在智能指数榜单首次跻身全球前三。",
+"detail": "K3延续K2的Agentic路线并大幅扩展参数规模，发布后与Claude、GPT旗舰同榜竞技，成为国产开放模型首次进入全球前三梯队。至此中国开源阵营在超大参数级别完成卡位。",
+"impact": "开放权重模型第一次在旗舰级别与最 强闭源正面同榜。",
+"aftermath": "8月国产模型在OpenRouter调用榜前五占据全席。",
+"sources": [
+{
+"title": "全球AI模型发布时间线",
+"url": "https://zhuanlan.zhihu.com/p/14903006525",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"Kimi",
+"开源"
+]
+},
+{
+"id": "2026-08-14-china-models-aug",
+"date": "2026-08-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "8月国产大模型集中爆发：OpenRouter 调用前五首次全是中国模型",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月上旬OpenRouter调用量前十中六席来自中国，单周调用量前五首次全部由中国模型占据，Kimi K3、Qwen3.8-Max、DeepSeek V4-Flash、GLM-5.2、Seedance 2.5八周内密集上线。",
+"detail": "8月首周全球最大模型调用平台OpenRouter前十名中中国模型占六席；DeepSeek V4-Flash单周处理8.2万亿token环比大涨；同期开源模型下载占比首次超过美国模型。国产模型从「能力对标」进入「调用生态主导」。",
+"impact": "全球AI调用生态的重心首次明显东移。",
+"aftermath": "10月DeepSeek V4.1-Flash等继续扩大领先。",
+"sources": [
+{
+"title": "AI大模型动态简报",
+"url": "https://zhuanlan.zhihu.com/p/2071524579248493876",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"中国模型",
+"生态"
+]
+},
+{
+"id": "2026-08-19-unitree-ipo",
+"date": "2026-08-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "宇树科技登陆科创板，人形机器人第一股诞生",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "8月19日宇树科技在上交所科创板挂牌，募资约42亿元、超额认购约8000倍，首日收盘暴涨超460%。",
+"detail": "宇树成为大陆首家上市的人形机器人整机企业，IPO冻资与认购倍数均创科创板纪录。但上市后股价回落，公司披露2026年一季度经调整净利润同比下滑53%，市场开始激辩机器人资产是否存在泡沫。",
+"impact": "具身智能赛道完成标志性资本化。",
+"aftermath": "上半年具身智能融资达288起、超460亿元，资金向头部集中。",
+"sources": [
+{
+"title": "Reuters",
+"url": "https://www.reuters.com/business/finance/china-robot-maker-unitrees-post-listing-slump-sparks-bubble-fears-2026-08-25",
+"type": "media"
+}
+],
+"tags": [
+"机器人",
+"公司",
+"上市"
+]
+},
+{
+"id": "2026-08-26-o3-retire",
+"date": "2026-08-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 下线 o3 等旧模型",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "8月26日o3正式从ChatGPT退役，GPT-4.5此前于6月27日下线，OpenAI产品线完成新一轮大清洗。",
+"detail": "随着GPT-5.x与GPT-6体系成型，OpenAI把o系列推理模型全部并入统一产品线并设定90天日落期。旧模型可迁移性、提示词失效等问题成为开发者社区的集中吐槽点。",
+"impact": "「模型退役潮」让企业用户开始要求长生命周期承诺。",
+"aftermath": "各大厂商陆续推出企业版长期支持承诺。",
+"sources": [
+{
+"title": "OpenAI 模型发布说明",
+"url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+"type": "official"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"产品"
+]
+},
+{
+"id": "2026-09-03-gpt6",
+"date": "2026-09-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 发布 GPT-6「Astra」，9月模型浪潮开启",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月3日OpenAI发布新一代旗舰GPT-6（代号Astra），Claude Fable 5.1、Gemini 3.8 Flash、Kimi K3在随后几周内接连亮相。",
+"detail": "GPT-6被定位为面向智能体工作流的旗舰，发布当周与Anthropic新模型正面相遇；9月成为继2月之后又一个「多旗舰同月」的月份，各大评测榜单周周易主。",
+"impact": "旗舰迭代节奏进入「季度大版本+月度小版本」。",
+"aftermath": "9月24日Sora API停用，OpenAI产品矩阵进一步收敛。",
+"sources": [
+{
+"title": "AI Release Tracker",
+"url": "https://aireleasetracker.com/latest",
+"type": "media"
+},
+{
+"title": "NextDocs",
+"url": "https://www.nextdocs.io/zh/blogs/september-2026-ai-model-wave-for-documents",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"OpenAI"
+]
+},
+{
+"id": "2026-09-10-iphone18pro",
+"date": "2026-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "苹果发布 iPhone 18 Pro，首次采用分批发售策略",
+"category": "hardware",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月10日凌晨苹果发布iPhone 18 Pro与Pro Max，可变光圈主摄与更强续航亮相；标准版与Air 2史无前例地推迟到2027年春季。",
+"detail": "iPhone 18 Pro系列首发2nm级A20芯片并采用可变光圈相机，9月12日预售、18日开售。受芯片产能与产品策略影响，苹果首次把标准版拆分到次年春季发售，打破延续18年的秋季全系更新传统。",
+"impact": "iPhone产品节奏出现十七年来最大结构调整。",
+"aftermath": "折叠屏iPhone传闻持续，预计2027年登场。",
+"sources": [
+{
+"title": "Apple 新闻稿",
+"url": "https://www.apple.com.cn/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+"type": "official"
+}
+],
+"tags": [
+"硬件",
+"苹果",
+"手机"
+]
+},
+{
+"id": "2026-09-10-pro-pause",
+"date": "2026-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "OpenAI 暂停 ChatGPT Pro 200美元档新注册",
+"category": "product",
+"region": "world",
+"milestone": false,
+"summary_30s": "9月10日OpenAI暂停ChatGPT Pro（200美元/月）的新注册与升级，现有用户不受影响，被解读为算力成本承压。",
+"detail": "Pro档用户以重度推理与编程用量著称，其边际成本被视为拖累毛利的主因。暂停注册与GPT-6发布同期发生，被社区解读为新旗舰上线前的容量调配，也折射出前沿模型推理成本依然高企。",
+"impact": "「订阅定价与算力成本」的矛盾首次公开显性化。",
+"aftermath": "低价档位成为新注册用户的引导方向。",
+"sources": [
+{
+"title": "CSDN 报道",
+"url": "https://tianqi.csdn.net/6aafd21e05257b085711cf66.html",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"OpenAI",
+"商业"
+]
+},
+{
+"id": "2026-10-01-october-rush",
+"date": "2026-10-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "10月单月20款新模型发布，创历史纪录",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "追踪平台统计，2026年10月单月有20款新模型发布、来自16家厂商，另有平台统计14款，模型发布进入「饱和轰炸」状态。",
+"detail": "Gemini 4转正、DeepSeek V4.1-Flash、Grok Voice 3.0、Meta Muse Spark等接连上线。行业共识是「模型差异化收窄、分发与Agent生态成为胜负手」，开发者开始按调用量与成本而非榜单选型。",
+"impact": "模型竞争的衡量标准从基准分数转向生态占有率。",
+"aftermath": "11月传统「旗舰大版本」窗口竞争预计更激烈。",
+"sources": [
+{
+"title": "AI Release Tracker",
+"url": "https://aireleasetracker.com/latest",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"行业趋势"
+]
+},
+{
+"id": "2026-10-13-gemini4",
+"date": "2026-10-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "谷歌 Gemini 4「Argon」正式版上线",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "10月13日谷歌新一代模型Gemini 4（Argon）转为正式可用，定价2/10美元（每百万token），较上代约翻倍但能力显著提升。",
+"detail": "Gemini 4在10月密集的20余款新模型中率先转正，主打智能体长任务与多模态推理。谷歌借此巩固自Gemini 3以来的领先身位，并与10月中旬的DeepSeek、Anthropic新模型同场竞技。",
+"impact": "谷歌第一次在一个完整年度内保持旗舰领先地位。",
+"aftermath": "各家年度旗舰密集在10-11月窗口发布。",
+"sources": [
+{
+"title": "AI Release Tracker",
+"url": "https://aireleasetracker.com/latest",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"谷歌"
+]
+},
+{
+"id": "2026-10-17-dsv41",
+"date": "2026-10-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "DeepSeek 发布 V4.1-Flash（1017）",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月17日DeepSeek更新V4.1-Flash（1017），为本月密集模型潮中最新一款，延续多模态MoE与百万上下文配置。",
+"detail": "V4.1-Flash延续552B骨干的MoE架构与100万token上下文，主打低成本多模态推理。10月全球共有20款新模型发布，DeepSeek以高频小步迭代维持调用生态优势。",
+"impact": "开源旗舰进入「周更」节奏。",
+"aftermath": "OpenRouter调用量榜前列持续被中国模型占据。",
+"sources": [
+{
+"title": "AI Release Tracker",
+"url": "https://aireleasetracker.com/latest",
+"type": "media"
+}
+],
+"tags": [
+"AI",
+"DeepSeek",
+"开源"
 ]
 }
 ]
