@@ -4740,40 +4740,6 @@
 "milestone": false
 },
 {
-"id": "2022-01-18-microsoft-activision",
-"date": "2022-01-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "微软宣布690亿美元收购动视暴雪，游戏史最大交易",
-"category": "company",
-"region": "world",
-"summary_30s": "2022年1月18日，微软宣布以690亿美元收购动视暴雪：《使命召唤》《魔兽》《糖果传奇》全部归入Xbox。这是游戏史上最大收购，是迪士尼买福克斯级别的操作。监管拉锯20个月，2023年10月终于完成，游戏业的“巨头时代”正式到来。",
-"detail": "2022年1月18日，微软宣布以每股95美元、总额约687亿美元收购动视暴雪，创下游戏业乃至科技业收购纪录。交易因垄断担忧遭遇美国FTC（2022年12月起诉阻止）、英国CMA（曾否决）等全球监管审查，微软以签订《使命召唤》十年授权协议（含任天堂、英伟达）换取信任；2023年10月13日在英国有条件批准后完成交割，CEO Bobby Kotick 于2023年12月29日退休（执掌32年）。动视暴雪旗下IP全面进入Xbox与Game Pass。",
-"impact": "游戏业进入“超级整合”时代，主机竞争逻辑被改写为内容库与订阅规模之争；动视暴雪的职场危机以资本重组收场，行业集中度引发长期反垄断讨论。",
-"aftermath": "《使命召唤》系列2024年起首发进Game Pass，动视重回暴雪嘉年华节奏；FTC后续诉讼未果，SIE总裁称“行业格局已不可逆”。",
-"sources": [
-{
-"title": "2022 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2022_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Acquisition of Activision Blizzard by Microsoft - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"公司",
-"微软",
-"动视暴雪",
-"收购",
-"Xbox"
-],
-"milestone": false
-},
-{
 "id": "2022-01-31-sony-bungie",
 "date": "2022-01-31",
 "date_accuracy": "exact",

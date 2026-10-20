@@ -4674,34 +4674,6 @@
 ]
 },
 {
-"id": "2022-06-05-shenzhou-14",
-"date": "2022-06-05",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "神舟十四号发射，空间站建造期最忙碌的乘组",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2022年6月5日（北京时间），神舟十四号载陈冬、刘洋、蔡旭哲升空，正值空间站建造冲刺期。他们在轨六个月间迎来问天、梦天两个实验舱对接，完成三次出舱、首次太空跨年，并在轨送别天舟五号，是工作量最大的建造期乘组，被称为\"最忙乘组\"。",
-"detail": "乘组驻留183天，期间空间站从单舱成长为三舱构型，他们经历了首次在轨舱段转位、水生生态研究等项目。12月4日返回。三舱构型建成后，中国空间站总重约100吨，成为近地轨道上仅次于国际空间站的常驻科学平台。",
-"impact": "中国空间站在轨建造的关键一棒。",
-"aftermath": "2022年11月梦天舱到位，T字构型完成。",
-"sources": [
-{
-"title": "Wikipedia: 2022 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2022_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"中国航天",
-"神舟",
-"空间站"
-]
-},
-{
 "id": "2022-07-11-jwst-first-images",
 "date": "2022-07-11",
 "date_accuracy": "exact",
