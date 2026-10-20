@@ -4891,35 +4891,6 @@
 ]
 },
 {
-"id": "2011-07-21-sts135-final-shuttle",
-"date": "2011-07-21",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "亚特兰蒂斯号归来：航天飞机时代落幕",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "7月21日凌晨，亚特兰蒂斯号在肯尼迪航天中心降落，STS-135任务收官——航天飞机30年、135次飞行的时代结束。美国载人航天由此进入近9年的『租船回家』空窗期。",
-"detail": "最后一次任务运送了12吨补给到国际空间站。航天飞机累计飞行约8.5亿公里、运送355人，却也以挑战者号（1986）与哥伦比亚号（2003）两起事故带走14名宇航员。退役的直接原因是成本：单次飞行超过4.5亿美元，而可复用性从未兑现承诺。此后NASA乘俄罗斯联盟号飞船往返ISS，每个座位8000万美元。",
-"impact": "可复用航天的第一代实验谢幕，商业乘员计划被逼上快车道。",
-"aftermath": "2020年SpaceX载人龙首飞终结空窗；航天飞机三架真机成为博物馆镇馆展品。",
-"sources": [
-{
-"title": "Wikipedia: 2011 in science",
-"url": "https://en.wikipedia.org/wiki/2011_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"航天飞机",
-"STS-135",
-"NASA"
-]
-},
-{
 "id": "2011-09-23-opera-neutrino-anomaly",
 "date": "2011-09-23",
 "date_accuracy": "exact",
