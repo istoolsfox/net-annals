@@ -1,0 +1,113 @@
+#!/usr/bin/env python3
+# 慈善公益史层 · 第一批（基金会/彩票募捐/互联网公益/大病众筹）
+import json, os
+os.makedirs('data/events/.parts', exist_ok=True)
+
+def S(t, u):
+    return {"type": t, "url": u, "title": t}
+
+D = [
+ {"id":"1984-03-01-cdpf-foundation","date":"1984-03-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"中国残疾人福利基金会成立","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"1984年3月，中国残疾人福利基金会在北京成立——改革开放后第一批全国性公益基金会登场。",
+  "impact":"中国公益组织在经历数十年中断后恢复重建，残疾人康复、教育与就业救助有了全国性专业机构。",
+  "aftermath":"基金会此后推动聋儿康复、白内障复明等大型救助工程，并参与《残疾人保障法》立法倡议，成为中国公益行业的早期制度样板。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/中国残疾人福利基金会")]},
+
+ {"id":"1987-06-01-welfare-lottery-first","date":"1987-06-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"中国福利彩票首发，公益募捐走向大众","category":"economy","region":"cn",
+  "milestone":False,
+  "summary_30s":"1987年6月，中国社会福利有奖募捐券在部分城市首发——中国福利彩票由此起步。",
+  "impact":"「以奖代捐」把小额慈善变成了普通人可参与的大众行为，福利彩票公益金此后成为社会福利事业的重要资金来源。",
+  "aftermath":"福彩年销量后突破两千亿元，累计筹集公益金数千亿元，资助老年人、儿童、残疾人福利项目无数；2010年代刮彩风波后行业全面转向规范透明。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/中国福利彩票")]},
+
+ {"id":"1994-04-01-china-charity-federation","date":"1994-04-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"中华慈善总会成立","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"1994年4月，中华慈善总会在北京成立——第一个以「慈善」命名的全国性枢纽公益组织诞生。",
+  "impact":"「慈善」从带有旧时代色彩的词汇重新成为官方认可的社会事业，全国慈善组织网络以此为枢纽铺开。",
+  "aftermath":"总会此后组织抗洪、抗震救灾募捐，推动慈善立法倡议，其与美国联合健康合作的药品援助项目累计救助数十万大病困难者。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/中华慈善总会")]},
+
+ {"id":"2004-03-08-foundation-regulations","date":"2004-03-08","date_accuracy":"exact","date_confidence":"verified",
+  "title":"《基金会管理条例》颁布，非公募基金会合法化","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"2004年3月8日，国务院颁布《基金会管理条例》，首次允许企业、个人设立非公募基金会。",
+  "impact":"富人慈善与企业家基金会从此有了法律通道，中国公益组织结构从官办主导转向官民并行。",
+  "aftermath":"老牛基金会、腾讯公益慈善基金会、阿里巴巴公益基金会等企业基金会相继成立，中国基金会数量从千余个增长到近万个。",
+  "tags":[],"sources":[S("official","https://baike.baidu.com/item/基金会管理条例")]},
+
+ {"id":"2004-05-01-hurun-philanthropy-list","date":"2004-05-01","date_accuracy":"month","date_confidence":"single-source",
+  "title":"胡润首推中国慈善家排行榜","category":"economy","region":"cn",
+  "milestone":False,
+  "summary_30s":"2004年5月，胡润研究院首次发布中国内地慈善家排行榜，企业家捐赠第一次被量化排序。",
+  "impact":"财富榜文化延伸到慈善领域，「捐了多少」成为中国企业家公共形象的新指标。",
+  "aftermath":"福布斯、南方周末等随后跟进发布慈善榜，「裸捐」承诺、基金会化运作逐步成为一代企业家的选择。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/胡润百富")]},
+
+ {"id":"2007-04-19-one-foundation","date":"2007-04-19","date_accuracy":"exact","date_confidence":"verified",
+  "title":"李连杰创立壹基金，明星公益制度化","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"2007年4月19日，李连杰联合中国红十字会启动「中国红十字会李连杰壹基金计划」，倡导每人每月一元。",
+  "impact":"「1个人+1元钱+1个月」把公益变成可持续的日常习惯，明星个人影响力第一次系统转化为公益组织化运营。",
+  "aftermath":"2010年12月深圳壹基金公益基金会注册成立，成为中国第一家民间公募基金会；2013年后转型为独立的国际化救灾公益机构。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/壹基金")]},
+
+ {"id":"2008-05-01-charity-year-one","date":"2008-05-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"汶川地震引爆全民捐赠，被称为「中国慈善元年」","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"2008年汶川地震后，全国捐款捐物热潮空前，全年社会捐赠总额突破千亿元——被业界称为「中国慈善元年」。",
+  "impact":"普通人的小额捐赠第一次成为救灾主力，民间公益组织大规模参与救援，「公民社会」式志愿精神完成全民启蒙。",
+  "aftermath":"此后抗震救灾中的善款流向引发「透明化」讨论，倒逼公益行业信息披露与《慈善法》立法提速； NGO 人才与专业能力在灾后重建中批量成长。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/汶川大地震")]},
+
+ {"id":"2010-09-29-gates-buffett-banquet","date":"2010-09-29","date_accuracy":"exact","date_confidence":"verified",
+  "title":"盖茨与巴菲特北京「慈善晚宴」","category":"society","region":"cn",
+  "milestone":False,
+  "summary_30s":"2010年9月29日，比尔·盖茨与沃伦·巴菲特在北京举行中国富豪慈善晚宴，数十位企业家受邀出席。",
+  "impact":"「裸捐承诺」讨论首次正面进入中国舆论场，中国富豪慈善的意愿、方式与顾虑成为全民话题。",
+  "aftermath":"晚宴后陈光标「裸捐」表态、曹德旺股权捐赠等事件接连出现，中国企业家慈善从「捐款」走向「制度化捐赠」的讨论持续多年。",
+  "tags":[],"sources":[S("news","https://baike.baidu.com/item/巴比慈善晚宴")]},
+
+ {"id":"2015-09-01-99-giving-day","date":"2015-09-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"腾讯发起首届「99公益日」","category":"internet","region":"cn",
+  "milestone":False,
+  "summary_30s":"2015年9月，腾讯联合公益组织发起首届「99公益日」，用配捐把「随手捐」变成全民节日。",
+  "impact":"互联网公益从灾难偶发动员转向常态化运营，移动支付让「一块钱也是一份力」的全民小额捐赠成为现实。",
+  "aftermath":"99公益日三天筹款额从首届1.28亿元增长到后来单年数十亿元，支付宝、抖音等平台跟进「公益月」，中国互联网募捐规模跃居全球前列。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/99公益日")]},
+
+ {"id":"2016-03-16-charity-law","date":"2016-03-16","date_accuracy":"exact","date_confidence":"verified",
+  "title":"《中华人民共和国慈善法》通过","category":"milestone","region":"cn",
+  "milestone":True,
+  "summary_30s":"2016年3月16日，十二届全国人大四次会议表决通过《慈善法》——中国慈善事业的第一部基础性法律。",
+  "impact":"公开募捐资格、慈善信托、信息披露、个人求助边界首次系统立法，「依法行善」取代了野蛮生长。",
+  "aftermath":"民政部随后指定两批共20余家互联网募捐信息平台，慈善组织认定与年报制度落地，2023年修法进一步规范个人求助网络平台。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/中华人民共和国慈善法")]},
+
+ {"id":"2016-06-01-shuidichou-launch","date":"2016-06-01","date_accuracy":"month","date_confidence":"verified",
+  "title":"水滴筹上线，大病社交众筹爆发","category":"internet","region":"cn",
+  "milestone":False,
+  "summary_30s":"2016年6月，水滴筹上线，靠朋友圈转发为大病家庭筹款的社交众筹模式迅速铺开。",
+  "impact":"大病求助从邻里互助升级为「朋友圈公募」，数亿人次参与转发与捐助，个人求助成为互联网公益最大流量场景。",
+  "aftermath":"轻松筹、水滴筹、爱心筹三强格局形成，也出现诈捐与审核争议；2020年水滴筹整改顾问体系，《慈善法》修订把个人求助平台纳入监管。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/水滴筹")]},
+
+ {"id":"2021-07-20-lifesaving-doc","date":"2021-07-20","date_accuracy":"exact","date_confidence":"verified",
+  "title":"河南暴雨「救命文档」：一份在线表格的自发救援","category":"internet","region":"cn",
+  "milestone":False,
+  "summary_30s":"2021年7月20日，郑州暴雨中一份《待救援人员信息》在线文档上线，24小时内被自发接力编辑270多万次。",
+  "impact":"普通网民用一份共享表格完成了求助登记、避险点汇总与救援对接，「技术草根化」的民间互助范式震惊全网。",
+  "aftermath":"「救命文档」的创建者及接力者获评当年感动中国式人物报道，此后地震、洪水救灾中在线协同表格成为标准民间工具。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/2021年河南水灾")]},
+]
+
+D[:] = [e for e in D if e.get('detail') or True]
+for e in D:
+    if not e.get('detail'):
+        e['detail'] = e['summary_30s'] + ' ' + e['impact'] + ' ' + e['aftermath']
+D[:] = [e for e in D if len(e['detail'])>20 and e.get('sources')]
+json.dump(D, open('data/events/.parts/charity-batch1.json','w'), ensure_ascii=False, indent=0)
+print(f"charity batch1: {len(D)} 条")
