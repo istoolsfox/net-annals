@@ -5156,34 +5156,6 @@
 ]
 },
 {
-"id": "2013-02-15-chelyabinsk-meteor",
-"date": "2013-02-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "车里雅宾斯克火流星：小行星在俄罗斯上空空爆",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2月15日上午，一颗约20米的小行星以19公里每秒冲入俄罗斯车里雅宾斯克上空30公里处空爆，冲击波震碎全城数万扇窗户，约1500人受伤。这是有记录以来伤人最多的小行星事件，且完全未被提前发现。",
-"detail": "该天体来自阿波罗型近地小行星群，空爆能量约50万吨TNT当量。无数行车记录仪拍下的影像成为行星科学研究富矿：科学家借多角度视频反演其轨道、强度与解体过程，确认它是一颗普通球粒陨石（LL5）。事发同日另一颗小行星2012 DA14以2.7万公里距离擦过地球——纯属巧合，却放大了公众警觉。",
-"impact": "近地天体普查的盲区（20-100米级天体）被公开点名，行星防御预算与联合国外空委议程全面升级。",
-"aftermath": "2013年后小行星预警网络扩展；NASA DART与ESA Hera任务把『看见』推进到『改变』。",
-"sources": [
-{
-"title": "Wikipedia: 2013 in science",
-"url": "https://en.wikipedia.org/wiki/2013_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"车里雅宾斯克",
-"火流星",
-"行星防御"
-]
-},
-{
 "id": "2013-03-21-planck-cmb-map",
 "date": "2013-03-21",
 "date_accuracy": "exact",
