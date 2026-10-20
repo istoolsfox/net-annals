@@ -2862,41 +2862,6 @@
 ]
 },
 {
-"id": "2011-11-11-skyrim",
-"date": "2011-11-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《上古卷轴5：天际》发售，全球玩家集体“爬山”",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2011年11月11日，《上古卷轴5：天际》发售，选这个“11.11.11”的好日子全球同步。玩家在雪原里屠龙、捡奶酪、加入盗贼公会，一玩就是几百小时。它拿下当年所有年度游戏奖，十三年后玩家还在往里面装 mod，“FUS RO DAH”至今是网络梗。",
-"detail": "贝塞斯达开发的《上古卷轴5：天际》（The Elder Scrolls V: Skyrim）2011年11月11日全球发售。游戏以北欧风雪原天际省为舞台，龙吼系统、无边界的角色养成与海量支线构成“自由到迷失”的体验，首发三天卖出700万套、门店销量纪录接连刷新；媒体均分96，横扫VGA、BAFTA、DICE等年度游戏。PC mod社区（Nexus）让游戏生命周期延长十余年，从画面强化到全新剧情模组层出不穷。",
-"impact": "开放世界RPG的销售与长线运营标杆，mod生态被证明能维持十年级生命力；“箭在膝上”等台词成为全球互联网梗。",
-"aftermath": "贝塞斯达十年间反复移植（PSVR、Switch、VR版），2021年周年版再战市场；续作《上古卷轴6》2018年官宣后仍在开发中，成为玩家社群最著名的“有生之年”。",
-"sources": [
-{
-"title": "2011 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2011_in_video_games",
-"type": "wiki"
-},
-{
-"title": "The Elder Scrolls V: Skyrim - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"产品",
-"文化出口",
-"贝塞斯达",
-"天际",
-"开放世界",
-"MOD"
-]
-},
-{
 "id": "2012-01-01-crossfire-billion",
 "date": "2012-01-01",
 "date_accuracy": "year",
@@ -3694,42 +3659,6 @@
 ]
 },
 {
-"id": "2016-05-24-overwatch",
-"date": "2016-05-24",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《守望先锋》发售，英雄射击的黄金一年",
-"category": "product",
-"region": "world",
-"milestone": false,
-"summary_30s": "2016年5月24日，暴雪的《守望先锋》全球上线。末日世界的英雄们组队互射，源氏、猎空、D.Va一夜成为全球玩家的心头好，动画短片播放量破亿。它横扫当年所有年度游戏奖，电竞联赛OWL卖出台词级天价席位，英雄射击从此自成一派。",
-"detail": "暴雪开发的团队英雄射击《守望先锋》（Overwatch）2016年5月24日全球上线。游戏以职业分工（重装、输出、辅助）与技能组合重构团队射击，鲜明的英雄角色、动画短片与彩蛋文化带来现象级传播；媒体均分91，横扫DICE、GDC、BAFTA与TGA年度游戏。2018年守望先锋联赛（OWL）以2000万美元席位费开赛，中国战队杭州闪电、上海龙之队加入；国服由网易代理，网吧与高校风靡一时。英雄皮肤的收入模式也重塑了团队射击的商业设计。",
-"impact": "确立英雄射击（hero shooter）子类型，《Apex英雄》《无畏契约》皆循此路径；“角色+世界叙事”的运营方式成为服务型游戏标配。",
-"aftermath": "《守望先锋2》（2022）转免费并取消续作本体，PvE计划缩水引发信任危机；OWL 2023年解散重组，但英雄射击品类已成全球主流。",
-"sources": [
-{
-"title": "2016 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2016_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Overwatch (video game) - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"产品",
-"二次元",
-"文化出口",
-"暴雪",
-"守望先锋",
-"英雄射击",
-"电竞"
-]
-},
-{
 "id": "2016-06-21-tencent-supercell",
 "date": "2016-06-21",
 "date_accuracy": "exact",
@@ -4286,41 +4215,6 @@
 "milestone": false
 },
 {
-"id": "2019-03-22-sekiro",
-"date": "2019-03-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《只狼：影逝二度》发售，拼刀拼出年度游戏",
-"category": "product",
-"region": "world",
-"summary_30s": "2019年3月22日，宫崎英高的《只狼：影逝二度》发售。没有等级没有Build，只有一刀一刀的打铁拼刀，“死”字跳出屏幕成了玩家集体记忆。苇名弦一郎劝退千军，可它偏偏拿下TGA年度游戏——硬核游戏第一次登顶主流最高奖。",
-"detail": "FromSoftware与动视合作发行的《只狼：影逝二度》（Sekiro: Shadows Die Twice）2019年3月22日全球发售。游戏去除角色养成，以“打铁”（弹反）为核心的招架系统重新定义动作游戏手感，忍者主角在战国日本的复仇与主仆羁绊叙事克制而悲怆；媒体均分90-91，拿下TGA 2019年度游戏（力压死亡搁浅等），全球销量超1000万份。“苇名弦一郎”“犹豫就会败北”成为玩家圈层通用语。",
-"impact": "证明高难度动作游戏可以赢得主流年度游戏，拼刀机制被《对马岛之魂》等借鉴；动视发行日系硬核游戏的合作模式成为佳话。",
-"aftermath": "FromSoftware 2022年以《艾尔登法环》开放世界再夺年度游戏；只狼与TGA的“Gratitude”梗、速通社区（任何百分比）持续活跃。",
-"sources": [
-{
-"title": "2019 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2019_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Sekiro: Shadows Die Twice - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"产品",
-"探险",
-"FromSoftware",
-"宫崎英高",
-"只狼",
-"TGA"
-],
-"milestone": false
-},
-{
 "id": "2019-10-06-blitzchung",
 "date": "2019-10-06",
 "date_accuracy": "exact",
@@ -4740,41 +4634,6 @@
 "milestone": false
 },
 {
-"id": "2022-02-25-elden-ring",
-"date": "2022-02-25",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《艾尔登法环》发售，宫崎英高联手马丁的开放世界封神",
-"category": "product",
-"region": "world",
-"summary_30s": "2022年2月25日，《艾尔登法环》全球发售，宫崎英高的魂系设计加上《冰与火之歌》作者马丁的世界观，开放世界+受苦玩法的化学反应引爆全球。媒体均分96，横扫全部年度游戏，首月销量破千万，“老头环”成为中国玩家的年度热词。",
-"detail": "FromSoftware开发、万代南梦宫发行的《艾尔登法环》（Elden Ring）2022年2月25日全球发售。乔治·R·R·马丁参与世界观构筑，交界地的开放世界把魂系箱庭与自由探索结合：骑马探险、 Legacy 地牢与露天Boss“大树守卫”劝退现场构成话题；媒体均分96，横扫TGA、GDC、DICE、BAFTA与金摇杆全部年度游戏，首月销量超1200万份、累计超2500万份，为FromSoftware史上最畅销作品。“老头环”梗与“优雅的褪色者”文化席卷中文社区。",
-"impact": "魂系设计语法第一次完整移植开放世界并获得最高荣誉，证明高难度+开放探索可以成为全球大众爆款；万代南梦宫跻身全球发行商第一梯队。",
-"aftermath": "2024年资料片《黄金树幽影》首月卖出500万；宫崎英高团队转向多项目开发（装甲核心6、新作企划），Martin的参与成为游戏业跨界合作的标杆案例。",
-"sources": [
-{
-"title": "2022 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2022_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Elden Ring - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Elden_Ring",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"产品",
-"文化出口",
-"FromSoftware",
-"艾尔登法环",
-"宫崎英高",
-"开放世界"
-],
-"milestone": false
-},
-{
 "id": "2022-09-18-gta6-leak",
 "date": "2022-09-18",
 "date_accuracy": "exact",
@@ -4840,43 +4699,6 @@
 "战神",
 "北欧神话",
 "PS5"
-],
-"milestone": false
-},
-{
-"id": "2023-05-12-tears-of-the-kingdom",
-"date": "2023-05-12",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《王国之泪》发售，造房子和飞行器玩出新高度",
-"category": "product",
-"region": "world",
-"summary_30s": "2023年5月12日，《塞尔达传说：王国之泪》在Switch发售。究极手能把木板轮子拼成汽车，余料建造让树枝粘上石头当锤子，玩家的造物视频刷爆全网。媒体均分96，首发三天全球卖出1000万份，Switch史上最快。",
-"detail": "任天堂EPD开发的《塞尔达传说：王国之泪》（Tears of the Kingdom）2023年5月12日全球发售。游戏在旷野之息基础上新增“究极手”“余料建造”“倒转乾坤”与“通天术”四种能力，空岛与地底两层新地图叠加海拉鲁，玩家用简易部件拼装载具、飞行器与自动机关的创作视频病毒式传播；媒体均分96，首发三日全球销量超1000万份创Switch纪录，日本本土三年蝉联畅销榜首。任天堂后续为续作保留了这套能力系统。",
-"impact": "“系统涌现式玩法”的天花板再抬一级，UGC式建造视频成为游戏传播的新范式；任天堂证明在旧主机上仍能做出技术奇观。",
-"aftermath": "累计销量超2100万份；任天堂随后把Switch 2定档2025年并以《王国之泪》级作品护航，开放世界建造玩法继续被全行业模仿。",
-"sources": [
-{
-"title": "2023 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2023_in_video_games",
-"type": "wiki"
-},
-{
-"title": "The Legend of Zelda: Tears of the Kingdom - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"产品",
-"世界纪录",
-"交通",
-"文化出口",
-"任天堂",
-"塞尔达",
-"王国之泪",
-"开放世界"
 ],
 "milestone": false
 },
