@@ -1,0 +1,510 @@
+[
+ {
+  "id": "1989-04-25-motorola-microtac",
+  "date": "1989-04-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "摩托罗拉MicroTAC问世：手机第一次可以揣进口袋",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1989年4月25日，摩托罗拉发布MicroTAC——当时世界上最小的手机。它是『大哥大』砖头们第一次被真正折叠进衣兜，手机从车载和公文包走向口袋，便携化的竞赛自此发令。",
+  "detail": "在DynaTAC砖头机之后，摩托罗拉把话筒折向键盘上方，推出型号9800X的MicroTAC『口袋蜂窝电话』，发售时是全球最小、最轻的手机。它的上翻盖设计成为此后翻盖手机的祖型，与DynaTAC的板砖形象划清界限。后续的MicroTAC Lite与Ultra Lite一路把重量刷新到更轻的纪录，并率先引入镍氢电池与振动提醒等配置。便携化打开了移动电话的消费想象：手机不再只是车上和公文包里的大亨配置，而开始朝着『人手一部』的方向一点点收缩体积。",
+  "impact": "手机第一次真正可以揣进口袋，硬件小型化的军备竞赛由此开启。",
+  "aftermath": "翻盖形态经1996年的StarTAC发扬光大；此后十几年，『更小更轻』是手机工业设计的绝对主旋律。",
+  "sources": [
+   {
+    "title": "Wikipedia: Motorola MicroTAC",
+    "url": "https://en.wikipedia.org/wiki/Motorola_MicroTAC",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "摩托罗拉",
+   "MicroTAC",
+   "移动电话",
+   "80年代"
+  ]
+ },
+ {
+  "id": "1992-12-03-first-sms",
+  "date": "1992-12-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "全球第一条短信发出：Merry Christmas",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "1992年12月3日，英国工程师帕普沃思用电脑发出人类历史上第一条短信：『Merry Christmas』。收信人只能看不能回，谁也没想到这行圣诞祝福，会催生出此后每年数以万亿计条的拇指经济。",
+  "detail": "22岁的测试工程师尼尔·帕普沃思（Neil Papworth）供职于Sema集团，他通过沃达丰英国的GSM网络，把『Merry Christmas』发给了沃达丰高管理查德·贾维斯的Orbitel 901手机——当时手机键盘还发不出短信，只能接收。短信起初只是运营商信令系统里的附属功能，随着90年代末手机键盘普及与预付费业务流行而爆炸式增长，成为2G时代最重要的数据业务。在中国，它先后养活了短信拜年、移动梦网与超女投票，撑起了运营商最赚钱的十年。",
+  "impact": "人与人的移动通信第一次绕开语音，文字消息开启了此后三十年的即时通信时代。",
+  "aftermath": "短信撑起运营商的黄金年代，之后被即时通信应用超越，但至今仍以验证码等形态充当数字生活的基础设施。",
+  "sources": [
+   {
+    "title": "Wikipedia: SMS",
+    "url": "https://en.wikipedia.org/wiki/SMS",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "短信",
+   "SMS",
+   "沃达丰",
+   "GSM",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1994-08-16-ibm-simon-first-smartphone",
+  "date": "1994-08-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "IBM Simon开售：世界上第一部智能手机",
+  "category": "product",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "1994年8月16日，IBM Simon由贝尔南方在美国开售：能打电话、发传真、收邮件，还有触屏和应用。这部『手机加掌上电脑』的怪物被后世追认为世界上第一部智能手机——比iPhone早了整整13年。",
+  "detail": "IBM Simon由IBM与贝尔南方合作开发，1992年11月以『Sweetspot』原型机在COMDEX亮相，1994年8月16日正式开售，两年合约价899美元、裸机1099美元。它拥有单色触控屏、手写识别、传真、电子邮件与日历等应用，可通过插槽扩展功能——今天的智能手机要素几乎一样不落。但高昂的售价与约一小时的电池续航注定它只是先烈，1995年2月即告停产。 Simon商用上失败了，手机这个物种的完整基因却在此写定：能装应用的电话，才是智能手机。",
+  "impact": "『能装应用的手持电话』第一次成为产品，智能手机的全部要素提前十三年完成预演。",
+  "aftermath": "Simon此后长期无人问津；直到Palm、黑莓与iPhone接力，才把它的构想真正变成大众市场。",
+  "sources": [
+   {
+    "title": "Wikipedia: IBM Simon",
+    "url": "https://en.wikipedia.org/wiki/IBM_Simon",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "IBM",
+   "智能手机",
+   "Simon",
+   "触屏",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1996-01-03-motorola-startac",
+  "date": "1996-01-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "摩托罗拉StarTAC上市：手机变成随身时尚品",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1996年1月3日，摩托罗拉StarTAC上市，售价1000美元、仅重88克。它常被称作翻盖手机的开山之作，手机第一次像时尚饰品一样被『戴』在身上，摩托罗拉的黄金年代随之开启。",
+  "detail": "StarTAC把MicroTAC的上翻盖进一步收敛成对折的蛤壳造型，88克的重量刷新当时最小最轻纪录，可选锂离子电池与振动提醒都是行业首创，广告干脆把它称作『wearable』（可穿戴）。在美国以1000美元的价格，它是第一部被当作奢侈品和身份符号来卖的移动电话，2005年被PC World评为过去50年第六大最伟大 gadget。StarTAC常被视为第一款翻盖手机，虽然日本厂商更早做过翻盖，但它真正把翻盖变成全球性的时尚符号——摩托罗拉的性格由此定型。",
+  "impact": "手机完成了从工具到时尚符号的转身，翻盖形态成为一代人的集体记忆。",
+  "aftermath": "2004年RAZR V3把翻盖时尚推到顶点；此后诺基亚的直板机接管大众市场，摩托罗拉由盛转衰。",
+  "sources": [
+   {
+    "title": "Wikipedia: Motorola StarTAC",
+    "url": "https://en.wikipedia.org/wiki/Motorola_StarTAC",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "摩托罗拉",
+   "StarTAC",
+   "翻盖手机",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1996-02-08-telecom-act-1996",
+  "date": "1996-02-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "美国《1996年电信法》签署：通信业全面放开竞争",
+  "category": "national",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1996年2月8日，克林顿签署《1996年电信法》：美国电信法60多年来第一次大修。市场全面放开、贝尔系可以卖长途、互联网第一次被写进监管框架，美国通信业的并购与宽带浪潮自此引爆。",
+  "detail": "《1996年电信法》大幅修改1934年《通信法》，核心思路是『让任何人可以进入任何通信业务、让任何通信业务可以在任何市场上竞争』：本地电话市场向长途与有线电视公司开放，贝尔地区公司获准进入长途市场，媒体所有权限制大幅放松。法案首次把互联网纳入美国广播与电话的监管版图，其中的第230条后来深刻塑造了全球互联网平台的责任格局；随附的《通信规范法》反不雅条款则大部分被判违宪。运营商自此掀起兼并狂潮，宽带与无线成为新的战场。",
+  "impact": "美国通信业从管制时代全面转向竞争时代，此后二十年的电信并购与互联网繁荣都有这部法案的影子。",
+  "aftermath": "电信运营商激烈整合为AT&T、Verizon等巨头；第230条至今仍是全球平台治理争论的原点。",
+  "sources": [
+   {
+    "title": "Wikipedia: Telecommunications Act of 1996",
+    "url": "https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "电信法",
+   "美国",
+   "放松管制",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1998-05-20-bluetooth-sig-founded",
+  "date": "1998-05-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "蓝牙技术联盟成立：短距无线的共同血管",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1998年5月20日，爱立信、IBM、英特尔、诺基亚、东芝五家公司发起蓝牙技术联盟。这个以十世纪丹麦国王命名的短距无线技术，此后长成了手机耳机、车载、物联网的共同血管。",
+  "detail": "蓝牙源自爱立信1994年的短距无线方案，目标是替掉缠绕的线缆。1998年5月20日，五家公司成立蓝牙技术联盟（SIG），名字取自统一维京诸国的丹麦国王哈拉尔『蓝牙』，寓意『统一通信协议』——这个名字本只是占位符，却因商标注册的阴差阳错留了下来。开放规范加免费授权的模式让蓝牙迅速铺进手机、耳机与笔记本电脑，此后版本一路升级速率、降低功耗。今天的无线耳机、手环、车机互联仍跑在这条协议上，真无线耳机的爆发再次证明了短距无线的复利。",
+  "impact": "手机外设从此『无线化』，短距连接成为移动生态的默认基础设施。",
+  "aftermath": "蓝牙耳机、手环、车载系统铺成汪洋大海；版本迭代至今仍在持续。",
+  "sources": [
+   {
+    "title": "Wikipedia: Bluetooth",
+    "url": "https://en.wikipedia.org/wiki/Bluetooth",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "蓝牙",
+   "无线",
+   "标准组织",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1998-06-01-symbian-founded",
+  "date": "1998-06-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "Symbian成立：塞班帝国的黄金与黄昏",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1998年6月，Psion联合爱立信、摩托罗拉、诺基亚成立Symbian公司，把PDA操作系统搬进手机。此后十年，塞班统治了全球智能手机系统市场，也亲手埋下了诺基亚帝国缓慢崩塌的伏笔。",
+  "detail": "Symbian由Psion的软件部门演化而来，成立后迅速成为主流手机厂商的公共操作系统：2006年约占全球智能手机市场的三分之二，直到2010年底都保持全球平均第一的智能手机系统份额。但它天生为键盘功能机设计，触屏与应用生态转型迟缓，版本碎片化让开发者叫苦不迭。2008年6月诺基亚全资收购塞班并成立塞班基金会，2011年2月诺基亚宣布转向Windows Phone，2014年停止接受新的塞班软件，末代的808 PureView成为绝唱。",
+  "impact": "塞班定义了功能机向智能机过渡的黄金年代，也示范了旧王者转型失败的全过程。",
+  "aftermath": "iOS与Android接管智能手机；塞班的碎片化教训成为后来者做操作系统生态的前车之鉴。",
+  "sources": [
+   {
+    "title": "Wikipedia: Symbian",
+    "url": "https://en.wikipedia.org/wiki/Symbian",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "塞班",
+   "诺基亚",
+   "操作系统",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1998-12-01-3gpp-founded",
+  "date": "1998-12-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "3GPP成立：全球移动标准的『联合国』开张",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1998年12月，3GPP成立：全球各地区标准组织坐进同一间屋子，为3G写统一规范。此后二十多年，从3G、4G到5G乃至6G，全球移动通信的技术路线图都出自这个『标准联合国』。",
+  "detail": "3GPP以国际电联的IMT-2000框架为目标，从GSM演进出3G规范，组织伙伴包括ARIB、ATIS、CCSA、ETSI、TSDSI、TTA、TTC等亚洲、欧洲和北美的标准组织。它的运行机制是版本驱动：从1999年的第一个3G版本，到2009年R8的LTE、2019年R15的5G NR，每一版标准冻结都牵动全球电信业的投资节奏。中国企业从跟随者逐渐变成核心贡献者，每一代标准的背后都是各国产业利益的反复博弈——3GPP的会议室，就是移动通信行业的世界大战前线。",
+  "impact": "全球移动通信第一次拥有统一的持续演进机制，『世界一标准』从愿景变成流程。",
+  "aftermath": "5G时代标准话语权之争白热化；5G-Advanced与6G研究仍由3GPP与国际电联双轨推进。",
+  "sources": [
+   {
+    "title": "Wikipedia: 3GPP",
+    "url": "https://en.wikipedia.org/wiki/3GPP",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "3GPP",
+   "标准",
+   "3G",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1999-02-22-imode-launch",
+  "date": "1999-02-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "NTT DoCoMo上线i-mode：手机第一次连上互联网",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "1999年2月22日，NTT DoCoMo上线i-mode：手机按一下就能上网、收邮件、订票。功能机时代的『移动互联网』在日本率先成型，八千万日本人用拇指提前预演了智能手机时代的生活。",
+  "detail": "i-mode采用分组交换网络加简化版HTML，按流量计费，运营商与内容网站分成，用户可以浏览新闻、查天气、玩游戏、订票购物。这套『运营商主导的内容生态』迅速风靡：到2006年中，i-mode与EZweb、J-Sky合计在日本拥有超过8000万用户，i-mode模式还向17个国家和地区的运营商输出。但封闭生态与专用协议在智能手机时代节节败退，海外扩张全线折戟。2019年NTT DoCoMo宣布i-mode将于2026年3月31日终止，一个时代就此落幕。",
+  "impact": "手机第一次成为大众上网终端，『永远在线』的移动互联网体验提前十年降临。",
+  "aftermath": "iPhone与App Store的开放生态终结了运营商内容帝国；i-mode的经验与教训成为全球运营商的教科书。",
+  "sources": [
+   {
+    "title": "Wikipedia: i-mode",
+    "url": "https://en.wikipedia.org/wiki/I-mode",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "i-mode",
+   "NTT DoCoMo",
+   "移动互联网",
+   "90年代"
+  ]
+ },
+ {
+  "id": "1999-05-01-kyocera-vp210-camera-phone",
+  "date": "1999-05-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "京瓷VP-210发售：全球第一款带摄像头的量产手机",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1999年5月，京瓷Visual Phone VP-210在日本发售：全球第一款自带摄像头的量产手机。11万像素的前置摄像头能拍照能视频，『能拍照的手机』从此从一个笑话变成了一个品类。",
+  "detail": "VP-210在机身正面内置11万像素摄像头，既能拍摄存储照片，也号称可用于可视通话，是第一款投入商业销售、自带摄像头的手机。它价格高昂、形态笨重，市场反响有限，真正的普及要等2000年11月夏普J-SH04这类更轻便的拍照手机接棒完成。但摄像头上机的方向自此确定：此后像素竞赛一骑绝尘，卡片相机一步步被吞并，『人人随身带相机』重塑了人类记录与分享的方式——今天社交网络上的每张照片，都能追到这台其貌不扬的日本手机。",
+  "impact": "摄像头成为手机的标配器官，『人人随身带相机』的时代自此发端。",
+  "aftermath": "拍照手机经J-SH04打开大众市场；二十年后手机影像反过来吞掉了整个卡片相机产业。",
+  "sources": [
+   {
+    "title": "Wikipedia: Camera phone",
+    "url": "https://en.wikipedia.org/wiki/Camera_phone",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "京瓷",
+   "拍照手机",
+   "摄像头",
+   "90年代"
+  ]
+ },
+ {
+  "id": "2000-02-04-vodafone-mannesmann",
+  "date": "2000-02-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "沃达丰拿下曼内斯曼：史上最大公司收购案",
+  "category": "economy",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2000年2月4日，德国工业巨头曼内斯曼监事会接受沃达丰收购案，交易规模约1900亿欧元，迄今仍是史上最大的公司收购之一。全球移动通信的头把交椅就此易主，欧洲电信并购狂潮登峰造极。",
+  "detail": "沃达丰以换股方式敌意收购曼内斯曼——后者旗下握有欧洲多国的移动通信资产，收购拉锯数月，在德国引发『产业国防』式的激烈争论。2000年2月4日，曼内斯曼监事会最终同意收购，约1900亿欧元的对价创下当时人类商业史上最大收购纪录，也是德国一家成功的大型工业公司第一次被外国所有者以敌意收购拿下。合并后的沃达丰成为全球最大的移动运营商；各路资本随后在3G牌照竞标中疯狂加注，为随后的电信泡沫破裂埋下巨额债务。",
+  "impact": "移动通信被确认为世纪之交最值钱的赛道，运营商的全球版图之争从此烧钱不设上限。",
+  "aftermath": "3G牌照竞标让欧洲运营商背上沉重债务；电信泡沫在2001-2002年连环破裂。",
+  "sources": [
+   {
+    "title": "Wikipedia: Mannesmann",
+    "url": "https://en.wikipedia.org/wiki/Mannesmann",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "沃达丰",
+   "曼内斯曼",
+   "并购",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2000-09-01-nokia-3310",
+  "date": "2000-09-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "诺基亚3310发布：1.26亿销量的耐用传奇",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2000年9月1日，诺基亚发布3310。这部累计卖出约1.26亿部的机器，以皮实耐用著称，『砸不烂』成为流传至今的互联网梗，手机第一次真正进入『人手一部』的大众时代。",
+  "detail": "3310于2000年9月1日发布、当年四季度上市，接替3210成为诺基亚的大众化主力。它价格亲民、皮实抗造，『砸核桃』『压液压机』『被汽车碾过』的测试视频在互联网上经久不衰，2015年芬兰把它选为首批『国民表情』之一的『打不碎』（The Unbreakable）。3310全球累计销量约1.26亿部，是史上最畅销的手机之一。它的国民度标志着手机从商务工具彻底变成大众消费品，功能机的黄金年代由此拉开——而功能机时代的王者，正是诺基亚自己。",
+  "impact": "手机真正进入『人手一部』的大众时代，耐用与低价成为最大卖点。",
+  "aftermath": "2017年HMD复刻3310情怀翻红；『诺基亚质量』成为那个时代留给互联网的永久梗。",
+  "sources": [
+   {
+    "title": "Wikipedia: Nokia 3310",
+    "url": "https://en.wikipedia.org/wiki/Nokia_3310",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "诺基亚",
+   "3310",
+   "功能机",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2000-11-01-sharp-jsh04-camera-phone",
+  "date": "2000-11-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "夏普J-SH04发售：第一款大规模商用的拍照手机",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2000年11月，夏普J-SH04在日本由J-Phone发售：全球第一款大规模商用的拍照手机。CCD摄像头拍下照片可以立刻发送，『用手机拍照分享』从此从一个脑洞变成全人类的日常。",
+  "detail": "继京瓷VP-210试水之后，夏普为日本运营商J-Phone（后来的软银移动）打造了J-SH04，内置CCD摄像头，拍下照片能立刻通过手机网络发送，可即时传输图片是它最大的卖点。日本运营商靠拍照功能撑起数据流量收入，厂商竞相卷像素，卡片相机的命运自此埋下伏笔。拍照手机很快席卷全球，人类进入『随手拍、随手传』的时代——后来社交网络上的图片洪流、乃至今天人人都是拍摄者的世界，都发端于这台11万像素的小机器。",
+  "impact": "拍照从此长在手机上，图像分享成为移动网络的第一大流量来源。",
+  "aftermath": "手机影像一路卷到大底传感器与潜望长焦；相机产业被挤压成专业玩家的玩具。",
+  "sources": [
+   {
+    "title": "Wikipedia: Camera phone",
+    "url": "https://en.wikipedia.org/wiki/Camera_phone",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "夏普",
+   "J-SH04",
+   "拍照手机",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2001-10-01-sony-ericsson-jv",
+  "date": "2001-10-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "索尼爱立信成立：手机业跨国合资的经典样本",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2001年10月1日，索尼与爱立信各出资一半的手机合资公司成立。两家失意者抱团取暖，以音乐、影像为卖点的机型一度风行市场，也留下了手机业『强强联合』最完整的一堂课。",
+  "detail": "千禧年初，爱立信的手机业务深陷亏损，索尼的手机同样毫无存在感，双方在2001年10月1日合资成立索尼爱立信。公司此后以Walkman音乐、Cyber-shot影像等卖点打造差异化机型，在功能机时代一度跻身全球头部阵营。但智能手机浪潮下，塞班与Windows Mobile双线摇摆、产品节奏迟缓。2011年10月27日，索尼宣布以10.5亿欧元收购爱立信手中的另一半股权，2012年2月16日完成交割，公司更名为索尼移动通信，总部从瑞典隆德迁往东京，合资十年就此散场。",
+  "impact": "手机业证明『强强联合』未必等于强：合资救得了一时，救不了战略摇摆。",
+  "aftermath": "索尼移动此后专注影像与小众旗舰，Xperia成为索尼技术展柜；手机业的跨国合资模式再无成功复刻。",
+  "sources": [
+   {
+    "title": "Wikipedia: Sony Ericsson",
+    "url": "https://en.wikipedia.org/wiki/Sony_Ericsson",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "索尼爱立信",
+   "合资",
+   "Walkman",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2001-10-01-foma-first-3g",
+  "date": "2001-10-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "NTT DoCoMo FOMA开网：全球第一个商用3G网络",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2001年10月，NTT DoCoMo的FOMA在东京、横滨开网：世界上第一个正式商用的3G服务。视频通话、高速下载第一次在手机上成为现实，移动互联网的宽带地基就此浇筑。",
+  "detail": "FOMA基于W-CDMA技术，是全球第一个投入商业运营的3G移动服务，商用初期覆盖东京、横滨等都市圈。3G把移动数据速率从百K级抬升到M级，视频通话、在线内容等应用在日本率先试水。不过FOMA开局并不顺：初期网络与最终国际标准不完全兼容、覆盖有限、终端昂贵，用户增长缓慢，直到2004年前后才真正起量。3G商用点燃的是整条产业链：芯片、终端、内容生态全面换代，它为智能手机革命修好了带宽的路，也让『代际切换』从此有了全球时间表。",
+  "impact": "移动通信正式跨入宽带时代，3G成为智能手机革命的前置条件。",
+  "aftermath": "2003年欧洲3G商用、2009年中国发放3G牌照；3G泡沫过后，LTE接棒开启4G时代。",
+  "sources": [
+   {
+    "title": "Wikipedia: FOMA",
+    "url": "https://en.wikipedia.org/wiki/FOMA",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "3G",
+   "FOMA",
+   "NTT DoCoMo",
+   "W-CDMA",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2002-07-21-worldcom-bankruptcy",
+  "date": "2002-07-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "世通破产：电信泡沫最大的一颗雷",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2002年7月21日，世界通信申请破产保护：当时美国历史上最大的破产案。虚增利润超过110亿美元的假账曝光，电信泡沫的最后一根梁柱轰然倒塌，全球行业信心从此跌入冰点。",
+  "detail": "世通靠并购长途电话与数据网络业务起家，一度是美国仅次于AT&T的电信巨头。2002年公司承认把约38亿美元费用记成资本支出以虚增利润，随后查出的造假总额超过110亿美元，是当时美国历史上最大的会计欺诈。7月21日，世通申请破产保护，成为当时美国规模最大的破产案，CEO埃伯斯后来入狱，投资者血本无归。债台高筑的欧洲电信同行同样哀鸿遍野，狂飙三年的电信泡沫以最难看的方式收场。这场崩塌直接催生了重罚财务造假的萨班斯法案。",
+  "impact": "电信泡沫以最丑陋的方式收场，『增长故事』驱动的资本游戏被监管彻底重置。",
+  "aftermath": "电信业进入数年冰河期后随3G与宽带复苏；萨班斯法案重塑了全球上市公司治理规则。",
+  "sources": [
+   {
+    "title": "Wikipedia: WorldCom scandal",
+    "url": "https://en.wikipedia.org/wiki/WorldCom_scandal",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "世通",
+   "破产",
+   "电信泡沫",
+   "会计造假",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2003-03-03-three-uk-3g",
+  "date": "2003-03-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "英国『3』开通3G：欧洲天价牌照变成真网络",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2003年3月3日，和记黄埔旗下『3』在英国开通3G服务，成为英国第一家商用视频移动网络。欧洲天价竞拍的3G牌照终于变成真实网络，运营商们的豪赌开始接受用户与时间的检验。",
+  "detail": "2000年前后，欧洲各国拍卖3G牌照，运营商总计砸下天文数字的资金，英国、德国的牌照价格屡创纪录。2003年3月3日， Hutchison旗下『3』品牌在英国开通服务，号称英国第一家商用视频移动网络，当天3G服务在全国上线，手机终端随后陆续铺货；同期『3』在意大利也成为该国第一家提供3G（UMTS）服务的运营商。但天价牌照的债务压力让欧洲运营商元气大伤，3G的回报周期远比想象中长，视频应用真正的爆发要等到4G与智能手机时代。",
+  "impact": "欧洲天价3G牌照开始兑现为真实网络，移动视频第一次露出雏形。",
+  "aftermath": "3G初期用户增长缓慢、泡沫余震未消；智能手机普及后才彻底消化掉3G时代的投资。",
+  "sources": [
+   {
+    "title": "Wikipedia: 3 (company)",
+    "url": "https://en.wikipedia.org/wiki/3_(company)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "3G",
+   "和记黄埔",
+   "英国",
+   "2000年代"
+  ]
+ },
+ {
+  "id": "2004-07-27-motorola-razr-v3",
+  "date": "2004-07-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "摩托罗拉RAZR V3发布：1.3亿部的刀锋绝唱",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2004年7月27日，摩托罗拉在芝加哥发布RAZR V3：13毫米厚的金属翻盖刀锋。它卖出超过1.3亿部，是史上最畅销的翻盖手机，把『手机即时尚』推到顶点，也成了摩托罗拉最后的辉煌。",
+  "detail": "RAZR V3以『刀锋』为名，用铝壳、外屏与激光蚀刻键盘把翻盖机做薄到13毫米，中端的配置卖出高端的身价，成为2000年代中期横扫全球的时尚图腾，被Engadget列入定义2000年代的十大 gadget。它累计销量超过1.3亿部，模仿者众，摩托罗拉却把宝押在延续刀锋光环上，迟迟没有完成向智能机的转型。2007年iPhone问世后RAZR迅速过气，摩托罗拉手机业务从此一路下坡，几经转手，刀锋成了功能机时代最后的传奇。",
+  "impact": "翻盖时尚的巅峰之作证明了工业设计的商业威力，也固化了摩托罗拉重设计、轻系统的路径依赖。",
+  "aftermath": "2019年摩托罗拉以折叠屏RAZR复刻情怀；智能机时代的刀锋传说只剩限量款的意义。",
+  "sources": [
+   {
+    "title": "Wikipedia: Motorola RAZR V3",
+    "url": "https://en.wikipedia.org/wiki/Motorola_RAZR_V3",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "摩托罗拉",
+   "RAZR V3",
+   "翻盖手机",
+   "2000年代"
+  ]
+ }
+]

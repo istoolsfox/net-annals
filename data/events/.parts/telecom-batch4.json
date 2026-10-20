@@ -1,0 +1,576 @@
+[
+ {
+  "id": "2010-01-05-nexus-one",
+  "date": "2010-01-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "谷歌Nexus One开售：安卓旗舰有了官方样板",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2010年1月5日，谷歌Nexus One开售：谷歌第一款自有品牌手机，HTC代工、网上直销、不锁网络。谷歌用Nexus系列给安卓厂商『打样』，告诉世界旗舰安卓机该长什么样。",
+  "detail": "Nexus One由HTC设计制造（代号Passion），搭载当时最新的安卓系统，谷歌打破惯例跳过运营商，通过自家网上商店直接销售无锁机，先在美国、英国和香港上市。它的销量并不惊艳，谷歌的网络商店半年后就关闭，转回零售渠道。但Nexus系列的真正意义在于立标杆：纯粹的谷歌系统体验、最快的版本更新，让它成为安卓阵营的『参照机』。这条产品线后来演化为Pixel，谷歌也从系统供应商一步步变成了硬件玩家。",
+  "impact": "安卓生态第一次有了官方样板机，『体验一致性』成为谷歌干预硬件市场的抓手。",
+  "aftermath": "Nexus此后由华为、LG、摩托罗拉轮番代工；2016年Pixel接棒，谷歌自研Tensor芯片彻底下场造机。",
+  "sources": [
+   {
+    "title": "Wikipedia: Nexus One",
+    "url": "https://en.wikipedia.org/wiki/Nexus_One",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "谷歌",
+   "Nexus",
+   "安卓",
+   "HTC",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2011-10-29-galaxy-note-phablet",
+  "date": "2011-10-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "三星Galaxy Note开卖：大屏『Phablet』新品类诞生",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2011年10月29日，三星Galaxy Note在德国开卖：5.3英寸巨屏加S Pen手写笔。当时被群嘲『砖头』的大屏手机，硬生生开创了『Phablet』新品类，也为智能手机的尺寸之争定了终局方向。",
+  "detail": "Galaxy Note以5.3英寸屏幕横跨手机与平板的边界，搭配S Pen手写笔，在IFA 2011亮相后于10月29日在德国首发，媒体给它起了个混成词外号『Phablet』（手机+平板）。它发布时被舆论贴上『小众怪物』的标签，却把消费者对大屏的真实需求坐实：三星此后让Note系列年年迭代，屏幕尺寸一路上涨，苹果也在2014年用大屏iPhone跟进。大屏化重塑了手机交互、视频消费与移动办公，也反过来蚕食了小尺寸平板电脑的生存空间。",
+  "impact": "手机尺寸的行业标准被一家公司改写，『越大越好』自此成为主流共识。",
+  "aftermath": "Note系列因电池事件折戟后，大屏基因并入S Ultra与Fold；手写笔成为三星的高端独门标识。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy Note (original)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_(original)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "Galaxy Note",
+   "大屏",
+   "S Pen",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2013-09-02-microsoft-nokia-deal",
+  "date": "2013-09-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "微软54.4亿欧元收购诺基亚手机：双输的豪门联姻",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2013年9月2日，微软宣布以逾54.4亿欧元收购诺基亚手机业务。曾经的手机之王贱卖家底，微软砸钱买来的Windows Phone份额依旧惨淡，两家巨头的移动梦以双输收场。",
+  "detail": "2011年押注Windows Phone后，诺基亚手机业务持续失血。2013年9月2日，微软宣布收购诺基亚设备与服务业务：手机业务作价37.9亿欧元，另以16.5亿欧元换取十年期专利授权，合计逾54.4亿欧元，交易于2014年4月25日完成。然而Windows Phone生态始终未能起势，市场份额一度跌破1%。2015年7月，微软对手机业务减记约76亿美元并宣布大裁员；2016年5月又把功能机业务转手HMD Global。诺基亚品牌后来借安卓机复活，这场收购则成为『买硬件救不了生态』的经典案例。",
+  "impact": "功能机霸主的谢幕与操作系统巨头的折戟同时发生，生态缺席者的收购注定徒劳。",
+  "aftermath": "诺基亚转身聚焦通信设备与专利；HMD带着诺基亚品牌在安卓市场继续讲述复兴故事。",
+  "sources": [
+   {
+    "title": "Wikipedia: Microsoft Mobile",
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Mobile",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "微软",
+   "诺基亚",
+   "收购",
+   "Windows Phone",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2013-12-16-oneplus-founded",
+  "date": "2013-12-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "一加科技成立：小厂出海的高端样本",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2013年12月16日，前OPPO副总裁刘作虎与裴宇创立一加科技。这家背靠OPPO供应链的小厂用『不将就』的旗舰机和邀请制发售杀出重围，成为中国品牌出海的高端样本。",
+  "detail": "一加创立时只是一支小团队，唯一的机构投资者是OPPO电子，生产线与部分供应链资源与OPPO共享。2014年4月23日，首款手机OnePlus One搭载Cyanogen OS发布，以旗舰配置配中端价格，靠邀请制发售与极客社区口碑卖爆全球，邀请制一直延续到2016年的一加3才结束。一加此后坚持一年一两款的精品策略，在欧美和印度积攒了高浓度粉丝，2020年联合创始人裴宇离场创办Nothing。『小而美』的路线证明：出海不一定靠机海，靠口碑也能撕开市场。",
+  "impact": "小品牌靠精品策略与社区运营也能立足全球高端市场，中国手机出海多了一条新路。",
+  "aftermath": "一加此后强化与OPPO体系的协同，产品线逐步丰富；裴宇创办的Nothing延续了极客气质。",
+  "sources": [
+   {
+    "title": "Wikipedia: OnePlus",
+    "url": "https://en.wikipedia.org/wiki/OnePlus",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "一加",
+   "刘作虎",
+   "出海",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2015-03-01-galaxy-s6-edge",
+  "date": "2015-03-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Galaxy S6 Edge发布：双曲面屏登上主流旗舰",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2015年3月1日，三星在MWC发布Galaxy S6与S6 Edge：双曲面屏第一次出现在主流旗舰上。被『大塑料』骂了三年的三星用玻璃金属加曲面屏绝地反击，安卓机皇的设计语言自此改写。",
+  "detail": "S6与S6 Edge在巴塞罗那MWC期间的三星发布会上亮相，当年4月10日在20个市场开售。S6换上玻璃与金属机身，告别饱受批评的塑料后盖；S6 Edge更进一步，把屏幕沿左右两侧弯下——这是双曲面屏第一次量产装备主流旗舰，两侧曲面可以显示联系人快捷方式与夜间时钟。曲面最初更多是炫技，评论也质疑它牺牲了显示面积，但它证明了柔性显示可以量产，为三星后续的曲面迭代乃至折叠屏储备了供应链能力。曲面屏此后被众多厂商发扬，一度成为高端机的视觉身份证。",
+  "impact": "柔性显示技术第一次登陆主流旗舰，『屏幕即设计』成为此后十年手机差异化的主战场。",
+  "aftermath": "曲面屏经国产厂商放大成瀑布屏，又在近年回归直屏；柔性屏技术则通向折叠屏时代。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy S6",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S6",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "S6 Edge",
+   "曲面屏",
+   "MWC",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2016-05-18-hmd-global-nokia-return",
+  "date": "2016-05-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "HMD Global接盘：诺基亚手机品牌复活",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年5月18日，微软宣布把功能机业务出售给富士康旗下FIH与新公司HMD Global。由前诺基亚高管掌舵的HMD拿下诺基亚品牌授权，诺基亚手机当年12月重新上架开卖——王者以安卓之身归来。",
+  "detail": "HMD Global于2015年11月9日在赫尔辛基注册成立。2016年5月18日，微软宣布把功能机业务出售给HMD与富士康旗下FIH Mobile，交易总额3.5亿美元，HMD获得诺基亚品牌手机与平板的独家授权，富士康负责制造。当年12月1日，诺基亚手机时隔两年重新在诺基亚官网开售；随后Nokia 6安卓机、复刻版3310接连登场，情怀牌打得风生水起。HMD把诺基亚重新带回功能机与入门安卓市场，但高端线始终乏力，品牌授权模式的天花板清晰可见。",
+  "impact": "诺基亚品牌以轻资产方式复活，『品牌授权+代工』成为老品牌重生的新路径。",
+  "aftermath": "诺基亚手机此后多轮战略调整，HMD逐步转向自有品牌与细分市场；诺基亚公司本体聚焦通信设备与专利。",
+  "sources": [
+   {
+    "title": "Wikipedia: HMD Global",
+    "url": "https://en.wikipedia.org/wiki/HMD_Global",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "诺基亚",
+   "HMD",
+   "品牌授权",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2016-09-02-note7-recall",
+  "date": "2016-09-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "三星全球召回Note 7：旗舰机的电池劫",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年9月2日，三星宣布全球暂停销售并召回上市不久的Galaxy Note 7：电池自燃频发。10月11日三星宣布永久停产，这款对标iPhone的年度旗舰就此猝死，三星为赶工交了上百亿美元的学费。",
+  "detail": "Note 7上市后接连发生电池起火事故。9月2日，三星宣布全球暂停销售并启动召回；换用新电池的机器再度起火后，10月10日三星全球停售，11日宣布永久停止生产。调查显示，首批电池存在电极易变形的设计缺陷，替换电池又出现焊接缺陷，赶工期放大了风险。瑞士信贷当时估计三星因此损失至少170亿美元营收，当年三季度营业利润预期被下调约三成。Note 7成为品控管理的教科书级案例，也被广泛视为三星在中国市场由盛转衰的转折点。",
+  "impact": "全球最顶尖的手机公司被电池问题击穿，供应链管理与人身安全成为行业高压线。",
+  "aftermath": "三星此后强化电池安全检查流程；『爆炸门』的阴影伴随三星手机在中国市场的持续退潮。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy Note 7",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_7",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "Note 7",
+   "召回",
+   "电池",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2016-09-28-blackberry-quits-hardware",
+  "date": "2016-09-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "黑莓退出自研手机：全键盘时代的落幕",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年9月28日，黑莓宣布不再自行设计手机，转向品牌授权。曾经北美智能手机的统治者、政商人士的图腾，就这样安静地退出了自己开创的市场，全键盘与BBM成了时代眼泪。",
+  "detail": "黑莓凭全键盘与加密邮件服务统治北美政商圈：2009年占美国智能手机市场约56%的份额，2007到2009年销量翻了三倍，2011年9月BBM全球用户达8500万。iPhone与安卓崛起后，黑莓在触屏与新系统转型上屡屡失手，全球活跃用户从2012年6月的约8000万跌到2016年3月的2300万。9月28日，公司宣布停止自行设计手机，把品牌授权给TCL通讯等三家区域合作商。此后黑莓转向企业软件与安全业务，手机硬件彻底成为历史。",
+  "impact": "全键盘与实体安全主导的时代落幕，黑莓成为错判触屏拐点的经典商业案例。",
+  "aftermath": "授权机在2020年后陆续淡出；黑莓转型网络安全与车机软件，QNX成为其新支柱。",
+  "sources": [
+   {
+    "title": "Wikipedia: BlackBerry",
+    "url": "https://en.wikipedia.org/wiki/BlackBerry",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "黑莓",
+   "退出手机",
+   "全键盘",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2016-11-01-polar-code-5g",
+  "date": "2016-11-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "Polar码入选5G控制信道编码：标准话语权之战",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年11月，3GPP RAN1第87次会议敲定5G编码方案：华为主推的Polar码拿下控制信道，LDPC负责数据信道。一场编码之争让『5G标准话语权』第一次成为全民话题。",
+  "detail": "信道编码是5G物理层的基石。在RAN1第87次会议上，Polar码与LDPC竞逐5G增强移动宽带场景的编码方案，最终形成折中格局：LDPC用于数据信道，Polar码用于控制信道。华为此前已在2016年10月宣布，用Polar码完成了27Gbps的5G外场试验。这场技术之争被舆论放大为标准话语权之争，也让普通人第一次认真关心通信标准的含金量。Polar码的胜出，标志着中国厂商从标准的使用者升级为标准的贡献者。",
+  "impact": "中国公司在5G底层技术中拿到关键一席，标准话语权之争从此进入大众视野。",
+  "aftermath": "5G标准此后按场景分块推进；编码之争的舆论余波持续发酵，成为科技叙事的一部分。",
+  "sources": [
+   {
+    "title": "Wikipedia: Polar code (coding theory)",
+    "url": "https://en.wikipedia.org/wiki/Polar_code_(coding_theory)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "Polar码",
+   "5G",
+   "华为",
+   "3GPP",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2017-06-15-eu-roam-like-at-home",
+  "date": "2017-06-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "欧盟取消境内漫游费：『漫游如在家』生效",
+  "category": "national",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2017年6月15日，欧盟『漫游如在家』法规正式生效：在欧盟境内跨国使用手机不再收取漫游费。28个国家的用户打电话、发短信、用流量『像在家一样』，区域通信一体化交出样板。",
+  "detail": "欧盟为拆掉成员国之间的『数字边境』筹备了十年：先以资费上限逐步压低漫游价格，2017年6月15日起，第2016/2286号条例正式生效，在欧盟以及冰岛、列支敦士登、挪威境内跨境使用语音、短信与数据不再额外收费，运营商通过公平使用政策防止滥用，跨境流量批发价也逐年下调。跨国通勤者、旅行者和商务用户从此对国界无感。这是全球范围内罕见的区域电信一体化成果，此后欧盟又把统一充电接口等规则纳入同一逻辑。",
+  "impact": "一个区域市场内部彻底消灭漫游费，用户首次在主权国家之间享受『同国待遇』。",
+  "aftermath": "欧盟此后又立法统一USB-C充电接口；漫游规则在脱欧谈判中成为英欧公民的切身议题。",
+  "sources": [
+   {
+    "title": "Wikipedia: Roaming",
+    "url": "https://en.wikipedia.org/wiki/Roaming",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "欧盟",
+   "漫游费",
+   "一体化",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2017-12-21-5g-nsa-standard",
+  "date": "2017-12-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "全球第一个5G标准完成：R15非独立组网版冻结",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2017年12月21日，3GPP完成全球第一个正式的5G标准：R15非独立组网（NSA）规范。5G从白皮书走进现实，此后一年多，芯片、终端、网络沿着这张时间表开始狂奔。",
+  "detail": "R15非独立组网标准依托4G锚点部署5G新空口，让运营商可以用最快速度开出5G网络；独立组网（SA）标准随后于2018年6月冻结，共同构成5G的两阶段架构。NSA标准完成当晚，全球设备商与运营商纷纷压缩5G时间表：2018年芯片出样、2019年全球首批5G网络与手机商用，节奏比4G时代快了一大截。标准之争背后，中美欧韩的产业部署也在暗中较劲，5G由此成为大国科技竞争的第一个正面战场。",
+  "impact": "5G标准第一版落定，全球移动产业同步切换跑道，代际竞赛正式开跑。",
+  "aftermath": "2019年韩国、美国、中国相继商用5G；R16、R17、R18持续增强，5G-A与6G研究接力。",
+  "sources": [
+   {
+    "title": "Wikipedia: 5G",
+    "url": "https://en.wikipedia.org/wiki/5G",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "5G",
+   "3GPP",
+   "标准冻结",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2019-02-20-galaxy-fold",
+  "date": "2019-02-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "三星发布Galaxy Fold：折叠屏时代开幕",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2019年2月20日，三星发布全球第一款量产折叠屏手机Galaxy Fold：7.3英寸屏幕像书一样展开。智能手机十年来最大的一次形态革命正式登场，尽管它首发就摔了个大跟头。",
+  "detail": "Galaxy Fold采用Infinity Flex显示屏，合上是4.6英寸手机，展开是7.3英寸平板。4月，媒体评测机接连出现屏幕故障，三星宣布无限期推迟原定4月26日的发售并召回评测机，整改铰链与屏幕保护结构后于9月重新开卖。Fold证明了折叠屏可以量产，三星随后以Z Flip、Z Fold系列把折叠机做成一年双更的固定产品线，华为、小米、OPPO、荣耀纷纷跟进。折叠屏自此成为高端市场的固定赛道，尽管离取代直板机还很遥远。",
+  "impact": "折叠屏终结了智能手机『永远直板』的想象，形态创新重新成为头部厂商的竞争维度。",
+  "aftermath": "折叠机价格从近两千美元逐年下探；轻薄化与大屏化持续迭代，但主流地位仍属直板机。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy Fold",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Fold",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "Galaxy Fold",
+   "折叠屏",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2019-04-03-korea-first-5g",
+  "date": "2019-04-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "韩国抢跑全球第一个5G商用：比美国早两小时",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2019年4月3日晚，韩国开通全国性5G商用网络，抢先美国两小时宣布『全球第一个5G国家』。5G商用竞赛自此全球开跑，『第一』的名次之争预示了此后五年竞赛的烈度。",
+  "detail": "2019年4月3日，韩国三大运营商开通5G商用服务，成为全球第一个实现5G全国商用部署的国家；数小时后，美国Verizon也在部分城市开出5G。韩国以5G终端与大流量套餐组合开路，用户渗透率此后长期领跑全球。2019年也成为5G商用元年：美国、英国、瑞士等国陆续开通，中国则在6月6日发放5G商用牌照、10月31日正式商用。5G由此从通信事件升格为科技竞争符号，网络建设与频谱政策深度绑定国家战略。",
+  "impact": "5G从标准走进现实网络，代际竞赛正式打响，各国路径开始分化。",
+  "aftermath": "此后各国5G建设全面铺开，渗透率与杀手级应用成为新的比较维度。",
+  "sources": [
+   {
+    "title": "Wikipedia: 5G",
+    "url": "https://en.wikipedia.org/wiki/5G",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "5G",
+   "韩国",
+   "商用",
+   "2010年代"
+  ]
+ },
+ {
+  "id": "2020-04-01-tmobile-sprint-merger",
+  "date": "2020-04-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "T-Mobile与Sprint完成合并：美国电信回到三国杀",
+  "category": "economy",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2020年4月1日，T-Mobile与Sprint完成合并：约260亿美元的交易让美国从四张全国性移动网变成三家。以5G为名的世纪并购重塑了美国电信版图，Sprint品牌四个月后彻底谢幕。",
+  "detail": "2018年4月29日，T-Mobile美国与软银旗下Sprint宣布合并意向，交易规模约260亿美元，历经监管机构与多州政府的漫长审查后，于2020年4月1日正式完成。合并的核心叙事是频谱互补：Sprint的中频段成为T-Mobile 5G网络的中坚。Sprint品牌于同年8月2日正式退役，用户迁入T-Mobile网络。美国移动市场回到AT&T、Verizon、T-Mobile三强格局，第四张全国性移动网的想象，从此只能留给有线电视公司与新入局者。",
+  "impact": "美国移动运营商完成近十年最大整合，5G频谱与规模成为并购叙事的新货币。",
+  "aftermath": "T-Mobile凭借中频段优势在5G覆盖上领跑；价格竞争与第四运营商之梦改由新玩家续写。",
+  "sources": [
+   {
+    "title": "Wikipedia: T-Mobile US",
+    "url": "https://en.wikipedia.org/wiki/T-Mobile_US",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "T-Mobile",
+   "Sprint",
+   "并购",
+   "5G",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2021-04-05-lg-quits-phones",
+  "date": "2021-04-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "LG宣布退出手机业务：头部玩家的体面止损",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2021年4月5日，LG正式宣布退出手机业务：连续多年巨额亏损之后，这家曾跻身全球前三的厂商选择体面止损。智能手机洗牌期又一位重量级玩家退场，市场向头部集中的趋势再无悬念。",
+  "detail": "LG曾凭借设计感机型在2008年跻身全球手机前三。智能机时代，它的产品定位摇摆不定，与三星以及OPPO、小米等中国品牌正面硬拼节节败退，2020年手机业务亏损约5万亿韩元（约44亿美元）。2021年4月5日，LG正式宣布退出手机制造，7月完成关停，成为第一家彻底离场的全球头部手机品牌。其屏幕、电池等上游部件能力继续供货行业，手机业务则只剩激进概念机的行业记忆。",
+  "impact": "全球手机市场再失一位头部玩家，尾部出清加速，份额进一步向巨头集中。",
+  "aftermath": "LG的显示与电池等上游能力继续供货行业；全球手机份额加速向三星、苹果与中国品牌集中。",
+  "sources": [
+   {
+    "title": "Wikipedia: LG Electronics",
+    "url": "https://en.wikipedia.org/wiki/LG_Electronics",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "LG",
+   "退出手机",
+   "洗牌",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2021-08-11-zflip3-mainstream-foldable",
+  "date": "2021-08-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Galaxy Z Flip 3发布：折叠机第一次成为主流",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2021年8月11日，三星发布Galaxy Z Flip 3：把折叠机价格打到千美元档。这款『翻盖复活』的竖折手机被称为第一款主流折叠机，销量是前代的数十倍，折叠屏自此从极客玩具走向大众选项。",
+  "detail": "Z Flip 3与Z Fold 3同日在Galaxy Unpacked发布，8月27日开售。它以更亲民的价位、更强的防水与更成熟的铰链，被评价为第一款真正意义上的『主流』折叠智能手机，首月美国销量达到前代的数十倍，并在2021年底至2022年保持全球最畅销折叠机的位置。竖折形态以化妆盒式的便携与时尚感切入潮流市场，此后OPPO、荣耀、小米、摩托罗拉纷纷跟进小折叠品类，折叠屏市场从三星独舞进入多方混战。",
+  "impact": "折叠机跨过千美元心理关口，形态创新第一次有了大众市场的真实销量。",
+  "aftermath": "竖折品类成为各家冲高端与新客群的固定产品线；轻薄与折痕仍是技术攻坚重点。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy Z Flip 3",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip_3",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "Z Flip 3",
+   "折叠屏",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2022-07-12-nothing-phone-1",
+  "date": "2022-07-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Nothing Phone (1)发布：透明灯语搅动安卓红海",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2022年7月12日，一加联合创始人裴宇的Nothing发布首款手机Phone (1)：透明背板与约900颗LED灯组成的Glyph灯语。在千机一面的安卓市场，新品牌靠设计差异化证明：这条路还走得通。",
+  "detail": "Nothing由裴宇（Carl Pei）在2020年10月创立。Phone (1)于2022年3月23日官宣、7月12日在线上发布会正式亮相、7月21日开售：透明背板下的Glyph界面用约900颗LED灯效对应来电、充电与通知，配合直边中框的辨识度设计，在中端安卓的同质化红海里撕开一条缝隙。它此后以一年一代的节奏迭代，并延伸出耳机等品类。在巨头垄断份额的时代，Nothing成为『小而美』品牌能否存活的全球性实验样本。",
+  "impact": "设计语言重新成为安卓新品牌的生存武器，参数内卷之外的选择被验证。",
+  "aftermath": "Nothing陆续迭代Phone系列并推出CMF子品牌，向更多市场扩张。",
+  "sources": [
+   {
+    "title": "Wikipedia: Nothing Phone (1)",
+    "url": "https://en.wikipedia.org/wiki/Nothing_Phone_(1)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "Nothing",
+   "裴宇",
+   "设计",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2023-11-29-itu-imt-2030",
+  "date": "2023-11-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "ITU通过IMT-2030框架：6G从畅想进入标准轨道",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2023年11月29日，国际电联正式通过IMT-2030（6G）框架建议书：沉浸式通信、通感一体、AI与通信融合等场景定调，6G研究从概念畅想进入标准框架阶段，全球争抢下一代通信的入场券。",
+  "detail": "IMT-2030框架建议书在2023年快速推进：6月，国际电联无线电通信部门完成草案；9月28日研究组通过；11月29日正式获批（建议书ITU-R M.2160）。框架定义了沉浸式通信、超大规模连接、高可靠低时延、AI与通信融合、感知与通信融合、泛在连接等典型场景与能力指标，成为6G发展的纲领性文件。中美欧日韩围绕6G愿景、专利与试验网络全面布局，国际电联也为此后的技术提案与标准化工作排定了时间表——6G的牌桌，正式开局。",
+  "impact": "6G第一次有了全球共识的顶层框架，下一代通信竞赛的赛道与规则图就此挂出。",
+  "aftermath": "3GPP启动6G研究，6G商用预计2030年前后到来；通感一体与AI原生网络成为各方押注重点。",
+  "sources": [
+   {
+    "title": "ITU: IMT towards 2030 and beyond (IMT-2030)",
+    "url": "https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2030/pages/default.aspx",
+    "type": "official"
+   },
+   {
+    "title": "华为技术：ITU-R完成IMT-2030框架建议书",
+    "url": "https://www.huawei.com/cn/huaweitech/future-technologies/itu-r-wp5d-completed-recommendation-framework-imt-2030",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "通信",
+   "6G",
+   "IMT-2030",
+   "ITU",
+   "标准",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2024-01-17-galaxy-s24-galaxy-ai",
+  "date": "2024-01-17",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "三星Galaxy S24发布：Galaxy AI打响AI手机第一枪",
+  "category": "product",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2024年1月17日，三星在圣何塞发布Galaxy S24系列，主打『Galaxy AI』：端侧模型加持的实时翻译、AI修图上线，国行版接入百度文心。AI手机元年从三星这一枪正式打响。",
+  "detail": "S24系列把生成式AI装进手机：通话实时翻译、即圈即搜、AI修图与笔记摘要在端侧和云端协同完成——国际版由谷歌Gemini提供模型，中国大陆版则由百度文心支撑，同一部手机因市场不同接入不同的大脑。三星把整个发布会营销押注在AI上，赶在苹果Apple Intelligence落地前抢占『AI手机』的用户心智。此后『AI手机』成为安卓阵营的集体叙事，端侧大模型的军备竞赛自此升级。",
+  "impact": "生成式AI第一次以系统级功能出现在主流旗舰上，手机行业的AI叙事从概念落地为产品。",
+  "aftermath": "苹果同年6月跟进Apple Intelligence；国产厂商竞逐端侧小模型，AI功能成为新的换机理由。",
+  "sources": [
+   {
+    "title": "Wikipedia: Samsung Galaxy S24",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S24",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "通信",
+   "三星",
+   "Galaxy S24",
+   "Galaxy AI",
+   "AI手机",
+   "2020年代"
+  ]
+ },
+ {
+  "id": "2026-03-02-mwc-2026",
+  "date": "2026-03-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "MWC 2026开幕：10.95万人共寻AI时代的行业坐标",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2026年3月2日，MWC巴塞罗那开幕：约10.95万人涌进展会，6G与AI成为绝对主角，Meta的可穿戴演示与爱立信、Orange的方案同台。移动通信行业在AI浪潮里寻找下一个十年的坐标。",
+  "detail": "世界移动通信大会（MWC）是全球移动产业的年度风向标。2026年的MWC于3月2日至5日在巴塞罗那Fira Gran Via举行，吸引约109500名参会者，议程集中在6G、云、边缘计算与AI：Meta展示了可穿戴设备，爱立信展示面向行业的移动、云与AI方案，Orange则提出『重新发明』连接的愿景。AI手机、AI眼镜与网络AI化成为展台关键词——在流量红利见顶之后，运营商与设备商集体押注『AI+连接』的新叙事。",
+  "impact": "移动产业把未来十年的宝押在AI与6G的交汇处，行业叙事完成从『流量』到『智能』的切换。",
+  "aftermath": "2027年MWC定档3月1日至4日；6G标准研发与AI终端落地成为此后一年的行业主线。",
+  "sources": [
+   {
+    "title": "MWC Barcelona: Highlights",
+    "url": "https://www.mwcbarcelona.com/highlights",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "通信",
+   "MWC",
+   "6G",
+   "AI",
+   "2020年代"
+  ]
+ }
+]
