@@ -17,7 +17,7 @@ LAYER_TAGS = {
     "science": "科学", "space": "航天", "sports": "体育", "media": "媒介",
     "wayback": "数字考古", "aviation": "航空", "exploration": "探险",
     "records": "世界纪录", "anime": "二次元", "railways": "铁路",
-    "disasters": "灾难", "autos": "汽车", "telecom": "通信", "medical": "医疗健康", "education": "教育", "city": "城市", "retail": "时尚零售", "food": "饮食",
+    "disasters": "灾难", "autos": "汽车", "telecom": "通信", "medical": "医疗健康", "education": "教育", "city": "城市", "retail": "时尚零售", "admarket": "广告营销", "logistics": "物流快递", "food": "饮食",
 }
 CATEGORY_TAGS = {
     "milestone": "里程碑", "internet": "互联网", "tech": "科技", "hardware": "硬件",
