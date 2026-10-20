@@ -5,7 +5,7 @@ import glob
 import re
 
 pat = re.compile(r"[一-鿿『「]\s+([A-Za-z][A-Za-z0-9'-]{2,})\s+[一-鿿』」，。？！：]", re.I)
-WHITE = {"SpaceX", "IMDb", "GitHub", "iPhone", "iPad", "iMac", "macOS", "iOS", "App", "Zoom", "eBay", "ofo", "ispace", "nWo", "xilin", "bilibili", "rVSV-ZEBOV", "mRNA", "token", "dearMoon", "dot-com", "Gram", "Fanatical", "HiRISE", "Self-Instruct", "meme"}
+WHITE = {"SpaceX", "IMDb", "GitHub", "iPhone", "iPad", "iMac", "macOS", "iOS", "App", "Zoom", "eBay", "ofo", "ispace", "nWo", "xilin", "bilibili", "rVSV-ZEBOV", "mRNA", "token", "dearMoon", "dot-com", "Gram", "Fanatical", "HiRISE", "Self-Instruct", "meme", "iCloud", "iFactory"}
 n = 0
 for p in sorted(glob.glob("data/events/*.json")):
     if p.split("/")[-1].startswith("."):

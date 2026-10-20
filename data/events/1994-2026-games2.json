@@ -170,34 +170,6 @@
 ]
 },
 {
-"id": "1994-10-10-doom-2",
-"date": "1994-10-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《毁灭战士2》发售",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "初代《毁灭战士》一年后的正式续作，用Super Shotgun与新怪物把爽快射击推向极致，其WAD模组生态让玩家自制关卡成为PC游戏史上最早的大规模UGC实践，以模组开放和对战文化把《毁灭战士》变成一个持续三十年的玩家生态。",
-"detail": "1994年10月10日《Doom II: Hell on Earth》在DOS发售。它不换引擎、只做加法：双管霰弹枪改变了节奏设计，新恶魔丰富了阵型博弈。更重要的是id开放了WAD模组格式，全球玩家自制了成千上万张地图，'游戏可以由玩家扩建'的观念由此生根，deathmatch对战的流行也让局域网联机文化提前成型。",
-"impact": "以模组开放和对战文化把《毁灭战士》变成一个持续三十年的玩家生态。",
-"aftermath": "WAD社区活跃至今，官方后来干脆在续作中内置模组浏览器，反过来拥抱玩家创作。",
-"sources": [
-{
-"title": "Wikipedia: 1994 in video games",
-"url": "https://en.wikipedia.org/wiki/1994_in_video_games",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"文化",
-"毁灭战士",
-"idSoftware",
-"FPS"
-]
-},
-{
 "id": "1994-10-17-sonic-knuckles",
 "date": "1994-10-17",
 "date_accuracy": "exact",

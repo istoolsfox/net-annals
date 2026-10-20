@@ -1484,34 +1484,6 @@
 ]
 },
 {
-"id": "1994-05-06-channel-tunnel-opens",
-"date": "1994-05-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "英法海底隧道通车，人类最大海底工程落成",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "5月6日，英法海峡隧道由英女王伊丽莎白二世与法国总统密特朗共同揭幕通车。这项耗时7年、1.5万工人参与、造价约90亿英镑的工程，把不列颠岛与欧洲大陆在陆地上连成一体。",
-"detail": "三条隧道总长约150公里，其中38公里位于海底，最深处在海床下75米。施工使用11台巨型盾构机从两端对掘，海底贯通误差仅数十厘米。隧道启用后伦敦至巴黎3小时直达，货物与旅客运输量数十年间增长数倍，1996年获美国土木工程师学会『现代世界七大奇迹』之一称号。",
-"impact": "固定链接终结了海岛孤立状态，超长盾构隧道技术体系全面成熟。",
-"aftermath": "隧道运营公司曾两度破产重组，但工程本体至今安全运行，为后续青函、港珠澳等跨海工程提供参照。",
-"sources": [
-{
-"title": "Wikipedia: 1994 in science",
-"url": "https://en.wikipedia.org/wiki/1994_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"海底隧道",
-"英法",
-"土木工程"
-]
-},
-{
 "id": "1994-05-18-flavr-savr-gm-tomato",
 "date": "1994-05-18",
 "date_accuracy": "exact",
