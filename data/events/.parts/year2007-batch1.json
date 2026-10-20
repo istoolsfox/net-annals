@@ -1,0 +1,243 @@
+[
+ {
+  "id": "2007-01-09-iphone-launch",
+  "date": "2007-01-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "乔布斯发布 iPhone：重新发明手机",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2007年1月9日，乔布斯在 Macworld 大会上发布初代 iPhone——一款 combines 三种设备（宽屏 iPod、革命性手机、互联网通信设备）的产品，用多点触控屏幕取代了实体键盘。当时的诺基亚与黑莓不以为然，六个月后 iPhone 开售，此后十五年它改写了全球科技、通信与内容产业的权力结构。",
+  "detail": "发布会的最后，乔布斯引用了 Wayne Gretzky 的名言『我滑向球要去的地方，而不是它现在的位置』。初代 iPhone 无 App Store、无3G、无复制粘贴，但它的触摸交互范式确立了此后所有智能手机的基本形态。2008年 App Store 上线后，iPhone 成为移动计算的真正平台，摧毁了诺基亚（2013年手机部门被收购）、黑莓与 Palm 等旧王朝。",
+  "impact": "移动互联网时代的元年标志，人类交互方式与注意力结构的历史性转折。",
+  "aftermath": "iPhone 累计销量超23亿部；苹果2022年市值3万亿；Touch ID/Face ID/M 系列芯片的技术路线持续引领。",
+  "sources": [
+   {
+    "title": "iPhone - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPhone_(第一代)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科技",
+   "iPhone",
+   "乔布斯",
+   "苹果",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2006-10-09-youtube-google",
+  "date": "2006-10-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Google 16.5亿美元收购 YouTube：视频时代的开端",
+  "category": "company",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube——一家成立仅一年、尚在亏损的视频网站。这被当时视为疯狂的赌注：YouTube 每天消耗带宽费百万美元，却几乎无收入。此后十五年，YouTube 成为全球最大的视频平台与第二大搜索引擎，彻底改写了电视、音乐与创作者经济。",
+  "detail": "YouTube 由 Chad Hurley、Steve Chen 与 Jawed Karim（PayPal 前同事）于2005年2月创立。首条视频『Me at the zoo』2005年4月23日上传。Google 收购时 YouTube 每日视频观看量1亿次。此后 Google 投入数十亿建设 Content ID 版权系统与广告分成模式，让 YouTube 从『盗版集散地』变成全球创作者的收入来源。",
+  "impact": "用户生成内容（UGC）从亚文化变成主流产业，传统电视的垄断被彻底打破。",
+  "aftermath": "2024年 YouTube 年广告收入超360亿美元；Shorts 与 TikTok 的短视频竞争持续；创作者经济成为全球新就业形态。",
+  "sources": [
+   {
+    "title": "YouTube - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "商业",
+   "Google",
+   "YouTube",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2007-06-24-hutong-tear-down",
+  "date": "2007-06-24",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "重庆『最牛钉子户』：物权法通过前夜的个体抗争",
+  "category": "society",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "2007年3月，重庆九龙坡区一栋两层小楼孤零零地矗立在被挖成人工岛的地基中央——屋主杨武与吴苹夫妇拒绝拆迁，与开发商对峙长达三年。这张『钉子户孤岛』的照片在网络上疯传，恰逢《物权法》3月16日通过（10月1日生效），成为中国公民财产权意识觉醒的标志性画面。",
+  "detail": "吴苹手持宪法站在挖空的房基前与开发商对峙的画面被全球媒体转载。《物权法》草案历经七次审议才通过（2007年3月16日人大通过），确认了私有财产与国有财产的平等保护原则——此前私人财产在中国宪法中长期处于从属地位。钉子户最终以异地实物安置和解，房屋被拆除。此后各地『钉子户』事件仍然频发，但补偿标准与程序透明度显著提升。",
+  "impact": "私有财产权的中国公共讨论元年，物权法与个体抗争的共生案例。",
+  "aftermath": "物权法为2011年《国有土地上房屋征收与补偿条例》（取代强制拆迁）奠定基础；2020年《民法典》进一步强化。",
+  "sources": [
+   {
+    "title": "重庆最牛钉子户 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/重庆最牛钉子户事件",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "社会",
+   "物权法",
+   "钉子户",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2007-01-29-peasant-orchestra",
+  "date": "2007-01-29",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "《士兵突击》首播：『不抛弃、不放弃』成为年度国民台词",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2007年，康洪雷执导的《士兵突击》在多家地方台播出后口碑发酵，成为年度现象级军旅剧。没有女主角、没有爱情线，许三多（王宝强饰）的『不抛弃、不放弃』和『好好活就是做有意义的事』成为全民引用的年度金句。",
+  "detail": "《士兵突击》改编自兰晓龙话剧《爱尔纳·突击》，王宝强凭此片从群演跃升为主角。电视剧的热播催生了此后十年的参军热与军旅题材繁荣（《我的团长我的团》《亮剑》等后续）。『钢七连』的精神图腾在2020年代仍被反复引用，豆瓣评分长期保持9.5。",
+  "impact": "军旅剧的品质天花板，草根逆袭叙事的国民共鸣巅峰。",
+  "aftermath": "王宝强此后转型导演（《大闹天竺》票房惨败但《八角笼中》2023年成功）；兰晓龙后续作品《冬与狮》聚焦长津湖。",
+  "sources": [
+   {
+    "title": "士兵突击 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/士兵突击",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "文化",
+   "士兵突击",
+   "军旅剧"
+  ]
+ },
+ {
+  "id": "2007-11-19-kindle-announce",
+  "date": "2007-11-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "初代 Kindle 发售：电子书阅读器的破局时刻",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2007年11月19日，亚马逊发布初代 Kindle，售价399美元，5.5小时内售罄。贝索斯的目标是『把所有书店装进口袋』——电子墨水屏（E Ink）技术让阅读体验接近纸张。此后 Kindle 成为电子书的事实标准，重塑了出版业的分发逻辑。",
+  "detail": "Kindle 1 使用 E Ink 屏（只有16级灰度）与实体键盘，内置免费 3G（Whispernet）让用户随时下载书籍。首年售出约50万台。此后 Kindle Paperwhite（2012，前光屏）、Kindle Voyage/Oasis（旗舰线）持续迭代。2022年宣布退出中国（2023年6月关停电子书店）。Kindle 证明了『买内容送硬件』的模式可以颠覆出版——但智能手机最终吞食了大部分阅读场景。",
+  "impact": "电子书产业的破局标志，亚马逊从书店进化为内容帝国的关键一步。",
+  "aftermath": "2023年 Kindle 中国关停后国产阅读器（掌阅、文石）填补空白；Kindle 全球业务并入 Amazon Books。",
+  "sources": [
+   {
+    "title": "Amazon Kindle - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Amazon_Kindle",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科技",
+   "Kindle",
+   "电子书",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2007-12-31-china-overtakes-us",
+  "date": "2007-12-31",
+  "date_accuracy": "year",
+  "date_confidence": "verified",
+  "title": "中国超越德国成为全球第三大经济体",
+  "category": "economy",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2007年，中国 GDP 超过德国成为全球第三大经济体（仅次于美国和日本），全年增速13%（多年来的最高值）。这一年中国的出口额首次超过美国成为世界第二大出口国——中国的经济崛起从『世界工厂』进入『世界市场』的新叙事阶段。",
+  "detail": "2007年的中国外贸顺差达到创纪录的2622亿美元，外汇储备突破1.5万亿美元。同年上证指数冲上6124点（10月16日，A股历史峰值），全民炒股的狂欢与一年后的崩塌形成残酷对照。2010年中国超越日本成为全球第二大经济体；2024年 GDP 约134万亿人民币（约18.9万亿美元），约美国的65%。",
+  "impact": "中国全球经济地位的三连跳（德→日→逼近美）从此起步。",
+  "aftermath": "2008年金融危机后中国4万亿刺激拉动全球复苏；2020年代中国经济增速持续放缓至5%左右。",
+  "sources": [
+   {
+    "title": "中国经济 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中国经济",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "经济",
+   "中国GDP",
+   "超越"
+  ]
+ },
+ {
+  "id": "2007-10-26-icann-new-tld",
+  "date": "2007-10-26",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "ICANN 批准国际化域名：中文域名时代开启",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2007年10月，ICANN（互联网名称与数字地址分配机构）批准启用国际化域名（IDN）测试，允许使用中文、阿拉伯文、俄文等非拉丁字符注册顶级域名。此后『.中国』『.香港』等中文域名正式进入全球根服务器——互联网的域名体系从英语垄断走向多语言化。",
+  "detail": "国际化域名（IDN）的技术核心是 Punycode 编码（将非 ASCII 字符转换为兼容 DNS 的 ASCII），但真正的突破是政治层面的：中国、俄罗斯、阿拉伯国家长期主张互联网不应由英文垄断。2010年6月，『.中国』『.香港』『.台湾』首批中文顶级域名正式写入根区文件。此后 .在线、.网址、.移动等中文 gTLD 相继开放注册。",
+  "impact": "互联网多语言化的里程碑，全球超过一半的非英语网民由此获得母语域名选项。",
+  "aftermath": "中文域名使用率仍然较低（用户习惯以搜索引擎替代直接输入域名），但多语言根域名已达150+个。",
+  "sources": [
+   {
+    "title": "国际化域名 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/国际化域名",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科技",
+   "ICANN",
+   "中文域名",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2007-01-01-hyundai-china",
+  "date": "2007-01-01",
+  "date_accuracy": "year",
+  "date_confidence": "verified",
+  "title": "奇瑞出口叙利亚：中国乘用车出海的起点",
+  "category": "economy",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2007年，奇瑞汽车出口叙利亚10辆风云轿车——这是中国自主品牌乘用车第一次批量出口海外市场。虽然只有10辆，但这个数字开启了中国汽车工业从『进口替代』走向『全球出口』的漫长征程。",
+  "detail": "奇瑞1997年由尹同跃在芜湖创立，最初以廉价微型车（QQ）切入市场。2001年首次出口叙利亚时，中国汽车年出口量不到2万辆。2021年中国汽车出口首次突破200万辆，2023年超越日本成为全球第一（491万辆），奇瑞连续21年居中国品牌乘用车出口第一。比亚迪、蔚来、小鹏的新能源出口在2023-2024年进一步爆发。",
+  "impact": "中国汽车出海的第一块砖——从10辆到全球第一用了16年。",
+  "aftermath": "2024年比亚迪在泰国、匈牙利、巴西建厂；中国车企在欧洲遭遇反补贴关税但全球市占率持续上升。",
+  "sources": [
+   {
+    "title": "奇瑞汽车 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇瑞汽车",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "经济",
+   "奇瑞",
+   "汽车出海"
+  ]
+ },
+ {
+  "id": "2007-01-01-taiwan-iphone-pre",
+  "date": "2007-01-01",
+  "date_accuracy": "year",
+  "date_confidence": "verified",
+  "title": "中国互联网用户超越美国成为全球第一",
+  "category": "internet",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "2007年，中国互联网用户数达到2.1亿，超越美国成为全球网民数量最多的国家（此前美国保持了这个位置十多年）。这个数字在2018年翻倍至8亿，2024年超过11亿——中国互联网的用户规模自此成为所有商业模式与监管框架的基本前提。",
+  "detail": "2007年的中国网民以拨号与宽带为主（宽带用户约6600万），手机上网刚刚起步（3G 未发牌）。移动互联网的真正爆发在2010-2012年（3G+智能手机），此后中国互联网的月活跃用户从2亿一路飙升。CNNIC 的年度互联网报告成为观察中国数字化进程的标准参考。",
+  "impact": "全球互联网的用户中心从硅谷移向中国，所有平台的『中国假设』从此必须成立。",
+  "aftermath": "2024年中国网民11.08亿（互联网普及率78.5%），但增长见顶、进入存量竞争。",
+  "sources": [
+   {
+    "title": "中国互联网 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中国互联网",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "中国",
+   "网民",
+   "里程碑"
+  ]
+ }
+]

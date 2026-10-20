@@ -650,34 +650,6 @@
 ]
 },
 {
-"id": "2006-10-09-google-buys-youtube",
-"date": "2006-10-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Google 16.5亿美元收购 YouTube",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "成立不到两年的 YouTube 被 Google 以16.5亿美元股票收购，这笔当时惊人的买卖被质疑『人傻钱多』，后来被证明是互联网史上最划算的收购之一——今天的 YouTube 是全球最大的视频平台。",
-"detail": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube，交易于同年11月13日完成。当时 YouTube 尚未盈利、深陷版权争议，外界普遍认为价格离谱。但 Google 的服务器与广告体系解决了带宽与变现难题，YouTube 与版权方达成收益分成后化敌为友。创始团队陈士骏、贺利身家暴涨，这桩交易也成为 Web 2.0 时代最成功的退出案例，被写进无数创业教材。",
-"impact": "确立『巨头收购平台』的价值锚点，视频分享正式进入巨头主导时代。",
-"aftermath": "YouTube 此后成长为全球最大视频平台；中国市场上，土豆优酷等沿着同一条路烧钱十年，最终由阿里系完成整合。",
-"sources": [
-{
-"title": "维基百科：YouTube",
-"url": "https://zh.wikipedia.org/wiki/YouTube",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"文化出口",
-"Google",
-"YouTube",
-"收购"
-]
-},
-{
 "id": "2006-11-11-ps3-japan-launch",
 "date": "2006-11-11",
 "date_accuracy": "exact",
@@ -761,35 +733,6 @@
 "微软",
 "Windows",
 "操作系统"
-]
-},
-{
-"id": "2007-01-09-iphone-announce",
-"date": "2007-01-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "乔布斯发布 iPhone：重新发明手机",
-"category": "product",
-"region": "world",
-"milestone": true,
-"summary_30s": "Macworld 大会上，乔布斯拿出三种设备合一的产品：宽屏 iPod、革命性手机、突破性上网设备——其实是同一台 iPhone。多点触控干掉了实体键盘，6月29日上市后全世界排队，手机史被拦腰改写。",
-"detail": "2007年1月9日，乔布斯在 Macworld 大会上发布初代 iPhone，把 iPod、手机与互联网设备合而为一，以多点触控屏幕取代实体键盘与触控笔。同年6月29日 iPhone 在美国正式发售，门店排起长队。初代 iPhone 不支持3G、第三方应用最初受限，但其交互范式与后续的 App Store 一起，把手机从通讯工具变成随身电脑。诺基亚、摩托罗拉等旧霸主在随后的五年里相继崩塌。",
-"impact": "智能手机时代的元年，触控交互、App 生态与硬件一体化设计的行业新标准自此确立。",
-"aftermath": "iPhone 此后迭代成苹果最大的收入引擎，App 经济催生数十万开发者与移动创业浪潮；中国手机厂商也沿着这条路径集体崛起。",
-"sources": [
-{
-"title": "维基百科：IPhone（第一代）",
-"url": "https://zh.wikipedia.org/wiki/IPhone_(第一代)",
-"type": "wiki"
-}
-],
-"tags": [
-"产品",
-"资本市场",
-"苹果",
-"iPhone",
-"乔布斯",
-"智能手机"
 ]
 },
 {
@@ -1047,34 +990,6 @@
 "Android",
 "操作系统",
 "智能手机"
-]
-},
-{
-"id": "2007-11-19-kindle-launch",
-"date": "2007-11-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "初代 Kindle 发售：电子书阅读器破局",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "亚马逊以399美元发售初代 Kindle，电子墨水屏加内置3G的『随时买书』体验惊艳，首批存货五个半小时售罄。纸质书的天敌与盟友同时登场，数字阅读自此有了标准形态。",
-"detail": "亚马逊于2007年11月19日发布并开售初代 Kindle，售价399美元。设备采用电子墨水屏，内置免费无线网络，可在任何地方一键购书并60秒内下载，首批库存在五个半小时内售罄，随后长期断货直到2008年4月末才恢复供货。Kindle 证明了电子书不是噱头：亚马逊将硬件、书店与自助出版（KDP）打通，重塑了全球出版业的分发链条。",
-"impact": "电子书市场的引爆点，『买书如点外卖』的阅读体验自此定型。",
-"aftermath": "Kindle 系列迭代十余年并进入中国市场；2023年亚马逊宣布 Kindle 硬件退出中国，电子墨水阅读器市场转向本土品牌。",
-"sources": [
-{
-"title": "维基百科：Amazon Kindle",
-"url": "https://zh.wikipedia.org/wiki/Amazon_Kindle",
-"type": "wiki"
-}
-],
-"tags": [
-"硬件",
-"通信",
-"亚马逊",
-"Kindle",
-"电子书"
 ]
 },
 {
