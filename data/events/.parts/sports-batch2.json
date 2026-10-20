@@ -13,10 +13,24 @@
     "impact": "14分34秒14的世界纪录与主场双冠宣告中国男子长距离自由泳进入世界一流，孙杨成为中国游泳第一位真正的全球级巨星。",
     "aftermath": "孙杨此后因兴奋剂检测风波被禁赛，职业生涯毁誉参半；但他在自由泳中长距离项目留下的世锦赛与奥运纪录，至今仍是中国游泳的标杆。",
     "sources": [
-      {"title": "孙杨 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E5%AD%99%E6%9D%A8", "type": "wiki"},
-      {"title": "2011年世界游泳锦标赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E4%B8%96%E7%95%8C%E6%B8%B8%E6%B3%B3%E9%94%A6%E6%A0%87%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "孙杨 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%AD%99%E6%9D%A8",
+        "type": "wiki"
+      },
+      {
+        "title": "2011年世界游泳锦标赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E4%B8%96%E7%95%8C%E6%B8%B8%E6%B3%B3%E9%94%A6%E6%A0%87%E8%B5%9B",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "游泳", "孙杨", "世锦赛", "世界纪录"]
+    "tags": [
+      "体育",
+      "游泳",
+      "孙杨",
+      "世锦赛",
+      "世界纪录"
+    ]
   },
   {
     "id": "2012-07-01-spain-euro-2012-treble",
@@ -32,10 +46,24 @@
     "impact": "大赛三连冠把传控足球推上神坛，此后数年世界足坛的战术风向与青训蓝图几乎都围着西班牙模式转。",
     "aftermath": "2014年世界杯卫冕冠军小组垫底出局，王朝宣告落幕；但三连冠的纪录至今无人接近，tiki-taka仍是教科书级别的战术遗产。",
     "sources": [
-      {"title": "2012年欧洲足球锦标赛决赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2012%E5%B9%B4%E6%AC%A7%E6%B4%B2%E8%B6%B3%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B", "type": "wiki"},
-      {"title": "UEFA Euro 2012 Final - Wikipedia", "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2012_final", "type": "wiki"}
+      {
+        "title": "2012年欧洲足球锦标赛决赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2012%E5%B9%B4%E6%AC%A7%E6%B4%B2%E8%B6%B3%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "UEFA Euro 2012 Final - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2012_final",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "足球", "欧洲杯", "西班牙", "三连冠"]
+    "tags": [
+      "体育",
+      "足球",
+      "欧洲杯",
+      "西班牙",
+      "三连冠"
+    ]
   },
   {
     "id": "2012-08-05-lin-dan-london-title-defense",
@@ -51,10 +79,25 @@
     "impact": "林丹的卫冕把中国羽毛球的统治力推到顶点，『林李大战』则把羽毛球推向了前所未有的全球关注度。",
     "aftermath": "2020年7月林丹宣布退役，李宗伟2019年因病挂拍；超级丹留下两枚奥运金牌与20个世界冠军头衔，被广泛认为是羽毛球史上最伟大的男单选手。",
     "sources": [
-      {"title": "林丹 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E4%B8%B9", "type": "wiki"},
-      {"title": "Badminton at the 2012 Summer Olympics – Men's singles - Wikipedia", "url": "https://en.wikipedia.org/wiki/Badminton_at_the_2012_Summer_Olympics_%E2%80%93_Men%27s_singles", "type": "wiki"}
+      {
+        "title": "林丹 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E4%B8%B9",
+        "type": "wiki"
+      },
+      {
+        "title": "Badminton at the 2012 Summer Olympics – Men's singles - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Badminton_at_the_2012_Summer_Olympics_%E2%80%93_Men%27s_singles",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "羽毛球", "林丹", "李宗伟", "奥运会", "卫冕"]
+    "tags": [
+      "体育",
+      "羽毛球",
+      "林丹",
+      "李宗伟",
+      "奥运会",
+      "卫冕"
+    ]
   },
   {
     "id": "2013-12-11-go-six-crowns-2013",
@@ -70,10 +113,24 @@
     "impact": "年度六冠是中国围棋世界竞争力从对抗转为压制的分水岭，90后新锐集团自此成为世界棋坛的主角。",
     "aftermath": "2016年AlphaGo横空出世改写了围棋的意义，但人间棋盘上的中韩格局自此再未逆转；唐韦星2019年三星杯再夺一冠成为双冠王。",
     "sources": [
-      {"title": "包揽全年6冠 中国围棋开启霸主时代 - 人民网", "url": "http://qipai.people.com.cn/n/2013/1212/c22160-23823845.html", "type": "news"},
-      {"title": "唐韦星 - 百度百科", "url": "https://baike.baidu.com/item/%E5%94%90%E9%9F%A6%E6%98%9F/8157571", "type": "wiki"}
+      {
+        "title": "包揽全年6冠 中国围棋开启霸主时代 - 人民网",
+        "url": "http://qipai.people.com.cn/n/2013/1212/c22160-23823845.html",
+        "type": "news"
+      },
+      {
+        "title": "唐韦星 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E5%94%90%E9%9F%A6%E6%98%9F/8157571",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "围棋", "唐韦星", "一年六冠", "中国时代"]
+    "tags": [
+      "体育",
+      "围棋",
+      "唐韦星",
+      "一年六冠",
+      "中国时代"
+    ]
   },
   {
     "id": "2014-08-16-nanjing-youth-olympics",
@@ -89,9 +146,19 @@
     "impact": "南京青奥会向世界证明中国可以低成本、轻量化地办好国际赛事，其混合团体等创新后来被奥运正赛吸收。",
     "aftermath": "此后青奥会受关注度持续走低，2018年布宜诺斯艾利斯之后赛事影响力下滑；南京则借势完成体育新城与会展经济的布局。",
     "sources": [
-      {"title": "2014年夏季青年奥林匹克运动会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E5%A4%8F%E5%AD%A3%E9%9D%92%E5%B9%B4%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A", "type": "wiki"}
+      {
+        "title": "2014年夏季青年奥林匹克运动会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E5%A4%8F%E5%AD%A3%E9%9D%92%E5%B9%B4%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "青奥会", "南京", "青年赛事", "中国"]
+    "tags": [
+      "体育",
+      "青奥会",
+      "南京",
+      "青年赛事",
+      "中国"
+    ]
   },
   {
     "id": "2015-01-01-marathon-year-one",
@@ -107,29 +174,24 @@
     "impact": "审批松绑让马拉松从精英竞技变成大众产业，中国自此成为全球路跑赛事增长最快的市场。",
     "aftermath": "2019年全国马拉松赛事一度超过1800场，疫情冲击后回归理性；无锡马拉松屡破全国纪录，中国马拉松进入『206时代』。",
     "sources": [
-      {"title": "中国田径协会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%94%B0%E5%BE%84%E5%8D%8F%E4%BC%9A", "type": "wiki"},
-      {"title": "中国马拉松 - 新华网体育", "url": "http://www.news.cn/sports/20240324/7845e426f5c44a21a8cd522201a64d60/c.html", "type": "news"}
+      {
+        "title": "中国田径协会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%94%B0%E5%BE%84%E5%8D%8F%E4%BC%9A",
+        "type": "wiki"
+      },
+      {
+        "title": "中国马拉松 - 新华网体育",
+        "url": "http://www.news.cn/sports/20240324/7845e426f5c44a21a8cd522201a64d60/c.html",
+        "type": "news"
+      }
     ],
-    "tags": ["体育", "马拉松", "路跑", "全民健身", "中国"]
-  },
-  {
-    "id": "2015-05-27-fifa-corruption-arrests",
-    "date": "2015-05-27",
-    "date_accuracy": "exact",
-    "date_confidence": "verified",
-    "title": "苏黎世黎明突袭：美国司法掀翻FIFA贪腐帝国",
-    "category": "world",
-    "region": "world",
-    "milestone": false,
-    "summary_30s": "2015年5月27日，瑞士警方在苏黎世五星级酒店逮捕7名国际足联高官，美国司法部同步起诉14人、指控涉案贿赂1.5亿美元。布拉特四天后第五次当选主席又在6月2日闪电辞职，世界足球管理机构自此进入大清洗时代。",
-    "detail": "2015年5月27日清晨，苏黎世巴拉耶夫湖酒店（Baur au Lac），瑞士警方应美国司法部要求逮捕了7名正在出席FIFA大会的国际足联现役高官，包括副主席杰弗里·韦伯等；美国检方同日宣布对14人提起敲诈勒索、洗钱与腐败指控，涉案贿赂金额高达1.5亿美元，矛头直指世界杯转播权与营销权交易，乃至2018、2022两届世界杯的申办过程。四天后的主席选举，布拉特仍第五次当选，但6月2日他突然宣布辞职，瑞士检方随即对申办投票启动刑事调查。这场突袭掀开了世界足球管理机构数十年的系统性腐败，赞助商集体施压，美国长臂管辖第一次重塑了全球体育治理。",
-    "impact": "FIFA贪腐案证明国际体育组织不能置身于司法体系之外，此后国际足联启动治理改革，透明度与任期限制被写入章程。",
-    "aftermath": "数十名官员陆续认罪，布拉特与普拉蒂尼被禁止参与足球事务多年；卡塔尔世界杯的申办疑云则延续到2022年赛前仍在发酵。",
-    "sources": [
-      {"title": "2015 FIFA corruption case - Wikipedia", "url": "https://en.wikipedia.org/wiki/2015_FIFA_corruption_case", "type": "wiki"},
-      {"title": "国际足联 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%90%83%E7%B8%BD%E6%9C%83", "type": "wiki"}
-    ],
-    "tags": ["体育", "足球", "FIFA", "腐败案", "国际"]
+    "tags": [
+      "体育",
+      "马拉松",
+      "路跑",
+      "全民健身",
+      "中国"
+    ]
   },
   {
     "id": "2015-07-31-beijing-2022-bid-win",
@@ -145,10 +207,24 @@
     "impact": "北京胜出让奥林匹克史上首次出现『双奥之城』，也把中国冰雪运动从东北一隅推向全国市场。",
     "aftermath": "2022年2月北京冬奥会如期举办并兑现『三亿人上冰雪』的统计目标；中国以9金4银2铜创造冬奥历史最佳战绩。",
     "sources": [
-      {"title": "2022年冬季奥林匹克运动会申办 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%94%B3%E5%8A%9E", "type": "wiki"},
-      {"title": "2022年冬季奥林匹克运动会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A", "type": "wiki"}
+      {
+        "title": "2022年冬季奥林匹克运动会申办 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%94%B3%E5%8A%9E",
+        "type": "wiki"
+      },
+      {
+        "title": "2022年冬季奥林匹克运动会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "冬奥会", "北京", "申办", "双奥之城"]
+    "tags": [
+      "体育",
+      "冬奥会",
+      "北京",
+      "申办",
+      "双奥之城"
+    ]
   },
   {
     "id": "2015-08-29-relay-worlds-silver",
@@ -164,10 +240,24 @@
     "impact": "世锦赛接力银牌宣告中国男子短跑从个人突破走向整体崛起，为2021年东京奥运接力铜牌埋下伏笔。",
     "aftermath": "中国队在2016年里约奥运接力获第四，2021年东京以37秒79再次第四，2022年因英国队违禁递补铜牌，实现奥运接力奖牌零的突破。",
     "sources": [
-      {"title": "2015年世界田径锦标赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B", "type": "wiki"},
-      {"title": "苏炳添 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%82%B3%E6%B7%BB", "type": "wiki"}
+      {
+        "title": "2015年世界田径锦标赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "苏炳添 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%82%B3%E6%B7%BB",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "田径", "接力", "世锦赛", "中国短跑"]
+    "tags": [
+      "体育",
+      "田径",
+      "接力",
+      "世锦赛",
+      "中国短跑"
+    ]
   },
   {
     "id": "2016-09-09-yao-ming-hall-of-fame",
@@ -183,10 +273,24 @@
     "impact": "名人堂是全球篮球界对姚明竞技成就与跨文化影响力的双重认证，中国篮球自此在国际叙事中拥有了顶级代言人。",
     "aftermath": "姚明任篮协主席八年间推动CBA管办分离与国家队改革，2024年卸任；名人堂演讲中『体育是一座桥』的比喻至今仍被反复引用。",
     "sources": [
-      {"title": "姚明 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%98%8E", "type": "wiki"},
-      {"title": "Naismith Memorial Basketball Hall of Fame - Wikipedia", "url": "https://en.wikipedia.org/wiki/Naismith_Basketball_Hall_of_Fame", "type": "wiki"}
+      {
+        "title": "姚明 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%98%8E",
+        "type": "wiki"
+      },
+      {
+        "title": "Naismith Memorial Basketball Hall of Fame - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naismith_Basketball_Hall_of_Fame",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "篮球", "NBA", "姚明", "名人堂"]
+    "tags": [
+      "体育",
+      "篮球",
+      "NBA",
+      "姚明",
+      "名人堂"
+    ]
   },
   {
     "id": "2018-02-25-pyeongchang-closing-beijing-8",
@@ -202,10 +306,24 @@
     "impact": "『北京八分钟』以科技美学替代人海美学，为北京冬奥会的视觉基调定调，也标志着中国大型演出叙事的迭代。",
     "aftermath": "四年后北京冬奥开幕式以微火与二十四节气惊艳世界；平昌闭幕当晚，武大靖等中国代表团已开始为四年后的主场磨刀。",
     "sources": [
-      {"title": "2018年冬季奥林匹克运动会闭幕式 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F", "type": "wiki"},
-      {"title": "北京八分钟 - 百度百科", "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%85%AB%E5%88%86%E9%92%9F", "type": "wiki"}
+      {
+        "title": "2018年冬季奥林匹克运动会闭幕式 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F",
+        "type": "wiki"
+      },
+      {
+        "title": "北京八分钟 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%85%AB%E5%88%86%E9%92%9F",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "冬奥会", "北京八分钟", "平昌", "张艺谋"]
+    "tags": [
+      "体育",
+      "冬奥会",
+      "北京八分钟",
+      "平昌",
+      "张艺谋"
+    ]
   },
   {
     "id": "2018-07-15-france-world-cup-2018",
@@ -221,10 +339,24 @@
     "impact": "法国以青春风暴接棒德国、西班牙，姆巴佩自此开启后梅罗时代的巨星叙事；克罗地亚则证明了小国足球的极限可能。",
     "aftermath": "莫德里奇随后打破梅西C罗对金球奖十年的垄断；克罗地亚2018年的黑马之旅在2022年、2026年世界杯上延续了『格子军』的强队底色。",
     "sources": [
-      {"title": "2018年国际足联世界杯决赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B", "type": "wiki"},
-      {"title": "2018 FIFA World Cup Final - Wikipedia", "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final", "type": "wiki"}
+      {
+        "title": "2018年国际足联世界杯决赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "2018 FIFA World Cup Final - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "足球", "世界杯", "法国", "姆巴佩"]
+    "tags": [
+      "体育",
+      "足球",
+      "世界杯",
+      "法国",
+      "姆巴佩"
+    ]
   },
   {
     "id": "2019-01-28-wu-lei-espanyol",
@@ -240,10 +372,24 @@
     "impact": "武磊让『中国球员』重新成为欧洲足坛的可见存在，其留洋效应带动了一波国内青训与留洋规划的讨论。",
     "aftermath": "2022年8月武磊回归上海海港；此后数年中国男足球员再无五大联赛常驻球员，武磊的西甲三年成为一代球迷的共同记忆。",
     "sources": [
-      {"title": "武磊 - 维基百科", "url": "https://zh.wikipedia.org/zh-hans/%E6%AD%A6%E7%A3%8A", "type": "wiki"},
-      {"title": "RCD Espanyol - Wikipedia", "url": "https://en.wikipedia.org/wiki/RCD_Espanyol", "type": "wiki"}
+      {
+        "title": "武磊 - 维基百科",
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%AD%A6%E7%A3%8A",
+        "type": "wiki"
+      },
+      {
+        "title": "RCD Espanyol - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/RCD_Espanyol",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "足球", "武磊", "西甲", "留洋"]
+    "tags": [
+      "体育",
+      "足球",
+      "武磊",
+      "西甲",
+      "留洋"
+    ]
   },
   {
     "id": "2019-10-08-nba-china-relations-freeze",
@@ -259,10 +405,24 @@
     "impact": "NBA与中国市场的关系自此进入结构性低谷，跨国体育联盟的『政治中立』商业模型第一次在中国遭遇根本性质疑。",
     "aftermath": "央视2020年曾短暂复播NBA总决赛，2025年NBA宣布中国赛回归、转播逐步恢复；但中国市场的商业规模已不可同日而语。",
     "sources": [
-      {"title": "NBA与中国 - 维基百科", "url": "https://zh.wikipedia.org/wiki/NBA%E4%B8%8E%E4%B8%AD%E5%9B%BD", "type": "wiki"},
-      {"title": "Daryl Morey - Wikipedia", "url": "https://en.wikipedia.org/wiki/Daryl_Morey", "type": "wiki"}
+      {
+        "title": "Daryl Morey - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Daryl_Morey",
+        "type": "wiki"
+      },
+      {
+        "title": "莫雷事件 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%9B%B7%E4%BA%8B%E4%BB%B6",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "NBA", "篮球", "中美关系", "转播"]
+    "tags": [
+      "体育",
+      "NBA",
+      "篮球",
+      "中美关系",
+      "转播"
+    ]
   },
   {
     "id": "2021-12-12-verstappen-first-title",
@@ -278,9 +438,23 @@
     "impact": "维斯塔潘成为荷兰史上首位F1世界冠军，梅赛德斯八连霸车手垄断被终结，F1进入红牛新王朝时代。",
     "aftermath": "维斯塔潘此后连夺2022-2024四届世界冠军；阿布扎比的判例直接推动FIA修改安全车规则与赛事总监架构。",
     "sources": [
-      {"title": "2021年阿布扎比大奖赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B", "type": "wiki"},
-      {"title": "2021 Abu Dhabi Grand Prix - Wikipedia", "url": "https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix", "type": "wiki"}
+      {
+        "title": "2021年阿布扎比大奖赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "2021 Abu Dhabi Grand Prix - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "F1", "维斯塔潘", "汉密尔顿", "世界冠军"]
+    "tags": [
+      "体育",
+      "F1",
+      "维斯塔潘",
+      "汉密尔顿",
+      "世界冠军"
+    ]
   }
 ]

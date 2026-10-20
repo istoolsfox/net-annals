@@ -13,10 +13,24 @@
     "impact": "一场比赛同时诞生了世界杯历史上最大的争议进球和公认的最佳进球，马拉多纳由此封神，也奠定了他毁誉参半的传奇底色。",
     "aftermath": "阿根廷最终夺得该届世界杯冠军，马拉多纳加冕球王；『上帝之手』此后成为足球术语，他本人多年后才公开承认那是手球，而世纪进球至今无人复刻。",
     "sources": [
-      {"title": "1986年世界杯阿根廷对英格兰 - Wikipedia", "url": "https://en.wikipedia.org/wiki/Argentina_v_England_(1986_FIFA_World_Cup)", "type": "wiki"},
-      {"title": "迭戈·马拉多纳 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E8%BF%AD%E6%88%88%C2%B7%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3", "type": "wiki"}
+      {
+        "title": "1986年世界杯阿根廷对英格兰 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Argentina_v_England_(1986_FIFA_World_Cup)",
+        "type": "wiki"
+      },
+      {
+        "title": "迭戈·马拉多纳 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E8%BF%AD%E6%88%88%C2%B7%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "足球", "世界杯", "马拉多纳", "国际"]
+    "tags": [
+      "体育",
+      "足球",
+      "世界杯",
+      "马拉多纳",
+      "国际"
+    ]
   },
   {
     "id": "1986-10-05-seoul-asian-games-94-93",
@@ -32,9 +46,19 @@
     "impact": "94比93的极端接近宣告亚洲竞技体育进入中日韩三强时代，韩国正式取代日本成为中国的头号对手。",
     "aftermath": "两年后汉城奥运会成为中国队的『滑铁卢』，仅获5金；但自1990年北京亚运会起，中国重新拉开与韩日的差距，此后连续多届亚运金牌榜第一至今。",
     "sources": [
-      {"title": "1986年亚洲运动会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/1986%E5%B9%B4%E4%BA%9A%E6%B4%B2%E8%BF%90%E5%8A%A8%E4%BC%9A", "type": "wiki"}
+      {
+        "title": "1986年亚洲运动会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/1986%E5%B9%B4%E4%BA%9A%E6%B4%B2%E8%BF%90%E5%8A%A8%E4%BC%9A",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "亚运会", "中国", "韩国", "金牌榜"]
+    "tags": [
+      "体育",
+      "亚运会",
+      "中国",
+      "韩国",
+      "金牌榜"
+    ]
   },
   {
     "id": "1988-03-26-nie-weiping-go-sage-title",
@@ -50,9 +74,20 @@
     "impact": "『棋圣』称号与擂台赛神话共同造就了1980年代末的中国围棋热，中国围棋从追赶日本正式转入赶超轨道。",
     "aftermath": "此后聂卫平逐渐淡出一线转为执教，培养出常昊、古力等世界冠军；中日围棋擂台赛1996年停办，而中国棋手此后在世界赛场全面压制日韩。",
     "sources": [
-      {"title": "聂卫平 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E8%81%82%E5%8D%AB%E5%B9%B3", "type": "wiki"}
+      {
+        "title": "聂卫平 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E8%81%82%E5%8D%AB%E5%B9%B3",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "围棋", "聂卫平", "中日擂台赛", "棋圣", "里程碑"]
+    "tags": [
+      "体育",
+      "围棋",
+      "聂卫平",
+      "中日擂台赛",
+      "棋圣",
+      "里程碑"
+    ]
   },
   {
     "id": "1988-09-24-ben-johnson-seoul-doping",
@@ -68,10 +103,24 @@
     "impact": "奥运史上第一次明星级选手当场被剥夺金牌，现代反兴奋剂运动自此从零散检测走向制度化。",
     "aftermath": "约翰逊禁赛期满复出后再次药检阳性，被终身禁赛；刘易斯递补的9秒92保持了数年，而反兴奋剂战争从此成为现代体育的另一条主线。",
     "sources": [
-      {"title": "本·约翰逊 (运动员) - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A_(%E8%BF%90%E5%8A%A8%E5%91%98)", "type": "wiki"},
-      {"title": "Doping at the Olympic Games - Wikipedia", "url": "https://en.wikipedia.org/wiki/Ben_Johnson_(sprinter)", "type": "wiki"}
+      {
+        "title": "Doping at the Olympic Games - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ben_Johnson_(sprinter)",
+        "type": "wiki"
+      },
+      {
+        "title": "Doping at the Olympic Games - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doping_at_the_Olympic_Games",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "田径", "兴奋剂", "汉城奥运", "国际"]
+    "tags": [
+      "体育",
+      "田径",
+      "兴奋剂",
+      "汉城奥运",
+      "国际"
+    ]
   },
   {
     "id": "1992-07-27-fu-mingxia-barcelona-youngest",
@@ -87,10 +136,24 @@
     "impact": "伏明霞用最年轻纪录开启了中国跳水队在跳台项目上长达二十年的统治，也促使国际泳联为儿童运动员保护立下年龄门槛。",
     "aftermath": "最年轻奥运跳水冠军纪录因新规则永久定格在她名下；2000年悉尼卫冕后她退役嫁入香港豪门，跳水女皇的故事成为跨世纪的时代记忆。",
     "sources": [
-      {"title": "伏明霞 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E4%BC%8F%E6%98%8E%E9%9C%9E", "type": "wiki"},
-      {"title": "Diving at the 1992 Summer Olympics – Women's 10 metre platform - Wikipedia", "url": "https://en.wikipedia.org/wiki/Diving_at_the_1992_Summer_Olympics_%E2%80%93_Women%27s_10_metre_platform", "type": "wiki"}
+      {
+        "title": "伏明霞 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E4%BC%8F%E6%98%8E%E9%9C%9E",
+        "type": "wiki"
+      },
+      {
+        "title": "Diving at the 1992 Summer Olympics – Women's 10 metre platform - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diving_at_the_1992_Summer_Olympics_%E2%80%93_Women%27s_10_metre_platform",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "跳水", "伏明霞", "奥运会", "最年轻纪录"]
+    "tags": [
+      "体育",
+      "跳水",
+      "伏明霞",
+      "奥运会",
+      "最年轻纪录"
+    ]
   },
   {
     "id": "1992-08-01-deng-yaping-barcelona-double",
@@ -106,10 +169,24 @@
     "impact": "邓亚萍两届奥运四金的统治力巩固了中国乒乓球的霸主地位，她『身材不占优靠技术补』的故事也成为一代人的励志符号。",
     "aftermath": "她退役后进入国际奥委会运动员委员会并参与申奥工作；2008年之后的国乒女队虽人才辈出，『连续八年世界第一』的纪录至今无人复制。",
     "sources": [
-      {"title": "邓亚萍 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E9%82%93%E4%BA%9A%E8%90%8D", "type": "wiki"},
-      {"title": "邓亚萍 - 百度百科", "url": "https://baike.baidu.com/item/%E9%82%93%E4%BA%9A%E8%90%8D/508775", "type": "wiki"}
+      {
+        "title": "邓亚萍 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E9%82%93%E4%BA%9A%E8%90%8D",
+        "type": "wiki"
+      },
+      {
+        "title": "邓亚萍 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E9%82%93%E4%BA%9A%E8%90%8D/508775",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "乒乓球", "邓亚萍", "奥运会", "中国"]
+    "tags": [
+      "体育",
+      "乒乓球",
+      "邓亚萍",
+      "奥运会",
+      "中国"
+    ]
   },
   {
     "id": "1993-09-08-wang-junxia-10000m-wr",
@@ -125,10 +202,24 @@
     "impact": "29分31秒78与斯图加特三金让中国女子中长跑第一次站上世界之巅，『马家军』成为1990年代中国体育最具话题性的现象。",
     "aftermath": "1996年亚特兰大奥运会王军霞以个人身份再夺5000米金牌；马家军因禁药疑云和管理风波迅速解体，其成绩至今仍处在历史争议之中。",
     "sources": [
-      {"title": "王军霞 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B%E9%9C%9E", "type": "wiki"},
-      {"title": "王军霞 - 百度百科", "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%86%9B%E9%9C%9E/3149246", "type": "wiki"}
+      {
+        "title": "王军霞 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B%E9%9C%9E",
+        "type": "wiki"
+      },
+      {
+        "title": "王军霞 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%86%9B%E9%9C%9E/3149246",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "田径", "王军霞", "马家军", "世界纪录"]
+    "tags": [
+      "体育",
+      "田径",
+      "王军霞",
+      "马家军",
+      "世界纪录"
+    ]
   },
   {
     "id": "1994-04-17-jia-a-league-debut",
@@ -144,10 +235,24 @@
     "impact": "甲A是中国体育第一个真正市场化的职业联赛，它把足球从专业队体制推向俱乐部制，也奠定了此后三十年中国足球产业的基本盘。",
     "aftermath": "甲A红极十年后假球黑哨滋生，2004年改制为中超联赛；但职业化元年点燃的球迷文化延续至今，成都、北京等地球市至今仍是亚洲标杆。",
     "sources": [
-      {"title": "1994年中国足球甲A联赛 - 维基百科", "url": "https://zh.wikipedia.org/zh-hans/1994%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%94%B2A%E8%81%94%E8%B5%9B", "type": "wiki"},
-      {"title": "中国足球甲级A组联赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%94%B2%E7%BA%A7A%E7%BB%84%E8%81%94%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "1994年中国足球甲A联赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/zh-hans/1994%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%94%B2A%E8%81%94%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "中国足球甲级A组联赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%94%B2%E7%BA%A7A%E7%BB%84%E8%81%94%E8%B5%9B",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "足球", "甲A联赛", "职业化", "中国"]
+    "tags": [
+      "体育",
+      "足球",
+      "甲A联赛",
+      "职业化",
+      "中国"
+    ]
   },
   {
     "id": "1994-08-01-china-basketball-wc-8th",
@@ -163,9 +268,19 @@
     "impact": "世锦赛八强确立了『94黄金一代』的历史地位，证明中国篮球可以在无内线绝对优势的情况下靠整体打法挤进世界前八。",
     "aftermath": "这批球员此后成为CBA初代联赛的门面与多届国家队骨干；中国男篮世界大赛前八的成绩，直到2004、2008年才由姚明一代重现。",
     "sources": [
-      {"title": "1994年世界篮球锦标赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/1994%E5%B9%B4%E4%B8%96%E7%95%8C%E7%B1%AE%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "1994 FIBA World Championship - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1994_FIBA_World_Championship",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "篮球", "中国男篮", "世锦赛", "黄金一代"]
+    "tags": [
+      "体育",
+      "篮球",
+      "中国男篮",
+      "世锦赛",
+      "黄金一代"
+    ]
   },
   {
     "id": "1996-02-04-harbin-asian-winter-1996",
@@ -181,9 +296,19 @@
     "impact": "哈尔滨亚冬会打破了日本对亚洲冰雪赛事的垄断，确立了中国在亚洲冰雪版图中的组织者角色。",
     "aftermath": "长春2007年再次承办亚冬会；哈尔滨在此基础上发展为『冰城』冰雪旅游与训练基地，并在2025年第二次举办亚冬会、以创纪录成绩登顶金牌榜。",
     "sources": [
-      {"title": "1996年亚洲冬季运动会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/1996%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%86%AC%E5%AD%A3%E8%BF%90%E5%8A%A8%E4%BC%9A", "type": "wiki"}
+      {
+        "title": "1996年亚洲冬季运动会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/1996%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%86%AC%E5%AD%A3%E8%BF%90%E5%8A%A8%E4%BC%9A",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "亚冬会", "哈尔滨", "冰雪运动", "中国"]
+    "tags": [
+      "体育",
+      "亚冬会",
+      "哈尔滨",
+      "冰雪运动",
+      "中国"
+    ]
   },
   {
     "id": "1996-07-27-atlanta-centennial-park-bombing",
@@ -199,10 +324,24 @@
     "impact": "爆炸案改写了大型赛事的安保逻辑，开放式场馆安检、安保情报共享自此成为奥运标配，也暴露了商业化奥运会安保投入不足的漏洞。",
     "aftermath": "朱厄尔获得美国政府正式道歉与赔偿；亚特兰大奥运会的过度商业化与安保失误长期被国际奥委会引为反面教材，2002年盐湖城贿选丑闻前夜，奥运治理改革已被提上日程。",
     "sources": [
-      {"title": "Centennial Olympic Park bombing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Centennial_Olympic_Park_bombing", "type": "wiki"},
-      {"title": "1996年夏季奥林匹克运动会 - 维基百科", "url": "https://zh.wikipedia.org/wiki/1996%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A", "type": "wiki"}
+      {
+        "title": "Centennial Olympic Park bombing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Centennial_Olympic_Park_bombing",
+        "type": "wiki"
+      },
+      {
+        "title": "1996年夏季奥林匹克运动会 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/1996%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "奥运会", "亚特兰大", "恐怖袭击", "国际"]
+    "tags": [
+      "体育",
+      "奥运会",
+      "亚特兰大",
+      "恐怖袭击",
+      "国际"
+    ]
   },
   {
     "id": "1996-07-28-wang-junxia-5000m-gold",
@@ -218,10 +357,24 @@
     "impact": "奥运一金一银让王军霞完成了从『马家军产品』到独立传奇的转身，中国中长跑也第一次在奥运最高领奖台升起国旗。",
     "aftermath": "她于1997年巅峰期退役，后移居美国；5000米金牌至今仍是中国女子中长跑唯一的奥运金，马家军时代的争议则持续发酵至2016年前后。",
     "sources": [
-      {"title": "Athletics at the 1996 Summer Olympics – Women's 5000 metres - Wikipedia", "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1996_Summer_Olympics_%E2%80%93_Women%27s_5000_metres", "type": "wiki"},
-      {"title": "王军霞 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B%E9%9C%9E", "type": "wiki"}
+      {
+        "title": "Athletics at the 1996 Summer Olympics – Women's 5000 metres - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1996_Summer_Olympics_%E2%80%93_Women%27s_5000_metres",
+        "type": "wiki"
+      },
+      {
+        "title": "王军霞 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B%E9%9C%9E",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "田径", "王军霞", "奥运会", "东方神鹿"]
+    "tags": [
+      "体育",
+      "田径",
+      "王军霞",
+      "奥运会",
+      "东方神鹿"
+    ]
   },
   {
     "id": "2001-04-05-wang-zhizhi-nba-debut",
@@ -237,10 +390,24 @@
     "impact": "王治郅登陆NBA验证了中国球员的世界级可能，直接铺就了2002年姚明状元秀的通道，中国篮球的商业价值与关注度自此改写。",
     "aftermath": "姚明2002年以状元身份加入火箭并成为超级巨星；王治郅2006年回国重返八一，后作为『移动长城』成员助中国男篮两夺亚运冠军。",
     "sources": [
-      {"title": "王治郅 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B2%BB%E9%83%85", "type": "wiki"},
-      {"title": "王治郅 - 百度百科", "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%B2%BB%E9%83%85/117959", "type": "wiki"}
+      {
+        "title": "王治郅 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B2%BB%E9%83%85",
+        "type": "wiki"
+      },
+      {
+        "title": "王治郅 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%B2%BB%E9%83%85/117959",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "篮球", "NBA", "王治郅", "中国第一人"]
+    "tags": [
+      "体育",
+      "篮球",
+      "NBA",
+      "王治郅",
+      "中国第一人"
+    ]
   },
   {
     "id": "2004-08-22-li-ting-sun-tiantian-doubles-gold",
@@ -256,10 +423,25 @@
     "impact": "奥运女双金让世界网坛第一次正视中国力量，中国网球的培养体系从此转向职业化与国际化的快车道。",
     "aftermath": "七年后李娜在法网夺得亚洲首个大满贯单打冠军，郑洁/晏紫等双打组合接连问鼎大满贯；雅典一役被视为中国网球黄金十年的起点。",
     "sources": [
-      {"title": "Tennis at the 2004 Summer Olympics – Women's doubles - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tennis_at_the_2004_Summer_Olympics_%E2%80%93_Women%27s_doubles", "type": "wiki"},
-      {"title": "李婷 (网球运动员) - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A9%B7_(%E7%BD%91%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98)", "type": "wiki"}
+      {
+        "title": "Tennis at the 2004 Summer Olympics – Women's doubles - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tennis_at_the_2004_Summer_Olympics_%E2%80%93_Women%27s_doubles",
+        "type": "wiki"
+      },
+      {
+        "title": "李婷 (网球运动员) - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A9%B7_(%E7%BD%91%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98)",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "网球", "李婷", "孙甜甜", "奥运会", "首金"]
+    "tags": [
+      "体育",
+      "网球",
+      "李婷",
+      "孙甜甜",
+      "奥运会",
+      "首金"
+    ]
   },
   {
     "id": "2004-09-26-f1-chinese-gp-debut",
@@ -275,10 +457,24 @@
     "impact": "中国大奖赛让F1第一次真正进入全球最大新兴市场，也为中国赛车运动、赛道经济与汽车文化提供了制度化起点。",
     "aftermath": "2020-2023年赛事因疫情停办；2024年4月回归时，首位中国F1正式车手周冠宇在家门口完成首秀，中国站的故事进入新篇章。",
     "sources": [
-      {"title": "2004年中国大奖赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2004%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B", "type": "wiki"},
-      {"title": "上海国际赛车场 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E8%B5%9B%E8%BD%A6%E5%9C%BA", "type": "wiki"}
+      {
+        "title": "2004年中国大奖赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2004%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B",
+        "type": "wiki"
+      },
+      {
+        "title": "上海国际赛车场 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E8%B5%9B%E8%BD%A6%E5%9C%BA",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "F1", "中国大奖赛", "上海", "赛车"]
+    "tags": [
+      "体育",
+      "F1",
+      "中国大奖赛",
+      "上海",
+      "赛车"
+    ]
   },
   {
     "id": "2004-10-14-first-nba-china-games",
@@ -294,10 +490,19 @@
     "impact": "NBA中国赛开启了顶级职业联赛在中国常态化办赛的先河，中国自此成为NBA最大的海外市场。",
     "aftermath": "2019年莫雷推特风波后NBA与中国的关系急转直下，中国赛一度停摆；2025年NBA宣布重启中国赛，篮球外交重新起步。",
     "sources": [
-      {"title": "NBA中国赛 - 百度百科", "url": "https://baike.baidu.com/item/NBA%E4%B8%AD%E5%9B%BD%E8%B5%9B/5328080", "type": "wiki"},
-      {"title": "NBA in China - Wikipedia", "url": "https://en.wikipedia.org/wiki/NBA_China_Games", "type": "wiki"}
+      {
+        "title": "NBA中国赛 - 百度百科",
+        "url": "https://baike.baidu.com/item/NBA%E4%B8%AD%E5%9B%BD%E8%B5%9B/5328080",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "NBA", "中国赛", "姚明", "篮球"]
+    "tags": [
+      "体育",
+      "NBA",
+      "中国赛",
+      "姚明",
+      "篮球"
+    ]
   },
   {
     "id": "2008-08-09-chen-xiexia-first-gold",
@@ -313,10 +518,24 @@
     "impact": "北京奥运首金承载着东道主的心理期待，陈燮霞的开门红让中国代表团此后一路高歌，最终以51金首次登顶金牌榜。",
     "aftermath": "2017年初，国际奥委会复检发现陈燮霞该届比赛药检样本中生长激素释放肽阳性，她与另外两名举重冠军的金牌在2017年被正式剥夺，北京首金的故事由此蒙上阴影。",
     "sources": [
-      {"title": "陈燮霞 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E9%99%88%E7%87%AE%E9%9C%9E", "type": "wiki"},
-      {"title": "2008年夏季奥林匹克运动会举重比赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "陈燮霞 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E9%99%88%E7%87%AE%E9%9C%9E",
+        "type": "wiki"
+      },
+      {
+        "title": "2008年夏季奥林匹克运动会举重比赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "举重", "陈燮霞", "北京奥运", "首金"]
+    "tags": [
+      "体育",
+      "举重",
+      "陈燮霞",
+      "北京奥运",
+      "首金"
+    ]
   },
   {
     "id": "2008-08-10-china-usa-basketball-beijing",
@@ -332,10 +551,24 @@
     "impact": "五棵松之战让NBA巨星与姚明同框的画面成为2008年的集体记忆，中国男篮随后再进奥运前八，成为姚明时代最后的巅峰。",
     "aftermath": "梦八队一路夺金完成『救赎之队』使命；中国男篮自此再未在世界大赛赢下一场前八战役，2008年成为此后的回望标杆。",
     "sources": [
-      {"title": "梦八队 - 百度百科", "url": "https://baike.baidu.com/item/%E6%A2%A6%E5%85%AB%E9%98%9F/7347495", "type": "wiki"},
-      {"title": "2008年夏季奥林匹克运动会男子篮球赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%94%B7%E5%AD%90%E7%B1%AE%E7%90%83%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "梦八队 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E6%A2%A6%E5%85%AB%E9%98%9F/7347495",
+        "type": "wiki"
+      },
+      {
+        "title": "2008年夏季奥林匹克运动会篮球比赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%AF%AE%E7%90%83%E6%AF%94%E8%B5%9B",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "篮球", "中国男篮", "梦八队", "北京奥运"]
+    "tags": [
+      "体育",
+      "篮球",
+      "中国男篮",
+      "梦八队",
+      "北京奥运"
+    ]
   },
   {
     "id": "2008-08-18-liu-xiang-withdraws",
@@ -351,10 +584,24 @@
     "impact": "刘翔退赛把『运动员不是夺牌机器』的命题第一次推到全民层面，公众对伤病与退赛的态度自此开始松动。",
     "aftermath": "2012年伦敦跟腱断裂后刘翔于2015年退役；他仍然保持着12秒88的亚洲纪录和雅典奥运金牌，公众对他的评价在多年后回归温和与敬意。",
     "sources": [
-      {"title": "刘翔 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E5%88%98%E7%BF%94", "type": "wiki"},
-      {"title": "2008年夏季奥林匹克运动会田径男子110米栏比赛 - 维基百科", "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%94%B0%E5%BE%84%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E6%AF%94%E8%B5%9B", "type": "wiki"}
+      {
+        "title": "刘翔 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%88%98%E7%BF%94",
+        "type": "wiki"
+      },
+      {
+        "title": "2008年夏季奥林匹克运动会田径比赛 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%94%B0%E5%BE%84%E6%AF%94%E8%B5%9B",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "田径", "刘翔", "北京奥运", "退赛"]
+    "tags": [
+      "体育",
+      "田径",
+      "刘翔",
+      "北京奥运",
+      "退赛"
+    ]
   },
   {
     "id": "2008-08-24-zou-shiming-boxing-gold",
@@ -370,10 +617,24 @@
     "impact": "邹市明的金牌打破了中国拳击的奥运荒漠化，他此后转战职业拳坛的成功又为后来者示范了业余与职业之间的通道。",
     "aftermath": "退役后他投身拳击推广与综艺，中国拳击随后涌现出吕斌等新生代；奥运首金的标志性意义使邹市明长期被视为中国拳击的门面人物。",
     "sources": [
-      {"title": "邹市明 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E9%82%B9%E5%B8%82%E6%98%8E", "type": "wiki"},
-      {"title": "Boxing at the 2008 Summer Olympics - Wikipedia", "url": "https://en.wikipedia.org/wiki/Boxing_at_the_2008_Summer_Olympics", "type": "wiki"}
+      {
+        "title": "邹市明 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E9%82%B9%E5%B8%82%E6%98%8E",
+        "type": "wiki"
+      },
+      {
+        "title": "Boxing at the 2008 Summer Olympics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boxing_at_the_2008_Summer_Olympics",
+        "type": "wiki"
+      }
     ],
-    "tags": ["体育", "拳击", "邹市明", "奥运会", "首金"]
+    "tags": [
+      "体育",
+      "拳击",
+      "邹市明",
+      "奥运会",
+      "首金"
+    ]
   },
   {
     "id": "2009-07-29-zhang-lin-800-free-wr",
@@ -389,9 +650,23 @@
     "impact": "张琳的首金宣告中国男子游泳正式登上世界之巅，中国游泳『阴盛阳衰』的旧格局开始松动。",
     "aftermath": "孙杨在2011年上海世锦赛接过接力棒并开启长距离自由泳的统治时代；张琳此后状态下滑淡出赛场，但他作为『破冰者』的地位被写进中国游泳史。",
     "sources": [
-      {"title": "张琳 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%90%B3", "type": "wiki"},
-      {"title": "超纪录6秒，张琳成为中国男泳世界冠军第一人 - 维基新闻", "url": "https://zh.wikinews.org/wiki/%E8%B6%85%E7%BA%AA%E5%BD%956%E7%A7%92%EF%BC%8C%E5%BC%A0%E7%90%B3%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%B3%B3%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%AC%AC%E4%B8%80%E4%BA%BA", "type": "news"}
+      {
+        "title": "张琳 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%90%B3",
+        "type": "wiki"
+      },
+      {
+        "title": "超纪录6秒，张琳成为中国男泳世界冠军第一人 - 维基新闻",
+        "url": "https://zh.wikinews.org/wiki/%E8%B6%85%E7%BA%AA%E5%BD%956%E7%A7%92%EF%BC%8C%E5%BC%A0%E7%90%B3%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%B3%B3%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%AC%AC%E4%B8%80%E4%BA%BA",
+        "type": "news"
+      }
     ],
-    "tags": ["体育", "游泳", "张琳", "世界纪录", "中国首金"]
+    "tags": [
+      "体育",
+      "游泳",
+      "张琳",
+      "世界纪录",
+      "中国首金"
+    ]
   }
 ]

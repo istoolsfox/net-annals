@@ -314,10 +314,10 @@
 ]
 },
 {
-"id": "2005-12-01-blog-queen-xu-jinglei",
-"date": "2005-12-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2005-10-25-blog-queen-xu-jinglei",
+"date": "2005-10-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "博客元年：新浪名人博客与『博客女王』徐静蕾",
 "category": "culture",
 "region": "cn",
@@ -932,10 +932,10 @@
 ]
 },
 {
-"id": "2007-01-01-kingsoft-ipo",
-"date": "2007-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2007-10-09-kingsoft-ipo",
+"date": "2007-10-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "金山软件香港上市：求伯君与雷军的二十年长跑",
 "category": "company",
 "region": "cn",
@@ -992,10 +992,10 @@
 ]
 },
 {
-"id": "2007-11-01-alibaba-b2b-ipo",
-"date": "2007-11-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2007-11-06-alibaba-b2b-ipo",
+"date": "2007-11-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "阿里巴巴 B2B 香港上市：募资17亿美元",
 "category": "company",
 "region": "cn",
@@ -1538,10 +1538,10 @@
 ]
 },
 {
-"id": "2009-07-01-chrome-os-announce",
-"date": "2009-07-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2009-07-07-chrome-os-announce",
+"date": "2009-07-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "Google 宣布 Chrome OS：浏览器就是操作系统",
 "category": "tech",
 "region": "world",
@@ -1622,10 +1622,10 @@
 ]
 },
 {
-"id": "2009-01-01-shanda-games-ipo",
-"date": "2009-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2009-09-25-shanda-games-ipo",
+"date": "2009-09-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "盛大游戏分拆上市：中国游戏第一股易位",
 "category": "company",
 "region": "cn",

@@ -347,41 +347,6 @@
 ]
 },
 {
-"id": "1988-02-01-red-sorghum-golden-bear",
-"date": "1988-02-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "《红高粱》摘得柏林金熊，中国电影首夺国际A类大奖",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "一九八八年二月，张艺谋的导演处女作《红高粱》在第三十八届柏林国际电影节摘得最高荣誉金熊奖，这是中国电影也是华语电影第一次获得欧洲三大国际电影节的最高奖。高粱地里的酒歌与红布，让世界影坛第一次正视中国大陆新电影的爆发力。",
-"detail": "《红高粱》改编自莫言的小说，由姜文、巩俐主演，讲述抗日战争背景下山东高密酿酒人与土匪、日军之间的恩怨故事。张艺谋此前以摄影师身份凭借《一个和八个》《黄土地》闻名，这是他首次执导长片，也是十九岁的巩俐第一次出演电影。影片以浓烈的红黄色彩与高亢的民俗歌谣，塑造出粗粝张扬的生命力，与此前第五代导演的沉郁美学形成对照。一九八八年二月柏林电影节公布获奖名单，评审团将金熊授予《红高粱》，消息传回国内引起轰动，影片随后在国内外多个市场发行，巩俐自此开启国际影星之路，张艺谋也站上了世界影坛。《红高粱》之后，中国第五代导演的作品接连入围欧洲三大电影节，中国电影迎来长达二十年的国际声誉高峰。",
-"impact": "中国电影第一次拿下国际A类电影节最高奖，直接打开了中国艺术电影通向世界市场的通道，也让莫言的文学走向国际。",
-"aftermath": "张艺谋此后凭《秋菊打官司》《一个都不能少》再获威尼斯金狮，二〇一二年莫言获诺贝尔文学奖时，《红高粱》被视为其作品国际传播的起点。",
-"sources": [
-{
-"title": "英文维基百科：1988年电影",
-"url": "https://en.wikipedia.org/wiki/1988_in_film",
-"type": "wiki"
-},
-{
-"title": "英文维基百科：红高粱",
-"url": "https://en.wikipedia.org/wiki/Red_Sorghum_(film)",
-"type": "wiki"
-}
-],
-"tags": [
-"影视",
-"文化",
-"张艺谋",
-"巩俐",
-"柏林电影节",
-"第五代导演",
-"莫言"
-]
-},
-{
 "id": "1988-04-16-my-neighbor-totoro",
 "date": "1988-04-16",
 "date_accuracy": "exact",
@@ -595,9 +560,9 @@
 ]
 },
 {
-"id": "1989-09-01-city-of-sadness",
-"date": "1989-09-01",
-"date_accuracy": "month",
+"id": "1989-09-16-city-of-sadness",
+"date": "1989-09-16",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《悲情城市》夺威尼斯金狮，华语电影首获金狮",
 "category": "culture",
@@ -648,8 +613,8 @@
 "type": "wiki"
 },
 {
-"title": "英文维基百科：索尼收购哥伦比亚影业",
-"url": "https://en.wikipedia.org/wiki/Acquisition_of_Columbia_Pictures_by_Sony",
+"title": "Columbia Pictures - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Columbia_Pictures",
 "type": "wiki"
 }
 ],
@@ -1823,8 +1788,8 @@
 "aftermath": "王家卫此后以《花样年华》《一代宗师》继续封神；影片的4K修复版多次在两岸三地重映，张国荣逝世后它更成为影迷的年度仪式。",
 "sources": [
 {
-"title": "中文维基百科：春光乍泄",
-"url": "https://zh.wikipedia.org/wiki/春光乍泄_(电影)",
+"title": "春光乍泄 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/春光乍泄",
 "type": "wiki"
 },
 {
@@ -2192,9 +2157,9 @@
 ]
 },
 {
-"id": "1999-09-01-not-one-less",
-"date": "1999-09-01",
-"date_accuracy": "month",
+"id": "1999-09-11-not-one-less",
+"date": "1999-09-11",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《一个都不能少》威尼斯夺金狮：张艺谋的第二次登顶",
 "category": "culture",
@@ -2375,8 +2340,8 @@
 "aftermath": "王家卫与梁朝伟此后合作《2046》《一代宗师》；影片多次修复重映，高清修复版在世界各地院线再次引发排队热潮。",
 "sources": [
 {
-"title": "中文维基百科：花样年华",
-"url": "https://zh.wikipedia.org/wiki/花样年华_(电影)",
+"title": "花样年华 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/花样年华",
 "type": "wiki"
 },
 {
@@ -2991,41 +2956,6 @@
 ]
 },
 {
-"id": "2004-12-23-kung-fu-hustle",
-"date": "2004-12-23",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《功夫》上映：周星驰把功夫片拍成动画诗",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "二〇〇四年十二月，《功夫》在内地与香港同步上映。包租婆的狮吼功、斧头帮的群舞与如来神掌，周星驰用动画式的想象力致敬了半个世纪的华语功夫片。影片香港票房六千一百多万港元打破华语片纪录，内地也收下一亿七千万元。",
-"detail": "周星驰自导自演，把故事放在四十年代的上海贫民窟：小混混阿星想加入斧头帮，却在猪笼城寨遭遇隐世高手群像——油炸鬼、裁缝与苦力强各怀绝技，火云邪神与如来神掌的对决把功夫片推向漫画化的极限。影片的视觉风格混合邵氏武侠与好莱坞动画逻辑，包租婆头顶卷发筒狂追疾驰的段落成为华语喜剧片传播最广的画面之一。影片十二月二十三日在内地与香港同步上映，香港票房约六千一百二十七万港元刷新华语片纪录，内地票房一点七三亿元，成为当年最卖座华语电影之一，随后在北美由索尼经典发行并收获好评，日本与韩国市场同样大卖。次年它拿下香港电影金像奖最佳电影与台湾金马奖最佳剧情片，周星驰完成从喜剧演员到作者导演的身份认证。「还有谁」「一支穿云箭」等台词至今活跃在中文互联网。",
-"impact": "功夫喜剧完成现代化改造，周星驰确立作者导演地位，华语片在多市场同时卖座的能力得到验证。",
-"aftermath": "周星驰此后执导《长江七号》《美人鱼》并刷新内地票房纪录；如来神掌与包租婆成为表情包时代的常青素材，续集传闻流传二十年仍未成行。",
-"sources": [
-{
-"title": "中文维基百科：功夫 (电影)",
-"url": "https://zh.wikipedia.org/wiki/功夫_(电影)",
-"type": "wiki"
-},
-{
-"title": "英文维基百科：2004年电影",
-"url": "https://en.wikipedia.org/wiki/2004_in_film",
-"type": "wiki"
-}
-],
-"tags": [
-"影视",
-"文化",
-"二次元",
-"功夫",
-"周星驰",
-"功夫片",
-"香港票房纪录"
-]
-},
-{
 "id": "2005-05-06-crash",
 "date": "2005-05-06",
 "date_accuracy": "exact",
@@ -3097,9 +3027,9 @@
 ]
 },
 {
-"id": "2005-12-01-king-kong-2005",
-"date": "2005-12-01",
-"date_accuracy": "month",
+"id": "2005-12-14-king-kong-2005",
+"date": "2005-12-14",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《金刚》新版上映：彼得·杰克逊的骷髅岛豪赌",
 "category": "culture",

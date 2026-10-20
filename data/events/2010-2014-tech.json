@@ -54,10 +54,10 @@
 ]
 },
 {
-"id": "2010-03-01-china-group-buy-boom",
-"date": "2010-03-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2010-03-04-china-group-buy-boom",
+"date": "2010-03-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "团购模式登陆中国，『千团大战』开幕",
 "category": "internet",
 "region": "cn",
@@ -423,10 +423,10 @@
 ]
 },
 {
-"id": "2011-02-01-gaopeng-launch",
-"date": "2011-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2011-02-28-gaopeng-launch",
+"date": "2011-02-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "Groupon联手腾讯推高朋网，洋团购空降中国",
 "category": "company",
 "region": "cn",
@@ -645,9 +645,9 @@
 ]
 },
 {
-"id": "2011-09-01-snapchat-launch",
-"date": "2011-09-01",
-"date_accuracy": "month",
+"id": "2011-09-16-snapchat-launch",
+"date": "2011-09-16",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "Snapchat上线：阅后即焚挑战永久记录",
 "category": "product",
@@ -782,9 +782,9 @@
 ]
 },
 {
-"id": "2011-11-01-empresses-in-the-palace-airing",
-"date": "2011-11-01",
-"date_accuracy": "month",
+"id": "2011-11-17-empresses-in-the-palace-airing",
+"date": "2011-11-17",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《甄嬛传》开播：宫斗剧天花板诞生",
 "category": "culture",
@@ -1107,33 +1107,6 @@
 "360",
 "搜索",
 "百度"
-]
-},
-{
-"id": "2012-09-01-didi-launch",
-"date": "2012-09-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "嘀嘀打车上线：打车这件事从此改变",
-"category": "product",
-"region": "cn",
-"milestone": false,
-"summary_30s": "嘀嘀打车在北京上线，乘客摇一摇手机就能呼叫附近出租车，司机端还有语音播报。这个解决『雨天打不到车』痛点的小应用，此后引爆了改变中国出行的网约车大战。，一场出行革命从北京的哥的智能手机上开始",
-"detail": "程维从阿里辞职创业，最初被多数投资人看衰，中关村车库咖啡的天使投资救了场。产品抓住司机找活、乘客找车的双向痛点，通过司机补贴与呼叫应答率快速起量。两年后它与快的掀起补贴大战，把移动支付带进了出租车行业。程维后来回忆，产品上线初期响应寥寥，靠手把手帮司机装软件才慢慢起量。",
-"impact": "开启中国网约车时代，出租车行业的利益格局被互联网彻底搅动。",
-"aftermath": "嘀嘀2014年更名滴滴打车，历经与快的、Uber中国的合纵连横，滴滴成为全球出行巨头的中国样本。",
-"sources": [
-{
-"title": "维基百科：滴滴出行",
-"url": "https://zh.wikipedia.org/wiki/滴滴出行",
-"type": "wiki"
-}
-],
-"tags": [
-"产品",
-"滴滴",
-"网约车",
-"出行"
 ]
 },
 {
@@ -1577,10 +1550,10 @@
 ]
 },
 {
-"id": "2014-01-01-wechat-red-packet",
-"date": "2014-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2014-01-28-wechat-red-packet",
+"date": "2014-01-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "微信红包上线：春节社交裂变偷袭支付市场",
 "category": "product",
 "region": "cn",
@@ -1684,36 +1657,6 @@
 "Uber",
 "优步",
 "网约车"
-]
-},
-{
-"id": "2014-04-01-tesla-china-delivery",
-"date": "2014-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "特斯拉向中国车主交付首批Model S",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "马斯克亲自飞抵中国，向首批中国车主交付特斯拉Model S钥匙，土豪们排队加价求车。这款硅谷电动车正式进入全球最大汽车市场，中国新能源浪潮自此多了一个精神图腾。",
-"detail": "2014年春特斯拉在中国开设门店并完成首批交付，预订需等待数月，二手加价一度数十万元。 Model S 的中控大屏与加速能力刷新了中国消费者对汽车的认知，本土新势力创始人纷纷到场取经，蔚来、小鹏、理想此后相继成立。交付仪式上马斯克与车主的合影刷屏科技圈，预订名单此后越排越长。",
-"impact": "特斯拉教育了中国电动车市场，直接催化了中国造车新势力浪潮。",
-"aftermath": "2019年特斯拉上海超级工厂开工，Model 3国产化后价格下探，彻底引爆中国新能源市场。",
-"sources": [
-{
-"title": "维基百科：Tesla, Inc.",
-"url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"能源与气候",
-"交通",
-"文化出口",
-"特斯拉",
-"电动车",
-"Model S"
 ]
 },
 {

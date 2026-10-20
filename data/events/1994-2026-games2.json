@@ -113,9 +113,9 @@
 ]
 },
 {
-"id": "1994-07-01-tie-fighter",
-"date": "1994-07-01",
-"date_accuracy": "month",
+"id": "1994-07-20-tie-fighter",
+"date": "1994-07-20",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《星球大战：TIE战斗机》发售",
 "category": "culture",
@@ -734,34 +734,6 @@
 "地下城守护者",
 "牛蛙",
 "模拟经营"
-]
-},
-{
-"id": "1997-09-24-ultima-online",
-"date": "1997-09-24",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《网络创世纪》（Ultima Online）发售",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "第一款大规模商业成功的图形MMORPG：数千人同服的'虚拟社会'第一次出现，玩家自发的经济、政治与恶行让'虚拟世界'从科幻概念变成日常现实，验证大规模图形MMO的商业与社会可行性，定义了虚拟世界的治理难题。",
-"detail": "1997年9月24日《Ultima Online》上线。理查德·盖瑞特的不列颠尼亚第一次容纳数万人同时生活：玩家可以当铁匠、开店、结成公会，也可以杀人越货，早期无序的玩家杀戮迫使开发者发明'道德系统'与服务器规则。游戏峰值订阅超25万，证明月费模式可行，直接催生了《无尽的任务》与《魔兽世界》。",
-"impact": "验证大规模图形MMO的商业与社会可行性，定义了虚拟世界的治理难题。",
-"aftermath": "UO的玩家经济与公会政治成为此后所有网游的社会学教材，服务器至今仍在运营。",
-"sources": [
-{
-"title": "Wikipedia: 1997 in video games",
-"url": "https://en.wikipedia.org/wiki/1997_in_video_games",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"文化",
-"网络创世纪",
-"MMORPG",
-"Origin"
 ]
 },
 {
@@ -2554,10 +2526,10 @@
 ]
 },
 {
-"id": "2006-04-01-zhengtu",
-"date": "2006-04-01",
-"date_accuracy": "month",
-"date_confidence": "uncertain",
+"id": "2006-04-21-zhengtu",
+"date": "2006-04-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《征途》商业化爆发",
 "category": "culture",
 "region": "cn",
@@ -4589,10 +4561,10 @@
 ]
 },
 {
-"id": "2016-09-01-onmyoji",
-"date": "2016-09-01",
-"date_accuracy": "month",
-"date_confidence": "uncertain",
+"id": "2016-09-02-onmyoji",
+"date": "2016-09-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "网易《阴阳师》上线",
 "category": "culture",
 "region": "cn",

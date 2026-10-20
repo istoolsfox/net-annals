@@ -36,9 +36,9 @@
 ]
 },
 {
-"id": "1994-10-01-doom-ii",
-"date": "1994-10-01",
-"date_accuracy": "month",
+"id": "1994-09-30-doom-ii",
+"date": "1994-09-30",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《毁灭战士2》发售，FPS统治PC的第一波高潮",
 "category": "product",
@@ -484,9 +484,9 @@
 ]
 },
 {
-"id": "1997-09-01-ultima-online",
-"date": "1997-09-01",
-"date_accuracy": "month",
+"id": "1997-09-24-ultima-online",
+"date": "1997-09-24",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《网络创世纪》上线，图形网游时代正式开场",
 "category": "product",
@@ -934,9 +934,9 @@
 ]
 },
 {
-"id": "2000-06-01-china-console-ban",
-"date": "2000-06-01",
-"date_accuracy": "month",
+"id": "2000-06-15-china-console-ban",
+"date": "2000-06-15",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "中国发布“游戏机禁令”，主机市场被封十五年",
 "category": "national",
@@ -997,9 +997,9 @@
 ]
 },
 {
-"id": "2000-11-01-shenmue",
-"date": "2000-11-01",
-"date_accuracy": "month",
+"id": "2000-11-07-shenmue",
+"date": "2000-11-07",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《莎木》登陆欧美，开放世界的烧钱先驱",
 "category": "product",
@@ -1685,9 +1685,9 @@
 ]
 },
 {
-"id": "2005-07-01-hot-coffee",
-"date": "2005-07-01",
-"date_accuracy": "month",
+"id": "2005-07-20-hot-coffee",
+"date": "2005-07-20",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "“热咖啡”事件爆发，GTA被强制改判成人级",
 "category": "culture",
@@ -1728,7 +1728,7 @@
 "region": "world",
 "milestone": false,
 "summary_30s": "2005年9月16日，任天堂社长岩田聪在东京游戏展开幕演讲上，掏出一根像电视遥控器的手柄——Wii遥控器。不用双摇杆，挥动手臂就能挥球拍、挥剑。业界先是一片质疑，一年后Wii横扫千军，主机操作方式从此多了一个流派：动起来玩。",
-"detail": "2005年9月16日东京游戏展 keynote 上，岩田聪首次公开展示代号“Revolution”的次世代主机所配的Wii遥控器（Wii Remote）：内置加速度传感器与指针定位，可单手持握挥动，后续扩展双节棍手柄。当时业界普遍怀疑体感只是噱头，索尼、微软正比拼高清机能；2006年E3任天堂把主机定名Wii并开放试玩，玩家排起长队。2006年11月Wii发售后，《Wii Sports》让全家老少站到电视机前挥拍打保龄，“扩大游戏人口”的战略彻底兑现。",
+"detail": "2005年9月16日东京游戏展主题演讲上，岩田聪首次公开展示代号“Revolution”的次世代主机所配的Wii遥控器（Wii Remote）：内置加速度传感器与指针定位，可单手持握挥动，后续扩展双节棍手柄。当时业界普遍怀疑体感只是噱头，索尼、微软正比拼高清机能；2006年E3任天堂把主机定名Wii并开放试玩，玩家排起长队。2006年11月Wii发售后，《Wii Sports》让全家老少站到电视机前挥拍打保龄，“扩大游戏人口”的战略彻底兑现。",
 "impact": "体感交互成为主流主机功能，任天堂用差异化路线避开机能军备竞赛；运动、健身、休闲品类在主机上大爆发。",
 "aftermath": "索尼PS Move与微软Kinect相继跟进（2010年），体感热潮约五年后退烧；但体感理念延续到Switch的Joy-Con与《健身环大冒险》，任天堂始终是“玩法优先”路线的代表。",
 "sources": [
@@ -2306,9 +2306,9 @@
 ]
 },
 {
-"id": "2008-09-01-spore",
-"date": "2008-09-01",
-"date_accuracy": "month",
+"id": "2008-09-07-spore",
+"date": "2008-09-07",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《孢子》发售，威尔·赖特的“从细胞到宇宙”豪赌",
 "category": "product",
@@ -3000,9 +3000,9 @@
 ]
 },
 {
-"id": "2012-11-01-walking-dead-telltale",
-"date": "2012-11-01",
-"date_accuracy": "month",
+"id": "2012-11-20-walking-dead-telltale",
+"date": "2012-11-20",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《行尸走肉》季终封神，Telltale把“选择”做成武器",
 "category": "product",
@@ -4081,9 +4081,9 @@
 ]
 },
 {
-"id": "2018-03-01-china-license-freeze",
-"date": "2018-03-01",
-"date_accuracy": "month",
+"id": "2018-03-29-china-license-freeze",
+"date": "2018-03-29",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "中国游戏“版号寒冬”：审批暂停九个月",
 "category": "national",
