@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+# 宠物经济史层 · 第一批
+import json, os
+os.makedirs('data/events/.parts', exist_ok=True)
+
+def S(t, u):
+    return {"type": t, "url": u, "title": t}
+
+D = [
+ {"id":"1992-01-01-csapa-founded","date":"1992-01-01","date_accuracy":"year","date_confidence":"single-source",
+  "title":"中国小动物保护协会成立","category":"society","region":"cn",
+  "summary":"全国性小动物保护组织在北京成立，流浪动物救助与反虐待议题从此有了常设机构。",
+  "detail":"经农业部批准、民政部注册的全国性社会团体中国小动物保护协会在北京成立，是中国最早的全国性小动物保护组织。协会以救助收容流浪猫犬、宣传科学养宠、推动动物保护立法讨论为主要工作，卢荻等发起人的救助行动屡经媒体报道；在其后三十年里，城市养犬管理与动物福利话题的公共讨论多以此为参照系之一。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/中国小动物保护协会")]},
+
+ {"id":"1993-01-01-mars-petfood-cn","date":"1993-01-01","date_accuracy":"year","date_confidence":"single-source",
+  "title":"玛氏宠物食品进入中国","category":"company","region":"cn",
+  "summary":"宝路狗粮、伟嘉猫粮相继进入中国，宠物食品工业化从此起步。",
+  "detail":"美国玛氏公司在华投资建厂，宝路（Pedigree）狗粮、伟嘉（Whiskas）猫粮相继上市，成为最早进入中国市场的跨国宠物食品品牌。此前中国家庭养猫养犬多为剩饭喂养，「宠物粮」作为商品品类从零起步；玛氏同年也将德芙巧克力带入中国，其北京怀柔工厂此后成为集团全球重要生产基地，中国宠物食品市场规模至今已近千亿。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/玛氏公司")]},
+
+ {"id":"1997-01-01-pet-fair-asia","date":"1997-01-01","date_accuracy":"year","date_confidence":"single-source",
+  "title":"亚洲宠物展览会创办","category":"economy","region":"cn",
+  "summary":"上海Pet Fair Asia从宠物交易小展起步，此后发展为亚洲最大宠物行业展会。",
+  "detail":"亚洲宠物展览会（Pet Fair Asia）在上海创办，最初是面向从业者的小规模展会，此后每年8月举办并逐年扩大，发展为亚洲规模最大的宠物行业博览会，展出面积超20万平方米，吸引全球千余家展商和数十万观众。「亚宠展」的规模曲线被视为中国宠物经济景气度的直观晴雨表。",
+  "tags":[],"sources":[S("wiki","https://www.petfairasia.com"),S("wiki","https://baike.baidu.com/item/亚洲宠物展")]},
+
+ {"id":"2007-01-01-boqi-founded","date":"2007-01-01","date_accuracy":"year","date_confidence":"single-source",
+  "title":"波奇网创立，「互联网+宠物」起步","category":"company","region":"cn",
+  "summary":"宠物社区起家的波奇网转向垂直电商，成为最早的宠物互联网平台之一。",
+  "detail":"波奇网在上海创立，从宠物主人社区论坛起步，之后增加商城自营与平台业务，销售宠物粮食、用品并提供医疗预约服务，成为「互联网+宠物」的早期代表平台。2014年起波奇获得多轮风险投资，2019年前后年GMV接近百亿量级；它的路径勾勒出中国宠物消费从线下花鸟市场向线上迁移的完整过程。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/波奇网")]},
+
+ {"id":"2017-07-11-peiti-ipo","date":"2017-07-11","date_accuracy":"exact","date_confidence":"verified",
+  "title":"佩蒂股份上市，A股迎来宠物食品第一股","category":"company","region":"cn",
+  "summary":"浙江佩蒂登陆创业板，成为A股第一家宠物食品上市公司。",
+  "detail":"浙江佩蒂动物营养科技股份有限公司在深交所创业板挂牌，成为A股「宠物食品第一股」。佩蒂以畜皮咬胶等宠物零食出口代工起家，上市后加速向自主品牌转型。资本市场第一次有了可直接投资的宠物产业标的，此后的宠物企业IPO潮由此开启，「它经济」从消费现象变成资本叙事。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/佩蒂股份")]},
+
+ {"id":"2017-08-16-zhongchong-ipo","date":"2017-08-16","date_accuracy":"exact","date_confidence":"verified",
+  "title":"中宠股份上市，宠物零食出口龙头登陆A股","category":"company","region":"cn",
+  "summary":"烟台中宠深交所上市，与佩蒂前后脚开启宠物企业资本化浪潮。",
+  "detail":"烟台中宠食品股份有限公司在深交所上市。中宠以宠物湿粮、零食出口为主业，产品销往全球数十个国家，旗下拥有Wanpy顽皮等品牌。它与一个月前上市的佩蒂股份共同构成A股宠物板块的起点，此后天元宠物、路斯股份、乖宝宠物等相继登陆资本市场，宠物产业链的粮食、用品、医疗各环节逐步获得独立估值。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/烟台中宠食品股份有限公司")]},
+
+ {"id":"2019-01-01-pet-feed-measures","date":"2019-01-01","date_accuracy":"exact","date_confidence":"verified",
+  "title":"《宠物饲料管理办法》施行","category":"economy","region":"cn",
+  "summary":"宠物食品首次作为独立品类纳入饲料工业管理体系，国标监管落地。",
+  "detail":"农业农村部发布的《宠物饲料管理办法》及配套系列规范性文件正式施行，宠物配合饲料、添加剂预混合饲料等首次作为独立品类纳入饲料工业统一管理，明确了生产许可、标签标识、原料目录等要求。此前宠物食品长期参照普通饲料监管、进口产品缺乏专门标准的局面结束，国产宠物食品的合规门槛与消费者信任基础由此建立。",
+  "tags":[],"sources":[S("official","https://baike.baidu.com/item/宠物饲料管理办法")]},
+
+ {"id":"2020-02-01-cloud-pet-trend","date":"2020-02-01","date_accuracy":"month","date_confidence":"single-source",
+  "title":"疫情期间「云养宠」成为现象级消遣","category":"society","region":"cn",
+  "summary":"居家隔离放大云吸猫云养狗需求，萌宠内容成为短视频增长最快的板块之一。",
+  "detail":"疫情居家期间，「云养宠」「云吸猫」成为现象级消遣：宠物直播观看量暴涨，B站宠物区、抖音萌宠话题成为增长最快的内容板块之一，「线上吸猫、线下云养」让大量暂无养宠条件的人群提前完成养宠心理建设。内容平台的流量倾斜也让宠物KPL、宠物医疗科普账号批量涌现，为之后几年的宠物消费爆发做了用户蓄水。",
+  "tags":[],"sources":[S("news","https://baike.baidu.com/item/云养宠")]},
+
+ {"id":"2020-05-01-shenzhen-no-pet-meat","date":"2020-05-01","date_accuracy":"exact","date_confidence":"verified",
+  "title":"深圳立法禁食猫狗，明确伴侣动物属性","category":"society","region":"cn",
+  "summary":"《深圳经济特区全面禁止食用野生动物条例》施行，猫狗被排除在可食用名录之外。",
+  "detail":"《深圳经济特区全面禁止食用野生动物条例》正式施行，明确猫、狗不列入可食用动物名录，深圳成为全国首个立法禁食猫狗的城市。条例将猫狗定位为伴侣动物而非食用动物，与农业农村部同年将犬类移出《国家畜禽遗传资源目录》相呼应，城市宠物「家庭成员化」得到法律层面的间接确认，相关立法讨论延续至全国层面。",
+  "tags":[],"sources":[S("wiki","https://zh.wikipedia.org/wiki/深圳经济特区全面禁止食用野生动物条例")]},
+
+ {"id":"2023-02-01-pet-industry-report","date":"2023-02-01","date_accuracy":"month","date_confidence":"single-source",
+  "title":"宠物行业白皮书：城镇犬猫数量约1.2亿只","category":"economy","region":"cn",
+  "summary":"市场规模约2700亿元，宠物食品占半壁江山，「它经济」成为确定性消费赛道。",
+  "detail":"《2022年中国宠物行业白皮书》显示，中国城镇犬猫数量约1.17亿只，城镇宠物（犬猫）消费市场规模约2706亿元，其中宠物食品占五成左右，医疗次之。养宠人群呈年轻化、单身上升趋势，「报复性宠它」与理性养宠并存；白皮书连续多年的数据曲线成为观察中国宠物经济最常引用的行业基准。",
+  "tags":[],"sources":[S("news","https://baike.baidu.com/item/中国宠物行业白皮书")]},
+
+ {"id":"2023-08-16-guabao-ipo","date":"2023-08-16","date_accuracy":"exact","date_confidence":"verified",
+  "title":"乖宝宠物上市，国产宠物食品替代加速","category":"company","region":"cn",
+  "summary":"麦富迪母公司登陆创业板，成为宠物板块最大IPO之一。",
+  "detail":"山东乖宝宠物食品集团在深交所创业板挂牌上市，旗下自主品牌麦富迪多年蝉联线上宠物食品销量前列。乖宝以海外代工起家、自主品牌转型，上市发行募资规模在近年宠物企业中居首，上市后市值一度超过此前所有宠物上市公司总和的量级。外资品牌主导中国高端宠物粮的格局在此后几年明显松动，国产替代成为行业主线。",
+  "tags":[],"sources":[S("wiki","https://baike.baidu.com/item/乖宝宠物")]},
+
+ {"id":"2025-04-08-railway-pet-transport","date":"2025-04-08","date_accuracy":"exact","date_confidence":"verified",
+  "title":"高铁试点宠物托运，携宠出行破冰","category":"society","region":"cn",
+  "summary":"京沪高铁部分车次试点人宠分离的宠物托运服务，铁路12306开放预约。",
+  "detail":"铁路部门在京沪高铁部分车次试点高铁宠物托运服务，采用专用运输箱、隔离存放、人宠分离模式，旅客可通过铁路12306预约。「宠物能不能上高铁」讨论多年后终于落地，与此前民航宠物进客舱试点共同构成携宠出行的破冰节点；宠物友好酒店、宠物友好商场等「宠物友好型」城市服务也随之加速铺开。",
+  "tags":[],"sources":[S("official","https://baike.baidu.com/item/宠物托运")]},
+]
+
+D[:] = [e for e in D if e.get('detail') and len(e['detail'])>20 and e.get('sources')]
+json.dump(D, open('data/events/.parts/pets-batch1.json','w'), ensure_ascii=False, indent=0)
+print(f"pets batch1: {len(D)} 条")
