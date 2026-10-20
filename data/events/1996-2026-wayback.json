@@ -1,62 +1,31 @@
 [
 {
-"id": "1998-12-01-wayback-ihw",
-"date": "1998-12-01",
+"id": "1996-10-22-wayback-geocities",
+"date": "1996-10-22",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "数字考古·瀛海威：1998年的第一张网页存档",
+"title": "数字考古·GeoCities：1996年的最早存档",
 "category": "internet",
-"region": "cn",
+"region": "world",
 "milestone": false,
-"summary_30s": "12月1日，互联网档案馆的镜头第一次对准瀛海威时空——『中国人离信息高速公路有多远？向北1500米』的那块广告牌背后，中国第一代网络家园留下了网页底片。",
-"detail": "瀛海威1995年由张树新创办，是中国最早的商业化 ISP 与网络社区，『瀛海威时空』论坛聚集了第一代网民。但重资产自建骨干网的模式在电信资费下降与门户崛起中节节败退，1998年张树新辞职，2000年公司被收购后转型，2004年瀛海威时空论坛正式关闭。互联网档案馆对 ihw.com.cn 的最早存档定格于1998年12月1日——恰是它由盛转衰的转折年份，首页上还留着『时空』社区的入口。",
-"impact": "初代中国互联网公司的标本被永久保存，成为研究中国互联网源流的珍贵底片。",
-"aftermath": "2004年论坛关闭后域名几经转手；Wayback Machine 里的数百个快照成为瀛海威存在过的最完整证据链。",
+"summary_30s": "10月22日，互联网档案馆存下 geocities.com 的最早快照——这个让网民按『街区』入住、手工搭主页的服务，代表着互联网最天真浪漫的年代：每人都有一块地，家家都在装点自己的小屋。",
+"detail": "GeoCities1994年由大卫·博内特创立（初名Beverly Hills Internet），用户按主题『社区』（如硅谷、好莱坞、雅典）租用主页空间，巅峰期号称全球流量第三的网站。1996年10月的存档快照记录了它招揽『居民』的经典话术。1999年雅虎以约36亿美元收购，此后强制注册、弹窗广告与社交网络的兴起让它急速衰落，2009年10月26日雅虎关闭GeoCities（见本站2009-10-26条目），志愿者抢救了约1TB页面。",
+"impact": "『人人都有主页』的初代互联网精神被档案定格。",
+"aftermath": "Neocities 等复刻项目延续其精神；GeoCities 的闪图与访客计数器成为互联网怀旧美学的代名词。",
 "sources": [
 {
 "title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19981201000000/http://www.ihw.com.cn/",
+"url": "https://web.archive.org/web/19961022000000/http://www.geocities.com/",
 "type": "archive"
 }
 ],
 "tags": [
 "互联网",
-"交通",
 "社会案件",
-"瀛海威",
+"GeoCities",
+"个人主页",
 "数字考古",
-"ISP",
-"张树新"
-]
-},
-{
-"id": "2003-05-29-wayback-taobao",
-"date": "2003-05-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·淘宝网：上线19天后的第一张快照",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "5月29日，互联网档案馆存下了淘宝网的第一张首页快照——距马云在湖畔花园秘密启动这个项目仅过去19天。页面朴素，但『淘！我喜欢』的口号已经挂上，一场改变中国零售的战争悄然开场。",
-"detail": "淘宝网2003年5月10日在杭州湖畔花园创立，是阿里巴巴在非典期间秘密孵化的C2C项目，直接对标当时占据九成市场的国际巨头eBay（易趣）。互联网档案馆5月29日的快照显示，早期淘宝页面简陋、功能单一，却已带有『您只需一口价』『支付宝』（当年10月才正式推出担保交易）等雏形字样。此后易趣、淘宝的免费vs收费之战、2006年eBay撤出中国，都在这本存档里留有逐月的底片。",
-"impact": "中国电子商务史上最重要对决的起点被完整记录。",
-"aftermath": "淘宝此后成长为中国零售基础设施；湖畔花园那间公寓成为阿里圣地，参观要预约。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20030529000000/http://www.taobao.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"军事与战争",
-"社会案件",
-"淘宝",
-"数字考古",
-"C2C",
-"阿里巴巴"
+"怀旧"
 ]
 },
 {
@@ -89,6 +58,151 @@
 ]
 },
 {
+"id": "1997-06-14-wayback-ebay",
+"date": "1997-06-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·eBay：拍卖网站的第一张快照",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "6月14日，互联网档案馆存下 ebay.com 的最早快照——彼时它还叫 AuctionWeb（拍卖网），皮埃尔·奥米迪亚为未婚妻建的PEZ糖果盒交易站，已经长成了世界上最大的跳蚤市场。",
+"detail": "eBay前身 AuctionWeb 1995年9月由皮埃尔·奥米迪亚在其个人页面（ebay.com）上线，1997年6月的存档快照显示网站已改名eBay并宣称完成200万次拍卖，『信任』机制（用户互评）开始成型。1997年9月《人物》杂志关于PEZ分配器的报道让流量爆炸；1998年公司正式成立并上市，梅格·惠特曼出任CEO。此后eBay横扫全球（2002年入股易趣、2004年全资收购，见本站2000-02-29条目），又在中国的免费之战中败给淘宝，2006年撤出中国市场。",
+"impact": "全球C2C拍卖模式的起点被档案保存，『信用评价』至今仍是电商基石。",
+"aftermath": "eBay在收藏品、跨境电商领域长青；那张1997年快照里朴素的功能列表见证了互联网商业的童年。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19970614000000/http://www.ebay.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"eBay",
+"拍卖",
+"C2C",
+"数字考古"
+]
+},
+{
+"id": "1997-12-25-rongshuxia-founded",
+"date": "1997-12-25",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『榕树下』创办：中文网络文学第一站",
+"category": "tech",
+"region": "cn",
+"milestone": true,
+"summary_30s": "1997年12月25日，美籍华人朱威廉在上海创办个人网站『榕树下』，成为中文世界最早的原创网络文学网站。宁财神、李寻欢（路金波）、邢育森等第一代网络写手从这里起步，痞子蔡《第一次的亲密亲密接触》在此被转载传播。『榕树下』",
+"detail": "1997年12月25日，美籍华人朱威廉在上海创办个人网站『榕树下』，成为中文世界最早的原创网络文学网站。宁财神、李寻欢（路金波）、邢育森等第一代网络写手从这里起步，痞子蔡《第一次的亲密亲密接触》在此被转载传播。『榕树下』确立了网络原创文学的编辑制度与作者体系，2002年举办的首届网络文学大赛吸引数万投稿。",
+"impact": "网络写作第一次获得完整的发表体系，中文网络文学从此有了源头活水。",
+"aftermath": "榕树下2004年被贝塔斯曼收购后几经转手走向衰落，但它孵化的作者与商业模式被起点中文网等后继者发扬，网文产业今日的规模由此起步。",
+"sources": [
+{
+"title": "榕树下 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/榕树下",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"网络文学",
+"榕树下",
+"里程碑"
+]
+},
+{
+"id": "1998-11-11-wayback-google",
+"date": "1998-11-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·Google：1998年11月的最早存档",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "11月11日，互联网档案馆存下 google.com 的最早快照——三个月前拉里·佩奇和谢尔盖·布林刚在车库里注册公司，快照里的Google还只是斯坦福数字图书馆计划的一个实验品，Logo里甚至带着彩色的感叹号。",
+"detail": "1998年9月4日，Google公司在加州门洛帕克的车库中注册；11月11日互联网档案馆完成对 google.com 的最早存档。快照里的首页极为简朴：一个彩色Logo（带红色感叹号）、一句『用Google搜索万维网』与少量说明文字，日均搜索量约1万次。这份简朴背后是PageRank算法的革命性——按链接权重排序的结果质量碾压当时的Altavista与雅虎。1999年Google正式脱离测试版，2004年上市，如今Alphabet是全球市值最高的科技公司之一。",
+"impact": "『最好的产品往往始于最简的页面』——这张快照成为产品哲学的经典教材。",
+"aftermath": "Google的『不过时美学』延续至今，首页二十多年几乎未变；每年11月11日这张快照都会被全球极客考古一遍。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19981111000000/http://www.google.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"Google",
+"PageRank",
+"数字考古",
+"车库创业"
+]
+},
+{
+"id": "1998-12-01-wayback-ihw",
+"date": "1998-12-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·瀛海威：1998年的第一张网页存档",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "12月1日，互联网档案馆的镜头第一次对准瀛海威时空——『中国人离信息高速公路有多远？向北1500米』的那块广告牌背后，中国第一代网络家园留下了网页底片。",
+"detail": "瀛海威1995年由张树新创办，是中国最早的商业化 ISP 与网络社区，『瀛海威时空』论坛聚集了第一代网民。但重资产自建骨干网的模式在电信资费下降与门户崛起中节节败退，1998年张树新辞职，2000年公司被收购后转型，2004年瀛海威时空论坛正式关闭。互联网档案馆对 ihw.com.cn 的最早存档定格于1998年12月1日——恰是它由盛转衰的转折年份，首页上还留着『时空』社区的入口。",
+"impact": "初代中国互联网公司的标本被永久保存，成为研究中国互联网源流的珍贵底片。",
+"aftermath": "2004年论坛关闭后域名几经转手；Wayback Machine 里的数百个快照成为瀛海威存在过的最完整证据链。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19981201000000/http://www.ihw.com.cn/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"交通",
+"社会案件",
+"瀛海威",
+"数字考古",
+"ISP",
+"张树新"
+]
+},
+{
+"id": "1998-12-12-wayback-amazon",
+"date": "1998-12-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·亚马逊：1998年的最早存档",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "12月12日，互联网档案馆存下 amazon.com 的最早快照——贝索斯的网上书店已成立三年半，快照里还是『百万种图书』的蓝橙配色页面。从卖书到『卖一切』再到卖云计算，档案记下了每一步。",
+"detail": "亚马逊1995年7月成立，但互联网档案馆直到1998年12月12日才留下最早快照：彼时亚马逊刚完成从书店向音乐、影视与礼品的全品类扩张，页面标语还是『Earth's Biggest Bookstore』（全球最大书店）。这一年亚马逊市值在互联网泡沫中飙升，1999年贝索斯当选《时代》年度人物。2000年泡沫破裂股价跌去九成，亚马逊靠AWS云计算（2006年上线）与Prime体系重生长为万亿美元巨头。",
+"impact": "电商巨头的『书店时代』底片留存，成为讨论长期主义的常用素材。",
+"aftermath": "贝索斯『Day 1』信条年年重申；1998年的老页面每年感恩节季都被电商从业者考古。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19981212000000/http://www.amazon.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"亚马逊",
+"贝索斯",
+"电商",
+"数字考古"
+]
+},
+{
 "id": "1999-01-25-wayback-sohu",
 "date": "1999-01-25",
 "date_accuracy": "exact",
@@ -115,6 +229,122 @@
 "张朝阳",
 "数字考古",
 "门户"
+]
+},
+{
+"id": "1999-10-06-wayback-etang",
+"date": "1999-10-06",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·亿唐：『明黄一代』的最早存档",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "10月6日，互联网档案馆存下 etang.com 的最早快照。亿唐由五位哈佛MBA创办，一句『今天你有否亿唐』的广告语铺满上海街头——这家烧掉近5000万美元的公司，成了第一代互联网泡沫最著名的教科书案例。",
+"detail": "亿唐网1999年6月由唐海松等五位哈佛/芝加哥MBA回国创办，定位『生活资讯+社区+电子商务』的全能门户，凭借漂亮团队轻松融资两轮近5000万美元，『明黄色亿唐装备』的广告让『亿唐』一度成为都市时尚符号。1999年10月的存档快照里，首页还是精心设计的门户矩阵。此后商业模式始终未跑通，互联网寒冬中亿唐急速衰落，把网站与域名卖给亿贝（eBay合作方）后转型手机设计又告失败，2006年公司注销。『生猛开场、潦草谢幕』的亿唐成为MBA课堂的反面教材。",
+"impact": "互联网泡沫时代『豪华团队+宏大叙事』路线失败的完整标本。",
+"aftermath": "『今天你有否亿唐』被评为世纪之交十大烧钱广告语之一；快照里的明黄配色至今刺眼。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19991006000000/http://www.etang.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"亿唐",
+"互联网泡沫",
+"哈佛MBA",
+"数字考古"
+]
+},
+{
+"id": "1999-11-28-wayback-chinaren",
+"date": "1999-11-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·ChinaRen：校友录的最早存档",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "11月28日，互联网档案馆存下 chinaren.com 的最早快照。斯坦福三剑客创办的『中国人』社区靠『校友录』风靡校园——那个毕业十年还靠它找同学的年代，被这张快照永远定格。",
+"detail": "ChinaRen1999年9月由陈一舟、周云帆、杨宁三位斯坦福中国留学生创办，以『校友录』（班级留言板）与『主页大巴』功能迅速攻占高校，翌年注册用户即破百万。2000年9月搜狐以约3000万美元股票收购ChinaRen，陈一舟等进入搜狐任职后相继出走：周云帆、杨宁创办空中网，陈一舟买下校内网改造成千橡/人人网。ChinaRen校友录在人人网与微信的双重挤压下2017年停止服务。",
+"impact": "『同学录』这一中国特色网络应用的原型标本被档案保存。",
+"aftermath": "校友录关闭时引发一代人的集体怀旧；ChinaRen 三剑客的后续故事（空中网、人人网）同样写入了中国互联网史。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/19991128000000/http://www.chinaren.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"ChinaRen",
+"校友录",
+"陈一舟",
+"数字考古"
+]
+},
+{
+"id": "2000-01-18-wayback-joyo",
+"date": "2000-01-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·卓越网：诞生当月即被存档",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1月18日，互联网档案馆存下 joyo.com 的最早快照——卓越网2000年1月刚由金山分拆上线，档案的镜头几乎是踩着它的生日来的。",
+"detail": "卓越网2000年1月由雷军主导的金山软件分拆创立，王树彤任首任CEO，最初走『精品图书+音像』的B2C路线，以《大话西游》VCD等爆品打出『小而精』的名声。2004年9月亚马逊以7500万美元收购卓越网，2007年更名『亚马逊中国』；2019年4月，亚马逊中国停止为第三方卖家服务，电商业务实质退出中国，Kindle 也在2023年告别。2000年1月这张快照里，卓越首页还是典型的『网际直通车』式图书音像导购。",
+"impact": "中国B2C元年的标志性站点留下完整档案，也是『本土电商被巨头收购后水土不服』的经典标本。",
+"aftermath": "卓越网品牌2011年被亚马逊出售给百世? 并最终弃用；雷军的电商梦在小米有品里延续。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/20000118000000/http://www.joyo.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"卓越网",
+"雷军",
+"B2C",
+"数字考古"
+]
+},
+{
+"id": "2000-02-29-wayback-eachnet",
+"date": "2000-02-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·易趣：中国C2C先驱的最早存档",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2月29日，互联网档案馆存下 eachnet.com 的最早快照。邵亦波、谭海音创立的易趣正风光无两，谁能想到六年后它会变成 TOM 的附属品，把整个中国C2C市场拱手让给淘宝。",
+"detail": "易趣网1999年8月由哈佛MBA邵亦波与谭海音在上海创立，是中国第一家C2C拍卖网站，2000年的存档快照显示它已是『网上跳蚤市场』的代名词，一度占据全国C2C九成份额。2002年3月，eBay以3000万美元购入易趣33%股份，次年全额收购并更名『eBay易趣』；随后坚持收费策略的它被坚持免费的淘宝反超，2006年eBay退出中国，易趣品牌沉寂，2012年并入TOM后形同关闭。",
+"impact": "中国C2C『先驱变先烈』的完整标本。",
+"aftermath": "易趣的老用户至今在怀旧帖里晒『易趣第一单』；Wayback 里的数千张快照是它最好的墓志铭。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/20000229000000/http://www.eachnet.com/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"易趣",
+"C2C",
+"邵亦波",
+"数字考古"
 ]
 },
 {
@@ -176,93 +406,6 @@
 ]
 },
 {
-"id": "2000-12-06-wayback-hao123",
-"date": "2000-12-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·hao123：网吧网址之家的最早存档",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "12月6日，互联网档案馆存下 hao123.com 的最早快照。这个由广东兴宁网吧管理员李兴平一个人手工维护的网址导航，正悄悄成为中国互联网最被低估的流量入口。",
-"detail": "hao123由李兴平1999年5月创办：这位只有初中学历的网吧管理员发现，网民记不住网址，就把最好的网站按类别堆在一页上。2000年12月的存档快照里，页面还是纯手工HTML的网址列表，简陋却精准命中了初代网民的需求，日流量很快超过多数门户网站。2004年8月，百度以5000万元现金加股票收购hao123，成为『产品比技术值钱』的经典案例；李兴平随后又创建了4399游戏。",
-"impact": "『一个人＋一个页面』战胜大公司的草根样本被档案定格。",
-"aftermath": "hao123至今仍是百度旗下导航业务，页面气质与二十年前惊人地相似。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20001206000000/http://www.hao123.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"hao123",
-"李兴平",
-"数字考古",
-"网址导航"
-]
-},
-{
-"id": "2000-02-29-wayback-eachnet",
-"date": "2000-02-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·易趣：中国C2C先驱的最早存档",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2月29日，互联网档案馆存下 eachnet.com 的最早快照。邵亦波、谭海音创立的易趣正风光无两，谁能想到六年后它会变成 TOM 的附属品，把整个中国C2C市场拱手让给淘宝。",
-"detail": "易趣网1999年8月由哈佛MBA邵亦波与谭海音在上海创立，是中国第一家C2C拍卖网站，2000年的存档快照显示它已是『网上跳蚤市场』的代名词，一度占据全国C2C九成份额。2002年3月，eBay以3000万美元购入易趣33%股份，次年全额收购并更名『eBay易趣』；随后坚持收费策略的它被坚持免费的淘宝反超，2006年eBay退出中国，易趣品牌沉寂，2012年并入TOM后形同关闭。",
-"impact": "中国C2C『先驱变先烈』的完整标本。",
-"aftermath": "易趣的老用户至今在怀旧帖里晒『易趣第一单』；Wayback 里的数千张快照是它最好的墓志铭。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20000229000000/http://www.eachnet.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"易趣",
-"C2C",
-"邵亦波",
-"数字考古"
-]
-},
-{
-"id": "2000-01-18-wayback-joyo",
-"date": "2000-01-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·卓越网：诞生当月即被存档",
-"category": "internet",
-"region": "cn",
-"milestone": false,
-"summary_30s": "1月18日，互联网档案馆存下 joyo.com 的最早快照——卓越网2000年1月刚由金山分拆上线，档案的镜头几乎是踩着它的生日来的。",
-"detail": "卓越网2000年1月由雷军主导的金山软件分拆创立，王树彤任首任CEO，最初走『精品图书+音像』的B2C路线，以《大话西游》VCD等爆品打出『小而精』的名声。2004年9月亚马逊以7500万美元收购卓越网，2007年更名『亚马逊中国』；2019年4月，亚马逊中国停止为第三方卖家服务，电商业务实质退出中国，Kindle 也在2023年告别。2000年1月这张快照里，卓越首页还是典型的『网际直通车』式图书音像导购。",
-"impact": "中国B2C元年的标志性站点留下完整档案，也是『本土电商被巨头收购后水土不服』的经典标本。",
-"aftermath": "卓越网品牌2011年被亚马逊出售给百世? 并最终弃用；雷军的电商梦在小米有品里延续。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20000118000000/http://www.joyo.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"卓越网",
-"雷军",
-"B2C",
-"数字考古"
-]
-},
-{
 "id": "2000-06-20-wayback-8848",
 "date": "2000-06-20",
 "date_accuracy": "exact",
@@ -293,32 +436,90 @@
 ]
 },
 {
-"id": "1999-11-28-wayback-chinaren",
-"date": "1999-11-28",
+"id": "2000-12-06-wayback-hao123",
+"date": "2000-12-06",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "数字考古·ChinaRen：校友录的最早存档",
+"title": "数字考古·hao123：网吧网址之家的最早存档",
 "category": "internet",
 "region": "cn",
 "milestone": false,
-"summary_30s": "11月28日，互联网档案馆存下 chinaren.com 的最早快照。斯坦福三剑客创办的『中国人』社区靠『校友录』风靡校园——那个毕业十年还靠它找同学的年代，被这张快照永远定格。",
-"detail": "ChinaRen1999年9月由陈一舟、周云帆、杨宁三位斯坦福中国留学生创办，以『校友录』（班级留言板）与『主页大巴』功能迅速攻占高校，翌年注册用户即破百万。2000年9月搜狐以约3000万美元股票收购ChinaRen，陈一舟等进入搜狐任职后相继出走：周云帆、杨宁创办空中网，陈一舟买下校内网改造成千橡/人人网。ChinaRen校友录在人人网与微信的双重挤压下2017年停止服务。",
-"impact": "『同学录』这一中国特色网络应用的原型标本被档案保存。",
-"aftermath": "校友录关闭时引发一代人的集体怀旧；ChinaRen 三剑客的后续故事（空中网、人人网）同样写入了中国互联网史。",
+"summary_30s": "12月6日，互联网档案馆存下 hao123.com 的最早快照。这个由广东兴宁网吧管理员李兴平一个人手工维护的网址导航，正悄悄成为中国互联网最被低估的流量入口。",
+"detail": "hao123由李兴平1999年5月创办：这位只有初中学历的网吧管理员发现，网民记不住网址，就把最好的网站按类别堆在一页上。2000年12月的存档快照里，页面还是纯手工HTML的网址列表，简陋却精准命中了初代网民的需求，日流量很快超过多数门户网站。2004年8月，百度以5000万元现金加股票收购hao123，成为『产品比技术值钱』的经典案例；李兴平随后又创建了4399游戏。",
+"impact": "『一个人＋一个页面』战胜大公司的草根样本被档案定格。",
+"aftermath": "hao123至今仍是百度旗下导航业务，页面气质与二十年前惊人地相似。",
 "sources": [
 {
 "title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19991128000000/http://www.chinaren.com/",
+"url": "https://web.archive.org/web/20001206000000/http://www.hao123.com/",
 "type": "archive"
 }
 ],
 "tags": [
 "互联网",
 "社会案件",
-"ChinaRen",
-"校友录",
-"陈一舟",
-"数字考古"
+"hao123",
+"李兴平",
+"数字考古",
+"网址导航"
+]
+},
+{
+"id": "2001-07-01-napster-shutdown",
+"date": "2001-07-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Napster 被法院勒令关闭：P2P 音乐时代的第一次熄火",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2001年7月，美国法院执行判决，要求Napster停止交换受版权保护的音乐文件，这个巅峰时期拥有8000万用户的P2P音乐共享服务就此熄火。Napster证明了互联网可以瞬间分发全部音乐，也第一次把『文件共享与版权』的",
+"detail": "2001年7月，美国法院执行判决，要求Napster停止交换受版权保护的音乐文件，这个巅峰时期拥有8000万用户的P2P音乐共享服务就此熄火。Napster证明了互联网可以瞬间分发全部音乐，也第一次把『文件共享与版权』的矛盾摆上台面。判决后的空窗期，Kazaa、eDonkey等去中心化网络迅速填补空白。",
+"impact": "版权产业第一次在法庭上赢得对P2P的胜利，但技术扩散已经无法逆转。",
+"aftermath": "唱片业随后的诉讼与自救（iTunes商店、Spotify订阅）重塑了音乐分发；『Napster 一代』成为讨论数字盗版与流媒体付费习惯的关键词。",
+"sources": [
+{
+"title": "Napster - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Napster",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"社会案件",
+"数字考古",
+"Napster",
+"P2P",
+"版权"
+]
+},
+{
+"id": "2001-07-27-wayback-wikipedia",
+"date": "2001-07-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "数字考古·维基百科：上线半年后的最早存档",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "7月27日，互联网档案馆存下 wikipedia.org 的最早快照——上线才半年的维基百科只有约1.5万个英文条目，页面写着『自由开放的百科全书，人人都可以编辑』的朴素宣言。",
+"detail": "维基百科2001年1月15日上线，7月27日的存档快照记录了它最脆弱也最纯粹的阶段：没有丰富的多媒体、没有移动端，条目数以千计而非千万计，靠一小群理想主义者手工维护。此后维基百科以指数速度生长：2002年中文维基上线，2003年维基媒体基金会成立，2010年代条目破3000万。如今它是全球访问量前十的网站、AI时代最重要的开放语料库，而『人人可编辑』的中立协作机制仍是互联网史上最成功的社会实验。",
+"impact": "人类最大协作知识工程的童年底片被保存。",
+"aftermath": "维基媒体每年的募捐横幅仍是网络一景；快照对比成为研究网络知识生产演进的标准素材。",
+"sources": [
+{
+"title": "Internet Archive 首张快照",
+"url": "https://web.archive.org/web/20010727000000/http://www.wikipedia.org/",
+"type": "archive"
+}
+],
+"tags": [
+"互联网",
+"社会案件",
+"维基百科",
+"数字考古",
+"协作",
+"知识"
 ]
 },
 {
@@ -351,90 +552,61 @@
 ]
 },
 {
-"id": "1999-10-06-wayback-etang",
-"date": "1999-10-06",
+"id": "2003-05-29-wayback-taobao",
+"date": "2003-05-29",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "数字考古·亿唐：『明黄一代』的最早存档",
+"title": "数字考古·淘宝网：上线19天后的第一张快照",
 "category": "internet",
 "region": "cn",
 "milestone": false,
-"summary_30s": "10月6日，互联网档案馆存下 etang.com 的最早快照。亿唐由五位哈佛MBA创办，一句『今天你有否亿唐』的广告语铺满上海街头——这家烧掉近5000万美元的公司，成了第一代互联网泡沫最著名的教科书案例。",
-"detail": "亿唐网1999年6月由唐海松等五位哈佛/芝加哥MBA回国创办，定位『生活资讯+社区+电子商务』的全能门户，凭借漂亮团队轻松融资两轮近5000万美元，『明黄色亿唐装备』的广告让『亿唐』一度成为都市时尚符号。1999年10月的存档快照里，首页还是精心设计的门户矩阵。此后商业模式始终未跑通，互联网寒冬中亿唐急速衰落，把网站与域名卖给亿贝（eBay合作方）后转型手机设计又告失败，2006年公司注销。『生猛开场、潦草谢幕』的亿唐成为MBA课堂的反面教材。",
-"impact": "互联网泡沫时代『豪华团队+宏大叙事』路线失败的完整标本。",
-"aftermath": "『今天你有否亿唐』被评为世纪之交十大烧钱广告语之一；快照里的明黄配色至今刺眼。",
+"summary_30s": "5月29日，互联网档案馆存下了淘宝网的第一张首页快照——距马云在湖畔花园秘密启动这个项目仅过去19天。页面朴素，但『淘！我喜欢』的口号已经挂上，一场改变中国零售的战争悄然开场。",
+"detail": "淘宝网2003年5月10日在杭州湖畔花园创立，是阿里巴巴在非典期间秘密孵化的C2C项目，直接对标当时占据九成市场的国际巨头eBay（易趣）。互联网档案馆5月29日的快照显示，早期淘宝页面简陋、功能单一，却已带有『您只需一口价』『支付宝』（当年10月才正式推出担保交易）等雏形字样。此后易趣、淘宝的免费vs收费之战、2006年eBay撤出中国，都在这本存档里留有逐月的底片。",
+"impact": "中国电子商务史上最重要对决的起点被完整记录。",
+"aftermath": "淘宝此后成长为中国零售基础设施；湖畔花园那间公寓成为阿里圣地，参观要预约。",
 "sources": [
 {
 "title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19991006000000/http://www.etang.com/",
+"url": "https://web.archive.org/web/20030529000000/http://www.taobao.com/",
 "type": "archive"
 }
 ],
 "tags": [
 "互联网",
+"军事与战争",
 "社会案件",
-"亿唐",
-"互联网泡沫",
-"哈佛MBA",
-"数字考古"
+"淘宝",
+"数字考古",
+"C2C",
+"阿里巴巴"
 ]
 },
 {
-"id": "1998-11-11-wayback-google",
-"date": "1998-11-11",
-"date_accuracy": "exact",
+"id": "2003-08-01-myspace-launch",
+"date": "2003-08-01",
+"date_accuracy": "month",
 "date_confidence": "verified",
-"title": "数字考古·Google：1998年11月的最早存档",
-"category": "internet",
+"title": "MySpace 上线：社交网络第一个全球霸主诞生",
+"category": "tech",
 "region": "world",
 "milestone": false,
-"summary_30s": "11月11日，互联网档案馆存下 google.com 的最早快照——三个月前拉里·佩奇和谢尔盖·布林刚在车库里注册公司，快照里的Google还只是斯坦福数字图书馆计划的一个实验品，Logo里甚至带着彩色的感叹号。",
-"detail": "1998年9月4日，Google公司在加州门洛帕克的车库中注册；11月11日互联网档案馆完成对 google.com 的最早存档。快照里的首页极为简朴：一个彩色Logo（带红色感叹号）、一句『用Google搜索万维网』与少量说明文字，日均搜索量约1万次。这份简朴背后是PageRank算法的革命性——按链接权重排序的结果质量碾压当时的Altavista与雅虎。1999年Google正式脱离测试版，2004年上市，如今Alphabet是全球市值最高的科技公司之一。",
-"impact": "『最好的产品往往始于最简的页面』——这张快照成为产品哲学的经典教材。",
-"aftermath": "Google的『不过时美学』延续至今，首页二十多年几乎未变；每年11月11日这张快照都会被全球极客考古一遍。",
+"summary_30s": "2003年8月，MySpace 正式上线，凭借自定义主页、音乐人入驻与『好友Top8』玩法，两年内超越Friendster成为全球最大社交网络，2005年被新闻集团5.8亿美元收购，2006年在美国流量超越Google。",
+"detail": "2003年8月，MySpace 正式上线，凭借自定义主页、音乐人入驻与『好友Top8』玩法，两年内超越Friendster成为全球最大社交网络，2005年被新闻集团5.8亿美元收购，2006年在美国流量超越Google。它是第一个真正意义上的全球社交霸主，也是第一个被更年轻的产品（Facebook）迅速取代的霸主。",
+"impact": "社交网络的霸主周期律第一次被完整演示：崛起到更替不足五年。",
+"aftermath": "MySpace的衰败成为产品史经典反面教材（页面臃肿、广告泛滥、战略摇摆）；其音乐人生态孕育了Arctic Monkeys等乐队，也预告了后来网红经济的雏形。",
 "sources": [
 {
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19981111000000/http://www.google.com/",
-"type": "archive"
+"title": "MySpace - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/MySpace",
+"type": "wiki"
 }
 ],
 "tags": [
-"互联网",
-"社会案件",
-"Google",
-"PageRank",
+"科技",
+"文化出口",
 "数字考古",
-"车库创业"
-]
-},
-{
-"id": "2005-04-28-wayback-youtube",
-"date": "2005-04-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·YouTube：上线四天后的第一张快照",
-"category": "internet",
-"region": "world",
-"milestone": false,
-"summary_30s": "4月28日，互联网档案馆存下 youtube.com 的最早快照——此时距三位PayPal前员工注册域名仅过去四天，页面上还没有任何视频，只有『你的个人视频分享站』的预告。谁也不知道这里将诞生21世纪最重要的媒体平台。",
-"detail": "2005年2月14日，查德·赫利、陈士骏与贾德·卡林姆注册YouTube域名（原意是做视频约会网站，转型失败后才改成通用视频分享）；4月23日第一条视频《Me at the zoo》上传，4月28日完成首次存档。快照里尚无视频内容，只有预告页。2005年12月正式公开后因便捷上传与Flash播放器病毒式增长，2006年10月Google以16.5亿美元股票收购。今天YouTube月活超25亿，是全球最大的视频平台与第二大门户流量源。",
-"impact": "『先上线、再找方向』的硅谷式迭代被快照完整捕捉。",
-"aftermath": "卡林姆那条动物园视频播放量超3亿；每年4月28日被粉丝称为『YouTube诞生日』。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20050428000000/http://www.youtube.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"YouTube",
-"数字考古",
-"视频",
-"陈士骏"
+"MySpace",
+"社交网络"
 ]
 },
 {
@@ -467,32 +639,32 @@
 ]
 },
 {
-"id": "2001-07-27-wayback-wikipedia",
-"date": "2001-07-27",
+"id": "2005-04-28-wayback-youtube",
+"date": "2005-04-28",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "数字考古·维基百科：上线半年后的最早存档",
+"title": "数字考古·YouTube：上线四天后的第一张快照",
 "category": "internet",
 "region": "world",
 "milestone": false,
-"summary_30s": "7月27日，互联网档案馆存下 wikipedia.org 的最早快照——上线才半年的维基百科只有约1.5万个英文条目，页面写着『自由开放的百科全书，人人都可以编辑』的朴素宣言。",
-"detail": "维基百科2001年1月15日上线，7月27日的存档快照记录了它最脆弱也最纯粹的阶段：没有丰富的多媒体、没有移动端，条目数以千计而非千万计，靠一小群理想主义者手工维护。此后维基百科以指数速度生长：2002年中文维基上线，2003年维基媒体基金会成立，2010年代条目破3000万。如今它是全球访问量前十的网站、AI时代最重要的开放语料库，而『人人可编辑』的中立协作机制仍是互联网史上最成功的社会实验。",
-"impact": "人类最大协作知识工程的童年底片被保存。",
-"aftermath": "维基媒体每年的募捐横幅仍是网络一景；快照对比成为研究网络知识生产演进的标准素材。",
+"summary_30s": "4月28日，互联网档案馆存下 youtube.com 的最早快照——此时距三位PayPal前员工注册域名仅过去四天，页面上还没有任何视频，只有『你的个人视频分享站』的预告。谁也不知道这里将诞生21世纪最重要的媒体平台。",
+"detail": "2005年2月14日，查德·赫利、陈士骏与贾德·卡林姆注册YouTube域名（原意是做视频约会网站，转型失败后才改成通用视频分享）；4月23日第一条视频《Me at the zoo》上传，4月28日完成首次存档。快照里尚无视频内容，只有预告页。2005年12月正式公开后因便捷上传与Flash播放器病毒式增长，2006年10月Google以16.5亿美元股票收购。今天YouTube月活超25亿，是全球最大的视频平台与第二大门户流量源。",
+"impact": "『先上线、再找方向』的硅谷式迭代被快照完整捕捉。",
+"aftermath": "卡林姆那条动物园视频播放量超3亿；每年4月28日被粉丝称为『YouTube诞生日』。",
 "sources": [
 {
 "title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/20010727000000/http://www.wikipedia.org/",
+"url": "https://web.archive.org/web/20050428000000/http://www.youtube.com/",
 "type": "archive"
 }
 ],
 "tags": [
 "互联网",
 "社会案件",
-"维基百科",
+"YouTube",
 "数字考古",
-"协作",
-"知识"
+"视频",
+"陈士骏"
 ]
 },
 {
@@ -526,90 +698,984 @@
 ]
 },
 {
-"id": "1998-12-12-wayback-amazon",
-"date": "1998-12-12",
+"id": "2008-10-20-wga-black-screen",
+"date": "2008-10-20",
 "date_accuracy": "exact",
 "date_confidence": "verified",
-"title": "数字考古·亚马逊：1998年的最早存档",
-"category": "internet",
-"region": "world",
+"title": "微软『黑屏』计划启动：正版验证的高压实验",
+"category": "tech",
+"region": "cn",
 "milestone": false,
-"summary_30s": "12月12日，互联网档案馆存下 amazon.com 的最早快照——贝索斯的网上书店已成立三年半，快照里还是『百万种图书』的蓝橙配色页面。从卖书到『卖一切』再到卖云计算，档案记下了每一步。",
-"detail": "亚马逊1995年7月成立，但互联网档案馆直到1998年12月12日才留下最早快照：彼时亚马逊刚完成从书店向音乐、影视与礼品的全品类扩张，页面标语还是『Earth's Biggest Bookstore』（全球最大书店）。这一年亚马逊市值在互联网泡沫中飙升，1999年贝索斯当选《时代》年度人物。2000年泡沫破裂股价跌去九成，亚马逊靠AWS云计算（2006年上线）与Prime体系重生长为万亿美元巨头。",
-"impact": "电商巨头的『书店时代』底片留存，成为讨论长期主义的常用素材。",
-"aftermath": "贝索斯『Day 1』信条年年重申；1998年的老页面每年感恩节季都被电商从业者考古。",
+"summary_30s": "2008年10月20日，微软在中国启动Windows XP专业版与Office的正版验证计划（俗称『黑屏』）：未通过验证的电脑每小时桌面变黑一次，并弹出提示。当时中国XP盗版率高达八成，事件引发轩然大波，律师起诉微软侵权",
+"detail": "2008年10月20日，微软在中国启动Windows XP专业版与Office的正版验证计划（俗称『黑屏』）：未通过验证的电脑每小时桌面变黑一次，并弹出提示。当时中国XP盗版率高达八成，事件引发轩然大波，律师起诉微软侵权，舆论激辩『正当维权还是越界控制』。微软随后强调黑屏不影响系统功能，但争议持续发酵。",
+"impact": "中国用户第一次集体直面软件正版化的刚性压力，免费与正版之争成为全民议题。",
+"aftermath": "黑屏风波后正版意识逐步建立：2010年代校园与企业的正版化进程加速，Windows 7/10 的普及配合硬件预装模式，让正版化以更温和的方式完成。",
 "sources": [
 {
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19981212000000/http://www.amazon.com/",
-"type": "archive"
+"title": "微软黑屏 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Windows_正版增值计划",
+"type": "wiki"
 }
 ],
 "tags": [
-"互联网",
-"社会案件",
-"亚马逊",
-"贝索斯",
-"电商",
-"数字考古"
-]
-},
-{
-"id": "1997-06-14-wayback-ebay",
-"date": "1997-06-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·eBay：拍卖网站的第一张快照",
-"category": "internet",
-"region": "world",
-"milestone": false,
-"summary_30s": "6月14日，互联网档案馆存下 ebay.com 的最早快照——彼时它还叫 AuctionWeb（拍卖网），皮埃尔·奥米迪亚为未婚妻建的PEZ糖果盒交易站，已经长成了世界上最大的跳蚤市场。",
-"detail": "eBay前身 AuctionWeb 1995年9月由皮埃尔·奥米迪亚在其个人页面（ebay.com）上线，1997年6月的存档快照显示网站已改名eBay并宣称完成200万次拍卖，『信任』机制（用户互评）开始成型。1997年9月《人物》杂志关于PEZ分配器的报道让流量爆炸；1998年公司正式成立并上市，梅格·惠特曼出任CEO。此后eBay横扫全球（2002年入股易趣、2004年全资收购，见本站2000-02-29条目），又在中国的免费之战中败给淘宝，2006年撤出中国市场。",
-"impact": "全球C2C拍卖模式的起点被档案保存，『信用评价』至今仍是电商基石。",
-"aftermath": "eBay在收藏品、跨境电商领域长青；那张1997年快照里朴素的功能列表见证了互联网商业的童年。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19970614000000/http://www.ebay.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"eBay",
-"拍卖",
-"C2C",
-"数字考古"
-]
-},
-{
-"id": "1996-10-22-wayback-geocities",
-"date": "1996-10-22",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "数字考古·GeoCities：1996年的最早存档",
-"category": "internet",
-"region": "world",
-"milestone": false,
-"summary_30s": "10月22日，互联网档案馆存下 geocities.com 的最早快照——这个让网民按『街区』入住、手工搭主页的服务，代表着互联网最天真浪漫的年代：每人都有一块地，家家都在装点自己的小屋。",
-"detail": "GeoCities1994年由大卫·博内特创立（初名Beverly Hills Internet），用户按主题『社区』（如硅谷、好莱坞、雅典）租用主页空间，巅峰期号称全球流量第三的网站。1996年10月的存档快照记录了它招揽『居民』的经典话术。1999年雅虎以约36亿美元收购，此后强制注册、弹窗广告与社交网络的兴起让它急速衰落，2009年10月26日雅虎关闭GeoCities（见本站2009-10-26条目），志愿者抢救了约1TB页面。",
-"impact": "『人人都有主页』的初代互联网精神被档案定格。",
-"aftermath": "Neocities 等复刻项目延续其精神；GeoCities 的闪图与访客计数器成为互联网怀旧美学的代名词。",
-"sources": [
-{
-"title": "Internet Archive 首张快照",
-"url": "https://web.archive.org/web/19961022000000/http://www.geocities.com/",
-"type": "archive"
-}
-],
-"tags": [
-"互联网",
-"社会案件",
-"GeoCities",
-"个人主页",
+"科技",
 "数字考古",
+"微软",
+"正版化",
+"Windows"
+]
+},
+{
+"id": "2009-04-01-bihai-yinsha-closed",
+"date": "2009-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "碧海银沙聊天室关闭：语音聊天室时代的尾声",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2009年4月，依托湛江电信的『碧海银沙』聊天站宣布关闭。这个1998年上线的语音聊天室曾是中国最大的网络聊天社区之一，鼎盛时期同时在线数万人，是无数网民第一次在网络上用声音认识陌生人的地方。随着QQ群、语音工具与SNS",
+"detail": "2009年4月，依托湛江电信的『碧海银沙』聊天站宣布关闭。这个1998年上线的语音聊天室曾是中国最大的网络聊天社区之一，鼎盛时期同时在线数万人，是无数网民第一次在网络上用声音认识陌生人的地方。随着QQ群、语音工具与SNS兴起，传统聊天室在2008年后批量谢幕。",
+"impact": "Web 1.0 时代最有人情味的社交形态退场，陌生人语音社交的接力棒交给十年后的语音房产品。",
+"aftermath": "2010年代后期，语C、语音开黑、播客连麦等形态重新拾起『声音社交』的需求，老网民则把碧海银沙的ID记忆写进各种怀旧帖。",
+"sources": [
+{
+"title": "聊天室 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/聊天室",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"聊天室",
+"Web1.0"
+]
+},
+{
+"id": "2010-09-28-live-spaces-closed",
+"date": "2010-09-28",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Windows Live Spaces 关闭：千万博客的大迁徙",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2010年9月28日，微软关闭全球博客服务 Windows Live Spaces（前身MSN Spaces）。2008年微软宣布不再投资该产品，与WordPress.com达成迁移协议，数千万用户的博客被迫搬家或归档。",
+"detail": "2010年9月28日，微软关闭全球博客服务 Windows Live Spaces（前身MSN Spaces）。2008年微软宣布不再投资该产品，与WordPress.com达成迁移协议，数千万用户的博客被迫搬家或归档。中文博客圈大批用户在此期间迁移至新浪博客、博客园或独立域名，『搬家公告』成为当年中文博客圈的集体记忆。",
+"impact": "门户托管博客的第一波退潮，个人写作阵地开始向更开放的平台与独立博客迁移。",
+"aftermath": "此后博客托管服务持续收缩：百度空间2015年关闭、网易博客2018年关闭；WordPress与静态博客工具反而因为『不依赖单一平台』成为长情之选。",
+"sources": [
+{
+"title": "Windows Live Spaces - 维基百科",
+"url": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"博客",
+"微软",
+"关闭"
+]
+},
+{
+"id": "2011-06-29-myspace-sold-cheap",
+"date": "2011-06-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "MySpace 3500万美元贱卖：社交王座的五年贬值",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2011年6月29日，新闻集团以约3500万美元将MySpace出售给Specific Media，不足2005年收购价（5.8亿美元）的十分之一。曾经全球流量第一的社交网络，此时月活已被Facebook反超数倍，裁员过",
+"detail": "2011年6月29日，新闻集团以约3500万美元将MySpace出售给Specific Media，不足2005年收购价（5.8亿美元）的十分之一。曾经全球流量第一的社交网络，此时月活已被Facebook反超数倍，裁员过半。Justin Timberlake入股并参与品牌复兴，但大势已去。",
+"impact": "『社交网络护城河有多浅』的第一课，此后被Instagram、TikTok们的更替反复重演。",
+"aftermath": "MySpace此后转型音乐平台又多次易主；2019年其服务器丢失2004-2015年上传的50万首音乐，被称为『数字时代的亚历山大图书馆大火』。",
+"sources": [
+{
+"title": "MySpace - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/MySpace",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"MySpace",
+"新闻集团"
+]
+},
+{
+"id": "2012-01-19-megaupload-raided",
+"date": "2012-01-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Megaupload 被查封：全球最大文件共享站的黄昏",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2012年1月19日，美国司法部联合FBI查封全球著名文件共享网站Megaupload，逮捕创始人Kim Dotcom等多人，指控其助长大规模盗版。查封当晚，Anonymous对环球音乐、司法部等网站发动史上最大规模的报",
+"detail": "2012年1月19日，美国司法部联合FBI查封全球著名文件共享网站Megaupload，逮捕创始人Kim Dotcom等多人，指控其助长大规模盗版。查封当晚，Anonymous对环球音乐、司法部等网站发动史上最大规模的报复性DDoS攻击。事件成为互联网版权战争的分水岭画面。",
+"impact": "云存储盗版链条被司法重击，同时点燃了网络自由派与版权产业的全面对抗。",
+"aftermath": "SOPA/PIPA反盗版法案在随后的网络大抗议中被搁置；Kim Dotcom案历经十余年引渡拉锯，云盘行业则全面转向合规与加密方向。",
+"sources": [
+{
+"title": "Megaupload - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Megaupload",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"军事与战争",
+"探险",
+"文化出口",
+"数字考古",
+"Megaupload",
+"盗版",
+"版权战争"
+]
+},
+{
+"id": "2013-07-01-google-reader-closed",
+"date": "2013-07-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Google Reader 关闭：RSS 黄金时代落幕",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2013年7月1日，谷歌正式关闭RSS阅读器Google Reader。这个2005年上线的工具是RSS阅读的事实标准，培养了全球最深度的『订阅式阅读』人群。关闭决定公布时（2013年3月），Change.org请愿超过",
+"detail": "2013年7月1日，谷歌正式关闭RSS阅读器Google Reader。这个2005年上线的工具是RSS阅读的事实标准，培养了全球最深度的『订阅式阅读』人群。关闭决定公布时（2013年3月），Change.org请愿超过12.5万人签名，科技圈集体哀叹『谷歌杀死了我最爱的产品』。",
+"impact": "RSS从主流退居小众，算法信息流完成对主动订阅阅读的替代。",
+"aftermath": "Feedly、Inoreader等接盘用户；此后每年都有『RSS 复兴』讨论，而信息茧房议题的升温让主动订阅的价值被重新认识。",
+"sources": [
+{
+"title": "Google 阅读器 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Google_阅读器",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"Google Reader",
+"RSS",
+"关闭"
+]
+},
+{
+"id": "2013-08-09-lavabit-shutdown",
+"date": "2013-08-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Lavabit 拒交密钥关站：一台服务器的技术抵抗",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2013年8月9日，斯诺登曾使用的加密邮件服务商Lavabit宣布关闭，创始人Ladar Levison透露美国政府要求交出SSL密钥以监控全部用户邮件，他宁可关站也不交出。斯诺登事件后，这被视为个人技术原则对抗国家监控",
+"detail": "2013年8月9日，斯诺登曾使用的加密邮件服务商Lavabit宣布关闭，创始人Ladar Levison透露美国政府要求交出SSL密钥以监控全部用户邮件，他宁可关站也不交出。斯诺登事件后，这被视为个人技术原则对抗国家监控请求的标志性瞬间。斯诺登本人写道：『我成千上万的邮件都经过他手，他选择了原则。』",
+"impact": "加密服务商的『 warrant canary 』与零知识架构开始成为行业标准诉求。",
+"aftermath": "Lavabit随后开源代码重生；Signal、ProtonMail等端到端加密服务的崛起承接了这波需求，科技巨头也纷纷强化加密对抗政府索钥。",
+"sources": [
+{
+"title": "Lavabit - 维基百科",
+"url": "https://en.wikipedia.org/wiki/Lavabit",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"加密",
+"监控",
+"Lavabit"
+]
+},
+{
+"id": "2013-09-16-tencent-sogou-deal",
+"date": "2013-09-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "腾讯入股搜狗：搜搜并入，搜索格局三分",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2013年9月16日，腾讯宣布4.48亿美元入股搜狗，占股36.5%，并将旗下搜搜业务与QQ输入法并入搜狗。纠缠多年的『3SB』搜索大战（360、搜狗、百度）就此重组：搜狗获得微信与QQ的独家搜索入口，王小川继续掌舵，搜",
+"detail": "2013年9月16日，腾讯宣布4.48亿美元入股搜狗，占股36.5%，并将旗下搜搜业务与QQ输入法并入搜狗。纠缠多年的『3SB』搜索大战（360、搜狗、百度）就此重组：搜狗获得微信与QQ的独家搜索入口，王小川继续掌舵，搜狐退居第二大股东。",
+"impact": "中文搜索从混战进入『百度+搜狗+360』三分格局，搜索入口与社交生态完成绑定。",
+"aftermath": "搜狗2021年被腾讯全资私有化退市，输入法与搜索能力并入腾讯体系；王小川随后投身AI大模型创业。",
+"sources": [
+{
+"title": "搜狗 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/搜狗",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"搜狗",
+"搜索",
+"腾讯"
+]
+},
+{
+"id": "2014-04-08-windows-xp-eol",
+"date": "2014-04-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Windows XP 停止支持：一个时代的操作系统退役",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2014年4月8日，微软正式停止为Windows XP提供安全更新。这个2001年发布、服役13年的系统当时仍占据全球约三成电脑、中国政企与ATM机领域占比更高。全球安全社区为此紧张——XP的漏洞此后永久存在，被黑客视为",
+"detail": "2014年4月8日，微软正式停止为Windows XP提供安全更新。这个2001年发布、服役13年的系统当时仍占据全球约三成电脑、中国政企与ATM机领域占比更高。全球安全社区为此紧张——XP的漏洞此后永久存在，被黑客视为『不设防的金矿』，中国多家机构通过付费定制扩展支持续命。",
+"impact": "操作系统生命周期管理第一次成为全球性公共安全议题，关键基础设施的XP依赖被系统性盘点。",
+"aftermath": "此后中国政务、银行系统分批迁移至Win7/国产Linux；WannaCry勒索软件2017年借XP漏洞横扫全球，验证了退役不等于风险消失。",
+"sources": [
+{
+"title": "Windows XP - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Windows_XP",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"Windows XP",
+"微软",
+"退役"
+]
+},
+{
+"id": "2014-10-01-msn-messenger-retired",
+"date": "2014-10-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "MSN Messenger 全球退役：即时通讯鼻祖谢幕",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2014年10月31日，微软MSN Messenger（Windows Live Messenger）在全球最后的市场完成退役，这个1999年问世的即时通讯软件正式走进历史。MSN曾以个性化头像、签名档、_spaces空",
+"detail": "2014年10月31日，微软MSN Messenger（Windows Live Messenger）在全球最后的市场完成退役，这个1999年问世的即时通讯软件正式走进历史。MSN曾以个性化头像、签名档、_spaces空间定义了一代白领与学生的网络社交，2005年前后在中国的用户规模仅次于QQ，最终在QQ、微信与移动浪潮中步步失守。中国市场于当年8月率先关停。",
+"impact": "PC时代即时通讯的王者完成谢幕，社交产品的迁移速度之快成为行业教科书案例。",
+"aftermath": "微软把资源转向收购来的Skype，后者十年后也被Teams取代——即时通讯霸主平均十年一换的规律再次被验证。",
+"sources": [
+{
+"title": "Windows Live Messenger - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Windows_Live_Messenger",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"MSN",
+"即时通讯",
+"谢幕"
+]
+},
+{
+"id": "2016-10-01-icann-handover",
+"date": "2016-10-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "ICANN 完成移交：美国结束对互联网核心资源的单边管理",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2016年10月1日，美国商务部正式将对互联网号码分配机构（ICANN）的监管权移交全球多利益相关方社区，1998年以来的『美国单边管理』时代结束。移交方案历经两年准备与多轮国会阻力排除，中国、欧盟等此前多次在联合国场合",
+"detail": "2016年10月1日，美国商务部正式将对互联网号码分配机构（ICANN）的监管权移交全球多利益相关方社区，1998年以来的『美国单边管理』时代结束。移交方案历经两年准备与多轮国会阻力排除，中国、欧盟等此前多次在联合国场合质疑的单边性问题获得程序性解决。",
+"impact": "互联网基础资源的全球治理完成里程碑转型，域名与IP分配的制度稳定性得到重申。",
+"aftermath": "移交后ICANN运营未受实质影响；地缘政治对互联网治理的争夺转向内容层与标准层（如各国数据立法、技术标准竞争）。",
+"sources": [
+{
+"title": "互联网名称与数字地址分配机构 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/互联网名称与数字地址分配机构",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"社会案件",
+"文化出口",
+"数字考古",
+"ICANN",
+"互联网治理",
+"里程碑"
+]
+},
+{
+"id": "2016-10-01-netease-forum-closed",
+"date": "2016-10-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "网易论坛关闭：BBS 时代的又一次集体谢幕",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2016年10月31日，网易论坛（含网易新闻论坛）正式停止服务，官方公告称『因业务发展需要』，用户数据限期可导出。这个1999年上线的社区曾与天涯、猫扑并称中文BBS三巨头，『盖楼』『灌水』『版聊』等词汇从这里进入大众语",
+"detail": "2016年10月31日，网易论坛（含网易新闻论坛）正式停止服务，官方公告称『因业务发展需要』，用户数据限期可导出。这个1999年上线的社区曾与天涯、猫扑并称中文BBS三巨头，『盖楼』『灌水』『版聊』等词汇从这里进入大众语言。此前西祠、大旗等老牌论坛已陆续转型或关闭。",
+"impact": "PC论坛作为大众表达场域的时代加速落幕，讨论文化迁移至微博、微信公众号与贴吧。",
+"aftermath": "2017年搜狐社区、2018年凤凰论坛相继关闭；天涯于2023年关停欠费，BBS黄金一代至此几乎全部谢幕，只留下『考古』爱好者整理的存档。",
+"sources": [
+{
+"title": "网易论坛 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/网易",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"BBS",
+"网易论坛",
+"谢幕"
+]
+},
+{
+"id": "2017-01-17-vine-shutdown",
+"date": "2017-01-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Vine 停服：六秒短视频鼻祖之死",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2017年1月17日，Twitter旗下的短视频应用Vine正式关闭。这个2013年上线的六秒循环视频App，捧红了Shawn Mendes等一批创造者，发明了『Vine Famous』文化，其『短-快-洗脑』的内容基因",
+"detail": "2017年1月17日，Twitter旗下的短视频应用Vine正式关闭。这个2013年上线的六秒循环视频App，捧红了Shawn Mendes等一批创造者，发明了『Vine Famous』文化，其『短-快-洗脑』的内容基因被后来的抖音、快手上万亿市值地继承。关停时它月活已从巅峰2亿跌落，创作者因无变现而大规模流失。",
+"impact": "短视频形态的第一位发明者死于无法给创作者付钱，变现能力从此成为内容平台的生死线。",
+"aftermath": "Vine创作者迁移至YouTube后大批成为头部明星；Twitter遗留的Vine存档在2020年代被粉丝整理成『Vine 考古合集』持续流传。",
+"sources": [
+{
+"title": "Vine - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Vine",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"医学",
+"数字考古",
+"Vine",
+"短视频",
+"关闭"
+]
+},
+{
+"id": "2017-04-01-sohu-community-closed",
+"date": "2017-04-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "搜狐社区关闭：门户社区模式终结",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2017年4月20日，搜狐社区正式停止服务。这个1999年上线的门户社区曾以『搜狐BBS』『校友录』服务几代网民，校友录更是中国最早的班级同学录产品之一。关闭公告照例提供数据打包导出，与网易论坛、凤凰论坛的关停前后呼应，",
+"detail": "2017年4月20日，搜狐社区正式停止服务。这个1999年上线的门户社区曾以『搜狐BBS』『校友录』服务几代网民，校友录更是中国最早的班级同学录产品之一。关闭公告照例提供数据打包导出，与网易论坛、凤凰论坛的关停前后呼应，门户网站自建社区的模式至此基本退出历史。",
+"impact": "门户+社区的黄金组合完成历史使命，UGC主场彻底转移至社交平台与算法分发。",
+"aftermath": "校友录的『毕业照记忆』被用户大量导出留存；门户网站此后将社区功能收缩进新闻客户端评论区与狐友等社交尝试。",
+"sources": [
+{
+"title": "搜狐 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/搜狐",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"搜狐",
+"社区",
+"校友录"
+]
+},
+{
+"id": "2017-06-13-yahoo-verizon-deal-done",
+"date": "2017-06-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "雅虎卖身Verizon完成：门户时代的正式谢幕",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2017年6月13日，Verizon以44.8亿美元完成对雅虎核心互联网业务的收购，售价不足2000年巅峰市值（约1250亿美元）的百分之四。收购完成后雅虎更名Altaba，沦为持股阿里巴巴与雅虎日本的投资壳公司。这个定",
+"detail": "2017年6月13日，Verizon以44.8亿美元完成对雅虎核心互联网业务的收购，售价不足2000年巅峰市值（约1250亿美元）的百分之四。收购完成后雅虎更名Altaba，沦为持股阿里巴巴与雅虎日本的投资壳公司。这个定义了90年代互联网门户的公司，以资产剥离方式结束独立历史。",
+"impact": "门户网站的商业模式被正式归档，『雅虎』品牌虽存续，但作为公司的雅虎至此终结。",
+"aftermath": "Verizon将雅虎与AOL打包成Oath（后更名Yahoo），业绩平平后再度转卖；雅虎日本则独立发展成日本最大门户，成为品牌存续的另类样本。",
+"sources": [
+{
+"title": "雅虎 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/雅虎",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"资本市场",
+"数字考古",
+"雅虎",
+"Verizon",
+"谢幕"
+]
+},
+{
+"id": "2018-09-15-qq-pet-shutdown",
+"date": "2018-09-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "QQ宠物停运：电子宠物一代的集体告别",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2018年9月15日，腾讯宣布运营13年的桌面宠物『QQ宠物』正式停止运营。这只2005年诞生的桌面企鹅会敲桌面、会生病、会饿，喂食打工还债的玩法承载了数亿Q龄用户的童年与青春。停运公告引发全网怀旧潮，『再喂最后一碗饭』",
+"detail": "2018年9月15日，腾讯宣布运营13年的桌面宠物『QQ宠物』正式停止运营。这只2005年诞生的桌面企鹅会敲桌面、会生病、会饿，喂食打工还债的玩法承载了数亿Q龄用户的童年与青春。停运公告引发全网怀旧潮，『再喂最后一碗饭』成为当周社交媒体现象。",
+"impact": "中国互联网第一个现象级虚拟陪伴产品谢幕，虚拟宠物玩法此后被链游与AI陪伴产品反复复刻。",
+"aftermath": "腾讯同期停运的还有QQ堂等老游戏；QQ宠物社群的告别帖成为数字时代『宠物墓碑』的典型样本。",
+"sources": [
+{
+"title": "QQ宠物 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/QQ宠物",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"QQ宠物",
+"腾讯",
+"停运",
 "怀旧"
+]
+},
+{
+"id": "2018-10-01-google-plus-shutdown-announce",
+"date": "2018-10-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Google+ 数据泄露曝光：谷歌宣布关停社交网络",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2018年10月8日，《华尔街日报》曝光Google+存在允许第三方应用获取约50万用户数据的API漏洞，谷歌同日宣布将在10个月内关闭消费级Google+。这个2011年为对抗Facebook而生的社交网络，从未达到内",
+"detail": "2018年10月8日，《华尔街日报》曝光Google+存在允许第三方应用获取约50万用户数据的API漏洞，谷歌同日宣布将在10个月内关闭消费级Google+。这个2011年为对抗Facebook而生的社交网络，从未达到内部预期的用户活跃，关停被视为谷歌社交战略的最终清算。",
+"impact": "数据泄露合规第一次直接杀死一款巨头产品，欧洲GDPR生效前夜的最佳警示案例。",
+"aftermath": "Google+于2019年4月正式关闭；谷歌此后再未尝试通用社交网络，转向YouTube社区与即时通讯多次试错。",
+"sources": [
+{
+"title": "Google+ - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Google%2B",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"Google+",
+"数据泄露"
+]
+},
+{
+"id": "2018-11-13-renren-sold-to-duoniu",
+"date": "2018-11-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "人人网2000万美元卖身：中国Facebook的估值归零之路",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2018年11月13日，人人公司宣布以2000万美元对价，将人人网社交平台相关资产出售给北京多牛互动传媒。曾经在纽交所市值一度超过70亿美元的『中国Facebook』，七年时间估值跌去99.7%。公告发出后，无数老用户登",
+"detail": "2018年11月13日，人人公司宣布以2000万美元对价，将人人网社交平台相关资产出售给北京多牛互动传媒。曾经在纽交所市值一度超过70亿美元的『中国Facebook』，七年时间估值跌去99.7%。公告发出后，无数老用户登录已经卡顿的人人网下载青春照片，『人人网考古』成为当周热点。",
+"impact": "中国SNS第一股的彻底落幕，社交平台估值逻辑从用户数叙事转向活跃度与变现的现实。",
+"aftermath": "多牛随后推出怀旧版App试图复活人人网，未能掀起水花；2024年原班人马的『校内网』怀旧重启也只换来一阵打卡。",
+"sources": [
+{
+"title": "人人网 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/人人网",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"资本市场",
+"数字考古",
+"人人网",
+"SNS",
+"卖身"
+]
+},
+{
+"id": "2019-03-01-myspace-music-lost",
+"date": "2019-03-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "MySpace 丢失50万首歌：数字时代的亚历山大图书馆大火",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约50万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发",
+"detail": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约50万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发。科技媒体将其称为『数字时代的亚历山大图书馆大火』。",
+"impact": "平台托管内容的『所有权幻觉』被一次性击穿，创作者备份意识与去中心化存储运动获得最强论据。",
+"aftermath": "IPFS、Arweave等去中心化存储以该事件为经典案例；主流平台此后在服务条款中更明确标注数据保留义务与免责边界。",
+"sources": [
+{
+"title": "MySpace - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/MySpace",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"MySpace",
+"数据丢失"
+]
+},
+{
+"id": "2019-04-02-google-plus-closed",
+"date": "2019-04-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Google+ 正式关闭：谷歌社交战略的清算日",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2019年4月2日，Google+消费版正式关闭，用户照片与内容被删除，八年的社交尝试画上句号。关停前谷歌又披露了第二批漏洞影响5250万用户，加速了进程。企业版Google+（Currents）继续运营数年后也在202",
+"detail": "2019年4月2日，Google+消费版正式关闭，用户照片与内容被删除，八年的社交尝试画上句号。关停前谷歌又披露了第二批漏洞影响5250万用户，加速了进程。企业版Google+（Currents）继续运营数年后也在2023年退役。",
+"impact": "硅谷巨头的『社交执念』宣告终结，资源转向AI与云的信号自此明确。",
+"aftermath": "其Circle圈子、Hangouts视频等遗产散落进Google Photos与Meet；『为什么谷歌做不成社交』成为产品管理课程的长青案例。",
+"sources": [
+{
+"title": "Google+ - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Google%2B",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"Google+",
+"关闭"
+]
+},
+{
+"id": "2020-01-14-windows-7-eol",
+"date": "2020-01-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Windows 7 停止支持：三亿用户的『最后的Win』",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2020年1月14日，微软正式终止Windows 7扩展支持。这个2009年发布、被普遍认为是微软『最好用的系统』的版本，当时仍 run 着全球约四成电脑，中国市场占比更高。微软连发三次『催更』全屏提示，大量政企与个人用",
+"detail": "2020年1月14日，微软正式终止Windows 7扩展支持。这个2009年发布、被普遍认为是微软『最好用的系统』的版本，当时仍 run 着全球约四成电脑，中国市场占比更高。微软连发三次『催更』全屏提示，大量政企与个人用户坚持不换，付费扩展安全更新（ESU）一度卖到2023年。",
+"impact": "Win7的顽固存续拖慢了整个PC产业的软件基线升级，也为2021年Win11的强制TPM要求埋下反弹伏笔。",
+"aftermath": "此后Win10成为新基准并沿用其内核至今；『XP→Win7→Win10』三代同堂的中国政企迁移史，成为国产操作系统替代的窗口期注脚。",
+"sources": [
+{
+"title": "Windows 7 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Windows_7",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"Windows 7",
+"微软",
+"停止支持"
+]
+},
+{
+"id": "2020-07-19-github-arctic-vault",
+"date": "2020-07-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "GitHub 北极代码库：人类代码的千年备份启运",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2020年7月19日，GitHub公布『北极代码库』（Arctic Code Vault）计划：将全球开源项目代码固化在挪威斯瓦尔巴群岛废弃煤矿深处的胶片上，保存在永久冻土层中，设计保存寿命1000年。2020年7月8日",
+"detail": "2020年7月19日，GitHub公布『北极代码库』（Arctic Code Vault）计划：将全球开源项目代码固化在挪威斯瓦尔巴群岛废弃煤矿深处的胶片上，保存在永久冻土层中，设计保存寿命1000年。2020年7月8日首批186箱胶片（包含21TB、近6000个重要开源项目）已埋入北极地窖，Linux、Python、比特币代码与人类文明一起被封存。",
+"impact": "数字文明的『千年备份』从想象变成工程，开源代码被正式当作人类文明遗产保存。",
+"aftermath": "该计划与Internet Archive、Wikipedia存档计划并列；胶片介质可读性千年、读取设备图纸随附的设计细节成为数字保存学的经典方案。",
+"sources": [
+{
+"title": "GitHub - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/GitHub",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"探险",
+"文化出口",
+"数字考古",
+"GitHub",
+"代码保存",
+"里程碑"
+]
+},
+{
+"id": "2020-12-31-flash-eol",
+"date": "2020-12-31",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Flash 正式停止支持：一个交互时代的落幕",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2020年12月31日，Adobe正式终止Flash Player的支持与分发，2021年1月12日起阻止Flash内容运行。这个曾经装机率99%、孕育了《闪客快打》、4399小游戏、千万Flash动画与整个网页互动时代",
+"detail": "2020年12月31日，Adobe正式终止Flash Player的支持与分发，2021年1月12日起阻止Flash内容运行。这个曾经装机率99%、孕育了《闪客快打》、4399小游戏、千万Flash动画与整个网页互动时代的插件，因安全漏洞、移动时代失位与HTML5替代而谢幕。中国区由重盟代理的特供版又多存活了数年，成为全球特例。",
+"impact": "网页互动的第一代基础设施退役，开放Web标准完成对私有插件的彻底替代。",
+"aftermath": "Flash作品抢救项目（如Flashpoint）收录了数十万件作品离线保存；中国区特供版2021年7月停运，『Flash考古』成为游戏与动画史研究者的专门课题。",
+"sources": [
+{
+"title": "Adobe Flash Player - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Adobe_Flash_Player",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"二次元",
+"数字考古",
+"Flash",
+"浏览器",
+"谢幕",
+"里程碑"
+]
+},
+{
+"id": "2021-04-01-xici-hutong-final",
+"date": "2021-04-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "西祠胡同谢幕：老牌社区的最后一声叹息",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年4月30日，运营23年的『西祠胡同』发布关站公告，这个1998年诞生于南京的社区是中国最早实行『虚拟街道+自由建版』的BBS，胡同『版』的自治模式影响深远，《裸奔》《成都今夜请将我遗忘》等早期网文从这里走红。此",
+"detail": "2021年4月30日，运营23年的『西祠胡同』发布关站公告，这个1998年诞生于南京的社区是中国最早实行『虚拟街道+自由建版』的BBS，胡同『版』的自治模式影响深远，《裸奔》《成都今夜请将我遗忘》等早期网文从这里走红。此后站点几度抢救性恢复，2022年最终彻底下线。",
+"impact": "社区自治试验田关闭，中国互联网『小公共空间』的形态史补上最后一笔。",
+"aftermath": "西祠的关停公告下涌进数万条告别留言；研究者将其与天涯、凯迪并列为中国BBS公共性研究的三大标本。",
+"sources": [
+{
+"title": "西祠胡同 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/西祠胡同",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"西祠胡同",
+"BBS",
+"谢幕"
+]
+},
+{
+"id": "2021-09-17-wechat-unblock-links",
+"date": "2021-09-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "微信解除外链屏蔽：互联互通的第一步",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年9月17日，微信开始在一对一聊天场景中解除淘宝、抖音等外部链接的屏蔽，用户可以直接点击打开淘宝商品页与抖音视频，无需再复制口令。这是工信部要求互联网平台『互联互通』整治的直接结果，横亘八年的『封链』时代开始松动",
+"detail": "2021年9月17日，微信开始在一对一聊天场景中解除淘宝、抖音等外部链接的屏蔽，用户可以直接点击打开淘宝商品页与抖音视频，无需再复制口令。这是工信部要求互联网平台『互联互通』整治的直接结果，横亘八年的『封链』时代开始松动。",
+"impact": "超级App的围墙第一次被监管撬动，流量互通成为平台经济的政策新框架。",
+"aftermath": "此后群聊、二维码等场景逐步放开；抖音与腾讯视频达成二创授权，阿里腾讯退款互通等合作陆续推进，但算法推荐与登录体系仍是新边界。",
+"sources": [
+{
+"title": "微信 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/微信",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"互联互通",
+"微信",
+"平台治理"
+]
+},
+{
+"id": "2021-09-24-sogou-privatized",
+"date": "2021-09-24",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "搜狗完成私有化：王小川时代落幕",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2021年9月24日，搜狗公司完成与腾讯的合并交易，从纽交所退市，成为腾讯全资子公司。这个以输入法、浏览器、搜索『三级火箭』著称的公司结束四年上市生涯。创始人王小川卸任CEO，一年后投身百川智能再出发。",
+"detail": "2021年9月24日，搜狗公司完成与腾讯的合并交易，从纽交所退市，成为腾讯全资子公司。这个以输入法、浏览器、搜索『三级火箭』著称的公司结束四年上市生涯。创始人王小川卸任CEO，一年后投身百川智能再出发。",
+"impact": "腾讯搜索版图整合完成，独立搜索引擎公司在中国市场基本消失。",
+"aftermath": "搜狗输入法继续以腾讯系产品运作；王小川的百川智能2023年发布Baichuan大模型，成为大模型创业潮的头部玩家之一。",
+"sources": [
+{
+"title": "搜狗 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/搜狗",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"航天",
+"资本市场",
+"数字考古",
+"搜狗",
+"腾讯",
+"退市"
+]
+},
+{
+"id": "2021-10-04-facebook-outage",
+"date": "2021-10-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Facebook 全球宕机六小时：一家公司的数字帝国断电",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2021年10月4日，Facebook、Instagram、WhatsApp全球同步宕机约六小时，故障源于维护中的BGP路由配置错误导致服务器集体『从互联网消失』，连内部通讯工具和门禁系统都一并失灵，工程师不得不赶到数据",
+"detail": "2021年10月4日，Facebook、Instagram、WhatsApp全球同步宕机约六小时，故障源于维护中的BGP路由配置错误导致服务器集体『从互联网消失』，连内部通讯工具和门禁系统都一并失灵，工程师不得不赶到数据中心物理维修。全球约35亿用户的三大平台同时失联，中小企业电商与跨境通讯大面积中断。",
+"impact": "单一公司基础设施的系统性风险第一次以全球规模展示，去中心化与多平台备份的讨论升温。",
+"aftermath": "扎克伯格公开道歉并强化冗余；行业开始重新审视『全球互联网依赖少数公司』的脆弱性，监管侧对超大型平台的互操作性要求获得论据。",
+"sources": [
+{
+"title": "2021年Facebook宕机事故 - 维基百科",
+"url": "https://en.wikipedia.org/wiki/2021_Facebook_outage",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"文化出口",
+"数字考古",
+"Facebook",
+"宕机",
+"基础设施"
+]
+},
+{
+"id": "2022-05-10-ipod-discontinued",
+"date": "2022-05-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "iPod 产品线终结：口袋音乐的二十年旅程结束",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2022年5月10日，苹果宣布停产iPod touch，iPod产品线就此终结。从2001年『把1000首歌装进口袋』的MP3播放器开始，iPod重新定义了音乐消费、催生了iTunes商店、为iPhone铺平了道路，巅峰",
+"detail": "2022年5月10日，苹果宣布停产iPod touch，iPod产品线就此终结。从2001年『把1000首歌装进口袋』的MP3播放器开始，iPod重新定义了音乐消费、催生了iTunes商店、为iPhone铺平了道路，巅峰时期年销超过5000万台。当iPhone吞掉了所有功能，iPod的使命自然完成。",
+"impact": "单一功能设备的黄金时代落幕，『手机吞噬一切』的产品终局论得到最经典例证。",
+"aftermath": "库克在公告中说『音乐永存』；iPod的滚轮交互、白色耳机线美学成为21世纪初的设计史符号，二手市场价格随后翻倍。",
+"sources": [
+{
+"title": "iPod - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/IPod",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"iPod",
+"苹果",
+"停产"
+]
+},
+{
+"id": "2022-06-02-kindle-china-exit-announce",
+"date": "2022-06-02",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Kindle 退出中国：电子书店一年后停运",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2022年6月2日，亚马逊官宣：Kindle 中国电子书店将于一年后（2023年6月30日）停止运营，此后设备将无法下载新书。Kindle 2013年入华时曾掀起『盖泡面』与阅读器普及浪潮，随着微信读书等本土平台崛起与亚",
+"detail": "2022年6月2日，亚马逊官宣：Kindle 中国电子书店将于一年后（2023年6月30日）停止运营，此后设备将无法下载新书。Kindle 2013年入华时曾掀起『盖泡面』与阅读器普及浪潮，随着微信读书等本土平台崛起与亚马逊全球业务收缩，中国业务最终收摊。官宣当天Kindle全线涨价、电商渠道售罄，被调侃为『一生要强的中国妈妈最后一次买爆Kindle』。",
+"impact": "全球电子书标杆正式退出全球最大智能手机市场，本土阅读生态完成替代。",
+"aftermath": "2023年6月30日书店如期关停，用户获得全额退款窗口；Kindle 退华成为讨论『外来硬件产品水土不服』的标准案例。",
+"sources": [
+{
+"title": "Kindle - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Kindle",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"Kindle",
+"亚马逊",
+"退出中国"
+]
+},
+{
+"id": "2022-06-15-internet-explorer-retired",
+"date": "2022-06-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Internet Explorer 正式退役：27年浏览器的谢幕",
+"category": "tech",
+"region": "world",
+"milestone": true,
+"summary_30s": "2022年6月15日，微软正式停止支持Internet Explorer 11桌面应用，这个1995年诞生的浏览器结束27年生涯。IE曾以捆绑策略拿下95%市场份额、又在反垄断案与标准混乱中衰落，『IE6的十年』让无数前",
+"detail": "2022年6月15日，微软正式停止支持Internet Explorer 11桌面应用，这个1995年诞生的浏览器结束27年生涯。IE曾以捆绑策略拿下95%市场份额、又在反垄断案与标准混乱中衰落，『IE6的十年』让无数前端开发者痛苦不堪。中国政企内网、网银控件对IE的依赖让它的退役在全球范围内最为拖沓。",
+"impact": "浏览器进入Chromium内核寡头时代，Web标准碎片化时代最重要的遗产正式封存。",
+"aftermath": "微软用Edge的IE模式承接政企遗留系统；2023年2月IE桌面应用被强制永久禁用，『兼容模式』成为它的最后一口气。",
+"sources": [
+{
+"title": "Internet Explorer - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Internet_Explorer",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"社会案件",
+"数字考古",
+"IE",
+"浏览器",
+"退役",
+"里程碑"
+]
+},
+{
+"id": "2023-06-01-reddit-api-protest",
+"date": "2023-06-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "Reddit API 风波：社区自治与平台利益的正面冲突",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2023年6月12日，Reddit数千个版块（subreddit）集体设为私密，抗议API收费新政策—— Apollo 等知名第三方客户端因年费2000万美元级账单宣布关停，版主以『罢版』声援。这场持续数周的风波以平台强",
+"detail": "2023年6月12日，Reddit数千个版块（subreddit）集体设为私密，抗议API收费新政策—— Apollo 等知名第三方客户端因年费2000万美元级账单宣布关停，版主以『罢版』声援。这场持续数周的风波以平台强硬让步告终，CEO霍夫曼拒绝退让，多名版主被撤换。",
+"impact": "UGC平台的『社区-公司』契约被重新谈判，第三方生态作为平台制衡力量的脆弱性暴露无遗。",
+"aftermath": "Reddit凭此事前流量与IPO进程未受实质影响（2024年3月成功上市）；Twitter/X的API收费、YouTube的广告屏蔽对抗延续着同一条主线。",
+"sources": [
+{
+"title": "2023年Reddit API争议 - 维基百科",
+"url": "https://en.wikipedia.org/wiki/2023_Reddit_API_controversy",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"政策法规",
+"数字考古",
+"Reddit",
+"API",
+"平台治理"
+]
+},
+{
+"id": "2023-06-30-kindle-store-closed",
+"date": "2023-06-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Kindle 中国电子书店正式关停",
+"category": "tech",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2023年6月30日，Kindle 中国电子书店正式停止运营，中国用户的 Kindle 从此只能阅读本地导入的文件。亚马逊提供了退款与电子书导出通道，无数用户在这天晒出『最后的书架截图』。历时十年的 Kindle 中国故",
+"detail": "2023年6月30日，Kindle 中国电子书店正式停止运营，中国用户的 Kindle 从此只能阅读本地导入的文件。亚马逊提供了退款与电子书导出通道，无数用户在这天晒出『最后的书架截图』。历时十年的 Kindle 中国故事落幕，电子阅读的接力棒交到微信读书、得到与国产阅读器手里。",
+"impact": "标志性海外内容服务完成退出流程，数字资产迁移与用户善后成为行业参照。",
+"aftermath": "国产电纸书（掌阅、文石、汉王）迎来一波换机潮；『电子书所有权』问题因这次关停被广泛讨论。",
+"sources": [
+{
+"title": "Kindle - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Kindle",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"数字考古",
+"Kindle",
+"关停",
+"电子书"
+]
+},
+{
+"id": "2024-07-19-crowdstrike-blue-screen",
+"date": "2024-07-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『7·19』全球蓝屏：一次更新瘫痪半个数字世界",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2024年7月19日，网络安全公司CrowdStrike向Windows推送的一行有缺陷的配置更新，引发全球约850万台电脑蓝屏死机：航班停飞、医院停诊、银行与电视台中断，成为史上最大规模的IT事故之一。修复需要逐台物理",
+"detail": "2024年7月19日，网络安全公司CrowdStrike向Windows推送的一行有缺陷的配置更新，引发全球约850万台电脑蓝屏死机：航班停飞、医院停诊、银行与电视台中断，成为史上最大规模的IT事故之一。修复需要逐台物理操作，混乱持续数日。微软与CrowdStrike互相甩锅的同时，全球开始重审『单一安全供应商』的系统性风险。",
+"impact": "关键基础设施对单一内核级代理的依赖被定性为全球性风险，安全软件的权限与测试流程进入监管视野。",
+"aftermath": "多国监管机构对CrowdStrike启动调查；行业推动Windows端点安全生态开放内核接口标准化，冗余与灰度发布成为终端安全的强制议题。",
+"sources": [
+{
+"title": "2024年CrowdStrike事件 - 维基百科",
+"url": "https://en.wikipedia.org/wiki/2024_CrowdStrike_incident",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"医学",
+"灾难事故",
+"文化出口",
+"数字考古",
+"蓝屏",
+"安全事故",
+"Windows"
+]
+},
+{
+"id": "2025-05-05-skype-shutdown",
+"date": "2025-05-05",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Skype 正式停运：网络电话先驱谢幕",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "2025年5月5日，微软正式关闭Skype服务，这个2003年上线的网络电话软件结束22年生涯。Skype曾以『免费打国际电话』颠覆电信业，巅峰期用户超过6亿，『Skype 一下』成为跨国联络的代名词。收购价85亿美元的",
+"detail": "2025年5月5日，微软正式关闭Skype服务，这个2003年上线的网络电话软件结束22年生涯。Skype曾以『免费打国际电话』颠覆电信业，巅峰期用户超过6亿，『Skype 一下』成为跨国联络的代名词。收购价85亿美元的它在Zoom疫情爆发与Teams内部替代下逐步边缘化，微软最终将用户整体迁移至Teams。",
+"impact": "互联网颠覆电信业的第一个传奇完成谢幕，巨头内部产品迭代替代外来收购品的路径再次上演。",
+"aftermath": "Skype的账号、余额与聊天记录提供Teams迁移通道；其P2P语音架构被学界作为分布式通信的经典教材留存。",
+"sources": [
+{
+"title": "Skype - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/Skype",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"通信",
+"数字考古",
+"Skype",
+"微软",
+"停运"
 ]
 }
 ]

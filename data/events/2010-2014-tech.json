@@ -1001,34 +1001,6 @@
 ]
 },
 {
-"id": "2012-05-18-facebook-ipo",
-"date": "2012-05-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook登陆纳斯达克：史上最大科技IPO之一",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "28岁的扎克伯格在自家办公室远程按下开市按钮，Facebook以1040亿美元估值上市，融资160亿美元，创下当时科技股IPO之最。首日交易因系统故障一度混乱，这家社交巨头的资本时代正式开场。",
-"detail": "Facebook上市前拥有9亿用户，IPO定价38美元、募资160亿美元，是当时美国历史上规模最大的科技公司上市之一。上市首日纳斯的电子交易系统出现故障导致成交确认延迟，随后数月股价一度腰斩，让许多投资人质疑社交网络的真实价值。扎克伯格当天身着标志性的连帽衫，没有出现在交易所现场，只在公司总部按下开市按钮。",
-"impact": "社交网络的商业模式经受住资本检验，此后广告效率提升带动股价与市值长期攀升。",
-"aftermath": "Facebook后来陆续吞并Instagram与WhatsApp，2021年更名Meta转向元宇宙叙事。",
-"sources": [
-{
-"title": "维基百科：Facebook",
-"url": "https://zh.wikipedia.org/wiki/Facebook",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"资本市场",
-"Facebook",
-"扎克伯格",
-"上市"
-]
-},
-{
 "id": "2012-06-18-surface-unveil",
 "date": "2012-06-18",
 "date_accuracy": "exact",
@@ -1522,34 +1494,6 @@
 ]
 },
 {
-"id": "2013-09-16-tencent-invests-sogou",
-"date": "2013-09-16",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "腾讯4.48亿美元入股搜狗：搜索三分归晋",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "腾讯宣布4.48亿美元入股搜狗并将搜搜并入，王小川保住了独立地位，周鸿祎的『搜狗嫁360』方案落空。中国搜索市场形成百度、搜狗、360三分的新格局。，王小川守住了搜狗的独立性",
-"detail": "此前360曾试图吞并搜狗补齐流量短板，张朝阳一度倾向成交，王小川则以腾讯方案绝地翻盘。合并后搜狗独家接入微信公众账号搜索，成为『能搜微信公众号』的唯一入口，流量与想象空间都为之一振。周鸿祎与王小川的恩怨自此翻页，360转而独自深耕行业第二的位置。",
-"impact": "搜索大战从混战收敛为三强，腾讯以投资代替亲自下场的策略再度奏效。",
-"aftermath": "搜狗2020年被腾讯全资私有化，王小川离场转向AI创业。",
-"sources": [
-{
-"title": "维基百科：搜狗",
-"url": "https://zh.wikipedia.org/wiki/搜狗",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"社会案件",
-"腾讯",
-"搜狗",
-"搜索"
-]
-},
-{
 "id": "2013-09-17-gta-v-launch",
 "date": "2013-09-17",
 "date_accuracy": "exact",
@@ -1576,33 +1520,6 @@
 "GTA5",
 "游戏",
 "Rockstar"
-]
-},
-{
-"id": "2013-10-11-dad-where-are-we-going",
-"date": "2013-10-11",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《爸爸去哪儿》首播：亲子综艺一夜爆红",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "湖南卫视引进韩国模式的亲子真人秀《爸爸去哪儿》开播，林志颖父子、田亮父女等五对星爸萌娃的乡村旅行萌翻全国。节目收视率碾压同时段，萌娃代言费一夜暴涨，亲子综艺自此扎堆。",
-"detail": "节目以明星父亲独自带娃的日常为卖点，Kimi、森碟、王诗龄等萌娃成为全民宠儿。它精准踩中独生子女时代的育儿焦虑与真人秀的新鲜感，广告费节节攀升，后续几季持续制造话题，也带动各卫视引进韩综的热潮。萌娃的口头禅与表情包席卷网络，同名大电影次年春节档狂揽近7亿票房。",
-"impact": "开启中国亲子综艺与韩国模式引进的黄金期，星二代与萌娃经济自此成风。",
-"aftermath": "亲子综艺扎堆后审美疲劳，行业随后转向原创与网综；《爸爸去哪儿》成为一代人的综艺记忆。",
-"sources": [
-{
-"title": "维基百科：爸爸去哪儿",
-"url": "https://zh.wikipedia.org/wiki/爸爸去哪儿",
-"type": "wiki"
-}
-],
-"tags": [
-"文化",
-"爸爸去哪儿",
-"综艺",
-"湖南卫视"
 ]
 },
 {

@@ -174,11 +174,11 @@ const Timeline = {
         <div class="sec"><span class="lab">影响</span><p>${esc(e.impact)}</p></div>
         <div class="sec"><span class="lab">后续</span><p>${esc(e.aftermath)}</p></div>
         <div class="sec"><span class="lab">数据来源</span><ul class="srcList">${e.sources.map(s =>
-          `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>
+          `<li><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>
       </div></div>`;
   },
 
-  /** 筛选变化：全部重建（简单正确优先；900 条的字符串过滤开销可忽略） */
+  /** 筛选变化：全部重建（简单正确优先；三千余条的字符串过滤开销可忽略） */
   rebuild() {
     const n = Store.visibleCount();
     document.getElementById('qCount').textContent = n === Store.events.length ? '' : `${n} 条`;

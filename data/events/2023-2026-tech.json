@@ -3305,36 +3305,6 @@
 ]
 },
 {
-"id": "2024-06-18-nvidia-3t",
-"date": "2024-06-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "英伟达市值超越苹果、微软登顶全球第一",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "6月18日英伟达市值收盘突破3.3万亿美元，超越微软成为全球市值最高公司，AI算力叙事登顶。",
-"detail": "受益于AI数据中心需求爆发与股价年内涨超170%，英伟达市值首次超过苹果与微软成为全球第一，从2023年5月突破1万亿到登顶只用约一年。黄仁勋称世界正处于「新工业革命」的开端。",
-"impact": "AI基础设施公司首次坐上全球市值头把交椅。",
-"aftermath": "2025年1月DeepSeek冲击、7月破4万亿、10月破5万亿，波动中上行。",
-"sources": [
-{
-"title": "Nvidia",
-"url": "https://en.wikipedia.org/wiki/Nvidia",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"人工智能",
-"资本市场",
-"探险",
-"文化出口",
-"英伟达",
-"市值"
-]
-},
-{
 "id": "2024-06-20-claude35",
 "date": "2024-06-20",
 "date_accuracy": "exact",
@@ -3489,6 +3459,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "医学",
 "交通",
 "文化出口",
@@ -4794,34 +4765,6 @@
 "人工智能",
 "OpenAI",
 "推理模型"
-]
-},
-{
-"id": "2025-04-19-robot-marathon",
-"date": "2025-04-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "全球首个人形机器人半程马拉松在北京开跑",
-"category": "culture",
-"region": "cn",
-"milestone": false,
-"summary_30s": "4月19日北京亦庄举办全球首个人形机器人半程马拉松，天工Ultra以2小时40分完成21公里夺冠。",
-"detail": "20支人形机器人队伍与人类选手同场不同赛道竞技，天工Ultra（北京人形机器人创新中心）率先完赛，松延动力小顽童获亚军。比赛暴露出换电、散热与步态稳定性问题，也把人形机器人「从展台到跑道」拉进现实。",
-"impact": "人形机器人竞技成为产业热度的具象化舞台。",
-"aftermath": "此后机器人运动会、格斗赛等赛事密集举办。",
-"sources": [
-{
-"title": "世界人形机器人运动会",
-"url": "https://zh.wikipedia.org/wiki/人形机器人",
-"type": "wiki"
-}
-],
-"tags": [
-"文化",
-"人工智能",
-"文化出口",
-"机器人",
-"赛事"
 ]
 },
 {

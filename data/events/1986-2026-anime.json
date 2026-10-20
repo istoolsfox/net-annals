@@ -66,7 +66,7 @@
 {
 "id": "1987-01-01-jojo-serialization-begins",
 "date": "1987-01-01",
-"date_accuracy": "year",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《JOJO的奇妙冒险》开始连载：横跨百年的怪奇史诗",
 "category": "culture",
@@ -366,7 +366,7 @@
 {
 "id": "1990-10-01-slam-dunk-manga-serialization",
 "date": "1990-10-01",
-"date_accuracy": "month",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《灌篮高手》漫画开始连载：把篮球画成热血诗",
 "category": "culture",
@@ -573,9 +573,9 @@
 ]
 },
 {
-"id": "1994-01-01-jump-record-circulation",
-"date": "1994-01-01",
-"date_accuracy": "year",
+"id": "1994-12-20-jump-record-circulation",
+"date": "1994-12-20",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《周刊少年Jump》单期发行量653万册：纸媒漫画的极限",
 "category": "culture",
@@ -644,9 +644,9 @@
 ]
 },
 {
-"id": "1994-04-01-ruroken-kenshin-manga-serialization",
-"date": "1994-04-01",
-"date_accuracy": "month",
+"id": "1994-04-12-ruroken-kenshin-manga-serialization",
+"date": "1994-04-12",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "《浪客剑心》漫画开始连载：不杀之誓的明治剑客",
 "category": "culture",
@@ -1015,6 +1015,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "里程碑",
 "文化出口",
 "二次元",
@@ -1448,10 +1449,10 @@
 ]
 },
 {
-"id": "2003-10-01-world-cosplay-summit-first",
-"date": "2003-10-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2003-10-12-world-cosplay-summit-first",
+"date": "2003-10-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "首届世界COSPLAY峰会在名古屋举行",
 "category": "culture",
 "region": "world",
@@ -1508,10 +1509,10 @@
 ]
 },
 {
-"id": "2004-01-01-chinajoy-first-edition",
-"date": "2004-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2004-01-16-chinajoy-first-edition",
+"date": "2004-01-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "首届ChinaJoy在北京开幕：中国游戏产业有了自己的展览",
 "category": "company",
 "region": "cn",
@@ -1625,10 +1626,10 @@
 ]
 },
 {
-"id": "2005-08-01-pleasant-goat-premiere",
-"date": "2005-08-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2005-08-03-pleasant-goat-premiere",
+"date": "2005-08-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《喜羊羊与灰太狼》首播：中国孩子的国民动画",
 "category": "culture",
 "region": "cn",
@@ -1801,10 +1802,10 @@
 ]
 },
 {
-"id": "2007-02-01-qin-shi-ming-yue-premiere",
-"date": "2007-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2007-02-14-qin-shi-ming-yue-premiere",
+"date": "2007-02-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《秦时明月》首播：3D国漫的先行者",
 "category": "culture",
 "region": "cn",
@@ -2097,9 +2098,9 @@
 ]
 },
 {
-"id": "2010-06-01-lovelive-project-launch",
-"date": "2010-06-01",
-"date_accuracy": "month",
+"id": "2010-05-29-lovelive-project-launch",
+"date": "2010-05-29",
+"date_accuracy": "exact",
 "date_confidence": "single-source",
 "title": "LoveLive!企划启动：『我们没有成员，只有你们』",
 "category": "culture",
@@ -2246,10 +2247,10 @@
 ]
 },
 {
-"id": "2012-01-01-boonie-bears-premiere",
-"date": "2012-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2012-01-19-boonie-bears-premiere",
+"date": "2012-01-19",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《熊出没》首播：光头强与熊大熊二的森林战争",
 "category": "culture",
 "region": "cn",
@@ -2691,10 +2692,10 @@
 ]
 },
 {
-"id": "2016-12-01-kizuna-ai-debut",
-"date": "2016-12-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2016-11-29-kizuna-ai-debut",
+"date": "2016-11-29",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "绊爱出道：『Virtual YouTuber』元祖登场",
 "category": "culture",
 "region": "world",
@@ -2750,10 +2751,10 @@
 ]
 },
 {
-"id": "2017-12-01-hololive-launch",
-"date": "2017-12-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2017-12-21-hololive-launch",
+"date": "2017-12-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "hololive 企划启动：VTuber 黄金时代的引擎点火",
 "category": "company",
 "region": "world",
@@ -2875,10 +2876,10 @@
 ]
 },
 {
-"id": "2018-07-01-bilibili-world-first",
-"date": "2018-07-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2017-07-21-bilibili-world-first",
+"date": "2017-07-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "首届Bilibili World开幕：B站的线下漫展矩阵成型",
 "category": "culture",
 "region": "cn",
@@ -3655,10 +3656,10 @@
 ]
 },
 {
-"id": "2026-01-01-frieren-season-2-premiere",
-"date": "2026-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2026-01-16-frieren-season-2-premiere",
+"date": "2026-01-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《葬送的芙莉莲》第二季开播：千年旅途的续章",
 "category": "culture",
 "region": "world",

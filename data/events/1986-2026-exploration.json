@@ -30,10 +30,10 @@
 ]
 },
 {
-"id": "1986-06-01-yangtze-rafting-fever",
-"date": "1986-06-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1986-06-16-yangtze-rafting-fever",
+"date": "1986-06-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "长江漂流热：一场全民狂热的探险竞赛与十人牺牲",
 "category": "society",
 "region": "cn",
@@ -210,10 +210,10 @@
 ]
 },
 {
-"id": "1988-05-01-venables-everest-east-face",
-"date": "1988-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1988-05-12-venables-everest-east-face",
+"date": "1988-05-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "维纳布尔斯东壁登顶珠峰：珠峰已知最险路线被攻克",
 "category": "world",
 "region": "world",
@@ -301,10 +301,10 @@
 ]
 },
 {
-"id": "1988-10-01-bradey-first-woman-no-oxygen",
-"date": "1988-10-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1988-10-14-bradey-first-woman-no-oxygen",
+"date": "1988-10-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "布莱迪无氧登顶珠峰：首位不吸氧登上世界之巅的女性",
 "category": "world",
 "region": "world",
@@ -393,9 +393,9 @@
 ]
 },
 {
-"id": "1989-11-01-vendee-globe-first",
-"date": "1989-11-01",
-"date_accuracy": "month",
+"id": "1989-11-26-vendee-globe-first",
+"date": "1989-11-26",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "首届旺代环球帆船赛启航：单人不停靠环球的终极考场",
 "category": "world",
@@ -423,10 +423,10 @@
 ]
 },
 {
-"id": "1990-02-01-messner-fuchs-antarctica",
-"date": "1990-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1990-02-12-messner-fuchs-antarctica",
+"date": "1990-02-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "梅斯纳尔与富克斯无犬橇横穿南极：旧方式与新方式的分水岭",
 "category": "world",
 "region": "world",
@@ -453,10 +453,10 @@
 ]
 },
 {
-"id": "1990-03-01-trans-antarctica-mirny",
-"date": "1990-03-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1990-03-03-trans-antarctica-mirny",
+"date": "1990-03-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "六国犬橇队抵达米尔尼：人类首次狗橇横穿南极完成",
 "category": "world",
 "region": "cn",
@@ -484,9 +484,9 @@
 ]
 },
 {
-"id": "1990-05-01-sea-to-summit-everest",
-"date": "1990-05-01",
-"date_accuracy": "month",
+"id": "1990-05-11-sea-to-summit-everest",
+"date": "1990-05-11",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "从海平面走到珠峰之巅：麦克阿特尼-斯内普的『海到巅』远征",
 "category": "world",
@@ -514,9 +514,9 @@
 ]
 },
 {
-"id": "1990-05-01-kagge-ousland-north-pole",
-"date": "1990-05-01",
-"date_accuracy": "month",
+"id": "1990-05-04-kagge-ousland-north-pole",
+"date": "1990-05-04",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "卡格与厄斯兰无补给抵达北极点：极地探险的新生代登场",
 "category": "world",
@@ -544,9 +544,9 @@
 ]
 },
 {
-"id": "1991-01-01-pacific-flyer-balloon",
-"date": "1991-01-01",
-"date_accuracy": "month",
+"id": "1991-01-15-pacific-flyer-balloon",
+"date": "1991-01-15",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "布兰森与林德斯特兰德飞越太平洋：热气球远征的巅峰一役",
 "category": "world",
@@ -664,9 +664,9 @@
 ]
 },
 {
-"id": "1992-11-01-vendee-globe-second",
-"date": "1992-11-01",
-"date_accuracy": "month",
+"id": "1992-11-22-vendee-globe-second",
+"date": "1992-11-22",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "第二届旺代环球起航：出发首日就有人葬身大海",
 "category": "world",
@@ -684,6 +684,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "航海",
 "旺代环球",
@@ -784,10 +785,10 @@
 ]
 },
 {
-"id": "1994-01-01-ousland-solo-north-pole",
-"date": "1994-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "1994-04-22-ousland-solo-north-pole",
+"date": "1994-04-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "厄斯兰独自远征北极点：一个人拖橇走到世界之顶",
 "category": "world",
 "region": "world",
@@ -966,10 +967,10 @@
 ]
 },
 {
-"id": "1996-11-01-vendee-globe-96",
-"date": "1996-11-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "1996-11-03-vendee-globe-96",
+"date": "1996-11-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "旺代环球最惨烈一届起航：南大洋的连环海难拉开序幕",
 "category": "world",
 "region": "world",
@@ -986,6 +987,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "航海",
 "旺代环球",
@@ -1016,6 +1018,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "航海",
 "旺代环球",
@@ -1106,6 +1109,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "探险",
 "热气球",
@@ -1238,10 +1242,10 @@
 ]
 },
 {
-"id": "2000-05-01-lhakpa-first-nepali-woman",
-"date": "2000-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2000-05-18-lhakpa-first-nepali-woman",
+"date": "2000-05-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "拉克帕·夏尔巴登顶珠峰：首位站上世界之巅的尼泊尔女性",
 "category": "world",
 "region": "world",
@@ -1299,10 +1303,10 @@
 ]
 },
 {
-"id": "2000-11-01-bancroft-arnesen-antarctica",
-"date": "2000-11-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2000-11-13-bancroft-arnesen-antarctica",
+"date": "2000-11-13",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "班克罗夫特与阿恩森出征南极：全女性队伍挑战横穿大陆",
 "category": "world",
 "region": "world",
@@ -1329,10 +1333,10 @@
 ]
 },
 {
-"id": "2001-02-01-bancroft-arnesen-south-pole",
-"date": "2001-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2001-02-11-bancroft-arnesen-south-pole",
+"date": "2001-02-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "全女性队伍滑雪抵达南极点：极地探险史的女性时刻",
 "category": "world",
 "region": "world",
@@ -1359,10 +1363,10 @@
 ]
 },
 {
-"id": "2001-02-01-macarthur-vendee-second",
-"date": "2001-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2001-02-11-macarthur-vendee-second",
+"date": "2001-02-11",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "麦克阿瑟旺代环球亚军：二十四岁女孩改写单人环球的想象",
 "category": "world",
 "region": "world",
@@ -1470,6 +1474,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "社会案件",
 "探险",
@@ -1481,9 +1486,9 @@
 ]
 },
 {
-"id": "2003-05-01-wang-shi-everest-50th",
-"date": "2003-05-01",
-"date_accuracy": "month",
+"id": "2003-05-22-wang-shi-everest-50th",
+"date": "2003-05-22",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "王石登顶珠峰：登顶五十周年纪念与中国企业家登山元年",
 "category": "society",
@@ -1511,10 +1516,10 @@
 ]
 },
 {
-"id": "2003-05-01-lhakpa-gelu-speed-record",
-"date": "2003-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2003-05-26-lhakpa-gelu-speed-record",
+"date": "2003-05-26",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "拉帕·盖卢十小时五十六分登顶珠峰：夏尔巴速攀时代的开幕",
 "category": "world",
 "region": "world",
@@ -1572,9 +1577,9 @@
 ]
 },
 {
-"id": "2004-02-01-joyon-72-day-record",
-"date": "2004-02-01",
-"date_accuracy": "month",
+"id": "2004-02-04-joyon-72-day-record",
+"date": "2004-02-04",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "乔永七十二天单人环球：帆船纪录一夜快了二十天",
 "category": "world",
@@ -1602,10 +1607,10 @@
 ]
 },
 {
-"id": "2004-05-01-pemba-dorje-record-dispute",
-"date": "2004-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2004-05-21-pemba-dorje-record-dispute",
+"date": "2004-05-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "彭巴·多杰的八小时十分：珠峰速攀纪录的公信力风波",
 "category": "world",
 "region": "world",
@@ -1632,9 +1637,9 @@
 ]
 },
 {
-"id": "2004-11-01-vendee-globe-2004",
-"date": "2004-11-01",
-"date_accuracy": "month",
+"id": "2004-11-07-vendee-globe-2004",
+"date": "2004-11-07",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "旺代环球新千年首航：六十英尺单体船的全面接班",
 "category": "world",
@@ -1662,10 +1667,10 @@
 ]
 },
 {
-"id": "2005-01-01-shishapangma-winter-first",
-"date": "2005-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2005-01-14-shishapangma-winter-first",
+"date": "2005-01-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "希夏邦马冬季首登：莫罗开启『冬攀大师』篇章",
 "category": "world",
 "region": "world",
@@ -1817,10 +1822,10 @@
 ]
 },
 {
-"id": "2007-05-01-appa-17th-summit",
-"date": "2007-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2007-05-16-appa-17th-summit",
+"date": "2007-05-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "阿帕第十七次登顶珠峰：『超级夏尔巴』的纪录时代",
 "category": "world",
 "region": "world",
@@ -1848,9 +1853,9 @@
 ]
 },
 {
-"id": "2007-06-01-nitsch-214m-freedive",
-"date": "2007-06-01",
-"date_accuracy": "month",
+"id": "2007-06-14-nitsch-214m-freedive",
+"date": "2007-06-14",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "尼奇一口气下潜二百一十四米：无极限自由潜的封神一潜",
 "category": "world",
@@ -2007,10 +2012,10 @@
 ]
 },
 {
-"id": "2009-02-01-makalu-winter-first",
-"date": "2009-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2009-02-09-makalu-winter-first",
+"date": "2009-02-09",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "马卡鲁冬季首登：莫罗与乌尔布科啃下第五高峰的严冬",
 "category": "world",
 "region": "world",
@@ -2527,10 +2532,10 @@
 ]
 },
 {
-"id": "2015-05-01-dean-potter-wingsuit-death",
-"date": "2015-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2015-05-16-dean-potter-wingsuit-death",
+"date": "2015-05-16",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "迪恩·波特翼装坠亡：走扁带与极限飞行的偶像谢幕",
 "category": "world",
 "region": "world",
@@ -2624,9 +2629,9 @@
 ]
 },
 {
-"id": "2016-11-01-vendee-globe-2016",
-"date": "2016-11-01",
-"date_accuracy": "month",
+"id": "2016-11-06-vendee-globe-2016",
+"date": "2016-11-06",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "旺代环球新巨轮时代：二十九艘赛船驶向南大洋",
 "category": "world",
@@ -2874,9 +2879,9 @@
 ]
 },
 {
-"id": "2019-05-01-everest-traffic-jam",
-"date": "2019-05-01",
-"date_accuracy": "month",
+"id": "2019-05-22-everest-traffic-jam",
+"date": "2019-05-22",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "珠峰『大堵车』：一条刷屏世界的登顶人链与当季十一人遇难",
 "category": "world",
@@ -2986,6 +2991,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "社会",
 "教育",
 "极限运动",
@@ -3185,6 +3191,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "国际",
 "社会案件",
 "深海",
@@ -3226,10 +3233,10 @@
 ]
 },
 {
-"id": "2024-05-01-kami-rita-30th",
-"date": "2024-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2024-05-22-kami-rita-30th",
+"date": "2024-05-22",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "卡米·丽塔两度登顶：珠峰登顶次数纪录推向三十次",
 "category": "world",
 "region": "world",
@@ -3291,10 +3298,10 @@
 ]
 },
 {
-"id": "2025-01-01-dalin-vendee-record",
-"date": "2025-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2025-01-14-dalin-vendee-record",
+"date": "2025-01-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "达兰六十四天夺冠旺代环球：单体船环球纪录一夜快了十天",
 "category": "world",
 "region": "world",

@@ -1,0 +1,565 @@
+[
+  {
+    "id": "darpa-grand-challenge-2004",
+    "date": "2004-03-13",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "首届DARPA挑战赛：15辆无人车最远只走了11.8公里",
+    "category": "world",
+    "region": "us",
+    "milestone": false,
+    "summary_30s": "2004年3月13日，五角大楼国防高级研究计划局在莫哈韦沙漠举办首届无人车挑战赛：240公里赛道，没有一辆车完赛，最远的卡内基梅隆Sandstorm只跑了11.78公里，百万美元奖金无人领走。一场惨败，点燃了自动驾驶二十年的竞赛。",
+    "detail": "2004年3月13日，美国国防高级研究计划局（DARPA）在莫哈韦沙漠举办首届无人车 Grand Challenge，赛道从加州巴斯托附近延伸至内华达州普里姆，全程150英里（约240公里）。结果没有一辆车完成比赛：表现最好的卡内基梅隆大学Sandstorm只前进了11.78公里，100万美元奖金无人获得。这场公开的失败反而把自动驾驶变成全球工程师的圣杯，直接催生了随后两届赛事与整个行业的萌芽。",
+    "impact": "自动驾驶从科幻与军方项目，变成了大学与创业公司的公开竞赛。",
+    "aftermath": "2005年第二届比赛五辆车完赛，斯坦福Stanley夺冠并赢得200万美元奖金。",
+    "sources": [
+      {
+        "title": "DARPA Grand Challenge - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "自动驾驶",
+      "DARPA",
+      "无人车",
+      "里程碑"
+    ]
+  },
+  {
+    "id": "haval-cuv-launch-2005",
+    "date": "2005-04-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "长城哈弗CUV上市：皮卡王的SUV转身",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2005年4月，靠皮卡连续称霸的长城汽车推出哈弗CUV（原名Hover，即后来的哈弗H3），这是国产厂商最早的紧凑型SUV之一。中国品牌第一次找到了属于自己的主流打法：便宜、皮实、大空间的城市SUV。",
+    "detail": "长城汽车此前以皮卡和越野车为主业，皮卡销量长期位居国内前列。2005年4月，长城推出哈弗CUV，原名“Hover”，后更名为哈弗H3，是国产厂商早期推出的紧凑型SUV之一。哈弗以远低于合资SUV的定价切入快速增长的细分市场，为长城找到了战略主航道。2011年哈弗H6上市后长期称霸中国SUV市场，截至2018年已连续九年位居中国SUV销量第一；2013年3月29日，哈弗从长城汽车独立为专门品牌，拥有独立的标识、研发、生产与销售体系。",
+    "impact": "中国品牌第一次在主流乘用车细分市场建立了自己的根据地。",
+    "aftermath": "哈弗H6长期霸榜中国SUV销冠，长城依托哈弗完成了从皮卡厂到主流乘用车企的跃迁。",
+    "sources": [
+      {
+        "title": "哈弗 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/哈弗",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "长城",
+      "哈弗",
+      "SUV",
+      "自主品牌"
+    ]
+  },
+  {
+    "id": "darpa-challenge-2005-stanley",
+    "date": "2005-10-08",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "斯坦福Stanley夺冠：无人车第一次穿越沙漠",
+    "category": "world",
+    "region": "us",
+    "milestone": false,
+    "summary_30s": "2005年10月8日，第二届DARPA无人车挑战赛发车，212公里荒漠赛道有5辆车完赛。斯坦福的Stanley以6小时54分夺冠，捧走200万美元奖金。领队塞巴斯蒂安·特隆随后被谷歌招致麾下，谷歌自动驾驶项目就此萌芽。",
+    "detail": "2005年10月8日，第二届DARPA Grand Challenge在内华达荒漠开赛，全程212公里（132英里）。与一年前无人完赛形成鲜明对比，本届共有5辆车跑完全程，斯坦福大学的Stanley以6小时54分夺得头名，赢得200万美元奖金，车队由塞巴斯蒂安·特隆（Sebastian Thrun）带领。从沙漠到真实道路，无人驾驶完成了第一次成建制的可行性验证。2009年1月17日，特隆在谷歌X实验室启动了谷歌自动驾驶汽车项目，即后来的Waymo。",
+    "impact": "无人车第一次证明自己能在真实荒野自主驾驶，自动驾驶进入工程化时代。",
+    "aftermath": "特隆转投谷歌开启自动驾驶项目，参赛的卡内基梅隆等团队成员日后散布在Waymo、Uber等公司。",
+    "sources": [
+      {
+        "title": "DARPA Grand Challenge - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge",
+        "type": "wiki"
+      },
+      {
+        "title": "Waymo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Waymo",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "自动驾驶",
+      "DARPA",
+      "斯坦福",
+      "无人车"
+    ]
+  },
+  {
+    "id": "darpa-urban-challenge-2007",
+    "date": "2007-11-03",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "DARPA城市挑战赛：无人车学会在“城市”开车",
+    "category": "world",
+    "region": "us",
+    "milestone": false,
+    "summary_30s": "2007年11月3日，DARPA城市挑战赛在加州维克多维尔废弃空军基地举行，96公里赛道模拟真实城市交通。卡内基梅隆与通用合作的雪佛兰Tahoe改装车Boss以4小时10分夺冠。自动驾驶完成了从荒野到街道的关键一跃。",
+    "detail": "2007年11月3日，第三届DARPA挑战赛以“Urban Challenge”城市挑战赛形式在加州维克多维尔的前乔治空军基地举行，赛程约96公里（60英里），要求无人车在模拟城市环境中遵守交规、处理会车与超车。最终卡内基梅隆大学与通用汽车合作的Tartan Racing车队以雪佛兰Tahoe改装的“Boss”夺冠，用时4小时10分20秒，赢得200万美元奖金。多支参赛队伍的技术与人才此后流入谷歌、Uber等公司的自动驾驶团队。",
+    "impact": "自动驾驶从科研项目走向可工程化的产品雏形，城市道路成为主战场。",
+    "aftermath": "参赛者与算法思路大量进入产业界，为2010年代自动驾驶创业潮储备了班底。",
+    "sources": [
+      {
+        "title": "DARPA Grand Challenge - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "自动驾驶",
+      "DARPA",
+      "无人车",
+      "卡内基梅隆"
+    ]
+  },
+  {
+    "id": "tesla-roadster-production-2008",
+    "date": "2008-03-17",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "特斯拉Roadster量产：第一辆锂电电动跑车",
+    "category": "product",
+    "region": "us",
+    "milestone": false,
+    "summary_30s": "2008年3月17日，特斯拉Roadster正式量产——世界上第一款合法上路、使用锂离子电池的量产纯电动车，EPA续航244英里。首辆车2月已交付马斯克本人。到2012年底，这款跑车在30多个国家卖出约2450辆。",
+    "detail": "2008年3月17日，特斯拉Roadster开始正式量产（P1、P2等首批车此前已提前下线，第一辆量产车于2008年2月交付给马斯克本人）。Roadster是史上第一款合法上路、采用锂离子电池组的量产纯电动汽车，也是第一款单次续航超过200英里的量产电动车，EPA续航244英里（393公里），电池容量53千瓦时。2008年至2012年停产，Roadster在全球30多个国家共售出约2450辆，其中美国约1800辆。",
+    "impact": "“电动车=慢与廉价”的刻板印象被一辆跑车击碎，特斯拉拿到了续命的订单与声誉。",
+    "aftermath": "Roadster的口碑为Model S的融资铺平道路，特斯拉从跑车小厂走向大众化电动车公司。",
+    "sources": [
+      {
+        "title": "Tesla Roadster (first generation) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "特斯拉",
+      "电动车",
+      "Roadster",
+      "里程碑"
+    ]
+  },
+  {
+    "id": "volkswagen-short-squeeze-2008",
+    "date": "2008-10-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "保时捷逼空大众：两天涨五倍的世纪逼空",
+    "category": "world",
+    "region": "de",
+    "milestone": false,
+    "summary_30s": "2008年10月，保时捷在收购大众的过程中披露持仓，空头被迫疯狂回补，大众股价两天内从210.85欧元飙到1000欧元以上，大众一度成为全球市值最高的公司。史上最著名的逼空案，最后却以攻守易势收场。",
+    "detail": "2008年10月，保时捷试图收购大众汽车的行动引发一场教科书级的short squeeze：空头被迫在极短时间内回补股票，大众股价在Xetra DAX两天内从210.85欧元飙升至1000欧元以上，大众汽车一度成为全球市值最高的公司，无数对冲基金损失惨重。这场资本大戏的高潮过后剧情反转：深陷债务的保时捷无力继续收购，2009年8月13日大众监事会与保时捷签署组建“整体汽车集团”的协议，由大众主导整合。保时捷时任CEO文德林·维德金因市场操纵指控受审，最终被斯图加特法院判无罪。",
+    "impact": "资本史上最著名的逼空案，却没能保住保时捷的独立，反而加速了大众的反向整合。",
+    "aftermath": "2009年大众先收购保时捷49.9%股份，2012年8月以56.1亿美元买下保时捷剩余50.1%股权。",
+    "sources": [
+      {
+        "title": "Short squeeze - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Short_squeeze",
+        "type": "wiki"
+      },
+      {
+        "title": "Porsche SE - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Porsche_SE",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "保时捷",
+      "大众",
+      "资本市场",
+      "并购"
+    ]
+  },
+  {
+    "id": "toyota-passes-gm-2008",
+    "date": "2008-12-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "丰田首次登顶全球销量冠军：通用77年王朝终结",
+    "category": "world",
+    "region": "jp",
+    "milestone": false,
+    "summary_30s": "2008年，丰田全年销量超越通用，第一次成为全球最大汽车制造商。自1931年超越福特以来，通用已连续77年霸占全球销量第一。底特律主导世界汽车业的漫长时代，在这一年正式落幕。",
+    "detail": "1931年通用汽车超越福特成为全球销量第一的车企，此后连续77年蝉联，是汽车工业史上在位时间最长的王者。2008年，丰田全年销量首次超过通用，登顶全球第一。这一年在金融海啸冲击下美国车市崩塌，底特律三巨头陷入流动性危机，也直接铺垫了2009年通用与克莱斯勒的相继破产重组。2011年通用曾以约902.5万辆短暂夺回第一，此后全球销量冠军长期在丰田、大众、雷诺-日产联盟之间轮转。",
+    "impact": "汽车工业的权力重心从底特律向亚洲转移的进程不可逆转。",
+    "aftermath": "丰田此后多次蝉联全球销量冠军，并在1997年普锐斯奠定的混动路线上继续强化技术形象。",
+    "sources": [
+      {
+        "title": "General Motors - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/General_Motors",
+        "type": "wiki"
+      },
+      {
+        "title": "Toyota - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toyota",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "丰田",
+      "通用汽车",
+      "全球第一",
+      "底特律"
+    ]
+  },
+  {
+    "id": "auto-stimulus-2009",
+    "date": "2009-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "verified",
+    "title": "购置税减半救市：中国车市黄金时代的起点",
+    "category": "economy",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2009年，为对冲国际金融危机，中国出台汽车刺激组合拳：小排量车购置税减免、汽车以旧换新等政策齐发，当年销量同比暴涨59%，2009-2010年产销翻倍式增长，政策于2010年底退出。",
+    "detail": "2008年国际金融危机后，中国政府推出汽车产业刺激政策，包括对小排量乘用车实施购置税减免，以及汽车以旧换新（报废更新补贴）等方案，力图用汽车消费稳住经济大盘。政策效果立竿见影：2009年中国汽车销量同比增长59%，2009至2010年产量与销量实现翻倍式增长。两项主要刺激政策于2010年底结束，但中国车市由此进入千万辆级时代，私家车消费全面爆发。",
+    "impact": "汽车消费第一次成为全民经济议题，中国私家车社会加速到来。",
+    "aftermath": "购置税杠杆从此成为历次车市调控的标准工具，2015年等时点再次启用。",
+    "sources": [
+      {
+        "title": "Automotive industry in China - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Automotive_industry_in_China",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "产业政策",
+      "购置税",
+      "金融危机",
+      "中国车市"
+    ]
+  },
+  {
+    "id": "chrysler-bankruptcy-2009",
+    "date": "2009-04-30",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "克莱斯勒申请破产保护：与菲亚特抱团重生",
+    "category": "company",
+    "region": "us",
+    "milestone": false,
+    "summary_30s": "2009年4月30日，克莱斯勒申请破产保护，拖欠逾40亿美元担保债务，美国政府称之为“预打包的外科手术式破产”。联邦累计投入125亿美元TARP资金，40天后完成重组，菲亚特逐步接管并最终组建FCA。",
+    "detail": "2009年4月30日，美国第三大车企克莱斯勒申请破产保护，拖欠逾40亿美元担保债务，美国政府将其称为“预打包的外科手术式破产”。重组期间美国联邦通过TARP累计向其投入125亿美元，2009年还提供了80亿美元联邦融资；2011年5月24日，克莱斯勒偿还美加两国政府贷款76亿美元。2009年6月10日，克莱斯勒资产出售给新公司“克莱斯勒集团”，由UAW养老信托、菲亚特及美加政府共同持有；菲亚特此后逐步增持，2014年1月以36.5亿美元买断UAW信托剩余股份，同年5月组建菲亚特克莱斯勒汽车（FCA）。",
+    "impact": "底特律三巨头之二倒下，美国汽车业版图被重写。",
+    "aftermath": "菲亚特克莱斯勒后来与标致雪铁龙合并为Stellantis，Jeep品牌成为其最大资产。",
+    "sources": [
+      {
+        "title": "Chrysler - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chrysler",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "克莱斯勒",
+      "破产重组",
+      "菲亚特",
+      "金融危机"
+    ]
+  },
+  {
+    "id": "gm-bankruptcy-2009",
+    "date": "2009-06-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "通用汽车申请破产：百年巨头的40天重组",
+    "category": "company",
+    "region": "us",
+    "milestone": true,
+    "summary_30s": "2009年6月，全球最大车企通用汽车申请破产重组：此前已领174亿美元救助，奥巴马政府迫使CEO瓦格纳辞职，财政部累计投入495亿美元。40天后通用完成重组走出破产，美国政府2013年清仓退出，仍亏了103亿美元。",
+    "detail": "2009年6月，通用汽车申请政府支持的破产重组，此前已获得174亿美元联邦救助，同年3月奥巴马政府还迫使长期掌舵的CEO里克·瓦格纳辞职。经TARP计划，美国财政部累计向通用注资495亿美元；2009年7月10日，通用完成破产重组走出保护，历时约40天，老通用更名为“汽车清算公司”处理遗留资产。2013年12月9日，财政部清仓通用股份、收回390亿美元，账面亏损103亿美元。研究机构测算，救助共保住约120万个就业岗位。",
+    "impact": "美国工业资本主义象征轰然弯腰又站起，政府救助车企成为危机应对的经典案例。",
+    "aftermath": "重组后通用收缩品牌、聚焦四大品牌，2010年11月重新上市。",
+    "sources": [
+      {
+        "title": "General Motors - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/General_Motors",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "通用汽车",
+      "破产重组",
+      "金融危机",
+      "里程碑"
+    ]
+  },
+  {
+    "id": "toyota-recall-crisis-2009",
+    "date": "2009-11-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "丰田“召回门”：从脚垫到油门，全球召回约900万辆",
+    "category": "company",
+    "region": "jp",
+    "milestone": false,
+    "summary_30s": "2009年11月2日，丰田因脚垫隐患召回380万辆车，此后油门踏板、刹车软件问题接连爆发，全球召回约900万辆，多国市场卷入其中。丰田章男2010年2月赴国会作证，承认“增长速度可能太快了”。质量神话就此破灭。",
+    "detail": "2009年11月2日，丰田因全气候脚垫可能卡住油门召回380万辆丰田和雷克萨斯，11月26日扩大至420万辆并加装刹车优先系统；2010年1月21日再因油门踏板回位问题在美国召回230万辆，1月29日扩大至欧洲180万辆、中国7.5万辆，全球召回规模约900万辆，脚垫/油门问题累计涉及约520万辆。2010年2月8日，又因刹车软件问题召回普锐斯、雷克萨斯HS250h等43.6万辆混动车。2010年2月，丰田章男在美国国会听证会上表示“坦率地说，我担心我们增长的速度可能太快了”，并深表歉意。",
+    "impact": "“开不坏的丰田”质量神话遭遇空前信任危机，快速扩张的代价被摆上台面。",
+    "aftermath": "2011年NASA与NHTSA调查未发现电子节气门缺陷，但召回门促使丰田重组质量管理体系。",
+    "sources": [
+      {
+        "title": "2009-11 Toyota vehicle recalls - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009-11_Toyota_vehicle_recalls",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "丰田",
+      "召回",
+      "质量危机",
+      "全球品牌"
+    ]
+  },
+  {
+    "id": "china-largest-auto-market-2009",
+    "date": "2009-12-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "中国超越美国成为全球第一大汽车市场",
+    "category": "economy",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "2009年，中国汽车产量达1379万辆、国内销量约1360万辆，双双超越美国成为世界第一，当年销量同比暴涨59%，而美国同期销量刚过1000万辆。全球汽车业的重心从此东移。",
+    "detail": "2009年，中国汽车产量达到1379万辆，其中乘用车约800万辆、商用车341万辆，超过美国成为全球第一大汽车生产国；国内汽车销量约1360万辆，同样超过美国刚过1000万辆的水平，中国就此成为全球第一大汽车产销国。当年购置税减免等刺激政策推动销量同比猛增59%。这一超越发生在金融危机重创美国车市的背景下，却也是中国入世后汽车消费长期积累的总爆发。",
+    "impact": "全球汽车业的战略重心从底特律转向中国，所有跨国车企把中国写进核心战场。",
+    "aftermath": "2010年中国产销再上1800万辆台阶，此后连续多年稳居全球第一。",
+    "sources": [
+      {
+        "title": "中国汽车工业 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/中国汽车工业",
+        "type": "wiki"
+      },
+      {
+        "title": "Automotive industry in China - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Automotive_industry_in_China",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "中国制造",
+      "全球第一",
+      "里程碑",
+      "中国车市"
+    ]
+  },
+  {
+    "id": "ten-cities-thousand-ev-program-2009",
+    "date": "2009-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "verified",
+    "title": "十城千辆工程启动：新能源车的第一波国家推手",
+    "category": "economy",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2009年，中国启动新能源汽车示范推广，计划在10个城市对公交、出租、公务等公共领域推广混合动力、纯电动和燃料电池汽车，乘用车单车补贴4000至60000元。新能源产业化的第一波国家推手就此按下。",
+    "detail": "2009年，中国政府启动新能源汽车推广应用计划（即“十城千辆节能与新能源汽车示范推广应用工程”），在10个城市面向公交、出租、市政等公共服务领域推广插电式混合动力、纯电动与燃料电池汽车，对乘用车按节油率和车型给予每辆4000元至60000元不等的政府购置补贴，电动大客车等补贴更高。示范运营为中国新能源产业链提供了第一批规模化订单和真实运营数据，也检验了早期电池与整车的可靠性。",
+    "impact": "公共领域先行先试，为中国新能源车产业链拿到第一张规模化的入场券。",
+    "aftermath": "2010年6月补贴试点扩展到5个城市的私人购车市场，2013年起推广至全国。",
+    "sources": [
+      {
+        "title": "Automotive industry in China - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Automotive_industry_in_China",
+        "type": "wiki"
+      },
+      {
+        "title": "New energy vehicles in China - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_energy_vehicles_in_China",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "新能源汽车",
+      "产业政策",
+      "十城千辆",
+      "示范运营"
+    ]
+  },
+  {
+    "id": "chery-exports-syria-2001",
+    "date": "2001-10-01",
+    "date_accuracy": "month",
+    "date_confidence": "verified",
+    "title": "奇瑞出口叙利亚10辆风云：中国乘用车出海起点",
+    "category": "economy",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2001年10月，一位叙利亚经销商在北京看中了奇瑞风云，首单10辆试出口就此成交——中国乘用车批量出口海外的大幕拉开。此后奇瑞自2003年起长期是中国最大的乘用车出口商，2023年出口93.7万辆。",
+    "detail": "2001年10月，一位叙利亚汽车经销商在北京街头看中奇瑞风云轿车，与尹同跃达成10辆试出口协议，这批车成为当代中国乘用车批量出口的开端。奇瑞此后把出口做成战略主业，自2003年起（除2022年 briefly 被上汽超过外）长期位居中国乘用车出口第一：2007年出口11.99万辆，2021年26.92万辆，2023年达93.71万辆、约占其总销量的52%，2024年进一步增至114.46万辆；2025年10月，奇瑞在波兰华沙交付了第500万辆出口汽车。",
+    "impact": "中国汽车“走出去”有了第一个可复制的样板：从欠发达市场起步，以性价比立足。",
+    "aftermath": "2023年中国整车出口登顶全球第一，奇瑞是最大的单兵主力之一。",
+    "sources": [
+      {
+        "title": "Chery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chery",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "奇瑞",
+      "出口",
+      "出海",
+      "自主品牌"
+    ]
+  },
+  {
+    "id": "nev-private-subsidy-pilot-2010",
+    "date": "2010-06-01",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "私人购买新能源车补贴试点：每辆最高6万元",
+    "category": "economy",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2010年6月1日，国家启动私人购买新能源汽车补贴试点：在上海、深圳、杭州、合肥、长春五城，纯电动每辆最高补6万元、插混最高5万元，钱直接付给车企、销量过5万辆后退坡。普通人买电动车，第一次有了真金白银。",
+    "detail": "2010年6月1日，中国宣布在五个城市启动私人购买新能源汽车补贴试点，城市为上海、深圳、杭州、合肥、长春：纯电动车按电池组能量每千瓦时补贴3000元、单车最高6万元（约9281美元），插电式混合动力单车最高5万元。补贴直接支付给车企而非消费者，单一企业销售达到5万辆后补贴标准适度下调。这是新能源补贴第一次从公共领域延伸到私人消费市场，为此后全国推广与产业链爆发奠基。",
+    "impact": "私人消费者第一次被真金白银拉进电动化进程，充电桩与整车产业链随之提速。",
+    "aftermath": "2013年9月起新一轮补贴推广至全国，补贴政策此后延续至2022年底退出。",
+    "sources": [
+      {
+        "title": "New energy vehicles in China - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_energy_vehicles_in_China",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "新能源汽车",
+      "补贴",
+      "产业政策",
+      "试点城市"
+    ]
+  },
+  {
+    "id": "geely-volvo-deal-closes-2010",
+    "date": "2010-08-02",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "吉利18亿美元迎娶沃尔沃：“蛇吞象”交割完成",
+    "category": "company",
+    "region": "cn",
+    "milestone": true,
+    "summary_30s": "2010年3月28日吉利与福特签约，8月2日交割完成：18亿美元、13亿现金加2亿票据，中国民企第一次全资收购全球豪华品牌。11年前福特买沃尔沃花了64.5亿，卖出时只剩零头——“蛇吞象”从此有了教科书。",
+    "detail": "2009年12月24日，福特与浙江吉利控股集团就出售沃尔沃轿车达成初步协议；2010年3月28日，双方在瑞典签署最终股权收购协议，吉利以约18亿美元收购沃尔沃轿车公司100%股权及相关资产（其中2亿美元为票据）；2010年8月2日交易交割完成，吉利实际支付13亿美元现金加2亿美元票据。对比1999年福特64.5亿美元的买入价，这笔交易不足当年售价的三分之一。吉利承诺保持沃尔沃总部与研发留在哥德堡，两家公司此后深度技术协同。",
+    "impact": "中国车企首次全资拥有全球豪华品牌，“蛇吞象”并购从此有了成功样板。",
+    "aftermath": "沃尔沃在吉利手中销量翻番，双方联合开发的架构孵化出领克等新品牌，吉利跻身全球车企第一梯队。",
+    "sources": [
+      {
+        "title": "Volvo Cars - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Volvo_Cars",
+        "type": "wiki"
+      },
+      {
+        "title": "吉利汽车 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/吉利汽车",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "吉利",
+      "沃尔沃",
+      "并购",
+      "里程碑",
+      "李书福"
+    ]
+  },
+  {
+    "id": "vw-porsche-integration-2009",
+    "date": "2009-08-13",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "大众反向整合保时捷：收购战大结局",
+    "category": "company",
+    "region": "de",
+    "milestone": false,
+    "summary_30s": "2009年8月13日，大众与保时捷签署组建“整体汽车集团”的协议：去年还想吞下大众的保时捷，反过来被大众整合。年底大众先拿49.9%股份，2012年8月1日再以56.1亿美元买下保时捷剩余50.1%，攻守彻底易位。",
+    "detail": "2009年8月13日，大众汽车监事会与保时捷签署协议，组建由大众主导的“整体汽车集团”：大众年底前先收购保时捷股份公司49.9%的股权，保时捷-皮耶希家族则将保时捷控股萨尔茨堡销售公司出售给大众；协议框架下，保时捷SE当时持有大众约50.76%的普通股，大众管理层借人事安排保持了对运营的控制。2011年两家公司的整车制造业务按计划合并；2012年8月1日，大众以56.1亿美元买下保时捷股份公司剩余50.1%股权，保时捷成为大众集团旗下品牌。",
+    "impact": "这场资本大战的终局不是保时捷吞并大众，而是大众集团收编保时捷。",
+    "aftermath": "保时捷SE至今仍是大众集团最大股东，保时捷家族与皮耶希家族延续对大众的家族影响力。",
+    "sources": [
+      {
+        "title": "Porsche SE - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Porsche_SE",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "大众",
+      "保时捷",
+      "并购",
+      "资本"
+    ]
+  },
+  {
+    "id": "haval-h6-launch-2011",
+    "date": "2011-01-01",
+    "date_accuracy": "year",
+    "date_confidence": "verified",
+    "title": "哈弗H6上市：国民SUV神话开始",
+    "category": "product",
+    "region": "cn",
+    "milestone": false,
+    "summary_30s": "2011年，长城推出哈弗H6，凭借10万元级定价精准命中家庭用户，此后连续多年霸榜中国SUV销量第一——截至2018年已经连拿九年冠军。一款车定义一个细分市场，中国品牌第一次在单一车型上长期压制合资对手。",
+    "detail": "2011年，长城汽车推出城市SUV哈弗H6，以约10万元的价位切入家庭用户增长最快的细分市场，上市后迅速热销，长期位居中国SUV销量榜首，截至2018年已连续九年蝉联中国SUV销量第一，成为最长寿的国民神车之一。H6的成功让长城把全部筹码押在SUV上：2013年3月29日，哈弗从长城汽车独立为专门品牌，拥有独立的标识、研发、生产与销售服务体系，成为中国车企品牌独立运营的先行者。",
+    "impact": "中国品牌第一次用一个车型长期统治主流细分市场，SUV浪潮自此席卷全国。",
+    "aftermath": "哈弗独立后一度占长城销量绝对主体，H6的神话直到新能源时代才被改写。",
+    "sources": [
+      {
+        "title": "哈弗 - 维基百科",
+        "url": "https://zh.wikipedia.org/wiki/哈弗",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "长城",
+      "哈弗H6",
+      "SUV",
+      "国民神车"
+    ]
+  },
+  {
+    "id": "vw-porsche-integration-agreement",
+    "date": "2012-08-01",
+    "date_accuracy": "exact",
+    "date_confidence": "verified",
+    "title": "大众56.1亿美元全资收购保时捷股份公司",
+    "category": "company",
+    "region": "de",
+    "milestone": false,
+    "summary_30s": "2012年8月1日，大众以56.1亿美元买下保时捷股份公司剩余50.1%股权，保时捷正式成为大众集团旗下品牌。2008年那场逼空大战的收购方，四年后成了被收购方，欧洲汽车业最大并购案就此收官。",
+    "detail": "2009年8月大众与保时捷达成“整体汽车集团”协议后，大众先于2009年底收购保时捷股份公司49.9%股权；2012年8月1日，大众再以56.1亿美元收购保时捷股份公司剩余50.1%，全资控股完成，保时捷成为大众集团第十个品牌。大众方面将这笔交易定性为重组而非收购——保时捷SE仍作为大众集团最大股东存在，保时捷-皮耶希家族通过其延续对大众集团的控制权。",
+    "impact": "欧洲汽车业最戏剧性的收购战落幕，大众集团完成对豪华跑车王者的收编。",
+    "aftermath": "保时捷在大众体系内保持高度独立运营，2022年保时捷股份公司再度独立上市，成为欧洲史上最大IPO之一。",
+    "sources": [
+      {
+        "title": "Porsche SE - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Porsche_SE",
+        "type": "wiki"
+      }
+    ],
+    "tags": [
+      "汽车",
+      "大众",
+      "保时捷",
+      "并购",
+      "豪华车"
+    ]
+  }
+]

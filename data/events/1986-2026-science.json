@@ -49,6 +49,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -165,6 +166,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "能源与气候",
@@ -194,6 +196,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "能源与气候",
@@ -495,7 +498,7 @@
 {
 "id": "1988-04-01-hawking-brief-history",
 "date": "1988-04-01",
-"date_accuracy": "month",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "霍金《时间简史》出版，科普畅销书神话开启",
 "category": "tech",
@@ -584,9 +587,9 @@
 ]
 },
 {
-"id": "1988-11-01-ipcc-established",
-"date": "1988-11-01",
-"date_accuracy": "month",
+"id": "1988-11-09-ipcc-established",
+"date": "1988-11-09",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "政府间气候变化专门委员会（IPCC）成立",
 "category": "tech",
@@ -645,9 +648,9 @@
 ]
 },
 {
-"id": "1988-12-01-tat8-transatlantic-fiber",
-"date": "1988-12-01",
-"date_accuracy": "month",
+"id": "1988-12-14-tat8-transatlantic-fiber",
+"date": "1988-12-14",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "TAT-8：第一条跨大西洋光纤电缆建成",
 "category": "tech",
@@ -724,6 +727,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "漏油",
@@ -1050,9 +1054,9 @@
 ]
 },
 {
-"id": "1991-07-01-carbon-nanotubes",
-"date": "1991-07-01",
-"date_accuracy": "month",
+"id": "1991-11-07-carbon-nanotubes",
+"date": "1991-11-07",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "饭岛澄男发现碳纳米管，纳米材料时代开启",
 "category": "tech",
@@ -1279,9 +1283,9 @@
 ]
 },
 {
-"id": "1993-02-01-antibiotics-cure-ulcers",
-"date": "1993-02-01",
-"date_accuracy": "month",
+"id": "1993-02-04-antibiotics-cure-ulcers",
+"date": "1993-02-04",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "新英格兰医学杂志确证：胃溃疡用抗生素就能治好",
 "category": "tech",
@@ -2016,6 +2020,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -2192,6 +2197,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -3020,9 +3026,9 @@
 ]
 },
 {
-"id": "2001-07-01-toumai-skull",
-"date": "2001-07-01",
-"date_accuracy": "month",
+"id": "2001-07-19-toumai-skull",
+"date": "2001-07-19",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "乍得人『图迈』头骨出土：人类家族的最早面孔",
 "category": "tech",
@@ -3126,6 +3132,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -4145,6 +4152,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -4204,6 +4212,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "文化出口",
@@ -4262,6 +4271,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "2008 TC3",
@@ -4319,6 +4329,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",
@@ -4357,9 +4368,9 @@
 ]
 },
 {
-"id": "2009-05-01-sts125-hubble-final-service",
-"date": "2009-05-01",
-"date_accuracy": "month",
+"id": "2009-05-11-sts125-hubble-final-service",
+"date": "2009-05-11",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "STS-125：最后一次哈勃维修，望远镜满血新生",
 "category": "tech",
@@ -7513,9 +7524,9 @@
 ]
 },
 {
-"id": "2024-04-01-desi-dark-energy-evolving",
-"date": "2024-04-01",
-"date_accuracy": "month",
+"id": "2024-04-04-desi-dark-energy-evolving",
+"date": "2024-04-04",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "DESI数据暗示暗能量可能在演化：宇宙学标准模型裂缝扩大",
 "category": "tech",
@@ -7561,6 +7572,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "科学",
 "科技",
 "航天",

@@ -186,9 +186,9 @@
 ]
 },
 {
-"id": "1991-10-01-first-world-memory-championship",
-"date": "1991-10-01",
-"date_accuracy": "month",
+"id": "1991-10-26-first-world-memory-championship",
+"date": "1991-10-26",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "首届世界记忆锦标赛在伦敦开赛：记忆成为竞技项目",
 "category": "culture",
@@ -664,10 +664,10 @@
 ]
 },
 {
-"id": "2001-01-01-zuffa-acquires-ufc",
-"date": "2001-01-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
+"id": "2001-01-11-zuffa-acquires-ufc",
+"date": "2001-01-11",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
 "title": "Zuffa 收购 UFC：综合格斗从地下走向正规军",
 "category": "company",
 "region": "world",
@@ -837,6 +837,7 @@
 }
 ],
 "tags": [
+"灾难事故",
 "世界纪录",
 "文化",
 "航天",
@@ -2113,9 +2114,9 @@
 ]
 },
 {
-"id": "2017-12-01-zou-lujian-wins-memory-championship",
-"date": "2017-12-01",
-"date_accuracy": "month",
+"id": "2017-12-08-zou-lujian-wins-memory-championship",
+"date": "2017-12-08",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "邹璐建登顶世界记忆锦标赛：中国再添世界记忆冠军",
 "category": "culture",
@@ -2264,9 +2265,9 @@
 ]
 },
 {
-"id": "2018-12-01-joseph-saelee-ctwc-champion",
-"date": "2018-12-01",
-"date_accuracy": "month",
+"id": "2018-10-21-joseph-saelee-ctwc-champion",
+"date": "2018-10-21",
+"date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "十六岁少年登顶俄罗斯方块世锦赛：滚指时代到来",
 "category": "culture",
