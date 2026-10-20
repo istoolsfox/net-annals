@@ -7025,35 +7025,6 @@
 ]
 },
 {
-"id": "2021-12-25-jwst-launch",
-"date": "2021-12-25",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "韦布太空望远镜发射：红外深空之眼踏上L2之旅",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "圣诞节当天，阿丽亚娜5火箭把韦布太空望远镜（JWST）送入奔向日地拉格朗日L2点的轨道。这台6.5米镀金分段镜、史上最贵（约100亿美元）的望远镜，历经25年研制与十多次推迟终于出发。",
-"detail": "韦布的18块六边形镜片在太空展开拼合，五层遮阳板为仪器维持零下233度的低温，专攻红外波段——宇宙早期星系的光已被红移到红外。2022年7月首批科学影像发布即轰动：船底座星云『山脉』、系外行星WASP-96b大气光谱与最深红外宇宙场。其观测把已知最遥远星系纪录连续刷新至红移14以上。",
-"impact": "深空观测能力跨代跃升，早期宇宙、系外行星大气与冷天体研究全面换代。",
-"aftermath": "燃料寿命从预期10年提升至20年以上；后续LUVOIR/HabEx概念以韦布经验规划下一代旗舰。",
-"sources": [
-{
-"title": "Wikipedia: 2021 in science",
-"url": "https://en.wikipedia.org/wiki/2021_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"韦布",
-"JWST",
-"红外天文"
-]
-},
-{
 "id": "2022-07-12-jwst-first-images",
 "date": "2022-07-12",
 "date_accuracy": "exact",

@@ -4636,40 +4636,6 @@
 "milestone": false
 },
 {
-"id": "2021-10-28-meta-rebrand",
-"date": "2021-10-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Facebook 改名 Meta，全行业开始讲“元宇宙”",
-"category": "tech",
-"region": "world",
-"summary_30s": "2021年10月28日，扎克伯格宣布Facebook改名Meta，宣布公司未来押注“元宇宙”——一个用VR/AR连接的游戏化虚拟社会。游戏业首当其冲被卷入概念热潮，Roblox、《堡垒之夜》被当作元宇宙样板间，投机与泡沫一起起飞。",
-"detail": "2021年10月28日，扎克伯格在Connect大会上宣布Facebook公司更名为Meta Platforms，宣布未来十年从社交公司转型为“元宇宙公司”，旗舰产品为Quest VR生态与Horizon Worlds虚拟空间。受疫情线上化与Roblox（2021年3月上市，估值一度450亿美元）、《堡垒之夜》演唱会等案例鼓舞，资本市场掀起元宇宙与NFT概念狂潮；游戏公司纷纷更名（如Square Enix旗下Eidos被出售）、Meta十年累亏数百亿美元，热潮在2022年加密市场崩盘后显著退潮。",
-"impact": "游戏被确认为元宇宙的核心基础设施，游戏引擎（虚幻、Unity）与虚拟社交资产获得跨行业定价；游戏公司的“平台化”叙事达到顶峰。",
-"aftermath": "2022年后元宇宙叙事让位于生成式AI，Meta转向AI眼镜与AI研究；但Roblox、堡垒之夜与《我的世界》构成的虚拟社交基本盘依然稳固。",
-"sources": [
-{
-"title": "2021 in video games - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/2021_in_video_games",
-"type": "wiki"
-},
-{
-"title": "Meta Platforms - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-"type": "wiki"
-}
-],
-"tags": [
-"游戏",
-"科技",
-"Meta",
-"元宇宙",
-"Facebook",
-"VR"
-],
-"milestone": false
-},
-{
 "id": "2021-12-10-it-takes-two",
 "date": "2021-12-10",
 "date_accuracy": "exact",
