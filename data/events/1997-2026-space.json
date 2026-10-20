@@ -4532,34 +4532,6 @@
 ]
 },
 {
-"id": "2021-07-20-new-shepard-ns16",
-"date": "2021-07-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "贝索斯亲乘新谢泼德，蓝色起源载人首飞",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2021年7月20日，蓝色起源的新谢泼德火箭完成首次载人飞行，创始人杰夫·贝索斯与弟弟、82岁女飞行员 Wally Funk 等四人跨越卡门线。九天前维珍银河的布兰森刚刚先飞一步，两位亿万富翁的太空竞赛成为2021年商业航天最热闹的风景。",
-"detail": "新谢泼德为亚轨道飞行，乘组体验约4分钟失重并欣赏地平线弧线。Wally Funk 是1960年代\"水星13女\"之一，终在81岁圆梦太空。此后新谢泼德持续执行旅游航班，2022年一次无人飞行失事后停飞一年多，2024年复飞。亚轨道旅游从概念走向真金白银的市场。",
-"impact": "亚轨道太空旅游正式商业化，富翁航天成为新闻常态。",
-"aftermath": "新谢泼德累计送数十名付费乘客过卡门线。",
-"sources": [
-{
-"title": "Wikipedia: 2021 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2021_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"蓝色起源",
-"太空旅游",
-"商业航天"
-]
-},
-{
 "id": "2021-09-16-inspiration4",
 "date": "2021-09-16",
 "date_accuracy": "exact",

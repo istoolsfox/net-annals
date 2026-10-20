@@ -6906,35 +6906,6 @@
 ]
 },
 {
-"id": "2021-04-19-ingenuity-first-flight",
-"date": "2021-04-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "机智号起飞：另一个星球上的第一次动力飞行",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "4月19日，火星车毅力号搭载的1.8公斤直升机『机智号』在耶泽罗坑腾空3米，悬停30秒后降落——莱特兄弟时刻在3.2亿公里外的火星重演。这是动力飞行器第一次在地球以外的大气中飞行。",
-"detail": "火星大气密度只有地球1%，直升机用同轴双旋翼以每分钟2400转的高转速补偿，机载计算机自主完成飞行控制（信号延迟不容遥控）。原计划5次技术验证，机智号实际飞行了72次、累计飞行里程超17公里，成为毅力号的侦察先锋，直至2024年1月旋翼受损退役。",
-"impact": "地外动力飞行从零到成熟，未来火星与土卫六的空中探测平台获得实证。",
-"aftermath": "NASA已规划下一代火星科学直升机（MarsChopper）；土卫六蜻蜓号则将直接以旋翼机为主要科学平台。",
-"sources": [
-{
-"title": "Wikipedia: 2021 in science",
-"url": "https://en.wikipedia.org/wiki/2021_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"机智号",
-"火星直升机",
-"NASA"
-]
-},
-{
 "id": "2021-04-20-moxie-oxygen-mars",
 "date": "2021-04-20",
 "date_accuracy": "exact",
