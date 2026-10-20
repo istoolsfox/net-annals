@@ -1,0 +1,189 @@
+[
+ {
+  "id": "1996-11-15-icq-launch",
+  "date": "1996-11-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "ICQ 上线：『I Seek You』与即时通讯的黎明",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "1996年11月15日，以色列Mirabilis公司发布ICQ——人类第一个国民级即时通讯软件。花哨的提示音『uh-oh!』与自由注册的号码体系，定义了此后三十年网络聊天的基本形态。",
+  "detail": "ICQ的三个发明：用户号码（而非邮箱绑定）、在线状态（彩色的花朵图标）、以及『加好友』的社交机制——这三件套至今仍是所有聊天软件的骨架。以色列青年维斯格等四人在两个月内写出原型，1998年以4.07亿美元卖给美国在线（AOL）——即时通讯第一次证明自己值大钱。它的中国影子更深：腾讯OICQ（1999）的最初形态直接对标ICQ，连『号码+好友列表』的产品逻辑都一脉相承。2000年代ICQ被MSN、QQ、Gtalk逐步边缘化，2010年被Mail.ru集团收购后淡出主流——2024年6月正式关闭时，老用户收到的是一封『感谢28年』的告别信。",
+  "impact": "即时通讯产品范式的原点。",
+  "aftermath": "ICQ协议与界面语言进入软件博物馆；其『uh-oh』提示音被数字化考古爱好者反复复原。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "即时通讯",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2024-06-26-icq-shutdown",
+  "date": "2024-06-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "ICQ 正式关闭：28年即时通讯史的第一页翻过",
+  "category": "internet",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2024年6月26日，ICQ正式停止服务——从1996年的『uh-oh!』到2024年的告别信，这个人类第一个国民级IM走完28年。它的关闭标志着一个产品世代的彻底退场。",
+  "detail": "ICQ的最后岁月属于VK集团（Mail.ru旗下）：俄罗斯及独联体市场尚有存量用户，但产品已十年无重大更新。官方告别信写道：『ICQ 在1996年11月改变了人们交流的方式』——不是夸张，号码制、好友列表、在线状态这些今天的默认配置都是它发明的。中国用户的记忆线不同：OICQ（1999）曾因名称侵权改名QQ，但产品血缘的父子关系清楚可辨。ICQ的谢幕与MSN（2014）、Skype（2025）构成即时通讯鼻祖的三连退场——活到最后的是从ICQ学步的QQ与微信。",
+  "impact": "即时通讯鼻祖的正式谢幕。",
+  "aftermath": "ICQ的号码段成为数字收藏品；其开源替代（如Libervia等）由社区延续实验。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "即时通讯",
+   "谢幕"
+  ]
+ },
+ {
+  "id": "2017-06-13-yahoo-internet-sold",
+  "date": "2017-06-13",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "雅虎互联网业务易主 Verizon：23年独立雅虎谢幕",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2017年6月13日，Verizon以44.8亿美元完成对雅虎互联网业务的收购——曾经的千亿市值巨头、互联网门户时代的代名词，以不足巅峰值5%的价格交出独立身份，余部更名Altaba。",
+  "detail": "雅虎的兴衰是门户时代最好的解剖标本：1994年杨致远与费罗的目录站成为『上网』的同义词，2000年市值1250亿美元；此后的剧本步步踏空——错过搜索（把搜索外包给谷歌）、错过Facebook（10亿美元收购被拒）、错过微软的446亿美元收购提议（2008）。压垮估值的是两起超大信息泄露（2013-2014年累计30亿账户，2016年才披露）。Verizon买下的是品牌、门户、邮箱与广告技术，与AOL打包成Oath——两年后Oath改名Yahoo，2024年又被阿波罗私募收购。杨致远的名言在此后常被引用：『我们最大的错误是没有足够的工程师文化。』",
+  "impact": "门户时代终章的句点。",
+  "aftermath": "雅虎日本与雅虎台湾等区域资产独立存续；Altaba持有的阿里股份成为其最大价值。",
+  "sources": [
+   {
+    "title": "雅虎 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/雅虎",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "门户",
+   "谢幕",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2013-09-03-nokia-handset-microsoft",
+  "date": "2013-09-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "诺基亚手机业务卖给微软：『我们没做错什么』的终章",
+  "category": "company",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2013年9月3日，微软宣布以54.4亿欧元收购诺基亚设备与服务部门——曾经的手机之王把终端业务拱手让出。发布会上诺基亚管理层难掩失落——『我们并没有做错什么，但不知为什么，我们输了』这句话虽被广泛流传为诺基亚高管的挽歌（出处存疑），却精准概括了这场败局。",
+  "detail": "诺基亚的黄昏始于2007年：iPhone发布时它仍占全球手机出货四成，Symbian的护城河在触摸屏时代一夜干涸。与英特尔合作的MeeGo难产、押注Windows Phone（2011年埃洛普发布著名的『燃烧平台』备忘录）都未能挽回——2013年Q2，诺基亚手机份额从巅峰40%跌至3%。微软接手后的Lumia也未能起死回生，2016年品牌授权转给HMD（『诺基亚』以贴牌复刻机重生）。2023年诺基亚（网络设备业务）焕发第二春——卖掉的是手机，留下的是电信基础设施与专利库。",
+  "impact": "功能机时代终结的商业地标。",
+  "aftermath": "HMD『诺基亚手机』2024年转向自有品牌HMD；诺基亚贝尔（原上海贝尔）继续在中国运营通信设备。",
+  "sources": [
+   {
+    "title": "诺基亚 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/诺基亚",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "商业",
+   "手机",
+   "诺基亚",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2022-01-04-blackberry-eol",
+  "date": "2022-01-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "黑莓OS 停止服务：实体键盘时代的官方讣告",
+  "category": "internet",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2022年1月4日，黑莓Legacy服务正式终止——BlackBerry 7与更早的设备失去电话、短信与数据功能，全球数百万台老黑莓就此变砖。实体键盘与BBM的时代画上官方句号。",
+  "detail": "黑莓曾是『手机里的商务正装』：QWERTY键盘、推送邮件（Push Mail的开创者）、企业级安全（政要专机标配）。奥巴马2008年竞选时公开表示离不开黑莓——白宫为他特制了『黑莓总统版』。转折与诺基亚同频：2007年iPhone把全键盘变成可选项，2011年BBM被WhatsApp与iMessage超越，2013年BB10系统的Z10发布即失血。2016年黑莓宣布不再自研手机，品牌授权TCL（2020年终止）、后由Onyx等小厂延续。今天的黑莓是一家网络安全与车联网软件公司（QNX系统装进了全球两亿辆汽车）——旧身份谢幕，新身份低调重生。",
+  "impact": "功能机商务时代的句点。",
+  "aftermath": "黑莓股价2021年因 meme 股行情短暂暴涨（WSB散户 target）；QNX在智能汽车座舱市场持续扩张。",
+  "sources": [
+   {
+    "title": "黑莓手机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/黑莓手机",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "手机",
+   "黑莓",
+   "谢幕"
+  ]
+ },
+ {
+  "id": "2022-06-15-internet-explorer-retired",
+  "date": "2022-06-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Internet Explorer 正式退役：27年浏览器王朝的谢幕",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2022年6月15日，微软Internet Explorer桌面应用正式退役——这个曾占据全球浏览器95%份额、又因兼容性与安全恶名缠身的浏览器，在27年后让位于Edge。无数『本网站建议使用IE浏览』的提示语就此成为文物。",
+  "detail": "IE的一生浓缩了浏览器战争的完整周期：1995年捆绑Windows碾压网景（反垄断诉讼由此而起）、IE6在2003年达到95%市占的独孤求败、随后因更新停滞被Firefox（2004）与Chrome（2008）蚕食。『IE6魔咒』——XP用户十年不升级——让企业IT与网银系统被锁死在旧标准上，中国政务网、网银插件对IE内核的依赖使得退役流程在本土被拖到2022年之后（许多政企内网至今仍需IE兼容模式）。微软的替代方案Edge用Chromium内核（2020年）完成转身。IE退役当日，微软官方发推：『IE不是被遗忘，而是被更好取代』——互联网上则刷满了『F键致敬』。",
+  "impact": "浏览器第一王朝的正式谢幕。",
+  "aftermath": "Edge的IE兼容模式将支持至2029年；中国政企系统的IE依赖仍在分批迁移。",
+  "sources": [
+   {
+    "title": "Internet Explorer - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Internet_Explorer",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "浏览器",
+   "谢幕",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2023-07-05-threads-launch",
+  "date": "2023-07-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Threads 上线：马斯克与扎克伯格的『笼斗』前哨战",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2023年7月5日，Meta发布Threads——对标推特（X）的文字社交应用。上线5天注册破1亿，创应用史上最快纪录；这场商战的高潮是马斯克与扎克伯格隔空约架的『笼斗』闹剧。",
+  "detail": "Threads的时机卡得极准：马斯克收购推特（2022年10月）后连环作（改价、限流、改名X），大量用户寻找替代品。Meta把Instagram的账号体系直接接入Threads，实现了『零成本迁移』。1亿用户的纪录背后是留存率争议（月活很快回落），但2024年Threads逐步稳住2.75亿月活，成为X之外的正文社区主选择。『笼斗』（马斯克 vs 扎克伯格在罗马斗兽场）最终没有发生——扎克伯格回应『是时候向前走了』。这场商战的产业意义：社交媒体的『文字阵地』在X的动荡中完成了一次权力的再分散（Threads、Bluesky、Mastodon三线并立）。",
+  "impact": "文字社交版图的重新洗牌。",
+  "aftermath": "2024年11月Threads上线广告；Bluesky 2024年底用户破2500万——去中心化社交仍在生长。",
+  "sources": [
+   {
+    "title": "Threads (应用程序) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Threads_(应用程序)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "社交",
+   "Meta",
+   "里程碑"
+  ]
+ }
+]
