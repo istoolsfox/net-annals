@@ -3575,39 +3575,6 @@
 ]
 },
 {
-"id": "2019-03-10-et-302",
-"date": "2019-03-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "埃塞航空302：同样的俯冲再次上演，157人遇难促成737 MAX全球停飞",
-"category": "world",
-"region": "world",
-"milestone": false,
-"summary_30s": "亚的斯亚贝巴飞内罗毕的737 MAX 8起飞六分钟后坠毁，157人全部遇难，遇难者来自30多个国家。与五个月前狮航610几乎相同的坠机轨迹，让各国监管层在数日内相继停飞737 MAX。",
-"detail": "2019年3月10日，埃塞俄比亚航空302号班机（737 MAX 8，亚的斯亚贝巴—内罗毕）起飞后迎角传感器再度触发MCAS自动压低机头，机组按应急记忆项目处置仍未改出，飞机坠毁于首都以南的田野，149名乘客与8名机组全部遇难，其中包括多名联合国机构工作人员与学者。事故现场与狮航610高度相似，中国民航局在事发次日全球率先停飞737 MAX，欧盟、加拿大等相继跟进。",
-"impact": "737 MAX在数天内被全球停飞，监管独立性、制造商披露义务与机型认证体系遭到全球性质疑。",
-"aftermath": "波音此后二十个月停飞整改，两起空难的国家间调查与赔偿诉讼持续多年；遇难者纪念碑设在坠毁现场。",
-"sources": [
-{
-"title": "Wikipedia: Ethiopian Airlines Flight 302",
-"url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302",
-"type": "wiki"
-}
-],
-"tags": [
-"灾难事故",
-"航空",
-"国际",
-"交通",
-"社会案件",
-"文化出口",
-"空难",
-"737MAX",
-"MCAS",
-"埃塞俄比亚"
-]
-},
-{
 "id": "2019-03-13-max-global-grounding",
 "date": "2019-03-13",
 "date_accuracy": "exact",
