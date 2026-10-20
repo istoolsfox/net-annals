@@ -1,0 +1,376 @@
+[
+ {
+  "id": "2006-08-24-pluto-dwarf",
+  "date": "2006-08-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "冥王星被降级为矮行星：九大行星变八大",
+  "category": "science",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2006年8月24日，国际天文学联合会（IAU）布拉格大会投票将冥王星从行星降级为『矮行星』——从此太阳系从『九大行星』变为『八大行星』。这个决定引发了全球范围的争论与情感反弹：一个76年的教科书常识被改写。",
+  "detail": "降级的直接诱因是阋神星（Eris）的发现——它的质量比冥王星更大。IAU 的新定义要求行星必须『清空其轨道附近区域』，冥王星因位于柯伊伯带中无法满足。投票时仅424位天文学家在场（占IAU会员不到5%），美国多个州通过了『保留冥王星』的象征性决议。2015年新视野号飞掠冥王星，发现其拥有冰川、薄雾与可能的地下海洋——降级不等于不重要。",
+  "impact": "科学定义可以推翻教科书常识的公众教育案例，冥王星的『矮』不减少它的科学价值。",
+  "aftermath": "2015年新视野号让冥王星成为太阳系最著名的『矮行星』；阋神星、谷神星等矮行星家族持续扩展。",
+  "sources": [
+   {
+    "title": "冥王星 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/冥王星",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科学",
+   "冥王星",
+   "矮行星",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2006-12-30-saddam-executed",
+  "date": "2006-12-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "萨达姆被执行绞刑：伊拉克前总统的终局",
+  "category": "world",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2006年12月30日，伊拉克前总统萨达姆·侯赛因在巴格达被处以绞刑，终年69岁。罪名是1982年杜贾尔村屠杀（148名什叶派村民遇害）。行刑画面被手机偷拍传播，什叶派围观者的嘲骂与萨达姆的从容形成令人不安的对比——三年的审判没有带来真正的和解。",
+  "detail": "萨达姆2003年12月被捕后经历了长达两年的审判，辩护律师中有两人被杀。绞刑发生在开斋节当天，引发逊尼派抗议与什叶派庆祝的对立。他的死没有为伊拉克带来和平：此后教派内战（2006-2008）造成数万人死亡，ISIS 的崛起（2014）又吞噬了十年的反恐成果。萨达姆的宫殿如今成为旅游废墟。",
+  "impact": "强人政权被外部力量推翻后的政治真空，死刑与正义的哲学争论标本。",
+  "aftermath": "伊拉克2025年举行战后首次正常选举；ISIS 残余势力仍在乡村活动。",
+  "sources": [
+   {
+    "title": "萨达姆·侯赛因 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/萨达姆·侯赛因",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "伊拉克",
+   "萨达姆",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2006-06-09-kobe-81",
+  "date": "2006-01-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "科比81分：NBA历史第二高分的疯狂之夜",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2006年1月22日，湖人球星科比·布莱恩特在对阵猛龙的比赛中砍下81分——NBA历史单场第二高分（仅次于张伯伦的100分）。全场46分钟、46投28中，湖人在落后14分的情况下以122:104逆转。这场比赛被称为『人类得分极限的展示』。",
+  "detail": "科比下半场独得55分，第三节单节27分。猛龙队的防守在科比面前形同虚设。81分之夜发生在科比的低谷期（鹰郡事件后球衣销量暴跌、粉丝流失），这场比赛被广泛视为他重建公众形象的转折点。赛后他只说了一句：『我只是专注于赢得比赛。』",
+  "impact": "现代篮球单人得分的天花板（张伯伦的100分被认为不可复制）。",
+  "aftermath": "科比2020年逝世后，81分之夜被反复重温；湖人2020年夺冠时穿曼巴纪念衫致敬。",
+  "sources": [
+   {
+    "title": "科比·布莱恩特 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/科比·布莱恩特",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "NBA",
+   "科比",
+   "81分"
+  ]
+ },
+ {
+  "id": "2006-09-26-facebook-public",
+  "date": "2006-09-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Facebook 开放注册：从大学社交到全球13亿人",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2006年9月26日，Facebook 取消了『必须有 .edu 大学邮箱』的限制，向所有年满13岁的互联网用户开放注册。从校园社区到全球平台，这个决定在两年内让 Facebook 用户从千万级暴增至数亿，社交网络的全民化时代就此开启。",
+  "detail": "此前 Facebook 限定在哈佛、常春藤及此后扩展到全美高校，这种『排他性』恰恰是它的社交货币。开放后 Facebook 以每月翻倍的速度增长，2008年超越 MySpace 成为全球最大社交网络。开放注册也标志着社交网络从『同龄人社区』变成『全人类广场』——此后所有关于隐私、假新闻、政治操控的大讨论都源于此。",
+  "impact": "社交网络从封闭校园到开放社会的质变，此后所有平台治理问题的根源。",
+  "aftermath": "2021年 Facebook 更名 Meta；2024-2025年社交网络的碎片化（Mastodon/Threads/Bluesky）被视为对 Facebook 垄断的反动。",
+  "sources": [
+   {
+    "title": "Facebook - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Facebook",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科技",
+   "Facebook",
+   "社交网络",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2006-07-11-mumbai-bombing",
+  "date": "2006-07-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "孟买火车连环爆炸：209人死亡的七枚炸弹",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2006年7月11日，孟买市郊铁路在高峰时段遭遇连环爆炸——7枚炸弹在11分钟内相继引爆，209人死亡、700余人受伤。这是印度自1993年孟买连环爆炸以来最致命的恐袭，印度指控巴基斯坦 ISI 与虔诚军(Lashkar-e-Taiba)幕后策划。",
+  "detail": "爆炸发生在西线铁路的头等车厢，正值下班高峰。孟买的铁路网络每天承载600万通勤者，这次袭击精准瞄准了印度经济心脏的交通动脉。此后印度大幅强化了铁路安检与城市监控系统，但2011年孟买再次发生爆炸。印巴关系因此事件再度冻结，此后2008年孟买酒店袭击进一步加剧。",
+  "impact": "城市轨道交通成为恐袭目标的警示，印度反恐体系的全面升级。",
+  "aftermath": "2008年孟买酒店袭击更为致命；此后印度建立了国家调查局（NIA）与情报网格 NATGRID。",
+  "sources": [
+   {
+    "title": "2006 Mumbai train bombings - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_Mumbai_train_bombings",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "印度",
+   "恐怖袭击"
+  ]
+ },
+ {
+  "id": "2005-01-14-huygens-titan",
+  "date": "2005-01-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "惠更斯号着陆土卫六：人类探测器最远的着陆",
+  "category": "science",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2005年1月14日，欧洲空间局的惠更斯号探测器成功着陆土星最大的卫星——土卫六（泰坦），成为人类探测器在太阳系中着陆最远天体的纪录保持者（距离地球约12亿公里）。着陆后传回了泰坦表面的照片：橙色天空、甲烷河流与冰质砾石。",
+  "detail": "惠更斯号由卡西尼号母船携带（1997年发射，2004年入轨土星），在泰坦大气中降落2小时27分钟，通过电池供电持续传回数据。着陆点是一个湿润的『沙滩』——泰坦是太阳系中唯一拥有浓厚大气与表面液体的卫星（液体是甲烷/乙烷而非水）。这项任务验证了在外星冰冷世界寻找『生命前身化学』的可行性。",
+  "impact": "人类探测器最远着陆纪录，泰坦成为天体生物学的核心目标。",
+  "aftermath": "2028年 NASA Dragonfly（蜻蜓号）核动力旋翼机将飞往泰坦，在多个着陆点间跳跃采样。",
+  "sources": [
+   {
+    "title": "惠更斯号 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/惠更斯号",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "航天",
+   "惠更斯",
+   "土卫六",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2005-10-27-france-riots",
+  "date": "2005-10-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "巴黎郊区骚乱：三周燃烧的移民 ghetto",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2005年10月27日，巴黎东北郊克利希苏布瓦的两名移民少年为躲避警察误入变电站触电身亡，引发法国史上涨幅最大的城市骚乱——三周内蔓延至300个城镇，烧毁近万辆车、逮捕近3000人，法国宣布紧急状态。",
+  "detail": "骚乱的根源是北非与西非移民后裔在法国社会中的系统性边缘化：郊区高密度公屋（cité）、高失业率、警察执法歧视与身份认同危机。此后2015年巴黎恐袭、2020年 BLM、2023年纳赫尔事件反复重演同一裂痕。法国『共和同化模式』（拒绝承认族群差异）在结构性的社会排斥面前持续受挫。",
+  "impact": "欧洲移民融合危机的教科书案例，郊区（banlieue）成为社会学的专有研究名词。",
+  "aftermath": "2023年纳赫尔事件再现同一模式；法国移民政策在右翼化与共和原则之间持续摇摆。",
+  "sources": [
+   {
+    "title": "2005年法国骚乱 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/2005年法国骚乱",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "法国",
+   "骚乱",
+   "移民"
+  ]
+ },
+ {
+  "id": "2005-07-02-live8-concert",
+  "date": "2005-07-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "Live 8 全球音乐会：10场免费演出为非洲发声",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2005年7月2日，Bob Geldof 组织的 Live 8 音乐会在全球10个城市同步举行（伦敦、巴黎、柏林、罗马、费城、莫斯科等），Pink Floyd 20年来首次重组登台，全球超过30亿人通过电视与网络观看。音乐会呼吁 G8 峰会消除非洲贫困，一周后 G8 承诺增加250亿美元对非援助。",
+  "detail": "Live 8 是1985年 Live Aid 的20周年续篇，但诉求从『捐款救急』升级为『债务减免与贸易公平』。Pink Floyd 的 Roger Waters 与 David Gilmour 同台（20年来首次）成为经典时刻。G8 的承诺部分兑现（全球基金与 PEPFAR 拯救了数百万非洲艾滋病感染者的生命），但结构性贸易不平等至今未解决。",
+  "impact": "音乐与政治动员的巅峰结合，全球公民社会在数字时代的第一次大规模同步。",
+  "aftermath": "2020年 Global Citizen 疫苗音乐会延续模式；Live Aid 模式被 BLM 与气候运动借鉴。",
+  "sources": [
+   {
+    "title": "Live 8 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Live_8",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "文化",
+   "Live 8",
+   "音乐",
+   "公益"
+  ]
+ },
+ {
+  "id": "2004-06-28-iraq-sovereignty",
+  "date": "2004-06-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "联军向伊拉克移交主权：占领时代的法律终结",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2004年6月28日，以美国为首的联军临时管理当局（CPA）提前两天将主权移交给伊拉克临时政府，布雷默签署移交文件后悄然离场。伊拉克在萨达姆倒台15个月后恢复了法律上的主权——但15万美军仍然驻扎，实际的暴力远未结束。",
+  "detail": "主权移交的提前（原定6月30日）是因为安全考虑——避免武装分子在预定日期发动袭击。此后伊拉克经历了临时政府（阿拉维）、过渡政府（贾法里）到2006年马利基政府的选举过渡。2011年美军全部撤出，2014年又因 ISIS 回归。伊拉克的主权在法律上恢复了，但治理的碎片化（什叶、逊尼、库尔德三方博弈）从未真正解决。",
+  "impact": "军事占领的法律终结与治理真空的现实开始，伊拉克从统一国家走向碎片化。",
+  "aftermath": "2024年伊拉克举行议会选举；美军顾问仍驻扎伊拉克对抗 ISIS 残余。",
+  "sources": [
+   {
+    "title": "伊拉克战争 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/伊拉克战争",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "伊拉克",
+   "主权"
+  ]
+ },
+ {
+  "id": "2004-11-02-bush-reelected",
+  "date": "2004-11-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "小布什连任：反恐时代的美国再选择",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2004年11月2日，小布什在总统大选中击败民主党候选人约翰·克里，赢得连任。选举的核心议题是反恐战争（阿富汗+伊拉克）与『道德价值观』—— evangelical 基督徒的投票率创纪录。小布什获得286张选举人票与6200万张普选票（当时史上最多）。",
+  "detail": "克里在选前被认为有望利用伊拉克战争的泥潭击败小布什，但『 swift boat 』广告对克里越战经历的攻击与『道德价值观』议题（同性婚姻禁令在11州通过）让保守派选民大规模动员。小布什第二任期推动 Social Security 私有化（失败）、Katrina 飓风应对（灾难）、金融监管放松——2008年金融危机终结了共和党的执政。",
+  "impact": "反恐时代的美国选举范式确立，宗教右翼与安全议题的绑定强化。",
+  "aftermath": "2008年金融危机与小布什的历史评价恶化；2024年特朗普的胜选被解读为共和党从『布什主义』向『MAGA』的彻底转型。",
+  "sources": [
+   {
+    "title": "2004年美国总统选举 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/2004年美国总统选举",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "美国大选",
+   "小布什"
+  ]
+ },
+ {
+  "id": "2004-10-04-spaceshipone-xprize",
+  "date": "2004-10-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "SpaceShipOne 夺得 X-Prize：私人载人航天的破晓",
+  "category": "science",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2004年10月4日，微软联合创始人保罗·艾伦资助的 SpaceShipOne 在两周内第二次飞越100公里卡门线，赢得1000万美元的 Ansari X-Prize——这是人类历史上第一次由私人资金支持的载人航天飞行超过太空边界。商业航天的种子在此刻发芽。",
+  "detail": "SpaceShipOne 由 Burt Rutan 设计、Scaled Composites 建造，采用母机搭载+空中释放+火箭推进+滑翔返回的创新架构。它证明了不需要 NASA 级别的预算也能送人到太空。 Richard Branson 随即以此技术为基础创立维珍银河；马斯克与贝索斯的蓝色起源则走了不同的路线。X-Prize 的奖励模式也被复制到自动驾驶、清洁能源等多个领域。",
+  "impact": "私人航天的里程碑：太空不再是政府的专属领地。",
+  "aftermath": "维珍银河2021年首次载人商业飞行（布兰森亲自上阵）；SpaceX 龙飞船已执行50+次任务。",
+  "sources": [
+   {
+    "title": "太空船一号 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/太空船一号",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "航天",
+   "SpaceShipOne",
+   "X-Prize",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2003-06-26-hgp-complete",
+  "date": "2003-04-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "人类基因组计划完成：30亿碱基对的生命之书",
+  "category": "science",
+  "region": "world",
+  "milestone": true,
+  "summary_30s": "2003年4月14日，国际人类基因组计划联合美国、英国、日本、法国、德国与中国的六国科学家宣布：人类基因组的30亿对碱基测序完成（精确度99.99%）。这项1990年启动、耗资27亿美元、历时13年的『生命科学登月计划』，为精准医学与基因编辑时代奠定了基础。",
+  "detail": "HGP 的完成推动了此后测序成本的指数级下降：从HGP时代的每人1亿美元降至2024年的200美元——比摩尔定律还快。此后全基因组关联研究（GWAS）发现了数千个疾病相关基因，CRISPR 基因编辑（2012）与 mRNA 疫苗（2020）都以 HGP 的数据为前提。中国承担了其中1%的测序任务（华大基因由此起家）。",
+  "impact": "生命科学的范式转变：从『一个基因一个实验』到『全基因组系统性解读』。",
+  "aftermath": "2022年首份『完整』基因组（T2T）填补了剩余空白； personalized medicine 与 gene therapy 进入临床。",
+  "sources": [
+   {
+    "title": "人类基因组计划 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/人类基因组计划",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "科学",
+   "基因组",
+   "里程碑"
+  ]
+ },
+ {
+  "id": "2003-08-19-un-baghdad-bombing",
+  "date": "2003-08-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "联合国驻巴格达办事处爆炸：22人死亡与多边主义的伤疤",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2003年8月19日，联合国驻巴格达办事处遭卡车炸弹袭击，22人死亡（含联合国秘书长伊拉克问题特使塞尔吉奥·维埃拉·德梅洛）。这是联合国成立以来针对其工作人员的最致命袭击——德梅洛被视为未来联合国秘书长的热门人选，他的死亡震动了整个多边体系。",
+  "detail": "炸弹藏在一辆装满爆炸物的卡车中， targeted 联合国在运河饭店的办公室。德梅洛是巴西外交官，曾负责东帝汶独立过渡，被认为是安南的最佳接班人。此后联合国在同年9月的第二次袭击后撤出大部分驻伊人员，直到2020年代才逐步恢复。安南事后承认『联合国必须重新思考其在冲突地区的角色』。",
+  "impact": "联合国人道主义『中立性』原则第一次被系统性挑战，此后人道工作者成为蓄意攻击目标的趋势加剧。",
+  "aftermath": "2024年联合国人道工作者死亡人数创历史新高；Sergio De Mello 的名字被用于命名日内瓦人权委员会大楼。",
+  "sources": [
+   {
+    "title": "Canal Hotel bombing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Canal_Hotel_bombing",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "联合国",
+   "伊拉克",
+   "恐怖袭击"
+  ]
+ },
+ {
+  "id": "2003-06-01-three-gorges-impound",
+  "date": "2003-06-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "三峡工程下闸蓄水：高峡出平湖的时刻",
+  "category": "national",
+  "region": "cn",
+  "milestone": true,
+  "summary_30s": "2003年6月1日，三峡大坝正式下闸蓄水，坝前水位从海拔75米逐步升至135米——千年川江的面貌开始改变。6月10日首批机组（2号、5号）并网发电，三峡开始向华中电网输送电力。从孙中山1919年《建国方略》首次设想到此时，已过去84年。",
+  "detail": "蓄水前的库区移民超过72万人（最终130万），秭归、奉节等千年古城沉入江底。2006年大坝全线建成、2009年全部26台机组投产。此后三峡的防洪效益在2020年洪水中得到检验（削峰率达34%），但泥沙淤积、地质滑坡与生态影响的争议同样持续。三峡集团已成为全球最大的清洁能源集团。",
+  "impact": "人类历史上最大的水利枢纽开始运行，中国的水电能力从此达到世界巅峰。",
+  "aftermath": "金沙江白鹤滩（2021）、乌东德（2020）等巨型水电站相继投产，三峡集团年发电量超4000亿千瓦时。",
+  "sources": [
+   {
+    "title": "三峡水电站 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/三峡水电站",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国家",
+   "三峡",
+   "水电",
+   "里程碑"
+  ]
+ }
+]
