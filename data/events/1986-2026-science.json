@@ -6261,36 +6261,6 @@
 ]
 },
 {
-"id": "2018-07-25-mars-subglacial-lake",
-"date": "2018-07-25",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "火星南极冰盖下发现疑似液态水湖",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "7月25日，《科学》发表欧洲火星快车号MARSIS雷达的发现：火星南极分层冰盖之下约1.5公里处存在一片约20公里宽的高反射区——疑似稳定存在的液态咸水湖。火星『有水』叙事再添关键一页。",
-"detail": "雷达判据是介电常数异常，盐水（含高氯酸盐）可以在低温下保持液态。发现引发多年争论：2020年代多批研究质疑融化需要过量地热或盐浓度不现实，也有研究提出导电黏土假象。2021年与2024年的再分析给出矛盾结论——它究竟是湖、泥浆还是岩石，仍是悬案。",
-"impact": "火星现代液态水的存在性从理论变为观测争点，冰下探测载荷成为火星任务新方向。",
-"aftermath": "欧洲Rosalind Franklin火星车将携带钻探设备（原计划2028年）；冰下测井雷达与 冰下机器人 概念持续迭代。",
-"sources": [
-{
-"title": "Wikipedia: 2018 in science",
-"url": "https://en.wikipedia.org/wiki/2018_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"探险",
-"火星",
-"冰下湖",
-"MARSIS"
-]
-},
-{
 "id": "2018-08-12-parker-solar-probe-launch",
 "date": "2018-08-12",
 "date_accuracy": "exact",
