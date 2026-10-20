@@ -4456,35 +4456,6 @@
 ]
 },
 {
-"id": "2010-05-20-venter-synthetic-cell",
-"date": "2010-05-20",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "文特尔团队造出『人造生命』：全合成基因组驱动的细胞",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "5月20日，《科学》在线发表克雷格·文特尔研究所的成果：团队用化学方法合成了丝状支原体的完整基因组（约108万碱基对），植入山羊支原体的空壳细胞后，合成基因组接管细胞并开始分裂。第一个由『写在电脑里的基因组』驱动的生命诞生，代号Synthia。",
-"detail": "团队花15年、4000万美元攻克超大片段DNA的拼接、移植与甲基化识别难题，甚至给基因组加了『水印』（写入研究者名字与诗句）。实验证明DNA序列本身就是生命的操作系统，蛋白质只是硬件。成果引发生物安全与『什么是生命』的哲学争论。",
-"impact": "合成生物学从改造基因升级到合成整个基因组，生命可被从头设计获得实证。",
-"aftermath": "此后合成基因组规模不断刷新；2020年代最小基因组（JCVI-syn3.0，473个基因）与活体医药（合成微生物疗法）延续这一路线。",
-"sources": [
-{
-"title": "Wikipedia: 2010 in science",
-"url": "https://en.wikipedia.org/wiki/2010_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"医学",
-"合成生物学",
-"文特尔",
-"人造生命"
-]
-},
-{
 "id": "2010-07-08-solar-impulse-24h",
 "date": "2010-07-08",
 "date_accuracy": "exact",
