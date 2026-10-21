@@ -1,13 +1,29 @@
-/* 互联网编年史 · 长卷 v2 — 设计规范见 DESIGN.md */
+/* 互联网编年史 · 长卷 v3 — 设计规范见 DESIGN.md
+   v3 样式层变更：
+   · 字体：自托管 Songti SC Bold 子集（仅标题/摘要用字 + ASCII + 常用标点，~740KB），
+     --serif 首栈命中后各平台标题字形一致；Windows 兜底改为有真 Bold 的微软雅黑，
+     杜绝 SimSun 伪加粗发糊；标题类元素 font-synthesis:none，字重统一 700。
+   · 性能：网格背景移入 body::before 固定层（切主题/滚动只动视口）；backdrop-filter 渐进增强、移动端降载；
+     transition 全部收窄到具体属性；app.js 切主题瞬间的 .theming 类冻结全部过渡/动画。
+   · 可访问性：:focus-visible 焦点环、prefers-reduced-motion 降级。
+   · 交互：hover 效果限定 @media (hover:hover)，避免触屏粘滞 hover；移动端触控目标加大。 */
+
+@font-face{
+  font-family:"Songti Subset";
+  src:url("fonts/songti-bold-subset.woff2") format("woff2");
+  font-weight:700;font-style:normal;font-display:swap;
+}
+
 :root{
   --bg:#0c0d10; --bg2:#101218; --panel:#16181d; --panel2:#1a1d23;
   --line:#2a2d35; --line2:#3a3e48;
   --text:#e8e4da; --dim:#9a958a; --faint:#66625a;
   --accent:#c9a86a; --accent2:#b0493e;
-  --serif:"Noto Serif SC","Songti SC","STSong","STSongti-SC","SimSun",serif;
-  --mono:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+  --serif:"Songti Subset","Songti SC","Noto Serif CJK SC","Source Han Serif SC","Microsoft YaHei",serif;
+  --mono:ui-monospace,"SF Mono","Cascadia Code","JetBrains Mono",Menlo,Consolas,monospace;
   --sans:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
   --grid:rgba(200,190,170,.035);
+  --hoverShadow:0 6px 24px rgba(0,0,0,.28);
 }
 html[data-theme="light"]{
   --bg:#faf8f2; --bg2:#f1eee5; --panel:#ffffff; --panel2:#faf7ef;
@@ -15,19 +31,29 @@ html[data-theme="light"]{
   --text:#211e18; --dim:#6d675c; --faint:#a09a8c;
   --accent:#8a744a; --accent2:#a34a3f;
   --grid:rgba(60,50,30,.045);
+  --hoverShadow:0 6px 24px rgba(90,70,30,.10);
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
+
+/* 衬线标题禁用合成加粗：Songti / 雅黑均有真 Bold，避免无粗体字形的后备字体被算法加粗发糊 */
+.brand,.heroTitle,.introTitle,.eraPill,.yBadge,.cTitle,.colophon h3,.resumeBar b{font-synthesis:none}
+
 body{
   margin:0; color:var(--text); font-family:var(--sans); font-size:16px; line-height:1.8;
+  background:linear-gradient(180deg,var(--bg),var(--bg2));
+}
+/* 网格平铺独立为视口固定层：切主题时只重绘视口，滚动时零重绘（原先整页数千 px 重铺） */
+body::before{
+  content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
   background:
     linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px),
-    linear-gradient(180deg,var(--bg),var(--bg2));
-  background-size:44px 44px,44px 44px,100% 100%;
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size:44px 44px;
 }
 a{color:inherit}
 ::selection{background:var(--accent);color:#111}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 #progress{position:fixed;top:0;left:0;height:2px;width:0;background:var(--accent2);z-index:90}
 
@@ -35,63 +61,64 @@ a{color:inherit}
 .topbar{
   position:sticky;top:0;z-index:60;display:flex;justify-content:space-between;align-items:center;
   padding:10px 28px;border-bottom:1px solid var(--line);
-  background:color-mix(in srgb, var(--bg) 86%, transparent);backdrop-filter:blur(10px);
+  background:color-mix(in srgb, var(--bg) 86%, transparent);
 }
 .brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-family:var(--serif);font-weight:700;font-size:1.02rem}
 .brandMark{width:30px;height:30px;border:1px solid var(--accent);border-radius:8px;display:grid;place-items:center;color:var(--accent);font-size:.95rem}
 .topNav{display:flex;align-items:center;gap:22px;font-size:.86rem}
 .topNav a{text-decoration:none;color:var(--dim)}
-.topNav a:hover{color:var(--text)}
-#themeBtn{background:none;border:1px solid var(--line);border-radius:8px;color:var(--dim);width:32px;height:32px;cursor:pointer;font-size:.9rem}
-#themeBtn:hover{color:var(--text);border-color:var(--accent)}
+#themeBtn{background:none;border:1px solid var(--line);border-radius:8px;color:var(--dim);width:32px;height:32px;cursor:pointer;font-size:.9rem;transition:color .2s,border-color .2s}
+
+/* 毛玻璃为渐进增强：不支持时由上方半透明底色兜底；移动端 GPU 弱，blur 降为 6px */
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .topbar{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+}
 
 /* ── Hero ─────────────────── */
 .hero{min-height:78vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:70px 20px 90px}
 .eyebrow{font-family:var(--mono);font-size:.74rem;letter-spacing:.38em;color:var(--dim);text-transform:uppercase;margin:0 0 18px}
 .heroTitle{
-  font-family:var(--serif);font-weight:900;font-size:clamp(3rem,9vw,6.4rem);
+  font-family:var(--serif);font-weight:700;font-size:clamp(3rem,9vw,6.4rem);
   line-height:1.08;margin:0 0 26px;letter-spacing:.02em;
 }
 .heroTitle em{font-style:normal;color:var(--accent)}
 .heroSub{max-width:620px;color:var(--dim);font-size:1.06rem;margin:0 0 40px;text-wrap:balance}
 .heroCta{display:flex;gap:14px;flex-wrap:wrap;justify-content:center}
-.btn{font-family:var(--mono);font-size:.85rem;letter-spacing:.08em;padding:13px 34px;border-radius:4px;text-decoration:none;cursor:pointer;transition:all .2s}
+.btn{font-family:var(--mono);font-size:.85rem;letter-spacing:.08em;padding:13px 34px;border-radius:4px;text-decoration:none;cursor:pointer;transition:color .2s,border-color .2s,background-color .2s,filter .2s}
 .btn.primary{background:var(--accent);color:#141310;border:1px solid var(--accent)}
-.btn.primary:hover{filter:brightness(1.08)}
 .btn.ghost{border:1px solid var(--line2);color:var(--dim)}
-.btn.ghost:hover{color:var(--text);border-color:var(--accent)}
 
 /* ── 工具栏 ─────────────────── */
 .toolbar{
   position:sticky;top:53px;z-index:50;padding:14px 28px 12px;
   border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-  background:color-mix(in srgb, var(--bg) 92%, transparent);backdrop-filter:blur(10px);
+  background:color-mix(in srgb, var(--bg) 92%, transparent);
 }
 .tRow{display:flex;align-items:center;gap:12px;max-width:1160px;margin:0 auto 10px}
 .tRow:last-child{margin-bottom:2px}
-.searchWrap{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;background:var(--panel)}
+.searchWrap{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;background:var(--panel);transition:border-color .2s}
 .searchIcon{color:var(--faint);font-size:1rem}
-#q{flex:1;background:none;border:none;outline:none;color:var(--text);font-size:.92rem;font-family:var(--sans)}
+#q{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans)}
 #q::placeholder{color:var(--faint)}
+.searchWrap:focus-within{border-color:var(--accent)}
 .qCount{font-family:var(--mono);font-size:.72rem;color:var(--accent);white-space:nowrap}
-.tBtn{font-family:var(--mono);font-size:.74rem;letter-spacing:.05em;padding:9px 16px;border:1px solid var(--line2);border-radius:6px;background:var(--panel);color:var(--dim);cursor:pointer;white-space:nowrap;transition:all .2s}
-.tBtn:hover{color:var(--text);border-color:var(--accent)}
+.tBtn{font-family:var(--mono);font-size:.74rem;letter-spacing:.05em;padding:9px 16px;border:1px solid var(--line2);border-radius:6px;background:var(--panel);color:var(--dim);cursor:pointer;white-space:nowrap;transition:color .2s,border-color .2s,background-color .2s}
 .tBtn.on{background:var(--accent);color:#141310;border-color:var(--accent)}
 .tLab{font-family:var(--mono);font-size:.68rem;letter-spacing:.3em;color:var(--faint);flex:none}
 .chipRow{display:flex;gap:8px;flex-wrap:wrap}
 .chip{
   font-family:var(--mono);font-size:.72rem;padding:4px 11px;border-radius:999px;cursor:pointer;
-  border:1px solid var(--line2);color:var(--dim);background:none;transition:all .18s;white-space:nowrap;
+  border:1px solid var(--line2);color:var(--dim);background:none;white-space:nowrap;
+  transition:color .18s,border-color .18s,background-color .18s,opacity .18s;
 }
 .chip .n{color:var(--faint);margin-left:3px}
-.chip:hover{color:var(--text);border-color:var(--accent)}
 .chip.on{color:var(--text);border-color:var(--accent);background:color-mix(in srgb, var(--accent) 14%, transparent)}
 .chip.off{opacity:.38}
 
 /* ── 引言 ─────────────────── */
 .page{max-width:1160px;margin:0 auto;padding:0 28px}
 .intro{padding:90px 0 40px;max-width:720px}
-.introTitle{font-family:var(--serif);font-size:clamp(1.8rem,4vw,2.9rem);font-weight:900;margin:0 0 18px;line-height:1.3}
+.introTitle{font-family:var(--serif);font-size:clamp(1.8rem,4vw,2.9rem);font-weight:700;margin:0 0 18px;line-height:1.3}
 .introText{color:var(--dim);font-size:1.02rem;margin:0}
 
 /* ── 长卷主体 ─────────────────── */
@@ -118,12 +145,9 @@ a{color:inherit}
   min-width:74px;height:34px;padding:0 12px;border-radius:999px;
   background:var(--accent2);color:#fdf9f2;display:inline-flex;align-items:center;justify-content:center;
   white-space:nowrap;font-family:var(--serif);font-weight:700;font-size:1rem;letter-spacing:.04em;
-  box-shadow:0 0 0 4px var(--bg);
+  box-shadow:0 0 0 4px var(--bg);cursor:pointer;transition:transform .15s;
 }
 .yBadge small{font-family:var(--mono);font-size:.6rem;font-weight:400;opacity:.75;margin-left:6px}
-.yBadge{cursor:pointer;transition:transform .15s}
-.yBadge:hover{transform:translateX(-50%) scale(1.12) !important}
-@media (max-width:860px){ .yBadge:hover{transform:scale(1.12)} }
 .yBadge.flash{animation:badgeFlash .55s ease 3}
 @keyframes badgeFlash{
   0%,100%{background:var(--accent2);box-shadow:0 0 0 4px var(--bg)}
@@ -136,11 +160,11 @@ a{color:inherit}
   grid-column:1;justify-self:end;width:100%;max-width:505px;
   background:var(--panel);border:1px solid var(--line);border-radius:10px;
   padding:18px 22px 16px;cursor:pointer;position:relative;
-  opacity:0;transform:translateY(14px);transition:opacity .5s ease,transform .5s ease,border-color .2s;
+  opacity:0;transform:translateY(14px);
+  transition:opacity .5s ease,transform .5s ease,border-color .2s,box-shadow .2s;
 }
 .card.right{grid-column:3;justify-self:start}
 .card.in{opacity:1;transform:none}
-.card:hover{border-color:var(--accent)}
 .card::after{ /* 连接短刺 */
   content:"";position:absolute;top:26px;height:2px;width:26px;background:var(--line2);
 }
@@ -164,14 +188,14 @@ a{color:inherit}
 .cAcc{color:var(--faint)}
 .cTitle{font-family:var(--serif);font-size:1.18rem;font-weight:700;line-height:1.45;margin:0 0 8px}
 .cTitle a{text-decoration:none}
-.cTitle a:hover{color:var(--accent)}
 .cTitle .arrow{color:var(--faint);font-size:.8em;font-family:var(--mono)}
 .cSum{color:var(--dim);font-size:.9rem;margin:0;line-height:1.75}
+.cSum .hint{text-decoration:underline dotted;text-underline-offset:3px;opacity:.85}
 .cMore{
   margin-top:10px;background:none;border:none;cursor:pointer;color:var(--accent);
   font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;padding:0;
 }
-.cMore:hover{text-decoration:underline}
+.cMore i{display:inline-block;transition:transform .2s}
 .cBody{border-top:1px solid var(--line);margin-top:12px;padding-top:12px;display:none}
 .cBody{
   display:grid;grid-template-rows:0fr;margin-top:0;border-top:1px solid transparent;
@@ -179,8 +203,7 @@ a{color:inherit}
 }
 .cBodyInner{overflow:hidden;min-height:0}
 .card.open .cBody{grid-template-rows:1fr;margin-top:12px;padding-top:12px;border-top-color:var(--line)}
-.card.open .cMore i{display:inline-block;transform:rotate(180deg);transition:transform .2s}
-.cMore i{display:inline-block;transition:transform .2s}
+.card.open .cMore i{transform:rotate(180deg)}
 .sec{margin-bottom:12px}
 .sec:last-child{margin-bottom:2px}
 .sec .lab{display:block;font-family:var(--mono);font-size:.66rem;letter-spacing:.28em;color:var(--faint);margin-bottom:3px}
@@ -188,7 +211,6 @@ a{color:inherit}
 .srcList{list-style:none;margin:4px 0 0;padding:0}
 .srcList li{font-size:.8rem;margin-bottom:4px}
 .srcList a{color:var(--accent);text-decoration:none}
-.srcList a:hover{text-decoration:underline}
 .srcList .tp{font-family:var(--mono);font-size:.62rem;color:var(--faint);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px}
 
 /* 空态 */
@@ -197,7 +219,7 @@ a{color:inherit}
 /* ── 凡例 ─────────────────── */
 .colophon{border-top:1px solid var(--line);margin-top:70px;background:var(--panel)}
 .colInner{max-width:760px;margin:0 auto;padding:64px 28px}
-.colophon h3{font-family:var(--serif);font-size:1.5rem;margin:0 0 16px}
+.colophon h3{font-family:var(--serif);font-weight:700;font-size:1.5rem;margin:0 0 16px}
 .colophon p{color:var(--dim);font-size:.92rem}
 .colophon b{color:var(--text)}
 .colMeta{font-family:var(--mono);font-size:.72rem;color:var(--faint);border-top:1px dashed var(--line);padding-top:14px;margin-top:22px}
@@ -206,28 +228,54 @@ a{color:inherit}
 #toTop{
   position:fixed;right:26px;bottom:26px;width:44px;height:44px;border-radius:50%;
   border:1px solid var(--line2);background:var(--panel);color:var(--dim);font-size:1.1rem;
-  cursor:pointer;opacity:0;pointer-events:none;transition:all .25s;z-index:70;
+  cursor:pointer;opacity:0;pointer-events:none;transition:opacity .25s,color .25s,border-color .25s;z-index:70;
 }
 #toTop.show{opacity:1;pointer-events:auto}
-#toTop:hover{color:var(--accent);border-color:var(--accent)}
+
+/* ── 指针设备限定 hover（触屏不粘滞） ─────────────────── */
+@media (hover:hover){
+  .topNav a:hover{color:var(--text)}
+  #themeBtn:hover{color:var(--text);border-color:var(--accent)}
+  .btn.primary:hover{filter:brightness(1.08)}
+  .btn.ghost:hover{color:var(--text);border-color:var(--accent)}
+  .tBtn:hover{color:var(--text);border-color:var(--accent)}
+  .chip:hover{color:var(--text);border-color:var(--accent)}
+  .card:hover{border-color:var(--accent);box-shadow:var(--hoverShadow)}
+  .cTitle a:hover{color:var(--accent)}
+  .cMore:hover{text-decoration:underline}
+  .srcList a:hover{text-decoration:underline}
+  .yBadge:hover{transform:translateX(-50%) scale(1.12)}
+  #toTop:hover{color:var(--accent);border-color:var(--accent)}
+}
 
 /* ── 移动端 ─────────────────── */
 @media (max-width:860px){
   .topbar{padding:10px 16px}
   .toolbar{padding:12px 16px 10px;top:52px}
+  @supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+    .topbar{-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+    .toolbar{-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+  }
   .tRow{gap:8px;margin-bottom:8px}
   .tJumpRow{overflow-x:auto;scrollbar-width:none}
   .page{padding:0 16px}
   .timeline::before{left:17px}
   .cards{display:block;position:relative;padding-left:44px}
   .card{max-width:none;margin-bottom:20px}
-  .card::after{left:-38px !important;right:auto !important;width:24px;top:24px}
+  /* 短刺与中线对齐：刺中心 = 44 - 38 + 12 = 18px = 中线（17px + 1px/2）；特异性覆盖 .card:not(.right)::after */
+  .cards .card::after{left:-38px;right:auto;width:24px;top:24px}
   .yBadge{left:0;transform:none;min-width:56px;height:28px;font-size:.85rem;padding:0 9px}
   .eraHead{gap:10px}
   .eraPill{font-size:.85rem;padding:7px 14px}
+  .chip{padding:6px 13px;font-size:.74rem}
+  .cMore{padding:6px 0}
   .hero{min-height:64vh;padding:50px 16px 60px}
   .heroSub{font-size:.95rem}
   #toTop{right:14px;bottom:14px}
+}
+/* 移动端 hover 徽标放大（不叠加 translateX） */
+@media (max-width:860px) and (hover:hover){
+  .yBadge:hover{transform:scale(1.12)}
 }
 
 .resumeBar{
@@ -235,7 +283,32 @@ a{color:inherit}
   display:flex;align-items:center;gap:14px;padding:10px 14px 10px 20px;
   background:var(--panel);border:1px solid var(--accent);border-radius:12px;
   box-shadow:0 10px 40px rgba(0,0,0,.4);font-size:.9rem;
-  opacity:0;transition:all .45s cubic-bezier(.22,.9,.3,1);
+  opacity:0;transition:opacity .45s cubic-bezier(.22,.9,.3,1),transform .45s cubic-bezier(.22,.9,.3,1);
 }
 .resumeBar.show{opacity:1;transform:translate(-50%,0)}
 .resumeBar b{color:var(--accent);font-family:var(--serif)}
+
+/* ── 减少动态效果 ─────────────────── */
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .card{opacity:1;transform:none;transition:none}
+  .cBody,.cMore i,.card.open .cMore i{transition:none}
+  .yBadge{transition:none}
+  .yBadge.flash{animation:none}
+  #toTop,.resumeBar{transition:none}
+}
+
+/* ── 主题切换瞬间冻结（app.js 在切换时加 .theming，一帧后移除） ─────────────────── */
+.theming,.theming *,.theming *::before,.theming *::after{
+  transition:none !important;animation:none !important;
+}
+
+/* ── 轻提示（toast） ─────────────────── */
+.toast{
+  position:fixed;left:50%;bottom:86px;transform:translate(-50%,16px);z-index:95;
+  padding:10px 20px;border-radius:10px;font-size:.86rem;color:var(--text);
+  background:var(--panel);border:1px solid var(--accent);
+  box-shadow:var(--hoverShadow,0 6px 24px rgba(0,0,0,.28));
+  opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;
+}
+.toast.show{opacity:1;transform:translate(-50%,0)}

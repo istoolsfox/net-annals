@@ -1,11 +1,20 @@
 <!doctype html>
-<html lang="zh-CN" data-theme="dark">
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="中国互联网编年史：从 1987 年第一封电子邮件到今天，精确到日、每条可溯源的时代长卷。">
 <title>互联网编年史 · 中国长卷 1986—2026</title>
-<link rel="stylesheet" href="style.css?v=13">
+<link rel="stylesheet" href="style.css?v=14">
+<link rel="preload" href="data/index.json" as="fetch" crossorigin>
+<script>
+/* 主题防闪烁（FOUC）：在 app.js 之前同步执行，按本地偏好立即着色；app.js 里的 applyTheme 幂等 */
+(function () {
+  var t = localStorage.getItem('na-theme');
+  if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
 </head>
 <body>
 <div id="progress"></div>
@@ -65,6 +74,6 @@
 
 <button id="toTop" title="回到顶部">↑</button>
 
-<script src="app.js?v=19"></script>
+<script src="app.js?v=20"></script>
 </body>
 </html>

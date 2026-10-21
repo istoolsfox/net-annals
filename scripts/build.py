@@ -3,6 +3,8 @@
 
 用法：python3 scripts/build.py
 校验不过 → 退出码 1，列出全部错误；校验通过 → 输出统计并写 site/data.json。
+另：按时代切分输出 site/data/（index.json + shard-0..7.json），供前端按时代
+惰性加载——时代归属逻辑与 site/app.js 的 eraIndex() 必须严格一致。
 """
 import json
 import re
@@ -151,6 +153,66 @@ def main() -> int:
     milestone_total = sum(1 for e in all_events if e.get("milestone"))
     for e in all_events:
         confidence_stat[e.get("date_confidence", "uncertain")] += 1
+
+    # ── 时代分片输出（site/data/）────────────────────────────────────────────
+    # 时代定义与 site/app.js 的 ERAS 数组完全一致；归属算法与 app.js eraIndex() 同构。
+    # 改动任一侧必须同步另一侧，否则前端分片内容与时代归属会错位。
+    ERAS = [
+        ("接入前史", (1986, 1994.4)),
+        ("拨号时代", (1994.4, 2000)),
+        ("门户与泡沫", (2000, 2003)),
+        ("Web2.0 前夜", (2003, 2005)),
+        ("Web2.0", (2005, 2010)),
+        ("移动互联网", (2010, 2015)),
+        ("移动成熟", (2015, 2020)),
+        ("疫情与智能", (2020, 2027)),
+    ]
+
+    def era_index(d: str) -> int:
+        """year + (month-1)/12 落入左闭右开区间；越界钳制到第 0 / 最后一个时代"""
+        yf = int(d[:4]) + (int(d[5:7]) - 1) / 12
+        for i, (_, (lo, hi)) in enumerate(ERAS):
+            if lo <= yf < hi:
+                return i
+        return 0 if yf < ERAS[0][1][0] else len(ERAS) - 1
+
+    shards: list[list[dict]] = [[] for _ in ERAS]
+    for e in all_events:                    # all_events 已按 date 排序，各分片天然有序
+        shards[era_index(e["date"])].append(e)
+
+    data_dir = OUT.parent / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    eras_manifest = []
+    for i, (name, rng) in enumerate(ERAS):
+        shard_name = f"shard-{i}.json"
+        (data_dir / shard_name).write_text(
+            json.dumps(shards[i], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        eras_manifest.append({"name": name, "range": [rng[0], rng[1]], "shard": shard_name})
+
+    # 分类计数 + 高频标签：工具栏 chips 需要全量统计，放 manifest 里随 index.json 下发，
+    # 前端不必为画 chips 而全量加载事件（标签只下发 ≥10 次的，前端仍按 ≥60 过滤）
+    cat_counts: dict[str, int] = {}
+    tag_counter: dict[str, int] = {}
+    for e in all_events:
+        cat_counts[e["category"]] = cat_counts.get(e["category"], 0) + 1
+        for t in e.get("tags") or []:
+            tag_counter[t] = tag_counter.get(t, 0) + 1
+    tags_top = sorted(((t, c) for t, c in tag_counter.items() if c >= 10),
+                      key=lambda x: (-x[1], x[0]))[:500]
+
+    index_manifest = {
+        "generated": payload["generated"],
+        "total": n,
+        "verified": confidence_stat["verified"],
+        "milestones": milestone_total,
+        "sourceCount": len({s["url"] for e in all_events for s in e.get("sources", [])}),
+        "cats": cat_counts,
+        "tags": tags_top,
+        "eras": eras_manifest,
+    }
+    (data_dir / "index.json").write_text(
+        json.dumps(index_manifest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
     years = sorted(per_year)
     print(f"✓ 校验通过：{n} 条事件（{years[0]}–{years[-1]}），里程碑 {milestone_total} 条")
     print(f"  日期置信：verified {confidence_stat['verified']} / single-source "
@@ -170,6 +232,8 @@ def main() -> int:
         bar = "█" * max(1, min(60, per_year[y] // 10))
         print(f"    {y}  {per_year[y]:4d}  {bar}")
     print(f"✓ 已生成 {OUT.relative_to(ROOT)}")
+    print(f"✓ 已生成 {data_dir.relative_to(ROOT)}/（index.json + {len(ERAS)} 个时代分片："
+          + "，".join(f"shard-{i} {len(s)} 条" for i, s in enumerate(shards)) + "）")
     return 0
 
 

@@ -1,9 +1,11 @@
 /* 互联网编年史 · 长卷 v3 — 分层架构
  *
  * Store   ：唯一数据与筛选状态源，提供选择器（selector）。视图只读 Store，不持有数据副本。
+ *           数据按时代分片（site/data/shard-*.json）惰性加载：Store.shards[i] 只存已加载分片。
  * Timeline：纯渲染层。renderEra(i) 幂等：同一时代无论被谁触发（滚动/跳转/筛选），
  *           都走同一条渲染路径，渲染结果只由 Store 的选择器决定。
- * Nav     ：导航层。跳转 = 先同步渲染目标时代 → 再瞬时定位（禁用平滑，杜绝长途滑行）。
+ *           懒加载 + 懒渲染：boot 只建时代空壳，IntersectionObserver 触发时才取分片、建卡片 DOM。
+ * Nav     ：导航层。跳转 = 先确保目标时代分片已加载并渲染 → 再瞬时定位（禁用平滑，杜绝长途滑行）。
  * Toolbar ：控制层。只负责把用户操作转成 Store 状态变更 + 通知 Timeline 重绘。
  *
  * 原则：渲染幂等（可重入）、分层单向依赖（Toolbar→Store→Timeline）、
@@ -43,15 +45,32 @@ const UIState = { expandAll: false };
 
 /* ── Store：状态 + 选择器（唯一事实源） ─────────────────── */
 const Store = {
-  events: [],
+  manifest: null,                                   // data/index.json：总量统计 + 分片清单
+  shards: ERAS.map(() => null),                     // 各时代事件分片（加载后填充，按日期有序）
+  shardState: ERAS.map(() => 'empty'),              // empty | loading | loaded | error
   ready: false,
   filters: { cats: new Set(CATS.map(c => c.k)), q: '', mileOnly: false, tag: null },
 
-  /** 事件所属时代索引；越界钳制到最后一个时代（杜绝事件被静默丢弃） */
+  /** 事件所属时代索引；越界钳制到最后一个时代（杜绝事件被静默丢弃）
+   *  注意：必须与 scripts/build.py 的分片归属逻辑严格一致 */
   eraIndex(dateStr) {
     const yf = +dateStr.slice(0, 4) + (+dateStr.slice(5, 7) - 1) / 12;
     const i = ERAS.findIndex(e => yf >= e.range[0] && yf < e.range[1]);
     return i === -1 ? (yf < ERAS[0].range[0] ? 0 : ERAS.length - 1) : i;
+  },
+
+  /** 拉取某时代分片：并发去重；失败标记 error（由 Timeline 呈现重试按钮） */
+  loadShard(i) {
+    if (this.shardState[i] === 'loaded') return Promise.resolve();
+    (this._inflight ??= {});
+    if (this._inflight[i]) return this._inflight[i];
+    this.shardState[i] = 'loading';
+    const p = fetch('data/' + this.manifest.eras[i].shard)
+      .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(evs => { this.shards[i] = evs; this.shardState[i] = 'loaded'; })
+      .catch(err => { this.shardState[i] = 'error'; throw err; });
+    this._inflight[i] = p.finally(() => { delete this._inflight[i]; });
+    return this._inflight[i];
   },
 
   /** 过滤谓词表：开闭原则——新增过滤条件只需追加谓词 */
@@ -66,9 +85,12 @@ const Store = {
   ],
   passes(e) { return this.predicates.every(p => p(e, this.filters)); },
 
-  /** 选择器：某时代的可见事件（按日期有序） */
-  eventsOf(eraIdx) { return this.events.filter(e => this.eraIndex(e.date) === eraIdx && this.passes(e)); },
-  visibleCount() { return this.events.filter(e => this.passes(e)).length; },
+  /** 已加载事件总量（qCount 的"全量"基准只看已加载分片，全部分片到位后即为精确值） */
+  loadedTotal() { return this.shards.reduce((n, s) => n + (s ? s.length : 0), 0); },
+
+  /** 选择器：某时代的可见事件（按日期有序；只看已加载分片） */
+  eventsOf(eraIdx) { return (this.shards[eraIdx] || []).filter(e => this.passes(e)); },
+  visibleCount() { return this.shards.reduce((n, s) => s ? n + s.filter(e => this.passes(e)).length : n, 0); },
 
   setFilter(patch) { Object.assign(this.filters, patch); },
 };
@@ -80,14 +102,28 @@ const Timeline = {
 
   init() {
     this.io = new IntersectionObserver(es => {
-      for (const en of es) if (en.isIntersecting) this.renderEra(+en.target.dataset.era);
+      for (const en of es) if (en.isIntersecting) this.ensureEra(+en.target.dataset.era);
     }, { rootMargin: '900px 0px' });
     this.reveal = new IntersectionObserver(es => {
       for (const en of es) if (en.isIntersecting) { en.target.classList.add('in'); this.reveal.unobserve(en.target); }
     }, { rootMargin: '30px' });
   },
 
-  /** 建时代空壳（含时代头）。幂等：整体重建。 */
+  /** 确保某时代分片已加载并渲染（IO 滚动触发与跳转共用的唯一入口） */
+  async ensureEra(i) {
+    if (this.rendered.has(i)) return;
+    try {
+      await Store.loadShard(i);
+      if (this.rendered.has(i)) return;            // 并发触发时后来者让位
+      this.renderEraHead(i);
+      this.renderEra(i);
+      this.refreshQCount();
+    } catch (err) {
+      this.renderError(i, err);
+    }
+  },
+
+  /** 建时代空壳（含时代头）。幂等：整体重建。分片未加载前只有空壳，由 IO 驱动填充。 */
   buildSections() {
     const tl = document.getElementById('timeline');
     tl.innerHTML = '';
@@ -99,21 +135,34 @@ const Timeline = {
       sec.innerHTML = `<div class="eraHead"></div><div class="eraBody"></div>`;
       tl.appendChild(sec);
       this.io.observe(sec);
-      this.renderEraHead(i);       // 时代头永远同步渲染（轻量）
-      this.renderEra(i);           // 若已在视口内立即出内容
+      this.renderEraHead(i);       // 时代头永远同步渲染（分片未加载时显示占位「… 条」）
     });
   },
 
   renderEraHead(i) {
-    const evs = Store.eventsOf(i);
     const era = ERAS[i];
+    const loaded = Store.shardState[i] === 'loaded';
+    const evs = loaded ? Store.eventsOf(i) : [];
     const years = evs.map(e => +e.date.slice(0, 4));
     const span = evs.length ? `${Math.min(...years)}–${Math.max(...years)}` : `${Math.floor(era.range[0])}–${Math.ceil(era.range[1])}`;
     document.querySelector(`#era-${i} .eraHead`).innerHTML =
-      `<span class="eraPill">${era.name}<em>${span}</em></span><span class="eraLine"></span><span class="eraCount">${evs.length} 条</span>`;
+      `<span class="eraPill">${era.name}<em>${span}</em></span><span class="eraLine"></span><span class="eraCount">${loaded ? evs.length + ' 条' : '… 条'}</span>`;
   },
 
-  /** 渲染某时代的卡片体。幂等：已渲染则跳过；筛选变化由 rebuild() 统一清空后重渲。 */
+  /** 分片加载失败：在该时代体里给出错误与重试按钮（点击重取分片） */
+  renderError(i, err) {
+    const body = document.querySelector(`#era-${i} .eraBody`);
+    if (!body) return;
+    body.innerHTML = `<div class="empty">本时代数据加载失败（${esc(String((err && err.message) || err))}）<br>
+      <button class="tBtn retryBtn">↺ 重试加载</button></div>`;
+    body.querySelector('.retryBtn').onclick = () => {
+      Store.shardState[i] = 'empty';
+      body.innerHTML = '';
+      this.ensureEra(i);
+    };
+  },
+
+  /** 渲染某时代的卡片体（调用前必须确保分片已加载）。幂等：已渲染则跳过；筛选变化由 rebuild() 统一清空后重渲。 */
   renderEra(i) {
     if (this.rendered.has(i)) return;
     this.rendered.add(i);
@@ -141,13 +190,14 @@ const Timeline = {
         flip = 1 - flip;
       }
       body.appendChild(g);
-      // 视口内的卡片立即置亮：跳转/筛选后不等待 IO 回调窗口
-      requestAnimationFrame(() => {
+      // 视口内的卡片立即置亮：跳转/筛选后不等待 IO 回调窗口。
+      // 用 setTimeout 而非 rAF——个别 WebView/后台标签 rAF 不派发，置亮不能依赖它
+      setTimeout(() => {
         for (const holder of body.querySelectorAll('.card:not(.in)')) {
           const r = holder.getBoundingClientRect();
-          if (r.top < innerHeight && r.bottom > 0) holder.classList.add('in');
+          if (r.top < innerHeight + 200 && r.bottom > -200) holder.classList.add('in');
         }
-      });
+      }, 0);
     }
   },
 
@@ -178,39 +228,92 @@ const Timeline = {
       </div></div>`;
   },
 
-  /** 筛选变化：全部重建（简单正确优先；三千余条的字符串过滤开销可忽略） */
+  /** 筛选变化：重建空壳，只同步重渲「已加载且在视口附近」的时代，其余交给 IO（避免全量重渲） */
   rebuild() {
-    const n = Store.visibleCount();
-    document.getElementById('qCount').textContent = n === Store.events.length ? '' : `${n} 条`;
+    this.refreshQCount();
     this.buildSections();
+    for (const [i] of ERAS.entries()) {
+      if (Store.shardState[i] !== 'loaded') continue;
+      const sec = document.getElementById(`era-${i}`);
+      if (!sec) continue;
+      const r = sec.getBoundingClientRect();
+      if (r.top < innerHeight + 900 && r.bottom > -900) this.renderEra(i);   // 900px 与 IO rootMargin 一致
+    }
+  },
+  refreshQCount() {
+    const n = Store.visibleCount();
+    document.getElementById('qCount').textContent = n === Store.loadedTotal() ? '' : `${n} 条`;
   },
 
-  /** 导航：先同步渲染目标时代，再瞬时定位（杜绝长滑与落点漂移）。boot 未就绪时排队。 */
+  /** 几何兜底：按视口位置直接驱动加载渲染（scroll 时调用 + boot 后首查）。
+   *  IntersectionObserver 在个别 WebView/内嵌环境不派发回调，此路径保证任何环境都能渲染；
+   *  ensureEra 幂等，与 IO 并存无副作用。 */
+  checkViewport() {
+    if (!Store.ready) return;
+    // 后台 WebView 里 innerHeight 可能为 0，几何判断会整体失效——取保守回退值
+    const vh = innerHeight || document.documentElement.clientHeight || 1080;
+    for (const [i] of ERAS.entries()) {
+      if (this.rendered.has(i) || Store.shardState[i] === 'loading') continue;
+      const sec = document.getElementById(`era-${i}`);
+      if (!sec) continue;
+      const r = sec.getBoundingClientRect();
+      if (r.top < vh + 900 && r.bottom > -900) this.ensureEra(i);   // 900px 与 IO rootMargin 一致
+    }
+  },
+
+  /** reveal 兜底：点亮滚动进入视口的未显影卡片（IO 不可用环境的渐入替代）。 */
+  revealSweep() {
+    for (const holder of document.querySelectorAll('.card:not(.in)')) {
+      const r = holder.getBoundingClientRect();
+      if (r.top < innerHeight + 200 && r.bottom > -200) {
+        holder.classList.add('in');
+        this.reveal?.unobserve(holder);
+      }
+    }
+  },
+
+  /** 导航：先确保目标时代分片加载并渲染，再瞬时定位（杜绝长滑与落点漂移）。boot 未就绪时排队。 */
   jumpTo(i) {
     if (!Store.ready) { (this._pending ??= new Set()).add(i); return; }
-    this._jump(i);
+    return this._jump(i);
   },
-  flushPending() {
+  async flushPending() {
     if (!this._pending) return;
-    for (const i of this._pending) this._jump(i);
+    const pend = [...this._pending];
     this._pending.clear();
+    for (const i of pend) await this._jump(i);
   },
   jumpToYear(year, replaceUrl = false) {
+    if (!Store.ready) { this.jumpTo(Store.eraIndex(year + '-06-01')); return; }
     const eraIdx = Store.eraIndex(year + '-06-01');
-    this.renderEra(eraIdx);
-    const g = [...document.querySelectorAll(`#era-${eraIdx} .yearGroup`)]
-      .find(x => x.querySelector('.yBadge span')?.textContent === year);
-    if (!g) { this.jumpTo(eraIdx); return; }
-    const y = g.getBoundingClientRect().top + window.scrollY - 150;
-    window.scrollTo({ top: y, behavior: 'instant' });
-    if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
-    g.querySelector('.yBadge').classList.add('flash');
-    setTimeout(() => g.querySelector('.yBadge')?.classList.remove('flash'), 2200);
+    return (async () => {
+      try {
+        await Store.loadShard(eraIdx);
+        this.renderEraHead(eraIdx);
+        this.renderEra(eraIdx);
+      } catch (err) {
+        this.renderError(eraIdx, err);
+      }
+      const g = [...document.querySelectorAll(`#era-${eraIdx} .yearGroup`)]
+        .find(x => x.querySelector('.yBadge span')?.textContent === year);
+      if (!g) { await this._jump(eraIdx); return; }
+      const y = g.getBoundingClientRect().top + window.scrollY - 150;
+      window.scrollTo({ top: y, behavior: 'instant' });
+      if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
+      g.querySelector('.yBadge').classList.add('flash');
+      setTimeout(() => g.querySelector('.yBadge')?.classList.remove('flash'), 2200);
+    })();
   },
-  _jump(i) {
+  async _jump(i) {
     const sec = document.getElementById(`era-${i}`);
     if (!sec) return;
-    this.renderEra(i);                                // 渲染先于滚动
+    try {
+      await Store.loadShard(i);                         // 分片未加载先取
+      this.renderEraHead(i);
+      this.renderEra(i);                                // 渲染先于滚动
+    } catch (err) {
+      this.renderError(i, err);                         // 失败也落位，让用户看到错误与重试按钮
+    }
     const toolbarH = document.getElementById('toolbar').getBoundingClientRect().height;
     const y = sec.getBoundingClientRect().top + window.scrollY - toolbarH - 26;
     window.scrollTo({ top: y, behavior: 'instant' }); // 瞬时定位
@@ -221,6 +324,20 @@ const Timeline = {
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
 const $ = s => document.querySelector(s);
+
+/* 轻提示：复制成功/失败等瞬时反馈（单例，避免连续触发堆叠） */
+let _toastEl = null, _toastTimer = 0;
+function toast(msg) {
+  if (!_toastEl) {
+    _toastEl = document.createElement('div');
+    _toastEl.className = 'toast';
+    document.body.appendChild(_toastEl);
+  }
+  _toastEl.textContent = msg;
+  _toastEl.classList.add('show');
+  clearTimeout(_toastTimer);
+  _toastTimer = setTimeout(() => _toastEl.classList.remove('show'), 2200);
+}
 
 /* ── Toolbar：控制层（用户操作 → Store 变更 → Timeline 重绘） ─────────────────── */
 const Toolbar = {
@@ -234,7 +351,7 @@ const Toolbar = {
     }
     const row = $('#catRow');
     for (const c of CATS) {
-      const n = Store.events.filter(e => e.category === c.k).length;
+      const n = (Store.manifest.cats && Store.manifest.cats[c.k]) || 0;   // 全量分类计数随 manifest 下发
       const b = document.createElement('button');
       b.className = 'chip on';
       b.innerHTML = `<span style="color:${c.c}">●</span> ${c.name}<span class="n">${n}</span>`;
@@ -248,10 +365,9 @@ const Toolbar = {
       };
       row.appendChild(b);
     }
-    /* 标签筛选：聚合高频标签为可点选 chips（单选切换） */
-    const tagCount = new Map();
-    for (const e of Store.events) for (const t of (e.tags || [])) tagCount.set(t, (tagCount.get(t) || 0) + 1);
-    const topTags = [...tagCount.entries()].filter(([, n]) => n >= 60).sort((a, b) => b[1] - a[1]).slice(0, 40);
+    /* 标签筛选：聚合高频标签为可点选 chips（单选切换）。
+       候选清单随 manifest 下发（≥10 次者），前端仍按 ≥60 过滤取前 40 */
+    const topTags = (Store.manifest.tags || []).filter(([, n]) => n >= 60).sort((a, b) => b[1] - a[1]).slice(0, 40);
     const tagRow = $('#tagRow');
     for (const [t, n] of topTags) {
       const b = document.createElement('button');
@@ -311,15 +427,27 @@ const Toolbar = {
     $('#ctaEras').onclick = e => { e.preventDefault(); Timeline.jumpTo(0); };
     $('#toTop').onclick = () => window.scrollTo({ top: 0, behavior: 'instant' });
     let lastSave = 0;
+    let scrollLast = 0;
+    let revealLast = 0;
     addEventListener('scroll', () => {
+      // 时间节流而非 rAF 节流：个别 WebView/后台标签 rAF 不派发，滚动兜底链不能依赖它
+      const now = Date.now();
+      if (now - scrollLast < 80) return;
+      scrollLast = now;
       const h = document.documentElement;
       $('#progress').style.width = (h.scrollTop / (h.scrollHeight - h.clientHeight) * 100) + '%';
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
-      this.markCurrentEra();
-      const now = Date.now();
+      // 注意：本回调注册于 Toolbar.init，箭头函数 this 是 Toolbar——
+      // Timeline 的方法必须显式引用（历史上 this.markCurrentEra 在此静默报错多年）
+      Timeline.markCurrentEra();
+      Timeline.checkViewport();                              // 几何兜底：IO 不可用的环境靠滚动驱动渲染
+      if (now - revealLast > 150) {                        // reveal 兜底：IO 不可用时滚动也能点亮卡片
+        revealLast = now;
+        Timeline.revealSweep();
+      }
       if (now - lastSave > 2000 && Store.ready) {          // 节流记录阅读位置
         lastSave = now;
-        const y = this.currentYear();
+        const y = Timeline.currentYear();
         if (y) localStorage.setItem('na-last-read', y);
       }
     }, { passive: true });
@@ -341,52 +469,61 @@ const Toolbar = {
     });
   },
 
-  /** 当前所在时代高亮 + 工具栏实时年份指示（回答"我读到哪了"） */
+  /** 当前所在时代高亮 + 工具栏实时年份指示（回答"我读到哪了"）。
+   *  结果与上次相同则不写 DOM，杜绝每帧的 chips forEach 与文本写入。 */
   markCurrentEra() {
     let cur = 0;
     for (const [i] of ERAS.entries()) {
       const sec = document.getElementById(`era-${i}`);
       if (sec && sec.getBoundingClientRect().top <= 280) cur = i;
     }
-    document.querySelectorAll('#eraJump .chip').forEach((b, i) => b.classList.toggle('on', i === cur));
     const y = this.currentYear();
+    const label = y ? `${y} · ${ERAS[cur].name}` : '时代';
+    if (cur === this._curEra && label === this._curLabel) return;
+    this._curEra = cur; this._curLabel = label;
+    document.querySelectorAll('#eraJump .chip').forEach((b, i) => b.classList.toggle('on', i === cur));
     const lab = document.querySelector('.tJumpRow .tLab');
-    if (lab) lab.textContent = y ? `${y} · ${ERAS[cur].name}` : '时代';
+    if (lab) lab.textContent = label;
   },
+  /** 倒序找第一个 top≤300 的年份组即当前年份，命中即 break（避免全量 getBoundingClientRect） */
   currentYear() {
-    let best = null;
-    for (const g of document.querySelectorAll('.yearGroup')) {
-      if (g.getBoundingClientRect().top <= 300) {
-        const y = g.querySelector('.yBadge span')?.textContent;
-        if (y) best = y;
-      }
+    const groups = document.querySelectorAll('.yearGroup');
+    for (let k = groups.length - 1; k >= 0; k--) {
+      if (groups[k].getBoundingClientRect().top <= 300) return groups[k].querySelector('.yBadge span')?.textContent ?? null;
     }
-    return best;
+    return null;
   },
 };
 
 function applyTheme(t) {
-  document.documentElement.dataset.theme = t;
+  const root = document.documentElement;
+  root.classList.add('theming');            // 换肤瞬间冻结全局过渡（style.css 侧配套 .theming 规则），避免数千卡片边框同时动画
+  root.dataset.theme = t;
   localStorage.setItem('na-theme', t);
+  setTimeout(() => root.classList.remove('theming'), 50);
 }
 
 /* ── 启动 ─────────────────── */
 async function boot() {
-  applyTheme(localStorage.getItem('na-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
+  applyTheme(localStorage.getItem('na-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));  // 幂等：index.html 内联脚本已先行着色
   try {
-    const res = await fetch('data.json');
+    const res = await fetch('data/index.json');
     if (!res.ok) throw new Error(res.status);
-    const data = await res.json();
-    Store.events = data.events;
-    const last = Store.events[Store.events.length - 1].date;
-    const nV = Store.events.filter(e => e.date_confidence === 'verified').length;
-    $('#heroEyebrow').textContent = `1986 — ${last.slice(0, 4)} · ${Store.events.length} 条 · 精确到日 · 每条可溯源`;
-    $('#introText').textContent = `从 1986 年中关村的一间实验室，到 2026 年每个人口袋里的人工智能——本卷收录 ${Store.events.length} 条被日期钉住的时刻：互联网、科技、硬件、公司、国家大事、世界大事、民间生活与流行文化。其中 ${nV.toLocaleString()} 条经双源实证，其余均标明来源与置信度。点击任何标题可跳转原文。`;
-    $('#colMeta').textContent = `构建于 ${(data.generated || '').replace('T', ' ').slice(0, 16)} · ${Store.events.length} 条事件 · 来源 ${new Set(Store.events.flatMap(e => e.sources.map(s => s.url))).size} 个 · 数据持续增补中`;
+    const m = await res.json();
+    Store.manifest = m;
+    const endYear = Math.ceil(m.eras[m.eras.length - 1].range[1]) - 1;
+    $('#heroEyebrow').textContent = `1986 — ${endYear} · ${m.total} 条 · 精确到日 · 每条可溯源`;
+    $('#introText').textContent = `从 1986 年中关村的一间实验室，到 ${endYear} 年每个人口袋里的人工智能——本卷收录 ${m.total} 条被日期钉住的时刻：互联网、科技、硬件、公司、国家大事、世界大事、民间生活与流行文化。其中 ${m.verified.toLocaleString()} 条经双源实证，其余均标明来源与置信度。点击任何标题可跳转原文。`;
+    $('#colMeta').textContent = `构建于 ${(m.generated || '').replace('T', ' ').slice(0, 16)} · ${m.total} 条事件 · 来源 ${m.sourceCount} 个 · 数据持续增补中`;
     Timeline.init();
     Toolbar.init();
     Timeline.buildSections();
     Store.ready = true;
+    // 首查兜底：个别 WebView 初始帧 innerHeight=0、布局未完成，几何判断会整体落空——
+    // 视口就绪（0→vh）必触发 resize；再辅以多级延迟补查，与 IO/scroll 兜底共同覆盖所有环境
+    addEventListener('resize', () => Timeline.checkViewport(), { passive: true });
+    requestAnimationFrame(() => Timeline.checkViewport());
+    for (const d of [300, 1200, 3000]) setTimeout(() => Timeline.checkViewport(), d);
     Timeline.flushPending();
     const wantYear = new URLSearchParams(location.search).get('year');
     const lastRead = localStorage.getItem('na-last-read');
@@ -403,7 +540,7 @@ async function boot() {
       setTimeout(() => bar.remove(), 12000);
     }
   } catch (err) {
-    document.getElementById('timeline').innerHTML = `<div class="empty">数据加载失败（${esc(err.message)}）。请先运行 scripts/deploy.sh 或 build.sh。</div>`;
+    document.getElementById('timeline').innerHTML = `<div class="empty">数据加载失败（${esc(err.message)}）。请先运行 scripts/build.py 生成 site/data/。</div>`;
   }
 }
 
