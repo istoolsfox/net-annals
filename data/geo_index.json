@@ -554,6 +554,7 @@
   "2010-05-01-shanghai-expo",
   "2010-10-31-shanghai-expo-closing",
   "2011-06-30-beijing-shanghai-hsr",
+  "2013-08-31-shanghai-ammonia-leak",
   "2013-09-29-shanghai-ftz",
   "2014-09-04-gaokao-reform",
   "2014-11-25-nio-founded",
@@ -922,6 +923,9 @@
  ],
  "4111": [
   "2013-09-26-shuanghui-smithfield-deal-closing"
+ ],
+ "4112": [
+  "2013-02-01-yichang-bridge-explosion-collapse"
  ],
  "4113": [
   "2009-01-06-uhv-transmission"
@@ -1372,6 +1376,9 @@
   "2016-12-28-hukun-hsr-yunnan-section",
   "2021-06-01-elephant-herd-northward",
   "2021-12-03-china-laos-railway-open"
+ ],
+ "5306": [
+  "2013-01-11-zhenxiong-landslide"
  ],
  "5307": [
   "1997-12-03-pingyao-world-heritage",
