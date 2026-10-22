@@ -12,7 +12,7 @@ python3 scripts/geo_match.py
 python3 scripts/build_geo.py
 
 echo "==> 2/2 发布到 toolsfox.top"
-rsync -az --delete --delete-excluded --exclude=data.json site/ toolsfox:/var/www/net-annals/
+rsync -az --delete --delete-excluded --exclude=/data.json site/ toolsfox:/var/www/net-annals/
 
 echo
 echo "✅ 已发布 → https://toolsfox.top/net-annals/"

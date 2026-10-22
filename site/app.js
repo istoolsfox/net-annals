@@ -64,17 +64,17 @@ const Store = {
    *  不支持该 API 或 .gz 缺失时回退原始 .json。URL 带 ?v= 构建时间戳保证缓存一致性。 */
   _v() { return this._ver || (this._ver = 'v' + ((this.manifest.generated || '').replace(/\D/g, '').slice(-13))); },
   async _fetchShard(url) {
-    const vurl = url + '?v=' + this._v();
+    const v = this._v();
     if (typeof DecompressionStream !== 'undefined') {
       try {
-        const r = await fetch(vurl + '.gz');
+        const r = await fetch(url + '.gz?v=' + v);
         if (r.ok) {
           const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
           return await new Response(stream).json();
         }
       } catch (e) { /* .gz 缺失或解压失败 → 回退明文 */ }
     }
-    const r = await fetch(vurl);
+    const r = await fetch(url + '?v=' + v);
     if (!r.ok) throw new Error('HTTP ' + r.status);
     return r.json();
   },
@@ -194,9 +194,12 @@ const Timeline = {
     const byYear = new Map();
     for (const e of evs) { const y = e.date.slice(0, 4); if (!byYear.has(y)) byYear.set(y, []); byYear.get(y).push(e); }
     let flip = i % 2;
-    const token = (this._token = (this._token || 0) + 1);
+    (this._tokens ??= {})[i] = (this._tokens[i] || 0) + 1;
+    const token = this._tokens[i];
     const groups = [...byYear.entries()];
     let gi = 0;
+    let done;
+    const finished = new Promise(res => { done = res; });
 
     const renderGroup = ([year, list]) => {
       const g = document.createElement('div');
@@ -223,19 +226,20 @@ const Timeline = {
       }
     };
     const renderBatch = () => {
-      if (token !== this._token) return;                       // 时代已被重建，作废旧批次
+      if (token !== this._tokens[i]) return;                   // 本时代已被重建，作废旧批次
       const t0 = performance.now();
       while (gi < groups.length && performance.now() - t0 < 12) renderGroup(groups[gi++]);
       if (gi < groups.length) {
         setTimeout(renderBatch, 0);                            // 后台标签 rAF 不派发，统一用 setTimeout
       } else {
         // 全部就位：视口内卡片立即置亮（跳转/筛选后不等待 IO 回调窗口）
-        setTimeout(sweep, 0);
+        setTimeout(() => { sweep(); done(); }, 0);
       }
     };
     renderBatch();
     // 首批渲染后视口内立即置亮
     setTimeout(sweep, 0);
+    return finished;
   },
 
   cardHtml(e) {
@@ -327,7 +331,7 @@ const Timeline = {
       try {
         await Store.loadShard(eraIdx);
         this.renderEraHead(eraIdx);
-        this.renderEra(eraIdx);
+        await this.renderEra(eraIdx);                          // 等待分批渲染完成，确保目标年份组已在DOM
       } catch (err) {
         this.renderError(eraIdx, err);
       }
@@ -544,7 +548,7 @@ function applyTheme(t) {
 async function boot() {
   applyTheme(localStorage.getItem('na-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));  // 幂等：index.html 内联脚本已先行着色
   try {
-    const res = await fetch('data/index.json');
+    const res = await fetch('data/index.json?v=' + Date.now());   // manifest必须新鲜：其generated决定分片缓存版本
     if (!res.ok) throw new Error(res.status);
     const m = await res.json();
     Store.manifest = m;
