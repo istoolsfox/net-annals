@@ -5870,34 +5870,6 @@
 ]
 },
 {
-"id": "2026-07-10-lm10b-recovery",
-"date": "2026-07-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "长征十号B首飞并海上回收一级，中国火箭复用破局",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2026年7月10日，长征十号B火箭首飞成功，一级火箭在海上完成垂直回收，成为第一枚实现轨道级发射后回收的中国火箭。这标志着中国正式跨入可复用火箭俱乐部，此前该领域长期由 SpaceX 独占，中国国家队与民营力量随即形成多点突破。",
-"detail": "长征十号B由航天科技集团研制，采用液氧煤油与液氢液氧组合动力，与载人登月用长征十号同源。海上回收验证了着陆平台与制导控制系统。同期朱雀三号等民营火箭也在推进回收试验，中国可复用火箭进入多点开花阶段。",
-"impact": "中国实现轨道级火箭回收零的突破。",
-"aftermath": "中国火箭复用从试验走向批量运营。",
-"sources": [
-{
-"title": "Wikipedia: 2026 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2026_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"中国航天",
-"可重复使用",
-"长征十号"
-]
-},
-{
 "id": "2026-08-30-roman-launch",
 "date": "2026-08-30",
 "date_accuracy": "exact",
