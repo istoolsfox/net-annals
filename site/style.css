@@ -8,18 +8,12 @@
    · 可访问性：:focus-visible 焦点环、prefers-reduced-motion 降级。
    · 交互：hover 效果限定 @media (hover:hover)，避免触屏粘滞 hover；移动端触控目标加大。 */
 
-@font-face{
-  font-family:"Songti Subset";
-  src:url("fonts/songti-bold-subset.woff2") format("woff2");
-  font-weight:700;font-style:normal;font-display:swap;
-}
-
 :root{
   --bg:#0c0d10; --bg2:#101218; --panel:#16181d; --panel2:#1a1d23;
   --line:#2a2d35; --line2:#3a3e48;
   --text:#e8e4da; --dim:#9a958a; --faint:#66625a;
   --accent:#c9a86a; --accent2:#b0493e;
-  --serif:"Songti Subset","Songti SC","Noto Serif CJK SC","Source Han Serif SC","Microsoft YaHei",serif;
+  --serif:"Songti SC","Noto Serif CJK SC","Noto Serif SC","Source Han Serif SC","SimSun",serif;
   --mono:ui-monospace,"SF Mono","Cascadia Code","JetBrains Mono",Menlo,Consolas,monospace;
   --sans:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
   --grid:rgba(200,190,170,.035);

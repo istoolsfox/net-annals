@@ -59,14 +59,31 @@ const Store = {
     return i === -1 ? (yf < ERAS[0].range[0] ? 0 : ERAS.length - 1) : i;
   },
 
-  /** 拉取某时代分片：并发去重；失败标记 error（由 Timeline 呈现重试按钮） */
+  /** 拉取某时代分片：并发去重；失败标记 error（由 Timeline 呈现重试按钮）
+   *  传输优化：优先取预压缩 .gz（体积-80%），用 DecompressionStream 本地解压；
+   *  不支持该 API 或 .gz 缺失时回退原始 .json。URL 带 ?v= 构建时间戳保证缓存一致性。 */
+  _v() { return this._ver || (this._ver = 'v' + ((this.manifest.generated || '').replace(/\D/g, '').slice(-13))); },
+  async _fetchShard(url) {
+    const vurl = url + '?v=' + this._v();
+    if (typeof DecompressionStream !== 'undefined') {
+      try {
+        const r = await fetch(vurl + '.gz');
+        if (r.ok) {
+          const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
+          return await new Response(stream).json();
+        }
+      } catch (e) { /* .gz 缺失或解压失败 → 回退明文 */ }
+    }
+    const r = await fetch(vurl);
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  },
   loadShard(i) {
     if (this.shardState[i] === 'loaded') return Promise.resolve();
     (this._inflight ??= {});
     if (this._inflight[i]) return this._inflight[i];
     this.shardState[i] = 'loading';
-    const p = fetch('data/' + this.manifest.eras[i].shard)
-      .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    const p = this._fetchShard('data/' + this.manifest.eras[i].shard)
       .then(evs => { this.shards[i] = evs; this.shardState[i] = 'loaded'; })
       .catch(err => { this.shardState[i] = 'error'; throw err; });
     this._inflight[i] = p.finally(() => { delete this._inflight[i]; });
@@ -162,7 +179,9 @@ const Timeline = {
     };
   },
 
-  /** 渲染某时代的卡片体（调用前必须确保分片已加载）。幂等：已渲染则跳过；筛选变化由 rebuild() 统一清空后重渲。 */
+  /** 渲染某时代的卡片体（调用前必须确保分片已加载）。
+   *  分帧渲染：按年份组分批建 DOM（每帧预算 12ms），大分片（1300+ 条）不再阻塞主线程；
+   *  token 防竞态：rebuild 清空后旧分批自动作废。 */
   renderEra(i) {
     if (this.rendered.has(i)) return;
     this.rendered.add(i);
@@ -175,30 +194,48 @@ const Timeline = {
     const byYear = new Map();
     for (const e of evs) { const y = e.date.slice(0, 4); if (!byYear.has(y)) byYear.set(y, []); byYear.get(y).push(e); }
     let flip = i % 2;
-    for (const [year, list] of byYear) {
+    const token = (this._token = (this._token || 0) + 1);
+    const groups = [...byYear.entries()];
+    let gi = 0;
+
+    const renderGroup = ([year, list]) => {
       const g = document.createElement('div');
       g.className = 'yearGroup';
       g.innerHTML = `<div class="yBadge" data-year="${year}" title="点击复制这一年的链接"><span>${year}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
+      const frag = document.createDocumentFragment();
       for (const e of list) {
         const holder = document.createElement('div');
         holder.className = 'card' + (flip ? ' right' : '') + (e.milestone ? ' mile' : '') + (UIState.expandAll ? ' open' : '');
         holder.dataset.id = e.id;
         holder.innerHTML = this.cardHtml(e);
-        cards.appendChild(holder);
+        frag.appendChild(holder);
         this.reveal.observe(holder);
         flip = 1 - flip;
       }
+      cards.appendChild(frag);
       body.appendChild(g);
-      // 视口内的卡片立即置亮：跳转/筛选后不等待 IO 回调窗口。
-      // 用 setTimeout 而非 rAF——个别 WebView/后台标签 rAF 不派发，置亮不能依赖它
-      setTimeout(() => {
-        for (const holder of body.querySelectorAll('.card:not(.in)')) {
-          const r = holder.getBoundingClientRect();
-          if (r.top < innerHeight + 200 && r.bottom > -200) holder.classList.add('in');
-        }
-      }, 0);
-    }
+    };
+    const sweep = () => {
+      for (const holder of body.querySelectorAll('.card:not(.in)')) {
+        const r = holder.getBoundingClientRect();
+        if (r.top < innerHeight + 200 && r.bottom > -200) holder.classList.add('in');
+      }
+    };
+    const renderBatch = () => {
+      if (token !== this._token) return;                       // 时代已被重建，作废旧批次
+      const t0 = performance.now();
+      while (gi < groups.length && performance.now() - t0 < 12) renderGroup(groups[gi++]);
+      if (gi < groups.length) {
+        setTimeout(renderBatch, 0);                            // 后台标签 rAF 不派发，统一用 setTimeout
+      } else {
+        // 全部就位：视口内卡片立即置亮（跳转/筛选后不等待 IO 回调窗口）
+        setTimeout(sweep, 0);
+      }
+    };
+    renderBatch();
+    // 首批渲染后视口内立即置亮
+    setTimeout(sweep, 0);
   },
 
   cardHtml(e) {

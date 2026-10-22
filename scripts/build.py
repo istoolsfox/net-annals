@@ -6,6 +6,7 @@
 另：按时代切分输出 site/data/（index.json + shard-0..7.json），供前端按时代
 惰性加载——时代归属逻辑与 site/app.js 的 eraIndex() 必须严格一致。
 """
+import gzip
 import json
 import re
 import sys
@@ -185,8 +186,12 @@ def main() -> int:
     eras_manifest = []
     for i, (name, rng) in enumerate(ERAS):
         shard_name = f"shard-{i}.json"
-        (data_dir / shard_name).write_text(
-            json.dumps(shards[i], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        shard_text = json.dumps(shards[i], ensure_ascii=False, separators=(",", ":"))
+        (data_dir / shard_name).write_text(shard_text, encoding="utf-8")
+        gz_path = data_dir / (shard_name + ".gz")
+        with open(gz_path, "wb") as gf:
+            with gzip.GzipFile(filename="", mode="wb", fileobj=gf, mtime=0, compresslevel=9) as g:
+                g.write(shard_text.encode("utf-8"))
         eras_manifest.append({"name": name, "range": [rng[0], rng[1]], "shard": shard_name})
 
     # 分类计数 + 高频标签：工具栏 chips 需要全量统计，放 manifest 里随 index.json 下发，
@@ -210,8 +215,11 @@ def main() -> int:
         "tags": tags_top,
         "eras": eras_manifest,
     }
-    (data_dir / "index.json").write_text(
-        json.dumps(index_manifest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    index_text = json.dumps(index_manifest, ensure_ascii=False, separators=(",", ":"))
+    (data_dir / "index.json").write_text(index_text, encoding="utf-8")
+    with open(data_dir / "index.json.gz", "wb") as gf:
+        with gzip.GzipFile(filename="", mode="wb", fileobj=gf, mtime=0, compresslevel=9) as g:
+            g.write(index_text.encode("utf-8"))
 
     years = sorted(per_year)
     print(f"✓ 校验通过：{n} 条事件（{years[0]}–{years[-1]}），里程碑 {milestone_total} 条")
@@ -232,7 +240,7 @@ def main() -> int:
         bar = "█" * max(1, min(60, per_year[y] // 10))
         print(f"    {y}  {per_year[y]:4d}  {bar}")
     print(f"✓ 已生成 {OUT.relative_to(ROOT)}")
-    print(f"✓ 已生成 {data_dir.relative_to(ROOT)}/（index.json + {len(ERAS)} 个时代分片："
+    print(f"✓ 已生成 {data_dir.relative_to(ROOT)}/（index.json + {len(ERAS)} 个时代分片（含.gz预压缩）："
           + "，".join(f"shard-{i} {len(s)} 条" for i, s in enumerate(shards)) + "）")
     return 0
 

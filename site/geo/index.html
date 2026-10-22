@@ -105,7 +105,16 @@ const CAT = {milestone:'里程碑',internet:'互联网',tech:'科技',hardware:'
 let D, byP={}, byC={}, byK={};
 
 async function boot(){
-  D = await (await fetch('data.json')).json();
+  try {
+    if (typeof DecompressionStream !== 'undefined') {
+      const r = await fetch('data.json.gz');
+      if (r.ok) {
+        const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
+        D = await new Response(stream).json();
+      }
+    }
+    if (!D) D = await (await fetch('data.json')).json();
+  } catch (e) { D = await (await fetch('data.json')).json(); }
   D.p.forEach(r=>byP[r[0]]=r); D.c.forEach(r=>byC[r[0]]=r); D.k.forEach(r=>byK[r[0]]=r);
   const s=D.stats;
   document.getElementById('statsBar').innerHTML = [

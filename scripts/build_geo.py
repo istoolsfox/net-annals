@@ -46,7 +46,12 @@ out = {
 }
 dst = ROOT / 'site/geo/data.json'
 dst.parent.mkdir(parents=True, exist_ok=True)
-dst.write_text(json.dumps(out, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+text = json.dumps(out, ensure_ascii=False, separators=(',', ':'))
+dst.write_text(text, encoding='utf-8')
+import gzip
+with open(str(dst) + '.gz', 'wb') as gf:
+    with gzip.GzipFile(filename='', mode='wb', fileobj=gf, mtime=0, compresslevel=9) as g:
+        g.write(text.encode('utf-8'))
 import os
 print(f'✓ 地域数据：省{len(provinces)} 市{len(cities)} 县{len(counties)}，'
       f'有内容单位 {with_geo} 个，挂载事件 {tagged} 条 → site/geo/data.json（{os.path.getsize(dst)//1024}KB）')
