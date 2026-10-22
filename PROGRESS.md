@@ -407,3 +407,12 @@
 - 全库 **4890 条**、里程碑 **691**。1972-1985层35条。已部署并提交（added=7>0）。
 - **子Agent在跑**：QA性能审计（app.js gz/分帧/字体/deploy四项改动审查）+ 2014候选池part制作。结果回来后修复+入库。
 - ROADMAP进度：P1-P6 ✅；Q1/Q2/Q3 ✅；C1-C6进行中。
+
+## 续23轮（2026-10-23）：人物志栏目上线 + QA审计修复4bug
+
+- **新栏目「人物志」上线**（https://toolsfox.top/net-annals/persons/ ）：①PERSONS_SPEC.md 严格标准体系——红线（政治人物/纯敏感一律不做、争议只写司法认定事实）、收录门槛（3独立来源+影响力）、schema硬约束（timeline 5-14条升序/summary 60-220字/sources≥3且≥2域名/红线词自动拦截）、流程闭环（查重→核实→写作→自校验→独立验收→入库→抽检）、Agent分工（≤3并发，制作与验收不同实例）②工具：validate_person.py（schema+红线粗筛）+ build_persons.py（去重合并+gz）③site/persons/ 前端：卡片墙+领域筛选+右侧时间线详情浮层+gz加载④主站双入口：nav「人物志」+hero下方geoBand同款横幅。
+- **首批12人**（AI/互联网创始人）：马化腾/马云/李彦宏/雷军/张一鸣/王兴/张小龙/丁磊/黄仁勋/山姆·奥尔特曼/李飞飞/吴恩达。自校验抓31处acc标注错误后修正，保留3处年份精度存疑（张一鸣/丁磊/李飞飞/吴恩达出生仅知年份）。
+- **QA子Agent审计立功（4项bug全修复）**：①app.js gz URL拼接致命错误（.gz拼在query后，gz优化完全失效且双倍下载——已修为路径拼接）②分帧渲染token全局计数跨时代互杀（rebuild后除末位时代全部静默截断——改按era隔离）③deploy --exclude=data.json误伤geo/data.json（配合--delete-excluded下次部署即删——改锚定根/data.json）④jumpToYear不等分帧完成深链降级（renderEra返回Promise+await）⑤顺手修manifest新鲜度+geo css版本。**教训：性能改动必须有独立只读Agent做diff审计，自测盲区真实存在。**
+- 另：2014池子Agent触发内容安全中断（1301），按规则不重试，改由主会话串行过筛（待做）。
+- 全库 **4890 条**、里程碑 691；人物志 **12 人**。均已部署提交。
+- **下一步**：①2014池主会话串行过筛（跳敏感）；②人物志按SPEC续批（游戏电竞/科学家/硬件制造，子Agent制作+独立验收）；③ROADMAP C1-C6持续。
