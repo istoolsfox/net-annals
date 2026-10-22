@@ -8,6 +8,8 @@ echo "==> 1/2 构建校验合并"
 python3 scripts/normalize.py
 python3 scripts/dedup.py
 python3 scripts/build.py
+python3 scripts/geo_match.py
+python3 scripts/build_geo.py
 
 echo "==> 2/2 发布到 toolsfox.top"
 rsync -az --delete site/ toolsfox:/var/www/net-annals/
