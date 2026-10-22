@@ -1,3 +1,4 @@
 _server_docs/tmp*
 .DS_Store
 site/data.json
+data/wiki_raw/
