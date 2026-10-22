@@ -130,11 +130,11 @@
   "2026-03-01-milan-paralympics-china-top",
   "2018-11-13-renren-sold-to-duoniu",
   "1996-01-01-chinanet-backbone",
+  "1996-05-01-internet-cafe-early",
   "1996-09-01-jiujiu-railway-open",
   "1999-05-08-belgrade-bombing",
   "1999-09-03-72h-survival-test",
   "1999-11-15-wto-us-agreement",
-  "1996-05-01-internet-cafe-early",
   "1999-11-19-shenzhou-1",
   "2000-10-31-beidou-1-first",
   "2001-01-09-shenzhou-2",
@@ -394,6 +394,7 @@
   "2008-11-28-arj21-first-flight",
   "2024-01-02-jal-516",
   "2019-12-03-pisa-b-china-top",
+  "2010-08-01-chuanqi-dongsong-gaspipeline",
   "1987-12-11-empire-of-the-sun",
   "2014-07-20-shanghai-fuxi-expired-meat",
   "2016-01-01-hema-fresh-first-store",
@@ -445,9 +446,9 @@
   "1997-12-25-rongshuxia-founded",
   "1999-10-06-wayback-etang",
   "1996-01-01-chinanet-backbone",
-  "1999-09-03-72h-survival-test",
   "1996-05-01-internet-cafe-early",
   "1999-04-03-housing-fund-regulation",
+  "1999-09-03-72h-survival-test",
   "2000-05-28-dongfang-net",
   "2001-06-15-sco-founded",
   "2001-10-20-apec-shanghai",
@@ -475,6 +476,7 @@
   "2019-07-01-shanghai-garbage",
   "2020-01-07-tesla-model3-shanghai",
   "2021-04-01-shipping-crisis-chain",
+  "2021-06-27-chengdu-tianfu-airport-open",
   "2021-09-29-lina-bell",
   "2022-03-28-shanghai-lockdown",
   "2022-04-22-tesla-shanghai-delivery",
@@ -667,6 +669,9 @@
  "350582": [
   "2008-06-01-jinjiang-ipo-wave",
   "2008-07-01-shanda-wenxue"
+ ],
+ "350782": [
+  "2021-10-12-first-national-parks-panda"
  ],
  "3601": [
   "2016-03-02-haihunhou-identified",
@@ -1044,13 +1049,18 @@
   "2025-08-07-chengdu-world-games",
   "2021-04-01-xici-hutong-final",
   "2012-02-06-wang-lijun",
+  "2014-10-02-tianfu-new-area-approval",
   "2017-08-08-jiuzhaigou-earthquake",
   "2017-12-06-xicheng-hsr-open",
   "2020-05-28-street-stall-economy",
+  "2021-06-27-chengdu-tianfu-airport-open",
   "2024-05-01-lol-lpl",
   "2025-11-09-s15-t1",
   "2024-05-05-thomas-uber-cup-chengdu",
   "2024-09-24-shang-juncheng-atp-title"
+ ],
+ "510181": [
+  "2000-11-30-dujiangyan-qingchengshan-heritage"
  ],
  "5105": [
   "2021-09-16-luxian-earthquake"
@@ -1064,6 +1074,12 @@
  "5108": [
   "2008-10-21-juju-orange-fly-panic",
   "2016-06-04-guangyuan-bailonghu-boat-sinking"
+ ],
+ "5111": [
+  "1996-12-06-emei-leshandafo-heritage"
+ ],
+ "5114": [
+  "1996-12-06-emei-leshandafo-heritage"
  ],
  "5115": [
   "2018-07-12-yibin-hengda-plant-explosion"
@@ -1091,6 +1107,7 @@
   "2021-05-22-madoi-earthquake"
  ],
  "513225": [
+  "1992-12-01-jiuzhaigou-huanglong-heritage",
   "2017-08-08-jiuzhaigou-earthquake"
  ],
  "5133": [
@@ -1109,6 +1126,7 @@
   "2022-08-01-cun-ba-village-basketball"
  ],
  "5301": [
+  "2021-10-12-first-national-parks-panda",
   "2022-12-19-kunming-montreal-framework",
   "1997-03-18-nan-kun-railway",
   "2016-12-28-hu-kun-hsr-full",
