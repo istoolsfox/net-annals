@@ -216,6 +216,7 @@
   "2017-11-08-rbt-kindergarten",
   "2019-09-25-daxing-airport-open",
   "2021-02-25-poverty-victory",
+  "2021-05-14-wang-yuan",
   "2021-09-02-bse-announcement",
   "2022-02-04-beijing-winter-olympics",
   "2023-03-16-ernie-bot",
@@ -290,12 +291,14 @@
   "2003-10-12-qin-shen-pdl",
   "2025-04-13-geng-xuanyi-305-record",
   "2001-10-07-national-team-worldcup",
-  "2009-01-25-xiaoshenyang"
+  "2009-01-25-xiaoshenyang",
+  "2021-01-12-dalian-flash-outage"
  ],
  "2102": [
   "2012-12-01-ha-da-hsr",
   "1997-11-02-laorong-jinzhou-post",
-  "2017-04-26-first-domestic-carrier-launched"
+  "2017-04-26-first-domestic-carrier-launched",
+  "2021-01-12-dalian-flash-outage"
  ],
  "2103": [
   "1987-04-01-yellow-river-rafting"
@@ -319,6 +322,7 @@
   "1996-02-04-harbin-asian-winter-1996",
   "2025-02-07-harbin-asian-winter-games",
   "2005-11-13-songhua-pollution",
+  "2021-06-25-dragon-man-skull",
   "2024-01-01-harbin-ice-city",
   "2024-01-05-harbin-ice-festival"
  ],
@@ -734,6 +738,9 @@
   "2020-04-08-wuhan-reopen",
   "2024-07-11-luobo-viral"
  ],
+ "4203": [
+  "2021-06-13-shiyan-gas-explosion"
+ ],
  "4205": [
   "1994-12-14-three-gorges-start",
   "2026-06-08-sanxia-new-channel"
@@ -869,6 +876,7 @@
   "2020-10-01-china-digital-yuan",
   "2021-09-25-meng-wanzhou-return",
   "2021-12-01-shenzhen-price-decline",
+  "2021-12-01-shenzhen-water-ration",
   "2024-06-30-shenzhen-zhongshan-link"
  ],
  "4404": [
@@ -990,6 +998,9 @@
   "2024-05-05-thomas-uber-cup-chengdu",
   "2024-09-24-shang-juncheng-atp-title"
  ],
+ "5105": [
+  "2021-09-16-luxian-earthquake"
+ ],
  "5106": [
   "1998-08-08-geely-haoqing-offline-1998"
  ],
@@ -1015,7 +1026,8 @@
   "2008-09-01-wenchuan-rebuild",
   "2010-04-14-yushu-earthquake",
   "2010-08-07-zhouqu-mudslide",
-  "2013-04-20-yaan-earthquake"
+  "2013-04-20-yaan-earthquake",
+  "2021-05-22-madoi-earthquake"
  ],
  "513225": [
   "2017-08-08-jiuzhaigou-earthquake"
@@ -1053,6 +1065,7 @@
   "2007-11-02-qing-hua-ci"
  ],
  "5329": [
+  "2021-05-21-yangbi-earthquake",
   "2022-11-01-stove-tea"
  ],
  "533401": [
@@ -1083,6 +1096,7 @@
   "2010-02-06-zhengxi-hsr-open",
   "2010-09-27-chengdu-metro-line1",
   "2016-09-10-zheng-xu-hsr",
+  "2021-12-14-baling-confirmed",
   "2023-08-06-concert-economy"
  ],
  "6102": [
@@ -1112,6 +1126,9 @@
  "623023": [
   "2008-09-01-wenchuan-rebuild",
   "2010-08-07-zhouqu-mudslide"
+ ],
+ "6326": [
+  "2021-05-22-madoi-earthquake"
  ],
  "6327": [
   "2008-09-01-wenchuan-rebuild",
