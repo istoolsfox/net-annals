@@ -168,11 +168,9 @@
   "2020-11-07-ceres-1",
   "2020-11-24-chang-e-5",
   "2021-05-15-zhurong-landing",
-  "2021-06-17-shenzhou-12",
   "2022-07-24-wentian-module",
   "2022-07-27-kinetica-1",
   "2022-10-31-mengtian-module",
-  "2022-11-29-shenzhou-15",
   "2023-05-30-shenzhou-16",
   "2023-07-12-zhuque-2-orbit",
   "2023-10-26-shenzhou-17",
@@ -265,7 +263,6 @@
  ],
  "1302": [
   "1976-07-28-tangshan-earthquake",
-  "2010-07-22-tangshan-earthquake-film",
   "2010-07-22-aftershock-feng",
   "2005-02-01-shougang-move-to-caofeidian",
   "2009-01-01-gandong-china-2008",
@@ -414,7 +411,6 @@
   "2018-12-25-harbin-mudanjiang-hsr",
   "2021-06-25-dragon-man-skull",
   "2024-01-01-harbin-ice-city",
-  "2024-01-01-harbin-tourism-viral",
   "2024-01-05-harbin-ice-festival"
  ],
  "2302": [
@@ -507,7 +503,6 @@
   "2004-12-28-shenzhen-metro-phase1",
   "2013-12-28-xia-shen-railway",
   "2016-09-10-zheng-xu-hsr",
-  "2016-12-28-hu-kun-hsr-full",
   "2017-09-21-fuxing-350kmh",
   "2021-12-10-zhang-ji-huai-hsr",
   "2024-12-26-city-metro-network-boom",
@@ -1352,7 +1347,6 @@
  ],
  "5201": [
   "2014-12-26-gui-yang-guangzhou-hsr",
-  "2016-12-28-hu-kun-hsr-full",
   "2014-01-01-guian-new-area",
   "2016-12-28-hukun-hsr-yunnan-section",
   "2017-12-28-guiyang-metro-line1"
@@ -1370,7 +1364,6 @@
   "2021-10-12-first-national-parks-panda",
   "2022-12-19-kunming-montreal-framework",
   "1997-03-18-nan-kun-railway",
-  "2016-12-28-hu-kun-hsr-full",
   "2021-12-03-china-laos-railway",
   "2022-12-26-new-chengdu-kunming-rail",
   "2007-08-01-kunming-seed-bank",
@@ -1503,9 +1496,6 @@
   "2000-08-19-sanjiangyuan-nature-reserve",
   "2008-09-01-wenchuan-rebuild",
   "2010-04-14-yushu-earthquake"
- ],
- "6328": [
-  "2013-12-14-change3-yutu-landing"
  ],
  "6401": [
   "2023-06-21-yinchuan-explosion",

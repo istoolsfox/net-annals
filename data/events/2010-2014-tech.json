@@ -1028,34 +1028,6 @@
 ]
 },
 {
-"id": "2012-07-15-gangnam-style-release",
-"date": "2012-07-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "《江南Style》发布：骑马舞席卷全球",
-"category": "culture",
-"region": "world",
-"milestone": false,
-"summary_30s": "韩国歌手PSY的神曲《江南Style》发布，魔性的骑马舞配上讽刺首尔江南区的歌词，先火遍韩国再经社交媒体征服全球，成为YouTube首支播放量破10亿的视频。中国的广场舞大妈和写字楼白领都在模仿。",
-"detail": "《江南Style》7月发布后在韩国走红，7月底起被贾斯汀·比伯经纪人等国际名人转发后病毒式扩散，9月起连续数周霸榜各国iTunes。它证明了不需要英语歌词也能成为全球流行，K-pop的国际化路径由此拓宽。从纽约时代广场到中国县城的广场舞场地，骑马舞模仿视频铺满各大视频网站。",
-"impact": "第一支完全依靠社交网络走红的全球神曲， YouTube 时代的流行文化范式样本。",
-"aftermath": "PSY成为文化输出符号；短视频时代的『神曲公式』自此有据可依。",
-"sources": [
-{
-"title": "维基百科：江南Style",
-"url": "https://zh.wikipedia.org/wiki/江南Style",
-"type": "wiki"
-}
-],
-"tags": [
-"文化",
-"文化出口",
-"江南Style",
-"PSY",
-"神曲"
-]
-},
-{
 "id": "2012-08-01-toutiao-launch",
 "date": "2012-08-01",
 "date_accuracy": "month",

@@ -1658,33 +1658,6 @@
 ]
 },
 {
-"id": "2002-11-13-prestige-oil-spill",
-"date": "2002-11-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "威望号油轮沉没：西班牙史上最严重的环境灾难",
-"category": "world",
-"region": "world",
-"milestone": false,
-"summary_30s": "2002年11月13日，希腊籍油轮威望号（Prestige）在西班牙加利西亚海岸遭遇风暴，船体裂开泄漏7.7万吨重燃油，沿海数百公里海滩被黑色油污覆盖。西班牙加利西亚的渔业（欧洲最重要的贝类产区之一）遭受毁灭性打击。",
-"detail": "威望号是一艘26年船龄的单壳油轮，被拒绝进入西班牙与葡萄牙港口后在海上漂流6天，最终在距离海岸约250公里处断裂沉入3500米深海。沉船后船内剩余的5万吨燃油持续泄漏数月。此后欧盟加速通过《艾丽卡 I/II 套餐》，强制单壳油轮退役（2015年前全部淘汰）。西班牙志愿者的『人工捡油』画面成为环保运动的标志。",
-"impact": "单壳油轮的全球终结，环境灾难与航运监管的因果链案例。",
-"aftermath": "2015年起全球禁止单壳油轮运输重油；加利西亚渔业此后十年才逐步恢复。",
-"sources": [
-{
-"title": "Prestige oil spill - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Prestige_oil_spill",
-"type": "wiki"
-}
-],
-"tags": [
-"国际",
-"能源与气候",
-"油污",
-"西班牙"
-]
-},
-{
 "id": "2002-12-03-shanghai-expo-bid-won",
 "date": "2002-12-03",
 "date_accuracy": "exact",

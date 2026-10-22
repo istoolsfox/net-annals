@@ -2527,35 +2527,6 @@
 ]
 },
 {
-"id": "2011-03-18-messenger-mercury-orbit",
-"date": "2011-03-18",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "信使号入轨水星，成为水星第一颗人造卫星",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2011年3月18日，信使号探测器完成最后一次减速机动，成为第一个环绕水星飞行的人造卫星。水星探测因太阳引力与高温而极其困难，此前只有水手10号在1974年三次飞掠。信使号四年环水星生涯绘制了完整地图，发现北极水冰与神秘内部结构。",
-"detail": "信使号通过六次行星助推完成减速，入轨后利用遮阳帘应对水星的强辐射环境。它确认水星北极永久阴影区存在水冰，测绘了全球化学成分，发现水星磁场的不对称性。2015年4月30日燃料耗尽，探测器受控撞向水星，任务结束。",
-"impact": "水星进入环绕探测时代，极区水冰与内部结构谜题解开一半。",
-"aftermath": "欧日BepiColombo接力水星探测。",
-"sources": [
-{
-"title": "Wikipedia: 2011 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2011_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"探险",
-"深空探测",
-"水星",
-"NASA"
-]
-},
-{
 "id": "2011-07-08-sts135-final-shuttle",
 "date": "2011-07-08",
 "date_accuracy": "exact",
@@ -2975,34 +2946,6 @@
 ]
 },
 {
-"id": "2014-08-06-rosetta-orbit",
-"date": "2014-08-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "罗塞塔号进入彗星轨道，人类首次环绕彗星",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2014年8月6日，飞行十年、跨越64亿公里的罗塞塔号进入67P彗星轨道，人类第一次环绕一颗彗星飞行。它拍摄的彗星照片揭示了这个4公里宽\"橡皮鸭\"形天体的双瓣结构、喷流与悬崖，为三个月后菲莱着陆器的历史性登陆踩好了点。",
-"detail": "罗塞塔号在入轨前的接近段就传回分辨率不断提升的影像，让科学家第一次看清彗核细节。它随彗星一路飞向近日点，完整记录了彗星活动从冬眠到爆发的全过程，观测到水、二氧化碳、氧分子与甘氨酸等复杂有机物。彗星水与地球水的同位素差异，让\"彗星带水说\"受到挑战。",
-"impact": "彗星研究从远观进入驻留时代。",
-"aftermath": "2016年罗塞塔号受控撞向彗星，彗星探测重心转向采样返回。",
-"sources": [
-{
-"title": "Wikipedia: 2014 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2014_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"深空探测",
-"彗星",
-"ESA"
-]
-},
-{
 "id": "2014-10-23-chang-e-5t1",
 "date": "2014-10-23",
 "date_accuracy": "exact",
@@ -3148,34 +3091,6 @@
 ]
 },
 {
-"id": "2015-03-06-dawn-ceres",
-"date": "2015-03-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "黎明号入轨谷神星，矮行星迎来第一位访客",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2015年3月6日，黎明号探测器进入谷神星轨道，人类第一次环绕一颗矮行星飞行。谷神星上的神秘亮斑成为当年最热门的天文谜题，最终被证明是咸水盐沉积，这颗小行星带最大天体被证实很可能拥有地下咸水储层，跻身潜在海洋世界名单。",
-"detail": "黎明号此前已完成灶神星任务，此番借助离子推进成为首个环绕两个地外天体的探测器。它在谷神星发现奥卡托陨坑亮斑（碳酸钠）、有机分子与可能的冰火山遗迹。2018年燃料耗尽后转为稳定绕飞，避免污染这颗可能宜居的天体。",
-"impact": "矮行星首次被近距离探测，小行星带宜居性研究开启。",
-"aftermath": "谷神星成为后续采样任务与 天体生物学 研究的重点目标。",
-"sources": [
-{
-"title": "Wikipedia: 2015 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2015_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"深空探测",
-"矮行星",
-"NASA"
-]
-},
-{
 "id": "2015-04-28-progress-m27m",
 "date": "2015-04-28",
 "date_accuracy": "exact",
@@ -3229,34 +3144,6 @@
 "科技",
 "SpaceX",
 "发射失败"
-]
-},
-{
-"id": "2015-07-14-new-horizons-flyby",
-"date": "2015-07-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "新视野号飞掠冥王星，太阳系行星时代的最终章",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2015年7月14日，飞行九年的新视野号以约5万公里距离飞掠冥王星，人类终于看清这颗遥远星球：一颗活跃的、有氮冰川与心形平原的行星。飞掠数据传回时地球沸腾，冥王星从\"被除名的矮行星\"变成全网明星，这也是传统九大行星全部被人类探测器造访过的历史性时刻。",
-"detail": "新视野号在飞掠前发现冥王星比预期大、存在大气霾层，飞掠后回传的影像揭示了 Sputnik Planitia 氮冰平原、水冰山脉与可能的冰火山，表明这颗矮行星至今仍有地质活动。数据下载持续了16个月。2019年元旦新视野号又飞掠柯伊伯带天体 Arrokoth，成为迄今探测过的最远天体。",
-"impact": "太阳系主要天体全部完成近距探测，柯伊伯带研究开门红。",
-"aftermath": "冥王星被重新列入重要天体行列，后续任务提案不断。",
-"sources": [
-{
-"title": "Wikipedia: 2015 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2015_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"深空探测",
-"冥王星",
-"NASA"
 ]
 },
 {
@@ -4476,34 +4363,6 @@
 ]
 },
 {
-"id": "2021-06-17-shenzhou-12",
-"date": "2021-06-17",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "神舟十二号进驻天宫，中国空间站迎来首批住户",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2021年6月17日（北京时间），神舟十二号载聂海胜、刘伯明、汤洪波升空，次日与天和核心舱对接，三名航天员成为中国空间站的首批住户，在轨驻留三个月。中国载人航天从短期飞行正式转入空间站长期驻留时代，此后每半年一班的人货轮换成为节奏。",
-"detail": "乘组完成了两次出舱活动与舱外设备安装，首次使用天和机械臂辅助出舱。9月17日返回舱在东风着陆场着陆。此后神舟十三、十四、十五号连续执行，2022年底完成首次在轨交接班。空间站进入全年有人、定期轮换的运营模式。",
-"impact": "中国空间站开启有人驻留，载人航天进入空间站运营时代。",
-"aftermath": "2022年神舟十五号完成在轨交接，六人同框成为经典画面。",
-"sources": [
-{
-"title": "Wikipedia: 2021 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2021_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"中国航天",
-"神舟",
-"空间站"
-]
-},
-{
 "id": "2021-09-16-inspiration4",
 "date": "2021-09-16",
 "date_accuracy": "exact",
@@ -4728,34 +4587,6 @@
 "中国航天",
 "空间站",
 "长征五号B"
-]
-},
-{
-"id": "2022-11-29-shenzhou-15",
-"date": "2022-11-29",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "神舟十五号发射，中国空间站首次在轨交接班",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2022年11月29日（北京时间），神舟十五号载费俊龙、邓清明、张陆升空，次日与空间站对接，与神舟十四号乘组实现中国首次在轨乘组交接，六名航天员在天宫同框合影。年近花甲的邓清明作为首批航天员备战24年终圆飞天梦，成为当年度最动人的航天故事。",
-"detail": "这次任务实现空间站乘组轮换常态化，此后每班乘组在轨交接，空间站保持全年有人。乘组驻留186天，完成四次出舱，首次实现货物气闸舱出舱。2023年6月返回。空间站自此进入\"乘组轮换、货物补给、科学实验\"并行的运营节奏。",
-"impact": "空间站进入常态化轮换运营，邓清明24年等待圆梦。",
-"aftermath": "此后神舟乘组每半年交接一次，2025年累计驻留乘组超十班。",
-"sources": [
-{
-"title": "Wikipedia: 2022 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2022_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"中国航天",
-"神舟",
-"空间站"
 ]
 },
 {
@@ -5186,35 +5017,6 @@
 "波音",
 "载人航天",
 "国际空间站"
-]
-},
-{
-"id": "2024-09-10-polaris-dawn",
-"date": "2024-09-10",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "北极星黎明：人类首次商业太空行走",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2024年9月10日，SpaceX 载人龙飞船执行北极星黎明任务，将亿万富翁 Jared Isaacman 与三名乘员送入自阿波罗时代以来最高的地球轨道（远地点1400公里）。9月12日，Isaacman 与 Sarah Gillis 身着 SpaceX 新型舱外服出舱，完成人类历史上第一次商业太空行走。",
-"detail": "任务穿越了范艾伦辐射带内侧，测试了星链激光通信与舱外服。出舱采用全 泄压 舱门方式。乘组还进行了数十项健康实验。这次任务为后续星舰私人绕月（Polaris 系列与 dearMoon 取代者）积累经验。",
-"impact": "商业公司完成太空行走，载人航天的边界再被外推。",
-"aftermath": "SpaceX 舱外服技术将用于星舰载人任务。",
-"sources": [
-{
-"title": "Wikipedia: 2024 in spaceflight",
-"url": "https://en.wikipedia.org/wiki/2024_in_spaceflight",
-"type": "wiki"
-}
-],
-"tags": [
-"航天",
-"科技",
-"探险",
-"SpaceX",
-"商业航天",
-"太空行走"
 ]
 },
 {

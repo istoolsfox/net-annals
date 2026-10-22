@@ -1101,35 +1101,6 @@
 ]
 },
 {
-"id": "2017-06-13-yahoo-verizon-deal-done",
-"date": "2017-06-13",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雅虎卖身Verizon完成：门户时代的正式谢幕",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2017年6月13日，Verizon以44.8亿美元完成对雅虎核心互联网业务的收购，售价不足2000年巅峰市值（约1250亿美元）的百分之四。收购完成后雅虎更名Altaba，沦为持股阿里巴巴与雅虎日本的投资壳公司。这个定",
-"detail": "2017年6月13日，Verizon以44.8亿美元完成对雅虎核心互联网业务的收购，售价不足2000年巅峰市值（约1250亿美元）的百分之四。收购完成后雅虎更名Altaba，沦为持股阿里巴巴与雅虎日本的投资壳公司。这个定义了90年代互联网门户的公司，以资产剥离方式结束独立历史。",
-"impact": "门户网站的商业模式被正式归档，『雅虎』品牌虽存续，但作为公司的雅虎至此终结。",
-"aftermath": "Verizon将雅虎与AOL打包成Oath（后更名Yahoo），业绩平平后再度转卖；雅虎日本则独立发展成日本最大门户，成为品牌存续的另类样本。",
-"sources": [
-{
-"title": "雅虎 - 维基百科",
-"url": "https://zh.wikipedia.org/wiki/雅虎",
-"type": "wiki"
-}
-],
-"tags": [
-"科技",
-"资本市场",
-"数字考古",
-"雅虎",
-"Verizon",
-"谢幕"
-]
-},
-{
 "id": "2018-09-15-qq-pet-shutdown",
 "date": "2018-09-15",
 "date_accuracy": "exact",

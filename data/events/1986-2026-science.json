@@ -2206,37 +2206,6 @@
 ]
 },
 {
-"id": "1997-07-04-pathfinder-mars",
-"date": "1997-07-04",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "火星探路者着陆，旅居者号成为首辆火星车",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "7月4日美国独立日，火星探路者号以气囊弹跳方式着陆阿瑞斯谷，次日释放出旅居者号——人类第一辆在另一颗行星上行进的漫游车。节目化的撞击着陆与彩色全景图让全球观众如痴如醉。",
-"detail": "探路者采用气囊缓冲替代反推着陆，成本仅为同期大型任务的零头，验证『更快更好更省』的探测策略。旅居者号11公斤重，80天内行进约100米，分析岩石成分证实阿瑞斯谷经历过灾难性洪水冲刷。任务共传回2.3G字节数据与1.6万张影像，着陆点后以卡尔·萨根命名。",
-"impact": "低成本火星车方案跑通，行星探测从『旗舰任务』走向高频小型化。",
-"aftermath": "勇气号、机遇号、好奇号、毅力号乃至中国的祝融号都沿用其 巡视器 范式；气囊着陆后来被天空起重机等新方案接替。",
-"sources": [
-{
-"title": "Wikipedia: 1997 in science",
-"url": "https://en.wikipedia.org/wiki/1997_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"文化出口",
-"火星探路者",
-"旅居者号",
-"NASA",
-"火星车"
-]
-},
-{
 "id": "1997-10-15-cassini-launch",
 "date": "1997-10-15",
 "date_accuracy": "exact",
@@ -2873,38 +2842,6 @@
 "人工心脏",
 "Jarvik",
 "心衰"
-]
-},
-{
-"id": "2000-06-26-human-genome-draft-announced",
-"date": "2000-06-26",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "人类基因组工作草图全球联合宣布",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "6月26日，美国总统克林顿与英国首相布莱尔通过卫星连线联合宣布：人类基因组工作草图完成。公立的人类基因组计划与私营塞雷拉公司同台亮相，一场六年竞赛以平局收场。",
-"detail": "草图覆盖约90%常染色质区域、30亿碱基对的约85%完成度。发布会上文特尔与柯林斯分坐两侧，CEO与官方团队各自宣称领先，最终数据同时在线发布。2001年2月双方在《自然》与《科学》分别发表分析：人类基因数仅约2-3万，远低于此前预估的10万，蛋白质编码区仅占基因组约2%。",
-"impact": "生命科学的『元素周期表』初版发布，基因组学产业与专利大战同步引爆。",
-"aftermath": "2003年宣告完成、2022年T2T补全最后一个缺口；基因测序价格从30亿美元降至千元级，直接催生了今天的精准医学。",
-"sources": [
-{
-"title": "Wikipedia: 2000 in science",
-"url": "https://en.wikipedia.org/wiki/2000_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"医学",
-"文化出口",
-"人类基因组",
-"柯林斯",
-"文特尔",
-"基因组学"
 ]
 },
 {
@@ -4274,35 +4211,6 @@
 ]
 },
 {
-"id": "2008-09-28-falcon1-orbit",
-"date": "2008-09-28",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "猎鹰1号第四次试射成功：私营火箭首次入轨",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "9月28日，SpaceX的猎鹰1号在夸贾林环礁第四次发射，成功进入轨道——历史上第一枚完全由私人资金研制并进入轨道的液体燃料火箭。此前三次连败已把这家公司逼到破产边缘。",
-"detail": "马斯克当时资金仅够再试一到两次，前三次失败（燃油泄漏、级间分离、级间震荡）几乎耗尽特斯拉与他的个人资产。第四次全胜后NASA在12月授予16亿美元商业补给合同，公司起死回生。猎鹰1号的技术（Merlin发动机、级间设计）直接演化为猎鹰9号。",
-"impact": "商业航天从『玩具』变成可靠的运力提供方，NASA的采购模式被重写。",
-"aftermath": "猎鹰9号2010年首飞、2015年实现第一级回收；2020年代SpaceX承包了全球一半以上的轨道发射质量。",
-"sources": [
-{
-"title": "Wikipedia: 2008 in science",
-"url": "https://en.wikipedia.org/wiki/2008_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"猎鹰1号",
-"SpaceX",
-"商业航天"
-]
-},
-{
 "id": "2008-10-07-2008tc3-predicted-impact",
 "date": "2008-10-07",
 "date_accuracy": "exact",
@@ -5327,36 +5235,6 @@
 ]
 },
 {
-"id": "2013-12-14-change3-yutu-landing",
-"date": "2013-12-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "嫦娥三号落月：玉兔号实现37年来人类首次月面软着陆",
-"category": "tech",
-"region": "cn",
-"milestone": false,
-"summary_30s": "12月14日晚，嫦娥三号在月球雨海西北部虹湾软着陆，玉兔号月球车驶上月面——这是自1976年苏联月球24号以来人类首次月面软着陆，也是中国第一次地外天体着陆。",
-"detail": "着陆器携带的月基天文望远镜首次在月面开展长期天文观测，测月雷达则剖面了月壤与月壳浅层结构。玉兔号2014年初因机构故障停止行走，但科学载荷仍工作数年。落月用的变推力发动机与自主避障技术为后续嫦娥四号月背着陆铺路。",
-"impact": "中国成为第三个实现月面软着陆的国家，探月工程『落』的阶段完成。",
-"aftermath": "嫦娥四号（2019年人类首登月背）、五号采样返回（2020年）与六号月背采样（2024年）接连落地，玉兔系列的月球车编号延续至今。",
-"sources": [
-{
-"title": "Wikipedia: 2013 in science",
-"url": "https://en.wikipedia.org/wiki/2013_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"嫦娥三号",
-"玉兔号",
-"探月工程",
-"中国航天"
-]
-},
-{
 "id": "2014-03-03-pithovirus-revived",
 "date": "2014-03-03",
 "date_accuracy": "exact",
@@ -5472,34 +5350,6 @@
 "抗生素耐药",
 "WHO",
 "公共卫生"
-]
-},
-{
-"id": "2014-08-06-rosetta-arrives-67p",
-"date": "2014-08-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "罗塞塔号抵达67P：人类首次陪伴一颗彗星旅行",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "8月6日，欧洲空间局罗塞塔号经历10年半、64亿公里飞行后进入彗星67P/丘留莫夫-格拉西缅科的环绕轨道——人类探测器第一次与彗星结伴飞行。三个月后它将释放菲莱着陆器登彗核。",
-"detail": "67P的形状出人意料：两瓣相接的『橡皮鸭』形，提示彗星可能是两个天体温和并合而成。罗塞塔测得彗核反照率极低（比煤炭还暗）、检出氨与甘氨酸等生命前体分子、观测到水冰升华驱动的昼夜活动。它还确认彗星水的氘氢比与地球海水不同，重创『彗星带来地球水』假说。",
-"impact": "彗星科学从飞掠快照进入全程陪伴，太阳系挥发性物质的化学清单被重新编写。",
-"aftermath": "罗塞塔2016年9月以受控撞击彗核结束任务；数据至今仍在产出新论文，彗星起源的『卵石吸积』模型被其支持。",
-"sources": [
-{
-"title": "Wikipedia: 2014 in science",
-"url": "https://en.wikipedia.org/wiki/2014_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"罗塞塔",
-"67P",
-"ESA"
 ]
 },
 {
@@ -5646,34 +5496,6 @@
 ]
 },
 {
-"id": "2015-03-06-dawn-orbits-ceres",
-"date": "2015-03-06",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "黎明号进入谷神星轨道：矮行星首次被环绕探测",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "3月6日，黎明号探测器结束灶神星段任务后再次点火离子推进器，进入矮行星谷神星轨道——人类第一次环绕一颗矮行星。随后的影像揭开了谷神星神秘亮斑的真容。",
-"detail": "谷神星是火星与木星之间最大的天体（直径950公里）。黎明号发现奥卡托陨石坑中心的亮斑是碳酸钠盐类，源自冰下咸水储层的 近期 渗出——谷神星并非死寂冰球，而是一个仍保有卤水活动的『海洋遗迹』。此后探测确认其表面水冰与有机物分布广泛。黎明号2018年燃料耗尽，永久驻留谷神星轨道。",
-"impact": "矮行星从分类学概念变成有活动史的个体，主带小天体的宜居潜力被重估。",
-"aftermath": "谷神星卤水储层的发现使其进入 天体生物学 候选清单；意大利达芬奇等后续谷神星任务方案持续论证。",
-"sources": [
-{
-"title": "Wikipedia: 2015 in science",
-"url": "https://en.wikipedia.org/wiki/2015_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"谷神星",
-"黎明号",
-"矮行星"
-]
-},
-{
 "id": "2015-07-13-pentaquark-discovered",
 "date": "2015-07-13",
 "date_accuracy": "exact",
@@ -5699,35 +5521,6 @@
 "五夸克",
 "LHCb",
 "粒子物理"
-]
-},
-{
-"id": "2015-07-14-new-horizons-pluto-flyby",
-"date": "2015-07-14",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "新视野号飞掠冥王星：心形冰原首次现形",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "7月14日，新视野号以约1.4万公里距离、近14公里每秒的速度飞掠冥王星，传回人类第一张冥王星高清影像：赤道上是一片 惊喜 心形的氮冰平原（后命名『斯普特尼克平原』）。",
-"detail": "冥王星远比预期活跃：氮冰平原存在对流与冰川流动，山脉是水冰构成（在零下230度仍可形变），薄雾层叠的大气存在蓝色 haze。卡戎北极的红色极冠提示早期大气交换。飞掠数据用了一年多才传完（带宽仅约2kbps）。任务还顺访了柯伊伯带天体Arrokoth（2019年），揭示原始星子的双瓣结构。",
-"impact": "矮行星地质学一夜成型，外太阳系的『死寂冰球』形象被彻底推翻。",
-"aftermath": "冥王星轨道器概念进入NASA十年规划讨论；Arrokoth数据支持行星形成的『流不稳定』假说。",
-"sources": [
-{
-"title": "Wikipedia: 2015 in science",
-"url": "https://en.wikipedia.org/wiki/2015_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"航天",
-"新视野号",
-"冥王星",
-"NASA"
 ]
 },
 {
@@ -6957,37 +6750,6 @@
 "流浪行星",
 "微引力透镜",
 "OGLE"
-]
-},
-{
-"id": "2020-11-09-pfizer-vaccine-90",
-"date": "2020-11-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "辉瑞宣布mRNA疫苗有效性90%：大流行隧道的尽头亮灯",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "11月9日，辉瑞与BioNTech宣布其mRNA新冠疫苗BNT162b2在三期临床试验中有效性达90%以上——史上第一次有疫苗在如此短时间内完成研发并达到这一效力，全球股市与舆论瞬间沸腾。",
-"detail": "mRNA疫苗路线此前二十年默默无闻：卡里科与韦斯曼2005年突破核苷修饰免疫原性难题。该疫苗在11天/单剂7天后即显现强保护，12月2日英国率先紧急授权，12月11日FDA批准；Moderna的同类疫苗一周后跟进。卡里科与韦斯曼获2023年诺贝尔生理学或医学奖。",
-"impact": "mRNA平台一战成名，疫苗研发的『年』尺度被压缩到『月』尺度，生物技术产业格局改写。",
-"aftermath": "mRNA技术外溢到流感、RSV、癌症个性化疫苗管线；全球疫苗分配不平等（COVAX缺口）则成为公共卫生伦理的下一课。",
-"sources": [
-{
-"title": "Wikipedia: 2020 in science",
-"url": "https://en.wikipedia.org/wiki/2020_in_science",
-"type": "wiki"
-}
-],
-"tags": [
-"科学",
-"科技",
-"医学",
-"文化出口",
-"mRNA疫苗",
-"辉瑞",
-"BioNTech",
-"新冠疫苗"
 ]
 },
 {
