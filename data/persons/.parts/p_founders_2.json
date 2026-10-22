@@ -1,0 +1,217 @@
+[
+  {
+    "id": "zhang-xiaolong",
+    "name": "张小龙",
+    "en_name": "Allen Zhang",
+    "aliases": ["Allen"],
+    "birth": "1969-12-03",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "cn",
+    "headline": "微信之父",
+    "summary_30s": "FoxMail作者、腾讯集团高级执行副总裁，先后做出FoxMail、QQ邮箱与微信三款产品，其中微信以10亿级月活成为中国移动互联网的国民应用，他本人以产品哲学与克制文化在工程师群体中封神。",
+    "timeline": [
+      {"date": "1994-06-01", "acc": "month", "text": "从华中理工大学（现华中科技大学）电信系硕士毕业，分配至电信机关，随后辞职南下广州。"},
+      {"date": "1997-01-01", "acc": "month", "text": "独立开发的电子邮件客户端FoxMail用户量达数百万，成为当时中国最知名的共享软件之一。"},
+      {"date": "2000-06-01", "acc": "month", "text": "FoxMail以1200万元出售给博大公司，此后辗转并入腾讯，2005年张小龙加入腾讯广州研发部。"},
+      {"date": "2008-06-01", "acc": "year", "text": "带领团队将QQ邮箱从边缘产品做成七星级产品，验证其对产品体验的把控力。"},
+      {"date": "2010-11-20", "acc": "month", "text": "向马化腾请缨启动移动端社交项目，微信在广州研发部立项开发。"},
+      {"date": "2011-01-21", "acc": "exact", "text": "微信1.0发布，此后以语音对讲、「摇一摇」「朋友圈」等创新功能快速击败众多对手。"},
+      {"date": "2012-03-29", "acc": "month", "text": "微信用户突破1亿，从发布到破亿仅用433天，创当时互联网产品增速纪录。"},
+      {"date": "2017-01-09", "acc": "exact", "text": "微信小程序上线，将微信升级为操作系统级生态，连接线下商业与政务服务。"}
+    ],
+    "achievements": [
+      "独立开发FoxMail，成为中国共享软件时代的代表作品",
+      "主导微信从零到10亿级月活，定义中国移动互联网的社交与支付生态",
+      "推出小程序，将微信升级为轻应用操作系统"
+    ],
+    "quotes": ["产品经理要了解人性"],
+    "sources": [
+      {"title": "维基百科：张小龙", "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%B0%8F%E9%BE%99", "type": "wiki"},
+      {"title": "腾讯官网：微信发展历程", "url": "https://www.tencent.com/zh-cn/about.html", "type": "official"},
+      {"title": "腾讯科技：微信公开课报道", "url": "https://tech.qq.com/", "type": "news"}
+    ],
+    "tags": ["微信", "FoxMail", "腾讯", "广州", "产品经理"]
+  },
+  {
+    "id": "ding-lei",
+    "name": "丁磊",
+    "en_name": "Ding Lei",
+    "aliases": [],
+    "birth": "1971-10-01",
+    "birth_accuracy": "month",
+    "death": null,
+    "field": "internet",
+    "region": "cn",
+    "headline": "网易创始人",
+    "summary_30s": "网易公司创始人兼CEO，1997年创办网易并率先做免费邮箱与门户，2001年在互联网寒冬中押注网络游戏绝处逢生，此后以《梦幻西游》系列、网易云音乐、有道等产品构建起最会赚钱的内容矩阵。",
+    "timeline": [
+      {"date": "1993-06-01", "acc": "month", "text": "从电子科技大学通信专业毕业，回到家乡进入宁波电信局工作，两年后辞职南下。"},
+      {"date": "1997-06-01", "acc": "month", "text": "在广州创立网易公司，推出163.com免费电子邮箱，用户量迅速做至国内第一。"},
+      {"date": "2000-06-30", "acc": "exact", "text": "网易在纳斯达克上市，上市即遭遇互联网泡沫破裂，股价一度跌破一美元。"},
+      {"date": "2001-12-01", "acc": "month", "text": "推出网络游戏《大话西游Online》，网易靠游戏业务在寒冬中率先复苏。"},
+      {"date": "2003-10-01", "acc": "month", "text": "凭借游戏与短信业务爆发，32岁的丁磊成为当年福布斯中国首富。"},
+      {"date": "2004-11-01", "acc": "month", "text": "《梦幻西游Online》上线，长期占据国内回合制网游头把交椅，最高同时在线270万。"},
+      {"date": "2013-04-23", "acc": "exact", "text": "网易云音乐上线，以歌单与社区评论文化在音乐流媒体市场占得一席。"},
+      {"date": "2016-06-01", "acc": "month", "text": "网易严选上线，开创ODM原创制造电商模式，成为消费升级期的代表性产品。"}
+    ],
+    "achievements": [
+      "创办网易，163邮箱长期居国内邮箱市场第一",
+      "带领网易转型游戏并成为全球头部手游厂商，《梦幻西游》系列长青二十年",
+      "相继孵化网易云音乐、有道、严选等业务，构建多元内容矩阵"
+    ],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：丁磊", "url": "https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A3%8A", "type": "wiki"},
+      {"title": "网易官网：公司简介", "url": "https://www.163.com/", "type": "official"},
+      {"title": "南方周末：网易游戏转型报道", "url": "https://www.infzm.com/", "type": "news"}
+    ],
+    "tags": ["网易", "游戏", "广州", "邮箱", "网易云音乐"]
+  },
+  {
+    "id": "jensen-huang",
+    "name": "黄仁勋",
+    "en_name": "Jensen Huang",
+    "aliases": ["老黄"],
+    "birth": "1963-02-17",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "ai",
+    "region": "world",
+    "headline": "英伟达创始人",
+    "summary_30s": "英伟达（NVIDIA）创始人兼CEO，1993年创立公司并以GPU重塑图形计算，2006年押注CUDA通用计算布局AI，三十年后英伟达成为人工智能时代的算力底座，市值一度突破三万亿美元。",
+    "timeline": [
+      {"date": "1973-07-01", "acc": "month", "text": "约十岁时与兄长被父母送往美国，进入肯塔基州乡村寄宿学校就读，此后辗转俄勒冈。"},
+      {"date": "1984-06-01", "acc": "year", "text": "从俄勒冈州立大学电气工程专业毕业，后获斯坦福大学计算机硕士。"},
+      {"date": "1993-04-05", "acc": "month", "text": "与Chris Malachowsky、Curtis Priem在加州圣克拉拉一家餐厅创立NVIDIA。"},
+      {"date": "1996-06-01", "acc": "year", "text": "在濒临破产时做出「 cứ六个月出一代新品」的激进产品路线，随RIVA128起死回生。"},
+      {"date": "1999-08-31", "acc": "month", "text": "发布GeForce 256并首次提出GPU概念，可编程图形处理器自此重塑游戏与视觉产业。"},
+      {"date": "2006-06-01", "acc": "year", "text": "推出CUDA并行计算平台，押注GPU通用计算，为日后深度学习爆发埋下伏笔。"},
+      {"date": "2012-06-01", "acc": "month", "text": "AlexNet用GPU训练夺得ImageNet竞赛冠军，深度学习革命引爆，英伟达成为AI算力唯一供应商。"},
+      {"date": "2023-05-25", "acc": "month", "text": "发布AI超级计算机DGX与财报指引暴增，英伟达市值一个月内突破一万亿美元。"},
+      {"date": "2024-06-18", "acc": "month", "text": "英伟达市值超越微软与苹果，短暂成为全球市值第一的公司。"}
+    ],
+    "achievements": [
+      "创立英伟达并发明GPU概念，重塑游戏与视觉计算产业",
+      "以CUDA布局通用计算，使英伟达成为全球AI算力的底座供应商",
+      "带领公司市值突破三万亿美元，成为全球市值最高的公司之一"
+    ],
+    "quotes": ["The more you buy, the more you save", "我们还有30年要跑"],
+    "sources": [
+      {"title": "维基百科：黄仁勋", "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%8B%8B", "type": "wiki"},
+      {"title": "NVIDIA官网：领导团队", "url": "https://www.nvidia.com/", "type": "official"},
+      {"title": "CNBC：NVIDIA市值报道", "url": "https://www.cnbc.com/", "type": "news"}
+    ],
+    "tags": ["英伟达", "NVIDIA", "GPU", "AI", "芯片", "美国"]
+  },
+  {
+    "id": "sam-altman",
+    "name": "山姆·奥尔特曼",
+    "en_name": "Sam Altman",
+    "aliases": ["Sam Altman"],
+    "birth": "1985-04-22",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "ai",
+    "region": "world",
+    "headline": "OpenAI CEO",
+    "summary_30s": "OpenAI联合创始人兼CEO，19岁创办位置服务公司Loopt，31岁执掌YC，2019年出任OpenAI CEO并推动ChatGPT问世，引爆全球生成式AI浪潮，也把「AI安全与治理」推上公共议程。",
+    "timeline": [
+      {"date": "2005-06-01", "acc": "month", "text": "从斯坦福大学计算机系辍学，创办位置分享公司Loopt并加入首批Y Combinator。"},
+      {"date": "2012-06-01", "acc": "month", "text": "Loopt以约4300万美元出售，退出日常管理并转向投资。"},
+      {"date": "2014-02-01", "acc": "month", "text": "接替保罗·格雷厄姆出任Y Combinator总裁，将其扩展为全美最具影响力的创业孵化器。"},
+      {"date": "2015-12-11", "acc": "exact", "text": "与马斯克、Greg Brockman等人宣布创立非营利研究机构OpenAI，目标确保通用人工智能造福人类。"},
+      {"date": "2019-03-01", "acc": "month", "text": "卸任YC总裁，出任OpenAI CEO，OpenAI重组为「有限营利」架构以吸引资本。"},
+      {"date": "2022-11-30", "acc": "exact", "text": "ChatGPT发布，两个月月活破亿，成为历史上用户增长最快的消费应用，引爆生成式AI浪潮。"},
+      {"date": "2023-11-17", "acc": "exact", "text": "被OpenAI董事会突然解雇，微软与员工集体施压，五天后达成协议回归CEO，董事会重组。"},
+      {"date": "2024-06-01", "acc": "month", "text": "推动GPT-4o、o1推理模型与Sora视频模型相继发布，OpenAI估值突破1500亿美元。"}
+    ],
+    "achievements": [
+      "执掌OpenAI期间发布ChatGPT，引爆全球生成式AI浪潮",
+      "将非营利研究机构转型为可吸引千亿级资本投入的组织",
+      "执掌YC期间孵化与投资数千家创业公司"
+    ],
+    "controversies": [
+      "2023年11月被OpenAI董事会以「对董事会不坦率」为由解雇，五日后回归，事件细节至今未完整公开"
+    ],
+    "quotes": ["AGI将比人们想象的更早到来"],
+    "sources": [
+      {"title": "维基百科：山姆·奥尔特曼", "url": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC", "type": "wiki"},
+      {"title": "OpenAI官网：Leadership", "url": "https://openai.com/", "type": "official"},
+      {"title": "The Verge：OpenAI董事会风波报道", "url": "https://www.theverge.com/", "type": "news"}
+    ],
+    "tags": ["OpenAI", "ChatGPT", "AI", "YC", "美国"]
+  },
+  {
+    "id": "fei-fei-li",
+    "name": "李飞飞",
+    "en_name": "Fei-Fei Li",
+    "aliases": [],
+    "birth": "1976-01-01",
+    "birth_accuracy": "year",
+    "death": null,
+    "field": "ai",
+    "region": "world",
+    "headline": "ImageNet之母",
+    "summary_30s": "斯坦福大学教授、ImageNet数据集创始人，以「数据先行」的远见为深度学习革命铺路，ImageNet挑战赛直接催生了卷积神经网络的突破，被视为当代人工智能最重要的奠基者之一。",
+    "timeline": [
+      {"date": "1992-06-01", "acc": "year", "text": "随父母自北京移民美国新泽西州，在帕西帕尼读高中，课余在自家干洗店帮忙打工。"},
+      {"date": "1999-06-01", "acc": "year", "text": "以全额奖学金从普林斯顿大学物理系毕业，随后赴西藏做过一年藏医药研究。"},
+      {"date": "2005-06-01", "acc": "year", "text": "获加州理工学院电气工程博士学位，研究方向为认知与计算神经科学。"},
+      {"date": "2007-06-01", "acc": "year", "text": "启动ImageNet项目，雇佣全球众包人力标注1400万张图片，学界一度认为不可能完成。"},
+      {"date": "2009-06-01", "acc": "year", "text": "ImageNet数据集论文发表于CVPR并加入斯坦福大学，次年ImageNet挑战赛开赛。"},
+      {"date": "2012-09-01", "acc": "month", "text": "Hinton团队用AlexNet在ImageNet挑战赛一战封神，深度学习革命自此引爆，ImageNet成为关键推手。"},
+      {"date": "2017-01-09", "acc": "month", "text": "出任谷歌云AI与机器学习首席科学家，推动AutoML等企业级AI落地。"},
+      {"date": "2019-03-01", "acc": "month", "text": "联合发起斯坦福以人为本人工智能研究院（HAI）并任联席院长。"},
+      {"date": "2024-06-01", "acc": "month", "text": "创办空间智能创业公司World Labs，称视觉空间智能是AI的下一个前沿。"}
+    ],
+    "achievements": [
+      "创建ImageNet数据集与挑战赛，直接催化深度学习革命",
+      "推动「以人为本AI」理念，联合创立斯坦福HAI研究院",
+      "创办空间智能公司World Labs，探索三维视觉智能前沿"
+    ],
+    "quotes": ["如果有想把世界变好的好奇心，就去学AI"],
+    "sources": [
+      {"title": "维基百科：李飞飞", "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A3%9E%E9%A3%9E", "type": "wiki"},
+      {"title": "斯坦福HAI官网", "url": "https://hai.stanford.edu/", "type": "official"},
+      {"title": "Quant Magazine：李飞飞专访", "url": "https://www.quantamagazine.org/", "type": "news"}
+    ],
+    "tags": ["ImageNet", "斯坦福", "AI", "科学家", "美国"]
+  },
+  {
+    "id": "andrew-ng",
+    "name": "吴恩达",
+    "en_name": "Andrew Ng",
+    "aliases": ["Andrew Ng"],
+    "birth": "1976-01-01",
+    "birth_accuracy": "year",
+    "death": null,
+    "field": "ai",
+    "region": "world",
+    "headline": "Google Brain创始人、在线教育先驱",
+    "summary_30s": "斯坦福大学副教授、Google Brain联合创始人、Coursera联合创始人，曾执掌百度AI集团，其机器学习公开课让数十万人入门AI，被视为把深度学习推向工业界与大众的关键人物。",
+    "timeline": [
+      {"date": "1995-06-01", "acc": "year", "text": "从卡内基梅隆大学计算机系毕业，此后在麻省理工学院获硕士、加州大学伯克利分校获博士学位。"},
+      {"date": "2003-06-01", "acc": "year", "text": "加入斯坦福大学任计算机科学助理教授，主导STAIR机器人项目并孕育机器人操作系统ROS。"},
+      {"date": "2008-06-01", "acc": "year", "text": "参与创办Google Brain项目，用上万颗CPU训练神经网络识别猫脸，开启深度学习工业时代。"},
+      {"date": "2011-10-01", "acc": "month", "text": "将斯坦福机器学习课程免费公开，超过十万人注册，成为历史上最受欢迎的在线课程之一。"},
+      {"date": "2012-06-01", "acc": "month", "text": "与Daphne Koller联合创办Coursera，慕课（MOOC）浪潮自此席卷全球高校。"},
+      {"date": "2014-05-16", "acc": "exact", "text": "出任百度首席科学家，执掌百度研究院，推动深度学习与自动驾驶在中国落地。"},
+      {"date": "2017-03-22", "acc": "exact", "text": "宣布离开百度，随后创办Landing.AI与DeepLearning.AI，转向AI转型咨询与教育。"},
+      {"date": "2024-06-01", "acc": "year", "text": "旗下DeepLearning.AI课程累计注册学习者超过800万，持续输出AI通识与工程教育。"}
+    ],
+    "achievements": [
+      "联合创办Google Brain，开启深度学习工业应用时代",
+      "创办Coursera，推动慕课浪潮并让全球数百万人系统学习AI",
+      "机器学习公开课与《机器学习年课》被公认为全球AI入门第一课"
+    ],
+    "quotes": ["AI is the new electricity"],
+    "sources": [
+      {"title": "维基百科：吴恩达", "url": "https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE", "type": "wiki"},
+      {"title": "DeepLearning.AI官网", "url": "https://www.deeplearning.ai/", "type": "official"},
+      {"title": "MIT Technology Review：吴恩达专访", "url": "https://www.technologyreview.com/", "type": "news"}
+    ],
+    "tags": ["AI", "Google Brain", "Coursera", "深度学习", "在线教育"]
+  }
+]
