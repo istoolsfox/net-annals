@@ -86,7 +86,32 @@ a{color:inherit}
 .heroCta{display:flex;gap:14px;flex-wrap:wrap;justify-content:center}
 .btn{font-family:var(--mono);font-size:.85rem;letter-spacing:.08em;padding:13px 34px;border-radius:4px;text-decoration:none;cursor:pointer;transition:color .2s,border-color .2s,background-color .2s,filter .2s}
 .btn.primary{background:var(--accent);color:#141310;border:1px solid var(--accent)}
+.btn.geo{border:1px solid var(--accent);color:var(--accent);background:transparent}
 .btn.ghost{border:1px solid var(--line2);color:var(--dim)}
+
+/* ── 地域日志横幅 ─────────────────── */
+.geoBand{
+  display:flex;align-items:center;gap:22px;max-width:1080px;margin:0 auto 30px;
+  padding:22px 28px;border:1px solid var(--accent);border-radius:10px;
+  background:color-mix(in srgb, var(--accent) 8%, transparent);
+  text-decoration:none;color:var(--text);
+  transition:filter .2s,transform .2s;
+}
+.geoBand:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.geoBandIcon{font-size:2.2rem;line-height:1;flex:none}
+.geoBandBody{flex:1;min-width:0}
+.geoBandTitle{font-family:var(--serif);font-weight:700;font-size:1.18rem;margin-bottom:6px;color:var(--text)}
+.geoBandArrow{color:var(--accent);font-family:var(--mono)}
+.geoBandDesc{color:var(--dim);font-size:.88rem;line-height:1.65}
+.geoBandStats{display:flex;gap:20px;flex:none}
+.geoBandNum{font-family:var(--mono);font-size:1.5rem;font-weight:700;color:var(--accent);text-align:center;line-height:1.1}
+.geoBandNum small{display:block;font-size:.68rem;font-weight:400;color:var(--dim);letter-spacing:.1em;margin-top:3px}
+@media (max-width:760px){
+  .geoBand{flex-direction:row;flex-wrap:wrap;padding:18px 20px;gap:14px}
+  .geoBandIcon{font-size:1.7rem}
+  .geoBandStats{gap:14px}
+  .geoBandNum{font-size:1.15rem}
+}
 
 /* ── 工具栏 ─────────────────── */
 .toolbar{
