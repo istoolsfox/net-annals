@@ -1134,35 +1134,6 @@
 ]
 },
 {
-"id": "2008-09-15-lehman-collapse",
-"date": "2008-09-15",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "雷曼兄弟破产：互联网寒冬的前奏",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "拥有158年历史的投行雷曼兄弟申请破产保护，全球金融危机总爆发。风险投资瞬间捂紧钱包，刚刚过冬的互联网公司再度感到寒意，但也逼出了移动互联网这一轮新周期。寒冬里活下来的模式决定了此后十年。",
-"detail": "2008年9月15日，美国第四大投行雷曼兄弟（Lehman Brothers）正式申请破产保护，成为此次金融危机的标志性事件，全球资本市场陷入恐慌，融资环境急冻。对科技行业而言，这轮寒冬冲击了尚未盈利的创业公司，却也加速了资本向『现金牛』与新模式聚集；iPhone 与 Android 带来的移动互联网机会，恰在此后数年成长为最大的一波创业红利。",
-"impact": "全球风险投资周期性收缩的节点，也间接塑造了此后移动互联网创业潮的资金流向。",
-"aftermath": "各国央行开启量化宽松时代，廉价资本在数年后回流科技业，成就了移动互联网十年的爆发。",
-"sources": [
-{
-"title": "Wikipedia: Lehman Brothers",
-"url": "https://en.wikipedia.org/wiki/Lehman_Brothers",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"资本市场",
-"文化出口",
-"雷曼兄弟",
-"金融危机",
-"风险投资"
-]
-},
-{
 "id": "2008-09-23-tmobile-g1",
 "date": "2008-09-23",
 "date_accuracy": "exact",
