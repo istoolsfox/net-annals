@@ -3,7 +3,7 @@
 "id": "1984-11-18-feilo-acoustics-shares",
 "date": "1984-11-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "飞乐音响发行股票：新中国第一支真正意义上的公开股票",
 "category": "economy",
 "region": "cn",
@@ -17,6 +17,16 @@
 "title": "百度百科：飞乐音响",
 "url": "https://baike.baidu.com/item/飞乐音响",
 "type": "wiki"
+},
+{
+"title": "飞乐音响官网：公司概况（创立于1984年11月18日）",
+"url": "https://facs.inesa.com/flyx_gsgk",
+"type": "official"
+},
+{
+"title": "央视网：1984年11月18日中国第一个公开发行的股票飞乐音响",
+"url": "https://tv.cctv.com/2018/06/29/VIDExa7ltlSi3Fe5JGIW3eVK180629.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -31,7 +41,7 @@
 "id": "1990-12-01-shenzhen-exchange-founded",
 "date": "1990-12-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深交所试营业：特区柜台市场的集中化收编",
 "category": "economy",
 "region": "cn",
@@ -45,6 +55,16 @@
 "title": "百度百科：深圳证券交易所",
 "url": "https://baike.baidu.com/item/深圳证券交易所",
 "type": "wiki"
+},
+{
+"title": "中国日报：深交所筹建历经「一波三折」",
+"url": "http://china.chinadaily.com.cn/2018-08/07/content_36723331.htm",
+"type": "news"
+},
+{
+"title": "中国改革信息库：深圳证券交易所开业",
+"url": "http://rd.reformdata.org/xinwen/2021/show-1105.html",
+"type": "news"
 }
 ],
 "tags": [

@@ -124,7 +124,7 @@
 "id": "1986-08-03-first-bankrupt-factory",
 "date": "1986-08-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "沈阳防爆器械厂破产：新中国第一家破产的企业",
 "category": "economy",
 "region": "cn",
@@ -138,6 +138,11 @@
 "title": "百度百科：企业破产法",
 "url": "https://baike.baidu.com/item/中华人民共和国企业破产法",
 "type": "wiki"
+},
+{
+"title": "新华社：「惊天第一破」启示录",
+"url": "https://www.xinhuanet.com/politics/2018-08/04/c_1123221261.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -3839,7 +3844,7 @@
 "id": "1993-04-01-liangpiao-abolished",
 "date": "1993-04-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "粮票废止：凭票吃饭的时代终结",
 "category": "society",
 "region": "cn",
@@ -3853,6 +3858,11 @@
 "title": "Wikipedia: 粮票",
 "url": "https://zh.wikipedia.org/wiki/粮票",
 "type": "wiki"
+},
+{
+"title": "共产党员网：告别粮票20年 从短缺到充裕",
+"url": "https://news.12371.cn/2013/12/24/ARTI1387833589242582.shtml",
+"type": "news"
 }
 ],
 "tags": [
