@@ -2121,7 +2121,7 @@
 "id": "2010-05-29-lovelive-project-launch",
 "date": "2010-05-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "LoveLive!企划启动：『我们没有成员，只有你们』",
 "category": "culture",
 "region": "world",
@@ -2135,6 +2135,12 @@
 "title": "LoveLive! - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/LoveLive!",
 "type": "wiki"
+},
+{
+"title": "萌娘百科：LoveLive!（2010年5月29日电击G's 7月号刊载企划预告，6月30日正式公开企划名）",
+"url": "https://zh.moegirl.org.cn/LoveLive!",
+"type": "wiki",
+"outlet": "萌娘百科"
 }
 ],
 "tags": [
@@ -2444,16 +2450,16 @@
 ]
 },
 {
-"id": "2013-07-20-bilibili-macro-link-first",
-"date": "2013-07-20",
+"id": "2013-10-13-bilibili-macro-link-first",
+"date": "2013-10-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届Bilibili Macro Link开幕：小破站的线下成人礼",
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "2013年7月20日，B站在上海梅赛德斯-奔驰文化中心举办首届Bilibili Macro Link（BML）。UP主、唱见、舞见与虚拟偶像同台，弹幕从线上搬进万人场馆。这场最初只有几千人的演出，后来发展成万人规模的亚文化嘉年华，B站的线下帝国自此起步。",
-"detail": "B站2013年7月20日举办首届BML，地点为上海梅赛德斯-奔驰文化中心，节目以站内UP主（唱见、舞见、演奏、宅舞）为核心，辅以嘉宾演出，现场观众数千人，全程在B站直播，弹幕与现场灯光形成『线上线下共振』的独特体验。此后BML逐年扩容：2015年规模过万，2016年起增设外场『Bilibili World』形成双线结构，2019年BML的VR演唱会与全息初音未来等环节标志技术升级。BML的意义在于把A站时代以来的弹幕文化第一次实体化：UP主从头像变成真人，粉丝应援形成规范（灯牌、合唱、call），中国二次元线下文化自此有了自己的『红白歌会』模板。",
+"summary_30s": "2013年10月13日，B站在上海梅赛德斯-奔驰文化中心举办首届Bilibili Macro Link（BML）。UP主、唱见、舞见与虚拟偶像同台，弹幕从线上搬进万人场馆。这场最初只有几千人的演出，后来发展成万人规模的亚文化嘉年华，B站的线下帝国自此起步。",
+"detail": "B站2013年10月13日举办首届BML，地点为上海梅赛德斯-奔驰文化中心，节目以站内UP主（唱见、舞见、演奏、宅舞）为核心，辅以嘉宾演出，现场观众数千人，全程在B站直播，弹幕与现场灯光形成『线上线下共振』的独特体验。此后BML逐年扩容：2015年规模过万，2016年起增设外场『Bilibili World』形成双线结构，2019年BML的VR演唱会与全息初音未来等环节标志技术升级。BML的意义在于把A站时代以来的弹幕文化第一次实体化：UP主从头像变成真人，粉丝应援形成规范（灯牌、合唱、call），中国二次元线下文化自此有了自己的『红白歌会』模板。",
 "impact": "BML确立了『线上社区→线下演出』的成熟转化路径，中国二次元线下演艺自此拥有可复制的运营范式。",
 "aftermath": "BML与BW、Bilibili Link等构成B站线下矩阵；虚拟偶像全息演出成为BML固定看点，2020年代与BW合并规模数万人。",
 "sources": [
@@ -2461,6 +2467,12 @@
 "title": "Bilibili Macro Link - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/Bilibili Macro Link",
 "type": "wiki"
+},
+{
+"title": "维基百科：Bilibili Macro Link（首届2013年10月13日，上海梅赛德斯-奔驰文化中心Mixing Room）",
+"url": "https://zh.wikipedia.org/zh-hans/Bilibili_Macro_Link",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [

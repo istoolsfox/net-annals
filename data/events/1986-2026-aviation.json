@@ -4189,7 +4189,7 @@
 "id": "2026-03-22-ac-8646-lga",
 "date": "2026-03-22",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "拉瓜迪亚撞车：加航快运8646落地撞上消防车，两名飞行员遇难",
 "category": "world",
 "region": "world",
@@ -4225,7 +4225,7 @@
 "id": "2026-05-21-af447-verdict",
 "date": "2026-05-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "法航447案二审改判：空客与法航均被判法人过失杀人罪成立",
 "category": "world",
 "region": "world",
@@ -4239,6 +4239,11 @@
 "title": "Wikipedia: 2026 in aviation",
 "url": "https://en.wikipedia.org/wiki/2026_in_aviation",
 "type": "wiki"
+},
+{
+"title": "Reuters：Decision due in appeals case against Airbus and Air France over Rio-Paris crash",
+"url": "https://www.reuters.com/legal/litigation/decision-due-appeals-case-airbus-air-france-over-rio-paris-crash-2026-05-21",
+"type": "media"
 }
 ],
 "tags": [

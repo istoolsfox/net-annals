@@ -156,7 +156,7 @@
 "id": "2010-01-15-if-you-are-the-one",
 "date": "2010-01-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "江苏卫视《非诚勿扰》开播：全民围观的相亲现象级",
 "category": "culture",
 "region": "cn",
@@ -170,6 +170,12 @@
 "title": "Wikipedia: 非诚勿扰 (节目)",
 "url": "https://zh.wikipedia.org/wiki/非诚勿扰_(节目)",
 "type": "wiki"
+},
+{
+"title": "百度百科：非诚勿扰（2010年1月15日江苏卫视首播）",
+"url": "https://baike.baidu.com/item/%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0/157",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -325,7 +331,7 @@
 "id": "2010-04-17-house-purchase-limits",
 "date": "2010-04-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『国十条』重启限购：史上最严楼市调控",
 "category": "economy",
 "region": "cn",
@@ -339,6 +345,18 @@
 "title": "维基百科：中国大陆房地产调控",
 "url": "https://en.wikipedia.org/wiki/Real_estate_in_China",
 "type": "wiki"
+},
+{
+"title": "维基文库：国务院关于坚决遏制部分城市房价过快上涨的通知（国发〔2010〕10号）",
+"url": "https://zh.wikisource.org/wiki/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E5%9D%9A%E5%86%B3%E9%81%8F%E5%88%B6%E9%83%A8%E5%88%86%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E8%BF%87%E5%BF%AB%E4%B8%8A%E6%B6%A8%E7%9A%84%E9%80%9A%E7%9F%A5",
+"type": "official",
+"outlet": "中国政府网"
+},
+{
+"title": "中新网：遏制房价过快上涨 稳定房价不力将追责（2010-04-17）",
+"url": "http://www.chinanews.com.cn/estate/estate-zcfg/news/2010/04-17/2232641.shtml",
+"type": "news",
+"outlet": "中新网"
 }
 ],
 "tags": [
@@ -619,7 +637,7 @@
 "id": "2010-08-07-zhouqu-mudslide",
 "date": "2010-08-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "甘肃舟曲特大山洪泥石流",
 "category": "national",
 "region": "cn",
@@ -633,6 +651,12 @@
 "title": "维基百科：舟曲泥石流",
 "url": "https://zh.wikipedia.org/wiki/舟曲泥石流",
 "type": "wiki"
+},
+{
+"title": "维基百科：2010年舟曲泥石流灾害",
+"url": "https://zh.wikipedia.org/zh-hans/2010%E5%B9%B4%E8%88%9F%E6%9B%B2%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -860,7 +884,7 @@
 "id": "2010-11-12-guangzhou-asian-games",
 "date": "2010-11-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "广州亚运会开幕：乐羊羊的珠江之夜",
 "category": "national",
 "region": "cn",
@@ -874,6 +898,12 @@
 "title": "维基百科：2010年亚洲运动会",
 "url": "https://zh.wikipedia.org/wiki/2010年亚洲运动会",
 "type": "wiki"
+},
+{
+"title": "广州市政府：激情亚运盛会铸经典（2010年11月12日海心沙开幕）",
+"url": "https://www.gz.gov.cn/zlgz/tsgz/content/post_9962239.html",
+"type": "official",
+"outlet": "广州市人民政府"
 }
 ],
 "tags": [
@@ -976,7 +1006,7 @@
 "id": "2010-12-16-let-the-bullets-fly",
 "date": "2010-12-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《让子弹飞》上映：站着把钱挣了",
 "category": "culture",
 "region": "cn",
@@ -990,6 +1020,12 @@
 "title": "维基百科：让子弹飞",
 "url": "https://zh.wikipedia.org/wiki/让子弹飞",
 "type": "wiki"
+},
+{
+"title": "豆瓣电影：让子弹飞（2010-12-16内地上映）",
+"url": "https://movie.douban.com/subject/3742360/",
+"type": "wiki",
+"outlet": "豆瓣"
 }
 ],
 "tags": [
@@ -1144,7 +1180,7 @@
 "id": "2011-01-26-new8-measures",
 "date": "2011-01-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『新国八条』：限购全面铺开",
 "category": "economy",
 "region": "cn",
@@ -1158,6 +1194,12 @@
 "title": "维基百科：中国大陆房地产调控",
 "url": "https://en.wikipedia.org/wiki/Real_estate_in_China",
 "type": "wiki"
+},
+{
+"title": "人民网：回看十年楼市调控政策——新国八条（2011年1月26日国务院常务会议）",
+"url": "http://house.people.com.cn/n/2015/0330/c164220-26773202.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "tags": [
@@ -1256,7 +1298,7 @@
 "id": "2011-03-15-shuanghui-clenbuterol",
 "date": "2011-03-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "央视3·15曝光双汇瘦肉精",
 "category": "society",
 "region": "cn",
@@ -1270,6 +1312,12 @@
 "title": "维基百科：双汇",
 "url": "https://zh.wikipedia.org/wiki/双汇",
 "type": "wiki"
+},
+{
+"title": "央视3·15特别行动：瘦肉精猪肉流入双汇公司（2011-03-15）",
+"url": "http://jingji.cntv.cn/20110315/106477_2.shtml",
+"type": "news",
+"outlet": "中央电视台"
 }
 ],
 "tags": [
@@ -1282,7 +1330,7 @@
 "id": "2011-03-17-salt-panic",
 "date": "2011-03-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "抢盐风波：一条谣言席卷全国的48小时",
 "category": "society",
 "region": "cn",
@@ -1296,6 +1344,18 @@
 "title": "Wikipedia: 碘盐",
 "url": "https://zh.wikipedia.org/wiki/碘盐",
 "type": "wiki"
+},
+{
+"title": "The Guardian: Chinese panic-buy salt over Japan nuclear threat (2011-03-17)",
+"url": "https://www.theguardian.com/world/2011/mar/17/chinese-panic-buy-salt-japan",
+"type": "news",
+"outlet": "卫报"
+},
+{
+"title": "Reuters: Stop hoarding salt, China tells radiation-scared shoppers",
+"url": "https://www.reuters.com/article/world/stop-hoarding-salt-china-tells-radiation-scared-shoppers-idUSTRE72G1LZ",
+"type": "news",
+"outlet": "路透社"
 }
 ],
 "tags": [
@@ -1461,7 +1521,7 @@
 "id": "2011-06-20-guomeimei",
 "date": "2011-06-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "郭美美炫富事件：红十字会信任危机",
 "category": "society",
 "region": "cn",
@@ -1475,6 +1535,12 @@
 "title": "维基百科：郭美美事件",
 "url": "https://zh.wikipedia.org/wiki/郭美美事件",
 "type": "wiki"
+},
+{
+"title": "财新网专题：郭美美炫富事件（2011年6月20日）",
+"url": "https://special.caixin.com/e0620",
+"type": "news",
+"outlet": "财新网"
 }
 ],
 "tags": [
@@ -1488,7 +1554,7 @@
 "id": "2011-06-24-west-lake-unesco",
 "date": "2011-06-24",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "杭州西湖申遗成功：千年景观拿到世界文化名片",
 "category": "culture",
 "region": "cn",
@@ -1507,6 +1573,12 @@
 "title": "世界遗产 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7",
 "type": "wiki"
+},
+{
+"title": "联合国新闻：中国杭州西湖文化景观被列入世界遗产名录（2011-06-24）",
+"url": "https://news.un.org/zh/story/2011/06/154242",
+"type": "official",
+"outlet": "联合国"
 }
 ],
 "tags": [
@@ -2071,7 +2143,7 @@
 "id": "2012-04-10-scarborough-shoal",
 "date": "2012-04-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "黄岩岛对峙：南海议题升温",
 "category": "national",
 "region": "cn",
@@ -2085,6 +2157,12 @@
 "title": "维基百科：黄岩岛",
 "url": "https://zh.wikipedia.org/wiki/黄岩岛",
 "type": "wiki"
+},
+{
+"title": "财新专题：中菲黄岩岛对峙事件",
+"url": "https://special.caixin.com/event_0410",
+"type": "news",
+"outlet": "财新网"
 }
 ],
 "tags": [
@@ -2097,7 +2175,7 @@
 "id": "2012-05-14-a-bite-of-china",
 "date": "2012-05-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《舌尖上的中国》首播：纪录片成全民下饭剧",
 "category": "culture",
 "region": "cn",
@@ -2111,6 +2189,12 @@
 "title": "维基百科：舌尖上的中国",
 "url": "https://zh.wikipedia.org/wiki/舌尖上的中国",
 "type": "wiki"
+},
+{
+"title": "央视网：《舌尖上的中国》第一季（2012年5月14日CCTV-1《魅力纪录》首播）",
+"url": "https://tv.cctv.com/2017/01/19/VIDAtIyRXSWBaJGZ1itGdZFE170119.shtml",
+"type": "official",
+"outlet": "央视网"
 }
 ],
 "tags": [
@@ -2209,7 +2293,7 @@
 "id": "2012-06-28-kunming-metro-opening",
 "date": "2012-06-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "昆明地铁开通：西南边疆省会进入轨道时代",
 "category": "national",
 "region": "cn",
@@ -2223,6 +2307,12 @@
 "title": "维基百科：昆明地铁",
 "url": "https://zh.wikipedia.org/wiki/%E6%98%86%E6%98%8E%E5%9C%B0%E9%93%81",
 "type": "wiki"
+},
+{
+"title": "维基百科：昆明地铁6号线（2012年6月28日开通运营）",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%98%86%E6%98%8E%E5%9C%B0%E9%93%816%E5%8F%B7%E7%BA%BF",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -2619,7 +2709,7 @@
 "id": "2012-12-21-maya-doomsday",
 "date": "2012-12-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "玛雅『末日』谣言狂欢：安然无恙的12月21日",
 "category": "culture",
 "region": "cn",
@@ -2633,6 +2723,12 @@
 "title": "维基百科：2012年现象",
 "url": "https://zh.wikipedia.org/wiki/2012年现象",
 "type": "wiki"
+},
+{
+"title": "维基百科：2012年现象",
+"url": "https://zh.wikipedia.org/zh-hans/2012%E5%B9%B4%E7%8F%BE%E8%B1%A1",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -2763,7 +2859,7 @@
 "id": "2013-01-12-smog-year-2013",
 "date": "2013-01-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "雾霾元年：PM2.5 爆表的那个一月",
 "category": "society",
 "region": "cn",
@@ -2777,6 +2873,12 @@
 "title": "Wikipedia: 雾霾",
 "url": "https://zh.wikipedia.org/wiki/雾霾",
 "type": "wiki"
+},
+{
+"title": "维基百科：2013年中国中东部严重雾霾事件",
+"url": "https://zh.wikipedia.org/zh-hans/2013%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%B8%9C%E9%83%A8%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE%E4%BA%8B%E4%BB%B6",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -3005,7 +3107,7 @@
 "id": "2013-03-31-h7n9",
 "date": "2013-03-31",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "H7N9禽流感首度通报",
 "category": "national",
 "region": "cn",
@@ -3019,6 +3121,12 @@
 "title": "维基百科：H7N9",
 "url": "https://zh.wikipedia.org/wiki/H7N9",
 "type": "wiki"
+},
+{
+"title": "国家卫健委：人感染H7N9禽流感疫情防控工作（2013年3月31日首次通报）",
+"url": "https://www.nhc.gov.cn/yjb/h7n9/new_ejlist_30.shtml",
+"type": "official",
+"outlet": "国家卫生健康委员会"
 }
 ],
 "tags": [
@@ -3147,7 +3255,7 @@
 "id": "2013-05-30-hefei-xinqiao-airport",
 "date": "2013-05-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "合肥新桥国际机场启用：骆岗机场完成历史使命",
 "category": "economy",
 "region": "cn",
@@ -3166,6 +3274,12 @@
 "title": "维基百科：合肥骆岗国际机场",
 "url": "https://zh.wikipedia.org/wiki/合肥骆岗国际机场",
 "type": "wiki"
+},
+{
+"title": "中国民航局：合肥新桥国际机场建成通航（2013-05-30启用）",
+"url": "http://www.caac.gov.cn/XWZX/HYDT/201305/t20130531_16440.html",
+"type": "official",
+"outlet": "中国民用航空局"
 }
 ],
 "tags": [
@@ -3346,7 +3460,7 @@
 "id": "2013-06-20-cash-crunch",
 "date": "2013-06-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『钱荒』：隔夜利率飙到13.44%的六月",
 "category": "economy",
 "region": "cn",
@@ -3360,6 +3474,12 @@
 "title": "维基百科：2013年中国银行间市场钱荒",
 "url": "https://zh.wikipedia.org/wiki/中国人民银行",
 "type": "wiki"
+},
+{
+"title": "中新网：央行“冷”对资金饥渴 隔夜利率冲破13%（2013-06-21）",
+"url": "https://www.chinanews.com/fortune/2013/06-21/4955360.shtml",
+"type": "news",
+"outlet": "中新网"
 }
 ],
 "tags": [
@@ -3620,7 +3740,7 @@
 "id": "2013-09-26-harbin-metro-line1",
 "date": "2013-09-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "哈尔滨地铁1号线开通：东北第四城迈入地铁时代",
 "category": "national",
 "region": "cn",
@@ -3634,6 +3754,12 @@
 "title": "维基百科：哈尔滨地铁",
 "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%9C%B0%E9%93%81",
 "type": "wiki"
+},
+{
+"title": "新华网：中国首条高寒地铁（哈尔滨地铁1号线2013年9月26日开通）",
+"url": "http://www.xinhuanet.com/politics/2016-09/26/c_129299826.htm",
+"type": "news",
+"outlet": "新华网"
 }
 ],
 "tags": [
@@ -3905,7 +4031,7 @@
 "id": "2013-12-04-4g-licenses",
 "date": "2013-12-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "4G牌照发放：移动互联网的最后一脚油门",
 "category": "national",
 "region": "cn",
@@ -3919,6 +4045,12 @@
 "title": "Wikipedia: 4G",
 "url": "https://zh.wikipedia.org/wiki/4G",
 "type": "wiki"
+},
+{
+"title": "光明日报：4G牌照正式发放（2013年12月5日报道）",
+"url": "https://epaper.gmw.cn/gmrb/html/2013-12/05/nw.D110000gmrb_20131205_3-10.htm",
+"type": "news",
+"outlet": "光明日报"
 }
 ],
 "tags": [
@@ -4768,7 +4900,7 @@
 "id": "2014-08-15-lhasa-shigatse-railway",
 "date": "2014-08-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "拉日铁路通车：青藏铁路延伸至珠峰门户日喀则",
 "category": "national",
 "region": "cn",
@@ -4782,6 +4914,12 @@
 "title": "维基百科：拉日铁路",
 "url": "https://zh.wikipedia.org/wiki/%E6%8B%89%E6%97%A5%E9%93%81%E8%B7%AF",
 "type": "wiki"
+},
+{
+"title": "西藏自治区政府网：拉日铁路首趟客车16日发出（2014年8月15日开通运营）",
+"url": "https://www.xizang.gov.cn/xwzx_406/bmkx/201812/t20181216_20122.html",
+"type": "official",
+"outlet": "西藏自治区人民政府"
 }
 ],
 "tags": [
@@ -5001,7 +5139,7 @@
 "id": "2014-10-20-fourth-plenum",
 "date": "2014-10-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "十八届四中全会：全面依法治国专题部署",
 "category": "national",
 "region": "cn",
@@ -5015,6 +5153,12 @@
 "title": "维基百科：中国共产党第十八届中央委员会第四次全体会议",
 "url": "https://zh.wikipedia.org/wiki/中国共产党第十八届中央委员会第四次全体会议",
 "type": "wiki"
+},
+{
+"title": "十八届四中全会公报（2014年10月20日至23日）",
+"url": "https://www.idcpc.org.cn/zgzc/zyhy/201912/t20191216_105924.html",
+"type": "official",
+"outlet": "中共中央对外联络部"
 }
 ],
 "tags": [

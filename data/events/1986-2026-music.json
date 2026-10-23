@@ -2975,7 +2975,7 @@
 "id": "2010-02-24-itunes-10-billion",
 "date": "2010-02-24",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "iTunes单曲销量破百亿：下载时代的巅峰刻度",
 "category": "tech",
 "region": "world",
@@ -2989,6 +2989,12 @@
 "title": "Wikipedia: ITunes Store",
 "url": "https://en.wikipedia.org/wiki/ITunes_Store",
 "type": "wiki"
+},
+{
+"title": "Apple Newsroom: iTunes Store Tops 10 Billion Songs Sold (2010-02-25公告，第100亿首于2月24日售出)",
+"url": "https://www.apple.com/newsroom/2010/02/25iTunes-Store-Tops-10-Billion-Songs-Sold",
+"type": "official",
+"outlet": "Apple"
 }
 ],
 "tags": [
@@ -3003,7 +3009,7 @@
 "id": "2010-10-28-old-boys-microfilm",
 "date": "2010-10-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《老男孩》上线：微电影与中年梦想的双爆",
 "category": "culture",
 "region": "cn",
@@ -3017,6 +3023,12 @@
 "title": "Wikipedia: 筷子兄弟",
 "url": "https://zh.wikipedia.org/wiki/筷子兄弟",
 "type": "wiki"
+},
+{
+"title": "百度百科：筷子兄弟（2010年10月28日《老男孩》在优酷11度青春系列首播）",
+"url": "https://baike.baidu.com/item/%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F/6428570",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -3091,7 +3103,7 @@
 "id": "2011-02-10-rebecca-friday",
 "date": "2011-02-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《Friday》全网群嘲：史上最著名的『最差歌曲』",
 "category": "internet",
 "region": "world",
@@ -3233,7 +3245,7 @@
 "id": "2012-07-13-hao-sheng-yin",
 "date": "2012-07-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《中国好声音》开播：转椅改变选秀",
 "category": "culture",
 "region": "cn",
@@ -3247,6 +3259,12 @@
 "title": "Wikipedia: 中国好声音",
 "url": "https://zh.wikipedia.org/wiki/中国好声音",
 "type": "wiki"
+},
+{
+"title": "维基百科：中国好声音(第一季)（2012年7月13日浙江卫视首播）",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3_(%E7%AC%AC%E4%B8%80%E5%AD%A3)",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -3584,7 +3602,7 @@
 "id": "2015-10-07-nan-shan-nan",
 "date": "2015-10-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《南山南》夺冠：民谣的第二波国民化",
 "category": "culture",
 "region": "cn",
@@ -3598,6 +3616,12 @@
 "title": "Wikipedia: 马頔",
 "url": "https://zh.wikipedia.org/wiki/马頔",
 "type": "wiki"
+},
+{
+"title": "人民网：张磊夺中国好声音第四季总冠军（2015年10月7日鸟巢总决赛）",
+"url": "http://culture.people.com.cn/n/2015/1008/c22219-27669738.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "tags": [
@@ -3759,7 +3783,7 @@
 "id": "2016-07-15-tme-copyright-empire",
 "date": "2016-07-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "腾讯音乐整合中国音乐集团：数字音乐版权战的核弹时刻",
 "category": "company",
 "region": "cn",
@@ -3773,6 +3797,12 @@
 "title": "腾讯音乐娱乐集团 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/腾讯音乐娱乐集团",
 "type": "wiki"
+},
+{
+"title": "腾讯科技：QQ音乐与中国音乐集团达成合并（2016-07-15）",
+"url": "https://tech.qq.com/a/20160715/050605.htm",
+"type": "news",
+"outlet": "腾讯科技"
 }
 ],
 "tags": [
@@ -3788,7 +3818,7 @@
 "id": "2016-07-21-wu-yue-tian-zi-zhuan",
 "date": "2016-07-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "五月天《自传》发行：成军二十年的人生总结",
 "category": "culture",
 "region": "cn",
@@ -3802,6 +3832,12 @@
 "title": "Wikipedia: 五月天",
 "url": "https://zh.wikipedia.org/wiki/五月天",
 "type": "wiki"
+},
+{
+"title": "维基百科：自传（五月天专辑），2016年7月21日发行",
+"url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E4%BC%9D_(%E4%BA%94%E6%9C%88%E5%A4%A9%E5%B0%88%E8%BC%AF)",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -3845,7 +3881,7 @@
 "id": "2017-01-09-liang-liang",
 "date": "2017-01-09",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《凉凉》唱响：仙侠剧音乐的全民热潮",
 "category": "culture",
 "region": "cn",
@@ -3858,6 +3894,11 @@
 {
 "title": "张碧晨 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/张碧晨",
+"type": "wiki"
+},
+{
+"title": "百度百科：凉凉（电视剧《三生三世十里桃花》片尾曲）",
+"url": "https://baike.baidu.com/item/%E5%87%89%E5%87%89/20370091",
 "type": "wiki"
 }
 ],
@@ -3932,7 +3973,7 @@
 "id": "2017-03-20-netease-music-metro",
 "date": "2017-03-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "网易云音乐『乐评专列』刷屏：UGC 情绪的线下引爆",
 "category": "culture",
 "region": "cn",
@@ -3946,6 +3987,11 @@
 "title": "网易云音乐 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/网易云音乐",
 "type": "wiki"
+},
+{
+"title": "央视网：杭州地铁推出乐评专列",
+"url": "http://m.news.cctv.com/2017/03/23/ARTI6iChz3ZDsmqRKgtIitM8170323.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3962,7 +4008,7 @@
 "id": "2017-06-24-rap-of-china-debut",
 "date": "2017-06-24",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《中国有嘻哈》开播：说唱文化出圈元年",
 "category": "culture",
 "region": "cn",
@@ -3975,6 +4021,11 @@
 {
 "title": "中国有嘻哈 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/中国有嘻哈",
+"type": "wiki"
+},
+{
+"title": "维基百科：中国有嘻哈",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%98%BB%E5%93%88",
 "type": "wiki"
 }
 ],
@@ -4222,7 +4273,7 @@
 "id": "2019-07-21-jay-chou-super-topic",
 "date": "2019-07-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "周杰伦超话登顶：中年网友的『流量』反击战",
 "category": "internet",
 "region": "cn",
@@ -4235,6 +4286,11 @@
 {
 "title": "Wikipedia: 周杰伦",
 "url": "https://zh.wikipedia.org/wiki/周杰伦",
+"type": "wiki"
+},
+{
+"title": "百度百科：微博超话争夺战",
+"url": "https://baike.baidu.com/item/%E5%BE%AE%E5%8D%9A%E8%B6%85%E8%AF%9D%E4%BA%89%E5%A4%BA%E6%88%98/23632989",
 "type": "wiki"
 }
 ],
@@ -4252,7 +4308,7 @@
 "id": "2019-09-16-shuo-hao-bu-ku",
 "date": "2019-09-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《说好不哭》上线：周董一次让服务器崩掉的发行",
 "category": "culture",
 "region": "cn",
@@ -4266,6 +4322,11 @@
 "title": "Wikipedia: 说好不哭",
 "url": "https://zh.wikipedia.org/wiki/说好不哭",
 "type": "wiki"
+},
+{
+"title": "新浪财经：周杰伦推新歌《说好不哭》QQ音乐服务器崩溃",
+"url": "https://finance.sina.cn/chanjing/gsxw/2019-09-17/detail-iicezzrq6375820.d.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4364,10 +4425,10 @@
 ]
 },
 {
-"id": "2020-04-19-together-at-home",
-"date": "2020-04-19",
+"id": "2020-04-18-together-at-home",
+"date": "2020-04-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『同一世界：团结在家』：疫情中的全球客厅演唱会",
 "category": "culture",
 "region": "world",
@@ -4381,6 +4442,11 @@
 "title": "Wikipedia: One World: Together at Home",
 "url": "https://en.wikipedia.org/wiki/One_World:_Together_at_Home",
 "type": "wiki"
+},
+{
+"title": "WHO：One World: Together at Home Global Special",
+"url": "https://www.who.int/news-room/events/detail/2020/04/18/default-calendar/one-world-together-at-home-global-special",
+"type": "official"
 }
 ],
 "tags": [
@@ -4571,7 +4637,7 @@
 "id": "2022-04-15-cui-jian-xianshang",
 "date": "2022-04-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "崔健线上演唱会：4600万人的摇滚之夜",
 "category": "culture",
 "region": "cn",
@@ -4585,6 +4651,11 @@
 "title": "Wikipedia: 崔健",
 "url": "https://zh.wikipedia.org/wiki/崔健",
 "type": "wiki"
+},
+{
+"title": "新华网：4600万人观看崔健线上演唱会 音乐成视频号破圈路径",
+"url": "http://www.news.cn/ent/20220418/a5b2562165194b61a07c80ae2d0f720b/c.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4773,7 +4844,7 @@
 "id": "2023-11-30-wu-yue-tian-jiachang",
 "date": "2023-11-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "五月天假唱风波：华语演出市场的一次大考",
 "category": "culture",
 "region": "cn",
@@ -4787,6 +4858,11 @@
 "title": "Wikipedia: 五月天",
 "url": "https://zh.wikipedia.org/wiki/五月天",
 "type": "wiki"
+},
+{
+"title": "维基新闻：五月天乐队陷假唱风波 中国网民打假视频疯传",
+"url": "https://zh.wikinews.org/zh-hans/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%A8%82%E9%9A%8A%E9%99%B7%E5%81%87%E5%94%B1%E9%A2%A8%E6%B3%A2_%E4%B8%AD%E5%9C%8B%E7%B6%B2%E6%B0%91%E6%89%93%E5%81%87%E8%A6%96%E9%A0%BB%E7%98%8B%E5%82%B3",
+"type": "media"
 }
 ],
 "tags": [
@@ -4858,7 +4934,7 @@
 "id": "2024-08-30-dao-lang-online-concert",
 "date": "2024-08-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "刀郎线上演唱会：5300万人围观的返场神话",
 "category": "culture",
 "region": "cn",
@@ -4872,6 +4948,11 @@
 "title": "Wikipedia: 刀郎 (歌手)",
 "url": "https://zh.wikipedia.org/wiki/刀郎_(歌手)",
 "type": "wiki"
+},
+{
+"title": "21财经：刀郎线上演唱会爆火 冠名方知交酒成最大赢家",
+"url": "https://www.21jingji.com/article/20240831/herald/71e086c1b027e5f5673c10442b21495b.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4918,7 +4999,7 @@
 "id": "2025-01-28-shi-jie-zeng-yu-wo-de",
 "date": "2025-01-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "王菲《世界赠予我的》：春晚一夜的疗愈之声",
 "category": "culture",
 "region": "cn",
@@ -4932,6 +5013,11 @@
 "title": "Wikipedia: 世界赠予我的",
 "url": "https://zh.wikipedia.org/wiki/世界赠予我的",
 "type": "wiki"
+},
+{
+"title": "央视网：2025央视春晚歌曲《世界赠予我的》",
+"url": "https://tv.cctv.com/2025/01/30/VIDED5IbcKOsz8GfPTMUsgRF250130.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -4975,7 +5061,7 @@
 "id": "2025-07-04-oasis-reunion",
 "date": "2025-07-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "绿洲乐队世纪重组：16年恩怨一朝翻篇",
 "summary_30s": "7月4日晚，英国绿洲乐队在威尔士加迪夫开唱，重组巡演正式启程。加拉格尔兄弟2009年因内讧解散，2024年8月突然宣布复合，巡演门票秒罄、黄牛价炒上天——全球乐迷等了16年的万人大合唱，终于回来了。",
 "category": "culture",
@@ -4989,6 +5075,11 @@
 "title": "Oasis (band) - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Oasis_(band)",
 "type": "wiki"
+},
+{
+"title": "BBC：Oasis end first gig in 16 years with greatest hits",
+"url": "https://www.bbc.com/news/live/c991l05104vt",
+"type": "media"
 }
 ],
 "tags": [
@@ -5034,7 +5125,7 @@
 "id": "2026-06-22-clive-davis",
 "date": "2026-06-22",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "克莱夫·戴维斯离世：唱片业最后一个传奇掌门谢幕",
 "category": "company",
 "region": "world",
@@ -5048,6 +5139,11 @@
 "title": "Wikipedia: Clive Davis",
 "url": "https://en.wikipedia.org/wiki/Clive_Davis",
 "type": "wiki"
+},
+{
+"title": "The New York Times：Clive Davis, Hitmaking Titan of the Music Industry, Dies at 94",
+"url": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -5062,7 +5158,7 @@
 "id": "2026-08-25-dolly-parton",
 "date": "2026-08-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "多莉·帕顿离世：乡村乐玫瑰的最后一季",
 "category": "culture",
 "region": "world",

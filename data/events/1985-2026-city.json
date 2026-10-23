@@ -529,7 +529,7 @@
 "id": "2013-01-29-smart-city-pilot",
 "date": "2013-01-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首批国家智慧城市试点公布",
 "category": "national",
 "region": "cn",
@@ -546,6 +546,12 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/国家智慧城市试点",
 "title": "wiki"
+},
+{
+"title": "人民网：住建部公布首批智慧城市试点名单（2013-01-29）",
+"url": "http://finance.people.com.cn/n/2013/0129/c70846-20365957.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "detail": "2013年1月29日，住建部公布首批90个国家智慧城市试点，「智慧城市」从概念变成建设清单。 物联网、云计算第一次被系统导入城市管理，「城市大脑」类项目自此有了政策入口。 试点此后扩容至数百个，杭州「城市大脑」、政务服务「一网通办」等实践走向全球输出。"

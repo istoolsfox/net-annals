@@ -3958,7 +3958,7 @@
 "id": "2012-11-22-life-of-pi-cn",
 "date": "2012-11-22",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《少年派的奇幻漂流》内地上映：李安的3D文艺奇迹",
 "category": "culture",
 "region": "cn",
@@ -3972,6 +3972,12 @@
 "title": "Wikipedia: 少年派的奇幻漂流",
 "url": "https://zh.wikipedia.org/wiki/少年派的奇幻漂流",
 "type": "wiki"
+},
+{
+"title": "豆瓣电影：少年派的奇幻漂流（2012-11-22中国内地上映）",
+"url": "https://movie.douban.com/subject/1929393/",
+"type": "wiki",
+"outlet": "豆瓣"
 }
 ],
 "tags": [
@@ -4392,7 +4398,7 @@
 "id": "2015-07-10-monkey-king-hero-is-back",
 "date": "2015-07-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《大圣归来》逆袭：国产动画的成人礼",
 "category": "culture",
 "region": "cn",
@@ -4406,6 +4412,12 @@
 "title": "Wikipedia: 西游记之大圣归来",
 "url": "https://zh.wikipedia.org/wiki/西游记之大圣归来",
 "type": "wiki"
+},
+{
+"title": "维基百科：西游记之大圣归来（2015年7月10日内地上映，最终票房9.56亿）",
+"url": "https://zh.wikipedia.org/zh-hans/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B9%8B%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -5841,7 +5853,7 @@
 "id": "2025-12-19-avatar-fire-and-ash",
 "date": "2025-12-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《阿凡达：火与烬》上映：潘多拉第三幕点燃贺岁档",
 "category": "culture",
 "region": "world",
@@ -5855,6 +5867,11 @@
 "title": "Wikipedia: en Avatar: Fire and Ash",
 "url": "https://en.wikipedia.org/wiki/Avatar:_Fire_and_Ash",
 "type": "wiki"
+},
+{
+"title": "IMDb：Avatar: Fire and Ash (2025)",
+"url": "https://www.imdb.com/title/tt1757678",
+"type": "media"
 }
 ],
 "tags": [
@@ -5902,7 +5919,7 @@
 "id": "2026-06-19-toy-story-5",
 "date": "2026-06-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《玩具总动员5》上映：玩具对抗平板电脑的时代寓言",
 "category": "culture",
 "region": "world",
@@ -5921,6 +5938,11 @@
 "title": "英文维基百科：玩具总动员5",
 "url": "https://en.wikipedia.org/wiki/Toy_Story_5",
 "type": "wiki"
+},
+{
+"title": "Disney官方：Toy Story 5",
+"url": "https://movies.disney.com/toy-story-5",
+"type": "official"
 }
 ],
 "tags": [
@@ -5938,7 +5960,7 @@
 "id": "2026-07-17-the-odyssey",
 "date": "2026-07-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《奥德赛》上映：诺兰用IMAX胶片拍荷马史诗",
 "category": "culture",
 "region": "world",
@@ -5973,7 +5995,7 @@
 "id": "2026-07-31-spider-man-brand-new-day",
 "date": "2026-07-31",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《蜘蛛侠：崭新之日》上映：刷新影史开画纪录的夏季",
 "category": "culture",
 "region": "world",
@@ -5992,6 +6014,11 @@
 "title": "英文维基百科：蜘蛛侠：崭新之日",
 "url": "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day",
 "type": "wiki"
+},
+{
+"title": "Marvel官网：Spider-Man: Brand New Day trailer and movie tickets go live",
+"url": "https://www.marvel.com/articles/movies/spider-man-brand-new-day-trailer-and-movie-tickets-go-live",
+"type": "official"
 }
 ],
 "tags": [

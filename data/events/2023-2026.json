@@ -1142,7 +1142,7 @@
 "id": "2023-12-02-chunwan-longdadada-theme",
 "date": "2023-12-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "2024春晚主题发布：『龙行龘龘』带火生僻字龘",
 "category": "culture",
 "region": "cn",
@@ -1159,6 +1159,11 @@
 {
 "title": "维基百科·2024年中央广播电视总台春节联欢晚会",
 "url": "https://zh.wikipedia.org/wiki/2024%E5%B9%B4%E4%B8%AD%E5%A4%AE%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E6%80%BB%E5%8F%B0%E6%98%A5%E8%8A%82%E8%81%94%E6%AC%A2%E6%99%9A%E4%BC%9A"
+},
+{
+"title": "央视网：龙行龘龘！2024年总台春晚主题、主标识正式发布",
+"url": "https://www.cctv.com/2023/12/02/ARTIaAU5E5RWErc5gg54LQQM231202.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -1176,7 +1181,7 @@
 "id": "2023-12-18-jishishan-quake",
 "date": "2023-12-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "甘肃积石山6.2级地震",
 "category": "national",
 "region": "cn",
@@ -1189,6 +1194,11 @@
 {
 "title": "维基百科：2023年积石山地震",
 "url": "https://en.wikipedia.org/wiki/2023_Jishishan_earthquake",
+"type": "wiki"
+},
+{
+"title": "百度百科：12·18积石山地震",
+"url": "https://baike.baidu.com/item/12%C2%B718%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87/63857970",
 "type": "wiki"
 }
 ],
@@ -1739,7 +1749,7 @@
 "id": "2024-07-04-shanghai-robotaxi-permit",
 "date": "2024-07-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "上海发放首批无人驾驶『铁牌』：Robotaxi迈向量产运营",
 "category": "tech",
 "region": "cn",
@@ -1756,6 +1766,11 @@
 {
 "title": "维基百科·自动驾驶汽车",
 "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E6%B1%BD%E8%BB%8A"
+},
+{
+"title": "观察者网：上海发放首批完全无人载人车牌照",
+"url": "https://www.guancha.cn/qiche/2024_07_08_740752.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1913,7 +1928,7 @@
 "id": "2024-09-24-shang-juncheng-atp-title",
 "date": "2024-09-24",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "商竣程成都夺首冠：中国男网第二座ATP巡回赛奖杯",
 "category": "culture",
 "region": "cn",
@@ -1930,6 +1945,11 @@
 {
 "title": "维基百科·商竣程",
 "url": "https://zh.wikipedia.org/wiki/%E5%95%86%E7%AB%A3%E7%A8%8B"
+},
+{
+"title": "新华网：商竣程登顶成都网球公开赛首冠",
+"url": "http://www.news.cn/sports/20240925/15be2f3fdc2c4b469ea4f5e851f494ca/c.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -2546,7 +2566,7 @@
 "id": "2025-05-10-su-chao",
 "date": "2025-05-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "苏超出圈：一场城市足球联赛的全民狂欢",
 "category": "society",
 "region": "cn",
@@ -2560,6 +2580,11 @@
 "title": "百度百科：江苏省城市足球联赛",
 "url": "https://baike.baidu.com/item/江苏省城市足球联赛",
 "type": "wiki"
+},
+{
+"title": "国务院新闻办：江苏举行2025年江苏省城市足球联赛新闻发布会",
+"url": "http://www.scio.gov.cn/xwfb/dfxwfb/gssfbh/js_13835/202506/t20250603_898247.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -2976,7 +3001,7 @@
 "id": "2025-10-23-fourth-plenum-15five",
 "date": "2025-10-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "二十届四中全会：谋划『十五五』规划建议",
 "category": "national",
 "region": "cn",
@@ -2990,6 +3015,11 @@
 "title": "新华网",
 "url": "https://www.news.cn/politics/20260305/e5c6a09cba0f445b9ee6cc6f8973132a/c.html",
 "type": "news"
+},
+{
+"title": "共产党员网：中共中央关于制定国民经济和社会发展第十五个五年规划的建议",
+"url": "https://www.12371.cn/2025/10/28/ARTI1761640401107119.shtml",
+"type": "official"
 }
 ],
 "tags": [

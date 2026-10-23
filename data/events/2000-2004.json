@@ -2767,7 +2767,7 @@
 "id": "2004-01-27-h5n1-asia-outbreak",
 "date": "2004-01-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "H5N1禽流感亚洲蔓延：非典之后的又一场防疫战",
 "category": "national",
 "region": "cn",
@@ -2781,6 +2781,18 @@
 "title": "Wikipedia: H5N1",
 "url": "https://zh.wikipedia.org/wiki/H5N1",
 "type": "wiki"
+},
+{
+"title": "新浪新闻：广西隆安H5N1疫情2004年1月27日确诊（中国内地首例）",
+"url": "https://news.sina.cn/sa/2004-02-17/detail-ikknscsi2691103.d.html",
+"type": "news",
+"outlet": "新浪新闻"
+},
+{
+"title": "维基百科：甲型流感病毒H5N1亚型",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%94%B2%E5%9E%8B%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92H5N1%E4%BA%9A%E5%9E%8B",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [

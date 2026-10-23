@@ -3,7 +3,7 @@
 "id": "2010-01-04-avatar-china-release",
 "date": "2010-01-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《阿凡达》中国上映：3D大片一票难求",
 "category": "culture",
 "region": "cn",
@@ -17,6 +17,12 @@
 "title": "维基百科：阿凡达 (电影)",
 "url": "https://zh.wikipedia.org/wiki/阿凡达",
 "type": "wiki"
+},
+{
+"title": "维基百科：阿凡达（2010年1月4日中国内地公映）",
+"url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%87%A1%E8%BE%BE",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -116,7 +122,7 @@
 "id": "2010-03-05-qq-100m-concurrent",
 "date": "2010-03-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "QQ同时在线突破1亿：全球第一个亿级IM",
 "category": "internet",
 "region": "cn",
@@ -130,6 +136,12 @@
 "title": "维基百科：腾讯QQ",
 "url": "https://zh.wikipedia.org/wiki/腾讯QQ",
 "type": "wiki"
+},
+{
+"title": "中国互联网协会：QQ同时在线人数首破亿（2010年3月5日19时52分）",
+"url": "https://www.isc.org.cn/article/10834.html",
+"type": "official",
+"outlet": "中国互联网协会"
 }
 ],
 "tags": [
@@ -145,7 +157,7 @@
 "id": "2010-03-23-galaxy-s-launch",
 "date": "2010-03-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "三星发布GALAXY S，安卓阵营出现真正对手",
 "category": "hardware",
 "region": "world",
@@ -159,6 +171,12 @@
 "title": "维基百科：三星Galaxy S",
 "url": "https://zh.wikipedia.org/wiki/三星Galaxy_S",
 "type": "wiki"
+},
+{
+"title": "Wikipedia: Samsung Galaxy S (unveiled 23 March 2010)",
+"url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S",
+"type": "wiki",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -199,7 +217,7 @@
 "id": "2010-05-26-apple-surpasses-microsoft",
 "date": "2010-05-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "苹果市值超越微软：PC时代让位",
 "category": "company",
 "region": "world",
@@ -213,6 +231,12 @@
 "title": "维基百科：Apple Inc.",
 "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
 "type": "wiki"
+},
+{
+"title": "36氪：苹果市值超越微软（2010年5月26日）",
+"url": "https://m.36kr.com/p/1638406602753",
+"type": "news",
+"outlet": "36氪"
 }
 ],
 "tags": [
@@ -399,7 +423,7 @@
 "id": "2011-01-26-zhihu-launch",
 "date": "2011-01-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "知乎上线：邀请制问答社区开门",
 "category": "product",
 "region": "cn",
@@ -413,6 +437,12 @@
 "title": "维基百科：知乎",
 "url": "https://zh.wikipedia.org/wiki/知乎",
 "type": "wiki"
+},
+{
+"title": "维基百科：知乎（2011年1月26日上线，邀请制）",
+"url": "https://zh.wikipedia.org/wiki/%E7%9F%A5%E4%B9%8E",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -510,7 +540,7 @@
 "id": "2011-05-10-microsoft-buys-skype",
 "date": "2011-05-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微软85亿美元收购Skype",
 "category": "company",
 "region": "world",
@@ -524,6 +554,12 @@
 "title": "维基百科：Skype",
 "url": "https://en.wikipedia.org/wiki/Skype",
 "type": "wiki"
+},
+{
+"title": "Microsoft News: Microsoft to Acquire Skype (May 10, 2011, $8.5B)",
+"url": "https://news.microsoft.com/source/2011/05/10/microsoft-to-acquire-skype-3",
+"type": "official",
+"outlet": "Microsoft"
 }
 ],
 "tags": [
@@ -865,7 +901,7 @@
 "id": "2012-04-04-google-glass-unveil",
 "date": "2012-04-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "谷歌公布智能眼镜Project Glass：戴上未来",
 "category": "tech",
 "region": "world",
@@ -879,6 +915,18 @@
 "title": "维基百科：Google眼镜",
 "url": "https://zh.wikipedia.org/wiki/Google眼镜",
 "type": "wiki"
+},
+{
+"title": "NYT Bits: Google Begins Testing Its Augmented-Reality Glasses (2012-04-04)",
+"url": "https://archive.nytimes.com/bits.blogs.nytimes.com/2012/04/04/google-begins-testing-its-augmented-reality-glasses/",
+"type": "news",
+"outlet": "纽约时报"
+},
+{
+"title": "BBC: Google unveils Project Glass smart glasses (2012-04-04)",
+"url": "https://www.bbc.com/news/technology-17618495",
+"type": "news",
+"outlet": "BBC"
 }
 ],
 "tags": [
@@ -919,7 +967,7 @@
 "id": "2012-04-19-wechat-moments",
 "date": "2012-04-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微信4.0上线朋友圈：熟人社交的封闭花园",
 "category": "product",
 "region": "cn",
@@ -933,6 +981,12 @@
 "title": "维基百科：微信",
 "url": "https://zh.wikipedia.org/wiki/微信",
 "type": "wiki"
+},
+{
+"title": "维基百科：微信朋友圈（2012年4月19日随微信4.0推出）",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -1029,7 +1083,7 @@
 "id": "2012-08-16-qihoo-search-launch",
 "date": "2012-08-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "360搜索上线：挑战百度搜索霸权",
 "category": "product",
 "region": "cn",
@@ -1043,6 +1097,12 @@
 "title": "维基百科：奇虎360",
 "url": "https://zh.wikipedia.org/wiki/奇虎360",
 "type": "wiki"
+},
+{
+"title": "维基百科：360搜索（2012年8月16日上线）",
+"url": "https://zh.wikipedia.org/zh-hans/360%E6%90%9C%E7%B4%A2",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -1137,7 +1197,7 @@
 "id": "2013-03-27-smartisan-os-launch",
 "date": "2013-03-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "锤子ROM发布会：罗永浩的『工匠精神』首秀",
 "category": "product",
 "region": "cn",
@@ -1151,6 +1211,12 @@
 "title": "维基百科：锤子科技",
 "url": "https://zh.wikipedia.org/wiki/锤子科技",
 "type": "wiki"
+},
+{
+"title": "百度百科：锤子ROM（Smartisan OS，2013年3月27日发布会）",
+"url": "https://baike.baidu.com/item/%E9%94%A4%E5%AD%90ROM/6063159",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -1164,7 +1230,7 @@
 "id": "2013-04-23-netease-cloud-music-launch",
 "date": "2013-04-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "网易云音乐上线：歌单与乐评的社区实验",
 "category": "product",
 "region": "cn",
@@ -1178,6 +1244,12 @@
 "title": "维基百科：网易云音乐",
 "url": "https://zh.wikipedia.org/wiki/网易云音乐",
 "type": "wiki"
+},
+{
+"title": "21世纪经济报道：网易云音乐十周年（2013年4月23日上线）",
+"url": "https://www.21jingji.com/article/20230424/herald/9648a9d3e080ed355262e1677718cb8d.html",
+"type": "news",
+"outlet": "21世纪经济报道"
 }
 ],
 "tags": [
@@ -1191,7 +1263,7 @@
 "id": "2013-04-29-alibaba-invests-weibo",
 "date": "2013-04-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "阿里5.86亿美元入股新浪微博",
 "category": "company",
 "region": "cn",
@@ -1205,6 +1277,12 @@
 "title": "维基百科：新浪微博",
 "url": "https://zh.wikipedia.org/wiki/新浪微博",
 "type": "wiki"
+},
+{
+"title": "财新网：阿里巴巴5.86亿美元战略投资新浪微博（2013-04-29宣布）",
+"url": "https://companies.caixin.com/m/2013-04-30/100522431.html",
+"type": "news",
+"outlet": "财新网"
 }
 ],
 "tags": [
@@ -1246,7 +1324,7 @@
 "id": "2013-07-16-baidu-buys-91-wireless",
 "date": "2013-07-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "百度19亿美元收购91无线：当时中国互联网最大并购",
 "category": "company",
 "region": "cn",
@@ -1260,6 +1338,12 @@
 "title": "维基百科：百度",
 "url": "https://zh.wikipedia.org/wiki/百度",
 "type": "wiki"
+},
+{
+"title": "Baidu IR: Baidu Signs Definitive Agreement to Acquire NetDragon's Subsidiary 91 Wireless",
+"url": "https://ir.baidu.com/news-releases/news-release-details/baidu-signs-definitive-agreement-acquire-netdragons-subsidiary",
+"type": "official",
+"outlet": "百度"
 }
 ],
 "tags": [
@@ -1302,7 +1386,7 @@
 "id": "2013-08-05-wechat-pay-launch",
 "date": "2013-08-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微信5.0上线微信支付：从聊天到钱包",
 "category": "product",
 "region": "cn",
@@ -1316,6 +1400,12 @@
 "title": "维基百科：微信",
 "url": "https://zh.wikipedia.org/wiki/微信",
 "type": "wiki"
+},
+{
+"title": "Wikipedia: WeChat Pay (released August 5, 2013 with WeChat 5.0)",
+"url": "https://en.wikipedia.org/wiki/WeChat_Pay",
+"type": "wiki",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -1578,7 +1668,7 @@
 "id": "2014-05-20-smartisan-t1-launch",
 "date": "2014-05-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "锤子T1发布：『东半球最好用的手机』",
 "category": "hardware",
 "region": "cn",
@@ -1592,6 +1682,12 @@
 "title": "维基百科：锤子科技",
 "url": "https://zh.wikipedia.org/wiki/锤子科技",
 "type": "wiki"
+},
+{
+"title": "新浪科技：锤子手机T1发布，售价3000元起（2014-05-20）",
+"url": "http://tech.sina.com.cn/mobile/n/2014-05-20/21459389721.shtml",
+"type": "news",
+"outlet": "新浪科技"
 }
 ],
 "tags": [
@@ -1688,7 +1784,7 @@
 "id": "2014-10-10-running-man-china-premiere",
 "date": "2014-10-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《奔跑吧兄弟》首播：户外真人秀时代来临",
 "category": "culture",
 "region": "cn",
@@ -1702,6 +1798,12 @@
 "title": "维基百科：奔跑吧兄弟",
 "url": "https://zh.wikipedia.org/wiki/奔跑吧兄弟",
 "type": "wiki"
+},
+{
+"title": "百度百科：奔跑吧兄弟第一季（2014年10月10日浙江卫视首播）",
+"url": "https://baike.baidu.com/item/%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%84%E5%BC%9F%E7%AC%AC%E4%B8%80%E5%AD%A3/16245811",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [

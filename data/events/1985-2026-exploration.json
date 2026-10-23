@@ -2478,7 +2478,7 @@
 "id": "2011-03-28-alain-robert-burj",
 "date": "2011-03-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『蜘蛛人』徒手攀上哈利法塔：八百二十八米的都市天际线",
 "category": "world",
 "region": "world",
@@ -2492,6 +2492,12 @@
 "title": "Alain Robert - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Alain_Robert",
 "type": "wiki"
+},
+{
+"title": "BBC: 'Spiderman' Alain Robert scales Burj Khalifa (2011-03-28)",
+"url": "https://www.bbc.com/news/world-middle-east-12888817",
+"type": "news",
+"outlet": "BBC"
 }
 ],
 "tags": [
@@ -2729,7 +2735,7 @@
 "id": "2013-05-23-miura-oldest-everest",
 "date": "2013-05-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "三浦雄一郎八十岁登顶珠峰：把『最年长』纪录再次写上世界之巅",
 "category": "world",
 "region": "world",
@@ -2743,6 +2749,12 @@
 "title": "Yuichiro Miura - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Yuichiro_Miura",
 "type": "wiki"
+},
+{
+"title": "人民网：日本冒险家以80岁高龄登顶珠峰创最年长纪录（2013-05-23）",
+"url": "https://world.people.com.cn/n/2013/0523/c1002-21589424.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "tags": [
@@ -2791,7 +2803,7 @@
 "id": "2013-09-02-nyad-cuba-florida",
 "date": "2013-09-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "奈亚德游过佛罗里达海峡：六十四岁的第五次尝试",
 "category": "world",
 "region": "world",
@@ -2805,6 +2817,12 @@
 "title": "Diana Nyad - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Diana_Nyad",
 "type": "wiki"
+},
+{
+"title": "History.com: Diana Nyad, 64, Makes Record Swim from Cuba to Florida (2013-09-02)",
+"url": "https://www.history.com/this-day-in-history/september-2/diana-nyad-64-makes-record-swim-from-cuba-to-florida",
+"type": "news",
+"outlet": "History.com"
 }
 ],
 "tags": [
@@ -3015,7 +3033,7 @@
 "id": "2017-01-19-le-cleach-vendee-record",
 "date": "2017-01-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "勒克莱尔什七十四天冲线：旺代环球首破七十五天",
 "category": "world",
 "region": "world",
@@ -3029,6 +3047,11 @@
 "title": "Vendée Globe - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Vend%C3%A9e_Globe",
 "type": "wiki"
+},
+{
+"title": "Vendée Globe官网：Armel Le Cléac'h Victory at last",
+"url": "https://www.vendeeglobe.org/en/the-legend/armel-le-cleach-victory-last",
+"type": "official"
 }
 ],
 "tags": [
@@ -3077,7 +3100,7 @@
 "id": "2017-05-27-jornet-double-everest",
 "date": "2017-05-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "基利安·若尔内一周两登珠峰：越野跑之王的高山实验",
 "category": "world",
 "region": "world",
@@ -3091,6 +3114,11 @@
 "title": "Kilian Jornet - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Kilian_Jornet",
 "type": "wiki"
+},
+{
+"title": "National Geographic：This Mountain Runner Scaled Everest Twice in Under a Week",
+"url": "https://www.nationalgeographic.com/adventure/article/kilian-jornet-mountain-runner",
+"type": "media"
 }
 ],
 "tags": [
@@ -3138,7 +3166,7 @@
 "id": "2017-11-30-shenhaiyong-sea-trial",
 "date": "2017-11-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『深海勇士』号完成海试交付：4500米级的国产载人深潜",
 "category": "national",
 "region": "cn",
@@ -3156,6 +3184,11 @@
 {
 "title": "维基百科：深海勇士号",
 "url": "https://zh.wikipedia.org/wiki/深海勇士号",
+"type": "wiki"
+},
+{
+"title": "维基百科：深海勇士号",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%B7%B1%E6%B5%B7%E5%8B%87%E5%A3%AB%E8%99%9F",
 "type": "wiki"
 }
 ],
@@ -3429,7 +3462,7 @@
 "id": "2020-05-27-everest-survey-summit",
 "date": "2020-05-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "2020珠峰高程测量登山队登顶：北斗、雪深雷达第一次上峰顶",
 "category": "national",
 "region": "cn",
@@ -3448,6 +3481,11 @@
 "title": "珠穆朗玛峰 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0",
 "type": "wiki"
+},
+{
+"title": "人民日报：2020珠峰高程登顶测量成功",
+"url": "http://paper.people.com.cn/rmrbhwb/html/2020-05/28/content_1989216.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -3723,7 +3761,7 @@
 "id": "2024-11-10-vendee-globe-2024",
 "date": "2024-11-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "第十届旺代环球启航：四十位船长同赴南大洋",
 "category": "world",
 "region": "world",
@@ -3742,6 +3780,11 @@
 "title": "Vendée Globe - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Vend%C3%A9e_Globe",
 "type": "wiki"
+},
+{
+"title": "新华网：历史首次！旺代环球帆船赛迎来中国船长",
+"url": "http://www.news.cn/sports/20241111/ad48e64068964445a5fa516a549a5ed7/c.html",
+"type": "media"
 }
 ],
 "tags": [

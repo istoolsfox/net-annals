@@ -169,7 +169,7 @@
 "id": "1973-01-02-43-scheme-technology-import",
 "date": "1973-01-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "四三方案提出：43亿美元引进西方成套设备",
 "category": "economy",
 "region": "cn",
@@ -183,6 +183,12 @@
 "title": "维基百科：四三方案",
 "url": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E4%B8%89%E6%96%B9%E6%A1%88",
 "type": "wiki"
+},
+{
+"title": "中央党史和文献研究院：周恩来与新中国第二次大规模引进成套技术设备",
+"url": "https://www.dswxyjy.org.cn/n1/2023/0313/c423726-32643224.html",
+"type": "official",
+"outlet": "中央党史和文献研究院"
 }
 ],
 "tags": [
@@ -445,7 +451,7 @@
 "id": "1974-10-20-gezhouba-resume-construction",
 "date": "1974-10-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "葛洲坝主体工程复工：长江干流第一坝重启",
 "category": "national",
 "region": "cn",
@@ -459,6 +465,12 @@
 "title": "维基百科：葛洲坝水利枢纽",
 "url": "https://zh.wikipedia.org/wiki/%E8%91%9B%E6%B4%B2%E5%9D%9D%E6%B0%B4%E5%88%A9%E6%9E%A2%E7%BA%BD",
 "type": "wiki"
+},
+{
+"title": "不尽长江滚滚来——葛洲坝水利枢纽纪事",
+"url": "https://www.hhu.edu.cn/2022/0324/c165a235335/page.htm",
+"type": "news",
+"outlet": "河海大学"
 }
 ],
 "tags": [
@@ -601,7 +613,7 @@
 "id": "1975-09-12-3rd-national-games-beijing",
 "date": "1975-09-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "第三届全国运动会在京举行：中断十年后重启",
 "category": "culture",
 "region": "cn",
@@ -615,6 +627,12 @@
 "title": "维基百科：中华人民共和国全国运动会",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E8%BF%90%E5%8A%A8%E4%BC%9A",
 "type": "wiki"
+},
+{
+"title": "中国奥委会：历史上的全运会（第三届）",
+"url": "https://www.olympic.cn/museum/academic/tywhyjjd/2025/0227/643212.html",
+"type": "official",
+"outlet": "中国奥委会"
 }
 ],
 "tags": [
@@ -689,16 +707,16 @@
 ]
 },
 {
-"id": "1975-12-25-yanshan-ethylene-unit-built",
-"date": "1975-12-25",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
+"id": "1976-05-01-yanshan-ethylene-unit-built",
+"date": "1976-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
 "title": "燕山石化30万吨乙烯装置建成",
 "category": "economy",
 "region": "cn",
 "milestone": false,
-"summary_30s": "1975年12月25日，北京燕山石化引进的30万吨乙烯装置正式建成，中国第一代大型石油化工基地就此成形，为解决穿衣问题提供化纤原料。",
-"detail": "燕山石化的前身是1968年8月动工的东方红炼油厂，1969年9月27日常减压、催化裂化等一期装置投产。1972年，中国与日本东洋工程公司签订乙烯装置引进合同；1975年12月25日，30万吨乙烯装置正式建成，丁二烯抽提等配套装置同日建成。大型乙烯装置投产后向下游供应塑料与合成纤维原料，与同期引进的大化纤项目一起，支撑起1970至1980年代中国解决「穿衣」问题的化纤路线，燕山由此成为国内首个跨入30万吨级乙烯规模的石化基地。",
+"summary_30s": "1976年5月，北京燕山石化引进的30万吨乙烯装置正式建成，中国第一代大型石油化工基地就此成形，为解决穿衣问题提供化纤原料。",
+"detail": "燕山石化的前身是1968年8月动工的东方红炼油厂，1969年9月27日常减压、催化裂化等一期装置投产。1972年，中国与日本东洋工程公司签订乙烯装置引进合同；1976年5月，30万吨乙烯装置正式建成，丁二烯抽提等配套装置同日建成。大型乙烯装置投产后向下游供应塑料与合成纤维原料，与同期引进的大化纤项目一起，支撑起1970至1980年代中国解决「穿衣」问题的化纤路线，燕山由此成为国内首个跨入30万吨级乙烯规模的石化基地。",
 "impact": "中国石化工业迈入30万吨级乙烯时代，塑料与化纤原料开始规模化供给。",
 "aftermath": "30万吨乙烯装置模式此后在大庆、齐鲁、扬子等地复制；燕山基地经多轮改扩建持续扩能。",
 "sources": [
@@ -706,6 +724,12 @@
 "title": "维基百科：燕山石化",
 "url": "https://zh.wikipedia.org/wiki/%E7%87%95%E5%B1%B1%E7%9F%B3%E5%8C%96",
 "type": "wiki"
+},
+{
+"title": "为你揭晓燕山石化的前世今生（1976年5月30万吨/年乙烯装置建成投产）",
+"url": "https://chem.jgvogel.cn/c1411315.shtml",
+"type": "news",
+"outlet": "中国化工信息网"
 }
 ],
 "tags": [
@@ -884,7 +908,7 @@
 "id": "1977-07-25-tomur-peak-first-ascent",
 "date": "1977-07-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国登山队首登托木尔峰：28人登上天山之巅",
 "category": "culture",
 "region": "cn",
@@ -898,6 +922,12 @@
 "title": "维基百科：托木尔峰",
 "url": "https://zh.wikipedia.org/wiki/%E6%89%98%E6%9C%A8%E5%B0%94%E5%B3%B0",
 "type": "wiki"
+},
+{
+"title": "五星红旗插上托木尔峰",
+"url": "https://www.aksxw.com/sy/rdxw/aks/202403/t20240318_19825548.html",
+"type": "news",
+"outlet": "阿克苏新闻网"
 }
 ],
 "tags": [
@@ -1107,7 +1137,7 @@
 "id": "1978-03-08-ustc-gifted-young-class",
 "date": "1978-03-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中科大少年班开班：21名少年大学生入学",
 "category": "society",
 "region": "cn",
@@ -1121,6 +1151,12 @@
 "title": "维基百科：少年班",
 "url": "https://zh.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E7%8F%AD",
 "type": "wiki"
+},
+{
+"title": "中国新闻周刊：中国科大少年班专题（1978年3月8日第一期开学典礼）",
+"url": "https://news.ustc.edu.cn/info/1056/64941.htm",
+"type": "news",
+"outlet": "中国科学技术大学新闻网"
 }
 ],
 "tags": [

@@ -1053,7 +1053,7 @@
 "id": "2020-05-03-bilibili-houlang",
 "date": "2020-05-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《后浪》刷屏：一次演讲引发的代际大讨论",
 "category": "culture",
 "region": "cn",
@@ -1066,6 +1066,11 @@
 {
 "title": "哔哩哔哩 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/哔哩哔哩",
+"type": "wiki"
+},
+{
+"title": "百度百科：后浪（2020年bilibili推出的演讲视频）",
+"url": "https://baike.baidu.com/item/%E5%90%8E%E6%B5%AA/49981848",
 "type": "wiki"
 }
 ],

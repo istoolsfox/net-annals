@@ -607,7 +607,7 @@
 "id": "2022-11-11-finance-16-measures",
 "date": "2022-11-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "金融16条出台：从『保项目』到『保主体』的政策转折",
 "category": "economy",
 "region": "cn",
@@ -621,6 +621,11 @@
 "title": "百度百科：金融支持房地产",
 "url": "https://baike.baidu.com/item/金融16条",
 "type": "wiki"
+},
+{
+"title": "财新网：金融支持地产16条全文",
+"url": "https://database.caixin.com/m/2022-11-23/101969809.html",
+"type": "media"
 }
 ],
 "tags": [

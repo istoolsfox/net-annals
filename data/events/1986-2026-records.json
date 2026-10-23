@@ -667,7 +667,7 @@
 "id": "2001-01-11-zuffa-acquires-ufc",
 "date": "2001-01-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "Zuffa 收购 UFC：综合格斗从地下走向正规军",
 "category": "company",
 "region": "world",
@@ -686,6 +686,12 @@
 "title": "Wikipedia：Ultimate Fighting Championship",
 "url": "https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship",
 "type": "wiki"
+},
+{
+"title": "UFC官方：History of UFC（2001年1月Zuffa收购UFC）",
+"url": "https://www.ufc.com/history-ufc",
+"type": "official",
+"outlet": "UFC"
 }
 ],
 "tags": [
@@ -3089,7 +3095,7 @@
 "id": "2016-08-13-phelps-23rd-gold",
 "date": "2016-08-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "菲尔普斯第23金收官：奥运历史金牌数定格",
 "category": "culture",
 "region": "world",
@@ -3103,6 +3109,12 @@
 "title": "百度百科：迈克尔·菲尔普斯",
 "url": "https://baike.baidu.com/item/迈克尔·菲尔普斯",
 "type": "wiki"
+},
+{
+"title": "ABC News: Michael Phelps helps U.S. to 4x100m medley relay win (23rd gold, 2016-08-13)",
+"url": "https://abcnews.com/Sports/michael-phelps-helps-us-4x100m-medley-relay-win/story?id=41367560",
+"type": "news",
+"outlet": "ABC News"
 }
 ],
 "tags": [

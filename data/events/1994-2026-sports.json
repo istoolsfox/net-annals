@@ -4097,7 +4097,7 @@
 "id": "2013-04-25-lang-ping-returns",
 "date": "2013-04-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "郎平二度挂帅：女排黄金一代的教母归来",
 "category": "culture",
 "region": "cn",
@@ -4116,6 +4116,12 @@
 "title": "郎平 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E9%83%8E%E5%B9%B3",
 "type": "wiki"
+},
+{
+"title": "人民网：排管中心宣布郎平成为中国女排新任主教练（2013-04-25）",
+"url": "http://sports.people.com.cn/n/2013/0425/c359619-21276641.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "tags": [

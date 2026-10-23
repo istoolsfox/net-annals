@@ -408,7 +408,7 @@
 "id": "2013-11-06-nanjing-museum-reopening",
 "date": "2013-11-06",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "南京博物院二期开放：『一院六馆』的省级博物馆样板",
 "category": "culture",
 "region": "cn",
@@ -422,6 +422,12 @@
 "title": "百度百科：南京博物院",
 "url": "https://baike.baidu.com/item/南京博物院",
 "type": "wiki"
+},
+{
+"title": "南京博物院官网简介（2013年二期改扩建完工开放，一院六馆）",
+"url": "https://www.njmuseum.com/zh/articleDetails?id=9064",
+"type": "official",
+"outlet": "南京博物院"
 }
 ],
 "tags": [
@@ -728,7 +734,7 @@
 "id": "2022-07-03-hk-palace-museum",
 "date": "2022-07-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "香港故宫文化博物馆开馆：紫禁城珍宝维港首秀",
 "category": "culture",
 "region": "cn",
@@ -741,6 +747,11 @@
 {
 "title": "百度百科：香港故宫文化博物馆",
 "url": "https://baike.baidu.com/item/香港故宫文化博物馆",
+"type": "wiki"
+},
+{
+"title": "维基百科：香港故宫文化博物馆（原定7月2日因台风暹芭延至7月3日开放）",
+"url": "https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AB%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86",
 "type": "wiki"
 }
 ],

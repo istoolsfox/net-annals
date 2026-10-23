@@ -483,7 +483,7 @@
 "id": "2015-08-17-harbin-qiqihar-hsr",
 "date": "2015-08-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "哈齐高铁通车：黑龙江省内首条城际高铁",
 "category": "national",
 "region": "cn",
@@ -497,6 +497,12 @@
 "title": "维基百科：哈齐客运专线",
 "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E9%BD%90%E5%AE%A2%E8%BF%90%E4%B8%93%E7%BA%BF",
 "type": "wiki"
+},
+{
+"title": "维基百科：哈齐高速铁路（2015年8月17日建成通车）",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%93%88%E9%BD%90%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -1296,7 +1302,7 @@
 "id": "2016-01-07-kuaibo-trial",
 "date": "2016-01-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "快播案开庭：『技术无罪』的全民辩论",
 "category": "internet",
 "region": "cn",
@@ -1310,6 +1316,18 @@
 "title": "Wikipedia: 快播",
 "url": "https://zh.wikipedia.org/wiki/快播",
 "type": "wiki"
+},
+{
+"title": "财新网：快播案开庭（2016-01-07海淀法院公开审理）",
+"url": "https://china.caixin.com/2016-01-07/100897151.html",
+"type": "news",
+"outlet": "财新网"
+},
+{
+"title": "维基百科：快播涉黄案",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%BF%AB%E6%92%AD%E6%B6%89%E9%BB%84%E6%A1%88",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -1655,7 +1673,7 @@
 "id": "2016-04-21-papi-jiang-auction",
 "date": "2016-04-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "直播元年：papi酱拍出2200万，千播大战开打",
 "category": "internet",
 "region": "cn",
@@ -1669,6 +1687,18 @@
 "title": "Wikipedia: 网络直播",
 "url": "https://zh.wikipedia.org/wiki/网络直播",
 "type": "wiki"
+},
+{
+"title": "爱范儿：Papi酱广告拍卖以2200万成交（2016-04-21）",
+"url": "https://www.ifanr.com/buzz/647522",
+"type": "news",
+"outlet": "爱范儿"
+},
+{
+"title": "人民网：Papi酱首单广告拍出2200万",
+"url": "http://media.people.com.cn/BIG5/n1/2016/0422/c40606-28295553.html",
+"type": "news",
+"outlet": "人民网"
 }
 ],
 "tags": [
@@ -2419,7 +2449,7 @@
 "id": "2016-09-26-douyin-launch",
 "date": "2016-09-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "抖音上线：短视频时代的中国答卷",
 "category": "internet",
 "region": "cn",
@@ -2433,6 +2463,12 @@
 "title": "Wikipedia: 抖音",
 "url": "https://zh.wikipedia.org/wiki/抖音",
 "type": "wiki"
+},
+{
+"title": "百度百科：抖音（2016年9月26日前身A.me上线，12月更名抖音短视频）",
+"url": "https://baike.baidu.com/item/%E6%8A%96%E9%9F%B3/20784697",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -4455,7 +4491,7 @@
 "id": "2017-10-10-ningxia-yellow-river-irrigation-heritage",
 "date": "2017-10-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "宁夏引黄古灌区入选世界灌溉工程遗产：两千年秦渠汉渠仍在流淌",
 "category": "culture",
 "region": "cn",
@@ -4469,6 +4505,11 @@
 "title": "维基百科：宁夏平原",
 "url": "https://zh.wikipedia.org/wiki/%E5%AE%81%E5%A4%8F%E5%B9%B3%E5%8E%9F",
 "type": "wiki"
+},
+{
+"title": "央视新闻：我国三处古水利工程成为世界灌溉工程遗产",
+"url": "http://m.news.cctv.com/2017/10/11/ARTICXHkrCbUcdIYtofcWEcV171011.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -5002,7 +5043,7 @@
 "id": "2018-01-25-g281-hsr-fire",
 "date": "2018-01-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "G281次高铁定远站起火：1400名乘客雪中紧急疏散",
 "category": "society",
 "region": "cn",
@@ -5016,6 +5057,11 @@
 "title": "维基百科：2018年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "财新网：青岛开往杭州G281次高铁着火 没有人员伤亡",
+"url": "https://companies.caixin.com/2018-01-25/101202812.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -5032,7 +5078,7 @@
 "id": "2018-03-04-changbei-airport-collapse",
 "date": "2018-03-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "南昌昌北机场航站楼顶棚坍塌：37米/秒大风中的枢纽脆弱性",
 "category": "society",
 "region": "cn",
@@ -5046,6 +5092,11 @@
 "title": "维基百科：2018年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "央视新闻：受大风天气影响 南昌昌北机场航站楼顶棚部分被吹落",
+"url": "http://m.news.cctv.com/2018/03/04/ARTIjKy0KhdvtyV0rb16WPDX180304.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -6213,7 +6264,7 @@
 "id": "2018-11-28-sowa-rigpa-bathing-unesco",
 "date": "2018-11-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "藏医药浴法入选人类非遗代表作名录：中国项目增至40项居世界第一",
 "category": "culture",
 "region": "cn",
@@ -6227,6 +6278,11 @@
 "title": "人类非物质文化遗产代表作名录（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%90%8D%E5%BD%95",
 "type": "wiki"
+},
+{
+"title": "人民网：藏医药浴法列入联合国非物质文化遗产名录",
+"url": "http://world.people.com.cn/n1/2018/1128/c1002-30430851.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -6348,7 +6404,7 @@
 "id": "2018-12-25-harbin-mudanjiang-hsr",
 "date": "2018-12-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "哈牡高铁通车：黑龙江东南部接入全国高铁网",
 "category": "national",
 "region": "cn",
@@ -6361,6 +6417,11 @@
 {
 "title": "维基百科：哈牡客运专线",
 "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E7%89%A1%E5%AE%A2%E8%BF%90%E4%B8%93%E7%BA%BF",
+"type": "wiki"
+},
+{
+"title": "维基百科：哈牡客运专线",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%93%88%E7%89%A1%E5%AE%A2%E8%BF%90%E4%B8%93%E7%BA%BF",
 "type": "wiki"
 }
 ],
@@ -6566,7 +6627,7 @@
 "id": "2019-01-06-yishusheng-app-crash",
 "date": "2019-01-06",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "「艺术升」报名平台瘫痪：60万艺考生的报名危机",
 "category": "society",
 "region": "cn",
@@ -6580,6 +6641,11 @@
 "title": "维基百科：2019年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "中国青年报：全国艺考报名平台出现严重故障",
+"url": "http://mzqb.cyol.com/html/2019-01/08/content_261082.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -7554,7 +7620,7 @@
 "id": "2019-09-04-hetao-irrigation-heritage",
 "date": "2019-09-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "河套灌区入选世界灌溉工程遗产：黄河「几字弯」的千年灌区",
 "category": "culture",
 "region": "cn",
@@ -7568,6 +7634,11 @@
 "title": "维基百科：河套灌区",
 "url": "https://zh.wikipedia.org/wiki/%E6%B2%B3%E5%A5%97%E7%81%8C%E5%8C%BA",
 "type": "wiki"
+},
+{
+"title": "CGTN：China adds 2 more World Heritage Irrigation Structures",
+"url": "https://news.cgtn.com/news/2019-09-05/China-adds-2-more-World-Heritage-Irrigation-Structures-JJJTjPc9qw/index.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -7846,7 +7917,7 @@
 "id": "2019-11-29-hanshi-high-speed-rail-open",
 "date": "2019-11-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "汉十高铁开通：鄂西北接入全国高铁网",
 "category": "economy",
 "region": "cn",
@@ -7860,6 +7931,11 @@
 "title": "维基百科：汉十高速铁路",
 "url": "https://zh.wikipedia.org/wiki/%E6%B1%89%E5%8D%81%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF",
 "type": "wiki"
+},
+{
+"title": "湖北省人民政府：西十高铁全线铺轨贯通（载明汉十高铁2019年11月29日开通运营）",
+"url": "https://www.hubei.gov.cn/hbfb/rdgz/202511/t20251128_5822231.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -7959,7 +8035,7 @@
 "id": "2019-12-29-hohhot-metro-line1",
 "date": "2019-12-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "呼和浩特地铁1号线开通：内蒙古迈入地铁时代",
 "category": "national",
 "region": "cn",
@@ -7973,6 +8049,11 @@
 "title": "维基百科：呼和浩特地铁",
 "url": "https://zh.wikipedia.org/wiki/%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%9C%B0%E9%93%81",
 "type": "wiki"
+},
+{
+"title": "中国经济网：内蒙古进入地铁时代",
+"url": "http://www.ce.cn/xwzx/gnsz/gdxw/201912/29/t20191229_34007495.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -7989,7 +8070,7 @@
 "id": "2019-12-30-zhanghu-hsr-full-line",
 "date": "2019-12-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "张呼高铁全线贯通：内蒙古接入全国高铁网",
 "category": "national",
 "region": "cn",
@@ -8003,6 +8084,11 @@
 "title": "维基百科：张呼客运专线",
 "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%91%BC%E5%AE%A2%E8%BF%90%E4%B8%93%E7%BA%BF",
 "type": "wiki"
+},
+{
+"title": "国务院国资委：内蒙古自治区首条高铁张呼高铁开通运营",
+"url": "http://www.sasac.gov.cn/n2588025/n2588149/c13425008/content.html",
+"type": "official"
 }
 ],
 "tags": [

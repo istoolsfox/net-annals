@@ -470,7 +470,7 @@
 "id": "2016-08-31-first-online-fundraising-platforms",
 "date": "2016-08-31",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首批互联网公开募捐信息平台指定：线上慈善拿到『营业执照』",
 "category": "internet",
 "region": "cn",
@@ -484,6 +484,12 @@
 "title": "百度百科：互联网公开募捐信息平台",
 "url": "https://baike.baidu.com/item/互联网公开募捐信息平台",
 "type": "wiki"
+},
+{
+"title": "民政部关于指定首批慈善组织互联网募捐信息平台的公告（2016-08-31）",
+"url": "http://www.cac.gov.cn/2016-08/31/c_1119488671.htm",
+"type": "official",
+"outlet": "民政部"
 }
 ],
 "tags": [
@@ -529,7 +535,7 @@
 "id": "2017-08-28-children-gallery",
 "date": "2017-08-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『小朋友画廊』一元购画刷屏：1500万人的指尖公益",
 "category": "internet",
 "region": "cn",
@@ -543,6 +549,11 @@
 "title": "百度百科：小朋友画廊",
 "url": "https://baike.baidu.com/item/小朋友画廊",
 "type": "wiki"
+},
+{
+"title": "新华网：一元购画筹得1500万元后停止 活动方回应质疑",
+"url": "http://news.xinhuanet.com/politics/2017-08/30/c_1121566323.htm",
+"type": "media"
 }
 ],
 "tags": [

@@ -324,7 +324,7 @@
 "id": "2014-10-10-super-rice-1000kg",
 "date": "2014-10-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "超级稻亩产突破千公斤：袁隆平的第四期目标兑现",
 "category": "society",
 "region": "cn",
@@ -338,6 +338,12 @@
 "title": "百度百科：超级杂交水稻",
 "url": "https://baike.baidu.com/item/超级杂交水稻",
 "type": "wiki"
+},
+{
+"title": "维基百科：袁隆平（2014年10月10日第四期超级稻亩产1026.7公斤验收）",
+"url": "https://zh.wikipedia.org/wiki/%E8%A2%81%E9%9A%86%E5%B9%B3",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [
@@ -381,7 +387,7 @@
 "id": "2018-02-05-rural-living-environment-action",
 "date": "2018-02-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "农村人居环境整治三年行动：厕所革命的全国总攻",
 "category": "society",
 "region": "cn",
@@ -395,6 +401,11 @@
 "title": "百度百科：农村人居环境整治",
 "url": "https://baike.baidu.com/item/农村人居环境",
 "type": "wiki"
+},
+{
+"title": "新华网受权发布：中办国办印发《农村人居环境整治三年行动方案》",
+"url": "http://www.xinhuanet.com/politics/2018-02/05/c_1122372353.htm",
+"type": "official"
 }
 ],
 "tags": [
@@ -522,10 +533,10 @@
 ]
 },
 {
-"id": "2021-09-07-high-standard-farmland-plan",
-"date": "2021-09-07",
+"id": "2021-09-06-high-standard-farmland-plan",
+"date": "2021-09-06",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "新一轮高标准农田建设规划印发：旱涝保收的十亿亩工程",
 "category": "national",
 "region": "cn",
@@ -539,6 +550,11 @@
 "title": "百度百科：高标准农田",
 "url": "https://baike.baidu.com/item/高标准农田",
 "type": "wiki"
+},
+{
+"title": "农业农村部：关于印发《全国高标准农田建设规划（2021-2030年）》的通知（2021年9月6日印发）",
+"url": "https://ntjss.moa.gov.cn/zcfb/202109/t20210915_6376511.htm",
+"type": "official"
 }
 ],
 "tags": [

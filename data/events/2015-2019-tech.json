@@ -97,7 +97,7 @@
 "id": "2015-04-08-dji-phantom3",
 "date": "2015-04-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "大疆精灵3发布：消费级无人机飞入寻常百姓家",
 "category": "hardware",
 "region": "cn",
@@ -111,6 +111,12 @@
 "title": "维基百科：大疆创新",
 "url": "https://zh.wikipedia.org/wiki/大疆创新",
 "type": "wiki"
+},
+{
+"title": "DJI大疆新闻中心：发布Phantom 3系列新品（2015年4月8日）",
+"url": "https://www.dji.com/cn/newsroom/news/dji-unveils-the-phantom-3-the-next-evolution-of-the-world-s-most-popular-consumer-drone",
+"type": "official",
+"outlet": "DJI大疆创新"
 }
 ],
 "tags": [
@@ -126,7 +132,7 @@
 "id": "2015-04-14-letv-phone",
 "date": "2015-04-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "乐视超级手机发布：'生态化反'的野心与伏笔",
 "category": "company",
 "region": "cn",
@@ -140,6 +146,12 @@
 "title": "维基百科：乐视",
 "url": "https://zh.wikipedia.org/wiki/乐视",
 "type": "wiki"
+},
+{
+"title": "中新网：乐视发布全新UI和超级手机（2015-04-15报道）",
+"url": "https://www.chinanews.com/kong/2015/04-15/7208429.shtml",
+"type": "news",
+"outlet": "中新网"
 }
 ],
 "tags": [
@@ -399,7 +411,7 @@
 "id": "2016-04-22-mobike-shanghai",
 "date": "2016-04-22",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "摩拜单车进入上海：共享单车元年开启",
 "category": "company",
 "region": "cn",
@@ -413,6 +425,12 @@
 "title": "维基百科：摩拜单车",
 "url": "https://zh.wikipedia.org/wiki/摩拜单车",
 "type": "wiki"
+},
+{
+"title": "百度百科：摩拜共享单车（2016年4月22日上海正式运营）",
+"url": "https://baike.baidu.com/item/%E6%91%A9%E6%8B%9C%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6/68093085",
+"type": "wiki",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -549,7 +567,7 @@
 "id": "2016-09-21-miniprogram-beta",
 "date": "2016-09-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微信小程序内测：'用完即走'的应用形态实验",
 "category": "product",
 "region": "cn",
@@ -568,6 +586,12 @@
 "title": "维基百科：微信小程序",
 "url": "https://zh.wikipedia.org/wiki/微信小程序",
 "type": "wiki"
+},
+{
+"title": "虎嗅：微信小程序半夜开放公测（2016-11-03；内测始于2016年9月21日晚）",
+"url": "https://m.huxiu.com/article/169563.html",
+"type": "news",
+"outlet": "虎嗅"
 }
 ],
 "tags": [
@@ -609,7 +633,7 @@
 "id": "2016-10-25-xiaomi-mix",
 "date": "2016-10-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "小米MIX发布：全面屏概念惊艳世界",
 "category": "hardware",
 "region": "cn",
@@ -623,6 +647,12 @@
 "title": "维基百科：小米MIX",
 "url": "https://zh.wikipedia.org/wiki/小米MIX",
 "type": "wiki"
+},
+{
+"title": "维基百科：小米MIX（2016年10月25日发布）",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%B0%8F%E7%B1%B3MIX",
+"type": "wiki",
+"outlet": "维基百科"
 }
 ],
 "tags": [

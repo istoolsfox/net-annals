@@ -562,7 +562,7 @@
 "id": "2020-05-14-dual-circulation",
 "date": "2020-05-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『双循环』格局提出",
 "category": "economy",
 "region": "cn",
@@ -576,6 +576,11 @@
 "title": "维基百科：国内国际双循环",
 "url": "https://zh.wikipedia.org/wiki/国内国际双循环",
 "type": "wiki"
+},
+{
+"title": "新华网：中共中央政治局常务委员会2020年5月14日会议",
+"url": "http://www.xinhuanet.com/politics/leaders/2020-05/14/c_1125986000.htm",
+"type": "official"
 }
 ],
 "tags": [
@@ -1869,7 +1874,7 @@
 "id": "2020-11-11-ding-zhen",
 "date": "2020-11-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "丁真走红：7秒短视频带火一座理塘",
 "category": "culture",
 "region": "cn",
@@ -1883,6 +1888,11 @@
 "title": "百度百科：丁真",
 "url": "https://baike.baidu.com/item/丁真",
 "type": "wiki"
+},
+{
+"title": "新华网：理塘热度猛增620% 甜野男孩丁真聊走红",
+"url": "https://www.xinhuanet.com/politics/2020-11/30/c_1126802158.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -2472,7 +2482,7 @@
 "id": "2020-12-26-taiyuan-metro-line2",
 "date": "2020-12-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "太原地铁2号线开通：山西省会迈入地铁时代",
 "category": "national",
 "region": "cn",
@@ -2486,6 +2496,11 @@
 "title": "维基百科：太原轨道交通",
 "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%8E%9F%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A",
 "type": "wiki"
+},
+{
+"title": "人民网：太原地铁2号线一期开通运营",
+"url": "http://cpc.people.com.cn/n1/2020/1227/c117005-31980231.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -3584,7 +3599,7 @@
 "id": "2021-05-14-wang-yuan",
 "date": "2021-05-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "数学家王元逝世：哥德巴赫猜想研究的开拓者",
 "category": "society",
 "region": "cn",
@@ -3598,6 +3613,11 @@
 "title": "2021年中国大陆（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "财新网：著名数学家王元逝世 曾参与哥德巴赫猜想证明工作",
+"url": "https://science.caixin.com/2021-05-15/101713438.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4138,7 +4158,7 @@
 "id": "2021-06-16-yangzhou-canal-museum",
 "date": "2021-06-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "扬州中国大运河博物馆开馆：千年运河有了国家馆",
 "category": "culture",
 "region": "cn",
@@ -4151,6 +4171,11 @@
 {
 "title": "维基百科：扬州中国大运河博物馆",
 "url": "https://zh.wikipedia.org/wiki/%E6%89%AC%E5%B7%9E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%BF%90%E6%B2%B3%E5%8D%9A%E7%89%A9%E9%A6%86",
+"type": "wiki"
+},
+{
+"title": "维基百科：扬州中国大运河博物馆",
+"url": "https://zh.wikipedia.org/zh-cn/%E6%89%AC%E5%B7%9E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%BF%90%E6%B2%B3%E5%8D%9A%E7%89%A9%E9%A6%86",
 "type": "wiki"
 }
 ],
@@ -4224,7 +4249,7 @@
 "id": "2021-06-25-dragon-man-skull",
 "date": "2021-06-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『龙人』头骨公之于世：哈尔滨保存近乎完整的古人类头骨或为智人近亲",
 "category": "tech",
 "region": "cn",
@@ -4238,6 +4263,11 @@
 "title": "2021年中国大陆（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "EurekAlert：Dragon man fossil may replace Neanderthals as our closest relative",
+"url": "https://www.eurekalert.org/news-releases/708669",
+"type": "media"
 }
 ],
 "tags": [
@@ -5071,7 +5101,7 @@
 "id": "2021-09-29-lina-bell",
 "date": "2021-09-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "玲娜贝儿出道：没有作品的『川沙妲己』如何成为顶流",
 "category": "culture",
 "region": "cn",
@@ -5085,6 +5115,11 @@
 "title": "百度百科：玲娜贝儿",
 "url": "https://baike.baidu.com/item/玲娜贝儿",
 "type": "wiki"
+},
+{
+"title": "美通社：达菲新朋友玲娜贝儿在上海迪士尼度假区全球首发亮相",
+"url": "https://www.prnasia.com/story/334704-1.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -7567,7 +7602,7 @@
 "id": "2022-06-13-sanxingdui-new-finds",
 "date": "2022-06-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "三星堆再上新：龟背形网格状器等重器出土",
 "category": "culture",
 "region": "cn",
@@ -7584,6 +7619,11 @@
 {
 "title": "维基百科·三星堆遗址",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80"
+},
+{
+"title": "中国社会科学网：三星堆考古发布重大新成果",
+"url": "https://www.cssn.cn/skgz/bwyc/202208/t20220803_5468618.shtml",
+"type": "media"
 }
 ],
 "tags": [
