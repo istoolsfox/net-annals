@@ -3,7 +3,7 @@
 "id": "1972-01-16-mawangdui-tomb",
 "date": "1972-01-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "马王堆汉墓发掘启动：两千年不腐的西汉地下图书馆",
 "category": "culture",
 "region": "cn",
@@ -17,6 +17,16 @@
 "title": "百度百科：马王堆汉墓",
 "url": "https://baike.baidu.com/item/马王堆汉墓",
 "type": "wiki"
+},
+{
+"title": "新华网：来自两千多年前的国宝级文物，只有48g（素纱单衣）",
+"url": "https://www.xinhuanet.com/ci/20240826/71031dc3ebbf45e2973b4ce65bcfbf38/c.html",
+"type": "news"
+},
+{
+"title": "湖南日报：1972年马王堆，揭开历史神秘面纱",
+"url": "https://www.hunantoday.cn/news/xhn/202407/20323292.html",
+"type": "news"
 }
 ],
 "tags": [
