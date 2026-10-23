@@ -1,0 +1,628 @@
+[
+ {
+  "id": "bill-gates",
+  "name": "比尔·盖茨",
+  "en_name": "Bill Gates",
+  "aliases": [
+   "盖茨"
+  ],
+  "birth": "1955-10-28",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "微软联合创始人、盖茨基金会联合主席",
+  "summary_30s": "与保罗·艾伦创办微软，凭MS-DOS与Windows确立PC操作系统主导地位；2000年卸任CEO创立盖茨基金会，2008年退出日常管理，2025年称累计捐款已达1000亿美元。",
+  "timeline": [
+   {
+    "date": "1975-01-01",
+    "acc": "year",
+    "text": "与保罗·艾伦为Altair 8800编写BASIC解释器，在新墨西哥州阿尔伯克基创办微软。"
+   },
+   {
+    "date": "1980-01-01",
+    "acc": "year",
+    "text": "与IBM达成PC操作系统合作，以5万美元购入86-DOS改造为PC DOS授权IBM，并保留向其他厂商授权的权利。"
+   },
+   {
+    "date": "1985-11-20",
+    "acc": "exact",
+    "text": "微软发布Windows 1.0图形操作系统。"
+   },
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "微软上市；1987年盖茨成为当时全球最年轻的亿万富翁。"
+   },
+   {
+    "date": "1995-08-01",
+    "acc": "month",
+    "text": "Windows 95发布，微软在PC操作系统市场确立主导地位。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "卸任微软CEO转任首席软件架构师；同年与家人合并基金会，成立比尔及梅琳达·盖茨基金会。"
+   },
+   {
+    "date": "2008-06-27",
+    "acc": "exact",
+    "text": "正式退出微软日常管理，转入盖茨基金会全职工作，保留非执行董事长职务。"
+   },
+   {
+    "date": "2014-02-05",
+    "acc": "exact",
+    "text": "辞去微软董事长职务，由约翰·汤普森接任，本人转任技术与顾问角色。"
+   },
+   {
+    "date": "2020-03-01",
+    "acc": "month",
+    "text": "退出微软董事会与伯克希尔·哈撒韦董事会，专注慈善事业。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "与结婚27年的梅琳达宣布离婚，双方表示继续共同执掌盖茨基金会。"
+   },
+   {
+    "date": "2025-01-01",
+    "acc": "year",
+    "text": "在BBC采访中表示，历年累计向盖茨基金会捐赠已达1000亿美元。"
+   }
+  ],
+  "achievements": [
+   "联合创办微软，Windows长期占据全球PC操作系统主要份额",
+   "主导MS-DOS与Windows成为PC行业标准",
+   "2000年创立盖茨基金会，为全球规模最大的私人慈善基金会之一",
+   "多年位居《福布斯》全球富豪榜首位",
+   "2025年表示累计向基金会捐赠1000亿美元"
+  ],
+  "controversies": [
+   "1998年美国司法部联合20州起诉微软垄断，2000年联邦地方法院裁定公司违反《谢尔曼反垄断法》。",
+   "2001年上诉法院维持垄断认定、撤销拆分令，同年微软与司法部达成和解。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Bill Gates",
+    "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：比尔·盖茨",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8",
+    "type": "wiki"
+   },
+   {
+    "title": "Gates Foundation: Bill Gates",
+    "url": "https://www.gatesfoundation.org/about/leadership/bill-gates",
+    "type": "official"
+   },
+   {
+    "title": "Biography.com: Bill Gates",
+    "url": "https://www.biography.com/business-leaders/bill-gates",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "微软",
+   "盖茨基金会",
+   "互联网",
+   "操作系统",
+   "慈善"
+  ]
+ },
+ {
+  "id": "jeff-bezos",
+  "name": "杰夫·贝索斯",
+  "en_name": "Jeff Bezos",
+  "aliases": [
+   "贝索斯"
+  ],
+  "birth": "1964-01-12",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "company",
+  "region": "world",
+  "headline": "亚马逊创始人、蓝色起源创办人",
+  "summary_30s": "1994年在车库创办亚马逊，从在线书店发展为全球头部电商；Prime会员、Kindle与AWS云服务成为主要利润来源；2000年创办蓝色起源，2021年卸任CEO转任执行董事长。",
+  "timeline": [
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "以最优等成绩获普林斯顿大学电气工程与计算机科学学士学位。"
+   },
+   {
+    "date": "1990-01-01",
+    "acc": "year",
+    "text": "加入对冲基金D.E. Shaw，30岁前升任公司高级副总裁。"
+   },
+   {
+    "date": "1994-07-05",
+    "acc": "exact",
+    "text": "辞去华尔街工作，在华盛顿州贝尔维尤的车库创办亚马逊，最初为在线书店。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "亚马逊上市，商品品类自图书向音乐、影碟等扩张。"
+   },
+   {
+    "date": "2000-09-01",
+    "acc": "month",
+    "text": "创办商业航天公司蓝色起源，瞄准亚轨道与轨道飞行。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "推出Prime付费会员服务，以固定年费提供快速配送等权益。"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "推出S3存储与EC2计算服务，AWS后来成为亚马逊主要利润来源。"
+   },
+   {
+    "date": "2007-11-01",
+    "acc": "month",
+    "text": "发布Kindle电子书阅读器，带动电子书市场兴起。"
+   },
+   {
+    "date": "2013-08-01",
+    "acc": "month",
+    "text": "以2.5亿美元现金私人收购《华盛顿邮报》。"
+   },
+   {
+    "date": "2021-07-05",
+    "acc": "exact",
+    "text": "卸任亚马逊CEO转任执行董事长，AWS原负责人安迪·贾西接任。"
+   },
+   {
+    "date": "2021-07-20",
+    "acc": "exact",
+    "text": "乘坐蓝色起源新谢泼德号完成首次亚轨道载人飞行，飞行超过10分钟。"
+   }
+  ],
+  "achievements": [
+   "创办亚马逊，从在线书店发展为全球头部电商平台",
+   "主导推出Prime会员、Kindle与AWS，云业务成为公司主要利润来源",
+   "2000年创办蓝色起源，2021年完成首次载人亚轨道飞行",
+   "2013年以2.5亿美元收购《华盛顿邮报》",
+   "任内亚马逊市值升至万亿美元量级"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Jeff Bezos",
+    "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+    "type": "wiki"
+   },
+   {
+    "title": "Forbes Profile: Jeff Bezos",
+    "url": "https://www.forbes.com/profile/jeff-bezos",
+    "type": "media"
+   },
+   {
+    "title": "Britannica: Jeff Bezos",
+    "url": "https://www.britannica.com/money/Jeff-Bezos",
+    "type": "media"
+   },
+   {
+    "title": "Amazon IR: Officers and Directors",
+    "url": "https://ir.aboutamazon.com/officers-and-directors/person-details/default.aspx",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "电商",
+   "AWS",
+   "蓝色起源",
+   "公司"
+  ]
+ },
+ {
+  "id": "mark-zuckerberg",
+  "name": "马克·扎克伯格",
+  "en_name": "Mark Zuckerberg",
+  "aliases": [
+   "扎克伯格",
+   "小扎"
+  ],
+  "birth": "1984-05-14",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "Meta（Facebook）创始人",
+  "summary_30s": "2004年在哈佛宿舍创办Facebook，上市并收购Instagram、WhatsApp，用户覆盖数十亿；2021年更名Meta押注元宇宙，2023年起发布Llama开源大模型。",
+  "timeline": [
+   {
+    "date": "2004-02-04",
+    "acc": "exact",
+    "text": "在哈佛大学宿舍上线社交网站Thefacebook，随后向其他高校扩展。"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "拒绝雅虎约10亿美元收购报价，网站向公众开放注册。"
+   },
+   {
+    "date": "2008-06-25",
+    "acc": "exact",
+    "text": "ConnectU诉讼以和解结案，支付2000万美元现金及逾120万股股票。"
+   },
+   {
+    "date": "2012-04-01",
+    "acc": "month",
+    "text": "以约10亿美元收购照片分享应用Instagram。"
+   },
+   {
+    "date": "2012-05-01",
+    "acc": "month",
+    "text": "Facebook上市，融资160亿美元，估值约1040亿美元。"
+   },
+   {
+    "date": "2014-02-01",
+    "acc": "month",
+    "text": "宣布以约190亿美元收购即时通讯应用WhatsApp。"
+   },
+   {
+    "date": "2021-10-28",
+    "acc": "exact",
+    "text": "宣布公司更名为Meta Platforms，全面投入元宇宙开发。"
+   },
+   {
+    "date": "2022-02-01",
+    "acc": "month",
+    "text": "业绩指引不及预期，股价单日下跌27%，市值蒸发约2300亿美元。"
+   },
+   {
+    "date": "2023-02-01",
+    "acc": "month",
+    "text": "组建生成式AI团队，年内发布Llama系列开源大模型。"
+   }
+  ],
+  "achievements": [
+   "在哈佛宿舍创办Facebook，用户规模达数十亿量级",
+   "主导收购Instagram（约10亿美元）与WhatsApp（约190亿美元）",
+   "2012年公司上市，融资160亿美元",
+   "2021年推动公司更名Meta，投入元宇宙",
+   "2023年起发布Llama系列开源大模型"
+  ],
+  "controversies": [
+   "2019年美国联邦贸易委员会就剑桥分析公司数据事件与Facebook达成和解，公司支付50亿美元罚款。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Mark Zuckerberg",
+    "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Meta Platforms",
+    "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：马克·扎克伯格",
+    "url": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E5%85%8B%C2%B7%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Facebook",
+   "Meta",
+   "社交网络",
+   "Llama",
+   "互联网"
+  ]
+ },
+ {
+  "id": "tim-cook",
+  "name": "蒂姆·库克",
+  "en_name": "Tim Cook",
+  "aliases": [
+   "库克"
+  ],
+  "birth": "1960-11-01",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "company",
+  "region": "world",
+  "headline": "苹果前CEO、现任执行董事长",
+  "summary_30s": "2011年接任苹果CEO，延续供应链与运营路线，任内推出Apple Watch、AirPods，苹果成为美国首家市值破1万亿与3万亿美元的公司；2026年卸任CEO转任执行董事长。",
+  "timeline": [
+   {
+    "date": "1982-01-01",
+    "acc": "year",
+    "text": "获奥本大学工业工程学士学位，后于杜克大学获MBA学位。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "受乔布斯邀请加盟苹果任全球运营高级副总裁，将库存周期从数月压缩至数天。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "出任苹果首席运营官，在乔布斯病休期间多次代管公司日常运营。"
+   },
+   {
+    "date": "2011-08-24",
+    "acc": "exact",
+    "text": "接替辞任的乔布斯出任苹果CEO。"
+   },
+   {
+    "date": "2014-10-30",
+    "acc": "exact",
+    "text": "在彭博商业周刊撰文公开出柜，成为首位公开出柜的财富500强CEO。"
+   },
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "Apple Watch上市，为后iPhone时代苹果首款全新品类硬件。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "发布AirPods真无线耳机，该品类随后成为消费电子主流形态。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "year",
+    "text": "苹果成为美国首家市值突破1万亿美元的公司。"
+   },
+   {
+    "date": "2022-01-01",
+    "acc": "year",
+    "text": "苹果市值一度突破3万亿美元，居全球上市公司前列。"
+   },
+   {
+    "date": "2026-04-01",
+    "acc": "month",
+    "text": "苹果宣布库克将于当年9月卸任CEO，由硬件工程高级副总裁特努斯接任。"
+   },
+   {
+    "date": "2026-09-01",
+    "acc": "month",
+    "text": "正式卸任苹果CEO，转任公司执行董事长。"
+   }
+  ],
+  "achievements": [
+   "重组苹果供应链，库存周期从数月压缩至数天",
+   "任内推出Apple Watch与AirPods等新硬件品类",
+   "任内苹果成为美国首家市值破1万亿与3万亿美元的公司",
+   "2025年宣布累计6000亿美元美国本土投资计划",
+   "2014年成为首位公开出柜的财富500强CEO"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Tim Cook",
+    "url": "https://en.wikipedia.org/wiki/Tim_Cook",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Apple Inc.",
+    "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：蒂姆·库克",
+    "url": "https://zh.wikipedia.org/zh-hans/%E8%92%82%E5%A7%86%C2%B7%E5%BA%93%E5%85%8B",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "供应链",
+   "消费电子",
+   "CEO",
+   "公司"
+  ]
+ },
+ {
+  "id": "larry-page",
+  "name": "拉里·佩奇",
+  "en_name": "Larry Page",
+  "aliases": [
+   "佩奇"
+  ],
+  "birth": "1973-03-26",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "谷歌联合创始人",
+  "summary_30s": "与布林在斯坦福创办谷歌，以PageRank算法革新网页搜索，主导上市并收购Android；2015年重组为Alphabet任CEO，2019年卸任，谷歌成为全球使用最广的搜索引擎。",
+  "timeline": [
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "在斯坦福大学攻读博士期间启动网页搜索研究项目BackRub，布林随后加入。"
+   },
+   {
+    "date": "1998-04-01",
+    "acc": "month",
+    "text": "与布林发表PageRank论文，以网页间链接关系量化权重改进搜索排序。"
+   },
+   {
+    "date": "1998-09-01",
+    "acc": "month",
+    "text": "在加州门洛帕克租下车库正式创办谷歌，投资人贝托尔斯海姆在注册前已开出10万美元支票。"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "邀请埃里克·施密特出任CEO，本人转向产品与技术方向。"
+   },
+   {
+    "date": "2004-08-01",
+    "acc": "month",
+    "text": "谷歌以荷兰式拍卖方式完成IPO，佩奇与布林借双层股权保持控制权。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "以5000万美元收购Android公司，布局移动操作系统。"
+   },
+   {
+    "date": "2011-04-04",
+    "acc": "exact",
+    "text": "重返一线出任谷歌CEO，施密特转任执行董事长。"
+   },
+   {
+    "date": "2015-08-10",
+    "acc": "exact",
+    "text": "宣布重组为控股公司Alphabet，出任Alphabet CEO，皮查伊接任谷歌CEO。"
+   },
+   {
+    "date": "2019-12-01",
+    "acc": "month",
+    "text": "与布林宣布卸任Alphabet全部管理职务，皮查伊兼任两家公司CEO。"
+   },
+   {
+    "date": "2022-09-01",
+    "acc": "month",
+    "text": "其投资的飞行汽车公司Kitty Hawk停运，业务并入与波音相关的Wisk Aero。"
+   }
+  ],
+  "achievements": [
+   "与布林提出PageRank算法，奠定现代网页搜索排序基础",
+   "主导谷歌上市并收购Android，布局移动时代",
+   "推动谷歌重组为Alphabet并出任首任CEO",
+   "谷歌成为全球使用最广的搜索引擎",
+   "投资Kitty Hawk等飞行汽车初创企业"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Larry Page",
+    "url": "https://en.wikipedia.org/wiki/Larry_Page",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: PageRank",
+    "url": "https://en.wikipedia.org/wiki/PageRank",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：拉里·佩奇",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%8B%89%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Alphabet",
+   "PageRank",
+   "搜索引擎",
+   "互联网"
+  ]
+ },
+ {
+  "id": "jerry-yang",
+  "name": "杨致远",
+  "en_name": "Jerry Yang",
+  "aliases": [
+   "Yahoo创始人"
+  ],
+  "birth": "1968-11-06",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "雅虎联合创始人、投资人",
+  "summary_30s": "与菲洛在斯坦福创办Yahoo!，1996年上市时仅49名员工，雅虎是1990年代最大门户网站之一；2008年拒绝微软446亿美元收购要约，2012年退出后创办AME Cloud Ventures。",
+  "timeline": [
+   {
+    "date": "1978-01-01",
+    "acc": "year",
+    "text": "10岁随家人自台北移居美国加州圣何塞，初到时几乎不会英语。"
+   },
+   {
+    "date": "1994-01-01",
+    "acc": "year",
+    "text": "在斯坦福大学与菲洛创建网站目录「杰瑞和大卫的万维网指南」，后更名Yahoo!。"
+   },
+   {
+    "date": "1995-04-01",
+    "acc": "month",
+    "text": "获红杉资本200万美元投资，聘请职业经理人出任CEO，雅虎开始商业化运营。"
+   },
+   {
+    "date": "1996-04-01",
+    "acc": "month",
+    "text": "雅虎上市，上市时公司仅有49名员工。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "主导雅虎以10亿美元加雅虎中国资产换取阿里巴巴约40%股份。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "特里·塞梅尔离任后，杨致远重返管理一线出任雅虎CEO。"
+   },
+   {
+    "date": "2008-02-01",
+    "acc": "month",
+    "text": "微软提出约446亿美元收购要约，雅虎董事会认为报价低估公司价值而拒绝。"
+   },
+   {
+    "date": "2008-11-01",
+    "acc": "month",
+    "text": "宣布将卸任CEO，2009年1月由巴茨接任。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "month",
+    "text": "辞去雅虎董事及雅虎日本、阿里巴巴董事等全部职务，随后创办AME Cloud Ventures。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "出任斯坦福大学董事会主席，任期至2025年。"
+   }
+  ],
+  "achievements": [
+   "联合创办雅虎，成为1990年代访问量最高的门户网站之一",
+   "主导以10亿美元入股阿里巴巴40%，2012年雅虎部分套现76亿美元",
+   "2007至2009年出任雅虎CEO",
+   "创办AME Cloud Ventures，投资Zoom、Evernote等企业",
+   "任斯坦福大学董事会主席（2021-2025）"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Jerry Yang",
+    "url": "https://en.wikipedia.org/wiki/Jerry_Yang",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Yahoo!",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：杨致远",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E8%87%B4%E8%BF%9C",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "雅虎",
+   "门户网站",
+   "风险投资",
+   "斯坦福",
+   "互联网"
+  ]
+ }
+]
