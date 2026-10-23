@@ -4868,7 +4868,7 @@
 "id": "2017-12-27-ningbo-zhoushan-port-billion-tonnes",
 "date": "2017-12-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "宁波舟山港年货物吞吐量破10亿吨：全球首个十亿吨大港",
 "category": "economy",
 "region": "cn",
@@ -4882,6 +4882,11 @@
 "title": "宁波舟山港 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E5%AE%81%E6%B3%A2%E8%88%9F%E5%B1%B1%E6%B8%AF",
 "type": "wiki"
+},
+{
+"title": "新华网：宁波舟山港成为全球首个年货物吞吐量超14亿吨大港（连续17年全球第一）",
+"url": "https://www.news.cn/fortune/20260105/932a8982a16e453592512c2d4ef9541f/c.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -5722,7 +5727,7 @@
 "id": "2018-08-24-didi-ride-hailing-case",
 "date": "2018-08-24",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "滴滴顺风车乐清案：平台责任的一记重锤",
 "category": "society",
 "region": "cn",
@@ -5736,6 +5741,11 @@
 "title": "Wikipedia: 滴滴出行",
 "url": "https://zh.wikipedia.org/wiki/滴滴出行",
 "type": "wiki"
+},
+{
+"title": "新华网：女孩乘滴滴顺风车遇害 五问滴滴平台安全",
+"url": "https://www.xinhuanet.com/politics/2018-08/26/c_1123328973.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -7090,7 +7100,7 @@
 "id": "2019-06-06-5g-commercial-licenses",
 "date": "2019-06-06",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "5G商用牌照发放：比计划提前了一整年",
 "category": "national",
 "region": "cn",
@@ -7104,6 +7114,11 @@
 "title": "Wikipedia: 5G",
 "url": "https://zh.wikipedia.org/wiki/5G",
 "type": "wiki"
+},
+{
+"title": "新华社（网信办转载）：我国正式发放5G商用牌照",
+"url": "https://www.cac.gov.cn/2019-06/06/c_1124591450.htm",
+"type": "news"
 }
 ],
 "tags": [

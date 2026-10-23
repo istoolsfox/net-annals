@@ -1674,7 +1674,7 @@
 "id": "1985-01-01-harbin-ice-festival-first",
 "date": "1985-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届哈尔滨冰雪节创办：冰天雪地变成城市资产",
 "category": "culture",
 "region": "cn",
@@ -1688,6 +1688,11 @@
 "title": "维基百科：哈尔滨国际冰雪节",
 "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%BD%E9%99%85%E5%86%B0%E9%9B%AA%E8%8A%82",
 "type": "wiki"
+},
+{
+"title": "黑龙江省人民政府：哈尔滨冰雪童话王国长成记",
+"url": "https://www.hlj.gov.cn/hlj/c108551/202410/c00_31776697.shtml",
+"type": "official"
 }
 ],
 "tags": [

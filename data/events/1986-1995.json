@@ -62,7 +62,7 @@
 "id": "1986-05-09-cui-jian-yi-wu-suo-you",
 "date": "1986-05-09",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "崔健首唱《一无所有》：中国摇滚元年",
 "category": "culture",
 "region": "cn",
@@ -75,6 +75,11 @@
 {
 "title": "Wikipedia: 崔健",
 "url": "https://zh.wikipedia.org/wiki/崔健",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: Nothing to My Name",
+"url": "https://en.wikipedia.org/wiki/Nothing_to_My_Name",
 "type": "wiki"
 }
 ],
@@ -1704,7 +1709,7 @@
 "id": "1990-04-07-asiasat-1-launch",
 "date": "1990-04-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "长征三号发射『亚洲一号』：中国首次国际商业卫星发射",
 "category": "tech",
 "region": "cn",
@@ -1718,6 +1723,11 @@
 "title": "Wikipedia: AsiaSat 1",
 "url": "https://en.wikipedia.org/wiki/AsiaSat_1",
 "type": "wiki"
+},
+{
+"title": "国家航天局：1990年4月7日我国成功发射『亚洲一号』卫星",
+"url": "https://www.cnsa.gov.cn/n6758968/n6758972/c6796292/content.html",
+"type": "official"
 }
 ],
 "tags": [

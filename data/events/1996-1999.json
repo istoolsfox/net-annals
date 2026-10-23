@@ -114,7 +114,7 @@
 "id": "1996-08-01-sohu-predecessor",
 "date": "1996-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "张朝阳回国创办爱特信（搜狐前身）",
 "category": "company",
 "region": "cn",
@@ -128,6 +128,11 @@
 "title": "维基百科：搜狐",
 "url": "https://zh.wikipedia.org/wiki/搜狐",
 "type": "wiki"
+},
+{
+"title": "搜狐公司简介（搜狐官方，记载1996年8月创办爱特信）",
+"url": "https://yule.sohu.com/20070716/n251074158.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -517,7 +522,7 @@
 "id": "1997-06-03-cnnic-founded",
 "date": "1997-06-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "CNNIC 成立：中国互联网有了官方统计与注册机构",
 "category": "internet",
 "region": "cn",
@@ -531,6 +536,11 @@
 "title": "中国互联网络信息中心（CNNIC）",
 "url": "https://www.cnnic.com.cn/",
 "type": "official"
+},
+{
+"title": "Wikipedia: 中国互联网络信息中心",
+"url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83",
+"type": "wiki"
 }
 ],
 "tags": [

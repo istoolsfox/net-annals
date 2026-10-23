@@ -1023,7 +1023,7 @@
 "id": "2001-09-28-legend-online",
 "date": "2001-09-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《热血传奇》公测：中国网游时代的开端",
 "category": "culture",
 "region": "cn",
@@ -1037,6 +1037,11 @@
 "title": "维基百科：热血传奇",
 "url": "https://zh.wikipedia.org/wiki/热血传奇",
 "type": "wiki"
+},
+{
+"title": "17173：如何告诉90后00后——《热血传奇》是款什么游戏",
+"url": "https://mir.17173.com/content/2015-08-11/20150811170232100.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -1689,7 +1694,7 @@
 "id": "2002-12-14-hero-premiere",
 "date": "2002-12-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《英雄》上映：中国商业大片时代开幕",
 "category": "culture",
 "region": "cn",
@@ -1702,6 +1707,11 @@
 {
 "title": "维基百科：英雄 (电影)",
 "url": "https://zh.wikipedia.org/wiki/英雄_(电影)",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: Hero (2002 film)",
+"url": "https://en.wikipedia.org/wiki/Hero_(2002_film)",
 "type": "wiki"
 }
 ],
@@ -1770,7 +1780,7 @@
 "id": "2003-01-01-gandong-china-first",
 "date": "2003-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届『感动中国年度人物』评选揭晓：央视年度人物评选成为国民精神品牌",
 "category": "society",
 "region": "cn",
@@ -1784,6 +1794,11 @@
 "title": "感动中国年度人物评选（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "央视网：2002-2006年度感动中国人物颁奖辞赏析（首届2003年2月14日揭晓）",
+"url": "http://news.cctv.com/special/07gdzg/20071204/102274_4.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -2526,7 +2541,7 @@
 "id": "2003-12-03-baidu-tieba",
 "date": "2003-12-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "百度贴吧上线：『为兴趣而生』的社区帝国",
 "category": "product",
 "region": "cn",
@@ -2539,6 +2554,11 @@
 {
 "title": "维基百科：百度贴吧",
 "url": "https://zh.wikipedia.org/wiki/百度贴吧",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: Baidu Tieba",
+"url": "https://en.wikipedia.org/wiki/Baidu_Tieba",
 "type": "wiki"
 }
 ],

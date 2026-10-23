@@ -1136,7 +1136,7 @@
 "id": "1998-04-01-hempleman-adams-grand-slam",
 "date": "1998-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "亨普尔曼-亚当斯抵达北极点：『探险家大满贯』集齐第一人",
 "category": "world",
 "region": "world",
@@ -1150,6 +1150,11 @@
 "title": "维基百科：David Hempleman-Adams",
 "url": "https://en.wikipedia.org/wiki/David_Hempleman-Adams",
 "type": "wiki"
+},
+{
+"title": "Guinness World Records: First person to complete the Adventurers' Grand Slam",
+"url": "https://www.guinnessworldrecords.com/world-records/first-person-to-complete-the-adventurers-grand-slam",
+"type": "official"
 }
 ],
 "tags": [

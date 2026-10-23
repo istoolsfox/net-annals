@@ -3,7 +3,7 @@
 "id": "1981-11-01-cardin-beijing-show",
 "date": "1981-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "皮尔·卡丹北京办秀：西方时尚第一次正装登场",
 "category": "culture",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "百度百科：皮尔·卡丹",
 "url": "https://baike.baidu.com/item/皮尔·卡丹",
 "type": "wiki"
+},
+{
+"title": "Pierre Cardin 中国官网：PIERRE CARDIN IN CHINA（1981北京饭店首场公开秀）",
+"url": "http://pierrecardin.com.cn/wordpress/?page_id=31&lang=en",
+"type": "official"
 }
 ],
 "tags": [

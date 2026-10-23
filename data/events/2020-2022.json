@@ -171,7 +171,7 @@
 "id": "2020-02-11-healthcode-launch",
 "date": "2020-02-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "健康码在杭州首发：一码走天下的开始",
 "category": "product",
 "region": "cn",
@@ -185,6 +185,11 @@
 "title": "维基百科：健康码",
 "url": "https://zh.wikipedia.org/wiki/健康码",
 "type": "wiki"
+},
+{
+"title": "PMC/NIH: 论文记载2020年2月11日杭州健康码（支付宝小程序）正式上线",
+"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9408613",
+"type": "news"
 }
 ],
 "tags": [
@@ -7676,7 +7681,7 @@
 "id": "2022-07-17-ezhou-huahu-cargo-airport",
 "date": "2022-07-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "鄂州花湖机场投运：亚洲首个专业货运枢纽机场启用",
 "category": "economy",
 "region": "cn",
@@ -7690,6 +7695,11 @@
 "title": "维基百科：鄂州花湖国际机场",
 "url": "https://zh.wikipedia.org/wiki/%E9%84%82%E5%B7%9E%E8%8A%B1%E6%B9%96%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
 "type": "wiki"
+},
+{
+"title": "新华网：亚洲首个专业货运枢纽机场——鄂州花湖机场建成投运",
+"url": "http://www.news.cn/politics/2022-07/18/c_1128840179.htm",
+"type": "news"
 }
 ],
 "tags": [

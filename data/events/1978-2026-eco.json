@@ -38,7 +38,7 @@
 "id": "1981-05-23-crested-ibis-discovery",
 "date": "1981-05-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "洋县发现7只野生朱鹮：从7只到万只的物种拯救",
 "category": "society",
 "region": "cn",
@@ -51,6 +51,11 @@
 {
 "title": "百度百科：朱鹮",
 "url": "https://baike.baidu.com/item/朱鹮",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: Crested ibis（1981年洋县重新发现）",
+"url": "https://en.wikipedia.org/wiki/Crested_ibis",
 "type": "wiki"
 }
 ],
@@ -326,7 +331,7 @@
 "id": "2016-01-01-central-env-inspection",
 "date": "2016-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中央环保督察启动：环保监督第一次顶到党政一把手",
 "category": "national",
 "region": "cn",
@@ -345,6 +350,11 @@
 "title": "百度百科：中央环境保护督察",
 "url": "https://baike.baidu.com/item/中央环境保护督察",
 "type": "wiki"
+},
+{
+"title": "生态环境部：中央生态环境保护督察专栏",
+"url": "https://www.mee.gov.cn/ywgz/zysthjbhdc",
+"type": "official"
 }
 ],
 "tags": [
