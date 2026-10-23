@@ -94,34 +94,6 @@
 ]
 },
 {
-"id": "2015-03-09-apple-watch",
-"date": "2015-03-09",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Apple Watch 发布：苹果进入后手机时代的第一次尝试",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "2015年3月9日苹果春季发布会正式发布Apple Watch，4月24日开售。这是库克时代苹果首个全新品类，也是乔布斯之后苹果第一次开拓新硬件线，智能手表从极客玩具变成大众消费电子产品。",
-"detail": "Apple Watch分运动、标准、Edition三档，Edition金表版最高上万美元，引发'苹果做奢侈品'的讨论。首发覆盖中国内地在内的九个国家和地区，中国市场位列第一梯队。初代产品因续航和依赖iPhone被评头论足，但心率监测、通知中枢和后续watchOS迭代逐步站稳脚跟。此后苹果连续数代升级，把Apple Watch做成全球出货量第一的手表品牌，健康监测成为核心卖点。",
-"impact": "智能手表品类被苹果定义，可穿戴设备从概念产品变成规模市场，也给苹果打开了服务与健康的第二增长曲线。",
-"aftermath": "Apple Watch陆续加入心电图、血氧、跌倒检测等功能，成为全球最畅销手表；国内华为、小米等厂商的智能手表手环市场随之做大。",
-"sources": [
-{
-"title": "维基百科：Apple Watch",
-"url": "https://zh.wikipedia.org/wiki/Apple_Watch",
-"type": "wiki"
-}
-],
-"tags": [
-"硬件",
-"Apple Watch",
-"苹果",
-"智能手表",
-"可穿戴"
-]
-},
-{
 "id": "2015-04-08-dji-phantom3",
 "date": "2015-04-08",
 "date_accuracy": "exact",
