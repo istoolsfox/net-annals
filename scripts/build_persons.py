@@ -67,3 +67,45 @@ for e in all_persons:
     fields[e["field"]] = fields.get(e["field"], 0) + 1
 print(f"✓ 人物志构建完成：{len(all_persons)} 人 → site/persons/data.json（{os.path.getsize(dst)//1024}KB + .gz）")
 print(f"  领域分布: {fields}")
+
+# ---- 类传（群像列传）构建：data/persons/groups/*.json → site/persons/groups.json ----
+GROUPS_DIR = os.path.join(PERSONS_DIR, "groups")
+G_REQUIRED = ["id", "name", "era", "summary_30s", "members", "legacy", "sources", "tags"]
+gfiles = sorted(glob.glob(os.path.join(GROUPS_DIR, "*.json")))
+if gfiles:
+    groups, gseen, gerrs = [], set(), []
+    for f in gfiles:
+        try:
+            gdata = json.load(open(f, encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            gerrs.append(f"{os.path.basename(f)}: 解析失败 {exc}")
+            continue
+        for g in gdata:
+            gid = g.get("id", "")
+            for k in G_REQUIRED:
+                if k not in g:
+                    gerrs.append(f"{gid}: 缺字段 {k}")
+            if not str(gid).startswith("l-"):
+                gerrs.append(f"{gid}: 类传 id 必须以 l- 开头")
+            if gid in gseen:
+                gerrs.append(f"类传 id 重复: {gid}")
+            gseen.add(gid)
+            if len(g.get("members", [])) < 5:
+                gerrs.append(f"{gid}: members <5")
+            groups.append(g)
+    if gerrs:
+        print(f"✗ 类传校验失败 {len(gerrs)} 项:")
+        for x in gerrs:
+            print("  -", x)
+        sys.exit(1)
+    gtext = json.dumps({"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
+                        "count": len(groups), "groups": groups},
+                       ensure_ascii=False, separators=(",", ":"))
+    gdst = os.path.join(OUT_DIR, "groups.json")
+    open(gdst, "w", encoding="utf-8").write(gtext)
+    with open(gdst + ".gz", "wb") as gf:
+        with gzip.GzipFile(filename="", mode="wb", fileobj=gf, mtime=0, compresslevel=9) as g:
+            g.write(gtext.encode("utf-8"))
+    print(f"✓ 类传构建完成：{len(groups)} 篇 → site/persons/groups.json（{os.path.getsize(gdst)//1024}KB + .gz）")
+else:
+    print("· 类传目录为空，跳过 groups.json")

@@ -55,6 +55,25 @@
 .srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
 .srcList a{color:var(--accent);text-decoration:none}
 .srcList a:hover{text-decoration:underline}
+/* 类传板块 */
+.lSec{margin-top:48px;border-top:1px solid var(--line);padding-top:34px}
+.lTitle{font-family:var(--serif);font-size:1.6rem;color:var(--text);margin:0 0 6px}
+.lTitle em{font-style:normal;color:var(--accent)}
+.lSub{color:var(--dim);font-size:.9rem;margin:0 0 4px}
+.lCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column}
+.lCard:hover{border-color:var(--accent)}
+.lCard .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.lCard h3{margin:0;font-size:1.08rem;color:var(--text);font-family:var(--serif)}
+.lCard .era{font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.lCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:8px 0;flex:1}
+.lCard .meta{font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.mItem{padding:12px 0;border-bottom:1px solid var(--line)}
+.mItem:last-child{border-bottom:none}
+.mItem .mn{color:var(--text);font-weight:600;font-size:.95rem}
+.mItem .mi{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
+.mItem .mh{color:var(--accent);font-size:.78rem;margin:2px 0 6px}
+.mItem .mt{color:var(--dim);font-size:.88rem;line-height:1.75;margin:0}
+.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
 @media (max-width:640px){.pDetail{padding:24px 20px 50px}}
 </style>
 </head>
@@ -67,6 +86,11 @@
   </div>
   <div class="pBar" id="fieldBar"><button class="chip on" data-f="all">全部</button></div>
   <div class="pGrid" id="grid"></div>
+  <div class="lSec" id="lSec" style="display:none">
+    <h2 class="lTitle">类传<em> ·</em> 群像列传</h2>
+    <p class="lSub">按身份类型集体立传——《史记》刺客、游侠、货殖列传之法的现代版：版主、极客、写手、站长，那些以群体形象塑造中文互联网的人。</p>
+    <div class="pGrid" id="lGrid"></div>
+  </div>
 </div>
 <div class="pMask" id="mask"></div>
 <div class="pDetail" id="detail"></div>
