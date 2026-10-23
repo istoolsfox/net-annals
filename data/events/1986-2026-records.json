@@ -3244,16 +3244,16 @@
 ]
 },
 {
-"id": "2024-07-21-pogacar-tour-fourpeat",
+"id": "2024-07-21-pogacar-tour-third-title",
 "date": "2024-07-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "波加查环法四连冠：25岁已握五件黄衫",
+"date_confidence": "verified",
+"title": "波加查环法第三冠：25岁三穿黄衫",
 "category": "culture",
 "region": "world",
 "milestone": false,
-"summary_30s": "2024年7月21日，第111届环法在尼斯收官，斯洛文尼亚车手波加查实现四连冠、个人第五件黄衫，25岁的他已比肩传奇；两周后的巴黎奥运，他再夺公路赛与计时赛双金，完成『环法+奥运双金』的历史级赛季。",
-"detail": "波加查2020年21岁首夺环法，2021年起连冠不断。2024年他改变战术：主动放弃部分古典赛，专攻环法与奥运双线，结果在环法以近7分钟优势碾压对手，奥运公路赛则从远距离单飞夺金，成为男子公路车史上首位『同夏包揽环法+奥运双金』的车手。UCI积分榜上他一人拉开第二名数千分的差距，统治力被媒体形容为『公路车界的梅罗时代终结者』。",
+"summary_30s": "2024年7月21日，第111届环法在尼斯收官，斯洛文尼亚车手波加查实现个人第三个环法总冠军（2020/2021/2024），25岁三穿黄衫；两周后的巴黎奥运，他再夺公路赛与计时赛双金，完成『环法+奥运双金』的历史级赛季。",
+"detail": "波加查2020年21岁首夺环法，2021年成功卫冕，2022-2023年不敌温格高屈居亚军，2024年强势归来。2024年他改变战术：主动放弃部分古典赛，专攻环法与奥运双线，结果在环法以近7分钟优势碾压对手，奥运公路赛则从远距离单飞夺金，成为男子公路车史上首位『同夏包揽环法+奥运双金』的车手。UCI积分榜上他一人拉开第二名数千分的差距，统治力被媒体形容为『公路车界的梅罗时代终结者』。",
 "impact": "公路自行车从温格高、波加查双雄对峙转入波加查单核时代，环法收视与UCI商业化被这位25岁天才重新定义。",
 "aftermath": "2025年波加查继续扩张版图，环法五连冠进行时并首夺环意大利，『全大满贯』悬念成为公路车下一个十年的主线剧情。",
 "sources": [
@@ -3261,6 +3261,11 @@
 "title": "百度百科：塔代伊·波加查",
 "url": "https://baike.baidu.com/item/塔代伊·波加查",
 "type": "wiki"
+},
+{
+"title": "中新网：2024年环法收官 波加查收获第三冠",
+"url": "https://www.chinanews.com.cn/tp/hd2011/2024/07-22/1114729.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3279,7 +3284,7 @@
 "id": "2024-08-04-china-mens-medley-relay-gold",
 "date": "2024-08-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "男子4x100混接巴黎夺金：中国游泳的接力之夜",
 "category": "culture",
 "region": "cn",
@@ -3293,6 +3298,11 @@
 "title": "百度百科：2024年巴黎奥运会游泳比赛",
 "url": "https://baike.baidu.com/item/2024年巴黎奥运会游泳比赛",
 "type": "wiki"
+},
+{
+"title": "Olympics.com：中国斩获男子4x100米混合泳接力金牌",
+"url": "https://www.olympics.com/zh/news/paris-2024-swimming-all-results-as-the-people-s-republic-of-china-wins-gold-in-men-s-4x100m-medley-relay",
+"type": "official"
 }
 ],
 "tags": [

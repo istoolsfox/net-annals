@@ -637,7 +637,7 @@
 "id": "2016-11-03-huawei-mate9",
 "date": "2016-11-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "华为Mate 9发布：麒麟960与徕卡双摄的商务旗舰",
 "category": "hardware",
 "region": "cn",
@@ -651,6 +651,11 @@
 "title": "维基百科：华为Mate 9",
 "url": "https://zh.wikipedia.org/wiki/华为Mate 9",
 "type": "wiki"
+},
+{
+"title": "财新网：华为发布Mate9 抢攻高端市场",
+"url": "https://companies.caixin.com/2016-11-04/101004012.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -666,7 +671,7 @@
 "id": "2016-11-11-double11-120billion",
 "date": "2016-11-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "双11成交1207亿：第八年再造纪录",
 "category": "company",
 "region": "cn",
@@ -685,6 +690,11 @@
 "title": "维基百科：天猫",
 "url": "https://zh.wikipedia.org/wiki/天猫",
 "type": "wiki"
+},
+{
+"title": "中国经济网：2016天猫双11交易额1207亿 物流订单量超6.57亿",
+"url": "http://www.ce.cn/xwzx/gnsz/gdxw/201611/12/t20161112_17743415.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -700,7 +710,7 @@
 "id": "2016-11-17-ofo-city",
 "date": "2016-11-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "ofo开启城市服务：小黄车走出校园",
 "category": "company",
 "region": "cn",
@@ -719,6 +729,11 @@
 "title": "维基百科：ofo小黄车",
 "url": "https://zh.wikipedia.org/wiki/Ofo小黄车",
 "type": "wiki"
+},
+{
+"title": "央广网：ofo宣布正式开启城市服务 启动城市大共享计划",
+"url": "http://china.cnr.cn/gdgg/20161117/t20161117_523275045.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -829,7 +844,7 @@
 "id": "2017-04-19-xiaomi-mi6",
 "date": "2017-04-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "小米6发布：2499元的骁龙835'水桶机'",
 "category": "hardware",
 "region": "cn",
@@ -842,6 +857,11 @@
 {
 "title": "维基百科：小米6",
 "url": "https://zh.wikipedia.org/wiki/小米6",
+"type": "wiki"
+},
+{
+"title": "维基百科：小米6",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%B0%8F%E7%B1%B36",
 "type": "wiki"
 }
 ],
@@ -889,7 +909,7 @@
 "id": "2017-09-11-xiaomi-mix2",
 "date": "2017-09-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "小米MIX 2发布：全面屏从概念走向量产",
 "category": "hardware",
 "region": "cn",
@@ -903,6 +923,11 @@
 "title": "维基百科：小米MIX 2",
 "url": "https://zh.wikipedia.org/wiki/小米MIX 2",
 "type": "wiki"
+},
+{
+"title": "动点科技：小米MIX 2的8个升级",
+"url": "https://cn.technode.com/post/2017-09-11/xiaomi-unveils-mix-2",
+"type": "media"
 }
 ],
 "tags": [
@@ -946,7 +971,7 @@
 "id": "2017-10-16-huawei-mate10",
 "date": "2017-10-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "华为Mate 10发布：麒麟970内置NPU，AI手机元年",
 "category": "hardware",
 "region": "cn",
@@ -960,6 +985,11 @@
 "title": "维基百科：华为Mate 10",
 "url": "https://zh.wikipedia.org/wiki/华为",
 "type": "wiki"
+},
+{
+"title": "华为官网：华为Mate 10全球发布，开启智慧手机时代",
+"url": "https://www.huawei.com/cn/news/2017/10/huawei-mate10-mate10pro",
+"type": "official"
 }
 ],
 "tags": [
@@ -1141,7 +1171,7 @@
 "id": "2018-03-27-huawei-p20-pro",
 "date": "2018-03-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "华为P20 Pro发布：徕卡三摄与4000万像素改写手机影像",
 "category": "hardware",
 "region": "cn",
@@ -1155,6 +1185,11 @@
 "title": "维基百科：华为P20",
 "url": "https://zh.wikipedia.org/wiki/华为P20",
 "type": "wiki"
+},
+{
+"title": "华为官网：华为P20/P20 Pro年度科技美学三镜头旗舰全球首发",
+"url": "https://www.huawei.com/cn/news/2018/3/huawei-p20-p20-pro",
+"type": "official"
 }
 ],
 "tags": [
@@ -1407,7 +1442,7 @@
 "id": "2018-10-07-alipay-koi",
 "date": "2018-10-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "支付宝'中国锦鲤'开出：转发抽奖的巅峰之作",
 "category": "culture",
 "region": "cn",
@@ -1420,6 +1455,11 @@
 {
 "title": "维基百科：支付宝",
 "url": "https://zh.wikipedia.org/wiki/支付宝",
+"type": "wiki"
+},
+{
+"title": "百度百科：信小呆",
+"url": "https://baike.baidu.com/item/%E4%BF%A1%E5%B0%8F%E5%91%86/22913053",
 "type": "wiki"
 }
 ],
@@ -1466,7 +1506,7 @@
 "id": "2018-10-25-xiaomi-mix3",
 "date": "2018-10-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "小米MIX 3发布：滑盖全面屏的最后倔强",
 "category": "hardware",
 "region": "cn",
@@ -1480,6 +1520,11 @@
 "title": "维基百科：小米MIX 3",
 "url": "https://zh.wikipedia.org/wiki/小米MIX 3",
 "type": "wiki"
+},
+{
+"title": "新浪科技：外媒称小米MIX 3滑盖设计趋势卷土重来",
+"url": "https://tech.sina.com.cn/t/2018-10-26/doc-ifxeuwws8305231.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1496,7 +1541,7 @@
 "id": "2018-12-21-wechat-7",
 "date": "2018-12-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微信7.0上线：'视频动态'与'好看'的大改版",
 "category": "product",
 "region": "cn",
@@ -1510,6 +1555,11 @@
 "title": "维基百科：微信",
 "url": "https://zh.wikipedia.org/wiki/微信",
 "type": "wiki"
+},
+{
+"title": "动点科技：微信发布7.0.0更新 新增一天内可见的时刻视频",
+"url": "https://cn.technode.com/post/2018-12-21/tencent-wechat-7-0-0",
+"type": "media"
 }
 ],
 "tags": [
@@ -1525,7 +1575,7 @@
 "id": "2019-01-10-redmi-independence",
 "date": "2019-01-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "Redmi品牌独立：小米红米的'分家'与高端化前奏",
 "category": "company",
 "region": "cn",
@@ -1539,6 +1589,11 @@
 "title": "维基百科：Redmi",
 "url": "https://zh.wikipedia.org/wiki/Redmi",
 "type": "wiki"
+},
+{
+"title": "央广网：Redmi品牌独立发布会",
+"url": "http://m.cnr.cn/tech/20190110/t20190110_524477588.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -1553,7 +1608,7 @@
 "id": "2019-01-15-three-apps-challenge-wechat",
 "date": "2019-01-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "'三英战微信'：多闪、聊天宝、马桶MT同日围攻",
 "category": "product",
 "region": "cn",
@@ -1572,6 +1627,11 @@
 "title": "维基百科：微信",
 "url": "https://zh.wikipedia.org/wiki/微信",
 "type": "wiki"
+},
+{
+"title": "凤凰科技：多闪、聊天宝、马桶MT三款社交App前途几何",
+"url": "https://tech.ifeng.com/c/7kDKBDcCRyU",
+"type": "media"
 }
 ],
 "tags": [
@@ -1584,45 +1644,10 @@
 ]
 },
 {
-"id": "2019-02-04-kuaishou-cctv-hongbao",
-"date": "2019-02-04",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
-"title": "快手登顶春晚红包：下沉巨头的国民化一跃",
-"category": "company",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2019年2月4日除夕，快手成为央视春晚独家互动合作伙伴，发出10亿元现金红包，春晚互动总量达数百万亿次。这是继微信、支付宝、淘宝之后春晚红包的又一次天价竞标，'老铁'快手借国民舞台完成品牌出圈，与抖音的双雄对决全面升级。",
-"detail": "春晚红包合作成为互联网大厂的年度军备竞赛：微信2015年摇一摇一战封神后，支付宝集五福、淘宝清空购物车轮番登场。快手此次中标金额约10亿元级，除夕当晚互动次数破两百亿次，激活了大批下沉与银发用户，日活迅速逼近2亿大关。2020年抖音以更高价码接棒春晚红包，快手则转头在2020年6月宣布8亿美元冲刺港股上市，短视频双雄的春晚交锋就此交接。",
-"impact": "春晚红包证明国民级春晚仍是最大单点流量场景，'短视频双雄'的竞争从产品扩展到品牌与资本层面。",
-"aftermath": "快手2021年2月港股上市成为'短视频第一股'；此后京东、抖音、小红书等继续竞逐春晚互动合作。",
-"sources": [
-{
-"title": "维基百科：快手",
-"url": "https://zh.wikipedia.org/wiki/快手",
-"type": "wiki"
-},
-{
-"title": "维基百科：中国中央电视台春节联欢晚会",
-"url": "https://zh.wikipedia.org/wiki/中国中央电视台春节联欢晚会",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"探险",
-"通信",
-"快手",
-"春晚",
-"红包",
-"央视"
-]
-},
-{
 "id": "2019-03-08-panda-tv-shutdown",
 "date": "2019-03-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "熊猫直播关停：千播大战最后一块骨牌",
 "category": "company",
 "region": "cn",
@@ -1636,6 +1661,11 @@
 "title": "维基百科：熊猫直播",
 "url": "https://zh.wikipedia.org/wiki/熊猫直播",
 "type": "wiki"
+},
+{
+"title": "新浪财经：熊猫直播正式关停",
+"url": "https://finance.sina.com.cn/roll/2019-03-31/doc-ihsxncvh7131139.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1901,7 +1931,7 @@
 "id": "2019-11-26-qing-yu-nian",
 "date": "2019-11-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《庆余年》开播与'超前点播'：网剧付费模式的争议起点",
 "category": "culture",
 "region": "cn",
@@ -1914,6 +1944,11 @@
 {
 "title": "维基百科：庆余年 (电视剧)",
 "url": "https://zh.wikipedia.org/wiki/庆余年",
+"type": "wiki"
+},
+{
+"title": "维基百科：庆余年（第一季）",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%BA%86%E4%BD%99%E5%B9%B4_(%E7%AC%AC%E4%B8%80%E5%AD%A3)",
 "type": "wiki"
 }
 ],
