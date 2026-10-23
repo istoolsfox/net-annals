@@ -1794,7 +1794,7 @@
 "id": "2005-01-18-dome-a-ice-sheet-summit",
 "date": "2005-01-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国科考队登顶冰穹A：人类第一次站上南极冰盖最高点",
 "category": "national",
 "region": "cn",
@@ -1808,6 +1808,11 @@
 "title": "百度百科：冰穹A",
 "url": "https://baike.baidu.com/item/冰穹A",
 "type": "wiki"
+},
+{
+"title": "央视《踏上南极冰盖最高点》专题",
+"url": "https://discovery.cctv.com/science/special/C13424/01/index.shtml",
+"type": "news"
 }
 ],
 "tags": [

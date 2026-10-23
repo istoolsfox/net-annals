@@ -61,7 +61,7 @@
 "id": "1978-05-01-zenghouyi-bells",
 "date": "1978-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "曾侯乙编钟出土：2400年前的地下音乐厅",
 "category": "culture",
 "region": "cn",
@@ -75,6 +75,11 @@
 "title": "百度百科：曾侯乙编钟",
 "url": "https://baike.baidu.com/item/曾侯乙编钟",
 "type": "wiki"
+},
+{
+"title": "人民网：曾侯乙编钟奏响中华文明悦耳之音（65件八组）",
+"url": "http://pic.people.com.cn/n1/2019/0826/c1016-31318036.html",
+"type": "news"
 }
 ],
 "tags": [

@@ -59,7 +59,7 @@
 "id": "1985-08-01-haier-smash-fridges",
 "date": "1985-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "海尔砸冰箱：中国制造质量意识的第一锤",
 "category": "company",
 "region": "cn",
@@ -73,6 +73,11 @@
 "title": "百度百科：海尔砸冰箱",
 "url": "https://baike.baidu.com/item/海尔砸冰箱",
 "type": "wiki"
+},
+{
+"title": "海尔集团官网：张瑞敏的1985",
+"url": "https://www.haier.com/press-events/news/20211108_172896.shtml",
+"type": "official"
 }
 ],
 "tags": [

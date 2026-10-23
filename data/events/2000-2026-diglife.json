@@ -70,7 +70,7 @@
 "id": "2015-12-01-wuzhen-internet-hospital",
 "date": "2015-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "乌镇互联网医院开业：全国第一家互联网医院",
 "category": "society",
 "region": "cn",
@@ -84,6 +84,16 @@
 "title": "乌镇互联网医院 - 百度百科",
 "url": "https://baike.baidu.com/item/乌镇互联网医院",
 "type": "wiki"
+},
+{
+"title": "浙江在线：全国首家互联网医院乌镇开业（12月7日落成）",
+"url": "http://zjnews.zjol.com.cn/zjnews/jxnews/201512/t20151209_588164.shtml",
+"type": "news"
+},
+{
+"title": "中国网信网：廖杰远与乌镇互联网医院",
+"url": "https://www.cac.gov.cn/2017-04/17/c_1120824041.htm",
+"type": "official"
 }
 ],
 "tags": [
