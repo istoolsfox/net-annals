@@ -53,6 +53,11 @@
     "title": "杭州市人民政府：杭州六小龙相关报道",
     "url": "https://www.hangzhou.gov.cn/",
     "type": "official"
+   },
+   {
+    "title": "杭州市投资促进局：杭州六小龙解读",
+    "url": "https://www.hzplan.gov.cn/",
+    "type": "official"
    }
   ],
   "tags": [
@@ -85,7 +90,7 @@
     "name": "王强",
     "id_name": "真格基金",
     "headline": "真格基金联合创始人",
-    "text": "新东方联合创始人、曾任教学管理部主任，与徐小平共创真格基金，以「投人」方法论著称，亦是真格天使投资生态的定调者。"
+    "text": "新东方联合创始人、曾任教学管理部主任，2011年与徐小平共创真格基金，以「投人」方法论著称，真格已投资数千个早期项目。"
    },
    {
     "name": "陈向东",
@@ -116,6 +121,16 @@
    {
     "title": "维基百科：真格基金",
     "url": "https://zh.wikipedia.org/wiki/真格基金",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：俞敏洪",
+    "url": "https://zh.wikipedia.org/wiki/俞敏洪",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/新东方系创业者",
     "type": "wiki"
    }
   ],
@@ -181,6 +196,16 @@
     "title": "维基百科：王选",
     "url": "https://zh.wikipedia.org/wiki/王选",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：柳传志",
+    "url": "https://zh.wikipedia.org/wiki/柳传志",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中关村拓荒者",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -219,7 +244,7 @@
     "name": "戚发轫",
     "id_name": "神舟飞船总设计师",
     "headline": "神舟一号到神舟五号的飞船总师",
-    "text": "主持神舟一号至五号飞船研制，把杨利伟安全送入太空并返回，此后长期从事航天人才培养。"
+    "text": "主持神舟1号至5号飞船研制，2003年把杨利伟安全送入太空并返回，此后在高校从事航天人才培养30余年。"
    },
    {
     "name": "杨利伟",
@@ -231,7 +256,7 @@
     "name": "欧阳自远",
     "id_name": "嫦娥之父",
     "headline": "中国探月工程首席科学家",
-    "text": "天体化学与地球化学家，长期论证并主持中国探月工程科学目标设计，嫦娥一号至五号任务的科学成果与其名字紧密相连。"
+    "text": "天体化学家，自1990年代起论证中国探月工程科学目标，主持设计嫦娥一号至五号任务的科学探测方案。"
    }
   ],
   "legacy": "航天人群像的接力结构（归国奠基一代—工程掌总一代—型号总师一代—航天员与首席科学家一代）成为中国重大科技工程的组织范式，也被复用于北斗、探火与空间站工程。钱学森之问、孙家栋的「工程总体设计部」制度至今仍是航天人才培养与工程管理的核心遗产。",
@@ -245,6 +270,11 @@
     "title": "国家航天局",
     "url": "https://www.cnsa.gov.cn/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：孙家栋",
+    "url": "https://zh.wikipedia.org/wiki/孙家栋",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -309,6 +339,11 @@
     "title": "中国音数协游戏工委：游戏产业报告",
     "url": "https://www.cgigc.com.cn/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：黑神话：悟空",
+    "url": "https://zh.wikipedia.org/wiki/黑神话：悟空",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -348,7 +383,7 @@
     "name": "韩松",
     "id_name": "《地铁》",
     "headline": "中国科幻的「卡夫卡」",
-    "text": "新华社记者出身，著有《地铁》《高铁》《轨道》「轨道三部曲」与《医院》三部曲，以荒诞隐喻风格独树一帜。"
+    "text": "1965年生，新华社记者出身，著有《地铁》《高铁》《轨道》3部曲与《医院》3部曲，以荒诞隐喻风格独树一帜。"
    },
    {
     "name": "郝景芳",
@@ -360,7 +395,7 @@
     "name": "陈楸帆",
     "id_name": "《荒潮》",
     "headline": "科幻现实主义旗手",
-    "text": "汕头出身、曾任职谷歌与百度，《荒潮》以电子垃圾之城的赛博格故事获多项大奖，与李开复合著《AI未来进行式》，长期推动科幻与科技产业对话。"
+    "text": "1981年生于汕头，曾任职谷歌与百度，《荒潮》以电子垃圾之城的故事获多项大奖，与李开复合著《AI未来进行式》。"
    }
   ],
   "legacy": "中国科幻从《科幻世界》单本杂志的发行高峰（2000年前后月发行量约40万册）走向影视、游戏与海外版权的全产业链：三体宇宙、流浪地球系列与《黑神话：悟空》的神话改编共同把中国想象推向全球市场。银河奖（1986年设立）与华语科幻星云奖构成本土荣誉体系。",
@@ -373,6 +408,16 @@
    {
     "title": "维基百科：刘慈欣",
     "url": "https://zh.wikipedia.org/wiki/刘慈欣",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：三体",
+    "url": "https://zh.wikipedia.org/wiki/三体",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中国科幻作家群像",
     "type": "wiki"
    }
   ],
@@ -395,7 +440,7 @@
     "name": "年广久",
     "id_name": "傻子瓜子",
     "headline": "「个体户能不能雇工」的风暴眼",
-    "text": "安徽芜湖个体户，1980年代炒瓜子雇工超过8人引发「姓资姓社」争论，邓小平三次点名「放一放」「看一看」，个体私营经济由此获得喘息空间。"
+    "text": "安徽芜湖个体户，1980年代炒瓜子雇工超过8人引发「姓资姓社」争论，获得中央「放一放」「看一看」的表态后，个体私营经济由此获得政策空间。"
    },
    {
     "name": "步鑫生",
@@ -419,7 +464,7 @@
     "name": "倪润峰",
     "id_name": "四川长虹",
     "headline": "彩电价格战发动者",
-    "text": "执掌长虹期间发动多次彩电大幅降价，把进口品牌挤出中端市场，使长虹成为「中国彩电大王」，也引发持续多年的价格战与行业洗牌。"
+    "text": "执掌四川长虹期间多次发动彩电降价，降幅一度达30%，把进口品牌挤出中端市场，长虹成为「中国彩电大王」。"
    },
    {
     "name": "李经纬",
@@ -438,6 +483,16 @@
    {
     "title": "维基百科：鲁冠球",
     "url": "https://zh.wikipedia.org/wiki/鲁冠球",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：傻子瓜子",
+    "url": "https://zh.wikipedia.org/wiki/傻子瓜子",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/改革开放先锋企业人",
     "type": "wiki"
    }
   ],
@@ -503,6 +558,11 @@
     "title": "香港电影金像奖官网",
     "url": "https://www.hkfaa.com/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：张国荣",
+    "url": "https://zh.wikipedia.org/wiki/张国荣",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -568,6 +628,11 @@
     "title": "中国连锁经营协会：新茶饮报告",
     "url": "https://www.ccfa.org.cn/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：蜜雪冰城",
+    "url": "https://zh.wikipedia.org/wiki/蜜雪冰城",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -632,6 +697,16 @@
    {
     "title": "维基百科：罗翔",
     "url": "https://zh.wikipedia.org/wiki/罗翔",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：董宇辉",
+    "url": "https://zh.wikipedia.org/wiki/董宇辉",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中文知识传播者群像",
     "type": "wiki"
    }
   ],
@@ -698,6 +773,16 @@
     "title": "维基百科：立讯精密",
     "url": "https://zh.wikipedia.org/wiki/立讯精密",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：董明珠",
+    "url": "https://zh.wikipedia.org/wiki/董明珠",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中国女企业家群像",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -731,7 +816,7 @@
     "name": "李安",
     "id_name": "两届奥斯卡最佳导演",
     "headline": "东西方叙事的摆渡人",
-    "text": "《卧虎藏龙》获奥斯卡最佳外语片并创华语片北美票房纪录，《断背山》《少年派的奇幻漂流》两夺奥斯卡最佳导演，类型跨度无人能及。"
+    "text": "2001年《卧虎藏龙》获奥斯卡最佳外语片并创华语片北美票房纪录，其后凭《断背山》《少年派》2度获奥斯卡最佳导演。"
    },
    {
     "name": "贾樟柯",
@@ -763,6 +848,11 @@
     "title": "戛纳电影节官网",
     "url": "https://www.festival-cannes.com/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：霸王别姬",
+    "url": "https://zh.wikipedia.org/wiki/霸王别姬",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -828,6 +918,16 @@
     "title": "维基百科：邓稼先",
     "url": "https://zh.wikipedia.org/wiki/邓稼先",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：于敏",
+    "url": "https://zh.wikipedia.org/wiki/于敏",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/两弹一星元勋群像",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -872,7 +972,7 @@
     "name": "朱啸虎（金沙江创投）",
     "id_name": "金沙江创投",
     "headline": "风口猎手的争议与战绩",
-    "text": "以独角兽猎手闻名，先后投出滴滴、饿了么、映客等，言辞犀利常引发行业讨论，「风口论」成为创投圈流行语。"
+    "text": "2012年加入金沙江创投，先后投出滴滴、饿了么、映客等项目，言辞犀利常引发行业讨论，「风口论」成为创投圈流行语。"
    },
    {
     "name": "龚虹嘉（嘉道私人资本）",
@@ -891,6 +991,16 @@
    {
     "title": "维基百科：红杉中国",
     "url": "https://zh.wikipedia.org/wiki/红杉中国",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：IDG资本",
+    "url": "https://zh.wikipedia.org/wiki/IDG资本",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中国顶级投资人群像",
     "type": "wiki"
    }
   ],
@@ -957,6 +1067,11 @@
     "title": "维基百科：蔚来",
     "url": "https://zh.wikipedia.org/wiki/蔚来",
     "type": "wiki"
+   },
+   {
+    "title": "百度百科词条（佐证）",
+    "url": "https://baike.baidu.com/item/中国车圈掌门人群像",
+    "type": "wiki"
    }
   ],
   "tags": [
@@ -1022,6 +1137,11 @@
     "title": "中国载人航天工程网",
     "url": "http://www.cmse.gov.cn/",
     "type": "official"
+   },
+   {
+    "title": "维基百科：杨利伟",
+    "url": "https://zh.wikipedia.org/wiki/杨利伟",
+    "type": "wiki"
    }
   ],
   "tags": [
