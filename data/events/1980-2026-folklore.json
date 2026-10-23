@@ -220,7 +220,7 @@
 "id": "2009-09-01-mazu-unesco",
 "date": "2009-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "妈祖信俗入选人类非遗：中国首个信俗类世界级非遗",
 "category": "culture",
 "region": "cn",
@@ -245,6 +245,11 @@
 "type": "wiki",
 "url": "https://zh.wikipedia.org/wiki/妈祖",
 "title": "wiki"
+},
+{
+"title": "UNESCO: Mazu belief and customs（人类非遗代表作名录，2009）",
+"url": "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+"type": "official"
 }
 ]
 },

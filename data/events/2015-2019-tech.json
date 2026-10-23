@@ -1774,7 +1774,7 @@
 "id": "2019-08-16-mate20x-5g-first-sale",
 "date": "2019-08-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "华为Mate 20 X (5G) 首销：中国第一部商用5G手机",
 "category": "hardware",
 "region": "cn",
@@ -1793,6 +1793,11 @@
 "title": "维基百科：5G",
 "url": "https://zh.wikipedia.org/wiki/5G",
 "type": "wiki"
+},
+{
+"title": "中国日报：华为首款5G商用手机发布，定价6199元",
+"url": "https://cn.chinadaily.com.cn/a/201907/27/WS5d3bc1d4a3106bab40a02c9f.html",
+"type": "news"
 }
 ],
 "tags": [

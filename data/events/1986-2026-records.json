@@ -3176,7 +3176,7 @@
 "id": "2023-07-01-qin-haiyang-fukuoka",
 "date": "2023-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "覃海洋福冈包揽蛙泳三冠：中国游泳首位世锦赛MVP",
 "category": "culture",
 "region": "cn",
@@ -3190,6 +3190,11 @@
 "title": "百度百科：覃海洋",
 "url": "https://baike.baidu.com/item/覃海洋",
 "type": "wiki"
+},
+{
+"title": "新华网：中国“蛙王”领跑世界速度！200米蛙泳破世界纪录夺冠",
+"url": "https://www.news.cn/2023-07/29/c_1129774922.htm",
+"type": "news"
 }
 ],
 "tags": [

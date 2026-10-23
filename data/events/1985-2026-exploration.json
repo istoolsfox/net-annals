@@ -802,7 +802,7 @@
 "id": "1993-04-20-jules-verne-first",
 "date": "1993-04-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "探索者号首夺儒勒·凡尔纳奖杯：帆船环球首次跑进八十天",
 "category": "world",
 "region": "world",
@@ -816,6 +816,11 @@
 "title": "Jules Verne Trophy - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Jules_Verne_Trophy",
 "type": "wiki"
+},
+{
+"title": "Trophée Jules Verne官网：1993 Commodore Explorer（Bruno Peyron）",
+"url": "https://www.tropheejulesverne.org/en/course/1993-bruno-peyron-commodor-explorer",
+"type": "official"
 }
 ],
 "tags": [
@@ -952,7 +957,7 @@
 "id": "1995-04-01-barkley-first-finisher",
 "date": "1995-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "巴克利马拉松出现首个完赛者：十年无人走出的『地狱考场』",
 "category": "society",
 "region": "world",
@@ -966,6 +971,11 @@
 "title": "Barkley Marathons - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Barkley_Marathons",
 "type": "wiki"
+},
+{
+"title": "Ultrarunning History: The Barkley Marathons, The First Few Years",
+"url": "https://ultrarunninghistory.com/barkley-marathons-first-few-years",
+"type": "news"
 }
 ],
 "tags": [
@@ -2415,16 +2425,16 @@
 ]
 },
 {
-"id": "2011-03-09-gasherbrum-ii-winter-first",
-"date": "2011-03-09",
+"id": "2011-02-02-gasherbrum-ii-winter-first",
+"date": "2011-02-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "加舒尔布鲁姆II峰冬季首登：四位冬攀大师的喀喇昆仑之夜",
 "category": "world",
 "region": "world",
 "milestone": false,
 "summary_30s": "2011年3月上旬，莫罗、乌尔布科、巴基斯坦人阿里·萨德帕拉与西班牙人蒂希孔在冬季登上八千零三十五米的加舒尔布鲁姆II峰，完成这座八千米巨峰的首次冬攀。国际组合在喀喇昆仑的这次合作，被视为冬攀史上的经典战役。",
-"detail": "喀喇昆仑的冬天比喜马拉雅更狂暴：加舒尔布鲁姆II峰（八千零三十五米）的冬季常驻负温六十度与五级以上狂风，此前多支冬攀队伍无功而返。2011年初，意大利人西蒙·莫罗、哈萨克人杰尼斯·乌尔布科、巴基斯坦名将阿里·萨德帕拉与西班牙人亚历克斯·蒂希孔组成国际队伍，在极端严寒中蹲守窗口。3月上旬，四人于夜间出发，借月光与头灯轮流开路，成功登顶，完成加舒尔布鲁姆II峰首次冬季登顶。萨德帕拉由此成为首位完成八千米冬攀的巴基斯坦人，这次跨国协作也被视为冬攀精神的范本——此后四人命运各异，萨德帕拉在2021年冬季乔戈里峰攀登中遇难。",
+"detail": "2011年2月2日，Simone Moro（意大利）、Denis Urubko（哈萨克斯坦）与Corey Richards（美国）三人组成的登山队成功登顶海拔8035米的加舒尔布鲁姆II峰，完成该峰的首次冬季登顶。这次登顶填补了14座8000米高峰冬季登顶版图的重要一块，也是喀喇昆仑山脉最早实现的冬季登顶纪录之一。登山队在零下数十度与大风条件下依托固定路线与营地轮换完成冲顶，其过程被美国阿尔卑斯俱乐部（AAC）官方文献收录。",
 "impact": "这次冬攀把国际协作的冬攀模式推向成熟，八千米冬季空白名单继续缩短。",
 "aftermath": "萨德帕拉成为巴基斯坦登山的国家偶像；2021年他与儿子一道冲击 K2 冬季二次登顶时不幸遇难，全国哀悼。",
 "sources": [
@@ -2884,7 +2894,7 @@
 "id": "2016-02-26-nanga-parbat-winter-first",
 "date": "2016-02-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "南迦帕尔巴特冬季首登：『杀人峰』在寒冬被攻克",
 "category": "world",
 "region": "world",
@@ -2903,6 +2913,11 @@
 "title": "Simone Moro - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Simone_Moro",
 "type": "wiki"
+},
+{
+"title": "American Alpine Club: Nanga Parbat First Winter Ascent",
+"url": "https://publications.americanalpineclub.org/articles/13201213676/Nanga-Parbat-First-Winter-Ascent",
+"type": "news"
 }
 ],
 "tags": [

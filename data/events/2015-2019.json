@@ -714,7 +714,7 @@
 "id": "2015-10-07-jilin-1-satellite-launch",
 "date": "2015-10-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "「吉林一号」发射：中国首颗自研商业遥感卫星升空",
 "category": "tech",
 "region": "cn",
@@ -728,6 +728,11 @@
 "title": "维基百科：吉林一号",
 "url": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E4%B8%80%E5%8F%B7",
 "type": "wiki"
+},
+{
+"title": "人民网：中国成功发射“吉林一号”商业卫星组星",
+"url": "http://politics.people.com.cn/n/2015/1007/c70731-27668610.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -2165,7 +2170,7 @@
 "id": "2016-07-17-shennongjia-natural-world-heritage",
 "date": "2016-07-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "神农架列入世界自然遗产：华中首个自然遗产地",
 "category": "world",
 "region": "cn",
@@ -2184,6 +2189,11 @@
 "title": "UNESCO：Shennongjia",
 "url": "https://whc.unesco.org/en/list/1507/",
 "type": "official"
+},
+{
+"title": "新华网：中国湖北神农架申遗成功",
+"url": "http://news.xinhuanet.com/world/2016-07/17/c_129153299.htm",
+"type": "news"
 }
 ],
 "tags": [

@@ -950,10 +950,10 @@
 ]
 },
 {
-"id": "2018-11-05-xinhua-ai-anchor",
-"date": "2018-11-05",
+"id": "2018-11-07-xinhua-ai-anchor",
+"date": "2018-11-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "全球首个AI合成主播上岗：新闻业的人机分界",
 "category": "culture",
 "region": "cn",
@@ -967,6 +967,11 @@
 "title": "AI合成主播 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/新华社",
 "type": "wiki"
+},
+{
+"title": "新华网：全球首个AI合成主播在新华社上岗",
+"url": "https://www.xinhuanet.com/politics/2018-11/07/c_1123678126.htm",
+"type": "news"
 }
 ],
 "tags": [

@@ -2053,7 +2053,7 @@
 "id": "1990-10-08-mcdonalds-shenzhen-first",
 "date": "1990-10-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "麦当劳内地首店深圳开业：500个座位的排队传奇",
 "category": "society",
 "region": "cn",
@@ -2067,6 +2067,11 @@
 "title": "Wikipedia: 麦当劳",
 "url": "https://zh.wikipedia.org/wiki/麦当劳",
 "type": "wiki"
+},
+{
+"title": "麦当劳官网：30年历程（1990年10月8日内地首店）",
+"url": "https://www.mcdonalds.com.cn/index/mcd/mcdonalds-china/mcd-in-china-2",
+"type": "official"
 }
 ],
 "tags": [
@@ -2493,7 +2498,7 @@
 "id": "1991-03-15-consumer-rights-gala-1st",
 "date": "1991-03-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届3·15晚会：消费者权益的电视元年",
 "category": "culture",
 "region": "cn",
@@ -2507,6 +2512,11 @@
 "title": "Wikipedia: 3·15晚会",
 "url": "https://zh.wikipedia.org/wiki/3·15晚会",
 "type": "wiki"
+},
+{
+"title": "央视网：央视3·15晚会，27年来它改变了什么？",
+"url": "https://1118.cctv.com/2017/03/07/ARTIaOsHqf4km91retsZSEIL170307.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -3040,7 +3050,7 @@
 "id": "1992-01-01-editorial-dept",
 "date": "1992-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《编辑部的故事》首播：中国第一部电视情景喜剧",
 "category": "culture",
 "region": "cn",
@@ -3054,6 +3064,11 @@
 "title": "维基百科：编辑部的故事",
 "url": "https://zh.wikipedia.org/wiki/编辑部的故事",
 "type": "wiki"
+},
+{
+"title": "澎湃新闻：三十年了，我们还是戒不掉《编辑部的故事》",
+"url": "https://www.thepaper.cn/newsDetail_forward_12818565",
+"type": "news"
 }
 ],
 "tags": [
@@ -3506,7 +3521,7 @@
 "id": "1992-08-01-changchun-film-festival-first",
 "date": "1992-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届中国长春电影节举办：电影城的国家级节展",
 "category": "culture",
 "region": "cn",
@@ -3520,6 +3535,11 @@
 "title": "维基百科：长春电影节",
 "url": "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%98%A5%E7%94%B5%E5%BD%B1%E8%8A%82",
 "type": "wiki"
+},
+{
+"title": "人民网吉林：金鹿再翘首 影都璀璨时",
+"url": "http://jl.people.com.cn/n2/2020/0825/c349771-34249095.html",
+"type": "news"
 }
 ],
 "tags": [

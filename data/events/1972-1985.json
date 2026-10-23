@@ -942,7 +942,7 @@
 "id": "1981-05-23-first-golden-rooster-awards",
 "date": "1981-05-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届中国电影金鸡奖在杭州揭晓：专家奖与百花奖双轨定型",
 "category": "culture",
 "region": "cn",
@@ -956,6 +956,11 @@
 "title": "维基百科：中国电影金鸡奖",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%87%91%E9%B8%A1%E5%A5%96",
 "type": "wiki"
+},
+{
+"title": "央视网：四十年四十个第一——第一届中国电影金鸡奖",
+"url": "http://tv.cctv.com/2018/12/17/ARTIewaB2uM82jPagHiIqsT8181217.shtml",
+"type": "news"
 }
 ],
 "tags": [

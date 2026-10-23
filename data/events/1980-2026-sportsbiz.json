@@ -83,7 +83,7 @@
 "id": "2002-11-12-shanghai-tennis-masters-cup",
 "date": "2002-11-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "上海网球大师杯首届：男子网坛年终总决赛落户中国",
 "category": "economy",
 "region": "cn",
@@ -96,6 +96,11 @@
 {
 "title": "百度百科：上海大师杯",
 "url": "https://baike.baidu.com/item/网球大师杯赛",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: 2002 Tennis Masters Cup",
+"url": "https://en.wikipedia.org/wiki/2002_Tennis_Masters_Cup",
 "type": "wiki"
 }
 ],

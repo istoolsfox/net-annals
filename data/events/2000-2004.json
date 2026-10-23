@@ -1524,7 +1524,7 @@
 "id": "2002-08-10-loongson-first-chip-taped-out",
 "date": "2002-08-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首片「龙芯一号」流片成功：中国自主通用CPU起步",
 "category": "tech",
 "region": "cn",
@@ -1538,6 +1538,11 @@
 "title": "维基百科：龙芯",
 "url": "https://zh.wikipedia.org/wiki/%E9%BE%99%E8%8A%AF",
 "type": "wiki"
+},
+{
+"title": "中科院：孕育“龙芯”的478个日夜",
+"url": "https://www.cas.cn/zt/kjzt/kjzlzqzl/kjzlzq/202408/t20240823_5029568.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -2657,7 +2662,7 @@
 "id": "2004-01-01-super-girl-s1",
 "date": "2004-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届《超级女声》开播：全民选秀的试验",
 "category": "culture",
 "region": "cn",
@@ -2671,6 +2676,11 @@
 "title": "维基百科：超级女声",
 "url": "https://zh.wikipedia.org/wiki/超级女声",
 "type": "wiki"
+},
+{
+"title": "人民网-环球人物：娱乐也必须有人文关怀",
+"url": "http://paper.people.com.cn/hqrw/html/2012-08/06/content_1095476.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -2974,7 +2984,7 @@
 "id": "2004-05-13-shanda-ipo",
 "date": "2004-05-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "盛大纳斯达克上市：31岁的中国首富之路",
 "category": "company",
 "region": "cn",
@@ -2988,6 +2998,11 @@
 "title": "维基百科：盛大网络",
 "url": "https://zh.wikipedia.org/wiki/盛大网络",
 "type": "wiki"
+},
+{
+"title": "财新《财经》：盛大割肉上市（2004）",
+"url": "https://magazine.caixin.com/2004-05-20/100089378.html",
+"type": "news"
 }
 ],
 "tags": [
