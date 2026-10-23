@@ -81,6 +81,9 @@
 .mItem .mh{color:var(--accent);font-size:.78rem;margin:2px 0 6px}
 .mItem .mt{color:var(--dim);font-size:.88rem;line-height:1.75;margin:0}
 .legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
+.relRow{display:flex;gap:8px;flex-wrap:wrap}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip:hover{border-color:var(--accent);background:var(--panel)}
 @media (max-width:640px){.pDetail{padding:24px 20px 50px}}
 </style>
 </head>
@@ -137,12 +140,14 @@ function openDetail(p) {
   const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
   const ctz = p.region === 'cn' ? '中国' : '国际';
   const death = p.death ? ` － ${String(p.death).slice(0, 4)}` : '';
+  const relE = (p.related_entities || []).map(r => `<a class="relChip" href="../entities/?e=${r.id}">${r.name}</a>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
     <h2>${p.name}</h2>
     <div class="sub">${p.headline} · ${ctz}${death} · ${FIELDS[p.field] || p.field}</div>
     <p class="smFull">${p.summary_30s}</p>
     <h4>人生历程</h4><div class="tl">${tl}</div>
     <h4>关键成就</h4><ul class="achList">${ach}</ul>
+    ${relE ? `<h4>相关世家</h4><div class="relRow">${relE}</div>` : ''}
     <h4>来源</h4><ul class="srcList">${src}</ul>`;
   $('#detail').classList.add('show');
   $('#mask').classList.add('show');
@@ -187,6 +192,11 @@ function render() {
     $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。`;
     render();
     loadGroups();
+    const want = new URLSearchParams(location.search).get('p');
+    if (want) {
+      const per = DATA.persons.find(x => x.id === want);
+      if (per) openDetail(per);
+    }
   } catch (e) {
     $('#grid').innerHTML = `<div class="pCard">数据加载失败（${e.message}）</div>`;
   }

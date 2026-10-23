@@ -1,0 +1,132 @@
+[
+ {
+  "id": "2005-06-23-reddit-launch",
+  "date": "2005-06-23",
+  "layer": "media",
+  "title": "Reddit 上线：『互联网的首页』",
+  "summary": "2005年6月23日，Reddit 上线。两个刚毕业的年轻人把它做成一个由用户投票决定热度的链接墙——『顶』和『踩』这两个按钮，后来塑造了几乎所有内容社区的分发逻辑。今天的 Reddit 是美国流量最大的网站之一。",
+  "detail": "弗吉尼亚大学的 Steve Huffman 与 Alexis Ohanian 申请 Y Combinator 首期（2005年夏）时原本想做外卖订餐，被 Paul Graham 说服转向内容聚合。上线首月靠创始人自己注册假账号灌内容撑起『活跃假象』。2006年10月被 Condé Nast 收购（价格未公开披露，约在千万美元级）。subreddit 版块机制（2008年开放用户自建）让社区分裂成无数兴趣孤岛：AMA（随便问我）、r/WallStreetBets（2021年散户大战华尔街）都从这里长出。投票排序算法成为后来 Hacker News、知乎等产品排序的祖师爷。",
+  "sources": [
+   {
+    "title": "Wikipedia: Reddit",
+    "url": "https://en.wikipedia.org/wiki/Reddit",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2014-08-28-gamergate",
+  "date": "2014-08-28",
+  "layer": "games",
+  "title": "玩家之门（GamerGate）爆发，游戏圈文化战争开打",
+  "summary": "2014年8月，一场围绕独立游戏开发者佐伊·奎因的私人恩怨，在网上发酵成名为“玩家之门”的大规模运动：一方喊着“游戏媒体道德”，另一方指控这是对女性从业者的系统性骚扰。争吵持续数年，游戏业的文化战争从此公开化。",
+  "detail": "2014年8月，独立开发者佐伊·奎因遭前男友发文指控“以关系换取媒体好评”，相关指控随后被多家媒体证伪，但话题在4chan、Reddit与Twitter上被推上“#GamerGate”标签，8月28日前后全面爆发。运动以“游戏新闻伦理”为名，实际伴随对奎因、评论者Anita Sarkeesian等女性从业者的长期骚扰与人肉；媒体集体刊文批评其厌女倾向，反被运动者视为“越权”。事件持续数年，行业机构与平台逐步完善反骚扰政策，硅谷对社群治理的讨论由此加深。",
+  "sources": [
+   {
+    "title": "2014 in video games - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Gamergate controversy - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gamergate_controversy",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2014-09-01-the-fappening",
+  "date": "2014-09-01",
+  "layer": "main",
+  "title": "iCloud 私照泄露：好莱坞百位女星的云端裸照危机",
+  "summary": "2014年8月末，黑客利用弱密码与无二次验证的漏洞批量窃取上百位好莱坞女星 iCloud 账号，私密照片在 4chan 与 Reddit 疯狂传播（被称为 The Fappening）。詹妮弗·劳伦斯确认照片真实并痛斥『性犯罪』，苹果随后强化 iCloud 安全并推动双因素验证普及。",
+  "detail": "泄露波及101位名人，流量的狂欢与受害者创伤的对比成为数字时代隐私的启蒙课。FBI 追踪到芝加哥男子 Ryan Collins（2020年承认钓鱼罪，获刑18个月）。此后云服务商普遍默认开启2FA、提供泄露提醒；『私密照上云』的风险意识第一次进入大众教育。",
+  "sources": [
+   {
+    "title": "2014 celebrity photo hacks - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_celebrity_photo_hacks",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2017-11-17-battlefront-ii-lootbox",
+  "date": "2017-11-17",
+  "layer": "games",
+  "title": "《星球大战前线2》开箱风波，EA被玩家票成“最烂公司”",
+  "summary": "2017年11月17日，EA的《星球大战：前线2》发售，达斯·维达竟要解锁60多个小时或真金白银，玩家在Reddit用12万条点踩把EA喷成史上最多差评评论。比利时开始调查开箱是否算赌博，各国监管跟进。“氪金开箱”从此成为全球监管议题。",
+  "detail": "EA的《星球大战 战争前线II》（Star Wars Battlefront II）2017年11月17日发售，其开箱（Loot Box）系统与英雄解锁时长引发 Reddit 史上最多点踩评论（约68万downvotes），付费优势争议令EA下架全部付费开箱、重做进度系统；此前预购量腰斩，EA财报承认未达预期。比利时2018年裁定部分开箱构成赌博并要求下架，荷兰、中国等跟进限制开箱概率公示，苹果谷歌也要求手游披露抽卡概率。",
+  "sources": [
+   {
+    "title": "2017 in video games - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Loot box - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Loot_box",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2020-12-01-film-industry-shake",
+  "date": "2020-12-01",
+  "layer": "main",
+  "title": "影院赴美第一股 AMC 破产边缘与散户拯救： meme 股前传",
+  "summary": "2020年，全球最大院线 AMC 因疫情停业收入归零，一度濒临破产、股价跌至2美元以下。2021年初 Reddit 散户（WallStreetBets）把它与 GameStop 一起买成 meme 股，股价暴涨数十倍完成『散户救院线』的金融奇观。",
+  "detail": "AMC 通过增发股票（散户买入即融资）活了下来，2021年6月股价峰值72美元。CEO Aron 拥抱散户（免费爆米花、AMC ape 社群）。2023-2024年影院复苏后 AMC 仍未真正盈利（负债55亿美元），2024年再融资化债。GME 与 AMC 的 meme 股双雄成为散户 vs 华尔街叙事的永久标记。",
+  "sources": [
+   {
+    "title": "AMC Theatres - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/AMC_Theatres",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2021-01-27-gamestop",
+  "date": "2021-01-27",
+  "layer": "tech",
+  "title": "GameStop散户大战华尔街：WallStreetBets的轧空狂欢",
+  "summary": "1月27日GameStop收盘报347.51美元、单日暴涨135%。Reddit论坛WallStreetBets的散户抱团轧空对冲基金，一周内股价涨超10倍，空头机构巨亏离场。",
+  "detail": "散户借助零佣金券商Robinhood与期权杠杆，把被机构重度做空的线下游戏零售商GameStop从年初约20美元一路推高。重仓做空的Melvin Capital巨亏获同业注资27.5亿美元，香橼研究宣布放弃做空业务。1月28日Robinhood等券商限制GME买入，舆论哗然，『金融民主化』与『打爆空头』成为全球meme。",
+  "sources": [
+   {
+    "title": "维基百科：GameStop short squeeze",
+    "url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2021-01-28-gamestop-squeeze",
+  "date": "2021-01-28",
+  "layer": "main",
+  "title": "GameStop 散户大战华尔街：Reddit 论坛掀翻对冲基金",
+  "summary": "2021年1月28日，美股券商 Robinhood 限制用户买入 GameStop——散户在 Reddit 的 r/WallStreetBets 论坛抱团逼空，把濒临退市的老牌游戏零售商两周内从20美元炒到483美元，空头梅尔文资本巨亏数十亿美元平仓。『散户 vs 华尔街』的世纪对决登上国会听证会。",
+  "detail": "导火索是对冲基金对 GameStop 超140%的空头仓位（超过流通股本），散户发现『轧空』机会后借社交媒体协同买入——期权与 Gamma 挤压把涨幅推向荒诞。Robinhood 等券商以『保证金不足』限制买入引爆众怒：监管听证、『吃瓜群众』与马斯克的『Hold the line』、狗狗币跟风暴涨、全球多个市场的『复制轧空』接踵而至。事件把『社交网络驱动的市场异动』写成教科书：2021至2024年的迷因股（AMC、黑莓）、2024年美股『大选后散户狂潮』延续同一模式；监管侧，支付-订单流（PFOF）商业模式被重审，『金融民主化』的叙事与风险并存。中国股民围观之余，A股的『抱团』与量化交易讨论也被它刺激了一轮。",
+  "sources": [
+   {
+    "title": "Wikipedia: GameStop short squeeze",
+    "url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2023-06-01-reddit-api-protest",
+  "date": "2023-06-01",
+  "layer": "wayback",
+  "title": "Reddit API 风波：社区自治与平台利益的正面冲突",
+  "summary": "2023年6月12日，Reddit数千个版块（subreddit）集体设为私密，抗议API收费新政策—— Apollo 等知名第三方客户端因年费2000万美元级账单宣布关停，版主以『罢版』声援。这场持续数周的风波以平台强",
+  "detail": "2023年6月12日，Reddit数千个版块（subreddit）集体设为私密，抗议API收费新政策—— Apollo 等知名第三方客户端因年费2000万美元级账单宣布关停，版主以『罢版』声援。这场持续数周的风波以平台强硬让步告终，CEO霍夫曼拒绝退让，多名版主被撤换。",
+  "sources": [
+   {
+    "title": "2023年Reddit API争议 - 维基百科",
+    "url": "https://en.wikipedia.org/wiki/2023_Reddit_API_controversy",
+    "type": "wiki"
+   }
+  ]
+ }
+]

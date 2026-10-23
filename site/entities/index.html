@@ -40,6 +40,12 @@
 .eCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint)}
 .st{font-family:var(--mono);font-size:.66rem;padding:2px 8px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
 .st.active{color:#4a9d6e}.st.declined{color:#b8862b}.st.acquired{color:#7a7ab8}.st.privatized{color:#7a7ab8}.st.closed{color:#b85450}
+.qBox{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:170px}
+.qBox:focus{border-color:var(--accent)}
+.qBox::placeholder{color:var(--faint)}
+.relRow{display:flex;gap:8px;flex-wrap:wrap}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip:hover{border-color:var(--accent);background:var(--panel)}
 .eCard .hl{color:var(--accent);font-size:.8rem;margin:6px 0 10px}
 .eCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0;flex:1}
 .eCard .meta{margin-top:12px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
@@ -77,7 +83,7 @@
     <h1>世家<em>志</em></h1>
     <p id="heroSub">企业、社区、机构的完整兴衰史——从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里以世家记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。</p>
   </div>
-  <div class="eBar" id="typeBar"><button class="chip on" data-f="all">全部</button></div>
+  <div class="eBar" id="typeBar"><button class="chip on" data-f="all">全部</button><input id="q" class="qBox" placeholder="搜索世家名称/关键词…"></div>
   <div class="eGrid" id="grid"></div>
 </div>
 <div class="eMask" id="mask"></div>
@@ -127,6 +133,7 @@ function openDetail(e) {
   const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
   const ctz = (e.controversies || []).length
     ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${c}</div>`).join('')}` : '';
+  const rel = (e.related_persons || []).map(r => `<a class="relChip" href="../persons/?p=${r.id}">${r.name}</a>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
     <h2>${e.name}${e.en_name ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${e.en_name}</span>` : ''}</h2>
     <div class="sub">${e.headline} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
@@ -134,6 +141,7 @@ function openDetail(e) {
     <h4>兴衰历程</h4><div class="tl">${tl}</div>
     <h4>关键数字</h4><ul class="msList">${ms}</ul>
     <h4>现状与遗产</h4><div class="legacyBox">${e.legacy}</div>${ctz}
+    ${rel ? `<h4>相关人物</h4><div class="relRow">${rel}</div>` : ''}
     <h4>来源</h4><ul class="srcList">${src}</ul>`;
   $('#detail').classList.add('show');
   $('#mask').classList.add('show');
@@ -151,10 +159,18 @@ addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
 function render() {
   const grid = $('#grid');
   grid.innerHTML = '';
+  const q = ($('#q').value || '').trim().toLowerCase();
+  let shown = 0;
   for (const e of DATA.entities) {
     if (curFilter !== 'all' && e.type !== curFilter) continue;
+    if (q) {
+      const hay = (e.name + (e.en_name || '') + e.headline + (e.tags || []).join('')).toLowerCase();
+      if (!hay.includes(q)) continue;
+    }
     grid.appendChild(card(e));
+    shown++;
   }
+  if (!shown) grid.innerHTML = '<div class="eCard" style="cursor:default">没有匹配的世家——换个关键词试试</div>';
 }
 
 (async () => {
@@ -175,8 +191,15 @@ function render() {
       bar.appendChild(b);
     }
     bar.querySelectorAll('.chip')[0].onclick = () => { curFilter = 'all'; bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all')); render(); };
+    bar.appendChild($('#q'));  /* 搜索框置尾 */
+    $('#q').addEventListener('input', render);
     $('#heroSub').textContent = `共 ${DATA.entities.length} 家世家——企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。`;
     render();
+    const want = new URLSearchParams(location.search).get('e');
+    if (want) {
+      const ent = DATA.entities.find(x => x.id === want);
+      if (ent) openDetail(ent);
+    }
   } catch (e) {
     $('#grid').innerHTML = `<div class="eCard">数据加载失败（${e.message}）</div>`;
   }

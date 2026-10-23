@@ -65,7 +65,7 @@
   </div>
   <div class="tBar" id="monthBar"></div>
   <div class="dayGrid" id="dayGrid"></div>
-  <div class="dayHead"><h2 id="dayTitle">—</h2><span class="cnt" id="dayCnt"></span></div>
+  <div class="dayHead"><h2 id="dayTitle">—</h2><span class="cnt" id="dayCnt"></span><button class="chip" id="copyLink" style="margin-left:auto">🔗 复制链接</button></div>
   <div class="evList" id="evList"></div>
 </div>
 
@@ -129,6 +129,7 @@ function renderDays() {
 
 function selectDay(key) {
   curDay = key;
+  history.replaceState(null, '', '?d=' + key);
   const [m, d] = key.split('-').map(Number);
   const evs = DATA.days[key] || [];
   $('#dayTitle').textContent = `${m} 月 ${d} 日`;
@@ -172,7 +173,30 @@ function randomDay() {
     $('#heroSub').textContent = `${DATA.count} 条记录覆盖 ${Object.keys(DATA.days).length} 个日子（1972—2026，精确到日）——每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上那一天发生过什么。`;
     renderMonths();
     renderDays();
-    selectDay(pad(curMonth) + '-' + pad(now.getDate()));
+    $('#copyLink').onclick = () => {
+      const done = () => {
+        $('#copyLink').textContent = '✓ 已复制';
+        setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1200);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(location.href).then(done).catch(() => {
+          $('#copyLink').textContent = '复制失败，请手动复制地址栏';
+          setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1600);
+        });
+      } else {
+        $('#copyLink').textContent = '请手动复制地址栏链接';
+        setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1600);
+      }
+    };
+    const qd = new URLSearchParams(location.search).get('d');
+    if (qd && DATA.days[qd]) {
+      curMonth = parseInt(qd.slice(0, 2));
+      renderMonths();
+      renderDays();
+      selectDay(qd);
+    } else {
+      selectDay(pad(curMonth) + '-' + pad(now.getDate()));
+    }
   } catch (e) {
     $('#evList').innerHTML = `<div class="evItem">数据加载失败（${e.message}）</div>`;
   }

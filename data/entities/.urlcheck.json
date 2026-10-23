@@ -1,0 +1,23 @@
+{
+ "checked": 198,
+ "dead": [
+  {
+   "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+   "code": 0,
+   "err": "",
+   "entity": "中国教育和科研计算机网"
+  },
+  {
+   "url": "https://www.reuters.com/article/technology/google-to-shut-down-social-networking-service-orkut-in-september-idUSKBN0F51ZC",
+   "code": 401,
+   "err": "",
+   "entity": "Orkut"
+  },
+  {
+   "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210401-%E5%87%AF%E8%BF%AA%E7%9A%84-%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA-%E7%AA%81%E9%81%AD%E5%85%B3%E9%97%AD%E4%BA%86",
+   "code": 0,
+   "err": "",
+   "entity": "凯迪网络"
+  }
+ ]
+}

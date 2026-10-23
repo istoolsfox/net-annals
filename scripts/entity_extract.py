@@ -67,6 +67,15 @@ ENTITIES = {
     "myspace": ["MySpace", "聚友"],
     "vine": ["Vine"],
     "orkut": ["Orkut"],
+    # ---- 三批（2026-10-23）----
+    "sogou": ["搜狗"],
+    "ofo": ["ofo", "小黄车"],
+    "leshi": ["乐视", "LeEco"],
+    "wikipedia": ["维基百科", "Wikipedia"],
+    "internetarchive": ["Internet Archive", "互联网档案馆"],
+    "napster": ["Napster"],
+    "digg": ["Digg"],
+    "reddit": ["Reddit", "reddit"],
 }
 
 

@@ -14,6 +14,13 @@ PERSONS_DIR = os.path.join(ROOT, "data", "persons")
 OUT_DIR = os.path.join(ROOT, "site", "persons")
 ID_RE = re.compile(r"^[a-z0-9-]+$")
 
+def _load_json(path):
+    try:
+        return json.load(open(path, encoding="utf-8"))
+    except Exception:
+        return None
+
+
 REQUIRED = ["id", "name", "birth", "birth_accuracy", "death", "field", "region",
             "headline", "summary_30s", "timeline", "achievements", "sources", "tags"]
 
@@ -56,6 +63,23 @@ if errors:
 
 all_persons.sort(key=lambda e: e.get("birth", "9999"))
 os.makedirs(OUT_DIR, exist_ok=True)
+# ---- 互见法：人物 ↔ 实体 自动匹配（读上一轮构建的 entities 产物，一次部署后收敛）----
+_eidx = _load_json(os.path.join(ROOT, "site", "entities", "data.json"))
+_ents = (_eidx or {}).get("entities", [])
+for per in all_persons:
+    blob = (per.get("summary_30s", "") + "".join(t.get("text", "") for t in per.get("timeline", []))
+            + "".join(per.get("achievements", [])))
+    hits = []
+    for e in _ents:
+        etoks = [t for t in (e.get("name", ""), e.get("en_name") or "") if len(t) >= 2]
+        strong = any(tok in per.get("headline", "") + per.get("summary_30s", "") for tok in etoks)
+        if strong or any(tok in blob for tok in etoks):
+            hits.append({"id": e["id"], "name": e["name"], "_s": 2 if strong else 1})
+    hits.sort(key=lambda h: -h["_s"])
+    hits = [{"id": h["id"], "name": h["name"]} for h in hits[:4]]
+    if hits:
+        per["related_entities"] = hits
+
 text = json.dumps({"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
                    "count": len(all_persons), "persons": all_persons},
                   ensure_ascii=False, separators=(",", ":"))

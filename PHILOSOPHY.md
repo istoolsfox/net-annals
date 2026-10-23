@@ -55,3 +55,10 @@ SOURCE_TYPES / CATEGORIES / REGIONS / 主题标签规则，全部枚举先行—
 1. 你只负责收集与落盘到 `.parts/`，合并、构建、部署、git 由主会话统一收口。
 2. 查重命令先跑再写，同日同题禁止入库；角度不同的可以共存。
 3. 你写的每一条，都要经得起第三条哲学的拷问：三十年后有人顺着你的 sources 点进去，能证实你说的话。
+
+## 四、文档链（本宪法之下的配套法规）
+
+- `METHODOLOGY.md` —— 编纂作业法则（战术手册）：任务书五要素、验收三件套、以核实为准律，Agent 任务书必读。
+- `docs/COLLABORATION.md` —— 多会话协作法则：车道分工、定点 add、撞车三原则，任何会话开工前必读并跑 `scripts/lane_check.py`。
+- `ENTITIES_SPEC.md` / `PERSONS_SPEC.md` —— 世家志与人物志的体裁细则。
+- `ROADMAP.md` —— 完善目标真相源；`PROGRESS.md` —— 进度真相源。

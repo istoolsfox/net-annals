@@ -15,6 +15,13 @@ ENT_DIR = os.path.join(ROOT, "data", "entities")
 OUT_DIR = os.path.join(ROOT, "site", "entities")
 ID_RE = re.compile(r"^[a-z0-9-]+$")
 
+def _load_json(path):
+    try:
+        return json.load(open(path, encoding="utf-8"))
+    except Exception:
+        return None
+
+
 REQUIRED = ["id", "name", "type", "region", "founded", "founded_accuracy", "dissolved",
             "status", "headline", "summary_30s", "timeline", "milestones", "legacy", "sources", "tags"]
 
@@ -57,6 +64,36 @@ if errors:
 
 order = {"company": 0, "community": 1, "institution": 2}
 all_ents.sort(key=lambda e: (order.get(e.get("type"), 9), e.get("founded", "9999")))
+# ---- 互见法：实体 ↔ 人物 自动匹配（构建端，无需 Agent）----
+_pidx = _load_json(os.path.join(ROOT, "site", "persons", "data.json"))
+_persons = (_pidx or {}).get("persons", [])
+
+def _person_tokens(p):
+    toks = [p.get("name", ""), p.get("en_name", "") or ""] + list(p.get("aliases", []))
+    return [t.strip() for t in toks if len(t.strip()) >= 2]
+
+for e in all_ents:
+    blob = (e.get("name", "") + (e.get("en_name") or "") + e.get("summary_30s", "") + e.get("legacy", "")
+            + "".join(t.get("text", "") for t in e.get("timeline", [])))
+    etoks = [t for t in (e.get("name", ""), e.get("en_name") or "") if len(t) >= 2]
+    hits, seen = [], set()
+    for per in _persons:
+        pid = per.get("id")
+        if pid in seen:
+            continue
+        pblob = (per.get("headline", "") + per.get("summary_30s", "")
+                 + "".join(t.get("text", "") for t in per.get("timeline", []))
+                 + "".join(per.get("achievements", [])))
+        strong = any(tok in per.get("headline", "") + per.get("summary_30s", "") for tok in etoks)
+        # 对称匹配：人物名见于实体文本，或实体名见于人物文本；headline/summary 级提及为强信号优先
+        if any(tok in blob for tok in _person_tokens(per)) or strong or any(tok in pblob for tok in etoks):
+            hits.append({"id": pid, "name": per.get("name", ""), "_s": 2 if strong else 1})
+            seen.add(pid)
+    hits.sort(key=lambda h: -h["_s"])
+    hits = [{"id": h["id"], "name": h["name"]} for h in hits[:4]]
+    if hits:
+        e["related_persons"] = hits
+
 os.makedirs(OUT_DIR, exist_ok=True)
 text = json.dumps({"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
                    "count": len(all_ents), "entities": all_ents},
