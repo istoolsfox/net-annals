@@ -1,0 +1,176 @@
+[
+  {
+    "id": "ang-lee",
+    "name": "李安",
+    "en_name": "Ang Lee",
+    "aliases": [],
+    "birth": "1954-10-23",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "media",
+    "region": "cn",
+    "headline": "两获奥斯卡最佳导演的华人导演",
+    "summary_30s": "华人导演中迄今唯一两获奥斯卡最佳导演者：凭《断背山》《少年派的奇幻漂流》先后获奖；另获2座柏林金熊（《喜宴》《理性与感性》）、2座威尼斯金狮（《断背山》《色，戒》），《喜宴》《饮食男女》《卧虎藏龙》3度入围奥斯卡最佳外语片。纽约大学毕业后曾蛰居6年写剧本，39岁以《推手》出道。",
+    "timeline": [
+      {"date": "1985-01-01", "acc": "year", "text": "1985年获纽约大学电影制作硕士学位，此前获伊利诺伊大学戏剧学士。"},
+      {"date": "1990-01-01", "acc": "year", "text": "1990年《推手》剧本获台湾新闻局优秀剧本征选首奖，《喜宴》同获次奖，获执导首部长片机会。"},
+      {"date": "1991-01-01", "acc": "year", "text": "1991年首部长片《推手》上映，与《喜宴》《饮食男女》合称「父亲三部曲」。"},
+      {"date": "1993-01-01", "acc": "year", "text": "1993年《喜宴》获第43届柏林电影节金熊奖（与《香魂女》并列），并获奥斯卡最佳外语片提名。"},
+      {"date": "1996-01-01", "acc": "year", "text": "1996年《理性与感性》获第46届柏林金熊奖，成为迄今唯一两获金熊奖的导演。"},
+      {"date": "2001-01-01", "acc": "year", "text": "2001年《卧虎藏龙》获第73届奥斯卡最佳外语片等4项大奖，10项提名创当时非英语片纪录。"},
+      {"date": "2005-01-01", "acc": "year", "text": "2005年《断背山》获第62届威尼斯电影节金狮奖。"},
+      {"date": "2006-03-05", "acc": "exact", "text": "2006年3月5日凭《断背山》获第78届奥斯卡最佳导演，为首位获该奖的亚洲导演。"},
+      {"date": "2007-01-01", "acc": "year", "text": "2007年《色，戒》获第64届威尼斯金狮奖，个人二度获金狮。"},
+      {"date": "2009-01-01", "acc": "year", "text": "2009年出任第66届威尼斯电影节评委会主席。"},
+      {"date": "2013-02-01", "acc": "month", "text": "2013年2月凭《少年派的奇幻漂流》第2次获奥斯卡最佳导演，该片11项提名4项获奖，全球票房约6.09亿美元。"},
+      {"date": "2020-01-01", "acc": "year", "text": "2020年获英国电影学院奖终身成就奖，表彰其对电影的贡献。"}
+    ],
+    "achievements": [
+      "2006年凭《断背山》、2013年凭《少年派的奇幻漂流》两获奥斯卡最佳导演",
+      "两获柏林金熊（《喜宴》1993、《理性与感性》1996），迄今唯一两获金熊的导演",
+      "两获威尼斯金狮（《断背山》2005、《色，戒》2007）",
+      "《卧虎藏龙》获第73届奥斯卡最佳外语片等4项大奖，10项提名创非英语片提名纪录",
+      "《卧虎藏龙》北美票房1.28亿美元，保持外语片北美票房最高纪录",
+      "执导《比利·林恩的中场战事》，为全球首部以120帧摄制的电影"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：李安", "url": "https://zh.wikipedia.org/wiki/李安", "type": "wiki"},
+      {"title": "Wikipedia: Ang Lee", "url": "https://en.wikipedia.org/wiki/Ang_Lee", "type": "wiki"},
+      {"title": "Wikipedia: Crouching Tiger, Hidden Dragon", "url": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon", "type": "wiki"},
+      {"title": "Wikipedia: Brokeback Mountain", "url": "https://en.wikipedia.org/wiki/Brokeback_Mountain", "type": "wiki"},
+      {"title": "Britannica: Ang Lee", "url": "https://www.britannica.com/biography/Ang-Lee", "type": "media"}
+    ],
+    "tags": ["导演", "奥斯卡", "华语电影", "金熊奖", "金狮奖"]
+  },
+  {
+    "id": "zhang-yimou",
+    "name": "张艺谋",
+    "en_name": "Zhang Yimou",
+    "aliases": ["张诒谋"],
+    "birth": "1950-04-02",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "media",
+    "region": "cn",
+    "headline": "首夺柏林金熊、两获威尼斯金狮的导演",
+    "summary_30s": "摄影师出身的第五代导演代表：1988年凭《红高粱》为华语电影首夺柏林金熊，此后两获威尼斯金狮，《活着》获戛纳评审团大奖；《菊豆》《大红灯笼高高挂》《英雄》3度入围奥斯卡最佳外语片。2008、2022年两任奥运会开闭幕式总导演，2023年《满江红》票房45.44亿元。",
+    "timeline": [
+      {"date": "1978-01-01", "acc": "year", "text": "1978年考入北京电影学院摄影系78级，1982年毕业后入广西电影制片厂任摄影。"},
+      {"date": "1985-01-01", "acc": "year", "text": "1985年凭《黄土地》摄影获第5届中国电影金鸡奖最佳摄影奖。"},
+      {"date": "1987-01-01", "acc": "year", "text": "1987年首执导筒拍摄《红高粱》，并以主演《老井》获第2届东京国际电影节最佳男演员。"},
+      {"date": "1988-01-01", "acc": "year", "text": "1988年《红高粱》获第38届柏林电影节金熊奖，为华语电影首夺金熊。"},
+      {"date": "1991-01-01", "acc": "year", "text": "1991年《大红灯笼高高挂》获第48届威尼斯电影节银狮奖（评审团大奖）。"},
+      {"date": "1992-01-01", "acc": "year", "text": "1992年《秋菊打官司》获第49届威尼斯金狮奖，巩俐同获最佳女演员。"},
+      {"date": "1994-01-01", "acc": "year", "text": "1994年《活着》获第47届戛纳评审团大奖，葛优获最佳男演员。"},
+      {"date": "1999-01-01", "acc": "year", "text": "1999年《一个都不能少》获第56届威尼斯金狮奖。"},
+      {"date": "2002-01-01", "acc": "year", "text": "2002年执导武侠片《英雄》，其后在北美连续两周票房冠军，全球票房约1.77亿美元。"},
+      {"date": "2008-01-01", "acc": "year", "text": "2008年任第29届北京奥运会开闭幕式总导演，开幕式2008人击缶、29个焰火脚印等创意全球瞩目。"},
+      {"date": "2018-01-01", "acc": "year", "text": "2018年凭《影》获第55届金马奖最佳导演。"},
+      {"date": "2022-01-01", "acc": "year", "text": "2022年任北京冬奥会冬残奥会开闭幕式总导演，成为世界首位「双奥」开闭幕式总导演。"},
+      {"date": "2023-01-01", "acc": "year", "text": "2023年《满江红》以45.44亿元获春节档票房冠军。"}
+    ],
+    "achievements": [
+      "1988年《红高粱》获第38届柏林金熊奖，为华语电影首夺金熊",
+      "两获威尼斯金狮：《秋菊打官司》（1992）、《一个都不能少》（1999）",
+      "《菊豆》《大红灯笼高高挂》《英雄》3度获奥斯卡最佳外语片提名",
+      "1987年主演《老井》获东京国际电影节影帝，为中国大陆首位A级电影节影帝",
+      "《活着》1994年获戛纳评审团大奖，葛优获戛纳影帝",
+      "2008、2022年两任奥运会开闭幕式总导演"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：张艺谋", "url": "https://zh.wikipedia.org/wiki/张艺谋", "type": "wiki"},
+      {"title": "Wikipedia: Zhang Yimou", "url": "https://en.wikipedia.org/wiki/Zhang_Yimou", "type": "wiki"},
+      {"title": "Wikipedia: Red Sorghum (film)", "url": "https://en.wikipedia.org/wiki/Red_Sorghum_(film)", "type": "wiki"},
+      {"title": "Wikipedia: To Live (1994 film)", "url": "https://en.wikipedia.org/wiki/To_Live_(1994_film)", "type": "wiki"},
+      {"title": "Britannica: Zhang Yimou", "url": "https://www.britannica.com/biography/Zhang-Yimou", "type": "media"}
+    ],
+    "tags": ["导演", "摄影", "华语电影", "金熊奖", "金狮奖"]
+  },
+  {
+    "id": "wong-kar-wai",
+    "name": "王家卫",
+    "en_name": "Wong Kar-wai",
+    "aliases": ["墨镜王"],
+    "birth": "1958-07-17",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "media",
+    "region": "cn",
+    "headline": "首位戛纳最佳导演华人得主",
+    "summary_30s": "以独特影像风格著称的香港导演：1997年凭《春光乍泄》成为首位获戛纳最佳导演的华人，2006年任戛纳电影节首位华人评委会主席。《花样年华》在2022年《视与听》影史百大票选中列第5位；《一代宗师》获香港电影金像奖12项大奖，创单片获奖纪录。",
+    "timeline": [
+      {"date": "1980-01-01", "acc": "year", "text": "1980年自香港理工学院平面设计系毕业，随后加入无线电视任编剧。"},
+      {"date": "1988-01-01", "acc": "year", "text": "1988年执导首部电影《旺角卡门》上映，正式开启导演生涯。"},
+      {"date": "1991-01-01", "acc": "year", "text": "1991年《阿飞正传》获第10届香港电影金像奖最佳影片、最佳导演、最佳男主角。"},
+      {"date": "1994-01-01", "acc": "year", "text": "1994年先后推出《重庆森林》与《东邪西毒》，前者利用《东邪西毒》剪辑间隙约2个月拍成。"},
+      {"date": "1997-01-01", "acc": "year", "text": "1997年凭《春光乍泄》获第50届戛纳电影节最佳导演奖，为首位获此奖的华人。"},
+      {"date": "2000-01-01", "acc": "year", "text": "2000年《花样年华》入围戛纳主竞赛，梁朝伟获第53届戛纳最佳男演员，为首位获此奖的香港演员。"},
+      {"date": "2006-01-01", "acc": "year", "text": "2006年出任第59届戛纳电影节评委会主席，为戛纳史上首位华人主席。"},
+      {"date": "2013-01-01", "acc": "year", "text": "2013年《一代宗师》获第33届香港电影金像奖16项提名12项获奖，创单片获奖纪录。"},
+      {"date": "2022-01-01", "acc": "year", "text": "2022年《花样年华》在《视与听》影史百大影评人票选中列第5位。"},
+      {"date": "2023-12-27", "acc": "exact", "text": "2023年12月27日首部剧集《繁花》在央视八套与腾讯视频开播。"},
+      {"date": "2024-01-01", "acc": "year", "text": "2024年《繁花》获第29届上海电视节白玉兰奖最佳中国电视剧等5项大奖。"}
+    ],
+    "achievements": [
+      "1997年凭《春光乍泄》获第50届戛纳最佳导演，为首位获此奖的华人导演",
+      "2006年任第59届戛纳电影节评委会主席，为影展史上首位华人主席",
+      "《花样年华》列2022年《视与听》影史百大第5位，梁朝伟凭该片获2000年戛纳影帝",
+      "《一代宗师》获第33届香港电影金像奖12项大奖，创单片获奖纪录",
+      "剧集《繁花》获2024年第29届白玉兰奖最佳中国电视剧等5项大奖"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：王家卫", "url": "https://zh.wikipedia.org/wiki/王家卫", "type": "wiki"},
+      {"title": "Wikipedia: Wong Kar-wai", "url": "https://en.wikipedia.org/wiki/Wong_Kar-wai", "type": "wiki"},
+      {"title": "Wikipedia: In the Mood for Love", "url": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love", "type": "wiki"},
+      {"title": "Wikipedia: The Grandmaster (film)", "url": "https://en.wikipedia.org/wiki/The_Grandmaster_(film)", "type": "wiki"},
+      {"title": "维基百科：第29届上海电视节白玉兰奖", "url": "https://zh.wikipedia.org/wiki/第29届上海电视节白玉兰奖", "type": "wiki"}
+    ],
+    "tags": ["导演", "香港电影", "戛纳电影节", "香港电影金像奖", "花样年华"]
+  },
+  {
+    "id": "chen-kaige",
+    "name": "陈凯歌",
+    "en_name": "Chen Kaige",
+    "aliases": [],
+    "birth": "1952-08-12",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "media",
+    "region": "cn",
+    "headline": "迄今唯一华语金棕榈导演",
+    "summary_30s": "第五代导演代表人物：1993年凭《霸王别姬》获第46届戛纳金棕榈奖，为迄今唯一获金棕榈奖的华语电影；该片又获金球奖最佳外语片、英国电影学院奖最佳非英语片奖及2项奥斯卡提名，被视为20世纪90年代华语电影的高峰。",
+    "timeline": [
+      {"date": "1978-01-01", "acc": "year", "text": "1978年考入北京电影学院导演系78级，1982年毕业。"},
+      {"date": "1984-01-01", "acc": "year", "text": "1984年执导处女作《黄土地》，与摄影师张艺谋合作，被视为第五代导演开山之作。"},
+      {"date": "1987-01-01", "acc": "year", "text": "1987年执导《孩子王》，入围第40届戛纳电影节主竞赛单元。"},
+      {"date": "1993-01-01", "acc": "year", "text": "1993年《霸王别姬》获第46届戛纳电影节金棕榈奖（与《钢琴课》并列），为迄今唯一获金棕榈的华语电影。"},
+      {"date": "1994-01-01", "acc": "year", "text": "1994年《霸王别姬》获第51届金球奖最佳外语片，并获第66届奥斯卡最佳外语片提名、英国电影学院奖最佳非英语片奖。"},
+      {"date": "1998-01-01", "acc": "year", "text": "1998年执导历史史诗《荆轲刺秦王》，并出演吕不韦一角。"},
+      {"date": "2002-01-01", "acc": "year", "text": "2002年执导亲情题材电影《和你在一起》上映。"},
+      {"date": "2017-01-01", "acc": "year", "text": "2017年执导《妖猫传》上映，中国内地票房约5.3亿元。"}
+    ],
+    "achievements": [
+      "1993年《霸王别姬》获第46届戛纳金棕榈奖，为迄今唯一获金棕榈的华语电影",
+      "《霸王别姬》获第51届金球奖最佳外语片与英国电影学院奖最佳非英语片奖",
+      "《霸王别姬》获第66届奥斯卡最佳外语片、最佳摄影2项提名",
+      "1984年执导处女作《黄土地》，被视为第五代导演开山之作",
+      "2017年执导《妖猫传》，中国内地票房约5.3亿元"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：陈凯歌", "url": "https://zh.wikipedia.org/wiki/陈凯歌", "type": "wiki"},
+      {"title": "Wikipedia: Chen Kaige", "url": "https://en.wikipedia.org/wiki/Chen_Kaige", "type": "wiki"},
+      {"title": "Wikipedia: Farewell My Concubine (film)", "url": "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)", "type": "wiki"},
+      {"title": "Wikipedia: Yellow Earth", "url": "https://en.wikipedia.org/wiki/Yellow_Earth", "type": "wiki"},
+      {"title": "Wikipedia: The Emperor and the Assassin", "url": "https://en.wikipedia.org/wiki/The_Emperor_and_the_Assassin", "type": "wiki"}
+    ],
+    "tags": ["导演", "华语电影", "戛纳金棕榈", "第五代", "霸王别姬"]
+  }
+]
