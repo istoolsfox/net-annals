@@ -4,6 +4,7 @@
   "1978-01-01-xinwen-lianbo-debut",
   "1978-03-18-national-science-conference",
   "1980-04-10-first-sino-foreign-jv-001",
+  "1982-02-08-national-historic-cities",
   "1984-05-16-sitong-founded-zhongguancun",
   "2008-04-28-jiaoji-crash",
   "2023-04-18-changfeng-fire",
@@ -290,6 +291,7 @@
   "2019-12-30-zhanghu-hsr-full-line"
  ],
  "1308": [
+  "1982-02-08-national-historic-cities",
   "1994-12-01-chengde-summer-resort-heritage",
   "2018-12-29-beijing-shenyang-hsr-shenyang-chengde"
  ],
@@ -589,6 +591,7 @@
   "2024-11-01-goods-economy"
  ],
  "3201": [
+  "1982-02-08-national-historic-cities",
   "1983-05-01-jinling-hotel-opening",
   "2013-11-06-nanjing-museum-reopening",
   "1992-07-31-cga-7552-nanjing",
@@ -630,6 +633,7 @@
   "2019-12-01-li-one-delivery-2019"
  ],
  "3205": [
+  "1982-02-08-national-historic-cities",
   "2006-10-06-suzhou-museum",
   "1994-02-01-suzhou-industrial-park",
   "2020-08-21-the-eight-hundred",
@@ -650,6 +654,7 @@
   "2016-06-23-yancheng-funing-tornado"
  ],
  "3210": [
+  "1982-02-08-national-historic-cities",
   "2021-06-16-yangzhou-canal-museum"
  ],
  "3213": [
@@ -657,6 +662,7 @@
  ],
  "3301": [
   "1981-05-23-first-golden-rooster-awards",
+  "1982-02-08-national-historic-cities",
   "1993-08-01-sto-express-founding",
   "2020-04-01-fengchao-fee-controversy",
   "2016-10-07-jnby-ipo",
@@ -729,6 +735,9 @@
  "3305": [
   "2024-12-26-hu-su-hu-hsr"
  ],
+ "3306": [
+  "1982-02-08-national-historic-cities"
+ ],
  "330782": [
   "1982-09-01-yiwu-commodity-market",
   "2016-06-08-crb-brand-unified",
@@ -787,6 +796,7 @@
   "2025-09-28-huajiang-bridge"
  ],
  "3501": [
+  "1982-02-08-national-historic-cities",
   "2022-10-22-cotti-first-store",
   "2011-07-23-wenzhou-crash",
   "2013-12-28-xia-shen-railway",
@@ -810,6 +820,7 @@
   "2023-09-28-fuxia-cross-sea-hsr"
  ],
  "3505": [
+  "1982-02-08-national-historic-cities",
   "2023-05-01-xunpu-hairpin-flowers",
   "2020-03-07-quanzhou-hotel-collapse",
   "2021-07-25-quanzhou-unesco",
@@ -836,6 +847,7 @@
   "2018-03-04-changbei-airport-collapse"
  ],
  "3602": [
+  "1982-02-08-national-historic-cities",
   "2019-08-26-jingdezhen-ceramic-pilot-zone"
  ],
  "3604": [
@@ -884,6 +896,7 @@
   "2018-08-19-wibia-typoon-shouguang-flood"
  ],
  "370881": [
+  "1982-02-08-national-historic-cities",
   "1994-12-01-qufu-three-confucius-heritage",
   "1994-12-01-chengde-summer-resort-heritage",
   "1994-12-01-wudang-architecture-world-heritage"
@@ -919,9 +932,11 @@
   "2021-07-20-henan-flood"
  ],
  "4102": [
+  "1982-02-08-national-historic-cities",
   "2017-04-01-henan-ftz-launch"
  ],
  "4103": [
+  "1982-02-08-national-historic-cities",
   "2000-12-25-luoyang-fire",
   "2020-12-01-henan-museum-archaeology-blindbox",
   "2010-02-06-zhengxi-hsr-open",
@@ -944,6 +959,7 @@
  ],
  "4201": [
   "1979-01-01-hanzheng-street-reopen",
+  "1982-02-08-national-historic-cities",
   "1985-06-01-yellow-crane-tower-rebuilt",
   "1992-05-01-shenlong-fukang-founding-1992",
   "2020-12-01-chayan-yuese-wuhan-first",
@@ -957,6 +973,8 @@
   "2004-07-28-wuhan-metro-line1-sightseeing",
   "2009-07-22-total-solar-eclipse",
   "2009-12-26-wuguang-hsr",
+  "2016-07-26-ymte-founding",
+  "2019-10-18-wuhan-military-games",
   "2019-11-29-hanshi-high-speed-rail-open",
   "2020-01-23-wuhan-lockdown",
   "2020-03-16-first-covid-vaccine-china",
@@ -1033,6 +1051,7 @@
   "2013-11-03-precision-poverty"
  ],
  "4401": [
+  "1982-02-08-national-historic-cities",
   "1983-02-06-white-swan-hotel-opening",
   "1984-02-11-southern-weekly-founded",
   "2010-09-30-canton-tower",
@@ -1193,6 +1212,9 @@
   "2019-02-18-gba-outline",
   "2019-08-09-harmonyos"
  ],
+ "4451": [
+  "1982-02-08-national-historic-cities"
+ ],
  "4452": [
   "2017-07-06-guanghe-expressway-bus-crash"
  ],
@@ -1207,6 +1229,7 @@
   "2021-06-10-liuzhou-luosifen-ich-listing"
  ],
  "4503": [
+  "1982-02-08-national-historic-cities",
   "1992-11-24-mu-3943-guilin",
   "2009-01-01-gandong-china-2008",
   "2014-06-23-guilin-karst-south-china-heritage",
@@ -1246,6 +1269,7 @@
   "2025-11-05-fujian-carrier"
  ],
  "5001": [
+  "1982-02-08-national-historic-cities",
   "2003-12-23-kaixian-blowout",
   "2018-10-28-chongqing-bus",
   "1997-03-14-chongqing-municipality",
@@ -1272,8 +1296,10 @@
  ],
  "5101": [
   "1975-07-01-baocheng-railway-electrified",
+  "1982-02-08-national-historic-cities",
   "2001-02-08-jinsha-site",
   "1995-01-01-huaxi-metropolitan",
+  "1987-03-01-chengdu-panda-base",
   "2015-11-29-arj21-first-delivery",
   "2017-05-14-sichuan-8633",
   "2017-02-04-zhao-lei-chengdu",
@@ -1293,6 +1319,7 @@
   "2021-06-27-chengdu-tianfu-airport-open",
   "2024-05-01-lol-lpl",
   "2025-11-09-s15-t1",
+  "2023-07-28-chengdu-universiade",
   "2024-05-05-thomas-uber-cup-chengdu",
   "2024-09-24-shang-juncheng-atp-title"
  ],
@@ -1371,6 +1398,9 @@
  "5202": [
   "2016-12-29-beipanjiang-bridge"
  ],
+ "5203": [
+  "1982-02-08-national-historic-cities"
+ ],
  "5204": [
   "2014-01-01-guian-new-area"
  ],
@@ -1378,6 +1408,7 @@
   "2022-08-01-cun-ba-village-basketball"
  ],
  "5301": [
+  "1982-02-08-national-historic-cities",
   "2021-10-12-first-national-parks-panda",
   "2022-12-19-kunming-montreal-framework",
   "1997-03-18-nan-kun-railway",
@@ -1411,6 +1442,7 @@
   "2021-06-01-elephant-herd-northward"
  ],
  "5329": [
+  "1982-02-08-national-historic-cities",
   "2021-05-21-yangbi-earthquake",
   "2022-11-01-stove-tea"
  ],
