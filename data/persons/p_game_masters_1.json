@@ -1,0 +1,170 @@
+[
+  {
+    "id": "satoru-iwata",
+    "name": "岩田聪",
+    "en_name": "Satoru Iwata",
+    "aliases": [],
+    "birth": "1959-12-06",
+    "birth_accuracy": "exact",
+    "death": "2015-07-11",
+    "field": "game",
+    "region": "world",
+    "headline": "任天堂DS与Wii缔造者",
+    "summary_30s": "程序员出身的任天堂第4任社长，主导NDS与Wii两代主机的研发方向，两机家族累计销量分别超1.5亿台与1亿台；他提出「扩大游戏人口」战略，让大量从未接触游戏的人群成为玩家；2015年因胆管癌病逝，享年55岁。",
+    "timeline": [
+      {"date": "1982-01-01", "acc": "year", "text": "1982年自东京工业大学毕业，入职HAL研究所担任程序员，参与多款游戏底层开发。"},
+      {"date": "1993-01-01", "acc": "year", "text": "1993年临危受命出任HAL研究所社长，带领公司化解约50亿日元债务危机实现扭亏。"},
+      {"date": "1994-08-01", "acc": "month", "text": "接手陷入停滞的《地球冒险2》并重写程序，使这款游戏得以在1994年8月顺利发售。"},
+      {"date": "2000-06-01", "acc": "month", "text": "2000年6月调任任天堂，出任经营企划室长，从子公司管理层进入母公司决策层。"},
+      {"date": "2002-05-01", "acc": "month", "text": "接替山内溥出任任天堂第4任社长，成为首位非山内家族出身、具程序员背景的掌门人。"},
+      {"date": "2004-11-01", "acc": "month", "text": "任天堂DS在日本发售，双屏加触控设计打开休闲人群市场，家族累计销量超1.5亿台。"},
+      {"date": "2005-03-01", "acc": "month", "text": "在2005年GDC大会上发表「名片上是社长，脑海里是开发者，内心深处是玩家」演讲。"},
+      {"date": "2006-11-01", "acc": "month", "text": "体感主机Wii发售，配合「扩大游戏人口」战略吸引大批新玩家，家族累计销量超1亿台。"},
+      {"date": "2011-07-01", "acc": "month", "text": "3DS销售不及预期被迫降价，岩田聪宣布主动减薪一半，与管理层共担经营责任。"},
+      {"date": "2014-06-01", "acc": "month", "text": "2014年因胆管肿瘤入院接受手术，同年再度主动减薪一半，公司坚持不裁员。"},
+      {"date": "2015-07-11", "acc": "exact", "text": "因胆管癌病情恶化病逝，享年55岁；其任内推出的DS与Wii合计销量超2.5亿台。"}
+    ],
+    "achievements": [
+      "主导NDS与Wii研发，两机家族累计销量分别超1.5亿台与1亿台",
+      "2002年出任任天堂第4任社长，首位非山内家族出身的掌门人",
+      "提出「扩大游戏人口」战略，任内NDS与Wii合计销量超2.5亿台",
+      "2011年主动减薪一半以避免裁员，2014年再次减薪共渡难关",
+      "早年以程序员身份重写《地球冒险2》程序，化解开发停滞危机"
+    ],
+    "controversies": [],
+    "quotes": [
+      "在名片上，我是社长；在脑海里，我是开发者；但在内心深处，我是一名玩家。——2005年GDC演讲"
+    ],
+    "sources": [
+      {"title": "Wikipedia: Satoru Iwata", "url": "https://en.wikipedia.org/wiki/Satoru_Iwata", "type": "wiki"},
+      {"title": "维基百科：岩田聪", "url": "https://zh.wikipedia.org/zh-hans/%E5%B2%A9%E7%94%B0%E8%81%AA", "type": "wiki"},
+      {"title": "The Guardian: Nintendo president Satoru Iwata dies of cancer aged 55", "url": "https://www.theguardian.com/world/2015/jul/13/nintendo-ceo-satoru-iwata-dies-of-cancer-aged-55", "type": "media"},
+      {"title": "任天堂财报：历代硬件软件销量数据", "url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html", "type": "official"}
+    ],
+    "tags": ["任天堂", "游戏开发", "NDS", "Wii", "游戏行业"]
+  },
+  {
+    "id": "sid-meier",
+    "name": "席德·梅尔",
+    "en_name": "Sid Meier",
+    "aliases": [],
+    "birth": "1954-02-24",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "game",
+    "region": "world",
+    "headline": "《文明》系列之父",
+    "summary_30s": "美国游戏设计师，MicroProse联合创始人；1991年推出的《文明》初代确立回合制4X策略游戏范式，「再来一回合」成为玩家口头禅；1996年创立Firaxis后持续操刀系列开发，《文明》系列累计销量已超7300万套。",
+    "timeline": [
+      {"date": "1982-01-01", "acc": "year", "text": "1982年与飞行员比尔·斯特利联合创立MicroProse，专注飞行模拟与军事策略游戏。"},
+      {"date": "1987-01-01", "acc": "year", "text": "1987年推出《海盗！》，作品冠名「Sid Meier's」自此成为其个人品牌。"},
+      {"date": "1990-01-01", "acc": "year", "text": "1990年推出《铁路大亨》，把经营模拟与宏观策略结合，奠定策略设计声望。"},
+      {"date": "1991-09-01", "acc": "month", "text": "推出《文明》初代，确立回合制4X策略范式，「再来一回合」成为玩家口头禅。"},
+      {"date": "1996-01-01", "acc": "year", "text": "1996年离开MicroProse，与杰夫·布里格斯联合创立Firaxis Games工作室。"},
+      {"date": "1999-01-01", "acc": "year", "text": "推出太空题材《半人马座阿尔法星》，长期被评为最优秀的4X策略作品之一。"},
+      {"date": "2005-10-01", "acc": "month", "text": "《文明4》发售，其主题曲Baba Yetu后来成为首支获格莱美奖的游戏音乐。"},
+      {"date": "2008-02-01", "acc": "month", "text": "2008年获游戏开发者选择奖GDC终身成就奖，表彰其对策略游戏品类的奠基贡献。"},
+      {"date": "2016-10-01", "acc": "month", "text": "《文明6》发售，获多项年度游戏奖项，系列用户规模在此世代持续扩大。"},
+      {"date": "2025-02-01", "acc": "month", "text": "《文明7》发售，发行商宣布《文明》系列累计销量已超7300万套。"}
+    ],
+    "achievements": [
+      "1991年推出《文明》初代，开创回合制4X策略游戏范式",
+      "《文明》系列累计销量超7300万套（2025年发行商数据）",
+      "1996年联合创立Firaxis Games，并持续主导系列开发",
+      "2008年获GDC游戏开发者选择奖终身成就奖",
+      "《文明4》主题曲Baba Yetu成为首支获格莱美奖的游戏音乐"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Sid Meier", "url": "https://en.wikipedia.org/wiki/Sid_Meier", "type": "wiki"},
+      {"title": "Wikipedia: Civilization (series)", "url": "https://en.wikipedia.org/wiki/Civilization_(series)", "type": "wiki"},
+      {"title": "2K Newsroom: Sid Meier's Civilization VII Coming in 2025", "url": "https://newsroom.2k.com/news/sid-meiers-civilizationr-vii-coming-in-2025", "type": "official"},
+      {"title": "Take-Two IR: Sid Meier's Civilization VII Now Available Worldwide", "url": "http://www.take2games.com/ir/news/build-something-you-believe-sid-meiers-civilizationr-vii-now", "type": "official"}
+    ],
+    "tags": ["文明系列", "策略游戏", "Firaxis", "游戏设计", "4X"]
+  },
+  {
+    "id": "hideo-kojima",
+    "name": "小岛秀夫",
+    "en_name": "Hideo Kojima",
+    "aliases": [],
+    "birth": "1963-08-24",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "game",
+    "region": "world",
+    "headline": "潜入游戏的开创者",
+    "summary_30s": "游戏设计师，1987年以《合金装备》初代开创潜入类游戏品类；1998年《合金装备索利德》以电影化叙事震动业界，系列累计销量超6000万套；2015年离开任职近30年的科乐美独立创业，2019年推出风格独特的《死亡搁浅》。",
+    "timeline": [
+      {"date": "1986-01-01", "acc": "year", "text": "1986年大学毕业入职科乐美，从游戏策划岗位开启近30年的开发生涯。"},
+      {"date": "1987-07-01", "acc": "month", "text": "主导《合金装备》初代在MSX2平台发售，开创潜入类游戏品类。"},
+      {"date": "1998-09-01", "acc": "month", "text": "《合金装备索利德》在PlayStation发售，全球销量超600万套，电影化叙事震动业界。"},
+      {"date": "2001-12-01", "acc": "month", "text": "《合金装备索利德2：自由之子》发售，其话题性叙事引发全球玩家广泛讨论。"},
+      {"date": "2005-04-01", "acc": "month", "text": "2005年在科乐美内部成立小岛制作工作室，升任制作人统筹系列开发。"},
+      {"date": "2015-12-01", "acc": "month", "text": "2015年12月合约期满离开科乐美，宣布成立独立工作室Kojima Productions。"},
+      {"date": "2019-11-08", "acc": "exact", "text": "首部独立作品《死亡搁浅》在PS4平台全球发售。"},
+      {"date": "2020-01-01", "acc": "year", "text": "2020年获英国电影学院奖游戏部门颁发的最高荣誉BAFTA Fellowship终身成就奖。"},
+      {"date": "2022-01-01", "acc": "year", "text": "获第72回日本艺术选奖文部科学大臣奖媒体艺术部门，游戏创作者获官方艺术奖属罕见。"},
+      {"date": "2024-11-01", "acc": "month", "text": "《死亡搁浅》发售5周年之际，官方公布系列全球玩家数突破1000万。"},
+      {"date": "2025-06-26", "acc": "exact", "text": "《死亡搁浅2》在PS5平台发售，其后累计销量突破200万套。"}
+    ],
+    "achievements": [
+      "1987年开创潜入类游戏品类，《合金装备》初代为开山之作",
+      "1998年《合金装备索利德》全球销量超600万套，奠定3D潜入范式",
+      "合金装备系列累计销量超6000万套，电影化叙事影响深远",
+      "2020年获BAFTA游戏部门终身成就奖Fellowship",
+      "2015年独立创业成立Kojima Productions，《死亡搁浅》系列玩家数破1000万"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Hideo Kojima", "url": "https://en.wikipedia.org/wiki/Hideo_Kojima", "type": "wiki"},
+      {"title": "Wikipedia: Metal Gear Solid (video game)", "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)", "type": "wiki"},
+      {"title": "维基百科：小岛秀夫", "url": "https://zh.wikipedia.org/zh-hans/%E5%B0%8F%E5%B3%B6%E7%A7%80%E5%A4%AB", "type": "wiki"},
+      {"title": "Kojima Productions: Hideo Kojima Receives BAFTA Fellowship Award", "url": "https://www.kojimaproductions.jp/en/hideo-kojima-receives-bafta-fellowship-award", "type": "official"}
+    ],
+    "tags": ["潜入游戏", "Kojima Productions", "合金装备", "死亡搁浅", "游戏叙事"]
+  },
+  {
+    "id": "hidetaka-miyazaki",
+    "name": "宫崎英高",
+    "en_name": "Hidetaka Miyazaki",
+    "aliases": [],
+    "birth": "1974-01-07",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "game",
+    "region": "world",
+    "headline": "「魂类」游戏的缔造者",
+    "summary_30s": "FromSoftware社长，2009年以首部执导作品《恶魔之魂》开启高难度动作RPG路线，2011年《黑暗之魂》正式确立「魂类」流派；2019年《只狼》获TGA年度游戏，2022年《艾尔登法环》全球销量突破3000万套。",
+    "timeline": [
+      {"date": "2004-01-01", "acc": "year", "text": "2004年放弃稳定工作入职FromSoftware，参与《装甲核心》系列开发。"},
+      {"date": "2009-02-01", "acc": "month", "text": "首部执导作品《恶魔之魂》在PS3发售，以高难度与碎片化叙事打开局面。"},
+      {"date": "2011-09-01", "acc": "month", "text": "《黑暗之魂》在PS3与Xbox 360发售，初期销量平平，后凭口碑成为现象级作品。"},
+      {"date": "2014-05-01", "acc": "month", "text": "2014年5月出任FromSoftware社长，公司同年被角川集团收购纳入旗下。"},
+      {"date": "2015-03-01", "acc": "month", "text": "执导PS4独占《血源诅咒》发售，哥特风格世界设定广受赞誉。"},
+      {"date": "2019-03-22", "acc": "exact", "text": "《只狼：影逝二度》全球发售，引入格挡与钩索玩法，全球销量后来突破1000万套。"},
+      {"date": "2019-12-12", "acc": "exact", "text": "《只狼》获TGA 2019年度游戏，FromSoftware首次夺得该奖项。"},
+      {"date": "2022-02-25", "acc": "exact", "text": "《艾尔登法环》全球发售，两周销量破1200万套，开启开放世界魂类时代。"},
+      {"date": "2024-06-21", "acc": "exact", "text": "DLC《黄金树幽影》发售，数日内销量突破500万套。"},
+      {"date": "2025-04-28", "acc": "exact", "text": "官方宣布《艾尔登法环》全球销量突破3000万套。"}
+    ],
+    "achievements": [
+      "开创「魂类」玩法范式，《黑暗之魂》3部曲影响整个动作RPG类型",
+      "2019年《只狼》获TGA年度游戏，销量突破1000万套",
+      "《艾尔登法环》全球销量突破3000万套（2025年4月官方数据）",
+      "2014年出任FromSoftware社长，带领公司跻身国际一线工作室",
+      "2011年《黑暗之魂》从销量平平逆转为现象级作品，定义一种游戏类型"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Hidetaka Miyazaki", "url": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki", "type": "wiki"},
+      {"title": "Wikipedia: Elden Ring", "url": "https://en.wikipedia.org/wiki/Elden_Ring", "type": "wiki"},
+      {"title": "维基百科：宫崎英高", "url": "https://zh.wikipedia.org/zh-hans/%E5%AE%AB%E5%B4%8E%E8%8B%B1%E9%AB%98", "type": "wiki"},
+      {"title": "Gematsu: Elden Ring shipments and digital sales top 30 million", "url": "https://www.gematsu.com/2025/04/elden-ring-shipments-and-digital-sales-top-30-million", "type": "media"}
+    ],
+    "tags": ["魂类游戏", "FromSoftware", "黑暗之魂", "艾尔登法环", "动作RPG"]
+  }
+]
