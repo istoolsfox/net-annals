@@ -179,10 +179,50 @@ function render() {
     bar.querySelectorAll('.chip')[0].onclick = () => { curFilter = 'all'; bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all')); render(); };
     $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。`;
     render();
+    loadGroups();
   } catch (e) {
     $('#grid').innerHTML = `<div class="pCard">数据加载失败（${e.message}）</div>`;
   }
 })();
+
+/* ---- 类传（群像列传）---- */
+function groupCard(g) {
+  const d = document.createElement('div');
+  d.className = 'lCard';
+  d.innerHTML = `<div class="row"><h3>${g.name}</h3><span class="era">${g.era}</span></div>
+    <p class="sm">${g.summary_30s.slice(0, 100)}${g.summary_30s.length > 100 ? '…' : ''}</p>
+    <div class="meta">${g.members.length} 位代表人物</div>`;
+  d.onclick = () => openGroup(g);
+  return d;
+}
+
+function openGroup(g) {
+  const mem = g.members.map(m => `<div class="mItem">
+    <div class="mn">${m.name}${m.id_name ? `<span class="mi">${m.id_name}</span>` : ''}</div>
+    <div class="mh">${m.headline}</div><p class="mt">${m.text}</p></div>`).join('');
+  const src = g.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
+  $('#detail').innerHTML = `<button class="close">✕</button>
+    <h2>${g.name}</h2>
+    <div class="sub">${g.era} · 群像列传</div>
+    <p class="smFull">${g.summary_30s}</p>
+    <h4>代表人物</h4>${mem}
+    <h4>群体去向与遗产</h4><div class="legacyBox">${g.legacy}</div>
+    <h4>来源</h4><ul class="srcList">${src}</ul>`;
+  $('#detail').classList.add('show');
+  $('#mask').classList.add('show');
+  document.body.style.overflow = 'hidden';
+  $('#detail').querySelector('.close').onclick = closeDetail;
+}
+
+async function loadGroups() {
+  try {
+    const G = await fetchGz('groups.json');
+    if (!G.groups || !G.groups.length) return;
+    $('#lSec').style.display = '';
+    const grid = $('#lGrid');
+    for (const g of G.groups) grid.appendChild(groupCard(g));
+  } catch (e) { /* 类传缺失不阻塞主板块 */ }
+}
 </script>
 </body>
 </html>

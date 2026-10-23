@@ -3,7 +3,7 @@
 "id": "2003-04-01-dianping-founded",
 "date": "2003-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "大众点评创立：中国人第一次靠陌生人的点评找馆子",
 "category": "internet",
 "region": "cn",
@@ -22,6 +22,11 @@
 "title": "大众点评 - 百度百科",
 "url": "https://baike.baidu.com/item/大众点评",
 "type": "wiki"
+},
+{
+ "title": "大众点评网CEO张涛：低调的十年磨一剑（新浪财经）",
+ "url": "https://finance.sina.cn/usstock/hlwgs/2012-12-22/tech-iavxeafs2354988.d.html",
+ "type": "news"
 }
 ],
 "tags": [

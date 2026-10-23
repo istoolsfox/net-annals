@@ -154,7 +154,7 @@
 "id": "1995-10-01-wuxing-brocade",
 "date": "1995-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『五星出东方利中国』织锦出土：尼雅遗址的国宝预言",
 "category": "culture",
 "region": "cn",
@@ -168,6 +168,11 @@
 "title": "百度百科：五星出东方利中国",
 "url": "https://baike.baidu.com/item/五星出东方利中国",
 "type": "wiki"
+},
+{
+ "title": "“五星出东方利中国”织锦非护臂辨（中国社会科学网）",
+ "url": "https://www.cssn.cn/kgxc/kgxc_kgxl/202302/t20230210_5587314.shtml",
+ "type": "official"
 }
 ],
 "tags": [

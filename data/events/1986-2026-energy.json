@@ -544,7 +544,7 @@
 "id": "2021-11-01-gobi-bases-batch1",
 "date": "2021-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "第一批『沙戈荒』大基地开建：约1亿千瓦搬进大漠",
 "category": "national",
 "region": "cn",
@@ -563,6 +563,11 @@
 "title": "大型风电光伏基地 - 百度百科",
 "url": "https://baike.baidu.com/item/大型风电光伏基地",
 "type": "wiki"
+},
+{
+ "title": "国家能源局：第一批“沙戈荒”大型风电光伏基地建设进展（2021年11月项目清单）",
+ "url": "https://www.nea.gov.cn/20250123/30c42bd239f64dee8a09363df78adf90/c.html",
+ "type": "official"
 }
 ],
 "tags": [
@@ -579,7 +584,7 @@
 "id": "2022-01-01-offshore-wind-no1",
 "date": "2022-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "海上风电装机登顶全球第一：抢装潮的加冕之年",
 "category": "national",
 "region": "cn",
@@ -598,6 +603,11 @@
 "title": "海上风电 - 百度百科",
 "url": "https://baike.baidu.com/item/海上风电",
 "type": "wiki"
+},
+{
+ "title": "国家能源局2022年一季度网上新闻发布会文字实录：海上风电装机跃居世界第一",
+ "url": "http://www.nea.gov.cn/2022-01/28/c_1310445390.htm",
+ "type": "official"
 }
 ],
 "tags": [
@@ -679,7 +689,7 @@
 "id": "2024-01-01-wind-solar-1gw-x10",
 "date": "2024-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "风光装机首破10亿千瓦：中国绿电底盘的十亿千瓦时代",
 "category": "national",
 "region": "cn",
@@ -698,6 +708,11 @@
 "title": "光伏发电 - 百度百科",
 "url": "https://baike.baidu.com/item/光伏发电",
 "type": "wiki"
+},
+{
+ "title": "人民日报：我国风电太阳能发电装机超11亿千瓦（2023年连续突破8亿、9亿、10亿千瓦）",
+ "url": "https://www.bypc.gov.cn/zfxxgk/fdzdgknr/qtfdxx/xcyxdnbdcdj/art/2024/art_150b97ded17549ba9f1c6dacfa958149.html",
+ "type": "news"
 }
 ],
 "tags": [

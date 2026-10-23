@@ -248,7 +248,7 @@
 "id": "1988-05-05-everest-double-traverse",
 "date": "1988-05-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中日尼双跨珠峰会师：南北两侧同时登顶并电视直播",
 "category": "society",
 "region": "cn",
@@ -262,6 +262,16 @@
 "title": "Mount Everest - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Mount_Everest",
 "type": "wiki"
+},
+{
+ "title": "1988年5月5日中日尼登山队成功跨越珠峰（央视网）",
+ "url": "https://news.cctv.com/2013/04/09/VIDE1365476881459731.shtml",
+ "type": "news"
+},
+{
+ "title": "中国登山协会发展历程（中国登山协会官网）",
+ "url": "https://www.cmasports.cn/gyxh/2013/0427/700521.html",
+ "type": "official"
 }
 ],
 "tags": [
@@ -2207,7 +2217,7 @@
 "id": "2009-07-01-son-doong-largest-cave",
 "date": "2009-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "韩松洞被证实为世界最大洞穴：藏了十九年的地下长廊",
 "category": "world",
 "region": "world",
@@ -2226,6 +2236,11 @@
 "title": "百度百科：韩松洞",
 "url": "https://baike.baidu.com/item/韩松洞",
 "type": "wiki"
+},
+{
+ "title": "World's Largest Cave - National Geographic Education",
+ "url": "https://education.nationalgeographic.org/resource/worlds-largest-cave",
+ "type": "news"
 }
 ],
 "tags": [
