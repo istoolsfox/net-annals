@@ -769,7 +769,7 @@
 "id": "1997-07-16-pension-unification",
 "date": "1997-07-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "统一企业职工基本养老保险制度：养老从『单位包干』走向社会化",
 "category": "society",
 "region": "cn",
@@ -783,6 +783,11 @@
 "title": "百度百科：国务院关于建立统一的企业职工基本养老保险制度的决定",
 "url": "https://baike.baidu.com/item/国务院关于建立统一的企业职工基本养老保险制度的决定",
 "type": "wiki"
+},
+{
+"title": "国务院关于建立统一的企业职工基本养老保险制度的决定（国发〔1997〕26号，1997年7月16日）",
+"url": "https://sociology.ssap.com.cn/skwx_shx/LiteratureDetail.aspx?ID=526389",
+"outlet": "社会科学文献出版社文献库"
 }
 ],
 "tags": [
@@ -960,7 +965,7 @@
 "id": "1997-11-02-laorong-jinzhou-post",
 "date": "1997-11-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《金州没有眼泪》：中文论坛的第一篇现象级帖",
 "category": "internet",
 "region": "cn",
@@ -974,6 +979,11 @@
 "title": "Wikipedia: 四通利方",
 "url": "https://zh.wikipedia.org/wiki/四通利方",
 "type": "wiki"
+},
+{
+"title": "大连金州不相信眼泪（1997年11月2日凌晨发帖）",
+"url": "https://baike.baidu.com/item/%E5%A4%A7%E8%BF%9E%E9%87%91%E5%B7%9E%E4%B8%8D%E7%9B%B8%E4%BF%A1%E7%9C%BC%E6%B3%AA/9026328",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -1215,7 +1225,7 @@
 "id": "1998-04-03-titanic-cn",
 "date": "1998-04-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《泰坦尼克号》内地上映，全民观影奇观",
 "category": "culture",
 "region": "cn",
@@ -1229,6 +1239,11 @@
 "title": "维基百科：泰坦尼克号 (1997年电影)",
 "url": "https://zh.wikipedia.org/wiki/泰坦尼克号_(1997年电影)",
 "type": "wiki"
+},
+{
+"title": "《泰坦尼克号》在华上映27周年背后",
+"url": "https://m.mp.oeeee.com/a/BAAFRD0000202504031066187.html",
+"outlet": "南方都市报"
 }
 ],
 "tags": [
@@ -1730,7 +1745,7 @@
 "id": "1998-12-14-medical-insurance-reform",
 "date": "1998-12-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "城镇职工基本医疗保险制度建立：公费医疗走向社会医保",
 "category": "society",
 "region": "cn",
@@ -1744,6 +1759,11 @@
 "title": "百度百科：国务院关于建立城镇职工基本医疗保险制度的决定",
 "url": "https://baike.baidu.com/item/国务院关于建立城镇职工基本医疗保险制度的决定",
 "type": "wiki"
+},
+{
+"title": "国务院关于建立城镇职工基本医疗保险制度的决定（国发〔1998〕44号）",
+"url": "https://www.nhsa.gov.cn/art/1998/12/14/art_37_1189.html",
+"outlet": "国家医疗保障局"
 }
 ],
 "tags": [
@@ -1848,7 +1868,7 @@
 "id": "1999-01-22-gov-online-project",
 "date": "1999-01-22",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『政府上网工程』启动，1999成政府上网年",
 "category": "national",
 "region": "cn",
@@ -1862,6 +1882,11 @@
 "title": "中国互联网络信息中心（CNNIC）",
 "url": "https://www.cnnic.com.cn/",
 "type": "official"
+},
+{
+"title": "政府上网工程启动大会在京召开（1999年原始报道）",
+"url": "https://news.sina.com.cn/richtalk/news/tech/9901/012205.html",
+"outlet": "新浪新闻"
 }
 ],
 "tags": [
@@ -1901,7 +1926,7 @@
 "id": "1999-02-15-chang-hui-jia-kan-kan",
 "date": "1999-02-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《常回家看看》唱上春晚：打工时代的亲情备忘录",
 "category": "culture",
 "region": "cn",
@@ -1915,6 +1940,11 @@
 "title": "Wikipedia: 常回家看看",
 "url": "https://zh.wikipedia.org/wiki/常回家看看",
 "type": "wiki"
+},
+{
+"title": "常回家看看",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%B8%B8%E5%9B%9E%E5%AE%B6%E7%9C%8B%E7%9C%8B",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2039,7 +2069,7 @@
 "id": "1999-04-03-housing-fund-regulation",
 "date": "1999-04-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《住房公积金管理条例》发布：攒钱买房有了全国性制度",
 "category": "society",
 "region": "cn",
@@ -2053,6 +2083,11 @@
 "title": "百度百科：住房公积金管理条例",
 "url": "https://baike.baidu.com/item/住房公积金管理条例",
 "type": "wiki"
+},
+{
+"title": "住房公积金管理条例（国家行政法规库，1999年4月3日国务院令第262号发布）",
+"url": "https://xzfg.moj.gov.cn/mobile/law/detail?LawID=1221",
+"outlet": "司法部国家行政法规库"
 }
 ],
 "tags": [
@@ -2314,7 +2349,7 @@
 "id": "1999-09-03-72h-survival-test",
 "date": "1999-09-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "72小时网络生存测试：只靠上网能不能活",
 "category": "internet",
 "region": "cn",
@@ -2328,6 +2363,11 @@
 "title": "维基百科：72小时网络生存测试",
 "url": "https://zh.wikipedia.org/wiki/72小时网络生存测试",
 "type": "wiki"
+},
+{
+"title": "72小时网络生存测试",
+"url": "https://zh.wikipedia.org/zh-hans/72%E5%B0%8F%E6%97%B6%E7%BD%91%E7%BB%9C%E7%94%9F%E5%AD%98%E6%B5%8B%E8%AF%95",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2429,7 +2469,7 @@
 "id": "1999-09-28-jiangyin-yangtze-bridge",
 "date": "1999-09-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "江阴长江大桥通车：中国第一座跨径超千米的悬索桥",
 "category": "national",
 "region": "cn",
@@ -2443,6 +2483,11 @@
 "title": "维基百科：江阴长江大桥",
 "url": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E9%98%B4%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5",
 "type": "wiki"
+},
+{
+"title": "江阴长江公路大桥（1999年9月28日建成通车）",
+"url": "http://www.hbtmjzxh.com/news/show.php?itemid=3493",
+"outlet": "湖北省土木建筑学会"
 }
 ],
 "tags": [

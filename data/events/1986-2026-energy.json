@@ -3,7 +3,7 @@
 "id": "1987-08-07-dayawan-construction",
 "date": "1987-08-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "大亚湾核电站开工：中国大陆大型商用核电的起点",
 "category": "tech",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "百度百科：大亚湾核电站",
 "url": "https://baike.baidu.com/item/大亚湾核电站",
 "type": "wiki"
+},
+{
+"title": "【1987年】大亚湾核电站开工建设",
+"url": "http://www.sasac.gov.cn/n2588025/n2649281/n10784966/c11907196/content.html",
+"outlet": "国务院国资委"
 }
 ],
 "tags": [

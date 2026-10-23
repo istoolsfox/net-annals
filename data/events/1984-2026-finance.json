@@ -69,7 +69,7 @@
 "id": "1990-12-19-yang-baiwan-first-account",
 "date": "1990-12-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "杨百万成为上交所一号股民：第一代散户的诞生",
 "category": "economy",
 "region": "cn",
@@ -83,6 +83,11 @@
 "title": "百度百科：杨怀定",
 "url": "https://baike.baidu.com/item/杨怀定",
 "type": "wiki"
+},
+{
+"title": "“杨百万”传奇落幕",
+"url": "http://paper.ce.cn/pc/content/202106/17/content_207281.html",
+"outlet": "经济日报"
 }
 ],
 "tags": [
@@ -97,7 +102,7 @@
 "id": "1991-07-03-szse-formal-opening",
 "date": "1991-07-03",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深交所正式开业：从试营业到合法身份的补办",
 "category": "economy",
 "region": "cn",
@@ -111,6 +116,11 @@
 "title": "百度百科：深圳证券交易所",
 "url": "https://baike.baidu.com/item/深圳证券交易所",
 "type": "wiki"
+},
+{
+"title": "Shenzhen Stock Exchange",
+"url": "https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -125,7 +135,7 @@
 "id": "1991-07-15-sse-index-launch",
 "date": "1991-07-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "上证指数正式发布：中国资本市场的第一把标尺",
 "category": "economy",
 "region": "cn",
@@ -139,6 +149,11 @@
 "title": "百度百科：上证综合指数",
 "url": "https://baike.baidu.com/item/上证综合指数",
 "type": "wiki"
+},
+{
+"title": "数据简报：上证综合指数历史走势图(1991年以来)",
+"url": "http://intl.ce.cn/specials/zxxx/201308/16/t20130816_24669158.shtml",
+"outlet": "中国经济网"
 }
 ],
 "tags": [

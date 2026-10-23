@@ -772,7 +772,7 @@
 "id": "1993-01-07-kagge-solo-south-pole",
 "date": "1993-01-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "卡格独自抵达南极点：第一个『只身』走到南极的人",
 "category": "world",
 "region": "world",
@@ -786,6 +786,11 @@
 "title": "Erling Kagge - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Erling_Kagge",
 "type": "wiki"
+},
+{
+"title": "First solo expedition to the South Pole",
+"url": "https://www.guinnessworldrecords.com/world-records/first-solo-expedition-to-the-south-pole",
+"outlet": "吉尼斯世界纪录"
 }
 ],
 "tags": [
@@ -1211,7 +1216,7 @@
 "id": "1998-12-25-fossett-balloon-rescue",
 "date": "1998-12-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "圣诞夜的太平洋坠海：环球热气球离成功只差半个地球",
 "category": "world",
 "region": "world",
@@ -1225,6 +1230,11 @@
 "title": "Steve Fossett - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Steve_Fossett",
 "type": "wiki"
+},
+{
+"title": "Balloon Trip Ends（Dec. 25, 1998）",
+"url": "https://www.npr.org/1998/12/25/1032388/balloon-trip-ends",
+"outlet": "NPR"
 }
 ],
 "tags": [
@@ -1948,7 +1958,7 @@
 "id": "2006-05-26-lincoln-hall-rescue",
 "date": "2006-05-26",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "林肯·霍尔峰顶生还记：被放弃一夜后的雪山奇迹",
 "category": "world",
 "region": "world",
@@ -1962,6 +1972,11 @@
 "title": "Lincoln Hall - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Lincoln_Hall",
 "type": "wiki"
+},
+{
+"title": "Lincoln Hall (climber)",
+"url": "https://en.wikipedia.org/wiki/Lincoln_Hall_(climber)",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2070,7 +2085,7 @@
 "id": "2008-02-13-steck-eiger-record",
 "date": "2008-02-13",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "斯特克两小时四十七分登艾格北壁：『瑞士机器』的速度革命",
 "category": "world",
 "region": "world",
@@ -2084,6 +2099,11 @@
 "title": "Ueli Steck - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Ueli_Steck",
 "type": "wiki"
+},
+{
+"title": "Steck Cuts 67 Minutes Off Eiger Record（2月13日，2:47:33）",
+"url": "https://alpinist.com/newswire/steck-cuts-67-minutes-off-eiger-record",
+"outlet": "Alpinist"
 }
 ],
 "tags": [

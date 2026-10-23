@@ -151,7 +151,7 @@
 "id": "1993-11-12-midea-ipo",
 "date": "1993-11-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "美的上市：中国第一家乡镇企业改组的上市公司",
 "category": "company",
 "region": "cn",
@@ -165,6 +165,11 @@
 "title": "百度百科：美的集团",
 "url": "https://baike.baidu.com/item/美的集团",
 "type": "wiki"
+},
+{
+"title": "记“乡镇企业改组上市的第一家”",
+"url": "http://www.xinhuanet.com/politics/2018-12/31/c_1123931587.htm",
+"outlet": "新华网"
 }
 ],
 "tags": [
@@ -210,7 +215,7 @@
 "id": "2004-01-28-tcl-thomson-jv",
 "date": "2004-01-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "TCL与汤姆逊合资：中国家电最大一次海外并购",
 "category": "company",
 "region": "cn",
@@ -224,6 +229,11 @@
 "title": "百度百科：TCL",
 "url": "https://baike.baidu.com/item/TCL",
 "type": "wiki"
+},
+{
+"title": "TTE（2004年1月28日巴黎正式签约）",
+"url": "https://baike.baidu.com/item/TTE/9026475",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -239,7 +249,7 @@
 "id": "2006-07-25-gome-acquires-yongle",
 "date": "2006-07-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "国美52.7亿并购永乐：家电连锁大一统的顶点",
 "category": "company",
 "region": "cn",
@@ -253,6 +263,11 @@
 "title": "百度百科：国美电器",
 "url": "https://baike.baidu.com/item/国美电器",
 "type": "wiki"
+},
+{
+"title": "国美与永乐昨晚合并",
+"url": "http://news.sina.com.cn/c/2006-07-26/06369567712s.shtml",
+"outlet": "新浪新闻"
 }
 ],
 "tags": [

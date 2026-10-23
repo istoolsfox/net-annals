@@ -81,10 +81,10 @@
 ]
 },
 {
-"id": "2007-01-04-peng-yu-case",
-"date": "2007-01-04",
+"id": "2007-09-04-peng-yu-case",
+"date": "2007-09-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "彭宇案一审判决：『扶不扶』成为全民之问",
 "category": "society",
 "region": "cn",
@@ -98,6 +98,11 @@
 "title": "百度百科：彭宇案",
 "url": "https://baike.baidu.com/item/彭宇案",
 "type": "wiki"
+},
+{
+"title": "南京彭宇案（一审宣判2007年9月4日；1月4日为起诉日）",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%8D%97%E4%BA%AC%E5%BD%AD%E5%AE%87%E6%A1%88",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [

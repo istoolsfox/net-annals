@@ -126,7 +126,7 @@
 "id": "1988-01-08-legend-of-galactic-heroes-ova",
 "date": "1988-01-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《银河英雄传说》OVA开播：太空歌剧的巅峰长卷",
 "category": "culture",
 "region": "world",
@@ -140,6 +140,11 @@
 "title": "银河英雄传说 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/银河英雄传说",
 "type": "wiki"
+},
+{
+"title": "银河英雄传说",
+"url": "https://baike.baidu.com/item/银河英雄传说/2246321",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -515,7 +520,7 @@
 "id": "1993-08-07-patlabor-2-the-movie",
 "date": "1993-08-07",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《机动警察剧场版2》上映：押井守的战争惊梦",
 "category": "culture",
 "region": "world",
@@ -529,6 +534,11 @@
 "title": "機動警察パトレイバー2 the Movie - ウィキペディア",
 "url": "https://ja.wikipedia.org/wiki/機動警察パトレイバー2 the Movie",
 "type": "wiki"
+},
+{
+"title": "松竹电影数据库：機動警察パトレイバー2 the Movie（公開日1993年8月7日）",
+"url": "https://www.shochiku.co.jp/cinema/database/04387",
+"outlet": "松竹"
 }
 ],
 "tags": [
@@ -1330,7 +1340,7 @@
 "id": "2002-02-02-voices-of-a-distant-star-release",
 "date": "2002-02-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《星之声》发表：一个人的动画征服了业界",
 "category": "culture",
 "region": "world",
@@ -1344,6 +1354,11 @@
 "title": "星之声 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/星之声",
 "type": "wiki"
+},
+{
+"title": "ほしのこえ（2002年2月2日公开）",
+"url": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%97%E3%81%AE%E3%81%93%E3%81%88",
+"outlet": "Wikipedia（日文）"
 }
 ],
 "tags": [
@@ -1714,16 +1729,16 @@
 ]
 },
 {
-"id": "2006-09-06-rainbow-cat-seven-swords-premiere",
-"date": "2006-09-06",
+"id": "2006-09-05-rainbow-cat-seven-swords-premiere",
+"date": "2006-09-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《虹猫蓝兔七侠传》开播：国产武侠动画的现象级爆发",
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "2006年9月6日，108集长篇武侠动画《虹猫蓝兔七侠传》在央视少儿频道开播。七剑合璧对抗魔教黑心虎的故事，把成人民侠武侠装进动画，创下了国产动画收视与图书销售的双重纪录，也引发了一场关于『动画片该不该有暴力』的全国论战。",
-"detail": "湖南宏梦卡通与三辰卡通联合制作的《虹猫蓝兔七侠传》2006年9月6日起在央视少儿频道首播，由王宏、贺梦凡等主创，把金庸式武侠叙事——虹猫、蓝兔等七剑传人集结对抗黑小虎魔教——做成长篇连续剧。作品人物塑造、悬念结构与主题曲（《人生不过一百年》）广受好评，播出后图书销量数千万册，衍生玩具、舞台剧全面开花，被媒体称为『中国动画产业的转折之作』。2007年央视一度停播（家长投诉暴力），引发全国性讨论与复播，成为动画分级讨论的标志性事件。后续推出《虹猫仗剑走天涯》等多部续作，但都未复刻首部的现象级热度。",
+"summary_30s": "2006年9月5日，108集长篇武侠动画《虹猫蓝兔七侠传》在央视少儿频道开播。七剑合璧对抗魔教黑心虎的故事，把成人民侠武侠装进动画，创下了国产动画收视与图书销售的双重纪录，也引发了一场关于『动画片该不该有暴力』的全国论战。",
+"detail": "湖南宏梦卡通与三辰卡通联合制作的《虹猫蓝兔七侠传》2006年9月5日起在央视少儿频道首播，由王宏、贺梦凡等主创，把金庸式武侠叙事——虹猫、蓝兔等七剑传人集结对抗黑小虎魔教——做成长篇连续剧。作品人物塑造、悬念结构与主题曲（《人生不过一百年》）广受好评，播出后图书销量数千万册，衍生玩具、舞台剧全面开花，被媒体称为『中国动画产业的转折之作』。2007年央视一度停播（家长投诉暴力），引发全国性讨论与复播，成为动画分级讨论的标志性事件。后续推出《虹猫仗剑走天涯》等多部续作，但都未复刻首部的现象级热度。",
 "impact": "《虹猫蓝兔》证明国产动画可以承载复杂的长篇叙事，其引发的停播风波把『动画分级』第一次推入公共政策讨论。",
 "aftermath": "宏梦卡通后来经营受挫；2020年代粉丝圈仍以『七侠传』为国产动画黄金期符号，B站上有大量二次解说。",
 "sources": [
@@ -1731,6 +1746,11 @@
 "title": "虹猫蓝兔七侠传 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/虹猫蓝兔七侠传",
 "type": "wiki"
+},
+{
+"title": "虹猫蓝兔七侠传（2006年9月5日央视少儿频道首播）",
+"url": "https://baike.baidu.com/item/%E8%99%B9%E7%8C%AB%E8%93%9D%E5%85%94%E4%B8%83%E4%BE%A0%E4%BC%A0/9520903",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -3811,7 +3831,7 @@
 "id": "2006-04-04-gintama-anime",
 "date": "2006-04-04",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《银魂》动画开播：武士时代的无节操挽歌",
 "category": "culture",
 "region": "world",
@@ -3825,6 +3845,11 @@
 "title": "百度百科：银魂",
 "url": "https://baike.baidu.com/item/银魂",
 "type": "wiki"
+},
+{
+"title": "銀魂 (動畫)",
+"url": "https://zh.wikipedia.org/zh-hans/%E9%8A%80%E9%AD%82_(%E5%8B%95%E7%95%AB)",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [

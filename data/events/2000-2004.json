@@ -1302,7 +1302,7 @@
 "id": "2002-02-16-yang-yang-first-winter-gold",
 "date": "2002-02-16",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "大杨扬盐湖城夺金：中国冬奥金牌零的突破",
 "category": "culture",
 "region": "cn",
@@ -1316,6 +1316,11 @@
 "title": "Wikipedia: 2002年冬季奥林匹克运动会",
 "url": "https://zh.wikipedia.org/wiki/2002年冬季奥林匹克运动会",
 "type": "wiki"
+},
+{
+"title": "中国冬奥名将杨扬",
+"url": "https://www.olympics.com/zh/news/chinese-winter-olympic-big-names-series-yang-yang",
+"outlet": "Olympics.com"
 }
 ],
 "tags": [
@@ -1331,7 +1336,7 @@
 "id": "2002-03-08-meteor-garden-banned",
 "date": "2002-03-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《流星花园》遭停播：F4 与偶像剧启蒙的一个插曲",
 "category": "culture",
 "region": "cn",
@@ -1345,6 +1350,11 @@
 "title": "Wikipedia: 流星花园",
 "url": "https://zh.wikipedia.org/wiki/流星花园",
 "type": "wiki"
+},
+{
+"title": "Chinese censors dim the lights on 'Meteor Garden'",
+"url": "https://www.taipeitimes.com/News/front/archives/2002/03/13/0000127458",
+"outlet": "Taipei Times"
 }
 ],
 "tags": [
@@ -3099,7 +3109,7 @@
 "id": "2004-07-28-wuhan-metro-line1-sightseeing",
 "date": "2004-07-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "武汉轻轨1号线观光运营：中西部首条城市轨道交通开跑",
 "category": "economy",
 "region": "cn",
@@ -3113,6 +3123,11 @@
 "title": "维基百科：武汉轨道交通1号线",
 "url": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A1%E5%8F%B7%E7%BA%BF",
 "type": "wiki"
+},
+{
+"title": "武汉地铁1号线（2004年7月28日观光试运营）",
+"url": "https://baike.baidu.com/item/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF/10154793",
+"outlet": "百度百科"
 }
 ],
 "tags": [

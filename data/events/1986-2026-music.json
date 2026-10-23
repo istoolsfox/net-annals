@@ -96,7 +96,7 @@
 "id": "1987-01-28-feixiang-spring-gala",
 "date": "1987-01-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "费翔春晚唱《冬天里的一把火》：全民偶像诞生",
 "category": "culture",
 "region": "cn",
@@ -110,6 +110,11 @@
 "title": "Wikipedia: 春节联欢晚会",
 "url": "https://zh.wikipedia.org/wiki/春节联欢晚会",
 "type": "wiki"
+},
+{
+"title": "冬天里的一把火",
+"url": "https://baike.baidu.com/item/%E5%86%AC%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%80%E6%8A%8A%E7%81%AB/9159",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -1405,7 +1410,7 @@
 "id": "1997-03-28-xue-lang-hu",
 "date": "1997-03-28",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "张学友《雪狼湖》首演：华语音乐剧的探路之作",
 "category": "culture",
 "region": "cn",
@@ -1419,6 +1424,11 @@
 "title": "Wikipedia: 雪狼湖",
 "url": "https://zh.wikipedia.org/wiki/雪狼湖",
 "type": "wiki"
+},
+{
+"title": "雪狼湖（1997年3月28日红馆首演）",
+"url": "https://zh.wikipedia.org/wiki/%E9%9B%AA%E7%8B%BC%E6%B9%96",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -1579,7 +1589,7 @@
 "id": "1998-01-27-xiangyue-jiuba",
 "date": "1998-01-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《相约九八》：王菲那英的春晚双姝时刻",
 "category": "culture",
 "region": "cn",
@@ -1593,6 +1603,11 @@
 "title": "Wikipedia: 王菲",
 "url": "https://zh.wikipedia.org/wiki/王菲",
 "type": "wiki"
+},
+{
+"title": "相约一九九八",
+"url": "https://baike.baidu.com/item/%E7%9B%B8%E7%BA%A6%E4%B8%80%E4%B9%9D%E4%B9%9D%E5%85%AB/3413374",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -2366,7 +2381,7 @@
 "id": "2005-01-21-tonghua-guang-liang",
 "date": "2005-01-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "光良《童话》：KTV的国民泪点",
 "category": "culture",
 "region": "cn",
@@ -2380,6 +2395,11 @@
 "title": "Wikipedia: 光良",
 "url": "https://zh.wikipedia.org/wiki/光良",
 "type": "wiki"
+},
+{
+"title": "童話 (專輯)",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%AB%A5%E8%A9%B1_(%E5%B0%88%E8%BC%AF)",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2480,16 +2500,16 @@
 ]
 },
 {
-"id": "2006-09-08-qian-li-zhi-wai",
-"date": "2006-09-08",
+"id": "2006-09-05-qian-li-zhi-wai",
+"date": "2006-09-05",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《千里之外》发行：周杰伦与费玉清的世纪混搭",
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "9月8日，周杰伦专辑《依然范特西》发行，与费玉清合唱的《千里之外》随之唱遍大街小巷。说唱转音遇上美声歌王的婉转，『我送你离开，千里之外』成为对唱永恒曲目——流行与经典的跨界自此有了标杆。",
-"detail": "2006年9月8日，周杰伦发行专辑《依然范特西》。专辑中的《千里之外》请来以《一剪梅》闻名的老牌歌手费玉清共同演唱：周杰伦的含混念白与费玉清清亮的传统唱腔交替对唱，方文山的词写尽乱世离别的中国式哀愁，MV以旧上海戏院为背景。歌曲发布后引发巨大话题，两代唱法的碰撞让年轻听众认识了费玉清，也让周杰伦的中国风路线再添经典；《听妈妈的话》《菊花台》同年继续扩大其国民度。此后跨代合唱成为华语晚会与综艺的热门配方。",
+"summary_30s": "9月5日，周杰伦专辑《依然范特西》发行，与费玉清合唱的《千里之外》随之唱遍大街小巷。说唱转音遇上美声歌王的婉转，『我送你离开，千里之外』成为对唱永恒曲目——流行与经典的跨界自此有了标杆。",
+"detail": "2006年9月5日，周杰伦发行专辑《依然范特西》。专辑中的《千里之外》请来以《一剪梅》闻名的老牌歌手费玉清共同演唱：周杰伦的含混念白与费玉清清亮的传统唱腔交替对唱，方文山的词写尽乱世离别的中国式哀愁，MV以旧上海戏院为背景。歌曲发布后引发巨大话题，两代唱法的碰撞让年轻听众认识了费玉清，也让周杰伦的中国风路线再添经典；《听妈妈的话》《菊花台》同年继续扩大其国民度。此后跨代合唱成为华语晚会与综艺的热门配方。",
 "impact": "流行与美声的跨代合作范式确立，老牌歌手借流量歌曲完成代际翻红。",
 "aftermath": "费玉清2019年宣布封麦告别歌坛；『千里之外』仍是各路晚会与对唱节目的保留曲目。",
 "sources": [
@@ -2497,6 +2517,11 @@
 "title": "Wikipedia: 千里之外",
 "url": "https://zh.wikipedia.org/wiki/千里之外",
 "type": "wiki"
+},
+{
+"title": "依然范特西（因母带泄露提前至2006年9月5日发行）",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%BE%9D%E7%84%B6%E8%8C%83%E7%89%B9%E8%A5%BF",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2742,7 +2767,7 @@
 "id": "2008-08-08-wo-he-ni",
 "date": "2008-08-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《我和你》唱响鸟巢：奥运开幕式的极简主题曲",
 "category": "culture",
 "region": "cn",
@@ -2756,6 +2781,11 @@
 "title": "Wikipedia: 2008年夏季奥林匹克运动会开幕式",
 "url": "https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会开幕式",
 "type": "wiki"
+},
+{
+"title": "刘欢、莎拉·布莱曼献唱主题曲《我和你》",
+"url": "http://2008.cctv.com/20080808/116610.shtml",
+"outlet": "央视网"
 }
 ],
 "tags": [

@@ -756,7 +756,7 @@
 "id": "2001-12-31-analog-network-shutdown",
 "date": "2001-12-31",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "模拟移动电话网全面关闭：大哥大谢幕",
 "category": "tech",
 "region": "cn",
@@ -770,6 +770,11 @@
 "title": "知乎专栏：2G-3G减频退网白皮书",
 "url": "https://zhuanlan.zhihu.com/p/178788214",
 "type": "blog"
+},
+{
+"title": "中国模拟移动通信网关闭（2001年12月31日24时）",
+"url": "http://tech.sina.com.cn/it/t/2002-01-01/98043.shtml",
+"outlet": "新浪科技"
 }
 ],
 "tags": [

@@ -89,15 +89,15 @@
 ]
 },
 {
-"id": "1993-03-11-chic-fair-debut",
-"date": "1993-03-11",
-"date_accuracy": "exact",
-"date_confidence": "single-source",
+"id": "1993-05-01-chic-fair-debut",
+"date": "1993-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
 "title": "首届CHIC服装博览会在京开幕：中国时装的产业总动员",
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "1993年3月11日，中国国际服装服饰博览会（CHIC）在北京开幕，首届就汇聚了海内外数百家服装企业。中国服装业从此有了年度订货与品牌发布的第一舞台，『做品牌』替代『做加工』成为行业口号。",
+"summary_30s": "1993年5月，中国国际服装服饰博览会（CHIC）在北京开幕，首届就汇聚了海内外数百家服装企业。中国服装业从此有了年度订货与品牌发布的第一舞台，『做品牌』替代『做加工』成为行业口号。",
 "detail": "CHIC由中国服装集团等机构创办，首届即以国际展团与本土品牌同场竞技的格局亮相，杉杉、雅戈尔等第一代男装品牌借此完成全国招商。此后CHIC成为亚洲规模最大的服装专业展会，每年3月在北京（后期移师上海）举办；代理加盟、专卖店体系、明星代言等现代服装营销机制都经由这个展会向全国复制。中国服装行业协会的产业数据也以CHIC为年度发布节点。",
 "impact": "中国服装业从接单加工转向品牌经营的产业升级，以一场博览会为标志全面启动。",
 "aftermath": "CHIC三十余年见证男装、女装、休闲装、童装轮番崛起；展会功能从订货转向发布与趋势，数字化选品平台接续线下办展。",
@@ -106,6 +106,11 @@
 "title": "百度百科：中国国际服装服饰博览会",
 "url": "https://baike.baidu.com/item/中国国际服装服饰博览会",
 "type": "wiki"
+},
+{
+"title": "衣启万象：中国服装设计30年（1993年5月首届CHIC在北京召开）",
+"url": "https://www.chinasilkmuseum.com/yz/info_18.aspx?itemid=30907",
+"outlet": "中国丝绸博物馆"
 }
 ],
 "tags": [
@@ -176,7 +181,7 @@
 "id": "2007-10-11-bosideng-ipo",
 "date": "2007-10-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "波司登港股上市：羽绒服之王的资本化",
 "category": "company",
 "region": "cn",
@@ -190,6 +195,11 @@
 "title": "百度百科：波司登",
 "url": "https://baike.baidu.com/item/波司登",
 "type": "wiki"
+},
+{
+"title": "波司登把连锁店开到欧洲",
+"url": "http://paper.people.com.cn/rmrbhwb/html/2013-06/22/content_1257779.htm",
+"outlet": "人民日报海外版"
 }
 ],
 "tags": [

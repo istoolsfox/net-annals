@@ -1,12 +1,24 @@
 {
  "1101": [
   "1973-08-01-first-national-env-conference",
+  "1973-08-26-computer-150-model",
+  "1975-09-12-3rd-national-games-beijing",
+  "1975-12-25-yanshan-ethylene-unit-built",
   "1977-09-01-pinyin-international-standard",
+  "1977-12-01-jingtong-railway-open",
   "1978-01-01-xinwen-lianbo-debut",
   "1978-03-18-national-science-conference",
+  "1978-12-26-first-scholars-to-usa",
+  "1979-03-01-pierre-cardin-beijing-show",
+  "1980-01-01-first-color-tv-production-line",
   "1980-04-10-first-sino-foreign-jv-001",
+  "1980-04-14-jianzhen-statue-return-tour",
+  "1981-03-20-volleyball-win-raise-china-slogan",
+  "1981-09-27-first-beijing-marathon",
   "1982-02-08-national-historic-cities",
   "1984-05-16-sitong-founded-zhongguancun",
+  "1984-10-07-bepc-groundbreaking",
+  "1985-11-20-niweiping-go-super-go-victory",
   "2008-04-28-jiaoji-crash",
   "2023-04-18-changfeng-fire",
   "1994-11-02-cctv-biaowang-first",
@@ -19,7 +31,7 @@
   "2017-03-17-beijing-housing-crackdown",
   "2022-01-01-300m-ice-snow",
   "1981-11-01-cardin-beijing-show",
-  "1993-03-11-chic-fair-debut",
+  "1993-05-01-chic-fair-debut",
   "1997-04-01-china-fashion-week",
   "2008-02-01-hengyuanxiang-zodiac-ad",
   "2008-07-01-olympic-porcelain-gown",
@@ -248,6 +260,7 @@
   "2023-07-29-bering-rain"
  ],
  "1201": [
+  "1980-01-01-first-color-tv-production-line",
   "1984-05-04-dalian-coastal-open-city",
   "2014-02-26-jingjinji-coordination",
   "2000-06-01-tianjin-toyota-founding-2000",
@@ -327,6 +340,9 @@
   "2019-12-29-hohhot-metro-line1",
   "2019-12-30-zhanghu-hsr-full-line",
   "2025-07-28-child-subsidy"
+ ],
+ "1505": [
+  "1977-12-01-jingtong-railway-open"
  ],
  "1506": [
   "2017-09-01-cop13-ordos-desertification"
@@ -430,6 +446,9 @@
  "2302": [
   "2015-08-17-harbin-qiqihar-hsr"
  ],
+ "2306": [
+  "1976-01-01-daqing-50-million-tons"
+ ],
  "2307": [
   "2010-08-24-henan-8387-yichun"
  ],
@@ -438,8 +457,11 @@
  ],
  "3101": [
   "1978-12-23-baosteel-construction-start",
+  "1979-01-01-cihai-1979-edition",
   "1979-01-28-first-tv-commercial",
+  "1980-09-26-y10-first-flight",
   "1984-05-04-dalian-coastal-open-city",
+  "1984-11-20-first-antarctic-expedition-departs",
   "2010-11-15-shanghai-fire",
   "2014-12-31-shanghai-stampede",
   "2021-07-16-national-carbon-market",
@@ -621,7 +643,7 @@
   "2014-08-16-nanjing-youth-olympics",
   "2021-04-01-xici-hutong-final",
   "2005-09-01-nanjing-metro-line1",
-  "2007-01-04-peng-yu-case",
+  "2007-09-04-peng-yu-case",
   "2014-02-27-memorial-day-decision",
   "2025-05-10-su-chao"
  ],
@@ -667,6 +689,7 @@
   "2016-06-23-yancheng-funing-tornado"
  ],
  "3210": [
+  "1980-04-14-jianzhen-statue-return-tour",
   "1982-02-08-national-historic-cities",
   "2021-06-16-yangzhou-canal-museum"
  ],
@@ -725,6 +748,9 @@
   "2017-12-27-ningbo-zhoushan-port-billion-tonnes",
   "2019-11-27-gao-yixiang"
  ],
+ "330281": [
+  "1973-07-01-hemudu-site-discovered"
+ ],
  "330282": [
   "2008-05-01-hangzhou-bay-bridge-open"
  ],
@@ -774,6 +800,7 @@
   "2002-12-03-shanghai-expo-bid-won"
  ],
  "3401": [
+  "1984-10-01-first-national-disabled-games",
   "2010-06-01-nev-private-subsidy-pilot-2010",
   "2020-04-01-nio-china-hq-hefei-2020",
   "2016-09-10-zheng-xu-hsr",
@@ -920,6 +947,7 @@
   "2009-08-16-zhai-mo-circumnavigation"
  ],
  "3713": [
+  "1972-04-01-yinqueshan-han-bamboo-slips",
   "2016-08-19-xu-yuyu-case"
  ],
  "3714": [
@@ -961,6 +989,7 @@
   "2021-03-28-luoyang-metro-line1"
  ],
  "4105": [
+  "1976-05-16-fuhao-tomb-discovered",
   "2024-02-26-yinxu-museum"
  ],
  "4111": [
@@ -1026,6 +1055,7 @@
   "2019-11-29-hanshi-high-speed-rail-open"
  ],
  "4301": [
+  "1973-12-01-mawangdui-silk-manuscripts",
   "2022-04-29-changsha-collapse",
   "1972-01-16-mawangdui-tomb",
   "1992-01-01-want-want-hunan-factory",
@@ -1040,6 +1070,7 @@
   "2021-05-22-yuan-longping-died"
  ],
  "4302": [
+  "1972-10-01-xiangqian-railway-open",
   "2020-07-01-shen24-electric-locomotive"
  ],
  "4304": [
@@ -1117,6 +1148,7 @@
   "1979-07-08-shekou-industrial-zone-groundbreaking",
   "1980-08-26-shenzhen-sez-established",
   "1980-10-07-xiamen-sez-approved",
+  "1983-07-08-baoan-first-stock",
   "1993-11-19-zhili-fire",
   "2015-12-20-shenzhen-landfill-slide",
   "2019-04-01-zero-waste-city",
@@ -1420,6 +1452,7 @@
   "2020-03-30-xichang-fire"
  ],
  "5201": [
+  "1972-10-01-xiangqian-railway-open",
   "2014-12-26-gui-yang-guangzhou-hsr",
   "2014-01-01-guian-new-area",
   "2016-12-28-hukun-hsr-yunnan-section",
@@ -1456,6 +1489,7 @@
   "2021-12-03-china-laos-railway-open"
  ],
  "5306": [
+  "1974-05-11-yongshan-daguan-earthquake",
   "2013-01-11-zhenxiong-landslide",
   "2014-08-03-ludian-earthquake"
  ],
@@ -1552,6 +1586,9 @@
  ],
  "6205": [
   "2024-03-01-tianshui-malatang"
+ ],
+ "6206": [
+  "1972-11-01-wuwei-han-medical-slips"
  ],
  "6209": [
   "2015-12-17-wukong-dampe",
@@ -1681,6 +1718,9 @@
  ],
  "81": [
   "1979-07-08-shekou-industrial-zone-groundbreaking",
+  "1981-03-20-volleyball-win-raise-china-slogan",
+  "1982-02-01-shaolin-temple-film-release",
+  "1984-10-01-first-national-disabled-games",
   "2025-09-24-typhoon-ragasa",
   "2022-07-03-hk-palace-museum",
   "1993-03-26-sf-express-founding",

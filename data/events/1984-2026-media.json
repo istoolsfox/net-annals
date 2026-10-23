@@ -3,7 +3,7 @@
 "id": "1984-02-11-southern-weekly-founded",
 "date": "1984-02-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《南方周末》创刊：一份周报的三十年新闻想象",
 "category": "culture",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "百度百科：南方周末",
 "url": "https://baike.baidu.com/item/南方周末",
 "type": "wiki"
+},
+{
+"title": "Southern Weekly",
+"url": "https://en.wikipedia.org/wiki/Southern_Weekly",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -31,7 +36,7 @@
 "id": "1986-12-15-pearl-river-radio-model",
 "date": "1986-12-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "珠江经济广播电台开播：『珠江模式』改写中国广播",
 "category": "culture",
 "region": "cn",
@@ -45,6 +50,11 @@
 "title": "百度百科：珠江经济广播电台",
 "url": "https://baike.baidu.com/item/广东广播电视台珠江经济广播电台",
 "type": "wiki"
+},
+{
+"title": "广东广播电视台珠江经济台",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%B9%BF%E4%B8%9C%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%8F%A0%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%8F%B0",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [

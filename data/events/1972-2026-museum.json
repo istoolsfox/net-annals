@@ -198,7 +198,7 @@
 "id": "2001-02-08-jinsha-site",
 "date": "2001-02-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "金沙遗址发现：太阳神鸟接棒三星堆的古蜀都邑",
 "category": "culture",
 "region": "cn",
@@ -212,6 +212,11 @@
 "title": "百度百科：金沙遗址",
 "url": "https://baike.baidu.com/item/金沙遗址",
 "type": "wiki"
+},
+{
+"title": "文明探源丨金沙遗址：太阳神鸟起飞的地方",
+"url": "https://www.news.cn/politics/20250614/6adbadfd34fe4ac097d371a14796ff52/c.html",
+"outlet": "新华网"
 }
 ],
 "tags": [
@@ -285,7 +290,7 @@
 "id": "2006-10-06-suzhou-museum",
 "date": "2006-10-06",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "苏州博物馆新馆开馆：贝聿铭的封山之作",
 "category": "culture",
 "region": "cn",
@@ -299,6 +304,11 @@
 "title": "百度百科：苏州博物馆",
 "url": "https://baike.baidu.com/item/苏州博物馆",
 "type": "wiki"
+},
+{
+"title": "2006年苏州博物馆大事记（10月6日新馆开馆）",
+"url": "https://www.szmuseum.com/News/Details/c7f9ff6c-260d-4f3e-a231-8e4a281bb5dd",
+"outlet": "苏州博物馆"
 }
 ],
 "tags": [

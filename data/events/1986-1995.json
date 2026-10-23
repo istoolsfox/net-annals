@@ -255,7 +255,7 @@
 "id": "1986-10-12-queen-elizabeth-ii-visit",
 "date": "1986-10-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "英国女王访华：西方元首外交的破冰之旅",
 "category": "national",
 "region": "cn",
@@ -269,6 +269,11 @@
 "title": "Wikipedia: 伊丽莎白二世",
 "url": "https://zh.wikipedia.org/wiki/伊丽莎白二世",
 "type": "wiki"
+},
+{
+"title": "伊丽莎白二世访华",
+"url": "https://baike.baidu.com/item/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E4%BA%8C%E4%B8%96%E8%AE%BF%E5%8D%8E/62067736",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -585,7 +590,7 @@
 "id": "1987-11-12-kfc-qianmen-open",
 "date": "1987-11-12",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "肯德基落户北京前门：洋快餐进城",
 "category": "society",
 "region": "cn",
@@ -599,6 +604,11 @@
 "title": "Wikipedia: 肯德基",
 "url": "https://zh.wikipedia.org/wiki/肯德基",
 "type": "wiki"
+},
+{
+"title": "肯德基（前门东大街餐厅）",
+"url": "https://baike.baidu.com/item/%E8%82%AF%E5%BE%B7%E5%9F%BA%EF%BC%88%E5%89%8D%E9%97%A8%E4%B8%9C%E5%A4%A7%E8%A1%97%E9%A4%90%E5%8E%85%EF%BC%89/14283740",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -758,7 +768,7 @@
 "id": "1988-01-19-shanghai-hepatitis-a",
 "date": "1988-01-19",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "上海甲肝大流行：31万人与一只毛蚶",
 "category": "society",
 "region": "cn",
@@ -772,6 +782,11 @@
 "title": "Wikipedia: 甲型肝炎",
 "url": "https://zh.wikipedia.org/wiki/甲型肝炎",
 "type": "wiki"
+},
+{
+"title": "1988年上海市甲型肝炎大流行",
+"url": "https://zh.wikipedia.org/zh-hans/1988%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%94%B2%E5%9E%8B%E8%82%9D%E7%82%8E%E5%A4%A7%E6%B5%81%E8%A1%8C",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -2345,7 +2360,7 @@
 "id": "1991-02-08-faw-volkswagen-founding",
 "date": "1991-02-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "一汽-大众成立：中国第一个按经济规模起步的轿车合资企业",
 "category": "company",
 "region": "cn",
@@ -2359,6 +2374,11 @@
 "title": "维基百科：一汽-大众",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%BD-%E5%A4%A7%E4%BC%97",
 "type": "wiki"
+},
+{
+"title": "发展历程（企业大事记：1991年2月8日第一次董事会暨揭牌）",
+"url": "https://www.faw-vw.com/development-journey",
+"outlet": "一汽-大众"
 }
 ],
 "tags": [
@@ -2376,7 +2396,7 @@
 "id": "1991-02-15-huangfuping-commentary",
 "date": "1991-02-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "皇甫平四论：改革第二次思想解放的先声",
 "category": "national",
 "region": "cn",
@@ -2390,6 +2410,11 @@
 "title": "Wikipedia: 皇甫平",
 "url": "https://zh.wikipedia.org/wiki/皇甫平",
 "type": "wiki"
+},
+{
+"title": "今天｜2月15日，28年前，解放日报“皇甫平”发表系列评论",
+"url": "https://www.shobserver.cn/wx/detail.do?id=127015",
+"outlet": "上观新闻"
 }
 ],
 "tags": [
@@ -3135,7 +3160,7 @@
 "id": "1992-03-09-zhuhai-tech-award",
 "date": "1992-03-09",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "珠海首开『科技重奖』先河：科技人员获奖奥迪轿车与住房",
 "category": "national",
 "region": "cn",
@@ -3149,6 +3174,11 @@
 "title": "Wikipedia: 珠海科技重奖",
 "url": "https://zh.wikipedia.org/wiki/珠海科技重奖",
 "type": "wiki"
+},
+{
+"title": "我的特区故事｜轰动全国的珠海科技重奖，是这样诞生的",
+"url": "https://news.dayoo.com/guangdong/202008/03/139996_53462486.htm",
+"outlet": "大洋网"
 }
 ],
 "tags": [
@@ -3275,7 +3305,7 @@
 "id": "1992-05-21-sh-price-liberalized",
 "date": "1992-05-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "上交所放开股价：单日暴涨105%的疯狂星期二",
 "category": "economy",
 "region": "cn",
@@ -3289,6 +3319,11 @@
 "title": "维基百科：上海证券交易所",
 "url": "https://zh.wikipedia.org/wiki/上海证券交易所",
 "type": "wiki"
+},
+{
+"title": "小人物回望中国股市20年",
+"url": "http://paper.people.com.cn/rmwz/html/2011-02/01/content_793454.htm?div=-1",
+"outlet": "人民日报"
 }
 ],
 "tags": [
@@ -3530,7 +3565,7 @@
 "id": "1992-08-10-shenzhen-subscription-crisis",
 "date": "1992-08-10",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深圳『8·10』认购证风波：百万股民催生证监会",
 "category": "society",
 "region": "cn",
@@ -3544,6 +3579,11 @@
 "title": "Wikipedia: 深圳证券交易所",
 "url": "https://zh.wikipedia.org/wiki/深圳证券交易所",
 "type": "wiki"
+},
+{
+"title": "深圳810事件",
+"url": "http://www.reformdata.org/2011/0212/9841.shtml",
+"outlet": "中国改革信息库"
 }
 ],
 "tags": [
@@ -3900,7 +3940,7 @@
 "id": "1993-03-02-ihep-slac-line",
 "date": "1993-03-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "高能所开通到美国的64K专线（限科研使用）",
 "category": "internet",
 "region": "cn",
@@ -3914,6 +3954,11 @@
 "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
 "type": "official"
+},
+{
+"title": "高能所·中国互联网的先行者",
+"url": "https://ihep.cas.cn/kxcb/kpcg/jsywl/201407/t20140714_4156699.html",
+"outlet": "中科院高能物理研究所"
 }
 ],
 "tags": [
@@ -4214,7 +4259,7 @@
 "id": "1993-09-23-olympic-bid-lost",
 "date": "1993-09-23",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "北京申奥以两票之差失利，全民同守电视机",
 "category": "society",
 "region": "cn",
@@ -4228,6 +4273,11 @@
 "title": "维基百科：2000年夏季奥林匹克运动会",
 "url": "https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会",
 "type": "wiki"
+},
+{
+"title": "北京如何一步步申奥成功",
+"url": "https://xinwen.bjd.com.cn/content/s66a0a8cde4b0e75a1b8f4b5b.html",
+"outlet": "北京日报"
 }
 ],
 "tags": [
@@ -4808,7 +4858,7 @@
 "id": "1994-05-21-cn-dns-home",
 "date": "1994-05-21",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": ".CN 域名服务器迁回国内",
 "category": "internet",
 "region": "cn",
@@ -4822,6 +4872,11 @@
 "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
 "type": "official"
+},
+{
+"title": "十年探索，漫漫育“根”路",
+"url": "https://news.sciencenet.cn/sbhtmlnews/200764020609181120.html?id=181120",
+"outlet": "科学网"
 }
 ],
 "tags": [
@@ -5433,7 +5488,7 @@
 "id": "1995-08-08-smth-bbs",
 "date": "1995-08-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "水木清华 BBS 开站：中国网络社区之祖",
 "category": "internet",
 "region": "cn",
@@ -5447,6 +5502,11 @@
 "title": "维基百科：水木社区",
 "url": "https://zh.wikipedia.org/wiki/水木社区",
 "type": "wiki"
+},
+{
+"title": "校园BBS风雨十年路",
+"url": "https://www.edu.cn/cxcy_12722/20141105/t20141105_1198982.shtml",
+"outlet": "中国教育和科研计算机网CERNET"
 }
 ],
 "tags": [

@@ -212,7 +212,7 @@
 "id": "2001-08-18-wenzhou-house-tour",
 "date": "2001-08-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "温州炒房团出道：第一列看房火车开往上海",
 "category": "economy",
 "region": "cn",
@@ -226,6 +226,11 @@
 "title": "百度百科：温州炒房团",
 "url": "https://baike.baidu.com/item/温州炒房团",
 "type": "wiki"
+},
+{
+"title": "温州炒房团（2001年8月18日首趟赴沪看房专列）",
+"url": "https://baike.baidu.com/item/%E6%B8%A9%E5%B7%9E%E7%82%92%E6%88%BF%E5%9B%A2/6948613",
+"outlet": "百度百科"
 }
 ],
 "tags": [
@@ -372,7 +377,7 @@
 "id": "2008-10-27-mortgage-rate-discount",
 "date": "2008-10-27",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "房贷新政：首套利率7折开启救市通道",
 "category": "economy",
 "region": "cn",
@@ -386,6 +391,11 @@
 "title": "百度百科：个人住房贷款",
 "url": "https://baike.baidu.com/item/个人住房贷款",
 "type": "wiki"
+},
+{
+"title": "房贷新政搅动楼市（10月27日起利率下限0.7倍）",
+"url": "http://www.xinhuanet.com/house/bj/zt/fdxz-SZ/index.html",
+"outlet": "新华网"
 }
 ],
 "tags": [

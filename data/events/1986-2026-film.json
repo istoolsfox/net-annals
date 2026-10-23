@@ -1446,7 +1446,7 @@
 "id": "1994-10-14-shawshank-1994-film-year",
 "date": "1994-10-14",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《肖申克的救赎》公映：94电影大年的传奇注脚",
 "category": "culture",
 "region": "world",
@@ -1460,6 +1460,11 @@
 "title": "Wikipedia: 肖申克的救赎",
 "url": "https://zh.wikipedia.org/wiki/肖申克的救赎",
 "type": "wiki"
+},
+{
+"title": "肖申克的救赎（1994年10月14日全面发行）",
+"url": "https://zh.wikipedia.org/zh-hans/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [
@@ -3038,7 +3043,7 @@
 "id": "2006-06-30-crazy-stone",
 "date": "2006-06-30",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《疯狂的石头》上映：三百万砸出的国产黑色幽默",
 "category": "culture",
 "region": "cn",
@@ -3052,6 +3057,11 @@
 "title": "Wikipedia: 疯狂的石头",
 "url": "https://zh.wikipedia.org/wiki/疯狂的石头",
 "type": "wiki"
+},
+{
+"title": "疯狂的石头",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%96%AF%E7%8B%82%E7%9A%84%E7%9F%B3%E5%A4%B4",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [

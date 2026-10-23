@@ -3025,7 +3025,7 @@
 "id": "1994-07-31-bubka-614m-pole-vault",
 "date": "1994-07-31",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "布勃卡6.14米：撑杆跳沙皇的第35次世界纪录",
 "category": "culture",
 "region": "world",
@@ -3039,6 +3039,11 @@
 "title": "百度百科：谢尔盖·布勃卡",
 "url": "https://baike.baidu.com/item/谢尔盖·布勃卡",
 "type": "wiki"
+},
+{
+"title": "Sergey Bubka",
+"url": "https://en.wikipedia.org/wiki/Sergey_Bubka",
+"outlet": "Wikipedia"
 }
 ],
 "tags": [

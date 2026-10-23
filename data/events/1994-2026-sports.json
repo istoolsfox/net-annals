@@ -877,7 +877,7 @@
 "id": "1998-02-20-chen-lu-nagano-bronze",
 "date": "1998-02-20",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "陈露长野摘铜：《梁祝》响彻冬奥冰场",
 "category": "culture",
 "region": "cn",
@@ -896,6 +896,11 @@
 "title": "Figure skating at the 1998 Winter Olympics - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_1998_Winter_Olympics",
 "type": "wiki"
+},
+{
+"title": "Tara Lipinski wins Olympic gold in women's figure skating (Feb 20, 1998)",
+"url": "https://www.history.com/this-day-in-history/february-20/tara-lipinski-becomes-youngest-olympic-figure-skating-gold-medalist",
+"outlet": "History.com"
 }
 ],
 "tags": [

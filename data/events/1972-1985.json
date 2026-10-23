@@ -1894,7 +1894,7 @@
 "id": "1980-12-11-wenzhou-first-individual-license",
 "date": "1980-12-11",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "温州发出中国第一张个体户营业执照",
 "category": "economy",
 "region": "cn",
@@ -1913,6 +1913,11 @@
 "title": "温州模式 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%B7%9E%E6%A8%A1%E5%BC%8F",
 "type": "wiki"
+},
+{
+"title": "改革开放后第一张个体工商业营业执照",
+"url": "http://dangshi.people.com.cn/n1/2022/0325/c436975-32383852.html",
+"outlet": "人民网党史频道"
 }
 ],
 "tags": [
