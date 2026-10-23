@@ -1,0 +1,257 @@
+[
+  {
+    "id": "tim-berners-lee",
+    "name": "蒂姆·伯纳斯-李",
+    "en_name": "Tim Berners-Lee",
+    "aliases": ["TimBL"],
+    "birth": "1955-06-08",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "world",
+    "headline": "万维网发明人、W3C创始人",
+    "summary_30s": "1989年在CERN提出万维网，开发出首个浏览器与URL/HTTP/HTML；1993年促成CERN免版税开放，Web用户达数十亿；1994年创立W3C制定Web标准，2016年获图灵奖。",
+    "timeline": [
+      {"date": "1976-01-01", "acc": "year", "text": "获牛津大学女王学院物理学学位，毕业后进入英国电信设备企业Plessey任工程师。"},
+      {"date": "1980-01-01", "acc": "year", "text": "以承包顾问身份在CERN工作，编写超文本原型软件ENQUIRE，用于关联科研人员、项目与设备信息。"},
+      {"date": "1989-03-01", "acc": "month", "text": "在CERN提交《信息管理：一项提案》，提出基于超文本的分布式信息系统，即万维网的最初设想。"},
+      {"date": "1990-12-20", "acc": "exact", "text": "与Robert Cailliau合作完善提案，并在NeXT计算机上写出首个浏览器/编辑器WorldWideWeb与首个Web服务器，info.cern.ch网站在CERN内网上线。"},
+      {"date": "1991-08-06", "acc": "exact", "text": "在Usenet发布公开帖介绍WorldWideWeb项目，万维网向公众开放，info.cern.ch成为全球首个公开网站。"},
+      {"date": "1993-04-30", "acc": "exact", "text": "CERN宣布将万维网软件免版税、不收费开放，为Web此后覆盖全球数十亿用户扫清产权障碍。"},
+      {"date": "1994-01-01", "acc": "year", "text": "在麻省理工学院创立万维网联盟（W3C）并出任理事，主持HTML等Web开放标准的制定。"},
+      {"date": "2004-01-01", "acc": "year", "text": "成为首届千禧技术奖得主（奖金100万欧元）；同年因发明万维网获册封爵士。"},
+      {"date": "2016-01-01", "acc": "year", "text": "获ACM图灵奖（2017年4月揭晓），表彰其发明万维网、首个浏览器以及URL、HTTP、HTML等基础协议。"},
+      {"date": "2018-01-01", "acc": "year", "text": "联合创办Inrupt公司推广Solid项目，探索让用户自主掌控个人数据的去中心化方案。"}
+    ],
+    "achievements": [
+      "发明万维网：1990年开发首个浏览器、服务器及URL/HTTP/HTML协议",
+      "1993年推动CERN将万维网软件免版税开放，奠定Web全球化基础",
+      "1994年创立W3C，主持HTML等Web开放标准制定",
+      "2004年成为首届千禧技术奖得主（奖金100万欧元）",
+      "获2016年图灵奖；后创办Inrupt推动Solid个人数据自主管理"
+    ],
+    "controversies": [],
+    "quotes": [
+      {"text": "This is for everyone（这是为了每一个人）", "source": "2012年伦敦奥运会闭幕式期间发布的推文"}
+    ],
+    "sources": [
+      {"title": "Wikipedia: Tim Berners-Lee", "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee", "type": "wiki"},
+      {"title": "维基百科：蒂姆·伯纳斯-李", "url": "https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E", "type": "wiki"},
+      {"title": "CERN: A short history of the Web", "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web", "type": "official"},
+      {"title": "W3C: Information Management — A Proposal（1989年原始提案）", "url": "https://www.w3.org/History/1989/proposal.html", "type": "official"},
+      {"title": "ACM: Essay on the invention of the Web", "url": "https://dl.acm.org/doi/10.1145/3591366.3591380", "type": "media"}
+    ],
+    "tags": ["万维网", "W3C", "CERN", "互联网", "图灵奖"]
+  },
+  {
+    "id": "vint-cerf",
+    "name": "文顿·瑟夫",
+    "en_name": "Vint Cerf",
+    "aliases": ["Vinton Gray Cerf", "互联网之父"],
+    "birth": "1943-06-23",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "world",
+    "headline": "TCP/IP共同设计者、互联网先驱",
+    "summary_30s": "与Bob Kahn共同设计TCP/IP，1974年论文奠定互联网基础，1983年ARPANET全面切换该协议；后任谷歌副总裁兼首席互联网布道师，2004年与Kahn共获图灵奖。",
+    "timeline": [
+      {"date": "1965-01-01", "acc": "year", "text": "获斯坦福大学数学学士学位，毕业后进入IBM担任系统工程师。"},
+      {"date": "1972-01-01", "acc": "year", "text": "获加州大学洛杉矶分校（UCLA）计算机科学博士学位，读博期间参与ARPANET首个节点联网与性能测量。"},
+      {"date": "1973-01-01", "acc": "year", "text": "任斯坦福大学助理教授，与在DARPA的Bob Kahn开始研究用统一协议连接不同分组交换网络。"},
+      {"date": "1974-05-01", "acc": "month", "text": "与Kahn在IEEE Transactions on Communications发表《A Protocol for Packet Network Intercommunication》，奠定TCP/IP设计。"},
+      {"date": "1976-01-01", "acc": "year", "text": "转入DARPA任项目经理，主持互联网、分组无线网（PRNET）与分组卫星网（SATNET）研究至1982年。"},
+      {"date": "1982-01-01", "acc": "year", "text": "加入MCI任数字信息服务副总裁，主导电子邮件服务MCI Mail的开发。"},
+      {"date": "1983-01-01", "acc": "exact", "text": "1983年1月1日ARPANET全网从NCP切换至TCP/IP，互联网运行于统一协议的基础自此确立。"},
+      {"date": "1986-01-01", "acc": "year", "text": "加入Bob Kahn创办的CNRI任副总裁，继续主持互联网标准与基础设施研究。"},
+      {"date": "1997-01-01", "acc": "year", "text": "与Kahn同获美国国家技术奖章，表彰其创建并持续推动互联网协议发展。"},
+      {"date": "2004-01-01", "acc": "year", "text": "与Kahn获ACM图灵奖，表彰其在互联网通信协议领域的开创性贡献。"},
+      {"date": "2005-10-01", "acc": "month", "text": "加入谷歌，出任副总裁兼首席互联网布道师；同年11月与Kahn获美国总统自由勋章。"},
+      {"date": "2026-07-01", "acc": "month", "text": "结束在谷歌该职位近21年的任期，卸任副总裁兼首席互联网布道师。"}
+    ],
+    "achievements": [
+      "与Bob Kahn共同设计TCP/IP，1974年发表协议奠基论文",
+      "1976-1982年在DARPA主持互联网及分组无线/卫星网研究",
+      "推动1983年1月1日ARPANET全面切换至TCP/IP",
+      "1997年获美国国家技术奖章，2005年获总统自由勋章",
+      "2004年获图灵奖；2005-2026年任谷歌副总裁兼首席互联网布道师"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Vint Cerf", "url": "https://en.wikipedia.org/wiki/Vint_Cerf", "type": "wiki"},
+      {"title": "维基百科：文顿·瑟夫", "url": "https://zh.wikipedia.org/wiki/%E6%96%87%E9%A1%BF%C2%B7%E7%91%9F%E5%A4%AB", "type": "wiki"},
+      {"title": "Cerf & Kahn 1974年TCP奠基论文（IEEE）", "url": "https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf", "type": "paper"},
+      {"title": "ETHW Milestone: TCP Enables the Internet, 1974", "url": "https://ethw.org/Milestones:Transmission_Control_Protocol_(TCP)_Enables_the_Internet,_1974", "type": "official"},
+      {"title": "History of Information: TCP论文发表", "url": "https://www.historyofinformation.com/detail.php?id=915", "type": "media"}
+    ],
+    "tags": ["TCP/IP", "互联网", "谷歌", "ARPANET", "图灵奖"]
+  },
+  {
+    "id": "bob-kahn",
+    "name": "鲍勃·卡恩",
+    "en_name": "Bob Kahn",
+    "aliases": ["Robert Elliot Kahn"],
+    "birth": "1938-12-23",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "world",
+    "headline": "TCP/IP共同设计者、CNRI创办人",
+    "summary_30s": "与Vint Cerf共同设计TCP/IP并合著1974年奠基论文；1972年主持ARPANET首次公开演示，1986年创办CNRI开发Handle系统；2004年共获图灵奖。",
+    "timeline": [
+      {"date": "1960-01-01", "acc": "year", "text": "获纽约城市学院电气工程学士学位。"},
+      {"date": "1964-01-01", "acc": "year", "text": "获普林斯顿大学电气工程博士学位，随后任麻省理工学院助理教授。"},
+      {"date": "1966-01-01", "acc": "year", "text": "加入BBN公司，参与ARPANET接口信息处理机（IMP）的操作系统设计。"},
+      {"date": "1972-01-01", "acc": "year", "text": "转入DARPA信息处理技术办公室任项目主管；同年10月在华盛顿首届国际计算机通信大会（ICCC）主持ARPANET公开演示，约40台终端经专线远程接入。"},
+      {"date": "1973-01-01", "acc": "year", "text": "在DARPA发起互联网研究计划，与斯坦福大学的Vint Cerf构想以统一协议连接不同分组交换网络。"},
+      {"date": "1974-05-01", "acc": "month", "text": "与Cerf合著发表《A Protocol for Packet Network Intercommunication》，提出TCP设计，后演进为TCP/IP体系。"},
+      {"date": "1986-01-01", "acc": "year", "text": "创办国家研究倡议公司（CNRI）并任总裁，承接国家信息基础设施相关研究。"},
+      {"date": "1994-01-01", "acc": "year", "text": "提出数字对象架构，主持开发Handle系统为数字对象提供全球唯一标识，该系统后来支撑DOI学术文献标识。"},
+      {"date": "1997-01-01", "acc": "year", "text": "与Cerf同获美国国家技术奖章，表彰其创建并推动互联网协议发展。"},
+      {"date": "2001-01-01", "acc": "year", "text": "与Cerf获美国国家工程学院德雷珀奖。"},
+      {"date": "2004-01-01", "acc": "year", "text": "与Cerf共获ACM图灵奖，表彰其在互联网通信协议领域的开创性工作。"}
+    ],
+    "achievements": [
+      "与Vint Cerf共同设计TCP/IP并合著1974年奠基论文",
+      "1972年主持ARPANET在ICCC的首次大规模公开演示",
+      "1986年创办国家研究倡议公司（CNRI），主持数字对象架构与Handle系统研发",
+      "1997年获美国国家技术奖章，2001年获德雷珀奖",
+      "2004年与Cerf共获ACM图灵奖"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Robert Kahn (computer scientist)", "url": "https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)", "type": "wiki"},
+      {"title": "维基百科：罗伯特·卡恩", "url": "https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%8D%A1%E6%81%A9", "type": "wiki"},
+      {"title": "Cerf & Kahn 1974年TCP奠基论文（IEEE）", "url": "https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf", "type": "paper"},
+      {"title": "ETHW Milestone: TCP Enables the Internet, 1974", "url": "https://ethw.org/Milestones:Transmission_Control_Protocol_(TCP)_Enables_the_Internet,_1974", "type": "official"},
+      {"title": "History of Information: TCP论文发表", "url": "https://www.historyofinformation.com/detail.php?id=915", "type": "media"}
+    ],
+    "tags": ["TCP/IP", "互联网", "CNRI", "ARPANET", "图灵奖"]
+  },
+  {
+    "id": "ray-tomlinson",
+    "name": "雷·汤姆林森",
+    "en_name": "Ray Tomlinson",
+    "aliases": ["Email之父"],
+    "birth": "1941-04-23",
+    "birth_accuracy": "exact",
+    "death": "2016-03-05",
+    "field": "internet",
+    "region": "world",
+    "headline": "电子邮件发明人",
+    "summary_30s": "1971年在BBN写出ARPANET首个跨主机电子邮件程序，选定@符号分隔用户与主机，确立沿用至今的邮件地址格式；@随全球数十亿邮箱普及，2016年3月逝世，享年74岁。",
+    "timeline": [
+      {"date": "1963-01-01", "acc": "year", "text": "获伦斯勒理工学院（RPI）电气工程学士学位。"},
+      {"date": "1965-01-01", "acc": "year", "text": "获麻省理工学院电气工程博士学位，研究方向为语音合成等信号处理。"},
+      {"date": "1967-01-01", "acc": "year", "text": "加入BBN公司，参与设计ARPANET接口信息处理机（IMP）的操作系统。"},
+      {"date": "1971-01-01", "acc": "year", "text": "改造单机邮件程序SNDMSG并嫁接主机间传输程序CPYNET，发出ARPANET上第一封跨主机电子邮件，并在地址中选定@符号分隔用户名与主机名。"},
+      {"date": "1973-01-01", "acc": "year", "text": "与同事持续完善ARPANET邮件功能，当年一项研究显示电子邮件已占ARPANET流量的约四分之三。"},
+      {"date": "2009-01-01", "acc": "year", "text": "与Cerf、Kahn等互联网先驱共同获阿斯图里亚斯亲王技术科学研究奖。"},
+      {"date": "2012-01-01", "acc": "year", "text": "入选首批互联网名人堂（Internet Hall of Fame）。"},
+      {"date": "2016-03-05", "acc": "exact", "text": "在马萨诸塞州林肯镇家中逝世，享年74岁，其时所属的雷神公司（已收购BBN）发布讣告。"}
+    ],
+    "achievements": [
+      "1971年写出ARPANET首个跨主机电子邮件程序，发出第一封网络邮件",
+      "选定@符号分隔用户名与主机名，确立全球通用邮件地址格式",
+      "参与开发ARPANET接口信息处理机（IMP）操作系统等早期网络软件",
+      "2009年与互联网先驱共获阿斯图里亚斯亲王奖，2012年入选互联网名人堂"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Ray Tomlinson", "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson", "type": "wiki"},
+      {"title": "维基百科：雷·汤姆林森", "url": "https://zh.wikipedia.org/wiki/%E9%9B%B7%C2%B7%E6%B1%A4%E5%A7%86%E6%9E%97%E6%A3%AE", "type": "wiki"},
+      {"title": "NPR: Ray Tomlinson, Inventor Of Modern Email, Dies", "url": "https://www.npr.org/2016/03/06/469428062/ray-tomlinson-inventor-of-modern-email-has-died", "type": "media"},
+      {"title": "NYT: Raymond Tomlinson, Who Put the @ Sign in Email, Is Dead", "url": "https://www.nytimes.com/2016/03/08/technology/raymond-tomlinson-email-obituary.html", "type": "media"},
+      {"title": "MIT Lemelson: Ray Tomlinson", "url": "https://lemelson.mit.edu/resources/ray-tomlinson", "type": "official"}
+    ],
+    "tags": ["电子邮件", "互联网", "ARPANET", "BBN", "@符号"]
+  },
+  {
+    "id": "marc-andreessen",
+    "name": "马克·安德森",
+    "en_name": "Marc Andreessen",
+    "aliases": [],
+    "birth": "1971-07-09",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "world",
+    "headline": "网景浏览器缔造者、a16z创始人",
+    "summary_30s": "1993年在NCSA开发Mosaic图形浏览器，次年创办网景推出Navigator，曾占浏览器市场约八成；1995年网景上市引爆.com热潮，2009年联合创办a16z。",
+    "timeline": [
+      {"date": "1993-01-01", "acc": "year", "text": "在伊利诺伊大学国家超级计算应用中心（NCSA）与Eric Bina开发出Mosaic，首个在网页内直接显示图片并跨Windows、Mac、Unix普及的图形浏览器。"},
+      {"date": "1994-04-01", "acc": "month", "text": "与硅图（SGI）创始人Jim Clark在加州创办Mosaic Communications公司，后更名为网景通信（Netscape）。"},
+      {"date": "1994-10-01", "acc": "month", "text": "网景发布浏览器0.9版（后定名Netscape Navigator），数月内成为最流行的Web浏览器。"},
+      {"date": "1995-01-01", "acc": "year", "text": "Navigator占据浏览器市场约八成份额，微软随后在Windows中捆绑Internet Explorer发起竞争。"},
+      {"date": "1995-08-09", "acc": "exact", "text": "网景IPO：发行价28美元，首日开盘71美元、收盘58.25美元，公司市值接近30亿美元，被视为互联网泡沫的起点。"},
+      {"date": "1998-01-01", "acc": "year", "text": "网景在与微软的浏览器大战中份额急跌，宣布开放浏览器源代码，成为Mozilla项目的起点。"},
+      {"date": "1999-01-01", "acc": "year", "text": "AOL以约42亿美元股票收购网景，安德森短暂出任AOL首席技术官，同年离职。"},
+      {"date": "1999-09-01", "acc": "month", "text": "与Ben Horowitz联合创办云计算公司Loudcloud，2001年上市后转型为软件公司Opsware。"},
+      {"date": "2007-01-01", "acc": "year", "text": "Opsware以约16亿美元现金出售给惠普。"},
+      {"date": "2009-07-01", "acc": "month", "text": "与Ben Horowitz联合创办风险投资公司Andreessen Horowitz（a16z），首期基金3亿美元。"},
+      {"date": "2011-08-01", "acc": "month", "text": "在《华尔街日报》发表评论《软件正在吞噬世界》，成为此后十年科技行业的主导叙事。"},
+      {"date": "2023-01-01", "acc": "year", "text": "a16z管理资产规模约350亿美元，先后投资Facebook、Airbnb、Coinbase等公司。"}
+    ],
+    "achievements": [
+      "1993年主导开发图形浏览器Mosaic，让Web面向普通用户普及",
+      "1994年联合创办网景，Navigator在1995年占浏览器市场约八成份额",
+      "主导1995年8月9日网景IPO，上市首日股价大涨、市值近30亿美元",
+      "1999年网景以约42亿美元并入AOL；创办的Opsware后以16亿美元售予惠普",
+      "2009年与Ben Horowitz联合创办风投a16z，2023年管理资产约350亿美元"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Marc Andreessen", "url": "https://en.wikipedia.org/wiki/Marc_Andreessen", "type": "wiki"},
+      {"title": "维基百科：马克·安德森", "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89%E5%BE%B7%E6%A3%AE", "type": "wiki"},
+      {"title": "Funding Universe: History of Netscape Communications", "url": "https://www.fundinguniverse.com/company-histories/netscape-communications-corporation-history", "type": "media"},
+      {"title": "W3.org存档：1994年Mosaic Netscape发布通告", "url": "https://www.w3.org/Style/History/www.eit.com/www.lists/www-talk.1994q4/0187.html", "type": "official"}
+    ],
+    "tags": ["网景", "浏览器", "互联网", "风险投资", "Mosaic"]
+  },
+  {
+    "id": "paul-mockapetris",
+    "name": "保罗·莫卡派乔斯",
+    "en_name": "Paul Mockapetris",
+    "aliases": [],
+    "birth": "1948-11-18",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "world",
+    "headline": "域名系统DNS发明人",
+    "summary_30s": "1983年在USC ISI发布RFC 882/883，发明域名系统DNS，以分层分布式查询取代单点主机表，支撑全球数十亿域名解析；1987年定稿现行规范，2012年入选互联网名人堂。",
+    "timeline": [
+      {"date": "1971-01-01", "acc": "year", "text": "获麻省理工学院物理学与电气工程两个学士学位。"},
+      {"date": "1982-01-01", "acc": "year", "text": "获加州大学欧文分校信息与计算机科学博士学位，随后加入南加州大学信息科学研究所（USC ISI）。"},
+      {"date": "1983-11-01", "acc": "month", "text": "在USC ISI单署发布RFC 882《域名：概念与功能》与RFC 883，提出分层、分布式的域名系统DNS，取代全网统一的hosts.txt主机表。"},
+      {"date": "1984-01-01", "acc": "year", "text": "完成首个DNS服务器实现Jeeves（运行于DEC TOPS-20）与配套解析器，域名系统在ARPANET投入运行。"},
+      {"date": "1987-11-01", "acc": "month", "text": "发布RFC 1034与RFC 1035，定稿沿用至今的DNS现行技术规范。"},
+      {"date": "1995-01-01", "acc": "year", "text": "离开学术界转入产业界，成为高速有线电视上网服务公司@Home的第2号员工。"},
+      {"date": "1999-01-01", "acc": "year", "text": "联合创办域名软件公司Nominum，出任首席科学家兼董事长，主导企业级DNS软件研发至2016年。"},
+      {"date": "2003-01-01", "acc": "year", "text": "获IEEE互联网奖，表彰其发明域名系统。"},
+      {"date": "2005-01-01", "acc": "year", "text": "获ACM SIGCOMM奖，表彰其对数据通信与网络领域基础性技术的贡献。"},
+      {"date": "2012-01-01", "acc": "year", "text": "入选首批互联网名人堂（Internet Hall of Fame）。"}
+    ],
+    "achievements": [
+      "1983年单署发布RFC 882/883，发明域名系统DNS",
+      "实现首个DNS服务器Jeeves，1987年定稿现行规范RFC 1034/1035",
+      "1999-2016年任域名软件公司Nominum首席科学家兼董事长",
+      "获2003年IEEE互联网奖与2005年ACM SIGCOMM奖",
+      "2012年入选首批互联网名人堂"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: Paul Mockapetris", "url": "https://en.wikipedia.org/wiki/Paul_Mockapetris", "type": "wiki"},
+      {"title": "ACM Awards: Paul Mockapetris", "url": "https://awards.acm.org/award_winners/mockapetris_3342151", "type": "official"},
+      {"title": "RFC Editor: RFC 882 Domain names - Concepts and Facilities", "url": "https://www.rfc-editor.org/info/rfc882", "type": "official"},
+      {"title": "USC ISI: And the DNS was Born", "url": "https://www.isi.edu/news/972810/and-the-dns-was-born", "type": "official"},
+      {"title": "BIND 9文档：A Brief History of the DNS and BIND", "url": "https://bind9.readthedocs.io/en/v9.18.17/history.html", "type": "official"}
+    ],
+    "tags": ["DNS", "域名系统", "互联网", "RFC", "USC ISI"]
+  }
+]
