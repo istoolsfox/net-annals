@@ -652,35 +652,6 @@
 ]
 },
 {
-"id": "2006-11-19-wii-na-launch",
-"date": "2006-11-19",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "Wii 北美发售：体感游戏破圈",
-"category": "hardware",
-"region": "world",
-"milestone": false,
-"summary_30s": "任天堂 Wii 在北美率先发售，挥动手柄就能打网球。性能垫底却靠体感玩法席卷全球，客厅里不玩游戏的父母和祖辈第一次拿起了手柄，Wii 最终卖出超过一亿台。体感手柄成了当年圣诞季的抢手货。",
-"detail": "Wii 于2006年11月19日在北美首发，12月2日登陆日本，12月8日登陆欧洲。在索尼微软拼性能的时候，任天堂选择以体感遥控器 Wii Remote 开辟新路，《Wii Sports》《Wii Fit》把家庭主妇、银发族拉进游戏人群，Wii 多次出现全球性缺货，最终累计销量约1.016亿台，帮助任天堂在连续两代主机失利后重回王座，也把『蓝海战略』变成游戏业通用语。",
-"impact": "证明游戏机的胜负手可以不是性能而是交互，『扩大游戏人口』战略大获全胜。",
-"aftermath": "体感热潮后来退潮，但任天堂把『异质思路』延续到 Switch；Wii 的破圈经验被整个行业反复研究。",
-"sources": [
-{
-"title": "维基百科：Wii",
-"url": "https://zh.wikipedia.org/wiki/Wii",
-"type": "wiki"
-}
-],
-"tags": [
-"硬件",
-"文化出口",
-"任天堂",
-"Wii",
-"体感",
-"游戏主机"
-]
-},
-{
 "id": "2006-11-30-vista-business-launch",
 "date": "2006-11-30",
 "date_accuracy": "exact",

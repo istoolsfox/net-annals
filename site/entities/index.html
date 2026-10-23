@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="世家志：企业、社区、机构的完整兴衰史——从创立到巅峰到谢幕，节点全部可溯源。对应《史记》五体中的「世家」。">
+<title>世家志 · 企业社区机构兴衰史</title>
+<link rel="stylesheet" href="../style.css?v=16">
+<script>
+(function () {
+  var t = localStorage.getItem('na-theme');
+  if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
+<style>
+.entPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
+.eTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
+.eTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
+.eTop a:hover{color:var(--text)}
+.eHero{padding:30px 0 26px;border-bottom:1px solid var(--line)}
+.eHero h1{font-family:var(--serif);font-weight:700;font-size:clamp(2rem,5vw,3.2rem);margin:0 0 12px;color:var(--text)}
+.eHero h1 em{font-style:normal;color:var(--accent)}
+.eHero p{color:var(--dim);max-width:640px;margin:0;line-height:1.8}
+.eBar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
+.eBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
+.eBar .chip.on{border-color:var(--accent);color:var(--accent)}
+.eGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:24px 0}
+.eCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column}
+.eCard:hover{border-color:var(--accent)}
+.eCard .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.eCard h3{margin:0;font-size:1.1rem;color:var(--text);font-family:var(--serif)}
+.eCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint)}
+.st{font-family:var(--mono);font-size:.66rem;padding:2px 8px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
+.st.active{color:#4a9d6e}.st.declined{color:#b8862b}.st.acquired{color:#7a7ab8}.st.privatized{color:#7a7ab8}.st.closed{color:#b85450}
+.eCard .hl{color:var(--accent);font-size:.8rem;margin:6px 0 10px}
+.eCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0;flex:1}
+.eCard .meta{margin-top:12px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+/* 详情浮层 */
+.eMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
+.eMask.show{display:block}
+.eDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
+  background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;
+  transition:right .25s ease}
+.eDetail.show{right:0}
+.eDetail h2{font-family:var(--serif);font-size:1.7rem;color:var(--text);margin:0 0 4px}
+.eDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
+.eDetail .close:hover{color:var(--text)}
+.eDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px}
+.eDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
+.eDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:28px 0 14px;text-transform:uppercase}
+.tl{border-left:2px solid var(--line2);margin-left:6px;padding-left:20px}
+.tlItem{position:relative;padding-bottom:18px}
+.tlItem::before{content:'';position:absolute;left:-25px;top:6px;width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.tlItem .td{font-family:var(--mono);font-size:.72rem;color:var(--accent)}
+.tlItem .tx{color:var(--text);font-size:.9rem;line-height:1.75;margin-top:2px}
+.msList{margin:0;padding-left:18px;color:var(--text);font-size:.9rem;line-height:2}
+.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
+.ctzBox{border-left:3px solid #b8862b;padding:10px 14px;margin-top:10px;color:var(--dim);line-height:1.7;font-size:.85rem}
+.srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
+.srcList a{color:var(--accent);text-decoration:none}
+.srcList a:hover{text-decoration:underline}
+@media (max-width:640px){.eDetail{padding:24px 20px 50px}}
+</style>
+</head>
+<body>
+<div class="entPage">
+  <div class="eTop"><a href="../">← 返回互联网编年史</a><span><a href="../persons/">人物志 →</a>&nbsp;&nbsp;<a href="../geo/">地域日志 →</a></span></div>
+  <div class="eHero">
+    <h1>世家<em>志</em></h1>
+    <p id="heroSub">企业、社区、机构的完整兴衰史——从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里以世家记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。</p>
+  </div>
+  <div class="eBar" id="typeBar"><button class="chip on" data-f="all">全部</button></div>
+  <div class="eGrid" id="grid"></div>
+</div>
+<div class="eMask" id="mask"></div>
+<div class="eDetail" id="detail"></div>
+
+<script>
+'use strict';
+const TYPES = {company:'企业世家', community:'社区世家', institution:'机构世家'};
+const STATUS = {active:'活跃', declined:'衰落', acquired:'被收购', privatized:'已退市', closed:'关停'};
+const REGION = {cn:'中国', world:'世界'};
+const $ = s => document.querySelector(s);
+let DATA = null, curFilter = 'all';
+
+async function fetchGz(url) {
+  if (typeof DecompressionStream !== 'undefined') {
+    try {
+      const r = await fetch(url + '.gz');
+      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+    } catch (e) { /* 回退 */ }
+  }
+  return await (await fetch(url)).json();
+}
+
+function yearSpan(e) {
+  const a = String(e.founded).slice(0, 4);
+  const b = e.dissolved ? String(e.dissolved).slice(0, 4) : '';
+  return b ? a + '–' + b : a + '–';
+}
+
+function card(e) {
+  const d = document.createElement('div');
+  d.className = 'eCard';
+  d.dataset.type = e.type;
+  d.innerHTML = `<div class="row"><h3>${e.name}${e.en_name ? `<span class="en"> ${e.en_name}</span>` : ''}</h3>
+    <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
+    <div class="hl">${e.headline}</div>
+    <p class="sm">${e.summary_30s.slice(0, 100)}${e.summary_30s.length > 100 ? '…' : ''}</p>
+    <div class="meta">${yearSpan(e)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · ${e.timeline.length} 个节点</div>`;
+  d.onclick = () => openDetail(e);
+  return d;
+}
+
+function openDetail(e) {
+  const tl = e.timeline.map(t =>
+    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${t.text}</div></div>`).join('');
+  const ms = (e.milestones || []).map(a => `<li>${a}</li>`).join('');
+  const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
+  const ctz = (e.controversies || []).length
+    ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${c}</div>`).join('')}` : '';
+  $('#detail').innerHTML = `<button class="close">✕</button>
+    <h2>${e.name}${e.en_name ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${e.en_name}</span>` : ''}</h2>
+    <div class="sub">${e.headline} · ${TYPES[e.type]} · ${REGION[e.region]} · <span class="st ${e.status}">${STATUS[e.status]}</span></div>
+    <p class="smFull">${e.summary_30s}</p>
+    <h4>兴衰历程</h4><div class="tl">${tl}</div>
+    <h4>关键数字</h4><ul class="msList">${ms}</ul>
+    <h4>现状与遗产</h4><div class="legacyBox">${e.legacy}</div>${ctz}
+    <h4>来源</h4><ul class="srcList">${src}</ul>`;
+  $('#detail').classList.add('show');
+  $('#mask').classList.add('show');
+  document.body.style.overflow = 'hidden';
+  $('#detail').querySelector('.close').onclick = closeDetail;
+}
+function closeDetail() {
+  $('#detail').classList.remove('show');
+  $('#mask').classList.remove('show');
+  document.body.style.overflow = '';
+}
+$('#mask').onclick = closeDetail;
+addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+
+function render() {
+  const grid = $('#grid');
+  grid.innerHTML = '';
+  for (const e of DATA.entities) {
+    if (curFilter !== 'all' && e.type !== curFilter) continue;
+    grid.appendChild(card(e));
+  }
+}
+
+(async () => {
+  try {
+    DATA = await fetchGz('data.json');
+    const bar = $('#typeBar');
+    const present = [...new Set(DATA.entities.map(e => e.type))];
+    for (const f of present) {
+      const n = DATA.entities.filter(e => e.type === f).length;
+      const b = document.createElement('button');
+      b.className = 'chip'; b.dataset.f = f;
+      b.textContent = `${TYPES[f] || f} ${n}`;
+      b.onclick = () => {
+        curFilter = f;
+        bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
+        render();
+      };
+      bar.appendChild(b);
+    }
+    bar.querySelectorAll('.chip')[0].onclick = () => { curFilter = 'all'; bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all')); render(); };
+    $('#heroSub').textContent = `共 ${DATA.entities.length} 家世家——企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。`;
+    render();
+  } catch (e) {
+    $('#grid').innerHTML = `<div class="eCard">数据加载失败（${e.message}）</div>`;
+  }
+})();
+</script>
+</body>
+</html>

@@ -158,7 +158,7 @@
 "id": "1998-09-01-natural-forest-protection",
 "date": "1998-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "天然林保护工程启动：砍树人变成栽树人",
 "category": "national",
 "region": "cn",
@@ -172,6 +172,11 @@
 "title": "天然林保护工程 - 百度百科",
 "url": "https://baike.baidu.com/item/天然林保护工程",
 "type": "wiki"
+},
+{
+"title": "天然林保护工程，20年收获了什么？（人民网）",
+"url": "http://env.people.com.cn/n1/2018/0518/c1010-29999970.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -187,7 +192,7 @@
 "id": "2002-01-01-grain-for-green-full-launch",
 "date": "2002-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "退耕还林工程全面启动：用粮食换生态",
 "category": "national",
 "region": "cn",
@@ -201,6 +206,16 @@
 "title": "退耕还林 - 百度百科",
 "url": "https://baike.baidu.com/item/退耕还林",
 "type": "wiki"
+},
+{
+"title": "国家全面启动退耕还林工程（CCTV财经，2002年1月）",
+"url": "https://finance.cctv.com/financial/zhongguocjbd/caijingtt/20020110/151.html",
+"type": "news"
+},
+{
+"title": "中国退耕还林还草二十年（1999—2019）（国家林业和草原局）",
+"url": "https://www.forestry.gov.cn/html/main/main_195/20200630085813736477881/file/20200630090428999877621.pdf",
+"type": "official"
 }
 ],
 "tags": [

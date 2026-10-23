@@ -1366,34 +1366,6 @@
 ]
 },
 {
-"id": "2022-10-27-musk-shougou-tuite",
-"date": "2022-10-27",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "马斯克440亿美元完成收购推特",
-"category": "company",
-"region": "world",
-"milestone": false,
-"summary_30s": "10月27日马斯克以每股54.2美元、总价约440亿美元完成对推特的收购，随即解散董事会、解雇高管，全球社交平台迎来近年最大所有权变更。入主当天即解雇CEO等高管。",
-"detail": "这场从2022年1月开始建仓、4月宣布收购、7月反悔、10月被逼履约的收购大戏收尾。马斯克入主当天解雇CEO阿格拉瓦尔等高管，一周内裁员约一半，随后推出付费蓝V认证引发假冒账号风波，多家大品牌暂停广告投放。推特的平台规则、审核尺度与商业模式进入全面重构期。",
-"impact": "全球舆论场的基础设施易主，『言论自由与内容审核』之争白热化，超级App化转型开启。",
-"aftermath": "2023年7月推特更名为X，蓝色小鸟标志谢幕；平台广告收入大幅下滑，马斯克随后创立xAI。",
-"sources": [
-{
-"title": "维基百科：Acquisition of Twitter by Elon Musk",
-"url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
-"type": "wiki"
-}
-],
-"tags": [
-"公司",
-"文化出口",
-"马斯克",
-"推特",
-"收购"
-]
-},
-{
 "id": "2022-11-20-shijiebei-zhongguo",
 "date": "2022-11-20",
 "date_accuracy": "exact",

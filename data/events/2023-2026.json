@@ -1039,33 +1039,6 @@
 ]
 },
 {
-"id": "2023-11-17-openai-board-coup",
-"date": "2023-11-17",
-"date_accuracy": "exact",
-"date_confidence": "verified",
-"title": "OpenAI 解雇奥特曼：AI 界五天宫斗大戏",
-"category": "tech",
-"region": "world",
-"milestone": false,
-"summary_30s": "2023年11月17日，OpenAI董事会突然解雇CEO萨姆·奥特曼，理由是『沟通中不坦率』。随后五天剧情拉满：总裁布罗克曼辞职抗议、700多名员工联名以辞职威胁、微软出手邀请奥特曼执掌新AI部门，最终董事会重组、奥特曼回归，这场『宫斗』成为硅谷治理与AI路线之争的年度大戏。",
-"detail": "冲突背后是有效加速主义与安全派的路线分歧：董事会部分成员担忧奥特曼对安全的承诺与公司商业化过快。员工集体行动与微软的托底让资本与人才的话语权碾压治理结构，奥特曼以更强的个人地位回归，董事会重组后安全派成员被清洗。此后OpenAI高管接连出走（包括后来自创竞争对手的Ilya等），微软则获得无董事会席位的观察员身份。",
-"impact": "AI公司的治理结构、安全派与资本派的博弈被摆上台面，OpenAI的『非营利初心』叙事从此褪色。",
-"aftermath": "奥特曼风波后数月，安全研究团队先后离职；2024年公司推进营利结构转型，加州与特拉华监管介入审查。",
-"sources": [
-{
-"title": "OpenAI - 维基百科",
-"url": "https://zh.wikipedia.org/wiki/OpenAI",
-"type": "wiki"
-}
-],
-"tags": [
-"科技",
-"人工智能",
-"OpenAI",
-"治理"
-]
-},
-{
 "id": "2023-11-29-pdd-surpasses-baba",
 "date": "2023-11-29",
 "date_accuracy": "exact",

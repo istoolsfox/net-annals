@@ -102,7 +102,7 @@
 "id": "1995-01-01-anju-project",
 "date": "1995-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "国家安居工程启动：保障性住房的第一次全国试验",
 "category": "economy",
 "region": "cn",
@@ -121,6 +121,11 @@
 "title": "百度百科：经济适用房",
 "url": "https://baike.baidu.com/item/经济适用房",
 "type": "wiki"
+},
+{
+"title": "90年代中期住房制度改革回顾（国家安居工程1995—1997年在88个城市实施） - 改革大数据服务平台",
+"url": "http://www.reformdata.org/2010/0909/5212.shtml",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -138,7 +143,7 @@
 "id": "1998-05-01-individual-housing-loan",
 "date": "1998-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "央行《个人住房贷款管理办法》：『按揭』成为购房主流",
 "category": "economy",
 "region": "cn",
@@ -156,6 +161,11 @@
 {
 "title": "百度百科：按揭",
 "url": "https://baike.baidu.com/item/按揭",
+"type": "wiki"
+},
+{
+"title": "个人住房贷款管理办法（银发〔1998〕190号）全文 - 改革大数据服务平台",
+"url": "http://www.reformdata.org/1998/0509/9434.shtml",
 "type": "wiki"
 }
 ],
