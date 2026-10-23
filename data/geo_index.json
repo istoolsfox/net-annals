@@ -1,7 +1,10 @@
 {
  "1101": [
+  "1973-08-01-first-national-env-conference",
+  "1978-01-01-xinwen-lianbo-debut",
   "1978-03-18-national-science-conference",
   "1980-04-10-first-sino-foreign-jv-001",
+  "1984-05-16-sitong-founded-zhongguancun",
   "2008-04-28-jiaoji-crash",
   "2023-04-18-changfeng-fire",
   "1994-11-02-cctv-biaowang-first",
@@ -424,6 +427,7 @@
   "2018-12-25-harbin-mudanjiang-hsr"
  ],
  "3101": [
+  "1978-12-23-baosteel-construction-start",
   "1984-05-04-dalian-coastal-open-city",
   "2010-11-15-shanghai-fire",
   "2014-12-31-shanghai-stampede",
@@ -772,6 +776,7 @@
   "2010-01-12-wanjiang-industry-transfer-zone"
  ],
  "3410": [
+  "1982-11-08-first-national-scenic-areas",
   "1990-12-01-huangshan-world-heritage",
   "1999-12-01-wuyishan-mixed-heritage"
  ],
@@ -818,6 +823,7 @@
   "2023-09-28-fuxia-cross-sea-hsr"
  ],
  "350782": [
+  "1982-11-08-first-national-scenic-areas",
   "2021-10-12-first-national-parks-panda",
   "1999-12-01-wuyishan-mixed-heritage"
  ],
@@ -933,6 +939,7 @@
   "2013-02-01-yichang-bridge-explosion-collapse"
  ],
  "4113": [
+  "1983-08-01-wubi-input-method-debut",
   "2009-01-06-uhv-transmission"
  ],
  "4201": [
@@ -1264,6 +1271,7 @@
   "2019-08-01-western-land-sea-new-corridor-plan"
  ],
  "5101": [
+  "1975-07-01-baocheng-railway-electrified",
   "2001-02-08-jinsha-site",
   "1995-01-01-huaxi-metropolitan",
   "2015-11-29-arj21-first-delivery",
@@ -1311,6 +1319,7 @@
   "1999-12-01-wuyishan-mixed-heritage"
  ],
  "5114": [
+  "1982-11-08-first-national-scenic-areas",
   "1996-12-06-emei-leshandafo-heritage",
   "1999-12-01-wuyishan-mixed-heritage"
  ],
@@ -1340,6 +1349,7 @@
   "2021-05-22-madoi-earthquake"
  ],
  "513225": [
+  "1982-11-08-first-national-scenic-areas",
   "1992-12-01-jiuzhaigou-huanglong-heritage",
   "1992-12-01-wulingyuan-world-natural-heritage",
   "2017-08-08-jiuzhaigou-earthquake"
@@ -1496,6 +1506,9 @@
  "623023": [
   "2008-09-01-wenchuan-rebuild",
   "2010-08-07-zhouqu-mudslide"
+ ],
+ "6322": [
+  "1978-12-23-baosteel-construction-start"
  ],
  "6326": [
   "2021-05-22-madoi-earthquake"
