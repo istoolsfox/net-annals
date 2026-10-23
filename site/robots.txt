@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://toolsfox.top/net-annals/sitemap.xml
+Sitemap: https://toolsfox.cn/sitemap.xml

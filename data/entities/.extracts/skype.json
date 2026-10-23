@@ -1,0 +1,98 @@
+[
+ {
+  "id": "1999-06-01-napster",
+  "date": "1999-06-01",
+  "layer": "main",
+  "title": "Napster 上线：MP3 盗版与免费音乐的狂欢开始",
+  "summary": "19岁大学生肖恩·帕克写出 Napster，让全世界电脑直接互传MP3。唱片业的世纪崩塌从此开始，而中国网民绕过它直接拥抱了百度MP3搜索与盗版下载站。",
+  "detail": "1999年6月，19岁的波士顿东北大学学生肖恩·帕克（Sean Parker）与肖恩·范宁上线 Napster——一个让全世界电脑直接互传 MP3 的 P2P 软件。一年内用户数千万，『免费下载所有音乐』成为一代大学生的生活方式；唱片业（RIAA）在1999年12月起诉，2001年法院判 Napster 关停，但为时已晚：Kazaa、eMule、BT 层出不穷，CD 销量从此一泻千里，音乐产业被迫从『卖唱片』转向『卖数字+演出+订阅』。Napster 的遗产是双重的：它证明了 P2P 分发的技术革命性（后被 Skype、比特币借鉴），也确立了互联网对传统版权体系的冲击范式。乔布斯2003年用 iTunes Store 完成了音乐产业的救赎——而一切的开始，是一个19岁学生写的那个小程序。",
+  "sources": [
+   {
+    "title": "Wikipedia: Napster",
+    "url": "https://en.wikipedia.org/wiki/Napster",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2003-08-29-skype-launch",
+  "date": "2003-08-29",
+  "layer": "main",
+  "title": "Skype 上线：让国际长途走向死亡的软件",
+  "summary": "2003年8月29日，Skype 发布首个公开版。『免费打全球电话』从神话变成软件——两三位创始人此前已用 Kazaa 颠覆了音乐分发，这次轮到电信运营商的好日子。",
+  "detail": "Skype 由 Kazaa 创始人 Janus Friis 与 Niklas Zennström 创立，P2P 技术让语音通话的成本趋近于零，音质反超传统电话。2005年 eBay 以26亿美元+对赌15亿收购（此后证明是灾难性出价）；2011年微软以85亿美元接手，把 Skype 嵌进 Windows 与 Office。它教会世界视频通话（2005年视频功能），也重塑了跨国公司与外包行业（客服中心离岸化）。衰落同样写进剧本：微软战略摇摆（Windows Phone 捆绑失败）、Zoom 以更简单的会议体验（2020疫情期间）完成致命一击，2025年5月微软宣布关闭 Skype，22年历史落幕——它杀死的事业，被 WhatsApp/FaceTime/Zoom 瓜分殆尽。",
+  "sources": [
+   {
+    "title": "Wikipedia: Skype",
+    "url": "https://en.wikipedia.org/wiki/Skype",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2011-05-10-microsoft-buys-skype",
+  "date": "2011-05-10",
+  "layer": "tech",
+  "title": "微软85亿美元收购Skype",
+  "summary": "微软宣布以85亿美元现金收购网络电话公司Skype，创下当时微软收购金额纪录。一家成立仅八年的互联网通话公司卖出天价，微软则终于为旗下产品补上了网络通话与视频能力。",
+  "detail": "Skype由爱沙尼亚工程师团队创造，巅峰期注册用户数亿，是全球网络通话的代名词，先后辗转eBay与私募基金之手。微软表态将把Skype整合进Windows、Office、Xbox等产品线，看好企业通信市场。这笔交易也让业内对『语音通信入口』的价值有了新的想象。",
+  "sources": [
+   {
+    "title": "维基百科：Skype",
+    "url": "https://en.wikipedia.org/wiki/Skype",
+    "type": "wiki"
+   },
+   {
+    "title": "Microsoft News: Microsoft to Acquire Skype (May 10, 2011, $8.5B)",
+    "url": "https://news.microsoft.com/source/2011/05/10/microsoft-to-acquire-skype-3",
+    "type": "official",
+    "outlet": "Microsoft"
+   }
+  ]
+ },
+ {
+  "id": "2015-05-13-discord-launch",
+  "date": "2015-05-13",
+  "layer": "media",
+  "title": "Discord 上线：从游戏语音到互联网社区枢纽",
+  "summary": "2015年5月13日，Discord 正式发布。它一开始只是替游戏玩家解决『开黑语音卡顿』的小工具，后来长成了亿万人的社区底座——学习小组、读书会、开源项目、粉丝站都在上面开『服务器』。",
+  "detail": "Jason Citron 与 Stan Vishnevskiy 此前的游戏公司先后失败，转而把公司所有资源押在『游戏玩家的专属语音工具』上。Discord 以零配置、低延迟、免费三大体验碾压了当时通行的 TeamSpeak/Skype，靠游戏主播口碑传播。2017年后它跳出游戏圈：2020年疫情期间月活破1亿，『服务器+频道』的组织形式被开源社区、学习社群大规模采用；2021年估值150亿美元，一度与微软谈判收购（传闻100亿美元未果）。2023年起调整产品定位，推出活动与论坛功能，并在2024-2025年重新强调游戏分发，被收购与上市的传闻不断。",
+  "sources": [
+   {
+    "title": "Wikipedia: Discord",
+    "url": "https://en.wikipedia.org/wiki/Discord",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-06-26-icq-shutdown",
+  "date": "2024-06-26",
+  "layer": "wayback",
+  "title": "ICQ 正式关闭：28年即时通讯史的第一页翻过",
+  "summary": "2024年6月26日，ICQ正式停止服务——从1996年的『uh-oh!』到2024年的告别信，这个人类第一个国民级IM走完28年。它的关闭标志着一个产品世代的彻底退场。",
+  "detail": "ICQ的最后岁月属于VK集团（Mail.ru旗下）：俄罗斯及独联体市场尚有存量用户，但产品已十年无重大更新。官方告别信写道：『ICQ 在1996年11月改变了人们交流的方式』——不是夸张，号码制、好友列表、在线状态这些今天的默认配置都是它发明的。中国用户的记忆线不同：OICQ（1999）曾因名称侵权改名QQ，但产品血缘的父子关系清楚可辨。ICQ的谢幕与MSN（2014）、Skype（2025）构成即时通讯鼻祖的三连退场——活到最后的是从ICQ学步的QQ与微信。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2025-05-05-skype-shutdown",
+  "date": "2025-05-05",
+  "layer": "wayback",
+  "title": "Skype 正式停运：网络电话先驱谢幕",
+  "summary": "2025年5月5日，微软正式关闭Skype服务，这个2003年上线的网络电话软件结束22年生涯。Skype曾以『免费打国际电话』颠覆电信业，巅峰期用户超过6亿，『Skype 一下』成为跨国联络的代名词。收购价85亿美元的",
+  "detail": "2025年5月5日，微软正式关闭Skype服务，这个2003年上线的网络电话软件结束22年生涯。Skype曾以『免费打国际电话』颠覆电信业，巅峰期用户超过6亿，『Skype 一下』成为跨国联络的代名词。收购价85亿美元的它在Zoom疫情爆发与Teams内部替代下逐步边缘化，微软最终将用户整体迁移至Teams。",
+  "sources": [
+   {
+    "title": "Skype - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Skype",
+    "type": "wiki"
+   }
+  ]
+ }
+]

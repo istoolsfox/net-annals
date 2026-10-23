@@ -1,0 +1,38 @@
+[
+ {
+  "id": "2013-07-16-baidu-buys-91-wireless",
+  "date": "2013-07-16",
+  "layer": "tech",
+  "title": "百度19亿美元收购91无线：当时中国互联网最大并购",
+  "summary": "百度宣布以19亿美元全资收购网龙旗下的91无线，创下当时中国互联网并购金额纪录。为抢下移动应用分发入口，百度砸下重金——这笔交易日后也成为巨头买入口的争议案例。",
+  "detail": "91无线旗下的91助手、安卓市场曾是iOS越狱与安卓分发的头部渠道，百度急需补上移动分发短板对抗360与腾讯。交易完成后分发市场一度百度系登顶，但随着手机厂商应用商店崛起，第三方应用市场整体衰落，91助手逐渐边缘化。交易公布当天百度股价微涨，但此后应用商店赛道整体萎缩，这笔投资被业内反复复盘。",
+  "sources": [
+   {
+    "title": "维基百科：百度",
+    "url": "https://zh.wikipedia.org/wiki/百度",
+    "type": "wiki"
+   },
+   {
+    "title": "Baidu IR: Baidu Signs Definitive Agreement to Acquire NetDragon's Subsidiary 91 Wireless",
+    "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-signs-definitive-agreement-acquire-netdragons-subsidiary",
+    "type": "official",
+    "outlet": "百度"
+   }
+  ]
+ },
+ {
+  "id": "2020-08-13-fortnite-apple",
+  "date": "2020-08-13",
+  "layer": "main",
+  "title": "Epic 起诉苹果：30%『苹果税』的世纪诉讼",
+  "summary": "2020年8月13日，Epic Games 在《堡垒之夜》里内置直接支付通道绕过苹果30%抽成，苹果随之下架游戏，Epic 同步发起反垄断诉讼并拍摄影射广告（致敬1984）。这场『苹果税』世纪诉讼打了三年多，以苹果基本胜诉、但9项反引导条款被认定违法告终。",
+  "detail": "2021年9月加州法院裁定：苹果未构成垄断（市场定义争议），但违反加州 unfair competition 法——必须允许开发者放『外链』引导第三方支付。2024年3月苹果因执行不力被法院藐视裁定，被迫彻底开放美国区外链支付（佣金降至0-27%）。欧盟DMA（2024）同步强制第三方商店。Epic 之路重塑了全球应用分发的权力结构。",
+  "sources": [
+   {
+    "title": "Epic Games v. Apple - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Epic_Games_v._Apple",
+    "type": "wiki"
+   }
+  ]
+ }
+]

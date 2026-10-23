@@ -26,6 +26,12 @@
     "title": "维基百科：知乎",
     "url": "https://zh.wikipedia.org/wiki/知乎",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：知乎（2011年1月26日上线，邀请制）",
+    "url": "https://zh.wikipedia.org/wiki/%E7%9F%A5%E4%B9%8E",
+    "type": "wiki",
+    "outlet": "维基百科"
    }
   ]
  },

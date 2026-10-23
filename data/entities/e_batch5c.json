@@ -1,0 +1,159 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "en_name": "Netflix",
+    "type": "company",
+    "region": "world",
+    "founded": "1997-08-01",
+    "founded_accuracy": "month",
+    "dissolved": null,
+    "status": "active",
+    "hq": "加州斯科茨谷",
+    "headline": "全球流媒体霸主的自我革命",
+    "summary_30s": "1997 年以 DVD 邮租起家，2000 年求售百视达被拒；2007 年自我革命转向流媒体，2013 年《纸牌屋》开创原创整季模式，2016 年铺满全球。从险些 5000 万美元贱卖，到付费订阅超 3 亿的全球最大流媒体平台。",
+    "timeline": [
+      {"date": "1997-08-01", "acc": "month", "text": "里德·黑斯廷斯与马克·兰多夫在加州创立 Netflix，以 DVD 线上租赁加邮寄到家的模式切入家庭影碟市场。"},
+      {"date": "2000-01-01", "acc": "year", "text": "提出以 5000 万美元将公司卖给百视达遭拒，此举日后成为商业教科书最著名的『错过』案例之一。"},
+      {"date": "2002-05-23", "acc": "exact", "text": "在纳斯达克 IPO，上市首日股价大涨 50%，为内容大战攒下资本弹药。"},
+      {"date": "2007-01-01", "acc": "month", "text": "推出『Watch Now』流媒体服务，从 DVD 邮租转向在线视频，完成对自家主营业务的自我革命。"},
+      {"date": "2010-09-01", "acc": "month", "text": "国际化第一步落地加拿大，此后十年扩张至 190 多个国家和地区。"},
+      {"date": "2013-02-01", "acc": "exact", "text": "《纸牌屋》全季一次性上线，首创整季放送模式并凭自制内容拿下艾美奖，原创时代正式开启。"},
+      {"date": "2016-01-01", "acc": "month", "text": "在 CES 宣布服务同步新开 130 个国家和地区，全球流媒体版图基本成型。"},
+      {"date": "2021-09-17", "acc": "exact", "text": "《鱿鱼游戏》上线，以极低成本成为平台史上观看量最高的剧集，掀起全球文化现象。"},
+      {"date": "2022-11-03", "acc": "exact", "text": "广告订阅套餐上线，终结了长期『绝不做广告』的立场，转向多价位组合增收。"},
+      {"date": "2023-05-01", "acc": "month", "text": "在多国开始打击账号密码共享，强制主家庭外付费，当季新增订户创历史纪录。"},
+      {"date": "2023-09-29", "acc": "exact", "text": "寄出最后一批 DVD 碟片，运营 25 年的邮租业务正式谢幕，公司完全押注流媒体。"}
+    ],
+    "milestones": [
+      "2007 年从 DVD 邮租转型流媒体，完成行业最著名的自我革命",
+      "《纸牌屋》开创整季放送模式，原创内容自此成为行业标配",
+      "付费订阅用户于 2024 年末突破 3 亿",
+      "《鱿鱼游戏》成为平台史上观看量最高的剧集",
+      "2023 年 DVD 业务与密码共享时代先后终结"
+    ],
+    "legacy": "现为全球最大流媒体平台，付费订阅用户超 3 亿。其『数据驱动选片 + 整季放送』重塑了全球影视工业；与 Disney+、HBO Max 的内容军备竞赛仍在继续。",
+    "sources": [
+      {"title": "Wikipedia: Netflix", "url": "https://en.wikipedia.org/wiki/Netflix", "type": "wiki"},
+      {"title": "维基百科：纸牌屋", "url": "https://zh.wikipedia.org/wiki/纸牌屋", "type": "wiki"},
+      {"title": "维基百科：鱿鱼游戏", "url": "https://zh.wikipedia.org/wiki/鱿鱼游戏", "type": "wiki"},
+      {"title": "Netflix 投资者关系（财务与订户数据）", "url": "https://ir.netflix.net/", "type": "official"}
+    ],
+    "tags": ["流媒体", "Netflix", "原创内容", "全球互联网"]
+  },
+  {
+    "id": "amazon",
+    "name": "亚马逊",
+    "en_name": "Amazon",
+    "type": "company",
+    "region": "world",
+    "founded": "1994-07-01",
+    "founded_accuracy": "month",
+    "dissolved": null,
+    "status": "active",
+    "hq": "西雅图",
+    "headline": "从网上书店到云服务帝国",
+    "summary_30s": "1994 年从网上书店起步，1997 年上市后以『亏本换规模』穿越泡沫；2006 年 AWS 把自家基础设施卖成生意、定义云计算行业。2004 年收购卓越网入华，2019 年退出本土电商，2023 年 Kindle 也停运，中国业务收缩为跨境与云服务。",
+    "timeline": [
+      {"date": "1994-07-01", "acc": "month", "text": "贝索斯离开华尔街，在西雅图创立公司（初名 Cadabra，次年更名 Amazon），选品逻辑锁定线上可无限陈列的图书。"},
+      {"date": "1995-07-16", "acc": "exact", "text": "Amazon.com 正式上线，首月订单就覆盖美国全部 50 个州和 45 个国家。"},
+      {"date": "1997-05-15", "acc": "exact", "text": "在纳斯达克 IPO，市值约 4.4 亿美元，此后连续多年以巨亏换规模的打法震动华尔街。"},
+      {"date": "2001-01-01", "acc": "year", "text": "实现上市后首次全年盈利，从『互联网泡沫幸存者』的质疑声中站稳脚跟。"},
+      {"date": "2004-08-19", "acc": "exact", "text": "以 7500 万美元收购中国图书电商卓越网，更名为亚马逊中国，正式进入中国市场。"},
+      {"date": "2006-03-14", "acc": "exact", "text": "推出 S3 简单存储服务，AWS 云计算体系自此起步，把自家基础设施能力卖成了新生意。"},
+      {"date": "2007-11-19", "acc": "exact", "text": "发布第一代 Kindle 电子阅读器，首批 5.5 小时售罄，电子书市场自此定型。"},
+      {"date": "2019-07-18", "acc": "exact", "text": "停止为中国境内电商业务提供第三方卖家服务，本土电商退出，保留 AWS、海外购与 Kindle。"},
+      {"date": "2023-06-30", "acc": "exact", "text": "Kindle 中国电子书店停止运营，硬件业务同步退出，亚马逊在华消费级业务基本收官。"}
+    ],
+    "milestones": [
+      "AWS 长期占据全球云计算市场约三成份额，行业第一",
+      "Prime 会员体系定义了全球电商的付费会员制",
+      "Kindle 开创大众电子书市场并统治十年以上",
+      "在华 15 年（2004-2019）：从收购卓越网到本土电商退出",
+      "市值长期位居全球公司前五"
+    ],
+    "legacy": "现为全球市值最高的公司之一，电商与 AWS 云服务双引擎。在华业务从全资电商收缩为跨境电商出口与云服务，2019 年与 2023 年两次退出常被用作『本土化失败』的对照案例。",
+    "sources": [
+      {"title": "Wikipedia: Amazon (company)", "url": "https://en.wikipedia.org/wiki/Amazon_(company)", "type": "wiki"},
+      {"title": "维基百科：亚马逊公司", "url": "https://zh.wikipedia.org/wiki/亚马逊公司", "type": "wiki"},
+      {"title": "维基百科：Kindle", "url": "https://zh.wikipedia.org/wiki/Kindle", "type": "wiki"},
+      {"title": "数字考古：1998 年 12 月的亚马逊首页存档", "url": "https://web.archive.org/web/19981212000000/http://www.amazon.com/", "type": "archive"},
+      {"title": "About Amazon（公司官方新闻室）", "url": "https://www.aboutamazon.com/", "type": "official"}
+    ],
+    "tags": ["电商", "云计算", "AWS", "亚马逊", "全球互联网"]
+  },
+  {
+    "id": "skype",
+    "name": "Skype",
+    "en_name": "Skype",
+    "type": "company",
+    "region": "world",
+    "founded": "2003-08-29",
+    "founded_accuracy": "exact",
+    "dissolved": "2025-05-05",
+    "status": "closed",
+    "hq": "爱沙尼亚塔林/卢森堡",
+    "headline": "把国际长途打死的网络电话先驱",
+    "summary_30s": "2003 年以 P2P 免费语音上线，把国际长途打成白菜价；2005 年被 eBay 以 26 亿美元首付收购，2011 年微软 85 亿美元接手，巅峰注册用户超 6 亿。疫情期间短暂回血，终被自家 Teams 取代，2025 年 5 月 5 日正式停运。",
+    "timeline": [
+      {"date": "2003-08-29", "acc": "exact", "text": "Skype 上线，以 P2P 技术实现免费网络语音通话，传统国际长途的价格体系自此开始瓦解。"},
+      {"date": "2005-09-12", "acc": "exact", "text": "eBay 宣布以 26 亿美元首付、总额最高 31 亿美元收购 Skype，押注『语音+交易』的想象。"},
+      {"date": "2007-04-01", "acc": "month", "text": "与 TOM 在线合资在中国市场运营本土化版本，此后中国区业务长期由 TOM-Skype 承载。"},
+      {"date": "2011-05-10", "acc": "exact", "text": "微软以 85 亿美元从 eBay 手中接手 Skype，创当时软件并购的溢价纪录。"},
+      {"date": "2013-04-08", "acc": "exact", "text": "微软在全球关停 Windows Live Messenger（中国区延至 2014 年），上亿用户迁入 Skype，即时通讯前代霸主就此并入。"},
+      {"date": "2020-04-01", "acc": "month", "text": "新冠疫情期间单日用户一度突破 4000 万，但新增视频会议需求大部分流向了 Zoom 与自家 Teams。"},
+      {"date": "2025-02-28", "acc": "exact", "text": "微软宣布 Skype 将于 5 月 5 日正式退役，全体用户迁移至 Microsoft Teams。"},
+      {"date": "2025-05-05", "acc": "exact", "text": "Skype 正式停止服务，22 年网络电话史落幕，号码与数据迁移通道保留至次年。"}
+    ],
+    "milestones": [
+      "巅峰期全球注册用户超 6 亿，是 2010 年代国际通话事实标准",
+      "2005-2011 两度易主，合计作价超 110 亿美元",
+      "P2P 语音技术让跨国通讯成本趋近于零",
+      "2025 年 5 月 5 日正式关停，用户整体并入 Microsoft Teams"
+    ],
+    "legacy": "22 年通讯工具正式谢幕，用户与资产并入 Microsoft Teams。在中国，它曾是外贸从业者与留学家庭跨境通话的标配；其『免费网络语音』证明了长话商业模式可以被打穿，其谢幕也留下了被母公司产品迭代取代的经典样本。",
+    "sources": [
+      {"title": "Wikipedia: Skype", "url": "https://en.wikipedia.org/wiki/Skype", "type": "wiki"},
+      {"title": "维基百科：Skype", "url": "https://zh.wikipedia.org/wiki/Skype", "type": "wiki"},
+      {"title": "Microsoft To Acquire Skype（官方新闻稿）", "url": "https://news.microsoft.com/source/2011/05/10/microsoft-to-acquire-skype/", "type": "official"}
+    ],
+    "tags": ["即时通讯", "网络电话", "Skype", "微软", "全球互联网"]
+  },
+  {
+    "id": "friendster",
+    "name": "Friendster",
+    "en_name": "Friendster",
+    "type": "company",
+    "region": "world",
+    "founded": "2003-03-01",
+    "founded_accuracy": "month",
+    "dissolved": "2015-06-14",
+    "status": "closed",
+    "hq": "美国加州山景城",
+    "headline": "社交网络鼻祖的『速度慢死』",
+    "summary_30s": "2002 年创立、2003 年 3 月上线，最早定义『社交网络』形态，比 MySpace 与 Facebook 都早；数月内用户破 300 万，还拒绝过谷歌 3000 万美元收购。但性能崩塌与迭代迟缓让它节节失守，2011 年清空数据，2015 年 6 月关站。",
+    "timeline": [
+      {"date": "2002-01-01", "acc": "year", "text": "乔纳森·艾布拉姆斯创立 Friendster，『好友链+个人主页』的产品形态第一次被完整定义。"},
+      {"date": "2003-03-01", "acc": "month", "text": "网站正式上线，数月内注册用户突破 300 万，媒体称之为『全球最大社交网络』的起点。"},
+      {"date": "2004-06-01", "acc": "month", "text": "用户规模达到数千万量级，但页面加载动辄数十秒，服务器扩容始终追不上增速，『速度慢死』自此成为行业经典教训。"},
+      {"date": "2008-01-01", "acc": "year", "text": "MySpace 与 Facebook 相继在用户数与活跃度上完成反超，Friendster 跌出美国主流社交市场。"},
+      {"date": "2009-12-01", "acc": "month", "text": "马来西亚在线支付公司 MOL Global 以约 3900 万美元收购 Friendster 的资产与社交图谱专利。"},
+      {"date": "2010-06-01", "acc": "month", "text": "宣布转型社交游戏平台，原有社交功能此后逐步收缩，用户大量流失至东南亚市场。"},
+      {"date": "2011-05-31", "acc": "exact", "text": "宣布清空全部用户主页、照片与留言数据并即刻执行，早期社交网络时代的原始档案就此消失。"},
+      {"date": "2015-06-14", "acc": "exact", "text": "网站正式关停，13 年兴衰落幕，只留下『先行者死于自身成功』的行业注脚。"}
+    ],
+    "milestones": [
+      "比 MySpace 早一年、比 Facebook 早两年定义社交网络",
+      "上线数月注册用户即突破 300 万",
+      "2003 年拒绝谷歌约 3000 万美元收购意向",
+      "2011 年清空全部用户数据、2015 年 6 月正式关站"
+    ],
+    "legacy": "2015 年 6 月正式关停。Friendster 的『速度慢死』成为所有社交产品可扩展性教科书的第一课；其社交图谱专利经 MOL 出售后被业界广泛授权使用。校内网、开心网等中国追随者继承了它的形态，也继承了它留下的运维教训。",
+    "sources": [
+      {"title": "Wikipedia: Friendster", "url": "https://en.wikipedia.org/wiki/Friendster", "type": "wiki"},
+      {"title": "数字考古：2004 年的 Friendster 首页存档", "url": "https://web.archive.org/web/2004/http://www.friendster.com", "type": "archive"},
+      {"title": "数字考古：2015 年关站前的 Friendster 存档", "url": "https://web.archive.org/web/2015/http://www.friendster.com", "type": "archive"}
+    ],
+    "tags": ["社交网络", "SNS", "Friendster", "全球互联网"]
+  }
+]

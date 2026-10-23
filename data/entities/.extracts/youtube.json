@@ -1,0 +1,312 @@
+[
+ {
+  "id": "2004-08-19-google-ipo",
+  "date": "2004-08-19",
+  "layer": "main",
+  "title": "谷歌上市：『不作恶』的时代宣言",
+  "summary": "谷歌以独特的荷兰式拍卖登陆纳斯达克，招股书里写着『不作恶』。1917美元的拆股价格故事、涂鸦LOGO、免费搜索——它将定义此后二十年互联网巨头的两面：伟大与庞大。",
+  "detail": "2004年8月19日，谷歌以独特的荷兰式拍卖登陆纳斯达克（避开投行定价），发行价85美元——招股书里写着『不作恶』（Don't be evil）。这家1998年创立的搜索引擎公司在上市时已年收入27亿美元、利润过亿，与彼时烧钱的 dot-com 截然不同；上市首日市值230亿美元，此后一路长成全球市值最高的公司之一（2万亿美元级）。谷歌上市的意义在于确立了『技术理想主义+广告印钞机』的商业模式：PageRank 的技术信仰与 AdWords 的商业变现完美咬合，此后它用安卓统治移动端、用 YouTube 统治视频、用 DeepMind 与 Transformer 论文点亮 AI。『不作恶』的口号在2015年 Alphabet 重组后被移出行为准则开头，争议不断——但那个2004年夏天，它确实代表着互联网最纯粹的理想主义。",
+  "sources": [
+   {
+    "title": "Wikipedia: History of Google",
+    "url": "https://en.wikipedia.org/wiki/History_of_Google",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-02-14-youtube-founded",
+  "date": "2005-02-14",
+  "layer": "tech",
+  "title": "YouTube 成立：视频分享时代开启",
+  "summary": "三名前 PayPal 员工查德·贺利、陈士骏、贾德·卡林姆在情人节这天注册了 YouTube。4月23日网站传上第一条视频《我在动物园》，一个『人人都能上传视频』的时代就此开始，整个互联网的内容形态被改写。",
+  "detail": "YouTube 由查德·贺利（Chad Hurley）、陈士骏（Steve Chen）、贾德·卡林姆（Jawed Karim）于2005年2月14日创立，三人皆是 PayPal 早期员工。2005年4月23日，卡林姆上传了网站第一条视频《我在动物园》；同年5月网站开放公测，约六个月后转为正式版本。『上传、分享、嵌入』的极简流程让普通网民第一次可以轻松发布视频，网站的 Flash 播放器嵌入代码迅速扩散到各类博客与论坛。",
+  "sources": [
+   {
+    "title": "维基百科：YouTube",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-04-15-tudou-launch",
+  "date": "2005-04-15",
+  "layer": "tech",
+  "title": "土豆网上线：中国第一家视频网站",
+  "summary": "王微在 上海创办土豆网（最初域名 toodou.com），上线时间比 YouTube 正式公开还早，口号是『每个人都是生活的导演』。中国网民第一次有了属于自己的视频发布平台，中国视频行业的『土豆时代』拉开帷幕。",
+  "detail": "土豆网由王微（Gary Wang）与马克·范德齐斯（Marc van der Chijs）创立，公司于2005年2月15日注册，网站于2005年4月15日正式上线，最初使用 toodou.com 域名，后更为 tudou.com。它是中国最早的 UGC 视频分享网站之一，上线甚至早于 YouTube 正式走向公众。『每个人都是生活的导演』这一口号广为流传，播客（Podcast）、原创短片、网友自拍由此获得中文互联网的主舞台。",
+  "sources": [
+   {
+    "title": "维基百科：土豆网",
+    "url": "https://zh.wikipedia.org/wiki/土豆网",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-04-28-wayback-youtube",
+  "date": "2005-04-28",
+  "layer": "wayback",
+  "title": "数字考古·YouTube：上线四天后的第一张快照",
+  "summary": "4月28日，互联网档案馆存下 youtube.com 的最早快照——此时距三位PayPal前员工注册域名仅过去四天，页面上还没有任何视频，只有『你的个人视频分享站』的预告。谁也不知道这里将诞生21世纪最重要的媒体平台。",
+  "detail": "2005年2月14日，查德·赫利、陈士骏与贾德·卡林姆注册YouTube域名（原意是做视频约会网站，转型失败后才改成通用视频分享）；4月23日第一条视频《Me at the zoo》上传，4月28日完成首次存档。快照里尚无视频内容，只有预告页。2005年12月正式公开后因便捷上传与Flash播放器病毒式增长，2006年10月Google以16.5亿美元股票收购。今天YouTube月活超25亿，是全球最大的视频平台与第二大门户流量源。",
+  "sources": [
+   {
+    "title": "Internet Archive 首张快照",
+    "url": "https://web.archive.org/web/20050428000000/http://www.youtube.com/",
+    "type": "archive"
+   }
+  ]
+ },
+ {
+  "id": "2006-04-02-haruhi-suzumiya-anime-premiere",
+  "date": "2006-04-02",
+  "layer": "anime",
+  "title": "《凉宫春日的忧郁》开播：SOS团的团舞席卷世界",
+  "summary": "2006年4月2日，京都动画制作的《凉宫春日的忧郁》开播。自称外星人、未来人、异世界人的女高中生凉宫春日拉起SOS团，片尾曲中的『团舞』经网络视频网站模仿传播，成为人类历史上第一个真正的『网络舞蹈梗』。京阿尼也凭此作从外包工坊跃升为业界顶流。",
+  "detail": "谷川流轻小说改编、京都动画制作的《凉宫春日的忧郁》2006年4月2日起在关东等地的独立电视台播出共14话。作品以阿虚的吐槽视角展开：凉宫春日疯狂寻找超自然存在，殊不知SOS团员长门有希、朝比奈实玖瑠、古泉一树正是她所寻找的对象。动画最大的文化冲击来自片尾曲《晴天好心情》的团舞——2006年YouTube兴起之初，全球各地粉丝模仿舞蹈的视频疯传，被学界视为网络时代迷因传播的标志性案例；平野绫演唱的《God knows…》现场片段则定义了声优歌手时代。『漫无止境的八月』（2009年版同一集循环八周）成为行业话题。京阿尼凭此作与《K-ON!》确立『日常神作』路线。",
+  "sources": [
+   {
+    "title": "凉宫春日的忧郁 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/凉宫春日的忧郁",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2006-10-09-youtube-google",
+  "date": "2006-10-09",
+  "layer": "main",
+  "title": "Google 16.5亿美元收购 YouTube：视频时代的开端",
+  "summary": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube——一家成立仅一年、尚在亏损的视频网站。这被当时视为疯狂的赌注：YouTube 每天消耗带宽费百万美元，却几乎无收入。此后十五年，YouTube 成为全球最大的视频平台与第二大搜索引擎，彻底改写了电视、音乐与创作者经济。",
+  "detail": "YouTube 由 Chad Hurley、Steve Chen 与 Jawed Karim（PayPal 前同事）于2005年2月创立。首条视频『Me at the zoo』2005年4月23日上传。Google 收购时 YouTube 每日视频观看量1亿次。此后 Google 投入数十亿建设 Content ID 版权系统与广告分成模式，让 YouTube 从『盗版集散地』变成全球创作者的收入来源。",
+  "sources": [
+   {
+    "title": "YouTube - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2008-09-23-tmobile-g1",
+  "date": "2008-09-23",
+  "layer": "tech",
+  "title": "首款 Android 手机 T-Mobile G1 发售",
+  "summary": "HTC 代工的 T-Mobile G1 带着侧滑全键盘开卖，它是全球第一部 Android 手机，预装 Gmail、地图与 Android Market。丑是丑了点，但安卓帝国的第一块砖就此砌下。",
+  "detail": "T-Mobile G1（即 HTC Dream）于2008年9月23日在美国发售，是全球首款采用 Google Android 系统的智能手机。设备由 HTC 制造，配备侧滑式 QWERTY 键盘与触摸屏，预装 Gmail、Google 地图、YouTube 与应用商店 Android Market。尽管外形在今日看来笨拙，G1 验证了开源联盟路线的可行性，此后摩托罗拉、三星、HTC 等厂商的安卓机潮水般涌出。",
+  "sources": [
+   {
+    "title": "维基百科：HTC Dream",
+    "url": "https://zh.wikipedia.org/wiki/HTC_Dream",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2009-05-17-minecraft-alpha",
+  "date": "2009-05-17",
+  "layer": "games",
+  "title": "《我的世界》alpha 版上线，一块方块的宇宙开端",
+  "summary": "2009年5月17日，瑞典程序员Notch把一款方块沙盒游戏的测试版挂上网卖。没有宣传、没有发行商，玩家口口相传，几年后它成了全世界销量最高的游戏。“Early access边做边卖”的模式，也从这里开始改变整个行业。",
+  "detail": "马库斯·佩尔松（Notch）受《矮人要塞》与Infiniminer启发开发的《我的世界》（Minecraft）2009年5月17日公开首个alpha版本，以低价预售、持续更新的方式销售。游戏以无限方块世界、生存建造与红石逻辑机关为核心，YouTube实况与教程视频成为其传播引擎；2010年加入生存模式与多人服，2011年正式版发布时已售出百万级 copies。Notch成立Mojang，2014年微软以25亿美元收购，游戏累计销量突破3亿份，成为史上最畅销的电子游戏。",
+  "sources": [
+   {
+    "title": "2009 in video games - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2009_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Minecraft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Minecraft",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2010-03-23-google-china-exit",
+  "date": "2010-03-23",
+  "layer": "main",
+  "title": "Google 退出中国大陆：互联网全球化的分水岭",
+  "summary": "2010年3月23日，Google 宣布停止依据中国法律对 Google.cn 的搜索结果进行审查，将搜索服务由中国大陆转至香港。这家全球最大的搜索引擎公司以『不作恶』为名退出了全球最大的互联网市场，成为中国互联网『内外双轨』的历史分水岭。",
+  "detail": "导火索是2009年末的『极光行动』黑客攻击（针对 Gmail 中国账户）与审查制度争议。退出后百度独占中国搜索市场（份额超70%），Google 的全球互联网服务生态（Gmail/YouTube/Drive/Android GMS）自此与大陆用户绝缘——这个决定深刻影响了此后十年中国的移动互联网路径（本土替代生态）与全球互联网的地缘格局。",
+  "sources": [
+   {
+    "title": "Google 中国 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2010-09-08-amnesia",
+  "date": "2010-09-08",
+  "layer": "games2",
+  "title": "《失忆症：黑暗后裔》发售",
+  "summary": "不能回头、不能战斗的恐怖：Frictional让'手电筒电池与理智值'成为机制，YouTube主播的尖叫反应开启了恐怖游戏实况时代，重新定义恐怖游戏的玩法与传播路径，主播生态成为恐怖品类的放大器。",
+  "detail": "2010年9月8日《Amnesia: The Dark Descent》在PC发售。瑞典Frictional Games让玩家手无寸铁：躲进黑暗会掉理智、灯光会引来怪物，资源管理即恐怖设计。它起初小众，却因2012年起YouTube主播实况的尖叫集锦爆红，'恐怖游戏靠主播传播'从此成为行业共识。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2010 in video games",
+    "url": "https://en.wikipedia.org/wiki/2010_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2010-12-08-youku-dangdang-ipo",
+  "date": "2010-12-08",
+  "layer": "tech",
+  "title": "优酷、当当同日登陆纽交所",
+  "summary": "12月8日晚，视频网站优酷与图书电商当当网同一天在纽约证券交易所挂牌。优酷上市首日暴涨约161%，创当年美国IPO首日涨幅纪录，当当大涨近九成，中国互联网公司掀起新一轮赴美上市热潮。",
+  "detail": "优酷以『中国YouTube+Hulu』的故事融资约2.3亿美元，市值一度超过行业老二土豆近一倍；老牌B2C当当则带着十年坚守的电商成绩单敲钟。同日双响的盛况让2010年被称为中国互联网公司的『上市大年』，麦考林、优酷、当当等接连出海。投资人排队认购的盛况，让此后一年的中概股赴美窗口被挤到水泄不通。",
+  "sources": [
+   {
+    "title": "维基百科：优酷",
+    "url": "https://zh.wikipedia.org/wiki/优酷",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：当当网",
+    "url": "https://zh.wikipedia.org/wiki/当当网",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2011-06-25-feliks-zemdegs-sub-six",
+  "date": "2011-06-25",
+  "layer": "records",
+  "title": "六秒以内复原魔方：澳大利亚少年泽姆德格斯跨过新门槛",
+  "summary": "2011 年 6 月 25 日，17 岁的澳大利亚少年费利克斯·泽姆德格斯在墨尔本冬季公开赛上以 5.66 秒复原三阶魔方，成为人类历史上第一个在正式比赛中六秒内复原的选手。此后数年他把世界纪录反复改写到自己名下，成为速拧运动第一位全球级明星。",
+  "detail": "2011 年 6 月 25 日，墨尔本冬季公开赛（Melbourne Winter Open）上，费利克斯·泽姆德格斯（Feliks Zemdegs）以 5.66 秒的单次成绩打破世界纪录，首次把官方成绩带进六秒以内。泽姆德格斯 2008 年底才从网络视频自学速拧，两年后已称霸赛场：他此后累计刷新一百多项世界纪录，两夺世界魔方锦标赛总冠军，长期同时保持三阶单次与平均双榜第一。他的复原手法以预判（提前想好步骤）、公式精度与『X-cross』开局著称，训练视频在 YouTube 被全球魔友拆解学习，让速拧第一次拥有了跨圈层的偶像。",
+  "sources": [
+   {
+    "title": "Wikipedia：Feliks Zemdegs",
+    "url": "https://en.wikipedia.org/wiki/Feliks_Zemdegs",
+    "type": "wiki"
+   },
+   {
+    "title": "WCA：Melbourne Winter Open 2011 赛事页",
+    "url": "https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2011",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2011-11-18-minecraft-1-0",
+  "date": "2011-11-18",
+  "layer": "games2",
+  "title": "《我的世界》1.0正式版发布",
+  "summary": "在拉斯维加斯MineCon上敲下正式版按钮：从论坛原型到正式发布的两年半里，一款独立游戏完成对整个行业的改写，独立游戏抢先体验模式的完美范本，最终成为史上最畅销游戏。",
+  "detail": "2011年11月18日，Notch在首届MineCon上按下按钮发布Minecraft 1.0（冒险更新：末地、酿造、附魔）。此时游戏销量已超1600万，YouTube实况与服务器生态成为增长引擎。2014年微软以25亿美元收购Mojang，创当时游戏业收购纪录。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2011 in video games",
+    "url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2014-08-25-amazon-twitch",
+  "date": "2014-08-25",
+  "layer": "games2",
+  "title": "亚马逊9.7亿美元收购Twitch",
+  "summary": "游戏直播正式被承认为产业级资产：传闻谷歌竞购失败，亚马逊重金接盘，'看别人玩游戏'自此成为正经生意，游戏直播获得产业级资本定价，'边看边玩'成为发行链路的核心环节。",
+  "detail": "2014年8月25日亚马逊宣布以约9.7亿美元收购游戏直播平台Twitch。此前传闻谷歌/YouTube接近竞得，亚马逊的入局让游戏直播的平台价值获得资本背书。此后Twitch成为欧美游戏发行的主阵地：首发直播、主播码、赏金计划，'游戏即内容'的商业模式定型，也间接推动了YouTube Gaming、Facebook Gaming的跟进。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2014 in video games",
+    "url": "https://en.wikipedia.org/wiki/2014_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2015-07-04-matt-stonie-upsets-chestnut",
+  "date": "2015-07-04",
+  "layer": "records",
+  "title": "马特·斯托尼爆冷终结切斯纳特五连霸",
+  "summary": "2015 年 7 月 4 日，内森杯热狗大赛爆出大冷门：23 岁的素食博主马特·斯托尼以 62 比 60 击败四连冠的乔伊·切斯纳特，终结其五连霸。这是科尼岛八年来首次易主，短视频时代的『小个子大胃王』自此登上竞食舞台中央。",
+  "detail": "2015 年 7 月 4 日，纽约科尼岛内森杯热狗大赛迎来震动：此前四年连霸、卫冕成绩 61 个的乔伊·切斯纳特迎战 23 岁的马特·斯托尼（Matt Stonie）。斯托尼身高不足一米七、体重五十多公斤，因在 YouTube 发布『狂吃巨量食物』视频走红，其清洁的吞咽节奏与精准的补给策略常年打磨。10 分钟比赛结束时计牌显示 62 比 60，切斯纳特五连霸戛然而止，全场哗然。斯托尼成为 2000 年后最年轻的热狗冠军之一，也证明了竞食竞技正在从体力转向技术与视频化人格。",
+  "sources": [
+   {
+    "title": "Wikipedia：Matt Stonie",
+    "url": "https://en.wikipedia.org/wiki/Matt_Stonie",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia：Nathan's Hot Dog Eating Contest",
+    "url": "https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2016-11-29-kizuna-ai-debut",
+  "date": "2016-11-29",
+  "layer": "anime",
+  "title": "绊爱出道：『Virtual YouTuber』元祖登场",
+  "summary": "2016年11月底至12月初，粉白制服、双马尾发带的虚拟少女『绊爱』（Kizuna AI）在YouTube开设频道并自称『Virtual YouTuber』。真人配音加动捕、CG形象的组合引爆订阅狂潮，『VTuber』一词与整个行业自此诞生。",
+  "detail": "绊爱由Activ8公司运营，2016年11月29日『A.I.Channel』开设、12月初『A.I.Games』游戏频道上线，首个爆红视频是她玩恐怖游戏《玩具熊的五夜后宫：姐妹地点》的『哇啊』反应。官方明确以『Virtual YouTuber（虚拟油管主）』自称，这个词随后成为整个行业的名字。绊爱的模式——中之人（配音演员春日望）动捕驱动、CG形象实时生成、以『游戏实况+杂谈』内容运营——确立了VTuber的标准形态。2018年她登上东京游戏展并赴海外活动，巅峰期各频道订阅合计近600万。2019年『四绊爱』分裂事件与2022年无限期休眠标志元祖时代的落幕，但行业已彻底起飞：hololive、彩虹社等后辈把VTuber做成了年收入数百亿日元的产业。",
+  "sources": [
+   {
+    "title": "绊爱 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/绊爱",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2019-12-01-liziqi-global",
+  "date": "2019-12-01",
+  "layer": "folklore",
+  "title": "李子柒海外爆红，田园民俗短视频征服全球",
+  "summary": "2019年12月，李子柒YouTube订阅量突破千万，创「最多订阅量的YouTube中文频道」吉尼斯世界纪录。",
+  "detail": "2019年12月，李子柒YouTube订阅量突破千万，创「最多订阅量的YouTube中文频道」吉尼斯世界纪录。 无解说的中国田园生活影像成为文化出海最成功的样本，非遗技艺、农事民俗以「生活方式」形态被全球观众接受。 国内外「李子柒式」乡村内容创作者批量涌现，此后非遗+短视频成为平台标配赛道；李子柒停更三年后2024年复出再度引发全球关注。",
+  "sources": [
+   {
+    "type": "wiki",
+    "url": "https://zh.wikipedia.org/wiki/李子柒",
+    "title": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2023-04-12-oshi-no-ko-premiere",
+  "date": "2023-04-12",
+  "layer": "anime",
+  "title": "《我推的孩子》开播：偶像产业的黑暗解剖",
+  "summary": "2023年4月12日，《我推的孩子》动画开播。90分钟超长首集从产科医生与偶像始祖爱谈起，揭开演艺圈的谎言与悲剧，『谎言是最完美的爱』成为年度争议台词。复仇叙事加上偶像工业的解剖刀，让这部作品成为2023年最大的社会级话题作。",
+  "detail": "Doga Kobo改编赤坂明原作、横枪萌果作画的漫画《我推的孩子》，2023年4月12日开播首集90分钟。偶像『B小町』的星野爱未婚生子，产科医生五郎转生为她的儿子阿库亚，爱的悲剧与复仇起点在90分钟内完成全部铺垫：艺能界、网络暴力、生父谜团层层展开。第二季2.5次元舞台篇（2024年）以演员职业的残酷再获好评，『Idol』（YOASOBI演唱）成为全球播放量最高的日本歌曲之一（YouTube破数亿），『推しの子』的文化影响溢出到中文圈『我推的孩子』的通用表述。原作漫画2024年11月完结，累计发行量超2000万册。作品对饭圈、网暴、未成年艺人的描写在多个国家引发行业讨论。",
+  "sources": [
+   {
+    "title": "我推的孩子 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/我推的孩子",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-11-15-jake-paul-vs-mike-tyson",
+  "date": "2024-11-15",
+  "layer": "records",
+  "title": "网红拳手对阵 58 岁泰森：流媒体时代的『世纪之战』",
+  "summary": "2024 年 11 月 15 日，27 岁的网红拳手杰克·保罗在达拉斯用八回合点数击败 58 岁的拳王迈克·泰森。这场比赛由流媒体平台独家直播，全球数千万家庭同时观看，创下体育直播的观看纪录，也引发了『表演赛还是体育』的持久争论。",
+  "detail": "2024 年 11 月 15 日，YouTube 出身、转型职业拳手的杰克·保罗（Jake Paul）与前重量级世界冠军迈克·泰森（Mike Tyson）在达拉斯的 AT&T 体育场交手。比赛由流媒体平台 Netflix 全球独家直播，平台方面称全球约有 6000 万家庭同时在线，峰值流量导致部分用户卡顿，创下流媒体体育赛事观看纪录。58 岁的泰森自 2005 年退役后首次正式回归拳台，前两回合偶有重拳惊现，但整体节奏缓慢，八回合后三位裁判一致判保罗点数获胜。赛前炒作与赛中落差让舆论分成两派：一边惊叹流媒体改写了体育消费，一边批评这是对竞技体育的消解。",
+  "sources": [
+   {
+    "title": "Wikipedia：Jake Paul vs. Mike Tyson",
+    "url": "https://en.wikipedia.org/wiki/Jake_Paul_vs._Mike_Tyson",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia：Mike Tyson",
+    "url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+    "type": "wiki"
+   }
+  ]
+ }
+]

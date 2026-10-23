@@ -435,6 +435,21 @@
   ]
  },
  {
+  "id": "2021-02-23-tiger-car-crash",
+  "date": "2021-02-23",
+  "layer": "main",
+  "title": "老虎伍兹车祸重伤：高尔夫之王的至暗时刻",
+  "summary": "2021年2月23日，高尔夫传奇老虎伍兹在洛杉矶郊区遭遇单车翻覆事故，右腿多处粉碎性骨折，一度面临截肢风险。45岁的他刚做完第五次背部手术，复出悬念笼罩。",
+  "detail": "伍兹超速近一倍且未系安全带，翻车后靠路人救出。他此后经历漫长康复，2022年12月与儿子查理搭档参加父子赛复出（步行受限改用高尔夫车特批）。2024年他宣布与特朗普女友的女儿凡妮莎的恋情引发话题，2025年动用手术修复跟腱。他的15座大满贯纪录仍然是现役球员的追逐目标。",
+  "sources": [
+   {
+    "title": "老虎伍兹 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/老虎伍兹",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
   "id": "2021-07-20-bezos-blue-origin-flight",
   "date": "2021-07-20",
   "layer": "main",
@@ -535,21 +550,6 @@
    {
     "title": "Wikipedia: 2023 in video games",
     "url": "https://en.wikipedia.org/wiki/2023_in_video_games",
-    "type": "wiki"
-   }
-  ]
- },
- {
-  "id": "2024-07-21-pogacar-tour-fourpeat",
-  "date": "2024-07-21",
-  "layer": "records",
-  "title": "波加查环法四连冠：25岁已握五件黄衫",
-  "summary": "2024年7月21日，第111届环法在尼斯收官，斯洛文尼亚车手波加查实现四连冠、个人第五件黄衫，25岁的他已比肩传奇；两周后的巴黎奥运，他再夺公路赛与计时赛双金，完成『环法+奥运双金』的历史级赛季。",
-  "detail": "波加查2020年21岁首夺环法，2021年起连冠不断。2024年他改变战术：主动放弃部分古典赛，专攻环法与奥运双线，结果在环法以近7分钟优势碾压对手，奥运公路赛则从远距离单飞夺金，成为男子公路车史上首位『同夏包揽环法+奥运双金』的车手。UCI积分榜上他一人拉开第二名数千分的差距，统治力被媒体形容为『公路车界的梅罗时代终结者』。",
-  "sources": [
-   {
-    "title": "百度百科：塔代伊·波加查",
-    "url": "https://baike.baidu.com/item/塔代伊·波加查",
     "type": "wiki"
    }
   ]
@@ -671,6 +671,11 @@
     "title": "Wikipedia: Clive Davis",
     "url": "https://en.wikipedia.org/wiki/Clive_Davis",
     "type": "wiki"
+   },
+   {
+    "title": "The New York Times：Clive Davis, Hitmaking Titan of the Music Industry, Dies at 94",
+    "url": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html",
+    "type": "media"
    }
   ]
  },

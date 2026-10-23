@@ -1,0 +1,503 @@
+[
+ {
+  "id": "google",
+  "name": "谷歌",
+  "en_name": "Google",
+  "type": "company",
+  "region": "world",
+  "founded": "1998-09-04",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "美国加州山景城",
+  "headline": "从搜索到移动与AI的全球底座",
+  "summary_30s": "1998年以PageRank算法创办，靠AdWords竞价广告成为商业引擎；2004年上市，2005年收购Android奠定移动底座；2010年google.cn搜索重定向香港、退出中国大陆搜索市场；现属Alphabet，Gemini居模型第一梯队。",
+  "timeline": [
+   {
+    "date": "1998-09-04",
+    "acc": "exact",
+    "text": "拉里·佩奇与谢尔盖·布林在加州注册Google公司，核心是按链接权重排序搜索结果的PageRank算法"
+   },
+   {
+    "date": "2000-10-23",
+    "acc": "exact",
+    "text": "上线关键词竞价广告系统AdWords（约350家广告主），按点击效果计费的机制此后二十余年贡献公司绝大部分营收"
+   },
+   {
+    "date": "2004-04-01",
+    "acc": "exact",
+    "text": "发布Gmail：1GB免费存储约为当时Hotmail的250倍，邀请码机制令邮箱产品首次出现『排队注册』"
+   },
+   {
+    "date": "2004-08-19",
+    "acc": "exact",
+    "text": "以荷兰式拍卖登陆纳斯达克，发行价85美元，上市时年收入27亿美元，首日市值约230亿美元"
+   },
+   {
+    "date": "2005-02-08",
+    "acc": "exact",
+    "text": "上线Google Maps，以Ajax拖拽地图取代整页刷新，同年6月开放API后『位置』成为网络产品标准图层"
+   },
+   {
+    "date": "2005-07-01",
+    "acc": "month",
+    "text": "以至少5000万美元收购Android公司，为进入手机操作系统埋下伏笔"
+   },
+   {
+    "date": "2006-01-26",
+    "acc": "exact",
+    "text": "启用中国版网站google.cn，同年11月谷歌（中国）在北京注册成立，与百度展开中文搜索双雄竞争"
+   },
+   {
+    "date": "2006-10-09",
+    "acc": "exact",
+    "text": "宣布以16.5亿美元股票收购成立仅20个月的YouTube，收购时后者日视频观看量约1亿次而几乎无收入"
+   },
+   {
+    "date": "2007-11-05",
+    "acc": "exact",
+    "text": "联合HTC、摩托罗拉、中国移动等组建开放手机联盟并宣布Android平台以Apache协议开源，任何厂商可免费定制，此后成为国产手机出海的系统底座"
+   },
+   {
+    "date": "2008-09-02",
+    "acc": "exact",
+    "text": "发布Chrome浏览器，以V8引擎与标签页进程隔离把浏览器重新定义为Web应用的运行环境"
+   },
+   {
+    "date": "2010-03-23",
+    "acc": "exact",
+    "text": "宣布调整中国业务，google.cn搜索服务重定向至香港域名google.com.hk，广告销售与研发团队继续留驻，中文搜索市场此后进入百度主导格局"
+   },
+   {
+    "date": "2014-01-01",
+    "acc": "month",
+    "text": "收购英国DeepMind公司，将其并入AI研究版图"
+   },
+   {
+    "date": "2015-08-10",
+    "acc": "exact",
+    "text": "宣布重组为Alphabet控股集团，谷歌成为其子公司，搜索、广告与前沿业务分立核算"
+   },
+   {
+    "date": "2017-06-01",
+    "acc": "month",
+    "text": "发表论文《Attention Is All You Need》提出Transformer架构，成为此后全球大语言模型的通用技术底座"
+   },
+   {
+    "date": "2022-10-03",
+    "acc": "exact",
+    "text": "以使用率低为由停止Google翻译中国大陆服务，translate.google.cn页面重定向，内地用户转向百度翻译、有道等替代品"
+   },
+   {
+    "date": "2024-12-11",
+    "acc": "exact",
+    "text": "发布Gemini 2.0并宣布进入『Agent时代』，主打原生工具调用与多模态输出"
+   },
+   {
+    "date": "2025-11-18",
+    "acc": "exact",
+    "text": "发布Gemini 3并首日接入搜索AI Mode，Pro版在多项推理基准登顶，发布当日股价大涨"
+   },
+   {
+    "date": "2026-10-13",
+    "acc": "exact",
+    "text": "新一代模型Gemini 4（Argon）正式版上线，每百万token定价2/10美元，维持AI模型头部身位"
+   }
+  ],
+  "milestones": [
+   "2004年8月19日上市：发行价85美元，首日市值约230亿美元",
+   "2006年以16.5亿美元股票收购YouTube，2005年以至少5000万美元收购Android",
+   "2010年google.cn搜索重定向香港，中文搜索市场进入百度主导格局",
+   "2015年重组为Alphabet控股，Gemini系列居全球大模型第一梯队",
+   "2022年10月谷歌翻译停止中国大陆服务，官方理由为使用率低"
+  ],
+  "legacy": "Alphabet市值长期居全球科技业前列，搜索、安卓与Gemini构成其AI时代三条主线。在中国大陆搜索与多数服务不可用，但Android支撑小米、OPPO、vivo等国产手机的全球出货，谷歌开发者工具与开源社区仍深度参与中国程序员的日常。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "Wikipedia: History of Google",
+    "url": "https://en.wikipedia.org/wiki/History_of_Google",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：谷歌中国",
+    "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Alphabet Inc.",
+    "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+    "type": "wiki"
+   },
+   {
+    "title": "德国之声：谷歌停止在中国大陆的翻译服务",
+    "url": "https://www.dw.com/zh/%E8%B0%B7%E6%AD%8C%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%9A%84%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/a-63322165",
+    "type": "news"
+   },
+   {
+    "title": "Wikipedia: Gemini (language model)",
+    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+    "type": "wiki"
+   }
+  ],
+  "tags": ["搜索引擎", "广告", "Android", "人工智能", "Alphabet"]
+ },
+ {
+  "id": "youtube",
+  "name": "YouTube",
+  "type": "company",
+  "region": "world",
+  "founded": "2005-02-14",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "美国加州圣布鲁诺",
+  "headline": "全球最大视频平台与创作者经济原点",
+  "summary_30s": "2005年三名PayPal前员工创办，『上传-嵌入』流程引爆UGC视频；2006年被谷歌16.5亿美元收购，以Content ID与广告分成开创创作者经济；土豆、B站与抖音皆以其为参照；现月活约25亿，以Shorts迎战TikTok。",
+  "timeline": [
+   {
+    "date": "2005-02-14",
+    "acc": "exact",
+    "text": "前PayPal员工查德·贺利、陈士骏、贾德·卡林姆注册YouTube域名，最初构想是视频约会网站"
+   },
+   {
+    "date": "2005-04-23",
+    "acc": "exact",
+    "text": "卡林姆上传首条视频《Me at the zoo》，网站确立『上传-嵌入-分享』的极简发布流程"
+   },
+   {
+    "date": "2005-12-01",
+    "acc": "month",
+    "text": "正式对公众开放，Flash播放器嵌入代码扩散至全球博客与论坛；同年4月中国土豆网已先行上线，中美UGC视频时代几乎同步开启"
+   },
+   {
+    "date": "2006-10-09",
+    "acc": "exact",
+    "text": "谷歌宣布以16.5亿美元股票收购，此时日视频观看量约1亿次而几乎无收入"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "部署Content ID版权指纹系统并启动合作伙伴计划，版权方可在分成与下架之间选择，创作者开始按流量分享广告收入"
+   },
+   {
+    "date": "2016-11-29",
+    "acc": "exact",
+    "text": "『绊爱』开设频道并自称Virtual YouTuber，VTuber产业以此为原点，此后hololive等将其做成年收入数百亿日元的产业"
+   },
+   {
+    "date": "2017-02-01",
+    "acc": "month",
+    "text": "每分钟上传视频时长超过400小时，每天观看时长达到10亿小时量级"
+   },
+   {
+    "date": "2019-05-01",
+    "acc": "month",
+    "text": "在Brandcast大会宣布登录用户月活突破20亿"
+   },
+   {
+    "date": "2019-12-01",
+    "acc": "exact",
+    "text": "李子柒频道订阅破千万，创下『最多订阅量的YouTube中文频道』吉尼斯世界纪录，成为中国内容出海标杆"
+   },
+   {
+    "date": "2021-07-01",
+    "acc": "month",
+    "text": "短视频产品Shorts正式上线，以竖屏短视频正面对垒TikTok（抖音海外版）"
+   }
+  ],
+  "milestones": [
+   "2006年10月被谷歌以16.5亿美元股票收购，当时日观看量约1亿次",
+   "2019年5月宣布登录用户月活突破20亿",
+   "2017年每分钟上传视频超400小时，日观看时长10亿小时",
+   "2016年绊爱开创VTuber品类，衍生出年收入数百亿日元的产业",
+   "2019年李子柒创『最多订阅YouTube中文频道』吉尼斯纪录"
+  ],
+  "legacy": "现状：登录用户月活超25亿、为全球第二大流量入口；『长视频+广告分成』范式被B站继承，Shorts直接回应TikTok冲击。李子柒、绊爱与中文游戏实况让平台成为中国文化出海的重要码头。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "维基百科：YouTube",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   },
+   {
+    "title": "Variety: YouTube 2B Monthly Users",
+    "url": "https://variety.com/2019/digital/news/youtube-2-billion-users-tv-screen-watch-time-hours-1203204267",
+    "type": "news"
+   },
+   {
+    "title": "绊爱 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/绊爱",
+    "type": "wiki"
+   },
+   {
+    "title": "李子柒 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/李子柒",
+    "type": "wiki"
+   },
+   {
+    "title": "Internet Archive 首张快照",
+    "url": "https://web.archive.org/web/20050428000000/http://www.youtube.com/",
+    "type": "archive"
+   }
+  ],
+  "tags": ["视频平台", "UGC", "创作者经济", "流媒体", "短视频"]
+ },
+ {
+  "id": "facebook",
+  "name": "脸书",
+  "en_name": "Facebook",
+  "type": "company",
+  "region": "world",
+  "founded": "2004-02-04",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "美国加州门洛帕克",
+  "headline": "全球最大社交网络，后更名Meta",
+  "summary_30s": "2004年哈佛宿舍上线的实名校园社交，两周内三分之二哈佛学生注册；开放注册后超越MySpace，2012年以1040亿美元估值上市；校内网、开心网皆师承其模式；2021年更名Meta押注元宇宙，月活超30亿。",
+  "timeline": [
+   {
+    "date": "2004-02-04",
+    "acc": "exact",
+    "text": "扎克伯格在哈佛宿舍上线TheFacebook，两周内约三分之二哈佛本科生注册，实名制加关系链的产品形态后来被校内网、开心网移植到中国"
+   },
+   {
+    "date": "2005-08-01",
+    "acc": "month",
+    "text": "从TheFacebook更名为Facebook，当年获Accel Partners领投的A轮融资"
+   },
+   {
+    "date": "2006-09-26",
+    "acc": "exact",
+    "text": "取消大学邮箱注册限制，向年满13岁的公众开放注册，用户此后以月计倍增"
+   },
+   {
+    "date": "2007-05-24",
+    "acc": "exact",
+    "text": "Facebook Platform开放平台上线，第三方应用可接入社交关系链，社交游戏自此成为独立赛道"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "全球独立访客流量超越MySpace，登顶全球最大社交网络"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "服务在中国大陆无法直接访问，此后未在内地开展业务"
+   },
+   {
+    "date": "2009-06-19",
+    "acc": "exact",
+    "text": "Zynga的《FarmVille》上线，月活峰值约8000万，社交游戏把Facebook变成游戏分发主渠道"
+   },
+   {
+    "date": "2012-04-09",
+    "acc": "exact",
+    "text": "以约10亿美元收购成立仅551天、用户3000万的Instagram，移动照片赛道的估值逻辑被改写"
+   },
+   {
+    "date": "2012-05-18",
+    "acc": "exact",
+    "text": "纳斯达克上市，发行价38美元、估值约1040亿美元，为当时科技史上最大IPO，首日因交易系统故障收平，其后数月股价一度腰斩"
+   },
+   {
+    "date": "2014-02-19",
+    "acc": "exact",
+    "text": "宣布以约190亿美元收购月活约4.5亿、仅55名员工的WhatsApp，为当时互联网并购金额纪录"
+   },
+   {
+    "date": "2014-03-01",
+    "acc": "month",
+    "text": "以约20亿美元收购VR公司Oculus，为日后元宇宙押注埋下伏笔"
+   },
+   {
+    "date": "2021-10-28",
+    "acc": "exact",
+    "text": "宣布公司更名为Meta Platforms，Facebook降为旗下应用之一，资源向元宇宙倾斜"
+   },
+   {
+    "date": "2023-09-27",
+    "acc": "exact",
+    "text": "发布499美元的Quest 3头显与299美元的雷朋Meta智能眼镜，后者以数百万副销量成为智能眼镜品类爆款"
+   },
+   {
+    "date": "2024-09-24",
+    "acc": "exact",
+    "text": "Meta Connect发布Llama 3.2与299美元Quest 3S，并展示AR眼镜原型Orion"
+   },
+   {
+    "date": "2025-04-05",
+    "acc": "exact",
+    "text": "发布开源大模型Llama 4系列并首次转向MoE架构，Llama权重此前已被全球企业广泛私有化部署"
+   }
+  ],
+  "milestones": [
+   "2012年5月18日IPO：发行价38美元，估值约1040亿美元",
+   "2012-2014年先后以约10亿、190亿美元收购Instagram与WhatsApp",
+   "2007年5月开放平台上线，第三方应用接入社交关系链",
+   "2021年10月28日更名Meta，全面押注元宇宙",
+   "2023年起月活跃用户突破30亿"
+  ],
+  "legacy": "现状：Meta家族应用月活超30亿，广告仍是收入主体；元宇宙部门持续投入未见回报，Llama开源成为其AI影响力支点。服务在中国大陆无法直接访问，而校内、开心到微信的中国社交产品史里始终有它的参照。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "Wikipedia: History of Facebook",
+    "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+    "type": "wiki"
+   },
+   {
+    "title": "Facebook - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Facebook",
+    "type": "wiki"
+   },
+   {
+    "title": "Meta Newsroom: Facebook to Acquire WhatsApp",
+    "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：校内网",
+    "url": "https://zh.wikipedia.org/wiki/校内网",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Meta Platforms",
+    "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+    "type": "wiki"
+   }
+  ],
+  "tags": ["社交网络", "实名社交", "元宇宙", "人工智能", "收购"]
+ },
+ {
+  "id": "twitter",
+  "name": "推特",
+  "en_name": "Twitter",
+  "type": "company",
+  "region": "world",
+  "founded": "2006-03-21",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "美国旧金山",
+  "headline": "140字全球广场，十七年后更名X",
+  "summary_30s": "2006年以140字推文起家，hashtag与趋势话题造就突发新闻实时广场；2013年上市后增长停滞，新浪微博以『中国版Twitter』之名完成本土化；2022年马斯克440亿美元完成收购，2023年更名X。",
+  "timeline": [
+   {
+    "date": "2006-03-21",
+    "acc": "exact",
+    "text": "杰克·多西发出首条推文『just setting up my twttr』，公司同日创办，140字上限把发布门槛降到最低"
+   },
+   {
+    "date": "2006-07-15",
+    "acc": "exact",
+    "text": "网站正式向公众开放，『What are you doing?』的轻量广播形态开始扩散"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "用户克里斯·梅西纳提议以#号聚合话题，hashtag由社区习惯成长为平台功能"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "推出趋势话题（Trending Topics）功能，热点聚合让突发新闻从此有了实时广场"
+   },
+   {
+    "date": "2009-06-25",
+    "acc": "exact",
+    "text": "迈克尔·杰克逊逝世当晚访问量激增近一倍、服务一度告急，突发新闻先发于社交平台成为常态"
+   },
+   {
+    "date": "2009-08-14",
+    "acc": "exact",
+    "text": "新浪微博在中国内测，以名人认证与转发机制承接微博客形态，长期被称为『中国版Twitter』，与原版时间线形成产品范式对照"
+   },
+   {
+    "date": "2011-05-02",
+    "acc": "exact",
+    "text": "本·拉登被击毙行动期间，一名当地居民实时发帖记录直升机盘旋与爆炸声，个人动态先于官方通报成为全球头条"
+   },
+   {
+    "date": "2013-11-07",
+    "acc": "exact",
+    "text": "在纽交所挂牌上市，发行价26美元、募资18.2亿美元，开盘较发行价上涨73%"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "推文上限从140字放宽至280字，核心产品形态多年再无大改"
+   },
+   {
+    "date": "2017-01-17",
+    "acc": "exact",
+    "text": "旗下六秒短视频应用Vine关停，其『短-快-洗脑』的内容基因后被抖音、快手继承"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "月活跃用户超过3.3亿，增长进入平台期"
+   },
+   {
+    "date": "2022-04-25",
+    "acc": "exact",
+    "text": "马斯克与董事会达成每股54.2美元、总额440亿美元的收购协议"
+   },
+   {
+    "date": "2022-10-27",
+    "acc": "exact",
+    "text": "马斯克按原价完成交割，随即裁员约50%，广告主暂停投放令收入大跌"
+   },
+   {
+    "date": "2023-07-23",
+    "acc": "exact",
+    "text": "蓝鸟标志更换为黑白『X』，域名切换X.com，应用同步更名，17年历史的『Twitter』一词退役"
+   },
+   {
+    "date": "2023-11-04",
+    "acc": "exact",
+    "text": "旗下xAI发布聊天机器人Grok，接入X平台实时数据流，AI成为新的产品叙事"
+   }
+  ],
+  "milestones": [
+   "2006年3月21日首条推文发出，140字定义微博客形态",
+   "2013年11月7日纽交所上市：发行价26美元，募资18.2亿美元",
+   "2022年10月27日以440亿美元完成交割，为社交媒体最大并购之一",
+   "2023年7月23日更名X，17年蓝鸟品牌退役",
+   "2019年初月活超3.3亿，此后增长进入平台期"
+  ],
+  "legacy": "现状：X平台广告收入大跌后转向订阅、数据授权与AI叙事，『Twitter』仍是全球口语中的通用词。微博的热搜与超话体系被视为对140字广场的本土化改造，两代产品互为镜像。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "维基百科：Twitter",
+    "url": "https://zh.wikipedia.org/wiki/Twitter",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Acquisition of Twitter by Elon Musk",
+    "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: X (social network)",
+    "url": "https://en.wikipedia.org/wiki/X_(social_network)",
+    "type": "wiki"
+   },
+   {
+    "title": "财新网：阿里巴巴5.86亿美元战略投资新浪微博",
+    "url": "https://companies.caixin.com/m/2013-04-30/100522431.html",
+    "type": "news"
+   },
+   {
+    "title": "维基百科：新浪微博",
+    "url": "https://zh.wikipedia.org/wiki/新浪微博",
+    "type": "wiki"
+   }
+  ],
+  "tags": ["微博客", "社交媒体", "hashtag", "实时信息", "X平台"]
+ }
+]

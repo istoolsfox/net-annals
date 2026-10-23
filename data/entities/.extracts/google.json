@@ -1,0 +1,617 @@
+[
+ {
+  "id": "1995-12-15-altavista-launch",
+  "date": "1995-12-15",
+  "layer": "wayback",
+  "title": "AltaVista 上线：全文搜索的第一次统治",
+  "summary": "1995年12月15日，DEC实验室的AltaVista上线，靠爬取全网页面建立全文索引，上线首日涌入30万访客。",
+  "detail": "1995年12月15日，DEC实验室的AltaVista上线，靠爬取全网页面建立全文索引，上线首日涌入30万访客。 搜索第一次成为普通人上网的入口，Yahoo式人工目录之外的自动索引路线就此确立。 AltaVista后来在商业化摇摆中被Google的PageRank路线碾过，2013年雅虎将其关闭——搜索王座的先登者与让位者都写进了同一个名字。",
+  "sources": [
+   {
+    "type": "wiki",
+    "url": "https://zh.wikipedia.org/wiki/AltaVista",
+    "title": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "1998-09-04-google-founded",
+  "date": "1998-09-04",
+  "layer": "main",
+  "title": "谷歌成立：PageRank 改变全人类找信息的方式",
+  "summary": "两位斯坦福博士生把论文里的排序算法做成公司，名叫 Google。此后二十年，『有问题，搜一下』成为全人类的条件反射，中国同行百度也在一年后照着这条路出发。",
+  "detail": "1998年9月4日 Google 公司在加州注册，核心是按链接权重排序的 PageRank。2000年推出广告系统 AdWords，成为史上最赚钱的商业模式之一。",
+  "sources": [
+   {
+    "title": "Wikipedia: History of Google",
+    "url": "https://en.wikipedia.org/wiki/History_of_Google",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "1998-11-11-wayback-google",
+  "date": "1998-11-11",
+  "layer": "wayback",
+  "title": "数字考古·Google：1998年11月的最早存档",
+  "summary": "11月11日，互联网档案馆存下 google.com 的最早快照——三个月前拉里·佩奇和谢尔盖·布林刚在车库里注册公司，快照里的Google还只是斯坦福数字图书馆计划的一个实验品，Logo里甚至带着彩色的感叹号。",
+  "detail": "1998年9月4日，Google公司在加州门洛帕克的车库中注册；11月11日互联网档案馆完成对 google.com 的最早存档。快照里的首页极为简朴：一个彩色Logo（带红色感叹号）、一句『用Google搜索万维网』与少量说明文字，日均搜索量约1万次。这份简朴背后是PageRank算法的革命性——按链接权重排序的结果质量碾压当时的Altavista与雅虎。1999年Google正式脱离测试版，2004年上市，如今Alphabet是全球市值最高的科技公司之一。",
+  "sources": [
+   {
+    "title": "Internet Archive 首张快照",
+    "url": "https://web.archive.org/web/19981111000000/http://www.google.com/",
+    "type": "archive"
+   }
+  ]
+ },
+ {
+  "id": "1999-08-23-blogger-launch",
+  "date": "1999-08-23",
+  "layer": "media",
+  "title": "Blogger上线：每个人都能出『个人出版物』",
+  "summary": "8月23日，Blogger.com上线，把『写网页』简化成『写日志』。博客（Blog）一词从此进入大众词典，个人表达第一次有了杂志级的发布渠道——中文世界的『博客』热潮在三年后接踵而至。",
+  "detail": "1999年8月23日，Pyra Labs公司的Blogger.com上线，由埃文·威廉姆斯等人开发，首次把博客写作做成傻瓜式托管服务：点几下就能拥有常更新的个人站点。『Weblog』被简化为『blog』并动词化，个人出版、RSS订阅与链接文化（blogroll）随之成型。2003年Google收购Blogger；中文世界则在2002-2005年迎来博客中国、新浪博客等本土热潮，徐静蕾等明星博客把个人写作推向全民。博客是『个人媒体』时代的开端，也是今天公众号、 Newsletter、个人站的精神源头。",
+  "sources": [
+   {
+    "title": "Wikipedia: Blogger",
+    "url": "https://zh.wikipedia.org/wiki/Blogger",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2000-02-11-srtm",
+  "date": "2000-02-11",
+  "layer": "space",
+  "title": "奋进号执行航天飞机雷达地形测绘任务",
+  "summary": "2000年2月11日，奋进号航天飞机携带60米长的可展开天线桅杆升空，执行航天飞机雷达地形测绘任务（SRTM）。机组连续工作11天，测绘了地球约80%陆地的三维地形，生成的全球高程数据集至今仍是大量地理信息系统、地图与工程应用的基础数据。",
+  "detail": "SRTM 使用C波段与X波段双频雷达干涉测量，桅杆展开后成为航天飞机部署过的最大单一结构。任务采集了约9.8TB数据，处理后生成30米分辨率全球DEM。Google Earth、各类导航地图、洪水模拟、基建规划都大量使用这份数据。它也是航天飞机为地球科学留下的最著名遗产之一。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2000 in spaceflight",
+    "url": "https://en.wikipedia.org/wiki/2000_in_spaceflight",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2000-04-03-ms-antitrust",
+  "date": "2000-04-03",
+  "layer": "main",
+  "title": "美法官裁定微软违反反垄断法",
+  "summary": "联邦法官裁定微软滥用Windows垄断地位、非法压制网景等对手，一度建议拆分公司。『捆绑=垄断』的判决震动整个软件业，也间接松开了互联网创新的枷锁。",
+  "detail": "2000年4月3日，美国联邦地区法院法官杰克逊裁定微软滥用 Windows 垄断地位、违反《谢尔曼法》，一度建议把公司一拆为二（操作系统与应用分立）。这场世纪诉讼始于1998年司法部与20个州起诉：核心证据是微软为打压网景，把 IE 捆绑进 Windows 并胁迫 OEM 排他——1998年的『比尔·盖茨录像证词』里这位世界首富反复推诿的姿态成为名场面。裁决后微软上诉，2001年上诉法院推翻拆分建议但维持垄断认定，2002年与司法部和解（开放 API、禁止报复性排他）。诉讼的后果深远：微软的进击姿态从此收敛（间接给了谷歌、苹果崛起的窗口）；而『捆绑即垄断』的判例逻辑，至今仍被各国用于审视科技巨头——2020年代对谷歌、Meta 的诉讼，源头都在这份2000年的裁决书。",
+  "sources": [
+   {
+    "title": "Wikipedia: United States v. Microsoft Corp.",
+    "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2003-08-01-myspace-launch",
+  "date": "2003-08-01",
+  "layer": "wayback",
+  "title": "MySpace 上线：社交网络第一个全球霸主诞生",
+  "summary": "2003年8月，MySpace 正式上线，凭借自定义主页、音乐人入驻与『好友Top8』玩法，两年内超越Friendster成为全球最大社交网络，2005年被新闻集团5.8亿美元收购，2006年在美国流量超越Google。",
+  "detail": "2003年8月，MySpace 正式上线，凭借自定义主页、音乐人入驻与『好友Top8』玩法，两年内超越Friendster成为全球最大社交网络，2005年被新闻集团5.8亿美元收购，2006年在美国流量超越Google。它是第一个真正意义上的全球社交霸主，也是第一个被更年轻的产品（Facebook）迅速取代的霸主。",
+  "sources": [
+   {
+    "title": "MySpace - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/MySpace",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2004-04-01-gmail-launch",
+  "date": "2004-04-01",
+  "layer": "main",
+  "title": "Gmail 发布：1GB 存储羞辱了整个邮箱行业",
+  "summary": "2004年4月1日愚人节，Google 发布 Gmail：1GB 存储，是当时 Hotmail 的250倍，很多人以为是玩笑。『邀请码』机制反而让它成了互联网身份的象征——邮件产品第一次变得值得排队。",
+  "detail": "Gmail 用超大存储+搜索式邮箱+会话视图三板斧，把邮箱从『定期删信』的稀缺品变成『永不删除』的档案库，倒逼雅虎、微软跟进扩容到免费无限。它还是 Google 产品哲学的载体：AdSense 式的上下文广告（扫描邮件关键词投放）在当年引发隐私争议，成为日后『数据换服务』商业模式的先声。Gmail 的 Ajax 富客户端体验也定义了 Web 2.0 应用形态：像桌面软件一样流畅的浏览器应用。2007年开放注册后用户一路增长到如今的18亿级，成为全球最大邮箱服务。",
+  "sources": [
+   {
+    "title": "Wikipedia: Gmail",
+    "url": "https://en.wikipedia.org/wiki/Gmail",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2004-08-19-google-ipo",
+  "date": "2004-08-19",
+  "layer": "main",
+  "title": "谷歌上市：『不作恶』的时代宣言",
+  "summary": "谷歌以独特的荷兰式拍卖登陆纳斯达克，招股书里写着『不作恶』。1917美元的拆股价格故事、涂鸦LOGO、免费搜索——它将定义此后二十年互联网巨头的两面：伟大与庞大。",
+  "detail": "2004年8月19日，谷歌以独特的荷兰式拍卖登陆纳斯达克（避开投行定价），发行价85美元——招股书里写着『不作恶』（Don't be evil）。这家1998年创立的搜索引擎公司在上市时已年收入27亿美元、利润过亿，与彼时烧钱的 dot-com 截然不同；上市首日市值230亿美元，此后一路长成全球市值最高的公司之一（2万亿美元级）。谷歌上市的意义在于确立了『技术理想主义+广告印钞机』的商业模式：PageRank 的技术信仰与 AdWords 的商业变现完美咬合，此后它用安卓统治移动端、用 YouTube 统治视频、用 DeepMind 与 Transformer 论文点亮 AI。『不作恶』的口号在2015年 Alphabet 重组后被移出行为准则开头，争议不断——但那个2004年夏天，它确实代表着互联网最纯粹的理想主义。",
+  "sources": [
+   {
+    "title": "Wikipedia: History of Google",
+    "url": "https://en.wikipedia.org/wiki/History_of_Google",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-02-08-google-maps-launch",
+  "date": "2005-02-08",
+  "layer": "main",
+  "title": "Google Maps 上线：世界从此有了『数字底图』",
+  "summary": "2005年2月8日，Google Maps 上线。拖拽平移、无级缩放的地图体验碾压了当时的 MapQuest，一年后开放的地图 API 更是把『位置』变成了所有互联网产品的标准图层。",
+  "detail": "Google Maps 收购 Where2、Keyhole 等小公司的技术整合而来，首次把 Ajax 拖拽地图带入主流（此前查地图要整页刷新）。2005年6月开放 API 后，成千上万的『Google Maps mashup』涌现——找公寓、标记犯罪热点、追踪出租车，Web 2.0 的创造性爆发以此为标志事件之一。此后街景（2007）、实时路况、室内地图逐步叠加；2012年苹果 Maps 事件（漏洞百出遭群嘲、高管下课）反证了地图数据工程的壁垒。对中国用户而言，高德（阿里收购）、百度地图在本土战场延续竞争，但『数字底图+位置服务』的产品范式全球同构。",
+  "sources": [
+   {
+    "title": "Wikipedia: Google Maps",
+    "url": "https://en.wikipedia.org/wiki/Google_Maps",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-04-28-wayback-youtube",
+  "date": "2005-04-28",
+  "layer": "wayback",
+  "title": "数字考古·YouTube：上线四天后的第一张快照",
+  "summary": "4月28日，互联网档案馆存下 youtube.com 的最早快照——此时距三位PayPal前员工注册域名仅过去四天，页面上还没有任何视频，只有『你的个人视频分享站』的预告。谁也不知道这里将诞生21世纪最重要的媒体平台。",
+  "detail": "2005年2月14日，查德·赫利、陈士骏与贾德·卡林姆注册YouTube域名（原意是做视频约会网站，转型失败后才改成通用视频分享）；4月23日第一条视频《Me at the zoo》上传，4月28日完成首次存档。快照里尚无视频内容，只有预告页。2005年12月正式公开后因便捷上传与Flash播放器病毒式增长，2006年10月Google以16.5亿美元股票收购。今天YouTube月活超25亿，是全球最大的视频平台与第二大门户流量源。",
+  "sources": [
+   {
+    "title": "Internet Archive 首张快照",
+    "url": "https://web.archive.org/web/20050428000000/http://www.youtube.com/",
+    "type": "archive"
+   }
+  ]
+ },
+ {
+  "id": "2005-08-05-baidu-ipo",
+  "date": "2005-08-05",
+  "layer": "tech",
+  "title": "百度纳斯达克上市：首日暴涨354%",
+  "summary": "百度以每股27美元登陆纳斯达克，当天收盘122.54美元，涨幅353.85%，创下当时美股IPO首日涨幅纪录，堪比互联网泡沫巅峰。『中国的Google』概念点燃华尔街，中文互联网公司的价值被全球重新定价。",
+  "detail": "2005年8月5日，百度在美国纳斯达克上市，发行价27美元。开盘即大涨，收盘报122.54美元，首日涨幅353.85%，成为Google上市以来美国股市表现最强劲的IPO之一。上市当天百度员工与李彦宏在纳斯达克敲钟的画面传回国内，成为中国互联网创业的标志性时刻。充裕的资金让百度在此后与 Google 中国的搜索大战中弹药充足。",
+  "sources": [
+   {
+    "title": "维基百科：百度",
+    "url": "https://zh.wikipedia.org/wiki/百度",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2005-10-08-darpa-challenge-2005-stanley",
+  "date": "2005-10-08",
+  "layer": "autos",
+  "title": "斯坦福Stanley夺冠：无人车第一次穿越沙漠",
+  "summary": "2005年10月8日，第二届DARPA无人车挑战赛发车，212公里荒漠赛道有5辆车完赛。斯坦福的Stanley以6小时54分夺冠，捧走200万美元奖金。领队塞巴斯蒂安·特隆随后被谷歌招致麾下，谷歌自动驾驶项目就此萌芽。",
+  "detail": "2005年10月8日，第二届DARPA Grand Challenge在内华达荒漠开赛，全程212公里（132英里）。与一年前无人完赛形成鲜明对比，本届共有5辆车跑完全程，斯坦福大学的Stanley以6小时54分夺得头名，赢得200万美元奖金，车队由塞巴斯蒂安·特隆（Sebastian Thrun）带领。从沙漠到真实道路，无人驾驶完成了第一次成建制的可行性验证。2009年1月17日，特隆在谷歌X实验室启动了谷歌自动驾驶汽车项目，即后来的Waymo。",
+  "sources": [
+   {
+    "title": "DARPA Grand Challenge - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge",
+    "type": "wiki"
+   },
+   {
+    "title": "Waymo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Waymo",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2006-01-26-google-cn-launch",
+  "date": "2006-01-26",
+  "layer": "tech",
+  "title": "Google 启用 google.cn，正式落子中国",
+  "summary": "Google 推出中国版网站 google.cn，正式以本土化域名服务中国用户；同年11月24日谷歌中国公司在北京注册成立。全球搜索巨头与百度在中国正面开战，中文搜索进入双雄时代。",
+  "detail": "2006年1月26日，Google 推出 google.cn 中国版网站，这是 Google 进入中国市场的关键商业动作；2006年11月24日，谷歌（中国）公司在北京注册成立。谷歌中国随后推出本地化产品与招聘攻势，在高校大举吸纳工程师。此前百度已于纳斯达克上市、用户基数庞大，中文搜索市场的双雄格局就此成形，这场竞争一直延续到2010年 Google 调整中国业务为止。",
+  "sources": [
+   {
+    "title": "维基百科：谷歌中国",
+    "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2006-10-09-youtube-google",
+  "date": "2006-10-09",
+  "layer": "main",
+  "title": "Google 16.5亿美元收购 YouTube：视频时代的开端",
+  "summary": "2006年10月9日，Google 宣布以16.5亿美元股票收购 YouTube——一家成立仅一年、尚在亏损的视频网站。这被当时视为疯狂的赌注：YouTube 每天消耗带宽费百万美元，却几乎无收入。此后十五年，YouTube 成为全球最大的视频平台与第二大搜索引擎，彻底改写了电视、音乐与创作者经济。",
+  "detail": "YouTube 由 Chad Hurley、Steve Chen 与 Jawed Karim（PayPal 前同事）于2005年2月创立。首条视频『Me at the zoo』2005年4月23日上传。Google 收购时 YouTube 每日视频观看量1亿次。此后 Google 投入数十亿建设 Content ID 版权系统与广告分成模式，让 YouTube 从『盗版集散地』变成全球创作者的收入来源。",
+  "sources": [
+   {
+    "title": "YouTube - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/YouTube",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2007-11-03-darpa-urban-challenge-2007",
+  "date": "2007-11-03",
+  "layer": "autos",
+  "title": "DARPA城市挑战赛：无人车学会在“城市”开车",
+  "summary": "2007年11月3日，DARPA城市挑战赛在加州维克多维尔废弃空军基地举行，96公里赛道模拟真实城市交通。卡内基梅隆与通用合作的雪佛兰Tahoe改装车Boss以4小时10分夺冠。自动驾驶完成了从荒野到街道的关键一跃。",
+  "detail": "2007年11月3日，第三届DARPA挑战赛以“Urban Challenge”城市挑战赛形式在加州维克多维尔的前乔治空军基地举行，赛程约96公里（60英里），要求无人车在模拟城市环境中遵守交规、处理会车与超车。最终卡内基梅隆大学与通用汽车合作的Tartan Racing车队以雪佛兰Tahoe改装的“Boss”夺冠，用时4小时10分20秒，赢得200万美元奖金。多支参赛队伍的技术与人才此后流入谷歌、Uber等公司的自动驾驶团队。",
+  "sources": [
+   {
+    "title": "DARPA Grand Challenge - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2007-11-05-android-announce",
+  "date": "2007-11-05",
+  "layer": "tech",
+  "title": "Google 发布 Android：开放手机联盟成立",
+  "summary": "Google 联合数十家厂商成立开放手机联盟（OHA），宣布 Android 开源手机平台。一周后首支官方宣传片亮相，2008年首款 Android 1.0 手机 HTC G1 上市——一场对 iOS 的『人海围剿』正式开始。",
+  "detail": "2007年11月5日，Google 宣布基于 Linux 的 Android 平台，并联合高通、摩托罗拉、HTC、中国移动等企业组建开放手机联盟（OHA），系统以 Apache 协议开源，任何厂商可免费使用与定制。2007年11月12日首个公开 Beta SDK 发布；2008年9月23日首个正式版 Android 1.0 随 HTC Dream（T-Mobile G1）面世。开放策略让三星、HTC、华为们迅速跟进，形成与 iOS 平分天下的格局。",
+  "sources": [
+   {
+    "title": "维基百科：Android歷史版本",
+    "url": "https://zh.wikipedia.org/wiki/Android歷史版本",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2008-02-01-microsoft-yahoo-bid",
+  "date": "2008-02-01",
+  "layer": "tech",
+  "title": "微软446亿美元洽购雅虎：一场未遂的豪赌",
+  "summary": "微软宣布以每股31美元、总额约446亿美元现金加股票收购雅虎，欲在搜索与广告市场合围 Google。雅虎嫌价低拒售，微软5月3日撤回要约。两家『下一个Google』的焦虑症，就此暴露无遗。",
+  "detail": "2008年2月1日，微软公开提出以每股31美元、总价约446亿美元收购雅虎。雅虎认为报价低估自身价值，坚持约530亿美元的价格预期，并试图与 Google 展开搜索广告合作作为反制。4月5日微软发出公开信限期三周表态，5月3日正式撤回收购提案。交易告吹后雅虎股价应声下挫，Google 在搜索广告市场的地位则更加稳固，这成为并购史上著名的『两败俱伤』案例。",
+  "sources": [
+   {
+    "title": "维基百科：雅虎",
+    "url": "https://zh.wikipedia.org/wiki/雅虎",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2008-05-14-wayback-github",
+  "date": "2008-05-14",
+  "layer": "wayback",
+  "title": "数字考古·GitHub：2008年5月的最早存档",
+  "summary": "5月14日，互联网档案馆存下 github.com 的最早快照——这个『git托管+社交』的网站上线刚一个多月，首页承诺『免费的开源代码托管』。此后它成了全球程序员的第二故乡。",
+  "detail": "GitHub2008年2月由汤姆·普雷斯顿-沃纳等四人创立，4月正式公开；5月14日的存档快照显示早期页面还带着Rails风格的蓝色调，注册用户以千计。凭借 Fork/PR（拉取请求）工作流与社交化代码协作，GitHub迅速超越老牌的SourceForge，2011年超越SourceForge与Google Code成为全球最大代码托管平台；2018年微软以75亿美元收购，2025年开发者用户已超1.5亿。中国开发者是全球GitHub最活跃的群体之一。",
+  "sources": [
+   {
+    "title": "Internet Archive 首张快照",
+    "url": "https://web.archive.org/web/20080514000000/http://www.github.com/",
+    "type": "archive"
+   }
+  ]
+ },
+ {
+  "id": "2008-07-10-app-store-launch",
+  "date": "2008-07-10",
+  "layer": "games2",
+  "title": "苹果App Store上线",
+  "summary": "手游产业的真正起点：500个应用开门营业，'99美分+应用内购'的商业模式从此改写游戏业收入结构，十年后手游占据全球游戏市场半壁江山，确立移动游戏分发与免费内购模式，手游成长为全球最大游戏细分市场。",
+  "detail": "2008年7月10日苹果App Store随iPhone OS 2.0上线，首发约500个应用，9月即突破1亿次下载。早期游戏证明触屏玩法可行，随后《愤怒的小鸟》《植物大战僵尸》引爆全球。App Store的30%抽成与开发者直达用户的模式重构了游戏发行，也引爆了此后谷歌Play的跟进。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2008 in video games",
+    "url": "https://en.wikipedia.org/wiki/2008_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2008-09-02-chrome-launch",
+  "date": "2008-09-02",
+  "layer": "tech",
+  "title": "Google Chrome 发布：浏览器大战重启",
+  "summary": "一份提前泄露的38页漫画剧透了 Google 的浏览器：9月2日 Chrome 测试版火速上线。极简界面、V8 引擎、进程隔离，浏览器第一次为『Web 应用』而生。十年后 Chrome 一统江湖。",
+  "detail": "2008年9月1日，Scott McCloud 绘制的38页宣传漫画提前流出，Google 顺势在9月2日发布 Chrome 测试版（Windows）。Chrome 主打极速 V8 JavaScript 引擎、独立标签页进程与极简界面，把浏览器从『看网页的窗口』重新定义为『运行 Web 应用的操作系统』。此后 Chrome 凭借快速迭代与 WebKit/Blink 生态逐步吞噬 IE、Firefox 的份额。",
+  "sources": [
+   {
+    "title": "维基百科：Google Chrome",
+    "url": "https://zh.wikipedia.org/wiki/Google_Chrome",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2008-09-23-tmobile-g1",
+  "date": "2008-09-23",
+  "layer": "tech",
+  "title": "首款 Android 手机 T-Mobile G1 发售",
+  "summary": "HTC 代工的 T-Mobile G1 带着侧滑全键盘开卖，它是全球第一部 Android 手机，预装 Gmail、地图与 Android Market。丑是丑了点，但安卓帝国的第一块砖就此砌下。",
+  "detail": "T-Mobile G1（即 HTC Dream）于2008年9月23日在美国发售，是全球首款采用 Google Android 系统的智能手机。设备由 HTC 制造，配备侧滑式 QWERTY 键盘与触摸屏，预装 Gmail、Google 地图、YouTube 与应用商店 Android Market。尽管外形在今日看来笨拙，G1 验证了开源联盟路线的可行性，此后摩托罗拉、三星、HTC 等厂商的安卓机潮水般涌出。",
+  "sources": [
+   {
+    "title": "维基百科：HTC Dream",
+    "url": "https://zh.wikipedia.org/wiki/HTC_Dream",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2009-06-25-michael-jackson",
+  "date": "2009-06-25",
+  "layer": "main",
+  "title": "迈克尔·杰克逊逝世：一代流行之王谢幕",
+  "summary": "流行音乐之王迈克尔·杰克逊在筹备复出演唱会时猝逝，50岁。全球歌迷同夜恸哭，His纪录被刷新——他也是中国改革开放后第一批进入内地的西方流行文化符号。",
+  "detail": "2009年6月25日，流行音乐之王迈克尔·杰克逊在洛杉矶家中心脏骤停去世，享年50岁——当时他正在为复出演唱会《This Is It》（伦敦50场）进行排练，私人医生康拉德·莫里因过失杀人罪被判刑（丙泊酚过量）。 MJ 的离世引发的全球哀悼前所未有：Google、Twitter、维基百科一度因搜索流量激增而瘫痪（被认为是分布式拒绝服务攻击的假警报），Twitter 访问量增长近一倍，全球数百万歌迷同夜恸哭，洛杉矶斯台普斯中心的公开悼念仪式有17.5万人领取纪念票、全球数十亿人观看。他的音乐遗产（Thriller 史上最畅销专辑、Moonwalk 舞步、MTV 时代的塑造者）与争议（漂白疑云、娈童指控被裁定无罪但声誉受损）共同构成复杂的传奇。对中国歌迷，1987年 MJ 的广东之行与1985年《We Are the World》的记忆，让这场告别有了跨文化的重量。",
+  "sources": [
+   {
+    "title": "Wikipedia: Death of Michael Jackson",
+    "url": "https://en.wikipedia.org/wiki/Death_of_Michael_Jackson",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2009-07-07-chrome-os-announce",
+  "date": "2009-07-07",
+  "layer": "tech",
+  "title": "Google 宣布 Chrome OS：浏览器就是操作系统",
+  "summary": "Google 宣布开发基于 Chrome 浏览器的操作系统 Chrome OS，目标直指上网本：开机即浏览器，一切都在云端。当时被笑『想得美』，后来 Chromebook 真的在教育市场卖出了几亿台。",
+  "detail": "2009年7月，Google 官方宣布正在开发开源操作系统 Chrome OS，以 Chrome 浏览器为核心，主打快速启动与云端应用，首个目标市场是上网本。项目团队部分来自早前收购的 Picazo 等公司，2010年底首批 Chromebook 试点机亮相，2011年起正式商用。『浏览器即操作系统』在发布时显得激进，但十年后 Chromebook 在全球教育市场拿下可观份额。",
+  "sources": [
+   {
+    "title": "维基百科：ChromeOS",
+    "url": "https://zh.wikipedia.org/wiki/ChromeOS",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2009-07-22-total-solar-eclipse",
+  "date": "2009-07-22",
+  "layer": "main",
+  "title": "长江大日食：五百年一遇的白昼之夜",
+  "summary": "7月22日上午，本世纪最长的日全食横扫长江流域：重庆、武汉、合肥、杭州、上海……白昼瞬间变成黑夜，持续最长6分多钟。数亿人戴上观测镜仰头看天， google 首页也换上日食涂鸦——这是中国公路铁路人口第一次集体仰望同一片天空。",
+  "detail": "2009年7月22日上午，21世纪以来全食持续时间最长的日全食（最长达6分39秒）沿长江自西向东扫过：西藏、云南、四川、重庆、湖北、湖南、江西、安徽、江苏、浙江、上海全境可见全食，中国全境均可看到偏食。全食带覆盖人口约3亿，被国际天文界称为『大日食』『中国日全食』。各地观测点爆满，观测镜脱销，武汉、上海等地白昼如夜、路灯自动点亮、气温骤降，机场航班正常起降但旅客集体趴窗。互联网与电视全程直播，天文科普随即升温；当天也是7月22日『长江日食』的谐音记忆点，网民玩梗无数。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009年7月22日日食",
+    "url": "https://zh.wikipedia.org/wiki/2009年7月22日日食",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-09-24-meta-connect",
+  "date": "2024-09-24",
+  "layer": "tech",
+  "title": "Meta Connect 2024：Llama 3.2、Quest 3S 与 Orion 原型",
+  "summary": "9月25日Meta Connect发布多模态开源Llama 3.2、低价头显Quest 3S，并展示AR眼镜原型Orion。",
+  "detail": "Llama 3.2首次带来11B/90B视觉模型与1B/3B端侧小模型；299美元的Quest 3S巩固入门MR市场；扎克伯格展示内部研发十年的真AR眼镜Orion（不发售），对垒苹果与谷歌的下一代计算平台。",
+  "sources": [
+   {
+    "title": "Meta Quest 3S",
+    "url": "https://en.wikipedia.org/wiki/Meta_Quest_3S",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-12-11-chatgpt-search",
+  "date": "2024-12-11",
+  "layer": "tech",
+  "title": "ChatGPT 搜索功能向所有用户开放",
+  "summary": "12月11日OpenAI把ChatGPT搜索开放给全部免费用户，整合实时网页结果、新闻与股票卡片，浏览器扩展可设为默认搜索引擎。ChatGPT周活此后逼近4亿，谷歌的搜索霸权第一次出现真实裂缝。",
+  "detail": "ChatGPT search整合实时网页结果与新闻、体育、股票卡片，支持语音与地图信息，浏览器扩展可将其设为默认搜索。此后ChatGPT周活快速逼近4亿，传统搜索引擎份额开始出现松动迹象。",
+  "sources": [
+   {
+    "title": "ChatGPT",
+    "url": "https://en.wikipedia.org/wiki/ChatGPT",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-12-11-gemini-2",
+  "date": "2024-12-11",
+  "layer": "tech",
+  "title": "谷歌发布 Gemini 2.0：Agent 时代宣言",
+  "summary": "12月11日谷歌发布Gemini 2.0 Flash实验版，主打原生工具调用与多模态输出，宣称进入「Agentic era」。",
+  "detail": "Gemini 2.0带来原生图像与音频输出、实时多模态流式API，配套发布Project Astra升级、Project Mariner浏览器Agent与Jules编程Agent。谷歌把2025年定义为「Agent元年」。",
+  "sources": [
+   {
+    "title": "Gemini (language model)",
+    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2025-03-25-gemini25",
+  "date": "2025-03-25",
+  "layer": "tech",
+  "title": "谷歌发布 Gemini 2.5 Pro",
+  "summary": "3月25日谷歌发布「思考型」模型Gemini 2.5 Pro，登顶LMArena等榜单一举夺回模型领先身位。",
+  "detail": "Gemini 2.5 Pro内置思维链推理，发布即登顶LMArena，并在数学、科学与编码基准上大幅刷新纪录，支持100万token上下文。谷歌借此在2025年上半年重新站上模型评测头部。",
+  "sources": [
+   {
+    "title": "Gemini (language model)",
+    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2025-05-20-google-io25",
+  "date": "2025-05-20",
+  "layer": "tech",
+  "title": "谷歌 I/O 2025：Veo 3、Deep Think 与 AI Mode",
+  "summary": "5月20日谷歌I/O发布带原生音效的视频模型Veo 3、Deep Think推理模式，并宣布搜索全面转向AI Mode。",
+  "detail": "Veo 3以「一键生成带对白与音效的视频」震撼创作者社区，与Sora 2构成年度AI视频双雄；Gemini 2.5 Pro Deep Think开放测试；谷歌搜索在美推出全新AI Mode标签页，宣布「搜索的彻底重构」。",
+  "sources": [
+   {
+    "title": "Google I/O",
+    "url": "https://en.wikipedia.org/wiki/Google_I/O",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2025-10-07-nobel-physics-quantum",
+  "date": "2025-10-07",
+  "layer": "main",
+  "title": "2025诺贝尔物理学奖授予宏观量子隧穿三杰：量子百年之际加冕电路中的量子性",
+  "summary": "2025年10月7日，诺贝尔物理学奖授予约翰·克拉克、米歇尔·德沃雷与约翰·马蒂尼斯，表彰其发现宏观电路中的量子隧穿与能量量子化——超导电路里的量子效应成为超导量子计算机的物理基础，授奖恰逢量子力学诞生百年。",
+  "detail": "1980年代，克拉克（加州大学伯克利分校）、德沃雷与马蒂尼斯（当时均在伯克利）在约瑟夫森结电路实验中发现：由数十亿电子对构成的宏观电流可以像单个粒子一样发生量子隧穿，且电路能量呈现量子化台阶。这一「宏观量子现象」证明量子力学规律不仅适用于微观粒子，也直接支配人造电路，为超导量子比特（transmon等）提供了物理原理。当今谷歌、IBM与中国「祖冲之号」「Origin」等超导量子计算路线都建立在这类器件之上。评审委员会称授奖「恰逢量子力学诞生百年」——1925年量子力学矩阵力学问世，百年后其宏观效应成为产业革命的支点。",
+  "sources": [
+   {
+    "title": "诺贝尔奖官网：2025物理学奖",
+    "url": "https://www.nobelprize.org/prizes/physics/2025/summary/",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：2025年诺贝尔物理学奖",
+    "url": "https://zh.wikipedia.org/wiki/2025年诺贝尔物理学奖",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2025-11-18-gemini3",
+  "date": "2025-11-18",
+  "layer": "tech",
+  "title": "谷歌发布 Gemini 3",
+  "summary": "11月18日谷歌发布Gemini 3，发布首日即接入搜索AI Mode，Pro版在推理基准全面登顶，被称谷歌「翻身之作」。",
+  "detail": "Gemini 3 Pro基于MoE架构、支持100万token上下文，首发即整合进搜索、Gemini App与开发者API，Gemini 3 Deep Think同步亮相；配套的Gemini 3 Pro Image（Nano Banana 新一代）同日推出。发布当日谷歌股价大涨。",
+  "sources": [
+   {
+    "title": "Google 官方博客",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-3",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2025-12-12-gpt52",
+  "date": "2025-12-12",
+  "layer": "tech",
+  "title": "OpenAI 发布 GPT-5.2",
+  "summary": "12月12日OpenAI发布GPT-5.2，GPT-5.1转入旧版模型菜单，月度迭代节奏延续到年底。",
+  "detail": "GPT-5.2在推理与代理任务上继续小幅领先，配合Codex等编程产品形成组合拳。从GPT-5到5.2仅四个月，「旗舰模型月更化」成为OpenAI应对谷歌与Anthropic夹击的节奏选择。",
+  "sources": [
+   {
+    "title": "OpenAI 模型发布说明",
+    "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2026-01-29-alphagenome",
+  "date": "2026-01-29",
+  "layer": "tech",
+  "title": "DeepMind 发布人类基因组模型 AlphaGenome",
+  "summary": "1月29日谷歌DeepMind发布AlphaGenome，可读取超百万DNA碱基并预测基因变异影响，AI for Science再下一城。",
+  "detail": "AlphaGenome作为专注人类基因组的AI模型，能对长序列DNA做功能注释与变异效应预测，服务遗传病研究与药物靶点发现，被视为AlphaFold之后DeepMind在生命科学线的又一步。",
+  "sources": [
+   {
+    "title": "全球AI模型发布时间线",
+    "url": "https://zhuanlan.zhihu.com/p/14903006525",
+    "type": "news"
+   }
+  ]
+ },
+ {
+  "id": "2026-02-19-gemini31",
+  "date": "2026-02-19",
+  "layer": "tech",
+  "title": "谷歌发布 Gemini 3.1 Pro 预览版",
+  "summary": "2月19日谷歌发布Gemini 3.1 Pro预览版，这是Gemini系列首个「.1」中期迭代，主打复杂推理升级。",
+  "detail": "Gemini 3.1 Pro在数学、代码与智能体评测上继续提升，3月9日原Gemini 3 Pro预览版关停切换。在2月全球模型连发潮中，谷歌以快节奏小步迭代应对OpenAI与Anthropic的夹击。",
+  "sources": [
+   {
+    "title": "Gemini API 版本说明",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog?hl=zh-cn",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2026-05-19-io26",
+  "date": "2026-05-19",
+  "layer": "tech",
+  "title": "Google I/O 2026：Gemma 4 开放模型亮相",
+  "summary": "5月Google I/O 2026发布开放模型Gemma 4与新一代端侧模型Gemini Nano 4预览，端云一体的AI战略继续下沉。",
+  "detail": "谷歌在本届I/O上把Gemini 3系列确立为核心产品线，同时开放Gemma 4权重供开发者自托管，Gemini Nano 4通过AIcore进入安卓端侧预览，「小模型跑在手机上」成为安卓生态的新基建。",
+  "sources": [
+   {
+    "title": "Android Developers 官方博客",
+    "url": "https://developer.android.com/blog/posts/top-ai-on-android-updates-for-building-intelligent-experiences-from-google-i-o-26",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2026-06-01-chatgpt-share",
+  "date": "2026-06-01",
+  "layer": "tech",
+  "title": "ChatGPT 全球市场份额首次跌破五成",
+  "summary": "据新华社6月综述，ChatGPT全球市场份额首度跌破50%，Gemini与Claude快速蚕食，「一超多强」格局松动。",
+  "detail": "2026年上半年，谷歌Gemini凭借搜索与安卓生态扩张、Anthropic凭借企业编程场景，持续分流ChatGPT用户；到5月第三方数据显示ChatGPT份额已从峰值约八成降至六成以下，6月首次跌破一半。",
+  "sources": [
+   {
+    "title": "新华网",
+    "url": "https://www.news.cn/world/20260701/a7215e23c886416aabffbcef8e737e2b/c.html",
+    "type": "news"
+   }
+  ]
+ },
+ {
+  "id": "2026-07-09-grok45",
+  "date": "2026-07-09",
+  "layer": "tech",
+  "title": "xAI 发布 Grok 4.5",
+  "summary": "7月9日xAI发布Grok 4.5，基于1.5T参数新模型并支持视觉输入，API定价降至2美元/百万token。",
+  "detail": "Grok 4.5加入第三方编程数据补充训练，主打性价比旗舰定位，继续绑定X平台分发。xAI同期推进Colossus超算扩容，与OpenAI、谷歌形成「算力+模型」的三方消耗战。",
+  "sources": [
+   {
+    "title": "全球AI模型发布时间线",
+    "url": "https://zhuanlan.zhihu.com/p/14903006525",
+    "type": "news"
+   }
+  ]
+ },
+ {
+  "id": "2026-09-03-gpt6",
+  "date": "2026-09-03",
+  "layer": "tech",
+  "title": "OpenAI 发布 GPT-6「Astra」，9月模型浪潮开启",
+  "summary": "9月3日OpenAI发布新一代旗舰GPT-6（代号Astra），Claude Fable 5.1、Gemini 3.8 Flash、Kimi K3在随后几周内接连亮相。",
+  "detail": "2026年9月3日，OpenAI 发布新一代旗舰模型 GPT-6（代号 Astra）——自 GPT-5（2025年8月）之后仅一年，OpenAI 的旗舰迭代周期压缩到一年一代。GPT-6 的能力升级聚焦：原生多模态（视频理解与生成一体化）、超长上下文（千万 token 级）、以及 Agent 能力的成熟（自主完成多步骤复杂任务、可靠使用工具链）；同期 Claude（Anthropic）与 Gemini（谷歌）的同代竞品在推理与编码上各有胜负，AI 第一梯队的三家进入『月更级』竞争节奏。GPT-6 的发布被视为 AGI 讨论的又一座里程碑：在科学、编程与复杂规划任务上，模型的表现已接近或达到人类专家水平，『AI 替代知识工作』的社会讨论再度升温。对中国而言，GPT-6 与 DeepSeek、Qwen 的代差被普遍评估为『半年以内』——全球 AI 的第一梯队，第一次出现了非美国的长驻选手。",
+  "sources": [
+   {
+    "title": "AI Release Tracker",
+    "url": "https://aireleasetracker.com/latest",
+    "type": "news"
+   },
+   {
+    "title": "NextDocs",
+    "url": "https://www.nextdocs.io/zh/blogs/september-2026-ai-model-wave-for-documents",
+    "type": "news"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-13-gemini4",
+  "date": "2026-10-13",
+  "layer": "tech",
+  "title": "谷歌 Gemini 4「Argon」正式版上线",
+  "summary": "10月13日谷歌新一代模型Gemini 4（Argon）转为正式可用，定价2/10美元（每百万token），较上代约翻倍但能力显著提升。",
+  "detail": "Gemini 4在10月密集的20余款新模型中率先转正，主打智能体长任务与多模态推理。谷歌借此巩固自Gemini 3以来的领先身位，并与10月中旬的DeepSeek、Anthropic新模型同场竞技。",
+  "sources": [
+   {
+    "title": "AI Release Tracker",
+    "url": "https://aireleasetracker.com/latest",
+    "type": "news"
+   }
+  ]
+ }
+]

@@ -341,6 +341,12 @@
     "title": "维基百科：奇虎360",
     "url": "https://zh.wikipedia.org/wiki/奇虎360",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：360搜索（2012年8月16日上线）",
+    "url": "https://zh.wikipedia.org/zh-hans/360%E6%90%9C%E7%B4%A2",
+    "type": "wiki",
+    "outlet": "维基百科"
    }
   ]
  },
@@ -356,6 +362,12 @@
     "title": "维基百科：百度",
     "url": "https://zh.wikipedia.org/wiki/百度",
     "type": "wiki"
+   },
+   {
+    "title": "Baidu IR: Baidu Signs Definitive Agreement to Acquire NetDragon's Subsidiary 91 Wireless",
+    "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-signs-definitive-agreement-acquire-netdragons-subsidiary",
+    "type": "official",
+    "outlet": "百度"
    }
   ]
  },
@@ -574,6 +586,11 @@
    {
     "title": "维基百科·自动驾驶汽车",
     "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E6%B1%BD%E8%BB%8A"
+   },
+   {
+    "title": "观察者网：上海发放首批完全无人载人车牌照",
+    "url": "https://www.guancha.cn/qiche/2024_07_08_740752.shtml",
+    "type": "media"
    }
   ]
  },

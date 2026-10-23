@@ -161,6 +161,12 @@
     "title": "维基百科：小米MIX",
     "url": "https://zh.wikipedia.org/wiki/小米MIX",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：小米MIX（2016年10月25日发布）",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%B0%8F%E7%B1%B3MIX",
+    "type": "wiki",
+    "outlet": "维基百科"
    }
   ]
  },
@@ -190,6 +196,11 @@
    {
     "title": "维基百科：小米6",
     "url": "https://zh.wikipedia.org/wiki/小米6",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：小米6",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%B0%8F%E7%B1%B36",
     "type": "wiki"
    }
   ]
@@ -226,6 +237,11 @@
     "title": "维基百科：小米MIX 2",
     "url": "https://zh.wikipedia.org/wiki/小米MIX 2",
     "type": "wiki"
+   },
+   {
+    "title": "动点科技：小米MIX 2的8个升级",
+    "url": "https://cn.technode.com/post/2017-09-11/xiaomi-unveils-mix-2",
+    "type": "media"
    }
   ]
  },
@@ -271,6 +287,11 @@
     "title": "维基百科：小米MIX 3",
     "url": "https://zh.wikipedia.org/wiki/小米MIX 3",
     "type": "wiki"
+   },
+   {
+    "title": "新浪科技：外媒称小米MIX 3滑盖设计趋势卷土重来",
+    "url": "https://tech.sina.com.cn/t/2018-10-26/doc-ifxeuwws8305231.shtml",
+    "type": "media"
    }
   ]
  },
@@ -286,6 +307,11 @@
     "title": "维基百科：Redmi",
     "url": "https://zh.wikipedia.org/wiki/Redmi",
     "type": "wiki"
+   },
+   {
+    "title": "央广网：Redmi品牌独立发布会",
+    "url": "http://m.cnr.cn/tech/20190110/t20190110_524477588.html",
+    "type": "media"
    }
   ]
  },

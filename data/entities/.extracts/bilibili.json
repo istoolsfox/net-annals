@@ -346,6 +346,11 @@
     "title": "百度百科：灵笼",
     "url": "https://baike.baidu.com/item/灵笼",
     "type": "wiki"
+   },
+   {
+    "title": "B站官方：《灵笼》第一季番剧页",
+    "url": "https://www.bilibili.com/bangumi/media/md23432",
+    "type": "official"
    }
   ]
  },
@@ -391,6 +396,11 @@
     "title": "哔哩哔哩 - 维基百科",
     "url": "https://zh.wikipedia.org/wiki/哔哩哔哩",
     "type": "wiki"
+   },
+   {
+    "title": "百度百科：后浪（2020年bilibili推出的演讲视频）",
+    "url": "https://baike.baidu.com/item/%E5%90%8E%E6%B5%AA/49981848",
+    "type": "wiki"
    }
   ]
  },
@@ -425,6 +435,26 @@
   ]
  },
  {
+  "id": "2020-12-02-a-soul-debut",
+  "date": "2020-12-02",
+  "layer": "anime",
+  "title": "A-SOUL出道：字节跳动入局中国虚拟偶像",
+  "summary": "2020年12月2日，乐华娱乐与字节跳动合作的虚拟偶像团体A-SOUL公开出道PV。向晚、贝拉、珈乐、嘉然、乃琳五人组成的『国V第一团』在B站直播、发歌、开演唱会，两年内做到头部体量，让『中国也有自己的hololive』成为讨论焦点。",
+  "detail": "A-SOUL由乐华娱乐制作、字节跳动（抖音与B站渠道）支持，2020年12月2日发行出道单曲《Quiet》。五名成员以3D直播、唱歌跳舞、游戏联动为主要内容，嘉然的『小乃碗』梗、贝拉的生日会直播打赏纪录（2021年单场破千万人民币）屡上热搜，2021年举办线上演唱会，B站直播间人气峰值数百万。A-SOUL标志着中国互联网巨头正式入局虚拟偶像产业：中之人制度、3D直播基建、粉丝打赏生态都以商业公司标准搭建。但其高度商业化也埋下隐患——2022年5月珈乐『直播休眠』事件中，成员待遇与公司运营被推上风口浪尖，行业第一次大规模讨论『中之人』的劳动权益。",
+  "sources": [
+   {
+    "title": "A-SOUL - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/A-SOUL",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：Quiet（A-SOUL出道单曲，2020年12月2日发行）",
+    "url": "https://baike.baidu.com/item/Quiet/55843347",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
   "id": "2020-12-06-attack-on-titan-final-season-premiere",
   "date": "2020-12-06",
   "layer": "anime",
@@ -435,21 +465,6 @@
    {
     "title": "进击的巨人 - 维基百科",
     "url": "https://zh.wikipedia.org/wiki/进击的巨人",
-    "type": "wiki"
-   }
-  ]
- },
- {
-  "id": "2020-12-11-a-soul-debut",
-  "date": "2020-12-11",
-  "layer": "anime",
-  "title": "A-SOUL出道：字节跳动入局中国虚拟偶像",
-  "summary": "2020年12月11日，乐华娱乐与字节跳动合作的虚拟偶像团体A-SOUL公开出道PV。向晚、贝拉、珈乐、嘉然、乃琳五人组成的『国V第一团』在B站直播、发歌、开演唱会，两年内做到头部体量，让『中国也有自己的hololive』成为讨论焦点。",
-  "detail": "A-SOUL由乐华娱乐制作、字节跳动（抖音与B站渠道）支持，2020年12月11日公开首支团体PV《Quiet》宣布出道。五名成员以3D直播、唱歌跳舞、游戏联动为主要内容，嘉然的『小乃碗』梗、贝拉的生日会直播打赏纪录（2021年单场破千万人民币）屡上热搜，2021年举办线上演唱会，B站直播间人气峰值数百万。A-SOUL标志着中国互联网巨头正式入局虚拟偶像产业：中之人制度、3D直播基建、粉丝打赏生态都以商业公司标准搭建。但其高度商业化也埋下隐患——2022年5月珈乐『直播休眠』事件中，成员待遇与公司运营被推上风口浪尖，行业第一次大规模讨论『中之人』的劳动权益。",
-  "sources": [
-   {
-    "title": "A-SOUL - 维基百科",
-    "url": "https://zh.wikipedia.org/wiki/A-SOUL",
     "type": "wiki"
    }
   ]
@@ -481,6 +496,11 @@
     "title": "时光代理人 - 维基百科",
     "url": "https://zh.wikipedia.org/wiki/时光代理人",
     "type": "wiki"
+   },
+   {
+    "title": "百度百科：时光代理人",
+    "url": "https://baike.baidu.com/item/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/54614428",
+    "type": "wiki"
    }
   ]
  },
@@ -511,6 +531,11 @@
     "title": "国王排名 - 维基百科",
     "url": "https://zh.wikipedia.org/wiki/国王排名",
     "type": "wiki"
+   },
+   {
+    "title": "维基百科：国王排名",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D",
+    "type": "wiki"
    }
   ]
  },
@@ -526,6 +551,11 @@
     "title": "百度百科：间谍过家家",
     "url": "https://baike.baidu.com/item/间谍过家家",
     "type": "wiki"
+   },
+   {
+    "title": "B站官方：《间谍过家家》番剧页（2022年4月9日开播）",
+    "url": "https://www.bilibili.com/bangumi/media/md28237119",
+    "type": "official"
    }
   ]
  },
