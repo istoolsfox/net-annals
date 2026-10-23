@@ -779,37 +779,37 @@
     "name": "章亦春",
     "id_name": "OpenResty",
     "headline": "把Nginx玩成编程平台",
-    "text": "网名agentzh，主持开发的OpenResty将Lua嵌入Nginx，成为全球高并发网关事实标准之一，中国工程师主导的开源标杆项目。"
+    "text": "网名agentzh，主持开发的OpenResty将Lua嵌入Nginx，GitHub获超12,000颗Star，成为全球高并发网关事实标准之一。"
    },
    {
     "name": "黄东旭",
     "id_name": "PingCAP",
     "headline": "TiDB与分布式数据库出海",
-    "text": "2015年联合创办PingCAP，开源分布式数据库TiDB获全球数万GitHub Star，成为中国企业主导、全球社区共建的旗舰开源项目。"
+    "text": "2015年联合创办PingCAP，开源分布式数据库TiDB获GitHub超36,000颗Star，成为中国企业主导、全球社区共建的旗舰项目。"
    },
    {
     "name": "张海龙",
     "id_name": "CODING/OSChina",
     "headline": "开源中国联合创始人",
-    "text": "联合创办开源中国社区与Gitee代码托管平台，Gitee已成为国内最大的代码托管平台之一，服务数百万开发者与上千家企业。"
+    "text": "联合创办开源中国社区与Gitee代码托管平台，Gitee注册开发者超1,000万，成为国内最大的代码托管平台之一。"
    },
    {
     "name": "庄表伟",
     "id_name": "开源社",
     "headline": "开源治理与社区布道者",
-    "text": "开源社联合创始人，长期推动开源治理、开源合规与社区文化建设，参与编写多部开源社区白皮书。"
+    "text": "开源社联合创始人，参与编写多部开源社区白皮书，长期推动开源治理、合规与社区文化建设10余年。"
    },
    {
     "name": "谭中意",
     "id_name": "开源办公室",
     "headline": "Apache成员与开源战略推动者",
-    "text": "Apache软件基金会成员，曾在百度、腾讯推动开源战略，发起「开源之夏」等活动培养中国开源后备力量。"
+    "text": "Apache软件基金会成员，曾在百度、腾讯推动开源战略，发起「开源之夏」等活动，累计培养数千名开源后备人才。"
    },
    {
     "name": "姜宁",
     "id_name": "Apache中国",
     "headline": "Apache首位中国VP",
-    "text": "Apache软件基金会成员与多个项目VP，长期推动RocketMQ、Dubbo等中国发起项目进入Apache顶级项目序列。"
+    "text": "Apache软件基金会成员，推动RocketMQ、Dubbo等中国发起项目进入Apache顶级项目序列，多次担任ApacheCon演讲嘉宾。"
    }
   ],
   "legacy": "中国开发者在GitHub的贡献量2020年代位居全球前列；openEuler、openGauss、OpenHarmony等本土基金会项目与Apache/Linux基金会中的中国 Maintainer 数量同步增长，开源从「用」到「建」的转变由这批社区布道者完成。",
