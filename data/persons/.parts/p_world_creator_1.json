@@ -1,0 +1,664 @@
+[
+  {
+    "id": "elon-musk",
+    "name": "埃隆·马斯克",
+    "en_name": "Elon Musk",
+    "aliases": [
+      "马一龙"
+    ],
+    "birth": "1971-06-28",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "company",
+    "region": "world",
+    "headline": "SpaceX与特斯拉掌门人",
+    "summary_30s": "连续创业者：创办Zip2并以约3亿美元卖给康柏，创办X.com并合创PayPal，2002年PayPal以15亿美元出售给eBay；同年创办SpaceX，2004年投资特斯拉并逐步执掌，2022年以440亿美元收购推特，次年将其改名X。",
+    "timeline": [
+      {
+        "date": "1989-01-01",
+        "acc": "year",
+        "text": "17岁离开南非移居加拿大，后入读美国宾夕法尼亚大学，获物理学与经济学学位。"
+      },
+      {
+        "date": "1995-01-01",
+        "acc": "year",
+        "text": "与弟弟创办Zip2，为媒体开发在线城市指南软件；1999年公司以约3亿美元出售给康柏。"
+      },
+      {
+        "date": "1999-01-01",
+        "acc": "year",
+        "text": "创办在线金融服务公司X.com，2000年与Confinity合并组成支付公司PayPal。"
+      },
+      {
+        "date": "2002-01-01",
+        "acc": "year",
+        "text": "eBay以15亿美元收购PayPal；同年创办太空探索技术公司SpaceX。"
+      },
+      {
+        "date": "2004-01-01",
+        "acc": "year",
+        "text": "领投特斯拉A轮融资并出任董事长，2008年公司危机中接任CEO。"
+      },
+      {
+        "date": "2008-01-01",
+        "acc": "year",
+        "text": "SpaceX猎鹰1号第四次试射成功入轨，成为首枚进入轨道的私营研发液体燃料火箭。"
+      },
+      {
+        "date": "2012-05-01",
+        "acc": "month",
+        "text": "SpaceX货运龙飞船与国际空间站对接，成为首艘完成该任务的商业航天器。"
+      },
+      {
+        "date": "2012-06-01",
+        "acc": "month",
+        "text": "特斯拉首款豪华电动轿车Model S开始交付，公司进入规模化量产阶段。"
+      },
+      {
+        "date": "2015-12-21",
+        "acc": "exact",
+        "text": "猎鹰9号一级火箭在发射卫星后于陆上回收成功，开创轨道级火箭回收复用先例。"
+      },
+      {
+        "date": "2020-05-30",
+        "acc": "exact",
+        "text": "载人龙飞船送两名NASA宇航员前往空间站，为首次由商业飞船执行的载人入轨任务。"
+      },
+      {
+        "date": "2022-10-27",
+        "acc": "exact",
+        "text": "以440亿美元完成对推特的收购，随即解雇CEO等高管层。"
+      },
+      {
+        "date": "2023-04-01",
+        "acc": "month",
+        "text": "星舰首次入轨级综合试飞，升空后解体；其入轨推力为当时全球最大。"
+      },
+      {
+        "date": "2023-07-01",
+        "acc": "month",
+        "text": "推特品牌退役，平台正式更名为X。"
+      }
+    ],
+    "achievements": [
+      "创办SpaceX，实现猎鹰9号一级火箭回收复用，2020年率先以商业飞船完成载人入轨",
+      "执掌特斯拉，公司发展为全球市值最高的汽车公司之一",
+      "2002年PayPal以15亿美元出售给eBay，为其后续创业提供资本",
+      "主导星舰研发，实现入轨级试飞，成为史上推力最大的火箭",
+      "2022年以440亿美元收购推特，2023年更名为X"
+    ],
+    "controversies": [
+      "2022年11月完成推特收购后启动大规模裁员，约3700人离岗，占员工总数约半数。",
+      "收购后IBM、通用汽车等多家广告主暂停或缩减投放，平台广告收入明显下滑。"
+    ],
+    "quotes": [],
+    "sources": [
+      {
+        "title": "维基百科：埃隆·马斯克",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B",
+        "type": "wiki"
+      },
+      {
+        "title": "Wikipedia: Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+        "type": "wiki"
+      },
+      {
+        "title": "IGN: Elon Musk completes takeover of Twitter, fires CEO and other top executives",
+        "url": "https://www.ign.com/articles/elon-musk-completes-takeover-of-twitter-fires-ceo-and-other-top-executives",
+        "type": "news"
+      },
+      {
+        "title": "SpaceX官网：Mission",
+        "url": "https://www.spacex.com/mission",
+        "type": "official"
+      },
+      {
+        "title": "Spaceflight Now: SpaceX first crewed mission launches from pad 39A",
+        "url": "https://spaceflightnow.com/2020/06/10/photos-spacexs-first-crewed-mission-launches-from-pad-39a",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "SpaceX",
+      "特斯拉",
+      "X平台",
+      "商业航天",
+      "电动车"
+    ]
+  },
+  {
+    "id": "steve-jobs",
+    "name": "史蒂夫·乔布斯",
+    "en_name": "Steve Jobs",
+    "aliases": [],
+    "birth": "1955-02-24",
+    "birth_accuracy": "exact",
+    "death": "2011-10-05",
+    "field": "company",
+    "region": "world",
+    "headline": "苹果联合创始人",
+    "summary_30s": "苹果公司联合创始人，主导Apple II、Macintosh、iPod、iPhone与iPad的产品定义，先后推动图形界面电脑、数字音乐与智能手机的形态确立；1985年离开苹果创办NeXT并执掌皮克斯，1997年回归后把苹果重建为全球市值最高公司之一。",
+    "timeline": [
+      {
+        "date": "1976-04-01",
+        "acc": "exact",
+        "text": "与沃兹尼亚克等人创办苹果公司，推出首台产品Apple I个人电脑。"
+      },
+      {
+        "date": "1977-01-01",
+        "acc": "year",
+        "text": "苹果发布Apple II，成为首批大规模流行的个人电脑之一。"
+      },
+      {
+        "date": "1984-01-24",
+        "acc": "exact",
+        "text": "发布Macintosh电脑，将图形用户界面带入规模化销售的个人电脑市场。"
+      },
+      {
+        "date": "1985-09-01",
+        "acc": "month",
+        "text": "在与董事会的权力斗争后离开苹果，创办计算机公司NeXT。"
+      },
+      {
+        "date": "1986-01-01",
+        "acc": "year",
+        "text": "从卢卡斯影业手中收购电脑动画部门，组建皮克斯动画工作室。"
+      },
+      {
+        "date": "1995-01-01",
+        "acc": "year",
+        "text": "皮克斯出品全球首部全电脑制作动画长片《玩具总动员》，乔布斯任制片人。"
+      },
+      {
+        "date": "1997-01-01",
+        "acc": "year",
+        "text": "苹果以约4.3亿美元收购NeXT，乔布斯重返苹果并于同年出任临时CEO。"
+      },
+      {
+        "date": "1998-08-01",
+        "acc": "month",
+        "text": "发布一体式彩色电脑iMac，苹果业务重回增长轨道。"
+      },
+      {
+        "date": "2001-10-01",
+        "acc": "month",
+        "text": "发布iPod数字音乐播放器，随后以iTunes音乐商店重塑数字音乐分发。"
+      },
+      {
+        "date": "2007-01-09",
+        "acc": "exact",
+        "text": "发布iPhone，将多点触控屏、移动互联网与应用生态整合进手机形态。"
+      },
+      {
+        "date": "2010-01-01",
+        "acc": "month",
+        "text": "发布平板电脑iPad，开辟平板设备新品类。"
+      },
+      {
+        "date": "2011-01-01",
+        "acc": "month",
+        "text": "宣布病休，8月24日辞去CEO职务，由蒂姆·库克接任。"
+      },
+      {
+        "date": "2011-10-05",
+        "acc": "exact",
+        "text": "在加州帕洛阿尔托去世，终年56岁；死因为2003年确诊的胰腺神经内分泌肿瘤。"
+      }
+    ],
+    "achievements": [
+      "联合创办苹果，主导Apple II与Macintosh，推动图形界面个人电脑普及",
+      "主导发布iPhone，2007年起重新定义智能手机产品形态",
+      "执掌皮克斯，出品全球首部全电脑制作动画长片《玩具总动员》",
+      "1997年回归苹果，以iMac、iPod、iPhone带动公司重回增长，成为全球市值最高公司之一",
+      "推动iTunes音乐商店与App Store上线，改变数字内容分发模式"
+    ],
+    "controversies": [],
+    "quotes": [
+      "Stay hungry, stay foolish（求知若饥，虚心若愚）——2005年斯坦福大学毕业演讲"
+    ],
+    "sources": [
+      {
+        "title": "维基百科：史蒂夫·乔布斯",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E4%B9%94%E5%B8%83%E6%96%AF",
+        "type": "wiki"
+      },
+      {
+        "title": "BBC: Steve Jobs, Apple 'visionary', dies aged 56",
+        "url": "https://www.bbc.com/news/world-us-canada-15193922",
+        "type": "news"
+      },
+      {
+        "title": "Apple Newsroom: Statement by Apple's Board of Directors",
+        "url": "https://www.apple.com/newsroom/2011/10/05Statement-by-Apples-Board-of-Directors",
+        "type": "official"
+      },
+      {
+        "title": "CNN: Steve Jobs, Apple founder, dies",
+        "url": "https://www.cnn.com/2011/10/05/us/obit-steve-jobs",
+        "type": "news"
+      }
+    ],
+    "tags": [
+      "苹果",
+      "iPhone",
+      "Macintosh",
+      "皮克斯",
+      "消费电子"
+    ]
+  },
+  {
+    "id": "shigeru-miyamoto",
+    "name": "宫本茂",
+    "en_name": "Shigeru Miyamoto",
+    "aliases": [],
+    "birth": "1952-11-16",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "game",
+    "region": "world",
+    "headline": "马力欧与塞尔达之父",
+    "summary_30s": "任天堂游戏设计师，1977年入职后主导《大金刚》《超级马力欧兄弟》《塞尔达传说》等系列，马力欧系列累计销量超4亿套；从FC横版过关、N64的3D操控到Wii体感，持续定义各世代玩法范式，2023年出任《超级马力欧兄弟大电影》制片。",
+    "timeline": [
+      {
+        "date": "1977-01-01",
+        "acc": "year",
+        "text": "金泽美术工艺大学工业设计专业毕业后入职任天堂，担任美工设计。"
+      },
+      {
+        "date": "1981-01-01",
+        "acc": "year",
+        "text": "主导街机游戏《大金刚》设计，产品热销欧美，任天堂借此进入全球街机市场。"
+      },
+      {
+        "date": "1985-09-01",
+        "acc": "month",
+        "text": "《超级马力欧兄弟》在FC平台发售，奠定横版过关玩法范式，累计销量约4000万套。"
+      },
+      {
+        "date": "1986-02-01",
+        "acc": "month",
+        "text": "主创《塞尔达传说》，引入可自由探索的非线性玩法与存档机制。"
+      },
+      {
+        "date": "1996-06-01",
+        "acc": "month",
+        "text": "《超级马力欧64》随N64主机发售，确立3D游戏的操作与镜头设计范式。"
+      },
+      {
+        "date": "1998-11-01",
+        "acc": "month",
+        "text": "制作的《塞尔达传说：时之笛》发售，媒体综合评分长期位居电子游戏前列。"
+      },
+      {
+        "date": "2006-11-01",
+        "acc": "month",
+        "text": "任天堂发布体感主机Wii与《Wii运动》，宫本茂作为开发本部核心制作参与本世代开发，Wii累计销量超1亿台。"
+      },
+      {
+        "date": "2015-09-01",
+        "acc": "month",
+        "text": "任天堂架构调整后转任「创意Fellow」，从直接制作转向创意统筹角色。"
+      },
+      {
+        "date": "2023-04-01",
+        "acc": "month",
+        "text": "担任制片的《超级马力欧兄弟大电影》上映，全球票房超13亿美元。"
+      }
+    ],
+    "achievements": [
+      "设计《大金刚》，助任天堂打入全球街机市场",
+      "主创《超级马力欧兄弟》，系列累计销量超4亿套，为最畅销游戏系列之一",
+      "主创《塞尔达传说》系列，先后确立探索式玩法与3D游戏范式",
+      "参与N64与Wii两个世代的开发方针，推动3D操控与体感玩法普及",
+      "2023年担任《超级马力欧兄弟大电影》制片，全球票房超13亿美元"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {
+        "title": "Wikipedia: Shigeru Miyamoto",
+        "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+        "type": "wiki"
+      },
+      {
+        "title": "维基百科：宫本茂",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%AE%AB%E6%9C%AC%E8%8C%82",
+        "type": "wiki"
+      },
+      {
+        "title": "互动艺术与科学学会（AIAS）宫本茂介绍",
+        "url": "https://www.interactive.org/special_awards/details.asp?idSpecialAwards=9",
+        "type": "official"
+      },
+      {
+        "title": "IMDb: Shigeru Miyamoto",
+        "url": "https://www.imdb.com/name/nm0594427",
+        "type": "media"
+      }
+    ],
+    "tags": [
+      "任天堂",
+      "马力欧",
+      "塞尔达传说",
+      "游戏设计",
+      "Wii"
+    ]
+  },
+  {
+    "id": "morris-chang",
+    "name": "张忠谋",
+    "en_name": "Morris Chang",
+    "aliases": [],
+    "birth": "1931-07-10",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "hardware",
+    "region": "world",
+    "headline": "台积电创始人",
+    "summary_30s": "台积电创始人。在德州仪器工作25年升至集团资深副总裁，1987年创办台积电，首创只造客户设计的芯片、不做自有产品的「纯晶圆代工」模式，使台积电成为苹果、英伟达等全球芯片公司的制造基石，2018年正式退休。",
+    "timeline": [
+      {
+        "date": "1949-01-01",
+        "acc": "year",
+        "text": "18岁赴美进入哈佛大学就读，次年转入麻省理工学院。"
+      },
+      {
+        "date": "1952-01-01",
+        "acc": "year",
+        "text": "先后获麻省理工学院机械工程学士与硕士学位。"
+      },
+      {
+        "date": "1958-01-01",
+        "acc": "year",
+        "text": "加入德州仪器，此后在该公司工作25年。"
+      },
+      {
+        "date": "1964-01-01",
+        "acc": "year",
+        "text": "由德州仪器资助赴斯坦福大学深造，获电机工程博士学位。"
+      },
+      {
+        "date": "1972-01-01",
+        "acc": "year",
+        "text": "出任德州仪器集团资深副总裁并主管半导体业务，为当时美国大公司中职位最高的华人管理者之一。"
+      },
+      {
+        "date": "1983-01-01",
+        "acc": "year",
+        "text": "离开德州仪器，次年出任通用仪器公司总裁。"
+      },
+      {
+        "date": "1985-01-01",
+        "acc": "year",
+        "text": "应邀出任工业技术研究院院长，主持研发与产业技术转移工作。"
+      },
+      {
+        "date": "1987-01-01",
+        "acc": "year",
+        "text": "创办台湾积体电路制造（台积电），首创只接受客户委托制造、不推自有品牌产品的「纯晶圆代工」模式。"
+      },
+      {
+        "date": "2014-01-01",
+        "acc": "year",
+        "text": "台积电为苹果iPhone的A8处理器独家代工，站上最先进制程主力供应位置。"
+      },
+      {
+        "date": "2018-06-01",
+        "acc": "month",
+        "text": "在台积电股东大会后正式退休，交棒给刘德音与魏哲家。"
+      }
+    ],
+    "achievements": [
+      "在德州仪器工作25年，升至集团资深副总裁并主管半导体业务",
+      "1987年创办台积电，开创「纯晶圆代工」商业模式",
+      "使台积电成为苹果、英伟达等全球芯片公司的主要制造伙伴",
+      "台积电发展为全球最大晶圆代工厂，占据全球代工市场约一半份额"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {
+        "title": "维基百科：张忠谋",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%BC%B5%E5%BF%A0%E8%AC%80",
+        "type": "wiki"
+      },
+      {
+        "title": "百度百科：张忠谋",
+        "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%BF%A0%E8%B0%8B/909399",
+        "type": "baike"
+      },
+      {
+        "title": "MIT机械工程系：Morris Chang",
+        "url": "https://meche.mit.edu/people/morris-chang",
+        "type": "official"
+      },
+      {
+        "title": "Stanford Engineering Heroes: Morris Chang",
+        "url": "https://engineering.stanford.edu/about/history/heroes/2012-heroes/morris-chang",
+        "type": "official"
+      },
+      {
+        "title": "天下杂志英文版：Before TSMC - Morris Chang's Lost Vision",
+        "url": "https://english.cw.com.tw/article/article.action?id=4045",
+        "type": "media"
+      }
+    ],
+    "tags": [
+      "台积电",
+      "晶圆代工",
+      "半导体",
+      "德州仪器"
+    ]
+  },
+  {
+    "id": "li-ziqi",
+    "name": "李子柒",
+    "en_name": "Li Ziqi",
+    "aliases": [
+      "李佳佳"
+    ],
+    "birth": "1990-07-06",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "田园生活短视频创作者",
+    "summary_30s": "以古法田园生活视频走红的创作者，内容涵盖美食、手作与非遗技艺；YouTube中文频道订阅量1410万创吉尼斯世界纪录，2021年停更并与合作方发生股权纠纷，2022年经法院调解和解，2024年11月以非遗漆器视频复出。",
+    "timeline": [
+      {
+        "date": "2015-01-01",
+        "acc": "year",
+        "text": "开始拍摄以传统工艺与田园生活为内容的原创短视频，从零学习拍摄与剪辑。"
+      },
+      {
+        "date": "2016-01-01",
+        "acc": "year",
+        "text": "以「古法风格」原创美食视频走红，兰州牛肉面制作视频成为早期代表作。"
+      },
+      {
+        "date": "2021-01-25",
+        "acc": "exact",
+        "text": "YouTube频道订阅量达1410万，刷新「最多订阅量的YouTube中文频道」吉尼斯世界纪录。"
+      },
+      {
+        "date": "2021-07-14",
+        "acc": "exact",
+        "text": "发布最后一条视频后停止更新，此后进入长达三年多的停更期。"
+      },
+      {
+        "date": "2021-10-25",
+        "acc": "exact",
+        "text": "其持股的四川子柒文化在绵阳市中级人民法院起诉杭州微念及刘同明，案由为股权纠纷。"
+      },
+      {
+        "date": "2022-12-27",
+        "acc": "exact",
+        "text": "双方在法院调解下达成和解，李子柒取得四川子柒文化的公司控制权。"
+      },
+      {
+        "date": "2024-11-01",
+        "acc": "month",
+        "text": "停更1200多天后复出，发布以非遗漆器为主题的视频。"
+      }
+    ],
+    "achievements": [
+      "YouTube中文频道订阅量达1410万，创「最多订阅量的YouTube中文频道」吉尼斯世界纪录",
+      "以完整呈现制作过程的视频记录美食、蜀绣、造纸、漆器等传统技艺",
+      "2024年11月停更1200多天后复出，海外订阅约1990万，首发非遗漆器视频"
+    ],
+    "controversies": [
+      "2021年10月四川子柒文化起诉杭州微念及刘同明股权纠纷；2022年12月双方经法院调解和解，李子柒取得公司控制权。"
+    ],
+    "quotes": [],
+    "sources": [
+      {
+        "title": "维基百科：李子柒",
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E5%AD%90%E6%9F%92",
+        "type": "wiki"
+      },
+      {
+        "title": "中国蓝新闻：停更1200多天后，李子柒回来了",
+        "url": "https://www.cztv.com/newsDetail/708747",
+        "type": "news"
+      },
+      {
+        "title": "观察者网：李子柒起诉杭州微念案报道",
+        "url": "https://user.guancha.cn/main/content?id=909178",
+        "type": "news"
+      },
+      {
+        "title": "CBNData：李子柒复出相关报道",
+        "url": "https://www.cbndata.com/information/293345",
+        "type": "media"
+      }
+    ],
+    "tags": [
+      "短视频",
+      "YouTube",
+      "非遗",
+      "美食",
+      "创作者"
+    ]
+  },
+  {
+    "id": "luo-yonghao",
+    "name": "罗永浩",
+    "aliases": [
+      "老罗"
+    ],
+    "birth": "1972-07-09",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "internet",
+    "region": "cn",
+    "headline": "锤子科技创始人",
+    "summary_30s": "新东方出身的连续创业者：先后创办牛博网、老罗英语培训与锤子科技，锤子危机后背负约6亿元债务，靠「交个朋友」直播带货还债，2024年公开累计还款8.24亿元，其后转向AR领域创业。",
+    "timeline": [
+      {
+        "date": "1989-01-01",
+        "acc": "year",
+        "text": "17岁高二从延边第二中学退学，此后摆地摊、开羊肉串店、倒卖药材等谋生。"
+      },
+      {
+        "date": "2001-01-01",
+        "acc": "year",
+        "text": "经多轮试讲入职北京新东方任教，课堂录音「老罗语录」在网络上广泛流传。"
+      },
+      {
+        "date": "2006-01-01",
+        "acc": "year",
+        "text": "从新东方离职，创办博客社区牛博网。"
+      },
+      {
+        "date": "2008-01-01",
+        "acc": "year",
+        "text": "创办老罗英语培训学校，进入成人英语培训市场。"
+      },
+      {
+        "date": "2012-05-01",
+        "acc": "month",
+        "text": "创立锤子科技，进入智能手机行业。"
+      },
+      {
+        "date": "2014-05-01",
+        "acc": "month",
+        "text": "发布首款手机Smartisan T1。"
+      },
+      {
+        "date": "2015-03-01",
+        "acc": "month",
+        "text": "Smartisan T1获iF国际设计金奖，为中国智能手机产品首次获得该奖项。"
+      },
+      {
+        "date": "2019-01-01",
+        "acc": "year",
+        "text": "锤子科技陷入经营危机，其公开承认背负以个人名义担保的约6亿元债务，曾被法院采取限制消费措施。"
+      },
+      {
+        "date": "2020-04-01",
+        "acc": "exact",
+        "text": "在抖音「交个朋友」直播间开启首场直播带货，观看超4800万人次、支付金额超1.1亿元。"
+      },
+      {
+        "date": "2022-06-01",
+        "acc": "month",
+        "text": "宣布退出社交平台再次创业，创办细红线科技（Thin Red Line）专注AR领域。"
+      },
+      {
+        "date": "2022-11-01",
+        "acc": "month",
+        "text": "细红线科技完成约5000万美元天使轮融资，美团龙珠领投。"
+      },
+      {
+        "date": "2024-08-01",
+        "acc": "month",
+        "text": "公开发文说明还债进展，称「真还传」累计已偿还8.24亿元，超出此前公布的约6亿元债务。"
+      }
+    ],
+    "achievements": [
+      "先后创办博客社区牛博网与老罗英语培训学校",
+      "创立锤子科技，Smartisan T1获iF国际设计金奖（中国智能手机首次）",
+      "以「交个朋友」直播带货偿还锤子相关债务，2024年公开累计还款8.24亿元",
+      "创办AR公司细红线科技，完成约5000万美元天使轮融资"
+    ],
+    "controversies": [
+      "2018年底锤子科技陷入经营危机，罗永浩公开承认背负以个人名义担保的约6亿元债务，曾被法院采取限制消费措施。"
+    ],
+    "quotes": [],
+    "sources": [
+      {
+        "title": "百度百科：罗永浩",
+        "url": "https://baike.baidu.com/item/%E7%BD%97%E6%B0%B8%E6%B5%A9/26814",
+        "type": "baike"
+      },
+      {
+        "title": "维基百科：罗永浩",
+        "url": "https://zh.wikipedia.org/zh-hans/%E7%BD%97%E6%B0%B8%E6%B5%A9",
+        "type": "wiki"
+      },
+      {
+        "title": "界面新闻：罗永浩还债四亿如何做到",
+        "url": "https://www.jiemian.com/article/5035972.html",
+        "type": "news"
+      },
+      {
+        "title": "证券时报网：罗永浩谈「真还传」已还8.24亿",
+        "url": "https://www.stcn.com/article/detail/1314477.html",
+        "type": "news"
+      },
+      {
+        "title": "百度百科：Thin Red Line（细红线）",
+        "url": "https://baike.baidu.com/item/Thin%20Red%20Line/61715381",
+        "type": "baike"
+      }
+    ],
+    "tags": [
+      "锤子科技",
+      "直播电商",
+      "牛博网",
+      "AR",
+      "创业者"
+    ]
+  }
+]
