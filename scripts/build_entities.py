@@ -28,6 +28,9 @@ all_ents, seen_ids, seen_names = [], set(), {}
 for f in files:
     try:
         data = json.load(open(f, encoding="utf-8"))
+        if not isinstance(data, list):
+            errors.append(f"{os.path.basename(f)}: 顶层不是数组，跳过")
+            continue
     except json.JSONDecodeError as exc:
         errors.append(f"{os.path.basename(f)}: JSON 解析失败 {exc}")
         continue

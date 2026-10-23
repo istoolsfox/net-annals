@@ -1,0 +1,335 @@
+[
+ {
+  "id": "netscape",
+  "name": "网景",
+  "en_name": "Netscape",
+  "type": "company",
+  "region": "world",
+  "founded": "1994-04-04",
+  "founded_accuracy": "exact",
+  "dissolved": "2003-07-15",
+  "status": "acquired",
+  "hq": "美国加州山景城",
+  "headline": "浏览器启蒙者与首次互联网淘金热的引爆者",
+  "summary_30s": "1994年网景创办，浏览器份额约九成；1995年8月IPO首日市值冲上约29亿美元。免费捆绑的IE反超后，网景1999年并入AOL、2003年解散，开源代码化为Firefox。",
+  "timeline": [
+   {
+    "date": "1994-04-04",
+    "acc": "exact",
+    "text": "吉姆·克拉克与马克·安德森创办Mosaic通讯公司（网景前身），从伊利诺伊大学NCSA出走开发商用浏览器"
+   },
+   {
+    "date": "1994-10-13",
+    "acc": "exact",
+    "text": "Navigator首个公开测试版发布，四个月拿下浏览器市场约七成份额；次年拨号上线的中国第一批网民，第一次上网多发生在这扇地址栏里"
+   },
+   {
+    "date": "1995-08-09",
+    "acc": "exact",
+    "text": "在纳斯达克上市：发行价由14美元临时上调至28美元，首日盘中冲至75美元、收盘58.25美元，市值约29亿美元"
+   },
+   {
+    "date": "1996-08-13",
+    "acc": "exact",
+    "text": "微软将IE3与Windows免费捆绑发布，向收费49美元的Navigator宣战；随中文Windows进入中国装机店，网景份额开始被蚕食"
+   },
+   {
+    "date": "1998-01-22",
+    "acc": "exact",
+    "text": "宣布浏览器此后免费、后续版本交由开源社区Mozilla开发，以免费策略对抗IE"
+   },
+   {
+    "date": "1998-11-24",
+    "acc": "exact",
+    "text": "AOL宣布以约42亿美元免税换股收购网景，此时其浏览器份额已从约九成滑落至五成上下"
+   },
+   {
+    "date": "1999-03-17",
+    "acc": "exact",
+    "text": "收购交割完成，因AOL股价上涨交易价值升至约100亿美元，网景成为AOL子公司"
+   },
+   {
+    "date": "2003-07-15",
+    "acc": "exact",
+    "text": "时代华纳旗下AOL解散网景公司，同日Mozilla基金会宣告成立，开源代码的火种由基金会延续"
+   },
+   {
+    "date": "2004-11-01",
+    "acc": "month",
+    "text": "基于网景开源代码的Firefox 1.0浏览器发布，网景的技术血脉经Mozilla延续至今"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "网景浏览器市场份额跌破1%，至2007年11月仅剩0.6%，同期IE约77%、Firefox约16%"
+   },
+   {
+    "date": "2008-03-01",
+    "acc": "exact",
+    "text": "AOL正式停止网景浏览器的安全更新与技术支持，网景品牌就此谢幕"
+   }
+  ],
+  "milestones": [
+   "Navigator发布四个月拿下约七成份额，巅峰期一度超过九成",
+   "1995-08-09上市：发行价28美元，首日盘中75美元，收盘58.25美元，市值约29亿美元",
+   "1999年被AOL换股收购，交割时交易价值约100亿美元",
+   "开源代码孕育Mozilla与Firefox，Firefox 1.0于2004年11月发布",
+   "1998年份额跌破50%，2007年仅0.6%，2008年3月停止支持"
+  ],
+  "legacy": "公司1999年并入AOL、2003年7月15日解散，品牌浏览器于2008年3月停止支持。其开源代码孕育的Mozilla基金会与Firefox存续至今；对中国而言，第一代网民的浏览器启蒙与IE普及的教训，都写在它的兴衰里。",
+  "sources": [
+   {
+    "title": "Wikipedia: Netscape",
+    "url": "https://en.wikipedia.org/wiki/Netscape",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：网景",
+    "url": "https://zh.wikipedia.org/wiki/网景",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Netscape Navigator",
+    "url": "https://en.wikipedia.org/wiki/Netscape_Navigator",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Mosaic (web browser)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Internet Explorer",
+    "url": "https://en.wikipedia.org/wiki/Internet_Explorer",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "浏览器",
+   "互联网",
+   "浏览器大战",
+   "开源软件"
+  ]
+ },
+ {
+  "id": "yahoo",
+  "name": "雅虎",
+  "en_name": "Yahoo!",
+  "type": "company",
+  "region": "world",
+  "founded": "1995-03-02",
+  "founded_accuracy": "exact",
+  "dissolved": "2017-06-13",
+  "status": "acquired",
+  "hq": "美国加州森尼韦尔",
+  "headline": "门户时代的代名词与千亿市值的残局",
+  "summary_30s": "1994年斯坦福网站目录长成雅虎，2000年市值约1250亿美元登顶门户时代。搜索落败、泄露缠身后，2017年核心业务以44.8亿美元售予Verizon，2021年退出中国大陆。",
+  "timeline": [
+   {
+    "date": "1994-01-01",
+    "acc": "month",
+    "text": "斯坦福博士生杨致远与大卫·费罗把手工整理的网站目录『杰瑞与大卫的万维网指南』搬上网络，次年3月注册公司"
+   },
+   {
+    "date": "1995-03-02",
+    "acc": "exact",
+    "text": "在加州注册成立Yahoo!公司，名字为『Yet Another Hierarchically Organized Oracle』的缩写，感叹号是注册商标的一部分"
+   },
+   {
+    "date": "1996-04-01",
+    "acc": "month",
+    "text": "在纳斯达克上市，上市后两年股价上涨约600%，人工分类目录成为亿万网民的上网入口"
+   },
+   {
+    "date": "1998-02-25",
+    "acc": "exact",
+    "text": "中国网站搜狐以『出门靠地图，上网找搜狐』上线，分类目录直接移植雅虎模式，中国门户由此发端"
+   },
+   {
+    "date": "2000-01-03",
+    "acc": "exact",
+    "text": "股价收于118.75美元的历史高点，市值一度达约1250亿美元，为独立雅虎的巅峰"
+   },
+   {
+    "date": "2003-11-21",
+    "acc": "exact",
+    "text": "以1.2亿美元收购3721『中文上网』，创当时中国互联网并购纪录，雅虎由此深入中国市场"
+   },
+   {
+    "date": "2005-08-11",
+    "acc": "exact",
+    "text": "以10亿美元现金加雅虎中国全部资产换取阿里巴巴约40%股份，为当时中国互联网史上最大交易"
+   },
+   {
+    "date": "2008-02-01",
+    "acc": "exact",
+    "text": "微软宣布以每股31美元、总额约446亿美元洽购雅虎，欲合围Google的搜索广告业务"
+   },
+   {
+    "date": "2008-05-03",
+    "acc": "exact",
+    "text": "微软正式撤回收购要约，交易告吹后雅虎股价下挫，Google在搜索广告市场地位更趋稳固"
+   },
+   {
+    "date": "2016-09-01",
+    "acc": "month",
+    "text": "披露2014年泄露事件波及逾5亿账户；同年12月再披露2013年泄露超10亿，2017年10月确认为全部30亿账户"
+   },
+   {
+    "date": "2017-06-13",
+    "acc": "exact",
+    "text": "Verizon以44.8亿美元完成对雅虎核心互联网业务的收购（较2016年7月宣布的48.3亿美元因泄露事件下调3.5亿美元），余部更名Altaba"
+   },
+   {
+    "date": "2021-09-01",
+    "acc": "month",
+    "text": "阿波罗全球管理公司收购Yahoo品牌业务的九成股权，Verizon保留一成"
+   },
+   {
+    "date": "2021-11-01",
+    "acc": "month",
+    "text": "雅虎停止在中国大陆的服务，中国业务全部退出"
+   }
+  ],
+  "milestones": [
+   "2000年1月3日股价收于118.75美元历史高点，市值一度约1250亿美元",
+   "2005年以10亿美元现金加雅虎中国换得阿里巴巴40%股份",
+   "2008年拒绝微软446亿美元收购要约",
+   "2013-2014年信息泄露累计波及30亿账户，2016-2017年陆续披露",
+   "2017年6月13日核心业务以44.8亿美元交割予Verizon，不足巅峰市值5%"
+  ],
+  "legacy": "2017年6月13日交割后，互联网业务并入Verizon旗下Oath（后复名Yahoo），2021年九成股权转售阿波罗资本；剥离后的余部以Altaba之名存续。品牌与邮箱服务仍在，但独立雅虎已于2017年落幕，并自2021年11月起退出中国大陆。",
+  "sources": [
+   {
+    "title": "Wikipedia: Yahoo!",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：雅虎",
+    "url": "https://zh.wikipedia.org/wiki/雅虎",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：3721",
+    "url": "https://zh.wikipedia.org/wiki/3721",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：阿里巴巴集团",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：搜狐",
+    "url": "https://zh.wikipedia.org/wiki/搜狐",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "门户网站",
+   "互联网",
+   "搜索引擎",
+   "阿里巴巴",
+   "信息泄露"
+  ]
+ },
+ {
+  "id": "icq",
+  "name": "ICQ",
+  "en_name": "ICQ",
+  "type": "company",
+  "region": "world",
+  "founded": "1996-11-15",
+  "founded_accuracy": "exact",
+  "dissolved": "2024-06-26",
+  "status": "closed",
+  "hq": "以色列特拉维夫",
+  "headline": "即时通讯鼻祖与QQ的母本",
+  "summary_30s": "1996年11月以色列团队上线ICQ，首创号码、好友列表与在线状态；1998年被AOL以4.07亿美元收购，2010年转手DST，2024年6月26日关停，腾讯OICQ以它为母本。",
+  "timeline": [
+   {
+    "date": "1996-06-01",
+    "acc": "month",
+    "text": "维斯格等四名以色列青年创办Mirabilis公司，两个月内写出ICQ原型"
+   },
+   {
+    "date": "1996-11-15",
+    "acc": "exact",
+    "text": "ICQ（I Seek You）上线，首创用户号码制、好友列表与在线状态机制，提示音『uh-oh!』成为一代人的记忆"
+   },
+   {
+    "date": "1998-06-08",
+    "acc": "exact",
+    "text": "AOL宣布以约4.07亿美元收购Mirabilis——2.87亿美元先行、1.2亿美元分三年支付，用户已达千万级的ICQ几乎零收入"
+   },
+   {
+    "date": "1999-02-10",
+    "acc": "exact",
+    "text": "腾讯推出对标ICQ的OICQ（Open ICQ），继承号码加好友列表的产品逻辑，次年因商标纠纷改名QQ，ICQ成为中国即时通讯的母本"
+   },
+   {
+    "date": "2001-05-09",
+    "acc": "exact",
+    "text": "注册用户突破1亿，成为全球用户规模最大的即时通讯服务之一"
+   },
+   {
+    "date": "2010-04-01",
+    "acc": "month",
+    "text": "AOL以1.875亿美元将ICQ出售给俄罗斯投资集团DST，不足1998年收购价的一半"
+   },
+   {
+    "date": "2010-09-01",
+    "acc": "month",
+    "text": "DST更名Mail.Ru集团，ICQ此后长期归属俄罗斯互联网集团，用户集中于俄语市场"
+   },
+   {
+    "date": "2024-05-24",
+    "acc": "exact",
+    "text": "ICQ官网公告将于6月26日停止服务，产品此前已近十年无重大更新"
+   },
+   {
+    "date": "2024-06-26",
+    "acc": "exact",
+    "text": "ICQ正式关停，官方告别信写道『ICQ在1996年11月改变了人们交流的方式』，28年服务落幕"
+   }
+  ],
+  "milestones": [
+   "1996年11月15日上线，首创用户号码、好友列表与在线状态机制",
+   "1998年被AOL收购：2.87亿美元先行，1.2亿美元分三年支付，合计约4.07亿美元",
+   "2001年5月注册用户突破1亿",
+   "2010年以1.875亿美元转手DST，不足1998年收购价一半",
+   "2024年6月26日关停，运营近28年"
+  ],
+  "legacy": "2024年6月26日正式关停，资产归属VK集团（Mail.ru旗下）；号码制、好友列表与在线状态经腾讯OICQ/QQ及各家即时通讯软件延续至今——母本退场，学步者仍在。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: ICQ",
+    "url": "https://en.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：腾讯QQ",
+    "url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: AIM (software)",
+    "url": "https://en.wikipedia.org/wiki/AIM_(software)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "即时通讯",
+   "互联网",
+   "AOL",
+   "俄罗斯",
+   "OICQ"
+  ]
+ }
+]

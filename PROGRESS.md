@@ -484,3 +484,12 @@
 - **编年史4939→4941**：横琴前海合作区2021/紫禁城600年丹宸永固2020/世界科技与发展论坛2026重庆（十大科技前瞻）。申遗37条、灾疫线（雪灾/汶川体系/玉树/雅安）、亚运冬奥女足、航天（嫦娥/神舟全谱系）、外卖民生线——专题查漏全部完成。
 - **并行会话生态**：外部会话持续建设「世家」（entities）栏目与二线人物、类传，双方通过「文件级分工」（我方batch1/batch2、外部g_groups_*/p_second_tier/e_world_*）避免冲突，git定点add不使用-A。
 - **子Agent在跑**：第十三批医学科学家（袁隆平/屠呦呦/钟南山/李兰娟/吴孟超/钟扬）。
+
+## 续32轮·世家志线（2026-10-23）：世家志栏目上线33家 + 世家/类传体系固化
+
+- **世家志栏目上线** https://toolsfox.top/net-annals/entities/ ：**企业15**（腾讯/阿里/百度/网易/新浪/搜狐/京东/字节/小米/盛大/金山/8848 + 世界：网景/雅虎/ICQ）+ **社区12**（水木/天涯/猫扑/西祠/榕树下/ChinaRen/人人/贴吧/豆瓣/B站/知乎/GeoCities）+ **机构6**（CSTNet/ChinaNet/CERNET/CNNIC/互联网协会/万网）。兴衰成对全闭合：天涯 2026-06-01 复活、西祠 2026-07-01 重启、新浪 2021-03-23 私有化、盛大 2012 退市、ICQ 2024-06-26 关停等均两源核实（维基原文/上交所/新华网/CNNIC官网实测）。`ENTITIES_SPEC.md` 立规：type∈{company,community,institution}/status 五态、timeline 8-20 节点、平台并入母公司不重复立传（互见法）。
+- **工具链沉淀**：`entity_extract.py`（按主体关键词从编年库抽取已核实日期+来源做世家原材料，头25+尾15保留兴衰两端）+ `validate_entity.py` + `build_entities.py` + `validate_group.py`；`build_persons.py` 扩类传段=**文件级全量校验，坏文件跳过+警告不带病上线**；`deploy.sh` 纳入 persons/entities 两构建器。
+- **类传体系**（PERSONS_SPEC 附录B）：本线产出极客与黑客/网络文学写手/初代网红/程序员先驱 4 篇。两条铁律实战验证：①类传成员不得与专传重复（求伯君入专传后已从程序员列传撤出）；②同主题撞车按查重铁律让位——站长主题与《中国初代站长群像》重合 5/6 人，本线 l-webmasters 撤稿，董勤锋/姚剑军留作彼篇补录候选。
+- **并行会话协作实录**：对方 batch 类传 16 篇首版 34 错（15 篇 sources<3、6 成员 text 无数字、1 篇领导人红线）→ 隔离 `.quarantine/`+README 留修复路径 → 对方修复重交全量过检。防线=构建器内嵌全量校验（谁写的都复检），分工=e_*/g_groups_*/p_second_tier_*（外部）vs batch*（对方），双方定点 add。
+- **独立 QA 审计过审**（fetchGz 回退/gzip 拼接顺序/this 指向/innerHTML 注入面/枚举兜底/构建器语义七项），修 2 处：entities 页 openDetail 枚举兜底与 card() 对齐、两 build 脚本顶层非数组防御。
+- **数据**：entities 33 家 113KB / persons 81 人 / groups 32 篇，全部 .gz 双份；线上 4 个 URL 实测 200，`entities/data.json` 线上解析 count=33。
