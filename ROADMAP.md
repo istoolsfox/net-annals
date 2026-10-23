@@ -42,3 +42,4 @@
 - 主会话：性能实施 + 内容批次 + 复盘登记
 - 子Agent（≤3并发）：QA审计（性能/内容抽查）、候选池part制作
 - 每Phase完成→QA Agent验收→PROGRESS复盘
+- [2026-10-23] 世家志+类传体系上线（commit 6155d11）：世家33家（企业15/社区12/机构6，含世界4家）+ 类传32篇 + 人物81人；ENTITIES_SPEC.md 与 PERSONS_SPEC 附录B 立规；entity_extract/validate_entity/validate_group/build_entities 工具链；build_persons 类传段文件级全量校验；deploy.sh 纳入两构建器；独立 QA 审计过审并修 2 处。
