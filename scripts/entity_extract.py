@@ -87,7 +87,8 @@ def main():
             if any(k.lower() in blob for k in kws):
                 hits.append(e)
         hits.sort(key=lambda x: x["date"])
-        hits = hits[:CAP]
+        if len(hits) > CAP:
+            hits = hits[:25] + hits[-15:]  # 保留兴衰两端：早期起点 + 近期节点
         path = os.path.join(OUT, f"{eid}.json")
         json.dump(hits, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         done += 1

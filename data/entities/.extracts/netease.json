@@ -16,6 +16,11 @@
     "title": "ChinaByte - 百度百科",
     "url": "https://baike.baidu.com/item/ChinaByte",
     "type": "wiki"
+   },
+   {
+    "title": "1997年的中国网络媒体与网络传播（人民网）",
+    "url": "http://media.people.com.cn/n/2014/0415/c40606-24898175.html",
+    "type": "news"
    }
   ]
  },
@@ -390,21 +395,6 @@
   ]
  },
  {
-  "id": "2013-04-23-netease-cloud-music-launch",
-  "date": "2013-04-23",
-  "layer": "2014-tech",
-  "title": "网易云音乐上线：歌单与乐评的社区实验",
-  "summary": "网易推出音乐应用网易云音乐，用个性化歌单、UGC乐评和社交关注重构了听歌这件事。『乐评』比歌还精彩成为它的标签，一款音乐App硬是做出了社区文化。，用歌单和乐评重新定义听歌",
-  "detail": "由前网易门户员工组成的小团队打造，产品以『歌单』为核心组织逻辑，用户自己创建并分享主题歌单，评论区则成为深夜情绪树洞。相对版权巨头的曲库劣势，网易云音乐靠发现与分享体验实现差异化，迅速在年轻人中积累口碑。上线后用户通过歌单与乐评形成二次传播，音乐App第一次有了社区温度。",
-  "sources": [
-   {
-    "title": "维基百科：网易云音乐",
-    "url": "https://zh.wikipedia.org/wiki/网易云音乐",
-    "type": "wiki"
-   }
-  ]
- },
- {
   "id": "2014-03-11-hearthstone",
   "date": "2014-03-11",
   "layer": "2026-games",
@@ -625,6 +615,21 @@
    {
     "title": "Wikipedia: 2023 in video games",
     "url": "https://en.wikipedia.org/wiki/2023_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2023-06-30-justice-mobile",
+  "date": "2023-06-30",
+  "layer": "2026-tech",
+  "title": "网易《逆水寒》手游上线",
+  "summary": "6月30日网易《逆水寒》手游公测，以「不肝不氪」与AI NPC等差异化卖点首月流水破20亿元，重塑MMO品类。",
+  "detail": "《逆水寒》手游主打「殊途同归」的自由养成、外观单点付费与低价定位，并首批接入智能NPC对话（伏羲大模型），上线首月全平台流水估算超20亿元，迅速成为网易旗舰，引发MMO品类「价格战」。",
+  "sources": [
+   {
+    "title": "逆水寒（手游）",
+    "url": "https://zh.wikipedia.org/wiki/网易",
     "type": "wiki"
    }
   ]
