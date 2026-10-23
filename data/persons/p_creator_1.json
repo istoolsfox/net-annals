@@ -1,0 +1,265 @@
+[
+  {
+    "id": "he-tongxue",
+    "name": "何同学",
+    "en_name": "He Tongxue",
+    "aliases": ["老师好我叫何同学", "何世杰"],
+    "birth": "1999-04-01",
+    "birth_accuracy": "month",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "B站科技区顶流UP主",
+    "summary_30s": "北京邮电大学毕业的科技视频创作者。2019年6月5G体验视频一夜播放超500万；2021年AirDesk视频发布次日带动合作方乐歌股份股价涨13.51%、市值增近5.9亿元，被称「何同学效应」。B站粉丝超1200万，三度入选百大UP主。",
+    "timeline": [
+      {"date": "2017-01-01", "acc": "year", "text": "考入北京邮电大学与伦敦玛丽女王大学联合培养项目，就读电信工程及管理专业。"},
+      {"date": "2019-06-06", "acc": "exact", "text": "在校内实测5G网络发布《有多快？5G在日常使用中的真实体验》，一夜播放量超500万，成为现象级科技视频。"},
+      {"date": "2020-01-01", "acc": "month", "text": "获B站2019年度最佳作品奖，并首次入选B站年度百大UP主。"},
+      {"date": "2020-08-01", "acc": "month", "text": "用iPad绘制篮球运动轨迹的创意视频获苹果公司官网专门报道。"},
+      {"date": "2021-02-01", "acc": "month", "text": "视频连线专访苹果CEO蒂姆·库克，话题涵盖创新理念与中国用户，全网引发热议。"},
+      {"date": "2021-07-01", "acc": "month", "text": "完成本科学业前成立杭州何同学文化传媒有限公司（后更名为杭州几盒数字文化创意有限公司）。"},
+      {"date": "2021-10-17", "acc": "exact", "text": "发布自制无线充电升降桌AirDesk视频，合作方乐歌股份次日股价上涨13.51%、市值增加近5.9亿元。"},
+      {"date": "2022-01-01", "acc": "year", "text": "公司将主要运营地从北京迁至上海，团队化制作视频。"},
+      {"date": "2024-11-01", "acc": "month", "text": "视频《我用36万行备忘录做了个动画》被指未注明所用开源代码来源，11月19日公开致歉并补充标注。"},
+      {"date": "2025-01-01", "acc": "year", "text": "在采访中自述公司经营压力，称当年可能亏损一两百万元。"},
+      {"date": "2025-11-01", "acc": "month", "text": "B站粉丝数达1227.9万，频道视频总播放量超6.8亿。"}
+    ],
+    "achievements": [
+      "2019年5G体验视频一夜播放超500万，成为年度现象级科技视频",
+      "AirDesk视频带动乐歌股份次日股价上涨13.51%、市值增近5.9亿元",
+      "2019至2021年三度入选B站百大UP主，获2019年度最佳作品奖",
+      "2021年视频连线专访苹果CEO蒂姆·库克",
+      "B站粉丝超1200万，视频总播放量超6.8亿"
+    ],
+    "controversies": [
+      "2024年11月，视频被指未注明所用开源项目来源并删除署名；当事人11月19日公开致歉并补充标注。"
+    ],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：老师好我叫何同学", "url": "https://zh.wikipedia.org/wiki/%E8%80%81%E5%B8%88%E5%A5%BD%E6%88%91%E5%8F%AB%E4%BD%95%E5%90%8C%E5%AD%A6", "type": "wiki"},
+      {"title": "每日经济新闻：何同学一条视频带火上市公司大涨13%", "url": "https://www.nbd.com.cn/rss/toutiao/articles/1951257.html", "type": "news"},
+      {"title": "中国青年报：何同学专访苹果CEO库克", "url": "https://m.cyol.com/gb/articles/2021-02/20/content_6AGWEHjxW.html", "type": "news"},
+      {"title": "北京邮电大学新闻网：何同学5G视频相关报道", "url": "https://news.bupt.edu.cn/ddh15/info/1005/1392.htm", "type": "official"},
+      {"title": "新浪财经：何同学公司经营报道", "url": "https://finance.sina.com.cn/wm/2025-08-24/doc-infnatsa3321898.shtml", "type": "news"}
+    ],
+    "tags": ["B站", "科技视频", "数码测评", "UP主", "创作者"]
+  },
+  {
+    "id": "pan-tianhong",
+    "name": "潘天鸿",
+    "en_name": "Tim",
+    "aliases": ["影视飓风", "Tim", "MediaStorm"],
+    "birth": "1996-05-16",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "影视飓风创始人、B站影像头部UP主",
+    "summary_30s": "英国肯特大学电影系毕业的影像创作者。2014年开设视频频道，2018年毕业后回杭州将「影视飓风」公司化运营，以影视工业化流程制作器材评测与技术科普。B站粉丝超1600万，2019至2025年连续入选百大UP主，2024年披露公司营收达亿级、利润千万级。",
+    "timeline": [
+      {"date": "2014-01-01", "acc": "year", "text": "创建影像频道，先后在YouTube、优酷和B站发布第一个视频。"},
+      {"date": "2015-01-01", "acc": "year", "text": "赴英国求学，入读肯特大学电影系，2018年毕业。"},
+      {"date": "2018-01-01", "acc": "year", "text": "毕业后回杭州，与盛嘉成、余志豪合伙创办杭州星奥传媒有限公司，「影视飓风」公司化运营。"},
+      {"date": "2019-01-01", "acc": "year", "text": "首次入选B站百大UP主，此后至2025年连续多年入选。"},
+      {"date": "2024-01-01", "acc": "month", "text": "获评B站2023年度百大UP主「最高人气奖」。"},
+      {"date": "2024-10-08", "acc": "exact", "text": "发布《清晰度不如4年前！视频变糊是你的错觉吗？》，指出平台通过降低码率、更换编码格式压缩画质以节省流量费用，视频次日全网下架。"},
+      {"date": "2024-10-24", "acc": "exact", "text": "在纪录片《扬声》访谈中说明下架相关情况，并披露公司营收达亿级规模、利润达千万级。"},
+      {"date": "2025-10-01", "acc": "month", "text": "推出售价49元的「飓风相机」硬件产品，引发广泛实测与讨论。"},
+      {"date": "2025-11-01", "acc": "month", "text": "B站粉丝数达1441万，频道视频总播放量14.5亿次。"},
+      {"date": "2026-09-01", "acc": "month", "text": "公开透露正在购买510万元一张的太空船票，此前曾表示人生终极目标是登陆火星。"}
+    ],
+    "achievements": [
+      "B站粉丝超1600万，视频总播放量超14.5亿次",
+      "2019至2025年连续入选B站百大UP主，2024年1月获「最高人气奖」",
+      "将「影视飓风」发展为上百人规模的公司化影像团队，2024年披露营收达亿级、利润千万级",
+      "2024年《清晰度不如4年前》引发全网对视频码率与画质机制的讨论",
+      "2025年推出49元「飓风相机」硬件产品"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：影视飓风", "url": "https://zh.wikipedia.org/wiki/%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E", "type": "wiki"},
+      {"title": "影视飓风官方网站", "url": "https://www.ysjf.com", "type": "official"},
+      {"title": "游民星空：影视飓风清晰度视频下架事件报道", "url": "https://www.gamersky.com/tech/202410/1826615.shtml", "type": "news"},
+      {"title": "腾讯新闻：影视飓风Tim透露购买510万太空船票", "url": "https://view.inews.qq.com/a/20260918A05P4E00", "type": "news"},
+      {"title": "新浪财经：影视飓风Tim表示正在下单太空船票", "url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfyez0272971.shtml", "type": "news"}
+    ],
+    "tags": ["B站", "影视", "MediaStorm", "UP主", "创作者"]
+  },
+  {
+    "id": "papi-jiang",
+    "name": "papi酱",
+    "en_name": "Papi Jiang",
+    "aliases": ["姜逸磊"],
+    "birth": "1987-02-17",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "Papitube创始人、现象级短视频作者",
+    "summary_30s": "中央戏剧学院导演系硕士出身的短视频创作者。2015年以变声器吐槽视频走红，2016年获1200万元融资，首支视频贴片广告拍出2200万元；同年与合伙人杨铭运营MCN机构Papitube，直播首秀1.5小时观看达2000万人次，后参演《妖铃铃》《繁花》。",
+    "timeline": [
+      {"date": "2005-01-01", "acc": "year", "text": "考入中央戏剧学院导演系本科，在校期间任网络主持人、上海电视台体育频道编导及话剧导演助理。"},
+      {"date": "2012-01-01", "acc": "year", "text": "开设微博账号，尝试文字段子、搞笑GIF，曾在B站担任UP主。"},
+      {"date": "2015-10-01", "acc": "month", "text": "开始上传变声器吐槽短视频，11月《喜迎双十一》在朋友圈、微博等平台走红。"},
+      {"date": "2016-03-01", "acc": "month", "text": "获真格基金、罗辑思维、光源资本和星图资本合计1200万元人民币融资。"},
+      {"date": "2016-04-21", "acc": "exact", "text": "首支视频贴片广告公开拍卖，以2200万元人民币成交，款项宣布捐赠母校中央戏剧学院。"},
+      {"date": "2016-07-06", "acc": "exact", "text": "获中央戏剧学院导演系硕士学位，同月成立个人工作室。"},
+      {"date": "2016-07-11", "acc": "exact", "text": "首次网络直播，一个半小时观看达2000万人次，打赏收入折合人民币90余万元。"},
+      {"date": "2016-11-23", "acc": "exact", "text": "合伙人杨铭确认投资方罗辑思维撤资。"},
+      {"date": "2018-06-21", "acc": "exact", "text": "正式担任百度App首席内容官。"},
+      {"date": "2021-10-01", "acc": "month", "text": "个人工作室「逸磊影视文化传播新沂工作室」停止运作。"},
+      {"date": "2024-05-01", "acc": "month", "text": "不再担任北京春雨听雷网络科技有限公司董事职务。"}
+    ],
+    "achievements": [
+      "2016年首支视频贴片广告以2200万元成交，被称「新媒体史上第一拍」",
+      "2016年获真格基金等机构合计1200万元融资",
+      "与合伙人杨铭共同运营短视频MCN机构Papitube，签约孵化多垂类创作者",
+      "2016年直播首秀1.5小时观看达2000万人次",
+      "参演《妖铃铃》《繁花》等影视作品"
+    ],
+    "controversies": [
+      "2016年4月，短视频因使用粗口等内容被广电总局要求全平台下线整改，整改后部分视频重新上架。",
+      "2019年，旗下Papitube账号因未授权使用音乐被诉侵权，北京互联网法院一审判决赔偿7000元。"
+    ],
+    "quotes": [
+      "「网上和身边永远有一群『挑刺狂魔』。」——2020年5月置顶微博回应舆论质疑"
+    ],
+    "sources": [
+      {"title": "维基百科：Papi酱", "url": "https://zh.wikipedia.org/wiki/Papi%E9%85%B1", "type": "wiki"},
+      {"title": "凤凰网：papi酱首次广告拍卖2200万 全部捐给母校中戏", "url": "https://news.ifeng.com/c/7fd9PnRge3t", "type": "news"},
+      {"title": "凤凰网财经：papi酱广告首拍达2200万", "url": "https://finance.ifeng.com/c/7Zxhqm82P12", "type": "news"}
+    ],
+    "tags": ["短视频", "MCN", "Papitube", "微博", "创作者"]
+  },
+  {
+    "id": "geng-shuai",
+    "name": "手工耿",
+    "en_name": "Handy Geng",
+    "aliases": ["耿帅", "无用爱迪生"],
+    "birth": "1988-07-22",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "「无用发明」铁艺创作者",
+    "summary_30s": "河北定兴焊工出身的发明创作者。2017年返乡专职制作「无用发明」，菜刀梳子、倒立洗头机、雷神锤包等不锈钢作品2018年经短视频走红，获《华盛顿邮报》等海外媒体报道，被称为「无用爱迪生」，B站粉丝超750万、总播放量8.1亿。",
+    "timeline": [
+      {"date": "1988-07-22", "acc": "exact", "text": "出生于河北省保定市定兴县杨村。"},
+      {"date": "2004-01-01", "acc": "year", "text": "16岁初中辍学后进城务工，先后做过建筑工地杂工与电焊工，曾参与京石客运专线铁路建设。"},
+      {"date": "2017-01-01", "acc": "year", "text": "辞去工作回到老家定兴县，专职制作以不锈钢为主的发明器械。"},
+      {"date": "2018-01-01", "acc": "year", "text": "开始为发明录制视频并上传快手、微博等平台走红，获《华盛顿邮报》等海外媒体报道，被称为「无用爱迪生」。"},
+      {"date": "2019-01-01", "acc": "year", "text": "入选B站百大UP主，参加《快乐大本营》《我想开个店》等综艺节目。"},
+      {"date": "2023-11-01", "acc": "month", "text": "B站粉丝数达758.1万，视频总播放量8.1亿。"},
+      {"date": "2024-05-01", "acc": "month", "text": "5月21日发布与游戏合作的视频后停更五个月，引发「退网」猜测。"},
+      {"date": "2024-10-01", "acc": "month", "text": "复更发布「大慈大悲钓鱼竿」，回应称「我挣到了驾驭不了的钱」，自述不带货、一个月接一个广告已是极限。"}
+    ],
+    "achievements": [
+      "「无用发明」系列走红快手与B站，B站粉丝超750万、总播放量8.1亿",
+      "获《华盛顿邮报》等海外媒体报道，获称「无用爱迪生」",
+      "2019年入选B站百大UP主，登上《快乐大本营》等综艺",
+      "代表作包括菜刀梳子、倒立洗头机、雷神锤包、不锈钢脑瓜崩加特林等"
+    ],
+    "controversies": [],
+    "quotes": [
+      "「我挣到了驾驭不了的钱。」——2024年接受《新人物》采访回应退网传闻"
+    ],
+    "sources": [
+      {"title": "维基百科：手工耿", "url": "https://zh.wikipedia.org/wiki/%E6%89%8B%E5%B7%A5%E8%80%BF", "type": "wiki"},
+      {"title": "新京报：手工耿相关报道（2018）", "url": "http://www.bjnews.com.cn/inside/2018/10/29/515575.html", "type": "news"},
+      {"title": "联合新闻网：「无用爱迪生」报道（2019）", "url": "https://udn.com/news/story/6809/3629411", "type": "news"},
+      {"title": "中国新闻周刊：手工耿人物报道（2019）", "url": "http://news.inewsweek.cn/people/2019-06-03/5958.shtml", "type": "news"},
+      {"title": "21经济网：知名网红回应「退网」传闻", "url": "https://www.21jingji.com/article/20241021/herald/4e1d59de87e9b46a502ccc2e660fc314.html", "type": "news"}
+    ],
+    "tags": ["快手", "手工", "发明", "创作者", "B站"]
+  },
+  {
+    "id": "li-jiaqi",
+    "name": "李佳琦",
+    "en_name": "Li Jiaqi",
+    "aliases": ["口红一哥"],
+    "birth": "1992-06-07",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "cn",
+    "headline": "淘宝直播头部带货主播",
+    "summary_30s": "欧莱雅专柜美容顾问出身的电商主播。2016年底签约美ONE进入淘宝直播，2018年创「30秒涂口红最多人数」吉尼斯世界纪录，获称「口红一哥」。2021年双十一预售首日直播间交易额破百亿元、观看约2.5亿人次，与薇娅并称淘宝两大当家主播。",
+    "timeline": [
+      {"date": "2011-01-01", "acc": "year", "text": "考入南昌大学艺术与设计专业，后因工作原因提前离校。"},
+      {"date": "2015-01-01", "acc": "year", "text": "成为南昌的欧莱雅品牌专柜美容顾问（BA），以亲自试色等方式多次获得专柜销售冠军。"},
+      {"date": "2016-12-01", "acc": "month", "text": "在欧莱雅与美ONE合作的「BA网红化」淘宝直播比赛中获胜并签约，带2000元赴上海开始直播生涯。"},
+      {"date": "2017-01-01", "acc": "year", "text": "淘内粉丝达数十万，获评当年淘宝直播盛典Top主播，受聘江苏师范大学淘宝写作与传媒课程讲师。"},
+      {"date": "2018-09-01", "acc": "month", "text": "成功挑战「30秒涂口红最多人数」吉尼斯世界纪录，获得「口红一哥」称号。"},
+      {"date": "2018-11-01", "acc": "month", "text": "双十一期间与马云直播比拼卖口红并获胜，12月起开通抖音、小红书、快手等平台账号。"},
+      {"date": "2019-06-01", "acc": "month", "text": "全网粉丝接近5000万，成为淘宝直播头部主播。"},
+      {"date": "2020-04-06", "acc": "exact", "text": "与央视主持人朱广权连线开展湖北产品公益带货直播，登上微博热搜。"},
+      {"date": "2021-10-20", "acc": "exact", "text": "双十一预售首日直播间上架439件商品，第三方统计交易额破百亿元，累计观看约2.5亿人次。"},
+      {"date": "2022-09-20", "acc": "exact", "text": "直播于6月初中断后停播三个多月，当晚在淘宝平台复播。"},
+      {"date": "2023-09-09", "acc": "exact", "text": "直播中就花西子眉笔价格质疑的回应言论引发争议，9月11日凌晨发微博道歉、当晚直播再次道歉，微博粉丝两天流失超百万。"},
+      {"date": "2024-01-01", "acc": "year", "text": "参加芒果TV竞演真人秀《披荆斩棘（第四季）》。"}
+    ],
+    "achievements": [
+      "2018年创「30秒涂口红最多人数」吉尼斯世界纪录",
+      "2021年双十一预售首日直播间交易额破百亿元，观看约2.5亿人次",
+      "截至2019年6月全网粉丝接近5000万，与薇娅并称淘宝两大当家主播",
+      "2020年落户上海崇明并享受国家级领军人才政策，同年任上海市青联委员"
+    ],
+    "controversies": [
+      "2023年9月，直播中回应网友对花西子眉笔价格的质疑时言论引发争议；本人9月11日凌晨发微博道歉，当晚直播中再次道歉。",
+      "2020年6月，其持股49%的上海妆佳电子商务有限公司因网店虚假宣传洗发水防脱功能被市场监管部门罚款1万元。"
+    ],
+    "quotes": [],
+    "sources": [
+      {"title": "维基百科：李佳琦（网络红人）", "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BD%B3%E7%90%A6_(%E7%BD%91%E7%BB%9C%E7%BA%A2%E4%BA%BA)", "type": "wiki"},
+      {"title": "界面新闻：双11首日直播战绩出炉，李佳琦销售额破百亿", "url": "https://m.jiemian.com/article/6726459.html", "type": "news"},
+      {"title": "知乎：2021双十一预售李佳琦销售额破百亿", "url": "https://www.zhihu.com/question/493599235", "type": "news"},
+      {"title": "东方财富研报：2021双十一落幕，电商竞争显现新特点", "url": "https://pdf.dfcfw.com/pdf/H3_AP202111151529213392_1.pdf", "type": "news"}
+    ],
+    "tags": ["直播带货", "电商", "美妆", "淘宝直播", "创作者"]
+  },
+  {
+    "id": "mrbeast",
+    "name": "MrBeast",
+    "en_name": "Jimmy Donaldson",
+    "aliases": ["MrBeast6000"],
+    "birth": "1998-05-07",
+    "birth_accuracy": "exact",
+    "death": null,
+    "field": "creator",
+    "region": "world",
+    "headline": "YouTube订阅数全球第一创作者",
+    "summary_30s": "以百万美元级成本制作大挑战视频的YouTube创作者。2024年6月订阅数超越T-Series登顶全站第一，2026年10月达5.23亿；真人秀Beast Games 25天获5000万观看，巧克力品牌Feastables与估值50亿美元的Beast Industries将流量转化为商业版图。",
+    "timeline": [
+      {"date": "2012-02-01", "acc": "month", "text": "13岁时以「MrBeast6000」名义上传第一支YouTube视频。"},
+      {"date": "2017-01-09", "acc": "exact", "text": "发布《I Counted to 100,000!》，用约40小时从1数到10万，成为频道突破性作品。"},
+      {"date": "2019-10-25", "acc": "exact", "text": "与Mark Rober发起Team Trees植树募捐，当年12月19日提前达成2000万美元目标，累计资助植树超2400万棵。"},
+      {"date": "2020-12-01", "acc": "month", "text": "推出虚拟餐厅品牌MrBeast Burger，采用线上点单、合作餐厅出餐模式。"},
+      {"date": "2021-10-29", "acc": "exact", "text": "发起Team Seas海洋清理募捐，目标3000万美元，截至2025年6月筹款超3400万美元。"},
+      {"date": "2021-11-01", "acc": "month", "text": "上传《$456,000 Squid Game in Real Life!》，456名参赛者实景复刻鱿鱼游戏，一周内播放超1.3亿次。"},
+      {"date": "2022-01-01", "acc": "month", "text": "推出巧克力品牌Feastables，上市初期销售额约1000万美元。"},
+      {"date": "2024-06-02", "acc": "exact", "text": "频道订阅数超越T-Series，成为YouTube订阅数第一的频道，当时约2.67亿。"},
+      {"date": "2024-07-10", "acc": "exact", "text": "成为YouTube历史上首位订阅数突破3亿的创作者。"},
+      {"date": "2024-12-19", "acc": "exact", "text": "真人秀Beast Games在Prime Video首播，1000名参赛者争夺500万美元单人奖金，25天观看量达5000万，创亚马逊平台纪录。"},
+      {"date": "2025-06-01", "acc": "exact", "text": "订阅数突破4亿，仍为全球第一。"},
+      {"date": "2026-01-01", "acc": "year", "text": "旗下Beast Industries获2亿美元融资，估值达50亿美元。"},
+      {"date": "2026-06-12", "acc": "exact", "text": "订阅数突破5亿，为YouTube首位达成者。"}
+    ],
+    "achievements": [
+      "YouTube订阅数全球第一，2026年10月达5.23亿、总播放超1430亿次",
+      "Team Trees、Team Seas募捐分别筹款超2000万与3400万美元",
+      "Beast Games 25天获5000万观看，创亚马逊真人秀纪录，单人奖金500万美元",
+      "Feastables上市初期销售额约1000万美元，Beast Industries估值50亿美元",
+      "Forbes两次评为年收入最高的YouTube创作者，2021年收入约5400万美元"
+    ],
+    "controversies": [],
+    "quotes": [],
+    "sources": [
+      {"title": "Wikipedia: MrBeast", "url": "https://en.wikipedia.org/wiki/MrBeast", "type": "wiki"},
+      {"title": "MrBeast官方YouTube频道", "url": "https://www.youtube.com/@MrBeast", "type": "official"},
+      {"title": "Team Trees官方页面", "url": "https://teamtrees.org/", "type": "official"},
+      {"title": "Beast Philanthropy官方网站", "url": "https://www.beastphilanthropy.org/", "type": "official"}
+    ],
+    "tags": ["YouTube", "创作者", "公益募捐", "Feastables", "真人秀"]
+  }
+]
