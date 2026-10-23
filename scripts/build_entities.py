@@ -72,3 +72,14 @@ for e in all_ents:
     by_type[e["type"]] = by_type.get(e["type"], 0) + 1
 print(f"✓ 世家构建完成：{len(all_ents)} 家 → site/entities/data.json（{os.path.getsize(dst)//1024}KB + .gz）")
 print(f"  分布: {by_type}")
+
+# 同步主站横幅世家数（根治静态数字过期）
+_idx = os.path.join(ROOT, "site", "index.html")
+try:
+    _html = open(_idx, encoding="utf-8").read()
+    _new = re.sub(r'(id="eCount">)\d+(<small>世家</small>)', rf'\g<1>{len(all_ents)}\g<2>', _html)
+    if _new != _html:
+        open(_idx, "w", encoding="utf-8").write(_new)
+        print(f"  主站横幅 eCount → {len(all_ents)}")
+except OSError:
+    pass

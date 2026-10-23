@@ -12,6 +12,7 @@ python3 scripts/geo_match.py
 python3 scripts/build_geo.py
 python3 scripts/build_persons.py
 python3 scripts/build_entities.py
+python3 scripts/build_today.py
 
 echo "==> 2/2 发布到 toolsfox.top"
 rsync -az --delete --delete-excluded --exclude=/data.json site/ toolsfox:/var/www/net-annals/

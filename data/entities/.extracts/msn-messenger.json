@@ -1,0 +1,97 @@
+[
+ {
+  "id": "1996-11-15-icq-launch",
+  "date": "1996-11-15",
+  "layer": "2026-wayback",
+  "title": "ICQ 上线：『I Seek You』与即时通讯的黎明",
+  "summary": "1996年11月15日，以色列Mirabilis公司发布ICQ——人类第一个国民级即时通讯软件。花哨的提示音『uh-oh!』与自由注册的号码体系，定义了此后三十年网络聊天的基本形态。",
+  "detail": "ICQ的三个发明：用户号码（而非邮箱绑定）、在线状态（彩色的花朵图标）、以及『加好友』的社交机制——这三件套至今仍是所有聊天软件的骨架。以色列青年维斯格等四人在两个月内写出原型，1998年以4.07亿美元卖给美国在线（AOL）——即时通讯第一次证明自己值大钱。它的中国影子更深：腾讯OICQ（1999）的最初形态直接对标ICQ，连『号码+好友列表』的产品逻辑都一脉相承。2000年代ICQ被MSN、QQ、Gtalk逐步边缘化，2010年被Mail.ru集团收购后淡出主流——2024年6月正式关闭时，老用户收到的是一封『感谢28年』的告别信。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "1999-06-21-kasparov-versus-the-world",
+  "date": "1999-06-21",
+  "layer": "2026-records",
+  "title": "卡斯帕罗夫网络对弈全世界：一人单挑五万人的世纪棋局",
+  "summary": "1999 年 6 月 21 日，国际象棋世界冠军卡斯帕罗夫在微软 MSN 网站上开启『对弈全世界』：全球 75 国超过五万名业余棋手投票决定黑方每一步，与世界第一白方较量。四个多月、62 回合后，卡斯帕罗夫在深度的弃子攻势中获胜，这场网络实验被视为人类历史上第一次大规模互联网协同智力对抗。",
+  "detail": "1999 年 6 月 21 日至 10 月 16 日，世界国际象棋第一人加里·卡斯帕罗夫（Garry Kasparov）在微软 MSN 赞助的网站上与『全世界』对弈：来自 75 个国家、超过 5 万名注册棋手每 24 小时对黑方下一步棋投票，由四名少年国象高手与顾问组成战术小组提供候选。白方卡斯帕罗夫独立应对。对局从常规开局迅速走向诡异变例，第 10 回合起卡斯帕罗夫祭出冒险的弃子强攻，把局面拖入深水区。全球军团曾在中盘一度占优，但因投票机制各执己见，多次错过最佳防守。第 62 回合，全球军团认输，卡斯帕罗夫赛后称这是他下过最『烧脑』的一盘棋。",
+  "sources": [
+   {
+    "title": "Wikipedia：Kasparov versus the World",
+    "url": "https://en.wikipedia.org/wiki/Kasparov_versus_the_World",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia：Garry Kasparov",
+    "url": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2010-09-28-live-spaces-closed",
+  "date": "2010-09-28",
+  "layer": "2026-wayback",
+  "title": "Windows Live Spaces 关闭：千万博客的大迁徙",
+  "summary": "2010年9月28日，微软关闭全球博客服务 Windows Live Spaces（前身MSN Spaces）。2008年微软宣布不再投资该产品，与WordPress.com达成迁移协议，数千万用户的博客被迫搬家或归档。",
+  "detail": "2010年9月28日，微软关闭全球博客服务 Windows Live Spaces（前身MSN Spaces）。2008年微软宣布不再投资该产品，与WordPress.com达成迁移协议，数千万用户的博客被迫搬家或归档。中文博客圈大批用户在此期间迁移至新浪博客、博客园或独立域名，『搬家公告』成为当年中文博客圈的集体记忆。",
+  "sources": [
+   {
+    "title": "Windows Live Spaces - 维基百科",
+    "url": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2014-10-01-msn-messenger-retired",
+  "date": "2014-10-01",
+  "layer": "2026-wayback",
+  "title": "MSN Messenger 全球退役：即时通讯鼻祖谢幕",
+  "summary": "2014年10月31日，微软MSN Messenger（Windows Live Messenger）在全球最后的市场完成退役，这个1999年问世的即时通讯软件正式走进历史。MSN曾以个性化头像、签名档、_spaces空",
+  "detail": "2014年10月31日，微软MSN Messenger（Windows Live Messenger）在全球最后的市场完成退役，这个1999年问世的即时通讯软件正式走进历史。MSN曾以个性化头像、签名档、_spaces空间定义了一代白领与学生的网络社交，2005年前后在中国的用户规模仅次于QQ，最终在QQ、微信与移动浪潮中步步失守。中国市场于当年8月率先关停。",
+  "sources": [
+   {
+    "title": "Windows Live Messenger - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Windows_Live_Messenger",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2017-12-15-aim-shutdown",
+  "date": "2017-12-15",
+  "layer": "2026-wayback",
+  "title": "AOL Instant Messenger（AIM）停运",
+  "summary": "2017年12月15日，运营20年的AIM正式关停——与ICQ同源的即时通讯鼻祖谢幕。",
+  "detail": "2017年12月15日，运营20年的AIM正式关停——与ICQ同源的即时通讯鼻祖谢幕。 「Away Message」状态签名、屏幕名等AIM发明早已被QQ、MSN们继承，它的关停为PC时代IM画下句点。 即时通讯的中心此后彻底转向手机与移动社交网络，AIM的「叮咚」上线音成为一代美国网民的怀旧素材。",
+  "sources": [
+   {
+    "type": "wiki",
+    "url": "https://en.wikipedia.org/wiki/AIM_(software)",
+    "title": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2024-06-26-icq-shutdown",
+  "date": "2024-06-26",
+  "layer": "2026-wayback",
+  "title": "ICQ 正式关闭：28年即时通讯史的第一页翻过",
+  "summary": "2024年6月26日，ICQ正式停止服务——从1996年的『uh-oh!』到2024年的告别信，这个人类第一个国民级IM走完28年。它的关闭标志着一个产品世代的彻底退场。",
+  "detail": "ICQ的最后岁月属于VK集团（Mail.ru旗下）：俄罗斯及独联体市场尚有存量用户，但产品已十年无重大更新。官方告别信写道：『ICQ 在1996年11月改变了人们交流的方式』——不是夸张，号码制、好友列表、在线状态这些今天的默认配置都是它发明的。中国用户的记忆线不同：OICQ（1999）曾因名称侵权改名QQ，但产品血缘的父子关系清楚可辨。ICQ的谢幕与MSN（2014）、Skype（2025）构成即时通讯鼻祖的三连退场——活到最后的是从ICQ学步的QQ与微信。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   }
+  ]
+ }
+]

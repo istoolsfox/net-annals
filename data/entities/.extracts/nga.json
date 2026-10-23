@@ -1,0 +1,87 @@
+[
+ {
+  "id": "2002-08-10-loongson-first-chip-taped-out",
+  "date": "2002-08-10",
+  "layer": "2004",
+  "title": "首片「龙芯一号」流片成功：中国自主通用CPU起步",
+  "summary": "中科院计算所研制的首片龙芯一号CPU流片成功并点亮Linux系统，中国结束了计算机整机无「中国芯」的历史，自主CPU产业自此起步。",
+  "detail": "8月10日，中科院计算所胡伟武团队研制的首片龙芯一号CPU（编号XIA50，纪念夏培肃从事计算事业50年）回到北京并成功运行Linux操作系统，这是中国第一款拥有自主知识产权的通用高性能微处理芯片。彼时中国计算机产业长期「有整机无芯」，CPU完全依赖进口，龙芯的流片让「中国芯」从口号变成实体。此后龙芯历经性能争议与生态艰难，坚持自主指令集路线，2021年起推出的龙芯3A5000等芯片转向完全自主的LoongArch指令集架构。",
+  "sources": [
+   {
+    "title": "维基百科：龙芯",
+    "url": "https://zh.wikipedia.org/wiki/%E9%BE%99%E8%8A%AF",
+    "type": "wiki"
+   },
+   {
+    "title": "中科院：孕育“龙芯”的478个日夜",
+    "url": "https://www.cas.cn/zt/kjzt/kjzlzqzl/kjzlzq/202408/t20240823_5029568.shtml",
+    "type": "official"
+   }
+  ]
+ },
+ {
+  "id": "2004-07-27-motorola-razr-v3",
+  "date": "2004-07-27",
+  "layer": "2026-telecom",
+  "title": "摩托罗拉RAZR V3发布：1.3亿部的刀锋绝唱",
+  "summary": "2004年7月27日，摩托罗拉在芝加哥发布RAZR V3：13毫米厚的金属翻盖刀锋。它卖出超过1.3亿部，是史上最畅销的翻盖手机，把『手机即时尚』推到顶点，也成了摩托罗拉最后的辉煌。",
+  "detail": "RAZR V3以『刀锋』为名，用铝壳、外屏与激光蚀刻键盘把翻盖机做薄到13毫米，中端的配置卖出高端的身价，成为2000年代中期横扫全球的时尚图腾，被Engadget列入定义2000年代的十大 gadget。它累计销量超过1.3亿部，模仿者众，摩托罗拉却把宝押在延续刀锋光环上，迟迟没有完成向智能机的转型。2007年iPhone问世后RAZR迅速过气，摩托罗拉手机业务从此一路下坡，几经转手，刀锋成了功能机时代最后的传奇。",
+  "sources": [
+   {
+    "title": "Wikipedia: Motorola RAZR V3",
+    "url": "https://en.wikipedia.org/wiki/Motorola_RAZR_V3",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2009-06-19-farmville",
+  "date": "2009-06-19",
+  "layer": "2026-games2",
+  "title": "《FarmVille》在Facebook上线",
+  "summary": "Zynga把'种菜偷菜'做成全球现象：8000万月活的社交游戏巨兽，让'社交游戏'成为独立产业名词，也埋下F2P数据驱动的基因，把社交平台变成游戏分发主渠道，F2P数据化运营成为行业方法论。",
+  "detail": "2009年6月19日Zynga的《FarmVille》在Facebook上线。病毒式邀请链、每日签到与付费加速构成数据驱动的循环，月活跃用户峰值约8000万，农场图标铺满全球用户的主页。它让社交游戏成为硅谷赛道，增长黑客打法进入游戏业；也让'为增长而设计'的争议相伴而生。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2009 in video games",
+    "url": "https://en.wikipedia.org/wiki/2009_in_video_games",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2014-09-24-mangalyaan-mars-orbit",
+  "date": "2014-09-24",
+  "layer": "2026-science",
+  "title": "印度曼加里安号入轨火星：亚洲首个火星轨道器",
+  "summary": "9月24日清晨，印度空间研究组织（ISRO）宣布曼加里安号（MOM）成功进入火星轨道——印度成为第一个首次尝试就成功抵达火星轨道的航天机构，也是亚洲首个实现火星轨道的国家。任务成本仅7400万美元。",
+  "detail": "曼加里安号2013年11月发射，携带5台小型仪器，重点观测火星大气甲烷与大气逃逸。任务验证了印度的深空测控与自主故障管理（入轨前发动机点火由机载逻辑保障）。此后ISRO规划后续轨道器 Mangalyaan 2 与金星任务，商业化发射产业同步起飞。",
+  "sources": [
+   {
+    "title": "Wikipedia: 2014 in science",
+    "url": "https://en.wikipedia.org/wiki/2014_in_science",
+    "type": "wiki"
+   }
+  ]
+ },
+ {
+  "id": "2022-01-31-sony-bungie",
+  "date": "2022-01-31",
+  "layer": "2026-games",
+  "title": "索尼36亿美元收购 Bungie，主机军备竞赛白热化",
+  "summary": "2022年1月31日，索尼宣布36亿美元收购《光环》原创者、《命运》开发商Bungie——微软旧部投奔PlayStation。就在两周前微软刚宣布买动视暴雪，主机巨头们疯狂扫货工作室，收购军备竞赛彻底白热化。",
+  "detail": "2022年1月31日，索尼互动娱乐（SIE）宣布以36亿美元收购Bungie，这是继微软宣布690亿美元收购动视暴雪（1月18日）后两周内的回应性交易。Bungie保持独立运营并承诺跨平台（《命运2》不撤出Xbox），其“服务型游戏+自研引擎”经验被索尼视为关键资产；同期Take-Two以127亿美元收购Zynga、腾讯收购Sumo、Embracer连环并购，游戏业进入史上最疯狂的整合期。Bungie 2023-2024年经历裁员，索尼推动其参与《马拉松》等项目。",
+  "sources": [
+   {
+    "title": "2022 in video games - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2022_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Bungie - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bungie",
+    "type": "wiki"
+   }
+  ]
+ }
+]

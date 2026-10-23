@@ -72,7 +72,6 @@
 <script>
 'use strict';
 const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
-const LAYERS = {main:'主时间线', science:'科学', space:'航天', games:'游戏', film:'电影', music:'音乐', sports:'体育', wayback:'数字考古', disasters:'灾疫'};
 const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
 
@@ -142,7 +141,7 @@ function selectDay(key) {
     div.className = 'evItem';
     div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${e.title}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
       ${e.summary ? `<p class="sm">${e.summary}${e.summary.length >= 110 ? '…' : ''}</p>` : ''}
-      <div class="meta">${LAYERS[e.layer] || e.layer}</div>`;
+      <div class="meta">${e.layer}</div>`;
     list.appendChild(div);
   }
   gridSync();

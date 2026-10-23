@@ -71,6 +71,17 @@ for e in all_persons:
 print(f"✓ 人物志构建完成：{len(all_persons)} 人 → site/persons/data.json（{os.path.getsize(dst)//1024}KB + .gz）")
 print(f"  领域分布: {fields}")
 
+# 同步主站横幅人物数（根治静态数字过期）
+_idx = os.path.join(ROOT, "site", "index.html")
+try:
+    _html = open(_idx, encoding="utf-8").read()
+    _new = re.sub(r'(id="pCount">)\d+(<small>人物</small>)', rf'\g<1>{len(all_persons)}\g<2>', _html)
+    if _new != _html:
+        open(_idx, "w", encoding="utf-8").write(_new)
+        print(f"  主站横幅 pCount → {len(all_persons)}")
+except OSError:
+    pass
+
 # ---- 类传（群像列传）构建：data/persons/groups/*.json → site/persons/groups.json ----
 # 全量校验（与 validate_group.py 同规则），不合格文件跳过并在下方警告，不带病上线。
 GROUPS_DIR = os.path.join(PERSONS_DIR, "groups")

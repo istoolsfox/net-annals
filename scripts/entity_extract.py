@@ -47,13 +47,34 @@ ENTITIES = {
     "yahoo": ["雅虎", "Yahoo"],
     "icq": ["ICQ"],
     "geocities": ["GeoCities"],
+    # ---- 二批（2026-10-23）----
+    "eachnet": ["易趣"],
+    "dangdang": ["当当"],
+    "vancl": ["凡客"],
+    "giantnet": ["巨人网络", "巨人集团", "征途"],
+    "the9": ["第九城市", "九城"],
+    "ourgame": ["联众"],
+    "kuaishou": ["快手"],
+    "meituan": ["美团", "大众点评"],
+    "didi": ["滴滴", "嘀嘀"],
+    "ctrip": ["携程"],
+    "hupu": ["虎扑"],
+    "nga": ["NGA", "艾泽拉斯国家地理"],
+    "guokr": ["果壳"],
+    "kaidi": ["凯迪"],
+    "aol": ["AOL", "美国在线"],
+    "msn-messenger": ["MSN"],
+    "myspace": ["MySpace", "聚友"],
+    "vine": ["Vine"],
+    "orkut": ["Orkut"],
 }
 
 
 def load_all():
     out = []
     for f in sorted(glob.glob(os.path.join(DATA, "*.json"))):
-        layer = re.sub(r"^\d{4}-?", "", os.path.basename(f)[:-5]) or "main"
+        name = os.path.basename(f)[:-5]
+        layer = re.sub(r"^\d{4}(?:-\d{4})*-?", "", name) or "main"
         try:
             data = json.load(open(f, encoding="utf-8"))
         except Exception:
