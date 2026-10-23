@@ -43,3 +43,4 @@
 - 子Agent（≤3并发）：QA审计（性能/内容抽查）、候选池part制作
 - 每Phase完成→QA Agent验收→PROGRESS复盘
 - [2026-10-23] 世家志+类传体系上线（commit 6155d11）：世家33家（企业15/社区12/机构6，含世界4家）+ 类传32篇 + 人物81人；ENTITIES_SPEC.md 与 PERSONS_SPEC 附录B 立规；entity_extract/validate_entity/validate_group/build_entities 工具链；build_persons 类传段文件级全量校验；deploy.sh 纳入两构建器；独立 QA 审计过审并修 2 处。
+- [2026-10-23] 世家二批+今天页+SEO（commit a4eec8c）：世家 33→52 家（企业30/社区16/机构6）；「历史上的今天」上线（4970条/366天，构建端产出中文层名）；sitemap/robots/OG卡/JSON-LD/canonical 四页注入；build 脚本自动回写主站横幅数字。
