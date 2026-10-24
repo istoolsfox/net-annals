@@ -1,0 +1,86 @@
+[
+ {
+  "name": "刘慈欣",
+  "en": "Liu Cixin",
+  "field": "creator",
+  "why": "《三体》雨果奖、中国科幻输出旗帜"
+ },
+ {
+  "name": "金庸",
+  "en": "Jin Yong",
+  "field": "creator",
+  "why": "武侠小说宗师、华人网络文化母题"
+ },
+ {
+  "name": "王小波",
+  "en": "Wang Xiaobo",
+  "field": "creator",
+  "why": "互联网时代精神偶像、《沉默的大多数》"
+ },
+ {
+  "name": "罗翔",
+  "en": "Luo Xiang",
+  "field": "creator",
+  "why": "法考罗翔、B站顶流知识区"
+ },
+ {
+  "name": "郭德纲",
+  "en": "Guo Degang",
+  "field": "creator",
+  "why": "德云社、相声互联网传播"
+ },
+ {
+  "name": "饺子",
+  "en": "Jiaozi (Yang Yu)",
+  "field": "creator",
+  "why": "《哪吒》系列、中国动画影史票房"
+ },
+ {
+  "name": "琼瑶",
+  "en": "Chiung Yao",
+  "field": "creator",
+  "why": "言情宗师、2024年离世"
+ },
+ {
+  "name": "高晓松",
+  "en": "Gao Xiaosong",
+  "field": "media",
+  "why": "《晓说》、互联网脱口秀开创者"
+ },
+ {
+  "name": "柴静",
+  "en": "Chai Jing",
+  "field": "media",
+  "why": "《看见》、《穹顶之下》"
+ },
+ {
+  "name": "易中天",
+  "en": "Yi Zhongtian",
+  "field": "media",
+  "why": "《品三国》、学术网红鼻祖"
+ },
+ {
+  "name": "冯小刚",
+  "en": "Feng Xiaogang",
+  "field": "media",
+  "why": "贺岁片开创者、微博时代争议"
+ },
+ {
+  "name": "高锟",
+  "en": "Charles Kao",
+  "field": "science",
+  "why": "光纤之父、互联网物理基座、诺贝尔奖"
+ },
+ {
+  "name": "南仁东",
+  "en": "Nan Rendong",
+  "field": "science",
+  "why": "FAST天眼总工程师"
+ },
+ {
+  "name": "黄旭华",
+  "en": "Huang Xuhua",
+  "field": "science",
+  "why": "核潜艇之父、2025年离世"
+ }
+]

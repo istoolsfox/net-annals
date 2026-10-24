@@ -1,0 +1,62 @@
+[
+ {
+  "name": "大疆创新",
+  "type": "company",
+  "why": "全球无人机霸主"
+ },
+ {
+  "name": "中国移动",
+  "type": "infrastructure",
+  "why": "全球用户最大运营商、移动梦网母体"
+ },
+ {
+  "name": "中国联通",
+  "type": "infrastructure",
+  "why": "CDMA、混改、5G共建"
+ },
+ {
+  "name": "米哈游",
+  "type": "game",
+  "why": "原神、二次元全球化"
+ },
+ {
+  "name": "瑞星",
+  "type": "company",
+  "why": "小狮子、杀毒软件时代"
+ },
+ {
+  "name": "OpenAI",
+  "type": "company",
+  "why": "ChatGPT、AGI竞赛、宫斗"
+ },
+ {
+  "name": "英伟达",
+  "type": "company",
+  "why": "显卡→AI霸主、市值之王"
+ },
+ {
+  "name": "苹果公司",
+  "type": "company",
+  "why": "乔布斯回归、iPhone、3万亿美元"
+ },
+ {
+  "name": "微软",
+  "type": "company",
+  "why": "Windows霸权、纳德拉云转型AI豪赌"
+ },
+ {
+  "name": "特斯拉",
+  "type": "company",
+  "why": "电动车革命、上海超级工厂"
+ },
+ {
+  "name": "Instagram",
+  "type": "community",
+  "why": "图片社交、被脸书十亿收购"
+ },
+ {
+  "name": "Telegram",
+  "type": "service",
+  "why": "加密通讯、中文圈避难所"
+ }
+]

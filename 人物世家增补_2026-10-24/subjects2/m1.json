@@ -1,0 +1,62 @@
+[
+ {
+  "name": "新东方",
+  "type": "company",
+  "why": "留学教父、双减转型东方甄选"
+ },
+ {
+  "name": "爱奇艺",
+  "type": "media",
+  "why": "百度系长视频"
+ },
+ {
+  "name": "优酷",
+  "type": "media",
+  "why": "与土豆合并、阿里收购"
+ },
+ {
+  "name": "暴风影音",
+  "type": "media",
+  "why": "冯鑫、暴风集团神话与崩塌"
+ },
+ {
+  "name": "快播",
+  "type": "media",
+  "why": "王欣、技术无罪辩论、涉黄案"
+ },
+ {
+  "name": "射手网",
+  "type": "community",
+  "why": "字幕站文化、版权关停"
+ },
+ {
+  "name": "UC浏览器",
+  "type": "service",
+  "why": "移动浏览器之王、阿里收购"
+ },
+ {
+  "name": "锤子科技",
+  "type": "company",
+  "why": "罗永浩、情怀手机、直播还债"
+ },
+ {
+  "name": "魅族",
+  "type": "company",
+  "why": "黄章、MP3转手机、珠海小厂"
+ },
+ {
+  "name": "联想集团",
+  "type": "company",
+  "why": "贸工技之争、IBM PC并购"
+ },
+ {
+  "name": "华为",
+  "type": "company",
+  "why": "通信设备→手机→鸿蒙制裁突围"
+ },
+ {
+  "name": "中兴通讯",
+  "type": "company",
+  "why": "2018制裁事件标志"
+ }
+]

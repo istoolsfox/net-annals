@@ -1,0 +1,86 @@
+[
+ {
+  "name": "杰弗里·辛顿",
+  "en": "Geoffrey Hinton",
+  "field": "ai",
+  "why": "深度学习之父、2024诺贝尔物理学奖"
+ },
+ {
+  "name": "杨立昆",
+  "en": "Yann LeCun",
+  "field": "ai",
+  "why": "CNN之父、图灵奖、Meta首席AI科学家"
+ },
+ {
+  "name": "伊利亚·苏茨克维",
+  "en": "Ilya Sutskever",
+  "field": "ai",
+  "why": "OpenAI联合创始人、SSI"
+ },
+ {
+  "name": "李开复",
+  "en": "Kai-Fu Lee",
+  "field": "ai",
+  "why": "微软谷歌华人高管、创新工场、零一万物"
+ },
+ {
+  "name": "王小川",
+  "en": "Wang Xiaochuan",
+  "field": "ai",
+  "why": "搜狗输入法缔造者、百川智能"
+ },
+ {
+  "name": "陈天桥",
+  "en": "Chen Tianqiao",
+  "field": "internet",
+  "why": "盛大网络《传奇》首富、脑科学研究"
+ },
+ {
+  "name": "李国庆",
+  "en": "Li Guoqing",
+  "field": "internet",
+  "why": "当当网联合创始人、抢公章事件"
+ },
+ {
+  "name": "古永锵",
+  "en": "Victor Koo",
+  "field": "internet",
+  "why": "优酷创始人、合一集团"
+ },
+ {
+  "name": "姚劲波",
+  "en": "Yao Jinbo",
+  "field": "internet",
+  "why": "58同城创始人"
+ },
+ {
+  "name": "张旭豪",
+  "en": "Zhang Xuhao",
+  "field": "internet",
+  "why": "饿了么创始人、交棒阿里"
+ },
+ {
+  "name": "宿华",
+  "en": "Su Hua",
+  "field": "internet",
+  "why": "快手联合创始人、短视频算法"
+ },
+ {
+  "name": "陈睿",
+  "en": "Chen Rui",
+  "field": "internet",
+  "why": "B站董事长、二次元社区商业化"
+ },
+ {
+  "name": "周源",
+  "en": "Zhou Yuan",
+  "field": "internet",
+  "why": "知乎创始人"
+ },
+ {
+  "name": "唐岩",
+  "en": "Tang Yan",
+  "field": "internet",
+  "why": "陌陌创始人"
+ }
+]

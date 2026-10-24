@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="作品志：影视、文学、音乐、游戏——陪伴中文互联网一代人的创作物，它们的诞生、反响与精神遗产。">
+<link rel="canonical" href="https://toolsfox.cn/works/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="作品志 · 影视文学音乐游戏 — 互联网编年史">
+<meta property="og:description" content="那些陪伴大众精神生活的创作物——它们的诞生、反响与经典化，全部可溯源。">
+<meta property="og:url" content="https://toolsfox.cn/works/">
+<meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<title>作品志 · 影视文学音乐游戏 — 互联网编年史</title>
+<link rel="stylesheet" href="../style.css?v=18">
+<script>
+(function () {
+  var t = localStorage.getItem('na-theme');
+  if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
+<style>
+.worksPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
+.wTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
+.wTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
+.wTop a:hover{color:var(--text)}
+.wHero{padding:30px 0 26px;border-bottom:1px solid var(--line)}
+.wHero h1{font-family:var(--serif);font-weight:700;font-size:clamp(2rem,5vw,3.2rem);margin:0 0 12px;color:var(--text)}
+.wHero h1 em{font-style:normal;color:var(--accent)}
+.wHero p{color:var(--dim);max-width:640px;margin:0;line-height:1.8}
+.wBar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
+.wBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
+.wBar .chip.on{border-color:var(--accent);color:var(--accent)}
+#wq{margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px}
+.wGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:24px 0}
+.wCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s}
+.wCard:hover{border-color:var(--accent)}
+.wCard h3{margin:0 0 4px;font-size:1.1rem;color:var(--text);font-family:var(--serif)}
+.wCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
+.wCard .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.wCard .hl{color:var(--accent);font-size:.8rem;margin:2px 0 10px}
+.wCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0}
+.wCard .meta{margin-top:12px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
+.pMask.show{display:block}
+.pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
+  background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;
+  transition:right .25s ease}
+.pDetail.show{right:0}
+.pDetail h2{font-family:var(--serif);font-size:1.7rem;color:var(--text);margin:0 0 4px}
+.pDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
+.pDetail .close:hover{color:var(--text)}
+.pDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px}
+.pDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
+.pDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:28px 0 14px;text-transform:uppercase}
+.tl{border-left:2px solid var(--line2);margin-left:6px;padding-left:20px}
+.tlItem{position:relative;padding-bottom:18px}
+.tlItem::before{content:'';position:absolute;left:-25px;top:6px;width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.tlItem .td{font-family:var(--mono);font-size:.72rem;color:var(--accent)}
+.tlItem .tx{color:var(--text);font-size:.9rem;line-height:1.75;margin-top:2px}
+.quoteBox{border-left:3px solid var(--accent);padding:10px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px;font-family:var(--serif)}
+.srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
+.srcList a{color:var(--accent);text-decoration:none}
+.srcList a:hover{text-decoration:underline}
+@media (max-width:640px){.pDetail{padding:24px 20px 50px}#wq{min-width:140px}}
+</style>
+</head>
+<body>
+<div class="worksPage">
+  <div class="wTop"><a href="../">← 返回互联网编年史</a><span><a href="../today/">今天 →</a>&nbsp;&nbsp;<a href="../geo/">地域日志 →</a></span></div>
+  <div class="wHero">
+    <h1>作品<em>志</em></h1>
+    <p id="heroSub">影视、文学、音乐、游戏——那些陪伴大众精神生活的创作物。它们的诞生、反响与经典化，全部可溯源。</p>
+  </div>
+  <div class="wBar">
+    <button class="chip on" data-f="all" id="allBtn">全部</button>
+    <span id="typeChips" style="display:contents"></span>
+    <input id="wq" placeholder="搜索作品 / 主创…" autocomplete="off">
+  </div>
+  <div class="wGrid" id="grid"></div>
+</div>
+<div class="pMask" id="mask"></div>
+<div class="pDetail" id="detail"></div>
+
+<script>
+'use strict';
+const TYPES = {film:'电影', tv:'剧集', book:'图书', netnovel:'网络文学', music:'音乐', game:'游戏', comic:'动画漫画', documentary:'纪录片', variety:'综艺'};
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const $ = s => document.querySelector(s);
+let DATA = null, curFilter = 'all', curQuery = '';
+const DATA_BUILD = '20261024a';
+
+async function fetchGz(url) {
+  if (typeof DecompressionStream !== 'undefined') {
+    try {
+      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
+      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+    } catch (e) { /* 回退 */ }
+  }
+  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
+}
+
+function card(w) {
+  const d = document.createElement('div');
+  d.className = 'wCard';
+  d.dataset.type = w.type;
+  d.innerHTML = `<div class="row"><h3>${esc(w.title)}${w.en_title ? `<span class="en">${esc(w.en_title)}</span>` : ''}</h3></div>
+    <div class="hl">${esc(w.headline)}</div>
+    <p class="sm">${esc(w.summary_30s.slice(0, 110))}${w.summary_30s.length > 110 ? '…' : ''}</p>
+    <div class="meta">${String(w.released).slice(0, 4)} · ${TYPES[w.type] || w.type} · ${w.timeline.length} 个节点</div>`;
+  d.onclick = () => openDetail(w);
+  return d;
+}
+
+function openDetail(w) {
+  const tl = w.timeline.map(t =>
+    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
+  const quotes = (w.quotes || []).length
+    ? `<h4>经典回响</h4>${w.quotes.map(q => `<div class="quoteBox">${esc(q)}</div>`).join('')}` : '';
+  const src = w.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const yr = String(w.released).slice(0, 4);
+  $('#detail').innerHTML = `<button class="close">✕</button>
+    <h2>${esc(w.title)}${w.en_title ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${esc(w.en_title)}</span>` : ''}</h2>
+    <div class="sub">${esc(w.headline)} · ${TYPES[w.type] || w.type} · ${yr} · ${esc(w.creators || '')}</div>
+    <p class="smFull">${esc(w.bio || w.summary_30s)}</p>
+    <h4>作品生命线</h4><div class="tl">${tl}</div>
+    ${quotes}
+    <h4>现状与遗产</h4><div class="quoteBox">${esc(w.legacy)}</div>
+    <h4>来源</h4><ul class="srcList">${src}</ul>`;
+  $('#detail').classList.add('show');
+  $('#mask').classList.add('show');
+  document.body.style.overflow = 'hidden';
+  $('#detail').querySelector('.close').onclick = closeDetail;
+}
+function closeDetail() {
+  $('#detail').classList.remove('show');
+  $('#mask').classList.remove('show');
+  document.body.style.overflow = '';
+}
+$('#mask').onclick = closeDetail;
+addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+
+let qt;
+function render() {
+  const grid = $('#grid');
+  grid.innerHTML = '';
+  const q = curQuery.trim().toLowerCase();
+  let shown = 0;
+  for (const w of DATA.works) {
+    if (curFilter !== 'all' && w.type !== curFilter) continue;
+    if (q) {
+      const hay = (w.title + (w.en_title || '') + (w.creators || '') + w.headline + (w.tags || []).join('')).toLowerCase();
+      if (!hay.includes(q)) continue;
+    }
+    grid.appendChild(card(w));
+    shown++;
+  }
+  if (!shown) grid.innerHTML = '<div class="wCard" style="cursor:default">没有匹配的作品——换个关键词试试</div>';
+}
+
+(async () => {
+  try {
+    DATA = await fetchGz('data.json');
+    const bar = $('#typeChips');
+    const present = [...new Set(DATA.works.map(w => w.type))];
+    for (const f of present) {
+      const n = DATA.works.filter(w => w.type === f).length;
+      const b = document.createElement('button');
+      b.className = 'chip'; b.dataset.f = f;
+      b.textContent = `${TYPES[f] || f} ${n}`;
+      b.onclick = () => {
+        curFilter = f;
+        bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
+        $('#allBtn').classList.toggle('on', curFilter === 'all');
+        render();
+      };
+      bar.appendChild(b);
+    }
+    $('#allBtn').onclick = () => {
+      curFilter = 'all';
+      document.querySelectorAll('.wBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
+      render();
+    };
+    $('#wq').addEventListener('input', e => {
+      clearTimeout(qt);
+      qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
+    });
+    $('#heroSub').textContent = `${DATA.works.length} 部作品已收录——影视、文学、音乐、游戏与动画综艺，它们的诞生、反响与经典化，全部可溯源。`;
+    render();
+    const want = new URLSearchParams(location.search).get('w');
+    if (want) {
+      const w = DATA.works.find(x => x.id === want);
+      if (w) openDetail(w);
+    }
+  } catch (e) {
+    $('#grid').innerHTML = `<div class="wCard">数据加载失败（${e.message}）</div>`;
+  }
+})();
+</script>
+</body>
+</html>

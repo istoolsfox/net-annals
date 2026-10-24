@@ -1,0 +1,86 @@
+[
+ {
+  "name": "陈士骏",
+  "en": "Steve Chen",
+  "field": "internet",
+  "why": "YouTube联合创始人（华裔）"
+ },
+ {
+  "name": "戴威",
+  "en": "Dai Wei",
+  "field": "internet",
+  "why": "ofo创始人、共享单车大溃败核心人物"
+ },
+ {
+  "name": "汪滔",
+  "en": "Frank Wang",
+  "field": "hardware",
+  "why": "大疆创新、全球消费级无人机霸主"
+ },
+ {
+  "name": "梁孟松",
+  "en": "Liang Mong-song",
+  "field": "hardware",
+  "why": "台积电/三星制程传奇、中芯国际"
+ },
+ {
+  "name": "杨元庆",
+  "en": "Yang Yuanqing",
+  "field": "hardware",
+  "why": "联想集团董事长、并购IBM PC"
+ },
+ {
+  "name": "孙正义",
+  "en": "Masayoshi Son",
+  "field": "finance",
+  "why": "软银、阿里巴巴早期最大投资人"
+ },
+ {
+  "name": "徐新",
+  "en": "Kathy Xu",
+  "field": "finance",
+  "why": "今日资本、京东/网易早期投资人"
+ },
+ {
+  "name": "熊晓鸽",
+  "en": "Hugo Xiong",
+  "field": "finance",
+  "why": "IDG资本、中国风投开创者"
+ },
+ {
+  "name": "余承东",
+  "en": "Richard Yu",
+  "field": "company",
+  "why": "华为消费者业务、Mate崛起"
+ },
+ {
+  "name": "周受资",
+  "en": "Shou Zi Chew",
+  "field": "company",
+  "why": "小米CFO出身、TikTok CEO美国听证会"
+ },
+ {
+  "name": "薇娅",
+  "en": "Viya Huang",
+  "field": "internet",
+  "why": "直播带货一姐、税务事件标志性人物"
+ },
+ {
+  "name": "张大奕",
+  "en": "Zhang Dayi",
+  "field": "internet",
+  "why": "网红电商鼻祖如涵"
+ },
+ {
+  "name": "陈欧",
+  "en": "Chen Ou",
+  "field": "internet",
+  "why": "聚美优品、为自己代言"
+ },
+ {
+  "name": "王思聪",
+  "en": "Wang Sicong",
+  "field": "internet",
+  "why": "IG电竞、熊猫TV、网络文化焦点"
+ }
+]

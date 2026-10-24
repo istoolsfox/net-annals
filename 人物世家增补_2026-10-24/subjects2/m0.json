@@ -1,0 +1,62 @@
+[
+ {
+  "name": "拼多多",
+  "type": "company",
+  "why": "社交电商裂变、砍一刀文化"
+ },
+ {
+  "name": "小红书",
+  "type": "community",
+  "why": "种草社区、生活方式搜索入口"
+ },
+ {
+  "name": "微博",
+  "type": "media",
+  "why": "新浪微博、热点舆论广场"
+ },
+ {
+  "name": "奇虎360",
+  "type": "company",
+  "why": "免费杀毒颠覆、3Q大战主角"
+ },
+ {
+  "name": "支付宝",
+  "type": "service",
+  "why": "从淘宝担保交易到国民支付"
+ },
+ {
+  "name": "微信",
+  "type": "service",
+  "why": "张小龙、国民应用、公众号小程序生态"
+ },
+ {
+  "name": "钉钉",
+  "type": "service",
+  "why": "阿里企业社交、疫情在线办公"
+ },
+ {
+  "name": "飞信",
+  "type": "service",
+  "why": "中国移动、运营商IM兴衰"
+ },
+ {
+  "name": "米聊",
+  "type": "service",
+  "why": "小米、与微信的生死竞速"
+ },
+ {
+  "name": "饿了么",
+  "type": "service",
+  "why": "张旭豪、外卖大战"
+ },
+ {
+  "name": "大众点评",
+  "type": "community",
+  "why": "UGC点评鼻祖、与美团合并"
+ },
+ {
+  "name": "12306",
+  "type": "infrastructure",
+  "why": "春运抢票、世界最大票务系统"
+ }
+]
