@@ -1,0 +1,756 @@
+[
+ {
+  "id": "2013-01-01-wojiia-mt-mobile-game",
+  "date": "2013-01-01",
+  "title": "《我叫MT》上线：卡牌手游引爆智能手机游戏",
+  "summary_30s": "2013年初，卓越游戏《我叫MT online》上线，魔兽梗加卡牌收集玩法令其长期霸榜，月流水迅速破千万，拉开了2013中国手游爆发元年的大幕。",
+  "detail": "游戏改编自动画《我叫MT》，角色、副本与技能全盘魔兽化，卡牌养成加自动战斗降低了操作门槛。上线数月登顶iOS收入榜，安卓版由各渠道争抢首发，渠道分成五五开的行业惯例由此固化。同期的《找你妹》《百万亚瑟王》共同把手机游戏从功能机残留印象拉入大生意时代。",
+  "impact": "证明手机可以是核心游戏平台，端游厂商、页游团队与草台班子全面涌入，手游创业与投资热浪掀起。",
+  "aftermath": "2013年中国手游市场收入翻倍突破百亿元；我叫MT系列后续推出续作与动画大电影，IP模式延续至今。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "我叫MT - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/我叫MT"
+   },
+   {
+    "title": "App Store",
+    "url": "https://apps.apple.com/"
+   }
+  ],
+  "tags": [
+   "手游",
+   "卡牌",
+   "我叫MT"
+  ]
+ },
+ {
+  "id": "2013-01-01-chunyun-ticket-plugin-war",
+  "date": "2013-01-01",
+  "title": "春运抢票插件大战：猎豹360围攻12306",
+  "summary_30s": "2013年春运，猎豹浏览器抢票版、360抢票王等工具刷屏登场，以毫秒级自动刷新绕开12306的人工点击，媒体争论技术插队是否公平，主管部门最终约谈叫停。",
+  "detail": "抢票插件自动填验证码、轮询余票并自动下单，装机量数日破千万。媒体质疑其对不会用软件的农民工形成数字鸿沟式的挤兑，12306压力骤增。1月下旬工信部表态并约谈相关企业，纯自动抢票功能被要求收敛，此后抢票转入半自动化与企业灰色服务。",
+  "impact": "第一次把算法公平问题推上公共议程；12306随后升级防自动化机制，技术攻防成为春运固定戏码。",
+  "aftermath": "2015年12306推出图形验证码重创外挂，候补购票功能2019年上线后第三方抢票工具空间大幅收窄。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国铁路客户服务中心",
+    "url": "https://www.12306.cn/"
+   },
+   {
+    "title": "猎豹浏览器",
+    "url": "https://www.liebao.cn/"
+   }
+  ],
+  "tags": [
+   "春运",
+   "抢票插件",
+   "12306"
+  ]
+ },
+ {
+  "id": "2013-01-10-alibaba-25-units-reorg",
+  "date": "2013-01-10",
+  "title": "阿里巴巴拆分为25个事业群：赛马机制实验",
+  "summary_30s": "2013年1月10日，马云以内部信宣布把阿里巴巴集团拆分为25个业务单元，原七大事业群打散，以小单位赛马应对无线化与整体上市前的组织再造。",
+  "detail": "新架构不再设事业部层级，25个事业群直接向集团战略决策委员会汇报，命名从共享、天猫、阿里云到淘宝无线一应俱全。马云称改变是为了明天而非今天，陆兆禧与彭蕾分掌新设的两个委员会。此拆分被视为阿里为集团整体上市理顺内部赛马与数据中台的前奏。",
+  "impact": "确立阿里小前台大中台思想的雏形，内部竞争机制催生菜鸟、来往、淘点点等一批新业务。",
+  "aftermath": "2013年9月阿里成立网络通讯事业部押注来往对抗微信失利；2015年阿里推行中台战略，2018年又拆为大中台小前台的反向调整。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "阿里巴巴集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团"
+   },
+   {
+    "title": "马云 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/马云"
+   }
+  ],
+  "tags": [
+   "阿里巴巴",
+   "组织架构",
+   "马云"
+  ]
+ },
+ {
+  "id": "2013-01-15-wechat-300m-users",
+  "date": "2013-01-15",
+  "title": "微信用户突破3亿：国民应用的临界点",
+  "summary_30s": "2013年1月15日，腾讯宣布微信注册用户突破3亿。上线仅两年，微信完成从聊天工具到国民级平台的跃迁，社交、媒体、支付的多线扩张箭在弦上。",
+  "detail": "此时微信朋友圈已运营半年，公众平台成为媒体与自媒体标配入口，语音聊天与摇一摇深入三四线城市。马化腾在两会场合多次为微信站台，微信商业化与运营商关系（信令占用与收费争论）成为当年最大行业话题之一。",
+  "impact": "移动互联网入口之争大局已定，中国互联网权力结构从BAT三强演变为腾讯微信一张王牌在手的新格局。",
+  "aftermath": "2013年8月微信5.0上线支付与游戏，2014年春节红包一夜绑卡数千万，微信完成从社交到商业生态的惊险一跃。",
+  "category": "internet",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "微信",
+   "用户规模",
+   "国民应用"
+  ]
+ },
+ {
+  "id": "2013-01-18-i-am-a-singer-debut",
+  "date": "2013-01-18",
+  "title": "《我是歌手》首播：实力唱将与全民竞猜",
+  "summary_30s": "2013年1月18日，湖南卫视《我是歌手》首播，职业歌手同台竞演、观众听审团现场决定的赛制刷新综艺认知，羽泉、黄绮珊等翻唱霸榜，微博讨论量创纪录。",
+  "detail": "节目引进韩国版权，七个职业歌手按轮次竞演淘汰，直播竞猜与贴吧押注成为每周末的社交仪式。4月总决赛以全国近3%的收视率收官，羽泉夺冠，湖南卫视广告招标随之水涨船高。",
+  "impact": "开启音乐竞演综艺长周期，歌手翻唱单曲的数字销量与彩铃业务回暖，综艺节目的社交媒体运营成为标配。",
+  "aftermath": "我是歌手连办多季并孵化邓紫棋等爆款歌手；2017年更名为歌手，音乐综艺自此成为长青赛道。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "我是歌手 (第一季) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/我是歌手_(第一季)"
+   },
+   {
+    "title": "湖南卫视",
+    "url": "https://www.hunantv.com/"
+   }
+  ],
+  "tags": [
+   "我是歌手",
+   "综艺",
+   "湖南卫视"
+  ]
+ },
+ {
+  "id": "2013-01-24-vine-launch",
+  "date": "2013-01-24",
+  "title": "Vine上线：六秒短视频开启循环时代",
+  "summary_30s": "2013年1月24日，推特旗下Vine以六秒循环短视频App上线，迅速登顶App Store免费榜，短、循环、无暂停的创作语法为十年后的短视频浪潮写下最早的规则。",
+  "detail": "Vine由三名创业者开发，上线前夕被推特收购。用户只能拍摄连续六秒视频并自动循环，限制催生了神级运镜与喜剧节奏，Viners明星迅速崛起。 Instagram次年加入15秒视频， Vine的先发优势被蚕食。",
+  "impact": "确立移动短视频的内容形态与创作美学，孵化第一批短视频网红，为TikTok时代提供了人才与语法储备。",
+  "aftermath": "Vine因变现困难于2016年关闭，明星集体迁往YouTube与Instagram；其创始团队后来参与开发Hyperspace等新项目。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Vine (service) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vine_(service)"
+   },
+   {
+    "title": "Twitter",
+    "url": "https://twitter.com/"
+   }
+  ],
+  "tags": [
+   "Vine",
+   "短视频",
+   "推特"
+  ]
+ },
+ {
+  "id": "2013-01-30-blackberry-10-launch",
+  "date": "2013-01-30",
+  "title": "黑莓10发布：键盘帝国的最后反击",
+  "summary_30s": "2013年1月30日，黑莓在纽约发布BlackBerry 10系统与Z10、Q10两款新机，手势流操作惊艳一时，但应用荒与迟到的三年已让这场反击注定悲壮。",
+  "detail": "BB10的重启卡片式多任务与Hub统一收件箱获媒体好评，公司更名黑莓并砸重金请明星代言。但iPhone与安卓已瓜分市场，BB10设备销量惨淡，一年后黑莓寻求出售未果，2015年起转向安卓机型，2016年彻底放弃自研系统并授权品牌。",
+  "impact": "成为功能机巨头转型失败的又一注脚，企业级安全基因此后转型为软件与服务生意。",
+  "aftermath": "黑莓现为车企软件供应商，QNX座舱系统装载量过亿；实体键盘手机成为一代人的怀旧符号。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "BlackBerry 10 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/BlackBerry_10"
+   },
+   {
+    "title": "BlackBerry - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/BlackBerry"
+   }
+  ],
+  "tags": [
+   "黑莓",
+   "操作系统",
+   "转型失败"
+  ]
+ },
+ {
+  "id": "2013-02-01-china-smartphone-no1",
+  "date": "2013-02-01",
+  "title": "IDC：中国智能手机出货量首超美国成全球第一",
+  "summary_30s": "2013年初IDC数据确认，2012年中国智能手机出货量约2.13亿部，首次超过美国跃居全球第一大市场，中华酷联与小米的千元机攻势是最大推手。",
+  "detail": "2012年中国智能机出货同比增长逾一倍，三星领跑、联想中兴华为酷派紧随，小米719万部位居前十。运营商千元智能机补贴把智能机推向县乡市场，全球产业链重心开始向中国倾斜。",
+  "impact": "中国从制造基地升级为定义需求的市场，高通、联发科、富士康们的中国权重进一步加重，国产手机黄金十年开跑。",
+  "aftermath": "2014至2016年小米、华为相继登顶中国区出货第一，中国市场占全球智能机出货近三分之一。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "IDC China quarterly mobile phone tracker",
+    "url": "https://www.idc.com/"
+   },
+   {
+    "title": "中国信息通信研究院",
+    "url": "https://www.caict.ac.cn/"
+   }
+  ],
+  "tags": [
+   "智能手机",
+   "IDC",
+   "中国市场"
+  ]
+ },
+ {
+  "id": "2013-02-10-journey-to-west-box-office",
+  "date": "2013-02-10",
+  "title": "《西游降魔篇》：春节档12.46亿改写影史",
+  "summary_30s": "2013年2月10日大年初一，周星驰《西游降魔篇》上映，最终票房12.46亿元刷新当时华语片纪录，春节档首次超越贺岁档成为中国电影第一档期。",
+  "detail": "影片在情人节与春节双节叠加下连破单日纪录，光棍节档、贺岁档的传统格局被改写。片方与视频网站的版权联动、电商购票平台的折扣铺票成为宣发标配，IMAX与3D票价上探。",
+  "impact": "确立春节档的统治地位，中国电影市场进入连续多年30%以上增速的黄金期。",
+  "aftermath": "2015年春节档《澳门风云2》《天将雄师》集体爆发，2017年《美人鱼》33.9亿再创纪录；春节档至今仍是年度第一档期。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "西游降魔篇 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/西游降魔篇"
+   },
+   {
+    "title": "猫眼专业版",
+    "url": "https://www.maoyan.com/"
+   }
+  ],
+  "tags": [
+   "春节档",
+   "周星驰",
+   "票房"
+  ]
+ },
+ {
+  "id": "2013-02-20-suning-cloud-commerce",
+  "date": "2013-02-20",
+  "title": "苏宁更名云商：传统零售的自我革命",
+  "summary_30s": "2013年2月19日，苏宁电器更名为苏宁云商，提出店商加电商加零售服务商的云商模式，传统家电连锁巨头全面转身，线上线下同价的豪赌开启。",
+  "detail": "张近东宣布苏宁要做中国的沃尔玛加亚马逊，随后关闭部分门店、全面改造旗舰店为云店，推出线上线下同价策略。执行层面组织阵痛剧烈，2013年公司净利大幅下滑，资本市场用脚投票又逐渐回心转意。",
+  "impact": "成为传统零售转型互联网的标志性样本，国美、大中、银泰等随后跟进全渠道改造。",
+  "aftermath": "2015年苏宁与阿里互相入股，云店模式迭代为苏宁易购广场与零售云；张近东时代在2021年股权危机中落幕。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "苏宁易购 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/苏宁易购"
+   },
+   {
+    "title": "苏宁控股集团",
+    "url": "https://www.suning.cn/"
+   }
+  ],
+  "tags": [
+   "苏宁",
+   "零售转型",
+   "O2O"
+  ]
+ },
+ {
+  "id": "2013-02-20-ps4-revealed",
+  "date": "2013-02-20",
+  "title": "PS4纽约亮相：索尼预热下一代主机大战",
+  "summary_30s": "2013年2月20日，索尼在纽约举行PlayStation Meeting首次公开PS4：X86架构、8GB内存与社交分享优先的设计哲学，主机却未现身，引发全场错愕与热议。",
+  "detail": "PS4放弃Cell架构改用AMD x86 APU，大幅降低开发门槛，强调游戏视频一键分享与远程游玩。发布会只展示手柄DualShock 4与实机演示，未公布主机外观与售价，被调侃为纸面发布。微软三个月后以 DRM 风波应对失当，把这场大战的先手拱手相送。",
+  "impact": "x86化与社交化定义了本世代主机设计，第三方开发回流，索尼自此开启PS4的全球霸权。",
+  "aftermath": "PS4于当年11月15日北美首发，全球销量最终破1.17亿台，成为索尼史上最成功主机之一。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "PlayStation 4 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/PlayStation_4"
+   },
+   {
+    "title": "PlayStation",
+    "url": "https://www.playstation.com/"
+   }
+  ],
+  "tags": [
+   "索尼",
+   "PS4",
+   "游戏主机"
+  ]
+ },
+ {
+  "id": "2013-03-01-zhihu-open-registration",
+  "date": "2013-03-01",
+  "title": "知乎开放注册：中国式问答社区扩容",
+  "summary_30s": "2013年3月，知乎向公众全面开放注册，注册用户一年内从40万飙升至400万，专业知识、亲历故事与抖机灵并存的中文问答生态正式成型。",
+  "detail": "知乎2011年上线时采用邀请制，李开复、张亮等首批用户奠定认真回答的社区调性。开放后用户结构迅速多元，从互联网圈话题扩展到情感、法律、医学与段子，抖机灵与干货的拉锯成为社区永恒争论。张佳玮、马前卒等草根答主崛起。",
+  "impact": "为中文互联网提供了长内容与专业叙事的公共空间，成为此后舆论热点的人才与金句策源地。",
+  "aftermath": "知乎2017年用户破亿，2019年启动视频化，2021年纽交所上市；从邀请制小众社区到大众平台的代价与收获持续引发讨论。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "知乎 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/知乎"
+   },
+   {
+    "title": "知乎",
+    "url": "https://www.zhihu.com/"
+   }
+  ],
+  "tags": [
+   "知乎",
+   "问答社区",
+   "开放注册"
+  ]
+ },
+ {
+  "id": "2013-03-01-baozou-big-event-debut",
+  "date": "2013-03-01",
+  "title": "《暴走大事件》开播：网络吐槽新闻的鼻祖",
+  "summary_30s": "2013年3月，王尼玛主持的《暴走大事件》上线，头套主播加时事吐槽的恶搞新闻形态爆红网络，把二次元话语带入公共表达，成为一代年轻人的网络启蒙节目。",
+  "detail": "节目由暴走漫画出品，以王尼玛头套形象播报并吐槽一周热点，犀利段子与社会观察并存，全网播放量长期破亿。英文担当唐马儒、张全蛋等衍生角色相继走红，张全蛋流水线验货的梗成为经典。",
+  "impact": "开创中文互联网脱口秀吐槽新闻的范式，为papi酱式的个人短视频表达铺路。",
+  "aftermath": "2018年节目因内容调整停更，暴走漫画经历阵痛转型；王尼玛形象与教科书式吐槽仍留存在网络记忆中。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "暴走大事件 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/暴走大事件"
+   },
+   {
+    "title": "暴走漫画",
+    "url": "https://www.baozou.com/"
+   }
+  ],
+  "tags": [
+   "暴走漫画",
+   "网络综艺",
+   "吐槽"
+  ]
+ },
+ {
+  "id": "2013-03-14-galaxy-s4-launch",
+  "date": "2013-03-14",
+  "title": "Galaxy S4纽约发布：体感与眼球追踪的军备秀",
+  "summary_30s": "2013年3月14日，三星在纽约无线电城音乐厅发布Galaxy S4，悬浮触控、眼球翻页与手势操作堆料到极致，营销声势登峰造极，也埋下创新疲劳的伏笔。",
+  "detail": "发布会以百老汇式情景剧呈现，S4搭载5英寸1080P Super AMOLED屏、双四核与1300万像素，智能滚动、智能暂停等花式交互引发两极评价。上市首月销量破千万，三星当年全球份额达巅峰的三分之一。",
+  "impact": "三星在高端与苹果、在中端与国产的双线作战格局成型；参数内卷开始让位于体验叙事。",
+  "aftermath": "2014年S5遇冷成为三星由盛转衰的转折，2015年S6以金属玻璃重整旗鼓，但中国市场此后被华为步步紧逼。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Samsung Galaxy S4 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S4"
+   },
+   {
+    "title": "Samsung",
+    "url": "https://www.samsung.com/"
+   }
+  ],
+  "tags": [
+   "三星",
+   "Galaxy S4",
+   "旗舰机"
+  ]
+ },
+ {
+  "id": "2013-03-28-3q-lawsuit-first-verdict",
+  "date": "2013-03-28",
+  "title": "3Q大战一审宣判：奇虎360诉腾讯垄断败诉",
+  "summary_30s": "2013年3月28日，广东高院对奇虎360诉腾讯滥用市场支配地位案一审宣判，360败诉并赔偿500万元。这场源于2010年二选一惨案的诉讼，把中国互联网竞争规则之争搬上法庭。",
+  "detail": "360主张腾讯在即时通讯市场滥用支配地位捆绑QQ管家，法院认定相关市场界定不足、腾讯不具垄断地位。360上诉后，最高人民法院2014年10月终审维持原判，但判决书对相关市场与支配地位的说理成为反垄断法经典教科书。",
+  "impact": "为中国平台经济的反垄断司法提供了首个标杆案例，开放与封闭、创新与捆绑的行业讨论持续发酵。",
+  "aftermath": "2021年平台经济强监管时代，3Q案被反复重新解读；当年的被告与原告都已是万亿市值级巨头。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "奇虎360诉腾讯垄断案 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇虎360诉腾讯案"
+   },
+   {
+    "title": "腾讯 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/腾讯"
+   }
+  ],
+  "tags": [
+   "3Q大战",
+   "反垄断",
+   "诉讼"
+  ]
+ },
+ {
+  "id": "2013-03-30-jd-com-rebrand",
+  "date": "2013-03-30",
+  "title": "京东换标JD.com：域名与品牌的成人礼",
+  "summary_30s": "2013年3月30日，京东商城启用JD.COM域名并更名京东，去掉商城二字，从3C网上卖场升格为全品类零售品牌，为次年上市完成形象切换。",
+  "detail": "原域名360buy.com被吐槽难记且易与360混淆，京东斥资数百万美元购入JD.com。新logo以金属狗Joy取代太空猴，官网、App、快递面单全面换新。刘强东称京东二字今后代表一种零售基础设施的抱负。",
+  "impact": "域名资产与品牌资产的商业价值被重估，中概公司品牌简化（新浪微博改微博、去啊改名）成为风潮。",
+  "aftermath": "京东2014年3月与腾讯联姻、5月纳斯达克上市；JD.com如今位列《财富》世界500强中国前几名。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "京东 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/京东"
+   },
+   {
+    "title": "京东官网",
+    "url": "https://www.jd.com/"
+   }
+  ],
+  "tags": [
+   "京东",
+   "品牌",
+   "域名"
+  ]
+ },
+ {
+  "id": "2013-04-01-wechat-fee-controversy",
+  "date": "2013-04-01",
+  "title": "微信收费风波：运营商与腾讯的流量博弈",
+  "summary_30s": "2013年春，微信占用信令、是否该向运营商付费收费的争论席卷两会与财报电话会，中移动与腾讯隔空交锋，最终以工信部部长苗圩一句微信收费不会有定论收场。",
+  "detail": "微信语音挤占短信彩信收入，运营商称OTT业务白吃流量，要求向腾讯收费或双向收费的呼声高涨；腾讯以云端优化与信令压缩回应。3月31日苗圩表态微信不会收费，4月风向渐平。此役让全行业看清OTT与管道的权力边界。",
+  "impact": "奠定此后十年OTT业务零接入费的监管默认；运营商加速向流量经营与后向收费转型。",
+  "aftermath": "微信与运营商随后合作推出定向流量包，联通微信卡、移动融合套餐成为常态；微信电话本2014年再现波澜但波澜不惊。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   },
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "微信收费",
+   "运营商",
+   "OTT"
+  ]
+ },
+ {
+  "id": "2013-04-01-kuaidi-alipay-integration",
+  "date": "2013-04-01",
+  "title": "快的接入支付宝：打车软件进入支付时代",
+  "summary_30s": "2013年上半年，快的打车全面接入支付宝扫码付款，乘客免现金、司机免找零，移动支付第一次大规模落到日常出行场景，为次年补贴大战装好弹药。",
+  "detail": "支付宝与快的合作推出扫码支付，随后快的又成首批支持微信支付的应用之一。支付宝借打车场景教育用户线下扫码，同期在便利店、出租车与自动售货机全面铺二维码地推，二维码支付从此走出电商。",
+  "impact": "打车成为移动支付最有效的线下获客场景之一，支付入口与出行工具的绑定关系就此确立。",
+  "aftermath": "2014年腾讯阿里各携微信支付、支付宝发起打车补贴战，一个月烧掉十几亿元，双双收获千万级绑卡用户。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "快的打车 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/快的打车"
+   },
+   {
+    "title": "支付宝",
+    "url": "https://www.alipay.com/"
+   }
+  ],
+  "tags": [
+   "快的打车",
+   "支付宝",
+   "移动支付"
+  ]
+ },
+ {
+  "id": "2013-04-12-i-am-a-singer-finale",
+  "date": "2013-04-12",
+  "title": "《我是歌手》总决赛：羽泉夺冠的直播夜",
+  "summary_30s": "2013年4月12日晚，《我是歌手》第一季总决赛落幕，羽泉组合夺冠，全国网收视率破3，直播竞演加微博竞猜把周五晚变成全民事件，湖南卫视广告插口价码再创新高。",
+  "detail": "决赛之夜帮唱嘉宾邓超助阵羽泉引爆话题，彭佳慧、林志炫虽败犹荣。微博相关话题阅读量数亿，帮唱嘉宾之夜的观众听审团现场投票与微博竞猜联动，把综艺直播运营推进到社交全案时代，此后每逢决赛夜服务器承压成为常态。",
+  "impact": "证明优质内容加社交发酵可以再造电视黄金档，广告主把综艺冠名费推向亿元时代。",
+  "aftermath": "歌手第二季引入张杰、邓紫棋等延续热度；2017年直播弹幕与粉丝应援成为音乐综艺标配。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "我是歌手 (第一季) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/我是歌手_(第一季)"
+   },
+   {
+    "title": "湖南卫视",
+    "url": "https://www.hunantv.com/"
+   }
+  ],
+  "tags": [
+   "我是歌手",
+   "综艺直播",
+   "收视率"
+  ]
+ },
+ {
+  "id": "2013-05-01-crazy-guess-pic-viral",
+  "date": "2013-05-01",
+  "title": "《疯狂猜图》爆红：朋友圈裂变的第一个爆款",
+  "summary_30s": "2013年5月，豪腾嘉科的《疯狂猜图》借微信朋友圈求答案的裂变设计爆红，上线数日用户破千万，把社交分享即增长的打法刻进每一款国产手游的基因。",
+  "detail": "玩家卡关后一键分享图到朋友圈求助，蓝色马头、蒙娜丽莎式的题目形成社交货币，App Store免费榜登顶。开发团队随后推出《疯狂猜歌》延续热度，验证了微信社交链的流量威力。",
+  "impact": "确立移动游戏的社交裂变发行范式，朋友圈成为游戏分发第二战场，开启社交流量红利时代。",
+  "aftermath": "此后围住神经猫、faceu、拼多多把这一打法推向一个又一个高峰；裂变增长成为互联网运营的显学。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "疯狂猜图 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   }
+  ],
+  "tags": [
+   "疯狂猜图",
+   "社交裂变",
+   "手游"
+  ]
+ },
+ {
+  "id": "2013-05-07-iqiyi-acquires-pps",
+  "date": "2013-05-07",
+  "title": "爱奇艺3.7亿美元收购PPS：视频业第二桩大合并",
+  "summary_30s": "2013年5月7日，百度旗下爱奇艺宣布以3.7亿美元收购PPS影音，网页端长视频加客户端直播的组合对标优酷土豆，视频行业从群雄混战走向巨头整合。",
+  "detail": "PPS以P2P直播与体育内容见长，装机量过亿；并购后爱奇艺整合其客户端与直播技术，2013年11月联手江苏卫视直播跨年演唱会试水台网联动。百度以搜索加视频的双引擎对抗阿里腾讯的文娱布局。",
+  "impact": "视频网站自此进入拼爹时代，背靠巨头的版权采购与自制内容军备竞赛全面升级，独立视频站失去生存空间。",
+  "aftermath": "爱奇艺2018年纳斯达克上市，2022年靠爆款剧集与降本增效实现首次全年盈利；PPS品牌逐步淡出。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "爱奇艺 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/爱奇艺"
+   },
+   {
+    "title": "百度",
+    "url": "https://www.baidu.com/"
+   }
+  ],
+  "tags": [
+   "爱奇艺",
+   "PPS",
+   "视频行业"
+  ]
+ },
+ {
+  "id": "2013-05-07-letv-super-tv-launch",
+  "date": "2013-05-07",
+  "title": "乐视超级电视发布：互联网公司造电视第一枪",
+  "summary_30s": "2013年5月7日，乐视发布60英寸X60超级电视，售价6999元远低于同级外资，硬件贴近成本靠内容会员赚钱的平台打法震动彩电业，比小米电视早了四个月。",
+  "detail": "贾跃亭提出平台加内容加终端加应用的生态构想，X60与39英寸S40以价格屠夫姿态入场，随后联想、爱奇艺、小米、微鲸相继跟进互联网电视。乐视电视巅峰期年销量数百万台，成为乐视生态故事的核心资产。",
+  "impact": "把彩电业拖入互联网定价体系，面板供应链与会员模式重构，传统厂商被迫推子品牌迎战。",
+  "aftermath": "2016年乐视资金链断裂，超级电视业务几经易主残存至今；它教育的会员付费习惯则由小米、华为等收割。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "乐视网 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/乐视网"
+   },
+   {
+    "title": "贾跃亭 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/贾跃亭"
+   }
+  ],
+  "tags": [
+   "乐视",
+   "智能电视",
+   "贾跃亭"
+  ]
+ },
+ {
+  "id": "2013-05-08-tesla-first-profit",
+  "date": "2013-05-08",
+  "title": "特斯拉首次季度盈利：电动车信仰的资本确认",
+  "summary_30s": "2013年5月8日，特斯拉公布2013年一季度财报，Model S交付超4750台并实现1120万美元净利润，十年首度盈利，股价年内上涨数倍，电动车叙事彻底翻身。",
+  "detail": "马斯克在财报中给出全年出货2.1万台指引，还款进展与Model X计划同步披露。华尔街空头在逼空中溃败，特斯拉市值一度破百亿美元。中国首批门店同年落户北京侨福芳草地，土豪订车排队成为社会新闻。",
+  "impact": "全球汽车业与资本市场重新定价电动车，传统车企加速电动化立项，中国新造车运动的思想前置条件就此具备。",
+  "aftermath": "2020年特斯拉市值超丰田登顶全球车企，蔚来、理想、小鹏等中国追随者先后上市成军。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Tesla, Inc. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+   },
+   {
+    "title": "Tesla",
+    "url": "https://www.tesla.com/"
+   }
+  ],
+  "tags": [
+   "特斯拉",
+   "电动车",
+   "财报"
+  ]
+ },
+ {
+  "id": "2013-05-10-taobao-10th-anniversary",
+  "date": "2013-05-10",
+  "title": "淘宝十周年晚会：马云卸任CEO把酒交给陆兆禧",
+  "summary_30s": "2013年5月10日，淘宝十周年晚会在杭州黄龙体育场举行，马云以一身铆钉皮衣高歌卸任集团CEO，陆兆禧接棒；十万观众与千万直播观众见证中国电商黄金十年的成人礼。",
+  "detail": "马云演讲称48岁以后不再干涉具体业务，要回去做喜欢的事。晚会宣布淘宝系当年日均交易额过百亿，无线化被定为阿里未来十年最重要战略。此后马云先后卸任阿里董事局主席（2019年），但影响力长存。",
+  "impact": "中国第一代互联网创始人的权力交接仪式进入公众视野，阿里合伙人制度浮出水面。",
+  "aftermath": "陆兆禧任内押注来往失利，2015年张勇接任CEO，带领阿里完成移动化与上市后新零售转型。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "阿里巴巴集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团"
+   },
+   {
+    "title": "马云 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/马云"
+   }
+  ],
+  "tags": [
+   "淘宝十周年",
+   "马云",
+   "权力交接"
+  ]
+ },
+ {
+  "id": "2013-05-15-google-io-2013-hangouts",
+  "date": "2013-05-15",
+  "title": "谷歌I/O 2013：Hangouts登场与全平台订阅",
+  "summary_30s": "2013年5月15日谷歌I/O大会发布统一通讯服务Hangouts、All Access音乐订阅与三星版S4谷歌版，拉里·佩奇的开放互联网主题演讲成为经典，订阅制内容时代加速到来。",
+  "detail": "Hangouts整合Talk、Messenger与视频会议；All Access以9.99美元月费对标Spotify；Google Play游戏服务与地图、搜索的跨平台更新密集发布。佩奇压轴脱稿谈技术乐观主义，那句总是担心现状还能更好的开场被广泛传播。",
+  "impact": "谷歌完成从单点应用到全家桶生态的整合，安卓生态的统一通讯与内容付费基建就位。",
+  "aftermath": "Hangouts后被拆分沉寂，2020年代由Chat接棒；All Access演化为YouTube Music，订阅制成为谷歌收入第二增长曲线。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Google I/O - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Google_I/O"
+   },
+   {
+    "title": "Google",
+    "url": "https://about.google/"
+   }
+  ],
+  "tags": [
+   "谷歌I/O",
+   "Hangouts",
+   "订阅制"
+  ]
+ },
+ {
+  "id": "2013-05-19-yahoo-buys-tumblr",
+  "date": "2013-05-19",
+  "title": "雅虎11亿美元收购Tumblr：梅耶尔的豪赌",
+  "summary_30s": "2013年5月19日，雅虎宣布以11亿美元现金收购轻博客Tumblr，梅耶尔赌年轻用户与原生广告能救回这家没落门户，被媒体视为雅虎复兴计划的押注之作。",
+  "detail": "Tumblr当时月活约3亿、博客量逾亿，但营收几乎为零。梅耶尔与创始人卡普击掌约定不会搞砸，保留团队独立运营。雅虎随后在财报中对其计提减值，广告融合始终未能奏效，核心用户渐次流失。",
+  "impact": "标志门户时代巨头试图靠收购年轻社区续命的路线；也给创始人卡普带来少年成名的光环与枷锁。",
+  "aftermath": "Tumblr 2017年并入Verizon系，2018年内容清场政策引发大迁徙，2019年以300万美元贱卖AutoCity，跌幅超过99%。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Yahoo! - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!"
+   },
+   {
+    "title": "Tumblr - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tumblr"
+   }
+  ],
+  "tags": [
+   "雅虎",
+   "Tumblr",
+   "并购"
+  ]
+ }
+]

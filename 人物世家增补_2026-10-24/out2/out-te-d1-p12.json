@@ -1,0 +1,698 @@
+[
+ {
+  "id": "2015-09-01-mimeng-official-account",
+  "date": "2015-09-01",
+  "title": "咪蒙公众号开写：情绪爆款文的黄金时代前奏",
+  "summary_30s": "2015年9月，前南方系编辑咪蒙注册微信公众号，10月起以我贱故我在、致贱人等情绪浓烈的爆文连续刷屏，三个月涨粉百万，把公众号写作带进球百万阅读的时代。",
+  "detail": "咪蒙以女性视角、职场怨气与金句体直击情绪痛点，篇篇10万+成为广告主追逐的顶级流量，头条报价迅速涨至数十万元。其成功引发无数模仿者，也让内容行业开始正视情绪流量与价值观争议的共生关系。",
+  "impact": "确立情绪驱动、金句化、标题党的爆款方法论，公众号商业价值天花板被推到新高。",
+  "aftermath": "2019年咪蒙因虚构与导向问题全网封号；其方法论遗产在短视频文案与小红书种草中延续。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "咪蒙 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/咪蒙"
+   },
+   {
+    "title": "微信公众平台",
+    "url": "https://mp.weixin.qq.com/"
+   }
+  ],
+  "tags": [
+   "咪蒙",
+   "公众号",
+   "自媒体"
+  ]
+ },
+ {
+  "id": "2015-09-09-didi-rebrand",
+  "date": "2015-09-09",
+  "title": "滴滴更名滴滴出行：从打车软件到出行平台",
+  "summary_30s": "2015年9月9日，滴滴打车宣布品牌升级为滴滴出行，新Logo与一站式平台定位亮相，产品线覆盖出租车、专车、快车、顺风车、代驾与巴士，中国最大的移动出行平台完成成人礼。",
+  "detail": "更名发布会同期推出体验版新App与英文版，程维提出建设中国人领导的全球最大一站式出行平台的目标。合并快的后的滴滴当年完成30亿美元融资，订单量超过Uber全球总和，成为行业隐形冠军。",
+  "impact": "确立出行平台从单一工具到多业务矩阵的演进路径，网约车成为城市基础设施级服务。",
+  "aftermath": "2016年收购Uber中国、2017年估值560亿美元；2018年顺风车安全事件后进入整改与合规深水区。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "滴滴出行 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/滴滴出行"
+   },
+   {
+    "title": "滴滴出行官网",
+    "url": "https://www.didiglobal.com/"
+   }
+  ],
+  "tags": [
+   "滴滴出行",
+   "品牌升级",
+   "网约车"
+  ]
+ },
+ {
+  "id": "2015-09-09-ipad-pro-announced",
+  "date": "2015-09-09",
+  "title": "苹果发布iPad Pro与Apple Pencil：平板的生产力宣言",
+  "summary_30s": "2015年9月9日苹果发布会上，12.9英寸iPad Pro与Apple Pencil、智能键盘登场，A9X芯片性能比肩笔记本，库克亲披智能键盘演绎桌面级操作，平板向生产力工具转型的路线图就此摊开。",
+  "detail": "同场还发布新Apple TV与iPhone 6s。iPad Pro定价599美元起，瞄准创意与办公场景，微软与Adobe高管登台演示。初期软件适配有限，销量平淡，但大屏加笔的形态在2018年后逐渐成为专业用户的选择。",
+  "impact": "开启平板生产力叙事的长期竞争，安卓与鸿蒙阵营随后全面跟进大屏加手写笔方案。",
+  "aftermath": "2021年M1版iPad Pro性能登顶，2024年iPad Pro转OLED；Apple Pencil成为创意人群标配外设。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IPad Pro - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IPad_Pro"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "iPad Pro",
+   "Apple Pencil",
+   "生产力"
+  ]
+ },
+ {
+  "id": "2015-09-10-super-mario-maker",
+  "date": "2015-09-10",
+  "title": "《超级马力欧制造》发售：人人都是关卡设计师",
+  "summary_30s": "2015年9月10日，任天堂在Wii U平台发售《超级马力欧制造》，玩家用触笔拖拽即可自制马力欧关卡并分享全球，马造由此成为UGC游戏设计的教科书，社区智慧被推到前所未有的高度。",
+  "detail": "游戏内置四代马力欧美术风格与全套机关，上线数月玩家自制关卡数千万，自动马力欧神关视频在YouTube与B站疯传。任天堂借马造首次系统拥抱玩家创作，其分享与审核机制为后来马造2及UGC平台设计提供范本。",
+  "impact": "证明经典IP加UGC工具可以再造长青内容生态，游戏创作门槛被工具革命大幅降低。",
+  "aftermath": "2019年《超级马力欧制造2》登陆Switch，全球玩家累计上传关卡超两千万，涌现无数民间设计大师。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Super Mario Maker - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Super_Mario_Maker"
+   },
+   {
+    "title": "任天堂",
+    "url": "https://www.nintendo.com/"
+   }
+  ],
+  "tags": [
+   "超级马力欧制造",
+   "任天堂",
+   "UGC"
+  ]
+ },
+ {
+  "id": "2015-09-15-psvr-named",
+  "date": "2015-09-15",
+  "title": "Project Morpheus定名PlayStation VR：主机VR压轴亮相",
+  "summary_30s": "2015年9月15日东京电玩展前，索尼宣布Morpheus计划正式定名PlayStation VR，并公布2016年上半年发售窗口，主机系VR三强（Oculus、Vive、PSVR）的发布节奏全部就位。",
+  "detail": "索尼同步演示《伦敦大劫案》等专属游戏，强调100Hz低延迟屏与体感手柄配合。PSVR 2016年10月上市，以399美元与PS4存量装机优势成为当年销量最大的VR头显，首年出货近百万台。",
+  "impact": "VR内容第一次获得主机级大厂的第一方游戏支持，主机游戏开发管线接入VR生态。",
+  "aftermath": "2023年PSVR2发售，眼动追踪与HDR OLED升级；但VR行业整体仍在等待真正的杀手级应用。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "PlayStation VR - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/PlayStation_VR"
+   },
+   {
+    "title": "PlayStation",
+    "url": "https://www.playstation.com/"
+   }
+  ],
+  "tags": [
+   "PSVR",
+   "索尼",
+   "虚拟现实"
+  ]
+ },
+ {
+  "id": "2015-09-18-xcodeghost-malware",
+  "date": "2015-09-18",
+  "title": "XcodeGhost事件：App Store史上最大规模染毒",
+  "summary_30s": "2015年9月18日，安全公司披露大量中国主流App被XcodeGhost病毒感染，微信、网易云音乐、滴滴等数千款应用中招，原因是开发者下载了被污染的Xcode编译器，苹果商店安全性神话首次被撼动。",
+  "detail": "黑客把植入后门的Xcode上传国内网盘并SEO诱导下载，编译出的App会在启动时回传设备信息并可弹窗。苹果随后下架清洗，网信办约谈相关企业，推动开发者全面转向官方渠道下载与校验签名。事件被称为非典型供应链攻击的中国样本。",
+  "impact": "软件供应链安全成为国内行业共识，企业开始建立构建环境与源管理的安全基线。",
+  "aftermath": "2020年SolarWinds、2021年Log4j事件把供应链攻击推向全球中心；XcodeGhost成为必引的早期案例。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "XcodeGhost - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/XcodeGhost"
+   },
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   }
+  ],
+  "tags": [
+   "XcodeGhost",
+   "供应链安全",
+   "苹果"
+  ]
+ },
+ {
+  "id": "2015-09-19-nirvana-in-fire-premiere",
+  "date": "2015-09-19",
+  "title": "《琅琊榜》开播：口碑剧与自来水时代的巅峰",
+  "summary_30s": "2015年9月19日，胡歌主演的《琅琊榜》开播，孔笙执导的严谨制作与梅长苏的权谋复仇引发全网自来水安利，豆瓣9.4分成为国产剧标杆，慢热剧靠口碑逆袭的传播模型就此立起。",
+  "detail": "该剧改编自海宴同名小说，正午阳光制作，服化道、构图与礼节考据被逐帧称道，麒麟才子的复仇线带动弹幕考据热。微博知乎长文分析刷屏，豆瓣评分从8.8爬到9.4，海外流媒体同步发行，成为国剧出海代表作。",
+  "impact": "确立正午阳光品质剧厂牌地位，国产剧自此进入口碑与流量并重的新评价体系，慢热剧也有了逆袭通道。",
+  "aftermath": "正午阳光此后接连奉出《欢乐颂》《大江大河》《山海情》；琅琊榜成为N刷剧与学界研究文本。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "琅琊榜 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/琅琊榜_(电视剧)"
+   },
+   {
+    "title": "正午阳光",
+    "url": "https://www.doremimedia.com.cn/"
+   }
+  ],
+  "tags": [
+   "琅琊榜",
+   "正午阳光",
+   "口碑剧"
+  ]
+ },
+ {
+  "id": "2015-09-23-yeliangchen-meme",
+  "date": "2015-09-23",
+  "title": "叶良辰走红：QQ聊天记录的魔幻现实主义",
+  "summary_30s": "2015年9月，一段重庆中学生宿舍的QQ聊天截图流出，叶良辰以良辰不介意奉陪到底的中二宣言一夜爆红，造句接龙与表情包狂欢持续数周，成为年度最魔幻的网络人物之一。",
+  "detail": "聊天记录中我叫叶良辰、良辰必有重谢、你若感觉有实力跟我玩等句式被全网玩坏，叶良辰本人随后开微博接广告、上综艺节目，名利来得快去得也快。同期还有龙傲天、赵日天构成网络中二宇宙。",
+  "impact": "成为素人被网络流量随机选中的经典标本，中二文学与表情包文化的合成品。",
+  "aftermath": "叶良辰热潮数月即退；其后靠各种聊天记录走红的素人不断，流量造神与反噬的周期越来越短。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "叶良辰 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "网络流行语 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网络语言"
+   }
+  ],
+  "tags": [
+   "叶良辰",
+   "网络流行语",
+   "表情包"
+  ]
+ },
+ {
+  "id": "2015-10-10-rideshare-regulation-draft",
+  "date": "2015-10-10",
+  "title": "网约车新规征求意见：专车合法化的大门开启",
+  "summary_30s": "2015年10月10日，交通运输部公布《网络预约出租汽车经营服务管理暂行办法（征求意见稿）》，首次给网约车定性定轨，平台、车辆、司机的准入框架公开征询，专车大战进入规则博弈阶段。",
+  "detail": "征求意见稿对车辆性质变更营运、驾驶员考试、数量调控等提出方案，Uber、滴滴、易到罕见联名提出修改建议，学界围绕动态供给与巡游车改革激辩。2016年7月办法正式出台，网约车合法地位确立，各城市细则随后落地。",
+  "impact": "共享经济首次获得国家层面立法确认，出租车行业改革与平台治理进入法制轨道。",
+  "aftermath": "2016年后京沪等地细则对户籍车籍设限，行业进入合规化长跑；2021年新业态劳动者权益保障再补一环。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "交通运输部",
+    "url": "https://www.mot.gov.cn/"
+   },
+   {
+    "title": "网络预约出租汽车经营服务管理暂行办法 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "网约车新政",
+   "征求意见",
+   "共享经济"
+  ]
+ },
+ {
+  "id": "2015-10-19-first-innovation-week",
+  "date": "2015-10-19",
+  "title": "首届全国双创活动周：创业创新的国家级仪式",
+  "summary_30s": "2015年10月19日，首届全国大众创业万众创新活动周在北京中关村开幕，国务院领导出席启动仪式，全国八城联动，创客市集、机器人与3D打印成为全民展览，双创从政策词变成文化现象。",
+  "detail": "活动周期间中关村创业大街人满为患，众创空间数量当年增长逾倍，天使投资案例数创纪录。双创周此后每年举办，2018年主会场移至成都等城市，创业培训、科技成果转化与科创板建设串联成完整政策链条。",
+  "impact": "把创新叙事推向社会共识，大学生创业率与专利申请量进入长期上升通道。",
+  "aftermath": "2019年科创板开板、2021年北交所设立，双创的制度成果沉淀为资本市场基础设施。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "全国大众创业万众创新活动周 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "发展改革委",
+    "url": "https://www.ndrc.gov.cn/"
+   }
+  ],
+  "tags": [
+   "双创周",
+   "中关村",
+   "创业创新"
+  ]
+ },
+ {
+  "id": "2015-10-21-youtube-red-launch",
+  "date": "2015-10-21",
+  "title": "YouTube Red上线：广告之王的付费转身",
+  "summary_30s": "2015年10月21日，谷歌推出9.99美元的YouTube Red订阅服务，免广告、离线下载与原创剧集打包，把全球最大视频网站的免费模式撕开一道付费口子，创作者分成模式随之重构。",
+  "detail": "Red Originals请来PewDiePie等头部创作者拍剧，订阅收入按观看时长分成。2018年该服务更名为YouTube Premium，音乐流媒体YouTube Music同步独立。付费会员与广告双轨制从此成为视频平台标配策略。",
+  "impact": "标志全球视频内容从纯广告经济转向订阅混合经济，头部创作者的商业天花板抬高。",
+  "aftermath": "2020年代YouTube Premium订户超一亿；国内B站大会员、爱奇艺会员等同一逻辑先后落地。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "YouTube Premium - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/YouTube_Premium"
+   },
+   {
+    "title": "YouTube",
+    "url": "https://www.youtube.com/"
+   }
+  ],
+  "tags": [
+   "YouTube Red",
+   "订阅制",
+   "视频平台"
+  ]
+ },
+ {
+  "id": "2015-10-31-lol-s5-skt-champion",
+  "date": "2015-10-31",
+  "title": "LOL S5总决赛：SKT柏林加冕，Faker二冠封神",
+  "summary_30s": "2015年10月31日，《英雄联盟》S5全球总决赛在柏林梅赛德斯奔驰体育馆落幕，SKT 3比1击败KOO Tigers夺冠，Faker成为史上首位两夺S赛冠军选手，中国战队再次八强止步引发大反思。",
+  "detail": "SKT全年近乎无敌，Marin获决赛MVP。LPL的LGD、IG小组出局引发选手待遇、教练体系与青训的大讨论，行业转向规范化运营。全球决赛观看人数峰值破3600万，电竞观赛纪录再被改写。",
+  "impact": "确立LCK的统治与LPL的追赶叙事，中国电竞职业化改革与资本投入再加码。",
+  "aftermath": "2018年iG夺冠圆梦、2019年FPX续写，LPL登顶世界之巅；Faker此后三冠加身成电竞图腾。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2015 League of Legends World Championship - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_League_of_Legends_World_Championship"
+   },
+   {
+    "title": "英雄联盟电竞",
+    "url": "https://lolesports.com/"
+   }
+  ],
+  "tags": [
+   "英雄联盟",
+   "S5",
+   "Faker"
+  ]
+ },
+ {
+  "id": "2015-11-01-express-realname",
+  "date": "2015-11-01",
+  "title": "快递实名制实施：一个包裹一张身份证",
+  "summary_30s": "2015年11月1日起，全国实施快递实名收寄与寄递渠道安全管理，寄件人须出示身份证、包裹过机安检，电商快递大国在安全与效率之间开始长期磨合。",
+  "detail": "中央综治委等15部门联合发文推进实名收寄信息化，随后安易递等公共平台上线，隐私面单同步推广。行业初期担忧效率与用户抵触，实名验视逐渐成为快递员日常流程，X光机配备率同步提升。",
+  "impact": "寄递渠道安全责任体系成型，快递员当面验视成为行业流程，为2018年《快递暂行条例》与智能快递柜规范铺路。",
+  "aftermath": "2018年《快递暂行条例》施行，实名制与隐私保护在 App 一键下单中平衡落地。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家邮政局",
+    "url": "https://www.spb.gov.cn/"
+   },
+   {
+    "title": "中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "快递实名制",
+   "物流安全",
+   "邮政"
+  ]
+ },
+ {
+  "id": "2015-11-01-criminal-law-amendment-9-cyber",
+  "date": "2015-11-01",
+  "title": "刑法修正案（九）施行：网络造谣传谣最高可判七年",
+  "summary_30s": "2015年11月1日施行的刑法修正案（九）把编造、故意传播虚假信息入刑，网络造谣传谣最高面临七年有期徒刑，网络服务商拒不履行信息安全管理义务也被入罪，网络空间刑事治理完成关键补强。",
+  "detail": "修正案将虚假险情、疫情、灾情、警情信息的传播纳入刑责，增设拒不履行信息网络安全管理义务罪等罪名。此后编外挂、造谣灾情、水军产业链相继出现判例，平台与个人在内容治理上的法律责任清晰化。",
+  "impact": "网络言论的法律红线由司法解释升级为刑法条文，震慑力与适用面同步扩大。",
+  "aftermath": "2017年网安法、2021年相关法规进一步构成全链条治理；年度谣言治理报告成为常态发布。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中华人民共和国刑法修正案（九） - 中国人大网",
+    "url": "https://www.npc.gov.cn/"
+   },
+   {
+    "title": "最高人民法院",
+    "url": "https://www.court.gov.cn/"
+   }
+  ],
+  "tags": [
+   "刑法修正案九",
+   "网络谣言",
+   "司法"
+  ]
+ },
+ {
+  "id": "2015-11-10-first-double11-gala",
+  "date": "2015-11-10",
+  "title": "首届双11晚会：购物节办成全民综艺",
+  "summary_30s": "2015年11月10日晚，阿里联合湖南卫视打造首届双11狂欢夜，冯小刚任总导演，明星阵容堪比春晚，边看边买的双屏互动把消费主义与综艺娱乐焊在一起，次年双11总成交912亿元。",
+  "detail": "晚会期间用户摇一摇领红包、明星口令优惠券实时导流，广告招商额超当年多数省级卫视跨年。双11晚会此后连办多年，2018年迁至上海由东方卫视承制，成为消费节庆内容化的固定形态，京东、拼多多亦跟进晚会与演唱会玩法。",
+  "impact": "把促销节点升级为全民文化事件，电商营销进入大内容时代，电视内容与电商交易的双向导流就此打通。",
+  "aftermath": "进入2020年代双11战线拉长至一个月，晚会声量明显回落，直播间成为新的注意力与成交中心。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2015天猫双11狂欢夜 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "双11晚会",
+   "天猫",
+   "电商营销"
+  ]
+ },
+ {
+  "id": "2015-11-20-gear-vr-consumer-launch",
+  "date": "2015-11-20",
+  "title": "Gear VR消费者版上市：99美元把VR带进客厅",
+  "summary_30s": "2015年11月20日，三星与Oculus合作的Gear VR消费者版以99美元上市，手机驱动的移动VR第一次面向大众开卖，百元价位让无数人第一次体验虚拟现实。",
+  "detail": "Gear VR插入三星旗舰手机即可使用，依托Oculus商店提供游戏与视频内容，上市首月即售出数十万台。体验仍受限于手机散热与眩晕问题，但Facebook据此确认移动VR路线，为Oculus Go、Quest的迭代积累用户与内容。",
+  "impact": "完成VR的大众市场第一课，百元价位成为消费电子新品类冷启动的参照。",
+  "aftermath": "2018年Oculus Go接棒，2019年Quest一体机引爆行业；手机盒子类产品则被市场淘汰。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Samsung Gear VR - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Gear_VR"
+   },
+   {
+    "title": "Oculus",
+    "url": "https://www.oculus.com/"
+   }
+  ],
+  "tags": [
+   "Gear VR",
+   "移动VR",
+   "三星"
+  ]
+ },
+ {
+  "id": "2015-11-26-honor-of-kings-open-beta",
+  "date": "2015-11-26",
+  "title": "《王者荣耀》公测：国民手游的起点",
+  "summary_30s": "2015年11月26日，腾讯天美工作室的《王者荣耀》开启公测，这款由英雄战迹改名的5V5公平对战手游将在两年内席卷全国，成为注册用户数以亿计、日活过亿的国民级游戏。",
+  "detail": "游戏在2015年7月以英雄战迹之名3V3内测反响平平，回炉改为5V5对称地图并更名后一飞冲天。公测不到一个月最高同时在线破百万，2016年DAU破2500万，2017年DAU过5000万，女性玩家占比近半，社会影响与防沉迷争议同步升温。",
+  "impact": "把MOBA品类移植到移动端成功，定义了此后十年中国移动电竞与社交游戏的基本盘，腾讯手游霸权就此奠定。",
+  "aftermath": "王者荣耀此后长青八年，KPL职业联赛与亚运会金牌加身，成为全球最赚钱的手游之一。",
+  "category": "culture",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "王者荣耀11月26日正式公测 - 腾讯官方公告",
+    "url": "https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24094/m15241/201511/404574.shtml"
+   },
+   {
+    "title": "王者荣耀 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/王者荣耀"
+   }
+  ],
+  "tags": [
+   "王者荣耀",
+   "手游",
+   "腾讯"
+  ]
+ },
+ {
+  "id": "2015-12-04-mainly-look-temperament",
+  "date": "2015-12-04",
+  "title": "主要看气质：一夜刷屏的悬赏自拍",
+  "summary_30s": "2015年12月4日，一位歌手发专辑的微博配图带火主要看气质，网民接力转发晒照并打赏，一周内话题阅读量过亿，成为年底最后一个现象级网络流行语。",
+  "detail": "句式源自台湾歌手王心凌新专辑宣传照的调侃，网友以气质体接龙晒图，打赏与转发机制让梗自我增殖。主流媒体随后盘点年度网络用语，气质体与Duang、吓死宝宝了等并列入选。",
+  "impact": "展示社交平台小成本造梗的随机性与爆发力，年度流行语的传播学样本再添一例。",
+  "aftermath": "气质体热度两周即退；此后网络流行语的更替周期进一步缩短，短视频平台开始接管造梗机器。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "主要看气质 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "网络流行语 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网络语言"
+   }
+  ],
+  "tags": [
+   "主要看气质",
+   "网络流行语",
+   "刷屏"
+  ]
+ },
+ {
+  "id": "2015-12-04-china-box-office-40b",
+  "date": "2015-12-04",
+  "title": "中国电影年票房首破400亿：在线票务改写产业",
+  "summary_30s": "2015年12月初，中国电影年度票房突破400亿元，同比增长近五成，其中在线购票占比超七成，猫眼、微票儿与淘宝电影把购票、选座、营销全面数字化，电影产业的渠道权力易主。",
+  "detail": "《捉妖记》24.4亿、《速度与激情7》24.3亿、《夏洛特烦恼》黑马14.4亿构成年度景观。票补大战让9块9电影票遍及全国，观影人次首破12亿，三四线城市银幕数激增，国产片份额超六成。",
+  "impact": "在线票务平台成为发行与宣发的中枢，票补退潮后行业进入内容质量主导的新阶段。",
+  "aftermath": "2017年票房破500亿、2019年642亿；2020年疫情后中国一度成为全球第一大票房市场。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家电影局 - 中国电影数据信息网",
+    "url": "https://www.zgdypw.cn/"
+   },
+   {
+    "title": "猫眼专业版",
+    "url": "https://www.maoyan.com/"
+   }
+  ],
+  "tags": [
+   "电影票房",
+   "在线票务",
+   "文化消费"
+  ]
+ },
+ {
+  "id": "2015-12-16-2nd-wic-wuzhen",
+  "date": "2015-12-16",
+  "title": "第二届世界互联网大会：习近平出席并发表主旨演讲",
+  "summary_30s": "2015年12月16日，第二届世界互联网大会在乌镇开幕，习近平出席并发表主旨演讲，提出尊重网络主权等全球互联网治理四项原则与五点主张，2000多名中外嘉宾齐聚江南水乡。",
+  "detail": "大会主题为互联互通、共享共治，构建网络空间命运共同体，设10个分论坛涵盖网络安全、数字经济与互联网文化。大会期间展示百度无人车、诺基亚车联网与5G应用，乌镇成为互联网中国的年度窗口。",
+  "impact": "网络空间命运共同体理念成为中国的全球互联网治理主张名片，乌镇峰会机制化为年度主场外交。",
+  "aftermath": "世界互联网大会此后每年在乌镇举办，2019年发布概念文件、2022年设国际组织，中国主张的能见度持续提升。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "第二届世界互联网大会 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "世界互联网大会",
+    "url": "https://www.wicinternet.org/"
+   }
+  ],
+  "tags": [
+   "世界互联网大会",
+   "乌镇",
+   "网络空间治理"
+  ]
+ },
+ {
+  "id": "2015-12-18-yirendai-ipo",
+  "date": "2015-12-18",
+  "title": "宜人贷纽交所上市：P2P第一股的末班荣光",
+  "summary_30s": "2015年12月18日，宜信旗下宜人贷登陆纽交所，成为中国P2P网贷第一股，上市首日破发，行业寒冬的信号与上市公司光环同时降临，五年后P2P行业整体清零。",
+  "detail": "宜人贷以个人信贷撮合为主业，2015年前三季度营收与利润高增长，发行价10美元。此后监管收紧、行业爆雷潮接踵而至，2019年宜人贷更名宜人金科转型财富管理，2020年11月银保监会宣布P2P平台全部清零。",
+  "impact": "为互联网金融立起资本标杆的同时，也记录下这一业态从巅峰到退场的完整周期。",
+  "aftermath": "宜人金科此后转型保险与财富科技；P2P作为金融业态的历史由e租宝、陆金所与清零政策共同写完。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "宜人贷 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/宜人贷"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "宜人贷",
+   "P2P",
+   "上市"
+  ]
+ },
+ {
+  "id": "2015-12-25-alibaba-invests-eleme",
+  "date": "2015-12-25",
+  "title": "阿里12.5亿美元投资饿了么：外卖终局预演",
+  "summary_30s": "2015年12月25日，阿里巴巴宣布投资饿了么12.5亿美元，占股约27.7%成最大股东，外卖双雄（美团、饿了么）背后的腾讯阿里对峙格局成型，终局之战的弹药就位。",
+  "detail": "饿了么同年8月刚完成6.3亿美元F轮，覆盖城市超300个。阿里入局后口碑外卖与饿了么打通运营，2017年阿里追加10亿美元，2018年4月以95亿美元全资收购，张旭豪团队出局。美团同年被腾讯继续加持，双雄格局固化。",
+  "impact": "把外卖从创业竞争升级为巨头代理人战争，本地生活成为AT对决的主战场之一。",
+  "aftermath": "2020年外卖大战转入社区团购与即时零售，阿里本地生活几经换帅，与美团份额之争延续至今。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "饿了么 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/饿了么"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "饿了么",
+   "阿里巴巴",
+   "外卖大战"
+  ]
+ },
+ {
+  "id": "2015-12-28-p2p-regulation-draft",
+  "date": "2015-12-28",
+  "title": "P2P监管办法征求意见：信息中介定位一锤定音",
+  "summary_30s": "2015年12月28日，银监会会同多部门发布《网络借贷信息中介机构业务活动管理暂行办法（征求意见稿）》，明确P2P平台只能做信息中介、不得设立资金池、不得自融担保，野蛮时代进入倒计时。",
+  "detail": "办法确立备案管理、资金存管、借款限额（个人20万、企业100万）等框架，给出18个月整改期。此后2016年8月正式稿落地，地方金融监管局承担属地主责，限额条款把大量大额标的平台推向转型或清退。",
+  "impact": "为P2P行业立下基本法，合规成本与业务模式重构并行，爆雷潮中的风险处置有了制度依据。",
+  "aftermath": "2018年至2020年行业风险集中出清，监管宣布实际运营P2P平台清零，一批平台转型小贷、助贷与消费金融。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家金融监督管理总局",
+    "url": "https://www.nfra.gov.cn/"
+   },
+   {
+    "title": "网络借贷信息中介机构业务活动管理暂行办法 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "P2P监管",
+   "银监会",
+   "信息中介"
+  ]
+ },
+ {
+  "id": "2015-12-29-smartisan-t2-launch",
+  "date": "2015-12-29",
+  "title": "锤子T2发布：在冬天里讲完的最后一个完整故事",
+  "summary_30s": "2015年12月29日，锤子科技发布T2，无断点金属中框与实体静音键延续偏执设计，罗永浩的演讲依旧一票难求，但供应链危机与资金链传闻已至，T2成为锤子最后一场体面的旗舰发布会。",
+  "detail": "T2由中断点中框工艺惊艳业界，但发布前夕代工厂中天信倒闭，量产堪忧。2016年锤子经历出货低迷、被收购传闻与TNT后来的争议，2018年底危机爆发，2019年字节跳动收购部分团队与专利，罗永浩转身还债。",
+  "impact": "成为中小手机厂商理想主义路线的落幕注脚，设计与供应链的平衡艺术留给行业长考。",
+  "aftermath": "老罗演讲IP与交个朋友直播间延续了锤子的表达传统；工匠精神一词的褒贬起伏亦成时代缩影。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Smartisan T2 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/坚果手机"
+   },
+   {
+    "title": "锤子科技 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/锤子科技"
+   }
+  ],
+  "tags": [
+   "锤子T2",
+   "罗永浩",
+   "国产手机"
+  ]
+ }
+]

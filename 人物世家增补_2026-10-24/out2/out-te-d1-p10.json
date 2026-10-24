@@ -1,0 +1,727 @@
+[
+ {
+  "id": "2015-01-01-dingtalk-launch",
+  "date": "2015-01-01",
+  "title": "钉钉上线：阿里的企业社交逆袭",
+  "summary_30s": "2015年初，阿里巴巴推出企业IM钉钉（DingTalk），以已读回执、DING消息与免费电话切入办公协同，来往失败的阴影下，阿里在企业服务赛道意外找到了对位微信的支点。",
+  "detail": "钉钉由来往团队原班人马转型打造，陈航带队从社交转向效率工具，以中小企业组织在线化为核心，两年内企业组织数破百万，2019年破千万。免费策略加硬件考勤机、智能人事等增值服务，让钉钉2020年疫情期间承担全国在线课堂与办公，日活一度破亿。",
+  "impact": "把中国企业服务软件带入移动时代，IM加OA加低代码的平台模式成型，与腾讯企业微信、飞书三分天下。",
+  "aftermath": "钉钉此后独立事业部分拆，用户数超7亿，成为阿里云生态的流量入口与企业数字化的国民工具。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "钉钉 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/钉钉"
+   },
+   {
+    "title": "钉钉官网",
+    "url": "https://www.dingtalk.com/"
+   }
+  ],
+  "tags": [
+   "钉钉",
+   "企业服务",
+   "办公协同"
+  ]
+ },
+ {
+  "id": "2015-01-01-kaola-launch",
+  "date": "2015-01-01",
+  "title": "网易考拉海购上线：门户巨头的电商第二春",
+  "summary_30s": "2015年初，网易上线跨境电商平台考拉海购，以自营保税仓加妈妈遴选的品质叙事杀入海淘市场，一度做到跨境进口电商第一，成为门户公司做消费品牌的罕见成功案例。",
+  "detail": "丁磊亲自站台选品，考拉以杭州、宁波保税仓自营直采，奶粉、纸尿裤与日化爆品走量。2016至2018年考拉与天猫国际争夺跨境第一，2019年作价20亿美元并入阿里，与天猫国际合并为考拉海购，2021年后战略收缩。",
+  "impact": "证明内容型公司依托品牌信任做电商可行，网易严选、味央猪等消费矩阵随后跟进。",
+  "aftermath": "考拉品牌淡出后，网易电商故事由严选续写；跨境电商市场最终由天猫国际、京东国际与抖音全球购分食。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "网易考拉 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网易考拉"
+   },
+   {
+    "title": "网易",
+    "url": "https://www.163.com/"
+   }
+  ],
+  "tags": [
+   "网易考拉",
+   "跨境电商",
+   "网易"
+  ]
+ },
+ {
+  "id": "2015-01-04-weibank-first-loan",
+  "date": "2015-01-04",
+  "title": "微众银行放出首笔贷款：互联网银行开业第一贷",
+  "summary_30s": "2015年1月4日，李克强总理在深圳前海微众银行敲下电脑回车键，卡车司机徐军获得3.5万元贷款，中国首家民营互联网银行完成第一笔放贷，无网点、纯线上、服务小微的模式就此亮相。",
+  "detail": "微众银行2014年12月获准开业，注册资本30亿元，腾讯为大股东。首笔贷款通过人脸识别与远程核身完成，全程无柜台。微粒贷2015年5月上线手机QQ，以白名单邀请制与联合贷款模式，四年内管理贷款余额破千亿。",
+  "impact": "确立互联网银行的服务范式，普惠金融的长尾人群第一次被数据风控覆盖。",
+  "aftermath": "微众、网商两行成为互联网银行双雄，2020年代合计服务数亿小微与个人客户，联合贷款模式引发监管新规。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "微众银行 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微众银行"
+   },
+   {
+    "title": "中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "微众银行",
+   "互联网银行",
+   "普惠金融"
+  ]
+ },
+ {
+  "id": "2015-01-06-ces-2015-iot-wave",
+  "date": "2015-01-06",
+  "title": "CES 2015：万物互联与可穿戴的全面泛滥",
+  "summary_30s": "2015年1月6日CES开幕，可穿戴、智能家居、4K电视与自动驾驶占满展馆，中国参展商超过四分之一，物物联上网的叙事铺到各行各业，泡沫与机会齐飞。",
+  "detail": "展会发布智能手表、联动家电、联网汽车方案逾千种，英伟达发布Tegra X1，奔驰展示自动驾驶概念车F 015，乐视、海尔、大疆等中国军团大规模参展。媒体总结CES已从消费电子展变成万物互联展。",
+  "impact": "确立物联网与智能硬件为下一平台周期的叙事，中国供应链从幕后走向展台中央。",
+  "aftermath": "多数品类在2016年洗牌，智能音箱与真无线耳机在2017年后成为真正的下一代爆品。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "CES - Consumer Technology Association",
+    "url": "https://www.ces.tech/"
+   },
+   {
+    "title": "The Verge CES 2015",
+    "url": "https://www.theverge.com/"
+   }
+  ],
+  "tags": [
+   "CES",
+   "物联网",
+   "可穿戴"
+  ]
+ },
+ {
+  "id": "2015-01-15-xiaomi-note-launch",
+  "date": "2015-01-15",
+  "title": "小米Note发布：冲击高端的第一场硬仗",
+  "summary_30s": "2015年1月15日，小米发布小米Note，5.7英寸双面玻璃加金属中框，标准版2299元、顶配版3299元首次上探三千元档，雷军的高端化尝试在华为Mate 7阴影下开局。",
+  "detail": "小米Note以Hi-Fi、阳光屏与弧面玻璃对标旗舰，但骁龙810发热与供应链波折拖累口碑，顶配版遇冷，1999的性价比标签反而成为高端化包袱。当年小米出货未达8000万台目标，雷军首次公开承认增长压力。",
+  "impact": "暴露互联网手机模式的天花板，国产高端叙事的话语权开始向华为倾斜。",
+  "aftermath": "小米2016年出货大跌后 MIX 全面屏救场；2019年小米9再战高端、2020年小米10站稳4000元档，高端长征终见回报。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米Note - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米Note"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米Note",
+   "高端化",
+   "国产手机"
+  ]
+ },
+ {
+  "id": "2015-01-27-taobao-saic-dispute",
+  "date": "2015-01-27",
+  "title": "淘宝与工商总局假货之争：电商平台与监管的正面碰撞",
+  "summary_30s": "2015年1月27日，工商总局网监司公布淘宝正品抽查率偏低的白皮书，淘宝小二公开信叫板司长刘红亮，双方隔空激辩数日，以工商总局删除白皮书软文、阿里道歉整改、成立打假联盟收场。",
+  "detail": "争论引发美股投资者恐慌，阿里股价单日大跌致市值蒸发数百亿美元，随后国家发改委、商务部与阿里坐谈，2015年3月阿里宣布组建平台打假特战队并推送线索协助抓捕。同年美国贸易代表办公室把淘宝移出恶名市场名单后又复列。",
+  "impact": "确立平台治理与政府监管的互动规则，假货治理从口水战走向数据协查的常态化机制。",
+  "aftermath": "2019年阿里知识产权年度报告显示协查案件上千起；直播电商时代假货治理议题在2020年代重演。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家市场监督管理总局",
+    "url": "https://www.samr.gov.cn/"
+   },
+   {
+    "title": "阿里巴巴集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团"
+   }
+  ],
+  "tags": [
+   "淘宝",
+   "假货治理",
+   "监管争议"
+  ]
+ },
+ {
+  "id": "2015-01-27-mobike-founded",
+  "date": "2015-01-27",
+  "title": "摩拜单车成立：共享经济的自行车革命",
+  "summary_30s": "2015年1月，记者出身的胡玮炜在硅谷投资人李斌支持下创办摩拜科技，以智能锁加无桩共享的构想重造城市自行车，中国共享单车大战的引擎在此时点火。",
+  "detail": "李斌以个人投资者身份给出构想与146万元天使投资，胡玮炜组队做出轴传动、实心胎、四年免维护的原型车。2016年1月摩拜进入上海，2016年10月获腾讯领投的C+轮融资，与ofo的橙黄大战把单车铺遍中国城市街头。",
+  "impact": "开创无桩共享出行新品类，把移动支付、物联网锁与城市短途出行组合成超级场景。",
+  "aftermath": "2018年美团27亿美元收购摩拜，2019年胡玮炜套现离场；共享单车沉淀为城市公共出行的一部分，价格战教训写入教科书。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "摩拜单车 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/摩拜单车"
+   },
+   {
+    "title": "胡玮炜 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/胡玮炜"
+   }
+  ],
+  "tags": [
+   "摩拜",
+   "共享单车",
+   "胡玮炜"
+  ]
+ },
+ {
+  "id": "2015-01-28-zhima-credit-beta",
+  "date": "2015-01-28",
+  "title": "芝麻信用分公测：信用成为可查的数字",
+  "summary_30s": "2015年1月，蚂蚁金服芝麻信用分开启公测，从身份、履约、人脉等维度给出350到950的信用分，租物免押、信用住店等场景随之打开，个人信用第一次以分数形式进入中国人的日常生活。",
+  "detail": "芝麻信用是央行首批八家个人征信准备试点机构之一，公测期借还、缴费、好友信用互动均可影响分数。免押金骑行、酒店免押等信用生活场景爆发式创新，2018年百度免押金风波与信息安全争议推动监管对信用分用于社交的规范。",
+  "impact": "把信用体系从金融延伸到生活服务，推动中国社会信用基础设施的大众认知。",
+  "aftermath": "2020年百行征信、朴道征信持牌格局确立，芝麻信用转型聚焦商业信用场景，分值生态延续至今。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "芝麻信用 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/芝麻信用"
+   },
+   {
+    "title": "蚂蚁集团",
+    "url": "https://www.antgroup.com/"
+   }
+  ],
+  "tags": [
+   "芝麻信用",
+   "征信",
+   "蚂蚁金服"
+  ]
+ },
+ {
+  "id": "2015-01-30-tencent-nba-deal",
+  "date": "2015-01-30",
+  "title": "腾讯5亿美元拿下NBA五年独家新媒体版权",
+  "summary_30s": "2015年1月30日，腾讯宣布以5亿美元获得NBA2015-2020赛季中国独家网络直播权，每周独家直播场次翻倍，体育新媒体版权军备竞赛就此引爆。",
+  "detail": "此前新浪以每年700万美元左右持有权益，腾讯加价数倍夺标，配套推出NBA会员付费、自制节目与社交玩法，NBA中国数字媒体观众此后五年翻倍增长。体奥动力同年以80亿元买下中超五年版权，中国体育版权市场进入天价时代。",
+  "impact": "确立腾讯体育的篮球内容护城河，会员付费观赛习惯在中国规模化养成。",
+  "aftermath": "2020年腾讯以15亿美元续约五年，咪咕、抖音后来分食二创与短视频权益，版权格局多极化。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "腾讯体育",
+    "url": "https://sports.qq.com/"
+   },
+   {
+    "title": "NBA中国",
+    "url": "https://china.nba.com/"
+   }
+  ],
+  "tags": [
+   "腾讯体育",
+   "NBA",
+   "体育版权"
+  ]
+ },
+ {
+  "id": "2015-02-01-duang-meme",
+  "date": "2015-02-01",
+  "title": "Duang：成龙洗发水广告的鬼畜复活",
+  "summary_30s": "2015年2月，网友把成龙2004年霸王洗发水广告与《我的滑板鞋》混剪成鬼畜视频，Duang的一声成为万能拟声词与年度第一个刷屏梗，B站鬼畜文化全面出圈。",
+  "detail": "原广告中成龙说我其实是不想拍广告的、Duang发型的台词被反复remix，微博、朋友圈满屏Duang，霸王集团顺势自嘲营销股价应声上涨。此后鬼畜从亚文化圈层进入主流传播视野，成龙Duang与庞麦郎滑板鞋成为世纪联动。",
+  "impact": "确立鬼畜二次创作为稳定的网络喜剧语法，品牌官方开始拥抱自黑式公关。",
+  "aftermath": "Duang入选年度十大网络用语；鬼畜区此后贡献了诸葛亮王朗、雷霆嘎巴等长盛不衰的素材库。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Duang - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Duang"
+   },
+   {
+    "title": "哔哩哔哩",
+    "url": "https://www.bilibili.com/"
+   }
+  ],
+  "tags": [
+   "Duang",
+   "鬼畜",
+   "网络流行语"
+  ]
+ },
+ {
+  "id": "2015-02-01-12306-image-captcha",
+  "date": "2015-02-01",
+  "title": "12306启用图片验证码：抢票软件遭遇重击",
+  "summary_30s": "2015年春运期间，12306把验证码升级为八图辨物的图片题，从电风扇中找出酸菜鱼式的刁钻题目刷屏吐槽，机器抢票与脚本外挂被重创，人工购票通过率反而提高。",
+  "detail": "图片验证码由随机词库加图库生成，用户需在一至八张小图中找出指定物品，词库组合逾十万种。网络涌现12306验证码难度吐槽合集，专家解读其反自动化逻辑。抢票插件成功率骤降，黄牛转入人工打码灰产，平台与外挂的攻防再升级。",
+  "impact": "成为公共系统以可用性换公平的经典案例，AI图像识别由此获得全民科普。",
+  "aftermath": "2019年候补购票上线后，抢票外挂空间收窄；深度学习识别率的提升让图形验证码防御力逐年衰减。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国铁路客户服务中心",
+    "url": "https://www.12306.cn/"
+   },
+   {
+    "title": "新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "12306",
+   "图形验证码",
+   "春运"
+  ]
+ },
+ {
+  "id": "2015-02-04-account-ten-rules",
+  "date": "2015-02-04",
+  "title": "账号十条出台：网名头像的九条底线",
+  "summary_30s": "2015年2月4日，国家网信办发布《互联网用户账号名称管理规定》，账号十条要求网名、头像、简介等不得含违法有害信息，应当与注册者真实身份信息相关联，互联网账号管理进一步规范化。",
+  "detail": "规定对冒用他人名称、含歧视侮辱、假借机构名义等九类情形作出禁止，各平台随后批量清理违规账号，账号昵称合规成为社区运营标配。与后台实名制衔接后，前台自愿加账号合规构成完整的账号治理框架。",
+  "impact": "网络身份管理从粗放走向规则化，为后续自媒体账号分级分类监管奠基。",
+  "aftermath": "2017年网安法生效、2021年自媒体账号整治持续深化，账号治理成为平台常态工程。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   },
+   {
+    "title": "互联网用户账号名称管理规定 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "账号十条",
+   "网信办",
+   "账号治理"
+  ]
+ },
+ {
+  "id": "2015-02-09-alibaba-invests-meizu",
+  "date": "2015-02-09",
+  "title": "阿里5.9亿美元投资魅族：YunOS的硬件落子",
+  "summary_30s": "2015年2月9日，阿里巴巴宣布战略投资魅族5.9亿美元，阿里YunOS获得千万级落地终端，魅族获得弹药重启机海攻势，巨头深度绑定国产手机厂商的序幕拉开。",
+  "detail": "阿里此前先后投资锤子未果，转而押注出货更猛的魅族。魅族2015年连发MX4 Pro、魅蓝Note2等机型，全年出货约2000万台创历史新高，YunOS装机量随之攀升。但2016年魅族亏损扩大，与高通的专利诉讼和解后增速失速。",
+  "impact": "互联网厂商以资本换入口的模式再度上演，Flyme加YunOS的双系统策略成为行业话题。",
+  "aftermath": "魅族2022年被吉利收购，阿里YunOS转向IoT与车机；这场投资的生态愿景最终未能兑现。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "魅族 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/魅族"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "阿里",
+   "魅族",
+   "YunOS"
+  ]
+ },
+ {
+  "id": "2015-02-24-pebble-time-record",
+  "date": "2015-02-24",
+  "title": "Pebble Time众筹49分钟破百万：Kickstarter自我加冕",
+  "summary_30s": "2015年2月24日，Pebble Time登陆Kickstarter，49分钟筹到100万美元创平台最快纪录，最终筹得2033万美元再刷历史最高，彩色墨水屏小方表成为众筹时代的绝唱级神话。",
+  "detail": "此时Pebble公司已遭Apple Watch挤压，众筹既是融资也是市场验证。2033万美元的纪录保持到Kickstarter此后数年。但量产与生态压力下Pebble 2016年底资金链断裂，Fitbit低价收购其软件团队与品牌。",
+  "impact": "把硬件众筹的声量推向顶点，也埋下众筹发货难、后续融资依赖的隐忧。",
+  "aftermath": "Kickstarter硬件众筹此后转向小众创新品类；智能手表市场由Apple Watch与Wear OS双寡头长期统治。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Pebble Time - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pebble_Time"
+   },
+   {
+    "title": "Kickstarter",
+    "url": "https://www.kickstarter.com/"
+   }
+  ],
+  "tags": [
+   "Pebble",
+   "众筹纪录",
+   "智能手表"
+  ]
+ },
+ {
+  "id": "2015-02-26-the-dress-viral",
+  "date": "2015-02-26",
+  "title": "蓝黑还是白金：一条裙子分裂全球互联网",
+  "summary_30s": "2015年2月26日，一张连衣裙照片在Tumblr与微博疯传，有人看是蓝黑有人看是白金，全球社交网络为此分裂争辩，科学界随即用人眼色觉适应科普，The Dress成为互联网原子的裂变实验。",
+  "detail": "照片由苏格兰一位歌手最初发布，BuzzFeed报道后单日浏览破千万。神经科学家解释为个体对光照背景的先验不同导致色彩恒常性差异，Tumblr、推特当日服务器承压。Tumblr当日访问量创纪录。中国微博以蓝黑党与白金党互相拉黑刷屏。",
+  "impact": "第一次让全世界同时意识到：连颜色感知都是主观的，社交媒体放大认知分歧的力量首次被大众直视。",
+  "aftermath": "The Dress入选年度词汇，学术引用过百篇；此后Yanny/Laurel、左右脑测试接续这一范式。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The dress - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_dress"
+   },
+   {
+    "title": "Tumblr",
+    "url": "https://www.tumblr.com/"
+   }
+  ],
+  "tags": [
+   "蓝黑白金裙子",
+   "病毒传播",
+   "视错觉"
+  ]
+ },
+ {
+  "id": "2015-02-28-under-the-dome-viral",
+  "date": "2015-02-28",
+  "title": "柴静《穹顶之下》48小时刷屏：雾霾议题的大爆发",
+  "summary_30s": "2015年2月28日，前央视记者柴静自费百万拍摄的雾霾调查纪录片《穹顶之下》上线，48小时内全网播放过亿，随后各平台下架，短短一周把PM2.5、治理责任与能源转型推上全民议程。",
+  "detail": "片长103分钟，柴静以女儿病情切入，串起数据、访谈与实地调查，发布会与人民网同步推出。传播与下架的过程本身成为公共事件，全国两会期间治霾讨论热度空前，环保部部长当期回应新环保法实施。",
+  "impact": "中国环境传播史上影响最大的单次内容事件，直接助推公众对大气治理的监督意识与后续清洁能源政策的社会共识。",
+  "aftermath": "2016年后煤改气、蓝天保卫战持续推进；纪录片形式的社会议程设置能力此后被反复讨论。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "穹顶之下 (纪录片) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/穹顶之下_(纪录片)"
+   },
+   {
+    "title": "柴静 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/柴静"
+   }
+  ],
+  "tags": [
+   "穹顶之下",
+   "柴静",
+   "雾霾"
+  ]
+ },
+ {
+  "id": "2015-03-01-htc-vive-reveal",
+  "date": "2015-03-01",
+  "title": "HTC与Valve公布Vive：房间级VR的开山之作",
+  "summary_30s": "2015年3月1日MWC上，HTC与Valve联合公布Vive头显，Lighthouse激光定位实现15英尺房间级追踪与双手柄交互，VR三巨头（Oculus、索尼、HTC）格局就此形成。",
+  "detail": "Vive由Valve提供SteamVR技术、HTC负责硬件，2016年4月正式发货799美元，配合《Tilt Brush》等应用成为高端VR标杆。HTC借此从手机困局中获得喘息，此后数年押注VR，2019年推Vive Cosmos，并把生态延伸至企业市场。",
+  "impact": "确立房间级追踪与体感手柄的PC VR范式，Steam生态进入硬件时代。",
+  "aftermath": "2018年后Vive份额被Oculus Quest无线一体机压制；2023年行业押注Quest 3与Vision Pro开启混合现实周期。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "HTC Vive - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/HTC_Vive"
+   },
+   {
+    "title": "VIVE",
+    "url": "https://www.vive.com/"
+   }
+  ],
+  "tags": [
+   "HTC Vive",
+   "VR",
+   "Valve"
+  ]
+ },
+ {
+  "id": "2015-03-12-ali-saic-internet-car-fund",
+  "date": "2015-03-12",
+  "title": "阿里与上汽设10亿互联网汽车基金：智能汽车元年开启",
+  "summary_30s": "2015年3月12日，阿里巴巴与上汽集团宣布各出资5亿元设立互联网汽车基金，打造跑在互联网上的汽车，中国互联网巨头与整车厂的系统级联姻就此开局。",
+  "detail": "双方组建斑马智行团队，以AliOS为底座开发车载系统，2016年7月首搭荣威RX5上市，互联网汽车成为卖点，车机大屏、在线导航与语音交互快速普及。此后腾讯与广汽、百度与多家车企的车联网合作相继落地。",
+  "impact": "把中国汽车产业带入智能座舱竞赛，AliOS、梧桐、DiLink等车载系统群起，软件定义汽车叙事起步。",
+  "aftermath": "斑马网络2019年引入国产股东混合所有制；2020年代智能座舱成为新车标配，华为鸿蒙座舱延续这条路线。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "上汽集团",
+    "url": "https://www.saicmotor.com/"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "互联网汽车",
+   "上汽",
+   "斑马智行"
+  ]
+ },
+ {
+  "id": "2015-04-12-furious7-see-you-again",
+  "date": "2015-04-12",
+  "title": "《速度与激情7》与See You Again：全民泪目的插曲",
+  "summary_30s": "2015年4月12日，《速度与激情7》内地上映，最终票房24.26亿元创进口片纪录，献给保罗·沃克的插曲See You Again全球屠榜，在QQ音乐与微博的传播成为数字时代集体告别的样本。",
+  "detail": "影片因保罗·沃克2013年车祸离世而改写结局，片尾兄弟道别令影院集体泪崩。See You Again在Spotify与QQ音乐播放量均创纪录，中文互联网上纪念保罗的内容持续刷屏数月，电影营销与音乐流量的联动被教科书化。",
+  "impact": "中国成为好莱坞最重票房仓的又一力证，社交媒体把观影情感转化为长尾传播。",
+  "aftermath": "速激系列在华累计票房超百亿；See You Again至2020年代仍是全球播放量前十的流媒体金曲。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "速度与激情7 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/速度与激情7"
+   },
+   {
+    "title": "See You Again - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/See_You_Again"
+   }
+  ],
+  "tags": [
+   "速度与激情7",
+   "See You Again",
+   "电影票房"
+  ]
+ },
+ {
+  "id": "2015-04-14-resignation-letter-meme",
+  "date": "2015-04-14",
+  "title": "世界那么大，我想去看看：十字辞职信刷屏",
+  "summary_30s": "2015年4月14日，河南实验中学女教师顾少强的十字辞职信世界那么大，我想去看看被拍照上网，一夜刷屏，被誉史上最具情怀辞职信，掀起全民对诗与远方的集体抒情。",
+  "detail": "辞职信只有十个字，却击中职场人的围城心态，各类仿写与段子井喷，顾少强本人随后结婚定居成都开客栈，媒体追踪数年。企业HR、心理专栏与广告文案围绕此句展开海量再创作，金句传播的路径被传播学课程反复分析。",
+  "impact": "成为2015年最具辨识度的情绪符号之一，辞职去旅行的生活方式议题破圈进入主流讨论。",
+  "aftermath": "此后每一年的辞职信话题都在复刻这十个字的模板；顾少强2020年代回归教育行业，诗意与现实的和解被再度报道。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "顾少强 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "大河报",
+    "url": "https://www.dahe.cn/"
+   }
+  ],
+  "tags": [
+   "辞职信",
+   "网络流行语",
+   "情怀"
+  ]
+ },
+ {
+  "id": "2015-04-15-ninebot-acquires-segway",
+  "date": "2015-04-15",
+  "title": "纳恩博收购Segway：平衡车蛇吞象",
+  "summary_30s": "2015年4月15日，小米生态链企业纳恩博（Ninebot）联合小米、红杉等收购平衡车鼻祖Segway全部股份，中国公司以技术加供应链优势反向并购美国标杆，平衡车市场格局一夜改写。",
+  "detail": "交易获中方境外投资核准与美国CFIUS放行，Segway专利壁垒随交易解除。纳恩博随后推出九号平衡车，以1999元把数万元品类打到大众价位，小米渠道放量。此案与联想收购IBM PC并列为蛇吞象的经典叙事。",
+  "impact": "确立中国智能短交通的全球主导权，平衡车、滑板车成为出海爆品品类。",
+  "aftermath": "九号公司2020年科创板上市，滑板车与割草机器人全球领跑；Segway品牌保留并延续高端产品线。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "九号公司 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/九号公司"
+   },
+   {
+    "title": "Segway - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Segway"
+   }
+  ],
+  "tags": [
+   "纳恩博",
+   "Segway",
+   "平衡车"
+  ]
+ },
+ {
+  "id": "2015-04-17-running-man-famule",
+  "date": "2015-04-17",
+  "title": "跑男第二季开播：We are 伐木累带火综艺金句",
+  "summary_30s": "2015年4月17日，《奔跑吧兄弟》第二季开播，邓超的We are 伐木累（family）中式英语迅速出圈成为年度金句，节目收视破五，户外综艺与明星人设经济全面进入鼎盛期。",
+  "detail": "伐木累源自邓超英文发音梗，微博话题阅读量数十亿，跑男团成员的综艺人设成为商业代言的通行证。节目带动的撕名牌游戏、城市主题游与周边消费形成完整产业链，综N代模式自此确立。",
+  "impact": "户外真人秀自此成为全民娱乐主食，明星的综艺感与网感成为片酬定价新变量，综N代与嘉宾常驻制随之固化。",
+  "aftermath": "跑男此后连播十余季，2021年更名为奔跑吧；伐木累作为经典中式英语梗在表情包文化中长久留存。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "奔跑吧兄弟 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奔跑吧兄弟"
+   },
+   {
+    "title": "浙江卫视",
+    "url": "https://www.cztv.com/"
+   }
+  ],
+  "tags": [
+   "跑男",
+   "伐木累",
+   "综艺金句"
+  ]
+ },
+ {
+  "id": "2015-04-24-apple-watch-on-sale",
+  "date": "2015-04-24",
+  "title": "Apple Watch正式发售：库克时代首件新品落地",
+  "summary_30s": "2015年4月24日，Apple Watch在首批发售，预约试戴制与38毫米、42毫米双尺寸登场，首发日订单破百万，可穿戴从手环玩具升格为时尚科技品，智能手表品类被苹果重新定义。",
+  "detail": "Apple Watch提供运动、经典与Edition三档，爱马仕表带与18K金版把定价上探到十万元级。早期卡顿与应用生态短板受批评，watchOS 2之后逐步完善。2017年Series 3内置蜂窝独立通信，2020年血氧监测，健康成为核心叙事。",
+  "impact": "把智能手表做成苹果第三大品类，全球可穿戴市场被激活，瑞士表业被迫数字化应对。",
+  "aftermath": "Apple Watch累计出货过亿，2022年Ultra打开户外运动高端市场，健康传感成为军备核心。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Apple Watch - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Apple_Watch"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "Apple Watch",
+   "可穿戴",
+   "苹果"
+  ]
+ },
+ {
+  "id": "2015-05-01-yingke-launch",
+  "date": "2015-05-01",
+  "title": "映客上线：移动直播元年的先声",
+  "summary_30s": "2015年5月，奉佑生团队的映客App上线，把直播装进手机竖屏，素人主播加美颜打赏的模式迅速起量，千播大战前夜的行业雏形就此成型。",
+  "detail": "映客以全民直播为口号，女主播秀场与素人才艺构成内容基本盘，2016年借助大白鹅事件与营销爆发，日活破千万，映客2018年借壳上市。同年Meerkat、Periscope在海外引爆移动直播，国内快手、美拍、斗鱼齐头并进。",
+  "impact": "确立移动直播作为独立业态，打赏经济与秀场文化向全民渗透，为2016直播元年铺好跑道。",
+  "aftermath": "2017年后直播行业洗牌，游戏与电商直播成为幸存主线；映客2022年后转型海外与相亲社交。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "映客 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/映客"
+   },
+   {
+    "title": "映客直播",
+    "url": "https://www.inke.cn/"
+   }
+  ],
+  "tags": [
+   "映客",
+   "移动直播",
+   "千播大战"
+  ]
+ },
+ {
+  "id": "2015-05-21-unigroup-h3c-majority",
+  "date": "2015-05-21",
+  "title": "紫光23亿美元控股华三：企业网市场变阵",
+  "summary_30s": "2015年5月21日，惠普宣布以23亿美元向清华紫光出售华三通信（H3C）51%股权，新华三落地杭州，中国企业网络设备市场的主要玩家之一进入中资主导时代。",
+  "detail": "交易因惠普分拆企业业务而生，紫光控股后新华三延续路由器、交换机与服务器业务，并承接惠普在中国的企业市场。2016年紫光又引入惠普企业（HPE）持股49%的合资架构，新华三此后年营收数百亿元，成为数字基础设施国家队一员。",
+  "impact": "关键行业网络设备供应格局向中资倾斜，外资科技企业在华以合资换市场的模式定型。",
+  "aftermath": "新华三2020年代参与东数西算与算力网络建设，紫光集团虽经历债务重组，新华三经营保持独立稳健。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "新华三集团",
+    "url": "https://www.h3c.com/"
+   },
+   {
+    "title": "紫光集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/紫光集团"
+   }
+  ],
+  "tags": [
+   "新华三",
+   "紫光",
+   "企业网络"
+  ]
+ }
+]

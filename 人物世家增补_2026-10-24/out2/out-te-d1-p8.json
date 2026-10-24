@@ -1,0 +1,727 @@
+[
+ {
+  "id": "2014-04-20-china-internet-20-years",
+  "date": "2014-04-20",
+  "title": "中国全功能接入互联网20周年：从一条64K专线到网民6亿",
+  "summary_30s": "2014年4月20日，中国全功能接入国际互联网20周年。1994年那条64K专线已长成6亿网民、数万亿产值的数字经济，媒体与学界集体回望从门户、搜索到移动互联的三个时代。",
+  "detail": "1994年4月20日中关村教育与科研示范网通过美国Sprint公司连入国际互联网，实现全功能接入。20周年之际CNNIC报告显示中国网民达6.3亿、手机网民5.3亿，网购用户超3.8亿，全球十大互联网公司中国占四席。学界以移动超越、转型与治理为关键词展望下一个二十年。",
+  "impact": "中国互联网从追赶者变为并跑者的叙事确立，数字经济开始进入国家战略语言体系。",
+  "aftermath": "十年后中国网民超10亿、数字经济规模占GDP四成，2024年迎来接入30周年时AI接棒成为新叙事。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国互联网络信息中心",
+    "url": "https://www.cnnic.net.cn/"
+   },
+   {
+    "title": "中国全功能接入互联网 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "互联网20周年",
+   "数字经济",
+   "历史节点"
+  ]
+ },
+ {
+  "id": "2014-04-22-kuaibo-raided",
+  "date": "2014-04-22",
+  "title": "快播被查：宅男神器的落幕开始",
+  "summary_30s": "2014年4月22日，深圳警方对快播科技展开调查，此后王欣被抓、2.6亿元天价罚单与版权诉讼接踵而至，靠P2P播放器收割数亿用户的快播帝国在数月内崩塌。",
+  "detail": "快播以QVOD播放器加P2P点播服务器（色情盗版灰色内容居多）装机数亿，警方行动后服务中断。2014年8月王欣在境外被抓捕回国，2016年1月庭审中技术无罪辩论（做技术并不可耻）一度引发舆论争论，最终王欣获刑三年六个月。",
+  "impact": "标志P2P盗播时代的终结与净网行动的高压化，视频行业正版化与会员付费随此后付费时代到来。",
+  "aftermath": "王欣2018年出狱后创办云歌智能并推出马桶MT再创业；快播资产清算与庭审辩论成为法学与商业课的经典案例。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "快播 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/快播"
+   },
+   {
+    "title": "王欣 (企业家) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/王欣_(企业家)"
+   }
+  ],
+  "tags": [
+   "快播",
+   "版权",
+   "净网行动"
+  ]
+ },
+ {
+  "id": "2014-04-23-oneplus-one-launch",
+  "date": "2014-04-23",
+  "title": "一加手机发布：不将就的小厂出海样本",
+  "summary_30s": "2014年4月23日，刘作虎的一加科技发布首款一加手机，骁龙801加3GB内存卖1999.99元，凭邀请制与海外极客社区走红欧美，中国手机品牌首次以高端性价比打开国际口碑。",
+  "detail": "一加脱胎于OPPO体系，CM定制系统与砂岩黑后盖成为极客图腾，海外以1美元碎屏险、邀请码营销引发抢购，欧美科技媒体好评如潮。此后一加坚定深耕印度与欧洲市场，2018年后跻身美国高端安卓前列，2020年代回归OPPO体系保留品牌。",
+  "impact": "证明不背靠巨头也能靠产品与社区立足，为小而美手机品牌提供了长期主义样板。",
+  "aftermath": "2021年一加与OPPO研发合并，出货迈入全球前列；一加Ace等系列把不将就延续到性能机赛道。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "一加手机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/一加手机"
+   },
+   {
+    "title": "OnePlus",
+    "url": "https://www.oneplus.com/"
+   }
+  ],
+  "tags": [
+   "一加",
+   "出海",
+   "极客手机"
+  ]
+ },
+ {
+  "id": "2014-05-08-cmcm-ipo",
+  "date": "2014-05-08",
+  "title": "猎豹移动上市：清理软件的出海奇袭",
+  "summary_30s": "2014年5月8日，傅盛的猎豹移动登陆纽交所， Clean Master 等工具应用在谷歌商店屠榜，靠海外广告变现的出海模式得到资本市场盖章。",
+  "detail": "猎豹脱胎于金山网络，转型全力出海后以清理大师、电池医生收割新兴市场安卓用户，月活一度近5亿，广告收入主要来自Facebook与谷歌联盟。上市首日上涨，傅盛与雷军的投资传奇同步出圈，2015年股价见顶。",
+  "impact": "开创中国互联网公司工具出海加广告变现的第一波浪潮，其后久邦数码、智明星通等中国公司集体出海。",
+  "aftermath": "2016年后Facebook算法调整重创其广告模式，猎豹转型游戏与AI机器人，中国出海范式从此转向内容与电商。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "猎豹移动公司 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/猎豹移动公司"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "猎豹移动",
+   "出海",
+   "工具应用"
+  ]
+ },
+ {
+  "id": "2014-05-09-tuniu-ipo",
+  "date": "2014-05-09",
+  "title": "途牛上市：跟团游电商的资本顶点",
+  "summary_30s": "2014年5月9日，途牛登陆纳斯达克，以跟团游在线化的差异化定位在携程去哪儿夹缝中上市，随后与京东联姻，成为OTA资本混战的一枚活棋。",
+  "detail": "途牛主打休闲跟团游与目的地服务，上市首日上涨8%。2014至2015年OTA价格战惨烈，携程、去哪儿、同程、途牛四强缠斗，途牛五年亏损数十亿，2019年后战略收缩，2020年疫情重创出境游基本盘。",
+  "impact": "在线旅游渗透从机票酒店延伸到打包度假产品，资本推动的补贴战把利润表推到极限。",
+  "aftermath": "携程2015年整合去哪儿后再收同程艺龙，OTA格局一超多强；途牛2024年因股价与合规问题面临退市危机。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "途牛旅游网 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/途牛旅游网"
+   },
+   {
+    "title": "Nasdaq",
+    "url": "https://www.nasdaq.com/"
+   }
+  ],
+  "tags": [
+   "途牛",
+   "OTA",
+   "上市"
+  ]
+ },
+ {
+  "id": "2014-05-13-right-to-be-forgotten",
+  "date": "2014-05-13",
+  "title": "欧洲法院确立被遗忘权：谷歌必须删链接",
+  "summary_30s": "2014年5月13日，欧盟法院在谷歌西班牙案中裁定，欧洲用户可要求搜索引擎删除过时、不相关个人信息链接，被遗忘权确立，全球平台的数据治理规则自此分叉。",
+  "detail": "西班牙公民冈萨雷斯要求谷歌删除其房产被拍卖的旧报道链接，法院认定搜索引擎作为数据控制者须承担删除义务。谷歌随后建立在线申请通道，累计处理上百万条删除请求，欧盟2018年GDPR把该权利法典化并扩展到撤回同意等场景。",
+  "impact": "个人信息权从原则变成可执行请求，欧盟成为全球数据立法高地，美国与中国的治理路径差异显现。",
+  "aftermath": "被遗忘权与言论自由、新闻存档的张力持续诉讼至今；GDPR生效后全球平台合规成本以百亿美元计。",
+  "category": "national",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Google Spain SL v AEPD - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Google_Spain_SL_v_AEPD"
+   },
+   {
+    "title": "EUR-Lex",
+    "url": "https://eur-lex.europa.eu/"
+   }
+  ],
+  "tags": [
+   "被遗忘权",
+   "谷歌",
+   "数据隐私"
+  ]
+ },
+ {
+  "id": "2014-05-15-xiaomi-pad-launch",
+  "date": "2014-05-15",
+  "title": "小米平板发布：安卓平板的性价比自救",
+  "summary_30s": "2014年5月15日，小米发布首款小米平板，采用与iPad mini同款的视网膜屏与英伟达K1处理器，定价1499元起，试图以内容和价格救活乏善可陈的安卓平板生态。",
+  "detail": "小米平板主打MIUI适配、儿童模式与多看阅读内容生态，为发烧友提供了安卓阵营少有的高配选择。但安卓平板应用适配荒漠难解，小米平板二代转向Windows 10双系统试水生产力，市场反响平平。",
+  "impact": "安卓平板的生态短板暴露无遗，此后国产平板长期沉寂，直到2020年代远程办公与教育需求回潮。",
+  "aftermath": "2021年小米平板5重启产品线，国产平板借高刷屏与手写笔生态迎来第二春。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米平板 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米平板"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米平板",
+   "安卓平板",
+   "性价比"
+  ]
+ },
+ {
+  "id": "2014-05-16-jumei-ipo",
+  "date": "2014-05-16",
+  "title": "聚美优品上市：我为自己代言的高光与阴影",
+  "summary_30s": "2014年5月16日，陈欧的聚美优品以30亿美元市值登陆纽交所，31岁的陈欧成为纽交所222年史上最年轻CEO，代言体广告与垂直电商神话到达顶点，也站在了假货风波的前夜。",
+  "detail": "聚美以化妆品闪购起家，陈欧体广告（我为自己代言）成营销经典。上市后股价一度冲高，但2015年聚美品目假货风波爆发，第三方平台模式遭信任危机，陈欧转型多元化失利，公司2020年以20美元当初发行价约三分之一私有化退市。",
+  "impact": "成为垂直电商品牌信任崩塌的标志性案例，化妆品电商此后转向自营与官方旗舰店模式。",
+  "aftermath": "陈欧此后押注共享充电宝街电再创业；纽交所最年轻CEO的title留在中国电商史的注脚里。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "聚美优品 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/聚美优品"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "聚美优品",
+   "垂直电商",
+   "上市"
+  ]
+ },
+ {
+  "id": "2014-05-16-andrew-ng-joins-baidu",
+  "date": "2014-05-16",
+  "title": "吴恩达加盟百度：深度学习三巨头之一入华",
+  "summary_30s": "2014年5月16日，百度宣布机器学习泰斗吴恩达出任首席科学家，负责百度大脑与深度学习研究院，国际顶级AI人才首次以首席科学家身份加入中国公司，震动全球科技界。",
+  "detail": "吴恩达是斯坦福教授、Coursera联合创始人、谷歌大脑创始人，他的加盟被视为中国AI崛起的标志性事件。百度同期在硅谷设立实验室，百度大脑计划随后落地语音、图像与无人车方向，2015年12月百度无人车在北京五环完成首次路测。",
+  "impact": "带动一批华人AI科学家回流与中国AI军备竞赛，BAT相继设立AI研究院，中国论文与专利产出此后跃居前列。",
+  "aftermath": "吴恩达2017年离开百度创立Landing AI与deeplearning.ai；百度此后经历AI落地的长跑，2023年文心一言上线。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "吴恩达 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/吴恩达"
+   },
+   {
+    "title": "百度",
+    "url": "https://www.baidu.com/"
+   }
+  ],
+  "tags": [
+   "吴恩达",
+   "百度",
+   "人工智能"
+  ]
+ },
+ {
+  "id": "2014-05-16-windows8-procurement-ban",
+  "date": "2014-05-16",
+  "title": "中央机关停购Windows 8：操作系统自主化议题升温",
+  "summary_30s": "2014年5月，中央国家机关政府采购中心通知要求所有计算机类产品不得安装Windows 8，安全审查与国产替代成为关键词，中国基础软件自主化议程进入公众视野。",
+  "detail": "通知要求新采购PC预装国产或 Windows 7 等替代系统，官方表态为信息安全考虑。同期windows XP停服事件、棱镜门余波与去IOE讨论叠加，国产操作系统（中标麒麟、深度等）、办公软件WPS与数据库迎来政策红利。",
+  "impact": "基础软硬件自主可控成为长期产业政策主线，党政军与关键行业国产替代市场启动。",
+  "aftermath": "2020年后信创产业全面铺开，麒麟、统信UOS进入规模化采购；Windows 10政府版等合作模式并行探索。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中央国家机关政府采购中心",
+    "url": "https://www.zycg.gov.cn/"
+   },
+   {
+    "title": "微软 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微软"
+   }
+  ],
+  "tags": [
+   "Windows 8",
+   "政府采购",
+   "自主可控"
+  ]
+ },
+ {
+  "id": "2014-05-20-surface-pro-3",
+  "date": "2014-05-20",
+  "title": "Surface Pro 3发布：微软二合一的翻身仗",
+  "summary_30s": "2014年5月20日，微软发布Surface Pro 3，12英寸3:2屏、9.1毫米厚、新支架与Type Cover，把笔记本和平板的二合一形态终于打磨成型，Surface产品线起死回生。",
+  "detail": "前两代Surface销量惨淡、微软计提9亿美元减记，纳德拉坚持迭代。Pro 3以取代你的笔记本电脑为口号登陆市场，随后数年Surface成为Windows阵营硬件标杆，带动二合一品类繁荣，Surface Hub与Studio相继拓展商用与创意线。",
+  "impact": "证明软件巨头做硬件的耐心方法论，二合一形态影响此后iPad Pro与安卓平板键鼠化路线。",
+  "aftermath": "Surface 2017年实现盈利，2023年微软把AI PC概念押回Surface与Copilot；二合一成为笔记本细分常青品类。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Surface Pro 3 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Surface_Pro_3"
+   },
+   {
+    "title": "Microsoft Surface",
+    "url": "https://www.microsoft.com/surface"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Surface",
+   "二合一"
+  ]
+ },
+ {
+  "id": "2014-05-22-cybersecurity-review-system",
+  "date": "2014-05-22",
+  "title": "中国将推行网络安全审查制度：外资科技巨头的中国变量",
+  "summary_30s": "2014年5月22日，国家互联网信息办公室宣布中国将实行网络安全审查制度，对关系国家安全和公共利益的重要信息技术产品与服务进行审查，海外科技公司在华前景再添变数。",
+  "detail": "宣布时机恰逢Windows 8停购与去IOE讨论发酵，思科、IBM、微软等外企股价应声波动。审查制度聚焦供应链安全与数据风险，2020年《网络安全审查办法》正式落地，2021年滴滴赴美上市后被启动审查并引发数据安全法执法高潮。",
+  "impact": "把供应链与数据安全纳入制度化监管框架，关键技术产品的国产替代与国际博弈长期化。",
+  "aftermath": "2022年审查办法修订把网络平台赴国外上市纳入审查情形，中概股回归与数据出境规则全面重塑。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   },
+   {
+    "title": "网络安全审查办法 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "网络安全审查",
+   "网信办",
+   "供应链安全"
+  ]
+ },
+ {
+  "id": "2014-05-28-apple-acquires-beats",
+  "date": "2014-05-28",
+  "title": "苹果30亿美元收购Beats：流音乐与耳机生意",
+  "summary_30s": "2014年5月28日，苹果宣布以30亿美元收购 Beats 电子与 Beats Music，这是苹果史上最大收购， Jimmy Iovine 与 Dr. Dre 加盟，为次年Apple Music的推出买下船票。",
+  "detail": "交易以约26亿美元现金加股票完成，苹果看中Beats的订阅服务技术与音乐产业人脉，Beats耳机继续独立销售并入驻苹果渠道。2015年6月Apple Music上线，凭借三个月试用与人工歌单迅速突破千万订户。",
+  "impact": "标志苹果从卖歌的 iTunes 转向订阅制流媒体，音乐产业商业模式完成历史切换。",
+  "aftermath": "Apple Music 2023年全球订户超一亿；Beats品牌逐步让位于AirPods生态，但收购案的战略眼光被反复称道。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Beats Electronics - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beats_Electronics"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Beats",
+   "流媒体音乐"
+  ]
+ },
+ {
+  "id": "2014-05-29-xiaoice-launch",
+  "date": "2014-05-29",
+  "title": "微软小冰上线：聊天机器人的社交首秀",
+  "summary_30s": "2014年5月29日，微软（亚洲）互联网工程院推出的聊天机器人小冰登陆微信，凭借毒舌陪聊人设三天吸粉数十万，随后被微信封禁转战微博，中国聊天机器人的启蒙之旅一波三折。",
+  "detail": "小冰以17岁少女的人设与语料库陪聊，用户沉迷调戏。微信以诱导风险封号后，小冰在微博复活并玩转评论陪聊，此后登陆QQ、微博多平台，第五代小冰具备全双工语音，2019年推出AI绘画与虚拟男友，2020年分拆独立。",
+  "impact": "让中文用户第一次大规模体验对话式AI，其情感计算框架成为后来虚拟主播与AI陪伴产品的先声。",
+  "aftermath": "2023年大模型时代小冰以克隆人产品再出发；李笛团队与OpenAI同台竞技东亚市场。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小冰 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小冰"
+   },
+   {
+    "title": "微软",
+    "url": "https://www.microsoft.com/"
+   }
+  ],
+  "tags": [
+   "小冰",
+   "聊天机器人",
+   "人工智能"
+  ]
+ },
+ {
+  "id": "2014-06-01-ott-box-crackdown",
+  "date": "2014-06-01",
+  "title": "广电整顿互联网电视盒子：181号文落地风暴",
+  "summary_30s": "2014年6月起，广电总局依据181号文严打互联网电视盒子的违规内容与聚合App，要求下架非牌照方应用，野蛮生长两年的盒子市场急刹车，客厅娱乐回到牌照轨道。",
+  "detail": "总局约谈七大牌照方，禁止盒子提供免费影视剧聚合、浏览器与第三方应用商店，快播类内容同步被清剿。天猫魔盒、小米盒子等整改后聚焦牌照内容与游戏、教育等增值服务，大量山寨盒子厂商出局。",
+  "impact": "确立互联网电视播控的牌照红线，电视端内容付费与会员生态在此框架内生长。",
+  "aftermath": "2015年后智能电视普及让盒子市场持续萎缩；客厅大战转移到电视整机与投屏协议层面。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "国家广播电视总局",
+    "url": "https://www.nrta.gov.cn/"
+   },
+   {
+    "title": "小米盒子 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米盒子"
+   }
+  ],
+  "tags": [
+   "广电总局",
+   "机顶盒",
+   "OTT监管"
+  ]
+ },
+ {
+  "id": "2014-06-02-swift-announced",
+  "date": "2014-06-02",
+  "title": "苹果发布Swift：一门为应用时代造的新语言",
+  "summary_30s": "2014年6月2日WWDC上，苹果发布全新编程语言Swift，以安全、现代、易学为卖点，playground 实时预览惊艳全场，Objective-C统治的苹果生态迎来三十年一遇的换语言窗口。",
+  "detail": "Chris Lattner团队历时数年打造Swift，2015年开源并跨平台到Linux，IBM、谷歌相继投入。Swift Playgrounds把编程教学做成游戏，K12编程教育以此为教材。Swift与后来的SwiftUI成为苹果全平台开发主线。",
+  "impact": "大幅降低iOS开发门槛，独立开发者数量回升；开源后成为服务器端与嵌入式领域的新选项。",
+  "aftermath": "2025年Swift 6发布趋于成熟；它也是华为仓颉、鸿蒙ArkTS等国产语言参照的对象之一。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Swift (programming language) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swift_(programming_language)"
+   },
+   {
+    "title": "Apple Developer",
+    "url": "https://developer.apple.com/swift/"
+   }
+  ],
+  "tags": [
+   "Swift",
+   "编程语言",
+   "苹果"
+  ]
+ },
+ {
+  "id": "2014-06-03-toutiao-series-c",
+  "date": "2014-06-03",
+  "title": "今日头条C轮融资：算法推荐的资本正名",
+  "summary_30s": "2014年6月3日，今日头条宣布完成1亿美元C轮融资，红杉领投、微博跟投，估值5亿美元。成立仅两年的个性化资讯客户端证明算法分发是一门大生意，门户时代的内容逻辑开始松动。",
+  "detail": "张一鸣以推荐引擎重构资讯分发，用户增速与时长数据让投资人折服。同期传统媒体围绕版权发起围攻，今日头条以合作分成逐步化解。此轮融资后头条加速扩张产品矩阵，内涵段子、搞笑囧图等构成流量池。",
+  "impact": "信息流广告的新范式确立，BAT与门户全面跟进个性化推荐，内容产业的流量分配权从编辑转向算法。",
+  "aftermath": "头条2016年后孵化抖音、2018年更名字节跳动，估值从5亿美元一路涨至数千亿美元。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "今日头条 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/今日头条"
+   },
+   {
+    "title": "红杉中国",
+    "url": "https://www.sequoiacap.cn/"
+   }
+  ],
+  "tags": [
+   "今日头条",
+   "融资",
+   "算法推荐"
+  ]
+ },
+ {
+  "id": "2014-06-05-jack-ma-evergrande",
+  "date": "2014-06-05",
+  "title": "马云12亿入股恒大足球：互联网大佬的绿茵跨界",
+  "summary_30s": "2014年6月5日，马云以12亿元购入恒大足球俱乐部50%股权，阿里巴巴与恒大合股经营球队，恒大淘宝足球俱乐部随后挂牌新三板，互联网资本大举进入中国足球的信号弹升空。",
+  "detail": "马云与许家印在香港喝酒敲定合作，球队更名恒大淘宝队。2015年11月恒大淘宝登陆新三板成亚洲足球第一股，市值一度超300亿元。同年国务院46号文把体育产业推向风口，中超版权随后卖出5年80亿元天价。",
+  "impact": "互联网资本为中超金元时代添薪加火，足球商业化的估值逻辑被彻底改写。",
+  "aftermath": "2021年恒大暴雷俱乐部解散退出；金元足球退潮后，中国足球进入漫长的去泡沫周期。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "广州恒大淘宝足球俱乐部 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/广州恒大淘宝足球俱乐部"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "马云",
+   "恒大足球",
+   "金元足球"
+  ]
+ },
+ {
+  "id": "2014-06-12-tesla-opens-patents",
+  "date": "2014-06-12",
+  "title": "马斯克宣布开放特斯拉全部专利：电动车界的开源宣言",
+  "summary_30s": "2014年6月12日，马斯克在博客宣布特斯拉出于善意不会对使用其专利者发起诉讼，实质开放全部电动车专利，以做大行业对抗燃油车存量利益，开源思想第一次被用于硬核制造。",
+  "detail": "马斯克称专利是弱者的武器，特斯拉真正的护城河是创新速度。此举降低传统车企电动化门槛，日产、宝马随即与特斯拉谈充电标准合作，超级充电网络NACS标准十年后被北美几乎全行业采纳。",
+  "impact": "推动电动车产业整体加速，专利开放成为后来开源自动驾驶、开放电池工厂等策略的思想源头。",
+  "aftermath": "2020年代中国车企凭供应链成本优势反向席卷全球市场，马斯克当年的开放哲学被反复引用。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "All Our Patent Are Belong To You - Tesla Blog",
+    "url": "https://www.tesla.com/blog"
+   },
+   {
+    "title": "Tesla, Inc. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+   }
+  ],
+  "tags": [
+   "特斯拉",
+   "专利开放",
+   "开源"
+  ]
+ },
+ {
+  "id": "2014-06-18-fire-phone-launch",
+  "date": "2014-06-18",
+  "title": "亚马逊Fire Phone发布：3D噱头难救的手机败局",
+  "summary_30s": "2014年6月18日，贝索斯亲自发布亚马逊首款手机Fire Phone，动态视角3D界面与Firefly物体识别炫技，但定价过高、生态匮乏，上市两月降价至99美分清仓，写下电商巨头做手机最惨烈的注脚。",
+  "detail": "Fire Phone搭载四前置摄像头实现裸眼3D倾斜操作，深度绑定亚马逊购物与Prime生态，与运营商AT&T独家合约定价199美元起。销量惨败后亚马逊计提1.7亿美元库存减记，消费硬件策略收缩至Kindle、Echo与平板。",
+  "impact": "证明没有应用生态与渠道支撑的手机硬件必死，为后来互联网厂商造机的成败清单补上关键一条。",
+  "aftermath": "Fire Phone团队部分转入Echo与Alexa项目，意外成就了智能音箱时代；手机成为亚马逊永不再提的往事。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Fire Phone - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fire_Phone"
+   },
+   {
+    "title": "Amazon",
+    "url": "https://www.aboutamazon.com/"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "Fire Phone",
+   "产品失败"
+  ]
+ },
+ {
+  "id": "2014-06-24-xunlei-ipo",
+  "date": "2014-06-24",
+  "title": "迅雷上市：下载帝国的移动化迟到",
+  "summary_30s": "2014年6月24日，迅雷终于登陆纳斯达克，经历多年波折的下载工具巨头以云加速与会员服务上市，但移动时代下载需求的萎缩已写在招股书的增长曲线上。",
+  "detail": "迅雷以P2P下载技术起家，会员加速与迅雷看看构成收入支柱，上市前砍掉部分版权风险业务并引入小米投资。上市后股价先扬后抑，公司先后试水迅雷商城、星域CDN与玩客云，2017年All in 区块链的玩客币风波引来监管问询。",
+  "impact": "成为PC工具类公司转型困境的代表性样本，下载这个互联网基本动作被流媒体与云盘彻底改写。",
+  "aftermath": "迅雷此后以海外版与短视频下载工具续命，市值较巅峰缩水九成；邹胜龙让位于联合创始人于菲后淡出。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "迅雷 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/迅雷"
+   },
+   {
+    "title": "Nasdaq",
+    "url": "https://www.nasdaq.com/"
+   }
+  ],
+  "tags": [
+   "迅雷",
+   "上市",
+   "下载工具"
+  ]
+ },
+ {
+  "id": "2014-06-25-material-design",
+  "date": "2014-06-25",
+  "title": "谷歌发布Material Design：设计语言的统一帝国",
+  "summary_30s": "2014年6月25日I/O大会上，谷歌发布Material Design设计语言，以纸张隐喻、Z轴阴影与大胆配色统一安卓、网页与穿戴全平台，谷歌从设计散乱走向体系化美学。",
+  "detail": "Matías Duarte主导的设计体系把物理质感引入数字界面，动效、栅格与色板全部规范化，配套设计规范网站开放给全球开发者。Android 5.0棒棒糖首搭，此后ChromeOS、YouTube、Gmail全面换装，2021年Material You进化到个性化动态主题。",
+  "impact": "终结安卓界面碎片化的视觉灾难，成为与苹果HIG并列的移动设计两大范式，国内ROM与App设计全面借鉴。",
+  "aftermath": "Material 3时代设计系统与动态取色、折叠屏适配送代，设计语言成为平台生态的软实力标配。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Material Design - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Material_Design"
+   },
+   {
+    "title": "Material Design",
+    "url": "https://m3.material.io/"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Material Design",
+   "设计语言"
+  ]
+ },
+ {
+  "id": "2014-06-26-gopro-ipo",
+  "date": "2014-06-26",
+  "title": "GoPro上市：运动相机的资本高潮",
+  "summary_30s": "2014年6月26日，运动相机厂商GoPro登陆纳斯达克，首日大涨31%，市值一度近60亿美元，极限运动加UGC内容社区的故事让资本市场相信硬件也能有社交想象力。",
+  "detail": "创始人伍德曼以帆船带绑相机的原型起家，Hero系列成为极限运动标配。上市后GoPro进军内容平台、无人机与360相机，但手机防抖崛起与大疆的碾压让硬件增长熄火，2018年后裁员收缩，市值蒸发九成。",
+  "impact": "开启消费影像设备的创业与投资热，带动大疆、影石等中国厂商在运动与全景相机赛道接力称王。",
+  "aftermath": "Insta360影石2020年代登顶全景相机全球第一，GoPro沦为小众，中国供应链完成对这一品类的接管。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "GoPro - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/GoPro"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "GoPro",
+   "运动相机",
+   "上市"
+  ]
+ },
+ {
+  "id": "2014-07-01-surround-the-cat-viral",
+  "date": "2014-07-01",
+  "title": "《围住神经猫》爆红：H5游戏的三日狂欢",
+  "summary_30s": "2014年7月，H5游戏《围住神经猫》在朋友圈刷屏，上线三天页面访问量过亿，简单的围堵玩法加魔性白猫动图证明微信社交链的恐怖分发力，也点燃了H5小游戏营销的热潮。",
+  "detail": "游戏由南京泥巴怪团队开发，玩法来自日本游戏《围住神经猫》式围追堵截，美术粗糙反而成为笑点。开发周期仅一天半，三人小团队创造了H5游戏的传播纪录，此后微信朋友圈成为H5营销、测试类小游戏的主战场。",
+  "impact": "确立轻量化H5内容在社交平台的裂变打法，为小游戏生态与营销创意工业化提供原型。",
+  "aftermath": "2017年微信小游戏平台化，跳一跳接棒成为全民爆款；H5营销则成为品牌运营的常规弹药。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "围住神经猫 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   }
+  ],
+  "tags": [
+   "围住神经猫",
+   "H5游戏",
+   "朋友圈裂变"
+  ]
+ },
+ {
+  "id": "2014-07-02-gujianqitan-streaming-hit",
+  "date": "2014-07-02",
+  "title": "《古剑奇谭》开播：IP剧与网络播放量的第一个百亿",
+  "summary_30s": "2014年7月2日，改编自国产游戏的仙侠剧《古剑奇谭》开播，李易峰、杨幂主演，全网播放量破百亿，开创仙侠IP加流量明星加网络独播的组合打法，IP剧时代正式引爆。",
+  "detail": "剧集在芒果TV等平台多轮分销，网络播放量统计首次成为宣发核心指标，李易峰、陈伟霖凭剧跃升顶级流量。此后花千骨、诛仙青云志等仙侠IP接连影视化，网络文学与游戏IP版权价格一年数倍上涨。",
+  "impact": "确立播放量崇拜与流量明星体系，视频网站以独播大剧拉新会员的内容军备就此开跑。",
+  "aftermath": "2018年后收视造假与唯流量论遭治理，播放量指标被热度值替代；仙侠剧至今仍是长视频第一大品类。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "古剑奇谭 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/古剑奇谭_(电视剧)"
+   },
+   {
+    "title": "芒果TV",
+    "url": "https://www.mgtv.com/"
+   }
+  ],
+  "tags": [
+   "古剑奇谭",
+   "IP剧",
+   "网络播放量"
+  ]
+ }
+]

@@ -1,0 +1,600 @@
+[
+ {
+  "id": "1997-04-11-wangxiaobo-dies",
+  "date": "1997-04-11",
+  "title": "作家王小波因心脏病突发辞世：『一只特立独行的猪』从此远行人间",
+  "summary_30s": "1997年4月11日凌晨，王小波因心脏病突发在北京家中去世，年仅45岁。彼时《时代三部曲》尚未大热，数月后其杂文与小说迅速风行，『特立独行』成为一代青年的精神暗号。",
+  "detail": "王小波曾任人民大学讲师，后辞职做自由撰稿人，以《黄金时代》《沉默的大多数》确立风格：黑色幽默、理性思辨与对个体自由的坚持。生前作品出版艰难，身后声名骤起，1997年5月《时代三部曲》由花城出版社推出。『好看的皮囊千篇一律』式的传播中，其文本被反复重读与误读。",
+  "impact": "王小波的杂文塑造了世纪之交中文互联网的论辩趣味，早期BBS上的『王小波门下走狗』现象是网络文学社群的雏形之一。",
+  "aftermath": "每年4月11日读者自发纪念，其妻李银河继续推动其思想遗产的传播。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "王小波",
+    "url": "https://zh.wikipedia.org/wiki/王小波_(作家)"
+   }
+  ],
+  "tags": [
+   "王小波",
+   "作家",
+   "杂文",
+   "网络文化"
+  ]
+ },
+ {
+  "id": "1997-04-24-wttc-manchester",
+  "date": "1997-04-24",
+  "title": "第四十四届世乒赛曼彻斯特开幕：中国队豪取六冠续写世界乒坛统治力",
+  "summary_30s": "1997年4月24日至5月5日，第44届世乒赛在英国曼彻斯特举行。中国队斩获六项冠军，邓亚萍女单登基，瑞典男队凭借瓦尔德内尔抢走男团奖杯，成为国乒王朝中少有的挫折注脚。",
+  "detail": "中国队在男女单打、双打与混双上全面开花，刘国梁、邓亚萍领衔。男团决赛瑞典队3比2险胜，瓦尔德内尔关键场次独得两分，欧洲乒坛最后一次在团体大赛上击败中国。本届中国队合计六冠，延续1995年天津世乒赛以来的强势。",
+  "impact": "曼彻斯特的男团失利促使国乒加速新老交替与打法创新，为悉尼周期横扫奠定基础；邓亚萍此后完成大满贯加冕。",
+  "aftermath": "瓦尔德内尔被誉为『游击队长』长青至2004年雅典，中瑞对抗成为乒坛世纪经典。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 World Table Tennis Championships",
+    "url": "https://en.wikipedia.org/wiki/1997_World_Table_Tennis_Championships"
+   }
+  ],
+  "tags": [
+   "世乒赛",
+   "中国乒乓",
+   "瓦尔德内尔",
+   "曼彻斯特"
+  ]
+ },
+ {
+  "id": "1997-05-01-blair-elected",
+  "date": "1997-05-01",
+  "title": "布莱尔率领新工党在英国大选大胜：保守党十八年执政时代宣告落幕",
+  "summary_30s": "1997年5月1日，英国大选中布莱尔率领的新工党赢得418席压倒性胜利，终结保守党18年执政。43岁的布莱尔入主唐宁街10号，成为20世纪最年轻的英国首相，开启『新英国』议程。",
+  "detail": "布莱尔改造工党、删除党章公有制条款，以『第三条道路』争取中间选民。保守党因内耗与经济周期下台，梅杰承认败选。工党在苏格兰、威尔士全面胜出，推动权力下放公投，次年成立苏格兰议会。戴安娜之死、北爱谈判构成其执政初期的大事件。",
+  "impact": "新工党的胜利重塑了欧洲中左政党的路线，福利改革与市场化并进的『第三条道路』成为全球政治学热词。",
+  "aftermath": "布莱尔连任至2007年，伊拉克战争令其声望重挫，工党2010年败选下野。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 United Kingdom general election",
+    "url": "https://en.wikipedia.org/wiki/1997_United_Kingdom_general_election"
+   }
+  ],
+  "tags": [
+   "英国",
+   "布莱尔",
+   "工党",
+   "大选"
+  ]
+ },
+ {
+  "id": "1997-05-01-aim-launch",
+  "date": "1997-05-01",
+  "title": "美国在线AIM即时通讯服务上线：好友列表文化在北美年轻一代中扎根",
+  "summary_30s": "1997年，美国在线把内部通讯工具改造成面向所有网民的AIM并随客户端分发。花名册、状态签名与离线消息成为一代美国青少年的数字社交启蒙，其用户数巅峰期逾三千万人。",
+  "detail": "AIM脱胎于AOL收购的Buddy List技术，界面简洁，可以自建聊天室。尽管AOL同期已收购ICQ，AIM依托庞大拨号用户更快普及。1998年起『Buddy List』成为美国校园文化关键词，电影与剧集里反复出现AIM聊天窗口。MSN与雅虎通随后跟进其功能范式。",
+  "impact": "AIM把即时通讯确立为桌面互联网的标准应用，其交互设计为后来所有聊天软件确立基本形态。",
+  "aftermath": "Gtalk、Skype与社交网络兴起后AIM衰落，2017年12月正式关停，引发一代人的告别潮。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "AIM (software)",
+    "url": "https://en.wikipedia.org/wiki/AIM_(software)"
+   }
+  ],
+  "tags": [
+   "AIM",
+   "即时通讯",
+   "美国在线",
+   "网络社交"
+  ]
+ },
+ {
+  "id": "1997-05-07-pentium-ii",
+  "date": "1997-05-07",
+  "title": "英特尔发布奔腾II处理器：Slot 1插卡设计与多媒体指令集登场",
+  "summary_30s": "1997年5月7日，英特尔推出奔腾II，把Pentium Pro核心与MMX指令集封装进单边接触卡盒，主频233至300MHz起步。它成为90年代末PC黄金配置的代名词，也拉开与AMD、Cyrix的价格缠斗。",
+  "detail": "奔腾II采用Slot 1插槽，L2缓存半速外置，兼顾成本与性能。配合440LX芯片组与AGP显卡，『奔腾II+视窗98』组合主导1998年装机潮。英特尔同步推出至强品牌工作站版本，并因Slot 1授权策略与AMD对簿公堂。1999年奔腾III接棒。",
+  "impact": "奔腾II让多媒体与3D游戏在主流价位成为可能，推动PC进入家庭娱乐中心角色，中国『万元奔腾』风潮在其任内达到高潮。",
+  "aftermath": "Slot 1时代持续到2000年奔腾4出现，MMX到SSE的指令集演进延续至今。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Pentium II",
+    "url": "https://en.wikipedia.org/wiki/Pentium_II"
+   }
+  ],
+  "tags": [
+   "英特尔",
+   "奔腾II",
+   "CPU",
+   "个人电脑"
+  ]
+ },
+ {
+  "id": "1997-05-07-fifth-element",
+  "date": "1997-05-07",
+  "title": "吕克·贝松《第五元素》全球上映：法式科幻把未来纽约搬上大银幕",
+  "summary_30s": "1997年5月，吕克·贝松执导的《第五元素》上映，全球票房逾2.6亿美元。让-保罗·高缇耶设计的未来服装、橙色发型的莉露与布鲁斯·威利斯的出租车空战，构成90年代最鲜活的太空歌剧。",
+  "detail": "影片剧本由贝松16岁起构思，讲述23世纪出租车司机与完美生物莉露联手抵御黑暗势力。克里斯·塔克的主持人角色与歌剧院咏叹调场景成为影史经典。影片在戛纳影展作为开幕片放映，法国电影工业借此证明其也能操盘好莱坞级特效制作。",
+  "impact": "《第五元素》确立了法式漫画美学与好莱坞工业嫁接的范本，深刻影响了此后二十年科幻片的视觉设计语言。",
+  "aftermath": "莉露的橙色吊带装与『multi-pass』台词成为流行文化梗，影片4K修复版多次重映。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Fifth Element",
+    "url": "https://en.wikipedia.org/wiki/The_Fifth_Element"
+   }
+  ],
+  "tags": [
+   "科幻片",
+   "吕克·贝松",
+   "法国电影",
+   "太空歌剧"
+  ]
+ },
+ {
+  "id": "1997-05-10-lost-paradise-japan",
+  "date": "1997-05-10",
+  "title": "日本电影《失乐园》上映：中年婚外恋引爆东亚『失乐』社会大现象",
+  "summary_30s": "1997年5月，改编自渡边淳一同名小说的《失乐园》上映。役所广司与黑木瞳演绎的中年殉情引发东亚社会大讨论，『失乐』成为年度流行语，原作销量数百万册。",
+  "detail": "小说1995年起在《日本经济新闻》连载，写久木与凛子从偷情到殉情的过程。电影以唯美的摄影呈现禁忌之爱，主题歌《Tattoo》传唱一时。日本社会将其解读为泡沫破裂后中年失意的精神出口，中国读者通过盗版与译本同步追读，『失乐园』式婚外恋叙事在华语言情中长期回响。",
+  "impact": "《失乐园》把成人情感叙事带入大众畅销市场，也使渡边淳一成为东亚最畅销的日本作家之一。",
+  "aftermath": "渡边淳一2014年去世，小说至今再版不衰，被视为世纪末日本社会心态的文学切片。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "失楽園",
+    "url": "https://ja.wikipedia.org/wiki/失楽園"
+   }
+  ],
+  "tags": [
+   "日本电影",
+   "渡边淳一",
+   "社会现象",
+   "畅销小说"
+  ]
+ },
+ {
+  "id": "1997-05-15-amazon-ipo",
+  "date": "1997-05-15",
+  "title": "亚马逊正式挂牌纳斯达克上市：网上书店以亏损换增长的资本豪赌开局",
+  "summary_30s": "1997年5月15日，亚马逊以每股18美元在纳斯达克上市，融资5400万美元。上市时公司年营收仅1600万美元且持续亏损，贝索斯却宣告以长期增长为纲，开启电商史上最著名的扩张豪赌。",
+  "detail": "招股书中贝索斯写给股东的信直陈『我们不追求短期利润』。上市首日收盘23.5美元，此后股价随网络股热潮一路上扬。公司同期推出 Associates 联盟计划与一键下单专利，把『无限货架』理念推向极致。1998年亚马逊进军音乐与影视，品类扩张启动。",
+  "impact": "亚马逊把『增长优先于盈利』写进互联网公司教科书，其股东信成为此后科技创业的必读文献，也定义了电商资本化的想象空间。",
+  "aftermath": "2000年泡沫破裂股价跌去九成仍存活，2017年市值超万亿，验证了长线主义的复利。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Amazon (company)",
+    "url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "贝索斯",
+   "IPO",
+   "电子商务"
+  ]
+ },
+ {
+  "id": "1997-05-16-wangzengqi-dies",
+  "date": "1997-05-16",
+  "title": "散文家汪曾祺在北京因病逝世：『中国最后一个士大夫』从此谢幕人间",
+  "summary_30s": "1997年5月16日，作家汪曾祺在北京病逝，享年77岁。从《受戒》到《大淖记事》，他以冲淡笔墨写人间烟火，被称作『中国最后一个士大夫』，其谈吃文字至今畅销。",
+  "detail": "汪曾祺是沈从文弟子，西南联大出身，历经反右与文革，新时期以《受戒》复出，笔下的高邮水乡与市井吃食自成一家。晚年他大量写作散文随笔，《五味》《故乡的食物》让美文与饮食书写结合。他也曾参与样板戏《沙家浜》剧本改编，人生跨越时代沟壑。",
+  "impact": "汪曾祺恢复了汉语散文的松弛与雅致，影响了其后『闲适写作』与美食文学的整条脉络，是语文教材入选最多的当代作家之一。",
+  "aftermath": "高邮建汪曾祺纪念馆，其作品在短视频时代的『生活美学』风潮中再度走红。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "汪曾祺",
+    "url": "https://zh.wikipedia.org/wiki/汪曾祺"
+   }
+  ],
+  "tags": [
+   "汪曾祺",
+   "作家",
+   "散文",
+   "美食文学"
+  ]
+ },
+ {
+  "id": "1997-05-17-net169-launch",
+  "date": "1997-05-17",
+  "title": "中国公众多媒体通信网(169网)建成开通：拨号上网的大众化时代到来",
+  "summary_30s": "1997年5月17日世界电信日，全国范围的公众多媒体通信网(169网)宣布开通，用户以169拨号即可访问中文信息站点，资费低于163国际出口。169网把上网从科研单位推向寻常百姓家。",
+  "detail": "169网由原邮电部主导建设，各省市节点互联互通，主推中文信息服务，形成『省内信息省内涵游』的过渡形态。大量地方政府、媒体与企业在169网上建立首批站点。它与163网并行数年，用户以电话拨号按分钟计费，网吧与家庭用户由此快速增长。",
+  "impact": "169网大幅降低触网门槛，配合163扩容形成两级接入体系，是1997年『中国互联网元年』的基础设施底座，为1999年政府上网工程铺路。",
+  "aftermath": "随着163网扩容降价与统一互联网架构确立，169逐步并入全国互联网，其资费双轨制作废。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国公众多媒体通信网",
+    "url": "https://baike.baidu.com/item/中国公众多媒体通信网"
+   }
+  ],
+  "tags": [
+   "169网",
+   "拨号上网",
+   "邮电部",
+   "信息化"
+  ]
+ },
+ {
+  "id": "1997-05-17-zaire-becomes-drc",
+  "date": "1997-05-17",
+  "title": "扎伊尔改国名为刚果民主共和国：蒙博托三十二年独裁统治时代终结",
+  "summary_30s": "1997年5月17日，卡比拉领导的反政府武装攻入金沙萨，蒙博托流亡，扎伊尔更名为刚果民主共和国。持续32年的蒙博托统治与改国名闹剧一并落幕，但新乱局随即开启。",
+  "detail": "蒙博托1965年政变上台，以『真实性运动』把刚果改名扎伊尔，聚敛巨额财富。1996年卢旺达大屠杀余波引发第一次刚果战争，卡比拉的武装在多国支持下横扫全国。1997年5月17日政权更迭，卡比拉自任总统。1998年他与前盟友反目，第二次刚果战争爆发，卷入多国。",
+  "impact": "刚果的政权更迭牵动中非大湖地区格局，两次刚果战争被称为『非洲世界大战』，造成数百万人死亡，钴铜矿脉的地缘价值延续至今。",
+  "aftermath": "卡比拉2001年遇刺，其子小卡比拉执政至2019年，刚果东部冲突至今未息。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Zaire",
+    "url": "https://en.wikipedia.org/wiki/Zaire"
+   }
+  ],
+  "tags": [
+   "刚果",
+   "蒙博托",
+   "非洲",
+   "政权更迭"
+  ]
+ },
+ {
+  "id": "1997-06-25-duncan-draft",
+  "date": "1997-06-25",
+  "title": "NBA选秀蒂姆·邓肯状元及第：马刺用一年摆烂换来二十年王朝基石",
+  "summary_30s": "1997年6月25日，圣安东尼奥马刺以状元签选中维克森林大学的蒂姆·邓肯。这位心理学硕士此后19年全部效力马刺，五夺总冠军，被誉为历史最伟大的大前锋与最成功选秀。",
+  "detail": "马刺1996-97赛季因大卫·罗宾逊伤停而摆烂，幸运抽中状元。邓谦逊低调，与罗宾逊组成双塔，1999年即夺冠。其后GDP组合、波波维奇体系与『大基本功』风格成为联盟常青树。邓肯生涯场均19分10.8篮板，两次MVP，2016年退役。",
+  "impact": "邓肯定义了小市场球队以选秀与体系建队的成功范式，其稳定领导力成为职业体育的品格标杆。",
+  "aftermath": "2020年邓肯入选名人堂，马刺文化至今被联盟各队研究效仿。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 NBA draft",
+    "url": "https://en.wikipedia.org/wiki/1997_NBA_draft"
+   }
+  ],
+  "tags": [
+   "NBA",
+   "邓肯",
+   "马刺",
+   "选秀"
+  ]
+ },
+ {
+  "id": "1997-06-26-harry-potter-published",
+  "date": "1997-06-26",
+  "title": "《哈利·波特与魔法石》英国出版：全球出版史最大IP的第一页翻开",
+  "summary_30s": "1997年6月26日，布鲁姆斯伯里出版社首印500册出版《哈利·波特与魔法石》，其中300册赠予图书馆。谁也没料到这本『男孩巫师』小说将成为史上销量最高的图书系列之一。",
+  "detail": "作者J.K.罗琳当时是靠救济金生活的单亲母亲，书稿曾被十二家出版社拒绝。首印精装本如今拍卖价数万美元。次年美国 Scholastic 以10.5万美元买下美版版权，系列全球热销逾5亿册，翻译成80多种语言。电影、主题公园与衍生商品构成千亿美元产业。",
+  "impact": "哈利·波特重塑了青少年阅读与IP开发的商业范式，让一代人重拾长篇阅读，也把『午夜排队购书』变成全球性文化事件。",
+  "aftermath": "系列被译成中文后长期占据中国童书畅销榜首，2020年代舞台剧与游戏持续扩容这个魔法宇宙。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+   }
+  ],
+  "tags": [
+   "哈利·波特",
+   "J.K.罗琳",
+   "出版",
+   "儿童文学"
+  ]
+ },
+ {
+  "id": "1997-07-02-men-in-black",
+  "date": "1997-07-02",
+  "title": "《黑衣人》北美上映连庄票房榜：威尔·史密斯暑期档金字招牌铸成",
+  "summary_30s": "1997年7月2日，改编自漫画的《黑衣人》上映，连夺三周票房冠军，全球进账5.89亿美元。威尔·史密斯与汤米·李·琼斯的黑白搭档、墨光西服与神经消除棒成为科幻喜剧新经典。",
+  "detail": "影片讲述秘密组织MIB监管外星移民的故事，巴里·索南菲尔德以冷幽默与复古道具营造独特质感。威尔·史密斯演唱的同名主题曲登顶多国排行榜。影片以9000万美元成本撬动巨大利润，成为哥伦比亚影业的救命稻草。",
+  "impact": "《黑衣人》确立了漫画改编+黑人主角+暑期档的复利公式，威尔·史密斯自此成为好莱坞最具银行价值的明星之一。",
+  "aftermath": "系列续作与重启延续至今，黑衣人制服成为万圣节经典扮相。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Men in Black (1997 film)",
+    "url": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+   }
+  ],
+  "tags": [
+   "科幻喜剧",
+   "威尔·史密斯",
+   "好莱坞",
+   "漫画改编"
+  ]
+ },
+ {
+  "id": "1997-07-08-nato-madrid-summit",
+  "date": "1997-07-08",
+  "title": "北约马德里峰会邀请波捷匈三国入约：冷战后第一轮东扩进程正式启动",
+  "summary_30s": "1997年7月8日，北约马德里首脑会议决定邀请波兰、捷克、匈牙利加入，1999年三国正式入约。这是北约自冷战结束后的首次扩员，俄罗斯强烈反对，欧洲安全架构进入长期重构。",
+  "detail": "峰会公报同时声明北约不设扩员上限，罗马尼亚与斯洛文尼亚留在候选名单。此前北约与俄罗斯签署基本文件，成立常设联合理事会以安抚莫斯科。法德等对美主导节奏存在分歧。1999年3月三国入约仪式与科索沃危机几乎同步。",
+  "impact": "东扩把北约防线推向俄罗斯边境，冷战后短暂的合作蜜月终结，此后续轮扩员成为俄与西方结构性矛盾的根源之一。",
+  "aftermath": "北约已扩至32国，2023、2024年芬兰瑞典入约，安全边界争论延续到乌克兰战争。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 Madrid summit",
+    "url": "https://en.wikipedia.org/wiki/1997_Madrid_summit"
+   }
+  ],
+  "tags": [
+   "北约",
+   "东扩",
+   "欧洲安全",
+   "俄罗斯"
+  ]
+ },
+ {
+  "id": "1997-07-19-eva-movie",
+  "date": "1997-07-19",
+  "title": "《新世纪福音战士剧场版：Air/真心为你》上映：电视版争议终获终极解答",
+  "summary_30s": "1997年7月19日，EVA剧场版终章《Air/真心为你》在日本公映，为1996年电视版结局的巨大争议画上句点。真嗣与人类补完计划的终极选择引发持久解读，影片成为日本动画电影史的坐标之作。",
+  "detail": "电视版最后两集因预算与进度崩坏以意识流收尾，观众哗然。庵野秀明随后推出 Death & Rebirth 与本片，用极端的影像呈现补完计划的完成与拒绝。明日香对阵量产机的『觉醒』段落是作画史高峰。影片营收与争议俱高，成为后世『神作』论述的原点。",
+  "impact": "EVA确立制作委员会模式的商业框架，推动深夜动画、宅文化与世纪末心理叙事合流，影响此后几乎所有机器人与心理题材动画。",
+  "aftermath": "2007年起福音战士新剧场版四部曲重启，2021年《终》为这个跨越四分之一个世纪的IP收束。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The End of Evangelion",
+    "url": "https://en.wikipedia.org/wiki/The_End_of_Evangelion"
+   }
+  ],
+  "tags": [
+   "EVA",
+   "庵野秀明",
+   "日本动画",
+   "剧场版"
+  ]
+ },
+ {
+  "id": "1997-07-20-guoan-shenhua-9-1",
+  "date": "1997-07-20",
+  "title": "甲A联赛北京国安主场9比1狂胜上海申花：京沪大战的世纪惨案之夜",
+  "summary_30s": "1997年7月20日，甲A联赛北京国安在工体9比1血洗上海申花，创造中国顶级联赛最悬殊比分之一。卡西亚诺与安德雷斯各戴帽，『三个火枪手』威名传遍全国，工体之夜成为甲A时代标志性记忆。",
+  "detail": "上半场国安即以摧枯拉朽之势进球，安德雷斯、卡西亚诺与冈波斯三杆洋枪全面开花，申花后卫线彻底崩溃。终场9比1的比分让上海媒体称之『工体惨案』。该赛季申花最终夺冠，但这场惨败成为两队恩怨史上最刺眼的一页，国安球迷至今高唱『九比一』。",
+  "impact": "9比1浓缩了甲A黄金年代的城市对抗叙事，洋枪军团的威力促使各队加速引进外援，职业联赛的观赏性达到顶点。",
+  "aftermath": "此后多年京沪交锋均以此役为心理坐标，成为中国球迷代际记忆的共同资产。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国足球甲级A组联赛",
+    "url": "https://zh.wikipedia.org/wiki/中国足球甲级A组联赛"
+   }
+  ],
+  "tags": [
+   "甲A",
+   "北京国安",
+   "上海申花",
+   "京沪大战"
+  ]
+ },
+ {
+  "id": "1997-07-21-wnba-debut",
+  "date": "1997-07-21",
+  "title": "WNBA揭幕赛季在美国正式开打：北美女子职业体育联赛破土而出",
+  "summary_30s": "1997年6月21日WNBA首赛季开打，7月全明星周末助推声势。NBA背书的女子篮球联赛以稳定的场馆、转播与薪保障起步，库珀、斯伍普斯与莱斯利成为初代门面，全球女篮职业化由此提速。",
+  "detail": "WNBA由NBA理事会1996年批准创立，首季八队，纽约自由人队与休斯顿彗星队会师首届总决赛。彗星队完成四连冠，谢里尔·斯伍普斯、辛西娅·库珀与蒂娜·汤普森的王朝奠定联盟早期号召力。电视合约与家庭友好观赛时段是其商业模式关键。",
+  "impact": "WNBA证明了女子团队项目的商业可持续性，为全球女子职业联赛提供了薪酬、赛程与品牌运营的参照系，也推动美国女篮长期统治国际赛场。",
+  "aftermath": "2020年代WNBA迎来凯特琳·克拉克等新星带动的流量暴涨，联赛扩队至十三支。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "WNBA",
+    "url": "https://en.wikipedia.org/wiki/WNBA"
+   }
+  ],
+  "tags": [
+   "WNBA",
+   "女子篮球",
+   "职业体育",
+   "美国"
+  ]
+ },
+ {
+  "id": "1997-08-01-boeing-mcdonnell",
+  "date": "1997-08-01",
+  "title": "波音与麦道的世纪合并正式完成：全球民航客机制造形成双寡头格局",
+  "summary_30s": "1997年8月1日，波音以133亿美元换股并购麦道公司完成，全球民用客机制造形成波音与空客双寡头格局。麦道品牌淡出民航，其军用与火箭业务重构了波音防务版图。",
+  "detail": "并购谈判始自1996年12月，麦道在民用市场份额节节败落后接受合并。欧盟曾以垄断为由施压，波音让步开放独家供货条款后获批。麦道的F-15、F/A-18与德尔塔火箭随并购进入波音体系，后来的X-32竞标失利与之相关。原麦道总部圣路易斯成为波音防务中心。",
+  "impact": "合并终结了美国民航整机竞争的内耗，也让『双寡头』成为此后三十年全球大飞机市场的结构事实，供应链与定价权向两强集中。",
+  "aftermath": "波音2019年后因737 MAX危机陷入信任危机，民航制造双头格局的利弊再被审视。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Boeing",
+    "url": "https://en.wikipedia.org/wiki/Boeing"
+   }
+  ],
+  "tags": [
+   "波音",
+   "麦道",
+   "航空制造",
+   "并购"
+  ]
+ },
+ {
+  "id": "1997-08-09-lanxila-cable",
+  "date": "1997-08-09",
+  "title": "兰西拉光缆通信干线建成全线开通：信息天路把西藏接进全国骨干网络",
+  "summary_30s": "1997年8月9日，兰州-西宁-拉萨光缆干线全线开通，西藏首次接入全国长途光缆骨干网。这条平均海拔4000米的信息天路结束了西藏长途通信依赖明线与卫星的历史。",
+  "detail": "兰西拉光缆全长2754公里，穿越青藏高原与柴达木盆地，工程兵与邮电建设者高原施工近两年。开通后西藏可直拨全国与世界主要城市，互联网与数据业务随后入藏。1998年拉萨出现首批网吧与拨号用户，藏族学生开始触网。",
+  "impact": "兰西拉光缆是国家民族团结与信息化并进的标志性工程，为西藏广电覆盖、远程教育与后来的移动通信普及打下物理基础。",
+  "aftermath": "其后青蔐藏铁路光缆、川藏光缆相继建成，西藏2020年代行政村通宽带比例接近全覆盖。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "兰州-西宁-拉萨光缆通信干线",
+    "url": "https://baike.baidu.com/item/兰西拉光缆"
+   }
+  ],
+  "tags": [
+   "光缆",
+   "西藏",
+   "通信建设",
+   "信息化"
+  ]
+ },
+ {
+  "id": "1997-08-29-netflix-founded",
+  "date": "1997-08-29",
+  "title": "Netflix在加州斯科茨谷创立：从邮寄DVD到流媒体帝国的起点",
+  "summary_30s": "1997年8月29日，里德·哈斯廷斯与马克·伦道夫在加州创立Netflix。最初以邮寄租赁DVD起家，二十年后它改写了全球影视发行方式，把『刷剧』变成人类共同的娱乐习惯。",
+  "detail": "公司早期经营在线选购、邮局寄碟、无逾期费的订阅制，2000年曾提出以5000万美元卖给百视达被拒。2007年启动流媒体，2013年《纸牌屋》以数据驱动原创改写行业规则。创立日的种子资金来自哈斯廷斯出售Pure Software的收益。",
+  "impact": "Netflix首创的订阅制、算法推荐与全季放出模式，重塑了内容生产与消费的全链条，好莱坞权力结构因之重组。",
+  "aftermath": "Netflix全球订户超两亿，成为市值最高的娱乐公司之一；DVD邮寄业务2023年正式关闭。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Netflix",
+    "url": "https://en.wikipedia.org/wiki/Netflix"
+   }
+  ],
+  "tags": [
+   "Netflix",
+   "流媒体",
+   "DVD租赁",
+   "创业"
+  ]
+ },
+ {
+  "id": "1997-09-01-slashdot-launch",
+  "date": "1997-09-01",
+  "title": "科技社区Slashdot上线运行：『新闻为书呆子』开创极客门户范式",
+  "summary_30s": "1997年9月，Rob Malda创办的Slashdot上线，以社区投稿+编辑筛选+海量跟帖的模式聚合科技新闻。『Slashdotted』成为网站被流量淹没的代名词，开源社区由此有了舆论中枢。",
+  "detail": "站点口号 News for Nerds, Stuff that Matters，1998年并入Andover.net并于次年上市。其用户积分评论系统与分栏讨论是Reddit之前最重要的社区治理实验。1998年Mozilla源代码开放、2000年后的科技议题均在Slashdot掀起讨论风暴。",
+  "impact": "Slashdot确立了技术新闻的社区生产模式，其被点名的『服务器过载效应』是分布式流量压力的早期著名案例。",
+  "aftermath": "Digg与Reddit后来居上，Slashdot式微但仍在运营，是互联网社区史活化石。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Slashdot",
+    "url": "https://en.wikipedia.org/wiki/Slashdot"
+   }
+  ],
+  "tags": [
+   "Slashdot",
+   "开源社区",
+   "极客",
+   "网络文化"
+  ]
+ },
+ {
+  "id": "1997-09-01-wps97-release",
+  "date": "1997-09-01",
+  "title": "金山WPS 97发布上市：国产办公软件向Word发起绝地反击",
+  "summary_30s": "1997年秋，求伯君压上个人资产的WPS 97发布，在视窗平台上与微软Word正面竞争。虽未能撼动大局，但它保住了国产办公软件的火种，为后来WPS Office的免费翻身埋下伏笔。",
+  "detail": "DOS时代WPS曾占中文排版九成市场，Windows化后被Word挤压。金山一度发不出工资，求伯君卖掉别墅与豪车续写WPS 97。新品运行于Win32，兼容自有格式，靠政府采购与正版用户维持。1999年金山启动『红色正版风暴』，28元低价正版策略延续这一战线。",
+  "impact": "WPS 97是中国软件业『与狼共舞』叙事的象征，其挣扎促使产业与政策层反思盗版、正版化与国产替代的关系。",
+  "aftermath": "WPS Office借免费+移动化在2010年代翻身，月活设备数亿，登顶国产办公软件。",
+  "category": "product",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "WPS Office",
+    "url": "https://zh.wikipedia.org/wiki/WPS_Office"
+   }
+  ],
+  "tags": [
+   "WPS",
+   "金山",
+   "求伯君",
+   "国产软件"
+  ]
+ }
+]

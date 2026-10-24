@@ -1,0 +1,698 @@
+[
+ {
+  "id": "2012-06-26-xiaomi-4b-valuation",
+  "date": "2012-06-26",
+  "title": "小米完成融资估值40亿美元：手机圈冒出新贵",
+  "summary_30s": "2012年6月，小米完成第三轮2.16亿美元融资，估值达40亿美元。成立仅两年的公司估值逼近老牌厂商市值，雷军的铁人三项模式首次获得顶级资本盖章。",
+  "detail": "本轮由启明创投领投，淡马锡、IDG等跟投。雷军宣称小米当年上半年售出手机300余万台，全年目标600万台。估值公布后业界哗然，看空者称其为资本泡沫，米粉则奔走相告；小米之家门店与MIUI用户数同步高速增长。",
+  "impact": "为小米供应链赊账模式与后续扩张输血，国产手机创业潮获得标志性估值锚点，资本开始重仓移动互联网硬件。",
+  "aftermath": "小米估值三年内从40亿美元飙至450亿美元，2014年成为全球创业公司估值之王，2018年登陆港交所。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米"
+   },
+   {
+    "title": "雷军 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/雷军"
+   }
+  ],
+  "tags": [
+   "小米",
+   "融资",
+   "估值"
+  ]
+ },
+ {
+  "id": "2012-06-27-google-nexus7",
+  "date": "2012-06-27",
+  "title": "谷歌发布Nexus 7：199美元平板杀入主流",
+  "summary_30s": "2012年6月27日谷歌I/O大会发布Nexus 7，7英寸、199美元起，由华硕代工，成为首款真正意义上的安卓标杆平板，直接把小型平板拖入百美元战场。",
+  "detail": "Nexus 7搭载英伟达Tegra 3四核处理器，捆绑谷歌Play内容生态与25美元消费券，亏本硬件换内容收入的思路明显。发布首月出货上百万台，把Kindle Fire与iPad mini的未来对手关系提前写定。",
+  "impact": "确立安卓平板的参考设计，挤压山寨平板生存空间；小尺寸平板品类自此被验证。",
+  "aftermath": "iPad mini当年10月应战，7英寸平板在2013年前后短暂繁荣，随后被大屏手机与廉价安卓平板吞没。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nexus 7 (2012) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nexus_7_(2012)"
+   },
+   {
+    "title": "Google",
+    "url": "https://store.google.com/"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Nexus",
+   "平板"
+  ]
+ },
+ {
+  "id": "2012-06-30-leap-second-outage",
+  "date": "2012-06-30",
+  "title": "闰秒引发全球网站大宕机：Linux时间bug",
+  "summary_30s": "2012年6月30日夜间的闰秒调整触发Linux内核高精度计时缺陷，Reddit、LinkedIn、Yelp、Mozilla等大批网站与服务器集体宕机数小时，一次时间同步暴露了全球互联网底座的脆弱。",
+  "detail": "UTC在6月30日23:59:60插入闰秒，部分Linux内核对23:59:59出现两次回调，Java虚拟机与某些应用陷入死循环。工程师们以重启或系统时间回拨修复，亚马逊、GoDaddy等云服务商事后发布补丁与时间处理指南。",
+  "impact": "让全社会第一次意识到毫秒级时间同步是关键基础设施；谷歌此后公开闰秒抹平（smear）方案，被业界广泛采用。",
+  "aftermath": "2015、2016年闰秒再临前各大云厂商均已部署平滑方案；是否彻底废除闰秒成为国际计量界的长期争论。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Leap second - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Leap_second"
+   },
+   {
+    "title": "Google Leap Smear",
+    "url": "https://cloud.google.com/"
+   }
+  ],
+  "tags": [
+   "闰秒",
+   "宕机",
+   "基础设施"
+  ]
+ },
+ {
+  "id": "2012-07-02-apple-ipad-trademark-settlement",
+  "date": "2012-07-02",
+  "title": "苹果6000万美元和解iPad商标案：深圳唯冠的胜利",
+  "summary_30s": "2012年7月2日，苹果与深圳唯冠就iPad中国商标权达成和解，苹果支付6000万美元换得商标转让，行货iPad得以在大陆正常销售，一场拖了两年的商标阻击战落幕。",
+  "detail": "苹果2009年通过英国IP公司从台湾唯冠购得iPad商标，但深圳唯冠主张大陆商标不在交易之列并起诉禁售。广东省高院调解下双方和解，6000万美元中4000万归债务缠身的深圳唯冠债权人。事件被写入商学院知识产权教材。",
+  "impact": "给跨国公司上了一堂中国商标注册课，商标抢注与尽职调查此后成为外企入华标配动作。",
+  "aftermath": "深圳唯冠拿到和解款后仍未能翻身，2014年退市；iPad在华销售未受长期影响。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "iPad商标权纠纷 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPad"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "商标",
+   "唯冠"
+  ]
+ },
+ {
+  "id": "2012-07-17-mayer-joins-yahoo",
+  "date": "2012-07-17",
+  "title": "玛丽莎·梅耶尔出任雅虎CEO：谷歌基因的救赎尝试",
+  "summary_30s": "2012年7月17日，谷歌首位女工程师、副总裁玛丽莎·梅耶尔跳槽出任雅虎CEO，37岁的她挺着孕肚上任成为硅谷年度话题，雅虎开启五年梅耶尔时代。",
+  "detail": "梅耶尔执掌后重注产品与移动，先后豪掷10亿美元收购Tumblr、重金打造原创内容与雅虎新闻摘要App，并推动股价从低谷回升。但核心广告份额持续流失，2013年 Tumblr收购与2014年阿里上市带来的股权收益掩盖不了主业颓势。",
+  "impact": "雅虎从广告公司重回产品公司的叙事一度重燃资本市场热情；硅谷大公司高管跨界救主成为风潮话题。",
+  "aftermath": "2016年Verizon以48亿美元收购雅虎核心资产，梅耶尔离任，雅虎作为独立公司谢幕。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "玛丽莎·梅耶尔 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/玛丽莎·梅耶尔"
+   },
+   {
+    "title": "Yahoo! - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!"
+   }
+  ],
+  "tags": [
+   "雅虎",
+   "梅耶尔",
+   "硅谷"
+  ]
+ },
+ {
+  "id": "2012-07-19-cnnic-mobile-surpass-pc",
+  "date": "2012-07-19",
+  "title": "CNNIC报告：手机首次超越台式电脑成第一上网终端",
+  "summary_30s": "2012年7月19日发布的第30次CNNIC报告显示，截至6月底中国网民5.38亿，其中手机网民3.88亿，手机首次超越台式电脑成为第一大上网终端，中国移动互联网元年有了官方坐标。",
+  "detail": "报告显示网民中用手机上网比例升至72.2%，台式机为70%左右并首度被反超。智能手机千元机普及、3G资费下降与安卓应用生态爆发是主因。腾讯、百度、阿里当年全部把移动优先写入公司战略。",
+  "impact": "成为行业分水岭：移动产品岗位、应用分发、移动广告体系在随后一年全面崛起，PC互联网公司开始集体焦虑转型。",
+  "aftermath": "2014年中国手机网民规模全面超越PC网民，移动端在电商、支付、出行等场景先后完成对PC的反超。",
+  "category": "internet",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国互联网络信息中心（CNNIC）",
+    "url": "https://www.cnnic.net.cn/"
+   },
+   {
+    "title": "第30次中国互联网络发展状况统计报告",
+    "url": "https://www.cnnic.net.cn/"
+   }
+  ],
+  "tags": [
+   "CNNIC",
+   "移动互联网",
+   "统计报告"
+  ]
+ },
+ {
+  "id": "2012-08-01-kuaidi-dache-launch",
+  "date": "2012-08-01",
+  "title": "快的打车上线：杭州杀出打车软件第二极",
+  "summary_30s": "2012年8月，吕传伟与阿里背景团队在杭州推出快的打车，与此前上线的滴滴打车形成南北对峙，出租车电召软件从工具创业变成巨头代理人的预演。",
+  "detail": "快的由杭州快智科技研发，很快接入支付宝作为支付通道，背靠阿里系资源在长三角铺开。它与摇摇招车、大黄蜂等一批同期产品争夺司机端装机，地推团队深夜蹲守机场火车站教司机装App成为行业经典画面。",
+  "impact": "双寡头格局雏形初现，为2014年腾讯滴滴、阿里快的的补贴大战搭好舞台，出租车行业数字化从此不可逆。",
+  "aftermath": "快的2015年2月与滴滴合并，2016年品牌停用；其支付宝通道与长三角地盘成为合并后的重要遗产。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "快的打车 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/快的打车"
+   },
+   {
+    "title": "滴滴出行 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/滴滴出行"
+   }
+  ],
+  "tags": [
+   "快的打车",
+   "O2O",
+   "打车软件"
+  ]
+ },
+ {
+  "id": "2012-08-01-walmart-yihaodian-control",
+  "date": "2012-08-01",
+  "title": "沃尔玛控股1号店：传统零售巨头的电商落子",
+  "summary_30s": "2012年8月，商务部批准沃尔玛增持1号店至约51%，世界最大零售商在华重注网上超市，自营快消电商迎来最强供应链玩家，也开启了大卖场数字化转型的漫长试错。",
+  "detail": "沃尔玛2011年先参股1号店，2012年2月提出增持至控股，8月获批交割。1号店以网上超市模式在北上广深经营，曾以百万SKU与一日三配著称。控股后沃尔玛导入全球采购与供应链管理，但内部整合与文化磨合异常艰难。",
+  "impact": "标志外资零售巨头全面正视电商，也把线上超市的重资产模式推向深水区，整合之难给行业上了一课。",
+  "aftermath": "1号店长期亏损，2016年沃尔玛将其卖给京东换股合作，品牌2018年停用；网上超市的答卷最终由京东超市与天猫超市写下。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "1号店 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/1号店"
+   },
+   {
+    "title": "Walmart",
+    "url": "https://www.walmart.com/"
+   }
+  ],
+  "tags": [
+   "沃尔玛",
+   "1号店",
+   "电商"
+  ]
+ },
+ {
+  "id": "2012-08-01-knight-capital-rampage",
+  "date": "2012-08-01",
+  "title": "骑士资本45分钟亏4.4亿美元：算法交易的世纪事故",
+  "summary_30s": "2012年8月1日，做市商骑士资本部署新程序时误用旧代码，45分钟内向纽交所发出错误订单，公司巨亏4.4亿美元濒临破产，量化交易的尾部风险一战成名。",
+  "detail": "工程师在多达8台服务器中的1台遗漏部署新代码，Rep代码被重新激活，开盘后系统疯狂买卖约150只股票并自动反向平仓，纽交所一度考虑取消异常成交。骑士资本随后靠JPMorgan等机构4亿美元紧急注资续命，次年并入GETCO。",
+  "impact": "成为程序化交易风险管理的经典案例，各国监管随后强化算法报备与熔断机制设计。",
+  "aftermath": "高频做市行业加速集中，骑士品牌消失；这堂价值4.4亿美元的部署课至今仍是软件工程的必讲教材。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Knight Capital Group - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+   },
+   {
+    "title": "SEC press release",
+    "url": "https://www.sec.gov/"
+   }
+  ],
+  "tags": [
+   "算法交易",
+   "金融危机",
+   "量化"
+  ]
+ },
+ {
+  "id": "2012-08-16-xiaomi-mi2-launch",
+  "date": "2012-08-16",
+  "title": "小米2发布：1999元四核旗舰的性价比巅峰",
+  "summary_30s": "2012年8月16日，雷军在798艺术区发布小米2，四核1.5GHz处理器、2GB内存、28纳米制程，仍是1999元，首发抢购几分钟售罄，为发烧而生达到声量顶点。",
+  "detail": "小米2采用APQ8064四核与720P屏幕，跑分碾压同价位机型。发布会上雷军逐一对比友商参数，饥饿营销加工程机发售引发数十万人在线抢购，黄牛加价数百元成为常态。当年小米出货719万台，营收126亿元。",
+  "impact": "1999元四核把国产旗舰性价比标准焊死，中华酷联的运营商定制模式开始被互联网直销模式挑战。",
+  "aftermath": "小米2系列生命周期销量超千万，2013年小米出货破千万台跻身中国前列，互联网手机模式正式跑通。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米手机2 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米手机"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米",
+   "发布会",
+   "性价比"
+  ]
+ },
+ {
+  "id": "2012-08-24-apple-v-samsung-verdict",
+  "date": "2012-08-24",
+  "title": "苹果诉三星世纪判决：10.5亿美元赔偿改写手机专利战",
+  "summary_30s": "2012年8月24日，美国加州圣何塞联邦陪审团裁定三星侵犯苹果多项设计与应用专利，赔偿10.49亿美元，全球智能手机专利大战迎来标志性一审判决。",
+  "detail": "陪审团认定三星Galaxy系列抄袭iPhone的圆角矩形外观、图标栅格与弹回滚动等专利。三星反诉未获支持，随后发起系列上诉与各国反击，案件缠讼多年，赔偿额几经削减。乔布斯生前对安卓发动热核战争的遗言成为本案注脚。",
+  "impact": "手机行业从此进入专利军备时代，外观设计专利价值被重估，厂商被迫在ID设计上大幅差异化。",
+  "aftermath": "2018年双方就所有在美诉讼达成和解；本案确立的design patent赔偿规则后来在美国最高法院被部分修正。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Apple Inc. v. Samsung Electronics Co. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Apple_Inc._v._Samsung_Electronics_Co."
+   },
+   {
+    "title": "三星电子 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/三星电子"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "三星",
+   "专利战"
+  ]
+ },
+ {
+  "id": "2012-08-26-yangdacai-smile-watch",
+  "date": "2012-08-26",
+  "title": "表哥杨达才：一块手表引发的微博反腐",
+  "summary_30s": "2012年8月26日陕西包茂高速36人遇难车祸现场，陕西省安监局长杨达才面带微笑的照片被拍到，网民人肉出其多块名表，网络反腐标志性一案就此引爆。",
+  "detail": "网友依据公开照片鉴定出杨达才拥有至少11块名表、多条名贵眼镜与皮带，表哥之名不胫而走。三峡大学学生刘艳峰依申请公开其工资。2013年9月，杨达才因受贿、巨额财产来源不明罪获刑14年，受贿金额与不明财产逾千万元。",
+  "impact": "证明微博围观加人肉搜索可倒逼纪检介入，网络反腐成为2012年最热的政治参与形式，廉政账户与官员财产公开讨论升温。",
+  "aftermath": "2013年起纪委系统强化有案必查，同时网络反腐的隐私与误伤争议引发规则讨论；表哥、房叔成为年度反腐热词。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "杨达才 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/杨达才"
+   },
+   {
+    "title": "网络反腐 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "网络反腐",
+   "微博",
+   "杨达才"
+  ]
+ },
+ {
+  "id": "2012-08-29-galaxy-note2-launch",
+  "date": "2012-08-29",
+  "title": "Galaxy Note II亮相IFA：大屏化浪潮定型",
+  "summary_30s": "2012年8月29日柏林IFA展前，三星发布Galaxy Note II，5.5英寸屏加升级S Pen，上市两个月销量破500万，手机大屏化从争议变成不可逆的行业方向。",
+  "detail": "初代Note的5.3英寸曾被讥为平板手机，Note II以更窄边框、多窗口分屏与悬浮触控笔回应质疑。同年9月iPhone 5仅加长到4英寸，对比之下大屏安卓机成为换机最大卖点，国产厂商迅速跟进5英寸以上机型。",
+  "impact": "确立了phablet品类合法性，屏幕尺寸从此成为中国厂商军备竞赛的第一战场。",
+  "aftermath": "2014年iPhone 6 Plus终于推出大屏版，三星的大屏先发红利收窄；Note系列2021年因Note 7阴影与产品线调整一度画句号。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Samsung Galaxy Note II - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_II"
+   },
+   {
+    "title": "Samsung",
+    "url": "https://www.samsung.com/"
+   }
+  ],
+  "tags": [
+   "三星",
+   "Note",
+   "大屏手机"
+  ]
+ },
+ {
+  "id": "2012-09-02-ig-wins-ti2",
+  "date": "2012-09-02",
+  "title": "iG夺Dota2国际邀请赛冠军：中国电竞的百万美元之夜",
+  "summary_30s": "2012年9月2日，iG战队在美国西雅图击败乌克兰NaVi夺得Dota2第二届国际邀请赛（TI2）冠军，瓜分100万美元奖金，中国电竞第一次在千万观众面前举起世界之巅奖杯。",
+  "detail": "iG由王思聪整合CCM战队而来，队内拥有Zhou、Ferrari_430、YYF等明星。决赛日中国观众通过直播熬夜观赛，微博与贴吧刷屏庆祝。此前中国Dota在War3时代已屡夺世界冠军，但百万美元奖金量级让电竞的社会能见度陡增。",
+  "impact": "证明电竞可以是大生意与国家荣誉叙事的结合体，俱乐部老板化、资本入场自此加速。",
+  "aftermath": "中国队此后多次问鼎TI（Newbee 2014、Wings 2016），Dota2与LOL共同把中国电竞推向职业化黄金十年。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "DOTA2国际邀请赛 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/DOTA2国际邀请赛"
+   },
+   {
+    "title": "Invictus Gaming - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Invictus_Gaming"
+   }
+  ],
+  "tags": [
+   "电竞",
+   "Dota2",
+   "iG"
+  ]
+ },
+ {
+  "id": "2012-09-03-baidu-cloud-strategy",
+  "date": "2012-09-03",
+  "title": "百度世界大会发布百度云：个人云存储大战开打",
+  "summary_30s": "2012年9月3日，百度世界大会以云为主题，发布百度个人云存储，提供免费大容量空间，与金山快盘、115网盘等拉开个人云存储补贴大战。",
+  "detail": "李彦宏宣布百度云提供2T免费空间，配套手机端同步、相册备份与离线下载，百度移动云战略全面亮相。此前后网易、金山、腾讯微云相继推出同类产品，网盘成为移动互联网的基础设施入口之争。",
+  "impact": "个人云存储免费化从此成为行业标准，手机照片云端备份的用户习惯被快速养成。",
+  "aftermath": "2016年监管收紧后大批网盘关停，百度网盘成为少数幸存者并占据主导，免费大容量模式转向限速会员制。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度网盘 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/百度网盘"
+   },
+   {
+    "title": "百度世界大会",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度",
+   "云存储",
+   "网盘"
+  ]
+ },
+ {
+  "id": "2012-09-05-lumia920-launch",
+  "date": "2012-09-05",
+  "title": "Lumia 920纽约发布：诺基亚押注Windows Phone",
+  "summary_30s": "2012年9月5日，诺基亚与微软在纽约发布Lumia 920，纯景拍照、无线充电与聚碳酸酯一体机身技惊四座，WP8旗舰承载着诺基亚最后的翻盘希望。",
+  "detail": "Lumia 920搭载纯景（PureView）光学防抖镜头，弱光成像领先同期对手；亮色一体成型外壳成为诺基亚设计语言。发布会演示视频爆出造假争议，加之WP8应用生态贫瘠、供货缓慢，销量远未达预期。",
+  "impact": "为手机影像、无线充电与瓷感机身工艺树立标竿，也宣告微软成为手机第三极的最后尝试。",
+  "aftermath": "Lumia系列 2013年凭1020再搏影像巅峰但仍无济于事，2013年手机业务并入微软，Windows Phone 2017年正式放弃。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nokia Lumia 920 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nokia_Lumia_920"
+   },
+   {
+    "title": "Microsoft Lumia - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Lumia"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "Windows Phone",
+   "Lumia"
+  ]
+ },
+ {
+  "id": "2012-09-17-wechat-200m-users",
+  "date": "2012-09-17",
+  "title": "微信用户突破2亿：14个月翻十倍",
+  "summary_30s": "2012年9月，腾讯宣布微信注册用户突破2亿，距破1亿仅过去不到7个月。语音对讲、摇一摇与朋友圈把熟人社交彻底搬上手机，米聊等对手被彻底甩开。",
+  "detail": "微信2011年1月上线，2012年3月破1亿，9月即破2亿，创造中国互联网产品最快增长纪录之一。当年4月上线朋友圈、8月上线公众平台，微信从聊天工具升维为社交平台。海外版WeChat同步在东南亚、拉美推广，马化腾称微信为腾讯拿到的移动互联网站台票。",
+  "impact": "移动互联网第一入口之争尘埃落定，短信与手机QQ的使用被结构性替代，中国进入全民微信时代的前夜。",
+  "aftermath": "微信2013年1月破3亿，此后成长为集支付、内容、小程序于一体的超级应用，成为中国移动互联网的操作系统级底座。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "微信",
+   "用户增长",
+   "社交"
+  ]
+ },
+ {
+  "id": "2012-09-18-alibaba-buys-back-yahoo-stake",
+  "date": "2012-09-18",
+  "title": "阿里回购雅虎持股：71亿美元换回控制权",
+  "summary_30s": "2012年9月18日，阿里巴巴完成向雅虎回购20%股份的一半，交易估值约71亿美元，马云拿回公司控制权，也为日后整体上市扫清最大障碍。",
+  "detail": "交易以63亿美元现金加最多8亿美元优先股完成，阿里同时一次性支付5.5亿美元知识产权许可费。雅虎当年转手套现改善自身困境，软银保持中间股东角色。协议还约定阿里上市时雅虎可再出售部分股份。",
+  "impact": "结束七年之痒的雅虎控制阴影，阿里治理结构理顺，中概股史上最重要的股权重组之一落槌。",
+  "aftermath": "阿里2014年9月纽交所IPO创全球最大纪录，雅虎因提前减持错失数百亿美元，成为雅虎史上最痛的败笔之一。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "阿里巴巴集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团"
+   },
+   {
+    "title": "Yahoo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!"
+   }
+  ],
+  "tags": [
+   "阿里巴巴",
+   "雅虎",
+   "股权回购"
+  ]
+ },
+ {
+  "id": "2012-09-19-apple-maps-fiasco",
+  "date": "2012-09-19",
+  "title": "苹果地图灾难：库克公开道歉的高光与狼狈",
+  "summary_30s": "2012年9月19日iOS 6上线，苹果以自研地图替换谷歌地图，结果定位漂移、地标变形、3D桥面扭曲，错误百出引发全球群嘲，库克罕见公开道歉并建议用户改用竞品。",
+  "detail": "苹果为去谷歌化仓促推出自研地图，数据与算法严重不足。蒂姆·库克发表公开信致歉，甚至推荐用户使用诺基亚、微软与谷歌的地图应用；负责iOS的高级副总裁斯科特·福斯托尔因此事件与Siri困境于10月底被迫离职。",
+  "impact": "证明地图是移动设备最难的基础能力之一，数据资产与算法积累无法一蹴而就；苹果地图从此走上长达数年的补救之路。",
+  "aftermath": "谷歌随后推出独立版iOS地图App大获好评；苹果地图多年后基本可用，但在中国大陆始终由高德提供数据服务。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Apple Maps - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Apple_Maps"
+   },
+   {
+    "title": "iOS 6 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IOS_6"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "地图",
+   "产品失败"
+  ]
+ },
+ {
+  "id": "2012-09-30-first-toll-free-holiday",
+  "date": "2012-09-30",
+  "title": "首个高速免费黄金周：自驾导航App的流量大考",
+  "summary_30s": "2012年9月30日起中秋国庆连休8天，全国收费公路首次对7座以下小客车免费，高速大堵车刷屏，手机地图导航与实时路况应用迎来第一次全民级实战。",
+  "detail": "免费首日多地高速瘫痪，京藏高速长龙、华山滞留成为年度记忆。高德、百度、图吧等导航App下载量暴增，实时路况与躲避拥堵功能被用户疯用，微博晒堵成为实时路况众包的雏形。",
+  "impact": "免费通行成为此后法定长假惯例，自驾出行常态化把手机导航推成刚需，LBS服务加速落地。",
+  "aftermath": "地图应用从驾车工具扩展到打车、外卖、共享单车等场景，高德与百度地图的双雄格局在随后几年成型。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "重大节假日免收小型客车通行费实施方案 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "高德地图 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/高德地图"
+   }
+  ],
+  "tags": [
+   "黄金周",
+   "高速免费",
+   "手机导航"
+  ]
+ },
+ {
+  "id": "2012-10-01-alexnet-imagenet",
+  "date": "2012-10-01",
+  "title": "AlexNet横扫ImageNet：深度学习时代的发令枪",
+  "summary_30s": "2012年秋，Hinton团队的两名学生用深度神经网络AlexNet在ImageNet大赛中把错误率一举拉低逾10个百分点，GPU训练的深度学习自此引爆，人工智能十年热潮由此发令。",
+  "detail": "AlexNet采用8层卷积网络、ReLU激活与双GPU训练，在1500万张图片的分类竞赛中以巨大优势夺冠。论文于当年12月在NIPS发表，作者Alex Krizhevsky、Ilya Sutskever与Geoffrey Hinton随即被谷歌招安。GPU算力与大数据的结合被证明是AI的正确打开方式。",
+  "impact": "重塑机器学习研究范式，神经网络从边缘学说变成显学，各大公司竞相组建深度学习团队。",
+  "aftermath": "2016年AlphaGo、2022年ChatGPT的源流都可追溯至此；Ilya Sutskever后来成为OpenAI联合创始人兼首席科学家。",
+  "category": "tech",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "AlexNet - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/AlexNet"
+   },
+   {
+    "title": "ImageNet - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ImageNet"
+   }
+  ],
+  "tags": [
+   "深度学习",
+   "ImageNet",
+   "人工智能"
+  ]
+ },
+ {
+  "id": "2012-10-01-fangshu-22-houses",
+  "date": "2012-10-01",
+  "title": "房叔事件：网络反腐再下一城",
+  "summary_30s": "2012年10月，网帖曝出广州番禺城管局政委蔡彬全家坐拥22套房产，房叔之称刷屏，随后其被立案查处，与表哥事件一道把网络反腐推上年度高潮。",
+  "detail": "网友依据网上房产信息与实名举报晒出蔡彬家庭名下21套房产证与市值数千万元的明细，当地纪委迅速介入。2013年蔡彬因受贿获刑。房叔、房姐、房妹在随后数月接连被曝，不动产信息联网与官员财产公开呼声高涨。",
+  "impact": "网络爆料成为纪检线索的重要来源，倒逼2014年不动产统一登记制度加速出台。",
+  "aftermath": "2015年《不动产登记暂行条例》施行，全国房产统一登记平台此后逐步建成，房叔式暴富无处遁形。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "蔡彬（房叔） - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "网络反腐 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "网络反腐",
+   "房产",
+   "微博"
+  ]
+ },
+ {
+  "id": "2012-10-01-diaosinanshi-web-sitcom",
+  "date": "2012-10-01",
+  "title": "《屌丝男士》上线：迷你网剧的流量奇迹",
+  "summary_30s": "2012年10月，大鹏自编自演的迷你喜剧《屌丝男士》在搜狐视频上线，以段子集锦加明星客串的短平快模式爆红，单集播放动辄数千万，网络自制剧第一次证明自己能打。",
+  "detail": "每集15分钟，大鹏以固定角色串联各种荒诞段子，柳岩、汤唯等数十位明星零片酬客串。剧集紧贴屌丝文化与网络热词，前三季总播放量数十亿，大鹏从主持人跃升网剧一哥，2015年借《煎饼侠》转战大银幕。",
+  "impact": "确立低成本高流量的网络喜剧范式，视频网站自制内容战略由此获得决定性弹药。",
+  "aftermath": "搜狐视频凭该剧跻身自制第一梯队；网剧、网综、网络大电影的黄金十年在随后几年全面展开。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "屌丝男士 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/屌丝男士"
+   },
+   {
+    "title": "搜狐视频",
+    "url": "https://tv.sohu.com/"
+   }
+  ],
+  "tags": [
+   "网剧",
+   "大鹏",
+   "搜狐视频"
+  ]
+ },
+ {
+  "id": "2012-10-01-yuanfang-meme",
+  "date": "2012-10-01",
+  "title": "元芳，你怎么看：神探句式刷屏",
+  "summary_30s": "2012年10月，元芳，你怎么看从电视剧《神探狄仁杰》的口头禅演变为全民句式，微博单话题数百万条，成为当年网络流行语的教科书案例。",
+  "detail": "剧中狄仁杰常问护卫李元芳：元芳，你怎么看？网友把它套在一切新闻跟帖与日常吐槽中，以元芳体求转发、求点评。人民日报等主流媒体也撰文盘点这一句式，年底当选年度十大网络用语。",
+  "impact": "显示影视台词经网络再语境化后的裂变能力，网络流行语从亚文化圈层走向全民表达。",
+  "aftermath": "此后 元芳体渐渐退潮，但截图加吐槽句式的表达方式沉淀下来，为表情包文化铺路。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "神探狄仁杰 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/神探狄仁杰"
+   },
+   {
+    "title": "元芳体 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "网络流行语",
+   "元芳体",
+   "电视剧"
+  ]
+ }
+]

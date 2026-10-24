@@ -1,0 +1,652 @@
+[
+ {
+  "id": "1999-06-17-western-development",
+  "date": "1999-06-17",
+  "title": "西部大开发战略在西安座谈会上正式提出：区域协调发展的世纪大抉择",
+  "summary_30s": "1999年6月17日，江泽民在西安举行的西北五省区国有企业改革和发展座谈会上提出，要抓住时机，实施西部大开发战略。此后退耕还林、西气东输、西电东送与青藏铁路等世纪工程相继启动。",
+  "detail": "1999年11月中央经济工作会议将西部大开发列为战略重点，2000年1月国务院成立西部地区开发领导小组，3月两会全面部署。首批措施包括退耕还林试点、基础设施与教育投入倾斜。西部十二省区此后二十年获得转移支付与重大项目集中投放。",
+  "impact": "西部大开发把区域平衡上升为国家战略，基础设施投资拉动内需的同时改变人口与产业布局，生态环境治理从破坏走向修复的转折亦由此开始。",
+  "aftermath": "2000年代退耕还林累计数亿亩，青藏铁路2006年通车，成渝双城经济圈成为新时代承接。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "西部大开发",
+    "url": "https://zh.wikipedia.org/wiki/西部大开发"
+   }
+  ],
+  "tags": [
+   "西部大开发",
+   "区域战略",
+   "退耕还林",
+   "基础设施"
+  ]
+ },
+ {
+  "id": "1999-07-16-jfk-jr-dies",
+  "date": "1999-07-16",
+  "title": "小约翰·肯尼迪驾机失事坠海遇难：美国最著名的政治世家再添悲剧",
+  "summary_30s": "1999年7月16日晚，小约翰·肯尼迪驾驶小型飞机与妻子、妻姐前往堂妹婚礼途中，在马萨葡萄园岛附近海域坠机，三人遇难，年仅38岁。肯尼迪家族的宿命悲剧再度震动美国。",
+  "detail": "JFK Jr.是遇刺总统之子，创办政治杂志George，被视为民主党的潜在希望。搜救五天后确认遇难，遗体海葬。其父亲1963年遇刺、叔叔1968年遇刺的家族记忆被媒体反复唤起。他幼年向父棺敬礼的照片是美国家庭相册级的记忆。",
+  "impact": "JFK Jr.之死令美国公众再度集体追忆肯尼迪时代，媒体24小时直播搜救与哀悼，名人隐私与报道伦理的争论随之升温。",
+  "aftermath": "肯尼迪政治世家的直系男性成员凋零，其妹妹卡罗琳2024年出版回忆录梳理家族往事。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "John F. Kennedy Jr.",
+    "url": "https://en.wikipedia.org/wiki/John_F._Kennedy_Jr."
+   }
+  ],
+  "tags": [
+   "肯尼迪家族",
+   "坠机",
+   "美国社会",
+   "讣告"
+  ]
+ },
+ {
+  "id": "1999-07-21-airport-wifi",
+  "date": "1999-07-21",
+  "title": "苹果发布iBook与AirPort基站：Wi-Fi第一次走进大众客厅",
+  "summary_30s": "1999年7月21日纽约Macworld上，乔布斯发布iBook笔记本与AirPort无线基站，内置802.11b网卡。5Mbps 无线上网的演示令全场惊呼，Wi-Fi从企业标准一跃成为消费电子卖点。",
+  "detail": "乔布斯在台上抱着iBook走过观众席，网页保持连接，AirPort的飞碟造型由乔纳森·艾维设计。11b标准于同年9月正式定稿，AirPort以299美元加速家庭无线局域网普及。Lucent提供的主控芯片随后数年统治Wi-Fi市场。",
+  "impact": "苹果把无线网络包装为人人可用的体验，笔记本移动性与家庭组网方式被重定义，咖啡馆办公与家庭多机上网的图景由此展开。",
+  "aftermath": "Wi-Fi联盟随后统一认证标志，2003年802.11g提速普及，AirPort产品线2016年停产。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "AirPort",
+    "url": "https://en.wikipedia.org/wiki/AirPort"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Wi-Fi",
+   "AirPort",
+   "iBook"
+  ]
+ },
+ {
+  "id": "1999-07-22-msn-messenger",
+  "date": "1999-07-22",
+  "title": "微软推出MSN Messenger Service：全球IM三巨头格局形成",
+  "summary_30s": "1999年7月22日，微软发布MSN Messenger Service，依托Hotmail用户体系与AOL互通请求搅动即时通讯市场。它与ICQ、雅虎通三分天下，为2005年Windows Live Messenger在中国白领圈的黄金时代奠基。",
+  "detail": "发布数日用户破十万，微软通过开放协议与反复互联互通试探触碰AOL封堵。中文版2000年代初进入中国，2005年更名Windows Live Messenger后，白领把MSN签名档当作轻社交舞台，蓝点忙碌状态成为办公室风景。移动时代其份额被微信取代。",
+  "impact": "MSN Messenger确立了跨账号、表情与状态签名的IM礼仪，中国职场白领的沟通文化与文件传输习惯与之深度绑定。",
+  "aftermath": "微软2013年宣布除中国大陆外全球关停，2014年10月31日大陆服务终止。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Windows Live Messenger",
+    "url": "https://en.wikipedia.org/wiki/Windows_Live_Messenger"
+   }
+  ],
+  "tags": [
+   "MSN",
+   "即时通讯",
+   "微软",
+   "网络社交"
+  ]
+ },
+ {
+  "id": "1999-07-21-mp3-com-ipo",
+  "date": "1999-07-21",
+  "title": "MP3.com在纳斯达克上市：数字音乐第一股盘中冲上105美元",
+  "summary_30s": "1999年7月21日，数字音乐网站MP3.com上市，发行价28美元，首日最高触及105美元。无数独立乐队借此直接面向听众，唱片业的渠道垄断在资本市场上第一次被宣判过时。",
+  "detail": "创始人迈克尔·罗伯逊以免费存储与分成模式聚合数十万首独立音乐，上市当日市值一度超过20亿美元。2000年其My.MP3.com云端曲库服务遭五大唱片联合起诉，判赔上亿美元，公司元气大伤，2001年被维旺迪收购。",
+  "impact": "MP3.com证明了数字音乐分发的需求真实存在，其诉讼确立的版权边界为后来iTunes与流媒体的合规路径标定了雷区。",
+  "aftermath": "2000年代初站点关停，独立音乐分发的接力棒交给了MySpace与后来的流媒体平台。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "MP3.com",
+    "url": "https://en.wikipedia.org/wiki/MP3.com"
+   }
+  ],
+  "tags": [
+   "MP3",
+   "数字音乐",
+   "IPO",
+   "版权"
+  ]
+ },
+ {
+  "id": "1999-07-30-blair-witch",
+  "date": "1999-07-30",
+  "title": "《女巫布莱尔》以两万美元成本狂揽两亿四：互联网病毒营销第一案",
+  "summary_30s": "1999年7月30日，《女巫布莱尔》大规模上映，伪纪录片形式的恐怖片以约2.2万至6万美元成本收获全球近2.5亿美元票房。官网虚构的失踪档案让无数网民信以为真，开创互联网病毒营销先河。",
+  "detail": "两位导演以手持DV拍摄学生进林寻巫的伪纪录，圣丹斯首映后被Artisan以110万美元买下，先以网络档案、Usenet与IRC放失踪传闻，再小规模限量放映制造稀缺。首周单馆票房创纪录，全球票房奇迹令好莱坞连夜研究其发行学。",
+  "impact": "本片确立了低成本恐怖片的网络营销方法论，直接启发《灵动：鬼影实录》等后续奇迹，也把『观众共创都市传说』写进发行手册。",
+  "aftermath": "伪纪录恐怖成为固定类型，其官网原始版仍被数字营销课程反复拆解。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Blair Witch Project",
+    "url": "https://en.wikipedia.org/wiki/The_Blair_Witch_Project"
+   }
+  ],
+  "tags": [
+   "女巫布莱尔",
+   "恐怖片",
+   "病毒营销",
+   "独立电影"
+  ]
+ },
+ {
+  "id": "1999-08-01-eachnet-founded",
+  "date": "1999-08-01",
+  "title": "邵亦波在上海创办易趣网：中国本土C2C网上拍卖市场正式开张营业",
+  "summary_30s": "1999年夏，哈佛MBA邵亦波与谭海音在上海创办易趣网，提供个人网上竞价交易平台。开业三月注册用户破十万，2002年 eBay 以3000万美元入股，中国C2C电商的教鞭由此传递。",
+  "detail": "易趣模仿eBay模式，以信用评价与网上支付尝试解决陌生交易信任问题，上海本地二手手机与电脑交易活跃。2003年eBay以1.5亿美元全资收购，同期马云秘密创办淘宝，以免费策略三年反超，2006年eBay易趣败退，邵亦波早前已淡出经营。",
+  "impact": "易趣完成了中国网民网上交易的第一课，其信用体系与拍卖文化被淘宝继承改造，中国电商竞争史上第一次巨头攻防战以此为舞台。",
+  "aftermath": "邵亦波转做经纬中国创始合伙人， eBay中国资产并入Tom集团后淡出市场。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "易趣网",
+    "url": "https://zh.wikipedia.org/wiki/易趣網"
+   }
+  ],
+  "tags": [
+   "易趣",
+   "C2C",
+   "电子商务",
+   "eBay"
+  ]
+ },
+ {
+  "id": "1999-08-06-china-netcom",
+  "date": "1999-08-06",
+  "title": "中国网通宽带通信公司在京挂牌成立：田溯宁操盘的电信新军杀入骨干网市场",
+  "summary_30s": "1999年8月6日，由中科院、广电总局、铁道部与上海市政府四家发起的中国网络通信有限公司(网通)成立，田溯宁出任总裁。它以宽带骨干网建设切入，成为打破电信垄断的新变量。",
+  "detail": "网通随即启动全国宽带IP骨干网建设，提出e基础设施概念，吸引亚信等承包商参与，数年间建成数万公里光缆。2002年电信南北分家后与北方电信合并为新网通，田溯宁任副总经理。网通上市与2008年重组联通的历程构成中国电信业改革的完整线索。",
+  "impact": "网通以新运营商身份验证了竞争对资费与建网速度的拉动，宽带概念经其推广进入大众视野，为中国互联网第二次浪潮提供管道基础。",
+  "aftermath": "2008年网通并入联通，其宽带遗产支撑了后来的联通宽带业务。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国网络通信集团",
+    "url": "https://zh.wikipedia.org/wiki/中国网络通信集团"
+   }
+  ],
+  "tags": [
+   "网通",
+   "宽带",
+   "田溯宁",
+   "电信改革"
+  ]
+ },
+ {
+  "id": "1999-08-06-sixth-sense",
+  "date": "1999-08-06",
+  "title": "《第六感》北美上映：I see dead people的世纪反转",
+  "summary_30s": "1999年8月6日，M·奈特·沙马兰的《第六感》上映，以4000万美元成本收获6.7亿美元票房，获六项奥斯卡提名。心理医生与能看见亡魂的男孩的故事，结尾大反转改写悬疑片语法。",
+  "detail": "布鲁斯·威利斯饰演的心理医生救治海利·乔·奥斯蒙饰演的男孩，红衣、门把与录音带细节埋线无数，二刷验证成为观影仪式。影片连续五周北美冠军，剧本反转被列为影史最伟大的结尾之一。沙马兰此后与反转标签终身绑定。",
+  "impact": "它把『看电影前不许剧透』变成全球礼仪，结尾反转成为商业悬疑片的标配追求，也令好莱坞重新青睐中等成本惊悚片。",
+  "aftermath": "影片全球重映多轮，台词 I see dead people 入选美国影史百大台词。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Sixth Sense",
+    "url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+   }
+  ],
+  "tags": [
+   "第六感",
+   "悬疑片",
+   "反转",
+   "好莱坞"
+  ]
+ },
+ {
+  "id": "1999-08-11-eclipse-europe",
+  "date": "1999-08-11",
+  "title": "本世纪最后一次日全食横扫欧洲大陆：两千万观众抬头共赴天文观测盛会",
+  "summary_30s": "1999年8月11日，本世纪最后一次欧洲可见的日全食从英国康沃尔经德法奥匈直抵黑海，约二十亿人生活在全食带附近。欧洲大陆交通与电信一度中断，日全食旅游成为现象。",
+  "detail": "全食带扫过人口稠密区，英国普利茅斯、德国斯图加特、罗马尼亚等地涌入数十万观测者，天气阴晴决定体验。科学家借机观测日冕与重力异常议题，欧洲电网与航空为此专门调度。中国媒体与天文团体组团赴欧观测，科普报道盛极一时。",
+  "impact": "这是电视与网络直播时代首场覆盖发达经济体的日全食，公众科学参与度空前，也催生了此后二十年的全球日食追逐旅行产业。",
+  "aftermath": "2009年长江日全食成为其精神续篇，数亿中国观众沿途观测。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Solar eclipse of August 11, 1999",
+    "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1999"
+   }
+  ],
+  "tags": [
+   "日全食",
+   "欧洲",
+   "天文",
+   "科学传播"
+  ]
+ },
+ {
+  "id": "1999-08-13-graf-retires",
+  "date": "1999-08-13",
+  "title": "网球女皇格拉芙宣布告别职业网坛：22座大满贯的金色年代就此落幕",
+  "summary_30s": "1999年8月13日，施特菲·格拉芙在法网夺冠、温网亚军后宣布退役，生涯22座大满贯单打金杯，连续377周世界第一的纪录至今无人企及，与阿加西的爱情是体坛佳话。",
+  "detail": "格拉芙1987年17岁首夺法网，1988年成就年度金满贯，全场地型的正手与步伐独步女子网坛。退役声明正值健康与动力考量，2001年与阿加西成婚。她的377周世界第一与前无古人的金满贯是WTA史上的绝对海拔。",
+  "impact": "格拉芙定义了女子职业网球的现代竞技标准，德国因她掀起网球热，其退役与阿加西的相伴成为体育叙事中罕见的完满结局。",
+  "aftermath": "2004年入选国际网球名人堂，其子也与网球结缘，家庭基金会长期投入儿童公益。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Steffi Graf",
+    "url": "https://en.wikipedia.org/wiki/Steffi_Graf"
+   }
+  ],
+  "tags": [
+   "网球",
+   "格拉芙",
+   "大满贯",
+   "退役"
+  ]
+ },
+ {
+  "id": "1999-08-27-tiberian-sun",
+  "date": "1999-08-27",
+  "title": "《命令与征服：泰伯利亚之阳》发售：RTS黄金年代的又一正统续章",
+  "summary_30s": "1999年8月27日，Westwood的《命令与征服：泰伯利亚之阳》全球发售，首周销量破百万。GDI与NOD在泰伯利亚蔓延的地球上续写战争，RTS热潮在世纪末再攀高峰。",
+  "detail": "游戏引入立体地形、可破坏环境与昼夜光影，伏地魔式反派凯恩的形象深入人心。VGSA装机房与网吧里，遭遇战与LAN对战是其主要打开方式。系列其后推出《红色警戒2》再创高峰。EA收购Westwood后的续作口碑起伏，2003年工作室被解散。",
+  "impact": "泰伯利亚之阳巩固了命令与征服作为RTS三大IP的地位，其战网式联机与录像回放功能影响后来的电竞化设计。",
+  "aftermath": "2020年EA发布重制版合集，凯恩的传奇在4K下重述。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Command & Conquer: Tiberian Sun",
+    "url": "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Tiberian_Sun"
+   }
+  ],
+  "tags": [
+   "命令与征服",
+   "RTS",
+   "Westwood",
+   "电子游戏"
+  ]
+ },
+ {
+  "id": "1999-08-30-east-timor-referendum",
+  "date": "1999-08-30",
+  "title": "东帝汶举行全民公投选择独立：亚洲最年轻的国家由此开始建国倒计时",
+  "summary_30s": "1999年8月30日，东帝汶就地位问题举行全民公投，78.5%的选民拒绝印尼自治方案选择独立。亲印尼民兵随即掀起暴力，澳大利亚领衔的多国部队9月进驻，联合国接管过渡行政。",
+  "detail": "葡萄牙1975年撤出后印尼出兵并吞东帝汶，联合国始终不予承认。哈桑纳尔·比利亚等领导人的抗争与天主教会斡旋促成公投。暴力摧毁了七成基础设施，联合国东帝汶过渡行政当局(UNTAET)治理近三年。2002年5月20日东帝汶正式独立，古斯芒任首任总统。",
+  "impact": "公投是联合国主持民族自决的当代范本，帝汶海油气收入分配与澳大利亚关系成为新国家的经济主线，也改写了东南亚地缘小格局。",
+  "aftermath": "东帝汶2012年结束维和留守，发展仍居世界后列，但独立进程本身成为小民族权利的象征。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "East Timorese independence referendum, 1999",
+    "url": "https://en.wikipedia.org/wiki/East_Timorese_independence_referendum,_1999"
+   }
+  ],
+  "tags": [
+   "东帝汶",
+   "公投",
+   "独立",
+   "联合国"
+  ]
+ },
+ {
+  "id": "1999-09-06-beijing-2008-bid-committee",
+  "date": "1999-09-06",
+  "title": "北京2008年奥运会申办委员会在京成立：八年奥运圆梦路就此出发",
+  "summary_30s": "1999年9月6日，北京2008年奥运会申办委员会在北京成立，确定新北京、新奥运的申办主题。经历1993年以两票之差惜败的北京再度出发，为2001年7月13日萨马兰奇念出北京埋下伏笔。",
+  "detail": "申办委由时任北京市长刘淇任主席，袁伟民任执行主席，确定绿色奥运、科技奥运、人文奥运三大理念。2000年悉尼奥运中国军团28金的强势表现提升了申办底气，2001年2月国际奥委会评估团报告给予高度评价。",
+  "impact": "申奥凝聚了世纪之交中国社会的发展共识，基础设施投资、环境治理与市民英语热随之启动，体育强国叙事与国家形象工程深度绑定。",
+  "aftermath": "2001年7月13日北京申奥成功，全国沸腾，2008年奥运会成为改革开放三十年的总展演。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2008年夏季奥林匹克运动会申办过程",
+    "url": "https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會申辦過程"
+   }
+  ],
+  "tags": [
+   "申奥",
+   "北京",
+   "奥运会",
+   "体育强国"
+  ]
+ },
+ {
+  "id": "1999-09-27-fortune-forum-shanghai",
+  "date": "1999-09-27",
+  "title": "《财富》全球论坛首次落地中国上海：中国未来五十年成为全球商界议题",
+  "summary_30s": "1999年9月27日至29日，财富全球论坛年会在上海举行，主题中国：未来五十年，三百余位跨国公司巨头与会。浦东世纪大道与科技馆因论坛加速成型，上海向世界展示世纪末的天际线。",
+  "detail": "江泽民出席晚宴致辞，与会者包括时代华纳、通用汽车、微软等全球掌门人，论坛安排参观了浦东张江与通用上海工厂。这是财富论坛第五次年会、首次选址中国内地。同期上海财富论坛效应带动了APEC 2001与后来的进博会序列。",
+  "impact": "论坛让跨国资本在亚洲金融危机后重新聚焦中国市场，入世前夜的上海成为跨国公司区域总部选址首选，中国加入全球化的舆论场就此打开。",
+  "aftermath": "《财富》论坛此后多次回到中国，1999年上海年会被视为外企中国战略的分水岭。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "财富全球论坛",
+    "url": "https://zh.wikipedia.org/wiki/財富全球論壇"
+   }
+  ],
+  "tags": [
+   "财富论坛",
+   "上海",
+   "全球化",
+   "跨国公司"
+  ]
+ },
+ {
+  "id": "1999-09-27-handspring-visor",
+  "date": "1999-09-27",
+  "title": "Palm创始团队携Handspring Visor回归：PDA战国再起",
+  "summary_30s": "1999年9月，被3Com排挤的Palm创始人Hawkins与Dubinsky推出Handspring Visor，Palm兼容系统加Springboard扩展槽，首日订单惊人。PDA大战在世纪末进入白热化。",
+  "detail": "Visor Deluxe以USB同步与多彩外壳吸引年轻用户，Springboard模块可插GPS、MP3与手机模块。2001年推出Treo系列转向智能手机，被视为触屏手机先驱。2003年Handspring与Palm的硬件部门重组合并，Treo成为Windows Mobile与黑莓之外的商务选择。",
+  "impact": "Visor证明离开大公司创始团队也能再造平台，其模块化思想与Treo形态深刻影响早期智能手机设计，中国水货市场上Visor与Treo拥有一批工程师粉丝。",
+  "aftermath": "Palm时代终被iPhone终结，但Graffiti与同步理念活在每一台手机里。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Handspring (company)",
+    "url": "https://en.wikipedia.org/wiki/Handspring_(company)"
+   }
+  ],
+  "tags": [
+   "Palm",
+   "PDA",
+   "Handspring",
+   "智能手机"
+  ]
+ },
+ {
+  "id": "1999-09-30-tokaimura-accident",
+  "date": "1999-09-30",
+  "title": "日本东海村核燃料厂发生核临界事故：两名操作员遭遇致命辐射剂量暴露",
+  "summary_30s": "1999年9月30日，茨城县东海村JCO核燃料加工厂发生核临界事故，两名操作员大内久与筱原理人受到超高剂量辐射，分别于83天与211天后死亡。这是日本首例核临界事故。",
+  "detail": "工人将铀溶液倒入不当沉淀槽，超出临界质量引发蓝光链式反应，厂区周边居民疏散避难。大内久的细胞染色体被辐射打得粉碎，医疗团队维持其生命83天，病历成为辐射医学最沉重的教材。事故直接推动日本《原子炉等规制法》修订与JCO停业。",
+  "impact": "东海村事故终结了日本核安全神话，为2011年福岛事故前的安全文化敲响警钟，全球核燃料循环设施的操作规程与临界安全管理随之收紧。",
+  "aftermath": "大内久之妻的著书与纪录片让公众直面辐射医疗伦理，核能的社会信任成为日本长期议题。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Tokaimura nuclear accident",
+    "url": "https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident"
+   }
+  ],
+  "tags": [
+   "核事故",
+   "东海村",
+   "辐射",
+   "日本"
+  ]
+ },
+ {
+  "id": "1999-10-01-rmb-fifth-series",
+  "date": "1999-10-01",
+  "title": "第五套人民币于国庆五十周年正式发行：毛泽东头像成为法定货币的面孔",
+  "summary_30s": "1999年10月1日，第五套人民币首发100元券在建国五十周年之际发行，票面统一采用毛泽东头像，防伪技术与版式全面升级。此后20元、10元等券别陆续投放，成为此后二十余年的国民货币面孔。",
+  "detail": "第五套人民币由中国人民银行组织设计，主景人像、水印、光变油墨与隐形面额数字等防伪手段大幅增强，辅以2005年与2015年版局部改版。人民银行同期回收第四套部分券别。新版币对假币治理与自助设备识钞起到关键作用。",
+  "impact": "第五套人民币见证中国货币总量从M2十余万亿到近三百万亿的扩张，也以统一人像强化了国家货币的识别度，票面上的风景与少数民族元素成为大众记忆。",
+  "aftermath": "2015年版100元土豪金延续该系列，数字人民币试点在2020年代展开。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "第五套人民币",
+    "url": "https://zh.wikipedia.org/wiki/第五套人民币"
+   }
+  ],
+  "tags": [
+   "人民币",
+   "央行",
+   "货币发行",
+   "国庆五十周年"
+  ]
+ },
+ {
+  "id": "1999-10-01-nokia-7110-wap",
+  "date": "1999-10-01",
+  "title": "诺基亚7110手机上市：全球首款WAP手机把移动互联网揣进口袋",
+  "summary_30s": "1999年秋，诺基亚7110作为全球首款支持WAP无线上网协议的手机上市，滑盖设计与香蕉曲线造型抢眼。手机看新闻、查股票的移动互联网雏形由此起步，虽体验粗糙却意义深远。",
+  "detail": "7110内置WAP 1.1浏览器，配合运营商WAP网关可访问以WML编写的简版网站，运营商随即推出按分钟计费的WAP套餐。滑盖下藏滚轮导航设计超前，因黑客帝国中基努·里维斯使用同款而声名大噪。中国移动2000年5月开通WAP商用服务。",
+  "impact": "WAP是移动互联网的第一次大规模实验，尽管资费高、内容少而失败，但其培育的用户习惯与运营商数据业务经验，成为2.5G GPRS彩信与3G时代的直接铺垫。",
+  "aftermath": "2007年iPhone以全网页浏览终结WAP遗产，移动互联网真正爆发。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Nokia 7110",
+    "url": "https://en.wikipedia.org/wiki/Nokia_7110"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "WAP",
+   "移动互联网",
+   "手机"
+  ]
+ },
+ {
+  "id": "1999-10-01-road-home-film",
+  "date": "1999-10-01",
+  "title": "张艺谋执导《我的父亲母亲》上映：章子怡以招娣一角惊艳国际影坛",
+  "summary_30s": "1999年秋，张艺谋执导的《我的父亲母亲》上映，章子怡饰演的招娣以奔跑与青花碗诠释纯爱叙事。影片获柏林电影节评审团大奖银熊奖，为张艺谋与章子怡的国际之路同时加冕。",
+  "detail": "影片以黑白现实与彩色回忆的双色结构讲述乡村教师的爱情往事，鲍十小说《纪念》改编，三宝的配乐催泪。柏林银熊之外，2001年又获奥斯卡最佳摄影提名，北美艺术院线长线放映。章子怡凭此片从舞蹈学生跃升国际影坛新人。",
+  "impact": "影片确立了中国式乡土抒情美学的当代模板，也标志着第五代导演由宏大历史叙事转向个体情感叙事的转折。",
+  "aftermath": "章子怡次年主演《卧虎藏龙》走向世界，本片在视频网站长期高分。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "我的父亲母亲 (电影)",
+    "url": "https://zh.wikipedia.org/wiki/我的父親母親_(電影)"
+   }
+  ],
+  "tags": [
+   "张艺谋",
+   "章子怡",
+   "文艺片",
+   "柏林电影节"
+  ]
+ },
+ {
+  "id": "1999-10-12-pakistan-coup",
+  "date": "1999-10-12",
+  "title": "穆沙拉夫发动一场不流血军事政变：巴基斯坦的文官政府再次被军方终结",
+  "summary_30s": "1999年10月12日，巴基斯坦陆军参谋长穆沙拉夫在访斯里兰卡归途上演政变，飞机降落前军方已控制全国，总理谢里夫被软禁。军人执政在巴基斯坦历史上再度上演，核阴影下的南亚局势更添变数。",
+  "detail": "谢里夫试图解除穆沙拉夫职务并拒绝其专机降落，军方抢先行动。穆沙拉夫宣布紧急状态，2001年自任总统，911事件后以反恐前线身份获得西方接纳。谢里夫流亡沙特，2007年回国再入政坛。穆沙拉夫2008年辞职，2013年受叛国罪审判。",
+  "impact": "政变延续了巴基斯坦军方对政治的最终裁量权传统，其后的反恐同盟关系重塑了阿富汗战争的地缘后勤线，也令巴国内文武关系与国际承诺的张力长期化。",
+  "aftermath": "穆沙拉夫2023年流亡迪拜去世，巴基斯坦政局仍频现危机。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1999 Pakistani coup d'état",
+    "url": "https://en.wikipedia.org/wiki/1999_Pakistani_coup_d%27%C3%A9tat"
+   }
+  ],
+  "tags": [
+   "巴基斯坦",
+   "政变",
+   "穆沙拉夫",
+   "南亚"
+  ]
+ },
+ {
+  "id": "1999-10-28-kingsoft-red-genuine",
+  "date": "1999-10-28",
+  "title": "金山公司发起红色正版风暴：28元一套正版软件第一次震动盗版市场",
+  "summary_30s": "1999年10月，金山公司以28元超低价推出《金山词霸2000》与《东方快车》正版套装，掀起红色正版风暴，百日销量突破百万套。中国软件业第一次向盗版市场证明价格弹性的力量。",
+  "detail": "此前正版词霸售价168元，销量惨淡。雷军与求伯君拍板将词霸2000定价28元，红色包装铺进书城与报亭，宣传语把正版与爱国情绪绑定。连邦等渠道商备货数百万套，创正版软件销售纪录。此后金山继续以低价策略推广正版。",
+  "impact": "风暴证明在盗版汪洋中，正版以合理价格+情感动员也能创造爆款，为游戏与工具软件的低价正版化提供了路径，也提升了公众的正版意识。",
+  "aftermath": "WPS其后推出个人版免费策略，2010年代WPS月活数亿，正版化以新模式完成。",
+  "category": "product",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "金山软件",
+    "url": "https://zh.wikipedia.org/wiki/金山軟件"
+   }
+  ],
+  "tags": [
+   "金山",
+   "正版",
+   "红色风暴",
+   "国产软件"
+  ]
+ },
+ {
+  "id": "1999-11-01-interest-tax",
+  "date": "1999-11-01",
+  "title": "中国储蓄存款利息税恢复征收：世纪末刺激消费扩大内需的政策一招",
+  "summary_30s": "1999年11月1日起，中国对个人储蓄存款利息恢复征收20%的个人所得税，旨在引导储蓄流向消费与投资。此举配合连续降息构成扩大内需组合拳，2007年税率下调、2008年暂免。",
+  "detail": "利息税1950年即开征、1959年停征，1979至1980年代曾有讨论。1999年8月人大常委会修订个税法恢复征收，11月1日实施，起征点即利息所得本身。当时居民储蓄近6万亿元，管理层期望撬动内需应对通缩压力。实施后储蓄增速有所放缓。",
+  "impact": "利息税是宏观调控从供给管理转向需求管理的标志性工具之一，其开征与暂免的轮回成为中国消费刺激政策演进的注脚。",
+  "aftermath": "2008年10月9日起暂免征收至今，居民理财从储蓄转向基金与楼市的历史进程在其间加速。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "利息税 - 百度百科",
+    "url": "https://baike.baidu.com/item/利息税"
+   }
+  ],
+  "tags": [
+   "利息税",
+   "个税",
+   "扩大内需",
+   "金融政策"
+  ]
+ },
+ {
+  "id": "1999-11-01-naruto-serialization",
+  "date": "1999-11-01",
+  "title": "《火影忍者》在周刊少年Jump开始连载：忍者少年的全球远征启程",
+  "summary_30s": "1999年11月，岸本齐史的《火影忍者》在《周刊少年Jump》开始连载。漩涡鸣人从吊车尾到火影的成长线陪伴读者十五年，全球漫画销量破两亿册，成为日本漫画出海的顶流之一。",
+  "detail": "连载初期以忍者学校的团队任务与考试篇积累人气，中忍考试篇令人气飙升。2002年动画开播后全球传播加速，中国观众经电视台与网络追番，忍者跑、结印手势成为校园流行模仿。2014年11月完结篇刊出，单行本72卷。",
+  "impact": "火影与同期死神、海贼王构成民工三漫时代，其热血羁绊叙事定义了一代青少年的情感结构，也把日本漫画产业推向数字全球化的高峰。",
+  "aftermath": "续作《博人传》延续IP生命，2020年代舞台剧与游戏持续开发。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "火影忍者",
+    "url": "https://zh.wikipedia.org/wiki/火影忍者"
+   }
+  ],
+  "tags": [
+   "火影忍者",
+   "少年Jump",
+   "漫画",
+   "民工三漫"
+  ]
+ },
+ {
+  "id": "1999-11-12-glba-signed",
+  "date": "1999-11-12",
+  "title": "美国正式废止《格拉斯-斯蒂格尔法》：金融混业经营的大闸门重新打开",
+  "summary_30s": "1999年11月12日，克林顿签署《金融服务现代化法》，废除1933年以来分业经营的格拉斯-斯蒂格尔墙，允许银行、证券、保险混业组建金融控股公司。花旗与旅行者的合并由此合法化。",
+  "detail": "法案争论二十年，华尔街以数亿美元游说推动。花旗集团1998年先行合并倒逼立法，桑迪·韦尔与鲁宾成为赢家。混业浪潮催生全能银行巨兽，风险传染链条也在2008年金融危机中全面爆发，批评者称此法为危机的立法源头。",
+  "impact": "金融超市模式塑造了此后十年的全球银行业版图，supermarket banking 的规模效率与系统性风险一并放大，为多德-弗兰克法案的回归监管埋下伏笔。",
+  "aftermath": "2010年沃克尔规则部分重筑防火墙，但混业格局基本延续至今。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Gramm–Leach–Bliley Act",
+    "url": "https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act"
+   }
+  ],
+  "tags": [
+   "美国金融",
+   "混业经营",
+   "立法",
+   "华尔街"
+  ]
+ }
+]

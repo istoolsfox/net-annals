@@ -1,0 +1,704 @@
+[
+ {
+  "id": "1986-01-01-qiubojun-joins-kingsoft",
+  "date": "1986-01-01",
+  "title": "求伯君1986年南下加盟金山：WPS传奇从湖南程序员手中起步",
+  "summary_30s": "1986年，湖南邵阳出身、从国防科大走出的程序员求伯君接受张旋龙邀请加入香港金山公司，随后在深圳闭关一年多写出WPS汉字处理系统，中国本土软件史上最重要的一款作品由此孕育。",
+  "detail": "求伯君此前在河北徐水县的工厂单身宿舍里写出西山打印驱动，被四通等的赏识者引荐给港商张旋龙。加入金山后他蛰伏宾馆房间，以汇编语言完成WPS第一版，1988年问世后迅速席卷全国打印与办公市场，1990年代中WPS一度占据中文文字处理九成份额，求伯君被称中国第一程序员。",
+  "impact": "WPS证明中国人能写出世界级应用软件，也为金山从代理转向自研奠定根基。",
+  "aftermath": "面对Word进入中国，金山2005年免费开源WPS个人版求生，如今月活设备数以亿计。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "求伯君 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/求伯君"
+   }
+  ],
+  "tags": [
+   "求伯君",
+   "金山",
+   "WPS",
+   "国产软件"
+  ]
+ },
+ {
+  "id": "1986-01-01-bednorz-muller-hts",
+  "date": "1986-01-01",
+  "title": "IBM实验室柏诺兹与缪勒1986年发现高温超导：液氮温区大门被叩响",
+  "summary_30s": "1986年，IBM苏黎世实验室的柏诺兹与缪勒在镧钡铜氧陶瓷中发现约35K的超导电性，远超此前合金超导体的纪录，论文发表后全球实验室竞相复现，铜氧高温超导时代就此开启。",
+  "detail": "两人摒弃金属合金传统，转向导电陶瓷，1986年上半年获得样品数据，9月论文刊于《凝聚态物理杂志》。1987年初休斯顿大学朱经武与中科院物理所赵忠贤等相继把临界温度推到液氮温区以上（约90K），用廉价液氮代替液氦冷却成为可能。1987年3月的美国物理学会马拉松会议被称作物理学界的伍德斯托克，同年10月两人获诺贝尔物理学奖，距发表仅一年余。",
+  "impact": "高温超导改写了凝聚态物理版图，磁悬浮、超导电缆与量子器件的想象空间被同时打开。",
+  "aftermath": "铜基与铁基超导家族不断扩员；室温超导至今仍是物理学的圣杯。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "High-temperature superconductivity - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+   }
+  ],
+  "tags": [
+   "高温超导",
+   "柏诺兹",
+   "缪勒",
+   "凝聚态物理"
+  ]
+ },
+ {
+  "id": "1986-01-01-compaq-fortune-500",
+  "date": "1986-01-01",
+  "title": "康柏计算机1986年跻身财富五百强：创最快入榜纪录的兼容机黑马",
+  "summary_30s": "1986年，成立仅四年的康柏计算机以逾5亿美元年营收闯入财富500强，成为当时入榜速度最快的公司，靠的正是对IBM PC标准的严格兼容与超越IBM的产品节奏。",
+  "detail": "康柏1982年由罗德·卡尼翁等三名德州仪器出走者创立，首台便携式兼容机首年即营收逾亿。1986年9月它又抢先发布基于386的Deskpro 386，在技术上首次反超IBM，兼容机厂商从模仿者变成标准制定者。1987年康柏营收突破十亿美元。",
+  "impact": "康柏的崛起宣告PC标准的主导权从IBM转移到兼容机产业联盟，休斯顿由此成为硅谷之外的PC重镇。",
+  "aftermath": "康柏1998年收购DEC，2002年自身被惠普收购，其品牌于2013年前后退出主流市场。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Compaq - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Compaq"
+   }
+  ],
+  "tags": [
+   "康柏",
+   "兼容机",
+   "财富500强",
+   "PC产业"
+  ]
+ },
+ {
+  "id": "1986-01-01-nes-nationwide-launch",
+  "date": "1986-01-01",
+  "title": "任天堂NES游戏机1986年北美全面铺货：美国游戏业复兴成定局",
+  "summary_30s": "1986年，任天堂娱乐系统（NES）在完成纽约与洛杉矶试销后于北美全面上市，超级马力欧兄弟随机同捆，主机供不应求，至1988年任天堂占据美国家庭游戏市场九成左右份额。",
+  "detail": "全面铺货伴随世界任天堂的营销战役，漫画、卡通与麦片包装齐上阵，把游戏机重新打造成美国儿童的日常。1986年北美NES销量逾百万台，马力欧、塞尔达与俄罗斯方块（1989年）相继成为国民IP。任天堂对第三方实行严格授权与内容审核，年卡制度重建了零售商对游戏品类的信任。",
+  "impact": "NES的全面胜利宣告北美游戏业从1983年崩盘中彻底复活，也确立了主机-授权-内容的现代产业秩序。",
+  "aftermath": "北美NES生命周期累计销量三千余万台；马力欧成为史上最畅销游戏角色系列。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Nintendo Entertainment System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System"
+   }
+  ],
+  "tags": [
+   "任天堂",
+   "NES",
+   "北美市场",
+   "游戏复兴"
+  ]
+ },
+ {
+  "id": "1986-01-01-sega-master-system-us",
+  "date": "1986-01-01",
+  "title": "世嘉Master System于1986年进军北美：主机战争第二极登场",
+  "summary_30s": "1986年，世嘉把日版Mark III改造为Sega Master System推向北美与欧洲，硬件性能优于NES，却因任天堂独占条款软件吃紧，在北美不敌，反在欧洲与巴西打开长销市场。",
+  "detail": "Master System采用世嘉定制图形芯片，色彩与卷轴表现优于同期FC，还配3D眼镜等外设。但在北美，任天堂以严格第三方独占锁定大厂，世嘉只能倚重自家街机移植。第三方Tonka接手北美发行后仍难翻盘。反观欧洲，任天堂渠道较弱，Master System在英国等国长期与FC分庭抗礼，巴西Tec Toy代理生产持续数十年。",
+  "impact": "Master System为世嘉积累了主机运营经验，八年后的Mega Drive方能真正撼动任天堂。",
+  "aftermath": "巴西至今仍在生产销售Master System及其衍生机型，成为游戏产业史的奇观。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Sega Master System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sega_Master_System"
+   }
+  ],
+  "tags": [
+   "世嘉",
+   "Master System",
+   "主机战争",
+   "巴西"
+  ]
+ },
+ {
+  "id": "1986-01-01-cec-i-educational-computer",
+  "date": "1986-01-01",
+  "title": "中华学习机CEC-I于1986年投产：计算机普及从娃娃抓起落地",
+  "summary_30s": "1986年，由电子工业部组织、清华大学等参与研制的中华学习机CEC-I投产上市，兼容Apple II架构、内置汉字系统，价格远低于进口微机，走进全国中小学计算机教室。",
+  "detail": "CEC-I集成CPU、汉字库与BASIC解释器，可接家用电视机当显示器，整机千余元，比动辄数万元的IBM PC亲民得多。它与Apple II软盘生态兼容，全国中小学以此为教具开设计算机课，1980年代中后期各地少年宫的计算机班多以其为主力。邓小平1984年提出计算机普及要从娃娃抓起，中华学习机正是这句号召最直接的产物。",
+  "impact": "CEC-I是国产普及型计算机的最大规模实践，为1990年代软件与互联网一代埋下种子。",
+  "aftermath": "1990年代PC降价后学习机退场；小霸王等学习机接过下沉市场。",
+  "category": "product",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "中华学习机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中华学习机"
+   }
+  ],
+  "tags": [
+   "中华学习机",
+   "教育信息化",
+   "国产计算机",
+   "中小学"
+  ]
+ },
+ {
+  "id": "1986-01-01-oil-counter-shock",
+  "date": "1986-01-01",
+  "title": "1986年国际油价崩盘式暴跌：石油美元时代遭遇第一次反向大冲击",
+  "summary_30s": "1986年，沙特放弃限产保价、开足油井，国际油价从年初每桶约27美元一路跌破10美元，产油国财政告急，苏联失去最大硬通货来源，这场反向石油冲击深刻改写了1980年代末的全球经济与地缘格局。",
+  "detail": "1980年代初北海与阿拉斯加油田投产令供给过剩，沙特多年充当摇摆产油国独自减产后失去耐心，1985年秋转向净回价夺回份额，油价应声腰斩再腰斩。美国油气州陷入萧条，德州银行倒闭潮成为储贷危机的一部分；依赖油源的苏联预算急剧恶化，被普遍认为是加速其解体的经济因素之一。",
+  "impact": "油价崩盘证明资源红利可逆，能源转型与财政多元化的议题从此进入各国政策视野。",
+  "aftermath": "油价此后多次大起大落，2020年负油价与2022年能源危机都在重演1986年的逻辑。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "1980s oil glut - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1980s_oil_glut"
+   }
+  ],
+  "tags": [
+   "油价崩盘",
+   "沙特",
+   "石油危机",
+   "苏联经济"
+  ]
+ },
+ {
+  "id": "1986-01-01-ping-fan-de-shi-jie-vol1",
+  "date": "1986-01-01",
+  "title": "路遥长篇《平凡的世界》第一部1986年出版：茅盾巨著的寂寞开场",
+  "summary_30s": "1986年，路遥长篇小说《平凡的世界》第一部出版，孙少安、孙少平兄弟在黄土高原上的奋斗起初遭评论界冷遇，却在此后二十年里经广播连播与千万读者自发阅读，成为当代中国发行量最大的长篇小说之一。",
+  "detail": "路遥为写作此书准备了三年、执笔三年，翻阅十年间的报纸合订本，在陈家山煤矿与陕北农村体验生活。第一部出版后文学界嫌其写实手法过时，第二部一度难觅出版方。1988年中央人民广播电台长篇连播让其走进亿万听众，1991年获第三届茅盾文学奖。全书三部全景记录1975至1985年中国城乡社会巨变。",
+  "impact": "《平凡的世界》以奋斗伦理抚慰了转型期无数普通青年，至今每年仍重印数十万册。",
+  "aftermath": "2015年电视剧改编播出；路遥1992年病逝，其创作自述《早晨从中午开始》同样广为流传。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "平凡的世界 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/平凡的世界"
+   }
+  ],
+  "tags": [
+   "路遥",
+   "平凡的世界",
+   "茅盾文学奖",
+   "陕北文学"
+  ]
+ },
+ {
+  "id": "1986-01-16-macintosh-plus",
+  "date": "1986-01-16",
+  "title": "Macintosh Plus发布：1MB内存与SCSI延续Mac生命线",
+  "summary_30s": "1986年1月16日，苹果发布Macintosh Plus，内存升至1MB并首次配备SCSI接口可外接硬盘，配合LaserWriter构成桌面出版工作站，它持续销售至1990年，是早期Mac中最长寿的型号。",
+  "detail": "Plus解决了初代Mac内存过小的致命伤，键盘也改为可拆卸的标准式。它成为桌面出版黄金期设计公司的主力机，配合AppleTalk网络一办公室多台Mac共享一台激光打印机。1987年Mac II与SE发布后Plus仍以低价位持续销售。128K初代Mac与Plus机箱上的签名铸模成为收藏者的执念。",
+  "impact": "Plus让Mac在桌面出版市场站稳脚跟，苹果从单品爆款转向产品线经营。",
+  "aftermath": "1990年Plus停售后Classic系列接棒；SCSI接口沿用至1990年代末Power Mac时代。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Macintosh Plus - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Macintosh_Plus"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Macintosh Plus",
+   "桌面出版",
+   "SCSI"
+  ]
+ },
+ {
+  "id": "1986-02-01-dfh-2-satellite",
+  "date": "1986-02-01",
+  "title": "中国长征三号1986年发射实用通信广播卫星：东方红二号家族续篇",
+  "summary_30s": "1986年2月1日，长征三号运载火箭在西昌把中国第二颗地球静止轨道通信卫星送入太空并成功定点，这颗实用通信广播卫星接续1984年试验星，让卫星通信与电视传输进入实用阶段。",
+  "detail": "继1984年4月东方红二号试验通信卫星之后，实用型星载转发器数量与功率提升，用于电视节目与电话电报传输，新疆、西藏等边远地区由此能够实时收看中央台节目。1986至1991年间东方红二号系列多颗卫星陆续定点东经不同轨位，构成第一代国产通信卫星网。",
+  "impact": "国产实用通信卫星解决了幅员辽阔国家的节目覆盖难题，也保住了轨道与频谱资源。",
+  "aftermath": "东方红三号1997年接棒，中国通信卫星此后进入东方红四号、五号平台世代。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "东方红二号 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/东方红二号"
+   }
+  ],
+  "tags": [
+   "东方红二号",
+   "通信卫星",
+   "长征三号",
+   "西昌"
+  ]
+ },
+ {
+  "id": "1986-02-01-journey-west-tv-1986",
+  "date": "1986-02-01",
+  "title": "中央电视台1986年春节播出《西游记》：六小龄童悟空成国民记忆",
+  "summary_30s": "1986年春节起，杨洁执导、六小龄童主演的电视连续剧《西游记》在央视试播，前十一集一经播出万人空巷，全部25集到1988年播完，重播数千次成为中国电视剧史上的奇观。",
+  "detail": "该剧1982年开机试拍，历时六年、走遍全国取景，六小龄童家传猴戏功底塑造的美猴王形象深入人心，主题曲《敢问路在何前》由蒋大为演唱传唱至今。剧组一台摄影机拍了六年，特效虽简陋却以戏曲美学取胜。该剧获1986年金鹰奖特别奖与飞天奖连续剧一等奖。",
+  "impact": "86版《西游记》定义了几代国人对西游故事的视觉想象，成为寒暑假重播文化的开端。",
+  "aftermath": "2000年补拍《西游记续集》；六小龄童的悟空形象至今仍是孙悟空的银幕标准像。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "西游记 (1986年电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/西游记_(1986年电视剧)"
+   }
+  ],
+  "tags": [
+   "西游记",
+   "六小龄童",
+   "央视",
+   "名著改编"
+  ]
+ },
+ {
+  "id": "1986-02-12-channel-tunnel-treaty",
+  "date": "1986-02-12",
+  "title": "英法两国1986年签署海峡隧道条约：百年梦想再度开工后终通车",
+  "summary_30s": "1986年2月12日，英法两国在坎特伯雷大教堂签署条约，批准多佛尔海峡固定连接工程，两侧隧道于1988年动工，1994年5月欧洲隧道通车，不列颠岛自此与大陆铁路直连。",
+  "detail": "自拿破仑时代起开凿海峡隧道的设想反复搁浅，1975年英国因成本退出后计划再度尘封。1986年条约确定以私人融资的欧洲隧道公司承建，海峡铁路隧道的单层方案获两国政府背书。工程动用11台盾构机，约1.3万名工人参与，1990年12月两条服务隧道在海底精确贯通，误差仅数十厘米。",
+  "impact": "隧道让伦敦至巴黎的通行缩短至三小时，重塑英欧之间的经济与人员往来格局。",
+  "aftermath": "欧洲隧道公司长期受债务困扰；2020年英国脱欧后隧道仍是货运与客运大动脉。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Channel Tunnel - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Channel_Tunnel"
+   }
+  ],
+  "tags": [
+   "海峡隧道",
+   "英法",
+   "基建",
+   "欧洲一体化"
+  ]
+ },
+ {
+  "id": "1986-02-21-famicom-disk-system",
+  "date": "1986-02-21",
+  "title": "任天堂FC磁碟机外设1986年发售：卡带之外的游戏发行渠道实验",
+  "summary_30s": "1986年2月21日，任天堂为FC推出磁碟机外设，采用专属蓝色软磁盘，容量更大且可在专卖店反复改写，首发同日推出《塞尔达传说》，这套改写终端被视为数字发行的最早雏形。",
+  "detail": "磁碟机售价1.5万日元，用户可在全国磁碟机售货亭以500日元把新游戏写入自备磁盘。磁盘自带双倍容量与存档功能，《塞尔达传说》《银河战士》等名作首发于该平台。因卡带技术后来居上、盗写横行，磁碟机1980年代末淡出，仅日本本土发行。",
+  "impact": "它是主机厂商第一次绕开实体卡带做内容再发行，为后来的下载商店提供了历史先声。",
+  "aftermath": "塞尔达系列在卡带平台延续壮大；磁碟机成为任天堂收藏界的稀缺品。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Famicom Disk System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System"
+   }
+  ],
+  "tags": [
+   "任天堂",
+   "FC磁碟机",
+   "软磁盘",
+   "游戏发行"
+  ]
+ },
+ {
+  "id": "1986-02-21-zelda-first",
+  "date": "1986-02-21",
+  "title": "任天堂《塞尔达传说》1986年问世：宫本茂再铸动作冒险游戏模板",
+  "summary_30s": "1986年2月21日，任天堂在FC磁碟机平台首发《塞尔达传说》，林克拯救塞尔达公主的冒险以开放探索、道具解谜与电池存档刷新家用游戏认知，首作即售出逾百万份。",
+  "detail": "宫本茂以童年探索京都山林的记忆设计海拉鲁世界，玩家可自由选择攻略顺序，隐藏通道与秘密遍布地图。金色卡带的美版1987年上市，配电池记忆功能让进度可保存，这在当时是革命性体验。系列此后发展出时空之笛等巅峰之作，被公认为动作冒险类型的奠基者。",
+  "impact": "它确立了探索-解谜-成长的冒险游戏语法，与马力欧一起构成任天堂双IP支柱。",
+  "aftermath": "系列累计销量过亿；2017年旷野之息再度定义开放世界设计。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Legend of Zelda (video game) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)"
+   }
+  ],
+  "tags": [
+   "塞尔达传说",
+   "宫本茂",
+   "动作冒险",
+   "任天堂"
+  ]
+ },
+ {
+  "id": "1986-02-26-microsoft-redmond-campus",
+  "date": "1986-02-26",
+  "title": "微软公司1986年迁入雷德蒙园区：从写字楼到软件帝国的大本营",
+  "summary_30s": "1986年2月26日，微软整体迁入西雅图郊外雷德蒙的新园区，告别贝尔维尤的写字楼。三周后公司上市募资逾6000万美元，园区扩张的节奏此后四十年未停。",
+  "detail": "盖茨选中离家更近的雷德蒙，最初数栋办公楼被森林环绕。1986年3月13日微软在纳斯达克上市，发行价21美元，盖茨持股比例令其次年跻身亿万富翁，时年31岁。雷德蒙园区此后扩张到百余栋建筑、数万名员工，成为与硅谷对望的北方软件之都。",
+  "impact": "上市与迁址共同标记微软从创业公司转向平台型巨头，西雅图地区因之成为第二个软件人才高地。",
+  "aftermath": "微软2023年市值一度突破3万亿美元；雷德蒙园区仍是其全球总部。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Microsoft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft"
+   }
+  ],
+  "tags": [
+   "微软",
+   "雷德蒙",
+   "上市",
+   "盖茨"
+  ]
+ },
+ {
+  "id": "1986-03-01-hong-gaoliang-novel",
+  "date": "1986-03-01",
+  "title": "莫言中篇《红高粱》1986年发表：高密东北乡文学版图开篇之作",
+  "summary_30s": "1986年，莫言的中篇小说《红高粱》在《人民文学》刊出，以我爷爷余占鳌与我奶奶戴凤莲的烈性爱恨重述抗战往事，恣肆的感官语言震动文坛，随后扩展为《红高粱家族》。",
+  "detail": "莫言当时仍在解放军艺术学院读书，受拉美魔幻现实主义与乡土记忆双重激荡，把高密东北乡写成中国的约克纳帕塔法。小说随后被张艺谋改编为电影，1988年获柏林金熊奖，莫言的国际声誉由此起步。先锋文学与寻根文学两股潮流在《红高粱》中交汇。",
+  "impact": "它把中国乡土叙事推向世界视野，莫言此后以《蛙》等作品于2012年获诺贝尔文学奖。",
+  "aftermath": "《红高粱家族》入选新中国70年70部长篇小说典藏；剧集版2024年播出。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "红高粱家族 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/红高粱家族"
+   }
+  ],
+  "tags": [
+   "莫言",
+   "红高粱",
+   "人民文学",
+   "寻根文学"
+  ]
+ },
+ {
+  "id": "1986-03-03-master-of-puppets",
+  "date": "1986-03-03",
+  "title": "Metallica《Master of Puppets》：激流金属的巅峰碑刻",
+  "summary_30s": "1986年3月3日，Metallica第三张专辑《Master of Puppets》发行，无一支单曲却冲入Billboard前三十，被公认为激流金属乃至整个金属史的最佳专辑之一，全球累计销量逾千万张。",
+  "detail": "乐队与制作人弗莱明·拉斯穆森在哥本哈根录制，标题曲以8分半的篇幅控诉毒品操控，Sanitarium展示叙事性慢板。专辑巡演途中贝斯手克利夫·伯顿9月27日在瑞典巡回巴士事故中遇难，年仅24岁，乐队忍痛续行。1988年《And Justice for All》接棒，Metallica从地下军团走向体育场。",
+  "impact": "它把极端音乐带入主流厂牌体系，为1990年代金属复兴铺路。",
+  "aftermath": "2020年专辑获美国唱片协会钻石认证；克利夫的贝斯solo至今被奉为教材。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Master of Puppets - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Master_of_Puppets"
+   }
+  ],
+  "tags": [
+   "Metallica",
+   "激流金属",
+   "重金属",
+   "摇滚"
+  ]
+ },
+ {
+  "id": "1986-03-13-microsoft-ipo",
+  "date": "1986-03-13",
+  "title": "微软公司1986年在纳斯达克上市：21美元发行价孕育世界软件首富",
+  "summary_30s": "1986年3月13日，微软在纳斯达克以每股21美元挂牌，募资约6100万美元，31岁的比尔·盖茨一年内成为亿万富翁，软件公司首次在资本市场上与硬件巨头分庭抗礼。",
+  "detail": "承销商高盛与史密斯·巴尼原想定在更小的规模，微软坚持保留长期期权文化。上市首日微软市值约5.2亿美元，此后十年股价上涨逾百倍，员工中走出数千名百万富翁，股票期权成为硅谷薪酬文化的标配。盖茨长期保持持股约两成，1995年起连任世界首富十余年。",
+  "impact": "微软上市证明无形资产可以规模化定价，为整个软件与互联网行业的资本化开了先河。",
+  "aftermath": "微软2021财年市值首破两万亿美元；普通投资者若认购首日持有一万股，今日价值数亿美元。",
+  "category": "company",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Initial public offering of Microsoft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Microsoft"
+   }
+  ],
+  "tags": [
+   "微软",
+   "IPO",
+   "纳斯达克",
+   "盖茨"
+  ]
+ },
+ {
+  "id": "1986-03-27-acura-us-launch",
+  "date": "1986-03-27",
+  "title": "本田Acura于1986年登陆美国：日系豪华品牌首开行业先河",
+  "summary_30s": "1986年3月27日，本田在美国推出豪华子品牌Acura，首批60家经销商同日开卖Legend与Integra，这是日本车企首次创立豪华品牌，三年后雷克萨斯与英菲尼迪跟进。",
+  "detail": "本田以精确制造与精良服务的口碑切入被奔驰宝马统治的豪华市场，Legend定价两万美元级却提供准豪华配置，首年Acura即售出约5万辆，第二年销量翻倍。Acura的成功迫使丰田日产加速孵化各自的北美豪华线，也改变了美国消费者对日本车的廉价印象。",
+  "impact": "它开创的日系豪华品牌模式重塑了全球汽车市场的品牌层级，底特律三巨头的高端防线被撕开。",
+  "aftermath": "Acura长期位居北美豪华品牌销量前列；NSX超跑1990年再立技术标杆。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Acura - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Acura"
+   }
+  ],
+  "tags": [
+   "本田",
+   "Acura",
+   "豪华品牌",
+   "汽车工业"
+  ]
+ },
+ {
+  "id": "1986-04-01-ibm-pc-convertible",
+  "date": "1986-04-01",
+  "title": "IBM PC Convertible问世：蓝色巨人首台电池笔记本",
+  "summary_30s": "1986年4月，IBM推出PC Convertible（5140型），这是IBM首台靠电池运行、带液晶屏的便携电脑，重约5.4公斤，翻盖造型与可折叠设计为后来的笔记本提供了原型。",
+  "detail": "Convertible采用80C88处理器、内置两个3.5英寸软驱，液晶屏可拆卸更换，还能加装打印机与调制解调器模块。它价格高昂、性能平庸，市场反响平平，但确立了IBM认可的笔记本形态。同期东芝与爱普生在便携市场更为活跃，日本厂商逐渐主导这一品类。",
+  "impact": "Convertible标志着笔记本被主流厂商接受为大品类，PC竞争从桌面延伸到移动。",
+  "aftermath": "IBM笔记本业务2005年售予联想，ThinkPad血脉延续至今。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "IBM PC Convertible - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IBM_PC_Convertible"
+   }
+  ],
+  "tags": [
+   "IBM",
+   "笔记本电脑",
+   "便携电脑",
+   "PC产业"
+  ]
+ },
+ {
+  "id": "1986-04-12-civil-law-general-principles",
+  "date": "1986-04-12",
+  "title": "《民法通则》1986年通过：中国人日常民事权利的第一部总章程",
+  "summary_30s": "1986年4月12日，六届全国人大四次会议通过《中华人民共和国民法通则》，1987年1月1日施行，它首次系统规定公民民事权利能力、物权、债权、知识产权与人身权，被誉为中国人权利意识的启蒙法。",
+  "detail": "改革开放后商品经济活动激增，急需基本民事规则。通则以156条概括民事主体、行为、代理、诉讼时效与侵权责任，明确个体工商户、承包经营户等新主体的法律地位。起草由陶希晋、王家福等民法学者推动，彭真称之为国家的一件大事。它与同年通过的《企业破产法（试行）》一道构成市场经济法治的早期骨架。",
+  "impact": "《民法通则》让合同、名誉权、肖像权等概念进入日常生活，为1999年合同法与2021年民法典铺路。",
+  "aftermath": "2021年《民法典》施行后通则废止，其体例精神被完整继承。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中华人民共和国民法通则 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中华人民共和国民法通则"
+   }
+  ],
+  "tags": [
+   "民法通则",
+   "法治",
+   "民事权利",
+   "立法"
+  ]
+ },
+ {
+  "id": "1986-04-20-jordan-63-points",
+  "date": "1986-04-20",
+  "title": "迈克尔·乔丹1986年季后赛独得63分：波士顿花园的神迹之夜",
+  "summary_30s": "1986年4月20日，二年级的迈克尔·乔丹在季后赛首轮对凯尔特人的双加时比赛中狂砍63分，刷新季后赛单场得分纪录，拉里·伯德赛后感叹那是上帝假扮的乔丹在打球。",
+  "detail": "乔丹此前因脚伤休养大半个赛季，火线复出带队进季后赛。波士顿花园全场高呼他的名字，凯尔特人最终以135比132险胜并横扫公牛，但63分至今仍是NBA季后赛单场最高分。这场表演让乔丹在全国层面破圈，伯德的神之乔丹语录成为体育解说史名句。",
+  "impact": "它预告了乔丹时代的到来，NBA的造星叙事自此有了最好的主角。",
+  "aftermath": "乔丹此后十夺得分王、六夺总冠军；季后赛63分纪录保持至今。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1986 NBA playoffs - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1986_NBA_playoffs"
+   }
+  ],
+  "tags": [
+   "乔丹",
+   "季后赛",
+   "凯尔特人",
+   "NBA"
+  ]
+ },
+ {
+  "id": "1986-05-02-expo-86-vancouver",
+  "date": "1986-05-02",
+  "title": "加拿大温哥华世界博览会1986年开幕：交通主题重造太平洋门户",
+  "summary_30s": "1986年5月2日，以世界在运动、世界在相触为主题的温哥华世界博览会开幕，逾百个国家与地区参展、参观人数约2200万，为卑诗省百年庆添彩，也让温哥华从港口城市跃升为国际都会。",
+  "detail": "会址选在福溪两岸废弃工业用地，会后改造为高层住宅与公园，成为北美滨水更新的样板。博览会前温哥华 skyline 的地标科学世界球体与BC体育馆相继落成，捷运SkyTrain线于会前的1985年12月开通。超过五十个国家馆展示了交通与通信的未来图景。",
+  "impact": "Expo 86是加拿大规模最大的世博会，直接带动了温哥华的旅游、移民与地产业起飞。",
+  "aftermath": "福溪会场演化为今天的宜居城区；1986年后香港移民潮与温哥华的国际化在此交汇。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Expo 86 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Expo_86"
+   }
+  ],
+  "tags": [
+   "世博会",
+   "温哥华",
+   "加拿大",
+   "城市更新"
+  ]
+ },
+ {
+  "id": "1986-05-25-hands-across-america",
+  "date": "1986-05-25",
+  "title": "手挽手穿越美国行动1986年：数百万美国人牵手为饥饿人口募捐",
+  "summary_30s": "1986年5月25日，大约五六百万美国人在从纽约到长滩的公路线上手挽手排成人链，Hands Across America为无家可归者与饥饿人口募捐约3400万美元，继Live Aid之后再创大众参与式慈善奇观。",
+  "detail": "活动由百事可乐等企业赞助，人链实际在沙漠与河段处断点多处，但媒体航拍画面传遍世界。参与者每人缴十美元登记，里根总统在白宫门前加入队伍。明星在各地节点领唱We Are the World，明尼阿波利斯与克利夫兰等城市自发组织平行人链。善款实际到账低于预期，运营费用过高也引发对明星慈善效率的批评。",
+  "impact": "它把慈善参与从捐款扩展为身体在场的仪式，人链的形式此后被各国环保与和平活动反复借用。",
+  "aftermath": "2020年代仍有城市纪念当年的链条位置；活动影像成为1980年代美国集体记忆的切片。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Hands Across America - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hands_Across_America"
+   }
+  ],
+  "tags": [
+   "手挽手美国",
+   "慈善活动",
+   "人链",
+   "美国社会"
+  ]
+ },
+ {
+  "id": "1986-05-27-dragon-quest",
+  "date": "1986-05-27",
+  "title": "《勇者斗恶龙》1986年发售：堀井雄史定义日式RPG基本范式",
+  "summary_30s": "1986年5月27日，艾尼克斯在FC上推出《勇者斗恶龙》，堀井雄史的剧本、鸟山明的人设与椙山浩一的音乐组成铁三角，回合制与升级体系成为日式角色扮演游戏三十年的范式。",
+  "detail": "游戏讲述洛特的后裔踏上屠龙救国之旅，初代即售出约150万份。1987年续作加入多人小队，1988年的三代引入转职系统并引发小学生罢课买游戏的社会现象，日本 thereafter 把DQ发售日移到周末。系列把鸟山明的漫画人气与游戏结合，任天堂与艾尼克斯的渠道合作也是典范。",
+  "impact": "DQ与最终幻想共同奠定日式RPG的世界地位，其数值设计教科书至今被研究。",
+  "aftermath": "系列至2024年已出十二代正统续作；史克威尔艾尼克斯合并后仍是台柱IP。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Dragon Quest - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dragon_Quest"
+   }
+  ],
+  "tags": [
+   "勇者斗恶龙",
+   "日式RPG",
+   "FC",
+   "堀井雄史"
+  ]
+ },
+ {
+  "id": "1986-06-11-ferris-bueller",
+  "date": "1986-06-11",
+  "title": "约翰·休斯《春天不是读书天》1986年上映：逃课一日成青春图腾",
+  "summary_30s": "1986年6月11日，约翰·休斯的《春天不是读书天》（Ferris Bueller's Day Off）上映，高中生费里斯带着好友逃课畅游芝加哥，Twist and Shout的花车游行一幕成为影史经典，北美票房约7000万美元。",
+  "detail": "马修·布罗德里克饰演的费里斯不断打破第四面墙向观众吐槽，把青春片的叛逆拍成一场城市漫游。片中偷开出来的法拉利250 GT Spyro California的结局让车迷心痛至今。影片与《早餐俱乐部》《奇怪的科学》一道构成休斯宇宙，芝加哥的威利斯大厦与艺术博物馆因片成为打卡地。",
+  "impact": "它定义了乐观版青春叛逆的模板，OK GO等后来的MV与影视剧反复致敬花车一幕。",
+  "aftermath": "2020年代影片四度进入美国国家电影登记表讨论名单；休斯2009年去世后被称80年代青年的代言人。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ferris Bueller's Day Off - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off"
+   }
+  ],
+  "tags": [
+   "青春片",
+   "约翰·休斯",
+   "芝加哥",
+   "80年代电影"
+  ]
+ },
+ {
+  "id": "1986-07-01-statue-liberty-reopening",
+  "date": "1986-07-01",
+  "title": "纽约自由女神像1986年百年修复后重开：里根总统主持点灯仪式",
+  "summary_30s": "1986年7月初，历经两年大修的自由女神像迎来落成百年庆典并重新开放，新火炬覆以24K金箔，里根总统主持点灯，自由周末的三天烟花与舰船检阅吸引数百万人到场。",
+  "detail": "修复工程耗资约8700万美元，全部由里根委任的戴安娜王妃与李·艾柯卡委员会民间募款完成，更换了锈蚀的铁骨架与火炬。法国赠像百年之际，纽约港举行帆船大游行的Operation Sail，数千艘船只参与。新火炬按古德哈特原作重制，原火炬入馆展出。",
+  "impact": "百年修复成为美国民间动员与法美友谊的象征性事件，也开启了历史地标企业化募捐的模式。",
+  "aftermath": "911事件后小岛安检升级；2024年火炬厅再次修复，雕像仍是纽约第一地标。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Statue of Liberty - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+   }
+  ],
+  "tags": [
+   "自由女神像",
+   "百年庆典",
+   "城市地标",
+   "美国"
+  ]
+ }
+]

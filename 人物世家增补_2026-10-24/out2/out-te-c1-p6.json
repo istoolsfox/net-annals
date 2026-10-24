@@ -1,0 +1,652 @@
+[
+ {
+  "id": "1997-12-01-kv300-logic-bomb",
+  "date": "1997-12-01",
+  "title": "KV300防拷『逻辑锁』风波：中国软件反盗版的第一次全民大辩论",
+  "summary_30s": "1997年夏，江民公司在杀毒软件KV300升级版中加入防拷逻辑锁，盗版用户机器被锁死，随即被指涉嫌破坏计算机系统。公安部门介入调查，风波引发中国软件反盗版手段边界的全民大讨论。",
+  "detail": "王江民设计的KV300曾以查杀国产病毒见长，盗版猖獗令公司损失惨重。新版内置的逻辑锁使运行盗版的电脑硬盘停摆，需特定密钥解锁。有媒体与用户以破坏数据罪控告，北京公安部门立案后调解处理，公司移除逻辑锁并道歉部分表述。方兴东等评论者与产业界就『以恶制恶是否正当』激烈交锋。",
+  "impact": "事件成为中国知识产权保护史上的标志案例，促使软件企业转向加密狗、序列号与服务化等正规防护，也推动公众讨论黑客伦理与消费者权益。",
+  "aftermath": "KV系列此后长期是国产杀毒主力，王江民2000年入选中国软件十大青年，2010年去世。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "王江民 - 百度百科",
+    "url": "https://baike.baidu.com/item/王江民"
+   }
+  ],
+  "tags": [
+   "KV300",
+   "反盗版",
+   "杀毒软件",
+   "知识产权"
+  ]
+ },
+ {
+  "id": "1997-12-01-weblog-coined",
+  "date": "1997-12-01",
+  "title": "Jorn Barger创造weblog一词：博客概念的最早雏形被命名",
+  "summary_30s": "1997年12月，美国网人Jorn Barger把自己的链接聚合网站命名为Robot Wisdom Weblog，创造weblog一词，意为『网络上logging航行日志』。1999年Peter Merholz戏拆为we blog，blog由此流行。",
+  "detail": "Barger每日手工筛选链接与评论，形成最早的个人 weblog 形态。1999年Blogger等托管工具上线后，写博客从手写HTML变成一键发布，2002年前后博客文化进入中文世界，木子美、博客中国掀起浪潮。Barger本人晚年生活潦倒，曾发起网络募捐。",
+  "impact": "weblog的命名与成型是自媒体革命的起点，个人出版从此拥有自己的名字与工具链，新闻业与公共讨论的结构被永久改变。",
+  "aftermath": "博客在社交媒体冲击下式微，但其形态演化为公众号、Newsletter与视频日志。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Jorn Barger",
+    "url": "https://en.wikipedia.org/wiki/Jorn_Barger"
+   }
+  ],
+  "tags": [
+   "博客",
+   "weblog",
+   "自媒体",
+   "网络文化"
+  ]
+ },
+ {
+  "id": "1997-12-03-korea-imf-bailout",
+  "date": "1997-12-03",
+  "title": "韩国与IMF签署583亿美元救助协议：汉江奇迹史上最屈辱的一天",
+  "summary_30s": "1997年12月3日，韩国政府与国际货币基金组织签署583亿美元纾困协议，条件包括开放金融市场、整顿财阀、紧缩财政。全国掀起捐金救国运动，家庭主妇排队捐出金戒指。",
+  "detail": "外汇储备枯竭的韩国被迫接受IMF史上第二大救助。电视直播签约画面被国民视为国耻，金泳三政府道歉，候任总统金大中参与共渡时艰。1998年韩国GDP萎缩逾5%，失业率暴增，现代、大宇等财阀重组或破产。韩国提前于2001年8月还清IMF贷款。",
+  "impact": "危机促成韩国财阀改革、金融市场开放与劳动市场弹性化，韩流产业政策亦在重构中孕育，苦难叙事成为民族记忆的重要一页。",
+  "aftermath": "『IMF时代』成为韩国流行文化的固定语汇，捐金运动被多国视为国民动员的经典案例。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 Asian financial crisis",
+    "url": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis"
+   }
+  ],
+  "tags": [
+   "韩国",
+   "IMF",
+   "亚洲金融危机",
+   "捐金运动"
+  ]
+ },
+ {
+  "id": "1997-12-04-ottawa-treaty",
+  "date": "1997-12-04",
+  "title": "《渥太华禁雷公约》正式开放签署：地雷问题从此正式进入国际法时代",
+  "summary_30s": "1997年12月3日至4日，121国代表在渥太华签署《禁止杀伤人员地雷公约》，规定销毁库存并援助受害者。公约从启动谈判到开放签署仅一年，被称为国际裁军史上著名的『渥太华进程』。",
+  "detail": "柬埔寨、莫桑比克等地的雷患与人道组织推动的非政府联盟促成速成谈判，国际禁雷运动及其协调人乔迪·威廉姆斯获1997年诺贝尔和平奖。公约1999年3月生效，缔约国此后超160个。中国未加入公约，但支持公约宗旨，长期开展人道扫雷援助与履约性质的措施。",
+  "impact": "公约首创条约限定常规武器、公民社会深度参与谈判的模式，全球地雷年伤亡从数万降至数千，销毁库存地雷数千万枚。",
+  "aftermath": "缔约国审议会议每五年举行，无人机与集束弹药成为新的军控议题延伸。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ottawa Treaty",
+    "url": "https://en.wikipedia.org/wiki/Ottawa_Treaty"
+   }
+  ],
+  "tags": [
+   "禁雷公约",
+   "国际法",
+   "人道主义",
+   "军控"
+  ]
+ },
+ {
+  "id": "1997-12-11-kyoto-protocol",
+  "date": "1997-12-11",
+  "title": "《京都议定书》在日本京都获得通过：人类历史上首次为碳排放立下法律约束",
+  "summary_30s": "1997年12月11日，第三次缔约方大会在日本京都通过《京都议定书》，为发达国家设定2008至2012年量化减排义务。这是人类历史上第一份具有法律约束力的温室气体减排协议。",
+  "detail": "议定书确立排放贸易、联合履约与清洁发展机制三大灵活机制，中国作为发展中国家不承担强制减排义务，但清洁发展机制为中国风电、水电项目带来第一波国际碳融资。美国1998年签署但从未批准，加拿大2011年退出。议定书2005年2月16日生效。",
+  "impact": "京都模式确立了『共同但有区别的责任』原则，国际碳市场与气候治理机构体系由此起步，中国新能源产业的第一批项目与之相连。",
+  "aftermath": "2012年后多哈修正案乏力，《巴黎协定》2015年以国家自主贡献接棒。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "京都议定书",
+    "url": "https://zh.wikipedia.org/wiki/京都議定書"
+   }
+  ],
+  "tags": [
+   "气候变化",
+   "京都议定书",
+   "碳排放",
+   "联合国"
+  ]
+ },
+ {
+  "id": "1997-12-20-life-is-beautiful",
+  "date": "1997-12-20",
+  "title": "罗伯托·贝尼尼《美丽人生》意大利上映：笑与泪的纳粹集中营寓言",
+  "summary_30s": "1997年12月20日，贝尼尼自导自演的《美丽人生》在意大利上映。父亲用游戏谎言为儿子挡住集中营的黑暗，影片次年横扫戛纳评审团大奖与奥斯卡最佳外语片，成为影史最动人的父爱寓言之一。",
+  "detail": "圭多与多拉的爱情喜剧前半段明媚如童话，后半段在集中营里父亲谎称一切是积分赢坦克的游戏，用生命守护孩子的天真。贝尼尼领奥斯卡时跳上椅子的狂喜成为颁奖礼经典。影片在中文世界经盗版与电影频道传播，台词『公主，早安』流传极广。",
+  "impact": "影片改写了大屠杀叙事的美学可能，证明喜剧元素与历史悲剧可以彼此成就，全球票房逾2.3亿美元，创非英语片纪录之一。",
+  "aftermath": "2020年影片修复重映，其父子游戏的对位成为无数短视频致敬模板。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Life Is Beautiful",
+    "url": "https://en.wikipedia.org/wiki/Life_Is_Beautiful"
+   }
+  ],
+  "tags": [
+   "意大利电影",
+   "奥斯卡",
+   "贝尼尼",
+   "二战"
+  ]
+ },
+ {
+  "id": "1997-12-23-gran-turismo-release",
+  "date": "1997-12-23",
+  "title": "《GT赛车》在PS平台日本发售：拟真赛车游戏类型的教科书式开篇",
+  "summary_30s": "1997年12月23日，山内一典监制《GT赛车》在PlayStation日本发售。数百辆授权真车、拟真物理与驾照考核系统，使其全球销量逾千万，定义了此后二十年拟真赛车游戏的标准形态。",
+  "detail": "山内一典以业余车手身份主导开发，与全球车厂逐家谈判授权，建立了汽车品牌授权游戏的新商业模式。GT模式中从考驾照、买二手车起步的养成循环令玩家沉迷。图形表现力被视为PS末期机能榨取的极限，续作GT3成为PS2主力大作。",
+  "impact": "GT赛车让游戏成为汽车文化的传播媒介，漂移与改装文化随之在全球年轻人群普及，日产 skyline、马自达RX-7因游戏人气暴涨。",
+  "aftermath": "系列全球销量超9000万，GT Sport与GT7继续担任索尼平台的画质标杆。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Gran Turismo (1997 video game)",
+    "url": "https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)"
+   }
+  ],
+  "tags": [
+   "GT赛车",
+   "PlayStation",
+   "拟真驾驶",
+   "电子游戏"
+  ]
+ },
+ {
+  "id": "1997-12-29-hk-bird-flu-cull",
+  "date": "1997-12-29",
+  "title": "香港扑杀全港约百万鸡只遏制H5N1：新发传染病拉响的世纪末警报",
+  "summary_30s": "1997年12月29日起，香港特区政府三天内扑杀全境约130万至150万只活鸡，以遏制全球首例人类感染H5N1禽流感疫情。18人感染、6人死亡，香港市场体系经受住公共卫生大考。",
+  "detail": "1997年5月首例男童死亡后，病毒学家短时间完成基因测序，确认禽源。12月疫情扩大，港府决定销毁所有活禽、暂停内地活鸡供港，设立家禽批发与零售新规。市场摊贩获补偿，圣诞新年的家禽消费几近清零。此后香港建立禽流感监测与休市清洁日制度。",
+  "impact": "这是人类首次通过大规模扑杀阻断禽流感人际传播的实践，确立的『监测-扑杀-休市』方案成为此后多国应对模板，也推动中国内地禽类检疫体系升级。",
+  "aftermath": "H5N1此后多年在东亚反复，2003年后高致病性禽流感与SARS一道重塑全球公共卫生治理。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Influenza A virus subtype H5N1",
+    "url": "https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H5N1"
+   }
+  ],
+  "tags": [
+   "禽流感",
+   "香港",
+   "公共卫生",
+   "疫情应对"
+  ]
+ },
+ {
+  "id": "1997-12-31-microsoft-buys-hotmail",
+  "date": "1997-12-31",
+  "title": "微软4亿美元收购Hotmail：免费邮箱巨头的身价首次被标定",
+  "summary_30s": "1997年12月31日，微软宣布以约4亿美元股票收购Hotmail，这是当时互联网公司并购的标志性高价。Hotmail千万级用户并入MSN，免费邮箱成为门户与巨头争夺的基础设施。",
+  "detail": "收购谈判由微软高管哈尔迪主导，报价远超Hotmail千万美元级的营收，业界惊呼泡沫。微软保留Hotmail品牌与免费策略，将其接入Passport账户体系，用户随后突破上亿。此案与AOL收购ICQ、次年雅虎收购Geocities一同被视为用户即资产逻辑的确立。",
+  "impact": "收购验证了互联网用户资产的估值方法，中国门户随后掀起邮箱大战，163、263、搜狐邮箱竞相免费扩容。",
+  "aftermath": "Hotmail 2013年并入Outlook.com，其品牌生命周期16年，是免费互联网时代的完整注脚。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Hotmail",
+    "url": "https://en.wikipedia.org/wiki/Hotmail"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Hotmail",
+   "并购",
+   "免费邮箱"
+  ]
+ },
+ {
+  "id": "1998-01-01-ayumi-debut-album",
+  "date": "1998-01-01",
+  "title": "滨崎步首张专辑《A Song for ××》发行：平成末代歌姬登场",
+  "summary_30s": "1998年1月1日，滨崎步发行首张原创专辑《A Song for ××》，登顶日本Oricon榜。她以自作词与多变造型定义了世纪末流行偶像的新模板，亚洲少女时尚随之改写。",
+  "detail": "滨崎步1998年连发三张单曲铺垫后，首专四周蝉联Oricon冠军，销量过百万。她包揽全部歌词，孤独与自我认同的主题击中平成世代。其后《LOVEppears》等专辑持续霸榜，豹纹、碎发、美甲造型引发亚洲模仿潮，被媒体称为『步姬现象』，与宇多田光构成1999年日本乐坛双璧。",
+  "impact": "滨崎步确立了歌手兼任时尚icon的商业模式，唱片公司与时尚杂志的联动营销达到前所未有的精度，影响波及整个华语偶像工业。",
+  "aftermath": "2019年她宣布听力障碍仍坚持巡演，其世纪末造型至今是Y2K复古风的核心灵感库。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "滨崎步",
+    "url": "https://zh.wikipedia.org/wiki/濱崎步"
+   }
+  ],
+  "tags": [
+   "滨崎步",
+   "日本流行",
+   "偶像",
+   "时尚"
+  ]
+ },
+ {
+  "id": "1998-01-22-netscape-open-source",
+  "date": "1998-01-22",
+  "title": "网景宣布公开浏览器源代码：Mozilla诞生与开源运动企业化",
+  "summary_30s": "1998年1月22日，节节败退的网景宣布将Communicator源代码公开，随后创立Mozilla.org统筹社区开发。这一决定把自由软件推向企业主战场，『open source』一词也在同期诞生。",
+  "detail": "在浏览器大战中失去份额的网景选择开源自救，源代码于当年3月放出。2月初 Christine Peterson 提出 open source 替代 free software 以降低商业疑虑，OSI成立。Mozilla项目历经Mozilla Suite、Firefox蜕变，2004年Firefox 1.0发布重创IE。网景本身在1998年11月被AOL收购。",
+  "impact": "网景开源是商业公司战略级拥抱开源的第一案，证明开源可以支撑产品级软件，为此后Linux企业化、安卓与云原生时代铺路。",
+  "aftermath": "Mozilla基金会至今仍是开放互联网的重要守夜人，Firefox与Rust均是其遗产。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Mozilla",
+    "url": "https://en.wikipedia.org/wiki/Mozilla"
+   }
+  ],
+  "tags": [
+   "网景",
+   "开源",
+   "Mozilla",
+   "浏览器"
+  ]
+ },
+ {
+  "id": "1998-01-31-ringu-release",
+  "date": "1998-01-31",
+  "title": "日式恐怖片《午夜凶铃》日本上映：贞子爬出电视机的一幕吓坏全亚洲",
+  "summary_30s": "1998年1月31日，改编自铃木光司小说的《午夜凶铃》在日本上映。中田秀夫以日常空间的寂静营造恐惧，贞子从电视机爬出的镜头成为影史最著名恐怖瞬间，日式恐怖(J-horror)由此席卷全球。",
+  "detail": "记者浅玲追踪录像带诅咒的都市传说结构，把电视机、电话等家电变成恐惧媒介。影片以低成本收获逾十亿日元票房，随录像带与VCD传遍东亚，午夜看凶铃成为一代学生的勇气试炼。美国2002年翻拍版同样大卖，松岛菜菜子与中谷美纪的表演奠定作品气质。",
+  "impact": "《午夜凶铃》确立以氛围、留白与诅咒叙事为核心的日式恐怖美学，直接影响好莱坞此后十年的亚洲恐怖片翻拍潮。",
+  "aftermath": "系列小说、电影、剧集与漫画绵延至今，贞子与伽椰子并列亚洲恐怖符号。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ring (film)",
+    "url": "https://en.wikipedia.org/wiki/Ring_(film)"
+   }
+  ],
+  "tags": [
+   "日式恐怖",
+   "午夜凶铃",
+   "贞子",
+   "亚洲电影"
+  ]
+ },
+ {
+  "id": "1998-02-01-titanic-billion",
+  "date": "1998-02-01",
+  "title": "《泰坦尼克号》全球票房突破十亿美元大关：影史上第一部跨过此线的电影",
+  "summary_30s": "1998年2月起，《泰坦尼克号》全球票房突破10亿美元，成为影史第一部达成此成绩的电影。詹姆斯·卡梅隆用2亿美元的豪赌改写了电影工业的天花板，全球观影热潮持续数月不退。",
+  "detail": "影片1997年12月上映后连续15周北美周末冠军，海外市场同步疯涨，日本、英国等地连破纪录。2月奥斯卡14项提名与3月颁奖礼11项获奖延续热度。中国市场4月引进后同样万人空巷，20元票价与学生集体观影成为一代人记忆。全球最终票房约18.4亿美元，保持纪录12年。",
+  "impact": "十亿美元门槛把好莱坞推向全球发行与高概念大片时代，衍生开发与长线放映策略成为行业新常识。",
+  "aftermath": "2012年3D重映再收3亿多美元，全球总票房逾22亿美元，位列影史前四。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Titanic (1997 film)",
+    "url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+   }
+  ],
+  "tags": [
+   "泰坦尼克号",
+   "票房",
+   "卡梅隆",
+   "电影工业"
+  ]
+ },
+ {
+  "id": "1998-03-10-state-council-reform",
+  "date": "1998-03-10",
+  "title": "九届全国人大通过国务院机构改革方案：部委从40个精简到29个",
+  "summary_30s": "1998年3月10日，九届全国人大一次会议通过国务院机构改革方案，除国务院办公厅外组成部门由40个减至29个，机关编制减半。电力、煤炭、冶金等专业经济部门改组为局或行业协会。",
+  "detail": "改革把计划经济遗留的部门管理体制大幅撤并，宏观调控部门重整为央行、财政部与计划委员会新框架，行业管理职能移交国家经贸委。地方随后层层跟进精简。数十万机关人员分流，转岗培训与提前退休政策配套。此次改革为政企分开与加入WTO后的监管体制奠定框架。",
+  "impact": "机构改革是朱镕基政府上任三场硬仗之一，政府职能从直接管企业转向宏观管理与市场监管的转型由此定型。",
+  "aftermath": "2003、2008、2018年又进行三轮大部门制改革，1998年方案被视为转型最深刻的一次。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国务院机构改革",
+    "url": "https://zh.wikipedia.org/wiki/国务院机构改革"
+   }
+  ],
+  "tags": [
+   "机构改革",
+   "精简",
+   "朱镕基",
+   "政府转型"
+  ]
+ },
+ {
+  "id": "1998-03-17-zhurongji-premier",
+  "date": "1998-03-17",
+  "title": "九届全国人大选举朱镕基出任总理：不管前面是地雷阵还是万丈深渊",
+  "summary_30s": "1998年3月17日，九届全国人大一次会议选举朱镕基为国务院总理。中外记者会上他宣告『不管前面是地雷阵还是万丈深渊，我都将勇往直前』，为国企、金融、机构三大改革定下悲壮基调。",
+  "detail": "朱镕基在记者会上宣布『一个确保、三个到位、五项改革』，承诺三年左右使大多数国有大中型亏损企业脱困。当年抗洪、粮改、住房商品化、打击走私与整顿金融秩序多线并进，其雷厉风行风格与『预备一百口棺材』的誓言广为流传。1998年GDP在危机环境中增长7.8%。",
+  "impact": "朱镕基五年任期完成了国企脱困、分税制深化、银行坏账剥离与入世谈判，为新世纪中国高增长周期完成制度准备。",
+  "aftermath": "2003年卸任后淡出公众视野，其改革遗产至今是经济学界持续讨论的对象。",
+  "category": "national",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "朱镕基",
+    "url": "https://zh.wikipedia.org/wiki/朱镕基"
+   }
+  ],
+  "tags": [
+   "朱镕基",
+   "国务院",
+   "改革",
+   "人大"
+  ]
+ },
+ {
+  "id": "1998-03-23-huawei-basic-law-final",
+  "date": "1998-03-23",
+  "title": "《华为基本法》历时两年定稿颁布：中国民营企业治理的第一部宪法范本",
+  "summary_30s": "1998年3月23日，历经两年起草、八易其稿的《华为基本法》正式定稿颁布，共六章103条。它把华为的使命、价值分配、经营政策以成文法形式固定，成为中国企业治理史上的标志性文本。",
+  "detail": "定稿文本明确『我们强调人力资本不断增值的目标优先于财务资本增值的目标』，确立员工持股、不上市承诺与压强原则。起草过程中的人大教授组与华为管理层反复碰撞，全员讨论使其成为一次组织共识工程。此后华为启动IPD、ISC等IBM顾问主导的流程变革，基本法逐步让位于制度化管理。",
+  "impact": "基本法引发全社会的企业宪章热，联想、万科等公司纷纷效仿梳理管理纲领，中国民企从草莽治理走向文本治理的转折由此开启。",
+  "aftermath": "华为2018年后以『人力资源管理纲要2.0』延续这一传统，基本法仍被商学院奉为经典案例。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "华为基本法 - 百度百科",
+    "url": "https://baike.baidu.com/item/华为基本法"
+   }
+  ],
+  "tags": [
+   "华为",
+   "基本法",
+   "企业治理",
+   "任正非"
+  ]
+ },
+ {
+  "id": "1998-03-23-titanic-oscar-sweep",
+  "date": "1998-03-23",
+  "title": "《泰坦尼克号》横扫第70届奥斯卡十一项大奖：追平影史获奖数量纪录",
+  "summary_30s": "1998年3月23日，第70届奥斯卡颁奖礼上《泰坦尼克号》获14项提名，最终摘得11项大奖，追平《宾虚》纪录。主题曲《My Heart Will Go On》响彻全球，席琳·迪翁献唱成为永恒现场。",
+  "detail": "影片获最佳影片、导演等11奖，但男女主演均未获表演提名成为谈资。卡梅隆三登领奖台高举奖杯高呼『我是世界之王』。全球超过10亿观众通过电视收看颁奖礼，铁达尼号的爱情叙事借奥斯卡完成全球经典化。中国内地在引进影片后出现的观影热潮延续到颁奖礼之后数月。",
+  "impact": "奥斯卡借《泰坦尼克号》完成全球影响力巅峰，大片策略与全球同步发行从此成为好莱坞核心打法。",
+  "aftermath": "2003与2004年《指环王3》《宾虚》纪录先后被追平，电影工业进入超级大片时代。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "70th Academy Awards",
+    "url": "https://en.wikipedia.org/wiki/70th_Academy_Awards"
+   }
+  ],
+  "tags": [
+   "奥斯卡",
+   "泰坦尼克号",
+   "卡梅隆",
+   "电影"
+  ]
+ },
+ {
+  "id": "1998-04-01-amazon-buys-imdb",
+  "date": "1998-04-01",
+  "title": "亚马逊收购互联网电影资料库IMDb：全球影迷数据库成为电商棋子",
+  "summary_30s": "1998年4月，亚马逊收购由全球影迷协作建设的互联网电影资料库IMDb。这个1990年起的Usenet影迷项目获得商业支撑，成为日后亚马逊内容生态与影视数据的基石资产。",
+  "detail": "IMDb由Col Needham等影迷于1990年在Usenet发起，1993年上网，收录演职员、剧情与评分。被收购后保持独立品牌运营，评分机制与Pro订阅业务逐步成型，全球影迷把它当作观影圣经。亚马逊则借其数据与用户洞察反哺图书、DVD与后来的流媒体选品。",
+  "impact": "收购证明了社区型数据库的商业价值，用户共建内容的估值逻辑由此确立，中文世界随后出现豆瓣电影等同类产品。",
+  "aftermath": "IMDb月访问用户数亿，2020年代其评分仍是全球影视口碑的基础设施。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "IMDb",
+    "url": "https://en.wikipedia.org/wiki/IMDb"
+   }
+  ],
+  "tags": [
+   "IMDb",
+   "亚马逊",
+   "收购",
+   "影迷数据库"
+  ]
+ },
+ {
+  "id": "1998-04-18-initial-d-anime",
+  "date": "1998-04-18",
+  "title": "热血动画《头文字D》开播：秋名山车神传说与漂移文化席卷东亚青年",
+  "summary_30s": "1998年4月，改编自重野秀一漫画的《头文字D》动画开播。豆腐店少年藤原拓海的秋名山送豆腐与GTR、86的对决，让漂移文化与JDM改装车知识席卷东亚青年， soundtrack 的Eurobeat神曲尤为人熟知。",
+  "detail": "动画前三部由Prime Direction制作，赛车场面以3D rendered 展现，Running in the 90s、Deja Vu等Eurobeat配乐随节目爆红。中国观众经电视台与VCD观看，山地发卡弯、排水渠过弯成为流行梗。周杰伦2005年主演电影版使IP再度破圈。",
+  "impact": "头文字D把汽车改装与漂移文化带入大众视野，AE86二手车价格因情怀暴涨，中国珠三角与台灣的玩车文化深受其影响。",
+  "aftermath": "新剧场版头文字D Legend延续至2016年，重野秀一2025年宣布执笔新作续写拓海故事。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "头文字D",
+    "url": "https://zh.wikipedia.org/wiki/頭文字D"
+   }
+  ],
+  "tags": [
+   "头文字D",
+   "汽车文化",
+   "日本动画",
+   "漂移"
+  ]
+ },
+ {
+  "id": "1998-04-20-caijing-founded",
+  "date": "1998-04-20",
+  "title": "《财经》杂志在北京正式创刊：中国财经调查报道的旗舰媒体就此启航",
+  "summary_30s": "1998年4月，联办集团旗下《财经》杂志创刊，胡舒立领衔的采编团队随后以基金黑幕、银广夏等调查报道震动市场。它定义了中国财经新闻的专业标准，也屡屡推动监管变革。",
+  "detail": "《财经》以『独立、独家、独到』为方针，2000年《基金黑幕》引发股市大讨论，2001年《银广夏陷阱》揭露上市公司造假，直接推动监管处罚与投资者保护议题。2009年胡舒立团队集体出走创办财新，《财经》由戴小京等接掌。其封面选题与年度论坛成为行业风向标。",
+  "impact": "《财经》确立了调查报道在中国市场化媒体中的最高水准，记者惩戒、做空机制与公司治理讨论因之进入公共议程。",
+  "aftermath": "纸刊在数字化浪潮中转型，《财经》与财新双雄格局构成中国财经媒体的骨架。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "财经 (杂志)",
+    "url": "https://zh.wikipedia.org/wiki/財經_(雜誌)"
+   }
+  ],
+  "tags": [
+   "财经杂志",
+   "调查报道",
+   "胡舒立",
+   "媒体"
+  ]
+ },
+ {
+  "id": "1998-04-27-grain-reform",
+  "date": "1998-04-27",
+  "title": "全国粮食流通体制改革全面启动：按保护价敞开收购与顺价销售机制确立",
+  "summary_30s": "1998年4月27日，全国粮食流通体制改革工作会议召开，国务院下发文件部署政企分开、储备与经营分开、中央与地方责任分开，实行按保护价敞开收购、顺价销售、收购资金封闭运行。",
+  "detail": "90年代中期粮食丰收与市场波动叠加，国有粮食企业亏损挂账累计逾千亿。改革旨在保护农民种粮积极性同时堵住收购资金流失，粮站收购、加工、销售链条重构。此后保护价范围随市场发育逐步收缩，2004年全面放开粮食购销市场，转向直补农户。",
+  "impact": "粮改稳定了世纪之交的粮食生产与农民预期，粮食流通的市场化框架在其后十年逐步成型，中国用占世界9%的耕地养活近13亿人的底气由此夯实。",
+  "aftermath": "最低收购价政策2004年后接棒，粮食安全议题延续至今日的种业振兴战略。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "粮食流通体制改革",
+    "url": "https://baike.baidu.com/item/粮食流通体制改革"
+   }
+  ],
+  "tags": [
+   "粮食改革",
+   "农业政策",
+   "保护价",
+   "国企改革"
+  ]
+ },
+ {
+  "id": "1998-05-04-peking-university-centennial",
+  "date": "1998-05-04",
+  "title": "北京大学迎来建校一百周年盛大校庆：创建世界一流大学正式成为国家议程",
+  "summary_30s": "1998年5月4日，北京大学建校100周年庆祝大会举行，国家领导人提出为了实现现代化，中国要有若干所具有世界先进水平的一流大学。以此为契机，985工程随即启动。",
+  "detail": "校庆之际，北大提出建设世界一流大学规划，随后教育部与北京市共建协议开启，3年18亿元投入的985工程首期落子北大清华。校庆大会在人民大会堂举行，全球数百所大学校长出席，世界大学校长论坛同期举办。百年北大的科学与民主传统被重新阐释。",
+  "impact": "985工程把一流大学建设上升为国家战略，中国高校此后二十年在论文、专利与排名上急起直追，也埋下资源集中化的争论。",
+  "aftermath": "985、211序列2017年统筹为双一流建设，北大2024年经费预算居全国高校之首。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "北京大学",
+    "url": "https://zh.wikipedia.org/wiki/北京大学"
+   }
+  ],
+  "tags": [
+   "北京大学",
+   "校庆",
+   "985工程",
+   "高等教育"
+  ]
+ },
+ {
+  "id": "1998-05-06-imac-g3-unveiled",
+  "date": "1998-05-06",
+  "title": "乔布斯发布邦迪蓝iMac G3：半透明糖果色拯救了濒死的苹果",
+  "summary_30s": "1998年5月6日，回归后的乔布斯发布iMac G3，半透明邦迪蓝一体机由乔纳森·艾维操刀，弃用软驱全线拥抱USB。8月上市即成爆款，一年售出近200万台，苹果起死回生。",
+  "detail": "iMac G3以233MHz PowerPC G3处理器、内置网卡与15英寸CRT一体成型，回归『电脑即家电』的直觉。糖果色机身后续推出草莓、葡萄等五彩系列，广告语Think different时代的Chic焕然一新。其设计扭转了大众对电脑灰盒子的认知，成为工业设计史坐标。",
+  "impact": "iMac证明设计与易用可以成为电脑的核心竞争力，为iBook、iPod到iPhone的消费电子美学路线开了第一枪，也让乔布斯的苹果2.0获得资本信任。",
+  "aftermath": "iMac系列延续至今已转向自研芯片一体机，1998年初代机型被MoMA永久收藏。",
+  "category": "hardware",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "iMac G3",
+    "url": "https://en.wikipedia.org/wiki/IMac_G3"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iMac",
+   "乔布斯",
+   "工业设计"
+  ]
+ },
+ {
+  "id": "1998-05-14-seinfeld-finale",
+  "date": "1998-05-14",
+  "title": "《宋飞正传》大结局7600万观众收看：美式情景喜剧黄金时代落幕",
+  "summary_30s": "1998年5月14日，NBC播出《宋飞正传》大结局，约7600万美国观众收看，创下当季收视之最。讲述纽约四个神经质单身男女的『无主题』喜剧以九年统治宣告谢幕，电视喜剧的黄金九十年代随之翻页。",
+  "detail": "Larry David与Jerry Seinfeld创造的这个节目号称a show about nothing，以琐碎日常与社交礼仪观察封神。大结局让四位主角因见死不救受审，评价两极。NBC以每集数百万美元片酬挽留未果。此后《老友记》接棒喜剧王座，2004年谢幕。",
+  "impact": "宋飞确立了观察式喜剧的高峰，其结构松散却台词精密的写法成为此后美剧编剧室的标准教材，流媒体时代仍是喜剧创作原点。",
+  "aftermath": "2000年代Curb Your Enthusiasm延续Larry David宇宙，宋飞2024年宣布回归创作新剧。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Finale (Seinfeld)",
+    "url": "https://en.wikipedia.org/wiki/The_Finale_(Seinfeld)"
+   }
+  ],
+  "tags": [
+   "宋飞正传",
+   "美剧",
+   "NBC",
+   "情景喜剧"
+  ]
+ },
+ {
+  "id": "1998-05-14-laidoff-reemployment",
+  "date": "1998-05-14",
+  "title": "下岗职工基本生活保障和再就业工作会议：千万级下岗潮的制度托底",
+  "summary_30s": "1998年5月14日至16日，中共中央、国务院召开国有企业下岗职工基本生活保障和再就业工作会议。三年脱困攻坚中数千万职工下岗，再就业服务中心、三条保障线成为社会稳定的生命线。",
+  "detail": "国企改革攻坚使纺织压锭、煤炭关井、冶金减员多线推进，1998至2000年国企下岗职工累计逾2000万人。会议确立下岗职工进再就业中心、发基本生活费、缴社会保险的过渡制度，并与失业保险、城镇低保衔接为三条保障线。全国普遍开展送温暖与再就业培训，夜市摆摊、买断工龄成为一代人的集体记忆。",
+  "impact": "下岗潮的平稳着陆避免了大变革中的社会失序，劳动力向民营与外资部门的大转移为中国入世后的出口黄金期准备了产业大军，其代价与阵痛也深刻影响了东北等老工业基地。",
+  "aftermath": "2000年代社保体系逐步并轨，下岗作为历史名词进入双雪涛、班宇的小说与《漫长的季节》。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "下岗职工再就业 - 百度百科",
+    "url": "https://baike.baidu.com/item/再就业工程"
+   }
+  ],
+  "tags": [
+   "下岗",
+   "再就业",
+   "国企改革",
+   "社会保障"
+  ]
+ }
+]

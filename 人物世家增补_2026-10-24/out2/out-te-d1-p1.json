@@ -1,0 +1,756 @@
+[
+ {
+  "id": "2012-01-01-train-ticket-realname",
+  "date": "2012-01-01",
+  "title": "火车票全面实名制实施：一张身份证一张票",
+  "summary_30s": "2012年1月1日起，全国铁路旅客列车实行车票实名制，购票、进站均需出示有效身份证件，与12306网络购票一道，终结了黄牛倒票和人票不符的旧时代，让身份信息首次大规模进入日常出行系统。",
+  "detail": "实名制在2011年高铁动车试点后于2012年元旦扩展至全部旅客列车。旅客凭身份证购票，票面印有姓名和部分证件号，进站需人、证、票一致。铁路部门同步与公安系统联网核验，代售点和车站窗口全部接入，春运期间投入大量核验人力。",
+  "impact": "黄牛囤票成本骤增，倒票产业链受重创；实名制与网络购票互为配套，推动火车票销售全面数字化，也为后来12306图形验证码、候补购票等技术手段铺路。",
+  "aftermath": "此后身份证成为出行、住宿、通信等场景的统一凭证，实名制成为互联网治理的基本逻辑之一，2013年起手机实名制等相继落地。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国铁路客户服务中心",
+    "url": "https://www.12306.cn/"
+   },
+   {
+    "title": "火车票实名制 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/火车票实名制"
+   }
+  ],
+  "tags": [
+   "实名制",
+   "铁路",
+   "数字化治理"
+  ]
+ },
+ {
+  "id": "2012-01-08-spring-festival-12306-crush",
+  "date": "2012-01-08",
+  "title": "2012春运：12306网络购票首秀即被挤爆",
+  "summary_30s": "2012年1月8日春运启动，铁路部门首次大规模推行互联网售票，12306.cn瞬间涌进数以亿计的访问，系统频繁瘫痪，网购车票与一票难求一起成为全民吐槽的年度话题。",
+  "detail": "这一年春运网络购票首次成为主渠道之一，开通不久的12306在放票时段访问量激增数十倍，页面卡死、支付失败、重复扣款频发。大量用户转而求助抢票软件和刷票插件，浏览器厂商迅速推出抢票专版。媒体与网民对系统架构的批评，让12306能不能扛住春运此后年年成为检验中国互联网基础设施的保留节目。",
+  "impact": "网络购票从纸面走向全民，倒逼铁路信息系统持续扩容；抢票插件灰色产业兴起，为次年主管部门叫停埋下伏笔。",
+  "aftermath": "12306此后引入排队机制、CDN加速与阿里云分流，春运售票逐渐平稳，2015年又以图形验证码重创机器抢票。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国铁路客户服务中心",
+    "url": "https://www.12306.cn/"
+   },
+   {
+    "title": "国家铁路局",
+    "url": "https://www.nra.gov.cn/"
+   }
+  ],
+  "tags": [
+   "春运",
+   "12306",
+   "网络购票"
+  ]
+ },
+ {
+  "id": "2012-01-13-iphone4s-china-launch",
+  "date": "2012-01-13",
+  "title": "iPhone 4S大陆开售：黄牛与苹果店的冲突之夜",
+  "summary_30s": "2012年1月13日，iPhone 4S在中国大陆正式开售。北京三里屯苹果店因夜间排队人数过多与黄牛冲突临时取消发售，成为苹果在华最狼狈的一天，折射出旗舰手机供需失衡的黄牛黄金时代。",
+  "detail": "iPhone 4S于2011年10月发布后，大陆比首发晚了两三个月，水货与行货差价巨大。开售前夜北京、上海苹果店外排起千人长队，黄牛组织人肉排队囤货。1月13日凌晨三里屯店因秩序失控宣布当日停售，只在上海等城市象征性放货，引发舆论哗然。",
+  "impact": "事件暴露了热门数码产品在大陆市场的渠道乱象，也让首发地区成为此后国行手机营销的核心卖点。",
+  "aftermath": "此后苹果逐步把大陆纳入首发地区，国产厂商则以线上抢购与产能爬坡直接对抗黄牛经济。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "iPhone 4S - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPhone_4S"
+   },
+   {
+    "title": "Apple中国",
+    "url": "https://www.apple.com.cn/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPhone",
+   "黄牛"
+  ]
+ },
+ {
+  "id": "2012-01-15-hanhan-fangzhouzi-ghostwriting",
+  "date": "2012-01-15",
+  "title": "韩寒被质疑代笔：韩方大战搅动舆论场",
+  "summary_30s": "2012年1月中旬起，博主麦田与方舟子相继公开质疑韩寒文章系他人代笔，韩寒晒手稿自证并起诉反击，双方在微博缠斗月余，成为微博时代第一场全民围观的网络公审式论战。",
+  "detail": "1月15日麦田发文《人造韩寒》，质疑韩寒由父亲和出版团队包装；1月18日起方舟子加入，逐篇分析《三重门》等作品的代笔证据。韩寒公布手稿、书信并提起诉讼，后撤诉。论战持续到春节后，挺韩与倒韩两派意见领袖激烈对垒，大量匿名爆料与反爆料涌现。",
+  "impact": "论战展示了微博作为舆论审判场的巨大能量，也留下网络打假如何不越界的持久争论；韩寒此后从公共发言转向APP产品。",
+  "aftermath": "2012年10月韩寒团队推出阅读应用ONE·一个，上线首日登顶App Store，论战热度转化为产品流量，公知偶像时代则悄然降温。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "韩寒 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/韩寒"
+   },
+   {
+    "title": "方舟子 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/方舟子"
+   }
+  ],
+  "tags": [
+   "微博论战",
+   "方舟子",
+   "韩寒"
+  ]
+ },
+ {
+  "id": "2012-01-19-kodak-bankruptcy",
+  "date": "2012-01-19",
+  "title": "柯达申请破产保护：胶卷帝国的数字葬礼",
+  "summary_30s": "2012年1月19日，拥有131年历史的柯达依据美国破产法第十一章申请破产保护。这家发明了数码相机的公司死于数码革命，成为创新者窘境最著名的商业标本。",
+  "detail": "柯达1975年就造出世界第一台数码相机，却为保护胶卷利润而将其雪藏。2000年后胶卷市场崩塌，柯达转型迟缓，只剩专利可以变卖。破产保护期间柯达拍卖逾千项数字成像专利，最终靠专利诉讼与出售资产重组，2013年结束破产程序。",
+  "impact": "柯达之死成为商学院关于颠覆性技术的经典案例，警示巨头被自己发明的东西杀死并非寓言。",
+  "aftermath": "重组后的柯达转型为小型影像技术公司与授权商，品牌几度尝试话题营销，帝国已成往事。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "伊士曼柯达公司 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/伊士曼柯达公司"
+   },
+   {
+    "title": "Kodak files for Chapter 11 - Reuters",
+    "url": "https://www.reuters.com/"
+   }
+  ],
+  "tags": [
+   "柯达",
+   "破产",
+   "颠覆性创新"
+  ]
+ },
+ {
+  "id": "2012-02-04-linsanity",
+  "date": "2012-02-04",
+  "title": "林来疯：社交媒体点燃的体育狂欢",
+  "summary_30s": "2012年2月4日，纽约尼克斯替补后卫林书豪对阵篮网砍下25分，随后连场爆发率队七连胜。林来疯（Linsanity）经推特与微博病毒式扩散，成为社交媒体时代第一个全球同步放大的体育现象。",
+  "detail": "这位哈佛毕业的华裔球员此前两度被裁、睡在队友沙发上。2月4日临危受命爆发后，一周内Jeremy Lin登上推特全球热搜，尼克斯市值随之上扬，中国大陆微博同步刷屏，林书豪搜索量创下体育类纪录。科比那句他在我面前拿了38分、我没什么建议给他的回应被疯转。",
+  "impact": "证明社交媒体能把一个无名球员一夜变成全球IP，体育传播从电视时代彻底转向社交裂变时代。",
+  "aftermath": "林书豪2012年夏天获火箭三年2500万美元合同，其后辗转多队，2019年随猛龙获NBA总冠军，2020年代转战CBA与台湾联赛。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "林书豪 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/林书豪"
+   },
+   {
+    "title": "Jeremy Lin - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jeremy_Lin"
+   }
+  ],
+  "tags": [
+   "林书豪",
+   "社交媒体",
+   "NBA"
+  ]
+ },
+ {
+  "id": "2012-02-27-nokia-808-pureview",
+  "date": "2012-02-27",
+  "title": "诺基亚808 PureView：4100万像素的绝唱",
+  "summary_30s": "2012年2月27日MWC上，诺基亚发布塞班系统的808 PureView，4100万像素传感器与无损变焦技惊四座，但平台已日薄西山——技术巅峰与平台末路的错位成为手机史著名一幕。",
+  "detail": "PureView技术由诺基亚与卡尔蔡司合作开发，1/1.2英寸大底通过超采样把4100万像素合成500万输出，画质远超同期手机。然而808仍运行垂死的塞班系统，售价高昂，被视为相机部门给塞班时代的陪葬品。同年诺基亚旗舰已转投Windows Phone。",
+  "impact": "确立大底加计算成像的手机影像路线，为后来Lumia 1020以及华为、小米的影像军备赛提供了原点。",
+  "aftermath": "PureView团队随手机业务并入微软，2015年前后核心成员散落各家，多人加入国产厂商影像团队，间接塑造了中国手机的影像基因。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "诺基亚 808 PureView - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/诺基亚_808_PureView"
+   },
+   {
+    "title": "Nokia 808 PureView - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nokia_808_PureView"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "手机影像",
+   "MWC"
+  ]
+ },
+ {
+  "id": "2012-03-05-kony2012-viral",
+  "date": "2012-03-05",
+  "title": "KONY 2012：史上最快破亿的公益病毒视频",
+  "summary_30s": "2012年3月5日，公益组织看不见的孩子发布30分钟纪录片《KONY 2012》，呼吁缉捕乌干达军阀科尼。视频借社交媒体数天内播放破亿，成为有史以来传播最快的网络视频之一，也掀起对键盘行动主义的反思。",
+  "detail": "影片以好莱坞式叙事把复杂的乌干达问题简化为抓一个人，配上明星动员工具包，鼓励观众向政策精英转发。上线数日在视频网站与社交平台累计上亿次观看，推特话题登顶全球。随后制作方创始人因精神崩溃行为失常被捕，舆论迅速反转，外界追问善款流向与组织透明度。",
+  "impact": "确立社交裂变式公益动员的模板，也第一次大规模暴露这种动员的脆弱性：情绪来得快，反转也快。",
+  "aftermath": "科尼始终未被抓获，该组织2014年后式微；KONY 2012成为传播学中病毒营销与键盘行动主义的双面教材。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Kony 2012 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kony_2012"
+   },
+   {
+    "title": "Kony 2012 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Kony_2012"
+   }
+  ],
+  "tags": [
+   "病毒传播",
+   "公益",
+   "社交媒体"
+  ]
+ },
+ {
+  "id": "2012-03-07-new-ipad-retina",
+  "date": "2012-03-07",
+  "title": "苹果发布第三代iPad：视网膜屏定义平板",
+  "summary_30s": "2012年3月7日，苹果在旧金山发布第三代iPad（官方称The new iPad），2048×1536视网膜显示屏、A5X芯片与4G LTE支持，把平板的显示标准一次性拉到印刷级别，iPad进入巅峰周期。",
+  "detail": "发布会由蒂姆·库克主持，是乔布斯逝世后苹果首场重要硬件发布。视网膜屏使像素密度达264ppi，文字如纸书般锐利；新iPad支持北美LTE网络，续航保持10小时。产品命名放弃数字编号引发吐槽，牛排（new pad）成为中文网络的经典梗。",
+  "impact": "视网膜屏成为此后所有屏幕类产品的通用卖点，iPad当年出货迅速过千万，一度占据中国市场垄断地位。",
+  "aftermath": "iPad销量2013财年见顶后进入长达五年的下滑通道，大屏手机与iPad有什么用的质疑同期出现，平板品类从此转向细分。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IPad (第三代) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPad_(第三代)"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPad",
+   "视网膜屏"
+  ]
+ },
+ {
+  "id": "2012-03-13-britannica-stops-print",
+  "date": "2012-03-13",
+  "title": "《大英百科全书》停止印刷：百科让位维基",
+  "summary_30s": "2012年3月13日，出版244年的《大英百科全书》宣布停止印刷版，全面转向数字出版。在维基百科与谷歌的双重挤压下，精英百科的纸质时代正式落幕。",
+  "detail": "这套1768年始于苏格兰的百科全书鼎盛时32卷、售价上千美元，全球卖出过数百万套。2000年代后销量跌至每年数千套，公司主要收入早已来自在线教育产品。停印决定公布当天，其英文维基词条的浏览量与引用讨论激增，本身就是历史的注脚。",
+  "impact": "标志知识权威从机构编纂向开放协作加算法检索的迁移完成，维基百科成为世界第一事实入口。",
+  "aftermath": "大英百科以订阅制数据库与教育软件延续品牌，2020年代尝试接入AI问答；纸质百科全面退出历史舞台。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "大英百科全书 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/大英百科全书"
+   },
+   {
+    "title": "Encyclopaedia Britannica - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Encyclopædia_Britannica"
+   }
+  ],
+  "tags": [
+   "百科全书",
+   "数字化",
+   "维基百科"
+  ]
+ },
+ {
+  "id": "2012-03-16-weibo-realname-deadline",
+  "date": "2012-03-16",
+  "title": "微博实名制大限：后台实名、前台自愿",
+  "summary_30s": "2012年3月16日，北京市微博客管理规定过渡期满，新浪、腾讯等主要微博全面执行后台实名、前台自愿的实名制，未验证用户被禁止发言，中国社交媒体进入实名化治理阶段。",
+  "detail": "2011年12月北京出台规定，要求微博用户在2012年3月16日前完成身份验证。各平台以身份证、手机号绑定完成核验，未实名账号仅可浏览。执行当日新浪微博活跃发言用户一度明显下降，平台方随后以运营商通道、活动运营逐步拉回活跃度。",
+  "impact": "实名制大幅压缩了谣言与水军的匿名空间，也改变大V发声生态，被视为此后十年互联网账号治理范式的起点。",
+  "aftermath": "2015年账号十条、2017年《网络安全法》将实名要求推广到所有互联网信息服务，后台实名成为行业默认配置。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "北京市微博客发展管理若干规定 - 北京市人民政府",
+    "url": "https://www.beijing.gov.cn/"
+   },
+   {
+    "title": "新浪微博",
+    "url": "https://weibo.com/"
+   }
+  ],
+  "tags": [
+   "微博",
+   "实名制",
+   "互联网治理"
+  ]
+ },
+ {
+  "id": "2012-03-16-xiaoshuo-premiere",
+  "date": "2012-03-16",
+  "title": "《晓说》开播：高晓松开启脱口秀自媒体时代",
+  "summary_30s": "2012年3月，高晓松与优酷合作的脱口秀《晓说》开播，一人一椅一扇讲历史掌故与野史，单期播放动辄数百万，证明知识型网红可以在电视体系之外成立。",
+  "detail": "彼时刚从醉驾案复出的高晓松，以矮大紧的自嘲姿态谈美国大选、青楼、镖局与军校，风格介于说书与讲座之间。节目名出自韩寒建议，制作成本极低，却长期占据优酷播放榜前列，两年后衍生《晓松奇谈》登陆爱奇艺，身价数千万。",
+  "impact": "《晓说》与罗振宇《罗辑思维》一道，开启个人IP加平台分成的自媒体视频商业模式，为知识付费埋下伏笔。",
+  "aftermath": "高晓松此后掌舵阿里音乐、阿里大文娱，2019年后淡出；文化人开讲脱口秀的模式被马未都、袁腾飞等不断复刻。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "晓说 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/晓说"
+   },
+   {
+    "title": "优酷",
+    "url": "https://www.youku.com/"
+   }
+  ],
+  "tags": [
+   "高晓松",
+   "网络脱口秀",
+   "自媒体"
+  ]
+ },
+ {
+  "id": "2012-04-03-instagram-android",
+  "date": "2012-04-03",
+  "title": "Instagram登陆安卓：一天百万下载的入口之争",
+  "summary_30s": "2012年4月3日，照片社交应用Instagram发布安卓版，首日下载量超百万。安卓平台的爆发直接抬高了其估值，一周后Facebook宣布以10亿美元将其收购。",
+  "detail": "Instagram此前两年只在iOS平台运营，积累约3000万用户。安卓版上线当天即登Google Play榜首，注册用户一周内猛增上千万，谷歌据传也曾有意收购。4月9日Facebook以约10亿美元现金加股票宣布收购，成为当时社交网络史上最惊人的并购之一。",
+  "impact": "验证了移动优先与单功能极致产品逻辑的威力，也确立了大平台出手买下潜在威胁的并购范式。",
+  "aftermath": "Instagram后来成长为月活超20亿的超级应用；这桩收购在2020年代美国反垄断诉讼中被反复援引为扼杀竞争的例证。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Instagram - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Instagram"
+   },
+   {
+    "title": "Instagram",
+    "url": "https://instagram.com/"
+   }
+  ],
+  "tags": [
+   "Instagram",
+   "安卓",
+   "移动社交"
+  ]
+ },
+ {
+  "id": "2012-04-06-first-mi-fan-festival",
+  "date": "2012-04-06",
+  "title": "首届米粉节：粉丝被办成一种节日",
+  "summary_30s": "2012年4月6日，小米在北京举办首届米粉节，数千名粉丝与雷军互动狂欢，米粉文化与发布会仪式感自此定型，互联网手机品牌的宗教感营销开跑。",
+  "detail": "米粉节上雷军宣布向老用户发放价值百元配件回馈，现场抽米粉参加爆米花线下活动。此后每年米粉节固定发布新品或重要让利，Are you OK式演讲、为发烧而生口号与橙色主题，共同构成中国科技圈第一套完整的粉丝运营体系。",
+  "impact": "把乔布斯式发布会与粉丝社群运营本土化，华为荣耀、魅族等此后都建立了各自的花粉节、魅友节，粉丝节成为国产手机标配。",
+  "aftermath": "米粉节延续至今，从渠道狂欢演变为生态链产品大促；米粉一词也成为中文互联网粉丝文化的代表性称谓。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米公司 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米",
+   "米粉节",
+   "粉丝营销"
+  ]
+ },
+ {
+  "id": "2012-04-11-pebble-kickstarter-record",
+  "date": "2012-04-11",
+  "title": "Pebble众筹上线：Kickstarter造出智能手表第一爆款",
+  "summary_30s": "2012年4月11日，智能手表Pebble登陆Kickstarter，数小时内达标，最终筹得1026万美元，刷新平台众筹纪录，可穿戴设备与大众众筹同时迎来里程碑。",
+  "detail": "由辞职的电子工程师团队打造的Pebble，用电子墨水屏连接手机收通知、控制音乐，定价99至150美元。原目标仅10万美元，最终约8.5万人支持、筹资超千万美元，团队不得不两次推迟交付以扩产。",
+  "impact": "证明众筹可以作为硬件创业的主流融资与预售渠道，直接带热智能手表、手环创业潮，Apple Watch立项传闻同期四起。",
+  "aftermath": "Pebble 2016年在Apple Watch挤压下资金链断裂，资产卖给Fitbit；但其表盘生态与通知范式被全行业继承。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Pebble (watch) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pebble_(watch)"
+   },
+   {
+    "title": "Kickstarter",
+    "url": "https://www.kickstarter.com/"
+   }
+  ],
+  "tags": [
+   "Pebble",
+   "众筹",
+   "可穿戴"
+  ]
+ },
+ {
+  "id": "2012-05-02-edx-launch",
+  "date": "2012-05-02",
+  "title": "edX上线：MIT与哈佛押注慕课",
+  "summary_30s": "2012年5月2日，麻省理工与哈佛各出资3000万美元成立非营利平台edX，向全球免费开放课程。与Coursera、Udacity一起，2012年被称为慕课元年。",
+  "detail": "edX脱胎于MIT2011年的MITx计划，以开源平台提供带作业、考试与证书的完整课程，首门电路课吸引逾15万人报名。三位斯坦福教授创办的Coursera同年4月先行上线，Udacity年初诞生，MOOC一词随之进入主流词典。",
+  "impact": "顶尖大学的围墙被互联网推倒，全球学习者第一次可以免费修读哈佛、MIT课程，带动各国上线慕课平台与学分认证探索。",
+  "aftermath": "2013年清华大学牵头学堂在线上线；慕课热后期回落，转型职业证书与付费微学位，其开放课件沉淀为全球公共教育资源。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "edX - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/EdX"
+   },
+   {
+    "title": "edX",
+    "url": "https://www.edx.org/"
+   }
+  ],
+  "tags": [
+   "慕课",
+   "在线教育",
+   "edX"
+  ]
+ },
+ {
+  "id": "2012-05-03-galaxy-s3-launch",
+  "date": "2012-05-03",
+  "title": "Galaxy S3伦敦发布：三星登顶路上的旗舰",
+  "summary_30s": "2012年5月3日，三星在伦敦发布Galaxy S3，4.8英寸屏、体感交互与灵感自自然的设计语言，全球狂销数千万台，帮助三星当年登顶全球智能手机市场份额第一。",
+  "detail": "S3搭载四核处理器、眼球停留熄屏（Smart Stay）、体感拨号等在当时极为超前的交互，预订量破千万。配合伦敦奥运前夜的全球营销，S3成为第一款在声量与销量上正面对撞iPhone的安卓旗舰。",
+  "impact": "确立三星大屏加全渠道加机海的霸主打法，安卓阵营从此有了与苹果分庭抗礼的头牌，产业链上游屏幕、存储优势开始变现。",
+  "aftermath": "三星手机份额2012至2013年登顶全球；S系旗舰一路演进，2016年Note 7电池事故让帝国惊出一身冷汗。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Samsung Galaxy S III - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_III"
+   },
+   {
+    "title": "Samsung",
+    "url": "https://www.samsung.com/"
+   }
+  ],
+  "tags": [
+   "三星",
+   "Galaxy",
+   "安卓旗舰"
+  ]
+ },
+ {
+  "id": "2012-05-07-nevada-autonomous-license",
+  "date": "2012-05-07",
+  "title": "内华达发给谷歌全球首张自动驾驶牌照",
+  "summary_30s": "2012年5月，美国内华达州向谷歌颁发全球首张自动驾驶汽车路测牌照，允许其无人车在公共道路行驶，自动驾驶从实验室项目变成受法律承认的路权主体。",
+  "detail": "内华达州2011年率先立法规范自动驾驶汽车，谷歌改装的丰田普锐斯车队随后通过路考，获得红色试验牌照。此前谷歌已低调累计完成数十万英里无人驾驶测试，消息公布后引发全球对机器开车的政策与伦理讨论。",
+  "impact": "为加州、佛罗里达等州跟进立法提供模板，特斯拉、Uber、百度等入场的合规框架由此起步。",
+  "aftermath": "谷歌该项目2016年独立为Waymo，2020年在亚利桑那开出无安全员Robotaxi；十年后自动驾驶商业化在中美两地加速落地。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Waymo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Waymo"
+   },
+   {
+    "title": "Nevada DMV",
+    "url": "https://dmv.nv.gov/"
+   }
+  ],
+  "tags": [
+   "自动驾驶",
+   "谷歌",
+   "立法"
+  ]
+ },
+ {
+  "id": "2012-05-10-evernote-china-yinxiang",
+  "date": "2012-05-10",
+  "title": "印象笔记入华：硅谷应用的本地化样本",
+  "summary_30s": "2012年5月10日，云笔记应用Evernote发布中国版印象笔记，成为少数在华设立独立数据中心的美国互联网公司，本土化改名一度被视为外企在华诚意模板。",
+  "detail": "Evernote与宽带资本合资入华，把服务命名为印象笔记，商标换成红色大象，数据存于本地，并接入新浪微博、微信等本土生态。CEO菲尔·利宾高调宣称中国是第二故乡，用户数一年内突破数百万。",
+  "impact": "为LinkedIn领英等后来者提供改名加合资加本地数据的入华路径参考；也证明工具类应用在华的获客天花板。",
+  "aftermath": "印象笔记2018年重组为独立中国公司，活成小而美工具；Evernote总部2022年被意大利开发商Bending Spoons收购。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Evernote - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Evernote"
+   },
+   {
+    "title": "印象笔记",
+    "url": "https://www.yinxiang.com/"
+   }
+  ],
+  "tags": [
+   "Evernote",
+   "云笔记",
+   "外企入华"
+  ]
+ },
+ {
+  "id": "2012-05-18-tencent-bu-reorg",
+  "date": "2012-05-18",
+  "title": "腾讯重组六大事业群：迎接移动互联网的自我革命",
+  "summary_30s": "2012年5月18日，腾讯宣布从职能制改组为事业群制，设立企业发展、互动娱乐、移动互联网等六大事业群，马化腾称之为应对移动互联网变革的自我革命。",
+  "detail": "重组把原有业务体系打散重组成六大事业群，微信所在的广州研发线升格为移动互联网事业群，搜索等业务随后并入搜狗。马化腾发表内部信称移动互联网是个更大的机会，躺在QQ上舒服的日子不多了，此话被解读为腾讯自我革命的宣言。",
+  "impact": "事业群制让腾讯获得小公司般的敏捷，微信得以在集团内拿到足够资源；三年后微信支付、公众号生态爆发证明重组的前瞻性。",
+  "aftermath": "2014年又分出微信事业群；2018年腾讯930变革设立CSIG拥抱产业互联网，组织进化成为腾讯的保留节目。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "腾讯 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/腾讯"
+   },
+   {
+    "title": "腾讯网",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "组织架构",
+   "移动互联网"
+  ]
+ },
+ {
+  "id": "2012-05-22-google-closes-motorola",
+  "date": "2012-05-22",
+  "title": "谷歌完成收购摩托罗拉移动：125亿美元买一张专利牌",
+  "summary_30s": "2012年5月22日，谷歌完成对摩托罗拉移动125亿美元的收购。外界很快看清这笔交易的实质：谷歌要的是1.7万项专利组成的安卓防御盾，而非手机制造。",
+  "detail": "2011年8月宣布的交易历经九个月反垄断审查后交割。彼时安卓阵营正遭苹果、微软专利围剿，谷歌以每股40美元现金收购这家手机鼻祖，随即大规模裁员并收缩产品线。2014年1月，谷歌以29亿美元把摩托罗拉品牌与大部分业务转手卖给联想，仅保留多数专利。",
+  "impact": "专利护盾稳住安卓生态军心，谷歌只做系统不做硬件的边界也由此划定，直到2016年Pixel自立门户。",
+  "aftermath": "摩托罗拉品牌在联想手中几经沉浮，以Moto G系列在新兴市场续命；这桩高买低卖成为平台公司并购逻辑的经典案例。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Motorola Mobility - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Motorola_Mobility"
+   },
+   {
+    "title": "联想集团",
+    "url": "https://www.lenovo.com/"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "摩托罗拉",
+   "专利"
+  ]
+ },
+ {
+  "id": "2012-05-31-changba-launch",
+  "date": "2012-05-31",
+  "title": "唱吧上线：手机KTV引爆全民K歌",
+  "summary_30s": "2012年5月底，陈华团队的唱吧App上线，把练歌房装进手机，上线五天冲上App Store免费榜第一，数月用户破千万，成为移动互联网元年最耀眼的工具类爆款。",
+  "detail": "唱吧以手机加耳机方案解决K歌混响与伴奏版权问题，支持录音修音、排行打擂与新浪微博分享，年轻人以求鲜花、求评论互踩主页。上线次日冲进总榜前十，一个月内活跃用户破百万，资本市场随即给出上亿美元估值。",
+  "impact": "证明智能手机麦克风加社交关系可以再造一个KTV消费场景，直接带动全民K歌、K歌达人等一批模仿者。",
+  "aftermath": "唱吧后来延伸出线下KTV与硬件业务，并捧出冯提莫等首批主播；腾讯全民K歌2014年推出后反超，K歌成为常青品类。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "唱吧 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/唱吧"
+   },
+   {
+    "title": "唱吧官网",
+    "url": "http://www.changba.com/"
+   }
+  ],
+  "tags": [
+   "唱吧",
+   "移动应用",
+   "K歌"
+  ]
+ },
+ {
+  "id": "2012-06-01-xiaomi-360-smartphone-war",
+  "date": "2012-06-01",
+  "title": "小三大战：周鸿祎雷军微博互撕特供机",
+  "summary_30s": "2012年6月前后，周鸿祎率360高调推出特供机计划，与华为等厂商合作对标小米，雷军亲自下场微博应战，两位大佬隔空对骂数周，成为中国手机圈第一场全民围观的社交媒体战争。",
+  "detail": "360宣布以零利润方式联合厂商推360特供机，首波华为闪耀配置与小米相近。周鸿祎连发数十条微博质疑小米返修率与跑分，雷军以苍蝇之喻回击，双方团队晒检测报告、隔空喊话满天飞。最终特供机销量平平，口水战不了了之。",
+  "impact": "开创老板即公关、微博即战场的营销范式，此后罗永浩、余承东们的微博开战都可溯源于此；手机评测与跑分文化同步升温。",
+  "aftermath": "360特供机计划一年后偃旗息鼓，周鸿祎2014年底再度借酷派进军手机，2019年再次退出；雷军则把微博营销做成小米的核心能力。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "奇虎360 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇虎360"
+   },
+   {
+    "title": "小米 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米"
+   }
+  ],
+  "tags": [
+   "小米",
+   "360",
+   "微博营销"
+  ]
+ },
+ {
+  "id": "2012-06-01-threesquirrels-launch",
+  "date": "2012-06-01",
+  "title": "三只松鼠天猫开店：互联网坚果品牌元年",
+  "summary_30s": "2012年6月，章燎原创立的三只松鼠在天猫上线，以主人称呼顾客、松鼠动漫IP包装和极致快递体验，上线65天做到坚果类目第一，次年双十一单日销售过千万。",
+  "detail": "此前在詹氏食品做营销总监的章燎原看准天猫流量红利，把坚果从散装土产改造成卖萌加服务的标准化快消品：湿巾、开壳器、果壳袋随箱附送，客服以鼠小箱等萌称自称。上线首月销售破百万，2012年双十一即冲进天猫大食品类前十。",
+  "impact": "确立依赖平台流量、外包生产、品牌与体验自营的互联网快消打法，零食电商赛道从此卷起。",
+  "aftermath": "三只松鼠2019年深交所上市，章燎原跻身安徽首富级人物；代工模式的质量争议在2020年代反复考验品牌。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "三只松鼠 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/三只松鼠"
+   },
+   {
+    "title": "三只松鼠官网",
+    "url": "https://www.3songshu.com/"
+   }
+  ],
+  "tags": [
+   "三只松鼠",
+   "电商",
+   "淘品牌"
+  ]
+ },
+ {
+  "id": "2012-06-01-diaosi-meme-year",
+  "date": "2012-06-01",
+  "title": "屌丝逆袭：一个自嘲词的全民流行",
+  "summary_30s": "2012年，源自李毅吧的屌丝一词从球迷自嘲蔓延为全民身份认同，从贴吧弹幕登上人民日报，成为社会心态转型的语言标本：房价与阶层焦虑之下，年轻人的集体自我矮化。",
+  "detail": "该词原指失败者，经李毅吧亚文化发酵，2012年上半年爆发式扩散，与高富帅、白富美构成一套完整的戏谑阶级话语。下半年人民日报刊文讨论屌丝心态，标志其进入主流视野；与元芳体、你幸福吗一起入选年度网络用语。",
+  "impact": "网络亚文化第一次如此深地嵌入现实社会心态描述，学界围绕屌丝文化展开大量论述；贴吧造词能力达到顶峰。",
+  "aftermath": "2010年代后期佛系、躺平、打工人接续出现，自嘲话语成为中文互联网观察代际情绪的固定窗口。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "屌丝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/屌丝"
+   },
+   {
+    "title": "李毅吧 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/李毅吧"
+   }
+  ],
+  "tags": [
+   "网络流行语",
+   "贴吧文化",
+   "社会心态"
+  ]
+ },
+ {
+  "id": "2012-06-14-nokia-10000-layoffs",
+  "date": "2012-06-14",
+  "title": "诺基亚宣布裁员一万人：帝国崩塌加速",
+  "summary_30s": "2012年6月14日，诺基亚宣布全球裁员1万人、关闭多处工厂，高层震动，智能手机份额从两年前的三成多跌至个位数，塞班巨轮加速沉没。",
+  "detail": "裁员波及研发、市场多条线，主导转型的执行副总裁与大区负责人同日去职。诺基亚押注的Lumia Windows Phone系列销量远不及预期，现金储备以每季度数亿欧元速度消耗，信用评级被降至垃圾级。",
+  "impact": "全球手机产业链开始向三星与国产阵营迁移，芬兰与全球手机业人才外溢，华为、中兴等厂商趁机吸纳大量研发力量。",
+  "aftermath": "2013年9月诺基亚将手机业务以54.4亿欧元卖给微软，我们没做错什么但我们输了成为世纪名句。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "诺基亚 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/诺基亚"
+   },
+   {
+    "title": "Nokia layoffs - Reuters",
+    "url": "https://www.reuters.com/"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "裁员",
+   "功能机时代"
+  ]
+ }
+]

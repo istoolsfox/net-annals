@@ -1,0 +1,727 @@
+[
+ {
+  "id": "2013-05-27-zhihu-daily-launch",
+  "date": "2013-05-27",
+  "title": "知乎日报上线：精选内容的早起仪式",
+  "summary_30s": "2013年5月，知乎推出官方日报App，每天编辑精选数条优质回答推送给用户，赞同数破百万级，成为知识中产的晨间读物，也为知乎的大众化打开轻量入口。",
+  "detail": "知乎日报以编辑加算法的混排模式，从数十万日新增回答中筛出硬核科普、行业亲历与故事向内容，凌晨更新。那句早上好，今天是某年某月某日的开篇句式成为无数用户的记忆，2014年又增夜间精选与瞎扯栏目。",
+  "impact": "把长内容阅读做成了日活习惯，知乎品牌从IT圈破圈到知识大众，广告主开始重视知识营销。",
+  "aftermath": "知乎日报2018年后逐渐并入知乎主App的信息流；2023年正式停更，其启蒙的知识付费市场已蔚为大观。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "知乎 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/知乎"
+   },
+   {
+    "title": "知乎",
+    "url": "https://www.zhihu.com/"
+   }
+  ],
+  "tags": [
+   "知乎日报",
+   "内容产品",
+   "知识社区"
+  ]
+ },
+ {
+  "id": "2013-05-30-chuangzhong-chinese-website",
+  "date": "2013-05-30",
+  "title": "创世中文网上线：起点创始团队出走腾讯",
+  "summary_30s": "2013年5月30日，起点中文网创始人吴文辉率核心团队出走后打造的创世中文网正式上线，背靠腾讯文学，网络文学江湖从盛大一家独大走向腾讯、盛大双雄争霸。",
+  "detail": "吴文辉等人因与盛大文学治理矛盾于2013年3月离职，率队加盟腾讯，创世中文网以买断加分成的优厚条件挖角大神作家。盛大文学上市梦碎，两边对头部作者的争夺白热化，稿酬纪录一再刷新。",
+  "impact": "网文作者议价权空前提高，IP价值在大平台竞争中被重估，为阅文集团的诞生埋下伏笔。",
+  "aftermath": "2014年11月腾讯文学与盛大文学合并成立阅文集团，吴文辉回归出任CEO，2017年阅文港股上市。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "阅文集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阅文集团"
+   },
+   {
+    "title": "起点中文网 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/起点中文网"
+   }
+  ],
+  "tags": [
+   "网络文学",
+   "创世中文网",
+   "吴文辉"
+  ]
+ },
+ {
+  "id": "2013-06-06-lightinthebox-ipo",
+  "date": "2013-06-06",
+  "title": "兰亭集势上市：外贸电商第一股的孤独冲锋",
+  "summary_30s": "2013年6月6日，跨境婚纱与3C出口电商兰亭集势登陆纽交所，成为当年罕有的中概股IPO，也被称作中国外贸电商第一股，但此后业绩起伏，长期未能带动板块景气。",
+  "detail": "兰亭集势以自营网站向欧美销售婚纱、礼服与小商品，2012年营收2亿美元并实现微利。上市首日上涨22%，此后连续亏损、股价长期低迷。它的孤独恰与彼时中概股信任危机的寒冬互为注脚，直到2014年京东、阿里才重开大幕。",
+  "impact": "验证了跨境电商可独立成生意，为中国制造出海的数字化提供早期样本。",
+  "aftermath": "跨境出口电商此后十年从兰亭模式进化到 SHEIN、Temu、TikTok Shop 时代，把中国供应链直连全球消费者。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "兰亭集势 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/兰亭集势"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "跨境电商",
+   "上市",
+   "兰亭集势"
+  ]
+ },
+ {
+  "id": "2013-06-10-ios7-announced",
+  "date": "2013-06-10",
+  "title": "iOS 7发布：苹果扁平化大改造引发美学战争",
+  "summary_30s": "2013年6月10日WWDC上，苹果发布由Jony Ive主持设计的iOS 7，拟物图标全面替换为扁平风，控制中心与真正的多任务登场，一场关于美与品味的大论战席卷全球。",
+  "detail": "这是iOS史上最激进的视觉重构：毛玻璃分层、细字体、动态壁纸与天气动画让人耳目一新，也被吐槽为安卓化、儿童化。新版新增控制中心、AirDrop、iTunes Radio，并在iPhone 5s上配合指纹识别。发布会同场还有Mac Pro垃圾桶与iOS in the Car。",
+  "impact": "确立扁平化设计此后十年的统治地位，拟物美学加速退潮；苹果在后乔布斯时代证明敢自我推翻。",
+  "aftermath": "iOS 8、9延续扁平语言并逐步收敛细节；2020年iOS 14引入小组件，视觉叙事再次大改。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IOS 7 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IOS_7"
+   },
+   {
+    "title": "Apple Developer",
+    "url": "https://developer.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iOS 7",
+   "扁平化设计"
+  ]
+ },
+ {
+  "id": "2013-06-18-huawei-ascend-p6",
+  "date": "2013-06-18",
+  "title": "华为P6伦敦发布：6.18毫米的自信宣言",
+  "summary_30s": "2013年6月18日，华为在伦敦发布Ascend P6，6.18毫米机身成当时全球最薄智能手机之一，2688元定价与美学叙事标志着华为终端从运营商白牌走向精品品牌。",
+  "detail": "P6采用全金属底边加微弧背面设计，前置500万像素自拍强化，邀请国际媒体与时尚渠道造势。虽存在发热与产能问题，销量仍达数百万台，为P7、Mate 7的品牌跃升打底。余承东此后把华为终端带进万元机时代。",
+  "impact": "国产厂商首次在欧洲主场发布旗舰，品牌溢价战略起步，中华酷联阵营内部开始分化。",
+  "aftermath": "华为P系列与Mate系列2014年后双旗舰登顶国产高端，2019年前后出货量一度问鼎全球。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "华为 Ascend P6 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/华为 Ascend P6"
+   },
+   {
+    "title": "华为消费者业务",
+    "url": "https://consumer.huawei.com/cn/"
+   }
+  ],
+  "tags": [
+   "华为",
+   "P6",
+   "超薄手机"
+  ]
+ },
+ {
+  "id": "2013-07-01-kuaishou-pivot-shortvideo",
+  "date": "2013-07-01",
+  "title": "快手转型短视频社区：五环内看不见的流量帝国起跑",
+  "summary_30s": "2013年夏，GIF制作工具快手转型短视频社区，去中心化算法与普通人记录生活的定位让其在县城与乡镇悄然生长，三年后长成日活千万级的隐形巨头。",
+  "detail": "快手由程一笑2011年创建为GIF快手，2012年底开始试水短视频，2013年全面转型并引入宿华负责算法。产品不设明星入口、双列发现页让普通人也能被看见，东北喊麦、农村日常构成最初的社区底色。",
+  "impact": "短视频赛道在巨头视野之外完成原始积累，下沉市场内容生态第一次被系统性组织起来。",
+  "aftermath": "快手2016年用户破3亿遭遇抖音狙击，2021年港股上市；老铁经济与普惠流量观深刻改变了内容行业。",
+  "category": "internet",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "快手 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/快手"
+   },
+   {
+    "title": "快手官网",
+    "url": "https://www.kuaishou.com/"
+   }
+  ],
+  "tags": [
+   "快手",
+   "短视频",
+   "下沉市场"
+  ]
+ },
+ {
+  "id": "2013-07-02-cmb-wechat-banking",
+  "date": "2013-07-02",
+  "title": "招商银行微信银行上线：银行业拥抱微信",
+  "summary_30s": "2013年7月，招商银行率先推出微信支行与智能客服，客户在微信里查账、办业务，数十家银行三个月内跟进，微信从聊天工具变身金融机构服务前台。",
+  "detail": "招行微信智能客服平台把卡片余额查询、账单、还款等高频业务搬进公众号，随后推出微信网点预约与小贷服务。中信、广发、平安快速跟进，微信银行成为当年银行财报热词，也为微信支付的企业服务生态背书。",
+  "impact": "公众号从媒体工具扩展为企业服务接口，中国传统金融机构第一次把核心服务放在第三方社交平台。",
+  "aftermath": "银行公众号如今承担信用卡、网点与理财的核心触点，小程序化后服务能力进一步加深。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "招商银行 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/招商银行"
+   },
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   }
+  ],
+  "tags": [
+   "招商银行",
+   "微信银行",
+   "互联网金融"
+  ]
+ },
+ {
+  "id": "2013-07-11-microsoft-one-reorg",
+  "date": "2013-07-11",
+  "title": "微软重组为一个微软：鲍尔默的最后豪赌",
+  "summary_30s": "2013年7月11日，鲍尔默宣布微软重组为功能工程、运营等四大工程群，终结Windows与Office各自为政的诸侯制，一个微软战略押注设备与服务转型。",
+  "detail": "重组打破按产品划分的事业部级结构，改为按功能整合，Windows负责人辛诺夫斯基此前已因路线斗争出局。鲍尔默称这是微软自2002年以来最深刻的一次转身，但资本市场并不买账，股价当日应声下跌。",
+  "impact": "为纳德拉2014年上任后聚焦云与订阅制扫清组织障碍；大公司重组的阵痛样本广被引用。",
+  "aftermath": "2014年2月纳德拉接任CEO，提出移动为先云为先，微软十年后市值增长十倍，成为重组红利的最传奇注脚。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "One Microsoft - Microsoft Blog",
+    "url": "https://blogs.microsoft.com/"
+   },
+   {
+    "title": "Microsoft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft"
+   }
+  ],
+  "tags": [
+   "微软",
+   "组织重组",
+   "鲍尔默"
+  ]
+ },
+ {
+  "id": "2013-07-12-unigroup-acquires-spreadtrum",
+  "date": "2013-07-12",
+  "title": "紫光17.8亿美元收购展讯：芯片国家队集结",
+  "summary_30s": "2013年7月，清华紫光宣布以17.8亿美元收购手机芯片设计公司展讯通信，清华系资本开始整合中国半导体设计业，为后来声势浩大的紫光集团攻防战开局。",
+  "detail": "展讯为国内少数手机SoC设计公司，主打低端功能机与智能机芯片，出货量全球前十。紫光收购展讯后又于年底拿下RDA锐迪科，赵伟国的芯片帝国叙事启动。同期国家层面酝酿集成电路产业大基金，半导体自主化成为国家议程。",
+  "impact": "民营芯片公司纳入国资平台序列，海思、紫光展锐的国产双雄格局雏形初现。",
+  "aftermath": "紫光2020年陷入债务重组，展锐独立运营至今仍是国产手机SoC的重要备份选项。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "紫光展锐 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/紫光展锐"
+   },
+   {
+    "title": "展讯通信 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "紫光",
+   "展讯",
+   "半导体"
+  ]
+ },
+ {
+  "id": "2013-08-02-chinese-dictation-show",
+  "date": "2013-08-02",
+  "title": "《中国汉字听写大会》首播：提笔忘字全民会诊",
+  "summary_30s": "2013年8月2日，央视《中国汉字听写大会》首播，中学生听写冷僻汉字的赛制引爆收视与自测热潮，全民讨论提笔忘字，汉字文化类节目批量涌现。",
+  "detail": "节目由央视与国家语委合作，全国32支代表队参赛，成人体验团同步听写的正确率惨状成为传播点。收视攀升至全国同时段前列，随即带动《汉字英雄》《成语大会》等文化综艺跟风，苹果App Store听写类应用下载暴涨。",
+  "impact": "把输入法时代的书写能力退化第一次摆上公共议程，文化综艺成为主旋律创新赛道。",
+  "aftermath": "汉字听写大会连办数季，2016年后热度回落；但汉字、诗词、成语类节目成为中国综艺长青品类。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国汉字听写大会 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中国汉字听写大会"
+   },
+   {
+    "title": "央视网",
+    "url": "https://www.cctv.com/"
+   }
+  ],
+  "tags": [
+   "汉字听写大会",
+   "文化综艺",
+   "提笔忘字"
+  ]
+ },
+ {
+  "id": "2013-08-05-bezos-buys-washington-post",
+  "date": "2013-08-05",
+  "title": "贝索斯2.5亿美元个人收购《华盛顿邮报》",
+  "summary_30s": "2013年8月5日，亚马逊创始人贝索斯以2.5亿美元个人收购《华盛顿邮报》，报纸没落时代一个互联网亿万富翁救下美国老牌报业，新闻业的数字化实验就此换轨。",
+  "detail": "格雷厄姆家族经营邮报八十年后割爱，贝索斯强调以个人身份收购、保持编辑独立。他导入增长思维：砍掉印刷包袱、重塑数字订阅与产品团队，邮报2016年实现盈利，口号民主死于黑暗成为特朗普时代的流量引擎。",
+  "impact": "证明科技资本加产品方法论可以复活传统媒体，全球报业数字化转型有了最强参照系。",
+  "aftermath": "邮报数字订阅用户破百万，2020年代AI授权争议又成新闻业与新经济的冲突样本。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Washington Post - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Washington_Post"
+   },
+   {
+    "title": "Jeff Bezos - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jeff_Bezos"
+   }
+  ],
+  "tags": [
+   "华盛顿邮报",
+   "贝索斯",
+   "媒体转型"
+  ]
+ },
+ {
+  "id": "2013-08-06-tfboys-debut",
+  "date": "2013-08-06",
+  "title": "TFBOYS出道：互联网养成系偶像元年",
+  "summary_30s": "2013年8月6日，时代峰峻推出王俊凯、王源、易烊千玺组成的TFBOYS，以网络自制内容与粉丝共创养成，四年后登春晚，改写了中国偶像工业的造星逻辑。",
+  "detail": "三人出道前已通过翻唱视频在贴吧、微博积累人气，公司以日式养成系模式放送练习室与日常物料，粉丝从素人时期一路陪伴。左手右手一个慢动作的神曲《青春修炼手册》2014年爆红，百度贴吧与微博打榜成为粉丝工业的原型场。",
+  "impact": "确立互联网养成式造星路径，粉丝经济从贴吧时代升级为数据女工与流量逻辑，深刻影响内娱十年。",
+  "aftermath": "三人2017年成立个人工作室，2019年后各自转型歌手演员，单飞不解散成为养成系的最终答案。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "TFBOYS - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/TFBOYS"
+   },
+   {
+    "title": "时代峰峻",
+    "url": "https://www.tfent.cn/"
+   }
+  ],
+  "tags": [
+   "TFBOYS",
+   "养成系",
+   "粉丝经济"
+  ]
+ },
+ {
+  "id": "2013-08-08-miaopai-launch",
+  "date": "2013-08-08",
+  "title": "秒拍上线：借明星灾情视频卡位短视频",
+  "summary_30s": "2013年8月，一下科技推出秒拍，以明星入驻与热点事件的十秒短视频迅速起量，后来作为微博官方合作播放器吃到社交媒体红利，成为短视频大战早期的领跑者。",
+  "detail": "秒拍早期借明星日常视频吸量，2014年与微博达成战略合作成为默认视频播放器，2016年冰桶挑战的明星接力使其声量登顶。一下科技随后推出一直播、小咖秀，构成微博系视频矩阵，但始终未建立起独立的社区生态。",
+  "impact": "验证了PGC加社交分发的短视频路径，为微博补齐视频短板，也留下工具命门：流量在平台不在自己。",
+  "aftermath": "2017年后秒拍被快手抖音两面夹击逐渐边缘化；微博的视频故事最终由自有产品与投资组合续写。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "秒拍 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "微博 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/新浪微博"
+   }
+  ],
+  "tags": [
+   "秒拍",
+   "短视频",
+   "微博"
+  ]
+ },
+ {
+  "id": "2013-08-10-seven-bottom-lines",
+  "date": "2013-08-10",
+  "title": "网络名人共守七条底线：大V时代的规则重塑",
+  "summary_30s": "2013年8月10日，国家互联网信息办公室举办网络名人社会责任论坛，与纪连海、潘石屹等网络大V达成法律法规、社会主义制度、国家利益等七条底线共识，大V言论生态迎来分水岭。",
+  "detail": "论坛号召拥有千万级粉丝的网络名人承担社会责任，不传谣、不造谣。此前秦火火等造谣案件相继查处，薛蛮子随后因嫖娼被抓成为标志性事件，大V谨言成为新常态，政务微博与主流媒体账号趁势扩容。",
+  "impact": "中国社交媒体的言论治理框架成型，意见领袖的光环与责任被重新定义，舆论场结构深度调整。",
+  "aftermath": "此后实名制、账号十条、网安法层层加码，平台与账号治理走向常态化、法治化。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   },
+   {
+    "title": "人民网",
+    "url": "https://www.people.com.cn/"
+   }
+  ],
+  "tags": [
+   "七条底线",
+   "网络治理",
+   "大V"
+  ]
+ },
+ {
+  "id": "2013-08-15-pvz2-china-first",
+  "date": "2013-08-15",
+  "title": "《植物大战僵尸2》中国区全球首发",
+  "summary_30s": "2013年8月15日，宝开《植物大战僵尸2：奇妙时空之旅》在中国区App Store全球首发，免费加内购模式取代一代的买断制，中国玩家的付费能力与渠道分成博弈同时成为焦点。",
+  "detail": "中国区比北美早上线，道具收费与体力机制引发老玩家争议，但首周下载即破数千万，长期霸榜。安卓版因渠道分成比例与多家商店谈判延宕，App Store首发窗口优势尽显，数字说明中国已是移动游戏第一市场。",
+  "impact": "国际大厂此后普遍把中国作为手游首发重镇，免费加内购自此成为全球移动游戏主流商业模式。",
+  "aftermath": "宝开母公司EA此后把PvZ IP手游化持续运营；国产手游同年在收入榜完成对进口的反超。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "植物大战僵尸2 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/植物大战僵尸2"
+   },
+   {
+    "title": "EA",
+    "url": "https://www.ea.com/"
+   }
+  ],
+  "tags": [
+   "植物大战僵尸",
+   "手游",
+   "内购"
+  ]
+ },
+ {
+  "id": "2013-08-17-broadband-china-strategy",
+  "date": "2013-08-17",
+  "title": "宽带中国战略落地：网络基建成为国家工程",
+  "summary_30s": "2013年8月17日，国务院印发宽带中国战略及实施方案，把宽带首次定位为国家战略性公共基础设施，设定2015年城市20M、农村4M的目标，光纤入户与4G建设全面提速。",
+  "detail": "方案提出完善宽带普及与提速的财税、频谱与普遍服务支持，明确到2020年宽带覆盖城乡。当年起光纤到户改造与百兆城市试点铺开，三大运营商资本开支连年高位，农村宽带普及率快速爬升。",
+  "impact": "把数字高速公路纳入国家基建序列，为后续4G红利、农村电商与在线教育下乡提供了物理前提。",
+  "aftermath": "2015年提速降费接棒，中国光纤覆盖与移动网速此后十年跃居全球前列，宽带中国于2020年收官。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国务院关于印发宽带中国战略及实施方案的通知 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "宽带中国",
+   "基础设施",
+   "国家战略"
+  ]
+ },
+ {
+  "id": "2013-08-19-yixin-launch",
+  "date": "2013-08-19",
+  "title": "易信上线：网易电信联手挑战微信",
+  "summary_30s": "2013年8月19日，网易与中国电信联合推出即时通讯应用易信，免费短信与电话留言的打法吸引首批千万用户，但微信垄断下逆袭未成，成为挑战微信系列尝试中最有声量的一次。",
+  "detail": "易信宣布送免费短信与高清语音，上线24小时用户破百万，丁磊亲自站台。电信借其撬动OTT与管道融合，网易则补社交短板。但社交链迁移壁垒难以撼动，易信随后转向校园与企业场景，声量渐微。",
+  "impact": "印证了即时通讯赢者通吃的残酷规律，此后挑战者转向垂直场景而非正面进攻。",
+  "aftermath": "来往同年底高调而来草草收场；微信的真正挑战者最终以抖音、快手的内容社交形态出现。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "易信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/易信"
+   },
+   {
+    "title": "网易",
+    "url": "https://www.163.com/"
+   }
+  ],
+  "tags": [
+   "易信",
+   "即时通讯",
+   "网易"
+  ]
+ },
+ {
+  "id": "2013-08-19-yahoo-china-mail-shutdown",
+  "date": "2013-08-19",
+  "title": "中国雅虎邮箱停止服务：一个时代的邮箱告别",
+  "summary_30s": "2013年8月19日，中国雅虎邮箱正式停止服务，用户邮件与账号数据不可再访问，这个陪伴无数网民世纪之交的邮箱域名谢幕，被视为门户时代在中国终结的象征。",
+  "detail": "阿里巴巴与雅虎协议到期后，中国雅虎业务陆续移交关闭，邮箱4月即宣布停服倒计时，8月19日全面停止。大量老用户抢救邮件、迁移通知，IT博客圈掀起集体怀旧，@yahoo.com.cn的青春记忆刷屏。",
+  "impact": "免费邮箱从入口级产品沦为基础设施附属品，用户数据主权与云服务可靠性的讨论升温。",
+  "aftermath": "网易、QQ邮箱承接大部分用户；雅虎品牌2015年后在中国进一步收缩，最终淡出主流视野。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "雅虎 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/雅虎"
+   },
+   {
+    "title": "中国雅虎",
+    "url": "https://www.yahoo.com/"
+   }
+  ],
+  "tags": [
+   "雅虎邮箱",
+   "门户时代",
+   "关停"
+  ]
+ },
+ {
+  "id": "2013-08-20-qinhuohuo-arrested",
+  "date": "2013-08-20",
+  "title": "秦火火立二拆四被抓：网络谣言治理第一案",
+  "summary_30s": "2013年8月20日，北京警方通报逮捕网络推手秦火火（秦志晖）与立二拆四（杨秀宇），两人编造铁道部天价赔偿、雷锋生活奢侈系列谣言牟利，网络大V造谣产业链首次被整体曝光。",
+  "detail": "二人经营的尔玛公司以水军、谣棍生意策划热点，动辄转发数万。公安部部署打击网络有组织造谣炒作专项行动，薛蛮子、边民等一批大V相继涉案。2014年4月秦火火以诽谤、寻衅滋事罪获刑三年，成为两高司法解释后标杆案例。",
+  "impact": "网络水军与推手产业进入强监管时代，转发500次入刑的规则让大V发言急剧谨慎。",
+  "aftermath": "此后营销号生态转入隐蔽化、公司化；2019年后饭圈打投与流量造假治理再掀高潮。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "秦火火 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/秦火火"
+   },
+   {
+    "title": "新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "网络谣言",
+   "水军",
+   "网络治理"
+  ]
+ },
+ {
+  "id": "2013-08-22-bo-xilai-weibo-trial",
+  "date": "2013-08-22",
+  "title": "薄熙来案微博直播：法庭走进社交媒体",
+  "summary_30s": "2013年8月22日起，济南中级人民法院以官方微博图文直播薄熙来案五天庭审，控辩细节近乎实时披露，中国司法公开史上第一次以社交媒体为载体的重大案件直播。",
+  "detail": "济南中院微博账号发布庭审笔录节选，每天数十条更新，国内外媒体以微博为第一信源。法院随后以长文形式公布全案庭审记录与判决结果，判决书全文公开尺度前所未有，被视为司法公开与审判流程透明化的标志性尝试。",
+  "impact": "开创重大案件司法公开的微博直播范式，此后一批大要案庭审直播渐成惯例，2016年庭审直播平台上线。",
+  "aftermath": "政务微博与法院新媒体在随后的数年里制度化；庭审直播总量此后达数千万场，成中国司法公开名片。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "薄熙来案 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/薄熙来案"
+   },
+   {
+    "title": "济南市中级人民法院微博",
+    "url": "https://weibo.com/"
+   }
+  ],
+  "tags": [
+   "薄熙来案",
+   "司法公开",
+   "微博直播"
+  ]
+ },
+ {
+  "id": "2013-08-22-baidu-lightapp",
+  "date": "2013-08-22",
+  "title": "百度世界发布轻应用：搜索对抗App孤岛",
+  "summary_30s": "2013年8月22日百度世界大会上，李彦宏发布轻应用，让用户无需下载App即可在搜索结果里直接使用服务，试图以移动搜索的分发逻辑对抗应用商店与超级App的崛起。",
+  "detail": "轻应用面向开发者提供即搜即用、经验分发能力，百度同期还上线手机百度4.0的信息流式改版。但彼时用户习惯已被应用商店与微信双寡头锁定，轻应用声量大于实效，成为搜索巨头移动化焦虑的注脚。",
+  "impact": "提出应用即服务的早期构想，可视为小程序思想的先行者；百度移动转型的主战场随后转向O2O与AI。",
+  "aftermath": "2017年百度发布智能小程序，思路重启并接入搜索与信息流；微信小程序2017年上线后真正引爆该形态。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/百度"
+   },
+   {
+    "title": "百度世界大会 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度",
+   "轻应用",
+   "移动搜索"
+  ]
+ },
+ {
+  "id": "2013-08-23-ballmer-retirement-announcement",
+  "date": "2013-08-23",
+  "title": "鲍尔默宣布一年内退休：挥泪谢幕的激情演讲",
+  "summary_30s": "2013年8月23日，微软CEO史蒂夫·鲍尔默宣布将在12个月内退休，消息当日股价大涨7%，市场用金钱投出对鲍尔默时代的复杂评价，开发者大会上的 Developers 呐喊成为绝响。",
+  "detail": "鲍尔默任内微软营收增长近三倍，但错失移动与搜索，Windows Phone 与 Surface RT 双双折戟。他此后在公司内部会议上含泪演讲我爱这家公司，2014年2月纳德拉继任。退休后鲍尔默收购NBA洛杉矶快船队，又以个人财富给母校哈佛捐巨款。",
+  "impact": "微软领导权更替拉开科技史上最成功CEO接班的序幕，大公司如何反思失意的移动时代有了第一个样本。",
+  "aftermath": "纳德拉以云为先重构微软，市值从3000亿美元一路涨破3万亿美元；鲍尔默则成为最狂热的球队老板梗王。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Steve Ballmer - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Steve_Ballmer"
+   },
+   {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "鲍尔默",
+   "CEO更替"
+  ]
+ },
+ {
+  "id": "2013-09-01-phone-real-name-policy",
+  "date": "2013-09-01",
+  "title": "手机实名制全面实施：无登记不上号",
+  "summary_30s": "2013年9月1日起，全国新入网电话用户须真实身份登记，电信运营商不再办理无记名电话卡，治理电信诈骗与垃圾短信的实名制体系自手机号开始建立。",
+  "detail": "依据2013年7月工信部《电话用户真实身份信息登记规定》，新用户须出示身份证件入网，老用户在办理新业务时补登记。营业厅、代理点全面接入核验系统，非实名号此后陆续被限制停机，电话黑卡产业链受重创。",
+  "impact": "为实名制的通信基础奠定根基，此后电话诈骗与骚扰治理、账号注册全部挂接实名信息。",
+  "aftermath": "2015年实名率达九成以上，2016年工信部要求存量用户全部实名；电话实名又延伸到物联网卡治理。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   },
+   {
+    "title": "电话用户真实身份信息登记规定 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "手机实名制",
+   "电信监管",
+   "实名制"
+  ]
+ },
+ {
+  "id": "2013-09-01-tencent-weishi-launch",
+  "date": "2013-09-01",
+  "title": "腾讯微视上线：巨头最早的短视频尝试",
+  "summary_30s": "2013年9月，腾讯推出8秒短视频应用微视，比快手转型晚两个月、比抖音早三年，却因战略摇摆于2015年一度关停，成为大厂错失短视频的著名教材。",
+  "detail": "微视背靠腾讯关系链，明星入驻带动首批热度，马化腾亲自发微视。但8秒时长限制、缺乏社区运营与内部资源摇摆使其增长乏力，2015年3月团队解散，2017年重启为微视短视频App再战抖音仍未成功。",
+  "impact": "证明流量与资本并不能保证赢得内容社区，产品定力与生态理解才是短视频战争的关键变量。",
+  "aftermath": "腾讯此后以投资快手、视频号两条路径弥补短视频短板；2020年视频号异军突起完成逆袭。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "腾讯微视 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/腾讯微视"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "微视",
+   "短视频",
+   "腾讯"
+  ]
+ },
+ {
+  "id": "2013-09-01-changfajiya-meme",
+  "date": "2013-09-01",
+  "title": "待我长发及腰：网络句式的古典复兴",
+  "summary_30s": "2013年秋，待我长发及腰，少年娶我可好刷屏社交网络，从一对情侣合照的配文到全民仿写接龙，网络流行语第一次大规模借用古风句式表达爱情与调侃。",
+  "detail": "句式源自网络文学与一对大学生情侣的合照帖，经微博大V转发后引爆，衍生出待我长发及腰，帮我拿到中考作文满分吗等数千种仿写，微信朋友圈一时满屏及腰体，各大品牌与媒体官微也加入玩梗，句式模板化成为那一季社交运营的固定动作。",
+  "impact": "古风流行语自此成为青年亚文化的稳定输出，汉服热与古风音乐、古风插画同期升温，国风创作获得第一批流量土壤。",
+  "aftermath": "此后陌上花开、山有木兮等古风句式反复走红；国风内容在此后十年成为文创主力。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "待我长发及腰 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "网络流行语 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网络语言"
+   }
+  ],
+  "tags": [
+   "网络流行语",
+   "古风",
+   "句式"
+  ]
+ }
+]

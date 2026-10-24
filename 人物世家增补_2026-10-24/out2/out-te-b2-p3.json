@@ -1,0 +1,678 @@
+[
+ {
+  "id": "1985-01-01-vodafone-first-call",
+  "date": "1985-01-01",
+  "title": "英国首个蜂窝移动网1985年元旦开通：沃达芳打出全英第一通手机",
+  "summary_30s": "1985年1月1日，英国两家蜂窝移动网络开通，喜剧演员厄尼·怀斯在伦敦圣凯瑟琳码头用沃达芳网络拨出全英第一通移动电话，几天后Cellnet跟进，英国成为移动通信大众化的欧洲前哨。",
+  "detail": "沃达芳由拉库姆电子的杰拉尔德·温特1983年分立而来，网络建设仅用十几个月。元旦清晨怀斯举起重达5公斤的车载话机喊出新年祝福，现场照片传遍世界。初期用户手机近3000英镑、通话按分钟计费，到1985年底英国用户约5万，但增长曲线就此陡峭向上。",
+  "impact": "英国的示范让蜂窝移动从北美的企业工具变成大众消费品，手机文化的雏形在欧亚铺开。",
+  "aftermath": "沃达芳1991年推出GSM网并全球扩张，成为跨国电信巨头；元旦第一通成为其品牌起源神话。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Vodafone - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vodafone"
+   }
+  ],
+  "tags": [
+   "沃达芳",
+   "蜂窝网络",
+   "移动电话",
+   "英国"
+  ]
+ },
+ {
+  "id": "1985-01-01-apple-laserwriter",
+  "date": "1985-01-01",
+  "title": "苹果LaserWriter面世：PostScript激光打印点燃桌面出版",
+  "summary_30s": "1985年1月，苹果发布LaserWriter激光打印机，内置Adobe PostScript页面描述语言，能以300dpi输出任意字体与图形，与Macintosh、PageMaker一起构成桌面出版三件套，印刷业从此改写。",
+  "detail": "LaserWriter由苹果与Adobe合作完成，乔布斯力排众议投资，每台售价6999美元，内置 Canon CX 引擎与320KB内存。它通过内建AppleTalk端口可被一办公室多台Mac共享，这在当时是革命性的组网设计。Adobe由Warnock与Geschke创立，PostScript把排版描述变成与设备无关的编程语言，同一文件在屏幕与打印机上形状一致。",
+  "impact": "激光打印加PostScript让普通人第一次在办公室完成专业排版，整个印刷与设计行业在十年内完成数字化迁移。",
+  "aftermath": "Adobe此后成为创意软件帝国；激光打印机成为办公标配直至今日。",
+  "category": "hardware",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "LaserWriter - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/LaserWriter"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "LaserWriter",
+   "PostScript",
+   "桌面出版"
+  ]
+ },
+ {
+  "id": "1985-01-01-atari-st-ces",
+  "date": "1985-01-01",
+  "title": "雅达利520ST于1985年冬季CES亮相：68000平台的价格屠夫参战",
+  "summary_30s": "1985年1月，特拉米尔的雅达利在拉斯维加斯冬季消费电子展发布520ST电脑，68000处理器配512KB内存与GEM图形界面，报价远低于Macintosh，16位家用电脑三强争霸就此开打。",
+  "detail": "520ST由特拉米尔接盘雅达利后火速整合而来，以康懋达式的成本控制闻名，外号Jackintosh。夏季首批机器交付用户，内置MIDI接口使它意外成为欧洲音乐人的标准编曲机，Cubase等音序软件从ST起家。GEM界面来自数字研究公司，与Mac的相似也曾引来苹果的官司纠缠。",
+  "impact": "ST把16位图形电脑拉入千元美元价位，与Amiga、Mac的竞争加速了家用电脑性能平民化。",
+  "aftermath": "ST系列1980年代末在欧洲教育、音乐市场兴旺，1990年代初随PC兼容机浪潮退潮。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Atari ST - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Atari_ST"
+   }
+  ],
+  "tags": [
+   "雅达利",
+   "520ST",
+   "16位电脑",
+   "MIDI"
+  ]
+ },
+ {
+  "id": "1985-01-01-commodore-128",
+  "date": "1985-01-01",
+  "title": "康懋达128于1985年冬季CES发布：C64正统续作双芯片全兼容",
+  "summary_30s": "1985年1月，康懋达在冬季CES推出Commodore 128，同时内置C64模式与Z80 CP/M模式，128KB内存面向商用与发烧友，它是康懋达8位产品线的收官旗舰，也是C64时代向Amiga时代的过渡。",
+  "detail": "C128设计很大程度上回应经销商对C64后继机的呼声，机器可在三种模式间切换：原生128模式、C64兼容模式与Z80的CP/M模式。搭配1571软驱速度大幅提升。1985至1989年间C128售出数百万台，虽始终活在C64阴影下，却是8位时代兼容设计的代表。",
+  "impact": "C128为8位机用户提供了向16位过渡的缓冲，其多模式设计成为计算机架构课的经典案例。",
+  "aftermath": "康懋达1985年重心转向Amiga，C128于1989年停产；8位家用电脑时代就此落幕。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Commodore 128 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Commodore_128"
+   }
+  ],
+  "tags": [
+   "康懋达",
+   "C128",
+   "8位机",
+   "CES"
+  ]
+ },
+ {
+  "id": "1985-01-01-toshiba-t1100",
+  "date": "1985-01-01",
+  "title": "东芝T1100于1985年问世：第一台大规模上市的个人笔记本电脑",
+  "summary_30s": "1985年，东芝推出T1100便携电脑，重约4公斤，配液晶屏、软驱与电池，运行MS-DOS，被广泛认为是首款真正面向大众市场的笔记本电脑，移动办公的时代由此开启。",
+  "detail": "T1100使用80C88处理器、256KB内存与3.5英寸软驱，单色液晶在无交流电时可撑数小时。此前Osborne与Kaypro等手提电脑须插电且无电池屏，Grid Compass又昂贵军用。东芝最初对前景没把握，先在欧洲小规模试销，市场反响热烈后推向全球，随后T3100等后继机型确立东芝笔记本先驱地位。",
+  "impact": "T1100定义了翻盖+电池+MS-DOS的笔记本形态，日本厂商在1990年代长期统治这一品类。",
+  "aftermath": "东芝笔记本业务2018年出售给夏普；T1100被纽约现代艺术博物馆等机构收藏。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Toshiba T1100 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Toshiba_T1100"
+   }
+  ],
+  "tags": [
+   "东芝",
+   "笔记本电脑",
+   "便携计算",
+   "MS-DOS"
+  ]
+ },
+ {
+  "id": "1985-01-01-zhiyin-magazine",
+  "date": "1985-01-01",
+  "title": "湖北《知音》杂志1985年在武汉创刊：情感纪实期刊走进千家万户",
+  "summary_30s": "1985年，湖北日报社在武汉创办《知音》杂志，以真情纪实的家庭情感故事为定位，创刊号即热销，此后发行量长期居全国期刊前列，成为中国大众情感类杂志的代表。",
+  "detail": "《知音》由湖北日报社1985年创办，定价低廉、封面素朴，内容主打婚姻家庭、伦理亲情的人生故事，标题句式自成一家。1990年代中期月发行量一度高达数百万份，广告与发行收入跻身全国期刊头部，还孵化出《知音·海外版》等系列刊物。其猎奇化的标题风格也曾引发新闻伦理讨论。",
+  "impact": "它与《读者》《家庭》并列为1980年代崛起的大众文摘与情感期刊现象，记录了转型期普通中国人的家庭伦理焦虑。",
+  "aftermath": "知音传媒集团其后成立并拓展影视等领域；新媒体时代纸刊发行下滑，杂志至今仍在出版。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "知音 (杂志) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/知音_(杂志)"
+   }
+  ],
+  "tags": [
+   "知音",
+   "期刊",
+   "武汉",
+   "大众读物"
+  ]
+ },
+ {
+  "id": "1985-01-01-xin-san-da-jian",
+  "date": "1985-01-01",
+  "title": "「新三大件」1985年前后流行：彩电冰箱洗衣机成城市婚嫁标配",
+  "summary_30s": "1985年前后，中国城镇家庭的婚嫁标配从自行车、缝纫机、手表的旧三大件升级为彩电、冰箱、洗衣机的新三大件，家电凭票供应仍供不应求，消费升级成为改革开放时代最直观的生活注脚。",
+  "detail": "随着居民收入增长与国产家电产能扩张，牡丹、金星彩电，雪花、万宝冰箱，白菊、小天鹅洗衣机等品牌进入家庭。一台18英寸彩电价格相当于城镇职工一年以上工资，商店到货常被连夜排队抢购。家电成为继食品之后居民最大宗的消费支出，也倒逼1980年代中后期家电生产线大规模引进。",
+  "impact": "新三大件的普及标志着中国城市家庭生活从温饱转向耐用消费时代，内需市场第一次显出体量。",
+  "aftermath": "1990年代空调、录像机加入，新世纪后房与车接棒；旧三大件成为博物馆与怀旧剧的道具。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "三大件 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/三大件"
+   }
+  ],
+  "tags": [
+   "新三大件",
+   "家电普及",
+   "消费升级",
+   "民生"
+  ]
+ },
+ {
+  "id": "1985-01-01-gateway-2000-founded",
+  "date": "1985-01-01",
+  "title": "韦特1985年创立Gateway 2000：奶牛斑纹包装的电脑直销起家",
+  "summary_30s": "1985年，泰德·韦特与诺曼·韦特兄弟在南达科他州一间农场创立Gateway 2000，以印着奶牛斑纹纹样的包装直销兼容机，凭农村背景的憨厚形象与高性价比在1990年代跻身美国PC前五。",
+  "detail": "韦特家族原经营牲畜生意，泰德把农场电话改成订货热线，把IBM兼容机以邮购直销卖出，包装箱印上荷斯坦奶牛黑白花纹以示出身。公司1991年迁往南达科他北苏城并上市，1990年代末年营收接近80亿美元，直追戴尔与康柏。",
+  "impact": "Gateway证明直销模式可以与戴尔并存，把PC价格战与品牌人格化营销推到极致。",
+  "aftermath": "2004年公司收购eMachines后转向零售，2007年被宏碁以7.1亿美元收购，奶牛箱成为PC史怀旧符号。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Gateway, Inc. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gateway,_Inc."
+   }
+  ],
+  "tags": [
+   "Gateway",
+   "PC直销",
+   "兼容机",
+   "美国"
+  ]
+ },
+ {
+  "id": "1985-01-01-mingtian-hui-geng-hao",
+  "date": "1985-01-01",
+  "title": "罗大佑等音乐人1985年共创《明天会更好》：华语群星慈善合唱先声",
+  "summary_30s": "1985年，罗大佑、张大春等作词、罗大佑作曲的《明天会更好》录制完成，台湾六十位歌手合唱呼应世界和平年，华语乐坛第一次以群星合唱表达社会关怀，唱片所得捐作公益。",
+  "detail": "歌曲由罗大佑发起创作，制作召集张艾嘉等，周华健、费玉清、蔡琴、齐豫、苏芮、童安格等分句轮唱，1985年录制完成并广为传唱。这首歌被视为华语流行音乐史上首支大规模群星公益单曲，其合唱形式与诉求直接呼应了同期西方的We Are the World与Band Aid。",
+  "impact": "它把流行音乐的集体动员能量引入华语世界，此后香港《滔滔千里心》等接力跟进。",
+  "aftermath": "此曲在两岸三地久唱不衰，成为赈灾晚会与毕业典礼的保留曲目；2003年非典义演再次被翻唱。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "明天會更好 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/明天會更好"
+   }
+  ],
+  "tags": [
+   "明天会更好",
+   "罗大佑",
+   "公益歌曲",
+   "华语流行"
+  ]
+ },
+ {
+  "id": "1985-01-01-si-shi-tong-tang-tv",
+  "date": "1985-01-01",
+  "title": "电视剧《四世同堂》1985年内地热播：老舍名著的全民级荧屏记忆",
+  "summary_30s": "1985年，根据老舍同名小说改编的28集电视剧《四世同堂》播出，讲述北平小羊圈胡同祁家在沦陷时期的坚守，骆玉笙演唱的主题歌《重整河山待后生》苍凉传神，成为1980年代国产剧的高峰之一。",
+  "detail": "剧由林汝为执导，邵华、李维康等主演，京腔京韵的生活细节与家国叙事交织，在中央电视台播出后反响热烈。骆玉笙以京韵大鼓韵味演唱的主题歌由雷振邦设计，播出后磁带风行。该剧获第四届大众电视金鹰奖特别奖，被视为名著改编剧的示范。",
+  "impact": "它开启了1980年代严肃文学改编长篇电视剧的潮流，也把沦陷区平民叙事带入大众记忆。",
+  "aftermath": "2007年新版《四世同堂》重拍；原版与主题歌至今被视为经典。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "四世同堂 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/四世同堂_(电视剧)"
+   }
+  ],
+  "tags": [
+   "四世同堂",
+   "老舍",
+   "电视剧",
+   "京味文化"
+  ]
+ },
+ {
+  "id": "1985-01-01-huaguang-ii-typesetting",
+  "date": "1985-01-01",
+  "title": "华光II型照排系统1985年通过鉴定：汉字激光照排走向实用化",
+  "summary_30s": "1985年，北京大学王选团队研制的华光II型计算机激光汉字编辑排版系统通过国家鉴定并投入实际出版应用，汉字印刷从铅与火向光与电的迁移进入实用阶段，为1987年《经济日报》全面采用铺平道路。",
+  "detail": "王选以字形信息压缩与还原算法解决了汉字字库存储难题，华光系统由北大与潍坊计算机厂等合作产业化。华光II型在新华社等单位投入每日排版生产，1985年获国家科技进步一等奖。这套系统使中文书报刊物的排版效率提升数倍，彻底摆脱铅字铸造与拣字的污染与繁重。",
+  "impact": "汉字激光照排是1980年代中国自主信息技术的标志性成果，保住了中文出版在计算机时代的独立性。",
+  "aftermath": "系统迭代至华光IV与方正91，1990年代国内报社基本告别铅排；王选后被誉为当代毕昇。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "王選 (計算機學家) - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/王選_(計算機學家)"
+   }
+  ],
+  "tags": [
+   "汉字激光照排",
+   "王选",
+   "华光系统",
+   "印刷革命"
+  ]
+ },
+ {
+  "id": "1985-01-01-lenovo-hanka",
+  "date": "1985-01-01",
+  "title": "联想式汉卡1985年投放市场：倪光南研究成果走出中科院计算所",
+  "summary_30s": "1985年，倪光南主持研制的联想式汉卡批量投放市场，插卡让进口PC直接处理中文并在汉字输入中给出联想词组，成为联想公司命名的由来与1980年代中后期最重要的现金流产品。",
+  "detail": "倪光南在计算所多年研究汉字处理，1984年底携成果加入中科院创办的新技术公司。联想式汉卡以硬件加速中文显示，输入时提供联想词库，效率远超当时的普通汉卡，至1980年代末售出数万套。1988年公司正式以『联想』为品牌，汉卡功不可没。",
+  "impact": "汉卡是中关村产学研转化最早的样板之一，也定义了国产电脑品牌的命名逻辑——以技术特性为名。",
+  "aftermath": "随着中文DOS与视窗系统原生支持汉字，汉卡于1990年代中期退出市场；联想则成长为全球PC巨头。",
+  "category": "product",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "倪光南 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/倪光南"
+   }
+  ],
+  "tags": [
+   "联想汉卡",
+   "倪光南",
+   "中关村",
+   "汉字处理"
+  ]
+ },
+ {
+  "id": "1985-01-01-stone-ms2400",
+  "date": "1985-01-01",
+  "title": "四通MS-2400中英文打字机1985年问世：办公室告别机械打字机",
+  "summary_30s": "1985年，中关村四通公司推出MS-2400中英文电子打字机，大屏液晶显示、可编辑存盘，中文处理一步到位，售价虽高达八千余元仍供不应求，成为1980年代办公自动化的标志性产品。",
+  "detail": "MS-2400由王缉志主持设计，将汉字输入、编辑、存储与打印集成一体，替代铅字打字机与油印工序，秘书与打字员人手一台。四通凭借这款产品在1980年代末做到年营收数亿元，一度是中关村规模最大的民营科技公司，并在1986年后迭代出采用3.5英寸软盘的MS-2401等机型。",
+  "impact": "MS-2400让中文办公第一次尝到信息化的甜头，也验证了中关村卖技术而非倒买倒卖的路径。",
+  "aftermath": "随着PC价格下探与文字处理软件普及，专用打字机在1990年代退出市场；四通后转型多元化。",
+  "category": "product",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Zhongguancun's 40 Years of Success - EEWorld",
+    "url": "https://www.eeworld.com.cn/mp/XSY/a47062.jspx"
+   }
+  ],
+  "tags": [
+   "四通",
+   "MS-2400",
+   "打字机",
+   "办公自动化"
+  ]
+ },
+ {
+  "id": "1985-01-01-amstrad-buys-sinclair",
+  "date": "1985-01-01",
+  "title": "阿姆斯特德1985年收购辛克莱电脑业务：英国家用微机江山易主",
+  "summary_30s": "1985年，阿姆斯特德以约500万英镑买下辛克莱研究的电脑产品线与库存，阿兰·休格接手ZX Spectrum品牌继续产销，克莱夫·辛克莱退出个人电脑舞台，英国家用电脑市场就此改姓阿姆斯特德。",
+  "detail": "辛克莱因QL失败、电动车C5滞销与日元升值带来的元件成本压力陷入现金危机。阿姆斯特德接盘后推出Spectrum +2与+3，内置磁带机与软驱，延续Spectrum生态至1990年代初。交易保留了辛克莱品牌在电脑上的使用权，辛克莱本人此后专注于发明天才的个人项目。",
+  "impact": "并购让阿姆斯特德一度占据英国家用电脑市场近半份额，也宣告1970年代末英国车库微机创业潮落幕。",
+  "aftermath": "Spectrum兼容生态在东欧延续多年；辛克莱2010年代继续推出电动自行车等小众发明，2021年去世。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Sinclair Research - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sinclair_Research"
+   }
+  ],
+  "tags": [
+   "阿姆斯特德",
+   "辛克莱",
+   "并购",
+   "英国"
+  ]
+ },
+ {
+  "id": "1985-01-18-word-for-mac",
+  "date": "1985-01-18",
+  "title": "微软Word于1985年登陆Macintosh：所见即所得编辑首次商用",
+  "summary_30s": "1985年1月18日，微软发布Macintosh版Word 1.0，首次在商用文字处理中实现所见即所得，粗体、斜体与图形在屏幕上与打印结果一致，查尔斯·西蒙尼的布局引擎震惊 Mac 用户。",
+  "detail": "西蒙尼是施乐PARC出身的软件大师，1981年加入微软后主持多文本处理架构。Word for Mac支持鼠标拖选与图文混排，界面远超当时DOS下的WordStar。它虽卖得不差，却为1989年Windows版Word积累了全部技术资本。微软与苹果既有合作又有暗流，Word成为微软跨平台战略的探路者。",
+  "impact": "所见即所得从此成为一切文档软件的默认体验，微软应用软件帝国的第一块基石就此埋下。",
+  "aftermath": "Word后来与Excel组成Office套装统治办公软件市场四十余年。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Microsoft Word - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Word"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Word",
+   "Macintosh",
+   "所见即所得"
+  ]
+ },
+ {
+  "id": "1985-01-28-we-are-the-world",
+  "date": "1985-01-28",
+  "title": "45位巨星一夜录成《We Are the World》：美国回响Band Aid",
+  "summary_30s": "1985年1月28日，迈克尔·杰克逊与莱昂纳尔·里奇作曲、昆西·琼斯监制的We Are the World在洛杉矶灌录，45位美国一线歌手合唱为非洲饥荒募捐，单曲与专辑最终为饥荒救济筹得逾6000万美元。",
+  "detail": "桌签上写着『收起你的自我』，琼斯把录音棚门贴封条防泄密，鲍勃·迪伦、布鲁斯·斯普林斯汀、史提夫·汪达、雷·查尔斯等分句接力， Cyndi Lauper 与众不同的声线成为话题。1985年3月单曲发行，四周内销量破百万，登顶全球二十余国榜单，并在1986年格莱美包揽年度歌曲与年度制作。",
+  "impact": "它是史上最成功的慈善单曲，把流行音乐的动员能力推至顶峰，也让非洲饥荒议题进入美国家庭客厅。",
+  "aftermath": "2010年海地地震后录制We Are the World 25 for Haiti；原曲至今是公益晚会的压轴常客。",
+  "category": "culture",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "We Are the World - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/We_Are_the_World"
+   }
+  ],
+  "tags": [
+   "We Are the World",
+   "慈善单曲",
+   "非洲饥荒",
+   "群星合唱"
+  ]
+ },
+ {
+  "id": "1985-02-14-whitney-houston-debut",
+  "date": "1985-02-14",
+  "title": "惠特尼·休斯顿1985年首张专辑发行：史上最成功的女歌手出道作",
+  "summary_30s": "1985年2月14日，惠特尼·休斯顿的同名首张专辑发行，Saving All My Love for You连夺单曲冠军，专辑在Billboard 200停留逾两年，成为当时女歌手最畅销的出道专辑，一代天后的传奇自此起笔。",
+  "detail": "休斯顿出身新泽西福音音乐世家，少女时代伴唱于Chaka Khan等巨星。Arista的克莱夫·戴维斯为她量身打造首专，融合流行、灵魂与福音唱腔。专辑全球销量约2500万张，1986年登顶专辑榜并获格莱美最佳流行女歌手。此后她连续七支单曲登顶Billboard Hot 100，打破唱片史纪录。",
+  "impact": "她以技术与商业双高重新校准了流行女声的天花板，为玛丽亚·凯莉等后辈铺路。",
+  "aftermath": "1992年《保镖》主题曲I Will Always Love You登峰造极；2012年休斯顿去世，全球致哀。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Whitney Houston (album) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Whitney_Houston_(album)"
+   }
+  ],
+  "tags": [
+   "惠特尼·休斯顿",
+   "出道专辑",
+   "R&B",
+   "流行音乐"
+  ]
+ },
+ {
+  "id": "1985-02-15-breakfast-club",
+  "date": "1985-02-15",
+  "title": "《早餐俱乐部》1985年上映：约翰·休斯定义好莱坞青春片范式",
+  "summary_30s": "1985年2月15日，约翰·休斯编导的《早餐俱乐部》上映，五个被留校的高中生在图书馆坦诚相对，把青春期身份焦虑拍成一代人的圣经，简易合唱的主题歌Don't You (Forget About Me)登顶单曲榜。",
+  "detail": "影片一天一景、成本仅百万美元级，摩里迪简单乐队的主题曲随片风行。休斯以芝加哥郊区为根据地在1984至1990年间连拍《十六支蜡烛》《春天不是读书天》等青春片，捧红了名为Brat Pack的青年演员群。《早餐俱乐部》对标签化校园人际的解构，使其成为被引用最多的青春片。",
+  "impact": "它确立了青春片的类型语法：封闭空间、群像剖白与代际批判，此后几乎所有校园片都在其延长线上。",
+  "aftermath": "影片2014年30周年北美重映；2014年休斯去世后被反复纪念，2025年仍入选美国国家电影登记表。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Breakfast Club - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Breakfast_Club"
+   }
+  ],
+  "tags": [
+   "早餐俱乐部",
+   "青春片",
+   "约翰·休斯",
+   "80年代电影"
+  ]
+ },
+ {
+  "id": "1985-03-01-gnu-manifesto",
+  "date": "1985-03-01",
+  "title": "《GNU宣言》1985年发表：斯托尔曼向封闭软件制度正式宣战",
+  "summary_30s": "1985年3月，理查德·斯托尔曼在《Dr. Dobb's Journal》发表《GNU宣言》，宣布要写一个自由的类Unix操作系统，抨击软件专有制度对协作与分享的封锁，自由软件运动自此有了纲领。",
+  "detail": "斯托尔曼出身MIT人工智能实验室，目睹同事把Lisp机器代码商业化后愤而发起GNU计划（GNU's Not Unix）。宣言提出开发者可凭服务与定制收费，但软件本身应可自由使用、修改与分发。1985年10月他创立自由软件基金会筹资，1980年代末陆续交出Emacs、GCC、Glibc等核心组件，只差内核。",
+  "impact": "宣言奠定了开源与自由软件的伦理框架，1991年Linux内核补上最后一块拼图，改变整个软件业。",
+  "aftermath": "GPL许可证成为开源世界宪法；斯托尔曼至今仍是自由软件基金会的精神领袖。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "GNU Manifesto - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/GNU_Manifesto"
+   }
+  ],
+  "tags": [
+   "GNU",
+   "斯托尔曼",
+   "自由软件",
+   "开源运动"
+  ]
+ },
+ {
+  "id": "1985-03-15-symbolics-com",
+  "date": "1985-03-15",
+  "title": "symbolics.com注册：互联网第一个.com域名诞生",
+  "summary_30s": "1985年3月15日，麻省剑桥的Symbolics公司注册了历史上第一个.com域名symbolics.com，此前网络主机全靠数字地址，域名注册的大门自此打开，互联网商业化的门牌号体系开始运转。",
+  "detail": "域名系统1984年投入运行后，最早的一批注册者还包括cmu.edu、purdue.edu等学术机构与bbn.com、think.com等。Symbolics是制造Lisp机器的人工智能先驱，其域名注册被视作网络空间从科研走向商业的象征性一刻。此后.com注册缓慢起步，1987年底仅约百个，1990年代随万维网爆发。",
+  "impact": ".com成为互联网商业世界的通用门牌，域名的先注册先得原则催生了整个产业。",
+  "aftermath": "Symbolics公司早已消亡，symbolics.com几经转手仍可访问，被视为互联网史的活文物。",
+  "category": "internet",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Symbolics - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Symbolics"
+   }
+  ],
+  "tags": [
+   "域名",
+   "symbolics.com",
+   "互联网",
+   ".com"
+  ]
+ },
+ {
+  "id": "1985-03-31-wrestlemania-1",
+  "date": "1985-03-31",
+  "title": "首届摔角狂热1985年在纽约麦迪逊广场花园开打：体育娱乐帝国奠基",
+  "summary_30s": "1985年3月31日，WWF首届摔角狂热在纽约麦迪逊广场花园举行，胡克·霍根与T先生搭档压轴，比赛经由闭路电视与MTV同步传播，文斯·麦克曼的体育娱乐帝国由此奠基。",
+  "detail": "麦克曼把父亲经营的地方摔角联盟改造成全国性娱乐公司，首届摔角狂热押上全部身家，请来穆罕默德·阿里、辛迪·劳博等跨界明星造势，主打洛克音乐与肥皂剧式恩怨剧情。压轴主赛霍根与T先生击败罗迪·派珀与保罗·奥恩多夫，全场沸腾。",
+  "impact": "它把职业摔角改造成跨媒体娱乐产品，付费点播模式此后被格斗与拳击全面采用。",
+  "aftermath": "摔角狂热成为年度盛会延续至今四十余届；WWF后更名WWE，2023年并入UFC母公司TKO。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "WrestleMania (1985) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WrestleMania_(1985)"
+   }
+  ],
+  "tags": [
+   "摔角狂热",
+   "WWE",
+   "霍根",
+   "体育娱乐"
+  ]
+ },
+ {
+  "id": "1985-04-01-ntt-privatized",
+  "date": "1985-04-01",
+  "title": "日本电电公社1985年民营化为NTT：电信巨无霸国企挂牌转身",
+  "summary_30s": "1985年4月1日，经营百余年的日本电信电话公社（电电公社）民营化为日本电信电话株式会社（NTT），同时放开长途与增值通信市场，日本信息通信产业的竞争时代自此开启。",
+  "detail": "电电公社曾是全球最大的电信经营者，拥有三十余万员工。中曾根内阁行政改革将其公司化，允许KK-DI等新成长途运营商进入市场，终端设备销售同步自由化，传真机与调制解调器随即普及。NTT仍由政府持三分之一股权，其研究所积累的光通信技术继续领先世界。1987年2月NTT股票上市，成为日本股市泡沫时代的符号。",
+  "impact": "民营化把日本电信从官僚体系推向市场，资费下降与服务创新加速，也为世界各国公营电信改革提供参照。",
+  "aftermath": "1999年NTT重组为控股集团，旗下NTT docomo成为移动巨头；集团至今仍是日本信息产业支柱。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nippon Telegraph and Telephone - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone"
+   }
+  ],
+  "tags": [
+   "NTT",
+   "民营化",
+   "日本电信",
+   "行政改革"
+  ]
+ },
+ {
+  "id": "1985-04-01-wham-china-visit",
+  "date": "1985-04-01",
+  "title": "Wham!乐队1985年访华演出：西方流行乐队首次登台中国大陆",
+  "summary_30s": "1985年4月，英国双人组Wham!应中国对外演出公司邀请访华，在广州与北京工人体育馆举办演唱会，成为首支在中国大陆演出的西方流行乐队，十天的行程被拍成纪录片，中外媒体报道如潮。",
+  "detail": "当时的中国刚对外来流行文化开一道缝，现场观众大多正襟危坐，乔治·迈克尔与安德鲁·维治利在台上尽力调动气氛。访问期间乐队游览长城、学用筷子，随行摄制组拍下外国明星与蓝布衫人流的对照画面。演出文化交流意义远大于商业收益，票价对普通市民不菲。",
+  "impact": "它是改革开放后西方流行音乐进入内地的破冰事件，此后国际艺人来华演出渐次增多。",
+  "aftermath": "乔治·迈克尔2016年去世；2023年相关影像在纪录片中重新剪辑，回望这一文化交流时刻。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Wham! - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wham!"
+   }
+  ],
+  "tags": [
+   "Wham",
+   "乔治·迈克尔",
+   "文化交流",
+   "演唱会"
+  ]
+ },
+ {
+  "id": "1985-04-01-arm1-chip",
+  "date": "1985-04-01",
+  "title": "Acorn公司首枚ARM芯片点亮：精简指令集埋下移动时代的技术伏笔",
+  "summary_30s": "1985年4月，剑桥Acorn计算机公司团队设计的ARM1测试芯片从美国代工厂返回并一次点亮，2.5万晶体管的精简指令处理器功耗极低，这条技术路线日后统治了全球手机与嵌入式世界。",
+  "detail": "Acorn因BBC Micro成功想造新处理器，商业芯片无法满足其需求，索菲·威尔逊与史蒂夫·弗伯从伯克利RISC论文出发自研架构。ARM1仅作评估用，1986年的ARM2装入Acorn Archimedes电脑。1990年Acorn与苹果合作成立ARM公司专事授权IP，自己造机反而落幕。",
+  "impact": "RISC低功耗路线在三十年后成为从手机到数据中心的赢家，ARM架构芯片年出货以百亿计。",
+  "aftermath": "软银2016年收购ARM，英伟达2020年收购未果；ARM架构2020年代进入个人电脑与服务器主流。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "ARM architecture family - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ARM_architecture_family"
+   }
+  ],
+  "tags": [
+   "ARM",
+   "RISC",
+   "Acorn",
+   "芯片"
+  ]
+ },
+ {
+  "id": "1985-04-23-new-coke",
+  "date": "1985-04-23",
+  "title": "可口可乐公司1985年推出新配方：商业史上最著名的翻车营销案例",
+  "summary_30s": "1985年4月23日，可口可乐公司宣布以更甜的新配方取代99年来的老配方，命名New Coke，遭遇消费者激烈抵制，79天后公司让经典可乐回归，老配方以Coca-Cola Classic之名重出江湖。",
+  "detail": "面对百事可乐在盲测与市场份额上的紧逼，可口可乐做了近20万次口味测试后换方。消息公布后抗议电话每天数千通，有人囤积老可乐、有人组织抗议团体，喝了几十年的消费者把味道当作身份记忆。7月11日公司承认失误恢复经典配方，New Coke 1992年更名Coke II后停产。",
+  "impact": "翻车反而让品牌重新发现情感价值，经典可乐回归后销量大增，成为营销学关于品牌资产的必修案例。",
+  "aftermath": "此案被写入几乎所有营销教科书；2002年公司最终停产新配方产品线。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "New Coke - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Coke"
+   }
+  ],
+  "tags": [
+   "可口可乐",
+   "新可乐",
+   "营销案例",
+   "品牌"
+  ]
+ },
+ {
+  "id": "1985-05-01-tonghua-dawang",
+  "date": "1985-05-01",
+  "title": "郑渊洁《童话大王》1985年创刊：一个人写一本月刊写三十余年",
+  "summary_30s": "1985年，郑渊洁创办《童话大王》月刊，创刊号起全部作品由他一人撰写，皮皮鲁、鲁西西、舒克贝塔陪伴一代读者，一人写一本刊的吉尼斯式纪录维持了三十余年。",
+  "detail": "郑渊洁由工人自学成才，1980年代初以《黑黑在诚实岛》等童话成名。1985年5月《童话大王》创刊，他从月刊连载写至杂志，舒克和贝塔、大灰狼罗克等角色家喻户晓，杂志巅峰期月发行量逾百万份。他坚持不进作协、在家教育儿子的特立独行同样广为人知。",
+  "impact": "它证明儿童文学可以完全靠市场立足，郑渊洁成为中国作家首富榜常客，刊物影响三代独生子女读者。",
+  "aftermath": "2021年杂志停印转向有声与数字出版；皮皮鲁IP进入影视与主题乐园开发。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "童話大王 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/童話大王"
+   }
+  ],
+  "tags": [
+   "郑渊洁",
+   "童话大王",
+   "皮皮鲁",
+   "儿童文学"
+  ]
+ }
+]

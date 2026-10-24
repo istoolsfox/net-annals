@@ -1,0 +1,756 @@
+[
+ {
+  "id": "2014-07-17-microsoft-18000-layoffs",
+  "date": "2014-07-17",
+  "title": "微软宣布裁员1.8万：诺基亚包袱的断舍离",
+  "summary_30s": "2014年7月17日，纳德拉宣布微软历史上最大规模裁员1.8万人，其中诺基亚设备与服务部门占1.25万，Xbox与搜索业务收缩，微软向云与生产力聚焦的组织手术开始。",
+  "detail": "裁员在一年内完成，诺基亚工程师大批离开，Surface与Lumia产品线精简。纳德拉内部信提出以移动为先、云为先的转型纲领，微软此后退出手机操作系统竞争的路线在此时已可辨认。",
+  "impact": "确立转型期科技巨头壮士断腕的组织样本，资本市场以当日股价上涨投出赞成票，裁员与押注未来自此并行。",
+  "aftermath": "2015年7月微软再对手机业务减记76亿美元并裁员7800人，Windows Phone实质宣告死刑。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Microsoft layoffs - Reuters",
+    "url": "https://www.reuters.com/"
+   },
+   {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "裁员",
+   "纳德拉"
+  ]
+ },
+ {
+  "id": "2014-07-22-xiaomi-mi4-launch",
+  "date": "2014-07-22",
+  "title": "小米4发布：一块钢板的艺术之旅",
+  "summary_30s": "2014年7月22日，小米4发布，奥氏体304不锈钢中框加1999元定价，一块钢板的艺术之旅的工艺叙事宣示小米向设计进军，同期发布79元小米手环引爆可穿戴平价市场。",
+  "detail": "雷军用19页PPT讲不锈钢锻造工艺，东莞制造业的金属加工能力首次成为发布会主角。小米4生命周期销量破千万，但当年骁龙芯片缺货与米粉节的黄牛争议显现增长烦恼，小米下半年被华为荣耀步步紧逼。",
+  "impact": "国产手机发布会的叙事从跑分转向设计与工艺，金属中框成为此后三年旗舰与中端机的共同标配。",
+  "aftermath": "小米2014年登顶中国出货第一并估值450亿美元，2015年增长神话开始承压。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米手机4 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米手机4"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米4",
+   "不锈钢",
+   "发布会"
+  ]
+ },
+ {
+  "id": "2014-07-22-mi-band-launch",
+  "date": "2014-07-22",
+  "title": "小米手环79元开卖：可穿戴设备的平权时刻",
+  "summary_30s": "2014年7月22日，小米发布79元的小米手环，把动辄上千元的运动手环打到白菜价，一年出货破千万只，中国可穿戴设备市场被一夜催熟，华米科技由此登上全球出货前列。",
+  "detail": "手环由华米科技打造，主打计步、睡眠监测与30天续航，配合小米运动App与解锁小米手机功能迅速普及。华米2018年纽交所上市，此后推出Amazfit智能手表进军全球70国。手环的平价化让运动量化第一次成为大众习惯。",
+  "impact": "把可穿戴设备从极客玩具变成国民标配，确立中国供应链在智能穿戴领域的成本霸权。",
+  "aftermath": "2020年代小米手环出货累计破亿；Apple Watch与华为Watch在高端分食，手环退守基础健康监测。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米手环 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米手环"
+   },
+   {
+    "title": "华米科技",
+    "url": "https://www.huami.com/"
+   }
+  ],
+  "tags": [
+   "小米手环",
+   "可穿戴",
+   "华米"
+  ]
+ },
+ {
+  "id": "2014-08-01-didi-premium-launch",
+  "date": "2014-08-01",
+  "title": "滴滴专车上线：出租车软件变身出行平台",
+  "summary_30s": "2014年8月，滴滴打车推出滴滴专车，切入商务约车市场，与快的旗下一号专车、Uber正面交锋，出租车电召工具从此进化为全品类出行平台，专车与出租车的制度冲突同步引爆。",
+  "detail": "滴滴专车以租赁公司车辆加司机劳务派遣的模式规避牌照红线，服务标准化、车辆高端化，一线城市白领迅速成为用户。各地运管部门查处专车的新闻频出，交通部此后多次调研酝酿新政，2016年网约车合法化落地。",
+  "impact": "中国出行市场被重新定义，私家车运力进入共享序列，出租车行业垄断格局松动。",
+  "aftermath": "2015年滴滴快的合并、2016年收购Uber中国，滴滴成为全球最大出行平台，2021年赴美上市后遭遇网络安全审查。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "滴滴出行 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/滴滴出行"
+   },
+   {
+    "title": "新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "滴滴专车",
+   "网约车",
+   "共享出行"
+  ]
+ },
+ {
+  "id": "2014-08-07-weixin-ten-rules",
+  "date": "2014-08-07",
+  "title": "微信十条出台：即时通信公众账号新规",
+  "summary_30s": "2014年8月7日，国家网信办发布《即时通信工具公众信息服务发展管理暂行规定》，微信十条要求公众账号备案实名、时政类发布需资质，微信公众平台生态进入规范运营阶段。",
+  "detail": "规定要求服务提供者资质审核、公众账号持有人实名，未经批准不得发布转载时政类新闻。微信随即强化公众号认证与违规清理，政务、媒体类账号获得优先展示，内容创业者在合规框架内继续繁荣，朋友圈谣言治理同步加强。",
+  "impact": "确立即时通信平台内容治理的基本规则，公众号从野蛮生长转向机构化运营。",
+  "aftermath": "此后账号十条、约谈十条、网安法层层递进，平台内容治理体系成为常态基础设施。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   },
+   {
+    "title": "即时通信工具公众信息服务发展管理暂行规定 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "微信十条",
+   "网信办",
+   "内容治理"
+  ]
+ },
+ {
+  "id": "2014-08-27-luo-wang-debate",
+  "date": "2014-08-27",
+  "title": "罗永浩王自如优酷对质：直播时代的公案",
+  "summary_30s": "2014年8月27日，罗永浩与评测人王自如在优酷直播三小时对质锤子T1评测公正性，累计观看近千万，独立评测与厂商公关的边界、直播辩论的形式感同时成为年度话题。",
+  "detail": "王自如的Zealer此前发布锤子T1评测指出多项问题，罗永浩约战直播逐条回怼，被如果被包养就不要谈独立客观的连珠炮压制。ZEALER随后公开融资信息自证，评测行业引入机构投资、厂商送测规范的讨论持续多年。",
+  "impact": "开创厂商与媒体直播对质的先例，把评测公信力议题推上台面；直播辩论成为内容形态新宠。",
+  "aftermath": "罗永浩此后数年以发布会单口相声延续顶流，王自如转向三星体验店合作与直播带货，2021年淡出。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "罗永浩 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/罗永浩"
+   },
+   {
+    "title": "王自如 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/王自如"
+   }
+  ],
+  "tags": [
+   "罗永浩",
+   "王自如",
+   "直播对质"
+  ]
+ },
+ {
+  "id": "2014-09-02-meizu-mx4-launch",
+  "date": "2014-09-02",
+  "title": "魅族MX4发布：1799元的绝地反击",
+  "summary_30s": "2014年9月2日，魅族发布MX4，1799元定价全场惊呼，20.8英寸宽高比屏与Flyme 4.0诚意十足，魅族借阿里的资本加持重回牌桌，国产中端价格战再添一把火。",
+  "detail": "黄章回归后首次大幅调整定价，1799元击穿预期，现场媒体欢呼。魅族当年完成多轮融资并引入阿里，随后连发MX4 Pro、魅蓝品牌走量，2014年出货从百万级跃升至数百万台，白永祥称这是魅族的生死之年。",
+  "impact": "1799成为国产旗舰新锚点，魅族由小而美转向规模化，行业集中度竞争加剧。",
+  "aftermath": "2015年魅族获阿里5.9亿美元投资并冲量五百万台，但2016年后亏损扩大，2022年被吉利旗下星纪时代收购。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "魅族 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/魅族"
+   },
+   {
+    "title": "魅族官网",
+    "url": "https://www.flyme.cn/"
+   }
+  ],
+  "tags": [
+   "魅族",
+   "MX4",
+   "1799元"
+  ]
+ },
+ {
+  "id": "2014-09-03-baidu-zhidahao",
+  "date": "2014-09-03",
+  "title": "百度直达号发布：搜索加服务的移动入口豪赌",
+  "summary_30s": "2014年9月3日百度世界大会发布直达号，商家以@账号形式被搜索直达，移动搜索从找信息升级为找服务，百度以此对抗应用商店与微信公众号的企业服务生态。",
+  "detail": "直达号号称三步开通、直连服务，良子健身等成为首批案例，百度同期整合地图、糯米为服务闭环。但直达号缺乏流量入口与运营工具生态，商家热情有限，百度移动服务战略的重心很快转向糯米与外卖补贴。",
+  "impact": "反映搜索巨头在移动时代的服务化焦虑，直接连接人与服务的构想由后来的小程序实现。",
+  "aftermath": "直达号淡出，百度2017年推智能小程序、2018年推熊掌号再战搜索生态，逻辑一脉相承。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/百度"
+   },
+   {
+    "title": "百度世界大会 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度",
+   "直达号",
+   "移动搜索"
+  ]
+ },
+ {
+  "id": "2014-09-04-huawei-mate7-launch",
+  "date": "2014-09-04",
+  "title": "华为Mate 7发布：国产高端的第一块里程碑",
+  "summary_30s": "2014年9月4日柏林IFA上，华为发布Mate 7，6英寸大屏、一触指纹解锁与4100毫安电池，2999元起供不应求加价销售，国产手机第一次站稳3000元档，高端化叙事成真。",
+  "detail": "Mate 7搭载海思麒麟925，按压式指纹识别体验直追苹果，金属机身与超窄边框树立商务旗舰形象。上市后长期缺货黄牛加价，华为顺势把 Mate 系列打造成国产商务旗舰代名词，当年华为智能手机出货7500万台。",
+  "impact": "打破国产只能做千元机的刻板印象，中华酷联格局彻底松动，华为单品牌领跑时代开启。",
+  "aftermath": "Mate系列此后十年与iPhone在高端正面缠斗，2023年Mate 60搭载国产5G芯片回归被视为突破封锁的标志。",
+  "category": "hardware",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "华为 Mate 7 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/华为_Mate_7"
+   },
+   {
+    "title": "华为消费者业务",
+    "url": "https://consumer.huawei.com/cn/"
+   }
+  ],
+  "tags": [
+   "华为",
+   "Mate 7",
+   "高端手机"
+  ]
+ },
+ {
+  "id": "2014-09-10-mass-entrepreneurship-speech",
+  "date": "2014-09-10",
+  "title": "李克强达沃斯首提大众创业万众创新",
+  "summary_30s": "2014年9月10日夏季达沃斯论坛上，李克强提出要借改革创新的东风，在960万平方公里土地上掀起大众创业、草根创业的新浪潮，双创一词自此进入国家话语体系。",
+  "detail": "演讲后双创写入2015年政府工作报告，中央与地方密集出台工商注册便利化、税费减免、众创空间扶持政策，中关村创业大街成为打卡地，天使投资与孵化器数量当年翻倍。大学生创业、大厂离职潮与返乡电商创业构成时代群像。",
+  "impact": "把创新创业上升为国家战略，创业门槛与成本系统性下降，风险投资行业迎来黄金期。",
+  "aftermath": "2018年后资本寒冬与理性创业接棒，但双创留下的营商环境改革与科创板、北交所制度成果延续至今。",
+  "category": "national",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2014夏季达沃斯论坛 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "大众创业万众创新 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "双创",
+   "达沃斯",
+   "创业创新"
+  ]
+ },
+ {
+  "id": "2014-09-24-big-fund-established",
+  "date": "2014-09-24",
+  "title": "国家集成电路产业大基金成立：芯片强国战略落子",
+  "summary_30s": "2014年9月24日，国家集成电路产业投资基金正式设立，首期募资约1387亿元，以股权投资扶持芯片设计、制造、封测与设备材料全链，中国半导体产业进入国家队时代。",
+  "detail": "大基金由国开金融等发起，采取市场化运作，先后投资中芯国际、长江存储、紫光集团、中微公司等龙头，撬动地方与社会资本数千亿。2019年二期、2021年三期接续扩容，中美科技博弈使半导体自主化成为最高优先级产业议程。",
+  "impact": "扭转芯片产业投资碎片化局面，存储、代工、设备环节相继实现突破，产业链整体提速五到十年。",
+  "aftermath": "2022年后美国出口管制加码，大基金反腐风波与国产替代攻坚并行，芯片战争成为大国竞争主战场。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家集成电路产业投资基金 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/国家集成电路产业投资基金"
+   },
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "大基金",
+   "半导体",
+   "产业政策"
+  ]
+ },
+ {
+  "id": "2014-09-30-wechat-6-small-video",
+  "date": "2014-09-30",
+  "title": "微信6.0上线小视频：朋友圈进入动态影像时代",
+  "summary_30s": "2014年9月底微信6.0发布，新增6秒小视频拍摄与卡包功能，朋友圈从图文进化到动态影像，短视频在中国最大社交平台完成第一次全民普及。",
+  "detail": "用户长按拍照键即可拍6秒视频发朋友圈或聊天，镜头语言从自拍转向生活切片。卡包功能为会员卡、优惠券铺垫O2O闭环。小视频的画质与时长限制明显，但把视频拍摄习惯下放到数亿用户，为2017年朋友圈10秒视频与视频号铺路。",
+  "impact": "微信生态的内容形态完成图文音视频全覆盖，全民记录生活的基础设施就位。",
+  "aftermath": "2015年微视关闭、2016年快手崛起期间，微信按兵不动；2020年视频号上线补齐短内容短板。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "微信",
+   "小视频",
+   "朋友圈"
+  ]
+ },
+ {
+  "id": "2014-10-16-ipad-air2-5k-imac",
+  "date": "2014-10-16",
+  "title": "苹果发布iPad Air 2与5K iMac：屏幕军备的桌面巅峰",
+  "summary_30s": "2014年10月16日，苹果发布史上最薄的iPad Air 2、首款5K视网膜iMac与Apple Pay上线预告，一体机屏幕分辨率冲上5120×2880，桌面显示标准被一次性拉到极值。",
+  "detail": "iPad Air 2厚度仅6.1毫米并实现全层压屏幕与抗反射涂层，A8X芯片性能大增。27英寸5K iMac面向摄影师与设计师，随附的Yosemite系统以连续互通打通Mac与iOS。发布会同时确认Apple Pay将于10月20日上线。",
+  "impact": "苹果以屏幕与工艺双堆料稳固创意专业市场，iPad此后转向Pro与生产力叙事的前夜。",
+  "aftermath": "5K/6K显示器此后十年渐成专业标配；iPad Air 2以六年系统更新成为耐用度传奇。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IPad Air 2 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IPad_Air_2"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPad Air 2",
+   "5K iMac"
+  ]
+ },
+ {
+  "id": "2014-10-16-3q-final-verdict",
+  "date": "2014-10-16",
+  "title": "3Q大战终审：最高法维持360败诉",
+  "summary_30s": "2014年10月16日，最高人民法院对奇虎360诉腾讯垄断案二审宣判，维持一审360败诉判决，历时四年的中国互联网第一反垄断案画上句号，判决书成为反垄断法适用的经典文本。",
+  "detail": "最高法首次明确相关市场界定、市场支配地位认定与滥用行为的分析框架，认定即时通讯市场进入门槛低、腾讯不具支配地位滥用。本案与京东诉阿里二选一案（2023年判赔10亿）等一起构成中国平台反垄断司法的坐标体系。",
+  "impact": "为中国平台经济竞争规则提供判例基准，学界与业界对边界问题的讨论延续十年。",
+  "aftermath": "2020年后平台经济反垄断强监管时代到来，3Q案的经验与局限被学界与监管层反复重估。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "最高人民法院",
+    "url": "https://www.court.gov.cn/"
+   },
+   {
+    "title": "奇虎360诉腾讯案 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇虎360诉腾讯案"
+   }
+  ],
+  "tags": [
+   "3Q大战",
+   "反垄断",
+   "终审"
+  ]
+ },
+ {
+  "id": "2014-10-17-iphone6-china-launch",
+  "date": "2014-10-17",
+  "title": "iPhone 6大陆开售：大屏苹果的黄牛狂欢",
+  "summary_30s": "2014年10月17日，iPhone 6与6 Plus在中国大陆开售，苹果第一次提供大屏机型，首周末预订破2000万部，黄牛加价上千元，联通电信营业厅再现排队长龙。",
+  "detail": "4.7与5.5英寸双机型满足了中国市场对大屏的饥渴，上市首月中国区销量贡献显著。苹果当年四季度营收创历史纪录，库克称中国是苹果最重要的增长引擎。移动4G套餐与合约机全面铺开，iPhone成为4G换机潮最大受益者。",
+  "impact": "确立大屏iPhone对中国高端市场的绝对统治，国产厂商被迫在3000元以下缠斗。",
+  "aftermath": "大中华区此后多年为苹果贡献近两成收入；2015年iPhone 6s周期见顶后进入平台期。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IPhone 6 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPhone_6"
+   },
+   {
+    "title": "Apple中国",
+    "url": "https://www.apple.com.cn/"
+   }
+  ],
+  "tags": [
+   "iPhone 6",
+   "大屏手机",
+   "开售"
+  ]
+ },
+ {
+  "id": "2014-10-19-lol-s4-ssw-champion",
+  "date": "2014-10-19",
+  "title": "LOL S4总决赛：三星白登顶与韩援潮开闸",
+  "summary_30s": "2014年10月19日，《英雄联盟》S4全球总决赛在首尔落幕，Samsung White以碾压之姿夺冠，随后中国俱乐部豪掷千金引进韩国选手教练，LPL的韩援时代就此开场。",
+  "detail": "SSW小组赛至决赛仅负两局，Pawn、Dandy、Mata等选手季后被EDG、LGD等中国俱乐部重金签下，韩援+全华班的路线之争成为LPL未来十年主线。皇族连续两年获亚军，国内观众既期待又纠结。",
+  "impact": "中国电竞职业化资本化提速，外援政策、青训体系与联盟化改革被倒逼推进。",
+  "aftermath": "LPL 2018年iG首夺S赛冠军、2021年EDG再冠，全华班与国际化路线的争论延续至今。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2014 League of Legends World Championship - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_League_of_Legends_World_Championship"
+   },
+   {
+    "title": "英雄联盟 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/英雄联盟"
+   }
+  ],
+  "tags": [
+   "英雄联盟",
+   "S4",
+   "韩援"
+  ]
+ },
+ {
+  "id": "2014-11-01-yuewen-group-formed",
+  "date": "2014-11-01",
+  "title": "阅文集团成立：网络文学大一统平台诞生",
+  "summary_30s": "2014年11月，腾讯文学与盛大文学合并成立阅文集团，起点、晋江系之外的QQ阅读、创世等品牌归于一统，中国网络文学的版权、分发与IP开发格局被重新定义。",
+  "detail": "腾讯以全资收购盛大文学的方式完成整合，吴文辉出任CEO，起点中文网回到创始团队手中。阅文坐拥近千万部作品与数百万作者，2017年11月港股上市市值近千亿，此后与微信读书、新丽传媒联动构建内容生态。",
+  "impact": "网络文学从散乱江湖进入平台化运营，IP全版权开发成为商业模式主轴。",
+  "aftermath": "2020年五五断更节事件暴露作者合同矛盾，2022年起点读书等回归免费加付费混合模式，IP出海与AI辅助写作成为新议题。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "阅文集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/阅文集团"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "阅文集团",
+   "网络文学",
+   "腾讯"
+  ]
+ },
+ {
+  "id": "2014-11-06-amazon-echo-reveal",
+  "date": "2014-11-06",
+  "title": "亚马逊Echo亮相：智能音箱的奇点时刻",
+  "summary_30s": "2014年11月6日，亚马逊以邀请制低调发布智能音箱Echo与语音助理Alexa，起初被讥为录音筒，两年后却成为全球智能家居入口，Alexa技能生态改写人机交互范式。",
+  "detail": "Echo以179.99美元向Prime会员邀请发售，七麦克风远场唤醒技术领先业界。2015年全面开售后节日季售出数百万台，谷歌Home 2016年、苹果HomePod 2018年跟进，天猫精灵、小爱同学、小度2017年集体入场，全球智能音箱大战爆发。",
+  "impact": "确立语音为家庭物联网入口的路线，远场语音交互技术下沉为家电、汽车标配。",
+  "aftermath": "Alexa设备累计出货数亿台但盈利难题未解；2022年后大模型让语音助手迎来能力跃迁的第二幕。",
+  "category": "hardware",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Amazon Echo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amazon_Echo"
+   },
+   {
+    "title": "Amazon",
+    "url": "https://www.aboutamazon.com/"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "Echo",
+   "智能音箱"
+  ]
+ },
+ {
+  "id": "2014-11-12-wechat-phonebook",
+  "date": "2014-11-12",
+  "title": "微信电话本上线：网络通话试水与运营商神经",
+  "summary_30s": "2014年11月，腾讯推出独立App微信电话本，免费网络通话加联系人管理，一度冲上App Store榜首，运营商再度紧张，但独立App的体验割裂使其两个月后归于沉寂。",
+  "detail": "微信电话本主打WiFi/流量下免费高清通话与智能拨号，被视为微信VoIP正式化试水。中移动等迅速表态网络通话QoS无保障，行业重演2013年微信收费争论但烈度更低。腾讯随后把能力收编回微信语音与视频通话，独立App停止更新。",
+  "impact": "宣告OTT通话的技术成熟与政策默契：工具归工具、体验归微信，运营商话音业务加速萎缩。",
+  "aftermath": "微信语音视频通话此后成为亿级日常工具，VoLTE与RCS成为运营商的自救答卷。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "微信电话本 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "微信 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/微信"
+   }
+  ],
+  "tags": [
+   "微信电话本",
+   "网络通话",
+   "OTT"
+  ]
+ },
+ {
+  "id": "2014-12-05-chenanni-1pct-life",
+  "date": "2014-12-05",
+  "title": "《对不起，我只过1%的生活》：快看漫画一夜刷屏",
+  "summary_30s": "2014年12月5日，漫画家陈安妮以自传条漫《对不起，我只过1%的生活》讲述北漂创业故事，两天转发45万、阅读过亿，为快看漫画App导量超百万，创业营销与梦想叙事的边界引发大讨论。",
+  "detail": "漫画把被质疑只有1%成功率的创业选择画成热血故事，朋友圈病毒传播的同时也遭遇炒作与消费梦想的批评。快看漫画借此冷启动成为国产漫画第一平台，2019年月活破五千万，条漫这一形式借势成为国产漫画主流。",
+  "impact": "确立内容即增长的自媒体创业范式，情感叙事营销的双刃剑效应被充分展示。",
+  "aftermath": "快看漫画2021年获腾讯等一亿美元融资；陈安妮的1%叙事成为互联网传播课的必讲案例。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "快看漫画 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/快看漫画"
+   },
+   {
+    "title": "陈安妮 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   }
+  ],
+  "tags": [
+   "陈安妮",
+   "快看漫画",
+   "病毒营销"
+  ]
+ },
+ {
+  "id": "2014-12-16-qihoo-coolpad-jv",
+  "date": "2014-12-16",
+  "title": "360与酷派合资造机：周鸿祎的红衣回归",
+  "summary_30s": "2014年12月16日，奇虎360宣布4.09亿美元入股酷派成立合资公司奇酷，周鸿祎宣布重回手机圈，特供机失败的旧愿以资本联姻的方式重启。",
+  "detail": "合资公司获得酷派大神品牌与供应链资源，2015年发布奇酷手机与360 OS，安全定位加免费模式延续360基因。此后360与酷派因乐视插足爆发股权争斗，2016年和解分家，大神归360，2019年360手机业务收缩退出。",
+  "impact": "成为互联网公司与硬件厂商合资造机的典型试验，供应链与渠道的壁垒再次显形。",
+  "aftermath": "周鸿祎2022年与哪吒汽车合作把硬件梦转向智能汽车；奇酷往事归入手机战国志的边注。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "奇酷手机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇酷手机"
+   },
+   {
+    "title": "奇虎360",
+    "url": "https://www.360.cn/"
+   }
+  ],
+  "tags": [
+   "360",
+   "酷派",
+   "奇酷"
+  ]
+ },
+ {
+  "id": "2014-12-17-sony-pictures-hack",
+  "date": "2014-12-17",
+  "title": "索尼影业被黑与《采访》停映：地缘政治撞上互联网",
+  "summary_30s": "2014年12月，索尼影业遭黑客组织入侵，未映新片、员工隐私与高管邮件尽数泄露，美国官方认定朝鲜因讽刺片《采访》主使；索尼一度取消院线上映，后在小屏幕发行，网络攻击首次直接改写好莱坞发行决策。",
+  "detail": "Guardians of Peace组织公布数十GB内部数据，恐怖威胁致美国主流院线拒排《采访》。奥巴马批评索尼向威胁低头，索尼随后在YouTube、Google Play等平台点播发行，首日收入1500万美元。索尼影业联合董事长帕斯卡尔次年去职。",
+  "impact": "确立国家级网络攻击影响文化产业的先例，企业与平台对地缘风险的定价从此不同。",
+  "aftermath": "2016年美国对朝鲜实施制裁作为回应；此后关键基础设施与内容产业的网络安全投入大幅加码。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Sony Pictures hack - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sony_Pictures_hack"
+   },
+   {
+    "title": "Reuters",
+    "url": "https://www.reuters.com/"
+   }
+  ],
+  "tags": [
+   "索尼影业",
+   "黑客攻击",
+   "《采访》"
+  ]
+ },
+ {
+  "id": "2014-12-17-baidu-invests-uber",
+  "date": "2014-12-17",
+  "title": "百度投资Uber：硅谷独角兽的中国联姻",
+  "summary_30s": "2014年12月17日，百度宣布战略投资Uber，双方在地图、支付与本地生活打通，Uber获得流量与政策缓冲，百度则押注出行赛道，中外巨头联手对抗快的滴滴阵营。",
+  "detail": "投资额未披露，估值口径传为数亿美元。Uber中国随后接入百度地图与百度钱包，春节红包营销试水。2015年起Uber在中国年烧10亿美元补贴，与滴滴在专车市场缠斗至2016年8月，最终滴滴收购Uber中国，Uber持股滴滴近两成。",
+  "impact": "把全球网约车战争的中国战场推向最高烈度，本土玩家的资本与地推优势经受住检验。",
+  "aftermath": "Uber借持股在2019年IPO后套现数十亿美元；百度则把出行想象力转向Apollo自动驾驶。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Uber - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Uber"
+   },
+   {
+    "title": "百度",
+    "url": "https://ir.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度",
+   "Uber",
+   "网约车"
+  ]
+ },
+ {
+  "id": "2014-12-21-wumeiniang-censorship-controversy",
+  "date": "2014-12-21",
+  "title": "《武媚娘传奇》复播变大头照：电视审美的网络狂欢",
+  "summary_30s": "2014年12月21日，《武媚娘传奇》停播四天后复播，画面从香肩尽显变成人物特写大头照，网友戏称武大头，收视反而飙至破三，一场关于尺度、审美与权力的全民调侃就此引爆。",
+  "detail": "湖南卫视剧集播至16集突然技术性停播，复播后镜头重新构图，唐朝服饰的低胸造型被裁剪。微博段子与PS作品刷屏，武媚娘大头的梗持续发酵，学界则讨论影视分级与审查标准的透明化。",
+  "impact": "成为审查与市场互动的经典案例，观众以戏谑消解规训的网络文化进一步成熟。",
+  "aftermath": "此后古装剧服化尺度整体收敛；2018年宫斗剧限令前后，唐代题材创作更趋谨慎。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "武媚娘传奇 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/武媚娘传奇"
+   },
+   {
+    "title": "湖南卫视",
+    "url": "https://www.hunantv.com/"
+   }
+  ],
+  "tags": [
+   "武媚娘传奇",
+   "电视审查",
+   "网络狂欢"
+  ]
+ },
+ {
+  "id": "2014-12-23-meilan-note-launch",
+  "date": "2014-12-23",
+  "title": "魅蓝Note发布：青年良品的千元机打法",
+  "summary_30s": "2014年12月23日，魅族发布子品牌魅蓝首款Note机型，5.5英寸1080P、多彩聚碳酸酯机身、999元定价，青年良品的slogan对位红米，魅族全面参战千元机市场。",
+  "detail": "魅蓝Note由富士康代工，白永祥称以iPhone 5c工艺做千元机，首销即热卖。魅族2015年连开多场发布会机海冲刺，魅蓝系列全年出货占比过半，青年良品成为千元机市场重要玩家。",
+  "impact": "千元机竞争从单纯拼参数转向品牌与设计，小米荣耀魅族三强在年轻人市场缠斗。",
+  "aftermath": "魅蓝2016年暂停更新，2018年独立再战未起，2023年以AI终端概念短暂回归；青年良品成为时代词汇。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "魅蓝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/魅蓝"
+   },
+   {
+    "title": "魅族官网",
+    "url": "https://www.flyme.cn/"
+   }
+  ],
+  "tags": [
+   "魅蓝",
+   "千元机",
+   "魅族"
+  ]
+ },
+ {
+  "id": "2014-12-29-xiaomi-45b-valuation",
+  "date": "2014-12-29",
+  "title": "小米完成11亿美元融资：450亿美元的独角兽之王",
+  "summary_30s": "2014年12月29日，小米宣布完成11亿美元融资，估值450亿美元，位列全球未上市科技公司之首，仅次于Uber、蚂蚁的全球第三，雷军的电商加硬件生态故事登上资本顶点。",
+  "detail": "投资方包括All-Stars、GIC、厚朴与云锋基金，雷军称资金将用于物联网生态链与国际化。小米当年手机出货6112万台居中国第一，估值五年翻了百倍。质疑者担心其增长天花板，次年智能手机市场增速放缓即应验。",
+  "impact": "把中国科技创业公司的估值想象力推到历史新高，一级市场泡沫与生态链投资模式并行升温。",
+  "aftermath": "小米2018年港股上市时估值腰斩至约540亿美元，2020年后股价修复并重回全球前三。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米"
+   },
+   {
+    "title": "雷军 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/雷军"
+   }
+  ],
+  "tags": [
+   "小米",
+   "融资",
+   "独角兽"
+  ]
+ }
+]

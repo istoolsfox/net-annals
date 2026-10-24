@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>人物志 · 知名人士人生历程</title>
-<link rel="stylesheet" href="../style.css?v=18">
+<link rel="stylesheet" href="../style.css?v=19">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -21,7 +21,7 @@
 })();
 </script>
 <style>
-.personsPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
+.personsPage{max-width:1160px;margin:0 auto;padding:0 24px 80px}
 .pTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
 .pTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
 .pTop a:hover{color:var(--text)}
@@ -32,15 +32,17 @@
 .pBar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
 .pBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
 .pBar .chip.on{border-color:var(--accent);color:var(--accent)}
-.pGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:24px 0}
-.pCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s}
-.pCard:hover{border-color:var(--accent)}
-.pCard h3{margin:0 0 4px;font-size:1.1rem;color:var(--text);font-family:var(--serif)}
+#pq{margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px}
+/* 时间线形态：复用主长卷 eraSec/yearGroup/yBadge/card 骨架，卡片内容自定义 */
+.pCard{max-width:calc(50% - 34px)}
+.pCard .cTitle a{cursor:pointer}
+.pCard .name{font-family:var(--serif);font-size:1.18rem;color:var(--text)}
 .pCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
-.pCard .hl{color:var(--accent);font-size:.8rem;margin:2px 0 10px}
+.pCard .hl{color:var(--accent);font-size:.82rem;margin:4px 0 8px}
 .pCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0}
-.pCard .meta{margin-top:12px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
-/* 详情浮层 */
+.pCard .meta{margin-top:10px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.pCard .life{color:var(--accent)}
+/* 详情浮层（沿用原抽屉） */
 .pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
 .pMask.show{display:block}
 .pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
@@ -62,11 +64,17 @@
 .srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
 .srcList a{color:var(--accent);text-decoration:none}
 .srcList a:hover{text-decoration:underline}
+.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
+.ctzBox{border-left:3px solid #c9584f;padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px}
+.relRow{display:flex;gap:8px;flex-wrap:wrap}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip:hover{border-color:var(--accent);background:var(--panel)}
 /* 类传板块 */
 .lSec{margin-top:48px;border-top:1px solid var(--line);padding-top:34px}
 .lTitle{font-family:var(--serif);font-size:1.6rem;color:var(--text);margin:0 0 6px}
 .lTitle em{font-style:normal;color:var(--accent)}
 .lSub{color:var(--dim);font-size:.9rem;margin:0 0 4px}
+.lGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:24px 0}
 .lCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column}
 .lCard:hover{border-color:var(--accent)}
 .lCard .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
@@ -80,12 +88,8 @@
 .mItem .mi{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
 .mItem .mh{color:var(--accent);font-size:.78rem;margin:2px 0 6px}
 .mItem .mt{color:var(--dim);font-size:.88rem;line-height:1.75;margin:0}
-.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
-.ctzBox{border-left:3px solid #c9584f;padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px}
-.relRow{display:flex;gap:8px;flex-wrap:wrap}
-.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
-.relChip:hover{border-color:var(--accent);background:var(--panel)}
-@media (max-width:640px){.pDetail{padding:24px 20px 50px}}
+.empty{text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
+@media (max-width:640px){.pDetail{padding:24px 20px 50px}#pq{min-width:140px}}
 </style>
 </head>
 <body>
@@ -98,14 +102,13 @@
   <div class="pBar">
     <button class="chip on" data-f="all" id="allBtn">全部</button>
     <span id="fieldChips" style="display:contents"></span>
-    <input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off"
-      style="margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px">
+    <input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off">
   </div>
-  <div class="pGrid" id="grid"></div>
+  <div id="ptimeline" class="timeline"></div>
   <div class="lSec" id="lSec" style="display:none">
     <h2 class="lTitle">类传<em> ·</em> 群像列传</h2>
     <p class="lSub">按身份类型集体立传——《史记》刺客、游侠、货殖列传之法的现代版：版主、极客、写手、站长，那些以群体形象塑造中文互联网的人。</p>
-    <div class="pGrid" id="lGrid"></div>
+    <div class="lGrid" id="lGrid"></div>
   </div>
 </div>
 <div class="pMask" id="mask"></div>
@@ -114,11 +117,21 @@
 <script>
 'use strict';
 const FIELDS = {ai:'AI', internet:'互联网', hardware:'硬件制造', company:'公司商业', game:'游戏电竞', creator:'创作者', science:'科学', finance:'金融', media:'媒体', sport:'体育'};
-const $ = s => document.querySelector(s);
-let DATA = null, curFilter = 'all';
+/* 生年分卷：与主长卷同款「时代 → 年份组 → 卡片」三段式 */
+const ERAS = [
+  { name: '文艺复兴与启蒙', range: [-Infinity, 1700] },
+  { name: '近代先驱', range: [1700, 1900] },
+  { name: '世纪之交', range: [1900, 1930] },
+  { name: '战后与重建', range: [1930, 1950] },
+  { name: '共和国一代', range: [1950, 1970] },
+  { name: '黄金一代', range: [1970, 1985] },
+  { name: '千禧一代', range: [1985, Infinity] },
+];
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-
+const $ = s => document.querySelector(s);
+let DATA = null, curFilter = 'all', curQuery = '';
 const DATA_BUILD = '20261024a';
+
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {
@@ -129,21 +142,25 @@ async function fetchGz(url) {
   return await (await fetch(url + '?v=' + DATA_BUILD)).json();
 }
 
-function card(p) {
-  const d = document.createElement('div');
-  d.className = 'pCard';
-  d.dataset.field = p.field;
-  d.innerHTML = `<h3>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</h3>
+const eraIdx = y => ERAS.findIndex(e => y >= e.range[0] && y < e.range[1]);
+const byY = p => String(p.birth || '0000').slice(0, 4);
+
+function card(p, flip) {
+  const el = document.createElement('div');
+  el.className = 'card pCard' + (flip ? ' right' : '');
+  const death = p.death ? String(p.death).slice(0, 4) : '今';
+  el.innerHTML = `<div class="cHead"><span class="life">${String(p.birth).slice(0, 4)}–${death}</span><span>${FIELDS[p.field] || p.field}</span><span class="cAcc">${p.death ? '已故' : '在世'}</span></div>
+    <h3 class="cTitle"><a>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</a></h3>
     <div class="hl">${esc(p.headline)}</div>
     <p class="sm">${esc(p.summary_30s.slice(0, 110))}${p.summary_30s.length > 110 ? '…' : ''}</p>
-    <div class="meta">${p.birth.slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : '今'} · ${FIELDS[p.field] || p.field} · ${p.timeline.length} 个节点</div>`;
-  d.onclick = () => openDetail(p);
-  return d;
+    <div class="meta">${p.timeline.length} 个人生节点</div>`;
+  el.onclick = () => openDetail(p);
+  return el;
 }
 
 function openDetail(p) {
   const tl = p.timeline.map(t =>
-    `<div class="tlItem"><div class="td">${t.date.slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
+    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
   const ach = (p.achievements || []).map(a => `<li>${esc(a)}</li>`).join('');
   const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const ctz = p.region === 'cn' ? '中国' : '国际';
@@ -176,22 +193,51 @@ function closeDetail() {
 $('#mask').onclick = closeDetail;
 addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
 
-let curQuery = '';
-function render() {
-  const grid = $('#grid');
-  grid.innerHTML = '';
+function visible(p) {
+  if (curFilter !== 'all' && p.field !== curFilter) return false;
   const q = curQuery.trim().toLowerCase();
-  let shown = 0;
-  for (const p of DATA.persons) {
-    if (curFilter !== 'all' && p.field !== curFilter) continue;
-    if (q) {
-      const hay = (p.name + (p.en_name || '') + p.headline + (p.tags || []).join('')).toLowerCase();
-      if (!hay.includes(q)) continue;
-    }
-    grid.appendChild(card(p));
-    shown++;
+  if (q) {
+    const hay = (p.name + (p.en_name || '') + p.headline + (p.tags || []).join('')).toLowerCase();
+    if (!hay.includes(q)) return false;
   }
-  if (!shown) grid.innerHTML = '<div class="pCard" style="cursor:default">没有匹配的人物——换个关键词试试</div>';
+  return true;
+}
+
+function render() {
+  const root = $('#ptimeline');
+  root.innerHTML = '';
+  let shown = 0;
+  ERAS.forEach((era, ei) => {
+    const list = DATA.persons.filter(p => eraIdx(+byY(p) || 0) === ei && visible(p))
+      .sort((a, b) => byY(a).localeCompare(byY(b)));
+    if (!list.length) return;
+    const sec = document.createElement('section');
+    sec.className = 'eraSec';
+    const ys = list.map(p => +byY(p));
+    sec.innerHTML = `<div class="eraHead"><span class="eraPill">${era.name}<em>${Math.min(...ys)}–${Math.max(...ys)}</em></span><span class="eraLine"></span><span class="eraCount">${list.length} 人</span></div><div class="eraBody"></div>`;
+    const body = sec.querySelector('.eraBody');
+    const byYear = new Map();
+    for (const p of list) {
+      const y = byY(p);
+      if (!byYear.has(y)) byYear.set(y, []);
+      byYear.get(y).push(p);
+    }
+    let flip = ei % 2;
+    for (const [year, ps] of byYear) {
+      const g = document.createElement('div');
+      g.className = 'yearGroup';
+      g.innerHTML = `<div class="yBadge"><span>${year}</span></div><div class="cards"></div>`;
+      const cards = g.querySelector('.cards');
+      for (const p of ps) {
+        cards.appendChild(card(p, flip));
+        flip = 1 - flip;
+        shown++;
+      }
+      body.appendChild(g);
+    }
+    root.appendChild(sec);
+  });
+  if (!shown) root.innerHTML = '<div class="empty">没有匹配的人物——换个关键词试试</div>';
 }
 
 (async () => {
@@ -214,7 +260,7 @@ function render() {
     }
     $('#allBtn').onclick = () => {
       curFilter = 'all';
-      document.querySelectorAll('#fieldBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
+      document.querySelectorAll('.pBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
       render();
     };
     let qt;
@@ -222,7 +268,7 @@ function render() {
       clearTimeout(qt);
       qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
     });
-    $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。`;
+    $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。按出生年代纵览，点击卡片展开完整人生时间线。`;
     render();
     loadGroups();
     const want = new URLSearchParams(location.search).get('p');
@@ -231,7 +277,7 @@ function render() {
       if (per) openDetail(per);
     }
   } catch (e) {
-    $('#grid').innerHTML = `<div class="pCard">数据加载失败（${e.message}）</div>`;
+    $('#ptimeline').innerHTML = `<div class="empty">数据加载失败（${esc(e.message)}）</div>`;
   }
 })();
 
@@ -245,7 +291,6 @@ function groupCard(g) {
   d.onclick = () => openGroup(g);
   return d;
 }
-
 function openGroup(g) {
   const mem = g.members.map(m => `<div class="mItem">
     <div class="mn">${esc(m.name)}${m.id_name ? `<span class="mi">${esc(m.id_name)}</span>` : ''}</div>
@@ -263,7 +308,6 @@ function openGroup(g) {
   document.body.style.overflow = 'hidden';
   $('#detail').querySelector('.close').onclick = closeDetail;
 }
-
 async function loadGroups() {
   try {
     const G = await fetchGz('groups.json');

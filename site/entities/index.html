@@ -7,12 +7,12 @@
 <link rel="canonical" href="https://toolsfox.cn/entities/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="世家志 · 企业社区机构兴衰史 — 互联网编年史">
-<meta property="og:description" content="腾讯的天涯的猫扑的，你们的青春都在这里立了传——84 家企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕。">
+<meta property="og:description" content="腾讯的天涯的猫扑的，你们的青春都在这里立了传——企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕。">
 <meta property="og:url" content="https://toolsfox.cn/entities/">
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>世家志 · 企业社区机构兴衰史</title>
-<link rel="stylesheet" href="../style.css?v=18">
+<link rel="stylesheet" href="../style.css?v=19">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -21,7 +21,7 @@
 })();
 </script>
 <style>
-.entPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
+.entitiesPage{max-width:1160px;margin:0 auto;padding:0 24px 80px}
 .eTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
 .eTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
 .eTop a:hover{color:var(--text)}
@@ -32,23 +32,18 @@
 .eBar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
 .eBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
 .eBar .chip.on{border-color:var(--accent);color:var(--accent)}
-.eGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:24px 0}
-.eCard{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel);cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column}
-.eCard:hover{border-color:var(--accent)}
-.eCard .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
-.eCard h3{margin:0;font-size:1.1rem;color:var(--text);font-family:var(--serif)}
-.eCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint)}
-.st{font-family:var(--mono);font-size:.66rem;padding:2px 8px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
-.st.active{color:#4a9d6e}.st.declined{color:#b8862b}.st.acquired{color:#7a7ab8}.st.privatized{color:#7a7ab8}.st.closed{color:#b85450}
-.qBox{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:170px}
-.qBox:focus{border-color:var(--accent)}
-.qBox::placeholder{color:var(--faint)}
-.relRow{display:flex;gap:8px;flex-wrap:wrap}
-.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
-.relChip:hover{border-color:var(--accent);background:var(--panel)}
-.eCard .hl{color:var(--accent);font-size:.8rem;margin:6px 0 10px}
-.eCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0;flex:1}
-.eCard .meta{margin-top:12px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+#q{margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px}
+/* 时间线形态：复用主长卷骨架 */
+.eCard{max-width:calc(50% - 34px)}
+.eCard .cTitle a{cursor:pointer}
+.eCard .hl{color:var(--accent);font-size:.82rem;margin:4px 0 8px}
+.eCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0}
+.eCard .meta{margin-top:10px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.eCard .st{font-family:var(--mono);font-size:.66rem;padding:1px 8px;border-radius:4px;border:1px solid var(--line2)}
+.st.active{color:#7ba05b;border-color:color-mix(in srgb,#7ba05b 50%, var(--line))}
+.st.declined{color:#b8862b;border-color:color-mix(in srgb,#b8862b 50%, var(--line))}
+.st.acquired,.st.privatized{color:#7a7ab8;border-color:color-mix(in srgb,#7a7ab8 50%, var(--line))}
+.st.closed{color:#b85450;border-color:color-mix(in srgb,#b85450 50%, var(--line))}
 /* 详情浮层 */
 .eMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
 .eMask.show{display:block}
@@ -68,37 +63,54 @@
 .tlItem .td{font-family:var(--mono);font-size:.72rem;color:var(--accent)}
 .tlItem .tx{color:var(--text);font-size:.9rem;line-height:1.75;margin-top:2px}
 .msList{margin:0;padding-left:18px;color:var(--text);font-size:.9rem;line-height:2}
-.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
-.ctzBox{border-left:3px solid #b8862b;padding:10px 14px;margin-top:10px;color:var(--dim);line-height:1.7;font-size:.85rem}
 .srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
 .srcList a{color:var(--accent);text-decoration:none}
 .srcList a:hover{text-decoration:underline}
-@media (max-width:640px){.eDetail{padding:24px 20px 50px}}
+.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
+.ctzBox{border-left:3px solid #b8862b;padding:10px 14px;margin-top:10px;color:var(--dim);line-height:1.7;font-size:.85rem;background:var(--panel);border-radius:0 8px 8px 0}
+.relRow{display:flex;gap:8px;flex-wrap:wrap}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip:hover{border-color:var(--accent);background:var(--panel)}
+.empty{text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
+@media (max-width:640px){.eDetail{padding:24px 20px 50px}#q{min-width:140px}}
 </style>
 </head>
 <body>
-<div class="entPage">
-  <div class="eTop"><a href="../">← 返回互联网编年史</a><span><a href="../persons/">人物志 →</a>&nbsp;&nbsp;<a href="../geo/">地域日志 →</a></span><span><a href="../works/">作品志 →</a></span></div>
+<div class="entitiesPage">
+  <div class="eTop"><a href="../">← 返回互联网编年史</a><span><a href="../works/">作品志 →</a>&nbsp;&nbsp;<a href="../today/">今天 →</a></span></div>
   <div class="eHero">
     <h1>世家<em>志</em></h1>
-    <p id="heroSub">企业、社区、机构的完整兴衰史——从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里以世家记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。</p>
+    <p id="heroSub">企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕，每个节点精确可溯源。</p>
   </div>
-  <div class="eBar" id="typeBar"><button class="chip on" data-f="all">全部</button><input id="q" class="qBox" placeholder="搜索世家名称/关键词…"></div>
-  <div class="eGrid" id="grid"></div>
+  <div class="eBar">
+    <button class="chip on" data-f="all" id="allBtn">全部</button>
+    <span id="typeChips" style="display:contents"></span>
+    <input id="q" placeholder="搜索世家 / 总部…" autocomplete="off">
+  </div>
+  <div id="etimeline" class="timeline"></div>
 </div>
 <div class="eMask" id="mask"></div>
 <div class="eDetail" id="detail"></div>
 
 <script>
 'use strict';
-const TYPES = {company:'企业世家', community:'社区世家', institution:'机构世家'};
+const TYPES = {company:'企业', community:'社区', media:'媒体', service:'服务', infrastructure:'基础设施', organization:'机构', game:'游戏'};
 const STATUS = {active:'活跃', declined:'衰落', acquired:'被收购', privatized:'已退市', closed:'关停'};
 const REGION = {cn:'中国', world:'世界'};
-const $ = s => document.querySelector(s);
-let DATA = null, curFilter = 'all';
+/* 创立年份分卷：与主长卷同款「时代 → 年份组 → 卡片」三段式 */
+const ERAS = [
+  { name: '奠基纪元', range: [-Infinity, 1990] },
+  { name: '拨号纪元', range: [1990, 1999] },
+  { name: '门户纪元', range: [1999, 2005] },
+  { name: 'Web2.0 纪元', range: [2005, 2011] },
+  { name: '移动纪元', range: [2011, 2016] },
+  { name: '智能纪元', range: [2016, Infinity] },
+];
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-
+const $ = s => document.querySelector(s);
+let DATA = null, curFilter = 'all', curQuery = '';
 const DATA_BUILD = '20261024a';
+
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {
@@ -109,23 +121,25 @@ async function fetchGz(url) {
   return await (await fetch(url + '?v=' + DATA_BUILD)).json();
 }
 
+const eraIdx = y => ERAS.findIndex(e => y >= e.range[0] && y < e.range[1]);
+const byY = e => String(e.founded || '0000').slice(0, 4);
+
 function yearSpan(e) {
   const a = String(e.founded).slice(0, 4);
   const b = e.dissolved ? String(e.dissolved).slice(0, 4) : '';
-  return b ? a + '–' + b : a + '–';
+  return b ? a + '–' + b : a + '–今';
 }
 
-function card(e) {
-  const d = document.createElement('div');
-  d.className = 'eCard';
-  d.dataset.type = e.type;
-  d.innerHTML = `<div class="row"><h3>${esc(e.name)}${e.en_name ? `<span class="en"> ${esc(e.en_name)}</span>` : ''}</h3>
-    <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
+function card(e, flip) {
+  const el = document.createElement('div');
+  el.className = 'card eCard' + (flip ? ' right' : '');
+  el.innerHTML = `<div class="cHead"><span class="life" style="color:var(--accent)">${yearSpan(e)}</span><span>${TYPES[e.type] || e.type}</span><span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
+    <h3 class="cTitle"><a>${esc(e.name)}${e.en_name ? `<span class="en" style="font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px">${esc(e.en_name)}</span>` : ''}</a></h3>
     <div class="hl">${esc(e.headline)}</div>
     <p class="sm">${esc(e.summary_30s.slice(0, 100))}${e.summary_30s.length > 100 ? '…' : ''}</p>
-    <div class="meta">${yearSpan(e)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · ${e.timeline.length} 个节点</div>`;
-  d.onclick = () => openDetail(e);
-  return d;
+    <div class="meta">${esc(e.hq || '')} · ${e.timeline.length} 个兴衰节点</div>`;
+  el.onclick = () => openDetail(e);
+  return el;
 }
 
 function openDetail(e) {
@@ -134,11 +148,11 @@ function openDetail(e) {
   const ms = (e.milestones || []).map(a => `<li>${esc(a)}</li>`).join('');
   const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const ctz = (e.controversies || []).length
-    ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}` : ''
+    ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}` : '';
   const rel = (e.related_persons || []).map(r => `<a class="relChip" href="../persons/?p=${r.id}">${esc(r.name)}</a>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
     <h2>${esc(e.name)}${e.en_name ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${esc(e.en_name)}</span>` : ''}</h2>
-    <div class="sub">${esc(e.headline)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
+    <div class="sub">${esc(e.headline)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · <span class="st ${e.status}">${STATUS[e.status] || e.status}</span> · ${yearSpan(e)}</div>
     <p class="smFull">${esc(e.bio || e.summary_30s)}</p>
     <h4>兴衰历程</h4><div class="tl">${tl}</div>
     <h4>关键数字</h4><ul class="msList">${ms}</ul>
@@ -158,27 +172,57 @@ function closeDetail() {
 $('#mask').onclick = closeDetail;
 addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
 
-function render() {
-  const grid = $('#grid');
-  grid.innerHTML = '';
-  const q = ($('#q').value || '').trim().toLowerCase();
-  let shown = 0;
-  for (const e of DATA.entities) {
-    if (curFilter !== 'all' && e.type !== curFilter) continue;
-    if (q) {
-      const hay = (e.name + (e.en_name || '') + e.headline + (e.tags || []).join('')).toLowerCase();
-      if (!hay.includes(q)) continue;
-    }
-    grid.appendChild(card(e));
-    shown++;
+function visible(e) {
+  if (curFilter !== 'all' && e.type !== curFilter) return false;
+  const q = curQuery.trim().toLowerCase();
+  if (q) {
+    const hay = (e.name + (e.en_name || '') + e.headline + (e.hq || '') + (e.tags || []).join('')).toLowerCase();
+    if (!hay.includes(q)) return false;
   }
-  if (!shown) grid.innerHTML = '<div class="eCard" style="cursor:default">没有匹配的世家——换个关键词试试</div>';
+  return true;
+}
+
+function render() {
+  const root = $('#etimeline');
+  root.innerHTML = '';
+  let shown = 0;
+  ERAS.forEach((era, ei) => {
+    const list = DATA.entities.filter(e => eraIdx(+byY(e) || 0) === ei && visible(e))
+      .sort((a, b) => byY(a).localeCompare(byY(b)));
+    if (!list.length) return;
+    const sec = document.createElement('section');
+    sec.className = 'eraSec';
+    const ys = list.map(e => +byY(e));
+    sec.innerHTML = `<div class="eraHead"><span class="eraPill">${era.name}<em>${Math.min(...ys)}–${Math.max(...ys)}</em></span><span class="eraLine"></span><span class="eraCount">${list.length} 家</span></div><div class="eraBody"></div>`;
+    const body = sec.querySelector('.eraBody');
+    const byYear = new Map();
+    for (const e of list) {
+      const y = byY(e);
+      if (!byYear.has(y)) byYear.set(y, []);
+      byYear.get(y).push(e);
+    }
+    let flip = ei % 2;
+    for (const [year, es] of byYear) {
+      const g = document.createElement('div');
+      g.className = 'yearGroup';
+      g.innerHTML = `<div class="yBadge"><span>${year}</span></div><div class="cards"></div>`;
+      const cards = g.querySelector('.cards');
+      for (const e of es) {
+        cards.appendChild(card(e, flip));
+        flip = 1 - flip;
+        shown++;
+      }
+      body.appendChild(g);
+    }
+    root.appendChild(sec);
+  });
+  if (!shown) root.innerHTML = '<div class="empty">没有匹配的世家——换个关键词试试</div>';
 }
 
 (async () => {
   try {
     DATA = await fetchGz('data.json');
-    const bar = $('#typeBar');
+    const bar = $('#typeChips');
     const present = [...new Set(DATA.entities.map(e => e.type))];
     for (const f of present) {
       const n = DATA.entities.filter(e => e.type === f).length;
@@ -188,14 +232,22 @@ function render() {
       b.onclick = () => {
         curFilter = f;
         bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
+        $('#allBtn').classList.toggle('on', curFilter === 'all');
         render();
       };
       bar.appendChild(b);
     }
-    bar.querySelectorAll('.chip')[0].onclick = () => { curFilter = 'all'; bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all')); render(); };
-    bar.appendChild($('#q'));  /* 搜索框置尾 */
-    $('#q').addEventListener('input', render);
-    $('#heroSub').textContent = `共 ${DATA.entities.length} 家世家——企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕，每个节点精确可溯源。《史记》以世家记诸侯侯国，这里记那些塑造了一代网民生活的公司与社区：有的仍在巅峰，有的已成背影。`;
+    $('#allBtn').onclick = () => {
+      curFilter = 'all';
+      document.querySelectorAll('.eBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
+      render();
+    };
+    let qt;
+    $('#q').addEventListener('input', e => {
+      clearTimeout(qt);
+      qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
+    });
+    $('#heroSub').textContent = `共 ${DATA.entities.length} 家世家——企业、社区、机构的完整兴衰史，从创立到巅峰到谢幕，每个节点精确可溯源。按创立年代纵览，点击卡片展开完整兴衰时间线。`;
     render();
     const want = new URLSearchParams(location.search).get('e');
     if (want) {
@@ -203,7 +255,7 @@ function render() {
       if (ent) openDetail(ent);
     }
   } catch (e) {
-    $('#grid').innerHTML = `<div class="eCard">数据加载失败（${e.message}）</div>`;
+    $('#etimeline').innerHTML = `<div class="empty">数据加载失败（${esc(e.message)}）</div>`;
   }
 })();
 </script>

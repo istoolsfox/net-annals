@@ -1,0 +1,756 @@
+[
+ {
+  "id": "2013-09-02-meizu-mx3-launch",
+  "date": "2013-09-02",
+  "title": "魅族MX3水立方发布：黄章回归与2499的执念",
+  "summary_30s": "2013年9月2日，魅族在水立方发布MX3，宣称更好用的5.1英寸大屏机；发布数月后官降500元至1999，魅族从文艺小厂转向性价比缠斗的转折就此开始。",
+  "detail": "回归的黄章与白永祥共同站台，MX3以窄边框与Flyme 3.0的侘寂美学赢得口碑，但2499元定价在小米3的1999面前节节败退，年底被迫调价并补偿老用户。魅族此后与阿里结缘、开放B轮融资，从一年一机走向机海。",
+  "impact": "国产中端定价体系向1999全面坍缩，设计驱动的厂商也被迫卷入参数与价格战。",
+  "aftermath": "2014年魅族MX4销量回暖，2015年获阿里5.9亿美元投资转型，2018年市场份额持续下滑终在2022年被吉利系收编。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "魅族 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/魅族"
+   },
+   {
+    "title": "魅族官网",
+    "url": "https://www.flyme.cn/"
+   }
+  ],
+  "tags": [
+   "魅族",
+   "MX3",
+   "国产手机"
+  ]
+ },
+ {
+  "id": "2013-09-05-xiaomi-mi3-launch",
+  "date": "2013-09-05",
+  "title": "小米3发布：英伟达与骁龙双平台时代的顶流",
+  "summary_30s": "2013年9月5日，小米在国家会议中心发布小米3，5英寸1080P屏、双平台芯片与1999元定价，首轮开放购买再次秒罄，小米当年出货破千万台进入全球前十。",
+  "detail": "小米3分TD版（英伟达Tegra 4）与联通电信版（骁龙800），一体式设计遭调侃像诺基亚。同期发布的小米电视47英寸2999元也首次亮相。当年红米与小米3合力把小米推上中国市场出货前三，MIUI用户破3000万。",
+  "impact": "小米完成从挑战者到主流厂商的跃升，1999元旗舰的定价锚再被夯实一轮。",
+  "aftermath": "2014年小米登顶中国智能手机出货第一并启动国际化；2015年冲高端的小米Note遇挫，性价比与溢价的拉锯长跑开场。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米手机3 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米手机"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "小米",
+   "发布会",
+   "1999元"
+  ]
+ },
+ {
+  "id": "2013-09-09-500-reposts-judicial-interpretation",
+  "date": "2013-09-09",
+  "title": "两高司法解释：诽谤信息转发500次可入刑",
+  "summary_30s": "2013年9月9日，最高法、最高检公布办理利用信息网络实施诽谤等刑事案件的司法解释，明确诽谤信息被点击5000次或转发500次即可认定情节严重，网络言论的法律边界首次量化。",
+  "detail": "司法解释还规定网络寻衅滋事、敲诈勒索、非法经营等罪名的适用标准，发布次日即有网络大V涉案被查。学界围绕转发量标准的科学性与寒蝉效应展开长期争论，官方回应称标准针对的是诽谤内容而非批评监督。",
+  "impact": "网络言论治理从平台自律进入刑事规制阶段，大V发声生态急剧降温，谣言传播成本陡增。",
+  "aftermath": "此后刑法修正案（九）2015年将编造传播虚假信息入刑，2013年的解释仍是网络法律体系的基石之一。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "最高人民法院",
+    "url": "https://www.court.gov.cn/"
+   },
+   {
+    "title": "最高人民检察院",
+    "url": "https://www.spp.gov.cn/"
+   }
+  ],
+  "tags": [
+   "司法解释",
+   "网络诽谤",
+   "转发500次"
+  ]
+ },
+ {
+  "id": "2013-09-16-tiantian-kupao-launch",
+  "date": "2013-09-16",
+  "title": "《天天酷跑》上线：微信游戏的印钞机时刻",
+  "summary_30s": "2013年9月，腾讯天美《天天酷跑》上线微信与手机QQ游戏中心，首月流水破亿创当时手游纪录，微信社交链分发的威力把腾讯推向手游霸主之位。",
+  "detail": "天天酷跑接棒打飞机与天天爱消除，跑酷玩法加好友排名、爱心赠予构成强社交裂变，上线当日霸榜。腾讯以微信加手Q双中心、精品3.0战略垄断畅销榜前列，外部发行商在腾讯渠道面前的议价力此消彼长。",
+  "impact": "验证移动游戏的社交分发模型，腾讯手游收入此后数年稳居全球第一，中国手游市场全面爆发。",
+  "aftermath": "2015年王者荣耀上线，腾讯从休闲社交游戏进阶到MOBA长青IP；天天系列渐次退役成为回忆。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "天天酷跑 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/天天酷跑"
+   },
+   {
+    "title": "腾讯游戏",
+    "url": "https://games.qq.com/"
+   }
+  ],
+  "tags": [
+   "天天酷跑",
+   "微信游戏",
+   "腾讯手游"
+  ]
+ },
+ {
+  "id": "2013-09-23-oppo-n1-launch",
+  "date": "2013-09-23",
+  "title": "OPPO N1发布：旋转摄像头的差异化豪赌",
+  "summary_30s": "2013年9月23日，OPPO发布N1，206度旋转摄像头让前后拍照同一颗镜头，另配背部触控板与N1 Color OS定制，国产厂商在拍照差异化上迈出标志性一步。",
+  "detail": "N1搭载5.9英寸屏与骁龙600，为拍照引入六镜式镜头与美颜算法，O-Touch背部触控解决大屏单手操作。OPPO同年开始深耕线下体验店与娱乐营销，N1虽然销量有限，但其旋转模组思路延续到2018年Find X与努比亚X等形态创新。",
+  "impact": "确立拍照作为国产手机第一差异卖点的行业共识，硬件形态创新勇气获得正名。",
+  "aftermath": "OPPO R系列凭拍照自拍长跑十年；2020年代前后Find X系列不断以潜望、折叠续写影像故事。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "OPPO N1 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/OPPO_N1"
+   },
+   {
+    "title": "OPPO官网",
+    "url": "https://www.oppo.com/cn/"
+   }
+  ],
+  "tags": [
+   "OPPO",
+   "旋转摄像头",
+   "手机影像"
+  ]
+ },
+ {
+  "id": "2013-09-29-breaking-bad-finale",
+  "date": "2013-09-29",
+  "title": "《绝命毒师》大结局：全球追更的盗版与社交狂欢",
+  "summary_30s": "2013年9月29日，《绝命毒师》最终集播出，全球社交媒体同步刷屏，盗版下载纪录与合法追剧并存，网络时代的美剧追剧仪式感达到顶峰，I am the one who knocks成为世界流行语。",
+  "detail": "老白在新墨西哥的谢幕引爆推特单小时推文纪录，中国美剧字幕组当晚抢译，人人影视、射手网流量激增。该剧横扫次年艾美奖，蓝光与周边热卖，为流媒体时代的美剧黄金期画上浓重一笔。",
+  "impact": "证明剧集可以像体育赛事一样制造全球同步的文化事件，字幕组成为中美流行文化之间的地下血管。",
+  "aftermath": "2014年风骚律师开播延续宇宙；此后HBO《权力的游戏》接棒全球追剧狂欢，直至2019年收官争议。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "绝命毒师 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/绝命毒师"
+   },
+   {
+    "title": "Breaking Bad - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breaking_Bad"
+   }
+  ],
+  "tags": [
+   "绝命毒师",
+   "美剧",
+   "追剧文化"
+  ]
+ },
+ {
+  "id": "2013-10-01-p2p-collapse-wave",
+  "date": "2013-10-01",
+  "title": "P2P平台倒闭潮：野蛮生长的第一轮清算",
+  "summary_30s": "2013年秋起，国内P2P网贷平台连环倒闭，仅10月就有数十家跑路或提现困难，全年问题平台超70家，无监管野蛮生长的P2P迎来第一波清算，也倒逼监管框架启动。",
+  "detail": "2013年平台总数从年初约200家飙至年末800余家，资金池、自融、庞氏玩法泛滥。10月江湖称倒闭潮开启，网赢天下、东方创投等接连爆雷，投资人围堵平台的消息频出。央行牵头调研，P2P被明确为信息中介的定位讨论开始。",
+  "impact": "互联网金融创新与风险并存的认知深入人心，监管沙盒与备案制讨论进入公共议程。",
+  "aftermath": "2015年底e租宝案发震动全国，2016年监管办法落地，2020年P2P平台最终清零，这一业态从生到死仅十余年。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "P2P网贷 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/P2P网贷"
+   },
+   {
+    "title": "中国银行保险监督管理委员会",
+    "url": "https://www.nfra.gov.cn/"
+   }
+  ],
+  "tags": [
+   "P2P",
+   "跑路",
+   "互联网金融"
+  ]
+ },
+ {
+  "id": "2013-10-10-xuetangx-launch",
+  "date": "2013-10-10",
+  "title": "学堂在线上线：中国慕课平台元年",
+  "summary_30s": "2013年10月10日，清华大学发起的学堂在线正式发布，首批开出清华电路、计算机等课程，中文慕课平台从无到有，中国高校加入全球慕课运动。",
+  "detail": "学堂在线基于Open edX开源平台搭建，面向全球学习者免费开放，随后北大、上海交大等一批中文慕课平台跟进，教育部推动慕课学分认定试点。清华校长陈吉宁称其为在线教育的中国实验。",
+  "impact": "优质高等教育资源通过中文慕课触达数千万学习者，高校教学模式与课程共享逻辑被重构。",
+  "aftermath": "2020年疫情期间慕课与直播课堂支撑全国停课不停学，中国慕课数量与学习人数均居世界第一。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "学堂在线",
+    "url": "https://www.xuetangx.com/"
+   },
+   {
+    "title": "清华大学",
+    "url": "https://www.tsinghua.edu.cn/"
+   }
+  ],
+  "tags": [
+   "慕课",
+   "学堂在线",
+   "在线教育"
+  ]
+ },
+ {
+  "id": "2013-10-22-ipad-air-announced",
+  "date": "2013-10-22",
+  "title": "苹果发布iPad Air：平板轻薄化的分水岭",
+  "summary_30s": "2013年10月22日，苹果发布iPad Air，重量从652克骤减至469克，A7芯片首上平板，发布会同场还推出视网膜iPad mini与新Mac Pro，库克时代苹果的产品密度达到高峰。",
+  "detail": "iPad Air采用窄边框设计，A7为首款64位移动芯片，性能翻倍。同期新Mac Pro垃圾桶造型与Mavericks免费策略都成为话题。iPad Air首周末销量达破纪录水平，但平板整体市场已现疲态，苹果开始强调企业市场与教育市场。",
+  "impact": "确立平板轻薄长续航的形态标准，64位架构开启移动芯片新竞赛，ARM阵营全面跟进。",
+  "aftermath": "2014年iPad Air 2再减至437克登峰造极；2015年后iPad进入衰退与Pro化重生两条线。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IPad Air - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/IPad_Air"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "iPad Air",
+   "平板"
+  ]
+ },
+ {
+  "id": "2013-10-28-baidu-baifa-wealth",
+  "date": "2013-10-28",
+  "title": "百度百发上线：互联网巨头理财混战",
+  "summary_30s": "2013年10月28日，百度联合华夏基金推出百发理财，年化收益目标8%且限量10亿元，数小时售罄，互联网金融元年余额宝之后的又一爆款，巨头理财大战全面开打。",
+  "detail": "百发以团购加补贴方式抬高收益，百度随后又推出百赚等常规产品。监管对8%高收益宣传表态关注，行业转向规范表述。同期网易现金宝、腾讯理财通筹备、京东小金库等先后入场，互联网金融成为年度最热词并写入2014年政府工作报告。",
+  "impact": "货币基金与互联网流量结合的模式被彻底验证，居民理财门槛降到一元起点，银行存款搬家加速。",
+  "aftermath": "2014年起收益中枢随宽松下行，宝宝类产品规模见顶；但互联网理财的用户习惯已成，为后来基金代销与投顾时代铺路。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度百发 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "华夏基金",
+    "url": "https://www.chinaamc.com/"
+   }
+  ],
+  "tags": [
+   "百度百发",
+   "互联网金融",
+   "理财"
+  ]
+ },
+ {
+  "id": "2013-10-31-58-com-ipo",
+  "date": "2013-10-31",
+  "title": "58同城纽交所上市：一个神奇的网站上岸",
+  "summary_30s": "2013年10月31日，姚劲波的58同城在纽交所挂牌，上市首日大涨，分类信息生活服务赛道首次跑出上市公司，也为两年后与赶集的合并攒足筹码。",
+  "detail": "58同城以会员加竞价排名的本地信息服务模式盈利，招股书披露覆盖约400个城市。上市后姚劲波高举高打扩张房产、招聘、二手车与58到家业务，2015年与赶集网合并终结十年缠斗。",
+  "impact": "证明本地生活信息服务的商业模型成立，资本市场开始重仓生活服务O2O。",
+  "aftermath": "58同城2020年完成私有化回归中概回暖潮；赶集品牌逐步淡出，姚劲波转向产业投资与SaaS。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "58同城 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/58同城"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "58同城",
+   "上市",
+   "分类信息"
+  ]
+ },
+ {
+  "id": "2013-11-01-qunar-ipo",
+  "date": "2013-11-01",
+  "title": "去哪儿纳斯达克上市：在线旅游价格战开打",
+  "summary_30s": "2013年11月1日，去哪儿网登陆纳斯达克，首日大涨89%，百度控股加持下与携程的佣金模式对赌比价搜索，在线旅游的贴身肉搏进入白热化。",
+  "detail": "去哪儿以机票酒店比价起家，移动端预订量当年暴增，百度2011年3.06亿美元入股成大股东。上市后与携程在门票、经济型酒店正面开战，价格战烧钱不休，庄辰超与梁建章的两代极客对垒成为行业戏码。",
+  "impact": "在线旅游渗透率加速提升，消费者比价习惯养成，OTA行业进入资本消耗战阶段。",
+  "aftermath": "2015年10月携程百度换股并购去哪儿，庄辰超出局转身投资人，创立便利蜂与再惠。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "去哪儿网 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/去哪儿网"
+   },
+   {
+    "title": "Nasdaq",
+    "url": "https://www.nasdaq.com/"
+   }
+  ],
+  "tags": [
+   "去哪儿",
+   "上市",
+   "在线旅游"
+  ]
+ },
+ {
+  "id": "2013-11-01-eleme-series-c",
+  "date": "2013-11-01",
+  "title": "饿了么获红杉领投：外卖从校园走向全城",
+  "summary_30s": "2013年11月，饿了么完成红杉领投的2500万美元C轮融资，从上海高校外卖系统扩至全国数十个城市，张旭豪的校园创业进入资本快车道，外卖大战的火药开始堆放。",
+  "detail": "饿了么2008年创立于上海交大，以餐厅管理系统加订餐平台双向锁定，2013年日订单已破10万单。融资后地推铁军铺向白领市场，同步上线物流调度系统。美团外卖随后于11月上线贴身跟进，百度外卖2014年入局。",
+  "impact": "外卖成为O2O最大战场之一，餐饮数字化从收银台延伸到配送与营销。",
+  "aftermath": "补贴战、收购百度外卖、阿里全资收购接连上演，2018年饿了么卖身阿里，与美团分庭抗礼至今。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "饿了么 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/饿了么"
+   },
+   {
+    "title": "红杉中国",
+    "url": "https://www.sequoiacap.cn/"
+   }
+  ],
+  "tags": [
+   "饿了么",
+   "外卖",
+   "O2O"
+  ]
+ },
+ {
+  "id": "2013-11-07-twitter-ipo",
+  "date": "2013-11-07",
+  "title": "Twitter纽交所上市：140字的资本成人礼",
+  "summary_30s": "2013年11月7日，推特以TWTR代码登陆纽交所，发行价26美元，首日大涨73%，市值约310亿美元，全球第二大社交网络完成IPO，敲钟台上把舞台让给了普通用户。",
+  "detail": "推特以无盈利、高增长的形象上市，挂牌首日收于44.9美元。上市前该平台已见证阿拉伯之春、奥巴马当选推文等历史时刻，月活约2.3亿。此后推特面临用户增长乏力与产品迭代迟缓，资本市场耐心渐失。",
+  "impact": "确认实时公共广场的商业价值，全球媒体、政要与资本市场把推特当默认信息基础设施。",
+  "aftermath": "2022年马斯克以440亿美元收购推特并改名X，推特时代的公共讨论生态彻底重构。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Twitter - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Twitter"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "推特",
+   "上市",
+   "社交媒体"
+  ]
+ },
+ {
+  "id": "2013-11-14-yuebao-100b-rmb",
+  "date": "2013-11-14",
+  "title": "余额宝规模破千亿：全民理财爆炸式增长",
+  "summary_30s": "2013年11月14日，天弘基金宣布余额宝规模突破1000亿元、用户近3000万，上线仅五个多月即成国内最大基金，屌丝理财的涓涓细流汇成改变银行业的洪流。",
+  "detail": "余额宝以一元起购、随时赎回的体验把货币基金变成活期存款替代品，银行被迫推出各种宝宝迎战。当年被称为互联网金融元年，支付宝的沉淀资金脱胎换骨，天弘基金从亏损小公司一举登顶行业规模第一。",
+  "impact": "推动利率市场化进程的公众感知，银行负债端成本抬升，互联网金融首次写入决策层议程。",
+  "aftermath": "余额宝2014年规模一度超5000亿元全球前十，此后监管限额限购；但大众理财习惯已被永久改变。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "余额宝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/余额宝"
+   },
+   {
+    "title": "天弘基金",
+    "url": "https://www.thfund.com.cn/"
+   }
+  ],
+  "tags": [
+   "余额宝",
+   "互联网金融",
+   "货币基金"
+  ]
+ },
+ {
+  "id": "2013-11-27-bitcoin-1000-usd",
+  "date": "2013-11-27",
+  "title": "比特币首破1000美元：大妈与极客的疯狂之年",
+  "summary_30s": "2013年11月27日，比特币价格首次突破1000美元，年内涨幅近百倍，中国交易量一度占全球一半以上，矿机、显卡与暴富神话席卷中文互联网。",
+  "detail": "塞浦路斯危机后的避险叙事、量化宽松预期与中国的炒币热潮共振，比特币中国(BTC China)一度为全球最大交易所，李笑来比特币首富的故事广为流传。矿机厂商南瓜张、烤猫的期货矿机卖成期货理财产品。",
+  "impact": "数字资产第一次进入大众财富叙事，区块链技术随价格喧嚣被间接普及。",
+  "aftermath": "12月5日五部委发文禁第三方支付参与比特币交易，价格腰斩；此后比特币在牛熊轮回中长跑至2021年6万美元。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "比特币 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/比特币"
+   },
+   {
+    "title": "Mt. Gox - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mt._Gox"
+   }
+  ],
+  "tags": [
+   "比特币",
+   "数字货币",
+   "投机"
+  ]
+ },
+ {
+  "id": "2013-12-01-china-mobile-game-10b",
+  "date": "2013-12-01",
+  "title": "2013手游收入翻倍破百亿：智能机游戏爆发元年",
+  "summary_30s": "2013年底产业数据显示，中国手游市场销售收入约112亿元，同比接近翻倍，智能机游戏全面取代功能机游戏，手游创业与资本热度堪比当年的团购。",
+  "detail": "全年_ios与安卓双平台并进，卡牌、跑酷与休闲游戏主导畅销榜，渠道为王格局形成。手游概念股被爆炒，掌趣、中青宝等股价数倍上涨，团队估值水涨船高，端游大厂全面转入手游研发。",
+  "impact": "游戏产业重心从客户端转向移动，发行、渠道、买量的产业分工在此一年定型。",
+  "aftermath": "2015年王者荣耀上线开启全民MOBA时代，中国移动游戏此后十年规模增长逾二十倍，占全球三分之一。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国音数协游戏工委",
+    "url": "https://www.cgigc.com.cn/"
+   },
+   {
+    "title": "中国游戏产业报告",
+    "url": "https://www.cgigc.com.cn/"
+   }
+  ],
+  "tags": [
+   "手游",
+   "游戏产业",
+   "市场数据"
+  ]
+ },
+ {
+  "id": "2013-12-01-amazon-prime-air-reveal",
+  "date": "2013-12-01",
+  "title": "贝索斯宣布无人机送货：Prime Air的科幻预告",
+  "summary_30s": "2013年12月1日，贝索斯在CBS《60分钟》专访中首次公布Prime Air无人机30分钟送货构想，科幻级的物流愿景让全球电商与无人机产业集体亢奋。",
+  "detail": "节目展示了原型八旋翼无人机夹带黄色货箱飞行的画面，贝索斯称还需四五年通过监管。此后亚马逊多年测试迭代多代机型，美国FAA的适航审批却一拖再拖，无人配送在不少国家率先落地， Prime Air 至今仍属小规模试点。",
+  "impact": "把无人机从军事与航拍工具推向物流基建叙事，全球低空经济与配送机器人赛道因此预热。",
+  "aftermath": "2020年代无人机配送在部分城市常态化试点，中国美团、顺丰的城配无人机率先规模化。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Amazon Prime Air - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amazon_Prime_Air"
+   },
+   {
+    "title": "Amazon",
+    "url": "https://www.aboutamazon.com/"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "无人机配送",
+   "Prime Air"
+  ]
+ },
+ {
+  "id": "2013-12-05-pboc-bitcoin-notice",
+  "date": "2013-12-05",
+  "title": "五部委比特币风险通知：支付通道被掐断",
+  "summary_30s": "2013年12月5日，央行等五部委发布关于防范比特币风险的通知，定性比特币为特定虚拟商品、非货币，禁止各金融机构与第三方支付参与相关业务，比特币应声暴跌。",
+  "detail": "通知要求交易平台备案反洗钱、外汇监管，第三方支付随即关闭充值通道，比特币中国、OKCoin与火币被迫转境外收款。价格从高点1200美元数日内腰斩至600美元下方，市场完成第一轮政策教育。",
+  "impact": "确立中国监管层对比特币禁止金融化的一贯立场，为2017年关停境内交易所、2021年全面清退挖矿埋下政策伏笔。",
+  "aftermath": "国内交易转入场外与海外平台，区块链技术在2019年获官方重新定调为重点前沿方向。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国人民银行",
+    "url": "https://www.pbc.gov.cn/"
+   },
+   {
+    "title": "比特币 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/比特币"
+   }
+  ],
+  "tags": [
+   "比特币监管",
+   "央行",
+   "五部委通知"
+  ]
+ },
+ {
+  "id": "2013-12-11-autohome-ipo",
+  "date": "2013-12-11",
+  "title": "汽车之家纽交所上市：垂直媒体的高光时刻",
+  "summary_30s": "2013年12月11日，秦致执掌的汽车之家登陆纽交所，首日上涨约75%，汽车垂直内容加经销商电商的模式受热捧，中国垂直网站迎来最后的集中丰收季。",
+  "detail": "汽车之家以车友口碑库与原创评测立身，流量远超门户汽车频道。上市前一年其营收增长六成，移动端流量占比过半。与同期上市的58、去哪儿一道，构成2013年中概股小阳春的主力阵容。",
+  "impact": "证明深耕行业的垂直媒体在门户衰退期反而能穿越周期，汽车互联网成为长青赛道。",
+  "aftermath": "2016年平安入主汽车之家引发创始人团队出局风波；汽车互联网此后向交易、金融与新能源生态演进。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "汽车之家 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/汽车之家"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "汽车之家",
+   "上市",
+   "垂直媒体"
+  ]
+ },
+ {
+  "id": "2013-12-16-huawei-honor-brand",
+  "date": "2013-12-16",
+  "title": "华为荣耀品牌独立：双品牌迎战小米",
+  "summary_30s": "2013年12月16日，华为宣布荣耀作为独立互联网品牌运作，首款荣耀3C以798元对标红米，刘江峰挂帅，双品牌战略让华为同时押注线下高端与线上性价比。",
+  "detail": "荣耀成立后沿用华为研发与供应链，但以互联网打法直销、快迭代，口号勇敢做自己。荣耀3C、3X连发，一年后荣耀6搭载海思麒麟920成为首款Cat6手机，2015年荣耀出货破4000万台，成全球出货最大的互联网手机品牌之一。",
+  "impact": "确立华为加荣耀双品牌架构，为华为登顶中国第一立下头功，小米的线上模式第一次被正面复制。",
+  "aftermath": "2020年荣耀因芯片断供整体出售，由深圳国资与代理商接盘，独立后反而冲进国内前二。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "荣耀 (品牌) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/荣耀_(品牌)"
+   },
+   {
+    "title": "华为消费者业务",
+    "url": "https://consumer.huawei.com/cn/"
+   }
+  ],
+  "tags": [
+   "华为",
+   "荣耀",
+   "互联网手机"
+  ]
+ },
+ {
+  "id": "2013-12-19-deepmind-atari-paper",
+  "date": "2013-12-19",
+  "title": "DeepMind论文：AI自学打雅达利游戏，AlphaGo前夜",
+  "summary_30s": "2013年12月，DeepMind团队在论文中展示深度Q网络仅凭屏幕像素自学49款雅达利游戏并在多款上超越人类，强化学习与深度学习结合的路线就此打通，谷歌随即出手收购。",
+  "detail": "论文《Playing Atari with Deep Reinforcement Learning》提出DQN算法，端到端地从像素到动作决策。Hassabis团队把神经科学与深度学习结合的野心打动硅谷，2014年1月谷歌以约4亿英镑收购DeepMind。",
+  "impact": "成为AlphaGo 2016年击败李世石的直接技术前奏，深度强化学习成为AI研究最重要的分支之一。",
+  "aftermath": "DeepMind 2015年登上《自然》封面，此后AlphaFold破解蛋白质折叠再获诺贝尔级认可。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "DeepMind - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/DeepMind"
+   },
+   {
+    "title": "arXiv:1312.5602",
+    "url": "https://arxiv.org/abs/1312.5602"
+   }
+  ],
+  "tags": [
+   "DeepMind",
+   "强化学习",
+   "人工智能"
+  ]
+ },
+ {
+  "id": "2013-12-23-china-mobile-apple-deal",
+  "date": "2013-12-23",
+  "title": "中国移动与苹果官宣合作：TD版iPhone破冰",
+  "summary_30s": "2013年12月23日，中国移动与苹果宣布达成iPhone销售协议，7.5亿用户的中国最大运营商六年后终迎iPhone，TD-SCDMA版5s/5c于2014年1月17日开售。",
+  "detail": "双方谈判缠绵六年，症结在TD制式芯片、补贴规模与分成条款。合作达成后苹果股价上扬，中移动以合约补贴与4G资费套餐打包推广，首批备货百万级。中国移动当年12月刚获TD-LTE 4G牌照，iPhone成其4G换机最大筹码。",
+  "impact": "中国4G换机潮获得标志性旗舰背书，苹果大中华区收入2014财年接近翻倍。",
+  "aftermath": "苹果此后成为中国高端市场的统治者，中国移动iPhone用户数亿级，双方年度谈判成为行业季风。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国移动 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中国移动"
+   },
+   {
+    "title": "Apple",
+    "url": "https://www.apple.com/"
+   }
+  ],
+  "tags": [
+   "中国移动",
+   "苹果",
+   "iPhone"
+  ]
+ },
+ {
+  "id": "2013-12-26-first-mvno-licenses",
+  "date": "2013-12-26",
+  "title": "首批虚拟运营商牌照发放：民营资本进入电信业",
+  "summary_30s": "2013年12月26日，工信部向京东、阿里、苏宁等11家企业发放首批移动通信转售业务试点牌照，170/171号段的虚拟运营商开闸，民营资本首次系统性进入基础电信服务。",
+  "detail": "首批获得牌照的还有国美、迪信通、小米（后续批次）等，累计42家试点企业把170号段与互联网套餐玩法带入市场。蜗牛移动、话机世界等以免漫游、流量不清零等创新搅动市场，但批发价倒挂与获客成本高企长期困扰行业。",
+  "impact": "电信业民营化改革迈出象征性一步，流量不清零等用户友好设计倒逼运营商改进。",
+  "aftermath": "2018年移动转售业务正式商用，虚商市场长期不温不火；物联网卡业务后来成为部分虚商的转机。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "虚拟运营商 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/虚拟运营商"
+   },
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "虚拟运营商",
+   "电信改革",
+   "170号段"
+  ]
+ },
+ {
+  "id": "2013-12-01-net-slang-chengyu-wave",
+  "date": "2013-12-01",
+  "title": "人艰不拆、不明觉厉：网络成语大爆发之年",
+  "summary_30s": "2013年，人艰不拆、不明觉厉、累觉不爱、喜大普奔等四字网络缩略语井喷式流行，人民日报盘点点赞，网络语言的造词能力达到巅峰，也引发语言纯洁性大讨论。",
+  "detail": "这批词多由贴吧、微博段子压缩而成，语法戏仿成语、节奏洗脑，年底入选多家年度流行语榜单。《咬文嚼字》编辑部连续刊文讨论网络语言的规范边界，教育界担心学生作文被侵蚀。",
+  "impact": "网络亚文化完成对主流话语的又一次输出，缩写造词成为中文互联网的稳定生产机制。",
+  "aftermath": "此后 yyds、xswl、绝绝子接续登场，2020年代网络缩写成为代际身份的暗号系统。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "网络语言 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网络语言"
+   },
+   {
+    "title": "咬文嚼字",
+    "url": "https://www.yaowenjiaozi.com/"
+   }
+  ],
+  "tags": [
+   "网络流行语",
+   "网络成语",
+   "语言文化"
+  ]
+ },
+ {
+  "id": "2013-05-21-xbox-one-reveal",
+  "date": "2013-05-21",
+  "title": "Xbox One雷德蒙亮相：电视电视电视的翻车预警",
+  "summary_30s": "2013年5月21日，微软发布Xbox One，发布会大讲电视与HDMI直通，强制联网与二手游戏限制引发众怒，索尼在E3以599美元无限制策略一击致命，主机大战胜负就此埋下。",
+  "detail": "Xbox One以客厅娱乐中枢定位亮相，Kinect标配定价499美元，且要求24小时联网、限制游戏二手转让。E3上索尼PS4宣布399美元、完全支持二手游戏，玩家用脚投票，微软随后紧急撤回多项政策，唐·马特里克离职。",
+  "impact": "成为产品发布沟通失败的经典案例；PS4借此确立全球销量碾压优势，领先直至本世代结束。",
+  "aftermath": "微软此后转向Xbox Game Pass订阅与向下兼容战略，云游戏时代以服务而非主机定义胜负。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Xbox One - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Xbox_One"
+   },
+   {
+    "title": "Xbox",
+    "url": "https://www.xbox.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Xbox One",
+   "主机大战"
+  ]
+ }
+]

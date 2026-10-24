@@ -1,0 +1,496 @@
+[
+ {
+  "id": "1987-08-11-hypercard",
+  "date": "1987-08-11",
+  "title": "苹果HyperCard于1987年发布：超链接交互先于万维网问世",
+  "summary_30s": "1987年8月，比尔·阿特金森开发的HyperCard随Macintosh发行，卡片堆叠加按钮跳转的结构让普通用户第一次做出可点击的超媒体，其链接思想直接影响后来的万维网与Wiki。",
+  "detail": "阿特金森是Macintosh创始工程师，HyperCard以免费随机的策略铺进每台Mac，教师、博物馆与爱好者用它做出交互课件与导览。苹果长期未能把它商业化，1990年代让位于QuickTime与网页。阿特金森曾感叹HyperCard本可以成为最早的互联网。",
+  "impact": "HyperCard证明了超链接叙事的大众可用性，编程-非编程的边界被一块卡片模糊。",
+  "aftermath": "2004年停止更新；它的精神在Wiki、PPT交互与无代码工具中延续。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "HyperCard - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/HyperCard"
+   }
+  ],
+  "tags": [
+   "HyperCard",
+   "苹果",
+   "超媒体",
+   "超链接"
+  ]
+ },
+ {
+  "id": "1987-08-11-greenspan-fed-chair",
+  "date": "1987-08-11",
+  "title": "艾伦·格林斯潘1987年就任美联储主席：十八年联储时代就此开启",
+  "summary_30s": "1987年8月11日，艾伦·格林斯潘接替沃尔克出任美联储主席，上任两个月即遭遇黑色星期一股灾，他果断承诺流动性供给稳住市场，由此开启长达十八年半的联储掌舵生涯。",
+  "detail": "里根提名格林斯潘接替因抗通胀而声誉卓著的沃尔克，市场一度担心宽松转向。10月19日道指暴跌22.6%，格林斯潘次日即发表简短声明表示随时提供流动性，这一操作成为央行危机应对的教科书。此后他主持1987至2006年的货币宽松周期，2000年互联网泡沫破裂后毁誉参半。",
+  "impact": "他确立了央行以口头沟通与流动性承诺管理预期的现代范式，也种下低利率时代的争议。",
+  "aftermath": "2006年卸任后出版回忆录；2008年金融危机后承认自身监管哲学存在缺陷。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Alan Greenspan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alan_Greenspan"
+   }
+  ],
+  "tags": [
+   "格林斯潘",
+   "美联储",
+   "黑色星期一",
+   "货币政策"
+  ]
+ },
+ {
+  "id": "1987-09-01-gsm-mou-signed",
+  "date": "1987-09-01",
+  "title": "GSM谅解备忘录1987年9月签署：数字蜂窝一统欧洲的路线图",
+  "summary_30s": "1987年9月，欧洲十三国运营商在哥本哈根签署GSM谅解备忘录，承诺1981年代模拟网之后共建泛欧数字蜂窝系统，全球移动通信系统GSM从此有了时间表与产业同盟。",
+  "detail": "GSM由欧洲邮电管理委员会1982年立项，CEPT的专家组完成技术框架。备忘录签署方承诺1991年前开通商用，1989年工作移交新成立的ETSI。1991年芬兰打出首个GSM电话，1992年短信息服务SMS随之商用。GSM以SIM卡、国际漫游与开放标准席卷全球，最终覆盖两百多个国家和地区。",
+  "impact": "GSM让手机第一次实现跨国漫游与规模化制造，是欧洲产业协同对抗分裂标准的最大胜绩。",
+  "aftermath": "GSM演进至3G、4G后与CDMA阵营合流；5G时代标准之争仍在继续。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "GSM - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/GSM"
+   }
+  ],
+  "tags": [
+   "GSM",
+   "数字蜂窝",
+   "欧洲电信",
+   "移动通信"
+  ]
+ },
+ {
+  "id": "1987-09-15-x11-window",
+  "date": "1987-09-15",
+  "title": "X11窗口系统1987年发布：Unix图形界面的三十年统一标准",
+  "summary_30s": "1987年9月15日，MIT的X Window System第11版首次发布，网络透明的窗口协议让Unix工作站共享显示，X11在此后三十多年成为Unix与Linux图形界面的基石。",
+  "detail": "X系统由罗伯特·沙伊弗勒主导，X11由MIT与DEC、IBM等联合赞助的X联盟开发，其客户端-服务器模型允许程序运行于远端、显示于本地。1988年X Consortium成立接管标准。Linux桌面、工作站CAD与金融终端长期构建在X11之上，2010年代后才逐步让位于Wayland。",
+  "impact": "X11确立了窗口系统作为可移植中间件的架构思想，开源协作治标的范本由此立起。",
+  "aftermath": "X.Org基金会延续维护；Wayland已主流化但X11兼容层仍在。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "X Window System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/X_Window_System"
+   }
+  ],
+  "tags": [
+   "X11",
+   "Unix",
+   "窗口系统",
+   "MIT"
+  ]
+ },
+ {
+  "id": "1987-09-16-montreal-protocol",
+  "date": "1987-09-16",
+  "title": "《蒙特利尔议定书》1987年正式签署：臭氧层保卫战的全球性立法",
+  "summary_30s": "1987年9月16日，46国在蒙特利尔签署保护臭氧层议定书，为氟氯碳化物设定分阶段淘汰时间表，此后所有国家陆续加入，它被联合国称为迄今最成功的环境协定。",
+  "detail": "议定书基于1985年《维也纳公约》与同年南极臭氧空洞观测，确立了共同但有区别的责任与多边基金机制，帮助发展中国家替代氟利昂。先后六次修正案收紧管控，HCFC也在淘汰之列。1995年诺贝尔化学奖授予莫利纳、罗兰与克鲁岑。",
+  "impact": "它是全球环境治理第一次以科学预警驱动各国立法并生效执行的胜利，气候谈判长期以它为镜。",
+  "aftermath": "臭氧层预计21世纪中叶恢复；议定书基加利修正案转而管控氢氟碳化物温室效应。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Montreal Protocol - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Montreal_Protocol"
+   }
+  ],
+  "tags": [
+   "蒙特利尔议定书",
+   "臭氧层",
+   "环境外交",
+   "CFC"
+  ]
+ },
+ {
+  "id": "1987-09-22-full-house-premiere",
+  "date": "1987-09-22",
+  "title": "《欢乐满屋》1987年在ABC开播：一家三女娃的美式温情喜剧",
+  "summary_30s": "1987年9月22日，情景喜剧《欢乐满屋》在ABC首播，丧偶的父亲与好友、姐夫同住抚育三个女儿，温情家庭喜剧连播八季，1990年代通过配音引进多国成为无数孩子的荧屏记忆。",
+  "detail": "剧集由杰夫·富兰克林创作，鲍勃·萨吉特饰父亲丹尼，剧中旧金山维多利亚式联排住宅成为地标。剧集在全球超过百个国家和地区播出，Mary-Kate与Ashley Olsen姐妹轮流饰演小女儿米歇尔由此成名。2016年Netflix推出续篇《欢乐再满屋》。",
+  "impact": "它定义了1990年代全球电视上的美式家庭想象，配乐与口头禅跨语言流传。",
+  "aftermath": "主演萨吉特2022年去世；续篇与衍生纪录片维持着跨代粉丝社群。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Full House - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Full_House"
+   }
+  ],
+  "tags": [
+   "欢乐满屋",
+   "情景喜剧",
+   "ABC",
+   "美式家庭"
+  ]
+ },
+ {
+  "id": "1987-09-25-princess-bride",
+  "date": "1987-09-25",
+  "title": "罗伯·莱纳《公主新娘》1987年上映：童话恶搞的百年梗片宝库",
+  "summary_30s": "1987年9月25日，罗伯·莱纳执导的《公主新娘》上映，剑客、巨人、阴谋与真爱之吻以伪正经的童话腔调讲出，首映票房平平，录像带时代却封神，Hello. My name is Inigo Montoya成为流行文化铭文。",
+  "detail": "威廉·戈德曼改编自己1973年的小说，以祖父给病孙讲书的框架包裹冒险。安德烈巨人的You seem a decent guy与 战术性投降 等台词进入英语日常。影片对后世奇幻喜剧与美式梗文化影响深远，被AFI列为百大喜剧。",
+  "impact": "它开创了自我意识童话的类型，一切公主叙事此后都绕不开它的调侃。",
+  "aftermath": "2022年35周年全美重映；剧本朗读版在疫情期间募款再成话题。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Princess Bride - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Princess_Bride"
+   }
+  ],
+  "tags": [
+   "公主新娘",
+   "童话电影",
+   "罗伯·莱纳",
+   "邪典"
+  ]
+ },
+ {
+  "id": "1987-09-28-star-trek-tng",
+  "date": "1987-09-28",
+  "title": "科幻剧《星际迷航：下一代》1987年开播：曲速引擎再度启航征程",
+  "summary_30s": "1987年9月28日，《星际迷航：下一代》以联合首播形式登陆北美荧屏，帕特里克·斯图尔特饰演的皮卡德舰长率进取号D执行五年任务，剧集七季176集让星际迷航从cult跃升为跨代科幻宇宙。",
+  "detail": "吉恩·罗登贝瑞时隔二十年重启系列，新进取号为银河级星舰，全息甲板与企业号家庭化设定拓展了叙事空间。首播集遭遇记号遭遇法拉戈斩获收视佳绩，剧集其后两度获艾美最佳剧集提名。斯图尔特原本被认为秃头不适合主角，结果皮卡德成为科幻史最著名的舰长之一。",
+  "impact": "它证明老IP可以再造，剧集模式为1990年代科幻黄金期树立商业与叙事标杆。",
+  "aftermath": "衍生剧深空九号、航海家号接连开播；皮卡德个人剧2020至2023年完结。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Star Trek: The Next Generation - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation"
+   }
+  ],
+  "tags": [
+   "星际迷航",
+   "下一代",
+   "皮卡德",
+   "科幻剧"
+  ]
+ },
+ {
+  "id": "1987-10-26-china-football-seoul",
+  "date": "1987-10-26",
+  "title": "中国男足1987年东京客场2比0胜日本：首次跻身奥运会决赛圈",
+  "summary_30s": "1987年10月26日，奥运预选赛东亚区决赛在东京国立竞技场进行，柳海光与唐尧东各入一球，中国队2比0击败日本，两回合总比分2比1反超晋级汉城奥运会，这是中国足球首次通过预选赛闯进奥运正赛。",
+  "detail": "此前的广州主场中国队意外0比1落败，背水一战的东京之战在雨中进行，柳海光头球首开纪录，唐尧东锁定胜局。主教练高丰文与队员在终场哨响后被抛向空中。1988年汉城奥运会中国队小组未出线，但出线之夜成为几代球迷的共同记忆。",
+  "impact": "冲出亚洲从口号变为事实，职业化之前的这批国脚成为1980年代体育偶像的绝响。",
+  "aftermath": "2001年国足再进世界杯决赛圈；东京之夜至今在纪录片中反复重播。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1988年夏季奥林匹克运动会足球比赛 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/1988年夏季奥林匹克运动会足球比赛"
+   }
+  ],
+  "tags": [
+   "国足",
+   "奥运会预选赛",
+   "柳海光",
+   "中国足球"
+  ]
+ },
+ {
+  "id": "1987-10-30-george-michael-faith",
+  "date": "1987-10-30",
+  "title": "乔治·迈克尔《Faith》1987年发行：单飞后的白人灵魂乐征服",
+  "summary_30s": "1987年10月30日，乔治·迈克尔首张个人专辑《Faith》发行，离开Wham!后的他包办词曲制作，专辑在Billboard 200冠军位置停留12周，产生四支冠军单曲，全球销量逾2500万张。",
+  "detail": "标题曲Faith的吉他前奏与墨镜皮夹克造型重新定义了其舞台人格，Father Figure与One More Try展示灵魂唱腔的深度。专辑1989年获格莱美年度专辑。他拒绝为Faith拍摄常规巡演宣传片，坚持以音乐面对听众，此后与索尼的音乐史著名合约战争开打。",
+  "impact": "Faith证明偶像出身者可以完成艺术家转身，1980年代流行乐的商业与口碑在此合流。",
+  "aftermath": "乔治·迈克尔2016年圣诞节去世；Faith三十周年纪念版2017年发行。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Faith (George Michael album) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Faith_(George_Michael_album)"
+   }
+  ],
+  "tags": [
+   "乔治·迈克尔",
+   "Faith",
+   "流行乐",
+   "格莱美"
+  ]
+ },
+ {
+  "id": "1987-11-01-sony-buys-cbs-records",
+  "date": "1987-11-01",
+  "title": "索尼公司1987年并购CBS唱片集团：日本资本叩响内容产业大门",
+  "summary_30s": "1987年11月，索尼以约20亿美元收购CBS唱片集团，将迈克尔·杰克逊、布鲁斯·斯普林斯汀等巨星的音乐版权收入囊中，这是日本企业当时最大的海外并购之一，也开启硬件巨头买内容的路线。",
+  "detail": "盛田昭夫判断软件将主导电子产业未来，顶着美国舆论对日资收购的警惕完成交易。CBS唱片年营业额数十亿美元，索尼获得全球发行网络与艺人资源。1991年公司更名索尼音乐娱乐。1989年索尼再以34亿美元买下哥伦比亚影业，震惊好莱坞。",
+  "impact": "收购确立了硬件+内容垂直整合的娱乐产业范式，音乐工业的全球化与版权化从此加速。",
+  "aftermath": "索尼音乐与贝塔斯曼2004年曾合并又分拆；流媒体时代仍居三大唱片之列。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Sony Music - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sony_Music"
+   }
+  ],
+  "tags": [
+   "索尼",
+   "CBS唱片",
+   "并购",
+   "音乐产业"
+  ]
+ },
+ {
+  "id": "1987-11-18-kings-cross-fire",
+  "date": "1987-11-18",
+  "title": "伦敦国王十字地铁车站1987年大火：木扶梯烟头酿31人罹难悲剧",
+  "summary_30s": "1987年11月18日晚，伦敦国王十字地铁站木质自动扶梯下积垢被引燃，火焰在扶梯沟槽效应中爆发，售票大厅瞬成火海，31人遇难，调查推翻了地沟火常识，推动全球地铁全面禁烟与消防改革。",
+  "detail": "起因最可能是乘客丢弃的火柴落入扶梯运行轨，多年积攒的油脂棉絮阴燃后轰燃。伤亡多为车站员工与消防员吸入浓烟所致。调查法官芬纳的聆讯确立了沟槽效应的燃烧机理，伦敦地铁随即拆除木质扶梯、全面禁烟并重估老旧车站的消防设计。",
+  "impact": "此案改写了公共交通消防工程学，人员疏散的烟雾行为研究自此成为显学。",
+  "aftermath": "国王十字站2010年代重建时保留纪念铭牌；英国地铁禁烟延续至今。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "King's Cross fire - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/King%27s_Cross_fire"
+   }
+  ],
+  "tags": [
+   "国王十字",
+   "地铁火灾",
+   "伦敦",
+   "消防安全"
+  ]
+ },
+ {
+  "id": "1987-12-01-os2-1-0",
+  "date": "1987-12-01",
+  "title": "OS/2 1.0于1987年发布：IBM与微软的操作系统联姻产物",
+  "summary_30s": "1987年12月，IBM与微软联合开发的OS/2 1.0上市，286保护模式下的多任务系统最初被视作DOS的继任者，微软却把重心转向Windows，这桩技术联姻在1990年代初破裂。",
+  "detail": "OS/2源于1985年两家对抗Mac图形界面的联姻协议，1.0无图形界面，1988年的1.1才加入演示管理器。1988年微软雇用戴维·卡特勒主持NT内核，1990年Windows 3.0大卖后两家分道，IBM独力支撑OS/2至1990年代中期。OS/2的 Workplace Shell 被公认超前。",
+  "impact": "OS/2之争决定了此后三十年桌面操作系统的单一格局，也留下企业级与消费级路线分野的教训。",
+  "aftermath": "IBM 2005年彻底停止OS/2支持；它至今仍运行于部分银行ATM系统。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "OS/2 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/OS/2"
+   }
+  ],
+  "tags": [
+   "OS/2",
+   "IBM",
+   "微软",
+   "操作系统"
+  ]
+ },
+ {
+  "id": "1987-12-01-zhongguancun-survey-report",
+  "date": "1987-12-01",
+  "title": "中关村电子一条街调查报告1987年成形：新技术试验区呼之欲出",
+  "summary_30s": "1987年12月，中央联合调查组完成关于中关村电子一条街的调查报告，肯定了一批科技企业以市场机制转化成果的方向，建议建立新技术产业开发试验区，次年5月北京试验区正式挂牌。",
+  "detail": "1984至1987年间中关村聚集起数十家科技企业，四通、联想、京海等成为样本，两通两海之说流传。调查组历时数月走访企业，报告认为知识分子下海办企业是改革的重要突破。1988年5月国务院批准建立北京市新技术产业开发试验区，中关村的合法性身份由此确立。",
+  "impact": "报告为科技人员市场化创业正名，试验区模式此后复制到全国数十个高新区。",
+  "aftermath": "中关村2010年代成为中国独角兽密度最高的区域；调查报告被视为科技体制改革的关键节点。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中关村 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中关村"
+   }
+  ],
+  "tags": [
+   "中关村",
+   "电子一条街",
+   "科技体制改革",
+   "高新区"
+  ]
+ },
+ {
+  "id": "1987-12-09-windows-2-0",
+  "date": "1987-12-09",
+  "title": "Windows 2.0于1987年12月上市：重叠窗口与办公套件登陆",
+  "summary_30s": "1987年12月9日，微软发布Windows 2.0，窗口终于可以重叠，图标化与快捷键更加完善，Excel与Word for Windows随之而来，苹果认为其抄袭Mac界面再度起诉，诉讼反成Windows的广告。",
+  "detail": "2.0支持扩展内存并优化图形性能，动态数据交换让应用间可交换数据。1988年苹果诉微软案聚焦视觉版权边界，1992年法院判决苹果败诉，图形界面元素被认定为概念而非表达。Windows 2.0销量仍有限，但为1988年的2.1与1990年爆发的3.0铺平了道路。",
+  "impact": "2.0确立了Windows的界面范式与办公应用矩阵，微软的双轨策略开始向Windows倾斜。",
+  "aftermath": "苹果诉微软案的败诉客观上为图形界面普及扫清法律障碍；Windows 3.0两年半后卖出千万份。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Windows 2.0 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Windows_2.0"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Windows 2.0",
+   "图形界面",
+   "苹果诉讼"
+  ]
+ },
+ {
+  "id": "1987-12-11-wall-street-film",
+  "date": "1987-12-11",
+  "title": "奥利弗·斯通《华尔街》1987年上映：贪婪之问的世纪银幕之作",
+  "summary_30s": "1987年12月11日，奥利弗·斯通的《华尔街》上映，迈克尔·道格拉斯饰演的企业狙击手戈登·盖柯以贪婪是美物的演讲为堕落时代画像，道格拉斯凭此获奥斯卡影帝，盖柯成为金融文化的两面图腾。",
+  "detail": "斯通的父亲是证券经纪人，他在黑色星期一后数月推出此片，邮购内幕交易的巴德由查理·西恩饰演。红吊带西装与大背头成为1980年代金融泡沫的视觉符号，讽刺的是不少青年后来因仰慕盖柯而入行金融。内幕交易执法在片后数年显著加强。",
+  "impact": "它是关于资本伦理最广为引用的大众文本，贪婪演讲至今出现在每一轮牛市讨论中。",
+  "aftermath": "2010年续集《金钱永不眠》随金融危机推出；盖柯形象在2020年代的迷因文化中翻红。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Wall Street (1987 film) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wall_Street_(1987_film)"
+   }
+  ],
+  "tags": [
+   "华尔街",
+   "戈登·盖柯",
+   "奥利弗·斯通",
+   "金融电影"
+  ]
+ },
+ {
+  "id": "1987-12-17-mega-man",
+  "date": "1987-12-17",
+  "title": "《洛克人》初代1987年发售：击败BOSS夺取能力的动作基因",
+  "summary_30s": "1987年12月17日，卡普空在FC推出《洛克人》，玩家打败机器人头目后可夺取其武器，关卡自选顺序与属性相克的设计成为此后三十年动作游戏的通用语法，蓝色 bomber 由此启程。",
+  "detail": "北村玲与稻船敬二参与的团队以摇滚为名设计音乐，能量弹与滑铲的手感精雕细琢。初代销量平平，1988年的《洛克人2》全球热卖数百万套确立系列地位。夺取能力的循环影响了恶魔城与无数独立游戏，Boss Rush概念亦源于此脉。",
+  "impact": "它确立了以能力收集为驱动的动作游戏设计范式，关卡选择自由度被奉为圭臬。",
+  "aftermath": "系列累计销量逾四千万；洛克人11于2018年回归传统玩法。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Mega Man (1987 video game) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)"
+   }
+  ],
+  "tags": [
+   "洛克人",
+   "卡普空",
+   "FC",
+   "动作游戏"
+  ]
+ },
+ {
+  "id": "1987-12-18-final-fantasy-i",
+  "date": "1987-12-18",
+  "title": "史克威尔《最终幻想》1987年发售：坂口博信背水一战的传世传奇",
+  "summary_30s": "1987年12月18日，史克威尔在FC上发售《最终幻想》，社内困局的坂口博信把这次开发当作告别之作，水晶与飞空艇的奇幻世界却一鸣惊人，系列延续三十余年成为日式RPG的世界名片。",
+  "detail": "游戏由坂口博信构思、植松伸夫配乐、天野喜孝负责美术，四勇士寻找四块水晶拯救世界的框架简洁有力。初代售出数十万份救活公司，1990年的三代与1992年的五代相继奠定转职叙事，1997年七代以光盘时代CG震惊全球。Final之名源于这是最后机会的自嘲。",
+  "impact": "最终幻想与勇者斗恶龙构成日式RPG双璧，把叙事驱动的游戏推向主流审美。",
+  "aftermath": "系列总销量以亿计；史克威尔与艾尼克斯2003年合并后仍为业界旗舰。",
+  "category": "product",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Final Fantasy (video game) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)"
+   }
+  ],
+  "tags": [
+   "最终幻想",
+   "史克威尔",
+   "日式RPG",
+   "坂口博信"
+  ]
+ },
+ {
+  "id": "1987-12-18-perl-1-0",
+  "date": "1987-12-18",
+  "title": "Perl 1.0于1987年发布：互联网时代的胶水脚本语言诞生",
+  "summary_30s": "1987年12月18日，拉里·沃尔发布Perl 1.0，这门揉合C、sed与awk的脚本语言擅长文本处理，1990年代成为CGI网站与系统管理的胶水语言，早期动态网站大半用Perl写成。",
+  "detail": "沃尔是语言学家出身的程序员，把自然语言的宽容哲学带入设计，正则表达式与哈希一等公民的地位让复杂文本处理数行搞定。1991年的Perl 4与1994年的Perl 5引入模块库CPAN，社区协作模式成为开源样板。2000年后Python与PHP分流了其用户，但生物信息与金融领域仍大量使用。",
+  "impact": "Perl把脚本语言推向生产环境，CPAN的模块生态是现代包管理器的先驱。",
+  "aftermath": "Perl 7计划2020年代重启；拉里·沃尔2021年获IEEE计算机先驱奖。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Perl - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Perl"
+   }
+  ],
+  "tags": [
+   "Perl",
+   "脚本语言",
+   "CPAN",
+   "拉里·沃尔"
+  ]
+ }
+]

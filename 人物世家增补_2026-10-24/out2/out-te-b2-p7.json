@@ -1,0 +1,678 @@
+[
+ {
+  "id": "1987-01-01-minix-release",
+  "date": "1987-01-01",
+  "title": "塔能鲍姆1987年发布MINIX：教学用Unix孕育出Linux摇篮",
+  "summary_30s": "1987年，阿姆斯特丹自由大学教授安德鲁·塔能鲍姆发布与Unix兼容的教学操作系统MINIX，源码随教科书公开发行，全球学生得以通读一个完整内核，赫尔辛基大学生托瓦兹正是在它上面写出Linux。",
+  "detail": "塔能鲍姆为操作系统课程写出约一万两千行代码的微内核式Unix克隆，配合教材《操作系统：设计与实现》发行，软盘售价不到印书零头。1991年托瓦兹在MINIX用户组发帖宣布写了个免费内核，塔能鲍姆回信批评宏内核设计过时，这场著名论战成为操作系统史的经典公案。",
+  "impact": "MINIX让内核学习从黑箱变白箱，没有它，Linux的诞生环境无从谈起。",
+  "aftermath": "MINIX至今仍以BSD许可维护；2000年代它被发现内嵌于英特尔芯片的管理引擎中再度出名。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "MINIX - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/MINIX"
+   }
+  ],
+  "tags": [
+   "MINIX",
+   "Unix",
+   "塔能鲍姆",
+   "操作系统"
+  ]
+ },
+ {
+  "id": "1987-01-01-hong-gaoliang-film",
+  "date": "1987-01-01",
+  "title": "张艺谋处女作电影《红高粱》1987年公映：翌年摘得柏林金熊奖",
+  "summary_30s": "1987年，张艺谋导演处女作《红高粱》完成摄制并公映，莫言原著中高粱地里的野性与生命力被泼洒成浓烈影像，次年2月获柏林电影节金熊奖，中国电影第一次站上欧洲三大电影节最高领奖台。",
+  "detail": "影片由姜文与巩俐主演，陕北高密的红高粱、颠轿与酿酒仪式构成视觉狂欢，作曲赵季平的唢呐声响彻柏林。1988年获奖当晚中国代表团被记者围堵，媒体称这是中国电影走向世界的信号。影片国内票房同样火爆，巩俐由此走向国际。",
+  "impact": "金熊奖终结了中国电影在欧洲最高奖上的空白，第五代导演由此获得世界坐标，张艺谋开启三十年国际获奖生涯。",
+  "aftermath": "2018年影片4K修复重映；红高粱从此成为中国电影美学的代名词之一。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "红高粱 (电影) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/红高粱_(电影)"
+   }
+  ],
+  "tags": [
+   "红高粱",
+   "张艺谋",
+   "柏林金熊",
+   "第五代导演"
+  ]
+ },
+ {
+  "id": "1987-01-01-furong-zhen-film",
+  "date": "1987-01-01",
+  "title": "谢晋执导《芙蓉镇》1987年公映：刘晓庆姜文演绎小镇历史沉浮",
+  "summary_30s": "1987年，谢晋执导的《芙蓉镇》公映，古华同名小说里湘西小镇米豆腐摊主胡玉音在历次运动中的命运沉浮被搬上银幕，影片获百花奖最佳故事片，成为反思电影的集大成之作。",
+  "detail": "刘晓庆饰演的胡玉音与姜文饰演的右派秦书田在扫街岁月中相濡以沫，像牲口一样活下去的台词流传极广。影片审视历史创伤而不失人物温度，被公认为谢晋后期最成熟的作品。姜文凭此片确立电影演员地位，两人此后各成一派。影片在内地公映时场场爆满。",
+  "impact": "《芙蓉镇》把当代史的复杂经验转化为大众能共情的故事，为中国电影的现实主义传统立下标高。",
+  "aftermath": "影片常年位居华语电影史榜单前列；2020年代4K修复版在电影节重映。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "芙蓉镇 (电影) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/芙蓉镇_(电影)"
+   }
+  ],
+  "tags": [
+   "芙蓉镇",
+   "谢晋",
+   "刘晓庆",
+   "姜文"
+  ]
+ },
+ {
+  "id": "1987-01-01-qi-qin-dong-yu",
+  "date": "1987-01-01",
+  "title": "齐秦金曲《大约在冬季》1987年发行：狼性歌手柔情传唱两岸三地",
+  "summary_30s": "1987年，齐秦的专辑《冬雨》发行，写给王祖贤的《大约在冬季》以简单吉他与深情歌词一夜传遍大街小巷，与《外面的世界》一道让齐秦成为1980年代末两岸三地最有影响力的创作歌手之一。",
+  "detail": "齐秦1985年凭《狼》系列确立孤傲曲风，《大约在冬季》展现其柔情一面。1987年台湾解严前后流行音乐快速进入内地，齐秦与王杰、童安格通过磁带走私与电台打榜成为内地青年的偶像。《大约在冬季》后来被无数歌手翻唱，成为KTV长青曲。",
+  "impact": "它标志着台湾流行音乐工业对内地市场的全面渗透，情歌表达成为一代青年的情感启蒙。",
+  "aftermath": "2019年同名电影以这首歌为题上映；齐秦此后活跃于两岸演出市场。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "齊秦 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/齊秦"
+   }
+  ],
+  "tags": [
+   "齐秦",
+   "大约在冬季",
+   "台湾流行",
+   "华语音乐"
+  ]
+ },
+ {
+  "id": "1987-01-01-bianyi-jingcha-tv",
+  "date": "1987-01-01",
+  "title": "海岩原著电视剧《便衣警察》1987年播出：刘欢献唱主题曲成经典",
+  "summary_30s": "1987年，根据海岩小说改编的电视剧《便衣警察》播出，讲述青年警察周志明蒙冤与坚守的故事，刘欢演唱的主题歌《少年壮志不言愁》传唱至今，是1980年代公安题材剧的高峰。",
+  "detail": "剧集由林汝为执导，胡亚捷主演，9集篇幅紧凑，情感与案件并重。刘欢当时刚出道，深情的少年壮志不言愁随剧风靡，磁带销量惊人，刘欢由此跻身一线歌者。海岩此后以《便衣警察》为起点成为公安言情剧的代表性作家。",
+  "impact": "它确立了主旋律与人性叙事兼容的剧集范式，主题曲经济成为电视剧产业的重要一环。",
+  "aftermath": "刘欢此后为无数影视献唱并走向奥运舞台；海岩剧在2000年后再度热播。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "便衣警察 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/便衣警察_(电视剧)"
+   }
+  ],
+  "tags": [
+   "便衣警察",
+   "海岩",
+   "刘欢",
+   "电视剧"
+  ]
+ },
+ {
+  "id": "1987-01-01-amiga-500",
+  "date": "1987-01-01",
+  "title": "Amiga 500于1987年上市：欧洲创意人群的国民多媒体电脑",
+  "summary_30s": "1987年，康懋达推出键盘一体化的Amiga 500，以低于700美元的价位把4096色图形与四声道立体声带给大众，成为欧洲家庭与游戏开发者的国民电脑，Amiga系列销量主力。",
+  "detail": "A500整合了Amiga 1000的芯片组并砍掉扩展槽以压价，即插即用的游戏生态使其在欧洲大陆长期压制同样便宜的Atari ST。Deluxe Paint与音序器让平面设计师与音乐人把它当作生产工具，欧洲电视节目与Demo场景的视觉革命在其上展开。系列累计销量数百万台。",
+  "impact": "A500让多媒体能力平民化，其芯片组设计思想被后来的游戏机与显卡产业吸收。",
+  "aftermath": "康懋达1994年破产后A500成为复古计算社群的核心藏品，模拟器至今活跃。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Amiga 500 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amiga_500"
+   }
+  ],
+  "tags": [
+   "Amiga",
+   "康懋达",
+   "多媒体电脑",
+   "欧洲"
+  ]
+ },
+ {
+  "id": "1987-01-14-zelda-ii-adventure",
+  "date": "1987-01-14",
+  "title": "《林克的冒险》1987年发售：塞尔达系列史上最激进的一次转身",
+  "summary_30s": "1987年1月14日，《塞尔达传说》续作《林克的冒险》在FC磁碟机发售，横版动作加经验值的RPG化改造引发巨大争议，为系列带来最与众不同的一作，六大宫殿的探索至今令老玩家津津乐道。",
+  "detail": "游戏放弃前作俯视视角，改为横版跳跃与横向战斗，经验条与生命数并存，难度陡增。DOWN THRUST的下刺剑法与 Error 角色成为系列梗史的一部分。市场口碑两极，任天堂在1991年的众神三角力量中回归经典俯视结构。本作剧情补充的海拉鲁王族设定被后续作品反复引用。",
+  "impact": "它证明了王牌系列可以试错，任天堂此后的每一代塞尔达都保持一作一变的勇气。",
+  "aftermath": "林克的冒险长期被视为黑羊作，但近年复古评价持续升温。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Zelda II: The Adventure of Link - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zelda_II:_The_Adventure_of_Link"
+   }
+  ],
+  "tags": [
+   "塞尔达",
+   "任天堂",
+   "FC磁碟机",
+   "动作RPG"
+  ]
+ },
+ {
+  "id": "1987-02-01-ntt-tse-listing",
+  "date": "1987-02-01",
+  "title": "NTT公司股票1987年东京上市：日本泡沫顶点的世纪巨型IPO",
+  "summary_30s": "1987年2月，日本电信电话株式会社在东京证券交易所上市，政府分批出售股份单次募资规模创当时世界纪录，散户蜂拥申购，NTT成为泡沫时代日经行情的旗手，也埋下后市暴跌的隐忧。",
+  "detail": "上市前电话委托与连夜排队盛况空前，NTT股价数月内从119万日元面值疯涨，成为股民口中稳赚不赔的国民股。1987年10月的全球股灾中NTT一度成为护盘工具，1988年起持续下挫，1990年泡沫破裂时高价买入的散户损失惨重，此后被称为日本全民炒股热的社会标本。",
+  "impact": "NTT上市把日本资本市场推向全球市值之巅，也为其后二十年的股市低迷写下伏笔。",
+  "aftermath": "日经指数1989年底见顶后长期低迷；NTT股价至今未回到1987年高点。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Nippon Telegraph and Telephone - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone"
+   }
+  ],
+  "tags": [
+   "NTT",
+   "上市",
+   "日本泡沫",
+   "东京证交所"
+  ]
+ },
+ {
+  "id": "1987-02-22-louvre-accord",
+  "date": "1987-02-22",
+  "title": "卢浮宫协议1987年在巴黎签署：七国集团联手为美元汇率踩刹车",
+  "summary_30s": "1987年2月22日，五国集团财长在巴黎卢浮宫达成协议，认为美元已充分贬值，各国将合作稳定汇率，日本西德承诺刺激内需，广场协议时代的自由落体式升值就此画上句号。",
+  "detail": "日元对美元已从240升至150一线，出口企业哀鸿遍野，卢浮宫会议试图以口头协调加联合干预守住区间。协议未能阻止日元当年再升至120，日本央行低利率维持过久，股市地产泡沫加速膨胀。协议文本从未完全公开，其幽灵汇率区间成为国际金融史悬案。",
+  "impact": "卢浮宫协议是汇率协调由放转收的转折，也是透视广场协议副作用的补丁。",
+  "aftermath": "同年10月全球股灾检验了协调机制；此后大国汇率默契再难复制。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Louvre Accord - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Louvre_Accord"
+   }
+  ],
+  "tags": [
+   "卢浮宫协议",
+   "汇率协调",
+   "广场协议",
+   "国际金融"
+  ]
+ },
+ {
+  "id": "1987-03-01-adobe-illustrator",
+  "date": "1987-03-01",
+  "title": "Adobe Illustrator于1987年发布：矢量图形设计职业化起步",
+  "summary_30s": "1987年3月，Adobe发布Illustrator 1.0 for Macintosh，贝塞尔曲线绘图工具让设计师第一次用数学精度勾画图形，与Photoshop后来搭档，奠定创意软件双璧格局。",
+  "detail": "Illustrator由约翰·沃诺克夫妇主导开发，页面描述语言PostScript的曲线模型被搬上设计师桌面，钢笔工具自此成为行业基本功。苹果的Illustrator 88版本演示让插画师惊叹。Adobe由字体与打印起家，凭借Illustrator完成从印刷业向设计业的扩张，1994年再添PageMaker。",
+  "impact": "矢量图形工具把商业插画从手工转移到屏幕，设计行业的数字化生产关系就此定型。",
+  "aftermath": "Illustrator至今仍是矢量设计标准，2027年将迎来四十年迭代。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Adobe Illustrator - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Adobe_Illustrator"
+   }
+  ],
+  "tags": [
+   "Adobe",
+   "Illustrator",
+   "矢量图形",
+   "设计软件"
+  ]
+ },
+ {
+  "id": "1987-03-02-macintosh-se-ii",
+  "date": "1987-03-02",
+  "title": "Macintosh SE与Mac II于1987年发布：苹果补齐扩展与彩色",
+  "summary_30s": "1987年3月2日，苹果同时发布Macintosh SE与Macintosh II，前者加入内置扩展槽与ADB接口，后者是首台彩色模块化Mac，开放扩展的转向让Mac真正进入企业与专业市场。",
+  "detail": "乔布斯离开后由让-路易·加西主导产品线，Mac II采用68020处理器、NuBus插槽与可彩显输出，扫描仪、影棚级显示卡随槽而生，Photoshop前身扫描线软件正是在Mac II上诞生。SE则把一体机做成可扩展的办公主力。两机型与激光打印、排版软件一起把桌面出版推向全盛。",
+  "impact": "彩色与扩展补齐后，Mac从创意玩具升级为生产力平台，出版、广告与科研全面转向。",
+  "aftermath": "Mac II产品线延续至1990年代Power Mac；ADB接口沿用至1998年iMac。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Macintosh II - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Macintosh_II"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Mac II",
+   "彩色桌面出版",
+   "计算机"
+  ]
+ },
+ {
+  "id": "1987-03-06-lethal-weapon",
+  "date": "1987-03-06",
+  "title": "梅尔·吉布森《致命武器》1987年上映：警察搭档片新经典配方",
+  "summary_30s": "1987年3月6日，《致命武器》北美上映，梅尔·吉布森饰演的神经质警探马丁·里格斯与丹尼·格洛佛饰演的即将退休老搭档联手破案，编剧沙恩·布莱克刷新了动作警匪片的人物公式。",
+  "detail": "布莱克年仅二十多岁写出这个圣诞节背景的剧本，把自杀倾向与越战创伤写进商业大片主角，唐纳执导的动作场面干净利落。影片全球票房约1.2亿美元，催生四部续集，搭档片的新老配模式被好莱坞批量复制，埃里克·克拉普顿与萨克斯手配乐同样出名。",
+  "impact": "它定义了之后二十年的警察搭档片模板，里格斯成为动作片心理深度的标尺。",
+  "aftermath": "2016年剧集版重启收视不俗；沙恩·布莱克后来成为导演。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Lethal Weapon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lethal_Weapon"
+   }
+  ],
+  "tags": [
+   "致命武器",
+   "动作片",
+   "警匪片",
+   "好莱坞"
+  ]
+ },
+ {
+  "id": "1987-03-06-herald-free-enterprise",
+  "date": "1987-03-06",
+  "title": "英国渡轮自由企业先驱号1987年倾覆：船艏门未关193人遇难",
+  "summary_30s": "1987年3月6日，英国渡轮自由企业先驱号离开泽布吕赫港后船艏门未关，海水涌入汽车甲板，渡轮在90秒内翻覆，193人遇难，是英国和平时期最惨重的海难，直接催生国际滚装船安全新规。",
+  "detail": "助理水手在铺位睡着未落实关门指令，船长开船前亦未确认，压载水不足放大了吃水风险。调查显示船公司存在系统性管理松懈，涉事船长与高级船员被控过失杀人后获赦免。调查法官的报告以疏忽之名鞭挞了从管理层到个人的整个链条。",
+  "impact": "海难推动国际海事组织对滚装船水密门指示、自由液面与配载的强制性改革， roster 与疲劳管理进入航海安全议程。",
+  "aftermath": "1990年代渡轮安全记录显著改善；船艏门确认流程成为全球港口的强制检查项。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "MS Herald of Free Enterprise - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/MS_Herald_of_Free_Enterprise"
+   }
+  ],
+  "tags": [
+   "泽布吕赫海难",
+   "渡轮安全",
+   "滚装船",
+   "英国"
+  ]
+ },
+ {
+  "id": "1987-03-22-gcc-1-0",
+  "date": "1987-03-22",
+  "title": "GNU编译器套装GCC于1987年首发：自由软件的通用引擎点火",
+  "summary_30s": "1987年3月22日，理查德·斯托尔曼发布GNU编译器集合首个版本，可移植、多语言且以GPL发布，自由的编译器从此人人可得，Linux内核与无数开源项目此后都由它构建。",
+  "detail": "斯托尔曼以已有的编译技术为基础加速完成C编译器，使GNU工具链具备自举能力，任何机器都可以用它编译出自由软件。GCC其后支持C++、Fortran、Go等数十种语言，由基金会组织维护，成为事实上最广泛使用的编译器。1999年EGCS分支回归后开发模式更为开放。",
+  "impact": "GCC把编译器从商业授权中解放出来，开源生态的可复制性从此有了技术底座。",
+  "aftermath": "GCC至今由GCC指导委员会维护，LLVM的竞争使其继续快速演进。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "GNU Compiler Collection - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/GNU_Compiler_Collection"
+   }
+  ],
+  "tags": [
+   "GCC",
+   "GNU",
+   "编译器",
+   "开源"
+  ]
+ },
+ {
+  "id": "1987-03-26-nike-air-max-1",
+  "date": "1987-03-26",
+  "title": "耐克Air Max 1于1987年上市：可见气垫改写运动鞋设计",
+  "summary_30s": "1987年3月26日，耐克发售Air Max 1，设计师廷克·哈特菲尔德受巴黎蓬皮杜中心外露结构启发，把气垫开窗显露于鞋跟，缓震科技第一次成为可见的时尚宣言，Air Max Day自此定档。",
+  "detail": "哈特菲尔德从建筑获得灵感，突破营销部门反对推出开窗气垫，初代配色以红色为骨。可见气垫把专业跑鞋带入街头潮流，1990年代Air Max 95、97把鞋文化推向巅峰。Air Max此后每年3月26日都有纪念发售，球鞋二级市场随之繁荣。",
+  "impact": "Air Max确立科技可见化的产品叙事，运动鞋从装备转型为潮流文化载体。",
+  "aftermath": "Air Max系列累计发售数百款；球鞋收藏与转售成为全球数十亿美元产业。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nike Air Max - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nike_Air_Max"
+   }
+  ],
+  "tags": [
+   "耐克",
+   "Air Max",
+   "运动鞋",
+   "潮流文化"
+  ]
+ },
+ {
+  "id": "1987-04-02-ibm-ps2",
+  "date": "1987-04-02",
+  "title": "IBM于1987年发布PS/2系列：微通道总线与VGA的历史转身",
+  "summary_30s": "1987年4月2日，IBM推出Personal System/2全线产品，首次引入VGA显示标准与3.5英寸软驱普及化，但专利封闭的微通道总线遭兼容机阵营集体抵制，IBM试图重夺PC标准的努力反被边缘化。",
+  "detail": "PS/2外观由理查德·萨珀设计，Model 30到80覆盖8位到386全价位。VGA的256色640x480模式成为此后十余年的显示事实标准，PS/2键盘圆形接口沿用至2010年代。康柏牵头九厂商成立Gang of Nine发布EISA总线对抗微通道，开放阵营继续沿用AT架构。",
+  "impact": "PS/2是IBM在PC标准战争中最后一次豪赌，它的失败宣告兼容机生态彻底自治，Wintel时代全面到来。",
+  "aftermath": "IBM PC业务2005年售予联想；VGA接口直至2010年代才逐步被HDMI取代。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "IBM Personal System/2 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IBM_Personal_System/2"
+   }
+  ],
+  "tags": [
+   "IBM",
+   "PS/2",
+   "微通道",
+   "VGA"
+  ]
+ },
+ {
+  "id": "1987-04-19-simpsons-shorts-debut",
+  "date": "1987-04-19",
+  "title": "《辛普森一家》1987年首次亮相荧屏：特蕾西·尤尔曼秀动画短片",
+  "summary_30s": "1987年4月19日，福克斯《特蕾西·尤尔曼秀》播出马特·格勒宁创作的《辛普森一家》动画短片，黄皮肤一家人的雏形首登荧屏，两年后他们获得独立剧集，成为美国流行文化的国徽级符号。",
+  "detail": "格勒宁在制片人詹姆斯·布鲁克斯门廊等待开会时临时构思出这一家，以免交出自己毕生心血《地狱生活》的版权。动画由克拉斯基动画以粗粝定格感制作，霍默、玛姬等角色名取自格勒宁家人。短片播出三季口碑发酵，1989年12月独立剧集正式开播。",
+  "impact": "辛普森一家把动画喜剧带回黄金档，为南方公园、恶搞之家等开辟整条动画喜剧赛道。",
+  "aftermath": "剧集播出逾三十五季，成为美国历史上最长寿的黄金档情景喜剧与预言梗之王。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Simpsons - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Simpsons"
+   }
+  ],
+  "tags": [
+   "辛普森一家",
+   "福克斯",
+   "动画喜剧",
+   "美国电视"
+  ]
+ },
+ {
+  "id": "1987-05-01-hongloumeng-1987-tv",
+  "date": "1987-05-01",
+  "title": "央视87版电视剧《红楼梦》1987年首播：名著改编的巅峰之作",
+  "summary_30s": "1987年5月，王扶林执导的36集电视剧《红楼梦》在中央电视台播出，陈晓旭饰林黛玉、欧阳奋强饰贾宝玉，剧组以三年筹备、全国选角与红学家顾问团打造，被公认为名著改编剧的天花板。",
+  "detail": "剧组1979年启动筹备，1984年在北京搭建大观园实景，演员先入红学培训班再进组，作曲王立平耗时四年半写出十三首配乐，由陈力演唱。播出后万人空巷，重播逾千次，宝黛形象成为大众对红楼梦的默认视觉记忆。后半部结局对后四十回的改写引发红学界长期讨论。",
+  "impact": "87版确立了文化经典影视化的国家标准，也把红学推向大众传播时代。",
+  "aftermath": "陈晓旭2007年去世引发集体怀念；2020年代B站修复版再度翻红。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "红楼梦 (1987年电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/红楼梦_(1987年电视剧)"
+   }
+  ],
+  "tags": [
+   "红楼梦",
+   "87版",
+   "央视",
+   "王扶林"
+  ]
+ },
+ {
+  "id": "1987-05-28-rust-red-square",
+  "date": "1987-05-28",
+  "title": "鲁斯特1987年驾机降落莫斯科红场：苏联防空网一触即破的难堪日",
+  "summary_30s": "1987年5月28日，19岁西德青年马蒂亚斯·鲁斯特驾驶租来的塞斯纳172从赫尔辛基起飞，穿越苏联领空降落在莫斯科红场，苏联国土防空军全程未能拦截，戈尔巴乔夫借机清洗军方高层。",
+  "detail": "鲁斯特自称想以此促进东西方理解，飞行途中苏军曾起飞战机追踪又放弃，多部雷达将其判为民机。降落后他被克格勃逮捕，判劳改四年后于1988年获释。事件令苏联军方蒙羞，防空军总司令科尔杜诺夫等多名高级将领被撤职，国防部长索科洛夫去职。",
+  "impact": "红场事件成为戈尔巴乔夫推动军队改革与政治松绑的意外杠杆，冷战末期苏联体制的僵化暴露无遗。",
+  "aftermath": "鲁斯特后来成为一名银行交易员与和平活动人士；那架塞斯纳至今陈列在莫斯科。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Mathias Rust - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mathias_Rust"
+   }
+  ],
+  "tags": [
+   "鲁斯特",
+   "红场降落",
+   "苏联",
+   "冷战"
+  ]
+ },
+ {
+  "id": "1987-06-01-acorn-archimedes",
+  "date": "1987-06-01",
+  "title": "Acorn Archimedes上市：首台ARM电脑的性能先锋",
+  "summary_30s": "1987年6月，Acorn推出Archimedes家用电脑，搭载自研ARM2处理器，每秒数百万指令的性能冠绝个人电脑市场，BBC Micro的继任者以RISC路线证明了精简指令集的潜力。",
+  "detail": "Archimedes运行Acorn自研的RISC OS，图形界面流畅，Arthur系统后来演进为RISC OS。它的BASIC解释器性能惊人，英国学校批量采购，成为1990年代英伦课堂的主力机。ARM2芯片3万晶体管却性能超 Intel 386 同频表现，验证了Acorn 1985年ARM1的技术豪赌。",
+  "impact": "Archimedes让ARM架构有了量产舞台，Acorn虽倒下，其芯片部门成长为今日的ARM控股。",
+  "aftermath": "RISC OS社区延续至今；ARM架构2020年代进入Mac与服务器主流。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Acorn Archimedes - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Acorn_Archimedes"
+   }
+  ],
+  "tags": [
+   "Acorn",
+   "Archimedes",
+   "ARM",
+   "RISC OS"
+  ]
+ },
+ {
+  "id": "1987-06-01-lakers-1987-title",
+  "date": "1987-06-01",
+  "title": "洛杉矶湖人队1987年总决赛夺冠：魔术师MVP赛季的巅峰时刻",
+  "summary_30s": "1987年6月，洛杉矶湖人在总决赛4比2击败卫冕冠军凯尔特人，约翰逊当选常规赛MVP与总决赛MVP，Showtime湖人四年三冠，魔术师与伯德的对决时代至此接近尾声。",
+  "detail": "第四战约翰逊的幼天钩绝杀被称为魔术时刻，湖人1986-87赛季常规赛65胜。帕特·莱利赛前预言卫冕的视频成为动机大师素材。1988年湖人卫冕成功完成两连冠，凯尔特人此后三巨头老去，活塞与公牛的时代正在路上。",
+  "impact": "湖人凯尔特人的争霸定义了1980年代NBA的商业与美学，魔术师成为联盟门面并接过伯德的接力棒。",
+  "aftermath": "1991年魔术师因HIV阳性宣布退役；湖凯对决2008年总决赛重现。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "1987 NBA Finals - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1987_NBA_Finals"
+   }
+  ],
+  "tags": [
+   "湖人",
+   "魔术师约翰逊",
+   "NBA总决赛",
+   "Showtime"
+  ]
+ },
+ {
+  "id": "1987-06-12-predator",
+  "date": "1987-06-12",
+  "title": "施瓦辛格主演《铁血战士》1987年上映：丛林猎杀反被外星猎手猎",
+  "summary_30s": "1987年6月12日，《铁血战士》北美上映，施瓦辛格领衔的特种部队在中美洲丛林遭遇外星猎手，热成像视角与隐身光学迷彩创造全新怪物美学，全球票房近1亿美元，动作科幻双料经典诞生。",
+  "detail": "影片由约翰·麦克蒂尔南执导，前半段是标准越战风动作戏，猎手现身后类型骤变为惊悚追猎。斯坦·温斯顿工作室设计的外星战士有下颚骨与肩炮，荷兰州长与它徒手肉搏的终局成为硬汉名场面。铁血战士此后与异形组成跨界宇宙。",
+  "impact": "它开创了猎人型科幻怪物的亚类型，影响后世游戏与电影的怪物设计语言。",
+  "aftermath": "系列延续至2025年《铁血战士：杀手之王》；原版战损面具是收藏市场硬通货。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Predator (film) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Predator_(film)"
+   }
+  ],
+  "tags": [
+   "铁血战士",
+   "施瓦辛格",
+   "科幻动作",
+   "怪物设计"
+  ]
+ },
+ {
+  "id": "1987-06-26-full-metal-jacket",
+  "date": "1987-06-26",
+  "title": "库布里克执导《全金属外壳》1987年上映：冷静解剖战争这部机器",
+  "summary_30s": "1987年6月26日，库布里克的《全金属外壳》北美公映，影片前半段的帕里斯岛新兵营把人磨成杀手的训练拍成恐怖片，后半段的顺化巷战冷峻如纪录，被视为越战片乃至战争片的最深刻之作之一。",
+  "detail": "教官哈特曼由真实海军陆战队教官李·厄米饰演，其辱骂式训话多为现场即兴。傻瓜帕尔从受害者变为恶魔的弧线贯穿全片。影片在英国取景重建越南城市，用塑料植物与鼓风机制造亚热带质感。米老鼠进行曲的结尾至今被反复解读。",
+  "impact": "它把战争片的焦点从战场转向制造战争者的机制，与野战排一起完成1980年代越战反思的高峰。",
+  "aftermath": "影片入选多国影史榜单；厄米2018年去世时全球影迷以教官语录致哀。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Full Metal Jacket - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Full_Metal_Jacket"
+   }
+  ],
+  "tags": [
+   "全金属外壳",
+   "库布里克",
+   "越战片",
+   "战争电影"
+  ]
+ },
+ {
+  "id": "1987-07-11-day-of-five-billion",
+  "date": "1987-07-11",
+  "title": "联合国定1987年为世界50亿人口日：地球拥挤化进入全球议程",
+  "summary_30s": "1987年7月11日，联合国人口基金将这一天定为世界50亿人口日，南斯拉夫萨格勒布诞生的马泰·加斯帕尔被象征性地认定为第50亿个地球居民，人口激增自此成为全球治理的核心议题。",
+  "detail": "世界人口1804年达10亿，1927年20亿，1974年40亿，到1987年翻至50亿仅用13年。联合国借此推动各国计划生育与妇女教育项目，1989年联合国大会将7月11日定为世界人口日。人口增速此后因生育率下降放缓，2022年全球人口突破80亿。",
+  "impact": "50亿人口日把人口-资源-环境的三角关系推入大众视野，可持续发展议题获得全球动员力。",
+  "aftermath": "中国人口2030年代预计进入负增长；印度2023年成为第一人口大国。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Day of Five Billion - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Day_of_Five_Billion"
+   }
+  ],
+  "tags": [
+   "50亿人口日",
+   "联合国",
+   "人口问题",
+   "世界人口日"
+  ]
+ },
+ {
+  "id": "1987-07-13-metal-gear",
+  "date": "1987-07-13",
+  "title": "小岛秀夫《合金装备》1987年MSX发售：开创潜入类游戏先河",
+  "summary_30s": "1987年7月13日，科乐美在MSX2平台发售《合金装备》，小岛秀夫因硬件限制反其道设计潜行而非强攻，间谍 Solid Snake 潜入世外天国要塞，潜入类型由此开创。",
+  "detail": "小岛秀夫刚入行，硬件画不出满屏敌兵，索性让玩家躲避敌人，以警戒惊叹号与雷达构建紧张循环。卡带版以Metal Gear在北美发行，剧情经改动。系列1998年在PlayStation上的续作把电影化叙事推向新高度，小岛成为首位被称作者的日本游戏设计师。",
+  "impact": "潜入玩法为动作游戏开辟第二路径，电影化叙事由此成为3A游戏的标配语言。",
+  "aftermath": "系列累计销量数千万；小岛秀夫2015年独立成立工作室。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Metal Gear (video game) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)"
+   }
+  ],
+  "tags": [
+   "合金装备",
+   "小岛秀夫",
+   "潜入游戏",
+   "科乐美"
+  ]
+ },
+ {
+  "id": "1987-07-21-appetite-for-destruction",
+  "date": "1987-07-21",
+  "title": "枪花《Appetite for Destruction》：脏摇滚的世纪首专",
+  "summary_30s": "1987年7月21日，Guns N' Roses首张专辑《Appetite for Destruction》发行，起初销量平平，翌年凭Sweet Child O' Mine登顶单曲而爆发，最终全球销量逾3000万张，成为史上最畅销的出道专辑。",
+  "detail": "乐队把洛杉矶日落大道的堕落与狂想写进十二首歌，Slash的吉他 riff 与 Axl Rose 的高音在Welcome to the Jungle中电光四射。原封面因争议更换为十字骷髅纹身图。专辑在榜逾两年，1988年乐队随 Aerosmith 巡演完成气质接棒，硬摇滚的中心从英伦回到洛杉矶。",
+  "impact": "它终结了1980年代流行金属的脂粉气，确立了此后十年脏摇滚的审美标准。",
+  "aftermath": "乐队1991年双专辑再创销量纪录后分崩；原始阵容2016年重组巡演。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Appetite for Destruction - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Appetite_for_Destruction"
+   }
+  ],
+  "tags": [
+   "枪花",
+   "硬摇滚",
+   "首专",
+   "80年代摇滚"
+  ]
+ }
+]

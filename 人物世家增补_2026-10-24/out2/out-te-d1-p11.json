@@ -1,0 +1,756 @@
+[
+ {
+  "id": "2015-05-27-alipay-fiber-cut-outage",
+  "date": "2015-05-27",
+  "title": "支付宝光缆被挖断：一次市政施工瘫痪国民支付",
+  "summary_30s": "2015年5月27日下午，杭州市政施工挖断光缆，支付宝全国大面积故障约两小时，余额宝、转账、扫码集体失灵，网友惊觉生活已被单一应用绑架，互联网基础设施的脆弱性被全民直视。",
+  "detail": "故障源于运营商光缆受损导致部分机房通信中断，支付宝App与网页均受影响，微博故障话题迅速登上热搜。恢复后蚂蚁金服致歉并解释异地多活架构建设进度，此后支付宝完成三地多中心容灾，同类事故再未大规模重演。",
+  "impact": "把容灾架构与互联网关键基础设施概念带入公共讨论，金融级高可用成为支付行业硬标准。",
+  "aftermath": "各平台此后普遍建设异地多活；光缆被挖断仍在数年内造成腾讯、微博等多次局部故障，成为互联网时代的新型天灾。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "蚂蚁集团",
+    "url": "https://www.antgroup.com/"
+   },
+   {
+    "title": "支付宝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/支付宝"
+   }
+  ],
+  "tags": [
+   "支付宝",
+   "宕机",
+   "基础设施"
+  ]
+ },
+ {
+  "id": "2015-05-28-google-io-photos",
+  "date": "2015-05-28",
+  "title": "谷歌发布Photos：无限存储的照片中枢",
+  "summary_30s": "2015年5月28日谷歌I/O大会推出独立应用Google Photos，提供免费无限高画质照片视频云存储与强大搜索，产品体验碾压同期对手，谷歌的AI加数据服务能力第一次以大众工具形态呈现。",
+  "detail": "Photos支持人脸聚类、地点时间自动归类与智能分享，跨安卓iOS网页三端。免费无限量策略（16MP以下）迅速吸引用户过亿。发布会还公布Android M（后为6.0棉花糖）、Now on Tap与VR项目Cardboard升级。",
+  "impact": "把照片管理从相册目录变成可搜索的记忆库，云存储成为手机服务的默认能力。",
+  "aftermath": "2021年谷歌取消无限免费改按存储计费；苹果、亚马逊各自的照片云服务长期对垒，AI整理照片成为标配。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Google Photos - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Google_Photos"
+   },
+   {
+    "title": "Google I/O 2015",
+    "url": "https://io.google/"
+   }
+  ],
+  "tags": [
+   "谷歌相册",
+   "云存储",
+   "谷歌I/O"
+  ]
+ },
+ {
+  "id": "2015-05-29-fanbingbing-we",
+  "date": "2015-05-29",
+  "title": "范冰冰李晨微博官宣：我们体的流量爆炸",
+  "summary_30s": "2015年5月29日，范冰冰在微博发布与李晨牵手照并配文我们，两小时内转发评论超百万，服务器一度吃紧，我们体官宣成为明星恋情公布的固定语法，微博娱乐流量的能量再创纪录。",
+  "detail": "此前双方绯闻发酵多年，官宣当日微博宕机传闻、福尔摩斯式扒糖与品牌借势营销齐飞，李晨范冰冰随后合体综艺与商业代言不断。2019年两人宣布分手，我们体再被集体回望。",
+  "impact": "确立微博作为明星官宣第一平台的地位，官宣、辟谣、分手声明的标准话术与热搜营销产业链就此成熟。",
+  "aftermath": "此后每一个顶流官宣都是微博服务器的压力测试；2020年代官宣阵地逐渐向抖音、小红书分散。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "范冰冰 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/范冰冰"
+   },
+   {
+    "title": "微博",
+    "url": "https://weibo.com/"
+   }
+  ],
+  "tags": [
+   "官宣",
+   "微博热搜",
+   "明星八卦"
+  ]
+ },
+ {
+  "id": "2015-06-05-yuetan-ten-rules",
+  "date": "2015-06-05",
+  "title": "约谈十条出台：互联网新闻服务的行政约谈规则",
+  "summary_30s": "2015年6月5日，国家网信办发布《互联网新闻信息服务单位约谈工作规定》，约谈十条明确主管部门可对违规新闻信息服务单位约谈警示，平台内容治理的工具箱再添制度件。",
+  "detail": "规定列明未经许可提供服务、传播违法信息、整改不力等约谈情形，约谈情况向社会公开。此后各平台重大内容事件后的被约谈通报成为常态，微信、微博、快手、抖音等都经历过约谈与专项整改，约谈成为监管与平台沟通的主要机制之一。",
+  "impact": "把行政约谈规范化、常态化，形成罚款处罚与下架整改之外的柔性治理通道，平台合规自此有了标准动作。",
+  "aftermath": "2017年网安法、2021年数据安全法施行后，约谈与专项治理、行政处罚、下架整改组合成完整治理谱系。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   },
+   {
+    "title": "互联网新闻信息服务单位约谈工作规定 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "约谈十条",
+   "网信办",
+   "内容治理"
+  ]
+ },
+ {
+  "id": "2015-06-09-huaqiangu-premiere",
+  "date": "2015-06-09",
+  "title": "《花千骨》开播：仙侠剧与网络播放量的双纪录",
+  "summary_30s": "2015年6月9日，赵丽颖霍建华主演的仙侠剧《花千骨》开播，收官时网络单日播放量破4亿、总量超200亿，创下当时电视剧网络播放纪录，仙侠IP加流量花的组合统治暑期档。",
+  "detail": "该剧改编自fresh果果同名小说，湖南卫视加全网联播，弹幕与贴吧的CP文化发酵，霍建华赵丽颖的师徒虐恋成为全民话题。剧带动的手游、周边授权收入过亿，影视游戏联动的IP运营模式成熟落地。",
+  "impact": "把网络播放量确立为剧集成败第一指标，仙侠与古偶成为此后十年长视频平台的内容支柱。",
+  "aftermath": "赵丽颖凭剧跃升一线顶流，IP全链开发模式就此定型；2018年后播放量注水与热度指标改革相继落地，唯数据论开始被治理。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "花千骨 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/花千骨_(电视剧)"
+   },
+   {
+    "title": "爱奇艺",
+    "url": "https://www.iqiyi.com/"
+   }
+  ],
+  "tags": [
+   "花千骨",
+   "仙侠剧",
+   "网络播放量"
+  ]
+ },
+ {
+  "id": "2015-06-18-fitbit-ipo",
+  "date": "2015-06-18",
+  "title": "Fitbit上市：可穿戴第一股的高开低走",
+  "summary_30s": "2015年6月18日，运动手环厂商Fitbit登陆纽交所，首日大涨48%，市值超60亿美元，可穿戴设备行业的资本顶点与Apple Watch的阴影在同一天降临。",
+  "detail": "Fitbit当年出货逾2000万只居全球第一，但Apple Watch当年上市即抢走高端心智，2016年后Fitbit股价持续下滑，智能手表转型不力，2019年11月谷歌宣布以21亿美元收购，2021年完成交易。",
+  "impact": "可穿戴从创业风口变成巨头附属业务，健康数据入口的价值被重新定价。",
+  "aftermath": "谷歌借Fitbit补齐硬件与算法，但反垄断审查使其整合迟缓；中国厂商在华米、华为带领下占据全球腕上设备大半份额。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Fitbit - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fitbit"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "Fitbit",
+   "可穿戴",
+   "上市"
+  ]
+ },
+ {
+  "id": "2015-06-23-koubei-relaunch",
+  "date": "2015-06-23",
+  "title": "阿里蚂蚁联手重启口碑：本地生活再战一局",
+  "summary_30s": "2015年6月23日，阿里巴巴与蚂蚁金服各注资30亿元重启口碑品牌，以扫码支付加餐饮外卖加线下商超的组合再次进军本地生活服务，与美团大众新巨头的正面对抗开始。",
+  "detail": "口碑在支付宝内获一级入口，主打线下支付立减与门店数字化，2016年口碑日交易笔数峰值破千万，双12狂欢节成为线下营销现象级案例。2018年阿里把口碑注入本地生活服务公司，与饿了么合并运营。",
+  "impact": "把扫码支付加速铺向餐饮商超，线下商业数字化在补贴大战中完成第一轮启蒙。",
+  "aftermath": "2020年后本地生活大战由美团、饿了么、抖音三方续写，口碑品牌逐步淡出，被高德与淘宝小时达承接。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "口碑 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/口碑网"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "口碑",
+   "本地生活",
+   "支付宝"
+  ]
+ },
+ {
+  "id": "2015-06-26-rainbow-avatar-wave",
+  "date": "2015-06-26",
+  "title": "美国同性婚姻合法化：彩虹头像刷屏全球",
+  "summary_30s": "2015年6月26日，美国最高法院裁定同性婚姻在全美合法，Facebook的彩虹滤镜头像数小时内被数千万人使用，全球社交媒体被彩虹淹没，平台工具与身份表达的一次历史性共振。",
+  "detail": "CelebratePride滤镜上线当日使用量即破2600万，扎克伯格亲自推广。中国微博与微信亦出现大量彩虹头像与讨论，多元议题的全球传播速度前所未有。判决本身成为社交媒体时代社会运动数字化的标志性时刻。",
+  "impact": "确立社交平台滤镜作为大规模情感表达工具的范式，此后各类纪念滤镜成为平台运营常规。",
+  "aftermath": "彩虹滤镜此后被传播学界反复研究；社交平台在社会议题中的角色与边界争论，一直延续到今天。",
+  "category": "society",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Obergefell v. Hodges - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Obergefell_v._Hodges"
+   },
+   {
+    "title": "Facebook Rainbow Filter - Facebook",
+    "url": "https://about.fb.com/"
+   }
+  ],
+  "tags": [
+   "彩虹头像",
+   "Facebook",
+   "社会议题"
+  ]
+ },
+ {
+  "id": "2015-06-30-baidu-nuomi-20b-commitment",
+  "date": "2015-06-30",
+  "title": "百度宣布三年投200亿做糯米：O2O的终极梭哈",
+  "summary_30s": "2015年6月30日，李彦宏在糯米战略发布会上宣布三年内追加200亿元做大百度糯米与O2O生态，直指美团与大众点评，中国互联网史上最豪横的烧钱宣言之一落地。",
+  "detail": "百度当年把外卖、糯米、地图打包为服务化转型核心，会员Plus、酒店补贴与观影补贴全面开火。华尔街却以卖出回应，百度股价当年下挫三成，投资者质疑O2O拖累利润。三个月后美团与大众点评合并，市场格局再变。",
+  "impact": "把O2O补贴战推到峰值，也预演了巨头押注新业务与资本市场耐心之间的经典冲突。",
+  "aftermath": "2017年百度外卖卖身饿了么，糯米收缩，李彦宏全面转向AI；200亿的教训写进百度转型史。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度糯米 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/百度糯米"
+   },
+   {
+    "title": "百度",
+    "url": "https://ir.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度糯米",
+   "O2O补贴战",
+   "200亿"
+  ]
+ },
+ {
+  "id": "2015-07-04-internet-plus-guideline",
+  "date": "2015-07-04",
+  "title": "国务院印发互联网+行动指导意见：顶层设计落地",
+  "summary_30s": "2015年7月4日，国务院印发《关于积极推进互联网+行动的指导意见》，提出创业创新、协同制造、普惠金融、益民服务等11个重点领域，互联网+从政府工作报告热词变为国家行动方案。",
+  "detail": "指导意见设定2018与2025两阶段目标，推动云计算、大数据、物联网与现代制造业结合。各地随后出台实施方案，互联网+政务、医疗、教育项目密集上马，线上线下融合成为产业政策主旋律。",
+  "impact": "把数字化从行业议题升格为国家转型战略，传统产业互联网化获得制度牵引与资金配套。",
+  "aftermath": "2017年数字经济写入政府工作报告，2020年数据成为第五大生产要素，互联网+理念融入数字中国整体布局。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "国务院关于积极推进互联网+行动的指导意见 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   },
+   {
+    "title": "工业和信息化部",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "互联网+",
+   "国家战略",
+   "指导意见"
+  ]
+ },
+ {
+  "id": "2015-07-06-cybersecurity-law-draft",
+  "date": "2015-07-06",
+  "title": "《网络安全法》草案公开征求意见：网络治理基本法",
+  "summary_30s": "2015年7月6日，《网络安全法（草案）》在中国人大网公开征求意见，就关键信息基础设施保护、网络数据安全与个人信息保护作出系统规定，中国网络空间治理迎来基本法时刻。",
+  "detail": "草案确立网络运营者安全义务、关键基础设施范围与数据本地化要求，两轮征求意见共收到数千条建议。法律2016年11月正式通过、2017年6月1日施行，成为此后数据安全法、个保法体系的母法。",
+  "impact": "把网络安全从部门规章提升到法律层级，关键行业的数据与供应链合规进入有法可依时代。",
+  "aftermath": "2021年数据安全法、个保法相继施行，中国数据治理三法体系成型，全球合规格局中欧盟、美国、中国三足鼎立。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国人大网",
+    "url": "https://www.npc.gov.cn/"
+   },
+   {
+    "title": "中华人民共和国网络安全法 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "网络安全法",
+   "立法",
+   "数据治理"
+  ]
+ },
+ {
+  "id": "2015-07-06-netease-music-100m",
+  "date": "2015-07-06",
+  "title": "网易云音乐用户破亿：歌单与乐评的社区胜利",
+  "summary_30s": "2015年7月，网易云音乐宣布用户数突破1亿，以歌单组织、乐评氛围与个性化推荐杀出红海，成为QQ音乐最有力的挑战者，音乐社区化路线得到验证。",
+  "detail": "上线两年，网易云凭红色黑胶唱片UI、精选歌单与999+神评论区形成差异化口碑，民谣与独立音乐人借此出圈，房东的猫、谢春花等从网易云走向主流。版权大战同期白热化，2017年阿里把虾米与滚石版权摆上牌桌。",
+  "impact": "把音乐流媒体从播放器竞争升级为内容社区竞争，评论区文化成为产品护城河。",
+  "aftermath": "2018年网易云音乐获阿里等B轮融资，版权互授后格局稳定，2021年港交所上市。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "网易云音乐 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/网易云音乐"
+   },
+   {
+    "title": "网易云音乐",
+    "url": "https://music.163.com/"
+   }
+  ],
+  "tags": [
+   "网易云音乐",
+   "在线音乐",
+   "社区产品"
+  ]
+ },
+ {
+  "id": "2015-07-08-microsoft-nokia-writeoff",
+  "date": "2015-07-08",
+  "title": "微软减记76亿美元并裁员7800：诺基亚并购的终结清算",
+  "summary_30s": "2015年7月8日，纳德拉宣布对手机业务减记76亿美元、裁员7800人，等于承认收购诺基亚设备业务的失败，微软手机战略从自救转向退场倒计时。",
+  "detail": "2013年72亿欧元买来的诺基亚Lumia资产在两年内价值清零，Windows Phone份额跌至3%以下。微软随后把重心转向Windows 10跨设备与云服务，2016年以3.5亿美元把功能机业务卖给富士康系，2017年宣布WP进入维护期。",
+  "impact": "为平台生态失败案例补上最后注脚：没有开发者与应用，硬件协同亦无从谈起。",
+  "aftermath": "微软此后十年不再造手机操作系统，Surface Duo的双屏实验亦草草收场；诺基亚品牌授权机辗转HMD延续。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Microsoft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft"
+   },
+   {
+    "title": "Reuters",
+    "url": "https://www.reuters.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "诺基亚",
+   "资产减记"
+  ]
+ },
+ {
+  "id": "2015-07-08-alipay-9-social-debate",
+  "date": "2015-07-08",
+  "title": "支付宝9.0上线：微信化改造引众怒",
+  "summary_30s": "2015年7月8日，支付宝9.0版发布，新增朋友Tab、生活圈与商家入口，图标变蓝，全面微信化的改造引发用户大规模吐槽，一个工具软件要不要做社交的行业大讨论就此展开。",
+  "detail": "改版把社交关系链置于首页，用户批评本末倒置；此后两年的生活圈尝试屡遭挫折，2016年11月圈子事件因擦边内容彻底翻车，彭蕾道歉整改。支付宝最终回归支付与理财工具本位，把社交野心收缩为小程序与生活服务。",
+  "impact": "确立工具产品强行社交化的反例，产品定位与用户心智的边界成为显学。",
+  "aftermath": "2017年蚂蚁放弃社交转向小程序与线下支付；微信与支付宝以各自主场双寡头格局延续至今。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "支付宝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/支付宝"
+   },
+   {
+    "title": "蚂蚁集团",
+    "url": "https://www.antgroup.com/"
+   }
+  ],
+  "tags": [
+   "支付宝",
+   "社交化",
+   "产品改版"
+  ]
+ },
+ {
+  "id": "2015-07-14-unigroup-micron-bid",
+  "date": "2015-07-14",
+  "title": "紫光230亿美元要约收购美光：一纸试探震动芯片业",
+  "summary_30s": "2015年7月14日，路透披露紫光集团拟以230亿美元要约收购美国存储芯片巨头美光，报价高出市价近两成，虽被美光以国家安全为由迅速拒绝，中国资本的半导体雄心与美方的审查铁幕就此正面相撞。",
+  "detail": "紫光赵伟国以习大大的作业等豪言著称，先后要约美光、试图入股西部数据，均因美国CFIUS门槛无果而终。2015年底紫光转与台湾力成等封测厂合作，2016年长江存储在武汉开工，自主建厂路线接棒海外并购路线。",
+  "impact": "标志半导体成为中美科技博弈最敏感地带，海外并购通道关闭加速了国产替代的战略决心。",
+  "aftermath": "2018年后美国对华芯片管制层层加码；长江存储2022年量产232层NAND跻身全球第一梯队。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Micron Technology - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Micron_Technology"
+   },
+   {
+    "title": "紫光集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/紫光集团"
+   }
+  ],
+  "tags": [
+   "紫光",
+   "美光",
+   "半导体并购"
+  ]
+ },
+ {
+  "id": "2015-07-14-new-horizons-pluto",
+  "date": "2015-07-14",
+  "title": "新视野号飞掠冥王星：心形平原刷屏地球",
+  "summary_30s": "2015年7月14日，NASA新视野号探测器以1.25万公里距离飞掠冥王星，传回的心形氮冰平原照片引爆全球社交网络，九年48亿公里的孤独旅程把太阳系最后一颗行星的谜面展开。",
+  "detail": "探测器2006年发射，冥王星同年被降级为矮行星，任务成为一次向经典的致敬。图像揭示冥王星有冰川、大气与蓝色霾层，汤博区心形地貌成为年度流行图像。中国社交媒体上冥王星小心心刷屏，NASA官网访问量暴涨。",
+  "impact": "太空探索的公众参与度达到互联网时代新高，深空任务的科普传播范式确立。",
+  "aftermath": "新视野号2019年飞掠柯伊伯带天体天涯海角，继续向太阳系边缘航行；冥王星心形成为跨文化传播符号。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "New Horizons - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Horizons"
+   },
+   {
+    "title": "NASA",
+    "url": "https://www.nasa.gov/"
+   }
+  ],
+  "tags": [
+   "新视野号",
+   "冥王星",
+   "深空探测"
+  ]
+ },
+ {
+  "id": "2015-07-15-uniqlo-fitting-room-video",
+  "date": "2015-07-15",
+  "title": "优衣库试衣间视频事件：病毒传播的伦理大考",
+  "summary_30s": "2015年7月15日凌晨，一段拍摄于北京三里屯优衣库试衣室的不雅视频在社交媒体疯传，数小时内席卷微博微信，当事门店成网红打卡地，官方当日定性传播淫秽信息并刑事立案，营销与传播伦理成为全民辩论题。",
+  "detail": "北京警方迅速抓获上传传播者，优衣库否认策划营销。事件引发对病毒传播失控、平台责任与隐私保护的大讨论，主流媒体批评比病毒传播更可怕的是无聊的围观，多平台清理相关内容，成为网络内容治理标志性案例。",
+  "impact": "推动平台对涉黄传播的应急响应机制完善，也把借势营销的道德底线问题摆上桌面。",
+  "aftermath": "此后每年仍有类似不雅视频事件引发治理行动；2017年网安法后平台主体责任进一步法定化。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "北京警方通报 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   },
+   {
+    "title": "优衣库 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/优衣库"
+   }
+  ],
+  "tags": [
+   "优衣库事件",
+   "病毒传播",
+   "网络治理"
+  ]
+ },
+ {
+  "id": "2015-07-15-amazon-prime-day-debut",
+  "date": "2015-07-15",
+  "title": "亚马逊Prime Day首秀：自造购物节的平台权力",
+  "summary_30s": "2015年7月15日，亚马逊为庆祝成立20周年推出Prime Day会员购物节，当日销量超黑五，全球订单破千万，平台自造节日模式再次被验证，中国电商的双11方法论反向输出全球。",
+  "detail": "Prime Day仅对会员开放，全球数十个国家参与，Lightning Deals秒杀玩法与双11如出一辙。此后每年7月的Prime Day成为全球电商中期大促标杆，谷歌、沃尔玛、阿里速卖通纷纷跟进造节，会员经济与折扣节绑定成为平台标配。",
+  "impact": "把会员权益加集中促销的模式固化为全球零售节奏，中国卖家借跨境电商吃到红利。",
+  "aftermath": "Prime Day后来扩展为两至三天，2020年代成为亚马逊广告与物流能力的年度阅兵。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Amazon Prime Day - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amazon_Prime_Day"
+   },
+   {
+    "title": "Amazon",
+    "url": "https://www.aboutamazon.com/"
+   }
+  ],
+  "tags": [
+   "Prime Day",
+   "亚马逊",
+   "购物节"
+  ]
+ },
+ {
+  "id": "2015-07-24-kepler-452b-discovery",
+  "date": "2015-07-24",
+  "title": "NASA宣布发现地球大表哥：开普勒452b刷屏",
+  "summary_30s": "2015年7月24日，NASA宣布开普勒望远镜发现迄今最接近地球的系外行星开普勒452b，位于类太阳恒星宜居带，直径为地球1.6倍，地球大表哥的话题在中国社交网络一夜刷屏。",
+  "detail": "发现距地球约1400光年，公转周期385天，媒体与网友围绕能不能搬家展开欢乐科普，NASA发布会直播观看人数破纪录。专业界冷静指出大气成分未知，但公众热情展示了科学传播在社交时代的巨大杠杆。",
+  "impact": "成为社交网络时代科学传播的现象级案例，系外行星与宜居带第一次进入大众语汇，NASA账号随之涨粉数百万。",
+  "aftermath": "此后TRAPPIST-1系统等发现接力刷屏；韦布望远镜2020年代的观测把宜居带行星研究推向光谱分析时代。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Kepler-452b - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kepler-452b"
+   },
+   {
+    "title": "NASA",
+    "url": "https://www.nasa.gov/"
+   }
+  ],
+  "tags": [
+   "开普勒452b",
+   "系外行星",
+   "科学传播"
+  ]
+ },
+ {
+  "id": "2015-08-08-dota2-ti5-eg-champion",
+  "date": "2015-08-08",
+  "title": "DOTA2 TI5落幕：EG夺冠与1800万美元奖金池",
+  "summary_30s": "2015年8月8日，Dota2第五届国际邀请赛在西雅图收官，美国EG战队3比1击败中国CDEC夺冠，赛事总奖金池1804万美元创当时电竞纪录，小本子众筹模式把电竞奖金推向千万级。",
+  "detail": "TI5奖金池中超1600万来自玩家购买互动指南（小本子）的贡献，众筹造星的模式震惊传统体育。中国CDEC从预选赛一路黑马杀入决赛，虽败犹荣，CN DOTA的力量叙事延续。决赛日中国观众熬夜观赛，微博话题数亿阅读。",
+  "impact": "确立玩家众筹奖金的电竞赛事商业模型，电竞选手身价与俱乐部估值体系随之升级。",
+  "aftermath": "TI奖金池2021年破4000万美元；2016年 Wings 夺TI6冠军为中国Dota再添传奇。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The International 2015 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_International_2015"
+   },
+   {
+    "title": "DOTA2 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/DOTA_2"
+   }
+  ],
+  "tags": [
+   "Dota2",
+   "TI5",
+   "电竞"
+  ]
+ },
+ {
+  "id": "2015-08-10-google-alphabet-reorg",
+  "date": "2015-08-10",
+  "title": "谷歌重组为Alphabet：科技公司治理的分水岭",
+  "summary_30s": "2015年8月10日，谷歌宣布重组为母公司Alphabet，搜索广告等成熟业务归谷歌子公司，无人车、生命科学等实验业务独立成军，佩奇转任CEO、皮查伊执掌谷歌，庞杂科技帝国的现代治理范式就此确立。",
+  "detail": "新架构下各业务独立CEO与独立财报透明度，Waymo、Verily、DeepMind等字母表子公司由此获得清晰估值叙事。重组后谷歌回购股票、强化问责，华尔街认可度提升，中概科技公司随后纷纷研讨同类架构。",
+  "impact": "成为科技集团分权治理的模板，哺育了Waymo等长周期项目，也埋下大公司利润再分配的争论。",
+  "aftermath": "2019年皮查伊升任Alphabet CEO；2023年谷歌重组AI线条应对OpenAI冲击，Alphabet架构仍是底座。",
+  "category": "company",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Alphabet Inc. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+   },
+   {
+    "title": "Google",
+    "url": "https://abc.xyz/"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Alphabet",
+   "公司治理"
+  ]
+ },
+ {
+  "id": "2015-08-11-rmb-reform",
+  "date": "2015-08-11",
+  "title": "811汇改：人民币一次性贬值与全球震荡",
+  "summary_30s": "2015年8月11日，央行宣布完善人民币中间价报价机制，当日中间价贬值1.86%，随后三日累计贬值约4.5%，全球金融市场应声震荡，资本流动、留学代购与出海定价的互联网叙事随之改写。",
+  "detail": "汇改旨在满足IMF对人民币加入SDR的汇率机制要求，市场化程度提升。短期内贬值预期引发资本外流压力与外汇储备下降，跨境电商、海淘定价与出境游成本被重估，2016年人民币加入SDR为汇改的正向答卷。",
+  "impact": "人民币汇率双向波动成为常态，中国家庭与企业第一次系统性面对汇率风险教育。",
+  "aftermath": "2017年后引入逆周期因子，人民币国际化稳步推进，2022年跨境人民币结算量创新高。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国人民银行",
+    "url": "https://www.pbc.gov.cn/"
+   },
+   {
+    "title": "人民币汇率形成机制改革 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   }
+  ],
+  "tags": [
+   "811汇改",
+   "人民币",
+   "金融市场"
+  ]
+ },
+ {
+  "id": "2015-08-25-smartisan-nut-launch",
+  "date": "2015-08-25",
+  "title": "锤子坚果手机发布：情怀的第二次出手",
+  "summary_30s": "2015年8月25日，锤子科技发布坚果手机U1，899元起的彩色背壳与文艺文案延续锤子风格，罗永浩的发布会一票难求，但千元机红海中情怀与销量仍是两道题。",
+  "detail": "坚果手机采用可换彩色后壳与Smartisan OS 2.0，以漂亮得不像实力派文案出圈，发布会段子刷屏社交网络。锤子此后连发坚果系列求量，2018年负面缠身，2019年字节跳动接手坚果手机团队与部分专利。",
+  "impact": "把发布会做成文化产品、把文案做成品牌资产的模式影响了一批厂商的营销语感。",
+  "aftermath": "罗永浩2020年开启直播还债再成顶流；坚果团队在字节孵化出教育硬件后解散，锤子成为行业叙事中的一页。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "坚果手机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/坚果手机"
+   },
+   {
+    "title": "罗永浩 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/罗永浩"
+   }
+  ],
+  "tags": [
+   "锤子科技",
+   "坚果手机",
+   "罗永浩"
+  ]
+ },
+ {
+  "id": "2015-08-26-qiku-phone-launch",
+  "date": "2015-08-26",
+  "title": "奇酷手机发布：周鸿祎的手机终章",
+  "summary_30s": "2015年8月26日，360与酷派合资的奇酷手机正式发布，双摄、安全与财产隔离系统为卖点，但合资内斗与红海价格战让这艘船还没出港就漏了水。",
+  "detail": "发布会上周鸿祎大谈安全黑科技，随后乐视入股酷派触发360与酷派的股权大战，2016年和解分家。奇酷与大神品牌归于360后更名360手机，主打N系列性价比，2019年业务收缩，周鸿祎的手机梦至此收官。",
+  "impact": "为互联网公司亲自下场造机的浪潮画上又一个句点，供应链、渠道与耐心缺一不可。",
+  "aftermath": "360此后聚焦安全与政企，2022年周鸿祎再战哪吒汽车；奇酷旧事成为手机战国志的边章。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "奇酷手机 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/奇酷手机"
+   },
+   {
+    "title": "奇虎360",
+    "url": "https://www.360.cn/"
+   }
+  ],
+  "tags": [
+   "奇酷",
+   "360手机",
+   "周鸿祎"
+  ]
+ },
+ {
+  "id": "2015-09-01-ofo-campus-launch",
+  "date": "2015-09-01",
+  "title": "ofo在北大校园上线：共享单车的第一粒火种",
+  "summary_30s": "2015年9月，戴威把ofo共享计划推入北大校园，师生凭手机取还黄色单车，校园场景跑通后一年冲出校门，黄色风暴与摩拜橙色对垒，中国共享单车时代由此点燃。",
+  "detail": "戴威与北大骑行社群的伙伴以2000辆共享单车起步，师生扫码解锁、随取随还，三个月内日订单破万。2016年ofo获滴滴、经纬等投资走出校园，与摩拜在2016至2017年掀起免费骑行补贴战，单车以百万级投放铺满城市。",
+  "impact": "验证无桩共享出行模型，重新定义城市最后一公里，也埋下押金模式与过度投放的隐患。",
+  "aftermath": "2018年ofo资金链断裂，千万用户排队退押金；2019年起实名制与总量调控让行业回归理性，美团单车与哈啰、青桔三分天下。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Ofo小黄车 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/Ofo小黄车"
+   },
+   {
+    "title": "北京大学",
+    "url": "https://www.pku.edu.cn/"
+   }
+  ],
+  "tags": [
+   "ofo",
+   "共享单车",
+   "戴威"
+  ]
+ },
+ {
+  "id": "2015-09-01-pinduoduo-origin",
+  "date": "2015-09-01",
+  "title": "拼多多悄然起步：拼好货与拼多多的前夜",
+  "summary_30s": "2015年秋，前谷歌工程师黄峥的团队先后孵化水果团购的拼好货与平台模式的拼多多，微信拼单玩法把社交裂变用到极致，三年后这家公司将在纳斯达克震惊中国电商界。",
+  "detail": "拼好货2015年4月上线以自营生鲜拼团试水，9月孵化的拼多多开放商家入驻，一元抽奖、砍价免费拿与微信群分享构成增长飞轮。2016年两者合并，借微信支付下沉红利狂奔，2018年7月上市时成立不足三年。",
+  "impact": "开创社交电商与下沉市场电商范式，把中国网购人群从一二线扩展到县乡十亿级盘面。",
+  "aftermath": "拼多多2020年用户破7亿逼近阿里，2023年市值一度超越阿里，Temu出海再掀全球低价风暴。",
+  "category": "company",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "拼多多 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/拼多多"
+   },
+   {
+    "title": "黄峥 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/黄峥"
+   }
+  ],
+  "tags": [
+   "拼多多",
+   "社交电商",
+   "黄峥"
+  ]
+ }
+]

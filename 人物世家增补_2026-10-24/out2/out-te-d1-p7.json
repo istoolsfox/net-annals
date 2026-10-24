@@ -1,0 +1,727 @@
+[
+ {
+  "id": "2014-01-01-douyu-launch",
+  "date": "2014-01-01",
+  "title": "斗鱼TV独立上线：游戏直播平台元年",
+  "summary_30s": "2014年1月1日，AcFun生放送独立为斗鱼TV，以游戏直播与弹幕互动切入，趁LOL如日中天之势狂飙，一年后用户破千万，千播时代的旗手就此启程。",
+  "detail": "斗鱼由陈少杰团队打造，早期以英雄联盟、Dota2直播与赛事版权打开局面，签下若风、微笑等退役明星，弹幕文化沿用AcFun血统。2014年获得红杉2000万美元融资，带宽成本与主播签约费齐飞，游戏直播烧钱大战开幕。",
+  "impact": "确立游戏直播作为独立产业，主播职业化与虚拟礼物经济开始成型，电竞内容消费从赛事录像转向实时陪伴。",
+  "aftermath": "斗鱼与虎牙双雄缠斗六年后于2020年险些合并，2021年腾讯促成合并案被监管否决，直播行业此后转向电商与垂类深挖。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "斗鱼 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/斗鱼"
+   },
+   {
+    "title": "斗鱼直播",
+    "url": "https://www.douyu.com/"
+   }
+  ],
+  "tags": [
+   "斗鱼",
+   "游戏直播",
+   "弹幕"
+  ]
+ },
+ {
+  "id": "2014-01-13-google-acquires-nest",
+  "date": "2014-01-13",
+  "title": "谷歌32亿美元收购Nest：智能家居引爆点",
+  "summary_30s": "2014年1月13日，谷歌宣布以32亿美元现金收购智能恒温器公司Nest，iPod之父法德尔的团队与智能家居赛道一夜升温，可穿戴与家庭物联网成为硅谷新宠。",
+  "detail": "Nest由Tony Fadell创办，主打设计感恒温器与烟雾报警器，年出货仅数十万台却卖出硬件公司天价。谷歌收购后把Nest作为智能家居平台整合，2015年重组进Alphabet，但产品线扩张缓慢，Fadell 2016年离职。",
+  "impact": "点燃全球智能家居创业与并购潮，语音助手与家庭中枢的入口之争自此布局。",
+  "aftermath": "Nest 2018年重归谷歌硬件体系，与Google Home合并；智能家居最终由智能音箱与Matter协议续写。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nest Labs - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nest_Labs"
+   },
+   {
+    "title": "Google",
+    "url": "https://blog.google/"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Nest",
+   "智能家居"
+  ]
+ },
+ {
+  "id": "2014-01-17-china-mobile-iphone-on-sale",
+  "date": "2014-01-17",
+  "title": "移动版iPhone开售：中移动营业厅排起长队",
+  "summary_30s": "2014年1月17日，中国移动版iPhone 5s/5c正式开售，7亿多用户市场首次用上官方iPhone，TD-SCDMA版机型与4G套餐捆绑销售，苹果在华版图补上最后一块。",
+  "detail": "开售当天北京金融街营业厅现数百人排队，移动推出合约套餐与以旧换新。虽有用户抱怨TD版网速限制，但首季销量可观，苹果2014财年大中华区收入暴增至370亿美元。库克当年多次访华巩固渠道与政企关系。",
+  "impact": "中国4G换机潮与高端智能机普及同时提速，移动高端用户流失趋势得以遏制。",
+  "aftermath": "iPhone此后长期是中国移动终端补贴的最大标的；中国移动4G用户两年内冲上数亿。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国移动 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/中国移动"
+   },
+   {
+    "title": "Apple中国",
+    "url": "https://www.apple.com.cn/"
+   }
+  ],
+  "tags": [
+   "中国移动",
+   "iPhone",
+   "4G"
+  ]
+ },
+ {
+  "id": "2014-01-23-lenovo-ibm-x86-server",
+  "date": "2014-01-23",
+  "title": "联想23亿美元收购IBM x86服务器：反向消化蓝色巨人",
+  "summary_30s": "2014年1月23日，联想宣布以23亿美元收购IBM x86服务器业务，继2005年收购ThinkPad后再度接盘IBM硬件，跻身全球服务器前三，政企市场话语权大增。",
+  "detail": "交易包含System x、刀片与弹性存储产品线，IBM保留高端Power与大型机。美国政审拖延至当年9月才交割。联想借此对垒戴尔、惠普，同时推进PC加服务器加手机的三线作战，消化整合耗时数年。",
+  "impact": "中国IT硬件厂商首次大规模进入全球企业级市场，国产化服务器叙事获得现实支点。",
+  "aftermath": "联想此后再吞摩托罗拉与富士通PC，戴尔2016年以670亿美元并购EMD重塑格局，服务器市场进入寡头时代。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "联想集团 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/联想"
+   },
+   {
+    "title": "IBM - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IBM"
+   }
+  ],
+  "tags": [
+   "联想",
+   "IBM",
+   "服务器"
+  ]
+ },
+ {
+  "id": "2014-01-24-baidu-full-owns-nuomi",
+  "date": "2014-01-24",
+  "title": "百度全资控股糯米网：O2O的豪赌开局",
+  "summary_30s": "2014年1月，百度完成对人人旗下糯米网的全资收购并更名百度糯米，以亿元级补贴与事业部规格杀入团购与本地生活，百度O2O战略的三年豪赌正式开局。",
+  "detail": "百度2013年8月先以1.6亿美元获59%股份，2014年1月全额收购。随后糯米接入口碑大战，联合商户推3.7元电影票、吃货节等补贴，百度地图与手机百度为其导流，2015年6月百度宣布三年追加200亿元。",
+  "impact": "把百度拖入与美团、大众点评的正面消耗战，也为搜索巨头的移动转型付出高昂学费。",
+  "aftermath": "2017年百度外卖与饿了么合并、糯米收缩，李彦宏此后把资源转向AI；O2O大战由美团笑到最后。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "百度糯米 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/百度糯米"
+   },
+   {
+    "title": "百度",
+    "url": "https://www.baidu.com/"
+   }
+  ],
+  "tags": [
+   "百度糯米",
+   "O2O",
+   "团购"
+  ]
+ },
+ {
+  "id": "2014-01-30-lenovo-buys-motorola",
+  "date": "2014-01-30",
+  "title": "联想29亿美元接盘摩托罗拉：手机版图大并购",
+  "summary_30s": "2014年1月30日，联想宣布以29亿美元从谷歌手中收购摩托罗拉移动，获得品牌、3500名员工与2000项专利，全球手机市场份额跃居第三的算盘打响。",
+  "detail": "谷歌持有摩托罗拉不足两年即转手，保留多数专利，等于花几十亿美元买了个专利盾后又收回部分现金。联想双品牌运作Moto与Vibe，但整合不畅，2015年手机业务巨亏，Moto X中国市场反响冷淡，杨元庆的全球化手机梦碎了一半。",
+  "impact": "摩托罗拉品牌得以延续并借Moto G打开印度等新兴市场，但联想手机从此陷入长期调整。",
+  "aftermath": "联想手机2018年-branding回归中国主打电竞小众市场；Moto折叠屏 Razr 2019年以情怀翻新登场。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "摩托罗拉移动 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/摩托罗拉移动"
+   },
+   {
+    "title": "联想集团",
+    "url": "https://www.lenovo.com/"
+   }
+  ],
+  "tags": [
+   "联想",
+   "摩托罗拉",
+   "并购"
+  ]
+ },
+ {
+  "id": "2014-02-04-nadella-becomes-ceo",
+  "date": "2014-02-04",
+  "title": "纳德拉出任微软CEO：云与开源的转身",
+  "summary_30s": "2014年2月4日，萨提亚·纳德拉接替鲍尔默出任微软第三任CEO，这位工程师出身的云计算负责人以移动为先、云为先、强调刷新文化，开启微软十年市值十倍的世纪转身。",
+  "detail": "上任当月纳德拉把Office带上iPad，随后推动Windows免费化、拥抱Linux与开源、收购LinkedIn与GitHub。微软从封闭软件帝国变为云与订阅巨头，Azure成为全球第二朵云。比尔·盖茨同月卸任董事长转任技术顾问。",
+  "impact": "成为科技公司文化转型与战略刷新的教科书案例，微软重新跻身全球市值前三。",
+  "aftermath": "2018年微软市值重返万亿美元，2024年借OpenAI合作冲上三万亿美元，纳德拉被誉为时代最佳CEO之一。",
+  "category": "company",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Satya Nadella - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Satya_Nadella"
+   },
+   {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "纳德拉",
+   "CEO"
+  ]
+ },
+ {
+  "id": "2014-02-13-jd-baitiao-launch",
+  "date": "2014-02-13",
+  "title": "京东白条上线：互联网消费信贷第一炮",
+  "summary_30s": "2014年2月13日，京东白条上线，用户可享30天免延迟付款或分期，互联网企业首次面向个人推出消费信贷，白条加金条的模式此后被全行业复制。",
+  "detail": "白条依托京东电商场景与自有风控数据，首批面向校园与职场用户授信，随后推出取现与分期。蚂蚁花呗2014年底试水、2015年全面上线，互联网消费金融伴随电商与O2O消费爆发而崛起，也埋下现金贷争议的种子。",
+  "impact": "把信用消费从信用卡持卡人群扩展到更广泛的网购人群，中国消费金融渗透率快速抬升。",
+  "aftermath": "2017年现金贷整顿与2021年互联网贷款新规重塑行业，白条、花呗相继接入征信。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "京东白条 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/京东白条"
+   },
+   {
+    "title": "京东金融",
+    "url": "https://jr.jd.com/"
+   }
+  ],
+  "tags": [
+   "京东白条",
+   "消费金融",
+   "互联网金融"
+  ]
+ },
+ {
+  "id": "2014-02-14-house-of-cards-s2",
+  "date": "2014-02-14",
+  "title": "《纸牌屋》第二季全季上线：政治剧与流媒体的蜜月",
+  "summary_30s": "2014年2月14日情人节，《纸牌屋》第二季13集在Netflix一次性放出，下木总统的权谋游戏全球刷屏，全季放出模式成为流媒体原剧的标志性打法。",
+  "detail": "凯文·史派西与罗宾·怀特的权力夫妻档进入华盛顿深水区，中国市场由搜狐视频同步引进。一次性放出全季的发行模式挑战周更传统，一次性追完的刷剧行为入选年度词汇，Netflix订户当年突破5000万。",
+  "impact": "流媒体原创内容确立与HBO掰手腕的底气，全球电视工业的生产与发行逻辑被改写。",
+  "aftermath": "2016年《怪奇物语》、2018年《王冠》延续Netflix原创神话；2020年代流媒体大战让一次放全季成为各家标配。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "纸牌屋 (电视剧) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/纸牌屋_(电视剧)"
+   },
+   {
+    "title": "Netflix",
+    "url": "https://www.netflix.com/"
+   }
+  ],
+  "tags": [
+   "纸牌屋",
+   "Netflix",
+   "流媒体"
+  ]
+ },
+ {
+  "id": "2014-02-19-tmalling-global-launch",
+  "date": "2014-02-19",
+  "title": "天猫国际上线路：海淘正规军进场",
+  "summary_30s": "2014年2月19日，阿里上线跨境电商平台天猫国际，海外品牌直供、保税仓备货模式让海淘从灰色代购走向阳光化，中国跨境电商元年正式开启。",
+  "detail": "首批入驻涵盖美国Costco、日本花王等数十家商家，杭州、宁波保税仓试点进口备货。同年海关总署56、57号文明确跨境电商监管框架，京东全球购、网易考拉、苏宁海外购相继入场，洋码头、蜜芽等垂直海淘平台趁势而起。",
+  "impact": "进口消费数字化提速，全球品牌把中国电商作为第一增长市场，代购产业被结构性替代。",
+  "aftermath": "2018年首届进博会与电商法实施后市场进一步规范，跨境电商进口规模十年增长逾十倍。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "天猫国际 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/天猫国际"
+   },
+   {
+    "title": "阿里巴巴集团",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "天猫国际",
+   "跨境电商",
+   "海淘"
+  ]
+ },
+ {
+  "id": "2014-02-25-linkedin-china-launch",
+  "date": "2014-02-25",
+  "title": "领英中国上线：职场社交巨头的本地化试炼",
+  "summary_30s": "2014年2月25日，LinkedIn发布中文版领英并成立中国团队，随后推出本土App赤兔，外资社交平台在华的又一次合规化尝试拉开帷幕。",
+  "detail": "领英以中国用户突破400万为基础推出中文名与本地产品，沈博阳出任中国区总裁。2015年赤兔App上线主打本土职场社交，但难以撼动微信的人脉网络，2019年赤兔停服。2021年领英宣布关闭中国本土化社交服务，转为求职与海外业务。",
+  "impact": "证明职场社交与本地通讯录生态的兼容难题，外资社交平台的在华周期率再次应验。",
+  "aftermath": "脉脉随后接棒中国职场社交市场，匿名八卦与实名认证并行成为本土特色，2023年因数据问题被罚再上头条。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "领英 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/领英"
+   },
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/"
+   }
+  ],
+  "tags": [
+   "领英",
+   "职场社交",
+   "外企入华"
+  ]
+ },
+ {
+  "id": "2014-02-27-cyberspace-leadership-group",
+  "date": "2014-02-27",
+  "title": "中央网络安全和信息化领导小组成立",
+  "summary_30s": "2014年2月27日，中央网络安全和信息化领导小组宣告成立，习近平任组长，网信治理升格为最高层统筹事项，建设网络强国的战略目标首次提出。",
+  "detail": "领导小组办公室设在国家互联网信息办公室，随后各省设网信办，网络安全、信息化发展与网络空间治理归于一体统筹。当年即推进网络安全审查制度、微信十条等制度建设，网络安全上升为国家安全的重要组成。",
+  "impact": "中国互联网治理体制完成顶层重构，为后续网安法、数据治理与关键信息基础设施保护体系奠基。",
+  "aftermath": "2018年该小组改为中央网络安全和信息化委员会，网信办统筹职能进一步强化。",
+  "category": "national",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中央网络安全和信息化领导小组 - 新华网",
+    "url": "https://www.xinhuanet.com/"
+   },
+   {
+    "title": "国家互联网信息办公室",
+    "url": "https://www.cac.gov.cn/"
+   }
+  ],
+  "tags": [
+   "网信办",
+   "网络强国",
+   "顶层设计"
+  ]
+ },
+ {
+  "id": "2014-02-28-mtgox-bankruptcy",
+  "date": "2014-02-28",
+  "title": "Mt.Gox申请破产：85万比特币的世纪失窃",
+  "summary_30s": "2014年2月28日，曾是全球最大比特币交易所的Mt.Gox在东京申请破产保护，约85万枚比特币（时值约4.7亿美元）不翼而飞，比特币史上最著名的黑天鹅就此定格。",
+  "detail": "法国人卡佩勒执掌的Mt.Gox技术陈旧、管理混乱，2月初暂停提现后崩盘。日本警方后续调查认定大部分币因黑客长年盗取流失，CEO以侵吞等罪名被捕，2015年追回约20万枚。门头沟事件成为交易所安全与资产托管责任的历史警示。",
+  "impact": "比特币价格暴跌，行业首次经受系统性信任危机；冷钱包、多重签名与审计制度由此成为交易所标配。",
+  "aftermath": "破产清算缠讼十年，2024年Mt.Gox开始向债权人偿付14万枚比特币，行情应声波动；其教训写进每一本加密教材。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Mt. Gox - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mt._Gox"
+   },
+   {
+    "title": "比特币 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/比特币"
+   }
+  ],
+  "tags": [
+   "Mt.Gox",
+   "比特币",
+   "交易所"
+  ]
+ },
+ {
+  "id": "2014-03-01-wangda-concept",
+  "date": "2014-03-01",
+  "title": "爱奇艺定义网络大电影：分账模式造新物种",
+  "summary_30s": "2014年春，爱奇艺率先提出网络大电影概念：制作成本50万至300万、超60分钟、只在网上发行按有效播放分账，网大作为一条介于网剧与微电影之间的产业链就此诞生。",
+  "detail": "爱奇艺以分账规则激活中小团队，片名海报前六分钟成生死线，题材打擦边球者众。2015至2016年网大数量井喷至数千部，其后优酷、腾讯视频跟进建立分账体系，2017年后广电纳入备案管理，行业洗牌提质。",
+  "impact": "为大量腰部影视从业者提供变现出口，把视频平台的内容池扩充到长尾，也催生了一系列低俗擦边争议。",
+  "aftermath": "2020年代网大转向精品化分账，与网络电影正名运动并行，《硬汉枪神》等作品实现口碑逆袭。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "网络大电影 - 百度百科",
+    "url": "https://baike.baidu.com/"
+   },
+   {
+    "title": "爱奇艺",
+    "url": "https://www.iqiyi.com/"
+   }
+  ],
+  "tags": [
+   "网络大电影",
+   "爱奇艺",
+   "分账"
+  ]
+ },
+ {
+  "id": "2014-03-02-ellen-oscar-selfie",
+  "date": "2014-03-02",
+  "title": "艾伦奥斯卡自拍：一条推特的传播学纪录",
+  "summary_30s": "2014年3月2日奥斯卡颁奖礼上，主持人艾伦用三星手机拉起梅里尔斯特里普、布拉德皮特等群星自拍，推特转发数小时内破百万，最终超320万条，创当时历史纪录。",
+  "detail": "照片由布莱德利·库珀按下快门，推特一度因流量瘫痪，三星作为赞助商的品牌植入被评价值连城。这条自拍成为明星、平台、品牌与实时传播四方共振的教科书案例，此后各类赛事与典礼纷纷预埋自拍环节。",
+  "impact": "确立大屏事件与小屏传播的共生结构，社交媒体成为电视大事件的第二现场。",
+  "aftermath": "纪录2017年被富豪少年募捐转发超越，但艾伦自拍的仪式感仍是流行文化史的固定坐标。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ellen DeGeneres' Oscar selfie - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ellen_DeGeneres"
+   },
+   {
+    "title": "The Oscars",
+    "url": "https://www.oscars.org/"
+   }
+  ],
+  "tags": [
+   "奥斯卡自拍",
+   "推特",
+   "病毒传播"
+  ]
+ },
+ {
+  "id": "2014-03-09-2048-game",
+  "date": "2014-03-09",
+  "title": "2048上线：数字合并游戏的全球成瘾",
+  "summary_30s": "2014年3月，19岁意大利开发者Gabriele Cirulli用周末写出网页游戏2048，数字滑块合并到2048即胜，一周内全球数千万玩家沉迷，开源代码衍生出无数魔改版本。",
+  "detail": "2048脱胎于《1024》《Threes!》的玩法谱系，但极简四乘四网格与开源代码让它病毒式传播，微博微信朋友圈晒成绩刷屏，各种朝代版、校徽版魔改层出不穷。开发者拒绝商业化，把流量留给广告位托管。",
+  "impact": "成为HTML5小游戏全球传播的标志性案例，证明极简机制加社交晒分的成瘾公式。",
+  "aftermath": "此后合成大西瓜、羊了个羊反复验证这一公式；2048至今仍是程序员入门项目的常客。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "2048 (video game) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2048_(video_game)"
+   },
+   {
+    "title": "2048",
+    "url": "https://play2048.co/"
+   }
+  ],
+  "tags": [
+   "2048",
+   "休闲游戏",
+   "开源"
+  ]
+ },
+ {
+  "id": "2014-03-10-tencent-invests-jd",
+  "date": "2014-03-10",
+  "title": "腾讯入股京东：电商格局的大挪移",
+  "summary_30s": "2014年3月10日，腾讯以2.14亿美元加QQ网购、拍拍等电商资产换取京东15%股份，并在微信与手机QQ开一级入口，京东补流量、腾讯补电商，阿里一家独大的格局被改写。",
+  "detail": "交易前腾讯电商连年溃败，刘强东赴美游学期间由团队谈定。京东随后在微信钱包与手Q获稳定流量，微信购物入口沿用至今。腾讯此后又加持京东至约两成，并于京东上市时顺势成为最大受益股东之一，产业结盟取代亲自下场成为腾讯战略主线。",
+  "impact": "确立腾讯流量加伙伴资产的联盟打法，此后腾讯系先后与美团、58、携程、搜狗复制该模式；京东的上市估值也随盟友背书抬升。",
+  "aftermath": "2021年腾讯以分红方式减持京东大半股份，巨头联盟时代落幕；京东自此更强调供应链独立叙事。",
+  "category": "company",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "京东 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/京东"
+   },
+   {
+    "title": "腾讯",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "京东",
+   "战略入股"
+  ]
+ },
+ {
+  "id": "2014-03-13-pboc-halt-qr-payment",
+  "date": "2014-03-13",
+  "title": "央行暂停二维码支付与虚拟信用卡",
+  "summary_30s": "2014年3月13日，央行支付结算司下发紧急文件，以安全与合规存疑为由暂停支付宝、腾讯的二维码支付与虚拟信用卡业务，移动支付线上线下扩张被急踩刹车。",
+  "detail": "此前一周中信银行与支付宝、腾讯联合宣布虚拟信用卡，二维码线下扫码亦在打车、商场快速铺开。文件要求当面核实开户、评估条码安全性，业界震动。支付宝与腾讯随后按合规要求整改，2015年后带数字证书与限额的扫码支付逐步放行。",
+  "impact": "确立支付创新的监管边界：先行先停、合规后再放行，成为此后互联网金融监管的基本节奏。",
+  "aftermath": "2015年底《非银行支付机构网络支付业务管理办法》出台，扫码支付全面合法化并成为中国零售支付主流。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国人民银行",
+    "url": "https://www.pbc.gov.cn/"
+   },
+   {
+    "title": "支付宝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/支付宝"
+   }
+  ],
+  "tags": [
+   "央行",
+   "二维码支付",
+   "监管"
+  ]
+ },
+ {
+  "id": "2014-03-15-315-gala-exposes-privacy",
+  "date": "2014-03-15",
+  "title": "315晚会曝光网易等：大数据时代的隐私第一课",
+  "summary_30s": "2014年3月15日央视315晚会曝光网易等公司在网页代码中追踪用户Cookie、刻画用户画像精准投放广告，大唐电信高鸿等预装吸费软件亦被点名，公众第一次系统性看见个人信息如何被变现。",
+  "detail": "晚会演示了广告公司如何用第三方脚本跨站追踪用户浏览行为，寿百味路、高鸿陌电被曝手机预装软件偷跑流量扣费。节目播出后涉事企业道歉整改，Cookie与用户画像的合规讨论持续升温，为2017年网安法与2021年个保法埋下公众认知伏笔。",
+  "impact": "把互联网隐私议题首次推上全民议程，监管与平台的隐私政策披露自此加速。",
+  "aftermath": "此后历年315成为互联网企业年度大考，从数据追踪到App过度索权、弹窗广告轮番成为靶心。",
+  "category": "society",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "央视315晚会 - 中国中央电视台",
+    "url": "https://www.cctv.com/"
+   },
+   {
+    "title": "个人信息保护 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "315晚会",
+   "用户隐私",
+   "Cookie"
+  ]
+ },
+ {
+  "id": "2014-03-19-project-morpheus-reveal",
+  "date": "2014-03-19",
+  "title": "索尼公布Project Morpheus：主机厂入局VR",
+  "summary_30s": "2014年3月19日GDC上，索尼公布虚拟现实头显项目Morpheus，1080P、90度视场角与PS4联动，主机大厂正式押注VR，与Oculus的对垒格局形成。",
+  "detail": "原型机由索尼伦敦工作室多年孵化，强调低延迟与位置追踪，玩家在客厅即可体验VR。项目2015年定名PlayStation VR，2016年10月上市，以399美元与PS4存量装机成为销量最高的VR头显之一，全球出货逾500万台。",
+  "impact": "推动VR从极客众筹走向消费电子主战场，内容生态因主机厂商入局而获得3A化可能。",
+  "aftermath": "PSVR2 2023年随PS5发布，眼动追踪与触觉反馈升级，但VR大众化仍未完成其2014年的想象。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "PlayStation VR - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/PlayStation_VR"
+   },
+   {
+    "title": "PlayStation",
+    "url": "https://www.playstation.com/"
+   }
+  ],
+  "tags": [
+   "索尼",
+   "VR",
+   "Morpheus"
+  ]
+ },
+ {
+  "id": "2014-03-19-redmi-note-launch",
+  "date": "2014-03-19",
+  "title": "红米Note发布：千元八核把性价比卷到底",
+  "summary_30s": "2014年3月19日，小米发布红米Note，5.5英寸八核、999元起，千元机进入大屏八核时代，联发科与高通在千元档的贴身战争同步开打。",
+  "detail": "红米Note首销再次创造秒罄纪录，直接把山寨机最后的生存空间挤干。同期荣耀3X、酷派大神F1、TCL么么哒以同价位缠斗，千元机军备从四核升八核、720P升1080P。红米系列全年出货超两千万台，成为小米出货基本盘。",
+  "impact": "千元档成为国产手机最大量级，加速功能机用户换代与智能机普及收官。",
+  "aftermath": "2016年后消费升级让千元机重心转向海外新兴市场；红米2019年独立为Redmi品牌延续价格屠刀。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "红米Note - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/红米Note"
+   },
+   {
+    "title": "小米官网",
+    "url": "https://www.mi.com/"
+   }
+  ],
+  "tags": [
+   "红米",
+   "千元机",
+   "八核"
+  ]
+ },
+ {
+  "id": "2014-03-26-king-digital-ipo",
+  "date": "2014-03-26",
+  "title": "King上市：糖果传奇巅峰即拐点",
+  "summary_30s": "2014年3月26日，《糖果传奇》开发商King以约70亿美元估值登陆纽交所，上市首日破发，单一爆款依赖症的疑问应声而至，休闲手游公司的资本周期率初露端倪。",
+  "detail": "King凭借糖果传奇日赚百万美元，但市场质疑其用户增长见顶。此后两年股价持续低迷，2016年以59亿美元卖给动视暴雪。同期Zynga、Rovio等休闲游戏公司同样陷入爆款之后无以为继的怪圈。",
+  "impact": "为手游行业写下单款游戏生命周期的清醒剂，长线运营与多产品矩阵成为共识。",
+  "aftermath": "动视2016年收购King后将其打造为移动现金牛，2019年跨平台发行使命召唤手游再创爆款，验证了买下摇钱树的逻辑。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "King (company) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/King_(company)"
+   },
+   {
+    "title": "NYSE",
+    "url": "https://www.nyse.com/"
+   }
+  ],
+  "tags": [
+   "King",
+   "糖果传奇",
+   "上市"
+  ]
+ },
+ {
+  "id": "2014-03-31-zhouyijian-scandal",
+  "date": "2014-03-31",
+  "title": "文章出轨与周一见：微博时代的娱乐大爆炸",
+  "summary_30s": "2014年3月底，南都娱乐周刊预告文章姚笛婚外情并以周一见引爆悬念，31日凌晨文章发长文致歉，微博服务器一度被挤爆，全民吃瓜的传播机制与明星危机公关范式就此改写。",
+  "detail": "周刊预告期各路爆料、水军与反转轮番登场，粉丝与路人各执一词。文章的致歉微博、马伊琍的恋爱虽易婚姻不易且行且珍惜回应刷屏，且行且珍惜成为年度金句。新浪微博当日话题阅读量数十亿，营销号生态借势狂欢。",
+  "impact": "确立微博作为娱乐舆论引爆点与明星公关主战场的地位，预告式爆料成为标准操作。",
+  "aftermath": "2019年文章马伊琍官宣离婚再上热搜；周一见成为中文互联网吃瓜文化的代名词之一。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "文章 (演员) - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/文章_(演员)"
+   },
+   {
+    "title": "微博",
+    "url": "https://weibo.com/"
+   }
+  ],
+  "tags": [
+   "周一见",
+   "明星公关",
+   "微博热搜"
+  ]
+ },
+ {
+  "id": "2014-04-02-microsoft-cortana-reveal",
+  "date": "2014-04-02",
+  "title": "微软公布Cortana：移动助手的诸神之战",
+  "summary_30s": "2014年4月2日Build大会上，微软发布个人智能助理Cortana小娜，以光环游戏AI命名，对标Siri与Google Now，语音助手成为巨头标配的入口战争开打。",
+  "detail": "Cortana随Windows Phone 8.1上线，笔记本式兴趣管理与人设化对话获好评，随后登陆Windows 10桌面与安卓iOS。但在手机平台溃败的背景下，Cortana始终缺乏承载场景，2019年后转向企业服务，2023年正式停止消费端支持。",
+  "impact": "确立智能助手依赖操作系统的残酷逻辑，为后来Alexa、小爱同学与语音入口大战提供前车之鉴。",
+  "aftermath": "2023年微软把消费级AI入口押注Copilot，Cortana功成身退；中国厂商的语音助手则内化为IoT控制中枢。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Cortana (virtual assistant) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)"
+   },
+   {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com/"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Cortana",
+   "语音助手"
+  ]
+ },
+ {
+  "id": "2014-04-07-heartbleed-disclosed",
+  "date": "2014-04-07",
+  "title": "心脏出血漏洞曝光：互联网集体补心的两周",
+  "summary_30s": "2014年4月7日，OpenSSL的高危漏洞Heartbleed被公开，全球约三分之二的加密网站可被读取内存窃取密钥与密码，各大网站连夜打补丁，网民被建议改密码，开源安全欠账问题总爆发。",
+  "detail": "漏洞由谷歌与Codenomom研究者几乎同时发现，波及网银、电商、邮箱等海量服务。 OpenSSL仅靠每年数千美元捐赠支撑的现实引发反思，Linux基金会随即发起核心基础设施计划，微软、谷歌、亚马逊等注资。",
+  "impact": "成为软件供应链安全的标志性事件，开源组件维护的责任与资助机制被重估。",
+  "aftermath": "2015年FREAK、2016年OpenSSL再曝漏洞持续敲警钟；2020年SolarWinds与Log4j事件延续同一主题。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Heartbleed - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heartbleed"
+   },
+   {
+    "title": "OpenSSL",
+    "url": "https://www.openssl.org/"
+   }
+  ],
+  "tags": [
+   "Heartbleed",
+   "OpenSSL",
+   "网络安全"
+  ]
+ }
+]

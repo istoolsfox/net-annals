@@ -1,0 +1,574 @@
+[
+ {
+  "id": "1996-12-01-being-digital-cn",
+  "date": "1996-12-01",
+  "title": "《数字化生存》中译本出版热销：中国知识界的互联网思想启蒙第一书",
+  "summary_30s": "1996年底，尼葛洛庞帝的《数字化生存》由海南出版社出版，胡泳、范海燕翻译。『比特取代原子』的判断让官员、学者与创业者集体补课，此书连续多月占据畅销榜，成为中国互联网元年的思想底本。",
+  "detail": "原书1995年在美国出版，中译本1996年12月推出后意外爆红，首印数万册迅速售罄，多次加印。书中预言的个性化媒体、电子商务与数字化生存方式，为尚在拨号时代的中国读者打开了想象空间。1997年尼葛洛庞帝访华掀起热潮，搜狐张朝阳正是其学生，借势赢得关注。",
+  "impact": "《数字化生存》把互联网从技术圈话题提升为全民公共话语，直接激励了1999年前后的创业潮，被许多互联网元老列为入行启蒙。",
+  "aftermath": "胡泳此后成为网络文化研究代表学者，本书在多个周年节点被重版重读。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "数字化生存",
+    "url": "https://zh.wikipedia.org/wiki/數位化生存"
+   }
+  ],
+  "tags": [
+   "数字化生存",
+   "尼葛洛庞帝",
+   "思想启蒙",
+   "畅销书"
+  ]
+ },
+ {
+  "id": "1996-12-01-steel-100m-tons",
+  "date": "1996-12-01",
+  "title": "中国钢产量首次突破一亿吨大关：世界钢铁第一大国的位置失而复得",
+  "summary_30s": "1996年，中国钢产量首次突破1亿吨，超过日本重回世界第一。这一数字背后是从连铸比提升到宝钢二期投产的完整工业化努力，也预示此后二十年中国基建与制造业对钢铁的无尽胃口。",
+  "detail": "1949年中国钢产量仅15.8万吨，1958年大炼钢铁运动的目标不过是1070万吨。1996年，依托宝钢、鞍钢、首钢等骨干企业与引进消化的连铸连轧技术，粗钢产量达到10124万吨。产量登顶的同时，品种结构与能耗问题仍待解决。",
+  "impact": "亿吨钢铁为房地产商品化、高速公路网与出口制造业提供了材料底盘，中国由此进入重化工业加速期，全球铁矿石贸易格局随之改写。",
+  "aftermath": "2020年中国粗钢产量已超10亿吨，占全球一半以上，去产能与绿色冶金成为新命题。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Steel industry in China",
+    "url": "https://en.wikipedia.org/wiki/Steel_industry_in_China"
+   }
+  ],
+  "tags": [
+   "钢铁",
+   "工业化",
+   "世界第一",
+   "制造业"
+  ]
+ },
+ {
+  "id": "1996-12-01-rmb-current-convertibility",
+  "date": "1996-12-01",
+  "title": "人民币实现经常项目可兑换：外汇体制改革迈出接轨世界的关键一步",
+  "summary_30s": "1996年12月1日，中国正式接受国际货币基金组织协定第八条款，实现人民币经常项目可兑换。企业和个人涉外贸易、服务下的付汇不再需要逐笔审批，中国外汇体制提前达到加入WTO的门槛条件。",
+  "detail": "1994年汇改统一汇率、建立银行间外汇市场后，中国先实行银行结售汇制，再分步放开经常项目限制。1996年11月27日央行行长戴相龙致函IMF宣布承担第八条款义务，12月1日正式生效。人民币在资本项目下仍实行管制，这一格局延续至今。",
+  "impact": "经常项目可兑换稳定了外商投资与贸易结算预期，为此后外贸黄金二十年扫清制度障碍，也向世界释放中国坚持开放市场的信号。",
+  "aftermath": "人民币2016年加入IMF特别提款权货币篮子，资本项目开放仍在审慎渐进推进。",
+  "category": "economy",
+  "milestone": true,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Renminbi",
+    "url": "https://en.wikipedia.org/wiki/Renminbi"
+   }
+  ],
+  "tags": [
+   "人民币",
+   "外汇改革",
+   "IMF",
+   "对外开放"
+  ]
+ },
+ {
+  "id": "1996-12-01-forex-reserves-100b",
+  "date": "1996-12-01",
+  "title": "中国外汇储备跨过一千亿美元门槛：涉外经济与金融安全的家底变厚",
+  "summary_30s": "1996年底，中国外汇储备突破1000亿美元，较1993年底的212亿美元增长近五倍。外贸顺差与外资流入双轮驱动，充足的外汇家底为次年直面亚洲金融危机的汇率稳定提供了底气。",
+  "detail": "1994年汇率并轨后，人民币一次性贬值带动出口，加工贸易与外商直接投资持续流入，储备节节攀升。1996年11月储备即达到千亿美元量级，央行行长在人大会议上确认这一数据。储备增长也带来对冲流动性投放的新课题，外汇占款逐渐成为基础货币投放主渠道。",
+  "impact": "千亿美元储备改变了国际投资者对中国偿付能力的评估，中国在亚洲金融危机中选择人民币不贬值的政策空间由此而来。",
+  "aftermath": "中国储备此后一路攀升，2014年6月近4万亿美元见顶，全球最大外汇储备国的地位保持至今。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Foreign-exchange reserves of China",
+    "url": "https://en.wikipedia.org/wiki/Foreign-exchange_reserves_of_China"
+   }
+  ],
+  "tags": [
+   "外汇储备",
+   "金融安全",
+   "外贸",
+   "亚洲金融危机"
+  ]
+ },
+ {
+  "id": "1996-12-01-macromedia-flash",
+  "date": "1996-12-01",
+  "title": "Macromedia收购FutureWave：Flash由此登上历史舞台",
+  "summary_30s": "1996年底，Macromedia收购FutureWave公司，把FutureSplash Animator收归旗下并更名Flash。矢量动画体积极小、流畅互动，Flash此后十年成为网页动画与小游戏的事实标准。",
+  "detail": "FutureSplash由乔纳森·盖伊团队开发，设计初衷是在低速调制解调器时代传输顺滑的矢量动画。Macromedia收购后于1997年推出Flash 2，加入逐帧动画与脚本雏形；1999年Flash 4的ActionScript让设计师能做交互动画。『闪客』文化在中文互联网蓬勃一时。",
+  "impact": "Flash定义了宽带前时代的网络视觉语言，催生闪客帝国、小小动画与无数企业网站开场动画，也是YouTube诞生前网络视频的重要载体。",
+  "aftermath": "Adobe 2005年收购Macromedia，Flash因安全与性能问题于2020年正式停止支持。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Adobe Flash",
+    "url": "https://en.wikipedia.org/wiki/Adobe_Flash"
+   }
+  ],
+  "tags": [
+   "Flash",
+   "Macromedia",
+   "矢量动画",
+   "闪客"
+  ]
+ },
+ {
+  "id": "1996-12-01-legend-pc-no1",
+  "date": "1996-12-01",
+  "title": "联想电脑首次登上中国市场份额第一：国产品牌打赢电脑市场翻身第一仗",
+  "summary_30s": "1996年，联想台式PC以降价与渠道下沉策略首次夺得中国市场年度份额第一，把康柏、AST等洋品牌拉下马。『万元奔腾』浪潮由此掀起，家用电脑加速走进中国家庭。",
+  "detail": "杨元庆执掌联想微机事业部后，以Costdown供应链打快速周转，1996年三次大幅降价，把主流奔腾机型压到一万元上下，依托全国分销网络放量。全年联想销量约20余万台登顶，广告语『人类失去联想，世界将会怎样』深入人心。1997年联想继续扩大领先。",
+  "impact": "联想登顶宣告国产硬件品牌在中关村崛起，PC价格雪崩使电脑从奢侈品变为耐用消费品，为互联网普及准备了终端基础。",
+  "aftermath": "联想2004年收购IBM PC业务成为全球厂商，2013年登上全球PC份额第一。",
+  "category": "company",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "联想集团",
+    "url": "https://zh.wikipedia.org/wiki/聯想集團"
+   }
+  ],
+  "tags": [
+   "联想",
+   "PC",
+   "国产硬件",
+   "价格战"
+  ]
+ },
+ {
+  "id": "1996-12-10-apple-buys-next",
+  "date": "1996-12-10",
+  "title": "苹果4.29亿美元收购NeXT公司：乔布斯以顾问身份踏上重返苹果之路",
+  "summary_30s": "1996年12月10日，深陷困境的苹果以约4.29亿美元收购NeXT，获得其Unix系统与人才。创始人乔布斯以非正式顾问回归，不到一年便执掌大权，苹果复兴的大幕就此拉开。",
+  "detail": "苹果当时市值跌至数十亿美元，下一代系统Copland研发失败，CEO阿梅里奥选中NeXTSTEP作为新系统底座。乔布斯随并购回归，1997年7月说服董事会驱逐阿梅里奥，出任临时CEO，砍掉产品线、与微软和解。NeXTSTEP工程团队后来打造出Mac OS X与iOS。",
+  "impact": "这笔收购被商学院奉为史上最伟大并购之一：买回的不只是技术，更是创始人；NeXTSTEP基因至今运行在每一台苹果设备中。",
+  "aftermath": "乔布斯2011年去世时，苹果已是全球市值最高的公司之一。",
+  "category": "company",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "NeXT",
+    "url": "https://en.wikipedia.org/wiki/NeXT"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "乔布斯",
+   "NeXT",
+   "并购"
+  ]
+ },
+ {
+  "id": "1996-12-13-annan-elected",
+  "date": "1996-12-13",
+  "title": "安南被推举为联合国第七任秘书长：首位撒哈拉以南非洲人执掌联合国",
+  "summary_30s": "1996年12月13日，安理会一致推举加纳外交官科菲·安南接替加利出任联合国秘书长，12月17日联大确认。他在世纪之交主导联合国改革，2001年与联合国共获诺贝尔和平奖。",
+  "detail": "美国否决加利连任，与发展中国家激烈博弈后，出身联合国系统内部的安南成为折中人选。任内他推动千年发展目标、维和改革，在伊拉克战争问题上与美国拉开距离，卸任前与联合国同获诺贝尔和平奖。他提出的『更大自由』与『人的安全』理念影响深远。",
+  "impact": "安南重塑了冷战后秘书长的道义权威形象，把联合国议程从国家间和平扩展到贫困、艾滋病与气候变化等人类议题。",
+  "aftermath": "安南2018年逝世，其斡旋遗产与『不该发生却发生了的』卢旺达之痛一同被铭记。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Kofi Annan",
+    "url": "https://en.wikipedia.org/wiki/Kofi_Annan"
+   }
+  ],
+  "tags": [
+   "联合国",
+   "安南",
+   "秘书长",
+   "诺贝尔和平奖"
+  ]
+ },
+ {
+  "id": "1996-12-16-peoples-daily-editorial",
+  "date": "1996-12-16",
+  "title": "《人民日报》特约评论员文章重挫沪深股市：政策市的教科书级样本",
+  "summary_30s": "1996年12月16日，《人民日报》发表特约评论员文章《正确认识当前股票市场》，指暴涨为『不正常的和非理性的』。沪深两市当日绝大多数股票跌停，沪指单日重挫近一成，岁末牛市戛然而止。",
+  "detail": "1996年沪深两市在降息与题材炒作下翻番上涨，垃圾股鸡犬升天，管理层连发『十二道金牌』降温无果。评论员文章定性市场出现过度投机，点名批评部分机构和媒体，同时宣布1996年新股发行计划增量。两市应声连续两日大面积跌停，此后数周累计回落三成。",
+  "impact": "这是A股历史上政策干预行情最著名的一次，『政策市』成为此后二十年描述A股的关键词，也促使监管层反思市场化调控手段。",
+  "aftermath": "1999年『5·19行情』与2007年『5·30』调整中，市场仍不断重温这一范式。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "人民日报",
+    "url": "https://zh.wikipedia.org/wiki/人民日报"
+   }
+  ],
+  "tags": [
+   "A股",
+   "政策市",
+   "人民日报",
+   "股市调控"
+  ]
+ },
+ {
+  "id": "1996-12-20-scream-release",
+  "date": "1996-12-20",
+  "title": "韦斯·克雷文《惊声尖叫》北美上映：自我反讽让砍杀恐怖片满血复活",
+  "summary_30s": "1996年12月20日，《惊声尖叫》北美上映，以1500万美元成本收获逾1.7亿美元票房。片中角色谈论恐怖片规则再被规则反杀的自反性设计，让停滞的砍杀类型起死回生。",
+  "detail": "凯文·威廉森的剧本让角色明知『恐怖片生存法则』仍难逃一劫，鬼脸面具与『你最喜欢哪部恐怖片』的开场电话成为流行文化符号。德鲁·巴里摩尔开场十分钟被杀的反套路震惊观众。影片带出三部续集与电视剧，也掀起《我知道你去年夏天干了什么》等青春恐怖跟风潮。",
+  "impact": "它证明了恐怖片的类型自觉可以变现，meta叙事进入主流商业片工具箱，影响延续至《林中小屋》等后世作品。",
+  "aftermath": "系列2022、2026年两度重启，鬼脸成为与弗雷迪、杰森并列的恐怖图腾。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Scream (1996 film)",
+    "url": "https://en.wikipedia.org/wiki/Scream_(1996_film)"
+   }
+  ],
+  "tags": [
+   "恐怖片",
+   "惊声尖叫",
+   "好莱坞",
+   "流行文化"
+  ]
+ },
+ {
+  "id": "1996-12-21-god-of-cookery",
+  "date": "1996-12-21",
+  "title": "周星驰《食神》香港上映：一碗黯然销魂饭铸就港式无厘头喜剧经典",
+  "summary_30s": "1996年12月21日，周星驰自导自演的《食神》在香港上映，票房逾4000万港元居年度华语片前列。史蒂芬·周从餐饮霸主跌落再到少林寺归来，黯然销魂饭成为几代观众的美食想象。",
+  "detail": "这是周星驰与杨国辉合组星辉公司后的首部作品，莫文蔚饰演火鸡姐的牺牲与双头刀设计颇为动人。影片把功夫、美食与商战熔于一炉，结尾一碗叉烧饭饭感动人的朴素哲理延续周氏小人物叙事。影片让『撒尿牛丸』成为街头小吃名品，现实中有商家借势开档。",
+  "impact": "《食神》标志周星驰从演员到导演作者的关键一跃，其港式无厘头与情感内核的平衡成为此后《喜剧之王》的先声。",
+  "aftermath": "2020年代内地宣布翻拍动画版，黯然销魂饭至今是短视频美食区的常客。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "食神 (电影)",
+    "url": "https://zh.wikipedia.org/wiki/食神_(電影)"
+   }
+  ],
+  "tags": [
+   "周星驰",
+   "香港电影",
+   "喜剧",
+   "美食"
+  ]
+ },
+ {
+  "id": "1996-12-29-guatemala-peace",
+  "date": "1996-12-29",
+  "title": "危地马拉签署最终和平协定：长达三十六年的内战枪声终于停息下来",
+  "summary_30s": "1996年12月29日，危地马拉政府与左翼游击队全国革命联盟在奥斯陆签署最终和平协定，为36年内战画上句号。战争造成约20万人死亡或失踪，真相委员会随后揭开大规模暴行的历史。",
+  "detail": "内战源于1954年政变后的土地与种族矛盾，原住民玛雅社区成为军队清剿的最大受害者。1996年协定内容涵盖停火、土地改革、军队改革与原住民权利，联合国全程斡旋。1998年主教胡伦遇刺、1999年真相委员会报告认定军队犯下种族灭绝暴行，追责之路漫长。",
+  "impact": "中美洲地区由此全面结束内战年代，危地马拉模式成为联合国主持解决长期内战的样板之一。",
+  "aftermath": "原住民权利与有罪不罚的博弈持续至今，2013年前独裁者里奥斯·蒙特一度被定罪种族灭绝。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Guatemalan Civil War",
+    "url": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War"
+   }
+  ],
+  "tags": [
+   "危地马拉",
+   "内战",
+   "和平协定",
+   "拉丁美洲"
+  ]
+ },
+ {
+  "id": "1997-01-01-yinghaiwei-upheaval",
+  "date": "1997-01-01",
+  "title": "瀛海威高层震荡张树新黯然出局：中国互联网启蒙者的第一次惨痛坠落",
+  "summary_30s": "1997年，『中国人离信息高速公路有多远』的缔造者张树新在管理层与董事会的冲突中辞职离场，核心团队随后大批出走。瀛海威由盛转衰，成为中国互联网史上最早的先烈样本。",
+  "detail": "张树新1995年创办瀛海威，以广告牌与科教馆式门店启蒙大众上网，但重资产模式烧钱过快。1997年1月其辞呈风波公开化，董事会与大股东中国兴发集团接掌经营，张树新当年获准离职。1998年15名中高层集体辞职，公司此后转型、出售与商标纠纷不断。",
+  "impact": "瀛海威的挫败让行业看清了『重门店、轻产品』模式的代价，其教训被门户一代反复引用，张树新则转型投资与咨询。",
+  "aftermath": "『瀛海威时空』品牌在多次易手后消失，但其广告牌成为中国互联网史叙事的第一格胶片。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "瀛海威",
+    "url": "https://zh.wikipedia.org/wiki/瀛海威"
+   }
+  ],
+  "tags": [
+   "瀛海威",
+   "张树新",
+   "互联网史",
+   "公司治理"
+  ]
+ },
+ {
+  "id": "1997-01-01-sixdegrees-launch",
+  "date": "1997-01-01",
+  "title": "SixDegrees.com上线运营：社交网络理念的第一次产品化落地",
+  "summary_30s": "1997年，以『六度分隔』理论命名的SixDegrees.com上线，用户可建档、加好友、浏览二度三度人脉。它是学界公认的第一代社交网络站点，其功能骨架被Friendster、MySpace到Facebook全盘继承。",
+  "detail": "站点由Andrew Weinreich创办于纽约，允许创建个人主页、发送消息与邀请朋友，高峰期注册用户达数百万。受限于拨号网络与邮箱提醒的迟缓，用户留存不佳，2001年停止运营。域名与理念后来成为行业传说中的『先行者』。",
+  "impact": "SixDegrees定义了社交网络的基本元素——档案、好友列表、关系链展示，其失败则教育了后来者：留住人比拉来人更难。",
+  "aftermath": "2017年其域名被重启做影视社交产品，六度分隔理论仍被无数产品引用。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "SixDegrees.com",
+    "url": "https://en.wikipedia.org/wiki/SixDegrees.com"
+   }
+  ],
+  "tags": [
+   "社交网络",
+   "六度分隔",
+   "互联网史",
+   "先行者"
+  ]
+ },
+ {
+  "id": "1997-01-01-southern-metropolis-daily",
+  "date": "1997-01-01",
+  "title": "《南方都市报》在广州创刊：都市报浪潮中日后长成的舆论监督重镇",
+  "summary_30s": "1997年1月1日，南方日报社旗下《南方都市报》创刊。从市民新闻起步，逐步以调查报道、时评与娱乐副刊崛起，成为中国市场化报纸黄金年代最重要的力量之一。",
+  "detail": "创刊初期为对开小报形态，主打广州都市生活资讯。程益中等推动改版后确立『办中国最好的报纸』的抱负，孙志刚案报道直接推动收容遣送制度废止。报纸在珠三角多个城市分版运营，广告额一度跻身全国都市报前列。",
+  "impact": "南都证明都市类报纸同样可以承载重大公共议题，其人才培养与版式创新深刻影响全国都市报生态。",
+  "aftermath": "纸业寒冬中转向数字化，南方都市报App与N视频延续其影响，孙志刚案报道至今是中国新闻史地标。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "南方都市报",
+    "url": "https://zh.wikipedia.org/wiki/南方都市報"
+   }
+  ],
+  "tags": [
+   "南方都市报",
+   "都市报",
+   "新闻史",
+   "广州"
+  ]
+ },
+ {
+  "id": "1997-01-01-chinabyte-launch",
+  "date": "1997-01-01",
+  "title": "ChinaByte网站开通上线：新闻集团与党报系统的第一次网络合资实验",
+  "summary_30s": "1997年，由《人民日报》社属企业与新闻集团合资的ChinaByte在北京开通，定位中文IT与新闻资讯网站。它是外资媒体集团进入中国互联网的最早尝试，也是网络新闻采编规范的试验田。",
+  "detail": "默多克的新闻集团与人民日报社下属公司合资组建笔电新人公司，经营ChinaByte网站，内容涵盖科技、财经与体育。早期网络媒体记者的职业身份、稿费与新闻伦理在此摸索成型。1999年前后网站多轮改版与股权变动，新闻集团逐步退出日常运营。",
+  "impact": "ChinaByte培养了中国最早一批专职网络编辑记者，为门户时代输送人才；其合资模式也成为观察中国媒体开放尺度的长期样本。",
+  "aftermath": "域名几经转手，其历史价值更多存留于中国网络新闻史研究之中。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国互联网",
+    "url": "https://zh.wikipedia.org/wiki/中国互联网"
+   }
+  ],
+  "tags": [
+   "ChinaByte",
+   "网络媒体",
+   "新闻集团",
+   "合资"
+  ]
+ },
+ {
+  "id": "1997-01-23-hanbo-collapse",
+  "date": "1997-01-23",
+  "title": "韩国韩宝钢铁集团轰然破产倒下：亚洲金融危机多米诺的第一张倒下骨牌",
+  "summary_30s": "1997年1月23日，韩国第二大钢铁企业韩宝集团向法院申请破产，暴露出政商勾结贷款与家族财阀的高杠杆顽疾。韩宝事件撕开了韩国经济泡沫，被视为亚洲金融危机在韩国的序幕。",
+  "detail": "韩宝投资兴建的唐津钢厂耗资庞大，贷款来自多家银行，背后牵出行贿政界的丑闻，总统金泳三之子亦被卷入调查。消息公布后韩宝工业与建设两家上市公司股价崩盘。此后起亚、真露等财阀接连倒下，韩国全年企业倒闭创纪录。",
+  "impact": "韩宝破产让国际市场开始质疑东亚模式的债务黑箱，评级下调与资本外逃形成连锁，为年底韩国申请IMF救助写下伏笔。",
+  "aftermath": "财阀改革与民主化监督在危机后加速，韩宝旗下钢厂日后被现代收购改组。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1997 Asian financial crisis",
+    "url": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis"
+   }
+  ],
+  "tags": [
+   "韩国",
+   "财阀",
+   "亚洲金融危机",
+   "破产"
+  ]
+ },
+ {
+  "id": "1997-03-09-mohe-solar-eclipse",
+  "date": "1997-03-09",
+  "title": "漠河日全食与海尔-波普彗星同现天穹：中国北端的世纪天文观测盛会",
+  "summary_30s": "1997年3月9日上午，日全食带扫过中国漠河与俄罗斯远东，恰逢亮达负2等的海尔-波普彗星高悬近日天空。数以万计的天文爱好者和科学家奔赴零下二十度的漠河，观测『日月同辉、彗星伴日』的罕见天象。",
+  "detail": "本次日全食中国境内仅漠河一带可见全食，全食阶段天空转暗，彗星与水星、金星同框。中科院组织多学科联测，中央电视台现场直播，全国掀起天文科普热。海尔-波普彗星随后在春季北半球夜空持续肉眼可见达数月，是天文学史上著名的『大彗星』。",
+  "impact": "漠河观测成为中国科普史标志性事件，极大推动了业余天文群体与科普直播的发展，海尔-波普则激发了整整一代人的天文兴趣。",
+  "aftermath": "海尔-波普周期约2533年，本次归来是人类文明最后一次以肉眼长期欣赏它。",
+  "category": "tech",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Solar eclipse of March 9, 1997",
+    "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_1997"
+   }
+  ],
+  "tags": [
+   "日全食",
+   "海尔-波普",
+   "漠河",
+   "天文"
+  ]
+ },
+ {
+  "id": "1997-03-09-notorious-big-killed",
+  "date": "1997-03-09",
+  "title": "说唱歌星声名狼藉先生洛杉矶遇害：东西海岸嘻哈恩怨的最痛休止符",
+  "summary_30s": "1997年3月9日凌晨，The Notorious B.I.G.在洛杉矶参加派对后被枪杀，年仅24岁。距2Pac遇害仅半年，东西海岸说唱之争以两位巨星的生命为代价画上残酷休止符。",
+  "detail": "B.I.G.本名Christopher Wallace，1994年专辑《Ready to Die》令其成为东岸说唱之王。当晚他离开彼得森汽车博物馆时座车遭连环枪击，凶手驾车离去，案件至今未破。两周后其遗作专辑《Life After Death》发行，登顶公告牌。",
+  "impact": "两位巨星的死亡令嘻哈圈集体反思暴力叙事，此后东西海岸对立降温，说唱产业转向商业共存；案件悬而未决成为流行文化最大谜团之一。",
+  "aftermath": "B.I.G.被公认为史上最伟大说唱歌手之一，2021年入选摇滚名人堂。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "The Notorious B.I.G.",
+    "url": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G."
+   }
+  ],
+  "tags": [
+   "嘻哈",
+   "说唱",
+   "东西海岸",
+   "悬案"
+  ]
+ },
+ {
+  "id": "1997-03-14-criminal-law-revision",
+  "date": "1997-03-14",
+  "title": "八届全国人大通过全面修订刑法：罪刑法定原则正式写入国家基本法律",
+  "summary_30s": "1997年3月14日，八届全国人大五次会议通过全面修订的《中华人民共和国刑法》，10月1日起施行。罪刑法定、法律面前人人平等、罪刑相适应三大原则入法，类推制度废除。",
+  "detail": "1979年刑法施行17年后已难以适应市场经济与社会转型，修订后的刑法条文从192条增至452条，新增证券犯罪、计算机犯罪、黑社会性质组织犯罪等罪名，并设专节规定贪污贿赂罪。死刑罪名经审议有所调整，反革命罪改为危害国家安全罪。",
+  "impact": "这是新中国法制建设史上规模最大的刑法修订，确立现代刑法基本原则，为依法治国方略在1999年写入宪法准备了部门法基础。",
+  "aftermath": "此后刑法又经历十一个修正案，2020年刑法修正案(十一)进一步回应网络与金融犯罪。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中华人民共和国刑法",
+    "url": "https://zh.wikipedia.org/wiki/中华人民共和国刑法"
+   }
+  ],
+  "tags": [
+   "刑法",
+   "依法治国",
+   "立法",
+   "法律修订"
+  ]
+ },
+ {
+  "id": "1997-03-24-dvd-us-launch",
+  "date": "1997-03-24",
+  "title": "DVD碟片正式登陆北美市场开售：家庭影院的革命从第一张碟片开始",
+  "summary_30s": "1997年3月24日，DVD在美国正式上市，首发碟片包括少量首批电影，播放机售价约500至700美元。清晰的画面与多声道音轨让家庭影院体验一夜升级。",
+  "detail": "华纳、索尼、先锋等片厂与硬件商协调分区码制度后集体放行。首发当日部分城市出现排队，首批上市影片约三十部。当年圣诞季播放机销量即突破数十万台，录像带出租连锁百视达逐步转向DVD租赁。中国珠三角厂商迅速跟进代工，全球碟机产业链向东亚集中。",
+  "impact": "DVD以数字画质终结了模拟影像时代，其分区码与版权管理也成为数字版权博弈的最早主战场。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "DVD",
+    "url": "https://en.wikipedia.org/wiki/DVD"
+   }
+  ],
+  "tags": [
+   "DVD",
+   "家庭影院",
+   "北美",
+   "光存储"
+  ],
+  "aftermath": "2003年DVD取代VHS成为美国首要家庭观影载体，直到流媒体时代被取代。"
+ },
+ {
+  "id": "1997-04-01-hale-bopp-perihelion",
+  "date": "1997-04-01",
+  "title": "海尔-波普彗星过近日点：二十世纪最壮观的『世纪大彗星』谢幕演出",
+  "summary_30s": "1997年4月1日，海尔-波普彗星通过近日点，北半球肉眼可见时间长达创纪录的18个月。它与漠河日全食同框、与极光合影，成为20世纪最著名的大彗星，也是万维网时代首颗被全球直播的彗星。",
+  "detail": "彗星由Alan Hale与Thomas Bopp在1995年7月同时发现，1997年春达到最亮。互联网上天文爱好者即时分享照片，NASA网站访问量激增，显示网络时代天文传播的新形态。悲剧的是天堂之门教派借彗星之名的集体自杀事件也与之相关，成为科学传播史上的沉痛注脚。",
+  "impact": "海尔-波普让『彗星热』成为全球现象，业余天文摄影与网络科普社区由此壮大，其观测数据支持了彗核喷流理论研究。",
+  "aftermath": "彗星将在约2380年后回归，人类或将以行星际探测器迎接它。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Comet Hale–Bopp",
+    "url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp"
+   }
+  ],
+  "tags": [
+   "彗星",
+   "海尔-波普",
+   "天文",
+   "科学传播"
+  ]
+ }
+]

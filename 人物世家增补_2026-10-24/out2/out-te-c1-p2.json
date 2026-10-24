@@ -1,0 +1,652 @@
+[
+ {
+  "id": "1996-06-13-sumitomo-copper",
+  "date": "1996-06-13",
+  "title": "住友铜交易丑闻曝光：明星交易员滨中泰男十年隐秘交易亏26亿美元",
+  "summary_30s": "1996年6月13日，日本住友商社披露，其铜交易首席滨中泰男十年来违规交易累计造成约26亿美元损失。全球铜价应声暴跌，伦敦金属交易所启动调查，『百分之五先生』身败名裂。",
+  "detail": "滨中泰男长期掌控全球约5%的铜交易，被称为『百分之五先生』。他以公司授权之外的自营头寸操纵市场，亏损后不断加仓掩盖。丑闻曝光后住友一次性平仓，LME铜价单日重挫，多头投机者连带巨亏。滨中泰男1997年被东京法院判处有期徒刑，住友商社面临多国监管处罚与集体诉讼。",
+  "impact": "住友事件与巴林银行倒闭并列为90年代交易员丑闻双案，直接推动全球衍生品交易所的大户报告与持仓限额制度收紧。",
+  "aftermath": "日本商社此后大幅收缩海外自营交易，风险管理部门地位上升；本事件至今仍是交易风控教材第一课。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Yasuo Hamanaka",
+    "url": "https://en.wikipedia.org/wiki/Yasuo_Hamanaka"
+   }
+  ],
+  "tags": [
+   "住友",
+   "期货丑闻",
+   "铜",
+   "风险管理"
+  ]
+ },
+ {
+  "id": "1996-06-30-euro96-final",
+  "date": "1996-06-30",
+  "title": "欧洲杯决赛比埃霍夫加时金球绝杀捷克：德国队时隔十六年再捧德劳内杯",
+  "summary_30s": "1996年6月30日，在英格兰举办的第10届欧洲杯决赛中，替补登场的比埃霍夫加时赛打进足球史上首个国际大赛金球，德国2比1击败捷克夺冠。『足球回家』的东道主止步四强。",
+  "detail": "本届欧洲杯扩军至16队，温布利大球场见证决赛。捷克队萨默尔的组织一度占优并凭点球领先，昆茨扳平后进入加时。第95分钟比埃霍夫的射门从门将考巴身后漏入，金球制胜规则下捷克瞬间出局。德国队此前淘汰东道主英格兰，点球大战中现任教练索斯盖特罚失。",
+  "impact": "金球制首次在欧洲杯决赛决定冠军，『突然死亡』规则此后短暂流行又因争议被弃用；大规模扩军让欧洲杯商业价值跃升。",
+  "aftermath": "比埃霍夫由此开启传奇生涯，1998年世界杯预选赛他继续担任德国救主；索斯盖特的失点成为英格兰足球著名伤口。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "UEFA Euro 1996 Final",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_1996_Final"
+   }
+  ],
+  "tags": [
+   "欧洲杯",
+   "德国队",
+   "金球",
+   "温布利"
+  ]
+ },
+ {
+  "id": "1996-07-03-yeltsin-reelected",
+  "date": "1996-07-03",
+  "title": "叶利钦在俄罗斯总统大选决选中获胜连任：休克疗法与寡头时代得以延续",
+  "summary_30s": "1996年7月3日决选投票，叶利钦击败俄共领导人久加诺夫成功连任俄罗斯总统。选前民心尽失的叶利钦借助媒体战、寡头资金与西方支持翻盘，俄罗斯避免了政治转向。",
+  "detail": "苏联解体后经济滑坡令叶利钦支持率一度跌至个位数。别列佐夫斯基、古辛斯基等七寡头以媒体资源换取经济利益，全力为其造势；国际货币基金组织也在投票前放出贷款信号。叶利钦决选得票约53.7%，久加诺夫约40.3%。叶利钦第二任期经济仍未见根本好转，1999年底突然辞职交棒普京。",
+  "impact": "这场选举被广泛视为寡头政治成型的时刻，『贷款换股份』拍卖在其后完成，俄罗斯产权结构由此定型。",
+  "aftermath": "1999年叶利钦辞职时支持率已不足一成，『守护宪法与自由』的遗产与经济凋敝的代价至今争论不休。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1996 Russian presidential election",
+    "url": "https://en.wikipedia.org/wiki/1996_Russian_presidential_election"
+   }
+  ],
+  "tags": [
+   "俄罗斯",
+   "叶利钦",
+   "选举",
+   "寡头"
+  ]
+ },
+ {
+  "id": "1996-07-04-hotmail-launch",
+  "date": "1996-07-04",
+  "title": "Hotmail免费网页邮箱正式上线：任意电脑收信的设想改变了电子邮件",
+  "summary_30s": "1996年7月4日美国独立日，Sabeer Bhatia与Jack Smith创办的Hotmail上线。邮箱以网页方式访问，免费向所有人开放，一年半内用户破千万，次年年底被微软以4亿美元收购。",
+  "detail": "两位斯坦福毕业生避开公司防火墙检查私人邮件的痛点出发，设计了纯Web邮箱。上线当天恰逢独立日，寓意『摆脱客户端与ISP的自由』。Hotmail靠邮箱底部的病毒式签名链接获客，成本极低。1997年12月微软以约4亿美元现金将其收入麾下，成为MSN体系基石。",
+  "impact": "Hotmail确立了免费+网页+广告的互联网服务范式，直接启发了包括163电子邮局在内的全球模仿者，电子邮箱从工程师特权变为大众工具。",
+  "aftermath": "2013年微软逐步以Outlook.com替换Hotmail品牌，免费邮箱已是互联网基础设施。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Hotmail",
+    "url": "https://en.wikipedia.org/wiki/Hotmail"
+   }
+  ],
+  "tags": [
+   "Hotmail",
+   "免费邮箱",
+   "微软",
+   "病毒营销"
+  ]
+ },
+ {
+  "id": "1996-07-15-msnbc-launch",
+  "date": "1996-07-15",
+  "title": "微软与NBC合资的MSNBC频道开播：网络与电视新闻的第一次大联姻",
+  "summary_30s": "1996年7月15日，微软与全国广播公司合资的MSNBC有线电视新闻频道及新闻网站同步开播。这是硅谷巨头首次深度进入新闻业，网络新闻的24小时更新模式由此起步。",
+  "detail": "微软出资2.2亿美元换取50%股份，把NBC的新闻资产与MSN互联网分发结合。msnbc.com迅速成为访问量最大的新闻站点之一；电视端则在CNN与福克斯夹缝中艰难爬坡。2005年微软退出电视频道运营，2012年NBC买断网站股权，合资实验宣告终结。",
+  "impact": "MSNBC证明了新闻网站的流量价值，也为科技公司介入内容产业的边界与冲突提供了最早的案例研究。",
+  "aftermath": "NBC与微软分家后，MSNBC转型为评论化新闻频道，在党派政治光谱中占据鲜明位置。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "MSNBC",
+    "url": "https://en.wikipedia.org/wiki/MSNBC"
+   }
+  ],
+  "tags": [
+   "MSNBC",
+   "微软",
+   "NBC",
+   "网络新闻"
+  ]
+ },
+ {
+  "id": "1996-07-19-ali-lights-flame",
+  "date": "1996-07-19",
+  "title": "拳王阿里颤抖点燃亚特兰大奥运圣火：百年奥运最动人的开幕式瞬间",
+  "summary_30s": "1996年7月19日亚特兰大奥运会开幕，身患帕金森症的穆罕默德·阿里以颤抖的右手点燃主火炬。这位1960年奥运冠军的登場让百年奥运庆典定格下超越竞技的人文瞬间。",
+  "detail": "主办方保密至最后一刻，由游泳名将埃文斯传递火种交给阿里。阿里因帕金森症手臂不停震颤，仍稳稳将火炬送向圣火台，全场起立欢呼。阿里1960年罗马奥运夺金后因种族歧视将金牌扔进河，此后成为反战与民权象征。1996年国际奥委会补授他一枚替代金牌。",
+  "impact": "这一幕被全球数亿观众观看，成为体育史上最著名的开幕式画面之一，也让公众重新理解疾病、尊严与英雄主义。",
+  "aftermath": "阿里2016年去世，亚特兰大的火光成为其公众记忆中与『蝴蝶步』并列的经典影像。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1996 Summer Olympics opening ceremony",
+    "url": "https://en.wikipedia.org/wiki/1996_Summer_Olympics_opening_ceremony"
+   }
+  ],
+  "tags": [
+   "奥运会",
+   "阿里",
+   "亚特兰大",
+   "开幕式"
+  ]
+ },
+ {
+  "id": "1996-07-29-windows-nt4",
+  "date": "1996-07-29",
+  "title": "微软发布Windows NT 4.0：企业级系统换上Win95的熟悉面孔",
+  "summary_30s": "1996年7月29日，微软发布Windows NT 4.0。服务器级内核配上Windows 95界面，任务管理器与新加入的IIS网络服务，使其成为企业组网与早期网站服务器的基石系统。",
+  "detail": "NT 4.0把图形界面移入内核以追赶Win95体验，风险是稳定性略降，但企业用户接纳度大增。内置的Internet Information Server 2.0让NT成为廉价Web服务器平台，大量第一代商业网站与局域网文件域服务跑在NT上。开发工具Visual Studio与BackOffice套件同期形成生态。",
+  "impact": "NT 4.0帮微软在企业市场站稳脚跟，为Windows 2000与Active Directory时代铺路，也加速了中小企业信息化。",
+  "aftermath": "NT 4.0支撑到2004年才停止扩展支持，其注册表与域架构概念延续至今。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Windows NT 4.0",
+    "url": "https://en.wikipedia.org/wiki/Windows_NT_4.0"
+   }
+  ],
+  "tags": [
+   "微软",
+   "Windows NT",
+   "服务器",
+   "IIS"
+  ]
+ },
+ {
+  "id": "1996-08-01-faye-wong-fuzao",
+  "date": "1996-08-01",
+  "title": "王菲专辑《浮躁》问世：华语流行乐坛最任性也最纯粹的一次艺术巅峰",
+  "summary_30s": "1996年夏，王菲发行国语专辑《浮躁》，大段梦呓式哼唱与Cocteau Twins式的迷幻编曲使它成为华语主流唱片中最前卫的作品。销量虽不及前作，却被乐迷奉为王菲艺术性最高的专辑。",
+  "detail": "专辑与Cocteau Twins成员参与制作，《无常》《想像》等曲目大量使用无意义音节吟唱，王菲包办多数作曲。市场对这张『不讨好』的唱片反应冷淡，但评论界视其为华语流行与另类音乐嫁接的孤本。同年王菲登上美国《时代》杂志亚洲版封面。",
+  "impact": "《浮躁》证明了巨星在商业巅峰期冒险的可能，影响了后来独立音乐人对主流边界的想象，也成为都市文青的身份符号。",
+  "aftermath": "专辑常年位居华语百佳唱片榜单前列，『浮躁式哼唱』成为王菲艺术人格的核心注脚。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "王菲",
+    "url": "https://zh.wikipedia.org/wiki/王菲"
+   }
+  ],
+  "tags": [
+   "王菲",
+   "华语音乐",
+   "专辑",
+   "另类流行"
+  ]
+ },
+ {
+  "id": "1996-08-01-game-thrones-vol1",
+  "date": "1996-08-01",
+  "title": "《冰与火之歌》首卷《权力的游戏》出版：奇幻文学新版图就此展开",
+  "summary_30s": "1996年8月，乔治·R·R·马丁出版《冰与火之歌》首卷《权力的游戏》。以多视点、灰色人物与政治现实主义重写奇幻类型，次年摘得轨迹奖，其未竟长篇成为出版界著名悬案。",
+  "detail": "马丁放弃传统善恶二元结构，以史塔克与兰尼斯特两大家族博弈开篇，奈德之死震撼读者。首卷初版印量有限，靠口碑与奖项积累读者。全书按七卷规划，第四、五卷间隔五年以上，马丁的写作进度成为全球书迷的执念，也促使HBO最终以剧集形式完成大众化。",
+  "impact": "它把奇幻从青少年类型提升为成人严肃阅读，POV叙事与『任何人都会死』的美学重塑了此后的史诗奇幻创作。",
+  "aftermath": "2011年《权力的游戏》剧集开播成为全球现象，原著销量以千万计，卷六《凛冬的寒风》至今未出。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "A Game of Thrones",
+    "url": "https://en.wikipedia.org/wiki/A_Game_of_Thrones"
+   }
+  ],
+  "tags": [
+   "奇幻文学",
+   "马丁",
+   "权力的游戏",
+   "出版"
+  ]
+ },
+ {
+  "id": "1996-08-01-nokia-9000",
+  "date": "1996-08-01",
+  "title": "诺基亚9000通信器上市发售：手机与掌上电脑的第一次合体尝试",
+  "summary_30s": "1996年下半年，诺基亚9000 Communicator上市。翻开键盘即可收发邮件、传真、上网，重达173克的『砖头』是世界上第一台接近智能手机形态的量产移动终端。",
+  "detail": "9000基于GEOS操作系统，内置全键盘、单色宽屏，可运行日历、表格与邮件客户端，通过GSM数据业务联网，售价高昂，主要面向商务与专业人士。它在电影《黑客》与诸多商战片中作为高科技道具出镜。后续9110、9210系列持续迭代，确立了Communicator产品线。",
+  "impact": "9000开创了『口袋里的办公室』产品想象，直接启发此后PDA手机与黑莓、侧滑盖机型的形态演进。",
+  "aftermath": "诺基亚2007年以N95告别Communicator理念，功能手机帝国的智能转型最终被iPhone终结。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Nokia 9000 Communicator",
+    "url": "https://en.wikipedia.org/wiki/Nokia_9000_Communicator"
+   }
+  ],
+  "tags": [
+   "诺基亚",
+   "智能手机",
+   "Communicator",
+   "移动办公"
+  ]
+ },
+ {
+  "id": "1996-08-01-johnson-double-gold",
+  "date": "1996-08-01",
+  "title": "迈克尔·约翰逊奥运200米跑出19秒32：金色跑鞋的双金传奇今夜铸成",
+  "summary_30s": "1996年8月1日，美国名将迈克尔·约翰逊以19秒32打破200米世界纪录夺金。此前他已赢得400米冠军，成为奥运史上首位同届包揽200、400米双金的男选手，金色跑鞋名震天下。",
+  "detail": "约翰逊独特的直立式跑姿曾被讥为『不科学』，却在亚特兰大所向披靡。400米他以43秒49夺冠；四天后的200米决赛，他彻底甩开弗雷德里克斯，19秒32的世界纪录保持了十二年之久。Nike为其定制的金色碳板跑鞋成为奥运商业营销经典案例。",
+  "impact": "双金壮举重新定义了短跑兼项的天花板，运动品牌为巨星定制装备的营销模式自此成为行业标配。",
+  "aftermath": "博尔特2008年才以19秒30改写其200米纪录，约翰逊此后转型田径解说与青少年体育公益。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Michael Johnson",
+    "url": "https://en.wikipedia.org/wiki/Michael_Johnson_(sprinter)"
+   }
+  ],
+  "tags": [
+   "田径",
+   "奥运会",
+   "世界纪录",
+   "亚特兰大"
+  ]
+ },
+ {
+  "id": "1996-08-03-macarena-no1",
+  "date": "1996-08-03",
+  "title": "《马卡雷娜》登上公告牌单曲榜首：一曲西语舞步跳遍全球每个夏天",
+  "summary_30s": "1996年8月初，Los del Río的《Macarena》登上Billboard Hot 100榜首并停留14周。这支弗拉明戈电音舞曲配合固定手势舞步，从西班牙婚礼蔓延到美国体育场，成为世纪末的全球广场舞鼻祖。",
+  "detail": "歌曲1993年已在西班牙发行，1995年Bayside Boys混音版引爆美洲。1996年民主党全国代表大会上戈尔也拿它开玩笑。全世界政要、球星、空姐都在镜头前摆动手臂与髋部，单曲在美国认证白金，歌舞版本被上百种语言翻唱，也是1996年公告牌年终冠军单曲。",
+  "impact": "Macarena证明了非英语歌曲借由简单肢体动作即可全球流行，为后来江南Style等病毒式歌舞传播提供了原始模板。",
+  "aftermath": "它至今仍是婚礼与体育场馆的保留曲目，被视为90年代集体欢腾的文化符号。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Macarena (song)",
+    "url": "https://en.wikipedia.org/wiki/Macarena_(song)"
+   }
+  ],
+  "tags": [
+   "流行音乐",
+   "拉丁",
+   "病毒传播",
+   "公告牌"
+  ]
+ },
+ {
+  "id": "1996-08-09-nights-into-dreams",
+  "date": "1996-08-09",
+  "title": "世嘉土星大作《飞天幽梦》发售：中裕司的飞行梦境成主机绝唱挽歌",
+  "summary_30s": "1996年8月9日，世嘉土星平台《飞天幽梦》(Nights into Dreams)在日本发售。以飞行少年与梦精灵的双轴操作呈现飞翔快感，是中裕司团队继索尼克之后的原创新IP，也是土星阵营对抗任天堂的关键武器。",
+  "detail": "游戏讲述梦精灵Nights帮助两个孩子对抗梦魔，把2D卷轴的精妙关卡设计嵌入3D空间，手柄模拟杆同捆销售。媒体评分极高但叫好不叫座，土星在日本仍被N64与PS夹击。续作与复刻直到Wii时代才出现，原作成为世嘉硬件时代最后的原创杰作之一。",
+  "impact": "Nights展示了世嘉第一方的创意巅峰，其飞行动力学影响了此后无数立体平台跳跃游戏的设计语言。",
+  "aftermath": "世嘉1998年全面转向Dreamcast，Nights作为吉祥物长存于世嘉全明星系列。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Nights into Dreams",
+    "url": "https://en.wikipedia.org/wiki/Nights_into_Dreams"
+   }
+  ],
+  "tags": [
+   "世嘉",
+   "土星",
+   "电子游戏",
+   "中裕司"
+  ]
+ },
+ {
+  "id": "1996-08-28-charles-diana-divorce",
+  "date": "1996-08-28",
+  "title": "查尔斯王子与戴安娜正式离婚生效：世纪婚姻在狗仔闪光灯下走到尽头",
+  "summary_30s": "1996年8月28日，白金汉宫宣布查尔斯王子与戴安娜王妃离婚正式生效。戴安娜保留威尔士王妃头衔但去掉殿下尊称，15年婚姻因双方出轨指控与媒体风暴走向终点。",
+  "detail": "二人1992年分居，1995年戴安娜接受BBC《广角镜》专访说出『这段婚姻里有三个人』，引爆舆论。女王随后致函两人尽快离婚。离婚协议中戴安娜获得约1700万英镑一次性款项，继续从事慈善事业，享有与两位王子共同抚养安排。次年她在巴黎车祸身亡，全球哀悼。",
+  "impact": "离婚案重创英国王室形象，促使王室反思媒体关系与成员公共角色，戴安娜则以『人民王妃』姿态重塑个人使命。",
+  "aftermath": "2005年查尔斯与卡米拉结婚，2022年登基为王；戴安娜之死至今仍是全球记忆中的世纪之痛。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Charles III",
+    "url": "https://en.wikipedia.org/wiki/Charles_III"
+   }
+  ],
+  "tags": [
+   "英国王室",
+   "戴安娜",
+   "离婚",
+   "媒体"
+  ]
+ },
+ {
+  "id": "1996-09-01-shanghai-online",
+  "date": "1996-09-01",
+  "title": "『上海热线』正式开通运营：中国城市信息港建设掀起第一波建设浪潮",
+  "summary_30s": "1996年，上海信息港工程标志性项目『上海热线』开通，向市民提供新闻、生活资讯与拨号接入服务。它与广州视窗等城市站点一道，构成门户时代来临前中国互联网的地方性入口。",
+  "detail": "上海热线由上海市邮电管理局主导建设，依托公共电信网向公众提供综合信息服务，是国内最早一批城市综合信息网站。它开设聊天室、BBS与新闻频道，上海网民第一次能在本地站点上查生活信息、交网友。同期上海全面推进信息港基础设施建设，成为全国信息化的排头兵。",
+  "impact": "城市信息港探索出电信运营商办互联网服务的路径，为1998年后各地门户与热线类站点提供了模板，也把『上网』一词带进市民生活。",
+  "aftermath": "门户大潮与宽带普及后，地方热线类站点多数转型或沉寂，但其社区功能孕育了早期本地网民文化。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "上海热线 - 百度百科",
+    "url": "https://baike.baidu.com/item/上海热线"
+   }
+  ],
+  "tags": [
+   "上海热线",
+   "信息港",
+   "城市门户",
+   "拨号上网"
+  ]
+ },
+ {
+  "id": "1996-09-01-chinagbn-launch",
+  "date": "1996-09-01",
+  "title": "中国金桥信息网(CHINAGBN)开通运行：国家公用经济信息网络并网互联",
+  "summary_30s": "1996年，金桥工程建成的国家公用经济信息通信网(CHINAGBN)正式开通，与ChinaNet并列为可商业运营的互联网络。『金桥』把卫星与光纤结合起来，服务政府与企业的经济信息服务。",
+  "detail": "金桥网1993年由国务院部署启动，旨在建设国家公用经济信息网，由电子工业部组织实施。1996年9月CHINAGBN正式运营并向社会提供互联网接入服务，成为当时 ChinaNet 之外少数面向公众的骨干网，吉通公司负责运营。金桥、 ChinaNet 、科技网、教育网并称早期四大互联网络。",
+  "impact": "金桥网把经济信息共享与互联网接入延伸到更多地区与行业，是『三金工程』落地的重要成果，也为政企信息化积累了骨干网络运营经验。",
+  "aftermath": "随着电信改革与ChinaNet扩容，金桥网逐步并入新的互联网络体系，吉通后来参与组建中国网通。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国金桥信息网",
+    "url": "https://zh.wikipedia.org/wiki/中国金桥信息网"
+   }
+  ],
+  "tags": [
+   "金桥工程",
+   "CHINAGBN",
+   "骨干网",
+   "信息化"
+  ]
+ },
+ {
+  "id": "1996-09-24-ctbt-signed",
+  "date": "1996-09-24",
+  "title": "《全面禁止核试验条约》开放签署：核军控体系补上最后一块大拼图",
+  "summary_30s": "1996年9月24日，《全面禁止核试验条约》(CTBT)在纽约联合国开放签署，中国成为首批签约国之一。条约禁止一切核爆炸试验，但因其附件所列44国尚未全部批约，至今仍未正式生效。",
+  "detail": "条约谈判历时两年半，印度以未列裁军时间表为由退出并拒绝签署。条约设立国际监测系统，以地震、水声、次声与放射性核素四种手段全球监测核爆。中国自1996年7月底最后一次核试验后宣布暂停试核，并在联大签署条约，同时声明条约生效前核武政策不变。",
+  "impact": "CTBT确立了全球反核试验规范，五核国家事实暂停核试验，核门槛国家的试核从此背负国际法与舆论双重成本。",
+  "aftermath": "朝鲜2006年起多次核试验成为条约体系最大挑战，全面核裁军仍任重道远。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "全面禁止核试验条约",
+    "url": "https://zh.wikipedia.org/wiki/全面禁止核试验条约"
+   }
+  ],
+  "tags": [
+   "军控",
+   "核试验",
+   "联合国",
+   "中国外交"
+  ]
+ },
+ {
+  "id": "1996-09-27-taliban-kabul",
+  "date": "1996-09-27",
+  "title": "塔利班武装首次攻占阿富汗首都喀布尔：内战进入极端政权统治时期",
+  "summary_30s": "1996年9月27日，以坎大哈为根据地的塔利班攻入首都喀布尔，处决前总统纳吉布拉，宣布建立伊斯兰酋长国。此后五年间阿富汗实行极端宗教统治，并逐步庇护基地组织。",
+  "detail": "塔利班由宗教学生运动起家，以铲除军阀腐败为号召，1994年崛起后迅速席卷南部。攻占喀布尔后推行严苛教法，禁止女性上学就业、公开处刑、炸毁巴米扬大佛。仅巴基斯坦、沙特与阿联酋三国承认其政权。北方联盟退守潘杰希尔山谷继续抵抗。",
+  "impact": "阿富汗成为极端主义与恐怖主义的庇护地，为2001年九一一事件及随后的阿富汗战争埋下直接伏笔。",
+  "aftermath": "2001年美军推翻塔利班政权，2021年塔利班重新掌权，阿富汗问题延续至今。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "塔利班",
+    "url": "https://zh.wikipedia.org/wiki/塔利班"
+   }
+  ],
+  "tags": [
+   "阿富汗",
+   "塔利班",
+   "内战",
+   "极端主义"
+  ]
+ },
+ {
+  "id": "1996-10-01-3dfx-voodoo",
+  "date": "1996-10-01",
+  "title": "3dfx Voodoo显卡上市开卖：PC游戏就此迈入硬件3D加速时代",
+  "summary_30s": "1996年秋，3dfx公司的Voodoo Graphics加速卡上市。搭配专用Glide接口，《雷神之锤》《古墓丽影》等游戏画面脱胎换骨，『3D加速卡』成为装机新标配，PC游戏进入硬件军备竞赛。",
+  "detail": "Voodoo以子卡形式插在2D显卡旁，专心处理3D渲染，具备硬件Z缓冲与双线性过滤。id Software为Quake推出GLQuake后，丝滑的真3D画面引爆需求，玩家通宵排队购买。帝盟等厂商的Voodoo成品卡长期缺货，3dfx市值一度飙升。",
+  "impact": "Voodoo确立了GPU在现代PC中的地位，其Glide API虽败于OpenGL与Direct3D，但3D加速由此成为游戏与图形产业的分水岭。",
+  "aftermath": "3dfx因经营失误于2000年破产，资产与人才被英伟达收购，后者沿此赛道成为GPU霸主。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "3dfx Interactive",
+    "url": "https://en.wikipedia.org/wiki/3dfx_Interactive"
+   }
+  ],
+  "tags": [
+   "3dfx",
+   "Voodoo",
+   "显卡",
+   "3D游戏"
+  ]
+ },
+ {
+  "id": "1996-10-07-fox-news-launch",
+  "date": "1996-10-07",
+  "title": "福克斯新闻频道正式开播：美国有线电视新闻三足鼎立格局就此形成",
+  "summary_30s": "1996年10月7日，默多克新闻集团创办的福克斯新闻频道开播，挖来共和党操盘手艾尔斯执掌。以保守派视角与高饱和度包装对抗CNN，二十年后它成为全美收视率最高的有线电视新闻频道。",
+  "detail": "频道开播时有1700万有线入户，艾尔斯设计『公平与平衡』口号与话题式编排，主持群包括奥莱利等强观点主播。9·11事件后其爱国叙事与评论化路线收视起飞，2002年黄金时段收视首超CNN。其对美国政治极化的影响成为学界长期争论议题。",
+  "impact": "福克斯新闻重塑了美国新闻业的商业与意识形态版图，证明分众化立场新闻可以盈利并反向塑造政党政治。",
+  "aftermath": "艾尔斯2016年因性骚扰丑闻离职去世，频道仍是保守派舆论重镇与特朗普运动的媒体纽带。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Fox News",
+    "url": "https://en.wikipedia.org/wiki/Fox_News"
+   }
+  ],
+  "tags": [
+   "福克斯",
+   "新闻频道",
+   "默多克",
+   "媒体"
+  ]
+ },
+ {
+  "id": "1996-10-13-damon-hill-f1",
+  "date": "1996-10-13",
+  "title": "达蒙·希尔在铃鹿加冕F1年度总冠军：希尔家族的赛车梦想终圆满",
+  "summary_30s": "1996年10月13日日本大奖赛，威廉姆斯车手达蒙·希尔夺冠并提前锁定年度总冠军，成为首位也是迄今唯一一位F1世界冠军之子再夺总冠军的车手。队友维伦纽瓦获得亚军。",
+  "detail": "希尔是两届世界冠军格雷厄姆·希尔之子，曾做过摩托车手与修车工，25岁才进入方程式。1994年塞纳遇难后他扛起威廉姆斯大旗，1995年败给舒马赫，1996年终成正果。赛季结束后他出人意料被车队解约，转投飞箭与乔丹车队，1998年比利时站最后一次分站夺冠后退役。",
+  "impact": "希尔夺冠为塞纳时代画上抚慰性句点，其大器晚成的经历成为赛车运动励志叙事的经典。",
+  "aftermath": "其子随后从事赛车解说，希尔家族与英国赛车传统成为银石文化的组成部分。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Damon Hill",
+    "url": "https://en.wikipedia.org/wiki/Damon_Hill"
+   }
+  ],
+  "tags": [
+   "F1",
+   "威廉姆斯",
+   "达蒙·希尔",
+   "赛车"
+  ]
+ },
+ {
+  "id": "1996-10-26-yankees-1996-ws",
+  "date": "1996-10-26",
+  "title": "纽约洋基队时隔十八年重夺世界大赛冠军：洋基王朝重建的第一块基石",
+  "summary_30s": "1996年10月26日，纽约洋基在世界大赛第六战击败亚特兰大勇士，自1978年后首夺冠军。乔·托利执教的首个赛季即登顶，洋基九十年代末王朝由此奠基。",
+  "detail": "洋基先输两场后连扳四场，成为世界大赛历史上首批先丢两个主场再逆转的球队之一。核心球员为投手安迪·佩蒂特、终结者里维拉与年轻捕手波萨达、外场手杰特。纽约地铁广告牌打出『纽约回来了』。此后洋基1998至2000年完成三连冠。",
+  "impact": "洋基复兴带动大市场球队薪资军备与全球化选材，日职球员野茂英雄等人此后加速登陆 MLB。",
+  "aftermath": "杰特与里维拉此后分别以队长与终结者身份入选名人堂，96季成为洋基王朝叙事原点。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1996 World Series",
+    "url": "https://en.wikipedia.org/wiki/1996_World_Series"
+   }
+  ],
+  "tags": [
+   "棒球",
+   "洋基",
+   "世界大赛",
+   "纽约"
+  ]
+ },
+ {
+  "id": "1996-11-01-dvd-japan",
+  "date": "1996-11-01",
+  "title": "DVD播放机与碟片在日本首发：影碟换代的接力棒从LD传到DVD",
+  "summary_30s": "1996年11月1日，东芝SD-3000等首批DVD播放机在日本上市，松下、先锋随后跟进。4.7GB单面容量与不磨损的画质，让VHS录像带与LD影碟开始了长达十年的退位之路。",
+  "detail": "DVD由索尼飞利浦MMCD与东芝松下SD两大阵营妥协统一而来，避免了两败俱伤的格式战争。首发碟片仅有少量电影，价格高昂，但好莱坞六大很快支持分区码制度。DVD-ROM驱动器随后进入电脑，PC软件与游戏发行介质同步换代。",
+  "impact": "DVD确立了数字光盘的黄金标准，家庭影院普及率飙升，也为蓝光与后来的流媒体存储格式奠定产业框架。",
+  "aftermath": "中国成为DVD播放机最大产地，2000年代年产量一度占全球八成以上，直至被流媒体终结。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "DVD",
+    "url": "https://en.wikipedia.org/wiki/DVD"
+   }
+  ],
+  "tags": [
+   "DVD",
+   "光存储",
+   "影碟",
+   "日本"
+  ]
+ },
+ {
+  "id": "1996-11-09-tyson-holyfield-i",
+  "date": "1996-11-09",
+  "title": "泰森复出爆冷不敌霍利菲尔德：WBA重量级拳王金腰带第十一回合易主",
+  "summary_30s": "1996年11月9日拉斯维加斯，出狱复出的泰森向霍利菲尔德的WBA重量级金腰带发起挑战，竟在第十一回合被技术性击倒落败。赌盘一度开出25比1的悬殊赔率，爆出拳坛世纪冷门。",
+  "detail": "泰森1995年假释复出后连赢数场，公众视其无敌；霍利菲尔德因心脏问题退役又复出，被看衰。比赛中霍利菲尔德以搂抱、顶撞与重拳打乱泰森节奏，第11回合裁判终止比赛。两人1997年6月再战，酿出泰森咬耳丑闻。本场被评为1996年度最佳拳赛。",
+  "impact": "冷门宣告『泰森不可战胜』神话终结，霍利菲尔德成为继阿里之后第二位三夺重量级拳王者，职业拳击进入群雄并起阶段。",
+  "aftermath": "泰森此后再未找回统治力，2005年退役；两番大战的商业纪录直到梅威瑟时代才被刷新。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Evander Holyfield vs. Mike Tyson",
+    "url": "https://en.wikipedia.org/wiki/Evander_Holyfield_vs._Mike_Tyson"
+   }
+  ],
+  "tags": [
+   "拳击",
+   "泰森",
+   "霍利菲尔德",
+   "拉斯维加斯"
+  ]
+ },
+ {
+  "id": "1996-11-16-mars96-failure",
+  "date": "1996-11-16",
+  "title": "俄罗斯火星96探测器发射失败：雄心勃勃的行星探测计划坠入太平洋",
+  "summary_30s": "1996年11月16日，俄罗斯迄今最重的火星96探测器因质子号火箭第四级故障发射失败，携带着钻探器与欧多国仪器的飞船坠入南太平洋。俄罗斯行星探测由此一蹶不振。",
+  "detail": "火星96重达6.7吨，计划绘制火星表面、释放两个穿透器，是苏联福波斯号失败后的又次大规模火星尝试。发射后助推段二次点火故障，探测器在第一次绕地后坠毁。事后调查指向火箭上面级点火程序与制造质量。欧空局与德国损失了大量搭载科学载荷。",
+  "impact": "失败促使国际火星探测进一步向美国集中，欧洲转向自研火星快车；俄罗斯深空探测此后二十余年再无成功任务。",
+  "aftermath": "直到2011年福波斯-土壤号与中国萤火一号搭伙再试，仍遭失败，俄行星探测困局延续。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Mars 96",
+    "url": "https://en.wikipedia.org/wiki/Mars_96"
+   }
+  ],
+  "tags": [
+   "火星探测",
+   "俄罗斯航天",
+   "发射失败",
+   "深空"
+  ]
+ }
+]

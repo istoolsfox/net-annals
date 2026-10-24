@@ -1,0 +1,652 @@
+[
+ {
+  "id": "1998-05-14-sinatra-dies",
+  "date": "1998-05-14",
+  "title": "传奇歌手法兰克·辛纳屈因心脏病逝世：美国美声时代的最后巨星谢幕",
+  "summary_30s": "1998年5月14日，弗兰克·辛纳屈在洛杉矶逝世，享年82岁。从摇摆时代到拉斯维加斯驻唱，他的My Way与New York, New York定义了大乐队美声传统，全球乐迷与政要名流为他送行。",
+  "detail": "辛纳屈1930年代与Tommy Dorsey乐队成名，1950年代凭《从这里到永恒》获奥斯卡最佳男配角，演艺生涯横跨歌坛、影坛六十余年。他与鼠党(Rat Pack)的赌城演出塑造了美国流行文化的绅士偶像原型，全球唱片销量超1.5亿张。去世当晚拉斯维加斯赌场灯火齐暗致哀。",
+  "impact": "辛纳屈把流行演唱提升为严肃的艺术表达，其咬字与气息控制影响了此后所有男性流行歌手，Brat Pack美学延续为当代男士风格资源。",
+  "aftermath": "2000年后其曲目仍是婚礼与跨年标配，传记电影与音乐剧持续致敬。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Frank Sinatra",
+    "url": "https://en.wikipedia.org/wiki/Frank_Sinatra"
+   }
+  ],
+  "tags": [
+   "辛纳屈",
+   "爵士",
+   "流行音乐",
+   "美国"
+  ]
+ },
+ {
+  "id": "1998-05-18-microsoft-antitrust-suit",
+  "date": "1998-05-18",
+  "title": "美国司法部联合20个州联合起诉微软：世纪反垄断大案正式开庭审理",
+  "summary_30s": "1998年5月18日，美国司法部与20个州以违反谢尔曼法起诉微软，指其在Windows中捆绑IE排斥网景。一年半的审理披露比尔·盖茨录像证词的傲慢形象，2000年一审判决微软拆分。",
+  "detail": "案件由杰克逊法官审理，关键证词与邮件显示微软胁迫康柏、AOL不得推广网景。1999年事实认定书认定微软滥用垄断力。2000年6月判决拆分为操作系统与应用两家公司，微软上诉成功，2001年和解改为开放接口与行为约束。案件拖住了微软在搜索与移动时代的手脚。",
+  "impact": "反垄断案改写了科技行业的并购与捆绑边界，网景虽死、开源与谷歌因此获得生存缝隙，此后欧美对苹果、谷歌、Meta的案件皆援引本案法理。",
+  "aftermath": "2020年代微软凭借云业务重回市值之巅，此案仍是竞争法的第一教材。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "United States v. Microsoft Corp.",
+    "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp."
+   }
+  ],
+  "tags": [
+   "微软",
+   "反垄断",
+   "司法部",
+   "浏览器大战"
+  ]
+ },
+ {
+  "id": "1998-05-21-suharto-resigns",
+  "date": "1998-05-21",
+  "title": "苏哈托宣布辞去印尼总统职务：长达三十二年的强人统治被金融风暴终结",
+  "summary_30s": "1998年5月21日，在金融危机引发的社会动荡与学生示威压力下，执掌印尼32年的苏哈托宣布辞职，副总统哈比比接任。亚洲金融危机不仅卷走了财富，也改写了东南亚的政治版图。",
+  "detail": "印尼盾贬值逾八成，物价飞涨与失业激增引爆骚乱，5月中旬雅加达爆发大规模冲突与排华暴力，华裔商铺遭殃。国会议长哈尔莫科与军方态度转变后，苏哈托在独立宫宣读辞职声明。此后印尼开启民主化改革，1999年东帝汶独立公投。",
+  "impact": "苏哈托下台标志威权发展型国家模式的信誉受挫，印尼转向直选民主，其家族与亲信的腐败在卸任后被追诉，区域政治强人时代落幕。",
+  "aftermath": "苏哈托2008年去世未被定罪，印尼华裔公民权利在其后逐步恢复，排华暴行的国家道歉至今仍是敏感议题。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "苏哈托",
+    "url": "https://zh.wikipedia.org/wiki/蘇哈托"
+   }
+  ],
+  "tags": [
+   "印尼",
+   "苏哈托",
+   "亚洲金融危机",
+   "政权更迭"
+  ]
+ },
+ {
+  "id": "1998-05-28-pakistan-nuclear-test",
+  "date": "1998-05-28",
+  "title": "巴基斯坦连续进行六次核试验回应印度：南亚的核门槛从此被印巴双双跨过",
+  "summary_30s": "1998年5月28日与30日，巴基斯坦在俾路支省查盖进行六次地下核试验，回应印度5月中旬的五次试核。两国同月相继跨过核门槛，南亚成为全球最令人担忧的核对峙地区。",
+  "detail": "巴基斯坦以Chagai-I的首次试验回应印度博克兰试验，官方称此前已拥有装配能力。国际社会随后对两国实施制裁，美国《普雷斯勒修正案》框架下的援助中止。两国1999年在卡吉尔爆发武装冲突，同年签署拉合尔宣言建立核风险沟通机制。",
+  "impact": "南亚核化重塑了地区威慑格局，国际社会推动《全面禁止核试验条约》的努力受挫，印巴事实拥核成为此后防扩散体系的长期现实。",
+  "aftermath": "两国此后建立热线与信任措施，1998年被视为南亚核时代的元年。",
+  "category": "world",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Chagai-I",
+    "url": "https://en.wikipedia.org/wiki/Chagai-I"
+   }
+  ],
+  "tags": [
+   "巴基斯坦",
+   "核试验",
+   "南亚",
+   "防扩散"
+  ]
+ },
+ {
+  "id": "1998-05-28-amd-k6-2",
+  "date": "1998-05-28",
+  "title": "AMD发布K6-2处理器：3DNow!指令集掀起低价电脑革命",
+  "summary_30s": "1998年5月28日，AMD推出K6-2处理器，新增3DNow! SIMD指令集加速3D游戏，配合Super 7平台主攻低价市场。 AMD 借此首次真正站稳脚跟，为千元美金以下电脑浪潮提供引擎。",
+  "detail": "K6-2以375美元以下的定价与英特尔中端产品缠斗，3DNow!获得游戏与显卡厂商支持，配合Voodoo2在低价整机上实现流畅3D体验。康柏、IBM相继采用，AMD份额升至两位数。1999年Athlon发布后，AMD首次在性能上追平英特尔。",
+  "impact": "K6-2打破了x86市场一家独大，低价PC迅速普及至全球新兴市场，中国装机店熟悉的『磨金山寨机』时代由此开启。",
+  "aftermath": "AMD 2006年收购ATI转向CPU+GPU融合，与英特尔的竞争延续到今天的AI芯片时代。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "AMD K6-2",
+    "url": "https://en.wikipedia.org/wiki/AMD_K6-2"
+   }
+  ],
+  "tags": [
+   "AMD",
+   "CPU",
+   "3DNow",
+   "低价电脑"
+  ]
+ },
+ {
+  "id": "1998-06-01-amazon-music-store",
+  "date": "1998-06-01",
+  "title": "亚马逊开设网上音乐商店卖CD：网上书店由此迈出品类扩张第一步",
+  "summary_30s": "1998年6月，亚马逊上线音乐商店，CD品类首日提供逾12万种选目。从书到音乐再到影视玩具，亚马逊的无限货架战略启动，一年内成为全美最大线上音乐零售商之一。",
+  "detail": "音乐商店延续了按流派策展、用户评论与推荐列表的打法，配合一键下单与 Associates 联盟快速起量。1998年11月公司又上线影视与礼品店，并发起收购IMDb、Junglee比价公司。贝索斯在股东信中宣告这是亚马逊成为『万物商店』的第一年。",
+  "impact": "品类扩张确立了电商平台的标准成长路径，垂直电商的空间被快速挤压，传统唱片连锁的线上转型窗口就此关闭。",
+  "aftermath": "2000年互联网泡沫破裂时多元化已就位，亚马逊熬过寒冬并在2005年后相继推出Prime与AWS。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "History of Amazon",
+    "url": "https://en.wikipedia.org/wiki/History_of_Amazon"
+   }
+  ],
+  "tags": [
+   "亚马逊",
+   "电子商务",
+   "音乐零售",
+   "品类扩张"
+  ]
+ },
+ {
+  "id": "1998-06-01-commandos-release",
+  "date": "1998-06-01",
+  "title": "二战题材《盟军敢死队》问世：实时战术潜入玩法开创PC游戏新品类",
+  "summary_30s": "1998年夏，西班牙Pyro Studios的《盟军敢死队：深入敌后》发行。指挥数名各有绝活的突击队员渗透德军基地，实时战术与潜入解谜的结合风靡全球，中国网吧里通宵攻关者无数。",
+  "detail": "游戏以二战为背景，绿色贝雷帽、狙击手、工兵、司机等角色技能互补，观察巡逻路线、制定渗透顺序成为烧脑乐趣。难度极高，一关重试数十次是常态。在中国，正版与盗版并行传播，后续《盟军敢死队2》成为2001年现象级大作。",
+  "impact": "实时战术(real-time tactics)作为独立品类由此确立，其关卡解谜式设计影响后来《影子战术》等作品，也证明欧洲中小团队可以创造全球爆款。",
+  "aftermath": "系列版权几经易手，2018年HD重制版让老玩家重温诺曼底之夜。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Commandos: Behind Enemy Lines",
+    "url": "https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines"
+   }
+  ],
+  "tags": [
+   "盟军敢死队",
+   "即时战术",
+   "二战游戏",
+   "PC游戏"
+  ]
+ },
+ {
+  "id": "1998-06-06-sex-and-the-city-debut",
+  "date": "1998-06-06",
+  "title": "《欲望都市》在HBO付费频道首播：都市女性叙事从此改写美剧语法",
+  "summary_30s": "1998年6月6日，《欲望都市》在HBO首播，凯莉与三个闺蜜在纽约谈论爱情、性与鞋子。剧集把女性视角推为主角，Manolo高跟鞋与Cosmopolitan鸡尾酒成为全球都市女性文化的符号。",
+  "detail": "剧集改编自Candace Bushnell专栏，Sarah Jessica Parker饰演的专栏作家以第一人称旁白结构开创先河。HBO付费频道尺度与纽约时尚产业深度绑定，剧集六季两部电影全球狂揽，纽约实景地成为打卡点。中文观众经碟片与网络追看，对其女性主义与消费主义的双重争论延续至今。",
+  "impact": "它证明以女性欲望为主体的剧集可以成为全球流行现象，直接影响了此后《绝望主妇》《绯闻女孩》到国产都市女性剧的整条产品线。",
+  "aftermath": "2021年续作《就这样…》重启，四十年后的都市女性议题仍在回响。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Sex and the City",
+    "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+   }
+  ],
+  "tags": [
+   "欲望都市",
+   "HBO",
+   "女性题材",
+   "美剧"
+  ]
+ },
+ {
+  "id": "1998-06-21-hainan-dev-bank-closed",
+  "date": "1998-06-21",
+  "title": "海南发展银行被中国人民银行宣布关闭：新中国首例商业银行倒闭清算",
+  "summary_30s": "1998年6月21日，中国人民银行公告关闭海南发展银行，这是新中国历史上第一家倒闭关闭的商业银行。挤兑风潮与海南地产泡沫破灭的坏账，使其存活仅两年十个月。",
+  "detail": "海发行1995年由五家信托投资公司合并组建，承接海南泡沫破裂后的巨量不良资产。1997年底兼并28家城市信用社后储户信心崩溃，出现持续挤兑，央行注入再贷款与限息措施无效。关闭后储蓄存款由工行托管兑付，海南金融牌照长期荒废，海南发展银行成为金融史教材中的标志案例。",
+  "impact": "首例银行关闭确立了中国金融机构市场退出机制的起点，存款保险制度与最后贷款人角色的讨论由此展开，海南经济元气大伤长期低迷。",
+  "aftermath": "2015年《存款保险条例》出台，中国金融机构风险处置框架在其后逐步完备。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "海南发展银行",
+    "url": "https://zh.wikipedia.org/wiki/海南发展银行"
+   }
+  ],
+  "tags": [
+   "海南发展银行",
+   "银行倒闭",
+   "金融风险",
+   "海南"
+  ]
+ },
+ {
+  "id": "1998-06-25-clinton-china-visit",
+  "date": "1998-06-25",
+  "title": "克林顿总统对中国进行为期九天的国事访问：冷战后中美首脑深度对话",
+  "summary_30s": "1998年6月25日至7月3日，克林顿总统访问西安、北京、上海、桂林、香港。他在北大演讲并与学生现场辩论，与江泽民联合举行记者会，中美宣布互不将战略核导弹瞄准对方。",
+  "detail": "此行是克林顿第二任期内对华接触政策的高潮，回合包括游览兵马俑、上海图书馆与电台热线直播。两国签署能源环保合作协议，就亚洲金融危机、南亚核试验与世贸谈判深入磋商。克林顿在北大演讲谈及人权与自由，学生提问的尖锐令世界印象深刻。",
+  "impact": "访问稳住了后冷战中美关系的向好轨迹，为次年朱镕基访美与1999年中美WTO双边协议铺路，也让中国公众第一次近距离看到美国总统的公共外交。",
+  "aftermath": "1999年使馆被炸事件令关系骤冷，但接触框架在2001年入世后全面深化。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "比尔·克林顿",
+    "url": "https://zh.wikipedia.org/wiki/比尔·克林顿"
+   }
+  ],
+  "tags": [
+   "中美关系",
+   "克林顿",
+   "国事访问",
+   "公共外交"
+  ]
+ },
+ {
+  "id": "1998-06-30-england-argentina",
+  "date": "1998-06-30",
+  "title": "世界杯英阿大战圣埃蒂安之夜：小将欧文一战成名与贝克汉姆红牌离场",
+  "summary_30s": "1998年6月30日，世界杯1/8决赛英格兰对阿根廷，18岁欧文长途奔袭一战成名，贝克汉姆被西蒙尼挑衅后勾倒对手染红。点球大战英格兰出局，小贝一夜之间从金童沦为罪人。",
+  "detail": "比赛堪称世界杯历史最经典之一：开场点球、欧文奔袭、阿根廷任意球诡计与谢林汉姆任意球扳平，90分钟2比2。贝克汉姆下场后英格兰十人应战仍守住平局，点球大战因巴蒂与因斯射失落败。欧文随后当选年度最佳年轻球员，贝克汉姆回国后遭受舆论暴力，四年后复仇成功。",
+  "impact": "这场对决定义了一代球星的命运轨迹，也成为体育心理学关于红牌、舆论与救赎的经典案例，英阿马岛情结在球场叙事中持续发酵。",
+  "aftermath": "贝克汉姆2001年对希腊补时任意球完成自我救赎，圣埃蒂安之夜被多次拍成纪录片。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "England v Argentina (1998 FIFA World Cup)",
+    "url": "https://en.wikipedia.org/wiki/England_v_Argentina_(1998_FIFA_World_Cup)"
+   }
+  ],
+  "tags": [
+   "世界杯",
+   "贝克汉姆",
+   "欧文",
+   "英阿大战"
+  ]
+ },
+ {
+  "id": "1998-07-01-nba-lockout",
+  "date": "1998-07-01",
+  "title": "NBA劳资谈判破裂全面停摆：1998-99赛季被砍到只剩50场",
+  "summary_30s": "1998年7月1日，NBA因劳资双方在工资帽与收益分配上谈崩进入停摆，常规赛从82场缩水至50场，全明星赛取消。这是联盟历史上第一次大幅缩短赛季的停摆。",
+  "detail": "老板们要求硬性工资帽与顶薪限制，球员工会以乔丹等巨星的崛起为由坚守分成比例。停摆持续逾六个月，1999年1月达成新集体谈判协议，确立个体上限与中产条款框架。乔丹在停摆期间于1999年1月第二次宣布退役，联盟失去招牌。赛季2月开打，马刺最终夺冠。",
+  "impact": "新协议奠定了此后二十余年劳资和平的基础，中产特例与奢侈税体系由此成型，球星流动与组队逻辑随之改变。",
+  "aftermath": "2011年再度停摆后协议微调，2023年新版CBA引入更多限制，1999年模式仍是原型。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "NBA lockout",
+    "url": "https://en.wikipedia.org/wiki/NBA_lockout"
+   }
+  ],
+  "tags": [
+   "NBA",
+   "停摆",
+   "劳资协议",
+   "乔丹"
+  ]
+ },
+ {
+  "id": "1998-07-01-armageddon-release",
+  "date": "1998-07-01",
+  "title": "《世界末日》北美周末上映票房夺冠：一群钻油工人上天炸陨石的大狂欢",
+  "summary_30s": "1998年7月1日，迈克尔·贝的《世界末日》北美上映，全球票房5.5亿美元。布鲁斯·威利斯率钻油工人登陆陨石钻井核弹，加上Aerosmith主题曲I Don't Want to Miss a Thing，成为世纪末灾难片的集大成之作。",
+  "detail": "影片与《天地大冲撞》同年打对台，以更纯粹的动作喜剧逻辑胜出。NASA后来把本片列为管理层培训反面教材，片中钻探与太空漏洞成为科普圈经典谈资。丽芙·泰勒与本·阿弗莱克的爱情线与史密森尼机库告别的结尾赚足眼泪。",
+  "impact": "它把灾难片推向极限视听与通俗情感的配方巅峰，也标志着迈克尔·贝爆炸美学的定型，此后《珍珠港》《变形金刚》皆循此路径。",
+  "aftermath": "影片在流媒体时代成为怀旧常客，I Don't Want to Miss a Thing仍是史上最畅销摇滚抒情曲之一。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Armageddon (1998 film)",
+    "url": "https://en.wikipedia.org/wiki/Armageddon_(1998_film)"
+   }
+  ],
+  "tags": [
+   "灾难片",
+   "迈克尔·贝",
+   "暑期档",
+   "好莱坞"
+  ]
+ },
+ {
+  "id": "1998-07-01-proactive-fiscal",
+  "date": "1998-07-01",
+  "title": "积极财政政策在中国正式启动：增发千亿长期国债开启基建反周期时代",
+  "summary_30s": "1998年，中国首次实施积极财政政策，年中增发1000亿元长期建设国债，配套银行贷款投向水利、交通、城市基建与农网改造。这是凯恩斯式反周期操作在改革开放后的第一次全面运用。",
+  "detail": "亚洲金融危机外需骤降叠加特大洪灾，国务院向全国人大常委会提交增发国债调整预算案获批，连同后续年份共发行长期建设国债数千亿元，农林水利、铁路公路、城乡电网是主要投向。同时提高出口退税率、刺激住房与教育消费。GDP增速在1998年守住7.8%。",
+  "impact": "积极财政开启了中国基建驱动的增长范式，高速公路网、农村电网改造与城市化进程因此提速，国债项目管理制度与审计体系也随之建立。",
+  "aftermath": "2005年转向稳健财政，2008年金融危机时四万亿计划即沿用这一工具箱。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "积极财政政策 - 百度百科",
+    "url": "https://baike.baidu.com/item/积极财政政策"
+   }
+  ],
+  "tags": [
+   "积极财政",
+   "国债",
+   "基建",
+   "宏观调控"
+  ]
+ },
+ {
+  "id": "1998-07-01-netizens-top-million",
+  "date": "1998-07-01",
+  "title": "CNNIC半年报显示中国网民突破百万：从精英玩具走向大众议题",
+  "summary_30s": "1998年7月，CNNIC发布第二次《中国互联网络发展状况统计报告》，上网用户达117.5万，半年增长近一倍。169与163双网并行、网吧兴起，互联网从科研精英走向城市青年的公共话题。",
+  "detail": "报告显示网民以男性、青年、高学历为主，北京广东江苏用户密度领先，上网计算机54万台。163免费邮箱、四通利方论坛与联众游戏是主要应用场景。这一期报告首次细化了域名与网站统计，CN域名注册突破一万个。",
+  "impact": "百万网民的意义在于规模效应临界点：网络广告、电子商务与网络文学的讨论在1998年集中爆发，《第一次的亲密接触》正诞生于此时。",
+  "aftermath": "中国网民此后以每半年翻倍的速度增长，2000年突破2000万，2008年跃居世界第一。",
+  "category": "internet",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "中国互联网络信息中心",
+    "url": "https://zh.wikipedia.org/wiki/中国互联网络信息中心"
+   }
+  ],
+  "tags": [
+   "CNNIC",
+   "网民",
+   "统计报告",
+   "互联网普及"
+  ]
+ },
+ {
+  "id": "1998-07-07-gto-drama",
+  "date": "1998-07-07",
+  "title": "人气日剧《GTO》开播：鬼塚英吉的麻辣教师风暴席卷整个亚洲屏幕",
+  "summary_30s": "1998年7月，改编自藤泽亨漫画的日剧《GTO》在关西电视台开播，反町隆史饰演的前暴走族教师鬼塚英吉以非常规方式拯救问题学生。剧集席卷亚洲，与《悠长假期》《恋爱世纪》共同构成日剧黄金期记忆。",
+  "detail": "鬼塚老师骑机车、破规矩、真心为学生出头的热血叙事与世纪末日本教育焦虑精准共振，平均收视逾25%。松岛菜菜子凭借此剧走红，两人随后因戏结缘。中国观众通过卫视中文台与VCD观看，麻辣教师一词进入汉语流行语，2000年两岸合拍电影版。",
+  "impact": "GTO代表日流在华的巅峰之一，其师生对抗体制救赎学生的母题影响了此后两岸三地的校园剧创作。",
+  "aftermath": "2012年与2024年两度重拍，原作漫画全球发行过亿册。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "GTO (漫畫)",
+    "url": "https://zh.wikipedia.org/wiki/GTO_(漫畫)"
+   }
+  ],
+  "tags": [
+   "日剧",
+   "GTO",
+   "反町隆史",
+   "日流"
+  ]
+ },
+ {
+  "id": "1998-07-08-festina-affair",
+  "date": "1998-07-08",
+  "title": "环法大赛费斯蒂纳车队禁药丑闻爆出：职业自行车运动信任危机总爆发",
+  "summary_30s": "1998年7月8日，费斯蒂纳车队按摩师Willy Voet在法比边境被查获携带大量EPO与生长激素，环法大赛陷入史上最大禁药危机。车队被逐出大赛，多队罢赛，职业自行车的系统性用药被彻底揭开。",
+  "detail": "Voet车内的兴奋剂清单牵出车队有组织的输血与用药计划，警方搜查车队酒店，选手被拘留。赛事中途多支车队集体退赛抗议司法介入。1999年UCI引入血检与生物护照制度雏形，1998年被称为自行车运动的分水岭。",
+  "impact": "费斯蒂纳案把兴奋剂治理从行业自律推向国家司法与国际监管，促成了世界反兴奋剂机构(WADA)在1999年成立。",
+  "aftermath": "此后阿姆斯特朗案的崩塌再次印证系统性用药的深度，生物护照成为全球竞技体育标配。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Festina affair",
+    "url": "https://en.wikipedia.org/wiki/Festina_affair"
+   }
+  ],
+  "tags": [
+   "环法",
+   "兴奋剂",
+   "自行车",
+   "体育监管"
+  ]
+ },
+ {
+  "id": "1998-07-22-military-business-ban",
+  "date": "1998-07-22",
+  "title": "党中央决定军队武警政法机关不再经商：全面清理整顿经商办企业活动",
+  "summary_30s": "1998年7月，党中央作出军队、武警部队和政法机关一律不再从事经商活动的重大决策，并对所属企业全面清理。数以万计的企业移交、撤销或改制，吃皇粮、吃地方财政的保障新秩序建立。",
+  "detail": "军队经商始于80年代弥补军费不足，但衍生利益链条与腐败问题。中央要求1998年底前企业与部队脱钩，移交地方或撤销，武警与政法系统同步推进。总后勤部设交接机构，涉及资产数千亿元。此举重塑了军队廉政形象与战斗力导向。",
+  "impact": "这是改革开放以来力度最大的利益格局调整之一，军队回归练兵备战主业，政法机关经费改由财政保障，为后续司法改革与军改清除商业掣肘。",
+  "aftermath": "2000年代军队保障社会化改革延续这一原则，严禁经商成为刚性纪律。",
+  "category": "national",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "军队不经商 - 百度百科",
+    "url": "https://baike.baidu.com/item/军队和武警部队不再从事经商活动"
+   }
+  ],
+  "tags": [
+   "军改",
+   "军队经商",
+   "廉政",
+   "中央决策"
+  ]
+ },
+ {
+  "id": "1998-08-01-special-treasury-bonds",
+  "date": "1998-08-01",
+  "title": "全国人大批准发行2700亿特别国债：为四大国有银行补充资本金",
+  "summary_30s": "1998年8月，全国人大常委会批准财政部向四大国有独资商业银行发行2700亿元特别国债，所筹资金注入银行补充资本金。这是亚洲金融危机后中国加固金融体系的关键一招。",
+  "detail": "发行采用定向方式，央行相应降准配合，四大行资本充足率从不足8%提升到8%以上，接近巴塞尔协议要求。同年成立四家资产管理公司，次年剥离四大行1.4万亿元不良资产。国有银行的资产负债表在入世前完成第一轮修复。",
+  "impact": "特别国债开创了财政为金融风险买单、以时间换空间的处置范式，国有银行从技术性破产边缘拉回，为2000年代改制上市铺路。",
+  "aftermath": "2007年1.55万亿元特别国债再次运用，2020年代特别国债成为常态化逆周期工具。",
+  "category": "economy",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "特别国债 - 百度百科",
+    "url": "https://baike.baidu.com/item/特别国债"
+   }
+  ],
+  "tags": [
+   "特别国债",
+   "国有银行",
+   "资本充足率",
+   "金融改革"
+  ]
+ },
+ {
+  "id": "1998-08-11-geocities-ipo",
+  "date": "1998-08-11",
+  "title": "GeoCities在纳斯达克挂牌上市：个人主页社区成为资本宠儿",
+  "summary_30s": "1998年8月11日，免费个人主页社区GeoCities上市，首日大涨。数百万网民在它的分区『城市』里安家，中文网络世界随后兴起仿制浪潮，个人主页是博客之前的全民自我表达方式。",
+  "detail": "GeoCities 1994年创立于加州，按主题把用户主页划入好莱坞、硅谷等虚拟街区，用户突破350万。上市后市值一度数十亿美元，雅虎1999年初以逾35亿美元收购。中文世界的网易免费个人主页、碧海银沙与虚拟社区均受其启发，早期知名个人站长大都由此起步。",
+  "impact": "GeoCities证明了UGC的规模化商业可能，其街区设计与访客计数器、留言板构成互联网早期社交基建，也为2009年关站时的数字记忆抢救运动留下课题。",
+  "aftermath": "雅虎1999年收购后社区衰落，2009年10月26日关闭，镜像档案成为互联网考古对象。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "GeoCities",
+    "url": "https://en.wikipedia.org/wiki/GeoCities"
+   }
+  ],
+  "tags": [
+   "GeoCities",
+   "个人主页",
+   "UGC",
+   "互联网社区"
+  ]
+ },
+ {
+  "id": "1998-08-17-russia-default",
+  "date": "1998-08-17",
+  "title": "俄罗斯宣布卢布贬值并延期偿还债务：金融风暴横扫俄罗斯转轨经济体",
+  "summary_30s": "1998年8月17日，俄罗斯政府和央行宣布卢布贬值、冻结部分债务偿还，引发全球市场剧烈动荡。就在数周后，美国对冲基金LTCM濒临崩盘，俄债违约成为全球金融危机的导火索。",
+  "detail": "亚洲金融危机叠加油价暴跌令俄财政枯竭，IMF注资220亿美元仍未能稳住资本外逃。8月17日卢布兑美元区间放宽，短期国债重组为长期债券，商业银行大面积倒闭，叶利钦政府数度改组，普里马科夫临危组阁。欧美股市债市连锁暴跌。",
+  "impact": "俄罗斯违约戳穿了主权债务无风险的幻觉，直接触发LTCM事件，促使美联储组织华尔街注资接管，全球风险定价与对冲基金监管从此改写。",
+  "aftermath": "1999年卢布企稳经济反弹，1998年的崩溃成为普京日后整顿秩序叙事的历史背景。",
+  "category": "economy",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "1998 Russian financial crisis",
+    "url": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis"
+   }
+  ],
+  "tags": [
+   "俄罗斯",
+   "债务违约",
+   "卢布危机",
+   "LTCM"
+  ]
+ },
+ {
+  "id": "1998-09-01-rio-pmp300",
+  "date": "1998-09-01",
+  "title": "帝盟Rio PMP300随身听上市：MP3装进口袋引来唱片业诉讼",
+  "summary_30s": "1998年9月，帝盟多媒体发售Rio PMP300随身听，可存储约30至60首MP3。上市次月美国唱片业协会(RIAA)即起诉其助长盗版，法院最终判其胜诉，便携数字音乐的时代之门被推开。",
+  "detail": "Rio以64MB内置存储、USB传输与抗跳读设计取代CD随身听，售价约200美元，圣诞季供不应求。RIAA指控其违反音频家庭录制法，1999年法院裁定Rio属于电脑外设而非录音设备，可以继续销售。此判决与Napster崛起一道，宣告版权战争进入数字时代。",
+  "impact": "Rio确立了便携MP3的硬件形态，其胜诉为苹果iPod的合法性扫清障碍，音乐产业从卖唱片转向卖文件再到流媒体的连环变革由此启动。",
+  "aftermath": "帝盟因显卡业务衰败于2001年倒闭，iPod同年发布接过火炬。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Rio PMP300",
+    "url": "https://en.wikipedia.org/wiki/Rio_PMP300"
+   }
+  ],
+  "tags": [
+   "MP3",
+   "Rio",
+   "数字音乐",
+   "版权诉讼"
+  ]
+ },
+ {
+  "id": "1998-09-01-ddr-arcade",
+  "date": "1998-09-01",
+  "title": "科乐美街机推出《DDR跳舞机》：音乐游戏与体感街机的大时代开启",
+  "summary_30s": "1998年秋，科乐美在街机厅推出Dance Dance Revolution。脚踏箭头与音乐节拍结合的玩法引发全球跳舞机热潮，从东京游戏中心烧到中国县城影院厅，成为世纪末最醒目的青年流行景观。",
+  "detail": "DDR由科乐美音乐游戏部门开发，磁力感应踏板配合流行电音曲库，双人同跳与围观文化让街机厅重新热闹。家用PS版本1999年发售后居家跳舞毯成为圣诞爆款。中国街机厅、录像厅乃至商场门前都能见到跳舞机，韩流舞曲借此深入内陆城市。",
+  "impact": "DDR开创了体感与节奏游戏品类，其卡路里消耗的健身属性让游戏首次大规模进入健身与学校场景，为Wii、节奏光剑铺路。",
+  "aftermath": "DDR系列迭代二十余年，健身环与音游手游延续其基因。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Dance Dance Revolution",
+    "url": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution"
+   }
+  ],
+  "tags": [
+   "跳舞机",
+   "DDR",
+   "街机",
+   "音乐游戏"
+  ]
+ },
+ {
+  "id": "1998-09-01-wanda-quits-football",
+  "date": "1998-09-01",
+  "title": "大连万达集团宣布退出中国足球：王健林怒斥裁判黑哨掀翻了甲A牌桌",
+  "summary_30s": "1998年9月，大连万达集团董事长王健林在赛后新闻发布会上宣布万达将退出中国足坛，直指裁判黑哨与足球环境黑暗。万达此前四年三夺甲A冠军，此番退出震动整个中国足球界。",
+  "detail": "当季万达与辽宁队足协杯赛后，王健林公开表示对裁判判罚与联赛环境的失望，宣布本赛季后退出。尽管次年万达曾短暂冠名回归，2000年实德接手大连队，万达时代结束。中国足协此后多次开展裁判整顿与职业化改革，反黑哨成为长期主题。",
+  "impact": "万达退出把甲A时代的体制痼疾摆上桌面，职业联赛公信力问题在此后二十年的反赌扫黑中反复发酵。",
+  "aftermath": "王健林2011年重返足球投资青训，万达广场与足球的情缘几度往复。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "大连万达足球队",
+    "url": "https://baike.baidu.com/item/大连万达足球队"
+   }
+  ],
+  "tags": [
+   "甲A",
+   "万达",
+   "王健林",
+   "黑哨"
+  ]
+ },
+ {
+  "id": "1998-09-04-millionaire-uk",
+  "date": "1998-09-04",
+  "title": "英国ITV开播《谁想成为百万富翁》：答题竞猜类综艺席卷全球荧屏",
+  "summary_30s": "1998年9月4日，ITV播出《谁想成为百万富翁》首集，Chris Tarrant主持。悬念式灯光音乐与逐级奖金机制开创益智竞猜新形态，节目模式售出上百个国家和地区，成为全球综艺工业的标准模板。",
+  "detail": "选手从15道题爬向百万英镑大奖，三个 lifeline 求助、戏剧化停顿与Drop安全线设计把答题拍出悬疑片张力。首季收视即破纪录，2000年印度版引发全民狂热，后来的《贫民窟的百万富翁》即以此为核。中国2000年后多家电视台推出类似竞猜节目。",
+  "impact": "它确立了模式化综艺的全球贸易体系，FRAPA模式认证与版权交易在此后十年爆发，电视游戏秀的悬念语法被永久改写。",
+  "aftermath": "2018年真人秀作弊丑闻再掀全球关注，原版英国2024年停播，影响延续至播客时代。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Who Wants to Be a Millionaire?",
+    "url": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F"
+   }
+  ],
+  "tags": [
+   "综艺",
+   "百万富翁",
+   "模式输出",
+   "电视史"
+  ]
+ }
+]

@@ -1,0 +1,704 @@
+[
+ {
+  "id": "1984-01-01-att-breakup",
+  "date": "1984-01-01",
+  "title": "1984年元旦AT&T正式解体：22家贝尔运营公司归入七家小贝尔",
+  "summary_30s": "1984年1月1日，遵照1982年和解判决，美国电话电报公司（AT&T）交出22家贝尔运营公司，它们合并为7家地区性贝尔公司，AT&T只保留长途业务、贝尔实验室与西电，美国电信业从此进入竞争时代。",
+  "detail": "1974年司法部起诉AT&T垄断市话与长途市场，1982年格林法官批准拆分方案，1984年元旦生效。拆分后用户申请长途服务时可从AT&T、MCI、Sprint等多家中选择，长话价格在其后十年大幅下降；地方电话公司则划归七家『小贝尔』。这是当时美国历史上规模最大的企业拆分案。",
+  "impact": "拆分催生了美国长途通信市场竞争，也为后来蜂窝移动通信牌照的发放铺平了道路，成为全球电信改革的标准叙事。",
+  "aftermath": "七家小贝尔历经兼并整合；2005年AT&T被昔日子公司SBC收购，新AT&T重新成为巨头，电信分合的百年轮回由此完整。",
+  "category": "company",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Breakup of the Bell System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System"
+   }
+  ],
+  "tags": [
+   "AT&T",
+   "反垄断",
+   "电信",
+   "贝尔系统"
+  ]
+ },
+ {
+  "id": "1984-01-01-dns-deployment",
+  "date": "1984-01-01",
+  "title": "1984年域名系统DNS投入运行：互联网告别手工维护的中央主机表",
+  "summary_30s": "1984年，阿帕网开始全面切换到保罗·莫卡佩季斯设计的域名系统（DNS），层次化的域名取代手工维护的中央主机表HOSTS.TXT，让网络地址可以分布式管理，今天所有的.com、.cn网址都发端于此。",
+  "detail": "1970年代联网主机数量激增，斯坦福研究所每天更新发行的主机表难以为继。1983年莫卡佩季斯提出DNS草案，把名字空间设计成树状层次，由根服务器与各级域名服务器分担解析。1984年起DNS在阿帕网逐步推开，1985年3月第一个.com域名symbolics.com注册，域名体系自此确立。",
+  "impact": "DNS是互联网得以无限扩展的基石，没有它就不可能有此后数亿网站与每天数万亿次解析。",
+  "aftermath": "DNS此后不断加固安全，2008年起DNSSEC全面部署推广，至今仍是全球互联网最关键的基础设施之一。",
+  "category": "internet",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Domain Name System - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Domain_Name_System"
+   }
+  ],
+  "tags": [
+   "DNS",
+   "域名",
+   "阿帕网",
+   "互联网基础设施"
+  ]
+ },
+ {
+  "id": "1984-01-01-cisco-founded",
+  "date": "1984-01-01",
+  "title": "1984年斯坦福博萨克夫妇创立思科：多协议路由器开启联网大生意",
+  "summary_30s": "1984年，斯坦福大学的伦纳德·博萨克与桑迪·勒纳夫妇创立Cisco Systems，把校园里互连不同协议网络的『多协议路由器』推向市场，为互联网的路由交换时代奠定产业基础。",
+  "detail": "博萨克曾任斯坦福计算机系设备主管，勒纳管理商学院机房，两人为让两个部门的异构网络互通改进了威廉·伊格设计的路由软件。创业之初他们在家中挂牌，1986年前后推出首款正式产品多协议路由器，专事把彼此不兼容的局域网连成一体，公司名取自旧金山（San Francisco）。",
+  "impact": "思科证明『联网本身』可以成为一门大生意，路由器成为互联网时代与PC并列的基础产品。",
+  "aftermath": "1990年思科上市，此后长期占据全球路由器市场头名，成为互联网基础设施的代名词。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Cisco - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cisco"
+   }
+  ],
+  "tags": [
+   "思科",
+   "路由器",
+   "互联网",
+   "硅谷创业"
+  ]
+ },
+ {
+  "id": "1984-01-01-dynatac-8000x-retail",
+  "date": "1984-01-01",
+  "title": "摩托罗拉DynaTAC 8000X零售开卖：大哥大时代正式开启",
+  "summary_30s": "1984年，全球首款商用蜂窝手持电话摩托罗拉DynaTAC 8000X在美国面向消费者发售，定价3995美元，重约790克，通话半小时需充电10小时，但蜂窝移动电话由此正式进入个人消费市场。",
+  "detail": "DynaTAC由马丁·库帕领导的团队历时十余年研制，1983年获FCC认证，芝加哥等地蜂窝网开通后于次年零售。它有个广为人知的绰号『砖头』，一部价格相当于一辆小轿车，最初用户多为企业高管与地产商。伴随AT&T拆分后移动牌照的发放，美国蜂窝用户在1980年代后期迅速增长。",
+  "impact": "手持蜂窝电话从军警工具变为商品，个人移动通信的商业模型第一次被验证。",
+  "aftermath": "摩托罗拉在模拟机时代长期领先；1987年中国首批模拟蜂窝网开通时，DynaTAC及后续机型即被称作『大哥大』。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Motorola DynaTAC - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"
+   }
+  ],
+  "tags": [
+   "移动电话",
+   "摩托罗拉",
+   "蜂窝通信",
+   "消费电子"
+  ]
+ },
+ {
+  "id": "1984-01-01-sinclair-ql",
+  "date": "1984-01-01",
+  "title": "1984年1月辛克莱QL电脑登场：英国微机巨头由盛转衰的转折点",
+  "summary_30s": "1984年1月，克莱夫·辛克莱推出QL（Quantum Leap）个人电脑，配68008处理器与内置办公软件，以399英镑挑战商务市场，却因赶工交付混乱与微驱动器故障拖累，成为辛克莱帝国由盛转衰的转折。",
+  "detail": "ZX Spectrum的成功让辛克莱急于进军商务机市场，QL在发布时尚未完成开发，数千台首发机器被追回返修，供货一拖再拖。机器本身设计有前瞻性，但其Microdrive磁带驱动器可靠性差，口碑受损。1985年辛克莱因电动车C5失败与库存压力把电脑业务卖给阿姆斯特德。",
+  "impact": "QL的失利标志着廉价家用微机黄金期结束，英国个人计算机市场转向IBM兼容机与阿姆斯特德。",
+  "aftermath": "辛克莱研究此后转型为一人公司专事发明；QL今天被收藏界视为英国计算史的遗憾之作。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Sinclair QL - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sinclair_QL"
+   }
+  ],
+  "tags": [
+   "辛克莱",
+   "个人电脑",
+   "英国",
+   "家用电脑"
+  ]
+ },
+ {
+  "id": "1984-01-01-monica-single",
+  "date": "1984-01-01",
+  "title": "张国荣《Monica》唱红香江：粤语流行乐快歌劲舞时代全面到来",
+  "summary_30s": "1984年，张国荣推出歌曲《Monica》，一改粤语流行曲的抒情传统，以强劲节奏与西化舞步引爆香江，专辑热卖并助他首夺十大中文金曲与十大劲歌金曲大奖，与谭咏麟双雄格局就此形成。",
+  "detail": "《Monica》翻唱自日本歌手吉川晃司的作品，黎彼得填词，收录于专辑《Leslie》。张国荣在舞台上劲歌热舞的形象为粤语歌坛注入活力，副歌一句Thanks Monica传遍大街小巷。此曲被视为香港流行乐由慢歌主导转向快歌舞曲的标志，也让张国荣摆脱多年郁郁不得志的境况。",
+  "impact": "它开启了1980年代中后期谭张争霸的巨星时代，红馆演唱会文化随之兴起。",
+  "aftermath": "张国荣1989年告别歌坛又于1995年复出，2003年辞世；《Monica》至今仍是港乐黄金年代的代表曲目。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "張國榮 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/張國榮"
+   }
+  ],
+  "tags": [
+   "粤语流行",
+   "张国荣",
+   "香港",
+   "流行音乐"
+  ]
+ },
+ {
+  "id": "1984-01-01-huang-tu-di-film",
+  "date": "1984-01-01",
+  "title": "陈凯歌《黄土地》1984年摄制完成：中国第五代导演的美学宣言",
+  "summary_30s": "1984年，陈凯歌执导、张艺谋摄影的《黄土地》由广西电影制片厂摄制完成，以极简构图与土地意象重述陕北民歌故事，先后在国际影展震动各方，被视为中国第五代导演崛起的开山之作。",
+  "detail": "影片讲述1939年八路军文艺工作者顾青到陕北采风，与农家女翠巧一家的相遇。大面积的黄土与微小人影构成压迫性画面，声音设计上大量使用信天游。影片当年在国内上映反响平平，却在香港电影节与洛迦诺等国际场合引发轰动，摄影张艺谋、导演陈凯歌由此进入国际视野。",
+  "impact": "《黄土地》确立第五代以影像本体为核心的创作路线，为后来《红高粱》等在国际获奖铺路。",
+  "aftermath": "陈凯歌、张艺谋此后各自成为中国电影的领军人物；2005年《黄土地》入选中国电影百年百部名片。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "黃土地 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/黃土地"
+   }
+  ],
+  "tags": [
+   "第五代导演",
+   "陈凯歌",
+   "张艺谋",
+   "中国电影"
+  ]
+ },
+ {
+  "id": "1984-01-01-huo-yuan-jia-mainland",
+  "date": "1984-01-01",
+  "title": "《大侠霍元甲》1984年内地多台热播：万人空巷迎来港剧启蒙年代",
+  "summary_30s": "1984年，广东电视台1983年引进配音的香港电视剧《大侠霍元甲》在内地多家电视台播遍大江南北，主题歌《万里长城永不倒》人人传唱，霍元甲、陈真的民族英雄形象成为一代人的集体记忆。",
+  "detail": "该剧1983年由香港亚洲电视制作，黄元申饰霍元甲、梁小龙饰陈真。广东电视台引进配音后，1984年经中央电视台及各省台接力播出，引发内地第一次大规模港剧热潮，许多家庭为追剧挤在有电视的邻居家。剧中华人与洋人擂台比武的情节，恰与当时女排夺冠、洛杉矶奥运热等情绪同频共振。",
+  "impact": "它是内地大规模引进港台剧的开端，此后《射雕英雄传》《上海滩》等接连涌入，深刻改变内地大众娱乐生活。",
+  "aftermath": "2001年赵文卓版电视剧、2006年李连杰电影《霍元甲》都是对这一经典IP的再度演绎。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "大俠霍元甲 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/大俠霍元甲"
+   }
+  ],
+  "tags": [
+   "港剧",
+   "霍元甲",
+   "引进剧",
+   "电视剧"
+  ]
+ },
+ {
+  "id": "1984-01-01-psion-organiser",
+  "date": "1984-01-01",
+  "title": "Psion Organiser上市发售：世界最早的实用掌上电脑",
+  "summary_30s": "1984年，英国Psion公司推出Organiser，采用液晶屏、数据库与可选BASIC模块，被吉尼斯认定为世界最早的实用掌上电脑之一，售价99英镑起，率先把『口袋里的计算机』变成商品。",
+  "detail": "Organiser形似加宽的计算器，配单行液晶屏与字母键盘，用EPROM固态存储卡保存数据，可当通讯录与备忘录，装上编程模块后还能跑BASIC程序。它在商务人士与工程师中流行，1986年的Organiser II改进版更成为Psion的现金牛。Psion后来以此基因发展出掌上电脑与Symbian操作系统。",
+  "impact": "Organiser定义了个人数字助理的产品雏形，比Apple Newton、Palm Pilot早了近十年。",
+  "aftermath": "Psion 1998年联合爱立信、诺基亚、摩托罗拉创立Symbian，其掌上血脉最终汇入智能手机时代。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "year",
+  "sources": [
+   {
+    "title": "Psion Organiser - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Psion_Organiser"
+   }
+  ],
+  "tags": [
+   "掌上电脑",
+   "Psion",
+   "英国",
+   "移动计算"
+  ]
+ },
+ {
+  "id": "1984-01-13-tramiel-leaves-commodore",
+  "date": "1984-01-13",
+  "title": "杰克·特拉米尔1984年初出走康懋达：个人电脑市场版图就此改写",
+  "summary_30s": "1984年1月13日，康懋达（Commodore）创始人杰克·特拉米尔因与董事长欧文·古尔德争权辞去总裁职务，这位把Commodore 64打成畅销机的『价格屠夫』随后自立门户，个人电脑市场格局因此改变。",
+  "detail": "特拉米尔是纳粹集中营幸存者，1950年代从打字机修理生意起家，1958年入主康懋达并带它转型计算机。他信奉『做给大众而非阶层』的生意经，用垂直整合与激进降价把C64压到200美元以内。与古尔德摊牌失败后，55岁的特拉米尔创办Tramel Technology，几个月后接盘雅达利的消费电子部门。",
+  "impact": "他的出走直接导致康懋达由盛转衰，也让雅达利转型为电脑公司，引发1984至1985年家用电脑市场的连锁重组。",
+  "aftermath": "特拉米尔治下的雅达利以Atari ST再战江湖；康懋达1994年破产。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Jack Tramiel - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jack_Tramiel"
+   }
+  ],
+  "tags": [
+   "康懋达",
+   "特拉米尔",
+   "个人电脑",
+   "公司政治"
+  ]
+ },
+ {
+  "id": "1984-01-24-macintosh-launch",
+  "date": "1984-01-24",
+  "title": "苹果1984年发布Macintosh：2495美元图形界面机第一次走向大众",
+  "summary_30s": "1984年1月24日，乔布斯在弗林特中心股东大会上从布袋中取出Macintosh，2495美元的一体机配备9英寸黑白屏、3.5英寸软驱与鼠标，窗口、图标、菜单从此从实验室走向寻常用户。",
+  "detail": "Macintosh搭载摩托罗拉68000处理器与128KB内存，预装MacPaint与MacWrite，演示中机器开口自我介绍轰动全场。此前施乐Alto与苹果Lisa都验证过图形界面，但价格高昂；Mac是第一台让普通人买得起的图形界面电脑。上市初期销量冲高后回落，内存不足与单一软驱遭诟病，直到1985年LaserWriter与PageMaker到来才找到桌面出版这一关键应用。",
+  "impact": "Macintosh确立了图形用户界面的行业标准形态，此后包括Windows在内的所有桌面系统都沿用这套交互。",
+  "aftermath": "1987年Macintosh II与SE打开彩色与扩展空间；Mac产品线历经四十余年迭代仍在生产，是史上最长寿的个人电脑品牌之一。",
+  "category": "product",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Macintosh - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/麥金塔"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Macintosh",
+   "图形界面",
+   "乔布斯"
+  ]
+ },
+ {
+  "id": "1984-02-01-chunwan-1984",
+  "date": "1984-02-01",
+  "title": "1984年除夕春晚开播：《难忘今宵》首唱与《我的中国心》走红全国",
+  "summary_30s": "1984年2月1日除夕夜，中央电视台第二届春节联欢晚会播出，李谷一首次唱响《难忘今宵》，香港歌手张明敏一曲《我的中国心》红遍全国，春晚作为全民新民俗的地位自此确立。",
+  "detail": "第二届春晚由黄一鹤执导，首次引入港台演员、小品、竞赛互动等形态，猜谜与热线电话让守岁家庭参与其中。张明敏身着中山装演唱《我的中国心》，磁带随后热销数百万盘；李谷一的《难忘今宵》从此成为历届春晚的收尾曲目，一唱四十余年。陈佩斯与朱时茂的《吃面条》开创了春晚小品的经典样式。",
+  "impact": "春晚从一台晚会进化为国家级文化仪式，除夕看春晚成为1980年代最典型的家庭生活场景。",
+  "aftermath": "《难忘今宵》沿用至今几乎成为春晚结束曲的代名词；春晚仍是全球收视人数最多的电视节目之一。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "春节联欢晚会 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/春节联欢晚会"
+   }
+  ],
+  "tags": [
+   "春晚",
+   "难忘今宵",
+   "我的中国心",
+   "中央电视台"
+  ]
+ },
+ {
+  "id": "1984-02-07-mccandless-spacewalk",
+  "date": "1984-02-07",
+  "title": "麦坎德利斯1984年无缆太空行走：背着喷气背包成为太空人体卫星",
+  "summary_30s": "1984年2月7日，挑战者号航天飞机STS-41-B任务中，布鲁斯·麦坎德利斯背着喷气背包（MMU）离开机舱，在距航天飞机近百米处自由飞行，成为首位不系安全缆绳进行太空行走的航天员。",
+  "detail": "麦坎德利斯使用的是氮气推进的载人机动装置（MMU），让航天员真正脱离飞船独立机动。他身着白色宇航服悬浮于漆黑太空、脚下是蓝色地球的照片，成为航天时代最著名的影像之一。同任务中罗伯特·斯图尔特也完成MMU飞行。MMU共使用三次后于1980年代中期退役，此后太空行走恢复系缆方式。",
+  "impact": "这次飞行验证了人可以像卫星一样在轨自由机动，是太空行走史上的分水岭。",
+  "aftermath": "麦坎德利斯2017年去世；MMU的思路影响了此后背包式机动装置与卫星捕获作业的设计。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Bruce McCandless II - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bruce_McCandless_II"
+   }
+  ],
+  "tags": [
+   "航天飞机",
+   "太空行走",
+   "MMU",
+   "NASA"
+  ]
+ },
+ {
+  "id": "1984-02-28-jackson-8-grammys",
+  "date": "1984-02-28",
+  "title": "迈克尔·杰克逊1984年一夜八座格莱美：《颤栗》登顶流行之巅",
+  "summary_30s": "1984年2月28日，第26届格莱美颁奖礼上《颤栗》为迈克尔·杰克逊赢得包括年度专辑、年度制作在内的八项大奖，创下单晚获奖纪录，《比莉·简》的月球步则在电视上席卷全球。",
+  "detail": "《颤栗》1982年底发行，1983年横扫排行榜，1984年初在格莱美12提8中，打破单届获奖纪录，其中七项与专辑直接相关。此前一个月他在Motown 25周年特辑上首次公开表演月球漫步，该特辑收视约4700万人。专辑最终全球销量逾6600万张，至今仍是史上最畅销专辑。",
+  "impact": "杰克逊把流行音乐工业推向MTV时代的巅峰，八项格莱美成为此后四十年明星们反复冲击的天花板。",
+  "aftermath": "这一纪录直到2000年才被桑塔纳追平；《颤栗》相关影像2023年仍以纪念发行重回榜单。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "26th Annual Grammy Awards - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/26th_Annual_Grammy_Awards"
+   }
+  ],
+  "tags": [
+   "迈克尔·杰克逊",
+   "格莱美",
+   "颤栗",
+   "流行音乐"
+  ]
+ },
+ {
+  "id": "1984-03-01-ibm-pcjr",
+  "date": "1984-03-01",
+  "title": "IBM PCjr于1984年3月上市发货：蓝色巨人家用市场遭逢滑铁卢",
+  "summary_30s": "1984年3月，IBM面向家庭的PCjr开始发货，巧克力块键盘与不佳的兼容性使其上市即遭恶评，一年内大幅折价清仓，成为IBM个人电脑史上最著名的失败产品。",
+  "detail": "PCjr于1983年11月发布时被寄望抗衡苹果II与康懋达，定价669美元起，却为节省成本采用手感极差的chiclet小键帽键盘，且与IBM PC软件兼容不完整。主流计算机媒体均给出差评，零售渠道积压严重，1985年春停产。代号Peanut的它在停产多年后反成收藏品。",
+  "impact": "PCjr证明品牌号召力救不了产品力，也显示家用电脑市场与商用市场逻辑迥异，IBM此后在家用领域趋于谨慎。",
+  "aftermath": "其留下的市场空白由康懋达、苹果与新兴兼容机厂商填补；IBM则在1987年以PS/2重整旗鼓。",
+  "category": "hardware",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "IBM PCjr - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IBM_PCjr"
+   }
+  ],
+  "tags": [
+   "IBM",
+   "家用电脑",
+   "产品失败",
+   "个人电脑"
+  ]
+ },
+ {
+  "id": "1984-03-11-nausicaa-film",
+  "date": "1984-03-11",
+  "title": "宫崎骏《风之谷》1984年日本公映：吉卜力工作室成立的前夜之作",
+  "summary_30s": "1984年3月11日，宫崎骏执导的动画电影《风之谷》在日本公映，娜乌西卡驾着滑翔翼穿越『腐海』的故事以宏大的生态观震动业界，票房与口碑双收，直接催生了次年的吉卜力工作室。",
+  "detail": "影片改编自宫崎骏在《Animage》连载的漫画，由德间书店投资、Topcraft制作，久石让首次为宫崎骏配乐，此后合作四十年。影片探讨人与被污染自然的和解，风之谷公主娜乌西卡成为日本动画史上最受欢迎的女主角之一。电影的成功让德间书店拍板支持宫崎骏与高畑勋自立门户。",
+  "impact": "《风之谷》确立了宫崎骏作品的主题坐标——飞行、自然与少女，也确立了日本动画工业化制作的样板。",
+  "aftermath": "1985年6月吉卜力工作室成立；《风之谷》常年位居日本动画史评选前列。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "風之谷 (電影) - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/風之谷_(電影)"
+   }
+  ],
+  "tags": [
+   "宫崎骏",
+   "日本动画",
+   "风之谷",
+   "久石让"
+  ]
+ },
+ {
+  "id": "1984-04-01-hp-thinkjet",
+  "date": "1984-04-01",
+  "title": "惠普ThinkJet喷墨打印机1984年问世：针式打印垄断被撕开缺口",
+  "summary_30s": "1984年4月，惠普推出ThinkJet热敏喷墨打印机，以安静、平价、可打印图形的优势冲击点阵针打垄断，150dpi的输出质量让家庭与小办公室第一次负担得起体面的打印。",
+  "detail": "ThinkJet（THermal INk JET）使用惠普自研的热气泡喷墨头，墨水受热汽化后挤出微滴成像，打印头寿命约500页，整机定价495美元。喷墨头技术源自惠普医疗仪器与计算器业务的积累，此后惠普与佳能各自完善气泡喷墨。1988年惠普推出面向大众的DeskJet，把喷墨打印机价格大幅拉低。",
+  "impact": "ThinkJet开创的消费喷墨路线最终孕育出照片级家用打印产业，惠普成像与打印部门由此成为支柱。",
+  "aftermath": "喷墨与激光双线并进，惠普长期占据全球打印市场头名；针式打印退守票据行业。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Inkjet printing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Inkjet_printing"
+   }
+  ],
+  "tags": [
+   "惠普",
+   "喷墨打印",
+   "办公设备",
+   "消费电子"
+  ]
+ },
+ {
+  "id": "1984-04-01-amstrad-cpc464",
+  "date": "1984-04-01",
+  "title": "阿姆斯特德CPC 464于1984年发布：欧洲家用电脑三强格局成形",
+  "summary_30s": "1984年4月，英国阿姆斯特德推出CPC 464家用电脑，Z80处理器配64KB内存与一体化磁带机，299英镑即可连电视使用，在英法德热销，为日后欧洲游戏开发黄金一代提供了启蒙平台。",
+  "detail": "阿姆斯特德老板阿兰·休格以家电渠道起家，看准ZX Spectrum供货混乱的空档，委托罗力·摩根设计CPC系列。464集成键盘、磁带机于一体，色彩表现优于同价位对手，配套彩色显示器加价销售的策略大获成功。系列累计销量以百万计，英法厂商为其开发了大量游戏软件。",
+  "impact": "CPC与C64、Spectrum三分欧洲家用电脑市场，滋养了英法最早的一代游戏程序员。",
+  "aftermath": "阿姆斯特德1985年收购辛克莱电脑业务登顶英国市场；CPC于1990年退市，但模拟器社区至今活跃。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Amstrad CPC - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amstrad_CPC"
+   }
+  ],
+  "tags": [
+   "阿姆斯特德",
+   "家用电脑",
+   "欧洲",
+   "8位机"
+  ]
+ },
+ {
+  "id": "1984-04-23-hiv-cause-announced",
+  "date": "1984-04-23",
+  "title": "美国1984年宣布锁定艾滋病病原体：HIV发现与血液筛查同步提速",
+  "summary_30s": "1984年4月23日，美国卫生与公众服务部长赫克勒在华盛顿宣布，加洛实验室发现的逆转录病毒HTLV-III是艾滋病的可能病因，并称血液筛查试验一年内可期，为艾滋病应对定下基调。",
+  "detail": "1981年美国报告首例艾滋病后疫情迅速蔓延，1983年法国巴斯德研究所的蒙塔尼团队先行分离出LAV病毒。1984年4月加洛团队在《科学》连发四篇论文报告HTLV-III，随后双方病毒被证实为同一种，即HIV。围绕检测专利的法美争议持续到1987年，最终由两国政府和解、共享专利收益。",
+  "impact": "病原确认使血库筛查与诊断试剂迅速铺开，大幅降低了输血传播，艾滋病从此进入可检测可防控阶段。",
+  "aftermath": "蒙塔尼与西诺西因发现HIV获2008年诺贝尔生理学或医学奖；全球累计数千万人死于艾滋病相关疾病。",
+  "category": "tech",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Robert Gallo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_Gallo"
+   }
+  ],
+  "tags": [
+   "艾滋病",
+   "HIV",
+   "加洛",
+   "公共卫生"
+  ]
+ },
+ {
+  "id": "1984-04-24-apple-2c",
+  "date": "1984-04-24",
+  "title": "苹果IIc发布：Apple II Forever的便携一体化宣言",
+  "summary_30s": "1984年4月24日，苹果在旧金山Apple II Forever发布会上推出IIc，这是一款重约3.4公斤的一体化便携Apple II，主打家庭与教育市场，上市三个月售出逾十万台，成为苹果II家族的收官主力。",
+  "detail": "IIc设计为IIe的便携版，内置软驱与串口，白色机身由青蛙设计公司操刀，苹果同时发布IIc专用液晶屏。它在1984年为苹果贡献了可观现金流，支撑了Macintosh研发期的投入。但随Mac成为战略重心，苹果II产品线投入渐减，IIgs成为家族绝唱。",
+  "impact": "IIc证明个人电脑可以做成拎着走的家电形态，是笔记本电脑流行前的关键过渡。",
+  "aftermath": "Apple II系列1993年全线停产，全球累计销量数百万台，是美国教育市场一代人的计算机启蒙。",
+  "category": "product",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Apple IIc - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Apple_IIc"
+   }
+  ],
+  "tags": [
+   "苹果",
+   "Apple II",
+   "便携电脑",
+   "教育市场"
+  ]
+ },
+ {
+  "id": "1984-05-01-once-upon-a-time-in-america",
+  "date": "1984-05-01",
+  "title": "《美国往事》1984年戛纳首映：莱昂内四小时黑帮史诗震动影坛",
+  "summary_30s": "1984年5月，赛尔乔·莱昂内执导的《美国往事》在戛纳电影节首映，莫里康内的配乐与近四小时的纽约犹太区叙事震动影坛，美国上映时却被砍至139分钟遭遇票房惨败，直到导演版平反。",
+  "detail": "影片以面条与麦克斯的兄弟情仇串起禁酒令至1960年代的美国都市史，罗伯特·德尼罗与詹姆斯·伍兹主演。莱昂内筹备十余年，原片长229分钟，美版粗暴删改导致叙事破碎、恶评如潮；欧洲版与戛纳放映则获得致敬。莱昂内1989年去世，未能看到影片被奉为影史经典。",
+  "impact": "它是黑帮片的集大成之作，其时间叙事与配乐影响了一整代导演，包括后来的《好家伙》。",
+  "aftermath": "2012年戛纳放映249分钟修复版；影片常年位居IMDb与各国影史榜单前列。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Once Upon a Time in America - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America"
+   }
+  ],
+  "tags": [
+   "美国往事",
+   "莱昂内",
+   "戛纳",
+   "黑帮片"
+  ]
+ },
+ {
+  "id": "1984-05-03-dell-pcs-limited",
+  "date": "1984-05-03",
+  "title": "19岁迈克尔·戴尔宿舍创业：PC's Limited挂牌成立",
+  "summary_30s": "1984年5月3日，19岁的得州大学新生迈克尔·戴尔以1000美元注册PC's Limited，在宿舍里为同学升级IBM兼容机，绕开商店直接按单定制的戴尔直销模式由此起步。",
+  "detail": "戴尔高中时靠卖报纸订阅赚了近2万美元，进大学后发现一台3000美元的IBM PC零件成本仅约700美元，于是买余件组装、贴牌直销，注册公司时名称拼写将错就错。当年营业额逾7万美元，1985年推出自有品牌Turbo PC，1988年公司更名戴尔计算机并上市。",
+  "impact": "按单生产、零库存、电话直销的戴尔模式重新定义了PC供应链，成为商学院经典案例。",
+  "aftermath": "戴尔1992年成为财富500强最年轻CEO之一；公司2013年私有化后又在2018年重返股市。",
+  "category": "company",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Michael Dell - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Michael_Dell"
+   }
+  ],
+  "tags": [
+   "戴尔",
+   "直销模式",
+   "PC产业",
+   "创业"
+  ]
+ },
+ {
+  "id": "1984-05-23-temple-of-doom",
+  "date": "1984-05-23",
+  "title": "《魔宫传奇》1984年上映夺冠：惊悚尺度直接催生PG-13分级",
+  "summary_30s": "1984年5月23日，斯皮尔伯格的《夺宝奇兵2：魔宫传奇》北美上映，掏心祭坛等场面令家长抗议PG分级过宽，与《小精灵》一道直接催生当年7月的PG-13分级，影片最终成为年度票房冠军。",
+  "detail": "哈里森·福特再演印第安纳·琼斯，上海夜总会开场与印度邪教祭坛的桥段尺度远超第一部。斯皮尔伯格本人向美国电影协会建议在PG与R之间设档；1984年7月1日PG-13正式启用，8月上映的《赤色黎明》成为首部PG-13电影。本片北美票房约1.8亿美元，居1984年之首。",
+  "impact": "PG-13此后成为好莱坞商业片最主流的分级，青少年市场的商业逻辑被制度化。",
+  "aftermath": "《魔宫传奇》的争议促使斯皮尔伯格反思并转向《七宝奇谋》式的家庭冒险片；琼斯系列延续至2023年。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Indiana Jones and the Temple of Doom - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+   }
+  ],
+  "tags": [
+   "斯皮尔伯格",
+   "夺宝奇兵",
+   "电影分级",
+   "好莱坞"
+  ]
+ },
+ {
+  "id": "1984-06-04-born-in-the-usa",
+  "date": "1984-06-04",
+  "title": "斯普林斯汀《Born in the U.S.A.》：七首前十单曲创纪录",
+  "summary_30s": "1984年6月4日，布鲁斯·斯普林斯汀专辑《Born in the U.S.A.》发行，产生七首前十单曲追平历史纪录，全球销量逾3000万张，标题曲对越战老兵境遇的批判却被误读为爱国颂歌。",
+  "detail": "专辑由CBS发行，封面是他背对星条旗的背影。《Born in the U.S.A.》歌词讲述被送上越南战场的工人阶级青年归国后的失落，电台与政界却拿它当爱国主义符号，斯普林斯汀公开澄清立场。随后的世界巡演长达近两年，把工人阶级叙事带上体育场舞台。",
+  "impact": "它把摇滚乐推向1980年代商业巅峰，也让被误读的抗议歌成为政治传播学的经典案例。",
+  "aftermath": "专辑2024年发行40周年纪念版；斯普林斯汀至今保持巡演票房纪录之一。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Born in the U.S.A. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Born_in_the_U.S.A."
+   }
+  ],
+  "tags": [
+   "摇滚",
+   "斯普林斯汀",
+   "美国文化",
+   "畅销专辑"
+  ]
+ },
+ {
+  "id": "1984-06-06-tetris-created",
+  "date": "1984-06-06",
+  "title": "帕基特诺夫1984年编出《俄罗斯方块》：苏联实验室降生世纪游戏",
+  "summary_30s": "1984年6月6日，苏联科学院计算中心的阿列克谢·帕基特诺夫在Elektronika 60计算机上写出第一款《俄罗斯方块》，七种四格骨牌下落消行的玩法简单到极致，却将成为人类史上销量最高的游戏之一。",
+  "detail": "帕基特诺夫从五格骨牌益智玩具获得灵感，因计算机性能有限缩为四格，用方括号拼出最初的方块。同事与少年格拉西莫夫把它移植到IBM PC，软盘拷贝在莫斯科各研究所流传，随后传到西方。游戏名融合网球（Tennis）与数字四（tetra-）。1989年经亨克·罗杰斯斡旋，任天堂将其捆绑Game Boy。",
+  "impact": "《俄罗斯方块》证明了纯玩法设计的永恒魅力，也是冷战末期罕见的苏联软件风靡西方的案例。",
+  "aftermath": "全系列累计销量数亿份；2024年仍有少年首次通关任天堂版引发全球关注。",
+  "category": "product",
+  "milestone": true,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "俄羅斯方塊 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/俄羅斯方塊"
+   }
+  ],
+  "tags": [
+   "俄罗斯方块",
+   "电子游戏",
+   "苏联",
+   "益智游戏"
+  ]
+ },
+ {
+  "id": "1984-06-08-ghostbusters",
+  "date": "1984-06-08",
+  "title": "《捉鬼敢死队》1984年暑期档大卖：科幻喜剧成为年度爆款现象",
+  "summary_30s": "1984年6月8日，《捉鬼敢死队》北美上映，比尔·默瑞领衔的捉鬼小队以顶尖特效加冷面喜剧横扫暑期档，北美票房约2.29亿美元，位列年度第二，主题歌与消防局招牌成为流行符号。",
+  "detail": "影片由艾克雷德编剧、雷特曼执导，预算从800万美元追加至3000万，绿黏液怪物与棉花糖巨人由当时最先进的定格与光学特效完成。雷·帕克·Jr的主题歌连续三周霸榜Billboard冠军。影片与同年《魔宫传奇》《小精灵》共同定义了1984年特效大片之年。",
+  "impact": "它开创了科幻喜剧这一高概念类型，证明暑期档可以由原创IP统治。",
+  "aftermath": "续集、动画与2021年《超能敢死队》接连登场，一句Who you gonna call成为跨世代口号。",
+  "category": "culture",
+  "milestone": false,
+  "region": "world",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ghostbusters - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ghostbusters"
+   }
+  ],
+  "tags": [
+   "捉鬼敢死队",
+   "喜剧片",
+   "暑期档",
+   "流行文化"
+  ]
+ },
+ {
+  "id": "1984-06-10-zhu-jianhua-239",
+  "date": "1984-06-10",
+  "title": "朱建华1984年跳过2米39：中国男子田径第一个世界纪录诞生",
+  "summary_30s": "1984年6月10日，上海跳高名将朱建华在联邦德国埃伯施塔特国际跳高赛上跃过2米39，一年内第三次打破男子跳高世界纪录，这是中国男子运动员首次创造田径世界纪录。",
+  "detail": "朱建华师从胡鸿飞，1983年6月和9月先后以2米37、2米38改写世界纪录，1984年6月再跳2米39，抵达洛杉矶奥运前的巅峰。洛杉矶奥运会8月决赛中他背负全国期待，最终以2米31获得铜牌，仍是中国男子田径首枚奥运奖牌。当年他被评为全国十佳运动员之首。",
+  "impact": "朱建华的三破纪录点燃了改革开放初期的全民体育热情，也留下舆论重压影响运动员的经典讨论。",
+  "aftermath": "2米39的全国暨亚洲纪录保持至今逾四十年；朱建华后赴美深造并从事青少年体育工作。",
+  "category": "culture",
+  "milestone": false,
+  "region": "cn",
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "朱建華 - 維基百科",
+    "url": "https://zh.wikipedia.org/wiki/朱建華"
+   }
+  ],
+  "tags": [
+   "朱建华",
+   "跳高",
+   "世界纪录",
+   "田径"
+  ]
+ }
+]
