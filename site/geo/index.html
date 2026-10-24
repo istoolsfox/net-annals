@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="地域日志：全国34省·367市·3361县的发展长卷，按城市、县城筛选查找本地大事件。">
+<title>地域日志 · 省市县发展长卷 | 互联网编年史</title>
+<link rel="stylesheet" href="../style.css?v=17">
+<style>
+/* 地域日志页自有样式（配色沿用主站变量） */
+body{margin:0;font-family:var(--sans,"PingFang SC","Microsoft YaHei",sans-serif);color:var(--text,#e8e6e1)}
+.topbar{display:flex;align-items:center;gap:18px;padding:10px 28px;border-bottom:1px solid var(--line);
+  background:color-mix(in srgb, var(--bg) 88%, transparent);position:sticky;top:0;z-index:10;backdrop-filter:blur(8px)}
+.topbar a{color:var(--dim);text-decoration:none;font-size:.85rem}
+.topbar a:hover{color:var(--accent)}
+.brand{font-family:var(--mono,var(--sans));letter-spacing:.08em}
+.wrap{max-width:1180px;margin:0 auto;padding:34px 22px 80px}
+.eyebrow{font-family:var(--mono,var(--sans));font-size:.72rem;letter-spacing:.22em;color:var(--accent);margin:0 0 10px}
+h1{font-size:2rem;margin:0 0 8px;font-weight:800}
+h1 em{font-style:normal;color:var(--accent)}
+.subline{color:var(--dim);font-size:.9rem;margin:0 0 26px}
+.subline b{color:var(--accent);font-weight:600}
+.statsBar{display:flex;gap:26px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;
+  background:var(--panel);padding:14px 20px;margin-bottom:22px}
+.stat b{display:block;font-size:1.25rem;color:var(--accent);font-weight:700}
+.stat span{font-size:.74rem;color:var(--dim)}
+.grid{display:grid;grid-template-columns:340px 1fr;gap:22px;align-items:start}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.side .searchWrap{display:flex;gap:8px;padding:12px;border-bottom:1px solid var(--line)}
+.side input{flex:1;background:var(--bg2);border:1px solid var(--line2);border-radius:6px;padding:8px 12px;
+  color:var(--text);font-size:.88rem;outline:none}
+.side input:focus{border-color:var(--accent)}
+.tree{max-height:72vh;overflow:auto}
+.tree::-webkit-scrollbar{width:8px}.tree::-webkit-scrollbar-thumb{background:var(--line2);border-radius:4px}
+.row{display:flex;align-items:center;gap:8px;padding:8px 14px;cursor:pointer;border-bottom:1px solid color-mix(in srgb,var(--line) 40%,transparent);font-size:.88rem}
+.row:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.row.on{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.row .tw{width:14px;color:var(--dim);font-size:.7rem;flex:none}
+.row .nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row .path{font-size:.7rem;color:var(--dim)}
+.row .ct{font-family:var(--mono,var(--sans));font-size:.7rem;color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,transparent);border-radius:999px;padding:2px 8px;flex:none}
+.row .ct.zero{color:var(--dim);background:none;border:1px solid var(--line)}
+.kids{display:none;padding-left:22px;background:color-mix(in srgb,var(--bg) 55%,transparent)}
+.kids.open{display:block}
+.crumbs{display:flex;gap:6px;align-items:center;font-size:.8rem;color:var(--dim);padding:14px 18px 0;flex-wrap:wrap}
+.crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
+.placeHead{padding:6px 18px 14px;border-bottom:1px solid var(--line)}
+.placeHead h2{margin:6px 0 4px;font-size:1.3rem}
+.placeHead .meta{font-size:.78rem;color:var(--dim)}
+.yearHead{font-family:var(--mono,var(--sans));font-size:.78rem;color:var(--accent);letter-spacing:.1em;
+  padding:14px 18px 6px;position:sticky;top:0;background:var(--panel)}
+.evRow{display:flex;gap:10px;align-items:baseline;padding:7px 18px;font-size:.88rem;border-top:1px solid color-mix(in srgb,var(--line) 35%,transparent)}
+.evRow .dt{font-family:var(--mono,var(--sans));font-size:.74rem;color:var(--dim);flex:none;width:82px}
+.evRow .star{color:var(--accent2);flex:none}
+.evRow .cat{font-family:var(--mono,var(--sans));font-size:.64rem;color:var(--dim);border:1px solid var(--line2);border-radius:4px;padding:1px 6px;flex:none}
+.evRow .ti{flex:1}
+.empty{padding:46px 22px;text-align:center;color:var(--dim);font-size:.9rem;line-height:1.9}
+.empty b{color:var(--accent)}
+#themeBtn{background:none;border:1px solid var(--line);border-radius:8px;color:var(--dim);width:32px;height:32px;cursor:pointer;margin-left:auto}
+.foot{max-width:1180px;margin:0 auto;padding:20px 22px 60px;color:var(--dim);font-size:.76rem;line-height:1.8}
+</style>
+<script>
+/* 主题防闪烁：与主站同一 localStorage 键 */
+(function(){var t=localStorage.getItem('na-theme');
+if(!t)t=matchMedia('(prefers-color-scheme: light)').matches?'light':'dark';
+document.documentElement.dataset.theme=t;})();
+</script>
+</head>
+<body>
+<div class="topbar">
+  <a class="brand" href="../">← 互联网编年史</a>
+  <a href="../#colophon">凡例</a>
+  <button id="themeBtn" title="切换明暗主题">◐</button>
+</div>
+
+<div class="wrap">
+  <p class="eyebrow">REGIONAL CHRONICLE</p>
+  <h1>地域<em>日志</em></h1>
+  <p class="subline">省份 · 城市 · 县城的发展长卷。每一座城，都有一条自己的时间线——在下面搜索或逐级钻取，查它的来历。</p>
+
+  <div class="statsBar" id="statsBar"></div>
+
+  <div class="grid">
+    <div class="panel side">
+      <div class="searchWrap">
+        <input id="q" placeholder="搜索省份 / 城市 / 县城…" autocomplete="off">
+      </div>
+      <div class="tree" id="tree"></div>
+    </div>
+    <div class="panel" id="main">
+      <div class="empty">在左侧选择一个省份、城市或县城，查看它的日志。</div>
+    </div>
+  </div>
+</div>
+
+<div class="foot">
+  区划骨架来源：民政部行政区划口径（modood/Administrative-divisions-of-China，2023）+ 港澳台补充；
+  事件内容持续补充中，"有内容"的单位数会随编纂推进增长。返回<a href="../" style="color:var(--accent)">编年史主页</a>。
+</div>
+
+<script>
+const CAT = {milestone:'里程碑',internet:'互联网',tech:'科技',hardware:'硬件',company:'公司',
+  product:'产品',national:'国家',world:'世界',society:'社会',culture:'文化',economy:'经济'};
+let D, byP={}, byC={}, byK={};
+
+async function boot(){
+  try {
+    if (typeof DecompressionStream !== 'undefined') {
+      const r = await fetch('data.json.gz');
+      if (r.ok) {
+        const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
+        D = await new Response(stream).json();
+      }
+    }
+    if (!D) D = await (await fetch('data.json')).json();
+  } catch (e) { D = await (await fetch('data.json')).json(); }
+  D.p.forEach(r=>byP[r[0]]=r); D.c.forEach(r=>byC[r[0]]=r); D.k.forEach(r=>byK[r[0]]=r);
+  const s=D.stats;
+  document.getElementById('statsBar').innerHTML = [
+    ['省级', s.provinces+' 个'],['地级', s.cities+' 个'],['县级', s.counties+' 个'],
+    ['已有内容', s.placesWithEvents+' 个单位'],['收录记录', s.taggedEvents+' 条'],
+  ].map(x=>`<div class="stat"><b>${x[1]}</b><span>${x[0]}</span></div>`).join('');
+  renderTree();
+  // 默认选中：有内容最多的省份
+  const top=[...D.p].sort((a,b)=>b[3]-a[3])[0];
+  if(top) select(top[0]);
+}
+
+function treeRows(){
+  // 浏览模式：省行 + 已展开省的市行 + 已展开市的县行
+  let html='';
+  for(const p of D.p){
+    const kids=Object.values(byC).filter(c=>c[3]===p[0]).sort((a,b)=>b[4]-a[4]||a[1].localeCompare(b[1]));
+    const open = state.openP===p[0];
+    const on = state.sel===p[0]?' on':'';
+    html+=`<div class="row${on}" data-sel="${p[0]}" data-p="${p[0]}">
+      <span class="tw">${kids.length?'▸':''}</span><span class="nm">${p[1]}</span>
+      ${p[3]?`<span class="ct">${p[3]}</span>`:''}</div>`;
+    if(open){
+      for(const c of kids){
+        const gk=Object.values(byK).filter(k=>k[3]===c[0]).sort((a,b)=>b[5]-a[5]||a[1].localeCompare(b[1]));
+        const copen = state.openC===c[0];
+        const con = state.sel===c[0]?' on':'';
+        html+=`<div class="kids${open?' open':''}">
+          <div class="row${con}" data-sel="${c[0]}" data-p="${p[0]}" data-c="${c[0]}">
+            <span class="tw">${gk.length?'▸':''}</span><span class="nm">${c[2].endsWith('市区')||c[2].endsWith('辖县')||c[2].endsWith('直辖县级')?c[2]:c[1]}</span>
+            ${c[4]?`<span class="ct">${c[4]}</span>`:''}</div>`;
+        if(copen){
+          for(const k of gk){
+            const kon = state.sel===k[0]?' on':'';
+            html+=`<div class="kids${copen?' open':''}">
+              <div class="row${kon}" data-sel="${k[0]}" data-p="${p[0]}" data-c="${c[0]}">
+                <span class="tw"></span><span class="nm">${k[1]}</span>
+                ${k[5]?`<span class="ct">${k[5]}</span>`:''}</div></div>`;
+          }
+        }
+        html+='</div>';
+      }
+    }
+  }
+  return html;
+}
+
+function searchRows(qs){
+  const hit=[];
+  const test=r=>r[1].includes(qs)||r[2].includes(qs);
+  for(const p of D.p) if(test(p)) hit.push({lv:0,r:p});
+  for(const c of D.c) if(test(c)) hit.push({lv:1,r:c});
+  for(const k of D.k) if(test(k)) hit.push({lv:2,r:k});
+  hit.sort((a,b)=>(b.r[b.r.length-1]-a.r[a.r.length-1])||a.lv-b.lv);
+  return hit.slice(0,80).map(({lv,r})=>{
+    const path = lv===0?'':lv===1?byP[r[3]][1]+' · ':byC[r[3]]?byP[r[4]][1]+' · '+byC[r[3]][2]:'';
+    const name = lv===1&&(r[2].endsWith('市区')||r[2].endsWith('辖县')||r[2].endsWith('直辖县级'))?r[2]:r[1];
+    const ct=r[r.length-1];
+    return `<div class="row" data-sel="${r[0]}"><span class="tw"></span>
+      <span class="nm">${name}<span class="path">　${path}</span></span>
+      ${ct?`<span class="ct">${ct}</span>`:''}</div>`;
+  }).join('');
+}
+
+function renderTree(){
+  const qs=document.getElementById('q').value.trim();
+  document.getElementById('tree').innerHTML = qs?searchRows(qs):treeRows();
+  document.querySelectorAll('#tree .row').forEach(el=>{
+    el.addEventListener('click',()=>{
+      const code=el.dataset.sel;
+      if(el.dataset.p) state.openP=el.dataset.p;
+      if(el.dataset.c) state.openC=el.dataset.c;
+      else if(!qs && byK[code]) {} // 县行不展开
+      else if(!qs && byC[code] && state.sel===code) state.openC=state.openC===code?null:code;
+      else if(!qs && byP[code] && state.sel===code) state.openP=state.openP===code?null:code;
+      select(code);
+    });
+  });
+}
+
+const state={openP:null,openC:null,sel:null,curP:null,curC:null};
+
+function select(code){
+  state.sel=code;
+  const p=byP[code],c=byC[code],k=byK[code];
+  const ev=D.ev[code]||[];
+  let name,pathHtml=[];
+  if(p){name=p[1];state.curP=code;state.curC=null;state.openP=code;state.openC=null;
+    pathHtml=[`<span>全部</span>`,`<span>${p[1]}</span>`];}
+  else if(c){name=c[1];state.curP=c[3];state.curC=null;state.openP=c[3];state.openC=code;
+    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${c[3]}">${byP[c[3]][1]}</a>`,`<span>${c[1]}</span>`];}
+  else {name=k[1];state.curP=k[4];state.curC=k[3];state.openP=k[4];state.openC=k[3];
+    const cc=byC[k[3]];
+    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${k[4]}">${byP[k[4]][1]}</a>`,`<a data-go="${k[3]}">${cc[1]}</a>`,`<span>${k[1]}</span>`];}
+  const kidsN = p?D.c.filter(x=>x[3]===p[0]).length : c?D.k.filter(x=>x[3]===c[0]).length : 0;
+
+  let body='';
+  if(!ev.length){
+    body=`<div class="empty">「${name}」暂无收录条目。<br>骨架已建档（${kidsN?`下辖 ${kidsN} 个下级单位，`:''}共 ${D.k.length} 个县级行政区已全部登记）。<br>内容正按省份逐一编纂补充，敬请期待。</div>`;
+  }else{
+    const byYear={};
+    for(const [date,title,cat,mile] of ev) (byYear[date.slice(0,4)]=byYear[date.slice(0,4)]||[]).push([date,title,cat,mile]);
+    body=Object.keys(byYear).sort().map(y=>
+      `<div class="yearHead">████ ${y} ────</div>`+
+      byYear[y].map(([date,title,cat,mile])=>
+        `<div class="evRow"><span class="dt">${date}</span>
+         ${mile?'<span class="star">★</span>':''}
+         <span class="cat">${CAT[cat]||cat}</span>
+         <span class="ti">${title}</span></div>`).join('')
+    ).join('');
+  }
+  document.getElementById('main').innerHTML=
+    `<div class="crumbs">${pathHtml.map(x=>x).join(' / ')}</div>
+     <div class="placeHead"><h2>${name}</h2>
+       <div class="meta">${name} · 收录 ${ev.length} 条${kidsN?` · 下辖 ${kidsN} 个下级单位`:''}</div></div>${body}`;
+  document.querySelectorAll('#main [data-go]').forEach(el=>el.addEventListener('click',()=>{
+    const go=el.dataset.go;
+    if(go==='root'){document.getElementById('q').value='';renderTree();}
+    else select(go);
+  }));
+  renderTree();
+}
+
+document.getElementById('q').addEventListener('input',renderTree);
+document.getElementById('themeBtn').addEventListener('click',()=>{
+  const t=document.documentElement.dataset.theme==='light'?'dark':'light';
+  document.documentElement.dataset.theme=t;localStorage.setItem('na-theme',t);
+});
+boot();
+</script>
+</body>
+</html>

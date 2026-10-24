@@ -1,0 +1,1829 @@
+[
+ {
+  "id": "aol",
+  "name": "美国在线",
+  "en_name": "AOL",
+  "type": "company",
+  "region": "world",
+  "founded": "1985-05-01",
+  "founded_accuracy": "month",
+  "dissolved": null,
+  "status": "acquired",
+  "hq": "美国弗吉尼亚州杜勒斯",
+  "headline": "拨号上网时代的霸主与世纪并购主角",
+  "summary_30s": "1985年Quantum起步，凭包月拨号做成美国上网入口，会员超3400万；2000年以1650亿美元并入时代华纳反成包袱，2015年以44亿美元售予Verizon，并入Oath。",
+  "timeline": [
+   {
+    "date": "1985-05-01",
+    "acc": "month",
+    "text": "Control Video残部改组为Quantum Computer Services，首款产品是Commodore 64在线服务Q-Link"
+   },
+   {
+    "date": "1989-10-01",
+    "acc": "month",
+    "text": "服务更名America Online，从游戏在线服务转向面向大众的信息与交友社区"
+   },
+   {
+    "date": "1991-01-01",
+    "acc": "year",
+    "text": "公司更名为America Online, Inc.，同年起以免费试用光盘向千万美国家庭邮箱铺货获客"
+   },
+   {
+    "date": "1992-01-01",
+    "acc": "year",
+    "text": "在纳斯达克上市，成为最早登陆资本市场的在线服务公司之一"
+   },
+   {
+    "date": "1996-12-01",
+    "acc": "month",
+    "text": "改为19.95美元包月制，用户涌入致线路常年占线，调制解调器的拨号音与忙音成为一代美国人的上网记忆"
+   },
+   {
+    "date": "1998-06-08",
+    "acc": "exact",
+    "text": "以约4.07亿美元收购以色列Mirabilis，千万用户的ICQ归入旗下——次年腾讯以ICQ为母本写出OICQ"
+   },
+   {
+    "date": "1998-11-24",
+    "acc": "exact",
+    "text": "宣布以约42亿美元换股收购网景，浏览器大战的败者与拨号霸主合流"
+   },
+   {
+    "date": "1999-03-17",
+    "acc": "exact",
+    "text": "网景收购交割完成，因AOL股价上涨交易价值升至约100亿美元"
+   },
+   {
+    "date": "2000-01-10",
+    "acc": "exact",
+    "text": "宣布以约1650亿美元换股并购时代华纳，史上最大并购案在互联网泡沫顶点成礼"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "month",
+    "text": "合并交割完成，AOL时代华纳成立；数月后泡沫破裂，宽带转型迟缓的AOL广告收入崩塌"
+   },
+   {
+    "date": "2002-01-01",
+    "acc": "year",
+    "text": "全球会员数超过3400万，为拨号上网时代的最高峰"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "母公司公布2002财年约990亿美元减值巨亏，创当时美国企业年度亏损纪录，年内去掉『AOL』前缀复名时代华纳"
+   },
+   {
+    "date": "2009-12-01",
+    "acc": "month",
+    "text": "从时代华纳分拆，重新以独立公司在纽交所交易，世纪并购就此散场"
+   },
+   {
+    "date": "2015-06-23",
+    "acc": "exact",
+    "text": "Verizon以每股50美元、总额约44亿美元完成对AOL的收购，拨号时代霸主改换电信门庭"
+   },
+   {
+    "date": "2017-06-13",
+    "acc": "exact",
+    "text": "雅虎核心业务并入Verizon后与AOL合并为Oath，两大门户时代巨头同归一处"
+   },
+   {
+    "date": "2017-12-15",
+    "acc": "exact",
+    "text": "旗下运营20年的即时通讯软件AIM关停，PC时代聊天工具再少一支"
+   },
+   {
+    "date": "2021-09-01",
+    "acc": "month",
+    "text": "Verizon将包括AOL在内的媒体业务九成股权售予阿波罗全球管理，AOL与雅虎品牌归入新的Yahoo公司"
+   }
+  ],
+  "milestones": [
+   "1998年以约4.07亿美元收购ICQ，同年宣布42亿美元收购网景，交割时价值约100亿美元",
+   "2000年1月10日宣布与时代华纳合并，作价约1650亿美元，为当时史上最大并购",
+   "2002年全球会员超3400万，为拨号上网时代峰值",
+   "2002财年母公司录得约990亿美元亏损，创当时美国企业年度亏损纪录",
+   "2015年6月23日以约44亿美元售予Verizon，2017年并入Oath"
+  ],
+  "legacy": "Verizon时代AOL与雅虎合并为Oath（后复名Yahoo），2021年九成股权转售阿波罗，品牌仍在但已边缘化。调制解调器的拨号音是一代美国人的上网启蒙；经由ICQ与网景，它间接塑造了中国即时通讯与浏览器的起点。",
+  "sources": [
+   {
+    "title": "Wikipedia: AOL",
+    "url": "https://en.wikipedia.org/wiki/AOL",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: AOL Time Warner",
+    "url": "https://en.wikipedia.org/wiki/AOL_Time_Warner",
+    "type": "wiki"
+   },
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: AIM (software)",
+    "url": "https://en.wikipedia.org/wiki/AIM_(software)",
+    "type": "wiki"
+   },
+   {
+    "title": "Britannica Money: AOL",
+    "url": "https://www.britannica.com/money/AOL",
+    "type": "book"
+   },
+   {
+    "title": "TIME: AOL at 30",
+    "url": "https://time.com/3857628/aol-1985-history",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "即时通讯",
+   "拨号上网",
+   "时代华纳",
+   "网景",
+   "ICQ"
+  ],
+  "related_persons": [
+   {
+    "id": "marc-andreessen",
+    "name": "马克·安德森"
+   }
+  ]
+ },
+ {
+  "id": "kingsoft",
+  "name": "金山软件",
+  "en_name": "Kingsoft",
+  "type": "company",
+  "region": "cn",
+  "founded": "1988-01-01",
+  "founded_accuracy": "year",
+  "dissolved": null,
+  "status": "active",
+  "hq": "珠海",
+  "headline": "与微软缠斗三十年的本土软件活化石",
+  "summary_30s": "1988年求伯君写出WPS，与微软Office缠斗二十年，靠西山居游戏现金流撑过低谷，2007年香港上市。移动时代WPS宣布个人版免费，2019年金山办公登陆科创板；今月活设备近6亿，完成国产办公软件的复兴。",
+  "timeline": [
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "求伯君开发出WPS文字处理系统，金山以此为起点成为中国本土软件公司的早期样本"
+   },
+   {
+    "date": "1994-01-01",
+    "acc": "year",
+    "text": "『盘古组件』办公套件市场失利，金山陷入创建以来最深的一次低谷"
+   },
+   {
+    "date": "1995-05-01",
+    "acc": "exact",
+    "text": "西山居在珠海成立，以《中关村启示录》试水，成为国产游戏商业化的起点之一"
+   },
+   {
+    "date": "1997-05-01",
+    "acc": "exact",
+    "text": "《剑侠情缘》发售，正版卖出2万余套，与《仙剑奇侠传》并称国产RPG高峰"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "month",
+    "text": "分拆创立卓越网，走精品图书音像B2C路线，2004年以7500万美元出售给亚马逊"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "WPS Office 2005发布并宣布个人版永久免费，以兼容微软格式换取用户回流"
+   },
+   {
+    "date": "2007-10-09",
+    "acc": "exact",
+    "text": "在香港交易所主板上市，以WPS与《剑侠情缘》系列游戏为两大支柱"
+   },
+   {
+    "date": "2009-08-28",
+    "acc": "exact",
+    "text": "西山居《剑网3》公测，以点卡制与国风美术长线运营至今"
+   },
+   {
+    "date": "2010-11-01",
+    "acc": "month",
+    "text": "金山安全与可牛合并成立金山网络，金山毒霸宣布永久免费转向互联网安全模式"
+   },
+   {
+    "date": "2011-07-01",
+    "acc": "month",
+    "text": "雷军回归出任金山软件董事长，推动移动互联网转型"
+   },
+   {
+    "date": "2014-05-08",
+    "acc": "exact",
+    "text": "金山网络更名猎豹移动后在纽交所上市，金山系移动业务完成资本化"
+   },
+   {
+    "date": "2019-11-18",
+    "acc": "exact",
+    "text": "金山办公在上海科创板上市，WPS国产办公替代成为新增长引擎"
+   },
+   {
+    "date": "2023-01-01",
+    "acc": "year",
+    "text": "金山办公主要产品月活跃设备数近6亿，同年发布WPS AI"
+   }
+  ],
+  "milestones": [
+   "1997年《剑侠情缘》正版卖出2万余套，为盗版时代的惊人数字",
+   "2007年10月香港上市，从WPS到网游的转型长跑近二十年",
+   "《剑网3》2009年公测，以点卡制与国风美术持续运营超过十五年",
+   "2019年金山办公科创板上市；2023年WPS月活跃设备近6亿",
+   "2014年猎豹移动上市，金山系安全与工具业务完成证券化"
+  ],
+  "legacy": "现为港股上市公司，核心资产为金山办公（WPS）与西山居游戏两大主业；WPS完成从与微软Office缠斗到国产办公软件主流选择的转变，金山也成为中国存续时间最长的本土软件公司之一。",
+  "sources": [
+   {
+    "title": "维基百科：金山软件",
+    "url": "https://zh.wikipedia.org/wiki/金山软件",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：剑侠情缘网络版叁",
+    "url": "https://zh.wikipedia.org/wiki/剑侠情缘网络版叁",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：西山居",
+    "url": "https://baike.baidu.com/item/西山居",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: 1997 in video games（《剑侠情缘》）",
+    "url": "https://en.wikipedia.org/wiki/1997_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Internet Archive：joyo.com 2000年首张快照",
+    "url": "https://web.archive.org/web/20000118000000/http://www.joyo.com/",
+    "type": "archive"
+   }
+  ],
+  "tags": [
+   "办公软件",
+   "WPS",
+   "网络游戏",
+   "科创板",
+   "珠海"
+  ],
+  "related_persons": [
+   {
+    "id": "qiu-bojun",
+    "name": "求伯君"
+   },
+   {
+    "id": "lei-jun",
+    "name": "雷军"
+   }
+  ]
+ },
+ {
+  "id": "netscape",
+  "name": "网景",
+  "en_name": "Netscape",
+  "type": "company",
+  "region": "world",
+  "founded": "1994-04-04",
+  "founded_accuracy": "exact",
+  "dissolved": "2003-07-15",
+  "status": "acquired",
+  "hq": "美国加州山景城",
+  "headline": "浏览器启蒙者与首次互联网淘金热的引爆者",
+  "summary_30s": "1994年网景创办，浏览器份额约九成；1995年8月IPO首日市值冲上约29亿美元。免费捆绑的IE反超后，网景1999年并入AOL、2003年解散，开源代码化为Firefox。",
+  "timeline": [
+   {
+    "date": "1994-04-04",
+    "acc": "exact",
+    "text": "吉姆·克拉克与马克·安德森创办Mosaic通讯公司（网景前身），从伊利诺伊大学NCSA出走开发商用浏览器"
+   },
+   {
+    "date": "1994-10-13",
+    "acc": "exact",
+    "text": "Navigator首个公开测试版发布，四个月拿下浏览器市场约七成份额；次年拨号上线的中国第一批网民，第一次上网多发生在这扇地址栏里"
+   },
+   {
+    "date": "1995-08-09",
+    "acc": "exact",
+    "text": "在纳斯达克上市：发行价由14美元临时上调至28美元，首日盘中冲至75美元、收盘58.25美元，市值约29亿美元"
+   },
+   {
+    "date": "1996-08-13",
+    "acc": "exact",
+    "text": "微软将IE3与Windows免费捆绑发布，向收费49美元的Navigator宣战；随中文Windows进入中国装机店，网景份额开始被蚕食"
+   },
+   {
+    "date": "1998-01-22",
+    "acc": "exact",
+    "text": "宣布浏览器此后免费、后续版本交由开源社区Mozilla开发，以免费策略对抗IE"
+   },
+   {
+    "date": "1998-11-24",
+    "acc": "exact",
+    "text": "AOL宣布以约42亿美元免税换股收购网景，此时其浏览器份额已从约九成滑落至五成上下"
+   },
+   {
+    "date": "1999-03-17",
+    "acc": "exact",
+    "text": "收购交割完成，因AOL股价上涨交易价值升至约100亿美元，网景成为AOL子公司"
+   },
+   {
+    "date": "2003-07-15",
+    "acc": "exact",
+    "text": "时代华纳旗下AOL解散网景公司，同日Mozilla基金会宣告成立，开源代码的火种由基金会延续"
+   },
+   {
+    "date": "2004-11-01",
+    "acc": "month",
+    "text": "基于网景开源代码的Firefox 1.0浏览器发布，网景的技术血脉经Mozilla延续至今"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "网景浏览器市场份额跌破1%，至2007年11月仅剩0.6%，同期IE约77%、Firefox约16%"
+   },
+   {
+    "date": "2008-03-01",
+    "acc": "exact",
+    "text": "AOL正式停止网景浏览器的安全更新与技术支持，网景品牌就此谢幕"
+   }
+  ],
+  "milestones": [
+   "Navigator发布四个月拿下约七成份额，巅峰期一度超过九成",
+   "1995-08-09上市：发行价28美元，首日盘中75美元，收盘58.25美元，市值约29亿美元",
+   "1999年被AOL换股收购，交割时交易价值约100亿美元",
+   "开源代码孕育Mozilla与Firefox，Firefox 1.0于2004年11月发布",
+   "1998年份额跌破50%，2007年仅0.6%，2008年3月停止支持"
+  ],
+  "legacy": "公司1999年并入AOL、2003年7月15日解散，品牌浏览器于2008年3月停止支持。其开源代码孕育的Mozilla基金会与Firefox存续至今；对中国而言，第一代网民的浏览器启蒙与IE普及的教训，都写在它的兴衰里。",
+  "sources": [
+   {
+    "title": "Wikipedia: Netscape",
+    "url": "https://en.wikipedia.org/wiki/Netscape",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：网景",
+    "url": "https://zh.wikipedia.org/wiki/网景",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Netscape Navigator",
+    "url": "https://en.wikipedia.org/wiki/Netscape_Navigator",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Mosaic (web browser)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Internet Explorer",
+    "url": "https://en.wikipedia.org/wiki/Internet_Explorer",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "浏览器",
+   "互联网",
+   "浏览器大战",
+   "开源软件"
+  ],
+  "related_persons": [
+   {
+    "id": "marc-andreessen",
+    "name": "马克·安德森"
+   }
+  ]
+ },
+ {
+  "id": "amazon",
+  "name": "亚马逊",
+  "en_name": "Amazon",
+  "type": "company",
+  "region": "world",
+  "founded": "1994-07-01",
+  "founded_accuracy": "month",
+  "dissolved": null,
+  "status": "active",
+  "hq": "西雅图",
+  "headline": "从网上书店到云服务帝国",
+  "summary_30s": "1994 年从网上书店起步，1997 年上市后以『亏本换规模』穿越泡沫；2006 年 AWS 把自家基础设施卖成生意、定义云计算行业。2004 年收购卓越网入华，2019 年退出本土电商，2023 年 Kindle 也停运，中国业务收缩为跨境与云服务。",
+  "timeline": [
+   {
+    "date": "1994-07-01",
+    "acc": "month",
+    "text": "贝索斯离开华尔街，在西雅图创立公司（初名 Cadabra，次年更名 Amazon），选品逻辑锁定线上可无限陈列的图书。"
+   },
+   {
+    "date": "1995-07-16",
+    "acc": "exact",
+    "text": "Amazon.com 正式上线，首月订单就覆盖美国全部 50 个州和 45 个国家。"
+   },
+   {
+    "date": "1997-05-15",
+    "acc": "exact",
+    "text": "在纳斯达克 IPO，市值约 4.4 亿美元，此后连续多年以巨亏换规模的打法震动华尔街。"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "实现上市后首次全年盈利，从『互联网泡沫幸存者』的质疑声中站稳脚跟。"
+   },
+   {
+    "date": "2004-08-19",
+    "acc": "exact",
+    "text": "以 7500 万美元收购中国图书电商卓越网，更名为亚马逊中国，正式进入中国市场。"
+   },
+   {
+    "date": "2006-03-14",
+    "acc": "exact",
+    "text": "推出 S3 简单存储服务，AWS 云计算体系自此起步，把自家基础设施能力卖成了新生意。"
+   },
+   {
+    "date": "2007-11-19",
+    "acc": "exact",
+    "text": "发布第一代 Kindle 电子阅读器，首批 5.5 小时售罄，电子书市场自此定型。"
+   },
+   {
+    "date": "2019-07-18",
+    "acc": "exact",
+    "text": "停止为中国境内电商业务提供第三方卖家服务，本土电商退出，保留 AWS、海外购与 Kindle。"
+   },
+   {
+    "date": "2023-06-30",
+    "acc": "exact",
+    "text": "Kindle 中国电子书店停止运营，硬件业务同步退出，亚马逊在华消费级业务基本收官。"
+   }
+  ],
+  "milestones": [
+   "AWS 长期占据全球云计算市场约三成份额，行业第一",
+   "Prime 会员体系定义了全球电商的付费会员制",
+   "Kindle 开创大众电子书市场并统治十年以上",
+   "在华 15 年（2004-2019）：从收购卓越网到本土电商退出",
+   "市值长期位居全球公司前五"
+  ],
+  "legacy": "现为全球市值最高的公司之一，电商与 AWS 云服务双引擎。在华业务从全资电商收缩为跨境电商出口与云服务，2019 年与 2023 年两次退出常被用作『本土化失败』的对照案例。",
+  "sources": [
+   {
+    "title": "Wikipedia: Amazon (company)",
+    "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：亚马逊公司",
+    "url": "https://zh.wikipedia.org/wiki/亚马逊公司",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：Kindle",
+    "url": "https://zh.wikipedia.org/wiki/Kindle",
+    "type": "wiki"
+   },
+   {
+    "title": "数字考古：1998 年 12 月的亚马逊首页存档",
+    "url": "https://web.archive.org/web/19981212000000/http://www.amazon.com/",
+    "type": "archive"
+   },
+   {
+    "title": "About Amazon（公司官方新闻室）",
+    "url": "https://www.aboutamazon.com/",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "电商",
+   "云计算",
+   "AWS",
+   "亚马逊",
+   "全球互联网"
+  ],
+  "related_persons": [
+   {
+    "id": "jeff-bezos",
+    "name": "杰夫·贝索斯"
+   },
+   {
+    "id": "lei-jun",
+    "name": "雷军"
+   },
+   {
+    "id": "mrbeast",
+    "name": "MrBeast"
+   }
+  ]
+ },
+ {
+  "id": "yahoo",
+  "name": "雅虎",
+  "en_name": "Yahoo!",
+  "type": "company",
+  "region": "world",
+  "founded": "1995-03-02",
+  "founded_accuracy": "exact",
+  "dissolved": "2017-06-13",
+  "status": "acquired",
+  "hq": "美国加州森尼韦尔",
+  "headline": "门户时代的代名词与千亿市值的残局",
+  "summary_30s": "1994年斯坦福网站目录长成雅虎，2000年市值约1250亿美元登顶门户时代。搜索落败、泄露缠身后，2017年核心业务以44.8亿美元售予Verizon，2021年退出中国大陆。",
+  "timeline": [
+   {
+    "date": "1994-01-01",
+    "acc": "month",
+    "text": "斯坦福博士生杨致远与大卫·费罗把手工整理的网站目录『杰瑞与大卫的万维网指南』搬上网络，次年3月注册公司"
+   },
+   {
+    "date": "1995-03-02",
+    "acc": "exact",
+    "text": "在加州注册成立Yahoo!公司，名字为『Yet Another Hierarchically Organized Oracle』的缩写，感叹号是注册商标的一部分"
+   },
+   {
+    "date": "1996-04-01",
+    "acc": "month",
+    "text": "在纳斯达克上市，上市后两年股价上涨约600%，人工分类目录成为亿万网民的上网入口"
+   },
+   {
+    "date": "1998-02-25",
+    "acc": "exact",
+    "text": "中国网站搜狐以『出门靠地图，上网找搜狐』上线，分类目录直接移植雅虎模式，中国门户由此发端"
+   },
+   {
+    "date": "2000-01-03",
+    "acc": "exact",
+    "text": "股价收于118.75美元的历史高点，市值一度达约1250亿美元，为独立雅虎的巅峰"
+   },
+   {
+    "date": "2003-11-21",
+    "acc": "exact",
+    "text": "以1.2亿美元收购3721『中文上网』，创当时中国互联网并购纪录，雅虎由此深入中国市场"
+   },
+   {
+    "date": "2005-08-11",
+    "acc": "exact",
+    "text": "以10亿美元现金加雅虎中国全部资产换取阿里巴巴约40%股份，为当时中国互联网史上最大交易"
+   },
+   {
+    "date": "2008-02-01",
+    "acc": "exact",
+    "text": "微软宣布以每股31美元、总额约446亿美元洽购雅虎，欲合围Google的搜索广告业务"
+   },
+   {
+    "date": "2008-05-03",
+    "acc": "exact",
+    "text": "微软正式撤回收购要约，交易告吹后雅虎股价下挫，Google在搜索广告市场地位更趋稳固"
+   },
+   {
+    "date": "2016-09-01",
+    "acc": "month",
+    "text": "披露2014年泄露事件波及逾5亿账户；同年12月再披露2013年泄露超10亿，2017年10月确认为全部30亿账户"
+   },
+   {
+    "date": "2017-06-13",
+    "acc": "exact",
+    "text": "Verizon以44.8亿美元完成对雅虎核心互联网业务的收购（较2016年7月宣布的48.3亿美元因泄露事件下调3.5亿美元），余部更名Altaba"
+   },
+   {
+    "date": "2021-09-01",
+    "acc": "month",
+    "text": "阿波罗全球管理公司收购Yahoo品牌业务的九成股权，Verizon保留一成"
+   },
+   {
+    "date": "2021-11-01",
+    "acc": "month",
+    "text": "雅虎停止在中国大陆的服务，中国业务全部退出"
+   }
+  ],
+  "milestones": [
+   "2000年1月3日股价收于118.75美元历史高点，市值一度约1250亿美元",
+   "2005年以10亿美元现金加雅虎中国换得阿里巴巴40%股份",
+   "2008年拒绝微软446亿美元收购要约",
+   "2013-2014年信息泄露累计波及30亿账户，2016-2017年陆续披露",
+   "2017年6月13日核心业务以44.8亿美元交割予Verizon，不足巅峰市值5%"
+  ],
+  "legacy": "2017年6月13日交割后，互联网业务并入Verizon旗下Oath（后复名Yahoo），2021年九成股权转售阿波罗资本；剥离后的余部以Altaba之名存续。品牌与邮箱服务仍在，但独立雅虎已于2017年落幕，并自2021年11月起退出中国大陆。",
+  "sources": [
+   {
+    "title": "Wikipedia: Yahoo!",
+    "url": "https://en.wikipedia.org/wiki/Yahoo!",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：雅虎",
+    "url": "https://zh.wikipedia.org/wiki/雅虎",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：3721",
+    "url": "https://zh.wikipedia.org/wiki/3721",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：阿里巴巴集团",
+    "url": "https://zh.wikipedia.org/wiki/阿里巴巴集团",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：搜狐",
+    "url": "https://zh.wikipedia.org/wiki/搜狐",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "门户网站",
+   "互联网",
+   "搜索引擎",
+   "阿里巴巴",
+   "信息泄露"
+  ],
+  "related_persons": [
+   {
+    "id": "jerry-yang",
+    "name": "杨致远"
+   },
+   {
+    "id": "zhou-hongyi",
+    "name": "周鸿祎"
+   },
+   {
+    "id": "mark-zuckerberg",
+    "name": "马克·扎克伯格"
+   }
+  ]
+ },
+ {
+  "id": "yinghaiwei",
+  "name": "瀛海威",
+  "en_name": "Yinghaiwei",
+  "type": "company",
+  "region": "cn",
+  "founded": "1995-09-30",
+  "founded_accuracy": "exact",
+  "dissolved": "2003-01-01",
+  "status": "closed",
+  "hq": "北京",
+  "headline": "中国互联网商业化最早的启蒙者",
+  "summary_30s": "1995年张树新创办瀛海威，最早的民营ISP；1996年「向北1500米」广告启蒙一代人，1997年八城节点用户数万。封闭网络不敌电信开放，1998年团队出走，2003年吊销执照。",
+  "timeline": [
+   {
+    "date": "1995-09-30",
+    "acc": "exact",
+    "text": "张树新夫妇创办北京瀛海威科技，注册资本700万元，9月30日开始营运，主营互联网接入（ISP）与网络内容服务。"
+   },
+   {
+    "date": "1996-09-01",
+    "acc": "month",
+    "text": "增资扩股至总市值2120万元，引入中兴发集团等股东，随后成立注册资本8000万元的瀛海威信息通信公司，设8个分公司、员工逾百人。"
+   },
+   {
+    "date": "1996-12-01",
+    "acc": "month",
+    "text": "「中国人离信息高速公路有多远——向北1500米」广告牌竖立中关村白颐路口，把「上网」概念第一次推给大众。"
+   },
+   {
+    "date": "1996-12-26",
+    "acc": "exact",
+    "text": "「瀛海威时空」8个主要节点建成开通：类美国在线的封闭网络，用户须购瀛海威上网卡接入自有论坛、聊天室与电子报纸。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "month",
+    "text": "与微软建立战略合作；鼎盛期8城节点互联、注册用户数万，业务达到巅峰。"
+   },
+   {
+    "date": "1997-06-01",
+    "acc": "month",
+    "text": "邮电部开通169全国多媒体通信网并下调入网资费，开放低价接入冲击封闭网络模式，瀛海威收入随之下跌。"
+   },
+   {
+    "date": "1998-06-22",
+    "acc": "exact",
+    "text": "创始人张树新因与控股股东中兴发集团运作理念分歧，被解除总裁职务。"
+   },
+   {
+    "date": "1998-11-01",
+    "acc": "month",
+    "text": "15位高层管理人员集体辞职，创始团队与管理中枢近乎整体出走。"
+   },
+   {
+    "date": "1998-12-01",
+    "acc": "exact",
+    "text": "互联网档案馆首次存档ihw.com.cn首页，页面仍保留「瀛海威时空」社区入口。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "张树新一方尝试筹资回购瀛海威被控股股东拒绝；公司虽获新资金与新管理层，经营未见起色。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "公司被收购后转型，原全国性接入与「时空」社区业务逐步停摆。"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "营业执照被北京工商部门吊销，增值电信业务经营资格被信息产业部注销。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "「瀛海威时空」论坛正式关闭，中国第一代商业化网络社区谢幕。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "张树新与老员工在北京聚会；老瀛海威人自建纪念网站oihw.com留存公司史料。"
+   }
+  ],
+  "milestones": [
+   "1995年9月30日营运，注册资本700万元，为中国最早的民营互联网接入服务商之一",
+   "1996年12月「向北1500米」广告牌竖立中关村，成为中国互联网最著名的启蒙广告",
+   "1997年鼎盛期8城节点互联、与微软战略合作，注册用户数万",
+   "1998年总裁被解职，同年11月15位高管集体辞职",
+   "2003年营业执照被吊销、增值电信业务经营资格被注销"
+  ],
+  "legacy": "1998年创始团队出走后，瀛海威2000年被收购转型，2003年营业执照被吊销，2004年「瀛海威时空」论坛关闭；2026年10月实测ihw.com.cn已失效（HTTP 502）。老员工建有纪念网站oihw.com，「向北1500米」成为中国互联网启蒙的时代注脚。",
+  "sources": [
+   {
+    "title": "维基百科：瀛海威",
+    "url": "https://zh.wikipedia.org/wiki/瀛海威",
+    "type": "wiki"
+   },
+   {
+    "title": "Internet Archive：瀛海威首页首张快照（1998-12-01）",
+    "url": "https://web.archive.org/web/19981201000000/http://www.ihw.com.cn/",
+    "type": "archive"
+   },
+   {
+    "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
+    "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+    "type": "official"
+   },
+   {
+    "title": "新浪新闻：互联网第一人今何在——张树新专访",
+    "url": "https://www.sina.cn/news/detail/4446872397715756.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "互联网",
+   "ISP",
+   "拨号上网",
+   "中关村",
+   "启蒙"
+  ]
+ },
+ {
+  "id": "sohu",
+  "name": "搜狐",
+  "en_name": "Sohu",
+  "type": "company",
+  "region": "cn",
+  "founded": "1996-08-01",
+  "founded_accuracy": "month",
+  "dissolved": null,
+  "status": "active",
+  "hq": "北京",
+  "headline": "中国互联网启蒙者的门户长跑",
+  "summary_30s": "1996年爱特信在北京起家，1998年改名搜狐，以分类导航启蒙第一代网民，2000年登陆纳斯达克。此后门户、搜索、视频相继掉队，靠畅游游戏与搜狗股权维持；两者退市回笼资金后，搜狐以媒体加游戏组合存续至今。",
+  "timeline": [
+   {
+    "date": "1996-08-01",
+    "acc": "month",
+    "text": "张朝阳获风险投资在北京注册爱特信，以分类链接导航起家"
+   },
+   {
+    "date": "1998-02-25",
+    "acc": "exact",
+    "text": "爱特信改名搜狐，『出门靠地图，上网找搜狐』广告语家喻户晓"
+   },
+   {
+    "date": "2000-07-12",
+    "acc": "exact",
+    "text": "在纳斯达克挂牌，发行价13美元，三大门户至此全部上市"
+   },
+   {
+    "date": "2000-09-01",
+    "acc": "month",
+    "text": "以约3000万美元股票收购ChinaRen，泡沫破裂前的最后大单"
+   },
+   {
+    "date": "2002-10-01",
+    "acc": "month",
+    "text": "第四季度率先实现盈利，成为三大门户中最先盈利的一家"
+   },
+   {
+    "date": "2004-08-01",
+    "acc": "month",
+    "text": "孵化搜狗搜索，此后以输入法+浏览器+搜索的『三级火箭』模式扩张"
+   },
+   {
+    "date": "2009-04-02",
+    "acc": "exact",
+    "text": "分拆的畅游在纳斯达克上市，搜狐成为控股两家美国上市公司门户"
+   },
+   {
+    "date": "2013-09-16",
+    "acc": "exact",
+    "text": "腾讯以4.48亿美元入股搜狗占36.5%，搜搜业务并入，搜狐退居第二大股东"
+   },
+   {
+    "date": "2017-04-20",
+    "acc": "exact",
+    "text": "搜狐社区停止服务，1999年上线的门户自建社区模式至此基本退出历史"
+   },
+   {
+    "date": "2017-11-09",
+    "acc": "exact",
+    "text": "搜狗在纽交所上市，发行价13美元，市值约53亿美元"
+   },
+   {
+    "date": "2020-04-18",
+    "acc": "exact",
+    "text": "完成对畅游的私有化，畅游从纳斯达克退市成为搜狐全资子公司"
+   },
+   {
+    "date": "2021-09-24",
+    "acc": "exact",
+    "text": "腾讯完成对搜狗的收购，搜狗退市，搜狐获约11.8亿美元现金对价"
+   }
+  ],
+  "milestones": [
+   "2000年7月上市发行价13美元，2001年跌破1美元后靠短信与网游翻身",
+   "2002年第四季度率先盈利，为三大门户中最先实现盈利的一家",
+   "2009年畅游上市；2017年搜狗上市市值约53亿美元",
+   "2020-2021年畅游、搜狗相继退市，搜狐回笼约11.8亿美元现金",
+   "搜狐社区2017年4月20日关闭，门户自建社区模式终结"
+  ],
+  "legacy": "搜狐仍在纳斯达克上市，媒体矩阵（搜狐新闻、搜狐视频）与畅游游戏构成基本盘，市值与营收规模远小于门户时代。搜索资产随搜狗并入腾讯，公司以成本收缩与内容直播等方式维持经营。",
+  "sources": [
+   {
+    "title": "维基百科：搜狐",
+    "url": "https://zh.wikipedia.org/wiki/搜狐",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：搜狗",
+    "url": "https://zh.wikipedia.org/wiki/搜狗",
+    "type": "wiki"
+   },
+   {
+    "title": "人民网：搜狗上市 王小川首次发声",
+    "url": "http://industry.people.com.cn/n1/2017/1110/c413883-29638338.html",
+    "type": "news"
+   },
+   {
+    "title": "Internet Archive：sohu.com 1999年首张快照",
+    "url": "https://web.archive.org/web/19990125000000/http://www.sohu.com/",
+    "type": "archive"
+   }
+  ],
+  "tags": [
+   "门户",
+   "搜索引擎",
+   "网络游戏",
+   "视频",
+   "北京"
+  ],
+  "related_persons": [
+   {
+    "id": "zhang-chaoyang",
+    "name": "张朝阳"
+   }
+  ]
+ },
+ {
+  "id": "icq",
+  "name": "ICQ",
+  "en_name": "ICQ",
+  "type": "company",
+  "region": "world",
+  "founded": "1996-11-15",
+  "founded_accuracy": "exact",
+  "dissolved": "2024-06-26",
+  "status": "closed",
+  "hq": "以色列特拉维夫",
+  "headline": "即时通讯鼻祖与QQ的母本",
+  "summary_30s": "1996年11月以色列团队上线ICQ，首创号码、好友列表与在线状态；1998年被AOL以4.07亿美元收购，2010年转手DST，2024年6月26日关停，腾讯OICQ以它为母本。",
+  "timeline": [
+   {
+    "date": "1996-06-01",
+    "acc": "month",
+    "text": "维斯格等四名以色列青年创办Mirabilis公司，两个月内写出ICQ原型"
+   },
+   {
+    "date": "1996-11-15",
+    "acc": "exact",
+    "text": "ICQ（I Seek You）上线，首创用户号码制、好友列表与在线状态机制，提示音『uh-oh!』成为一代人的记忆"
+   },
+   {
+    "date": "1998-06-08",
+    "acc": "exact",
+    "text": "AOL宣布以约4.07亿美元收购Mirabilis——2.87亿美元先行、1.2亿美元分三年支付，用户已达千万级的ICQ几乎零收入"
+   },
+   {
+    "date": "1999-02-10",
+    "acc": "exact",
+    "text": "腾讯推出对标ICQ的OICQ（Open ICQ），继承号码加好友列表的产品逻辑，次年因商标纠纷改名QQ，ICQ成为中国即时通讯的母本"
+   },
+   {
+    "date": "2001-05-09",
+    "acc": "exact",
+    "text": "注册用户突破1亿，成为全球用户规模最大的即时通讯服务之一"
+   },
+   {
+    "date": "2010-04-01",
+    "acc": "month",
+    "text": "AOL以1.875亿美元将ICQ出售给俄罗斯投资集团DST，不足1998年收购价的一半"
+   },
+   {
+    "date": "2010-09-01",
+    "acc": "month",
+    "text": "DST更名Mail.Ru集团，ICQ此后长期归属俄罗斯互联网集团，用户集中于俄语市场"
+   },
+   {
+    "date": "2024-05-24",
+    "acc": "exact",
+    "text": "ICQ官网公告将于6月26日停止服务，产品此前已近十年无重大更新"
+   },
+   {
+    "date": "2024-06-26",
+    "acc": "exact",
+    "text": "ICQ正式关停，官方告别信写道『ICQ在1996年11月改变了人们交流的方式』，28年服务落幕"
+   }
+  ],
+  "milestones": [
+   "1996年11月15日上线，首创用户号码、好友列表与在线状态机制",
+   "1998年被AOL收购：2.87亿美元先行，1.2亿美元分三年支付，合计约4.07亿美元",
+   "2001年5月注册用户突破1亿",
+   "2010年以1.875亿美元转手DST，不足1998年收购价一半",
+   "2024年6月26日关停，运营近28年"
+  ],
+  "legacy": "2024年6月26日正式关停，资产归属VK集团（Mail.ru旗下）；号码制、好友列表与在线状态经腾讯OICQ/QQ及各家即时通讯软件延续至今——母本退场，学步者仍在。",
+  "sources": [
+   {
+    "title": "ICQ - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: ICQ",
+    "url": "https://en.wikipedia.org/wiki/ICQ",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：腾讯QQ",
+    "url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: AIM (software)",
+    "url": "https://en.wikipedia.org/wiki/AIM_(software)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "即时通讯",
+   "互联网",
+   "AOL",
+   "俄罗斯",
+   "OICQ"
+  ],
+  "related_persons": [
+   {
+    "id": "ma-huateng",
+    "name": "马化腾"
+   }
+  ]
+ },
+ {
+  "id": "netease",
+  "name": "网易",
+  "en_name": "NetEase",
+  "type": "company",
+  "region": "cn",
+  "founded": "1997-06-11",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "广州",
+  "headline": "从免费邮箱到游戏长青的常青树",
+  "summary_30s": "1997年靠免费邮箱与门户在广州起家，2000年上市后股价跌至0.51美元；靠自研《梦幻西游》翻身，2003年登上中国首富。此后音乐、教育多线布局，2020年回港二次上市，今以游戏为核心长青至今。",
+  "timeline": [
+   {
+    "date": "1997-06-11",
+    "acc": "exact",
+    "text": "丁磊辞去电信工程师职务在广州创办网易，初期经营BBS与免费个人主页"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "month",
+    "text": "163等中文免费邮箱上线，网易靠向各省电信局出售邮箱系统赚到第一桶金"
+   },
+   {
+    "date": "2000-06-30",
+    "acc": "exact",
+    "text": "在纳斯达克挂牌，发行价15.5美元，上市即遭遇纳指崩塌"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "股价最低跌至0.51美元，又因财务误报遭调查濒临摘牌，同年转向自研网络游戏自救"
+   },
+   {
+    "date": "2002-10-01",
+    "acc": "exact",
+    "text": "《大话西游Online II》正式运营，回合制+西游题材成为网易游戏的翻身之作"
+   },
+   {
+    "date": "2003-10-01",
+    "acc": "month",
+    "text": "凭游戏与短信业务股价翻倍上涨，丁磊登上中国首富（福布斯口径），时年32岁"
+   },
+   {
+    "date": "2003-12-18",
+    "acc": "exact",
+    "text": "自研《梦幻西游》上线，最高同时在线271万，长期位居中国网游榜首"
+   },
+   {
+    "date": "2009-04-16",
+    "acc": "exact",
+    "text": "拿下《魔兽世界》大陆代理权，九城出局，9月19日网易接手开服"
+   },
+   {
+    "date": "2013-04-23",
+    "acc": "exact",
+    "text": "网易云音乐上线，以歌单与UGC乐评做出音乐社区的差异化路线"
+   },
+   {
+    "date": "2016-09-02",
+    "acc": "exact",
+    "text": "《阴阳师》全平台上线，数月内登顶中国iOS畅销榜，确立二次元产品线"
+   },
+   {
+    "date": "2016-10-31",
+    "acc": "exact",
+    "text": "网易论坛停止服务，1999年上线的中文BBS三巨头之一谢幕"
+   },
+   {
+    "date": "2020-06-11",
+    "acc": "exact",
+    "text": "回港二次上市，发行价123港元，募资超210亿港元，为继阿里后第二家回港中概股"
+   },
+   {
+    "date": "2021-12-02",
+    "acc": "exact",
+    "text": "网易云音乐在港交所分拆上市，上市首日跌破发行价"
+   },
+   {
+    "date": "2023-01-23",
+    "acc": "exact",
+    "text": "与暴雪合作到期，《魔兽世界》等暴雪游戏国服停运"
+   },
+   {
+    "date": "2024-04-10",
+    "acc": "exact",
+    "text": "与暴雪宣布恢复合作，暴雪游戏国服此后陆续回归"
+   }
+  ],
+  "milestones": [
+   "2000年6月上市发行价15.5美元，2001年最低跌至0.51美元后靠自研游戏翻身",
+   "《梦幻西游》2003年上线，最高同时在线271万，长期居中国网游榜首",
+   "2003年丁磊登顶中国首富（福布斯口径），时年32岁",
+   "2020年6月回港二次上市，发行价123港元，募资超210亿港元",
+   "2013年上线的网易云音乐以歌单+乐评构建音乐社区，2021年分拆上市"
+  ],
+  "legacy": "现以游戏为绝对核心（收入占比约八成），《梦幻西游》等自研产品运营逾二十年；网易云音乐、有道先后分拆上市。门户、论坛、博客等早期业务相继收缩或关停，公司形态从门户网站彻底转向内容与游戏集团。",
+  "sources": [
+   {
+    "title": "维基百科：网易",
+    "url": "https://zh.wikipedia.org/wiki/网易",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：网易云音乐",
+    "url": "https://zh.wikipedia.org/wiki/网易云音乐",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：魔兽世界（2009年代理易主网易）",
+    "url": "https://zh.wikipedia.org/wiki/魔兽世界",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: 2003 in video games（《梦幻西游》）",
+    "url": "https://en.wikipedia.org/wiki/2003_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: 2016 in video games（《阴阳师》）",
+    "url": "https://en.wikipedia.org/wiki/2016_in_video_games",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "门户",
+   "网络游戏",
+   "电子邮箱",
+   "在线音乐",
+   "广州"
+  ],
+  "related_persons": [
+   {
+    "id": "duan-yongping",
+    "name": "段永平"
+   },
+   {
+    "id": "zhang-chaoyang",
+    "name": "张朝阳"
+   },
+   {
+    "id": "ding-lei",
+    "name": "丁磊"
+   },
+   {
+    "id": "huang-zheng",
+    "name": "黄峥"
+   }
+  ]
+ },
+ {
+  "id": "netflix",
+  "name": "Netflix",
+  "en_name": "Netflix",
+  "type": "company",
+  "region": "world",
+  "founded": "1997-08-01",
+  "founded_accuracy": "month",
+  "dissolved": null,
+  "status": "active",
+  "hq": "加州斯科茨谷",
+  "headline": "全球流媒体霸主的自我革命",
+  "summary_30s": "1997 年以 DVD 邮租起家，2000 年求售百视达被拒；2007 年自我革命转向流媒体，2013 年《纸牌屋》开创原创整季模式，2016 年铺满全球。从险些 5000 万美元贱卖，到付费订阅超 3 亿的全球最大流媒体平台。",
+  "timeline": [
+   {
+    "date": "1997-08-01",
+    "acc": "month",
+    "text": "里德·黑斯廷斯与马克·兰多夫在加州创立 Netflix，以 DVD 线上租赁加邮寄到家的模式切入家庭影碟市场。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "提出以 5000 万美元将公司卖给百视达遭拒，此举日后成为商业教科书最著名的『错过』案例之一。"
+   },
+   {
+    "date": "2002-05-23",
+    "acc": "exact",
+    "text": "在纳斯达克 IPO，上市首日股价大涨 50%，为内容大战攒下资本弹药。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "month",
+    "text": "推出『Watch Now』流媒体服务，从 DVD 邮租转向在线视频，完成对自家主营业务的自我革命。"
+   },
+   {
+    "date": "2010-09-01",
+    "acc": "month",
+    "text": "国际化第一步落地加拿大，此后十年扩张至 190 多个国家和地区。"
+   },
+   {
+    "date": "2013-02-01",
+    "acc": "exact",
+    "text": "《纸牌屋》全季一次性上线，首创整季放送模式并凭自制内容拿下艾美奖，原创时代正式开启。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "month",
+    "text": "在 CES 宣布服务同步新开 130 个国家和地区，全球流媒体版图基本成型。"
+   },
+   {
+    "date": "2021-09-17",
+    "acc": "exact",
+    "text": "《鱿鱼游戏》上线，以极低成本成为平台史上观看量最高的剧集，掀起全球文化现象。"
+   },
+   {
+    "date": "2022-11-03",
+    "acc": "exact",
+    "text": "广告订阅套餐上线，终结了长期『绝不做广告』的立场，转向多价位组合增收。"
+   },
+   {
+    "date": "2023-05-01",
+    "acc": "month",
+    "text": "在多国开始打击账号密码共享，强制主家庭外付费，当季新增订户创历史纪录。"
+   },
+   {
+    "date": "2023-09-29",
+    "acc": "exact",
+    "text": "寄出最后一批 DVD 碟片，运营 25 年的邮租业务正式谢幕，公司完全押注流媒体。"
+   }
+  ],
+  "milestones": [
+   "2007 年从 DVD 邮租转型流媒体，完成行业最著名的自我革命",
+   "《纸牌屋》开创整季放送模式，原创内容自此成为行业标配",
+   "付费订阅用户于 2024 年末突破 3 亿",
+   "《鱿鱼游戏》成为平台史上观看量最高的剧集",
+   "2023 年 DVD 业务与密码共享时代先后终结"
+  ],
+  "legacy": "现为全球最大流媒体平台，付费订阅用户超 3 亿。其『数据驱动选片 + 整季放送』重塑了全球影视工业；与 Disney+、HBO Max 的内容军备竞赛仍在继续。",
+  "sources": [
+   {
+    "title": "Wikipedia: Netflix",
+    "url": "https://en.wikipedia.org/wiki/Netflix",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：纸牌屋",
+    "url": "https://zh.wikipedia.org/wiki/纸牌屋",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：鱿鱼游戏",
+    "url": "https://zh.wikipedia.org/wiki/鱿鱼游戏",
+    "type": "wiki"
+   },
+   {
+    "title": "Netflix 投资者关系（财务与订户数据）",
+    "url": "https://ir.netflix.net/",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "流媒体",
+   "Netflix",
+   "原创内容",
+   "全球互联网"
+  ],
+  "related_persons": [
+   {
+    "id": "cai-guoqiang",
+    "name": "蔡国强"
+   }
+  ]
+ },
+ {
+  "id": "ourgame",
+  "name": "联众",
+  "en_name": "OurGame",
+  "type": "company",
+  "region": "cn",
+  "founded": "1998-03-01",
+  "founded_accuracy": "month",
+  "dissolved": null,
+  "status": "declined",
+  "headline": "中国棋牌网游开创者与被反超的王者",
+  "summary_30s": "1998年联众把象棋、围棋、斗地主搬上网络，注册用户一度突破2亿。2004年韩国NHN入股约50%，同年QQ游戏免费反超。2010年亏损3448万元，2014年港交所挂牌（6899），2018年棋牌事业部涉赌案重创品牌，如今边缘化仍挂牌。",
+  "timeline": [
+   {
+    "date": "1998-03-01",
+    "acc": "month",
+    "text": "UCDOS作者鲍岳桥与简晶、王建华创办联众游戏世界，把象棋、围棋、桥牌、斗地主搬上互联网，成为中国第一家大型在线游戏平台"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "作价200万元将79%股份转让给中公网，换来持续运营资金"
+   },
+   {
+    "date": "2001-05-01",
+    "acc": "month",
+    "text": "中公网母公司海虹控股接手该笔股权，成为联众控股方"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "韩国NHN收购联众约50%股权，与海虹控股共同控股，联众进入中韩资本共治阶段"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "腾讯QQ游戏凭借QQ客户端导流与免费策略反超联众，联众曾独霸的约85%棋牌网游份额开始被蚕食"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "联众全年亏损3448万元，自救未果身陷困境"
+   },
+   {
+    "date": "2014-06-01",
+    "acc": "month",
+    "text": "以联众国际控股在港交所主板挂牌，股份代号6899"
+   },
+   {
+    "date": "2018-04-01",
+    "acc": "month",
+    "text": "公安部指挥多地公安机关侦破联众棋牌事业部开设赌场案，抓获36名嫌疑人、冻结涉案资金6500余万元，德州扑克项目自2010年以来涉赌资金收入累计3.35亿元"
+   },
+   {
+    "date": "2018-05-08",
+    "acc": "exact",
+    "text": "案件曝光后联众股票于开盘前停牌"
+   },
+   {
+    "date": "2023-08-17",
+    "acc": "exact",
+    "text": "港交所对联众两名前董事发出董事不适合性声明并予以批评，公司仍维持挂牌地位"
+   }
+  ],
+  "milestones": [
+   "注册用户突破2亿，巅峰时期同时在线数十万人",
+   "曾独霸中国棋牌类网游约85%份额",
+   "2010年全年亏损3448万元",
+   "2014年6月在港交所主板挂牌（6899）",
+   "2018年涉赌案冻结涉案资金6500余万元，德州扑克涉赌资金累计3.35亿元"
+  ],
+  "legacy": "联众仍挂牌港交所（6899）但已边缘化，曾让数千万普通中国人第一次联网对弈的棋牌平台，先后经历资本更迭、QQ游戏反超、巨亏与涉赌案，辉煌定格在2000年代初的网吧与家庭书桌前。",
+  "sources": [
+   {
+    "title": "维基百科：联众",
+    "url": "https://zh.wikipedia.org/wiki/联众",
+    "type": "wiki"
+   },
+   {
+    "title": "香港联交所：对联众国际控股（6899）两名前董事的纪律行动",
+    "url": "https://www.hkex.com.hk/News/Regulatory-Announcements/2023/230817news?sc_lang=zh-HK",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：腾讯",
+    "url": "https://zh.wikipedia.org/wiki/腾讯",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "棋牌游戏",
+   "休闲游戏",
+   "网络游戏",
+   "NHN",
+   "港交所"
+  ],
+  "controversies": []
+ },
+ {
+  "id": "jd",
+  "name": "京东",
+  "en_name": "JD.com",
+  "type": "company",
+  "region": "cn",
+  "founded": "1998-06-18",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "北京",
+  "headline": "自营电商与自建物流巨头",
+  "summary_30s": "1998年京东从中关村一个卖刻录机的柜台起家，2004年把柜台生意整体搬上网，坚持正品行货与发票。此后押注自建物流与自营3C，2014年纳斯达克上市募资17.8亿美元，与阿里形成电商双雄。零售、物流、健康相继分拆上市，2024年销售额突破1万亿元。2025年以0佣金外卖再度掀起新一轮平台大战。",
+  "timeline": [
+   {
+    "date": "1998-06-18",
+    "acc": "exact",
+    "text": "『京东多媒体』在中关村租柜台开张，主营刻录机与光磁产品，坚持只卖正品行货并开发票"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "month",
+    "text": "京东多媒体网上线，非典期间被迫关店的柜台生意整体搬上网，转型纯电商"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "获今日资本首轮1000万美元融资，决定自建仓储物流体系——重资产路线当时被投资人与同行视为豪赌"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "全面转向线上并扩张全品类，当年销售额约40亿元，自营3C口碑与配送体验成为基本盘"
+   },
+   {
+    "date": "2012-08-15",
+    "acc": "exact",
+    "text": "发动815价格战，宣称大家电三年零毛利，与苏宁易购、国美全面开打，家电定价权自此向电商移交"
+   },
+   {
+    "date": "2014-03-10",
+    "acc": "exact",
+    "text": "腾讯以约2.14亿美元入股京东15%，QQ网购、拍拍网与易迅网部分资产并入，京东获得微信与手机QQ一级入口"
+   },
+   {
+    "date": "2014-05-22",
+    "acc": "exact",
+    "text": "登陆纳斯达克，募资约17.8亿美元，创当时中国公司在美最大IPO，市值约260亿美元"
+   },
+   {
+    "date": "2017-04-25",
+    "acc": "exact",
+    "text": "京东物流集团正式成立，拥有独立经营与决策权并全面对外开放，自建物流从成本部门转为能力输出方"
+   },
+   {
+    "date": "2017-08-16",
+    "acc": "exact",
+    "text": "作为中国联通混改战略投资者出资50亿元入股，与腾讯、百度、阿里同列股东名册"
+   },
+   {
+    "date": "2020-06-18",
+    "acc": "exact",
+    "text": "回港交所二次上市，发行价226港元，募资约300亿港元，敲钟日恰逢自家618大促"
+   },
+   {
+    "date": "2020-12-01",
+    "acc": "month",
+    "text": "京东健康在港交所上市，零售、物流、健康的分拆证券化路线全面展开"
+   },
+   {
+    "date": "2021-05-28",
+    "acc": "exact",
+    "text": "京东物流在港交所上市，坚持十四年的自建物流体系获得独立估值，重资产模式在资本市场完成正名"
+   },
+   {
+    "date": "2023-03-01",
+    "acc": "month",
+    "text": "上线百亿补贴频道，以低价策略正面对抗拼多多与下沉市场，低价成为集团核心叙事"
+   },
+   {
+    "date": "2025-04-30",
+    "acc": "exact",
+    "text": "京东外卖正式上线，以0佣金入驻与为全职骑手缴纳五险一金切入即时零售，日订单量在补贴下迅速突破2500万单"
+   }
+  ],
+  "milestones": [
+   "1998年从中关村刻录机柜台起步，2004年整体转向线上",
+   "2007年起自建物流，211限时达成为体验壁垒",
+   "2014年纳斯达克IPO募资约17.8亿美元，为当时中国公司在美最大IPO",
+   "2021年京东物流港股上市，自建物流获独立估值",
+   "2024年销售额突破1万亿元"
+  ],
+  "legacy": "已形成零售、物流、健康等多板块业务矩阵，年销售额突破万亿元，供应链与自营物流仍是核心壁垒。2025年重启外卖与即时零售之战，把供应链能力复制到新战场。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "维基百科：京东集团",
+    "url": "https://zh.wikipedia.org/wiki/京东集团",
+    "type": "wiki"
+   },
+   {
+    "title": "新浪财经：京东物流，直逼顺丰",
+    "url": "https://finance.sina.cn/chanjing/gsxw/2021-05-28/detail-ikmxzfmm5130851.d.html",
+    "type": "news"
+   },
+   {
+    "title": "百度百科：京东",
+    "url": "https://baike.baidu.com/item/京东/210931",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "电子商务",
+   "自营零售",
+   "物流",
+   "北京",
+   "供应链"
+  ],
+  "related_persons": [
+   {
+    "id": "zhang-lei",
+    "name": "张磊"
+   },
+   {
+    "id": "liu-qiangdong",
+    "name": "刘强东"
+   },
+   {
+    "id": "shen-nanpeng",
+    "name": "沈南鹏"
+   },
+   {
+    "id": "ma-huateng",
+    "name": "马化腾"
+   }
+  ]
+ },
+ {
+  "id": "google",
+  "name": "谷歌",
+  "en_name": "Google",
+  "type": "company",
+  "region": "world",
+  "founded": "1998-09-04",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "美国加州山景城",
+  "headline": "从搜索到移动与AI的全球底座",
+  "summary_30s": "1998年以PageRank算法创办，靠AdWords竞价广告成为商业引擎；2004年上市，2005年收购Android奠定移动底座；2010年google.cn搜索重定向香港、退出中国大陆搜索市场；现属Alphabet，Gemini居模型第一梯队。",
+  "timeline": [
+   {
+    "date": "1998-09-04",
+    "acc": "exact",
+    "text": "拉里·佩奇与谢尔盖·布林在加州注册Google公司，核心是按链接权重排序搜索结果的PageRank算法"
+   },
+   {
+    "date": "2000-10-23",
+    "acc": "exact",
+    "text": "上线关键词竞价广告系统AdWords（约350家广告主），按点击效果计费的机制此后二十余年贡献公司绝大部分营收"
+   },
+   {
+    "date": "2004-04-01",
+    "acc": "exact",
+    "text": "发布Gmail：1GB免费存储约为当时Hotmail的250倍，邀请码机制令邮箱产品首次出现『排队注册』"
+   },
+   {
+    "date": "2004-08-19",
+    "acc": "exact",
+    "text": "以荷兰式拍卖登陆纳斯达克，发行价85美元，上市时年收入27亿美元，首日市值约230亿美元"
+   },
+   {
+    "date": "2005-02-08",
+    "acc": "exact",
+    "text": "上线Google Maps，以Ajax拖拽地图取代整页刷新，同年6月开放API后『位置』成为网络产品标准图层"
+   },
+   {
+    "date": "2005-07-01",
+    "acc": "month",
+    "text": "以至少5000万美元收购Android公司，为进入手机操作系统埋下伏笔"
+   },
+   {
+    "date": "2006-01-26",
+    "acc": "exact",
+    "text": "启用中国版网站google.cn，同年11月谷歌（中国）在北京注册成立，与百度展开中文搜索双雄竞争"
+   },
+   {
+    "date": "2006-10-09",
+    "acc": "exact",
+    "text": "宣布以16.5亿美元股票收购成立仅20个月的YouTube，收购时后者日视频观看量约1亿次而几乎无收入"
+   },
+   {
+    "date": "2007-11-05",
+    "acc": "exact",
+    "text": "联合HTC、摩托罗拉、中国移动等组建开放手机联盟并宣布Android平台以Apache协议开源，任何厂商可免费定制，此后成为国产手机出海的系统底座"
+   },
+   {
+    "date": "2008-09-02",
+    "acc": "exact",
+    "text": "发布Chrome浏览器，以V8引擎与标签页进程隔离把浏览器重新定义为Web应用的运行环境"
+   },
+   {
+    "date": "2010-03-23",
+    "acc": "exact",
+    "text": "宣布调整中国业务，google.cn搜索服务重定向至香港域名google.com.hk，广告销售与研发团队继续留驻，中文搜索市场此后进入百度主导格局"
+   },
+   {
+    "date": "2014-01-01",
+    "acc": "month",
+    "text": "收购英国DeepMind公司，将其并入AI研究版图"
+   },
+   {
+    "date": "2015-08-10",
+    "acc": "exact",
+    "text": "宣布重组为Alphabet控股集团，谷歌成为其子公司，搜索、广告与前沿业务分立核算"
+   },
+   {
+    "date": "2017-06-01",
+    "acc": "month",
+    "text": "发表论文《Attention Is All You Need》提出Transformer架构，成为此后全球大语言模型的通用技术底座"
+   },
+   {
+    "date": "2022-10-03",
+    "acc": "exact",
+    "text": "以使用率低为由停止Google翻译中国大陆服务，translate.google.cn页面重定向，内地用户转向百度翻译、有道等替代品"
+   },
+   {
+    "date": "2024-12-11",
+    "acc": "exact",
+    "text": "发布Gemini 2.0并宣布进入『Agent时代』，主打原生工具调用与多模态输出"
+   },
+   {
+    "date": "2025-11-18",
+    "acc": "exact",
+    "text": "发布Gemini 3并首日接入搜索AI Mode，Pro版在多项推理基准登顶，发布当日股价大涨"
+   },
+   {
+    "date": "2026-10-13",
+    "acc": "exact",
+    "text": "新一代模型Gemini 4（Argon）正式版上线，每百万token定价2/10美元，维持AI模型头部身位"
+   }
+  ],
+  "milestones": [
+   "2004年8月19日上市：发行价85美元，首日市值约230亿美元",
+   "2006年以16.5亿美元股票收购YouTube，2005年以至少5000万美元收购Android",
+   "2010年google.cn搜索重定向香港，中文搜索市场进入百度主导格局",
+   "2015年重组为Alphabet控股，Gemini系列居全球大模型第一梯队",
+   "2022年10月谷歌翻译停止中国大陆服务，官方理由为使用率低"
+  ],
+  "legacy": "Alphabet市值长期居全球科技业前列，搜索、安卓与Gemini构成其AI时代三条主线。在中国大陆搜索与多数服务不可用，但Android支撑小米、OPPO、vivo等国产手机的全球出货，谷歌开发者工具与开源社区仍深度参与中国程序员的日常。",
+  "controversies": [],
+  "sources": [
+   {
+    "title": "Wikipedia: History of Google",
+    "url": "https://en.wikipedia.org/wiki/History_of_Google",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：谷歌中国",
+    "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Alphabet Inc.",
+    "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+    "type": "wiki"
+   },
+   {
+    "title": "德国之声：谷歌停止在中国大陆的翻译服务",
+    "url": "https://www.dw.com/zh/%E8%B0%B7%E6%AD%8C%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%9A%84%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/a-63322165",
+    "type": "news"
+   },
+   {
+    "title": "Wikipedia: Gemini (language model)",
+    "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "搜索引擎",
+   "广告",
+   "Android",
+   "人工智能",
+   "Alphabet"
+  ],
+  "related_persons": [
+   {
+    "id": "vint-cerf",
+    "name": "文顿·瑟夫"
+   },
+   {
+    "id": "larry-page",
+    "name": "拉里·佩奇"
+   },
+   {
+    "id": "andrew-ng",
+    "name": "吴恩达"
+   },
+   {
+    "id": "demis-hassabis",
+    "name": "德米斯·哈萨比斯"
+   }
+  ]
+ },
+ {
+  "id": "tencent",
+  "name": "腾讯",
+  "en_name": "Tencent",
+  "type": "company",
+  "region": "cn",
+  "founded": "1998-11-11",
+  "founded_accuracy": "exact",
+  "dissolved": null,
+  "status": "active",
+  "hq": "深圳",
+  "headline": "从OICQ到微信的社交与游戏帝国",
+  "summary_30s": "1998年五人团队在深圳做出OICQ；2004年港股上市后以游戏与虚拟增值登顶中国互联网市值第一，2021年市值一度超7万亿港元。3Q大战逼出开放转型，微信完成移动时代接力。今以微信、QQ与全球游戏业务存续。",
+  "timeline": [
+   {
+    "date": "1998-11-11",
+    "acc": "exact",
+    "text": "五人创业团队在深圳注册腾讯，注册资本50万元，主业为寻呼台系统集成"
+   },
+   {
+    "date": "1999-02-10",
+    "acc": "exact",
+    "text": "即时通讯工具OICQ上线，上线9个月注册用户破百万，服务器一度超载"
+   },
+   {
+    "date": "1999-10-05",
+    "acc": "exact",
+    "text": "首届深圳高交会上获IDG与盈科数码各110万美元风险投资意向，撑过烧钱期"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "OICQ因与ICQ的商标纠纷改名QQ，注册用户数在此后两年突破亿级"
+   },
+   {
+    "date": "2003-01-24",
+    "acc": "exact",
+    "text": "QQ秀上线，用户为虚拟形象付费，验证『虚拟商品+社交展示』的付费模式"
+   },
+   {
+    "date": "2004-06-16",
+    "acc": "exact",
+    "text": "在香港主板上市，发行价3.7港元，市值约62亿港元"
+   },
+   {
+    "date": "2005-06-06",
+    "acc": "exact",
+    "text": "QQ空间正式上线，2008年单月活跃用户超1亿，成为全球用户量最大的社交网络产品之一"
+   },
+   {
+    "date": "2008-06-19",
+    "acc": "exact",
+    "text": "代理的《地下城与勇士》国服公测，与《穿越火线》并称双现金牛，腾讯游戏收入登顶全国"
+   },
+   {
+    "date": "2010-03-05",
+    "acc": "exact",
+    "text": "QQ同时在线账户突破1亿，成为全球首个亿级同时在线即时通讯平台"
+   },
+   {
+    "date": "2010-11-03",
+    "acc": "exact",
+    "text": "3Q大战中宣布装有360软件的电脑停止运行QQ，用户『二选一』引发舆论哗然，监管介入"
+   },
+   {
+    "date": "2011-01-21",
+    "acc": "exact",
+    "text": "微信1.0发布，借语音消息与朋友圈、公众号在移动时代再造一个国民级社交平台"
+   },
+   {
+    "date": "2011-02-01",
+    "acc": "exact",
+    "text": "全资收购《英雄联盟》开发商Riot Games，中国公司首次控股全球顶级游戏开发商"
+   },
+   {
+    "date": "2016-07-15",
+    "acc": "exact",
+    "text": "QQ音乐与中国音乐集团合并为腾讯音乐娱乐集团，一度握有华语乐坛主要独家版权"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "month",
+    "text": "股价与市值见顶，总市值一度超过7万亿港元，居中国互联网公司之首"
+   },
+   {
+    "date": "2021-07-24",
+    "acc": "exact",
+    "text": "被国家市场监管总局责令30日内解除音乐独家版权，独家版权模式终结"
+   }
+  ],
+  "milestones": [
+   "2010年3月QQ同时在线破1亿，为全球首个亿级同时在线即时通讯平台",
+   "2004年6月港股上市发行价3.7港元；2021年1月市值一度超7万亿港元",
+   "代理的《穿越火线》2012年全球年收入突破10亿美元，跻身全球最高",
+   "微信2011年1月发布，语音消息+朋友圈+春节红包完成全民普及",
+   "2016年整合QQ音乐与中国音乐集团，2021年被责令解除独家版权"
+  ],
+  "legacy": "现为中国市值最高的互联网公司之一：微信与QQ构成社交底盘，游戏业务收入居全球前列，投资版图覆盖大量头部公司。2021年后经历反垄断处罚、未成年人游戏新规与市值回落，业务重心转向视频号、广告与企业服务。",
+  "sources": [
+   {
+    "title": "维基百科：腾讯",
+    "url": "https://zh.wikipedia.org/wiki/腾讯",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：腾讯QQ",
+    "url": "https://zh.wikipedia.org/wiki/腾讯QQ",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：微信",
+    "url": "https://zh.wikipedia.org/wiki/微信",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：3Q大战",
+    "url": "https://zh.wikipedia.org/wiki/3Q大战",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: 2011 in video games（腾讯收购Riot）",
+    "url": "https://en.wikipedia.org/wiki/2011_in_video_games",
+    "type": "wiki"
+   },
+   {
+    "title": "Internet Archive：tencent.com 2000年首张快照",
+    "url": "https://web.archive.org/web/20000408000000/http://www.tencent.com/",
+    "type": "archive"
+   }
+  ],
+  "tags": [
+   "即时通讯",
+   "社交网络",
+   "网络游戏",
+   "港股",
+   "深圳"
+  ],
+  "related_persons": [
+   {
+    "id": "zhang-xiaolong",
+    "name": "张小龙"
+   },
+   {
+    "id": "ma-huateng",
+    "name": "马化腾"
+   },
+   {
+    "id": "zhang-lei",
+    "name": "张磊"
+   },
+   {
+    "id": "wong-kar-wai",
+    "name": "王家卫"
+   }
+  ]
+ }
+]

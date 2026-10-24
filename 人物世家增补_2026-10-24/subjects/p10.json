@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "he-jiong",
+  "name": "何炅",
+  "en_name": "He Jiong",
+  "aliases": [],
+  "birth": "1974-04-28",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "《快乐大本营》主持人、北外教师出身",
+  "summary_30s": "主持人、导演。1992年保送北京外国语大学阿拉伯语系，1997年毕业后留校任教；1995年起主持央视《大风车》，1998年起主持湖南卫视《快乐大本营》二十余年；2004年演唱代表作《栀子花开》，2015年执导同名电影完成导演处女作。",
+  "timeline": [
+   {
+    "date": "1974-04-28",
+    "acc": "exact",
+    "text": "生于湖南省长沙市雨花区，在长沙完成中小学学业。"
+   },
+   {
+    "date": "1992-01-01",
+    "acc": "year",
+    "text": "高中时被保送进入北京外国语大学阿拉伯语系。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "在读期间主持央视少儿节目《大风车》，开始主持生涯。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "从北京外国语大学毕业后留校，任阿拉伯语系教师。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "开始主持湖南卫视综艺《快乐大本营》，此后与「快乐家族」搭档主持二十余年。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "演唱歌曲《栀子花开》，成为其音乐代表作品。"
+   },
+   {
+    "date": "2015-07-10",
+    "acc": "exact",
+    "text": "执导的电影处女作《栀子花开》上映，黄磊担任监制。"
+   }
+  ],
+  "achievements": [
+   "1992年保送北京外国语大学阿拉伯语系，1997年毕业后留校任教",
+   "1998年起主持《快乐大本营》二十余年",
+   "2004年演唱歌曲《栀子花开》，成为其代表作",
+   "2015年执导电影《栀子花开》，系其导演处女作"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：何炅",
+    "url": "https://zh.wikipedia.org/zh-hans/%E4%BD%95%E7%82%85",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：何炅",
+    "url": "https://baike.baidu.com/item/%E4%BD%95%E7%82%85/872394",
+    "type": "baike"
+   },
+   {
+    "title": "北京外国语大学校友会：何炅",
+    "url": "https://xyh.bfsu.edu.cn/info/1341/11792.htm",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：栀子花开（电影）",
+    "url": "https://zh.wikipedia.org/zh-tw/%E6%A0%80%E5%AD%90%E8%8A%B1%E5%BC%802015",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "湖南卫视",
+   "快乐大本营",
+   "综艺",
+   "主持人",
+   "媒体"
+  ]
+ },
+ {
+  "id": "fei-fei-li",
+  "name": "李飞飞",
+  "en_name": "Fei-Fei Li",
+  "aliases": [],
+  "birth": "1976-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "ai",
+  "region": "world",
+  "headline": "ImageNet之母",
+  "summary_30s": "斯坦福大学教授、ImageNet数据集创始人，以「数据先行」的远见为深度学习革命铺路，ImageNet挑战赛直接催生了卷积神经网络的突破，被视为当代人工智能最重要的奠基者之一。",
+  "timeline": [
+   {
+    "date": "1992-01-01",
+    "acc": "year",
+    "text": "随父母自北京移民美国新泽西州，在帕西帕尼读高中，课余在自家干洗店帮忙打工。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "以全额奖学金从普林斯顿大学物理系毕业，随后赴西藏做过一年藏医药研究。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "获加州理工学院电气工程博士学位，研究方向为认知与计算神经科学。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "启动ImageNet项目，雇佣全球众包人力标注1400万张图片，学界一度认为不可能完成。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "ImageNet数据集论文发表于CVPR并加入斯坦福大学，次年ImageNet挑战赛开赛。"
+   },
+   {
+    "date": "2012-09-01",
+    "acc": "month",
+    "text": "Hinton团队用AlexNet在ImageNet挑战赛一战封神，深度学习革命自此引爆，ImageNet成为关键推手。"
+   },
+   {
+    "date": "2017-01-09",
+    "acc": "exact",
+    "text": "出任谷歌云AI与机器学习首席科学家，推动AutoML等企业级AI落地。"
+   },
+   {
+    "date": "2019-03-01",
+    "acc": "month",
+    "text": "联合发起斯坦福以人为本人工智能研究院（HAI）并任联席院长。"
+   },
+   {
+    "date": "2024-06-01",
+    "acc": "month",
+    "text": "创办空间智能创业公司World Labs，称视觉空间智能是AI的下一个前沿。"
+   }
+  ],
+  "achievements": [
+   "创建ImageNet数据集与挑战赛，直接催化深度学习革命",
+   "推动「以人为本AI」理念，联合创立斯坦福HAI研究院",
+   "创办空间智能公司World Labs，探索三维视觉智能前沿"
+  ],
+  "quotes": [
+   "如果有想把世界变好的好奇心，就去学AI"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：李飞飞",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A3%9E%E9%A3%9E",
+    "type": "wiki"
+   },
+   {
+    "title": "斯坦福HAI官网",
+    "url": "https://hai.stanford.edu/",
+    "type": "official"
+   },
+   {
+    "title": "Quant Magazine：李飞飞专访",
+    "url": "https://www.quantamagazine.org/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "ImageNet",
+   "斯坦福",
+   "AI",
+   "科学家",
+   "美国"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   }
+  ]
+ },
+ {
+  "id": "andrew-ng",
+  "name": "吴恩达",
+  "en_name": "Andrew Ng",
+  "aliases": [
+   "Andrew Ng"
+  ],
+  "birth": "1976-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "ai",
+  "region": "world",
+  "headline": "AI布道者与在线教育先驱",
+  "summary_30s": "斯坦福大学副教授、Google Brain联合创始人、Coursera联合创始人，曾执掌百度AI集团，其机器学习公开课让数十万人入门AI，被视为把深度学习推向工业界与大众的关键人物。",
+  "timeline": [
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "从卡内基梅隆大学计算机系毕业，此后在麻省理工学院获硕士、加州大学伯克利分校获博士学位。"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "加入斯坦福大学任计算机科学助理教授，主导STAIR机器人项目并孕育机器人操作系统ROS。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "参与创办Google Brain项目，用上万颗CPU训练神经网络识别猫脸，开启深度学习工业时代。"
+   },
+   {
+    "date": "2011-10-01",
+    "acc": "month",
+    "text": "将斯坦福机器学习课程免费公开，超过十万人注册，成为历史上最受欢迎的在线课程之一。"
+   },
+   {
+    "date": "2012-06-01",
+    "acc": "month",
+    "text": "与Daphne Koller联合创办Coursera，慕课（MOOC）浪潮自此席卷全球高校。"
+   },
+   {
+    "date": "2014-05-16",
+    "acc": "exact",
+    "text": "出任百度首席科学家，执掌百度研究院，推动深度学习与自动驾驶在中国落地。"
+   },
+   {
+    "date": "2017-03-22",
+    "acc": "exact",
+    "text": "宣布离开百度，随后创办Landing.AI与DeepLearning.AI，转向AI转型咨询与教育。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "year",
+    "text": "旗下DeepLearning.AI课程累计注册学习者超过800万，持续输出AI通识与工程教育。"
+   }
+  ],
+  "achievements": [
+   "联合创办Google Brain，开启深度学习工业应用时代",
+   "创办Coursera，推动慕课浪潮并让全球数百万人系统学习AI",
+   "机器学习公开课与《机器学习年课》被公认为全球AI入门第一课"
+  ],
+  "quotes": [
+   "AI is the new electricity"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：吴恩达",
+    "url": "https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE",
+    "type": "wiki"
+   },
+   {
+    "title": "DeepLearning.AI官网",
+    "url": "https://www.deeplearning.ai/",
+    "type": "official"
+   },
+   {
+    "title": "MIT Technology Review：吴恩达专访",
+    "url": "https://www.technologyreview.com/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "AI",
+   "Google Brain",
+   "Coursera",
+   "深度学习",
+   "在线教育"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   },
+   {
+    "id": "baidu",
+    "name": "百度"
+   }
+  ]
+ },
+ {
+  "id": "sa-beining",
+  "name": "撒贝宁",
+  "en_name": "Sa Beining",
+  "aliases": [],
+  "birth": "1976-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "央视主持人，从《今日说法》转型综艺",
+  "summary_30s": "央视主持人。1994年被保送进入北京大学法学院，本科毕业再获保送读研；1999年研究生在读期间出任《今日说法》主持人，2000年获全国电视主持人大赛冠军；2012年起主持春晚与《开讲啦》，2016年加入《明星大侦探》完成综艺转型。",
+  "timeline": [
+   {
+    "date": "1976-01-01",
+    "acc": "year",
+    "text": "生于广东省湛江市，祖籍安徽和县，在湖北武汉长大。"
+   },
+   {
+    "date": "1994-01-01",
+    "acc": "year",
+    "text": "高中毕业前被保送进入北京大学法学院就读。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "本科毕业，获保送继续在北京大学法学院攻读硕士研究生。"
+   },
+   {
+    "date": "1999-01-02",
+    "acc": "exact",
+    "text": "央视法制节目《今日说法》开播，研究生在读的他出任主持人，以案说法的形式使其为观众熟知。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "获「荣事达」杯全国电视主持人大赛冠军。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "year",
+    "text": "首次担任央视春节联欢晚会主持人，同年起主持青年公开课节目《开讲啦》。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "参加芒果TV推理综艺《明星大侦探》，从法制节目主持人转向综艺领域。"
+   }
+  ],
+  "achievements": [
+   "1994年被保送进入北京大学法学院，本科毕业再获保送读研",
+   "1999年研究生在读期间出任《今日说法》主持人",
+   "2000年获「荣事达」杯全国电视主持人大赛冠军",
+   "2012年起主持央视春晚并主持青年公开课《开讲啦》",
+   "2016年起参加《明星大侦探》，完成从法治节目到综艺的转型"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：撒贝宁",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%92%92%E8%B4%9D%E5%AE%81",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：撒贝宁",
+    "url": "https://baike.baidu.com/item/%E6%92%92%E8%B4%9D%E5%AE%81/485256",
+    "type": "baike"
+   },
+   {
+    "title": "央视网主持人简介：撒贝宁",
+    "url": "https://www.cctv.com/anchor/compere/0063/profile.shtml",
+    "type": "official"
+   },
+   {
+    "title": "人民网环球人物：撒贝宁的综艺心",
+    "url": "http://paper.people.com.cn/hqrw/html/2016-09/06/content_1726751.htm",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "央视",
+   "今日说法",
+   "综艺",
+   "媒体"
+  ]
+ },
+ {
+  "id": "demis-hassabis",
+  "name": "德米斯·哈萨比斯",
+  "en_name": "Demis Hassabis",
+  "aliases": [
+   "Demis Hassabis"
+  ],
+  "birth": "1976-07-27",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "ai",
+  "region": "world",
+  "headline": "DeepMind创始人、诺贝尔化学奖得主",
+  "summary_30s": "DeepMind联合创始人兼CEO，2010年在伦敦创办该公司，2014年谷歌以约4亿英镑将其收购。主导研制的AlphaGo于2016年以4比1战胜李世石；AlphaFold将蛋白质结构预测推进到接近实验测定精度并公开约2亿个结构预测。2024年与John Jumper分享诺贝尔化学奖，另一半授予David Baker。",
+  "timeline": [
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "以双一等荣誉学位毕业于剑桥大学皇后学院计算机科学专业，时年20岁。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "创办游戏公司Elysium Studios（后更名Elixir Studios），从事游戏AI设计。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "获伦敦大学学院（UCL）认知神经科学博士学位。"
+   },
+   {
+    "date": "2010-09-01",
+    "acc": "month",
+    "text": "与Shane Legg、Mustafa Suleyman在伦敦共同创办DeepMind。"
+   },
+   {
+    "date": "2014-01-01",
+    "acc": "month",
+    "text": "谷歌宣布收购DeepMind，媒体报道交易价格约4亿英镑。"
+   },
+   {
+    "date": "2016-03-01",
+    "acc": "month",
+    "text": "AlphaGo在首尔五番棋中以4比1战胜世界顶级棋手李世石。"
+   },
+   {
+    "date": "2020-11-01",
+    "acc": "month",
+    "text": "AlphaFold2在CASP14国际评测中将蛋白质结构预测精度推进到接近实验测定水平。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "在谷歌体系内创立AI制药公司Isomorphic Labs并出任CEO。"
+   },
+   {
+    "date": "2022-07-01",
+    "acc": "month",
+    "text": "AlphaFold数据库公开约2亿个蛋白质结构预测，覆盖科学界已知绝大多数蛋白。"
+   },
+   {
+    "date": "2023-04-01",
+    "acc": "month",
+    "text": "谷歌将DeepMind与Google Brain合并为Google DeepMind，哈萨比斯出任CEO。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "month",
+    "text": "在新年授勋名单中受封爵士（Knight Bachelor），表彰其对人工智能的贡献。"
+   },
+   {
+    "date": "2024-10-09",
+    "acc": "exact",
+    "text": "与John Jumper分享2024年诺贝尔化学奖，表彰AlphaFold2；另一半授予David Baker。"
+   }
+  ],
+  "achievements": [
+   "创办DeepMind，2014年被谷歌收购，2023年起执掌Google DeepMind",
+   "AlphaGo于2016年以4比1战胜李世石，实现计算机在围棋上对人类顶级棋手的突破",
+   "AlphaFold2将蛋白质结构预测推进到接近实验精度，并公开约2亿个结构预测",
+   "获2024年诺贝尔化学奖（与John Jumper分享）",
+   "获2024年新年授勋爵士，2021年获皇家学会等学术机构多个奖项"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Demis Hassabis",
+    "url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+    "type": "wiki"
+   },
+   {
+    "title": "诺贝尔奖官网：2024年化学奖新闻稿",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release",
+    "type": "official"
+   },
+   {
+    "title": "Britannica: Demis Hassabis",
+    "url": "https://www.britannica.com/biography/Demis-Hassabis",
+    "type": "wiki"
+   },
+   {
+    "title": "Isomorphic Labs 官网人物页",
+    "url": "https://www.isomorphiclabs.com/people/sir-demis-hassabis-phd",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "人工智能",
+   "DeepMind",
+   "AlphaGo",
+   "AlphaFold",
+   "诺贝尔化学奖"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   }
+  ]
+ },
+ {
+  "id": "yan-ning",
+  "name": "颜宁",
+  "en_name": "Nieng Yan",
+  "aliases": [],
+  "birth": "1977-11-21",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "science",
+  "region": "cn",
+  "headline": "结构生物学家、深圳医学科学院院长",
+  "summary_30s": "结构生物学家，30岁成为清华大学当时最年轻博士生导师，2014年在世界上首次解析人源葡萄糖转运蛋白GLUT1结构；2022年辞去普林斯顿教职回国出任深圳医学科学院创始院长，次年当选中国科学院院士，时年46岁。",
+  "timeline": [
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "考入清华大学生物科学与技术系，2000年本科毕业。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "获普林斯顿大学分子生物学博士学位，师从施一公。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "受聘清华大学医学院教授、博士生导师，时年30岁，为当时清华最年轻的博士生导师。"
+   },
+   {
+    "date": "2014-05-01",
+    "acc": "month",
+    "text": "研究组在《自然》发表论文，在世界上首次解析人源葡萄糖转运蛋白GLUT1的晶体结构。"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "离开清华，受聘美国普林斯顿大学分子生物学系终身讲席教授。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "获「求是杰出科学家奖」，表彰其结构生物学研究成果。"
+   },
+   {
+    "date": "2022-11-01",
+    "acc": "month",
+    "text": "宣布辞去普林斯顿教职回国，出任深圳医学科学院创始院长。"
+   },
+   {
+    "date": "2023-11-22",
+    "acc": "exact",
+    "text": "当选中国科学院院士（生命科学和医学学部），时年46岁。"
+   }
+  ],
+  "achievements": [
+   "2014年在世界上首次解析人源葡萄糖转运蛋白GLUT1晶体结构",
+   "30岁成为清华大学当时最年轻的博士生导师",
+   "2022年回国创办深圳医学科学院（SMART）并任创始院长",
+   "2023年当选中国科学院院士，同年当选美国国家科学院外籍院士",
+   "先后获赛克勒国际生物物理奖、求是杰出科学家奖"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：颜宁",
+    "url": "https://zh.wikipedia.org/zh-hans/颜宁",
+    "type": "wiki"
+   },
+   {
+    "title": "清华大学生命科学学院：颜宁教授当选中国科学院院士",
+    "url": "https://life.tsinghua.edu.cn/info/1133/5360.htm",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：颜宁",
+    "url": "https://baike.baidu.com/item/颜宁/84400",
+    "type": "baike"
+   },
+   {
+    "title": "人民日报：勇敢的科学追梦人",
+    "url": "http://paper.people.com.cn/rmrb/pc/content/202507/08/content_30085632.html",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "结构生物学",
+   "清华大学",
+   "普林斯顿大学",
+   "深圳医学科学院",
+   "膜蛋白"
+  ]
+ },
+ {
+  "id": "jay-chou",
+  "name": "周杰伦",
+  "en_name": "Jay Chou",
+  "aliases": [],
+  "birth": "1979-01-18",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "华语流行天王，15座金曲奖纪录保持者",
+  "summary_30s": "华语流行男歌手、音乐人，1979年生于台湾。2000年11月发行首张专辑《Jay》出道，融合R&B、嘻哈与古典元素，开创华语流行新风格。累计获15座金曲奖，2004至2008年四获世界音乐大奖大中华区最畅销艺人；2022年专辑《最伟大的作品》获IFPI认证年度全球最畅销专辑，为IFPI全球专辑榜首张跻身前十的华语专辑；出道以来举办演唱会逾400场。",
+  "timeline": [
+   {
+    "date": "1979-01-18",
+    "acc": "exact",
+    "text": "1979年1月18日生于台湾台北县林口乡，4岁起学习钢琴。"
+   },
+   {
+    "date": "2000-11-01",
+    "acc": "month",
+    "text": "2000年11月6日发行首张专辑《Jay》，次年获第12届金曲奖最佳流行音乐演唱专辑。"
+   },
+   {
+    "date": "2001-09-01",
+    "acc": "month",
+    "text": "2001年9月发行第二张专辑《范特西》，2002年获第13届金曲奖5项大奖。"
+   },
+   {
+    "date": "2003-07-01",
+    "acc": "month",
+    "text": "2003年7月发行专辑《叶惠美》，次年获第15届金曲奖最佳国语专辑。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "2004年专辑《七里香》发行，亚洲年度销量逾300万张，并首获世界音乐大奖大中华区最畅销艺人。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "2007年世界巡回演唱会悉尼站票房登上美国Billboard票房榜第2名。"
+   },
+   {
+    "date": "2011-01-01",
+    "acc": "year",
+    "text": "2011年专辑《跨时代》获第22届金曲奖最佳国语专辑，系其第4度获该奖项。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "2016年发行专辑《周杰伦的床边故事》，同年启动地表最强世界巡回演唱会。"
+   },
+   {
+    "date": "2022-07-01",
+    "acc": "month",
+    "text": "2022年7月15日发行专辑《最伟大的作品》，获IFPI认证为2022年全球最畅销专辑冠军。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "year",
+    "text": "截至2024年，出道以来累计举办演唱会超400场，共完成8次世界巡回演唱会。"
+   }
+  ],
+  "achievements": [
+   "累计获15座台湾金曲奖，4度获最佳国语专辑（Jay、范特西、叶惠美、跨时代）",
+   "2022年《最伟大的作品》获IFPI认证年度全球最畅销专辑，系IFPI榜首张进入前十的华语专辑",
+   "2004、2006、2007、2008年四获世界音乐大奖大中华区最畅销艺人",
+   "出道以来举办演唱会逾400场，完成8次世界巡回演唱会",
+   "2004年《七里香》亚洲销量逾300万张，2007年悉尼站票房列Billboard第2名"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：周杰伦",
+    "url": "https://zh.wikipedia.org/wiki/周杰伦",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Jay Chou",
+    "url": "https://en.wikipedia.org/wiki/Jay_Chou",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：最伟大的作品（专辑）",
+    "url": "https://zh.wikipedia.org/wiki/最伟大的作品",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "华语流行",
+   "金曲奖",
+   "唱片销量",
+   "世界巡回演唱会",
+   "创作歌手"
+  ]
+ },
+ {
+  "id": "wang-xing",
+  "name": "王兴",
+  "en_name": "Wang Xing",
+  "aliases": [],
+  "birth": "1979-02-18",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "美团创始人",
+  "summary_30s": "美团创始人兼CEO，连续创业者，先后做出校内网、饭否与美团，在千团大战中活到最后并击败对手，把美团做成中国最大生活服务电商，又以外卖业务重塑城市餐饮消费。",
+  "timeline": [
+   {
+    "date": "2001-06-01",
+    "acc": "month",
+    "text": "从清华大学电子工程系毕业，随后赴美国特拉华大学攻读博士，一年后退学回国创业。"
+   },
+   {
+    "date": "2005-12-01",
+    "acc": "month",
+    "text": "与王慧文等创办校内网，成为中国最大的大学生社交网络，次年出售给千橡互动。"
+   },
+   {
+    "date": "2007-05-12",
+    "acc": "exact",
+    "text": "创办迷你博客饭否网，成为中文微博客鼻祖，2009年因故停止服务。"
+   },
+   {
+    "date": "2010-03-04",
+    "acc": "exact",
+    "text": "美团网上线，切入团购市场，此后在「千团大战」中以精细化运营淘汰绝大多数对手。"
+   },
+   {
+    "date": "2013-11-01",
+    "acc": "month",
+    "text": "美团外卖上线，此后成长为全球规模最大的餐饮外卖平台之一。"
+   },
+   {
+    "date": "2015-10-08",
+    "acc": "exact",
+    "text": "美团与大众点评合并，王兴出任新公司CEO，结束本地生活服务最大对手之争。"
+   },
+   {
+    "date": "2018-09-20",
+    "acc": "exact",
+    "text": "美团点评在香港交易所上市，市值此后进入中国互联网公司前五。"
+   }
+  ],
+  "achievements": [
+   "连续创办校内网、饭否、美团三个现象级产品",
+   "在千团大战中胜出并将美团打造为中国最大生活服务平台",
+   "主导美团外卖崛起，推动中国成为全球最大外卖市场"
+  ],
+  "quotes": [
+   "对未来越有信心，对现在越有耐心"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：王兴",
+    "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B4_(%E4%BC%81%E4%B8%9A%E5%AE%B6)",
+    "type": "wiki"
+   },
+   {
+    "title": "美团官网：公司信息",
+    "url": "https://about.meituan.com/",
+    "type": "official"
+   },
+   {
+    "title": "晚点LatePost：王兴专访",
+    "url": "https://www.latepost.com/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "美团",
+   "外卖",
+   "连续创业",
+   "福建",
+   "本地生活"
+  ],
+  "related_entities": [
+   {
+    "id": "fanfou",
+    "name": "饭否"
+   },
+   {
+    "id": "meituan",
+    "name": "美团"
+   }
+  ]
+ },
+ {
+  "id": "huang-zheng",
+  "name": "黄峥",
+  "en_name": "Colin Huang",
+  "aliases": [
+   "Colin Huang"
+  ],
+  "birth": "1980-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "拼多多创始人",
+  "summary_30s": "保送浙大的连续创业者：2007年离开谷歌创办欧酷网，2015年创立拼多多前身拼好货，2018年7月带拼多多登陆纳斯达克，首日市值约303亿美元；2021年卸任董事长转向科研。",
+  "timeline": [
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "被保送进入浙江大学混合班（竺可桢学院前身）主修计算机，大一时入选梅尔顿基金会培养计划。"
+   },
+   {
+    "date": "2002-01-01",
+    "acc": "year",
+    "text": "从浙江大学计算机专业毕业，赴美国威斯康星大学麦迪逊分校攻读硕士。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "获威斯康星大学计算机硕士学位，同年加入谷歌任工程师。"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "与李开复一同回国，参与建立Google中国办公室、拓展谷歌在华业务。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "从谷歌离职，创办电商网站欧酷网（Oku）。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "欧酷网以220万美元出售，结束第一段电商创业。"
+   },
+   {
+    "date": "2015-04-01",
+    "acc": "month",
+    "text": "创立拼好货（拼多多前身之一），获网易创始人丁磊投资。"
+   },
+   {
+    "date": "2016-09-01",
+    "acc": "month",
+    "text": "拼好货与拼多多宣布合并，出任新公司董事长兼CEO。"
+   },
+   {
+    "date": "2018-07-26",
+    "acc": "exact",
+    "text": "拼多多在纳斯达克上市，发行价19美元，上市首日收盘市值约303亿美元，黄峥持股近半。"
+   },
+   {
+    "date": "2020-07-01",
+    "acc": "exact",
+    "text": "卸任拼多多CEO，由联合创始人陈磊接任，保留董事长职务。"
+   },
+   {
+    "date": "2021-03-17",
+    "acc": "exact",
+    "text": "辞任拼多多董事长，将股份投票权委托给董事会，创立繁星公益基金，转向食品科学与生命科学研究。"
+   },
+   {
+    "date": "2024-08-01",
+    "acc": "month",
+    "text": "以486亿美元身家超越钟睒睒，成为福布斯实时富豪榜中国首富。"
+   }
+  ],
+  "achievements": [
+   "2007年创办电商网站欧酷网，2010年以220万美元售出",
+   "2015年创立拼好货，2016年与拼多多合并后任董事长兼CEO",
+   "2018年7月带领拼多多登陆纳斯达克，首日收盘市值约303亿美元",
+   "2021年辞任董事长后创立繁星公益基金，转向食品科学与生命科学",
+   "2024年8月以486亿美元身家登顶福布斯实时榜中国首富"
+  ],
+  "controversies": [
+   "2018年上市前后，拼多多因平台上涉嫌售卖假货受到批评。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：黄峥",
+    "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E5%B3%A5",
+    "type": "wiki"
+   },
+   {
+    "title": "英文维基百科：Colin Huang",
+    "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+    "type": "wiki"
+   },
+   {
+    "title": "财新：新电商第一股拼多多登陆纳斯达克",
+    "url": "https://companies.caixin.com/2018-07-26/101308496.html",
+    "type": "news"
+   },
+   {
+    "title": "杭州网：杭外和浙大学霸的成长故事",
+    "url": "https://hznews.hangzhou.com.cn/jingji/content/2018-07/27/content_7042870.htm",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "拼多多",
+   "电商",
+   "互联网",
+   "创业",
+   "杭州"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   },
+   {
+    "id": "netease",
+    "name": "网易"
+   }
+  ]
+ },
+ {
+  "id": "yao-ming",
+  "name": "姚明",
+  "en_name": "Yao Ming",
+  "aliases": [
+   "移动长城"
+  ],
+  "birth": "1980-09-12",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "NBA首位外籍状元",
+  "summary_30s": "NBA历史首位外籍状元。2002年选秀首轮第1顺位加盟休斯顿火箭，8个赛季全部入选全明星，生涯场均19.0分9.2篮板1.9盖帽；2016年入选奈史密斯篮球名人堂，为首位入选的中国球员；2017至2024年担任中国篮球协会主席，推动CBA联赛公司化运营。",
+  "timeline": [
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "进入上海大鲨鱼队一线阵容，开始征战CBA联赛。"
+   },
+   {
+    "date": "2002-04-01",
+    "acc": "month",
+    "text": "率上海大鲨鱼夺得队史首个CBA总冠军，随后宣布参加NBA选秀。"
+   },
+   {
+    "date": "2002-06-26",
+    "acc": "exact",
+    "text": "NBA选秀大会首轮第1顺位被休斯顿火箭队选中，成为NBA历史首位外籍状元。"
+   },
+   {
+    "date": "2003-02-01",
+    "acc": "month",
+    "text": "新秀赛季即入选NBA全明星赛，此后NBA生涯共8次入选全明星。"
+   },
+   {
+    "date": "2004-08-01",
+    "acc": "month",
+    "text": "雅典奥运会担任中国代表团开幕式旗手，率中国男篮闯入八强。"
+   },
+   {
+    "date": "2008-08-08",
+    "acc": "exact",
+    "text": "北京奥运会再次担任中国代表团开幕式旗手，率中国男篮再进八强。"
+   },
+   {
+    "date": "2008-09-01",
+    "acc": "month",
+    "text": "创立姚基金，以援建希望小学与举办慈善赛推动乡村青少年体育教育，此后累计捐建篮球场数百片。"
+   },
+   {
+    "date": "2011-07-20",
+    "acc": "exact",
+    "text": "因腿部与脚踝反复骨折在上海召开发布会宣布退役，NBA生涯场均19.0分9.2篮板1.9盖帽。"
+   },
+   {
+    "date": "2016-04-05",
+    "acc": "exact",
+    "text": "入选奈史密斯篮球名人堂，为首位入选的中国球员，同年9月正式入堂。"
+   },
+   {
+    "date": "2017-02-01",
+    "acc": "month",
+    "text": "当选中国篮球协会主席，此后推动CBA公司独立运营联赛。"
+   },
+   {
+    "date": "2024-10-01",
+    "acc": "month",
+    "text": "卸任中国篮球协会主席职务，结束七年任期。"
+   }
+  ],
+  "achievements": [
+   "2002年以状元身份登陆NBA，为NBA历史首位外籍状元",
+   "8年NBA生涯全部效力休斯顿火箭，8次入选全明星，场均19.0分9.2篮板1.9盖帽",
+   "2016年入选奈史密斯篮球名人堂，为首位入选的中国球员",
+   "2004、2008年奥运会两任中国代表团旗手，两度率男篮闯入奥运八强",
+   "2017-2024年担任中国篮球协会主席",
+   "2008年创立姚基金，长期开展乡村学校体育支教与希望小学篮球季项目"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：姚明",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%98%8E",
+    "type": "wiki"
+   },
+   {
+    "title": "NBA中国官网：姚明入选2016年奈史密斯名人堂",
+    "url": "https://www.nba.com/rockets/chinese/yao-ming-elected-naismith-memorial-basketball-hall-fame_gb.html",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：姚明",
+    "url": "https://baike.baidu.com/item/%E5%A7%9A%E6%98%8E/28",
+    "type": "wiki"
+   },
+   {
+    "title": "央广网：首位入选NBA名人堂的中国人",
+    "url": "http://m.cnr.cn/news/20160405/t20160405_521786821.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "篮球",
+   "NBA",
+   "火箭",
+   "名人堂",
+   "上海"
+  ]
+ },
+ {
+  "id": "li-na",
+  "name": "李娜",
+  "en_name": "Li Na",
+  "aliases": [],
+  "birth": "1982-02-26",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "亚洲首位大满贯单打冠军",
+  "summary_30s": "亚洲首位大满贯单打冠军。2011年法网女单夺冠，成为首位夺得大满贯单打冠军的亚洲选手；2014年澳网收获第二冠，并将单打排名升至世界第二；职业生涯共获9个WTA单打冠军，2014年9月因膝伤退役，2019年入选国际网球名人堂，为首位入选的亚洲球员。",
+  "timeline": [
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "转为职业网球选手，此后代表中国参加联合会杯等国际网球赛事。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "在WTA广州公开赛夺冠，成为首位夺得WTA巡回赛单打冠军的中国选手。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "北京奥运会打进网球女单四强，最终名列第四，创当时中国网球奥运单打最好成绩。"
+   },
+   {
+    "date": "2011-01-29",
+    "acc": "exact",
+    "text": "澳网女单决赛不敌克里斯特尔斯获亚军，成为首位闯入大满贯单打决赛的亚洲选手。"
+   },
+   {
+    "date": "2011-06-04",
+    "acc": "exact",
+    "text": "法网女单决赛直落两盘击败卫冕冠军斯齐亚沃尼，成为首位夺得大满贯单打冠军的亚洲选手。"
+   },
+   {
+    "date": "2014-01-25",
+    "acc": "exact",
+    "text": "澳网女单决赛以7-6、6-0击败齐布尔科娃，收获个人第二个大满贯单打冠军。"
+   },
+   {
+    "date": "2014-02-01",
+    "acc": "month",
+    "text": "WTA单打世界排名升至第二，创亚洲选手单打排名最高纪录。"
+   },
+   {
+    "date": "2014-09-19",
+    "acc": "exact",
+    "text": "因膝伤发布公开信正式宣布退役，结束15年职业生涯。"
+   },
+   {
+    "date": "2019-01-21",
+    "acc": "exact",
+    "text": "入选国际网球名人堂，为首位入选的亚洲球员，同年7月在纽波特举行入堂仪式。"
+   }
+  ],
+  "achievements": [
+   "2011年法网女单夺冠，成为首位夺得大满贯单打冠军的亚洲选手",
+   "2014年澳网再夺大满贯，单打世界排名升至第二，创亚洲纪录",
+   "职业生涯共获9个WTA巡回赛单打冠军",
+   "2011年澳网女单亚军，为首位闯入大满贯单打决赛的亚洲选手",
+   "2019年入选国际网球名人堂，为首位入选的亚洲球员"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "央视新闻：亚洲第一人！李娜正式入选国际网球名人堂",
+    "url": "http://m.news.cctv.com/2019/01/22/ARTIK3kzCrYQ8YMrC2BX9H4G190122.shtml",
+    "type": "news"
+   },
+   {
+    "title": "维基百科：李娜（网球运动员）",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E5%A8%9C_(%E7%BD%91%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98)",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Li Na (tennis)",
+    "url": "https://en.wikipedia.org/wiki/Li_Na_(tennis)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "网球",
+   "大满贯",
+   "法网",
+   "澳网",
+   "武汉"
+  ]
+ },
+ {
+  "id": "zhang-yiming",
+  "name": "张一鸣",
+  "en_name": "Zhang Yiming",
+  "aliases": [],
+  "birth": "1983-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "字节跳动创始人",
+  "summary_30s": "字节跳动创始人，以推荐算法重做信息分发，九年时间做出今日头条与抖音（TikTok），打造出中国互联网公司中全球化最成功的产品矩阵，字节也成为中国营收最高的未上市科技公司。",
+  "timeline": [
+   {
+    "date": "2005-06-01",
+    "acc": "month",
+    "text": "从南开大学软件工程专业毕业，随后加入酷讯网任技术经理，负责搜索研发。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "出任九九房CEO，开始在移动端做房产信息产品，积累移动产品经验。"
+   },
+   {
+    "date": "2012-03-01",
+    "acc": "month",
+    "text": "在北京知春路的锦秋家园民宅里创立字节跳动，8月推出个性化资讯客户端「今日头条」。"
+   },
+   {
+    "date": "2016-09-01",
+    "acc": "month",
+    "text": "抖音上线，次年以算法与短视频形态引爆增长，海外版TikTok同步推进。"
+   },
+   {
+    "date": "2019-06-01",
+    "acc": "month",
+    "text": "TikTok全球月活跃用户突破5亿，成为首个真正全球化的中国互联网产品。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "year",
+    "text": "TikTok在美遭遇强制出售风波，字节跳动以法律与谈判手段应对，最终以合作协议化解。"
+   },
+   {
+    "date": "2021-05-20",
+    "acc": "exact",
+    "text": "宣布卸任字节跳动CEO，由梁汝波接任，称将专注长期重要议题。"
+   }
+  ],
+  "achievements": [
+   "创立字节跳动，今日头条开创算法推荐分发信息流的先河",
+   "打造抖音与TikTok，成为中国互联网全球化最成功的产品",
+   "字节跳动营收突破千亿美元量级，成为中国营收最高的未上市科技公司"
+  ],
+  "quotes": [
+   "延迟满足感"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：张一鸣",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%B8%80%E9%B8%A3",
+    "type": "wiki"
+   },
+   {
+    "title": "字节跳动官网",
+    "url": "https://www.bytedance.com/zh/",
+    "type": "official"
+   },
+   {
+    "title": "晚点LatePost：字节跳动报道",
+    "url": "https://www.latepost.com/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "字节跳动",
+   "抖音",
+   "TikTok",
+   "算法推荐",
+   "北京"
+  ],
+  "related_entities": [
+   {
+    "id": "bytedance",
+    "name": "字节跳动"
+   }
+  ]
+ },
+ {
+  "id": "cheng-wei",
+  "name": "程维",
+  "en_name": "Cheng Wei",
+  "aliases": [],
+  "birth": "1983-05-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "滴滴出行创始人",
+  "summary_30s": "滴滴出行创始人。2005年加入阿里巴巴从销售做起，2012年离职创办小桔科技上线滴滴打车，五年内合并快的、收购优步中国，将滴滴做成全球出行订单量最大的平台之一；2021年纽交所上市次日即遭网络安全审查，两年后恢复新用户注册。",
+  "timeline": [
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "从北京化工大学行政管理专业毕业，工作数月后寻找方向。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "加入阿里巴巴B2B业务，从一线销售做起，后任区域经理并调往支付宝。"
+   },
+   {
+    "date": "2012-06-01",
+    "acc": "month",
+    "text": "离职创业创办小桔科技，获天使投资人王刚70万元投资。"
+   },
+   {
+    "date": "2012-09-09",
+    "acc": "exact",
+    "text": "滴滴打车上线，从出租车在线叫车切入出行市场。"
+   },
+   {
+    "date": "2014-01-01",
+    "acc": "year",
+    "text": "接入微信支付开启打车补贴大战，滴滴订单量与市场份额爆发式增长。"
+   },
+   {
+    "date": "2015-02-14",
+    "acc": "exact",
+    "text": "滴滴与快的宣布合并，结束补贴消耗战，占据网约车市场主要份额。"
+   },
+   {
+    "date": "2016-08-01",
+    "acc": "exact",
+    "text": "滴滴收购优步中国的品牌、业务与数据资产，成为全球出行订单量最大的平台之一。"
+   },
+   {
+    "date": "2018-08-01",
+    "acc": "month",
+    "text": "顺风车业务因两起安全事件无限期下线整改，程维与总裁柳青发布公开道歉信。"
+   },
+   {
+    "date": "2021-06-30",
+    "acc": "exact",
+    "text": "滴滴在纽交所挂牌上市，融资约44亿美元。"
+   },
+   {
+    "date": "2021-07-01",
+    "acc": "month",
+    "text": "上市次日遭网络安全审查，「滴滴出行」App因违法违规收集使用个人信息被应用商店下架。"
+   },
+   {
+    "date": "2023-01-16",
+    "acc": "exact",
+    "text": "经报网络安全审查办公室同意，滴滴出行恢复新用户注册。"
+   }
+  ],
+  "achievements": [
+   "创办滴滴，五年内结束中国网约车补贴大战，成为行业最大平台",
+   "主导滴滴快的合并与收购优步中国，重塑全球出行市场格局",
+   "带领滴滴2021年完成纽交所上市，融资约44亿美元",
+   "推动行程录音、紧急求助等安全机制建设，成为网约车行业标配"
+  ],
+  "controversies": [
+   "2018年8月，滴滴顺风车接连发生两起乘客遇害刑事案件，顺风车业务随后无限期下线整改，程维与柳青公开道歉。",
+   "2022年7月21日，国家网信办认定滴滴存在16项违法事实，对滴滴处80.26亿元罚款，对程维处100万元罚款。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：程维",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A8%8B%E7%BB%B4",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：程维",
+    "url": "https://baike.baidu.com/item/%E7%A8%8B%E7%BB%B4/15846360",
+    "type": "baike"
+   },
+   {
+    "title": "国家网信办：对滴滴作出网络安全审查行政处罚决定",
+    "url": "https://www.cac.gov.cn/2022-07/21/c_1660021534306352.htm",
+    "type": "official"
+   },
+   {
+    "title": "证券时报：滴滴出行恢复新用户注册",
+    "url": "https://www.stcn.com/article/detail/777324.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "滴滴",
+   "网约车",
+   "出行",
+   "互联网"
+  ],
+  "related_entities": [
+   {
+    "id": "alibaba",
+    "name": "阿里巴巴"
+   },
+   {
+    "id": "didi",
+    "name": "滴滴"
+   }
+  ]
+ },
+ {
+  "id": "liu-xiang",
+  "name": "刘翔",
+  "en_name": "Liu Xiang",
+  "aliases": [
+   "翔飞人"
+  ],
+  "birth": "1983-07-13",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "110米栏奥运冠军、前世界纪录保持者",
+  "summary_30s": "中国首位男子田径奥运金牌得主。2004年雅典以12秒91平世界纪录夺得110米栏金牌，2006年洛桑以12秒88打破尘封13年的世界纪录，2007年大阪世锦赛夺冠后成为110米栏史上首位集奥运冠军、世锦赛冠军与世界纪录于一身的选手；2008与2012年两届奥运会均因跟腱伤病未能完赛，2015年4月正式退役。",
+  "timeline": [
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "入选国家田径队，主攻男子110米栏，此后长期师从教练孙海平训练。"
+   },
+   {
+    "date": "2004-08-27",
+    "acc": "exact",
+    "text": "雅典奥运会以12秒91夺得男子110米栏金牌，追平当时的世界纪录，为中国首枚男子田径奥运金牌。"
+   },
+   {
+    "date": "2006-07-12",
+    "acc": "exact",
+    "text": "洛桑国际田联超级大奖赛跑出12秒88，打破尘封13年的男子110米栏世界纪录。"
+   },
+   {
+    "date": "2007-08-01",
+    "acc": "month",
+    "text": "大阪田径世锦赛以12秒95夺得110米栏冠军，成为该项目史上首位集奥运冠军、世锦赛冠军与世界纪录于一身的选手。"
+   },
+   {
+    "date": "2008-08-18",
+    "acc": "exact",
+    "text": "北京奥运会男子110米栏预赛因右脚跟腱伤势在检录后退出比赛，随后赴美国接受治疗。"
+   },
+   {
+    "date": "2012-08-07",
+    "acc": "exact",
+    "text": "伦敦奥运会预赛跨越第一个栏时摔倒，单脚跳完全程，赛后确诊右脚跟腱断裂。"
+   },
+   {
+    "date": "2015-04-07",
+    "acc": "exact",
+    "text": "通过个人社交媒体正式宣布退役，结束职业运动生涯。"
+   }
+  ],
+  "achievements": [
+   "2004年雅典奥运会12秒91夺得110米栏金牌，为中国首枚男子田径奥运金牌",
+   "2006年洛桑跑出12秒88，打破保持13年的男子110米栏世界纪录",
+   "2007年大阪世锦赛12秒95夺冠，成为110米栏首位奥运、世锦赛与世界纪录大满贯选手",
+   "职业生涯12秒88的男子110米栏亚洲纪录由其创造并保持"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：刘翔",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%88%98%E7%BF%94",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：刘翔（中国前田径运动员）",
+    "url": "https://baike.baidu.com/item/%E5%88%98%E7%BF%94/5836",
+    "type": "wiki"
+   },
+   {
+    "title": "中国新闻网：刘翔大事记",
+    "url": "https://www.chinanews.com.cn/m/ty/2015/04-07/7189510.shtml",
+    "type": "news"
+   },
+   {
+    "title": "国家体育总局：刘翔征战成绩一览",
+    "url": "https://www.sport.gov.cn/n20001280/n20067662/n20067613/c23214658/content.html",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "田径",
+   "110米栏",
+   "奥运会",
+   "世界纪录",
+   "上海"
+  ]
+ },
+ {
+  "id": "kaiming-he",
+  "name": "何恺明",
+  "en_name": "Kaiming He",
+  "aliases": [],
+  "birth": "1984-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "ai",
+  "region": "cn",
+  "headline": "ResNet一作、MIT教授",
+  "summary_30s": "计算机视觉与深度学习研究者。一作论文ResNet引入残差连接，将可用网络深度提升至152层，论文引用超20万次，为深度学习领域引用量最高的成果之一；另提出Mask R-CNN实例分割框架与MAE自监督方法，先后获CVPR 2009、CVPR 2016最佳论文奖与ICCV 2017最佳论文奖。2024年起任麻省理工学院电子工程与计算机科学系教授。",
+  "timeline": [
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "考入清华大学物理系基础科学班，接受数理基础训练。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "从清华大学物理系毕业，赴香港中文大学攻读博士，师从汤晓鸥。"
+   },
+   {
+    "date": "2009-06-01",
+    "acc": "month",
+    "text": "以博士生身份凭单幅图像去雾论文获CVPR最佳论文奖，为首位获该奖的中国学者。"
+   },
+   {
+    "date": "2011-01-01",
+    "acc": "year",
+    "text": "获香港中文大学博士学位，随后加入微软亚洲研究院任研究员。"
+   },
+   {
+    "date": "2015-12-01",
+    "acc": "month",
+    "text": "一作ResNet论文提交至arXiv（与张祥雨、任少卿、孙剑合作），可用网络深度突破150层。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "加入Facebook人工智能实验室（FAIR），任研究科学家。"
+   },
+   {
+    "date": "2016-06-01",
+    "acc": "month",
+    "text": "ResNet获CVPR 2016最佳论文奖，成为深度学习最广泛使用的骨干网络之一。"
+   },
+   {
+    "date": "2017-10-01",
+    "acc": "month",
+    "text": "Mask R-CNN获ICCV 2017最佳论文奖（Marr奖），该框架成为实例分割的标准方法。"
+   },
+   {
+    "date": "2021-11-01",
+    "acc": "month",
+    "text": "提出MAE掩码自编码器自监督学习方法，成为视觉预训练的代表性方案之一。"
+   },
+   {
+    "date": "2023-01-01",
+    "acc": "year",
+    "text": "获未来科学大奖数学与计算机科学奖。"
+   },
+   {
+    "date": "2024-02-01",
+    "acc": "month",
+    "text": "出任麻省理工学院电子工程与计算机科学系教授。"
+   }
+  ],
+  "achievements": [
+   "一作ResNet论文被引用超20万次，是深度学习引用量最高的成果之一",
+   "先后获CVPR 2009、CVPR 2016最佳论文奖与ICCV 2017最佳论文奖（Marr奖）",
+   "提出Mask R-CNN实例分割框架与MAE自监督预训练方法",
+   "2023年获未来科学大奖数学与计算机科学奖",
+   "2024年任MIT教授，后兼任Google DeepMind杰出科学家"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "MIT EECS：Kaiming He 教授页面",
+    "url": "https://www.eecs.mit.edu/people/kaiming-he",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Kaiming He",
+    "url": "https://en.wikipedia.org/wiki/Kaiming_He",
+    "type": "wiki"
+   },
+   {
+    "title": "Kaiming He 个人主页（MIT CSAIL）",
+    "url": "https://people.csail.mit.edu/kaiming",
+    "type": "official"
+   },
+   {
+    "title": "CVF：计算机视觉三大会议奖项列表",
+    "url": "https://www.thecvf.com/?page_id=413",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "人工智能",
+   "计算机视觉",
+   "ResNet",
+   "深度学习",
+   "MIT"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   },
+   {
+    "id": "facebook",
+    "name": "脸书"
+   }
+  ]
+ }
+]

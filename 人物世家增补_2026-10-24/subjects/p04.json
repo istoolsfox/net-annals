@@ -1,0 +1,1626 @@
+[
+ {
+  "id": "pele",
+  "name": "贝利",
+  "en_name": "Pelé",
+  "aliases": [
+   "O Rei",
+   "黑珍珠"
+  ],
+  "birth": "1940-10-23",
+  "birth_accuracy": "exact",
+  "death": "2022-12-29",
+  "field": "sport",
+  "region": "world",
+  "headline": "唯一三夺世界杯的球王",
+  "summary_30s": "生涯1363场攻入1281球创吉尼斯纪录，1958、1962、1970年三夺世界杯至今唯一，首冠年仅17岁。2000年获国际足联世纪最佳，2022年12月29日病逝，享年82岁。",
+  "timeline": [
+   {
+    "date": "1956-01-01",
+    "acc": "year",
+    "text": "15岁与桑托斯签下职业合同并完成一线队首秀，此后长期效力该队。"
+   },
+   {
+    "date": "1958-01-01",
+    "acc": "year",
+    "text": "17岁随巴西队出征瑞典世界杯，决赛梅开二度助球队5-2击败瑞典首夺冠军。"
+   },
+   {
+    "date": "1962-01-01",
+    "acc": "year",
+    "text": "随巴西队卫冕智利世界杯，收获个人第2座世界杯冠军。"
+   },
+   {
+    "date": "1970-01-01",
+    "acc": "year",
+    "text": "墨西哥世界杯率队决赛4-1胜意大利第3次捧杯，个人4届世界杯共打进12球。"
+   },
+   {
+    "date": "1974-01-01",
+    "acc": "year",
+    "text": "宣布结束桑托斯生涯，共为球队出场1116次攻入1091球，场均接近1球。"
+   },
+   {
+    "date": "1975-01-01",
+    "acc": "year",
+    "text": "复出加盟北美足球联赛（NASL）纽约宇宙队，助球队在1977年夺得联赛冠军。"
+   },
+   {
+    "date": "1977-10-01",
+    "acc": "exact",
+    "text": "纽约宇宙为其举办告别赛，对手正是老东家桑托斯，正式挂靴；生涯合计1363场比赛1281球。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "应邀出任巴西体育部长，任内推动的足坛改革立法后来被称为《贝利法》，1998年卸任。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "获国际足联「世纪最佳球员」称号，IFFHS评选其为20世纪第1位球员。"
+   },
+   {
+    "date": "2022-12-29",
+    "acc": "exact",
+    "text": "因结肠癌恶化导致多器官衰竭在圣保罗病逝，享年82岁。"
+   }
+  ],
+  "achievements": [
+   "1958、1962、1970年三夺世界杯，是迄今唯一三次捧起世界杯的球员",
+   "生涯1363场比赛攻入1281球（一说1283球），为吉尼斯认证的足球历史最高纪录",
+   "生涯6次单场进5球、30次单场进4球、92次上演帽子戏法",
+   "1958年17岁夺得世界杯首冠，为世界杯历史最年轻冠军成员",
+   "2000年获国际足联世纪最佳球员及IFFHS世纪最佳球员称号"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：贝利",
+    "url": "https://zh.wikipedia.org/wiki/贝利",
+    "type": "wiki"
+   },
+   {
+    "title": "BBC中文：球王贝利逝世 享年82岁",
+    "url": "https://www.bbc.com/zhongwen/simp/sports-63855570",
+    "type": "media"
+   },
+   {
+    "title": "Olympics.com：「球王」贝利去世",
+    "url": "https://www.olympics.com/zh/news/pele-the-king-of-football-dies-at-age-82",
+    "type": "media"
+   },
+   {
+    "title": "Wikipedia: Pelé",
+    "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "足球",
+   "世界杯",
+   "桑托斯",
+   "体育",
+   "巴西"
+  ]
+ },
+ {
+  "id": "ray-tomlinson",
+  "name": "雷·汤姆林森",
+  "en_name": "Ray Tomlinson",
+  "aliases": [
+   "Email之父"
+  ],
+  "birth": "1941-04-23",
+  "birth_accuracy": "exact",
+  "death": "2016-03-05",
+  "field": "internet",
+  "region": "world",
+  "headline": "电子邮件发明人",
+  "summary_30s": "1971年在BBN写出ARPANET首个跨主机电子邮件程序，选定@符号分隔用户与主机，确立沿用至今的邮件地址格式；@随全球数十亿邮箱普及，2016年3月逝世，享年74岁。",
+  "timeline": [
+   {
+    "date": "1963-01-01",
+    "acc": "year",
+    "text": "获伦斯勒理工学院（RPI）电气工程学士学位。"
+   },
+   {
+    "date": "1965-01-01",
+    "acc": "year",
+    "text": "获麻省理工学院电气工程博士学位，研究方向为语音合成等信号处理。"
+   },
+   {
+    "date": "1967-01-01",
+    "acc": "year",
+    "text": "加入BBN公司，参与设计ARPANET接口信息处理机（IMP）的操作系统。"
+   },
+   {
+    "date": "1971-01-01",
+    "acc": "year",
+    "text": "改造单机邮件程序SNDMSG并嫁接主机间传输程序CPYNET，发出ARPANET上第一封跨主机电子邮件，并在地址中选定@符号分隔用户名与主机名。"
+   },
+   {
+    "date": "1973-01-01",
+    "acc": "year",
+    "text": "与同事持续完善ARPANET邮件功能，当年一项研究显示电子邮件已占ARPANET流量的约四分之三。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "与Cerf、Kahn等互联网先驱共同获阿斯图里亚斯亲王技术科学研究奖。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "year",
+    "text": "入选首批互联网名人堂（Internet Hall of Fame）。"
+   },
+   {
+    "date": "2016-03-05",
+    "acc": "exact",
+    "text": "在马萨诸塞州林肯镇家中逝世，享年74岁，其时所属的雷神公司（已收购BBN）发布讣告。"
+   }
+  ],
+  "achievements": [
+   "1971年写出ARPANET首个跨主机电子邮件程序，发出第一封网络邮件",
+   "选定@符号分隔用户名与主机名，确立全球通用邮件地址格式",
+   "参与开发ARPANET接口信息处理机（IMP）操作系统等早期网络软件",
+   "2009年与互联网先驱共获阿斯图里亚斯亲王奖，2012年入选互联网名人堂"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Ray Tomlinson",
+    "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：雷·汤姆林森",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9B%B7%C2%B7%E6%B1%A4%E5%A7%86%E6%9E%97%E6%A3%AE",
+    "type": "wiki"
+   },
+   {
+    "title": "NPR: Ray Tomlinson, Inventor Of Modern Email, Dies",
+    "url": "https://www.npr.org/2016/03/06/469428062/ray-tomlinson-inventor-of-modern-email-has-died",
+    "type": "media"
+   },
+   {
+    "title": "NYT: Raymond Tomlinson, Who Put the @ Sign in Email, Is Dead",
+    "url": "https://www.nytimes.com/2016/03/08/technology/raymond-tomlinson-email-obituary.html",
+    "type": "media"
+   },
+   {
+    "title": "MIT Lemelson: Ray Tomlinson",
+    "url": "https://lemelson.mit.edu/resources/ray-tomlinson",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "电子邮件",
+   "互联网",
+   "ARPANET",
+   "BBN",
+   "@符号"
+  ]
+ },
+ {
+  "id": "stephen-hawking",
+  "name": "霍金",
+  "en_name": "Stephen Hawking",
+  "aliases": [
+   "史蒂芬·霍金",
+   "斯蒂芬·霍金"
+  ],
+  "birth": "1942-01-08",
+  "birth_accuracy": "exact",
+  "death": "2018-03-14",
+  "field": "science",
+  "region": "world",
+  "headline": "黑洞辐射理论与《时间简史》作者",
+  "summary_30s": "英国理论物理学家，当代宇宙学代表人物。1963年21岁时确诊运动神经元病，医生预期其仅能再活2年，此后他带病研究与生活55年。他与彭罗斯证明奇点定理，1974年提出黑洞会发出辐射即霍金辐射，32岁当选皇家学会会士。1979年起任剑桥大学卢卡斯数学教授。1988年出版科普著作《时间简史》，全球销量超过2500万册。2018年3月14日在剑桥逝世，享年76岁。",
+  "timeline": [
+   {
+    "date": "1942-01-08",
+    "acc": "exact",
+    "text": "1942年1月8日生于英国牛津，恰逢伽利略逝世300周年纪念日。"
+   },
+   {
+    "date": "1962-01-01",
+    "acc": "year",
+    "text": "1962年牛津大学毕业后进入剑桥大学，师从霍伊尔等从事宇宙学研究。"
+   },
+   {
+    "date": "1963-01-01",
+    "acc": "year",
+    "text": "1963年21岁时确诊运动神经元病，医生预期其仅能存活2年，此后带病研究55年。"
+   },
+   {
+    "date": "1966-01-01",
+    "acc": "year",
+    "text": "1966年获剑桥大学博士学位，博士论文研究膨胀宇宙中的奇点问题。"
+   },
+   {
+    "date": "1970-01-01",
+    "acc": "year",
+    "text": "1970年与彭罗斯合作证明奇点定理，指出广义相对论框架下宇宙起始于奇点。"
+   },
+   {
+    "date": "1974-01-01",
+    "acc": "year",
+    "text": "1974年在《自然》发表论文提出黑洞辐射理论，同年32岁当选皇家学会会士。"
+   },
+   {
+    "date": "1979-01-01",
+    "acc": "year",
+    "text": "1979年出任剑桥大学卢卡斯数学教授，成为这一牛顿曾任教职的第17任教授。"
+   },
+   {
+    "date": "1983-01-01",
+    "acc": "year",
+    "text": "1983年与哈特尔合作提出宇宙无边界设想，尝试描绘宇宙的量子起源。"
+   },
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "1988年出版科普名著《时间简史》，全球销量超过2500万册，被译成40余种文字。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "2009年获美国国家科学勋章（总统颁发），同年卸任卢卡斯教授。"
+   },
+   {
+    "date": "2018-03-14",
+    "acc": "exact",
+    "text": "2018年3月14日在剑桥逝世，享年76岁，恰逢爱因斯坦诞辰139周年。"
+   }
+  ],
+  "achievements": [
+   "1974年提出霍金辐射，证明黑洞并非全黑",
+   "1970年与彭罗斯证明奇点定理，奠定现代宇宙学基础",
+   "1979年出任剑桥卢卡斯数学教授（牛顿曾任）",
+   "1988年《时间简史》全球销量超2500万册",
+   "1983年提出宇宙无边界设想",
+   "32岁当选皇家学会会士，为其史上最年轻会士之一"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Stephen Hawking",
+    "url": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：史蒂芬·霍金",
+    "url": "https://zh.wikipedia.org/wiki/史蒂芬·霍金",
+    "type": "wiki"
+   },
+   {
+    "title": "Stephen Hawking 官方网站",
+    "url": "https://www.hawking.org.uk/",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "理论物理",
+   "宇宙学",
+   "黑洞",
+   "时间简史",
+   "渐冻症",
+   "科普作家"
+  ]
+ },
+ {
+  "id": "vint-cerf",
+  "name": "文顿·瑟夫",
+  "en_name": "Vint Cerf",
+  "aliases": [
+   "Vinton Gray Cerf",
+   "互联网之父"
+  ],
+  "birth": "1943-06-23",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "TCP/IP共同设计者、互联网先驱",
+  "summary_30s": "与Bob Kahn共同设计TCP/IP，1974年论文奠定互联网基础，1983年ARPANET全面切换该协议；后任谷歌副总裁兼首席互联网布道师，2004年与Kahn共获图灵奖。",
+  "timeline": [
+   {
+    "date": "1965-01-01",
+    "acc": "year",
+    "text": "获斯坦福大学数学学士学位，毕业后进入IBM担任系统工程师。"
+   },
+   {
+    "date": "1972-01-01",
+    "acc": "year",
+    "text": "获加州大学洛杉矶分校（UCLA）计算机科学博士学位，读博期间参与ARPANET首个节点联网与性能测量。"
+   },
+   {
+    "date": "1973-01-01",
+    "acc": "year",
+    "text": "任斯坦福大学助理教授，与在DARPA的Bob Kahn开始研究用统一协议连接不同分组交换网络。"
+   },
+   {
+    "date": "1974-05-01",
+    "acc": "month",
+    "text": "与Kahn在IEEE Transactions on Communications发表《A Protocol for Packet Network Intercommunication》，奠定TCP/IP设计。"
+   },
+   {
+    "date": "1976-01-01",
+    "acc": "year",
+    "text": "转入DARPA任项目经理，主持互联网、分组无线网（PRNET）与分组卫星网（SATNET）研究至1982年。"
+   },
+   {
+    "date": "1982-01-01",
+    "acc": "year",
+    "text": "加入MCI任数字信息服务副总裁，主导电子邮件服务MCI Mail的开发。"
+   },
+   {
+    "date": "1983-01-01",
+    "acc": "exact",
+    "text": "1983年1月1日ARPANET全网从NCP切换至TCP/IP，互联网运行于统一协议的基础自此确立。"
+   },
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "加入Bob Kahn创办的CNRI任副总裁，继续主持互联网标准与基础设施研究。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "与Kahn同获美国国家技术奖章，表彰其创建并持续推动互联网协议发展。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "与Kahn获ACM图灵奖，表彰其在互联网通信协议领域的开创性贡献。"
+   },
+   {
+    "date": "2005-10-01",
+    "acc": "month",
+    "text": "加入谷歌，出任副总裁兼首席互联网布道师；同年11月与Kahn获美国总统自由勋章。"
+   },
+   {
+    "date": "2026-07-01",
+    "acc": "month",
+    "text": "结束在谷歌该职位近21年的任期，卸任副总裁兼首席互联网布道师。"
+   }
+  ],
+  "achievements": [
+   "与Bob Kahn共同设计TCP/IP，1974年发表协议奠基论文",
+   "1976-1982年在DARPA主持互联网及分组无线/卫星网研究",
+   "推动1983年1月1日ARPANET全面切换至TCP/IP",
+   "1997年获美国国家技术奖章，2005年获总统自由勋章",
+   "2004年获图灵奖；2005-2026年任谷歌副总裁兼首席互联网布道师"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Vint Cerf",
+    "url": "https://en.wikipedia.org/wiki/Vint_Cerf",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：文顿·瑟夫",
+    "url": "https://zh.wikipedia.org/wiki/%E6%96%87%E9%A1%BF%C2%B7%E7%91%9F%E5%A4%AB",
+    "type": "wiki"
+   },
+   {
+    "title": "Cerf & Kahn 1974年TCP奠基论文（IEEE）",
+    "url": "https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf",
+    "type": "paper"
+   },
+   {
+    "title": "ETHW Milestone: TCP Enables the Internet, 1974",
+    "url": "https://ethw.org/Milestones:Transmission_Control_Protocol_(TCP)_Enables_the_Internet,_1974",
+    "type": "official"
+   },
+   {
+    "title": "History of Information: TCP论文发表",
+    "url": "https://www.historyofinformation.com/detail.php?id=915",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "TCP/IP",
+   "互联网",
+   "谷歌",
+   "ARPANET",
+   "图灵奖"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   }
+  ]
+ },
+ {
+  "id": "peter-lynch",
+  "name": "彼得·林奇",
+  "en_name": "Peter Lynch",
+  "aliases": [],
+  "birth": "1944-01-19",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "finance",
+  "region": "world",
+  "headline": "13年年化29%的麦哲伦舵手",
+  "summary_30s": "彼得·林奇，美国传奇基金经理，1977-1990年执掌富达麦哲伦基金13年，年化收益率约29.2%，13年中11次跑赢标普500指数，管理规模从约1800万美元增至140亿美元。《彼得·林奇的成功投资》提出「十倍股」「投资你了解的公司」等理念，影响几代普通投资者，1990年46岁急流勇退。",
+  "timeline": [
+   {
+    "date": "1944-01-19",
+    "acc": "exact",
+    "text": "1944年1月19日出生于波士顿，10岁丧父后靠做高尔夫球童打工挣学费。"
+   },
+   {
+    "date": "1968-01-01",
+    "acc": "year",
+    "text": "1968年获宾夕法尼亚大学沃顿商学院MBA后正式加入富达，任行业研究员。"
+   },
+   {
+    "date": "1977-01-01",
+    "acc": "year",
+    "text": "1977年33岁接掌麦哲伦基金，初始规模约1800万美元。"
+   },
+   {
+    "date": "1983-01-01",
+    "acc": "year",
+    "text": "1983年麦哲伦规模突破10亿美元，跻身全美最大股票型基金之列。"
+   },
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "1988年与妻子创立林奇家族基金会，长期资助教育与医疗公益项目。"
+   },
+   {
+    "date": "1989-01-01",
+    "acc": "year",
+    "text": "1989年《彼得·林奇的成功投资》出版，「投资你了解的公司」理念风行全球。"
+   },
+   {
+    "date": "1990-01-01",
+    "acc": "year",
+    "text": "1990年46岁宣布退休，13年间基金年化约29.2%，规模增至140亿美元。"
+   },
+   {
+    "date": "1993-01-01",
+    "acc": "year",
+    "text": "1993年出版《战胜华尔街》，进一步总结选股与组合管理方法。"
+   }
+  ],
+  "achievements": [
+   "1977-1990年管理麦哲伦基金13年，年化收益率约29.2%",
+   "管理规模13年从约1800万美元增至140亿美元，增长逾700倍",
+   "13年中11次跑赢标普500指数，创主动基金长期业绩纪录",
+   "1989年《彼得·林奇的成功投资》出版，全球销量逾百万册",
+   "提出「十倍股」等概念，3部著作全球累计销量数百万册",
+   "1988年与妻子创立林奇家族基金会，长期资助教育公益"
+  ],
+  "controversies": [],
+  "quotes": [
+   "「投资你了解的公司。」——《彼得·林奇的成功投资》（1989）",
+   "「卖掉盈利股、抱住亏损股，如同剪掉鲜花、浇灌杂草。」——《彼得·林奇的成功投资》"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：彼得·林奇",
+    "url": "https://zh.wikipedia.org/wiki/彼得·林奇",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Peter Lynch",
+    "url": "https://en.wikipedia.org/wiki/Peter_Lynch",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikiquote: Peter Lynch（名言出处）",
+    "url": "https://en.wikiquote.org/wiki/Peter_Lynch",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "投资",
+   "基金经理",
+   "富达",
+   "十倍股",
+   "美国"
+  ]
+ },
+ {
+  "id": "liu-chuanzhi",
+  "name": "柳传志",
+  "en_name": "Liu Chuanzhi",
+  "aliases": [],
+  "birth": "1944-04-29",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "company",
+  "region": "cn",
+  "headline": "联想集团创始人",
+  "summary_30s": "联想集团创始人。1984年率11人团队从中科院计算所一间不足20平方米的平房起步创办联想，靠联想汉卡和PC业务打开市场，1994年推动港股上市，2004年以12.5亿美元收购IBM PC业务使联想跻身全球PC前三；2019年卸任联想控股董事长。",
+  "timeline": [
+   {
+    "date": "1966-01-01",
+    "acc": "year",
+    "text": "毕业于西安军事电讯工程学院，先后在国防科工委十院四所和中科院计算所从事科研工作。"
+   },
+   {
+    "date": "1984-01-01",
+    "acc": "year",
+    "text": "与10名同事共11人，在中科院计算所一间不足20平方米的平房里创办联想前身北京计算机新技术发展公司。"
+   },
+   {
+    "date": "1985-01-01",
+    "acc": "year",
+    "text": "联想式汉卡推出，成为公司早期的主打产品与主要利润来源。"
+   },
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "赴香港创建香港联想并出任主席，为公司打通国际合作与融资渠道。"
+   },
+   {
+    "date": "1994-01-01",
+    "acc": "year",
+    "text": "联想集团在香港联交所挂牌上市，随后发动PC价格战，1997年问鼎国内PC市场。"
+   },
+   {
+    "date": "2001-06-01",
+    "acc": "month",
+    "text": "联想分拆为联想集团与神州数码，分别交棒杨元庆与郭为；6月神州数码在港独立上市。"
+   },
+   {
+    "date": "2004-12-08",
+    "acc": "exact",
+    "text": "联想宣布以12.5亿美元收购IBM全球PC业务；当年联想营业额约30亿美元，标的业务达130亿美元。"
+   },
+   {
+    "date": "2005-05-01",
+    "acc": "month",
+    "text": "收购交割完成，联想跻身全球第三大PC厂商，杨元庆转任董事局主席。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "联想陷入亏损后复出任集团董事局主席，次年公司业绩扭亏回升。"
+   },
+   {
+    "date": "2011-11-01",
+    "acc": "month",
+    "text": "卸任联想集团董事局主席，再度交棒杨元庆。"
+   },
+   {
+    "date": "2015-06-29",
+    "acc": "exact",
+    "text": "联想控股在香港主板整体上市，旗下投资业务已覆盖800多家企业。"
+   },
+   {
+    "date": "2019-12-18",
+    "acc": "exact",
+    "text": "联想控股公告其卸任董事长，宁旻接任，本人获授名誉董事长职衔。"
+   }
+  ],
+  "achievements": [
+   "1984年以11人团队创办联想前身，2013年联想成为全球PC市场份额第一",
+   "主导2004年以12.5亿美元收购IBM全球PC业务，联想跻身全球第三大PC厂商",
+   "推动联想集团1994年在港上市、联想控股2015年整体上市",
+   "2008年联想以167.8亿美元销售额成为首家进入《财富》世界500强的中国民营企业",
+   "掌舵联想控股，累计投资800多家企业，管理基金规模超1200亿元"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：柳传志",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E4%BC%A0%E5%BF%97",
+    "type": "wiki"
+   },
+   {
+    "title": "中国经济周刊：「幸存者」柳传志：惊涛骇浪35年",
+    "url": "http://paper.people.com.cn/zgjjzk/html/2020-01/30/content_1972042.htm",
+    "type": "news"
+   },
+   {
+    "title": "维基百科：联想收购IBM个人电脑业务",
+    "url": "https://zh.wikipedia.org/wiki/%E8%81%94%E6%83%B3%E6%94%B6%E8%B4%ADIBM%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E4%B8%9A%E5%8A%A1",
+    "type": "wiki"
+   },
+   {
+    "title": "联想集团投资者关系：公司简介",
+    "url": "https://investor.lenovo.com/sc/about/profile.php",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：柳传志",
+    "url": "https://baike.baidu.com/item/%E6%9F%B3%E4%BC%A0%E5%BF%97/23645",
+    "type": "baike"
+   }
+  ],
+  "tags": [
+   "联想",
+   "汉卡",
+   "PC",
+   "投资",
+   "中关村"
+  ]
+ },
+ {
+  "id": "ren-zhengfei",
+  "name": "任正非",
+  "en_name": "Ren Zhengfei",
+  "aliases": [],
+  "birth": "1944-10-25",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "hardware",
+  "region": "cn",
+  "headline": "华为创始人",
+  "summary_30s": "华为创始人。1987年以2.1万元注册资本在深圳创业，把华为从交换机代理商发展为覆盖170多个国家和地区、年营收超7000亿元的全球最大电信设备商；2019年起承受美国出口管制，靠自研麒麟芯片与鸿蒙系统在2023年实现Mate 60旗舰回归。",
+  "timeline": [
+   {
+    "date": "1963-01-01",
+    "acc": "year",
+    "text": "考入重庆建筑工程学院学习，此后长期在建筑工程领域工作。"
+   },
+   {
+    "date": "1987-01-01",
+    "acc": "year",
+    "text": "与伙伴集资2.1万元在深圳创立华为，租用民房起家，最初代理香港公司的程控交换机。"
+   },
+   {
+    "date": "1993-01-01",
+    "acc": "year",
+    "text": "主持研发的C&C08数字程控交换机问世，单机容量从千门级突破到万门级，打破国外厂商在国内电信设备市场的垄断。"
+   },
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "华为启动国际化，从发展中国家市场起步，逐步进入俄罗斯、欧洲等海外电信市场。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "推动成立海思半导体布局芯片自研，为后来麒麟手机芯片与鲲鹏、昇腾系列处理器奠定基础。"
+   },
+   {
+    "date": "2013-01-01",
+    "acc": "year",
+    "text": "华为年营收约2390亿元，首次超越爱立信成为全球营收规模最大的电信设备商。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "year",
+    "text": "华为消费者业务收入3489亿元，首次超过运营商业务成为第一大营收板块；智能手机出货2.06亿台跃居全球第二。"
+   },
+   {
+    "date": "2019-05-01",
+    "acc": "month",
+    "text": "美国商务部将华为列入出口管制实体清单，先进芯片与谷歌服务供应受限，公司转入受制裁经营阶段。"
+   },
+   {
+    "date": "2019-08-01",
+    "acc": "month",
+    "text": "发布HarmonyOS（鸿蒙）1.0，定位全场景分布式操作系统；当年智能手机出货超2.4亿台，稳居全球第二。"
+   },
+   {
+    "date": "2023-08-29",
+    "acc": "exact",
+    "text": "Mate 60 Pro未发先售，搭载自研麒麟9000S芯片并全球首发卫星通话功能，被视为芯片受限后的旗舰回归。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "year",
+    "text": "华为披露2023年年报：营收7042亿元、净利润870亿元，在制裁冲击后重回增长轨道。"
+   }
+  ],
+  "achievements": [
+   "1987年以2.1万元注册资本创办华为，发展为全球最大电信设备商",
+   "主导C&C08万门程控交换机研发，打破国外厂商在电信设备市场的垄断",
+   "5G设备份额全球领先，2019年获50余份5G商用合同、基站发货超15万个",
+   "推动鸿蒙系统与海思芯片自研体系成型，2023年实现麒麟芯片旗舰回归",
+   "2018年智能手机出货2.06亿台居全球第二，消费者业务成为第一大营收来源"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：任正非",
+    "url": "https://zh.wikipedia.org/zh-hans/%E4%BB%BB%E6%AD%A3%E9%9D%9E",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：华为",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BA",
+    "type": "wiki"
+   },
+   {
+    "title": "财新网：华为承诺保障5G合同，预计年底发货50万个5G基站",
+    "url": "https://companies.caixin.com/2019-06-27/101432018.html",
+    "type": "media"
+   },
+   {
+    "title": "C114通信网：华为Mate 60 Pro直接开卖，全球首发支持卫星通话",
+    "url": "https://m.c114.com.cn/w51-1242357.html",
+    "type": "media"
+   },
+   {
+    "title": "创业邦：华为成长史",
+    "url": "https://m.cyzone.cn/article/655939",
+    "type": "media"
+   },
+   {
+    "title": "雪球：华为成长简史",
+    "url": "https://xueqiu.com/3366209222/373382573",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "华为",
+   "通信设备",
+   "芯片",
+   "5G",
+   "科技制造"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   }
+  ]
+ },
+ {
+  "id": "zong-qinghou",
+  "name": "宗庆后",
+  "en_name": "Zong Qinghou",
+  "aliases": [
+   "布鞋首富"
+  ],
+  "birth": "1945-10-01",
+  "birth_accuracy": "month",
+  "death": "2024-02-25",
+  "death_accuracy": "exact",
+  "field": "company",
+  "region": "cn",
+  "headline": "娃哈哈创始人、三度中国首富",
+  "summary_30s": "娃哈哈集团创始人。1987年42岁靠蹬三轮代销汽水冰棍起家，以儿童营养液打开市场，此后将娃哈哈做成营收峰值近800亿元的饮料帝国，2010、2012、2013年三度问鼎中国内地首富，以「布鞋首富」的朴素形象著称，2024年2月25日逝世，享年79岁。",
+  "timeline": [
+   {
+    "date": "1945-10-01",
+    "acc": "month",
+    "text": "生于江苏徐州（祖籍浙江杭州），家境清贫，初中毕业后辍学谋生。"
+   },
+   {
+    "date": "1963-01-01",
+    "acc": "year",
+    "text": "赴浙江舟山马目农场劳动，此后辗转绍兴茶场，在农村劳作15年。"
+   },
+   {
+    "date": "1978-01-01",
+    "acc": "year",
+    "text": "顶替母亲回杭州，在工农校办纸箱厂做推销员，此后多年经营校办企业经销部。"
+   },
+   {
+    "date": "1987-01-01",
+    "acc": "year",
+    "text": "42岁承包杭州市上城区校办企业经销部，蹬三轮卖冰棍汽水，当年销售总额达436万元。"
+   },
+   {
+    "date": "1988-10-20",
+    "acc": "exact",
+    "text": "推出娃哈哈儿童营养液，「喝了娃哈哈，吃饭就是香」广告语风靡全国，迅速打开市场。"
+   },
+   {
+    "date": "1991-09-01",
+    "acc": "month",
+    "text": "以8000万元兼并资不抵债的杭州罐头食品厂，「小鱼吃大鱼」轰动全国，娃哈哈产能倍增。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "推出「非常可乐」，以农村包围城市策略挑战两乐，巅峰时期年销量超60万吨。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "首次问鼎中国内地首富（胡润榜），2012、2013年再度登顶，三度成为中国首富。"
+   },
+   {
+    "date": "2013-01-01",
+    "acc": "year",
+    "text": "娃哈哈集团营收达到约783亿元的历史峰值，此后受消费变化影响回落。"
+   },
+   {
+    "date": "2021-12-01",
+    "acc": "month",
+    "text": "女儿宗馥莉出任娃哈哈集团副董事长兼总经理，接班布局逐步推进。"
+   },
+   {
+    "date": "2024-02-25",
+    "acc": "exact",
+    "text": "因病医治无效在杭州逝世，享年79岁；市民排队献花送别，社交媒体掀起「野性消费」娃哈哈热潮。"
+   }
+  ],
+  "achievements": [
+   "1987年42岁白手起家创办娃哈哈，打造营收峰值近800亿元的中国饮料帝国",
+   "「非常可乐」年销超60万吨，成为国产可乐对抗两乐的标志性尝试",
+   "联销体模式重塑中国饮料渠道体系，实现新品快速铺货全国",
+   "2010、2012、2013年三度问鼎中国内地首富，被称为「布鞋首富」",
+   "1991年「小鱼吃大鱼」兼并杭州罐头厂，成为国企兼并改革的标志性案例"
+  ],
+  "controversies": [],
+  "quotes": [
+   "我这一辈子就做了一件事——办企业，办好企业。"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：宗庆后",
+    "url": "https://zh.wikipedia.org/zh-hans/宗庆后",
+    "type": "wiki"
+   },
+   {
+    "title": "财新周刊：逝者｜宗庆后：布鞋首富",
+    "url": "https://weekly.caixin.com/2024-03-02/102171049.html",
+    "type": "news"
+   },
+   {
+    "title": "中国经济网：娃哈哈创始人宗庆后病逝",
+    "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202402/25/t20240225_38910622.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "娃哈哈",
+   "饮料",
+   "浙商",
+   "企业家",
+   "首富",
+   "杭州"
+  ]
+ },
+ {
+  "id": "cao-dewang",
+  "name": "曹德旺",
+  "en_name": "Cao Dewang",
+  "aliases": [],
+  "birth": "1946-05-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "company",
+  "region": "cn",
+  "headline": "福耀玻璃创始人",
+  "summary_30s": "福耀玻璃创始人。1987年创业专注汽车玻璃，将其做成全球市占率约34%、布局12个国家的汽车玻璃龙头；2016年在美国俄亥俄州建成全球最大汽车玻璃单体工厂，2011年捐股35.49亿元成立河仁慈善基金会，累计捐赠超160亿元。",
+  "timeline": [
+   {
+    "date": "1976-01-01",
+    "acc": "year",
+    "text": "进入福建福清高山镇异形玻璃厂做采购员，从此进入玻璃行业。"
+   },
+   {
+    "date": "1983-01-01",
+    "acc": "year",
+    "text": "承包连年亏损的高山异形玻璃厂，当年扭亏为盈获利20余万元，完成原始积累。"
+   },
+   {
+    "date": "1987-01-01",
+    "acc": "year",
+    "text": "联合股东创办福耀玻璃，专注汽车安全玻璃制造，逐步收缩水表玻璃等副业。"
+   },
+   {
+    "date": "1993-06-01",
+    "acc": "month",
+    "text": "福耀玻璃在上海证券交易所挂牌，成为福建省首家上市公司。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "获安永全球企业家大奖，成为首位获此奖项的华人企业家。"
+   },
+   {
+    "date": "2011-01-01",
+    "acc": "year",
+    "text": "捐出3亿股福耀玻璃股票成立河仁慈善基金会，按当时市值约35.49亿元，开创以股票捐赠设立慈善基金会的先例。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "投资约6亿美元的美国俄亥俄州代顿工厂建成投产，为全球最大汽车玻璃单体工厂。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "year",
+    "text": "以福耀美国工厂为背景的纪录片《美国工厂》获第92届奥斯卡最佳纪录长片。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "河仁慈善基金会出资100亿元筹建福耀科技大学，定位新型应用型理工科高校。"
+   },
+   {
+    "date": "2025-01-01",
+    "acc": "year",
+    "text": "福耀科技大学获批设立并迎来首批本科生；福耀玻璃全球汽车玻璃市占率约34%。"
+   }
+  ],
+  "achievements": [
+   "1987年创办福耀玻璃，发展为全球市占率约34%的汽车玻璃龙头",
+   "在全球12个国家布局生产基地，为全球主流车企批量配套",
+   "2009年成为首位获得安永全球企业家大奖的华人企业家",
+   "2011年捐股35.49亿元设立河仁慈善基金会，2021年再出资100亿元创办福耀科技大学",
+   "创业以来累计个人捐赠超160亿元，覆盖救灾、扶贫与教育领域"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "福耀集团官网：董事长简介",
+    "url": "https://www.fuyaogroup.com/founder.html",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：曹德旺",
+    "url": "https://baike.baidu.com/item/%E6%9B%B9%E5%BE%B7%E6%97%BA/829086",
+    "type": "baike"
+   },
+   {
+    "title": "维基百科：曹德旺",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9B%B9%E5%BE%B7%E6%97%BA",
+    "type": "wiki"
+   },
+   {
+    "title": "知乎专栏：汽车玻璃龙头成长史",
+    "url": "https://zhuanlan.zhihu.com/p/712270161",
+    "type": "media"
+   },
+   {
+    "title": "福耀集团官网：集团概况",
+    "url": "https://www.fuyaogroup.com/about.html",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "福耀玻璃",
+   "汽车玻璃",
+   "制造业",
+   "慈善",
+   "福清"
+  ]
+ },
+ {
+  "id": "yu-qiuyu",
+  "name": "余秋雨",
+  "en_name": "Yu Qiuyu",
+  "aliases": [],
+  "birth": "1946-08-23",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "《文化苦旅》作者、文化散文代表",
+  "summary_30s": "浙江余姚人，戏剧理论学者出身。1985年破格晋升教授，1986年任上海戏剧学院院长，1991年辞职后转向文化考察与写作。1992年出版《文化苦旅》，此后20年销量逾千万册；另有《山居笔记》《千年一叹》《借我一生》等，文化散文在20世纪90年代至21世纪初持续畅销。",
+  "timeline": [
+   {
+    "date": "1968-01-01",
+    "acc": "year",
+    "text": "毕业于上海戏剧学院戏剧文学系，时年22岁。"
+   },
+   {
+    "date": "1985-01-01",
+    "acc": "year",
+    "text": "在上海戏剧学院破格晋升为教授，时年39岁。"
+   },
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "40岁出任上海戏剧学院院长，同年获评「上海十大高教精英」。"
+   },
+   {
+    "date": "1991-01-01",
+    "acc": "year",
+    "text": "先后递交23次辞职报告后获准辞去全部行政职务，转赴各地文化遗址考察。"
+   },
+   {
+    "date": "1992-01-01",
+    "acc": "year",
+    "text": "出版首部文化散文集《文化苦旅》，此后20年间销量逾千万册。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "随凤凰卫视「千禧之旅」车队考察多个文明古国遗址，日记于2000年结集为《千年一叹》出版。"
+   }
+  ],
+  "achievements": [
+   "1992年出版《文化苦旅》，此后20年销量逾千万册",
+   "1986年任上海戏剧学院院长，同年获评「上海十大高教精英」",
+   "1985年破格晋升为教授",
+   "著有《山居笔记》《千年一叹》《借我一生》等，1990年代至21世纪初持续畅销"
+  ],
+  "controversies": [
+   "2003年金文明出版《石破天惊逗秋雨》，指其散文存在126处文史差错，余秋雨公开回应称部分属版本与学术分歧。",
+   "2009年汶川地震捐款被质疑落实进度（称「诈捐门」），都江堰教育局确认捐赠属实，同年8月三所秋雨图书馆开馆。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：余秋雨",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BD%99%E7%A7%8B%E9%9B%A8",
+    "type": "wiki"
+   },
+   {
+    "title": "中国作家网：余秋雨",
+    "url": "http://www.chinawriter.com.cn/n1/2016/0627/c404952-28495311.html",
+    "type": "news"
+   },
+   {
+    "title": "搜狐娱乐：余秋雨捐书到位价值40万元",
+    "url": "http://yule.sohu.com/20090827/n266272525.shtml",
+    "type": "news"
+   },
+   {
+    "title": "百度百科：余秋雨",
+    "url": "https://baike.baidu.com/item/%E4%BD%99%E7%A7%8B%E9%9B%A8/183732",
+    "type": "baike"
+   }
+  ],
+  "tags": [
+   "文化散文",
+   "文化苦旅",
+   "上海戏剧学院",
+   "散文",
+   "文学"
+  ]
+ },
+ {
+  "id": "andrew-yao",
+  "name": "姚期智",
+  "en_name": "Andrew Chi-Chih Yao",
+  "aliases": [
+   "Andrew Yao"
+  ],
+  "birth": "1946-12-24",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "science",
+  "region": "cn",
+  "headline": "图灵奖首位华人得主",
+  "summary_30s": "计算机科学家，2000年因伪随机数生成、密码学与通信复杂性等基础理论贡献获图灵奖，为首位华人得主。2004年辞去普林斯顿大学终身教职全职回国，创办清华「姚班」、交叉信息研究院与上海期智研究院，2015年放弃美国国籍，2024年出任清华大学人工智能学院首任院长。",
+  "timeline": [
+   {
+    "date": "1967-01-01",
+    "acc": "year",
+    "text": "获台湾大学物理学学士学位，时年20岁。"
+   },
+   {
+    "date": "1972-01-01",
+    "acc": "year",
+    "text": "获哈佛大学物理学博士学位，时年25岁。"
+   },
+   {
+    "date": "1975-01-01",
+    "acc": "year",
+    "text": "获伊利诺伊大学厄巴纳-香槟分校计算机科学博士学位，转向理论计算机科学研究。"
+   },
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "受聘普林斯顿大学计算机科学教授，此前先后任教于麻省理工学院、斯坦福大学与加州大学伯克利分校。"
+   },
+   {
+    "date": "2000-01-01",
+    "acc": "year",
+    "text": "因计算理论基础贡献获图灵奖，涵盖伪随机数生成、密码学与通信复杂性，为首位获该奖的华人学者。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "辞去普林斯顿大学终身教职，全职加入清华大学。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "在清华大学创办计算机科学实验班「姚班」。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "牵头成立清华大学交叉信息研究院，任院长。"
+   },
+   {
+    "date": "2015-04-01",
+    "acc": "month",
+    "text": "于2015年4月1日放弃美国国籍，成为中国公民。"
+   },
+   {
+    "date": "2017-02-01",
+    "acc": "month",
+    "text": "由中国科学院外籍院士转为正式院士，与杨振宁同期，为中科院学部历史上首次。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "year",
+    "text": "出任新成立的上海期智研究院院长。"
+   },
+   {
+    "date": "2021-06-01",
+    "acc": "month",
+    "text": "获2021年度京都奖先进技术部门奖项，为首位获该奖的中国籍学者。"
+   },
+   {
+    "date": "2024-04-01",
+    "acc": "month",
+    "text": "清华大学人工智能学院成立，出任首任院长。"
+   }
+  ],
+  "achievements": [
+   "2000年获图灵奖，为首位获该奖的华人学者",
+   "在伪随机数生成、密码学与通信复杂性等方向做出奠基性理论工作",
+   "创办清华大学「姚班」，培养大批计算机科学顶尖人才",
+   "创立清华大学交叉信息研究院与上海期智研究院",
+   "2021年获京都奖先进技术奖，为首位中国籍得主",
+   "2024年出任清华大学人工智能学院首任院长"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "ACM图灵奖官网：Andrew C. Yao",
+    "url": "https://amturing.acm.org/award_winners/yao_1611524.cfm",
+    "type": "official"
+   },
+   {
+    "title": "清华大学：杨振宁姚期智放弃外国国籍转为中科院院士",
+    "url": "https://www.tsinghua.edu.cn/info/1182/45479.htm",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：姚期智",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%A7%9A%E6%9C%9F%E6%99%BA",
+    "type": "wiki"
+   },
+   {
+    "title": "上海科技党建：姚期智荣获2021年度京都奖",
+    "url": "https://www.shkjdw.gov.cn/c/2021-06-22/527676.shtml",
+    "type": "news"
+   },
+   {
+    "title": "新华网：杨振宁姚期智转为中国科学院院士",
+    "url": "http://news.xinhuanet.com/politics/2017-02/22/c_129488963.htm",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "计算机科学",
+   "图灵奖",
+   "密码学",
+   "清华大学",
+   "姚班"
+  ]
+ },
+ {
+  "id": "li-lanjuan",
+  "name": "李兰娟",
+  "en_name": "Li Lanjuan",
+  "aliases": [],
+  "birth": "1947-09-13",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "science",
+  "region": "cn",
+  "headline": "传染病学专家",
+  "summary_30s": "传染病学专家，中国工程院院士（2005年当选），浙江大学医学院附属第一医院教授。创建「李氏人工肝」系统救治肝衰竭患者，显著降低重型肝炎病死率；2003年任浙江省卫生厅厅长主持SARS防控，2020年新冠疫情期间率医疗队赴武汉救治危重症患者。2018年获国家科学技术进步奖特等奖。",
+  "timeline": [
+   {
+    "date": "1973-01-01",
+    "acc": "year",
+    "text": "从浙江医科大学医疗系毕业后进入浙医一院任住院医师，此后长期从事传染病临床工作。"
+   },
+   {
+    "date": "1986-01-01",
+    "acc": "year",
+    "text": "主持人工肝治疗重型肝炎研究课题，开始肝衰竭治疗技术的系统攻关。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "「人工肝支持系统治疗重型病毒性肝炎研究」获浙江省科技进步一等奖，次年获国家科技进步二等奖。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "出任浙江省卫生厅厅长，任职至2008年；任内创建传染病诊治国家重点实验室。"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "SARS疫情期间主持浙江省疫情防控，落实传染源隔离与防治措施。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "当选中国工程院院士（医药卫生学部）。"
+   },
+   {
+    "date": "2013-01-01",
+    "acc": "year",
+    "text": "主持H7N9禽流感防控研究，确定病毒传播源头并创立「四抗二平衡」救治策略。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "month",
+    "text": "领衔的「以防控人感染H7N9禽流感为代表的新发传染病防治体系重大创新和技术突破」获2017年度国家科学技术进步奖特等奖。"
+   },
+   {
+    "date": "2020-02-01",
+    "acc": "month",
+    "text": "率医疗队赴武汉支援新冠危重症救治，将「四抗二平衡」策略用于临床并开展人工肝治疗应用。"
+   }
+  ],
+  "achievements": [
+   "创建「李氏人工肝」系统，显著降低重型肝炎肝衰竭病死率",
+   "2005年当选中国工程院院士，创建传染病诊治国家重点实验室",
+   "2013年主持H7N9禽流感防控研究，确定病毒传播源头",
+   "2018年获2017年度国家科学技术进步奖特等奖",
+   "创立「四抗二平衡」救治策略并应用于危重症临床"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：李兰娟",
+    "url": "https://zh.wikipedia.org/wiki/李兰娟",
+    "type": "wiki"
+   },
+   {
+    "title": "科技部：浙大李兰娟院士团队获2017年度国家科技进步奖特等奖",
+    "url": "https://www.most.gov.cn/ztzl/zdzx/mtjj/201801/t20180115_5628.html",
+    "type": "official"
+   },
+   {
+    "title": "浙大新闻网：项目获国家科学技术进步奖特等奖",
+    "url": "http://www.news.zju.edu.cn/2018/0109/c16677a774315/pagem.htm",
+    "type": "official"
+   },
+   {
+    "title": "新华网：国家科学技术进步奖特等奖报道",
+    "url": "https://www.xinhuanet.com/politics/2018-01/08/c_1122227170.htm",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "传染病学",
+   "人工肝",
+   "H7N9",
+   "浙江大学",
+   "新冠疫情"
+  ]
+ },
+ {
+  "id": "paul-mockapetris",
+  "name": "保罗·莫卡派乔斯",
+  "en_name": "Paul Mockapetris",
+  "aliases": [],
+  "birth": "1948-11-18",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "域名系统DNS发明人",
+  "summary_30s": "1983年在USC ISI发布RFC 882/883，发明域名系统DNS，以分层分布式查询取代单点主机表，支撑全球数十亿域名解析；1987年定稿现行规范，2012年入选互联网名人堂。",
+  "timeline": [
+   {
+    "date": "1971-01-01",
+    "acc": "year",
+    "text": "获麻省理工学院物理学与电气工程两个学士学位。"
+   },
+   {
+    "date": "1982-01-01",
+    "acc": "year",
+    "text": "获加州大学欧文分校信息与计算机科学博士学位，随后加入南加州大学信息科学研究所（USC ISI）。"
+   },
+   {
+    "date": "1983-11-01",
+    "acc": "month",
+    "text": "在USC ISI单署发布RFC 882《域名：概念与功能》与RFC 883，提出分层、分布式的域名系统DNS，取代全网统一的hosts.txt主机表。"
+   },
+   {
+    "date": "1984-01-01",
+    "acc": "year",
+    "text": "完成首个DNS服务器实现Jeeves（运行于DEC TOPS-20）与配套解析器，域名系统在ARPANET投入运行。"
+   },
+   {
+    "date": "1987-11-01",
+    "acc": "month",
+    "text": "发布RFC 1034与RFC 1035，定稿沿用至今的DNS现行技术规范。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "离开学术界转入产业界，成为高速有线电视上网服务公司@Home的第2号员工。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "联合创办域名软件公司Nominum，出任首席科学家兼董事长，主导企业级DNS软件研发至2016年。"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "获IEEE互联网奖，表彰其发明域名系统。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "获ACM SIGCOMM奖，表彰其对数据通信与网络领域基础性技术的贡献。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "year",
+    "text": "入选首批互联网名人堂（Internet Hall of Fame）。"
+   }
+  ],
+  "achievements": [
+   "1983年单署发布RFC 882/883，发明域名系统DNS",
+   "实现首个DNS服务器Jeeves，1987年定稿现行规范RFC 1034/1035",
+   "1999-2016年任域名软件公司Nominum首席科学家兼董事长",
+   "获2003年IEEE互联网奖与2005年ACM SIGCOMM奖",
+   "2012年入选首批互联网名人堂"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Paul Mockapetris",
+    "url": "https://en.wikipedia.org/wiki/Paul_Mockapetris",
+    "type": "wiki"
+   },
+   {
+    "title": "ACM Awards: Paul Mockapetris",
+    "url": "https://awards.acm.org/award_winners/mockapetris_3342151",
+    "type": "official"
+   },
+   {
+    "title": "RFC Editor: RFC 882 Domain names - Concepts and Facilities",
+    "url": "https://www.rfc-editor.org/info/rfc882",
+    "type": "official"
+   },
+   {
+    "title": "USC ISI: And the DNS was Born",
+    "url": "https://www.isi.edu/news/972810/and-the-dns-was-born",
+    "type": "official"
+   },
+   {
+    "title": "BIND 9文档：A Brief History of the DNS and BIND",
+    "url": "https://bind9.readthedocs.io/en/v9.18.17/history.html",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "DNS",
+   "域名系统",
+   "互联网",
+   "RFC",
+   "USC ISI"
+  ]
+ },
+ {
+  "id": "zhang-ruimin",
+  "name": "张瑞敏",
+  "en_name": "Zhang Ruimin",
+  "aliases": [],
+  "birth": "1949-01-05",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "company",
+  "region": "cn",
+  "headline": "海尔创始人",
+  "summary_30s": "海尔创始人。1984年接手亏空147万元的青岛电冰箱总厂，以砸毁76台缺陷冰箱树立质量标准，此后创立「人单合一」管理模式；2016年以约55.8亿美元收购GE家电，海尔成长为年营收超3000亿元、连续多年全球大型家电零售量第一的品牌。",
+  "timeline": [
+   {
+    "date": "1984-01-01",
+    "acc": "year",
+    "text": "时任青岛市家电工业公司副总经理，参与引进德国利勃海尔电冰箱技术与生产线的筹备。"
+   },
+   {
+    "date": "1984-12-26",
+    "acc": "exact",
+    "text": "接任亏空147万元、年营业额仅348万元的青岛电冰箱总厂厂长，该厂即海尔前身。"
+   },
+   {
+    "date": "1985-01-01",
+    "acc": "year",
+    "text": "当众砸毁76台存在质量缺陷的冰箱，以远超工人月薪的损失为代价确立质量优先的名牌战略。"
+   },
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "海尔电冰箱在全国质量评比中获中国冰箱行业史上第一枚质量金牌，工厂扭转为名牌企业。"
+   },
+   {
+    "date": "1991-01-01",
+    "acc": "year",
+    "text": "青岛电冰箱总厂与电冰柜总厂、空调器厂合并组建海尔集团，开始多元扩张与资本运作。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "海尔在美国南卡罗来纳州建成海外工业园，推进本土化制造与品牌出海。"
+   },
+   {
+    "date": "2005-09-01",
+    "acc": "month",
+    "text": "首次提出「人单合一」模式，把组织拆解为面向用户的小微经营单元，成为海尔转型的管理基础。"
+   },
+   {
+    "date": "2016-06-01",
+    "acc": "month",
+    "text": "海尔以约55.8亿美元完成对通用电气家电业务（GEA）的收购，为当时中国家电业规模最大的海外并购之一。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "海尔入选BrandZ全球品牌百强，成为首个以物联网生态品牌身份入榜的企业。"
+   },
+   {
+    "date": "2021-11-01",
+    "acc": "month",
+    "text": "辞任海尔集团董事局主席，交棒周云杰，此后以名誉主席身份继续参与管理研究。"
+   }
+  ],
+  "achievements": [
+   "1984年接手亏空147万元的小厂，将其发展为年营收超3000亿元的全球化家电集团",
+   "1985年砸冰箱事件成为中国制造业质量意识转变的标志性案例",
+   "创立「人单合一」管理模式，被哈佛商学院纳入教学案例",
+   "2016年主导以约55.8亿美元收购GE家电，完成全球品牌矩阵布局",
+   "海尔连续多年居全球大型家电品牌零售量第一（欧睿国际口径）"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "海尔集团官网：创始人简介",
+    "url": "https://www.haier.com/about-haier/founder",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：张瑞敏",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%91%9E%E6%95%8F",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：张瑞敏",
+    "url": "https://baike.baidu.com/item/%E5%BC%A0%E7%91%9E%E6%95%8F/19495",
+    "type": "baike"
+   },
+   {
+    "title": "新华网：张瑞敏砸冰箱相关报道",
+    "url": "http://www.xinhuanet.com/20241225/b0d24ab2600b43f6b09980b9b9149e1e/c.html",
+    "type": "media"
+   },
+   {
+    "title": "21经济网：创业40载海尔的革新",
+    "url": "http://www.21jingji.com/article/20211105/herald/1b99d6720cb8c1229cc453183a1956a9.html",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "海尔",
+   "家电",
+   "管理创新",
+   "制造业",
+   "全球化"
+  ]
+ },
+ {
+  "id": "qiu-chengtong",
+  "name": "丘成桐",
+  "en_name": "Shing-Tung Yau",
+  "aliases": [],
+  "birth": "1949-04-04",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "science",
+  "region": "cn",
+  "headline": "首位华人菲尔兹奖得主",
+  "summary_30s": "美籍华裔数学家，27岁证明卡拉比猜想、33岁成为菲尔兹奖设立以来首位华人得主，几何分析奠基人之一；2022年辞去哈佛教职全职回国，任清华大学求真书院院长、北京雁栖湖应用数学研究院院长，培养数学领军人才。",
+  "timeline": [
+   {
+    "date": "1966-01-01",
+    "acc": "year",
+    "text": "考入香港中文大学崇基学院数学系，三年修毕四年课程。"
+   },
+   {
+    "date": "1969-01-01",
+    "acc": "year",
+    "text": "获推荐赴美国加州大学伯克利分校深造，师从微分几何大师陈省身。"
+   },
+   {
+    "date": "1971-01-01",
+    "acc": "year",
+    "text": "获加州大学伯克利分校博士学位，时年仅22岁。"
+   },
+   {
+    "date": "1976-01-01",
+    "acc": "year",
+    "text": "证明悬置二十余年的卡拉比猜想，由此命名的「卡拉比—丘流形」后被弦论用作时空内蕴结构。"
+   },
+   {
+    "date": "1982-01-01",
+    "acc": "year",
+    "text": "获菲尔兹奖，成为该奖1936年设立以来首位华人得主，获奖工作包括卡拉比猜想与正能量定理。"
+   },
+   {
+    "date": "1987-01-01",
+    "acc": "year",
+    "text": "出任哈佛大学教授，此后同时兼任数学系与物理系两系终身教职。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "清华大学丘成桐数学科学中心成立，出任主任。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "获沃尔夫数学奖，表彰其在几何分析领域的开创性工作。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "year",
+    "text": "北京雁栖湖应用数学研究院在北京怀柔科学城成立，出任院长。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "清华大学求真书院成立，出任院长，面向全国选拔中学生培养数学领军人才。"
+   },
+   {
+    "date": "2022-04-01",
+    "acc": "month",
+    "text": "离开任教35年的哈佛大学，赴清华大学任全职讲席教授。"
+   }
+  ],
+  "achievements": [
+   "1976年证明卡拉比猜想，开创以「卡拉比—丘流形」为核心的研究方向",
+   "1982年获菲尔兹奖，为该奖首位华人得主",
+   "证明广义相对论正能量定理，成为几何分析学科奠基人之一",
+   "先后获菲尔兹奖、沃尔夫数学奖、克拉福德奖等国际奖项",
+   "创办求真书院与北京雁栖湖应用数学研究院，全职回国培养基础数学人才"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：丘成桐",
+    "url": "https://zh.wikipedia.org/wiki/丘成桐",
+    "type": "wiki"
+   },
+   {
+    "title": "清华大学：丘成桐",
+    "url": "https://www.tsinghua.edu.cn/info/1167/93834.htm",
+    "type": "official"
+   },
+   {
+    "title": "清华大学求真书院：数学史课程",
+    "url": "https://qzc.tsinghua.edu.cn/qzts/qztstskc/sxs.htm",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：丘成桐",
+    "url": "https://baike.baidu.com/item/丘成桐/638825",
+    "type": "baike"
+   }
+  ],
+  "tags": [
+   "数学",
+   "菲尔兹奖",
+   "卡拉比猜想",
+   "清华大学",
+   "几何分析"
+  ]
+ }
+]

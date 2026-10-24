@@ -1,0 +1,1718 @@
+[
+ {
+  "id": "mark-zuckerberg",
+  "name": "马克·扎克伯格",
+  "en_name": "Mark Zuckerberg",
+  "aliases": [
+   "扎克伯格",
+   "小扎"
+  ],
+  "birth": "1984-05-14",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "Meta（Facebook）创始人",
+  "summary_30s": "2004年在哈佛宿舍创办Facebook，上市并收购Instagram、WhatsApp，用户覆盖数十亿；2021年更名Meta押注元宇宙，2023年起发布Llama开源大模型。",
+  "timeline": [
+   {
+    "date": "2004-02-04",
+    "acc": "exact",
+    "text": "在哈佛大学宿舍上线社交网站Thefacebook，随后向其他高校扩展。"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "拒绝雅虎约10亿美元收购报价，网站向公众开放注册。"
+   },
+   {
+    "date": "2008-06-25",
+    "acc": "exact",
+    "text": "ConnectU诉讼以和解结案，支付2000万美元现金及逾120万股股票。"
+   },
+   {
+    "date": "2012-04-01",
+    "acc": "month",
+    "text": "以约10亿美元收购照片分享应用Instagram。"
+   },
+   {
+    "date": "2012-05-01",
+    "acc": "month",
+    "text": "Facebook上市，融资160亿美元，估值约1040亿美元。"
+   },
+   {
+    "date": "2014-02-01",
+    "acc": "month",
+    "text": "宣布以约190亿美元收购即时通讯应用WhatsApp。"
+   },
+   {
+    "date": "2021-10-28",
+    "acc": "exact",
+    "text": "宣布公司更名为Meta Platforms，全面投入元宇宙开发。"
+   },
+   {
+    "date": "2022-02-01",
+    "acc": "month",
+    "text": "业绩指引不及预期，股价单日下跌27%，市值蒸发约2300亿美元。"
+   },
+   {
+    "date": "2023-02-01",
+    "acc": "month",
+    "text": "组建生成式AI团队，年内发布Llama系列开源大模型。"
+   }
+  ],
+  "achievements": [
+   "在哈佛宿舍创办Facebook，用户规模达数十亿量级",
+   "主导收购Instagram（约10亿美元）与WhatsApp（约190亿美元）",
+   "2012年公司上市，融资160亿美元",
+   "2021年推动公司更名Meta，投入元宇宙",
+   "2023年起发布Llama系列开源大模型"
+  ],
+  "controversies": [
+   "2019年美国联邦贸易委员会就剑桥分析公司数据事件与Facebook达成和解，公司支付50亿美元罚款。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Mark Zuckerberg",
+    "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Meta Platforms",
+    "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：马克·扎克伯格",
+    "url": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E5%85%8B%C2%B7%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "Facebook",
+   "Meta",
+   "社交网络",
+   "Llama",
+   "互联网"
+  ],
+  "related_entities": [
+   {
+    "id": "facebook",
+    "name": "脸书"
+   },
+   {
+    "id": "yahoo",
+    "name": "雅虎"
+   }
+  ]
+ },
+ {
+  "id": "liang-wenfeng",
+  "name": "梁文锋",
+  "en_name": "Liang Wenfeng",
+  "aliases": [],
+  "birth": "1985-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "ai",
+  "region": "cn",
+  "headline": "DeepSeek创始人",
+  "summary_30s": "DeepSeek（深度求索）创始人。浙江大学硕士，量化私募幻方量化联合创始人；2023年进军大模型，走低成本开源路线，2024年末V3以远低于同行的训练成本引发关注，2025年1月R1性能对标OpenAI o1，应用登顶中美App Store，掀起全球AI成本路线讨论。",
+  "timeline": [
+   {
+    "date": "2002-01-01",
+    "acc": "year",
+    "text": "考入浙江大学电子信息工程专业，后在本校信息与电子工程学系续读硕士。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "在校期间组建团队，用机器学习方法研究金融市场与量化交易。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "获浙江大学信息与通信工程硕士学位。"
+   },
+   {
+    "date": "2015-06-01",
+    "acc": "month",
+    "text": "与徐进在杭州共同创办幻方科技（High-Flyer），后发展为国内量化私募头部机构。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "year",
+    "text": "幻方投入约十亿元建成「萤火二号」AI训练集群，配置万卡级GPU用于深度学习。"
+   },
+   {
+    "date": "2023-07-17",
+    "acc": "exact",
+    "text": "在杭州创办深度求索（DeepSeek），正式进军大模型领域。"
+   },
+   {
+    "date": "2024-05-01",
+    "acc": "month",
+    "text": "发布DeepSeek-V2，以极低推理价格引发国内大模型API价格战。"
+   },
+   {
+    "date": "2024-12-26",
+    "acc": "exact",
+    "text": "发布开源模型DeepSeek-V3，披露的GPU训练成本远低于同级闭源模型，引发业界关注。"
+   },
+   {
+    "date": "2025-01-20",
+    "acc": "exact",
+    "text": "发布推理模型DeepSeek-R1，性能对标OpenAI o1并全面开源。"
+   },
+   {
+    "date": "2025-01-27",
+    "acc": "exact",
+    "text": "DeepSeek应用登顶中美苹果应用商店免费榜，超越ChatGPT，引发美股科技股大幅波动。"
+   }
+  ],
+  "achievements": [
+   "联合创办幻方量化，跻身中国量化私募头部机构",
+   "创办DeepSeek，V3披露GPU训练成本约557.6万美元，远低于同级模型",
+   "开源DeepSeek-R1推理模型，性能对标OpenAI o1",
+   "DeepSeek应用登顶中美App Store免费榜，引发全球AI成本路线讨论"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：梁文锋",
+    "url": "https://zh.wikipedia.org/wiki/%E6%A2%81%E6%96%87%E9%94%8B",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：梁文锋",
+    "url": "https://baike.baidu.com/item/%E6%A2%81%E6%96%87%E9%94%8B/65336579",
+    "type": "baike"
+   },
+   {
+    "title": "BBC中文：DeepSeek与梁文锋报道",
+    "url": "https://www.bbc.com/zhongwen/articles/cj02eq1l7j5o/simp",
+    "type": "news"
+   },
+   {
+    "title": "钜亨号：DeepSeek登顶中美App Store",
+    "url": "https://hao.cnyes.com/post/133037",
+    "type": "news"
+   },
+   {
+    "title": "智源社区：DeepSeek的创新与2025 AI趋势",
+    "url": "https://hub.baai.ac.cn/view/43264",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "DeepSeek",
+   "人工智能",
+   "大模型",
+   "量化投资"
+  ]
+ },
+ {
+  "id": "sam-altman",
+  "name": "山姆·奥尔特曼",
+  "en_name": "Sam Altman",
+  "aliases": [
+   "Sam Altman"
+  ],
+  "birth": "1985-04-22",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "ai",
+  "region": "world",
+  "headline": "OpenAI CEO",
+  "summary_30s": "OpenAI联合创始人兼CEO，19岁创办位置服务公司Loopt，31岁执掌YC，2019年出任OpenAI CEO并推动ChatGPT问世，引爆全球生成式AI浪潮，也把「AI安全与治理」推上公共议程。",
+  "timeline": [
+   {
+    "date": "2005-06-01",
+    "acc": "month",
+    "text": "从斯坦福大学计算机系辍学，创办位置分享公司Loopt并加入首批Y Combinator。"
+   },
+   {
+    "date": "2012-06-01",
+    "acc": "month",
+    "text": "Loopt以约4300万美元出售，退出日常管理并转向投资。"
+   },
+   {
+    "date": "2014-02-01",
+    "acc": "month",
+    "text": "接替保罗·格雷厄姆出任Y Combinator总裁，将其扩展为全美最具影响力的创业孵化器。"
+   },
+   {
+    "date": "2015-12-11",
+    "acc": "exact",
+    "text": "与马斯克、Greg Brockman等人宣布创立非营利研究机构OpenAI，目标确保通用人工智能造福人类。"
+   },
+   {
+    "date": "2019-03-01",
+    "acc": "month",
+    "text": "卸任YC总裁，出任OpenAI CEO，OpenAI重组为「有限营利」架构以吸引资本。"
+   },
+   {
+    "date": "2022-11-30",
+    "acc": "exact",
+    "text": "ChatGPT发布，两个月月活破亿，成为历史上用户增长最快的消费应用，引爆生成式AI浪潮。"
+   },
+   {
+    "date": "2023-11-17",
+    "acc": "exact",
+    "text": "被OpenAI董事会突然解雇，微软与员工集体施压，五天后达成协议回归CEO，董事会重组。"
+   },
+   {
+    "date": "2024-06-01",
+    "acc": "month",
+    "text": "推动GPT-4o、o1推理模型与Sora视频模型相继发布，OpenAI估值突破1500亿美元。"
+   }
+  ],
+  "achievements": [
+   "执掌OpenAI期间发布ChatGPT，引爆全球生成式AI浪潮",
+   "将非营利研究机构转型为可吸引千亿级资本投入的组织",
+   "执掌YC期间孵化与投资数千家创业公司"
+  ],
+  "controversies": [
+   "2023年11月被OpenAI董事会以「对董事会不坦率」为由解雇，五日后回归，事件细节至今未完整公开"
+  ],
+  "quotes": [
+   "AGI将比人们想象的更早到来"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：山姆·奥尔特曼",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC",
+    "type": "wiki"
+   },
+   {
+    "title": "OpenAI官网：Leadership",
+    "url": "https://openai.com/",
+    "type": "official"
+   },
+   {
+    "title": "The Verge：OpenAI董事会风波报道",
+    "url": "https://www.theverge.com/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "AI",
+   "YC",
+   "美国"
+  ]
+ },
+ {
+  "id": "papi-jiang",
+  "name": "papi酱",
+  "en_name": "Papi Jiang",
+  "aliases": [
+   "姜逸磊"
+  ],
+  "birth": "1987-02-17",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "Papitube创始人、现象级短视频作者",
+  "summary_30s": "中央戏剧学院导演系硕士出身的短视频创作者。2015年以变声器吐槽视频走红，2016年获1200万元融资，首支视频贴片广告拍出2200万元；同年与合伙人杨铭运营MCN机构Papitube，直播首秀1.5小时观看达2000万人次，后参演《妖铃铃》《繁花》。",
+  "timeline": [
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "考入中央戏剧学院导演系本科，在校期间任网络主持人、上海电视台体育频道编导及话剧导演助理。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "year",
+    "text": "开设微博账号，尝试文字段子、搞笑GIF，曾在B站担任UP主。"
+   },
+   {
+    "date": "2015-10-01",
+    "acc": "month",
+    "text": "开始上传变声器吐槽短视频，11月《喜迎双十一》在朋友圈、微博等平台走红。"
+   },
+   {
+    "date": "2016-03-01",
+    "acc": "month",
+    "text": "获真格基金、罗辑思维、光源资本和星图资本合计1200万元人民币融资。"
+   },
+   {
+    "date": "2016-04-21",
+    "acc": "exact",
+    "text": "首支视频贴片广告公开拍卖，以2200万元人民币成交，款项宣布捐赠母校中央戏剧学院。"
+   },
+   {
+    "date": "2016-07-06",
+    "acc": "exact",
+    "text": "获中央戏剧学院导演系硕士学位，同月成立个人工作室。"
+   },
+   {
+    "date": "2016-07-11",
+    "acc": "exact",
+    "text": "首次网络直播，一个半小时观看达2000万人次，打赏收入折合人民币90余万元。"
+   },
+   {
+    "date": "2016-11-23",
+    "acc": "exact",
+    "text": "合伙人杨铭确认投资方罗辑思维撤资。"
+   },
+   {
+    "date": "2018-06-21",
+    "acc": "exact",
+    "text": "正式担任百度App首席内容官。"
+   },
+   {
+    "date": "2021-10-01",
+    "acc": "month",
+    "text": "个人工作室「逸磊影视文化传播新沂工作室」停止运作。"
+   },
+   {
+    "date": "2024-05-01",
+    "acc": "month",
+    "text": "不再担任北京春雨听雷网络科技有限公司董事职务。"
+   }
+  ],
+  "achievements": [
+   "2016年首支视频贴片广告以2200万元成交，被称「新媒体史上第一拍」",
+   "2016年获真格基金等机构合计1200万元融资",
+   "与合伙人杨铭共同运营短视频MCN机构Papitube，签约孵化多垂类创作者",
+   "2016年直播首秀1.5小时观看达2000万人次",
+   "参演《妖铃铃》《繁花》等影视作品"
+  ],
+  "controversies": [
+   "2016年4月，短视频因使用粗口等内容被广电总局要求全平台下线整改，整改后部分视频重新上架。",
+   "2019年，旗下Papitube账号因未授权使用音乐被诉侵权，北京互联网法院一审判决赔偿7000元。"
+  ],
+  "quotes": [
+   "「网上和身边永远有一群『挑刺狂魔』。」——2020年5月置顶微博回应舆论质疑"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：Papi酱",
+    "url": "https://zh.wikipedia.org/wiki/Papi%E9%85%B1",
+    "type": "wiki"
+   },
+   {
+    "title": "凤凰网：papi酱首次广告拍卖2200万 全部捐给母校中戏",
+    "url": "https://news.ifeng.com/c/7fd9PnRge3t",
+    "type": "news"
+   },
+   {
+    "title": "凤凰网财经：papi酱广告首拍达2200万",
+    "url": "https://finance.ifeng.com/c/7Zxhqm82P12",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "短视频",
+   "MCN",
+   "Papitube",
+   "微博",
+   "创作者"
+  ],
+  "related_entities": [
+   {
+    "id": "baidu",
+    "name": "百度"
+   }
+  ]
+ },
+ {
+  "id": "geng-shuai",
+  "name": "手工耿",
+  "en_name": "Handy Geng",
+  "aliases": [
+   "耿帅",
+   "无用爱迪生"
+  ],
+  "birth": "1988-07-22",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "「无用发明」铁艺创作者",
+  "summary_30s": "河北定兴焊工出身的发明创作者。2017年返乡专职制作「无用发明」，菜刀梳子、倒立洗头机、雷神锤包等不锈钢作品2018年经短视频走红，获《华盛顿邮报》等海外媒体报道，被称为「无用爱迪生」，B站粉丝超750万、总播放量8.1亿。",
+  "timeline": [
+   {
+    "date": "1988-07-22",
+    "acc": "exact",
+    "text": "出生于河北省保定市定兴县杨村。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "16岁初中辍学后进城务工，先后做过建筑工地杂工与电焊工，曾参与京石客运专线铁路建设。"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "辞去工作回到老家定兴县，专职制作以不锈钢为主的发明器械。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "year",
+    "text": "开始为发明录制视频并上传快手、微博等平台走红，获《华盛顿邮报》等海外媒体报道，被称为「无用爱迪生」。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "入选B站百大UP主，参加《快乐大本营》《我想开个店》等综艺节目。"
+   },
+   {
+    "date": "2023-11-01",
+    "acc": "month",
+    "text": "B站粉丝数达758.1万，视频总播放量8.1亿。"
+   },
+   {
+    "date": "2024-05-01",
+    "acc": "month",
+    "text": "5月21日发布与游戏合作的视频后停更五个月，引发「退网」猜测。"
+   },
+   {
+    "date": "2024-10-01",
+    "acc": "month",
+    "text": "复更发布「大慈大悲钓鱼竿」，回应称「我挣到了驾驭不了的钱」，自述不带货、一个月接一个广告已是极限。"
+   }
+  ],
+  "achievements": [
+   "「无用发明」系列走红快手与B站，B站粉丝超750万、总播放量8.1亿",
+   "获《华盛顿邮报》等海外媒体报道，获称「无用爱迪生」",
+   "2019年入选B站百大UP主，登上《快乐大本营》等综艺",
+   "代表作包括菜刀梳子、倒立洗头机、雷神锤包、不锈钢脑瓜崩加特林等"
+  ],
+  "controversies": [],
+  "quotes": [
+   "「我挣到了驾驭不了的钱。」——2024年接受《新人物》采访回应退网传闻"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：手工耿",
+    "url": "https://zh.wikipedia.org/wiki/%E6%89%8B%E5%B7%A5%E8%80%BF",
+    "type": "wiki"
+   },
+   {
+    "title": "新京报：手工耿相关报道（2018）",
+    "url": "http://www.bjnews.com.cn/inside/2018/10/29/515575.html",
+    "type": "news"
+   },
+   {
+    "title": "联合新闻网：「无用爱迪生」报道（2019）",
+    "url": "https://udn.com/news/story/6809/3629411",
+    "type": "news"
+   },
+   {
+    "title": "中国新闻周刊：手工耿人物报道（2019）",
+    "url": "http://news.inewsweek.cn/people/2019-06-03/5958.shtml",
+    "type": "news"
+   },
+   {
+    "title": "21经济网：知名网红回应「退网」传闻",
+    "url": "https://www.21jingji.com/article/20241021/herald/4e1d59de87e9b46a502ccc2e660fc314.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "快手",
+   "手工",
+   "发明",
+   "创作者",
+   "B站"
+  ],
+  "related_entities": [
+   {
+    "id": "kuaishou",
+    "name": "快手"
+   }
+  ]
+ },
+ {
+  "id": "ma-long",
+  "name": "马龙",
+  "en_name": "Ma Long",
+  "aliases": [
+   "六边形战士"
+  ],
+  "birth": "1988-10-20",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "乒乓球双圈大满贯、奥运六金得主",
+  "summary_30s": "乒乓球首位「双圈大满贯」得主，累计6枚奥运金牌为中国奥运史上最多：2012伦敦男团、2016里约男单与男团、2020东京男单与男团、2024巴黎男团；世乒赛男单2015-2019年三连冠；2024年获国际奥协「杰出运动生涯奖」，2025年出任中国乒乓球协会副主席。",
+  "timeline": [
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "入选中国国家乒乓球队，开始代表中国队参加国际比赛。"
+   },
+   {
+    "date": "2012-08-01",
+    "acc": "month",
+    "text": "伦敦奥运会随队夺得乒乓球男团金牌，首获奥运冠军。"
+   },
+   {
+    "date": "2015-05-01",
+    "acc": "month",
+    "text": "苏州世乒赛夺得男单冠军，首获乒乓球单打世界冠军。"
+   },
+   {
+    "date": "2016-08-01",
+    "acc": "month",
+    "text": "里约奥运会男单决赛4比0战胜张继科夺金，集齐奥运会、世乒赛、世界杯单打冠军实现「大满贯」，并随队再夺男团金牌。"
+   },
+   {
+    "date": "2019-04-01",
+    "acc": "month",
+    "text": "布达佩斯世乒赛男单成功卫冕，实现2015-2019年世乒赛男单三连冠。"
+   },
+   {
+    "date": "2021-07-01",
+    "acc": "month",
+    "text": "东京奥运会男单决赛战胜樊振东实现卫冕，并随队夺得男团金牌，成为乒坛首位男单「双圈大满贯」得主。"
+   },
+   {
+    "date": "2024-08-01",
+    "acc": "month",
+    "text": "巴黎奥运会男团决赛3比0胜瑞典，中国队实现奥运男团五连冠，马龙收获个人第六枚奥运金牌，成为中国奥运史上金牌最多的运动员。"
+   },
+   {
+    "date": "2024-11-01",
+    "acc": "month",
+    "text": "获国家和地区奥委会协会颁发的「杰出运动生涯奖」。"
+   },
+   {
+    "date": "2025-01-01",
+    "acc": "year",
+    "text": "出任中国乒乓球协会副主席，此后逐渐淡出国际赛场。"
+   }
+  ],
+  "achievements": [
+   "累计6枚奥运金牌，为中国奥运史上获得金牌最多的运动员",
+   "乒坛首位男单「双圈大满贯」得主，奥运会、世乒赛、世界杯单打冠军两轮集齐",
+   "世乒赛男单三连冠（2015苏州、2017杜塞尔多夫、2019布达佩斯）",
+   "奥运乒乓球男单首位成功卫冕的选手（2016、2021）",
+   "2024年获国际奥协「杰出运动生涯奖」"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：马龙（乒乓球运动员）",
+    "url": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E9%BE%99_(%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98)",
+    "type": "wiki"
+   },
+   {
+    "title": "Olympics.com：马龙（Ma Long）运动员资料",
+    "url": "https://www.olympics.com/zh/athletes/long-ma",
+    "type": "official"
+   },
+   {
+    "title": "新华社：马龙获奖，因为热爱，所以实至名归",
+    "url": "http://www.news.cn/sports/20241101/6cf1d1ebab5e4a1bbdfc8615728c4c4c/c.html",
+    "type": "news"
+   },
+   {
+    "title": "百度百科：马龙",
+    "url": "https://baike.baidu.com/item/%E9%A9%AC%E9%BE%99/35974",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "乒乓球",
+   "大满贯",
+   "奥运会",
+   "世乒赛",
+   "中国乒协"
+  ]
+ },
+ {
+  "id": "su-bingtian",
+  "name": "苏炳添",
+  "en_name": "Su Bingtian",
+  "aliases": [],
+  "birth": "1989-08-29",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "男子百米亚洲纪录保持者",
+  "summary_30s": "男子百米亚洲纪录保持者。2015年以9秒99成为首位突破10秒大关的亚洲本土选手，2018年跑出9秒91并获室内世锦赛60米银牌；2021年东京奥运会半决赛9秒83刷新亚洲纪录，成为首位闯入奥运男子百米决赛的中国选手，决赛名列第六；任教于暨南大学，2025年起任体育学院院长。",
+  "timeline": [
+   {
+    "date": "2011-09-01",
+    "acc": "month",
+    "text": "全国田径锦标赛以10秒16夺得男子百米冠军，打破尘封13年的全国纪录。"
+   },
+   {
+    "date": "2015-05-01",
+    "acc": "month",
+    "text": "国际田联钻石联赛尤金站跑出9秒99，成为首位突破10秒大关的亚洲本土选手。"
+   },
+   {
+    "date": "2018-03-01",
+    "acc": "month",
+    "text": "伯明翰世界室内田径锦标赛60米跑出6秒42摘银并打破亚洲纪录，为中国男子短跑首枚世界大赛奖牌。"
+   },
+   {
+    "date": "2018-04-01",
+    "acc": "month",
+    "text": "受聘为暨南大学体育学院副教授，此后以自身训练为样本发表短跑研究论文。"
+   },
+   {
+    "date": "2018-06-23",
+    "acc": "exact",
+    "text": "国际田联世界挑战赛马德里站以9秒91夺冠，追平男子百米亚洲纪录，成为跑得最快的亚洲本土选手。"
+   },
+   {
+    "date": "2021-08-01",
+    "acc": "exact",
+    "text": "东京奥运会男子百米半决赛跑出9秒83刷新亚洲纪录，成为首位闯入奥运百米决赛的中国选手，决赛以9秒98列第六。"
+   },
+   {
+    "date": "2025-01-01",
+    "acc": "year",
+    "text": "出任暨南大学体育学院院长，此前已在该院任教多年。"
+   }
+  ],
+  "achievements": [
+   "2021年东京奥运百米半决赛9秒83，刷新亚洲纪录并闯入决赛",
+   "2015年跑出9秒99，为首位突破10秒大关的亚洲本土（非归化）选手",
+   "2018年室内世锦赛60米6秒42摘银，为中国男子短跑首枚世界大赛奖牌",
+   "东京奥运男子百米决赛第6名，创中国选手该项目奥运最佳名次",
+   "2025年起担任暨南大学体育学院院长"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "百度百科：苏炳添",
+    "url": "https://baike.baidu.com/item/%E8%8B%8F%E7%82%B3%E6%B7%BB/8527768",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：苏炳添",
+    "url": "https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E7%82%B3%E6%B7%BB",
+    "type": "wiki"
+   },
+   {
+    "title": "暨南大学：跑得最快的院长来了！苏炳添任暨大体育学院院长",
+    "url": "https://www.jnu.edu.cn/2025/0512/c2632a835837/page.htm",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "田径",
+   "短跑",
+   "百米",
+   "亚洲纪录",
+   "奥运会"
+  ]
+ },
+ {
+  "id": "wang-xingxing",
+  "name": "王兴兴",
+  "aliases": [],
+  "birth": "1990-03-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "hardware",
+  "region": "cn",
+  "headline": "宇树科技创始人兼CEO",
+  "summary_30s": "宇树科技创始人兼CEO。硕士期间研制低成本电驱动四足机器人XDog，2016年在杭州创立宇树科技，先后推出Laikago四足机器人与G1人形机器人，G1起售价9.9万元，大幅拉低人形机器人整机价格；2025年央视春晚上16台H1人形机器人扭秧歌引发全网关注，2026年8月公司登陆科创板上市。",
+  "timeline": [
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "考入浙江理工大学机械专业，期间自学制作小型机器人。"
+   },
+   {
+    "date": "2013-01-01",
+    "acc": "year",
+    "text": "进入上海大学机械工程专业攻读硕士，毕业论文方向为新型电驱动四足机器人。"
+   },
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "读研期间独立研制四足机器人XDog，采用外转子无刷电机直驱方案，成本远低于同类进口产品。"
+   },
+   {
+    "date": "2016-08-01",
+    "acc": "month",
+    "text": "硕士毕业后曾短暂入职大疆，同年8月获200万元天使投资，在杭州创立宇树科技，初始团队3人。"
+   },
+   {
+    "date": "2017-10-01",
+    "acc": "month",
+    "text": "发布首款四足机器人产品Laikago（莱卡狗），正式进入市场销售。"
+   },
+   {
+    "date": "2021-02-01",
+    "acc": "month",
+    "text": "宇树四足机器人登上央视牛年春晚舞台，参与创意节目表演。"
+   },
+   {
+    "date": "2023-08-01",
+    "acc": "month",
+    "text": "发布首款通用人形机器人H1，海外定价约9万美元。"
+   },
+   {
+    "date": "2024-05-13",
+    "acc": "exact",
+    "text": "发布人形机器人G1，起售价9.9万元，将人形机器人价格拉低至十万元以内。"
+   },
+   {
+    "date": "2025-01-28",
+    "acc": "exact",
+    "text": "央视蛇年春晚《秧BOT》节目中，16台H1人形机器人扭秧歌、转手绢，节目由张艺谋担任导演。"
+   },
+   {
+    "date": "2026-08-19",
+    "acc": "exact",
+    "text": "宇树科技在上海证券交易所科创板挂牌上市。"
+   }
+  ],
+  "achievements": [
+   "硕士期间独立研制低成本电驱动四足机器人XDog",
+   "创立宇树科技，将四足机器人产品做到万元人民币价位",
+   "发布G1人形机器人，起售价9.9万元，拉低人形机器人整机价格",
+   "H1人形机器人登上2025年央视春晚《秧BOT》节目",
+   "2026年8月推动宇树科技登陆科创板上市"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "宇树科技官网：公司介绍",
+    "url": "https://www.unitree.com/operate/company",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：王兴兴",
+    "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%85%B4%E5%85%B4",
+    "type": "wiki"
+   },
+   {
+    "title": "证券时报：宇树机器人春晚报道",
+    "url": "https://www.stcn.com/article/detail/3644801.html",
+    "type": "news"
+   },
+   {
+    "title": "新华网：宇树机器人登上马年春晚",
+    "url": "http://www.xinhuanet.com/20260217/ab60346d42d6404488c3c0bd67753acc/c.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "机器人",
+   "硬件",
+   "宇树科技",
+   "四足机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "id": "li-ziqi",
+  "name": "李子柒",
+  "en_name": "Li Ziqi",
+  "aliases": [
+   "李佳佳"
+  ],
+  "birth": "1990-07-06",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "田园生活短视频创作者",
+  "summary_30s": "以古法田园生活视频走红的创作者，内容涵盖美食、手作与非遗技艺；YouTube中文频道订阅量1410万创吉尼斯世界纪录，2021年停更并与合作方发生股权纠纷，2022年经法院调解和解，2024年11月以非遗漆器视频复出。",
+  "timeline": [
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "开始拍摄以传统工艺与田园生活为内容的原创短视频，从零学习拍摄与剪辑。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "以「古法风格」原创美食视频走红，兰州牛肉面制作视频成为早期代表作。"
+   },
+   {
+    "date": "2021-01-25",
+    "acc": "exact",
+    "text": "YouTube频道订阅量达1410万，刷新「最多订阅量的YouTube中文频道」吉尼斯世界纪录。"
+   },
+   {
+    "date": "2021-07-14",
+    "acc": "exact",
+    "text": "发布最后一条视频后停止更新，此后进入长达三年多的停更期。"
+   },
+   {
+    "date": "2021-10-25",
+    "acc": "exact",
+    "text": "其持股的四川子柒文化在绵阳市中级人民法院起诉杭州微念及刘同明，案由为股权纠纷。"
+   },
+   {
+    "date": "2022-12-27",
+    "acc": "exact",
+    "text": "双方在法院调解下达成和解，李子柒取得四川子柒文化的公司控制权。"
+   },
+   {
+    "date": "2024-11-01",
+    "acc": "month",
+    "text": "停更1200多天后复出，发布以非遗漆器为主题的视频。"
+   }
+  ],
+  "achievements": [
+   "YouTube中文频道订阅量达1410万，创「最多订阅量的YouTube中文频道」吉尼斯世界纪录",
+   "以完整呈现制作过程的视频记录美食、蜀绣、造纸、漆器等传统技艺",
+   "2024年11月停更1200多天后复出，海外订阅约1990万，首发非遗漆器视频"
+  ],
+  "controversies": [
+   "2021年10月四川子柒文化起诉杭州微念及刘同明股权纠纷；2022年12月双方经法院调解和解，李子柒取得公司控制权。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：李子柒",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E5%AD%90%E6%9F%92",
+    "type": "wiki"
+   },
+   {
+    "title": "中国蓝新闻：停更1200多天后，李子柒回来了",
+    "url": "https://www.cztv.com/newsDetail/708747",
+    "type": "news"
+   },
+   {
+    "title": "观察者网：李子柒起诉杭州微念案报道",
+    "url": "https://user.guancha.cn/main/content?id=909178",
+    "type": "news"
+   },
+   {
+    "title": "CBNData：李子柒复出相关报道",
+    "url": "https://www.cbndata.com/information/293345",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "短视频",
+   "YouTube",
+   "非遗",
+   "美食",
+   "创作者"
+  ],
+  "related_entities": [
+   {
+    "id": "youtube",
+    "name": "YouTube"
+   }
+  ]
+ },
+ {
+  "id": "yang-zhilin",
+  "name": "杨植麟",
+  "en_name": "Zhilin Yang",
+  "aliases": [],
+  "birth": "1992-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "ai",
+  "region": "cn",
+  "headline": "月之暗面Kimi创始人",
+  "summary_30s": "月之暗面（Moonshot AI）创始人兼CEO。本科毕业于清华大学计算机系，卡内基梅隆大学博士期间以共同第一作者发表Transformer-XL与XLNet两篇语言模型论文。2023年3月创立月之暗面并推出AI助手Kimi，2024年将上下文长度扩至200万字，2025年开源1万亿参数模型Kimi K2。",
+  "timeline": [
+   {
+    "date": "2014-01-01",
+    "acc": "year",
+    "text": "本科毕业于清华大学计算机系，随后赴卡内基梅隆大学攻读机器学习方向博士。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "联合创办企业级AI公司「循环智能」（Recurrent AI），负责算法与产品方向。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "month",
+    "text": "以共同第一作者发表论文Transformer-XL，引入片段级循环机制，使语言模型能处理超长上下文。"
+   },
+   {
+    "date": "2019-06-01",
+    "acc": "month",
+    "text": "以共同第一作者发表论文XLNet，在20项标准自然语言处理任务上超越BERT。"
+   },
+   {
+    "date": "2023-03-01",
+    "acc": "month",
+    "text": "创立通用大模型公司月之暗面（Moonshot AI）。"
+   },
+   {
+    "date": "2023-10-01",
+    "acc": "month",
+    "text": "推出AI助手Kimi，以长文本处理能力为主要卖点。"
+   },
+   {
+    "date": "2024-02-01",
+    "acc": "month",
+    "text": "月之暗面完成超10亿美元融资（阿里领投），投后估值约25亿美元。"
+   },
+   {
+    "date": "2024-03-01",
+    "acc": "month",
+    "text": "Kimi启动200万字无损上下文内测，访问量激增一度导致服务宕机。"
+   },
+   {
+    "date": "2024-08-01",
+    "acc": "month",
+    "text": "公司再获超3亿美元融资，腾讯参投，估值升至约33亿美元。"
+   },
+   {
+    "date": "2025-07-01",
+    "acc": "month",
+    "text": "开源大模型Kimi K2，总参数量1万亿、单次激活320亿参数。"
+   }
+  ],
+  "achievements": [
+   "以共同第一作者发表Transformer-XL与XLNet两篇语言模型论文",
+   "XLNet在20项标准自然语言处理任务上超越当时最优的BERT",
+   "创立月之暗面并推出Kimi智能助手，主打长文本处理",
+   "Kimi支持200万字无损上下文（2024年）",
+   "主导开源Kimi K2，总参数量1万亿、单次激活320亿参数"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "百度百科：杨植麟",
+    "url": "https://baike.baidu.com/item/%E6%9D%A8%E6%A4%8D%E9%BA%9F/24462023",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：月之暗面",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2",
+    "type": "wiki"
+   },
+   {
+    "title": "腾讯云开发者社区：月之暗面、杨植麟创业历程",
+    "url": "https://developer.cloud.tencent.com/article/2707129",
+    "type": "news"
+   },
+   {
+    "title": "月之暗面获新一轮融资 腾讯、高榕创投入局",
+    "url": "https://www.jixin.tech/mobile/show.php?classid=1&id=4034",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "人工智能",
+   "大模型",
+   "月之暗面",
+   "Kimi",
+   "清华大学"
+  ],
+  "related_entities": [
+   {
+    "id": "tencent",
+    "name": "腾讯"
+   }
+  ]
+ },
+ {
+  "id": "li-jiaqi",
+  "name": "李佳琦",
+  "en_name": "Li Jiaqi",
+  "aliases": [
+   "口红一哥"
+  ],
+  "birth": "1992-06-07",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "淘宝直播头部带货主播",
+  "summary_30s": "欧莱雅专柜美容顾问出身的电商主播。2016年底签约美ONE进入淘宝直播，2018年创「30秒涂口红最多人数」吉尼斯世界纪录，获称「口红一哥」。2021年双十一预售首日直播间交易额破百亿元、观看约2.5亿人次，与薇娅并称淘宝两大当家主播。",
+  "timeline": [
+   {
+    "date": "2011-01-01",
+    "acc": "year",
+    "text": "考入南昌大学艺术与设计专业，后因工作原因提前离校。"
+   },
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "成为南昌的欧莱雅品牌专柜美容顾问（BA），以亲自试色等方式多次获得专柜销售冠军。"
+   },
+   {
+    "date": "2016-12-01",
+    "acc": "month",
+    "text": "在欧莱雅与美ONE合作的「BA网红化」淘宝直播比赛中获胜并签约，带2000元赴上海开始直播生涯。"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "淘内粉丝达数十万，获评当年淘宝直播盛典Top主播，受聘江苏师范大学淘宝写作与传媒课程讲师。"
+   },
+   {
+    "date": "2018-09-01",
+    "acc": "month",
+    "text": "成功挑战「30秒涂口红最多人数」吉尼斯世界纪录，获得「口红一哥」称号。"
+   },
+   {
+    "date": "2018-11-01",
+    "acc": "month",
+    "text": "双十一期间与马云直播比拼卖口红并获胜，12月起开通抖音、小红书、快手等平台账号。"
+   },
+   {
+    "date": "2019-06-01",
+    "acc": "month",
+    "text": "全网粉丝接近5000万，成为淘宝直播头部主播。"
+   },
+   {
+    "date": "2020-04-06",
+    "acc": "exact",
+    "text": "与央视主持人朱广权连线开展湖北产品公益带货直播，登上微博热搜。"
+   },
+   {
+    "date": "2021-10-20",
+    "acc": "exact",
+    "text": "双十一预售首日直播间上架439件商品，第三方统计交易额破百亿元，累计观看约2.5亿人次。"
+   },
+   {
+    "date": "2022-09-20",
+    "acc": "exact",
+    "text": "直播于6月初中断后停播三个多月，当晚在淘宝平台复播。"
+   },
+   {
+    "date": "2023-09-09",
+    "acc": "exact",
+    "text": "直播中就花西子眉笔价格质疑的回应言论引发争议，9月11日凌晨发微博道歉、当晚直播再次道歉，微博粉丝两天流失超百万。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "year",
+    "text": "参加芒果TV竞演真人秀《披荆斩棘（第四季）》。"
+   }
+  ],
+  "achievements": [
+   "2018年创「30秒涂口红最多人数」吉尼斯世界纪录",
+   "2021年双十一预售首日直播间交易额破百亿元，观看约2.5亿人次",
+   "截至2019年6月全网粉丝接近5000万，与薇娅并称淘宝两大当家主播",
+   "2020年落户上海崇明并享受国家级领军人才政策，同年任上海市青联委员"
+  ],
+  "controversies": [
+   "2023年9月，直播中回应网友对花西子眉笔价格的质疑时言论引发争议；本人9月11日凌晨发微博道歉，当晚直播中再次道歉。",
+   "2020年6月，其持股49%的上海妆佳电子商务有限公司因网店虚假宣传洗发水防脱功能被市场监管部门罚款1万元。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：李佳琦（网络红人）",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BD%B3%E7%90%A6_(%E7%BD%91%E7%BB%9C%E7%BA%A2%E4%BA%BA)",
+    "type": "wiki"
+   },
+   {
+    "title": "界面新闻：双11首日直播战绩出炉，李佳琦销售额破百亿",
+    "url": "https://m.jiemian.com/article/6726459.html",
+    "type": "news"
+   },
+   {
+    "title": "知乎：2021双十一预售李佳琦销售额破百亿",
+    "url": "https://www.zhihu.com/question/493599235",
+    "type": "news"
+   },
+   {
+    "title": "东方财富研报：2021双十一落幕，电商竞争显现新特点",
+    "url": "https://pdf.dfcfw.com/pdf/H3_AP202111151529213392_1.pdf",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "直播带货",
+   "电商",
+   "美妆",
+   "淘宝直播",
+   "创作者"
+  ],
+  "related_entities": [
+   {
+    "id": "kuaishou",
+    "name": "快手"
+   }
+  ]
+ },
+ {
+  "id": "faker",
+  "name": "Faker",
+  "en_name": "Lee Sang-hyeok",
+  "aliases": [
+   "李相赫",
+   "大魔王"
+  ],
+  "birth": "1996-05-07",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "game",
+  "region": "world",
+  "headline": "六夺英雄联盟世界冠军的中单",
+  "summary_30s": "本名李相赫，韩国《英雄联盟》职业选手，T1战队中单。2013年17岁首夺世界冠军，此后六次登顶全球总决赛并实现三连冠，另获两次MSI冠军与两枚亚运会金牌。",
+  "timeline": [
+   {
+    "date": "2013-01-01",
+    "acc": "year",
+    "text": "加入SK Telecom T1二队并完成职业首秀，时年16岁。"
+   },
+   {
+    "date": "2013-10-04",
+    "acc": "exact",
+    "text": "S3全球总决赛决赛率队3:0击败皇族，17岁首夺世界冠军并当选决赛MVP。"
+   },
+   {
+    "date": "2015-10-31",
+    "acc": "exact",
+    "text": "S5全球总决赛决赛3:1击败KOO Tigers，时隔两年再夺世界冠军。"
+   },
+   {
+    "date": "2016-05-15",
+    "acc": "exact",
+    "text": "在上海季中冠军赛（MSI）决赛率队夺冠，首次拿下该赛事冠军。"
+   },
+   {
+    "date": "2016-10-29",
+    "acc": "exact",
+    "text": "S6全球总决赛决赛3:2击败三星Galaxy，实现世界赛两连冠，个人第三冠。"
+   },
+   {
+    "date": "2017-11-04",
+    "acc": "exact",
+    "text": "S7决赛在北京国家体育场（鸟巢）0:3不敌三星Galaxy获亚军；同年实现MSI两连冠。"
+   },
+   {
+    "date": "2018-08-29",
+    "acc": "exact",
+    "text": "雅加达亚运会英雄联盟表演赛随韩国队决赛击败中国队夺金。"
+   },
+   {
+    "date": "2022-11-01",
+    "acc": "month",
+    "text": "S12全球总决赛决赛0:3不敌DRX，收获个人职业生涯第二个世界赛亚军。"
+   },
+   {
+    "date": "2023-09-01",
+    "acc": "month",
+    "text": "杭州亚运会英雄联盟正式项目随韩国队夺金，继2018年后再获亚运金牌。"
+   },
+   {
+    "date": "2023-11-19",
+    "acc": "exact",
+    "text": "S13全球总决赛决赛3:0击败WBG，时隔七年再夺世界冠军，个人第四冠。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "year",
+    "text": "成为拳头游戏电竞名人堂「Hall of Legends」首位入选选手。"
+   },
+   {
+    "date": "2024-11-02",
+    "acc": "exact",
+    "text": "S14全球总决赛决赛3:2击败BLG夺冠，本人当选决赛FMVP，个人第五冠。"
+   },
+   {
+    "date": "2025-11-09",
+    "acc": "exact",
+    "text": "S15全球总决赛决赛3:2击败KT Rolster，实现三连冠，成为电竞史上首位「六冠王」。"
+   }
+  ],
+  "achievements": [
+   "六次英雄联盟全球总决赛冠军（2013/2015/2016/2023/2024/2025），2023-2025实现三连冠",
+   "两次MSI季中冠军赛冠军（2016、2017）",
+   "两枚亚运会金牌：2018雅加达表演赛、2023杭州正式项目",
+   "十次LCK联赛冠军，LCK历史出场数与击杀总数纪录保持者",
+   "2024年成为拳头游戏「名人堂」（Hall of Legends）首位入选者",
+   "效力T1（原SKT）俱乐部13年，职业生涯未转会"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Faker (video game player)",
+    "url": "https://en.wikipedia.org/wiki/Faker_(video_game_player)",
+    "type": "wiki"
+   },
+   {
+    "title": "韩联社中文网：T1实现三连冠 Faker加冕六冠王",
+    "url": "https://cn.yna.co.kr/view/ACK20251109001800881",
+    "type": "news"
+   },
+   {
+    "title": "T1俱乐部官网",
+    "url": "https://t1.gg/",
+    "type": "official"
+   },
+   {
+    "title": "南方都市报：S15总决赛战报",
+    "url": "https://m.mp.oeeee.com/a/BAAFRD0000202511101471084.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "电竞",
+   "英雄联盟",
+   "LCK",
+   "T1",
+   "世界冠军"
+  ]
+ },
+ {
+  "id": "pan-tianhong",
+  "name": "潘天鸿",
+  "en_name": "Tim",
+  "aliases": [
+   "影视飓风",
+   "Tim",
+   "MediaStorm"
+  ],
+  "birth": "1996-05-16",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "影视飓风创始人、B站影像头部UP主",
+  "summary_30s": "英国肯特大学电影系毕业的影像创作者。2014年开设视频频道，2018年毕业后回杭州将「影视飓风」公司化运营，以影视工业化流程制作器材评测与技术科普。B站粉丝超1600万，2019至2025年连续入选百大UP主，2024年披露公司营收达亿级、利润千万级。",
+  "timeline": [
+   {
+    "date": "2014-01-01",
+    "acc": "year",
+    "text": "创建影像频道，先后在YouTube、优酷和B站发布第一个视频。"
+   },
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "赴英国求学，入读肯特大学电影系，2018年毕业。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "year",
+    "text": "毕业后回杭州，与盛嘉成、余志豪合伙创办杭州星奥传媒有限公司，「影视飓风」公司化运营。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "首次入选B站百大UP主，此后至2025年连续多年入选。"
+   },
+   {
+    "date": "2024-01-01",
+    "acc": "month",
+    "text": "获评B站2023年度百大UP主「最高人气奖」。"
+   },
+   {
+    "date": "2024-10-08",
+    "acc": "exact",
+    "text": "发布《清晰度不如4年前！视频变糊是你的错觉吗？》，指出平台通过降低码率、更换编码格式压缩画质以节省流量费用，视频次日全网下架。"
+   },
+   {
+    "date": "2024-10-24",
+    "acc": "exact",
+    "text": "在纪录片《扬声》访谈中说明下架相关情况，并披露公司营收达亿级规模、利润达千万级。"
+   },
+   {
+    "date": "2025-10-01",
+    "acc": "month",
+    "text": "推出售价49元的「飓风相机」硬件产品，引发广泛实测与讨论。"
+   },
+   {
+    "date": "2025-11-01",
+    "acc": "month",
+    "text": "B站粉丝数达1441万，频道视频总播放量14.5亿次。"
+   },
+   {
+    "date": "2026-09-01",
+    "acc": "month",
+    "text": "公开透露正在购买510万元一张的太空船票，此前曾表示人生终极目标是登陆火星。"
+   }
+  ],
+  "achievements": [
+   "B站粉丝超1600万，视频总播放量超14.5亿次",
+   "2019至2025年连续入选B站百大UP主，2024年1月获「最高人气奖」",
+   "将「影视飓风」发展为上百人规模的公司化影像团队，2024年披露营收达亿级、利润千万级",
+   "2024年《清晰度不如4年前》引发全网对视频码率与画质机制的讨论",
+   "2025年推出49元「飓风相机」硬件产品"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：影视飓风",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E",
+    "type": "wiki"
+   },
+   {
+    "title": "影视飓风官方网站",
+    "url": "https://www.ysjf.com",
+    "type": "official"
+   },
+   {
+    "title": "游民星空：影视飓风清晰度视频下架事件报道",
+    "url": "https://www.gamersky.com/tech/202410/1826615.shtml",
+    "type": "news"
+   },
+   {
+    "title": "腾讯新闻：影视飓风Tim透露购买510万太空船票",
+    "url": "https://view.inews.qq.com/a/20260918A05P4E00",
+    "type": "news"
+   },
+   {
+    "title": "新浪财经：影视飓风Tim表示正在下单太空船票",
+    "url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfyez0272971.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "B站",
+   "影视",
+   "MediaStorm",
+   "UP主",
+   "创作者"
+  ],
+  "related_entities": [
+   {
+    "id": "youtube",
+    "name": "YouTube"
+   }
+  ]
+ },
+ {
+  "id": "mrbeast",
+  "name": "MrBeast",
+  "en_name": "Jimmy Donaldson",
+  "aliases": [
+   "MrBeast6000"
+  ],
+  "birth": "1998-05-07",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "creator",
+  "region": "world",
+  "headline": "YouTube订阅数全球第一创作者",
+  "summary_30s": "以百万美元级成本制作大挑战视频的YouTube创作者。2024年6月订阅数超越T-Series登顶全站第一，2026年10月达5.23亿；真人秀Beast Games 25天获5000万观看，巧克力品牌Feastables与估值50亿美元的Beast Industries将流量转化为商业版图。",
+  "timeline": [
+   {
+    "date": "2012-02-01",
+    "acc": "month",
+    "text": "13岁时以「MrBeast6000」名义上传第一支YouTube视频。"
+   },
+   {
+    "date": "2017-01-09",
+    "acc": "exact",
+    "text": "发布《I Counted to 100,000!》，用约40小时从1数到10万，成为频道突破性作品。"
+   },
+   {
+    "date": "2019-10-25",
+    "acc": "exact",
+    "text": "与Mark Rober发起Team Trees植树募捐，当年12月19日提前达成2000万美元目标，累计资助植树超2400万棵。"
+   },
+   {
+    "date": "2020-12-01",
+    "acc": "month",
+    "text": "推出虚拟餐厅品牌MrBeast Burger，采用线上点单、合作餐厅出餐模式。"
+   },
+   {
+    "date": "2021-10-29",
+    "acc": "exact",
+    "text": "发起Team Seas海洋清理募捐，目标3000万美元，截至2025年6月筹款超3400万美元。"
+   },
+   {
+    "date": "2021-11-01",
+    "acc": "month",
+    "text": "上传《$456,000 Squid Game in Real Life!》，456名参赛者实景复刻鱿鱼游戏，一周内播放超1.3亿次。"
+   },
+   {
+    "date": "2022-01-01",
+    "acc": "month",
+    "text": "推出巧克力品牌Feastables，上市初期销售额约1000万美元。"
+   },
+   {
+    "date": "2024-06-02",
+    "acc": "exact",
+    "text": "频道订阅数超越T-Series，成为YouTube订阅数第一的频道，当时约2.67亿。"
+   },
+   {
+    "date": "2024-07-10",
+    "acc": "exact",
+    "text": "成为YouTube历史上首位订阅数突破3亿的创作者。"
+   },
+   {
+    "date": "2024-12-19",
+    "acc": "exact",
+    "text": "真人秀Beast Games在Prime Video首播，1000名参赛者争夺500万美元单人奖金，25天观看量达5000万，创亚马逊平台纪录。"
+   },
+   {
+    "date": "2025-06-01",
+    "acc": "exact",
+    "text": "订阅数突破4亿，仍为全球第一。"
+   },
+   {
+    "date": "2026-01-01",
+    "acc": "year",
+    "text": "旗下Beast Industries获2亿美元融资，估值达50亿美元。"
+   },
+   {
+    "date": "2026-06-12",
+    "acc": "exact",
+    "text": "订阅数突破5亿，为YouTube首位达成者。"
+   }
+  ],
+  "achievements": [
+   "YouTube订阅数全球第一，2026年10月达5.23亿、总播放超1430亿次",
+   "Team Trees、Team Seas募捐分别筹款超2000万与3400万美元",
+   "Beast Games 25天获5000万观看，创亚马逊真人秀纪录，单人奖金500万美元",
+   "Feastables上市初期销售额约1000万美元，Beast Industries估值50亿美元",
+   "Forbes两次评为年收入最高的YouTube创作者，2021年收入约5400万美元"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: MrBeast",
+    "url": "https://en.wikipedia.org/wiki/MrBeast",
+    "type": "wiki"
+   },
+   {
+    "title": "MrBeast官方YouTube频道",
+    "url": "https://www.youtube.com/@MrBeast",
+    "type": "official"
+   },
+   {
+    "title": "Team Trees官方页面",
+    "url": "https://teamtrees.org/",
+    "type": "official"
+   },
+   {
+    "title": "Beast Philanthropy官方网站",
+    "url": "https://www.beastphilanthropy.org/",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "YouTube",
+   "创作者",
+   "公益募捐",
+   "Feastables",
+   "真人秀"
+  ],
+  "related_entities": [
+   {
+    "id": "youtube",
+    "name": "YouTube"
+   },
+   {
+    "id": "amazon",
+    "name": "亚马逊"
+   }
+  ]
+ },
+ {
+  "id": "he-tongxue",
+  "name": "何同学",
+  "en_name": "He Tongxue",
+  "aliases": [
+   "老师好我叫何同学",
+   "何世杰"
+  ],
+  "birth": "1999-04-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "creator",
+  "region": "cn",
+  "headline": "B站科技区顶流UP主",
+  "summary_30s": "北京邮电大学毕业的科技视频创作者。2019年6月5G体验视频一夜播放超500万；2021年AirDesk视频发布次日带动合作方乐歌股份股价涨13.51%、市值增近5.9亿元，被称「何同学效应」。B站粉丝超1200万，三度入选百大UP主。",
+  "timeline": [
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "考入北京邮电大学与伦敦玛丽女王大学联合培养项目，就读电信工程及管理专业。"
+   },
+   {
+    "date": "2019-06-06",
+    "acc": "exact",
+    "text": "在校内实测5G网络发布《有多快？5G在日常使用中的真实体验》，一夜播放量超500万，成为现象级科技视频。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "month",
+    "text": "获B站2019年度最佳作品奖，并首次入选B站年度百大UP主。"
+   },
+   {
+    "date": "2020-08-01",
+    "acc": "month",
+    "text": "用iPad绘制篮球运动轨迹的创意视频获苹果公司官网专门报道。"
+   },
+   {
+    "date": "2021-02-01",
+    "acc": "month",
+    "text": "视频连线专访苹果CEO蒂姆·库克，话题涵盖创新理念与中国用户，全网引发热议。"
+   },
+   {
+    "date": "2021-07-01",
+    "acc": "month",
+    "text": "完成本科学业前成立杭州何同学文化传媒有限公司（后更名为杭州几盒数字文化创意有限公司）。"
+   },
+   {
+    "date": "2021-10-17",
+    "acc": "exact",
+    "text": "发布自制无线充电升降桌AirDesk视频，合作方乐歌股份次日股价上涨13.51%、市值增加近5.9亿元。"
+   },
+   {
+    "date": "2022-01-01",
+    "acc": "year",
+    "text": "公司将主要运营地从北京迁至上海，团队化制作视频。"
+   },
+   {
+    "date": "2024-11-01",
+    "acc": "month",
+    "text": "视频《我用36万行备忘录做了个动画》被指未注明所用开源代码来源，11月19日公开致歉并补充标注。"
+   },
+   {
+    "date": "2025-01-01",
+    "acc": "year",
+    "text": "在采访中自述公司经营压力，称当年可能亏损一两百万元。"
+   },
+   {
+    "date": "2025-11-01",
+    "acc": "month",
+    "text": "B站粉丝数达1227.9万，频道视频总播放量超6.8亿。"
+   }
+  ],
+  "achievements": [
+   "2019年5G体验视频一夜播放超500万，成为年度现象级科技视频",
+   "AirDesk视频带动乐歌股份次日股价上涨13.51%、市值增近5.9亿元",
+   "2019至2021年三度入选B站百大UP主，获2019年度最佳作品奖",
+   "2021年视频连线专访苹果CEO蒂姆·库克",
+   "B站粉丝超1200万，视频总播放量超6.8亿"
+  ],
+  "controversies": [
+   "2024年11月，视频被指未注明所用开源项目来源并删除署名；当事人11月19日公开致歉并补充标注。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：老师好我叫何同学",
+    "url": "https://zh.wikipedia.org/wiki/%E8%80%81%E5%B8%88%E5%A5%BD%E6%88%91%E5%8F%AB%E4%BD%95%E5%90%8C%E5%AD%A6",
+    "type": "wiki"
+   },
+   {
+    "title": "每日经济新闻：何同学一条视频带火上市公司大涨13%",
+    "url": "https://www.nbd.com.cn/rss/toutiao/articles/1951257.html",
+    "type": "news"
+   },
+   {
+    "title": "中国青年报：何同学专访苹果CEO库克",
+    "url": "https://m.cyol.com/gb/articles/2021-02/20/content_6AGWEHjxW.html",
+    "type": "news"
+   },
+   {
+    "title": "北京邮电大学新闻网：何同学5G视频相关报道",
+    "url": "https://news.bupt.edu.cn/ddh15/info/1005/1392.htm",
+    "type": "official"
+   },
+   {
+    "title": "新浪财经：何同学公司经营报道",
+    "url": "https://finance.sina.com.cn/wm/2025-08-24/doc-infnatsa3321898.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "B站",
+   "科技视频",
+   "数码测评",
+   "UP主",
+   "创作者"
+  ]
+ },
+ {
+  "id": "gu-ailing",
+  "name": "谷爱凌",
+  "en_name": "Eileen Gu",
+  "aliases": [
+   "青蛙公主"
+  ],
+  "birth": "2003-09-03",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "sport",
+  "region": "cn",
+  "headline": "北京冬奥会自由式滑雪两金得主",
+  "summary_30s": "自由式滑雪运动员。2022年北京冬奥会代表中国独揽大跳台、U型场地两枚金牌并获坡面障碍技巧银牌，为首位在单届冬奥会夺得三枚自由式滑雪奖牌的运动员；此前在2020年洛桑冬青奥会与2021年X Games各获两金；2020年获斯坦福大学录取，北京冬奥会后入学就读。",
+  "timeline": [
+   {
+    "date": "2019-06-01",
+    "acc": "month",
+    "text": "国际滑雪联合会将其注册运动国籍变更为中华人民共和国，开始代表中国参加国际赛事。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "year",
+    "text": "获斯坦福大学录取，后延至北京冬奥会结束后入学就读。"
+   },
+   {
+    "date": "2020-01-01",
+    "acc": "month",
+    "text": "洛桑冬季青年奥运会夺得自由式滑雪大跳台与U型场地两枚金牌。"
+   },
+   {
+    "date": "2021-01-01",
+    "acc": "month",
+    "text": "X Games阿斯彭站获超级U型场地与大跳台两枚金牌。"
+   },
+   {
+    "date": "2022-02-08",
+    "acc": "exact",
+    "text": "北京冬奥会自由式滑雪大跳台决赛第三跳94.50分为全场最高，总分188.25夺冠，时年18岁。"
+   },
+   {
+    "date": "2022-02-15",
+    "acc": "exact",
+    "text": "北京冬奥会自由式滑雪坡面障碍技巧决赛获得银牌。"
+   },
+   {
+    "date": "2022-02-18",
+    "acc": "exact",
+    "text": "北京冬奥会自由式滑雪U型场地技巧决赛夺冠，单届冬奥会收获2金1银。"
+   }
+  ],
+  "achievements": [
+   "2022年北京冬奥会获自由式滑雪大跳台、U型场地两金与坡面障碍技巧银牌",
+   "首位在单届冬奥会夺得三枚自由式滑雪奖牌的运动员",
+   "2020年洛桑冬青奥会夺得大跳台、U型场地两枚金牌",
+   "2021年X Games阿斯彭站获超级U型场地与大跳台两枚金牌",
+   "北京冬奥会大跳台夺冠时18岁，为该项目最年轻奥运冠军"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：谷爱凌",
+    "url": "https://zh.wikipedia.org/zh-hans/%E8%B0%B7%E7%88%B1%E5%87%8C",
+    "type": "wiki"
+   },
+   {
+    "title": "Olympics.com：谷爱凌（Eileen Gu）运动员资料",
+    "url": "https://www.olympics.com/zh/athletes/gu-ailing-eileen",
+    "type": "official"
+   },
+   {
+    "title": "百度百科：谷爱凌",
+    "url": "https://baike.baidu.com/item/%E8%B0%B7%E7%88%B1%E5%87%8C/22233526",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "自由式滑雪",
+   "冬奥会",
+   "极限运动",
+   "斯坦福",
+   "中国代表团"
+  ]
+ }
+]

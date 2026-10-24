@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="历史上的今天：这部精确到日的编年史里，每一个月日都攒下了什么——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<title>历史上的今天 · 互联网编年史</title>
+<link rel="canonical" href="https://toolsfox.cn/today/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="历史上的今天 — 互联网编年史">
+<meta property="og:description" content="这部精确到日的编年史里，每一个月日都攒下了一叠年份不同的记忆——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<meta property="og:url" content="https://toolsfox.cn/today/">
+<meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="../style.css?v=17">
+<script>
+(function () {
+  var t = localStorage.getItem('na-theme');
+  if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
+<style>
+.todayPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
+.tTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
+.tTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
+.tTop a:hover{color:var(--text)}
+.tHero{padding:30px 0 26px;border-bottom:1px solid var(--line)}
+.tHero h1{font-family:var(--serif);font-weight:700;font-size:clamp(2rem,5vw,3.2rem);margin:0 0 12px;color:var(--text)}
+.tHero h1 em{font-style:normal;color:var(--accent)}
+.tHero p{color:var(--dim);max-width:640px;margin:0;line-height:1.8}
+.tBar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
+.tBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
+.tBar .chip.on{border-color:var(--accent);color:var(--accent)}
+.tBar .rnd{margin-left:auto}
+.dayGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px;padding:22px 0}
+.dayCell{border:1px solid var(--line);border-radius:8px;padding:8px 4px 6px;text-align:center;cursor:pointer;background:var(--panel);transition:border-color .15s}
+.dayCell:hover{border-color:var(--accent)}
+.dayCell.on{border-color:var(--accent);background:var(--bg2)}
+.dayCell .dn{font-family:var(--mono);font-size:.86rem;color:var(--text)}
+.dayCell .dc{font-family:var(--mono);font-size:.62rem;color:var(--faint);margin-top:2px}
+.dayCell.c1 .dc{color:var(--dim)}
+.dayCell.c2 .dc{color:var(--accent)}
+.dayCell.c3 .dc{color:var(--accent);font-weight:700}
+.dayEmpty{opacity:.35;cursor:default}
+.dayHead{display:flex;align-items:baseline;gap:14px;padding:22px 0 6px;flex-wrap:wrap}
+.dayHead h2{font-family:var(--serif);font-size:1.5rem;color:var(--text);margin:0}
+.dayHead .cnt{font-family:var(--mono);font-size:.75rem;color:var(--faint)}
+.evList{padding:6px 0 20px}
+.evItem{border:1px solid var(--line);border-radius:10px;padding:14px 18px;margin-bottom:10px;background:var(--panel)}
+.evItem .row{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.evItem .yr{font-family:var(--mono);font-size:.78rem;color:var(--accent);white-space:nowrap}
+.evItem .ti{color:var(--text);font-size:.95rem;font-weight:600}
+.evItem .star{color:var(--accent);font-size:.8rem}
+.evItem .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:6px 0 0}
+.evItem .meta{margin-top:8px;font-family:var(--mono);font-size:.68rem;color:var(--faint)}
+</style>
+</head>
+<body>
+<div class="todayPage">
+  <div class="tTop"><a href="../">← 返回互联网编年史</a><span><a href="../entities/">世家志 →</a>&nbsp;&nbsp;<a href="../persons/">人物志 →</a></span></div>
+  <div class="tHero">
+    <h1>历史上的<em>今天</em></h1>
+    <p id="heroSub">这部编年史精确到日——于是每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上的那一天都发生过什么。</p>
+  </div>
+  <div class="tBar" id="monthBar"></div>
+  <div class="dayGrid" id="dayGrid"></div>
+  <div class="dayHead"><h2 id="dayTitle">—</h2><span class="cnt" id="dayCnt"></span><button class="chip" id="copyLink" style="margin-left:auto">🔗 复制链接</button></div>
+  <div class="evList" id="evList"></div>
+</div>
+
+<script>
+'use strict';
+const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+const $ = s => document.querySelector(s);
+let DATA = null, curMonth = null, curDay = null;
+
+async function fetchGz(url) {
+  if (typeof DecompressionStream !== 'undefined') {
+    try {
+      const r = await fetch(url + '.gz');
+      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+    } catch (e) { /* 回退 */ }
+  }
+  return await (await fetch(url)).json();
+}
+
+function pad(n) { return String(n).padStart(2, '0'); }
+
+function renderMonths() {
+  const bar = $('#monthBar');
+  bar.innerHTML = '';
+  for (let m = 1; m <= 12; m++) {
+    const b = document.createElement('button');
+    b.className = 'chip' + (curMonth === m ? ' on' : '');
+    let n = 0;
+    for (let d = 1; d <= 31; d++) n += (DATA.days[pad(m) + '-' + pad(d)] || []).length;
+    b.textContent = `${MONTHS[m - 1]} ${n}`;
+    b.onclick = () => { curMonth = m; const keep = curDay; renderMonths(); renderDays(); if (keep && String(keep).startsWith(pad(m) + '-')) selectDay(keep); };
+    bar.appendChild(b);
+  }
+  const r = document.createElement('button');
+  r.className = 'chip rnd';
+  r.textContent = '🎲 随机一天';
+  r.onclick = randomDay;
+  bar.appendChild(r);
+}
+
+function renderDays() {
+  const grid = $('#dayGrid');
+  grid.innerHTML = '';
+  const dim = new Date(2024, curMonth, 0).getDate();
+  const counts = [];
+  for (let d = 1; d <= dim; d++) {
+    const n = (DATA.days[pad(curMonth) + '-' + pad(d)] || []).length;
+    counts.push(n);
+  }
+  const max = Math.max(...counts, 1);
+  for (let d = 1; d <= dim; d++) {
+    const key = pad(curMonth) + '-' + pad(d);
+    const n = counts[d - 1];
+    const cell = document.createElement('div');
+    cell.className = 'dayCell' + (n === 0 ? ' dayEmpty' : n >= max * 0.66 ? ' c3' : n >= max * 0.33 ? ' c2' : ' c1') + (key === curDay ? ' on' : '');
+    cell.innerHTML = `<div class="dn">${d}日</div><div class="dc">${n ? n + ' 条' : '—'}</div>`;
+    if (n) cell.onclick = () => selectDay(key);
+    grid.appendChild(cell);
+  }
+}
+
+function selectDay(key) {
+  curDay = key;
+  history.replaceState(null, '', '?d=' + key);
+  const [m, d] = key.split('-').map(Number);
+  const evs = DATA.days[key] || [];
+  $('#dayTitle').textContent = `${m} 月 ${d} 日`;
+  const years = evs.map(e => e.date.slice(0, 4));
+  $('#dayCnt').textContent = evs.length ? `${evs.length} 条 · ${years[0]} — ${years[years.length - 1]}` : '无记录';
+  const list = $('#evList');
+  list.innerHTML = '';
+  for (const e of evs) {
+    const div = document.createElement('div');
+    div.className = 'evItem';
+    div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${e.title}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
+      ${e.summary ? `<p class="sm">${e.summary}${e.summary.length >= 110 ? '…' : ''}</p>` : ''}
+      <div class="meta">${e.layer}</div>`;
+    list.appendChild(div);
+  }
+  gridSync();
+}
+
+function gridSync() {
+  document.querySelectorAll('.dayCell').forEach(c => {
+    const dn = c.querySelector('.dn').textContent;
+    c.classList.toggle('on', curDay === pad(curMonth) + '-' + pad(parseInt(dn)));
+  });
+}
+
+function randomDay() {
+  const keys = Object.keys(DATA.days);
+  if (!keys.length) return;
+  const key = keys[Math.floor(Math.random() * keys.length)];
+  const m = parseInt(key.slice(0, 2));
+  if (m !== curMonth) { curMonth = m; renderMonths(); renderDays(); }
+  selectDay(key);
+  window.scrollTo({ top: $('.dayHead').offsetTop - 90, behavior: 'smooth' });
+}
+
+(async () => {
+  try {
+    DATA = await fetchGz('data.json');
+    const now = new Date();
+    curMonth = now.getMonth() + 1;
+    $('#heroSub').textContent = `${DATA.count} 条记录覆盖 ${Object.keys(DATA.days).length} 个日子（1972—2026，精确到日）——每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上那一天发生过什么。`;
+    renderMonths();
+    renderDays();
+    $('#copyLink').onclick = () => {
+      const done = () => {
+        $('#copyLink').textContent = '✓ 已复制';
+        setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1200);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(location.href).then(done).catch(() => {
+          $('#copyLink').textContent = '复制失败，请手动复制地址栏';
+          setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1600);
+        });
+      } else {
+        $('#copyLink').textContent = '请手动复制地址栏链接';
+        setTimeout(() => { $('#copyLink').textContent = '🔗 复制链接'; }, 1600);
+      }
+    };
+    const qd = new URLSearchParams(location.search).get('d');
+    if (qd && DATA.days[qd]) {
+      curMonth = parseInt(qd.slice(0, 2));
+      renderMonths();
+      renderDays();
+      selectDay(qd);
+    } else {
+      selectDay(pad(curMonth) + '-' + pad(now.getDate()));
+    }
+  } catch (e) {
+    $('#evList').innerHTML = `<div class="evItem">数据加载失败（${e.message}）</div>`;
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "zhou-hongyi",
+  "name": "周鸿祎",
+  "en_name": "Zhou Hongyi",
+  "aliases": [
+   "红衣教主",
+   "红衣大炮"
+  ],
+  "birth": "1970-10-04",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "360集团创始人",
+  "summary_30s": "360集团创始人。先后创办3721与奇虎360，以「免费安全」模式改写中国杀毒软件市场格局，用户以亿计；带领360走完纽交所上市、私有化退市、借壳回归A股的完整路径，2023年起转向人工智能，推出360智脑与纳米AI搜索。",
+  "timeline": [
+   {
+    "date": "1988-01-01",
+    "acc": "year",
+    "text": "考入西安交通大学电信学院计算机系，成绩优异获保送本校计算机专业硕士。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "研究生毕业后加入方正集团，从程序员做起，主持开发「方正飞扬」电子邮件软件。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "离开方正创办3721公司，推出「3721中文上网」服务，切入中文域名寻址市场。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "雅虎收购3721后出任雅虎中国区总裁，主政约一年后离职。"
+   },
+   {
+    "date": "2005-09-01",
+    "acc": "month",
+    "text": "创办奇虎360公司，任董事长，主营网络搜索与安全业务。"
+   },
+   {
+    "date": "2006-07-01",
+    "acc": "month",
+    "text": "推出360安全卫士，以免费模式进入安全市场，两年内装机量过亿。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "与腾讯爆发「3Q大战」，数亿用户经历「二选一」，成为中国互联网竞争的标志性事件。"
+   },
+   {
+    "date": "2011-03-30",
+    "acc": "exact",
+    "text": "奇虎360在纽交所挂牌（QIHU），IPO获40倍超额认购，成为中国首家在美上市的互联网安全公司。"
+   },
+   {
+    "date": "2016-07-01",
+    "acc": "month",
+    "text": "主导360完成私有化，从纽交所退市，交易总价约93亿美元。"
+   },
+   {
+    "date": "2018-02-28",
+    "acc": "exact",
+    "text": "360借壳江南嘉捷完成回归，公司更名后在上交所挂牌，代码601360。"
+   },
+   {
+    "date": "2023-03-01",
+    "acc": "month",
+    "text": "发布360智脑大模型宣布全面转向AI，2024年再推出独立App「纳米AI搜索」。"
+   }
+  ],
+  "achievements": [
+   "创办3721公司，推出中文上网服务，开创中文域名寻址模式",
+   "以360安全卫士免费模式终结收费杀毒时代，用户规模达数亿",
+   "带领360完成纽交所上市、私有化退市与借壳回归A股的完整资本路径",
+   "推动360全面转型AI，发布360智脑大模型与纳米AI搜索"
+  ],
+  "controversies": [
+   "2010年「3Q大战」后，腾讯诉360不正当竞争案经最高人民法院终审，判决360败诉并赔偿500万元。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：周鸿祎",
+    "url": "https://zh.wikipedia.org/wiki/%E5%91%A8%E9%B8%BF%E7%A5%8E",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：周鸿祎",
+    "url": "https://baike.baidu.com/item/%E5%91%A8%E9%B8%BF%E7%A5%8E/3486387",
+    "type": "baike"
+   },
+   {
+    "title": "360官网：公司大事记",
+    "url": "http://www.360.cn/about/history.html",
+    "type": "official"
+   },
+   {
+    "title": "界面新闻：360借壳江南嘉捷",
+    "url": "https://www.jiemian.com/article/2543816.html",
+    "type": "news"
+   },
+   {
+    "title": "钛媒体：360上线纳米AI搜索",
+    "url": "https://www.tmtpost.com/7355577.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "360",
+   "互联网安全",
+   "互联网",
+   "人工智能"
+  ],
+  "related_entities": [
+   {
+    "id": "yahoo",
+    "name": "雅虎"
+   },
+   {
+    "id": "tencent",
+    "name": "腾讯"
+   }
+  ]
+ },
+ {
+  "id": "elon-musk",
+  "name": "埃隆·马斯克",
+  "en_name": "Elon Musk",
+  "aliases": [
+   "马一龙"
+  ],
+  "birth": "1971-06-28",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "company",
+  "region": "world",
+  "headline": "SpaceX与特斯拉掌门人",
+  "summary_30s": "连续创业者：创办Zip2并以约3亿美元卖给康柏，创办X.com并合创PayPal，2002年PayPal以15亿美元出售给eBay；同年创办SpaceX，2004年投资特斯拉并逐步执掌，2022年以440亿美元收购推特，次年将其改名X。",
+  "timeline": [
+   {
+    "date": "1989-01-01",
+    "acc": "year",
+    "text": "17岁离开南非移居加拿大，后入读美国宾夕法尼亚大学，获物理学与经济学学位。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "与弟弟创办Zip2，为媒体开发在线城市指南软件；1999年公司以约3亿美元出售给康柏。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "创办在线金融服务公司X.com，2000年与Confinity合并组成支付公司PayPal。"
+   },
+   {
+    "date": "2002-01-01",
+    "acc": "year",
+    "text": "eBay以15亿美元收购PayPal；同年创办太空探索技术公司SpaceX。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "领投特斯拉A轮融资并出任董事长，2008年公司危机中接任CEO。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "SpaceX猎鹰1号第四次试射成功入轨，成为首枚进入轨道的私营研发液体燃料火箭。"
+   },
+   {
+    "date": "2012-05-01",
+    "acc": "month",
+    "text": "SpaceX货运龙飞船与国际空间站对接，成为首艘完成该任务的商业航天器。"
+   },
+   {
+    "date": "2012-06-01",
+    "acc": "month",
+    "text": "特斯拉首款豪华电动轿车Model S开始交付，公司进入规模化量产阶段。"
+   },
+   {
+    "date": "2015-12-21",
+    "acc": "exact",
+    "text": "猎鹰9号一级火箭在发射卫星后于陆上回收成功，开创轨道级火箭回收复用先例。"
+   },
+   {
+    "date": "2020-05-30",
+    "acc": "exact",
+    "text": "载人龙飞船送两名NASA宇航员前往空间站，为首次由商业飞船执行的载人入轨任务。"
+   },
+   {
+    "date": "2022-10-27",
+    "acc": "exact",
+    "text": "以440亿美元完成对推特的收购，随即解雇CEO等高管层。"
+   },
+   {
+    "date": "2023-04-01",
+    "acc": "month",
+    "text": "星舰首次入轨级综合试飞，升空后解体；其入轨推力为当时全球最大。"
+   },
+   {
+    "date": "2023-07-01",
+    "acc": "month",
+    "text": "推特品牌退役，平台正式更名为X。"
+   }
+  ],
+  "achievements": [
+   "创办SpaceX，实现猎鹰9号一级火箭回收复用，2020年率先以商业飞船完成载人入轨",
+   "执掌特斯拉，公司发展为全球市值最高的汽车公司之一",
+   "2002年PayPal以15亿美元出售给eBay，为其后续创业提供资本",
+   "主导星舰研发，实现入轨级试飞，成为史上推力最大的火箭",
+   "2022年以440亿美元收购推特，2023年更名为X"
+  ],
+  "controversies": [
+   "2022年11月完成推特收购后启动大规模裁员，约3700人离岗，占员工总数约半数。",
+   "收购后IBM、通用汽车等多家广告主暂停或缩减投放，平台广告收入明显下滑。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：埃隆·马斯克",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Elon Musk",
+    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "type": "wiki"
+   },
+   {
+    "title": "IGN: Elon Musk completes takeover of Twitter, fires CEO and other top executives",
+    "url": "https://www.ign.com/articles/elon-musk-completes-takeover-of-twitter-fires-ceo-and-other-top-executives",
+    "type": "news"
+   },
+   {
+    "title": "SpaceX官网：Mission",
+    "url": "https://www.spacex.com/mission",
+    "type": "official"
+   },
+   {
+    "title": "Spaceflight Now: SpaceX first crewed mission launches from pad 39A",
+    "url": "https://spaceflightnow.com/2020/06/10/photos-spacexs-first-crewed-mission-launches-from-pad-39a",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "SpaceX",
+   "特斯拉",
+   "X平台",
+   "商业航天",
+   "电动车"
+  ],
+  "related_entities": [
+   {
+    "id": "twitter",
+    "name": "推特"
+   }
+  ]
+ },
+ {
+  "id": "marc-andreessen",
+  "name": "马克·安德森",
+  "en_name": "Marc Andreessen",
+  "aliases": [],
+  "birth": "1971-07-09",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "网景浏览器缔造者、a16z创始人",
+  "summary_30s": "1993年在NCSA开发Mosaic图形浏览器，次年创办网景推出Navigator，曾占浏览器市场约八成；1995年网景上市引爆.com热潮，2009年联合创办a16z。",
+  "timeline": [
+   {
+    "date": "1993-01-01",
+    "acc": "year",
+    "text": "在伊利诺伊大学国家超级计算应用中心（NCSA）与Eric Bina开发出Mosaic，首个在网页内直接显示图片并跨Windows、Mac、Unix普及的图形浏览器。"
+   },
+   {
+    "date": "1994-04-01",
+    "acc": "month",
+    "text": "与硅图（SGI）创始人Jim Clark在加州创办Mosaic Communications公司，后更名为网景通信（Netscape）。"
+   },
+   {
+    "date": "1994-10-01",
+    "acc": "month",
+    "text": "网景发布浏览器0.9版（后定名Netscape Navigator），数月内成为最流行的Web浏览器。"
+   },
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "Navigator占据浏览器市场约八成份额，微软随后在Windows中捆绑Internet Explorer发起竞争。"
+   },
+   {
+    "date": "1995-08-09",
+    "acc": "exact",
+    "text": "网景IPO：发行价28美元，首日开盘71美元、收盘58.25美元，公司市值接近30亿美元，被视为互联网泡沫的起点。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "网景在与微软的浏览器大战中份额急跌，宣布开放浏览器源代码，成为Mozilla项目的起点。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "AOL以约42亿美元股票收购网景，安德森短暂出任AOL首席技术官，同年离职。"
+   },
+   {
+    "date": "1999-09-01",
+    "acc": "month",
+    "text": "与Ben Horowitz联合创办云计算公司Loudcloud，2001年上市后转型为软件公司Opsware。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "Opsware以约16亿美元现金出售给惠普。"
+   },
+   {
+    "date": "2009-07-01",
+    "acc": "month",
+    "text": "与Ben Horowitz联合创办风险投资公司Andreessen Horowitz（a16z），首期基金3亿美元。"
+   },
+   {
+    "date": "2011-08-01",
+    "acc": "month",
+    "text": "在《华尔街日报》发表评论《软件正在吞噬世界》，成为此后十年科技行业的主导叙事。"
+   },
+   {
+    "date": "2023-01-01",
+    "acc": "year",
+    "text": "a16z管理资产规模约350亿美元，先后投资Facebook、Airbnb、Coinbase等公司。"
+   }
+  ],
+  "achievements": [
+   "1993年主导开发图形浏览器Mosaic，让Web面向普通用户普及",
+   "1994年联合创办网景，Navigator在1995年占浏览器市场约八成份额",
+   "主导1995年8月9日网景IPO，上市首日股价大涨、市值近30亿美元",
+   "1999年网景以约42亿美元并入AOL；创办的Opsware后以16亿美元售予惠普",
+   "2009年与Ben Horowitz联合创办风投a16z，2023年管理资产约350亿美元"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Marc Andreessen",
+    "url": "https://en.wikipedia.org/wiki/Marc_Andreessen",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：马克·安德森",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89%E5%BE%B7%E6%A3%AE",
+    "type": "wiki"
+   },
+   {
+    "title": "Funding Universe: History of Netscape Communications",
+    "url": "https://www.fundinguniverse.com/company-histories/netscape-communications-corporation-history",
+    "type": "media"
+   },
+   {
+    "title": "W3.org存档：1994年Mosaic Netscape发布通告",
+    "url": "https://www.w3.org/Style/History/www.eit.com/www.lists/www-talk.1994q4/0187.html",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "网景",
+   "浏览器",
+   "互联网",
+   "风险投资",
+   "Mosaic"
+  ],
+  "related_entities": [
+   {
+    "id": "netscape",
+    "name": "网景"
+   },
+   {
+    "id": "aol",
+    "name": "美国在线"
+   },
+   {
+    "id": "facebook",
+    "name": "脸书"
+   }
+  ]
+ },
+ {
+  "id": "ding-lei",
+  "name": "丁磊",
+  "en_name": "Ding Lei",
+  "aliases": [],
+  "birth": "1971-10-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "网易创始人",
+  "summary_30s": "网易公司创始人兼CEO，1997年创办网易并率先做免费邮箱与门户，2001年在互联网寒冬中押注网络游戏绝处逢生，此后以《梦幻西游》系列、网易云音乐、有道等产品构建起最会赚钱的内容矩阵。",
+  "timeline": [
+   {
+    "date": "1993-06-01",
+    "acc": "month",
+    "text": "从电子科技大学通信专业毕业，回到家乡进入宁波电信局工作，两年后辞职南下。"
+   },
+   {
+    "date": "1997-06-01",
+    "acc": "month",
+    "text": "在广州创立网易公司，推出163.com免费电子邮箱，用户量迅速做至国内第一。"
+   },
+   {
+    "date": "2000-06-30",
+    "acc": "exact",
+    "text": "网易在纳斯达克上市，上市即遭遇互联网泡沫破裂，股价一度跌破一美元。"
+   },
+   {
+    "date": "2001-12-01",
+    "acc": "month",
+    "text": "推出网络游戏《大话西游Online》，网易靠游戏业务在寒冬中率先复苏。"
+   },
+   {
+    "date": "2003-10-01",
+    "acc": "month",
+    "text": "凭借游戏与短信业务爆发，32岁的丁磊成为当年福布斯中国首富。"
+   },
+   {
+    "date": "2004-11-01",
+    "acc": "month",
+    "text": "《梦幻西游Online》上线，长期占据国内回合制网游头把交椅，最高同时在线270万。"
+   },
+   {
+    "date": "2013-04-23",
+    "acc": "exact",
+    "text": "网易云音乐上线，以歌单与社区评论文化在音乐流媒体市场占得一席。"
+   },
+   {
+    "date": "2016-06-01",
+    "acc": "month",
+    "text": "网易严选上线，开创ODM原创制造电商模式，成为消费升级期的代表性产品。"
+   }
+  ],
+  "achievements": [
+   "创办网易，163邮箱长期居国内邮箱市场第一",
+   "带领网易转型游戏并成为全球头部手游厂商，《梦幻西游》系列长青二十年",
+   "相继孵化网易云音乐、有道、严选等业务，构建多元内容矩阵"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：丁磊",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A3%8A",
+    "type": "wiki"
+   },
+   {
+    "title": "网易官网：公司简介",
+    "url": "https://www.163.com/",
+    "type": "official"
+   },
+   {
+    "title": "南方周末：网易游戏转型报道",
+    "url": "https://www.infzm.com/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "网易",
+   "游戏",
+   "广州",
+   "邮箱",
+   "网易云音乐"
+  ],
+  "related_entities": [
+   {
+    "id": "netease",
+    "name": "网易"
+   }
+  ]
+ },
+ {
+  "id": "meng-fei",
+  "name": "孟非",
+  "en_name": "Meng Fei",
+  "aliases": [],
+  "birth": "1971-10-12",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "江苏卫视《非诚勿扰》主持人",
+  "summary_30s": "江苏卫视主持人。1991年进入江苏广播电视报印刷厂当印刷工并经历工伤，后毕业于南京师范大学中文系，转入电视台从摄像、记者做起；2002年起主持民生新闻《南京零距离》，2010年起主持《非诚勿扰》；2011年出版自传《随遇而安》，2014年创办面馆品牌「孟非的小面」。",
+  "timeline": [
+   {
+    "date": "1971-10-12",
+    "acc": "exact",
+    "text": "生于重庆，籍贯江苏扬州，12岁左右随家人迁居南京。"
+   },
+   {
+    "date": "1991-01-01",
+    "acc": "year",
+    "text": "进入江苏广播电视报印刷厂当印刷工，同年经历左手卷入机器的工伤事故。"
+   },
+   {
+    "date": "2002-01-01",
+    "acc": "exact",
+    "text": "江苏城市频道民生新闻节目《南京零距离》开播，他出任主持人并由此成名。"
+   },
+   {
+    "date": "2010-01-15",
+    "acc": "exact",
+    "text": "江苏卫视婚恋交友节目《非诚勿扰》开播，由24位女嘉宾以亮灯灭灯方式决定男嘉宾去留，他担任主持人。"
+   },
+   {
+    "date": "2011-01-01",
+    "acc": "year",
+    "text": "出版个人自传《随遇而安》，记述从印刷工人到主持人的经历。"
+   },
+   {
+    "date": "2014-01-01",
+    "acc": "year",
+    "text": "在南京创办餐饮品牌「孟非的小面」，门店此后扩展至数十家。"
+   },
+   {
+    "date": "2022-01-01",
+    "acc": "year",
+    "text": "获中国播音主持「金声奖」，该奖项为广播电视行业主持人奖项。"
+   }
+  ],
+  "achievements": [
+   "1991年从印刷工人起步，后自学进入电视台，从摄像、记者做起",
+   "2002年1月1日起主持民生新闻《南京零距离》",
+   "2010年起主持《非诚勿扰》，节目采用24位女嘉宾亮灯灭灯规则",
+   "2011年出版自传《随遇而安》",
+   "2014年创办餐饮品牌「孟非的小面」",
+   "2022年获中国播音主持「金声奖」"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：孟非",
+    "url": "https://zh.wikipedia.org/wiki/%E5%AD%9F%E9%9D%9E",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：孟非",
+    "url": "https://baike.baidu.com/item/%E5%AD%9F%E9%9D%9E/9143963",
+    "type": "baike"
+   },
+   {
+    "title": "人民日报：《孟非——「随遇而安」的那些年》",
+    "url": "https://paper.people.com.cn/rmwz/html/2012-04/01/content_1034224.htm",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "江苏卫视",
+   "非诚勿扰",
+   "民生新闻",
+   "媒体"
+  ]
+ },
+ {
+  "id": "ma-huateng",
+  "name": "马化腾",
+  "en_name": "Pony Ma",
+  "aliases": [
+   "Pony"
+  ],
+  "birth": "1971-10-29",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "腾讯创始人",
+  "summary_30s": "腾讯创始人兼董事会主席，1998年与四位同窗在深圳创立腾讯，从模仿ICQ的OICQ起步，将其发展为覆盖十余亿用户的微信与QQ双社交平台，并构建了全球营收规模领先的游戏与投资业务版图。",
+  "timeline": [
+   {
+    "date": "1993-06-01",
+    "acc": "month",
+    "text": "从深圳大学计算机专业毕业，进入深圳润迅通信发展有限公司担任软件工程师，负责寻呼系统开发。"
+   },
+   {
+    "date": "1998-11-11",
+    "acc": "exact",
+    "text": "与张志东、曾李青、许晨晔、陈一丹四位同学在深圳创立腾讯，推出网络寻呼业务。"
+   },
+   {
+    "date": "1999-02-10",
+    "acc": "exact",
+    "text": "腾讯推出即时通讯工具OICQ（后更名QQ），用户数在数年内增长至亿级，成为国内最大的即时通讯网络。"
+   },
+   {
+    "date": "2001-06-01",
+    "acc": "month",
+    "text": "在互联网泡沫破裂与融资困境中，通过移动梦网短信分成与Q币体系实现盈利，腾讯成为中国最早盈利的互联网公司之一。"
+   },
+   {
+    "date": "2004-06-16",
+    "acc": "exact",
+    "text": "腾讯在香港联合交易所主板上市，市值62亿港元，此后十余年市值增长数百倍。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "腾讯游戏营收超越盛大登顶国内第一，此后长期保持全球营收最高游戏公司的位置。"
+   },
+   {
+    "date": "2011-01-21",
+    "acc": "exact",
+    "text": "微信上线。张小龙团队研发的这款产品在14个月内用户破亿，帮助腾讯拿到移动互联网时代最重要的船票。"
+   },
+   {
+    "date": "2013-08-05",
+    "acc": "exact",
+    "text": "微信支付随微信5.0上线，此后与支付宝形成双寡头格局，重塑中国移动支付市场。"
+   },
+   {
+    "date": "2018-01-01",
+    "acc": "year",
+    "text": "腾讯投资版图覆盖拼多多、美团、京东等数百家公司，成为全球最大科技投资方之一，投资组合价值以千亿美元计。"
+   }
+  ],
+  "achievements": [
+   "创立腾讯，QQ与微信两大平台合计覆盖超过13亿月活跃用户",
+   "带领腾讯成为全球营收最高的游戏公司，收购Supercell、Riot Games等头部厂商",
+   "主导微信生态成型，移动支付分部交易规模居中国市场前二",
+   "构建中国互联网最大投资版图之一，被投上市公司数十家"
+  ],
+  "controversies": [],
+  "quotes": [
+   "连接一切"
+  ],
+  "sources": [
+   {
+    "title": "维基百科：马化腾",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%8C%96%E8%85%BE",
+    "type": "wiki"
+   },
+   {
+    "title": "腾讯官网：公司历程",
+    "url": "https://www.tencent.com/zh-cn/about.html",
+    "type": "official"
+   },
+   {
+    "title": "新浪财经：腾讯上市与增长报道",
+    "url": "https://finance.sina.com.cn/tech/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "微信",
+   "互联网",
+   "深圳",
+   "游戏"
+  ],
+  "related_entities": [
+   {
+    "id": "icq",
+    "name": "ICQ"
+   },
+   {
+    "id": "tencent",
+    "name": "腾讯"
+   },
+   {
+    "id": "jd",
+    "name": "京东"
+   },
+   {
+    "id": "meituan",
+    "name": "美团"
+   }
+  ]
+ },
+ {
+  "id": "zhuang-xiaowei",
+  "name": "庄小威",
+  "en_name": "Xiaowei Zhuang",
+  "aliases": [],
+  "birth": "1972-01-01",
+  "birth_accuracy": "month",
+  "death": null,
+  "field": "science",
+  "region": "world",
+  "headline": "STORM超分辨成像技术发明人",
+  "summary_30s": "哈佛大学教授，美国国家科学院院士、中国科学院外籍院士。发明STORM超分辨荧光显微技术，将光学显微镜分辨率推进至约20纳米，31岁获麦克阿瑟「天才奖」，后获科学突破奖。",
+  "timeline": [
+   {
+    "date": "1987-01-01",
+    "acc": "year",
+    "text": "15岁考入中国科学技术大学少年班。"
+   },
+   {
+    "date": "1991-01-01",
+    "acc": "year",
+    "text": "赴美进入加州大学伯克利分校，师从物理学家沈元壤攻读博士学位。"
+   },
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "获加州大学伯克利分校物理学博士学位，时年24岁。"
+   },
+   {
+    "date": "1997-01-01",
+    "acc": "year",
+    "text": "进入斯坦福大学朱棣文实验室从事博士后研究，朱棣文为同年诺贝尔物理学奖得主。"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "受聘哈佛大学，任化学与化学生物学系及物理学系助理教授。"
+   },
+   {
+    "date": "2003-01-01",
+    "acc": "year",
+    "text": "31岁获美国麦克阿瑟基金会「天才奖」，为当年最年轻获奖者之一，也是首位获此奖的华人女性科学家。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "成为霍华德·休斯医学研究所（HHMI）研究员。"
+   },
+   {
+    "date": "2006-08-01",
+    "acc": "month",
+    "text": "提出STORM随机光学重建显微技术，论文发表于《自然·方法学》，将光学显微镜分辨率提升至约20纳米。"
+   },
+   {
+    "date": "2012-01-01",
+    "acc": "year",
+    "text": "当选美国国家科学院院士，时年40岁。"
+   },
+   {
+    "date": "2015-01-01",
+    "acc": "year",
+    "text": "团队在《科学》发表MERFISH技术，可对单细胞内数千种RNA分子进行空间定位成像。"
+   },
+   {
+    "date": "2018-10-01",
+    "acc": "month",
+    "text": "获2019年度科学突破奖生命科学奖，奖金300万美元，表彰其在超高分辨率成像领域的贡献。"
+   }
+  ],
+  "achievements": [
+   "发明STORM超分辨显微技术，将光学显微镜分辨率推进至约20纳米",
+   "开创MERFISH单细胞空间转录组成像技术，可同时定位数千种RNA",
+   "31岁获麦克阿瑟「天才奖」，为首位获此奖的华人女性科学家",
+   "获2019年度科学突破奖生命科学奖（奖金300万美元）",
+   "美国国家科学院、艺术与科学院、医学科学院三院院士"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "百度百科：庄小威",
+    "url": "https://baike.baidu.com/item/%E5%BA%84%E5%B0%8F%E5%A8%81/770747",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：庄小威",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BA%84%E5%B0%8F%E5%A8%81",
+    "type": "wiki"
+   },
+   {
+    "title": "哈佛大学庄小威实验室官网",
+    "url": "https://zhuang.harvard.edu/",
+    "type": "official"
+   },
+   {
+    "title": "麦克阿瑟基金会2003年度获奖者名单",
+    "url": "https://www.macfound.org/fellows/class-of-2003",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "生物物理",
+   "超分辨成像",
+   "哈佛大学",
+   "科学家",
+   "STORM"
+  ]
+ },
+ {
+  "id": "luo-yonghao",
+  "name": "罗永浩",
+  "aliases": [
+   "老罗"
+  ],
+  "birth": "1972-07-09",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "锤子科技创始人",
+  "summary_30s": "新东方出身的连续创业者：先后创办牛博网、老罗英语培训与锤子科技，锤子危机后背负约6亿元债务，靠「交个朋友」直播带货还债，2024年公开累计还款8.24亿元，其后转向AR领域创业。",
+  "timeline": [
+   {
+    "date": "1989-01-01",
+    "acc": "year",
+    "text": "17岁高二从延边第二中学退学，此后摆地摊、开羊肉串店、倒卖药材等谋生。"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "经多轮试讲入职北京新东方任教，课堂录音「老罗语录」在网络上广泛流传。"
+   },
+   {
+    "date": "2006-01-01",
+    "acc": "year",
+    "text": "从新东方离职，创办博客社区牛博网。"
+   },
+   {
+    "date": "2008-01-01",
+    "acc": "year",
+    "text": "创办老罗英语培训学校，进入成人英语培训市场。"
+   },
+   {
+    "date": "2012-05-01",
+    "acc": "month",
+    "text": "创立锤子科技，进入智能手机行业。"
+   },
+   {
+    "date": "2014-05-01",
+    "acc": "month",
+    "text": "发布首款手机Smartisan T1。"
+   },
+   {
+    "date": "2015-03-01",
+    "acc": "month",
+    "text": "Smartisan T1获iF国际设计金奖，为中国智能手机产品首次获得该奖项。"
+   },
+   {
+    "date": "2019-01-01",
+    "acc": "year",
+    "text": "锤子科技陷入经营危机，其公开承认背负以个人名义担保的约6亿元债务，曾被法院采取限制消费措施。"
+   },
+   {
+    "date": "2020-04-01",
+    "acc": "exact",
+    "text": "在抖音「交个朋友」直播间开启首场直播带货，观看超4800万人次、支付金额超1.1亿元。"
+   },
+   {
+    "date": "2022-06-01",
+    "acc": "month",
+    "text": "宣布退出社交平台再次创业，创办细红线科技（Thin Red Line）专注AR领域。"
+   },
+   {
+    "date": "2022-11-01",
+    "acc": "month",
+    "text": "细红线科技完成约5000万美元天使轮融资，美团龙珠领投。"
+   },
+   {
+    "date": "2024-08-01",
+    "acc": "month",
+    "text": "公开发文说明还债进展，称「真还传」累计已偿还8.24亿元，超出此前公布的约6亿元债务。"
+   }
+  ],
+  "achievements": [
+   "先后创办博客社区牛博网与老罗英语培训学校",
+   "创立锤子科技，Smartisan T1获iF国际设计金奖（中国智能手机首次）",
+   "以「交个朋友」直播带货偿还锤子相关债务，2024年公开累计还款8.24亿元",
+   "创办AR公司细红线科技，完成约5000万美元天使轮融资"
+  ],
+  "controversies": [
+   "2018年底锤子科技陷入经营危机，罗永浩公开承认背负以个人名义担保的约6亿元债务，曾被法院采取限制消费措施。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "百度百科：罗永浩",
+    "url": "https://baike.baidu.com/item/%E7%BD%97%E6%B0%B8%E6%B5%A9/26814",
+    "type": "baike"
+   },
+   {
+    "title": "维基百科：罗永浩",
+    "url": "https://zh.wikipedia.org/zh-hans/%E7%BD%97%E6%B0%B8%E6%B5%A9",
+    "type": "wiki"
+   },
+   {
+    "title": "界面新闻：罗永浩还债四亿如何做到",
+    "url": "https://www.jiemian.com/article/5035972.html",
+    "type": "news"
+   },
+   {
+    "title": "证券时报网：罗永浩谈「真还传」已还8.24亿",
+    "url": "https://www.stcn.com/article/detail/1314477.html",
+    "type": "news"
+   },
+   {
+    "title": "百度百科：Thin Red Line（细红线）",
+    "url": "https://baike.baidu.com/item/Thin%20Red%20Line/61715381",
+    "type": "baike"
+   }
+  ],
+  "tags": [
+   "锤子科技",
+   "直播电商",
+   "牛博网",
+   "AR",
+   "创业者"
+  ],
+  "related_entities": [
+   {
+    "id": "meituan",
+    "name": "美团"
+   }
+  ]
+ },
+ {
+  "id": "zhang-lei",
+  "name": "张磊",
+  "en_name": "Zhang Lei",
+  "aliases": [],
+  "birth": "1972-12-12",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "finance",
+  "region": "cn",
+  "headline": "高瓴资本创始人",
+  "summary_30s": "高瓴资本创始人。2005年6月获耶鲁大学捐赠基金2000万美元种子资金创立高瓴，首笔大额买入腾讯股票并长期持有，媒体报道获利约200倍；2010年投资京东约3亿美元，2019年以416.62亿元受让格力电器15%股权，成为其第一大股东。",
+  "timeline": [
+   {
+    "date": "1990-01-01",
+    "acc": "year",
+    "text": "从驻马店高级中学毕业，以河南省文科状元成绩考入中国人民大学财政金融系。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "赴美国耶鲁大学求学，2002年获MBA和国际关系硕士学位，曾在耶鲁捐赠基金办公室实习。"
+   },
+   {
+    "date": "2005-06-01",
+    "acc": "exact",
+    "text": "获耶鲁捐赠基金2000万美元种子资金，创立高瓴资本集团并出任CEO，首笔大额买入腾讯股票。"
+   },
+   {
+    "date": "2010-01-01",
+    "acc": "year",
+    "text": "京东融资受阻之际领投约3亿美元，助其扩建物流体系，后促成京东与腾讯战略合作。"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "向母校中国人民大学捐赠3亿元；此前2010年已向耶鲁管理学院捐赠888万美元。"
+   },
+   {
+    "date": "2019-10-28",
+    "acc": "exact",
+    "text": "高瓴旗下珠海明骏以46.17元/股、总价416.62亿元受让格力电器15%股权，次年初完成过户。"
+   },
+   {
+    "date": "2020-09-01",
+    "acc": "month",
+    "text": "出版投资札记《价值》，阐述长期持有优秀企业的投资方法。"
+   }
+  ],
+  "achievements": [
+   "2005年6月获耶鲁捐赠基金2000万美元种子资金，创立高瓴资本",
+   "首笔重仓腾讯并长期持有，媒体报道获利约200倍",
+   "2010年领投京东约3亿美元融资，助其完善物流体系并促成京东与腾讯合作",
+   "2019年主导以416.62亿元受让格力电器15%股权，为中国资本市场规模领先的私募股权交易",
+   "2020年出版投资札记《价值》"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：张磊（1972年）",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%A3%8A_(1972%E5%B9%B4)",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：高瓴资本集团",
+    "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E7%93%B4%E8%B5%84%E6%9C%AC%E9%9B%86%E5%9B%A2",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：张磊（高瓴集团创始人）",
+    "url": "https://baike.baidu.com/item/%E5%BC%A0%E7%A3%8A/8864724",
+    "type": "baike"
+   },
+   {
+    "title": "新京报：高瓴格力416亿联姻后续报道",
+    "url": "https://m.bjnews.com.cn/detail/1781082849129148.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "高瓴",
+   "投资",
+   "腾讯",
+   "京东",
+   "格力电器"
+  ],
+  "related_entities": [
+   {
+    "id": "jd",
+    "name": "京东"
+   },
+   {
+    "id": "tencent",
+    "name": "腾讯"
+   }
+  ]
+ },
+ {
+  "id": "larry-page-sergey-brin",
+  "name": "佩奇与布林",
+  "en_name": "Larry Page & Sergey Brin",
+  "aliases": [
+   "拉里·佩奇",
+   "谢尔盖·布林",
+   "佩奇",
+   "布林"
+  ],
+  "birth": "1973-03-26",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "谷歌与Alphabet联合创始人",
+  "summary_30s": "本条为二人合传。佩奇生于1973年3月26日，布林生于1973年8月21日，两人1995年在斯坦福大学相识，1998年在加州一间车库共同创立谷歌，以PageRank算法革新网页搜索；2004年上市募资约16.7亿美元，先后收购Android与YouTube，2015年重组为Alphabet，2019年12月3日同日卸任全部管理职务。",
+  "timeline": [
+   {
+    "date": "1995-01-01",
+    "acc": "year",
+    "text": "1995年佩奇在斯坦福大学攻读博士期间结识新入学的研究生布林，两人围绕网页链接关系展开合作研究。"
+   },
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "1996年两人开发出以链接分析为核心的搜索项目BackRub，在斯坦福大学的服务器上运行。"
+   },
+   {
+    "date": "1997-09-15",
+    "acc": "exact",
+    "text": "项目更名Google，取自数学术语googol（10的100次方）的变体拼写，google.com域名于9月15日完成注册。"
+   },
+   {
+    "date": "1998-09-04",
+    "acc": "exact",
+    "text": "两人在加州门洛帕克苏珊·沃西基家的车库正式创立谷歌公司，此前投资人贝托尔斯海姆已开出10万美元支票。"
+   },
+   {
+    "date": "2001-03-01",
+    "acc": "month",
+    "text": "2001年邀请软件公司Novell的CEO埃里克·施密特出任谷歌CEO，佩奇转任产品总裁、布林任技术总裁。"
+   },
+   {
+    "date": "2004-04-01",
+    "acc": "exact",
+    "text": "谷歌发布Gmail免费邮箱服务，提供1GB存储空间，容量远超当时主流竞争对手。"
+   },
+   {
+    "date": "2004-08-19",
+    "acc": "exact",
+    "text": "谷歌以每股85美元在纳斯达克上市，首次公开募资约16.7亿美元，公司市值约230亿美元。"
+   },
+   {
+    "date": "2005-07-01",
+    "acc": "month",
+    "text": "2005年7月谷歌以约5000万美元收购安迪·鲁宾创立的Android公司，为移动操作系统提前布局。"
+   },
+   {
+    "date": "2006-10-09",
+    "acc": "exact",
+    "text": "谷歌宣布以16.5亿美元股票收购视频网站YouTube，奠定在线视频领域的领先地位。"
+   },
+   {
+    "date": "2011-04-04",
+    "acc": "exact",
+    "text": "2011年4月佩奇时隔10年重新出任谷歌CEO，布林转向负责Google X前沿项目。"
+   },
+   {
+    "date": "2015-08-10",
+    "acc": "exact",
+    "text": "2015年8月谷歌宣布重组为控股公司Alphabet，佩奇出任Alphabet CEO、布林任总裁，皮查伊接掌谷歌。"
+   },
+   {
+    "date": "2019-12-03",
+    "acc": "exact",
+    "text": "2019年12月3日佩奇与布林同日宣布卸任Alphabet全部管理职务，皮查伊兼任谷歌与Alphabet两家公司CEO。"
+   },
+   {
+    "date": "2020-01-16",
+    "acc": "exact",
+    "text": "二人创立的Alphabet市值首次突破1万亿美元，成为美国又一家万亿市值科技公司。"
+   }
+  ],
+  "achievements": [
+   "1998年在斯坦福创业，PageRank算法使谷歌成长为全球使用最广的搜索引擎",
+   "主导2004年谷歌上市募资16.7亿美元，2005年收购Android、2006年收购YouTube",
+   "2015年推动谷歌重组为Alphabet，分任CEO与总裁至2019年同日卸任",
+   "2020年Alphabet市值突破1万亿美元，二人借双层股权保持公司控制权"
+  ],
+  "controversies": [],
+  "quotes": [
+   "如果你在改变世界，你就在做重要的事，你会渴望清晨起床。——2009年密歇根大学毕业演讲（佩奇）"
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia: Larry Page",
+    "url": "https://en.wikipedia.org/wiki/Larry_Page",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Sergey Brin",
+    "url": "https://en.wikipedia.org/wiki/Sergey_Brin",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：拉里·佩奇",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%8B%89%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：谢尔盖·布林",
+    "url": "https://zh.wikipedia.org/zh-hans/%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E5%B8%83%E6%9E%97",
+    "type": "wiki"
+   },
+   {
+    "title": "Alphabet公司官网",
+    "url": "https://abc.xyz/",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Alphabet",
+   "搜索引擎",
+   "Android",
+   "硅谷"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   },
+   {
+    "id": "youtube",
+    "name": "YouTube"
+   }
+  ]
+ },
+ {
+  "id": "larry-page",
+  "name": "拉里·佩奇",
+  "en_name": "Larry Page",
+  "aliases": [
+   "佩奇"
+  ],
+  "birth": "1973-03-26",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "internet",
+  "region": "world",
+  "headline": "谷歌联合创始人",
+  "summary_30s": "与布林在斯坦福创办谷歌，以PageRank算法革新网页搜索，主导上市并收购Android；2015年重组为Alphabet任CEO，2019年卸任，谷歌成为全球使用最广的搜索引擎。",
+  "timeline": [
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "在斯坦福大学攻读博士期间启动网页搜索研究项目BackRub，布林随后加入。"
+   },
+   {
+    "date": "1998-04-01",
+    "acc": "month",
+    "text": "与布林发表PageRank论文，以网页间链接关系量化权重改进搜索排序。"
+   },
+   {
+    "date": "1998-09-01",
+    "acc": "month",
+    "text": "在加州门洛帕克租下车库正式创办谷歌，投资人贝托尔斯海姆在注册前已开出10万美元支票。"
+   },
+   {
+    "date": "2001-01-01",
+    "acc": "year",
+    "text": "邀请埃里克·施密特出任CEO，本人转向产品与技术方向。"
+   },
+   {
+    "date": "2004-08-01",
+    "acc": "month",
+    "text": "谷歌以荷兰式拍卖方式完成IPO，佩奇与布林借双层股权保持控制权。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "以5000万美元收购Android公司，布局移动操作系统。"
+   },
+   {
+    "date": "2011-04-04",
+    "acc": "exact",
+    "text": "重返一线出任谷歌CEO，施密特转任执行董事长。"
+   },
+   {
+    "date": "2015-08-10",
+    "acc": "exact",
+    "text": "宣布重组为控股公司Alphabet，出任Alphabet CEO，皮查伊接任谷歌CEO。"
+   },
+   {
+    "date": "2019-12-01",
+    "acc": "month",
+    "text": "与布林宣布卸任Alphabet全部管理职务，皮查伊兼任两家公司CEO。"
+   },
+   {
+    "date": "2022-09-01",
+    "acc": "month",
+    "text": "其投资的飞行汽车公司Kitty Hawk停运，业务并入与波音相关的Wisk Aero。"
+   }
+  ],
+  "achievements": [
+   "与布林提出PageRank算法，奠定现代网页搜索排序基础",
+   "主导谷歌上市并收购Android，布局移动时代",
+   "推动谷歌重组为Alphabet并出任首任CEO",
+   "谷歌成为全球使用最广的搜索引擎",
+   "投资Kitty Hawk等飞行汽车初创企业"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Larry Page",
+    "url": "https://en.wikipedia.org/wiki/Larry_Page",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: PageRank",
+    "url": "https://en.wikipedia.org/wiki/PageRank",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：拉里·佩奇",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%8B%89%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Alphabet",
+   "PageRank",
+   "搜索引擎",
+   "互联网"
+  ],
+  "related_entities": [
+   {
+    "id": "google",
+    "name": "谷歌"
+   }
+  ]
+ },
+ {
+  "id": "dong-qing",
+  "name": "董卿",
+  "en_name": "Dong Qing",
+  "aliases": [],
+  "birth": "1973-11-17",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "《朗读者》制作人兼央视主持人",
+  "summary_30s": "央视主持人、制作人。1994年入浙江电视台，1996年转上海东方电视台，2002年调入央视；2005至2017年连续13年主持央视春晚；2016年主持《中国诗词大会》，2017年以制作人兼主持人身份推出《朗读者》，成为央视文化类节目代表人物。",
+  "timeline": [
+   {
+    "date": "1973-11-17",
+    "acc": "exact",
+    "text": "生于上海，籍贯上海崇明，父母均毕业于复旦大学。"
+   },
+   {
+    "date": "1994-01-01",
+    "acc": "year",
+    "text": "入职浙江电视台，开始主持生涯。"
+   },
+   {
+    "date": "1996-01-01",
+    "acc": "year",
+    "text": "转入上海东方电视台工作，时年23岁。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "主持相亲节目《相约星期六》，在上海获得知名度。"
+   },
+   {
+    "date": "1999-01-01",
+    "acc": "year",
+    "text": "以电视编辑专业从上海戏剧学院本科毕业。"
+   },
+   {
+    "date": "2002-01-01",
+    "acc": "year",
+    "text": "进入中央电视台，先后主持《魅力12》《欢乐中国行》等节目。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "首次主持央视春节联欢晚会，此后至2017年连续13年主持春晚。"
+   },
+   {
+    "date": "2009-01-01",
+    "acc": "year",
+    "text": "获上海戏剧学院电视艺术MFA艺术硕士学位。"
+   },
+   {
+    "date": "2014-04-01",
+    "acc": "month",
+    "text": "暂别主持岗位赴美国游学，2015年7月回归央视。"
+   },
+   {
+    "date": "2016-01-01",
+    "acc": "year",
+    "text": "主持央视文化竞赛节目《中国诗词大会》。"
+   },
+   {
+    "date": "2017-02-18",
+    "acc": "exact",
+    "text": "首次担任制作人并主持的《朗读者》在央视开播，2018年第二季中兼任总导演。"
+   }
+  ],
+  "achievements": [
+   "2005至2017年连续13年主持央视春节联欢晚会",
+   "2016年起主持《中国诗词大会》文化竞赛节目",
+   "2017年以制作人兼主持人身份推出《朗读者》，第二季兼任总导演",
+   "2009年获上海戏剧学院MFA艺术硕士学位"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：董卿",
+    "url": "https://zh.wikipedia.org/zh-hans/%E8%91%A3%E5%8D%BF",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：董卿",
+    "url": "https://baike.baidu.com/item/%E8%91%A3%E5%8D%BF",
+    "type": "baike"
+   },
+   {
+    "title": "人民网：专访董卿——作为制作人兼主持人的初心",
+    "url": "http://culture.people.com.cn/n1/2017/0526/c87423-29301061.html",
+    "type": "news"
+   },
+   {
+    "title": "凤凰网：董卿首度转型制作《朗读者》",
+    "url": "http://inews.ifeng.com/50705313/news.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "央视",
+   "春晚",
+   "朗读者",
+   "文化节目",
+   "媒体"
+  ]
+ },
+ {
+  "id": "liu-qiangdong",
+  "name": "刘强东",
+  "en_name": "Richard Liu",
+  "aliases": [
+   "Richard Liu"
+  ],
+  "birth": "1974-01-01",
+  "birth_accuracy": "year",
+  "death": null,
+  "field": "internet",
+  "region": "cn",
+  "headline": "京东集团创始人",
+  "summary_30s": "京东集团创始人。1998年从中关村一个柜台起步，以自营加自建物流模式把京东做成年营收超万亿元的零售巨头，先后在纳斯达克与港交所上市；2025年再次出手，以京东外卖切入即时零售，与头部平台正面竞争。",
+  "timeline": [
+   {
+    "date": "1992-01-01",
+    "acc": "year",
+    "text": "以宿迁高考第一名考入中国人民大学社会学系，靠乡亲凑的学费进京求学。"
+   },
+   {
+    "date": "1998-06-18",
+    "acc": "exact",
+    "text": "在北京中关村租下柜台创办京东公司，代理销售光磁产品，此日后来成为京东司庆日。"
+   },
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "非典后关闭全部线下柜台，京东多媒体网上线，全面转型电子商务零售。"
+   },
+   {
+    "date": "2007-01-01",
+    "acc": "year",
+    "text": "获今日资本首轮1000万美元融资，力排众议开始自建仓配一体的自营物流体系。"
+   },
+   {
+    "date": "2014-05-22",
+    "acc": "exact",
+    "text": "京东在纳斯达克挂牌上市，发行价19美元，募资约17.8亿美元，为当时规模领先的中概股IPO之一。"
+   },
+   {
+    "date": "2017-01-01",
+    "acc": "year",
+    "text": "京东物流独立组建集团并对外开放，从成本中心转变为可对外服务的供应链基础设施。"
+   },
+   {
+    "date": "2020-06-18",
+    "acc": "exact",
+    "text": "京东集团在香港联交所二次上市，代码9618，募资约300亿港元。"
+   },
+   {
+    "date": "2021-05-01",
+    "acc": "month",
+    "text": "京东物流分拆赴港上市；此前京东健康已上市，京东系多家公司相继独立融资。"
+   },
+   {
+    "date": "2025-02-01",
+    "acc": "month",
+    "text": "京东正式上线外卖业务，以新商家全年免佣金等策略切入即时零售市场。"
+   }
+  ],
+  "achievements": [
+   "创办京东，发展成年营收超万亿元的自营电商巨头",
+   "建成覆盖全国的仓配一体自营物流网络，以「211限时达」重塑电商配送标准",
+   "推动京东2014年登陆纳斯达克、2020年回港二次上市",
+   "2025年上线京东外卖，切入即时零售并快速获得可观市场份额"
+  ],
+  "controversies": [
+   "2018年8月，刘强东在美国明尼苏达州因性侵指控接受警方调查；12月21日，亨内平县检察官以证据不足为由决定不予刑事起诉。",
+   "2019年4月，涉事方在明尼苏达州提起民事诉讼；2022年10月1日，双方在开庭前达成和解，和解条款未公开。"
+  ],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "维基百科：刘强东",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%98%E5%BC%BA%E4%B8%9C",
+    "type": "wiki"
+   },
+   {
+    "title": "百度百科：刘强东",
+    "url": "https://baike.baidu.com/item/%E5%88%98%E5%BC%BA%E4%B8%9C/8015087",
+    "type": "baike"
+   },
+   {
+    "title": "中国经济周刊：京东香港二次上市",
+    "url": "http://paper.people.com.cn/zgjjzk/html/2020-06/30/content_1995440.htm",
+    "type": "news"
+   },
+   {
+    "title": "财联社：刘强东亲自送外卖与京东外卖布局",
+    "url": "https://www.cls.cn/detail/2010456",
+    "type": "news"
+   },
+   {
+    "title": "BBC：明尼苏达检察官决定不起诉",
+    "url": "https://www.bbc.com/news/world-asia-china-46652347",
+    "type": "news"
+   },
+   {
+    "title": "Reuters：民事诉讼达成和解",
+    "url": "https://www.reuters.com/legal/china-jdcom-founder-liu-settles-us-rape-civil-suit-2022-10-02",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "京东",
+   "电商",
+   "互联网",
+   "零售",
+   "物流"
+  ],
+  "related_entities": [
+   {
+    "id": "jd",
+    "name": "京东"
+   }
+  ]
+ },
+ {
+  "id": "hidetaka-miyazaki",
+  "name": "宫崎英高",
+  "en_name": "Hidetaka Miyazaki",
+  "aliases": [],
+  "birth": "1974-01-07",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "game",
+  "region": "world",
+  "headline": "「魂类」游戏的缔造者",
+  "summary_30s": "FromSoftware社长，2009年以首部执导作品《恶魔之魂》开启高难度动作RPG路线，2011年《黑暗之魂》正式确立「魂类」流派；2019年《只狼》获TGA年度游戏，2022年《艾尔登法环》全球销量突破3000万套。",
+  "timeline": [
+   {
+    "date": "2004-01-01",
+    "acc": "year",
+    "text": "2004年放弃稳定工作入职FromSoftware，参与《装甲核心》系列开发。"
+   },
+   {
+    "date": "2009-02-01",
+    "acc": "month",
+    "text": "首部执导作品《恶魔之魂》在PS3发售，以高难度与碎片化叙事打开局面。"
+   },
+   {
+    "date": "2011-09-01",
+    "acc": "month",
+    "text": "《黑暗之魂》在PS3与Xbox 360发售，初期销量平平，后凭口碑成为现象级作品。"
+   },
+   {
+    "date": "2014-05-01",
+    "acc": "month",
+    "text": "2014年5月出任FromSoftware社长，公司同年被角川集团收购纳入旗下。"
+   },
+   {
+    "date": "2015-03-01",
+    "acc": "month",
+    "text": "执导PS4独占《血源诅咒》发售，哥特风格世界设定广受赞誉。"
+   },
+   {
+    "date": "2019-03-22",
+    "acc": "exact",
+    "text": "《只狼：影逝二度》全球发售，引入格挡与钩索玩法，全球销量后来突破1000万套。"
+   },
+   {
+    "date": "2019-12-12",
+    "acc": "exact",
+    "text": "《只狼》获TGA 2019年度游戏，FromSoftware首次夺得该奖项。"
+   },
+   {
+    "date": "2022-02-25",
+    "acc": "exact",
+    "text": "《艾尔登法环》全球发售，两周销量破1200万套，开启开放世界魂类时代。"
+   },
+   {
+    "date": "2024-06-21",
+    "acc": "exact",
+    "text": "DLC《黄金树幽影》发售，数日内销量突破500万套。"
+   },
+   {
+    "date": "2025-04-28",
+    "acc": "exact",
+    "text": "官方宣布《艾尔登法环》全球销量突破3000万套。"
+   }
+  ],
+  "achievements": [
+   "开创「魂类」玩法范式，《黑暗之魂》3部曲影响整个动作RPG类型",
+   "2019年《只狼》获TGA年度游戏，销量突破1000万套",
+   "《艾尔登法环》全球销量突破3000万套（2025年4月官方数据）",
+   "2014年出任FromSoftware社长，带领公司跻身国际一线工作室",
+   "2011年《黑暗之魂》从销量平平逆转为现象级作品，定义一种游戏类型"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "Wikipedia: Hidetaka Miyazaki",
+    "url": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: Elden Ring",
+    "url": "https://en.wikipedia.org/wiki/Elden_Ring",
+    "type": "wiki"
+   },
+   {
+    "title": "维基百科：宫崎英高",
+    "url": "https://zh.wikipedia.org/zh-hans/%E5%AE%AB%E5%B4%8E%E8%8B%B1%E9%AB%98",
+    "type": "wiki"
+   },
+   {
+    "title": "Gematsu: Elden Ring shipments and digital sales top 30 million",
+    "url": "https://www.gematsu.com/2025/04/elden-ring-shipments-and-digital-sales-top-30-million",
+    "type": "media"
+   }
+  ],
+  "tags": [
+   "魂类游戏",
+   "FromSoftware",
+   "黑暗之魂",
+   "艾尔登法环",
+   "动作RPG"
+  ]
+ },
+ {
+  "id": "wang-han",
+  "name": "汪涵",
+  "en_name": "Wang Han",
+  "aliases": [
+   "汪建刚"
+  ],
+  "birth": "1974-04-07",
+  "birth_accuracy": "exact",
+  "death": null,
+  "field": "media",
+  "region": "cn",
+  "headline": "湖南卫视主持人、方言保护发起人",
+  "summary_30s": "湖南卫视主持人、制片人，本名汪建刚。1998年起主持湖南经视节目，2008年8月4日领衔开播脱口秀《天天向上》并任制片人；2015年在《我是歌手》总决赛直播中处置嘉宾退赛，同年出资465万元发起湖南方言调查「響應」计划，覆盖53个调查地。",
+  "timeline": [
+   {
+    "date": "1974-04-07",
+    "acc": "exact",
+    "text": "生于江苏省苏州市吴中区，本名汪建刚，后随家人在湖南生活，毕业于湖南广播电视学校。"
+   },
+   {
+    "date": "1998-01-01",
+    "acc": "year",
+    "text": "开始主持湖南经济电视台节目，进入电视行业。"
+   },
+   {
+    "date": "2005-01-01",
+    "acc": "year",
+    "text": "担任湖南卫视选秀节目《超级女声》主持人，该届节目为收视影响力最大的一届。"
+   },
+   {
+    "date": "2008-08-04",
+    "acc": "exact",
+    "text": "湖南卫视礼仪公德脱口秀《天天向上》开播，他担任主持人兼制片人，与「天天兄弟」共同主持。"
+   },
+   {
+    "date": "2015-03-27",
+    "acc": "exact",
+    "text": "《我是歌手》第三季总决赛直播中嘉宾中途宣布退赛，他作为主持人临场衔接，直播得以继续。"
+   },
+   {
+    "date": "2015-07-01",
+    "acc": "month",
+    "text": "出资465万元发起湖南省方言调查「響應」计划，计划用5至10年调查整理全省53个调查地的方言。"
+   }
+  ],
+  "achievements": [
+   "2008年8月4日创办并主持《天天向上》，兼任制片人",
+   "2015年3月27日在《我是歌手》总决赛直播中处置嘉宾退赛事件",
+   "2015年出资465万元发起湖南方言调查「響應」计划，覆盖53个调查地",
+   "2005年担任湖南卫视《超级女声》节目主持人"
+  ],
+  "controversies": [],
+  "quotes": [],
+  "sources": [
+   {
+    "title": "人民周刊：看汪涵的方言保护行动",
+    "url": "http://paper.people.com.cn/rmzk/html/2016-02/01/content_1649553.htm",
+    "type": "news"
+   },
+   {
+    "title": "百度百科：汪涵",
+    "url": "https://baike.baidu.com/item/%E6%B1%AA%E6%B6%B5/1168090",
+    "type": "baike"
+   },
+   {
+    "title": "维基百科：汪涵",
+    "url": "https://zh.wikipedia.org/zh-hans/%E6%B1%AA%E6%B6%B5",
+    "type": "wiki"
+   },
+   {
+    "title": "华声在线：汪涵发起方言「響應」计划 欲搜集湖南53地方言",
+    "url": "https://hunan.voc.com.cn/news/201507/26805677.html",
+    "type": "news"
+   },
+   {
+    "title": "新浪新闻：汪涵的抢救方言之路",
+    "url": "https://news.sina.cn/gn/2020-07-03/detail-iirczymm0232946.d.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "湖南卫视",
+   "天天向上",
+   "方言保护",
+   "媒体"
+  ]
+ }
+]
