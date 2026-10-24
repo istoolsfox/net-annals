@@ -1,0 +1,128 @@
+{
+ "id": "larry-page",
+ "name": "拉里·佩奇",
+ "en_name": "Larry Page",
+ "aliases": [
+  "佩奇"
+ ],
+ "birth": "1973-03-26",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "谷歌联合创始人",
+ "summary_30s": "与布林在斯坦福创办谷歌，以PageRank算法革新网页搜索，主导上市并收购Android；2015年重组为Alphabet任CEO，2019年卸任，谷歌成为全球使用最广的搜索引擎。",
+ "timeline": [
+  {
+   "date": "1973-03-26",
+   "acc": "exact",
+   "text": "生于密歇根州东兰辛，父母均为密歇根州立大学计算机系学者，自幼在充满计算机与技术的家庭环境中长大。"
+  },
+  {
+   "date": "1995-01-01",
+   "acc": "year",
+   "text": "在斯坦福大学攻读计算机博士时结识新入学的研究生谢尔盖·布林，两人围绕网页链接结构展开合作。"
+  },
+  {
+   "date": "1996-01-01",
+   "acc": "year",
+   "text": "启动网页搜索研究项目BackRub，以链接分析为排序核心，在斯坦福服务器上运行。"
+  },
+  {
+   "date": "1998-04-01",
+   "acc": "month",
+   "text": "与布林发表PageRank论文，以网页间链接关系量化权重，改进搜索排序并奠定现代搜索技术基础。"
+  },
+  {
+   "date": "1998-09-01",
+   "acc": "month",
+   "text": "在加州门洛帕克租下车库正式创办谷歌，投资人贝托尔斯海姆在注册前已开出10万美元支票。"
+  },
+  {
+   "date": "2001-01-01",
+   "acc": "year",
+   "text": "在投资人斡旋下邀请埃里克·施密特出任CEO，本人转向产品与技术方向，谷歌自此进入规模化扩张期。"
+  },
+  {
+   "date": "2004-08-01",
+   "acc": "month",
+   "text": "谷歌以罕见的荷兰式拍卖方式完成IPO，募资约16.7亿美元；佩奇与布林借双层股权结构牢牢保持公司控制权。"
+  },
+  {
+   "date": "2005-01-01",
+   "acc": "year",
+   "text": "主导以约5000万美元收购安迪·鲁宾创立的Android公司，提前为移动互联网时代的操作系统布局。"
+  },
+  {
+   "date": "2011-04-04",
+   "acc": "exact",
+   "text": "重返一线出任谷歌CEO，施密特转任执行董事长；他主导砍掉数十条边缘产品线，集中资源做产品整合。"
+  },
+  {
+   "date": "2015-08-10",
+   "acc": "exact",
+   "text": "宣布谷歌重组为控股公司Alphabet，出任Alphabet首任CEO，皮查伊接任谷歌CEO。"
+  },
+  {
+   "date": "2019-12-01",
+   "acc": "month",
+   "text": "与布林宣布卸任Alphabet全部管理职务，皮查伊兼任两家公司CEO，二人退居幕后。"
+  },
+  {
+   "date": "2023-04-01",
+   "acc": "month",
+   "text": "ChatGPT冲击下与布林重返谷歌，参与AI产品评审与战略讨论，推动全公司转向AI优先。"
+  },
+  {
+   "date": "2023-12-01",
+   "acc": "month",
+   "text": "谷歌发布大模型Gemini并向全球开发者开放，重新站上全球AI竞赛第一梯队，此后持续迭代追赶OpenAI。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "以Alphabet最大个人股东与董事身份参与重大决策，个人投资聚焦飞行汽车、长寿科学等前沿方向。"
+  }
+ ],
+ "achievements": [
+  "与布林提出PageRank算法，奠定现代网页搜索排序基础",
+  "主导谷歌上市并收购Android，布局移动时代",
+  "推动谷歌重组为Alphabet并出任首任CEO",
+  "谷歌成为全球使用最广的搜索引擎",
+  "投资Kitty Hawk等飞行汽车初创企业"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Larry Page",
+   "url": "https://en.wikipedia.org/wiki/Larry_Page",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: PageRank",
+   "url": "https://en.wikipedia.org/wiki/PageRank",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：拉里·佩奇",
+   "url": "https://zh.wikipedia.org/zh-hans/%E6%8B%89%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "谷歌",
+  "Alphabet",
+  "PageRank",
+  "搜索引擎",
+  "互联网"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  }
+ ],
+ "bio": "谷歌联合创始人、Alphabet首任CEO。1973年生于美国密歇根州东兰辛一个计算机学者家庭，1995年在斯坦福大学读博时与谢尔盖·布林相遇，两人开发的BackRub搜索项目于1998年发展成谷歌。凭借PageRank算法与简洁的产品哲学，谷歌十年内成为全球最大搜索引擎；2004年上市后他主导收购Android，为移动时代卡位。2011年重返CEO岗位推动产品整合，2015年主导重组为Alphabet并出任首任CEO，2019年底与布林同日卸任。此后他极少公开露面，专注飞行汽车、长寿科学等个人投资；ChatGPT引发AI竞赛后，他与布林重回公司参与战略把关，谷歌在2023年底发布Gemini系列大模型重回第一梯队。",
+ "legacy": "PageRank奠定现代搜索排序的技术基石，他把谷歌从博士项目做成全球最有价值的公司之一；卸任后转向前沿科技投资，仍是Alphabet最重要的大股东与决策者之一。"
+}

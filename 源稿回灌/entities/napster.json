@@ -1,0 +1,132 @@
+{
+ "id": "napster",
+ "name": "Napster",
+ "en_name": "Napster",
+ "type": "company",
+ "region": "world",
+ "founded": "1999-06-01",
+ "founded_accuracy": "exact",
+ "dissolved": "2002-11-01",
+ "status": "closed",
+ "headline": "P2P音乐共享鼻祖与版权诉讼开端",
+ "summary_30s": "Napster 1999年6月上线，用中心索引让全球电脑直接互传MP3，巅峰注册用户达8000万，美国高校外网流量六成被音乐传输占据。RIAA与唱片公司1999年底起诉，2001年7月它被法院禁令关停，2002年破产清盘。品牌此后五度易主，2026年以AI工具重启。",
+ "timeline": [
+  {
+   "date": "1999-06-01",
+   "acc": "exact",
+   "text": "Napster上线，以中心服务器索引、用户端直连的方式免费交换MP3，数月内在美国大学校园病毒式扩散。"
+  },
+  {
+   "date": "1999-12-01",
+   "acc": "month",
+   "text": "RIAA代表A&M等唱片公司起诉Napster协助侵犯版权（A&M Records诉Napster案），互联网版权战争正式开局。"
+  },
+  {
+   "date": "2000-04-01",
+   "acc": "month",
+   "text": "Metallica起诉并提交约33.5万名分享其歌曲的用户名单，艺人阵营与免费文化的对立公开化。"
+  },
+  {
+   "date": "2000-07-01",
+   "acc": "month",
+   "text": "联邦地区法院发布初步禁令要求屏蔽版权音乐，第九巡回法院随即暂缓执行，服务在拉锯中继续扩张。"
+  },
+  {
+   "date": "2001-02-01",
+   "acc": "month",
+   "text": "第九巡回上诉法院裁定必须下达禁令；经核实全球用户达2640万，非官方估计注册用户约8000万。"
+  },
+  {
+   "date": "2001-07-01",
+   "acc": "month",
+   "text": "依禁令关停整个文件共享网络，P2P用户转向Gnutella、Kazaa、BitTorrent等去中心化工具。"
+  },
+  {
+   "date": "2001-09-01",
+   "acc": "month",
+   "text": "与唱片业和解，支付2600万美元赔偿及1000万美元预付授权费，转向订阅制尝试，但用户已大量流失。"
+  },
+  {
+   "date": "2002-06-01",
+   "acc": "month",
+   "text": "申请第11章破产保护；此前与贝塔斯曼达成的8500万美元收购因利益冲突被法院否决。"
+  },
+  {
+   "date": "2002-11-01",
+   "acc": "month",
+   "text": "Roxio以530万美元拍得Napster知识产权与品牌，原公司就此清盘，品牌开始漫长的易主之旅。"
+  },
+  {
+   "date": "2008-09-01",
+   "acc": "month",
+   "text": "百思买以1.21亿美元收购Napster订阅服务，借这一老牌音乐品牌进军数字音乐零售，品牌完成第二次易主。"
+  },
+  {
+   "date": "2011-12-01",
+   "acc": "month",
+   "text": "百思买将Napster品牌与订户售予流媒体服务商Rhapsody，音乐订阅服务成为品牌此后十余年的载体。"
+  },
+  {
+   "date": "2016-01-01",
+   "acc": "year",
+   "text": "Rhapsody整体更名Napster，品牌完成从P2P标志到正版流媒体的倒转。"
+  },
+  {
+   "date": "2022-01-01",
+   "acc": "year",
+   "text": "被Hivemind与Algorand两家Web3公司收购，试图在区块链与音乐版权结合的方向寻找新的商业故事。"
+  },
+  {
+   "date": "2025-05-01",
+   "acc": "month",
+   "text": "Infinite Reality宣布将自身更名Napster Corporation并发布AI平台，品牌转型为AI体验公司。"
+  },
+  {
+   "date": "2026-01-01",
+   "acc": "year",
+   "text": "Napster以AI创作与AI伴侣应用形态重新发布，从音乐品牌彻底转向AI平台。"
+  }
+ ],
+ "milestones": [
+  "巅峰期经核实用户2640万，非官方估计注册用户达8000万",
+  "上线初期美国高校外网流量61%为MP3传输",
+  "1999年12月被RIAA起诉，2001年7月被法院禁令关停",
+  "2002年11月品牌以530万美元易主Roxio，2011年转售Rhapsody",
+  "2026年品牌以AI工具形态重启，为第五次易主后仍在运营"
+ ],
+ "legacy": "原公司2002年清盘，品牌五度易主后以AI形态重启。Napster引发的震荡直接催生了iTunes付费下载与Spotify式流媒体订阅，把『技术 vs 版权』之争永久写进了互联网规则；中国网民当年则绕开它，直接走向了百度MP3搜索与下载站。",
+ "sources": [
+  {
+   "title": "Wikipedia: Napster",
+   "url": "https://en.wikipedia.org/wiki/Napster",
+   "type": "wiki"
+  },
+  {
+   "title": "Napster官方新闻：Napster is back",
+   "url": "https://www.napster.com/news/napster-is-back--ready-to-disrupt-ai-commerce-and-culture",
+   "type": "official"
+  },
+  {
+   "title": "GeekWire: Rhapsody to buy Napster from Best Buy",
+   "url": "https://www.geekwire.com/2011/breaking-rhapsody-buy-napster-buy",
+   "type": "news"
+  },
+  {
+   "title": "Napster - 维基百科",
+   "url": "https://zh.wikipedia.org/wiki/Napster",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "P2P",
+  "数字音乐",
+  "版权",
+  "Napster",
+  "文件共享"
+ ],
+ "bio": "Napster 1999年6月由肖恩·范宁与肖恩·帕克在美国上线，以中心服务器索引、用户端直连的方式让全球用户免费交换MP3，巅峰期经核实用户2640万、非官方估计注册用户约8000万，上线初期美国高校外网流量六成被音乐传输占据。RIAA代表唱片公司1999年底起诉，Metallica随后跟进；2001年法院禁令迫使它关停整个共享网络，2002年公司破产清盘、品牌以530万美元易主Roxio。此后品牌经百思买、Rhapsody（2016年整体更名Napster）、Web3资本与Infinite Reality数度转手；2025年Infinite Reality更名Napster公司并转型AI平台，2026年1月以AI创作应用重启。原公司早已消亡，但它撕开的免费音乐口子永久改变了唱片业，直接催生了iTunes商店与流媒体订阅时代。",
+ "controversies": [
+  "A&M等五大唱片公司与RIAA的侵权诉讼成为互联网时代版权诉讼的标志性案件，法院以『协助侵权』为由下令关停其共享网络。",
+  "Metallica于2000年起诉并提交33.5万名用户名单，多所美国高校封禁Napster，校园网络管理自此收紧。"
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "id": "sam-altman",
+ "name": "山姆·奥尔特曼",
+ "en_name": "Sam Altman",
+ "aliases": [
+  "Sam Altman"
+ ],
+ "birth": "1985-04-22",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "ai",
+ "region": "world",
+ "headline": "OpenAI CEO",
+ "summary_30s": "OpenAI联合创始人兼CEO，19岁创办位置服务公司Loopt，31岁执掌YC，2019年出任OpenAI CEO并推动ChatGPT问世，引爆全球生成式AI浪潮，也把「AI安全与治理」推上公共议程。",
+ "timeline": [
+  {
+   "date": "1985-04-22",
+   "acc": "exact",
+   "text": "出生于芝加哥，在圣路易斯郊外长大；8岁便拆开电脑自学编程，后考入斯坦福大学计算机系，少年时期已显露极客气质。"
+  },
+  {
+   "date": "2005-06-01",
+   "acc": "month",
+   "text": "19岁从斯坦福辍学，创办位置分享公司Loopt，入选Y Combinator首批孵化项目。"
+  },
+  {
+   "date": "2012-03-01",
+   "acc": "month",
+   "text": "Loopt以约4300万美元售出，首次创业告一段落；此后转型为活跃的天使投资人，并与人合伙创立自己的风投基金。"
+  },
+  {
+   "date": "2014-02-01",
+   "acc": "month",
+   "text": "接替保罗·格雷厄姆出任Y Combinator总裁，将其发展为全美最具影响力的创业孵化器。"
+  },
+  {
+   "date": "2015-12-11",
+   "acc": "exact",
+   "text": "与马斯克等人宣布创立非营利研究机构OpenAI，目标确保通用人工智能造福全人类。"
+  },
+  {
+   "date": "2019-03-01",
+   "acc": "month",
+   "text": "卸任YC总裁出任OpenAI CEO，公司重组为「有限营利」架构以承接大规模资本。"
+  },
+  {
+   "date": "2019-07-01",
+   "acc": "month",
+   "text": "推动OpenAI获微软10亿美元投资并达成Azure算力合作，为大模型训练与后续商业化铺平道路，公司进入加速轨道。"
+  },
+  {
+   "date": "2022-11-30",
+   "acc": "exact",
+   "text": "ChatGPT发布，两个月月活破亿，成为当时史上用户增长最快的消费级应用，引爆生成式AI浪潮。"
+  },
+  {
+   "date": "2023-03-14",
+   "acc": "exact",
+   "text": "发布GPT-4，多模态与推理能力大幅跃升，微软将其接入全线产品，全球大模型竞赛白热化。"
+  },
+  {
+   "date": "2023-11-17",
+   "acc": "exact",
+   "text": "被OpenAI董事会以「对董事会不够坦率」为由突然解雇，微软与数百名员工集体施压，五天后达成协议回归。"
+  },
+  {
+   "date": "2024-05-01",
+   "acc": "month",
+   "text": "发布GPT-4o等新模型，ChatGPT用户与收入高速增长，公司年化收入达数十亿美元。"
+  },
+  {
+   "date": "2025-01-21",
+   "acc": "exact",
+   "text": "在白宫与软银、甲骨文宣布「星际之门」计划，拟四年内投入5000亿美元建设AI数据中心。"
+  },
+  {
+   "date": "2025-08-07",
+   "acc": "exact",
+   "text": "发布GPT-5，统一GPT系列与o系列推理模型路线，首发虽伴随体验争议仍刷新使用纪录。"
+  },
+  {
+   "date": "2025-10-28",
+   "acc": "exact",
+   "text": "完成公司重组：营利实体转为公益公司（PBC），微软持股约27%，非营利母体获得千亿美元级股权。"
+  },
+  {
+   "date": "2026-09-01",
+   "acc": "month",
+   "text": "在年度开发者大会发布新一代旗舰模型与智能体产品Dot，OpenAI在算力、融资与产品节奏上持续领跑。"
+  }
+ ],
+ "achievements": [
+  "执掌OpenAI期间发布ChatGPT，引爆全球生成式AI浪潮",
+  "将非营利研究机构转型为可吸引千亿级资本投入的组织",
+  "执掌YC期间孵化与投资数千家创业公司"
+ ],
+ "controversies": [
+  "2023年11月被OpenAI董事会以「沟通不坦率」为由突然解雇，五日后回归，具体原因至今未完整公开。",
+  "主导OpenAI由非营利机构转向营利架构，被外界质疑背离创立初心。"
+ ],
+ "quotes": [
+  "AGI将比人们想象的更早到来"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：山姆·奥尔特曼",
+   "url": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Sam Altman",
+   "url": "https://en.wikipedia.org/wiki/Sam_Altman",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: OpenAI",
+   "url": "https://en.wikipedia.org/wiki/OpenAI",
+   "type": "wiki"
+  },
+  {
+   "title": "OpenAI官网",
+   "url": "https://openai.com/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "OpenAI",
+  "ChatGPT",
+  "AI",
+  "YC",
+  "美国"
+ ],
+ "bio": "OpenAI联合创始人兼CEO，ChatGPT背后最重要的推动者之一，被视为生成式AI浪潮的旗手。1985年生于芝加哥，在圣路易斯长大，19岁从斯坦福辍学创办位置服务公司Loopt并入选Y Combinator首批孵化；公司2012年出售后转型投资人，2014年接掌YC总裁。2015年与马斯克等共同创立非营利研究机构OpenAI，2019年出任CEO并主导重组为有限营利架构。2022年11月ChatGPT发布，两个月月活破亿，引爆全球大模型竞赛；2023年11月遭董事会突然解雇，在微软与员工集体施压下五天内回归。此后推动GPT-4o、GPT-5相继发布，2025年促成OpenAI改组为公益公司并推进5000亿美元「星际之门」算力计划，2026年继续发布新一代模型与智能体产品。",
+ "legacy": "执掌OpenAI并推动ChatGPT引爆全球生成式AI浪潮，把AI安全与治理推上公共议程；现仍任OpenAI CEO，主导公司向公益公司架构转型与超大规模算力扩张。"
+}

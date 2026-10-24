@@ -1,0 +1,101 @@
+{
+ "id": "skype",
+ "name": "Skype",
+ "en_name": "Skype",
+ "type": "company",
+ "region": "world",
+ "founded": "2003-08-29",
+ "founded_accuracy": "exact",
+ "dissolved": "2025-05-05",
+ "status": "closed",
+ "hq": "爱沙尼亚塔林/卢森堡",
+ "headline": "把国际长途打死的网络电话先驱",
+ "summary_30s": "2003 年以 P2P 免费语音上线，把国际长途打成白菜价；2005 年被 eBay 以 26 亿美元首付收购，2011 年微软 85 亿美元接手，巅峰注册用户超 6 亿。疫情期间短暂回血，终被自家 Teams 取代，2025 年 5 月 5 日正式停运。",
+ "timeline": [
+  {
+   "date": "2003-08-29",
+   "acc": "exact",
+   "text": "Skype上线，詹斯特罗姆与弗里斯沿用KaZaA的P2P思路实现免费网络语音通话，传统国际长途的价格体系自此开始瓦解。"
+  },
+  {
+   "date": "2005-09-12",
+   "acc": "exact",
+   "text": "eBay宣布以26亿美元首付、总额最高31亿美元收购Skype，押注『语音+交易』的想象，创下当时互联网并购的高溢价纪录。"
+  },
+  {
+   "date": "2006-04-01",
+   "acc": "month",
+   "text": "注册用户突破1亿，SkypeOut付费拨打普通电话与多人通话功能齐备，跨境个人通讯的事实标准就此形成。"
+  },
+  {
+   "date": "2007-04-01",
+   "acc": "month",
+   "text": "与TOM在线成立合资公司运营中国本土版，此后中国区业务长期由TOM-Skype承载，外贸与留学人群人手一号。"
+  },
+  {
+   "date": "2009-11-01",
+   "acc": "month",
+   "text": "与原P2P技术持有方Joltid的权属纠纷达成和解，eBay买断核心技术授权，为后续出售扫清最大障碍。"
+  },
+  {
+   "date": "2011-05-10",
+   "acc": "exact",
+   "text": "微软以85亿美元从eBay手中收购Skype，溢价之高震动业界，随后整合进Windows、Office与Xbox产品线。"
+  },
+  {
+   "date": "2013-04-08",
+   "acc": "exact",
+   "text": "微软在全球关停Windows Live Messenger（中国区延至2014年），数亿即时通讯用户迁入Skype，前代霸主就此并入。"
+  },
+  {
+   "date": "2020-04-01",
+   "acc": "month",
+   "text": "新冠疫情期间单日用户一度突破4000万、较疫情前大增70%，但新增视频会议需求大部分流向Zoom与自家Teams。"
+  },
+  {
+   "date": "2025-02-28",
+   "acc": "exact",
+   "text": "微软宣布Skype将于5月5日正式退役，用户迁移至Microsoft Teams，20余年的独立通讯品牌走到尽头。"
+  },
+  {
+   "date": "2025-05-05",
+   "acc": "exact",
+   "text": "Skype正式停止服务，22年网络电话史落幕，号码与数据迁移通道保留至次年，团队并入微软其他业务线。"
+  }
+ ],
+ "milestones": [
+  "巅峰期全球注册用户超 6 亿，是 2010 年代国际通话事实标准",
+  "2005-2011 两度易主，合计作价超 110 亿美元",
+  "P2P 语音技术让跨国通讯成本趋近于零",
+  "2025 年 5 月 5 日正式关停，用户整体并入 Microsoft Teams"
+ ],
+ "legacy": "22年通讯工具正式谢幕，资产与用户并入Microsoft Teams。它在中国曾是外贸从业者与留学家庭跨境通话的标配，其『免费网络语音』证明长话商业模式可以被打穿；它的退场方式则成为被母公司产品迭代取代的经典样本。",
+ "sources": [
+  {
+   "title": "Wikipedia: Skype",
+   "url": "https://en.wikipedia.org/wiki/Skype",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：Skype",
+   "url": "https://zh.wikipedia.org/wiki/Skype",
+   "type": "wiki"
+  },
+  {
+   "title": "Microsoft To Acquire Skype（官方新闻稿）",
+   "url": "https://news.microsoft.com/source/2011/05/10/microsoft-to-acquire-skype/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "即时通讯",
+  "网络电话",
+  "Skype",
+  "微软",
+  "全球互联网"
+ ],
+ "bio": "Skype是把国际长途打成白菜价的网络电话先驱。2003年8月，瑞典人尼可拉斯·詹斯特罗姆与丹麦人雅努斯·弗里斯沿袭KaZaA的P2P技术创立，以免费网络语音起家，很快成为全球跨境通话的事实标准，巅峰注册用户超6亿，中国的外贸人与留学家庭几乎人手一号。2005年9月eBay以26亿美元首付将其收入囊中，2011年5月微软再以85亿美元接手，并借关停Windows Live Messenger将数亿用户导入。但移动时代个人通话被WhatsApp、微信蚕食，疫情期间的增长又被Zoom与自家Teams截流，微软于2025年2月宣布让其退役。2025年5月5日Skype正式停止服务，用户整体并入Microsoft Teams，22年网络电话史落幕，也留下被母公司产品迭代取代的经典样本。",
+ "controversies": [
+  "2013年斯诺登事件披露Skype被纳入美国NSA的PRISM监听项目，与其一贯宣传的加密隐私承诺相悖。"
+ ]
+}

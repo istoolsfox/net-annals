@@ -1,0 +1,121 @@
+{
+ "id": "geocities",
+ "name": "GeoCities",
+ "en_name": "GeoCities",
+ "type": "community",
+ "region": "world",
+ "founded": "1994-11-01",
+ "founded_accuracy": "month",
+ "dissolved": "2009-10-26",
+ "status": "closed",
+ "headline": "互联网最早的『个人主页街区』",
+ "summary_30s": "1994年GeoCities以街区组织个人主页，1997年居民破百万，1999年雅虎35.7亿美元收购。免费服务收紧后，2009年美国站关闭，2019年日本站谢幕，志愿者抢救存档。",
+ "timeline": [
+  {
+   "date": "1994-11-01",
+   "acc": "month",
+   "text": "大卫·博内特与约翰·雷兹纳创立Beverly Hills Internet（BHI），GeoCities为其个人主页服务前身，按街区组织用户主页的构想已经成形。"
+  },
+  {
+   "date": "1995-07-05",
+   "acc": "exact",
+   "text": "免费主页服务新增CapitolHill、Paris、SiliconValley、Tokyo等主题街区，每个「居民」获2MB主页空间，用HTML搭建自己的家。"
+  },
+  {
+   "date": "1995-12-15",
+   "acc": "exact",
+   "text": "公司正式更名GeoCities，每天新增数千名居民、月页面浏览量超600万，成为早期互联网增长最快的站点之一。"
+  },
+  {
+   "date": "1996-10-22",
+   "acc": "exact",
+   "text": "互联网档案馆存下geocities.com的最早快照，手工搭建个人主页的年代自此有档可查。"
+  },
+  {
+   "date": "1997-10-02",
+   "acc": "exact",
+   "text": "第100万名Homesteader（居民）注册，GeoCities成为全球访问量最大的网站之一。"
+  },
+  {
+   "date": "1998-08-01",
+   "acc": "month",
+   "text": "在纳斯达克上市（代码GCTY），发行价17美元，其后股价一度冲上100美元以上。"
+  },
+  {
+   "date": "1999-01-28",
+   "acc": "exact",
+   "text": "雅虎宣布以约35.7亿美元股票收购GeoCities，此时它是全球访问量第三的网站，仅次于AOL与雅虎。"
+  },
+  {
+   "date": "1999-05-28",
+   "acc": "exact",
+   "text": "收购交易完成，雅虎正式接管GeoCities，站点被逐步纳入雅虎的账号与广告体系。"
+  },
+  {
+   "date": "1999-06-01",
+   "acc": "month",
+   "text": "新版服务条款声称拥有用户全部内容权利，引发「居民」大规模抗议与迁出，雅虎随即撤回条款。"
+  },
+  {
+   "date": "2001-01-01",
+   "acc": "year",
+   "text": "雅虎推出收费高级托管，免费账户数据传输被限制在约每小时4.2MB，用户加速流失，个人主页浪潮退去。"
+  },
+  {
+   "date": "2009-04-23",
+   "acc": "exact",
+   "text": "雅虎宣布将关闭美国GeoCities并停止新注册；美国独立访客已从2006年3月的1890万降至2009年3月的1150万。"
+  },
+  {
+   "date": "2009-10-26",
+   "acc": "exact",
+   "text": "美国GeoCities正式关闭，约3800万个用户网页停止服务，志愿者随即启动抢救存档。"
+  },
+  {
+   "date": "2010-10-29",
+   "acc": "exact",
+   "text": "Archive Team以种子形式发布约900GB存档（7z压缩后641GB），成为数字保存运动的标志案例。"
+  },
+  {
+   "date": "2019-03-31",
+   "acc": "exact",
+   "text": "最后一个分站日本版GeoCities关闭，全球再无GeoCities服务，街区时代落幕。"
+  }
+ ],
+ "milestones": [
+  "1997年注册居民突破100万，1999年为全球访问量第三网站",
+  "1998年纳斯达克上市，发行价17美元，股价一度超100美元",
+  "1999年雅虎以35.7亿美元股票完成收购",
+  "关停前托管约3800万个用户网页",
+  "Archive Team发布约900GB存档种子，压缩后641GB"
+ ],
+ "legacy": "志愿者抢救的约900GB存档至今可在互联网档案馆查阅，成为数字保存运动的标志案例；GeoCities的街区式个人主页被视为全球个人主页服务与Web 1.0亚文化的原型。",
+ "sources": [
+  {
+   "title": "Wikipedia: GeoCities",
+   "url": "https://en.wikipedia.org/wiki/GeoCities",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：GeoCities",
+   "url": "https://zh.wikipedia.org/wiki/GeoCities",
+   "type": "wiki"
+  },
+  {
+   "title": "Internet Archive：geocities.com 1996年快照",
+   "url": "https://web.archive.org/web/19961022000000/http://www.geocities.com/",
+   "type": "archive"
+  }
+ ],
+ "tags": [
+  "个人主页",
+  "Web1.0",
+  "雅虎",
+  "数字保存",
+  "互联网考古"
+ ],
+ "bio": "GeoCities是互联网最早的「个人主页街区」，让普通网民第一次能免费在网上拥有自己的家。1994年大卫·博内特与约翰·雷兹纳在美国创办Beverly Hills Internet，以东京、巴黎、硅谷等虚拟街区组织用户主页，每个「居民」获得免费空间；1997年注册居民突破100万，成为全球访问量最大的网站之一。1998年公司在纳斯达克上市，1999年雅虎以约35.7亿美元股票将其收购。此后服务条款风波与免费额度收紧让用户加速流失，站点从流量顶峰一路滑落。2009年10月26日雅虎关闭美国GeoCities，约3800万个个人网页随之下线，志愿者抢救出约900GB存档；最后一个分站日本版于2019年3月31日关闭。它是个人主页时代的原型，也是第一代网民的互联网启蒙。",
+ "controversies": [
+  "1999年6月，雅虎接管后的新版服务条款声称拥有用户内容全部权利，遭「居民」大规模抗议后被迫撤回。"
+ ]
+}

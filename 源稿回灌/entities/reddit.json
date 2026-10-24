@@ -1,0 +1,128 @@
+{
+ "id": "reddit",
+ "name": "Reddit",
+ "en_name": "Reddit",
+ "type": "company",
+ "region": "world",
+ "founded": "2005-06-23",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国旧金山",
+ "headline": "由版块与投票构成的互联网首页",
+ "summary_30s": "Reddit 2005年上线，靠subreddit版块与「顶/踩」投票组织内容，2006年被康泰纳仕收购后在母公司体系内独立运营，2019年月用户已达4.3亿。2021年WallStreetBets散户轧空震动华尔街，2024年3月登陆纽交所，发行定价对应市值约65亿美元。",
+ "timeline": [
+  {
+   "date": "2005-06-23",
+   "acc": "exact",
+   "text": "Reddit上线，由Y Combinator首期孵化的用户投票链接社区，霍夫曼与奥哈尼安搭建了最早的站点。"
+  },
+  {
+   "date": "2005-11-01",
+   "acc": "month",
+   "text": "Aaron Swartz的Infogami并入，参与以Python框架重写站点代码。"
+  },
+  {
+   "date": "2006-10-01",
+   "acc": "month",
+   "text": "被康泰纳仕以约1000万至2000万美元收购，团队迁往旧金山，在出版集团体系内独立运营。"
+  },
+  {
+   "date": "2009-01-01",
+   "acc": "year",
+   "text": "两位创始人先后离开公司，社区由社区经理与志愿版主支撑继续增长。"
+  },
+  {
+   "date": "2011-01-01",
+   "acc": "year",
+   "text": "从康泰纳仕分拆为母公司Advance Publications旗下独立子公司。"
+  },
+  {
+   "date": "2012-01-01",
+   "acc": "year",
+   "text": "新任CEO任内月访问用户从3500万增至1.74亿，同期完成5000万美元融资。"
+  },
+  {
+   "date": "2015-07-01",
+   "acc": "month",
+   "text": "临时CEO鲍康如因用户抗议辞职，创始人霍夫曼回归出任CEO，随后推出官方iOS与Android应用推进移动化。"
+  },
+  {
+   "date": "2018-04-01",
+   "acc": "month",
+   "text": "上线十余年来首次全面改版，统一界面并强化移动端体验。"
+  },
+  {
+   "date": "2021-01-28",
+   "acc": "exact",
+   "text": "r/WallStreetBets散户抱团轧空GameStop，股价两周内从20美元升至483美元，空头机构巨亏平仓。"
+  },
+  {
+   "date": "2021-08-01",
+   "acc": "month",
+   "text": "完成4.1亿美元融资，估值超100亿美元。"
+  },
+  {
+   "date": "2023-06-01",
+   "acc": "month",
+   "text": "API收费新政引发数千个版块6月12日起集体转为私密抗议，知名第三方客户端因年费2000万美元级账单关停。"
+  },
+  {
+   "date": "2024-03-21",
+   "acc": "exact",
+   "text": "登陆纽交所（代码RDDT），发行价34美元、对应市值约65亿美元，首日收盘上涨48%。"
+  },
+  {
+   "date": "2025-02-12",
+   "acc": "exact",
+   "text": "发布2024年Q4财报：单季净利润7100万美元，为上市以来首个盈利季度；全年营收约13亿美元、同比增长62%。"
+  },
+  {
+   "date": "2026-02-05",
+   "acc": "exact",
+   "text": "发布2025年Q4财报：营收7.26亿美元、同比增长70%，净利润2.52亿美元，并宣布10亿美元回购计划。"
+  }
+ ],
+ "milestones": [
+  "2006年被康泰纳仕以约1000万至2000万美元收购",
+  "2019年月用户约4.3亿，活跃subreddit超13万个",
+  "2021年8月融资4.1亿美元，估值超100亿美元",
+  "2024年3月21日纽交所IPO，首日市值约95亿美元",
+  "与Google、OpenAI的AI数据授权约占公司收入一成"
+ ],
+ "legacy": "上市后的Reddit仍居全球访问量最高网站之列，收入以广告为主、AI训练数据授权快速增长，数万个subreddit仍由志愿版主自治。『顶/踩』投票与版块自治机制已成为全球内容社区的通用交互，中文社区的问答与资讯产品同样受其影响。",
+ "sources": [
+  {
+   "title": "Wikipedia: Reddit",
+   "url": "https://en.wikipedia.org/wiki/Reddit",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: GameStop short squeeze",
+   "url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: 2023 Reddit API controversies",
+   "url": "https://en.wikipedia.org/wiki/2023_Reddit_API_controversy",
+   "type": "wiki"
+  },
+  {
+   "title": "CNBC: Reddit posts first profitable quarter as a public company",
+   "url": "https://www.cnbc.com/2025/02/12/reddit-rddt-q4-2024.html",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "Reddit",
+  "社区",
+  "subreddit",
+  "IPO",
+  "WallStreetBets"
+ ],
+ "bio": "Reddit是由subreddit版块与『顶/踩』投票构成的『互联网首页』。2005年6月，史蒂夫·霍夫曼与亚历克西斯·奥哈尼安在Y Combinator首期孵化下上线，同年程序员亚伦·斯沃茨的Infogami并入并参与重写站点。2006年10月被康泰纳仕以约1000万至2000万美元收购，此后在母公司体系内独立生长，版块自治与志愿版主制度成为社区基石；2011年分拆独立，2015年霍夫曼回归CEO后完成移动化与全面改版。2021年1月WallStreetBets散户轧空GameStop令其进入大众视野，同年估值突破100亿美元；2023年6月API收费新政引发数千个版块集体抗议。2024年3月21日登陆纽交所（RDDT），成为AI公司争购训练数据的重要平台。现状：上市后连续超预期，2024年Q4录得上市以来首个盈利季度，广告与AI数据授权双轮驱动。",
+ "controversies": [
+  "2023年6月API收费新政迫使Apollo等第三方客户端关停，数千个版块集体转为私密抗议，社区自治与商业化矛盾公开化。",
+  "2015年临时CEO鲍康如在用户抗议与信任危机中辞职，管理层更迭一度引发社区对平台治理的质疑。"
+ ]
+}

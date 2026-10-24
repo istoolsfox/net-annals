@@ -1,0 +1,149 @@
+{
+ "id": "marc-andreessen",
+ "name": "马克·安德森",
+ "en_name": "Marc Andreessen",
+ "aliases": [],
+ "birth": "1971-07-09",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "网景浏览器缔造者、a16z创始人",
+ "summary_30s": "1993年在NCSA开发Mosaic图形浏览器，次年创办网景推出Navigator，曾占浏览器市场约八成；1995年网景上市引爆.com热潮，2009年联合创办a16z。",
+ "timeline": [
+  {
+   "date": "1971-07-09",
+   "acc": "exact",
+   "text": "生于艾奥瓦州锡达福尔斯，在威斯康星州新里斯本长大；1993年获伊利诺伊大学计算机科学学士学位。"
+  },
+  {
+   "date": "1993-01-01",
+   "acc": "year",
+   "text": "在伊利诺伊大学NCSA与Eric Bina开发出Mosaic，首个在网页内直接显示图片并跨Windows、Mac、Unix普及的图形浏览器，被视为大众互联网时代的开端。"
+  },
+  {
+   "date": "1994-04-01",
+   "acc": "month",
+   "text": "与硅图创始人Jim Clark在加州创办Mosaic Communications，后更名为网景通信（Netscape）。"
+  },
+  {
+   "date": "1994-10-01",
+   "acc": "month",
+   "text": "网景发布浏览器0.9版（后定名Netscape Navigator），数月内成为全球最流行的Web浏览器。"
+  },
+  {
+   "date": "1995-01-01",
+   "acc": "year",
+   "text": "Navigator占据浏览器市场约八成份额；微软随后在Windows中捆绑Internet Explorer，浏览器大战爆发。"
+  },
+  {
+   "date": "1995-08-09",
+   "acc": "exact",
+   "text": "网景IPO：发行价28美元，首日收盘58.25美元，市值近30亿美元，被视为互联网泡沫时代的起点。"
+  },
+  {
+   "date": "1998-01-01",
+   "acc": "year",
+   "text": "网景在与微软的竞争中份额急跌，宣布开放浏览器源代码，成为Mozilla项目的起点。"
+  },
+  {
+   "date": "1999-01-01",
+   "acc": "year",
+   "text": "AOL以约42亿美元股票完成对网景的收购，浏览器大战落幕；安德森短暂出任AOL首席技术官，同年便离职另起炉灶。"
+  },
+  {
+   "date": "1999-09-01",
+   "acc": "month",
+   "text": "与Ben Horowitz联合创办云计算公司Loudcloud，2001年上市后转型为软件公司Opsware。"
+  },
+  {
+   "date": "2007-01-01",
+   "acc": "year",
+   "text": "他联合创办的Opsware以约16亿美元现金出售给惠普，完成第二次成功的企业退出，为其转向风险投资积累了声望与资本。"
+  },
+  {
+   "date": "2009-07-01",
+   "acc": "month",
+   "text": "与Ben Horowitz联合创办风险投资公司Andreessen Horowitz（a16z），首期基金3亿美元。"
+  },
+  {
+   "date": "2011-08-01",
+   "acc": "month",
+   "text": "在《华尔街日报》发表评论文章《软件正在吞噬世界》，断言软件公司将主导经济，成为此后十年科技行业的主导叙事。"
+  },
+  {
+   "date": "2023-10-01",
+   "acc": "month",
+   "text": "发表《技术乐观主义宣言》，倡导加速主义并反对AI悲观论调，成为硅谷AI激进派的旗帜性文件。"
+  },
+  {
+   "date": "2024-05-01",
+   "acc": "month",
+   "text": "a16z完成72亿美元新基金募集，管理资产约460亿美元，持续重仓AI基础设施与开源模型。"
+  },
+  {
+   "date": "2024-07-01",
+   "acc": "month",
+   "text": "公开宣布支持特朗普竞选并组建科技募款阵营，其「技术右翼」立场引发硅谷政治光谱重排。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "a16z继续加码AI初创与国防科技公司，他本人频繁就AI、移民与监管议题发声，是硅谷声量最大的投资人之一。"
+  }
+ ],
+ "achievements": [
+  "1993年主导开发图形浏览器Mosaic，让Web面向普通用户普及",
+  "1994年联合创办网景，Navigator在1995年占浏览器市场约八成份额",
+  "主导1995年8月9日网景IPO，上市首日股价大涨、市值近30亿美元",
+  "1999年网景以约42亿美元并入AOL；创办的Opsware后以16亿美元售予惠普",
+  "2009年与Ben Horowitz联合创办风投a16z，2023年管理资产约350亿美元"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Marc Andreessen",
+   "url": "https://en.wikipedia.org/wiki/Marc_Andreessen",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：马克·安德森",
+   "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89%E5%BE%B7%E6%A3%AE",
+   "type": "wiki"
+  },
+  {
+   "title": "Funding Universe: History of Netscape Communications",
+   "url": "https://www.fundinguniverse.com/company-histories/netscape-communications-corporation-history",
+   "type": "media"
+  },
+  {
+   "title": "W3.org存档：1994年Mosaic Netscape发布通告",
+   "url": "https://www.w3.org/Style/History/www.eit.com/www.lists/www-talk.1994q4/0187.html",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "网景",
+  "浏览器",
+  "互联网",
+  "风险投资",
+  "Mosaic"
+ ],
+ "related_entities": [
+  {
+   "id": "netscape",
+   "name": "网景"
+  },
+  {
+   "id": "aol",
+   "name": "美国在线"
+  },
+  {
+   "id": "facebook",
+   "name": "脸书"
+  }
+ ],
+ "bio": "硅谷连续创业者和顶级风险投资人，网景浏览器的缔造者。1971年生于美国艾奥瓦州，在威斯康星州小镇长大，就读伊利诺伊大学期间进入NCSA参与开发。1993年与Eric Bina写出图形浏览器Mosaic，让普通人第一次能图文并茂地上网；1994年与硅图创始人吉姆·克拉克创办网景，Navigator数月内拿下约八成浏览器份额，1995年8月的IPO引爆整个.com时代。在与微软的浏览器大战落败后，网景1999年并入AOL。他随后创办Loudcloud/Opsware并售予惠普，2009年与本·霍洛维茨创立风投a16z，先后投出Facebook、Airbnb、Coinbase等明星公司；2011年提出「软件正在吞噬世界」，近年押注AI并公开鼓吹技术乐观主义，成为硅谷最具声量的意见领袖之一。",
+ "legacy": "Mosaic让普通人第一次「看见」互联网，a16z则塑造了此后十余年硅谷顶级创业公司的融资范式；他提出的「软件吞噬世界」至今仍是行业主叙事，如今是AI加速主义最知名的旗手。"
+}

@@ -1,0 +1,115 @@
+{
+ "id": "paul-mockapetris",
+ "name": "保罗·莫卡派乔斯",
+ "en_name": "Paul Mockapetris",
+ "aliases": [],
+ "birth": "1948-11-18",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "域名系统DNS发明人",
+ "summary_30s": "1983年在USC ISI发布RFC 882/883，发明域名系统DNS，以分层分布式查询取代单点主机表，支撑全球数十亿域名解析；1987年定稿现行规范，2012年入选互联网名人堂。",
+ "timeline": [
+  {
+   "date": "1948-11-18",
+   "acc": "exact",
+   "text": "生于美国波士顿，后随家人迁居加州，学生时代即涉足计算机辅助医学诊断等交叉项目。"
+  },
+  {
+   "date": "1971-01-01",
+   "acc": "year",
+   "text": "获麻省理工学院物理学与电气工程两个学士学位。"
+  },
+  {
+   "date": "1982-01-01",
+   "acc": "year",
+   "text": "获加州大学欧文分校信息与计算机科学博士学位，随后加入南加州大学信息科学研究所（USC ISI）。"
+  },
+  {
+   "date": "1983-11-01",
+   "acc": "month",
+   "text": "发布RFC 882/883，提出分层、分布式的域名系统DNS，以树状命名空间与分布式解析取代全网统一的hosts.txt主机表。"
+  },
+  {
+   "date": "1984-01-01",
+   "acc": "year",
+   "text": "写出首个DNS服务器实现Jeeves与配套解析器，域名系统在ARPANET投入运行。"
+  },
+  {
+   "date": "1987-11-01",
+   "acc": "month",
+   "text": "发布RFC 1034/1035，定稿沿用至今的DNS技术规范，此后DNS随互联网扩张承担全球海量解析。"
+  },
+  {
+   "date": "1995-01-01",
+   "acc": "year",
+   "text": "转入产业界，加入有线电视高速上网公司@Home任软件负责人，此后在多家网络公司任职。"
+  },
+  {
+   "date": "1999-01-01",
+   "acc": "year",
+   "text": "联合创办域名软件公司Nominum，出任首席科学家兼董事长，主导企业级DNS与地址管理软件至2016年。"
+  },
+  {
+   "date": "2003-01-01",
+   "acc": "year",
+   "text": "获IEEE互联网奖，2005年再获ACM SIGCOMM奖，均表彰其发明域名系统的奠基性贡献。"
+  },
+  {
+   "date": "2012-01-01",
+   "acc": "year",
+   "text": "入选首批互联网名人堂（Internet Hall of Fame）。"
+  },
+  {
+   "date": "2018-01-01",
+   "acc": "year",
+   "text": "Nominum被Neustar收购，此后转任DNS安全公司ThreatSTOP首席科学家，专注以DNS数据对抗网络威胁。"
+  },
+  {
+   "date": "2020-01-01",
+   "acc": "year",
+   "text": "因发明DNS获ACM软件系统奖。"
+  },
+  {
+   "date": "2026-01-01",
+   "acc": "year",
+   "text": "仍以ThreatSTOP首席科学家身份活跃于DNS安全与互联网架构讨论，年逾七旬常在业内回顾DNS的设计取舍。"
+  }
+ ],
+ "achievements": [
+  "1983年单署发布RFC 882/883，发明域名系统DNS",
+  "实现首个DNS服务器Jeeves，1987年定稿现行规范RFC 1034/1035",
+  "1999-2016年任域名软件公司Nominum首席科学家兼董事长",
+  "获2003年IEEE互联网奖与2005年ACM SIGCOMM奖",
+  "2012年入选首批互联网名人堂"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Paul Mockapetris",
+   "url": "https://en.wikipedia.org/wiki/Paul_Mockapetris",
+   "type": "wiki"
+  },
+  {
+   "title": "RFC Editor: RFC 882 Domain names - Concepts and Facilities",
+   "url": "https://www.rfc-editor.org/info/rfc882",
+   "type": "official"
+  },
+  {
+   "title": "USC ISI: And the DNS was Born",
+   "url": "https://www.isi.edu/news/972810/and-the-dns-was-born",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "DNS",
+  "域名系统",
+  "互联网",
+  "RFC",
+  "USC ISI"
+ ],
+ "bio": "保罗·莫卡派乔斯（Paul Mockapetris），美国计算机科学家，域名系统（DNS）发明人。生于波士顿，1971年获麻省理工物理学与电气工程双学士，1982年获加州大学欧文分校计算机科学博士，随后进入南加州大学信息科学研究所（USC ISI）。1983年他受命解决ARPANET主机表日益失控的问题，设计出分层、分布式的域名系统，同年11月发布RFC 882/883，1984年写出首个实现Jeeves，1987年定稿现行规范RFC 1034/1035。DNS此后支撑起数十亿设备的全球寻址，成为互联网最重要的基础设施之一。他后来转入产业界，曾任@Home软件负责人，1999年联合创办域名软件公司Nominum，后又转任DNS安全公司ThreatSTOP首席科学家，2012年入选首批互联网名人堂，2020年获ACM软件系统奖。",
+ "legacy": "DNS让“名字”与“地址”解耦，成为互联网从几百台主机扩张到数十亿设备的前提；他此后四十年从标准、企业软件到DNS安全的持续守护，都是这套系统的延长线。"
+}

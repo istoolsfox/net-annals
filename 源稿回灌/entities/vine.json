@@ -1,0 +1,93 @@
+{
+ "id": "vine",
+ "name": "Vine",
+ "en_name": "Vine",
+ "type": "company",
+ "region": "world",
+ "founded": "2012-06-01",
+ "founded_accuracy": "month",
+ "dissolved": "2017-01-17",
+ "status": "closed",
+ "hq": "美国纽约",
+ "headline": "六秒循环短视频的鼻祖",
+ "summary_30s": "2012年创立、旋即被Twitter以3000万美元收编，六秒循环视频捧红初代短视频网红，月活一度超2亿；因创作者无变现而出走，2017年停服，短视频形态由抖音、快手接棒。",
+ "timeline": [
+  {
+   "date": "2012-06-01",
+   "acc": "month",
+   "text": "Rus Yusupov、Dom Hofmann与Colin Kroll在纽约创立Vine，定下六秒循环视频的产品形态。"
+  },
+  {
+   "date": "2012-10-01",
+   "acc": "month",
+   "text": "尚未上线即被Twitter以约3000万美元收购，视频社交赛道当时的想象空间可见一斑。"
+  },
+  {
+   "date": "2013-01-24",
+   "acc": "exact",
+   "text": "iOS版上线，六秒自动循环播放的信息流迅速蹿红，「Vine Famous」成为网络文化现象。"
+  },
+  {
+   "date": "2013-06-02",
+   "acc": "exact",
+   "text": "Android版发布，创作者生态扩张，捧红Shawn Mendes等由短视频走向主流的网红。"
+  },
+  {
+   "date": "2014-01-01",
+   "acc": "year",
+   "text": "联合创始人Yusupov与Kroll相继离开Vine，团队并入Twitter体系，产品迭代明显放缓。"
+  },
+  {
+   "date": "2015-01-01",
+   "acc": "year",
+   "text": "月活跃用户超过2亿，站上服务历史的巅峰；但头部创作者缺乏变现通道，YouTube与Instagram的分成模式更具吸引力。"
+  },
+  {
+   "date": "2016-10-27",
+   "acc": "exact",
+   "text": "Twitter宣布关闭Vine移动应用、停用上传功能，创作者变现缺位导致的用户与网红流失被视为直接原因。"
+  },
+  {
+   "date": "2017-01-17",
+   "acc": "exact",
+   "text": "Vine正式停服，应用转为只能录制不能浏览的Vine Camera，「短-快-洗脑」的循环短视频基因此后由抖音、快手接棒放大。"
+  },
+  {
+   "date": "2017-01-20",
+   "acc": "exact",
+   "text": "Vine Archive上线，全部历史视频开放浏览与下载，成为一代网友的公共记忆库。"
+  },
+  {
+   "date": "2018-04-01",
+   "acc": "month",
+   "text": "Vine Archive停用，六秒时代的公共存档下线；创始团队此后创办的HQ Trivia亦在数年后落幕。"
+  }
+ ],
+ "milestones": [
+  "2012年10月被Twitter以3000万美元收购，收购时应用尚未上线",
+  "六秒循环视频，2015年12月月活跃用户超2亿",
+  "捧红Shawn Mendes等初代短视频创作者与『Vine Famous』文化",
+  "2017年1月17日停服，20日全量视频归档上线，2018年4月归档停用"
+ ],
+ "legacy": "应用2017年1月17日停服、存档2018年下线，团队四散（多名创始人转而创办HQ Trivia）；六秒循环确立的短平快爆款逻辑经抖音、快手以亿级日活放大，被视为短视频时代的产品基因源头。",
+ "sources": [
+  {
+   "title": "Wikipedia: Vine (service)",
+   "url": "https://en.wikipedia.org/wiki/Vine_(service)",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：Vine",
+   "url": "https://zh.wikipedia.org/wiki/Vine",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "短视频",
+  "Twitter",
+  "社交媒体",
+  "抖音",
+  "快手"
+ ],
+ "bio": "Vine是一款六秒循环短视频应用，由Rus Yusupov、Dom Hofmann与Colin Kroll于2012年在纽约创立，同年被Twitter以约3000万美元收购。2013年1月iOS版上线，六秒自动循环的形态迅速蹿红，捧红Shawn Mendes等一批创作者，「Vine Famous」成为网络文化现象，2015年月活跃用户超过2亿。但Vine始终没有为创作者建立变现体系，头部网红流向Instagram与YouTube；2016年10月Twitter宣布关闭应用，2017年1月17日正式停服，2018年存档下线。Vine从上线到关停不到四年，却确立了短时长、强节奏、易模仿的爆款逻辑，这一基因此后被抖音、快手以亿级日活放大，短视频时代的产品基因大半可以追溯到它。"
+}

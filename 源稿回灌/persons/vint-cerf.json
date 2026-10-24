@@ -1,0 +1,124 @@
+{
+ "id": "vint-cerf",
+ "name": "文顿·瑟夫",
+ "en_name": "Vint Cerf",
+ "aliases": [
+  "Vinton Gray Cerf",
+  "互联网之父"
+ ],
+ "birth": "1943-06-23",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "TCP/IP共同设计者、互联网先驱",
+ "summary_30s": "与Bob Kahn共同设计TCP/IP，1974年论文奠定互联网基础，1983年ARPANET全面切换该协议；后任谷歌副总裁兼首席互联网布道师，2004年与Kahn共获图灵奖。",
+ "timeline": [
+  {
+   "date": "1943-06-23",
+   "acc": "exact",
+   "text": "生于康涅狄格州纽黑文，中学时代痴迷科幻与计算机，曾随Apollo计划工程师实习。"
+  },
+  {
+   "date": "1965-01-01",
+   "acc": "year",
+   "text": "获斯坦福大学数学学士学位，进入IBM担任系统工程师。"
+  },
+  {
+   "date": "1972-01-01",
+   "acc": "year",
+   "text": "获加州大学洛杉矶分校计算机科学博士学位，读博期间参与ARPANET首个节点联网与网络性能测量。"
+  },
+  {
+   "date": "1973-01-01",
+   "acc": "year",
+   "text": "任斯坦福大学助理教授，与在DARPA的Bob Kahn启动“互联网计划”，研究用统一协议连接不同分组交换网络。"
+  },
+  {
+   "date": "1974-05-01",
+   "acc": "month",
+   "text": "与Kahn发表《A Protocol for Packet Network Intercommunication》，系统提出TCP设计，奠定互联网协议基础。"
+  },
+  {
+   "date": "1976-01-01",
+   "acc": "year",
+   "text": "转入DARPA任项目经理，主持互联网、分组无线网（PRNET）与分组卫星网（SATNET）研究，推动TCP/IP原型在多网络间打通。"
+  },
+  {
+   "date": "1982-01-01",
+   "acc": "year",
+   "text": "加入MCI任数字信息服务副总裁，主导开发电子邮件服务MCI Mail，把商业邮件接入互联网络。"
+  },
+  {
+   "date": "1983-01-01",
+   "acc": "exact",
+   "text": "ARPANET全网从NCP切换至TCP/IP（“标志日”），异构网络互联自此有了统一协议，互联网运行的基础就此确立。"
+  },
+  {
+   "date": "1986-01-01",
+   "acc": "year",
+   "text": "加入Kahn创办的CNRI任副总裁，继续主持互联网标准与基础设施研究。"
+  },
+  {
+   "date": "2000-01-01",
+   "acc": "year",
+   "text": "出任ICANN主席至2007年，深度参与全球互联网治理架构的搭建。"
+  },
+  {
+   "date": "2004-01-01",
+   "acc": "year",
+   "text": "与Kahn获ACM图灵奖，表彰其开创互联网通信协议的贡献；两人此前已获1997年美国国家技术奖章。"
+  },
+  {
+   "date": "2005-10-01",
+   "acc": "month",
+   "text": "加入谷歌任副总裁兼首席互联网布道师；同年11月与Kahn获美国总统自由勋章。"
+  },
+  {
+   "date": "2026-07-01",
+   "acc": "month",
+   "text": "正式卸任谷歌副总裁兼首席互联网布道师，结束近21年任期；卸任前告诫业界，AI智能体时代需要真正的协议。"
+  }
+ ],
+ "achievements": [
+  "与Bob Kahn共同设计TCP/IP，1974年发表协议奠基论文",
+  "1976-1982年在DARPA主持互联网及分组无线/卫星网研究",
+  "推动1983年1月1日ARPANET全面切换至TCP/IP",
+  "1997年获美国国家技术奖章，2005年获总统自由勋章",
+  "2004年获图灵奖；2005-2026年任谷歌副总裁兼首席互联网布道师"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Vint Cerf",
+   "url": "https://en.wikipedia.org/wiki/Vint_Cerf",
+   "type": "wiki"
+  },
+  {
+   "title": "ACM图灵奖页面：Vinton G. Cerf",
+   "url": "https://amturing.acm.org/award_winners/cerf_1083a67.cfm",
+   "type": "official"
+  },
+  {
+   "title": "TechCrunch: The 'Father of the Internet' is finally retiring",
+   "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring",
+   "type": "media"
+  }
+ ],
+ "tags": [
+  "TCP/IP",
+  "互联网",
+  "谷歌",
+  "ARPANET",
+  "图灵奖"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  }
+ ],
+ "bio": "文顿·瑟夫（Vint Cerf），美国计算机科学家，TCP/IP协议共同设计者，与鲍勃·卡恩并称“互联网之父”。1943年生于康涅狄格州纽黑文，斯坦福大学数学系毕业后进入IBM任系统工程师，1972年获加州大学洛杉矶分校计算机科学博士，读博期间参与ARPANET早期组网与性能测量。1973年起与卡恩研究用统一协议互联异构网络，1974年发表TCP奠基论文，推动1983年1月1日ARPANET全网切换TCP/IP，互联网自此有了统一“语言”。此后历任DARPA项目经理、MCI副总裁、CNRI副总裁，2000至2007年任ICANN主席，2005年加入谷歌任副总裁兼首席互联网布道师。2004年与卡恩同获图灵奖，次年再获美国总统自由勋章。",
+ "legacy": "TCP/IP把无数异构网络焊成一个互联网，图灵奖与“互联网之父”之称是对这一工作的定论；卸任谷歌布道师后，他仍以高龄活跃于互联网治理、星际网络与无障碍技术等议题。"
+}

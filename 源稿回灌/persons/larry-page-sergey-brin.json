@@ -1,0 +1,161 @@
+{
+ "id": "larry-page-sergey-brin",
+ "name": "佩奇与布林",
+ "en_name": "Larry Page & Sergey Brin",
+ "aliases": [
+  "拉里·佩奇",
+  "谢尔盖·布林",
+  "佩奇",
+  "布林"
+ ],
+ "birth": "1973-03-26",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "谷歌与Alphabet联合创始人",
+ "summary_30s": "本条为二人合传。佩奇生于1973年3月26日，布林生于1973年8月21日，两人1995年在斯坦福大学相识，1998年在加州一间车库共同创立谷歌，以PageRank算法革新网页搜索；2004年上市募资约16.7亿美元，先后收购Android与YouTube，2015年重组为Alphabet，2019年12月3日同日卸任全部管理职务。",
+ "timeline": [
+  {
+   "date": "1973-03-26",
+   "acc": "exact",
+   "text": "拉里·佩奇生于美国密歇根州东兰辛，父母均为密歇根州立大学计算机领域的学者，他自幼在充满技术氛围的家庭长大。"
+  },
+  {
+   "date": "1973-08-21",
+   "acc": "exact",
+   "text": "谢尔盖·布林生于苏联莫斯科，1979年6岁时随家人移民美国，父亲为马里兰大学数学教授。"
+  },
+  {
+   "date": "1995-01-01",
+   "acc": "year",
+   "text": "佩奇在斯坦福大学攻读博士期间结识新入学的研究生布林，两人围绕网页链接关系展开合作研究。"
+  },
+  {
+   "date": "1996-01-01",
+   "acc": "year",
+   "text": "两人开发出以链接分析为核心的搜索项目BackRub，在斯坦福大学的服务器上运行。"
+  },
+  {
+   "date": "1997-09-15",
+   "acc": "exact",
+   "text": "项目更名Google，取自数学术语googol（10的100次方）的变体拼写，google.com域名于9月15日完成注册。"
+  },
+  {
+   "date": "1998-09-04",
+   "acc": "exact",
+   "text": "两人在加州门洛帕克苏珊·沃西基家的车库正式创立谷歌，此前投资人贝托尔斯海姆已开出10万美元支票。"
+  },
+  {
+   "date": "2001-03-01",
+   "acc": "month",
+   "text": "邀请Novell公司CEO埃里克·施密特出任谷歌CEO，佩奇转任产品总裁、布林任技术总裁，引入成熟管理。"
+  },
+  {
+   "date": "2004-04-01",
+   "acc": "month",
+   "text": "谷歌发布免费邮箱服务Gmail，提供1GB存储空间并附带搜索功能，容量远超当时主流竞争对手，引发抢注热潮。"
+  },
+  {
+   "date": "2004-08-19",
+   "acc": "exact",
+   "text": "谷歌以每股85美元在纳斯达克上市，IPO募资约16.7亿美元，公司市值约230亿美元。"
+  },
+  {
+   "date": "2005-07-01",
+   "acc": "month",
+   "text": "以约5000万美元收购安迪·鲁宾创立的Android公司，为移动操作系统时代提前布局。"
+  },
+  {
+   "date": "2006-10-09",
+   "acc": "exact",
+   "text": "宣布以16.5亿美元股票收购视频网站YouTube，奠定在线视频领域的领先地位。"
+  },
+  {
+   "date": "2011-04-04",
+   "acc": "exact",
+   "text": "佩奇时隔十年重新出任谷歌CEO，推动砍掉冗余产品线；布林则转向负责Google X等前沿创新项目。"
+  },
+  {
+   "date": "2015-08-10",
+   "acc": "exact",
+   "text": "谷歌宣布重组为控股公司Alphabet，佩奇出任CEO、布林任总裁，皮查伊接掌谷歌。"
+  },
+  {
+   "date": "2019-12-03",
+   "acc": "exact",
+   "text": "两人同日宣布卸任Alphabet全部管理职务，皮查伊兼任谷歌与Alphabet两家公司CEO。"
+  },
+  {
+   "date": "2023-04-01",
+   "acc": "month",
+   "text": "ChatGPT引发的AI危机中，两人多次重返谷歌参与战略讨论与产品评审，推动公司将AI列为最高优先级。"
+  },
+  {
+   "date": "2023-12-01",
+   "acc": "month",
+   "text": "谷歌发布对标GPT-4的大模型Gemini，宣告AI竞赛全面重启，此后Gemini持续迭代成为公司核心战略产品。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "布林重返谷歌一线参与Gemini研发，佩奇则以大股东与顾问身份关注AI及前沿项目。"
+  },
+  {
+   "date": "2025-09-15",
+   "acc": "exact",
+   "text": "Alphabet市值突破3万亿美元，成为美国第四家达到该里程碑的公司，AI驱动的业绩与反垄断判决转好是主要推手。"
+  }
+ ],
+ "achievements": [
+  "1998年在斯坦福创业，PageRank算法使谷歌成长为全球使用最广的搜索引擎",
+  "主导2004年谷歌上市募资16.7亿美元，2005年收购Android、2006年收购YouTube",
+  "2015年推动谷歌重组为Alphabet，分任CEO与总裁至2019年同日卸任",
+  "2020年Alphabet市值突破1万亿美元，二人借双层股权保持公司控制权"
+ ],
+ "controversies": [],
+ "quotes": [
+  "如果你在改变世界，你就在做重要的事，你会渴望清晨起床。——2009年密歇根大学毕业演讲（佩奇）"
+ ],
+ "sources": [
+  {
+   "title": "Wikipedia: Larry Page",
+   "url": "https://en.wikipedia.org/wiki/Larry_Page",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Sergey Brin",
+   "url": "https://en.wikipedia.org/wiki/Sergey_Brin",
+   "type": "wiki"
+  },
+  {
+   "title": "Alphabet公司官网",
+   "url": "https://abc.xyz/",
+   "type": "official"
+  },
+  {
+   "title": "CNBC: Alphabet becomes fourth company to reach $3 trillion",
+   "url": "https://www.cnbc.com/2025/09/15/alphabet-3-trillion-market-cap.html",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "谷歌",
+  "Alphabet",
+  "搜索引擎",
+  "Android",
+  "硅谷"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  },
+  {
+   "id": "youtube",
+   "name": "YouTube"
+  }
+ ],
+ "bio": "本条为二人合传：拉里·佩奇1973年3月生于美国密歇根州东兰辛，父母均为计算机学者；谢尔盖·布林1973年8月生于莫斯科，6岁随家人移民美国。两人1995年在斯坦福大学博士项目中相识，围绕网页链接关系合作研究，1998年以PageRank算法为基础，在加州门洛帕克一间车库创立谷歌。谷歌迅速成长为全球最大搜索引擎，2004年上市，随后通过收购Android与YouTube分别卡位移动与视频，2015年重组为Alphabet。两人在2019年底同日卸任全部管理职务，退居大股东与董事；ChatGPT冲击后二人重返一线参与AI决策，谷歌发布Gemini大模型重回竞赛第一梯队，Alphabet市值2025年9月突破3万亿美元。",
+ "legacy": "他们创立的谷歌成为人类获取信息的主要入口，Android与YouTube分别定义了移动操作系统与在线视频；两人虽已卸任管理职务，仍以超级投票权股东身份掌控Alphabet的方向。"
+}

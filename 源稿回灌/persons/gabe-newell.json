@@ -1,0 +1,135 @@
+{
+ "id": "gabe-newell",
+ "name": "Gabe Newell",
+ "en_name": "Gabe Newell",
+ "aliases": [
+  "G胖",
+  "加布·纽维尔"
+ ],
+ "birth": "1962-11-03",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "game",
+ "region": "world",
+ "headline": "Valve创始人、Steam之父",
+ "summary_30s": "Valve联合创始人，1996年离开微软创业，主导《半衰期》《传送门》《Dota 2》等系列，2003年推出Steam并将其发展为全球最大PC游戏平台，同时在线峰值超4000万。",
+ "timeline": [
+  {
+   "date": "1962-11-03",
+   "acc": "exact",
+   "text": "1962年11月3日生于美国科罗拉多州，后随家人定居加州戴维斯，少年时痴迷计算机与电子游戏。"
+  },
+  {
+   "date": "1980-01-01",
+   "acc": "year",
+   "text": "考入哈佛大学，就读期间接触早期个人电脑并旁听多门课程，此后选择辍学投身软件行业。"
+  },
+  {
+   "date": "1983-01-01",
+   "acc": "year",
+   "text": "加入微软，此后13年参与Windows早期版本的产品与发行管理，积累了业界资源与第一桶金。"
+  },
+  {
+   "date": "1996-08-24",
+   "acc": "exact",
+   "text": "与微软同事Mike Harrington在华盛顿州创立Valve公司，启动资金来自两人在微软股票期权上的分成。"
+  },
+  {
+   "date": "1998-11-19",
+   "acc": "exact",
+   "text": "Valve首作《半衰期》发售，获全球50余个年度游戏奖项，确立叙事射击游戏的行业标杆。"
+  },
+  {
+   "date": "2000-01-01",
+   "acc": "year",
+   "text": "联合创始人Harrington离职，纽维尔成为公司唯一所有人，推动Valve转向无层级的工作室体制。"
+  },
+  {
+   "date": "2003-09-12",
+   "acc": "exact",
+   "text": "推出Steam数字发行平台，最初用于《半衰期》系列更新与反作弊，业界普遍不看好。"
+  },
+  {
+   "date": "2004-11-16",
+   "acc": "exact",
+   "text": "《半衰期2》发售并绑定Steam，数字商店借助巨作完成冷启动，用户量开始爆发式增长。"
+  },
+  {
+   "date": "2007-10-10",
+   "acc": "exact",
+   "text": "《橙盒》合集发售，《传送门》与《军团要塞2》同日问世，Valve原创IP矩阵成形。"
+  },
+  {
+   "date": "2011-04-19",
+   "acc": "exact",
+   "text": "《传送门2》发售获满堂彩，此后Valve明显放慢新作节奏，把资源转向平台与电竞生态。"
+  },
+  {
+   "date": "2013-07-01",
+   "acc": "month",
+   "text": "Dota 2正式发行，TI国际邀请赛以用户众筹把赛事奖金推高数千万美元，推动电竞职业化。"
+  },
+  {
+   "date": "2021-07-01",
+   "acc": "month",
+   "text": "乘私人深潜器抵达马里亚纳海沟挑战者深渊（深约1.1万米），成为到达人类已知最深处的人物之一，并在海底完成直播连线。"
+  },
+  {
+   "date": "2022-02-25",
+   "acc": "exact",
+   "text": "Steam Deck掌机发售，以PC兼容与性价比打开便携市场，Valve正式进入便携PC游戏硬件领域。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "Steam同时在线人数峰值突破4000万，月活跃用户超1.3亿，稳居全球最大PC游戏平台。"
+  },
+  {
+   "date": "2025-11-12",
+   "acc": "exact",
+   "text": "公布Steam Machine客厅主机、新手柄与Steam Frame VR头显三款新硬件，宣告重返客厅市场。"
+  },
+  {
+   "date": "2026-06-01",
+   "acc": "month",
+   "text": "新一代Steam Machine主机于年中发售，Valve完成从掌机到客厅的硬件布局。"
+  }
+ ],
+ "achievements": [
+  "创立Valve，推出《半衰期》《传送门》《Dota 2》《CS:GO》等系列作品",
+  "2003年推出Steam，发展为全球最大PC游戏平台，同时在线峰值超4000万",
+  "推动游戏数字发行、打折促销与用户创意工坊等模式的普及",
+  "以赛事奖金众筹推动Dota 2电竞生态，TI国际邀请赛奖金池一度突破4000万美元",
+  "2022年推出Steam Deck，切入掌机硬件市场"
+ ],
+ "controversies": [
+  "Steam 30%的抽成比例长期被开发商批评，2021年Wolfire等公司对其发起反垄断诉讼"
+ ],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Gabe Newell",
+   "url": "https://en.wikipedia.org/wiki/Gabe_Newell",
+   "type": "wiki"
+  },
+  {
+   "title": "Valve官网",
+   "url": "https://www.valvesoftware.com/",
+   "type": "official"
+  },
+  {
+   "title": "Steam商店官网",
+   "url": "https://store.steampowered.com/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "游戏",
+  "Valve",
+  "Steam",
+  "电子竞技",
+  "PC游戏"
+ ],
+ "bio": "Valve联合创始人、Steam数字发行平台缔造者，被玩家昵称为「G胖」。1962年11月3日生于美国科罗拉多，哈佛大学辍学后加入微软，13年间参与Windows早期版本的产品与发行管理。1996年与同为微软出身的Mike Harrington创立Valve，1998年以《半衰期》一战成名，确立叙事射击游戏的标杆；2000年独掌公司后转向扁平化的工作室体制。2003年顶着盗版泛滥、宽带未普及的质疑推出Steam，借《半衰期2》强制绑定完成冷启动，此后把Valve变成全球最大的PC游戏发行与运营平台，同时在线人数突破4000万。他主导的《传送门》《Dota 2》《CS:GO》以及打折促销、创意工坊、Steam Deck等机制深刻改变了PC游戏生态。2025年Valve公布Steam Machine等新一代硬件，2026年陆续发售，Steam仍是PC游戏事实上的基础设施，他本人始终拒绝上市与扩张压力，保持公司私营。",
+ "legacy": "Steam把全球PC游戏搬到线上，Valve以《半衰期》《传送门》等作品定义了游戏叙事与平台运营的标准；他仍执掌私营的Valve，持续推进掌机、客厅与VR硬件。"
+}

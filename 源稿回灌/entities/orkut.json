@@ -1,0 +1,111 @@
+{
+ "id": "orkut",
+ "name": "Orkut",
+ "en_name": "Orkut",
+ "type": "company",
+ "region": "world",
+ "founded": "2004-01-01",
+ "founded_accuracy": "month",
+ "dissolved": "2014-09-30",
+ "status": "closed",
+ "hq": "美国加州山景城",
+ "headline": "巴西国民社交与Google的社交遗产",
+ "summary_30s": "2004年1月Google内部项目上线，增长绕开中美，在巴西、印度聚起约3亿注册用户；被Google+取代后边缘化，2014年9月30日关停，后继的Hello亦未复刻。",
+ "timeline": [
+  {
+   "date": "2003-01-01",
+   "acc": "year",
+   "text": "谷歌工程师Orkut Büyükkökten利用20%自由时间开始搭建社交项目，次年以邀请制上线，成为谷歌的第一个社交网络。"
+  },
+  {
+   "date": "2004-01-01",
+   "acc": "month",
+   "text": "Orkut于1月悄然上线，邀请制社区与好友链形态同Friendster相仿，初期用户以硅谷科技圈为主。"
+  },
+  {
+   "date": "2004-03-31",
+   "acc": "exact",
+   "text": "上线首季访问量美国占51.36%、日本7.74%、巴西仅5.16%，此后增长重心很快滑向拉美。"
+  },
+  {
+   "date": "2008-01-01",
+   "acc": "year",
+   "text": "Orkut成为巴西、印度访问量最大的网站之一，谷歌把运营整体迁至巴西贝洛奥里藏特；同期中国校园社交由QQ空间与校内网主导，Orkut在中国内地几乎无人使用。"
+  },
+  {
+   "date": "2010-01-01",
+   "acc": "year",
+   "text": "注册用户达约3亿的峰值，用户高度集中于巴西与印度，产品迭代却愈发迟缓，卡顿与宕机频发。"
+  },
+  {
+   "date": "2011-06-28",
+   "acc": "exact",
+   "text": "谷歌发布Google+并将其列为社交主阵地，Orkut资源被抽走，用户加速流向Facebook。"
+  },
+  {
+   "date": "2012-01-01",
+   "acc": "year",
+   "text": "2011至2012年间Facebook在巴西的用户数反超Orkut，其最后的腹地被夺走，此后再无翻身机会。"
+  },
+  {
+   "date": "2014-06-30",
+   "acc": "exact",
+   "text": "谷歌宣布将于9月30日关闭Orkut，7月起停止新账户注册，此时巴西仍有约3270万用户，社区情感浓烈但商业价值不再。"
+  },
+  {
+   "date": "2014-09-30",
+   "acc": "exact",
+   "text": "Orkut正式关停，关停前流量巴西占55.5%、印度占18.4%；用户可经Google Takeout导出数据，公开内容移入在线社区存档。"
+  },
+  {
+   "date": "2016-05-01",
+   "acc": "month",
+   "text": "创始人推出后继社交应用Hello，从巴西起步尝试复刻社区氛围，但未能重现Orkut的国民地位。"
+  },
+  {
+   "date": "2026-10-09",
+   "acc": "exact",
+   "text": "TechCrunch报道创始人Büyükkökten正筹划让Orkut以新形态回归，重启这个12年前关停的巴西国民社区。"
+  }
+ ],
+ "milestones": [
+  "巅峰注册用户约3亿，集中于巴西与印度",
+  "2008年起由Google巴西贝洛奥里藏特团队运营",
+  "宣布关停时巴西仍有约3270万用户",
+  "关停前流量构成：巴西55.5%、印度18.4%、中国6.4%"
+ ],
+ "legacy": "Orkut以巴西、印度为腹地做到约3亿注册用户，是谷歌社交实验中活得最久的一个；关停后记忆只存于用户导出与公共存档，Hello亦告失败，成为谷歌社交战略折戟的方向性注脚。",
+ "sources": [
+  {
+   "title": "Orkut - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Orkut",
+   "type": "wiki"
+  },
+  {
+   "title": "Google kills Orkut - Forbes",
+   "url": "https://www.forbes.com/sites/ellenhuet/2014/06/30/google-kills-orkut",
+   "type": "news"
+  },
+  {
+   "title": "Google to shut down Orkut in September - Reuters",
+   "url": "https://www.reuters.com/article/technology/google-to-shut-down-social-networking-service-orkut-in-september-idUSKBN0F51ZC",
+   "type": "news"
+  },
+  {
+   "title": "Remember Orkut? Its founder wants to bring it back - TechCrunch",
+   "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "社交网络",
+  "Google",
+  "巴西",
+  "印度",
+  "Hello"
+ ],
+ "bio": "Orkut是谷歌的第一个社交网络，也是巴西的『国民社区』。2003年起谷歌工程师Orkut Büyükkökten利用20%自由时间搭建，2004年1月以邀请制上线。增长绕开中美市场，在巴西与印度意外走红，2008年运营重心迁至巴西贝洛奥里藏特，注册用户累计约3亿，一度是巴西流量最大的网站；但产品迭代迟缓、卡顿宕机频发，2011年6月Google+上线后资源被抽走，用户加速流向Facebook，最后的腹地也被夺走。2014年6月30日谷歌宣布9月30日关停，此时巴西仍有约3270万用户。关停后用户数据可经Google Takeout导出，创始人2016年推出的后继应用Hello亦未复刻其社区氛围；2026年10月媒体报道创始人正筹划让Orkut以新形态回归。",
+ "controversies": [
+  "2005至2006年巴西司法机构多次要求交出涉犯罪调查的用户数据，与谷歌隐私政策冲突，谷歌一度威胁关停巴西业务。"
+ ]
+}

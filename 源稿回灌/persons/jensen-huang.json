@@ -1,0 +1,128 @@
+{
+ "id": "jensen-huang",
+ "name": "黄仁勋",
+ "en_name": "Jensen Huang",
+ "aliases": [
+  "老黄"
+ ],
+ "birth": "1963-02-17",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "ai",
+ "region": "world",
+ "headline": "英伟达创始人",
+ "summary_30s": "英伟达（NVIDIA）创始人兼CEO，1993年创立公司并以GPU重塑图形计算，2006年押注CUDA通用计算布局AI，三十年后英伟达成为人工智能时代的算力底座，市值一度突破三万亿美元。",
+ "timeline": [
+  {
+   "date": "1963-02-17",
+   "acc": "exact",
+   "text": "1963年2月17日生于台湾台南，幼年部分时光由祖父母照看，台南的市井生活构成他对故乡的记忆。"
+  },
+  {
+   "date": "1973-01-01",
+   "acc": "year",
+   "text": "1973年，约十岁的他与兄长被送往美国，先后经历肯塔基州寄宿学校与俄勒冈州的求学岁月，靠打工完成学业。"
+  },
+  {
+   "date": "1983-01-01",
+   "acc": "year",
+   "text": "在校期间进入AMD担任微处理器设计师，1985年转入LSI Logic，后升任CoreWare部门总监。"
+  },
+  {
+   "date": "1984-01-01",
+   "acc": "year",
+   "text": "1984年从俄勒冈州立大学电气工程专业毕业，半工半读完成学业，成为家族中最早的大学生之一。"
+  },
+  {
+   "date": "1992-01-01",
+   "acc": "year",
+   "text": "1992年获斯坦福大学计算机科学硕士学位，在AMD与LSI Logic工作期间利用晚间课程完成进修。"
+  },
+  {
+   "date": "1993-04-05",
+   "acc": "exact",
+   "text": "与Chris Malachowsky、Curtis Priem在加州一家餐厅议定创业，NVIDIA由此成立。"
+  },
+  {
+   "date": "1996-01-01",
+   "acc": "year",
+   "text": "公司濒临破产时确立激进的产品节奏，转向Windows加速器市场，次年RIVA 128成功打开局面。"
+  },
+  {
+   "date": "1999-01-22",
+   "acc": "exact",
+   "text": "1999年1月英伟达在纳斯达克挂牌上市，从图形芯片初创公司跻身公众公司，为持续研发储备资本弹药。"
+  },
+  {
+   "date": "1999-08-31",
+   "acc": "exact",
+   "text": "发布GeForce 256并首次提出GPU概念，可编程图形处理器自此重塑游戏与视觉产业。"
+  },
+  {
+   "date": "2006-11-01",
+   "acc": "month",
+   "text": "推出CUDA并行计算平台并免费开放，押注GPU通用计算，为日后深度学习爆发埋下伏笔。"
+  },
+  {
+   "date": "2012-01-01",
+   "acc": "year",
+   "text": "AlexNet用GPU训练夺得ImageNet竞赛冠军，深度学习革命引爆，英伟达逐步成为AI算力的事实标准。"
+  },
+  {
+   "date": "2020-07-01",
+   "acc": "month",
+   "text": "英伟达市值超越英特尔，成为美国市值最高的芯片公司，GPU正式取代CPU成为科技业叙事的中心。"
+  },
+  {
+   "date": "2023-05-01",
+   "acc": "month",
+   "text": "一季度财报指引远超市场预期，生成式AI算力需求爆发，5月30日收盘市值首次突破一万亿美元。"
+  },
+  {
+   "date": "2024-06-18",
+   "acc": "exact",
+   "text": "英伟达市值超越微软与苹果，短暂成为全球市值第一的公司，AI算力需求被资本市场充分定价。"
+  },
+  {
+   "date": "2025-07-09",
+   "acc": "exact",
+   "text": "成为全球首家市值突破4万亿美元的公司，从2万亿到4万亿只用了约两年，AI芯片需求持续推动股价创新高。"
+  }
+ ],
+ "achievements": [
+  "创立英伟达并发明GPU概念，重塑游戏与视觉计算产业",
+  "以CUDA布局通用计算，使英伟达成为全球AI算力的底座供应商",
+  "带领公司市值突破三万亿美元，成为全球市值最高的公司之一"
+ ],
+ "quotes": [
+  "The more you buy, the more you save",
+  "我们还有30年要跑"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：黄仁勋",
+   "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%8B%8B",
+   "type": "wiki"
+  },
+  {
+   "title": "Reuters: Nvidia becomes first company to hit $4 trillion market value（2025-07-09）",
+   "url": "https://www.reuters.com/business/view-nvidia-becomes-first-company-hit-4-trillion-market-value-2025-07-09",
+   "type": "media"
+  },
+  {
+   "title": "NVIDIA官网：领导团队",
+   "url": "https://www.nvidia.com/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "英伟达",
+  "NVIDIA",
+  "GPU",
+  "AI",
+  "芯片",
+  "美国"
+ ],
+ "bio": "英伟达（NVIDIA）创始人兼CEO，AI时代最重要芯片公司的掌舵者。1963年2月17日生于台湾台南，1973年赴美，经历寄宿学校与打工岁月，1984年毕业于俄勒冈州立大学电机工程系，此后在AMD与LSI Logic从事芯片设计，1992年获斯坦福大学计算机硕士。1993年与两位同事在加州一家餐厅创办NVIDIA，首代产品NV1失败后靠RIVA 128起死回生；1999年发布GeForce 256并首次提出GPU概念，公司同年上市。2006年力排众议推出CUDA通用计算平台并免费开放给学界，为十余年后的深度学习浪潮备好算力底座；2012年AlexNet用GPU夺冠后，英伟达逐步成为全球AI训练的事实标准。2023年起生成式AI爆发，公司市值先后突破1万亿与4万亿美元，一度登顶全球第一。他以标志性皮衣与「The more you buy, the more you save」等表达著称，仍亲自主持每年GTC主题演讲。",
+ "legacy": "他把一家显卡公司做成全球AI算力的总供应商，GPU与CUDA成为深度学习时代的基础设施；他仍任英伟达总裁兼CEO，是硅谷任职时间最长的大型科技公司掌门人之一。"
+}

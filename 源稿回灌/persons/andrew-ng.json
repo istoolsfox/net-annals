@@ -1,0 +1,126 @@
+{
+ "id": "andrew-ng",
+ "name": "吴恩达",
+ "en_name": "Andrew Ng",
+ "aliases": [
+  "Andrew Ng"
+ ],
+ "birth": "1976-01-01",
+ "birth_accuracy": "year",
+ "death": null,
+ "field": "ai",
+ "region": "world",
+ "headline": "AI布道者与在线教育先驱",
+ "summary_30s": "斯坦福大学副教授、Google Brain联合创始人、Coursera联合创始人，曾执掌百度AI集团，其机器学习公开课让数十万人入门AI，被视为把深度学习推向工业界与大众的关键人物。",
+ "timeline": [
+  {
+   "date": "1976-01-01",
+   "acc": "year",
+   "text": "生于英国伦敦，父母为香港移民，少年时期辗转新加坡与香港求学。"
+  },
+  {
+   "date": "1997-01-01",
+   "acc": "year",
+   "text": "从卡内基梅隆大学毕业，同时修读计算机、统计学与经济学多个学位。"
+  },
+  {
+   "date": "2002-01-01",
+   "acc": "year",
+   "text": "在麻省理工学院获硕士学位后，于加州大学伯克利分校获博士学位，方向为机器学习。"
+  },
+  {
+   "date": "2003-01-01",
+   "acc": "year",
+   "text": "加入斯坦福大学任计算机科学助理教授，主导STAIR机器人项目，该项目孕育了机器人操作系统ROS。"
+  },
+  {
+   "date": "2008-01-01",
+   "acc": "year",
+   "text": "参与创办Google Brain项目，用上万颗CPU训练神经网络识别猫脸，开启深度学习工业时代。"
+  },
+  {
+   "date": "2011-10-01",
+   "acc": "month",
+   "text": "将斯坦福机器学习课程免费公开，超过十万人注册，成为历史上最受欢迎的在线课程之一。"
+  },
+  {
+   "date": "2012-04-01",
+   "acc": "month",
+   "text": "与Daphne Koller联合创办Coursera，慕课（MOOC）浪潮自此席卷全球高校。"
+  },
+  {
+   "date": "2014-05-16",
+   "acc": "exact",
+   "text": "出任百度首席科学家，执掌百度研究院，推动深度学习与自动驾驶在中国落地。"
+  },
+  {
+   "date": "2017-03-22",
+   "acc": "exact",
+   "text": "宣布离开百度，随后转向AI转型咨询与教育创业。"
+  },
+  {
+   "date": "2017-12-01",
+   "acc": "month",
+   "text": "创办Landing.AI，帮助传统制造业企业引入AI，首个合作对象为富士康。"
+  },
+  {
+   "date": "2018-01-01",
+   "acc": "year",
+   "text": "发起AI Fund风险基金，孵化面向具体行业的AI应用公司。"
+  },
+  {
+   "date": "2024-01-01",
+   "acc": "year",
+   "text": "旗下DeepLearning.AI课程累计注册学习者超过800万，持续输出AI通识与工程教育。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "围绕生成式AI接连推出新课程，兼任斯坦福计算机系兼职教授，仍是全球AI普及教育最具影响力的人物之一。"
+  }
+ ],
+ "achievements": [
+  "联合创办Google Brain，开启深度学习工业应用时代",
+  "创办Coursera，推动慕课浪潮并让全球数百万人系统学习AI",
+  "机器学习公开课与《机器学习年课》被公认为全球AI入门第一课"
+ ],
+ "quotes": [
+  "AI is the new electricity"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：吴恩达",
+   "url": "https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Andrew Ng",
+   "url": "https://en.wikipedia.org/wiki/Andrew_Ng",
+   "type": "wiki"
+  },
+  {
+   "title": "DeepLearning.AI官网",
+   "url": "https://www.deeplearning.ai/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "AI",
+  "Google Brain",
+  "Coursera",
+  "深度学习",
+  "在线教育"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  },
+  {
+   "id": "baidu",
+   "name": "百度"
+  }
+ ],
+ "bio": "吴恩达是深度学习进入工业界与大众视野的关键推动者。1976年生于英国伦敦，1997年在卡内基梅隆大学拿下计算机、统计与经济学多个本科学位，1998年获麻省理工学院硕士，2002年获加州大学伯克利分校博士，2003年起任教斯坦福。他主导的STAIR机器人项目催生了机器人操作系统ROS；2008年参与创办Google Brain，用大规模CPU集群训练神经网络识别猫脸，证明深度学习的工业可行性。2011年他把机器学习课程免费公开，吸引超十万人注册，随后与Daphne Koller创办Coursera，掀起全球慕课浪潮。2014年出任百度首席科学家，2017年离职后创办Landing.AI与DeepLearning.AI，转向AI转型咨询与通识教育，成为全球最具影响力的AI布道者之一。",
+ "legacy": "一门公开课把数百万人带进深度学习的大门，Coursera重塑了全球在线教育；现为DeepLearning.AI创始人兼斯坦福兼职教授，持续进行AI通识普及与产业落地推广。"
+}

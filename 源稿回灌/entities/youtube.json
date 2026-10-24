@@ -1,0 +1,125 @@
+{
+ "id": "youtube",
+ "name": "YouTube",
+ "type": "company",
+ "region": "world",
+ "founded": "2005-02-14",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国加州圣布鲁诺",
+ "headline": "全球最大视频平台与创作者经济原点",
+ "summary_30s": "2005年三名PayPal前员工创办，『上传-嵌入』流程引爆UGC视频；2006年被谷歌16.5亿美元收购，以Content ID与广告分成开创创作者经济；土豆、B站与抖音皆以其为参照；现月活约25亿，以Shorts迎战TikTok。",
+ "timeline": [
+  {
+   "date": "2005-02-14",
+   "acc": "exact",
+   "text": "前PayPal员工查德·贺利、陈士骏、贾德·卡林姆注册YouTube域名，最初构想是视频约会网站。"
+  },
+  {
+   "date": "2005-04-23",
+   "acc": "exact",
+   "text": "卡林姆上传首条视频《Me at the zoo》，网站确立『上传—嵌入—分享』的极简发布流程。"
+  },
+  {
+   "date": "2005-12-01",
+   "acc": "month",
+   "text": "正式对公众开放，Flash播放器嵌入代码扩散至全球博客与论坛；同年4月中国土豆网已先行上线，中美UGC视频时代几乎同步开启。"
+  },
+  {
+   "date": "2006-10-09",
+   "acc": "exact",
+   "text": "谷歌宣布以16.5亿美元股票收购，此时日视频观看量约1亿次而几乎无收入。"
+  },
+  {
+   "date": "2007-01-01",
+   "acc": "year",
+   "text": "部署Content ID版权指纹系统并启动合作伙伴计划，版权方可在分成与下架之间选择，创作者开始按流量分享广告收入。"
+  },
+  {
+   "date": "2012-12-21",
+   "acc": "exact",
+   "text": "PSY的《江南Style》成为首条播放量破10亿的视频，YouTube的全球流行文化分发能力得到证明。"
+  },
+  {
+   "date": "2016-11-29",
+   "acc": "exact",
+   "text": "『绊爱』开设频道并自称Virtual YouTuber，VTuber产业以此为原点，此后hololive等将其做成年收入数百亿日元的产业。"
+  },
+  {
+   "date": "2017-02-01",
+   "acc": "month",
+   "text": "每分钟上传视频时长超过400小时，每天观看时长达到10亿小时量级。"
+  },
+  {
+   "date": "2019-05-01",
+   "acc": "month",
+   "text": "在Brandcast大会宣布登录用户月活突破20亿。"
+  },
+  {
+   "date": "2019-12-01",
+   "acc": "exact",
+   "text": "李子柒频道订阅破千万，创下『最多订阅量的YouTube中文频道』吉尼斯世界纪录，成为中国内容出海标杆。"
+  },
+  {
+   "date": "2021-07-01",
+   "acc": "month",
+   "text": "短视频产品Shorts正式上线，以竖屏短视频正面对垒TikTok（抖音海外版）。"
+  }
+ ],
+ "milestones": [
+  "2006年10月被谷歌以16.5亿美元股票收购，当时日观看量约1亿次",
+  "2019年5月宣布登录用户月活突破20亿",
+  "2017年每分钟上传视频超400小时，日观看时长10亿小时",
+  "2016年绊爱开创VTuber品类，衍生出年收入数百亿日元的产业",
+  "2019年李子柒创『最多订阅YouTube中文频道』吉尼斯纪录"
+ ],
+ "legacy": "现状：登录用户月活超25亿、为全球第二大流量入口，『长视频+广告分成』范式被B站继承，Shorts直接回应TikTok冲击。李子柒、绊爱与中文游戏实况让平台成为中国文化出海的重要码头。",
+ "controversies": [
+  "2019年9月因违规收集儿童数据被美国FTC处以1.7亿美元罚款，YouTube此后大幅调整儿童内容与推荐政策。"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：YouTube",
+   "url": "https://zh.wikipedia.org/wiki/YouTube",
+   "type": "wiki"
+  },
+  {
+   "title": "Variety: YouTube 2B Monthly Users",
+   "url": "https://variety.com/2019/digital/news/youtube-2-billion-users-tv-screen-watch-time-hours-1203204267",
+   "type": "news"
+  },
+  {
+   "title": "绊爱 - 维基百科",
+   "url": "https://zh.wikipedia.org/wiki/绊爱",
+   "type": "wiki"
+  },
+  {
+   "title": "李子柒 - 维基百科",
+   "url": "https://zh.wikipedia.org/wiki/李子柒",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "视频平台",
+  "UGC",
+  "创作者经济",
+  "流媒体",
+  "短视频"
+ ],
+ "related_persons": [
+  {
+   "id": "li-ziqi",
+   "name": "李子柒"
+  },
+  {
+   "id": "mrbeast",
+   "name": "MrBeast"
+  },
+  {
+   "id": "pan-tianhong",
+   "name": "潘天鸿"
+  }
+ ],
+ "bio": "YouTube是全球最大视频平台与创作者经济的原点。2005年2月，查德·贺利、陈士骏、贾德·卡林姆三名PayPal前员工注册域名，最初构想是视频约会网站，4月上传首条视频《Me at the zoo》后转向通用视频分享；『上传—嵌入—分享』的极简流程让UGC视频随Flash嵌入代码扩散全球，上线一年日观看量即达1亿次。2006年10月谷歌以16.5亿美元股票收购；此后以Content ID版权指纹与广告分成计划化解版权危机，确立『创作者按流量分成』的范式，土豆、B站与抖音皆以其为参照。2017年每分钟上传视频超400小时、日观看10亿小时，2019年月活用户破20亿，2020年起以Shorts迎战TikTok短视频冲击。现状：登录用户月活超25亿，是谷歌的第二大收入引擎，李子柒、游戏实况与VTuber让平台成为中国文化出海的重要码头。"
+}

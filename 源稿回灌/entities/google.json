@@ -1,0 +1,166 @@
+{
+ "id": "google",
+ "name": "谷歌",
+ "en_name": "Google",
+ "type": "company",
+ "region": "world",
+ "founded": "1998-09-04",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国加州山景城",
+ "headline": "从搜索到移动与AI的全球底座",
+ "summary_30s": "1998年以PageRank算法创办，靠AdWords竞价广告成为商业引擎；2004年上市，2005年收购Android奠定移动底座；2010年google.cn搜索重定向香港、退出中国大陆搜索市场；现属Alphabet，Gemini居模型第一梯队。",
+ "timeline": [
+  {
+   "date": "1998-09-04",
+   "acc": "exact",
+   "text": "拉里·佩奇与谢尔盖·布林在加州注册Google公司，核心是按链接权重排序搜索结果的PageRank算法"
+  },
+  {
+   "date": "2000-10-23",
+   "acc": "exact",
+   "text": "上线关键词竞价广告系统AdWords（约350家广告主），按点击效果计费的机制此后二十余年贡献公司绝大部分营收"
+  },
+  {
+   "date": "2004-04-01",
+   "acc": "exact",
+   "text": "发布Gmail：1GB免费存储约为当时Hotmail的250倍，邀请码机制令邮箱产品首次出现『排队注册』"
+  },
+  {
+   "date": "2004-08-19",
+   "acc": "exact",
+   "text": "以荷兰式拍卖登陆纳斯达克，发行价85美元，上市时年收入27亿美元，首日市值约230亿美元"
+  },
+  {
+   "date": "2005-02-08",
+   "acc": "exact",
+   "text": "上线Google Maps，以Ajax拖拽地图取代整页刷新，同年6月开放API后『位置』成为网络产品标准图层"
+  },
+  {
+   "date": "2005-07-01",
+   "acc": "month",
+   "text": "以至少5000万美元收购Android公司，为进入手机操作系统埋下伏笔"
+  },
+  {
+   "date": "2006-01-26",
+   "acc": "exact",
+   "text": "启用中国版网站google.cn，同年11月谷歌（中国）在北京注册成立，与百度展开中文搜索双雄竞争"
+  },
+  {
+   "date": "2006-10-09",
+   "acc": "exact",
+   "text": "宣布以16.5亿美元股票收购成立仅20个月的YouTube，收购时后者日视频观看量约1亿次而几乎无收入"
+  },
+  {
+   "date": "2007-11-05",
+   "acc": "exact",
+   "text": "联合HTC、摩托罗拉、中国移动等组建开放手机联盟并宣布Android以Apache协议开源，任何厂商可免费定制，此后成为国产手机出海的系统底座"
+  },
+  {
+   "date": "2008-09-02",
+   "acc": "exact",
+   "text": "发布Chrome浏览器，以V8引擎与标签页进程隔离把浏览器重新定义为Web应用的运行环境"
+  },
+  {
+   "date": "2010-03-23",
+   "acc": "exact",
+   "text": "宣布调整中国业务，google.cn搜索服务重定向至香港域名google.com.hk，广告销售与研发团队继续留驻，中文搜索市场此后进入百度主导格局"
+  },
+  {
+   "date": "2014-01-01",
+   "acc": "month",
+   "text": "收购英国DeepMind公司，将其并入AI研究版图"
+  },
+  {
+   "date": "2015-08-10",
+   "acc": "exact",
+   "text": "宣布重组为Alphabet控股集团，谷歌成为其子公司，搜索、广告与前沿业务分立核算"
+  },
+  {
+   "date": "2017-06-01",
+   "acc": "month",
+   "text": "发表论文《Attention Is All You Need》提出Transformer架构，成为此后全球大语言模型的通用技术底座"
+  },
+  {
+   "date": "2022-10-01",
+   "acc": "month",
+   "text": "以使用率低为由停止Google翻译中国大陆服务，translate.google.cn页面重定向，内地用户转向百度翻译、有道等替代品"
+  },
+  {
+   "date": "2024-12-11",
+   "acc": "exact",
+   "text": "发布Gemini 2.0并宣布进入『Agent时代』，主打原生工具调用与多模态输出"
+  },
+  {
+   "date": "2025-11-18",
+   "acc": "exact",
+   "text": "发布Gemini 3并首日接入搜索AI Mode，Pro版在多项推理基准登顶，发布当日股价大涨"
+  },
+  {
+   "date": "2026-10-13",
+   "acc": "exact",
+   "text": "新一代模型Gemini 4（Argon）正式版上线，每百万token定价2/10美元，维持AI模型头部身位"
+  }
+ ],
+ "milestones": [
+  "2004年8月19日上市：发行价85美元，首日市值约230亿美元",
+  "2006年以16.5亿美元股票收购YouTube，2005年以至少5000万美元收购Android",
+  "2010年google.cn搜索重定向香港，中文搜索市场进入百度主导格局",
+  "2015年重组为Alphabet控股，Gemini系列居全球大模型第一梯队",
+  "2022年10月谷歌翻译停止中国大陆服务，官方理由为使用率低"
+ ],
+ "legacy": "现属Alphabet，市值长期居全球科技业前列；搜索、Android、YouTube与Gemini构成四条主线，Transformer论文成为全球大模型的通用技术底座。在中国大陆搜索与多数服务不可用，但Android支撑小米、OPPO、vivo等国产手机的全球出货，开发者工具与开源社区仍深度参与中国程序员的日常。",
+ "controversies": [
+  "2024年8月，美国联邦法院裁定谷歌为维持搜索垄断而非法行事，其每年向苹果等支付数百亿美元买断默认入口的做法成为焦点，补救措施之争延续至2025年。",
+  "2018年，为中国市场定制过滤版搜索引擎的『蜻蜓计划』与五角大楼Maven军用AI项目曝光后引发员工大规模抗议，两项目相继终止，『不作恶』信条被指名存实亡。"
+ ],
+ "sources": [
+  {
+   "title": "Wikipedia: History of Google",
+   "url": "https://en.wikipedia.org/wiki/History_of_Google",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：谷歌中国",
+   "url": "https://zh.wikipedia.org/wiki/谷歌中国",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Alphabet Inc.",
+   "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Gemini (language model)",
+   "url": "https://en.wikipedia.org/wiki/Gemini_(language_model)",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "搜索引擎",
+  "广告",
+  "Android",
+  "人工智能",
+  "Alphabet"
+ ],
+ "related_persons": [
+  {
+   "id": "vint-cerf",
+   "name": "文顿·瑟夫"
+  },
+  {
+   "id": "larry-page",
+   "name": "拉里·佩奇"
+  },
+  {
+   "id": "andrew-ng",
+   "name": "吴恩达"
+  },
+  {
+   "id": "demis-hassabis",
+   "name": "德米斯·哈萨比斯"
+  }
+ ],
+ "bio": "从搜索到移动与AI的全球互联网底座。1998年9月，斯坦福博士生拉里·佩奇与谢尔盖·布林以PageRank算法创立Google，2000年上线AdWords竞价广告，把『组织全世界的信息』做成生意；2004年上市，2005年先后拿下Google Maps与Android，2006年16.5亿美元收购YouTube，2008年发布Chrome。2006年进入中国与百度缠斗，2010年3月将google.cn搜索重定向至香港，中文搜索市场自此进入百度主导格局；2015年重组为Alphabet控股。2017年发表Transformer论文，奠定此后全球大语言模型的技术底座；2024至2026年Gemini系列迭代至3、4代，维持AI模型第一梯队。今天的Alphabet市值居全球前列，Android支撑全球大多数智能手机，而其搜索与多数服务在中国大陆长期不可用，只余Android生态与开发者工具深度影响本土产业。"
+}

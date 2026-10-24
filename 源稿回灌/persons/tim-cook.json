@@ -1,0 +1,119 @@
+{
+ "id": "tim-cook",
+ "name": "蒂姆·库克",
+ "en_name": "Tim Cook",
+ "aliases": [
+  "库克"
+ ],
+ "birth": "1960-11-01",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "company",
+ "region": "world",
+ "headline": "苹果前CEO、现任执行董事长",
+ "summary_30s": "2011年接任苹果CEO，延续供应链与运营路线，任内推出Apple Watch、AirPods，苹果成为美国首家市值破1万亿与3万亿美元的公司；2026年卸任CEO转任执行董事长。",
+ "timeline": [
+  {
+   "date": "1960-11-01",
+   "acc": "exact",
+   "text": "生于美国阿拉巴马州莫比尔，在附近小城罗伯茨代尔长大，后获奥本大学工业工程学士与杜克大学MBA。"
+  },
+  {
+   "date": "1982-01-01",
+   "acc": "year",
+   "text": "自奥本大学工业工程专业毕业，进入IBM个人电脑部门负责生产与分销，工作约12年。"
+  },
+  {
+   "date": "1994-01-01",
+   "acc": "year",
+   "text": "先后出任Intelligent Electronics首席运营官与康柏副总裁，成为供应链管理领域知名职业经理人。"
+  },
+  {
+   "date": "1998-01-01",
+   "acc": "year",
+   "text": "受乔布斯之邀加盟苹果任全球运营高级副总裁，关闭自有工厂转外包、压缩库存，公司运营根本好转。"
+  },
+  {
+   "date": "2005-01-01",
+   "acc": "year",
+   "text": "出任苹果首席运营官，在乔布斯病休期间多次代管公司日常运营。"
+  },
+  {
+   "date": "2011-08-24",
+   "acc": "exact",
+   "text": "接替辞任的乔布斯出任苹果CEO。"
+  },
+  {
+   "date": "2014-10-30",
+   "acc": "exact",
+   "text": "在彭博商业周刊撰文公开出柜，成为首位公开出柜的财富500强CEO。"
+  },
+  {
+   "date": "2015-01-01",
+   "acc": "year",
+   "text": "Apple Watch上市，为后iPhone时代苹果首款全新品类硬件。"
+  },
+  {
+   "date": "2016-01-01",
+   "acc": "year",
+   "text": "发布AirPods真无线耳机，该品类随后成为消费电子主流形态。"
+  },
+  {
+   "date": "2018-08-01",
+   "acc": "month",
+   "text": "苹果成为美国首家市值突破1万亿美元的公司。"
+  },
+  {
+   "date": "2022-01-01",
+   "acc": "year",
+   "text": "苹果市值一度突破3万亿美元，居全球上市公司前列。"
+  },
+  {
+   "date": "2026-04-20",
+   "acc": "exact",
+   "text": "苹果宣布库克将于当年卸任CEO，由硬件工程高级副总裁约翰·特努斯接任。"
+  },
+  {
+   "date": "2026-09-01",
+   "acc": "exact",
+   "text": "正式交棒特努斯并转任苹果执行董事长，结束15年CEO任期。"
+  }
+ ],
+ "achievements": [
+  "重组苹果供应链，库存周期从数月压缩至数天",
+  "任内推出Apple Watch与AirPods等新硬件品类",
+  "任内苹果成为美国首家市值破1万亿与3万亿美元的公司",
+  "2025年宣布累计6000亿美元美国本土投资计划",
+  "2014年成为首位公开出柜的财富500强CEO"
+ ],
+ "controversies": [
+  "任内苹果因App Store抽成与封闭生态先后与《堡垒之夜》开发商Epic Games对簿公堂，并被欧盟依《数字市场法》处以巨额罚款。"
+ ],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "AP News: Apple CEO Tim Cook to step down as hardware leader John Ternus takes over",
+   "url": "https://apnews.com/article/apple-tim-cook-ceo-chage-john-tenus-3e179f3ba156f37ebdc4da5c137a8263",
+   "type": "news"
+  },
+  {
+   "title": "Wikipedia: Tim Cook",
+   "url": "https://en.wikipedia.org/wiki/Tim_Cook",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：蒂姆·库克",
+   "url": "https://zh.wikipedia.org/zh-hans/%E8%92%82%E5%A7%86%C2%B7%E5%BA%93%E5%85%8B",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "苹果",
+  "供应链",
+  "消费电子",
+  "CEO",
+  "公司"
+ ],
+ "bio": "苹果公司CEO（2011-2026），现任苹果执行董事长。1960年生于美国阿拉巴马州莫比尔，奥本大学工业工程学士、杜克大学MBA，先后在IBM、Intelligent Electronics与康柏负责运营与供应链。1998年应乔布斯之邀加入苹果任全球运营高级副总裁，以外包制造与精准库存把库存周期从数月压缩到数天，2005年任首席运营官，在乔布斯病休期间多次代管公司。2011年8月接任CEO，风格务实低调：推出Apple Watch、AirPods等新品类，把服务业务做成第二大收入来源；2018年苹果成为美国首家市值破1万亿美元的公司，2022年一度突破3万亿。2014年公开出柜，成为财富500强首位出柜CEO，并承诺捐出个人财富。2026年4月苹果宣布他将于当年卸任CEO，9月1日交棒硬件工程负责人约翰·特努斯，转任执行董事长。",
+ "legacy": "以供应链与运营能力接住并放大了乔布斯的产品遗产，任内苹果从3000多亿美元市值增至3万亿级，确立隐私、环保与服务业态路线。现为苹果执行董事长，继续参与公司战略与公益事务。"
+}

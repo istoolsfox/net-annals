@@ -1,0 +1,113 @@
+{
+ "id": "myspace",
+ "name": "MySpace",
+ "en_name": "MySpace",
+ "type": "company",
+ "region": "world",
+ "founded": "2003-08-01",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "declined",
+ "hq": "美国加州比佛利山",
+ "headline": "全球第一个社交网络霸主的兴衰",
+ "summary_30s": "2003年上线的MySpace凭自定义主页与音乐社区登顶全球第一，用户逾3亿；2005年被新闻集团5.8亿美元收购，2008年被Facebook反超，2011年3500万美元贱卖。",
+ "timeline": [
+  {
+   "date": "2003-08-01",
+   "acc": "exact",
+   "text": "eUniverse团队参照Friendster在十天内做出MySpace并上线，主打自定义主页、音乐人入驻与Top8好友排名，借公司千万级邮箱用户冷启动。"
+  },
+  {
+   "date": "2005-07-01",
+   "acc": "month",
+   "text": "新闻集团以5.8亿美元现金收购母公司Intermix Media，传媒巨头首次重注社交网络，此时MySpace已是全美流量增长最快的网站。"
+  },
+  {
+   "date": "2006-06-01",
+   "acc": "month",
+   "text": "美国访问量超越雅虎邮箱与谷歌搜索，登顶全美第一大网站，成为年轻一代的网络主场。"
+  },
+  {
+   "date": "2006-08-09",
+   "acc": "exact",
+   "text": "第1亿个注册账户诞生；年内本地化版本扩至11个语言地区，含与Solstice合作的MySpace中国。"
+  },
+  {
+   "date": "2008-04-19",
+   "acc": "exact",
+   "text": "Facebook在Alexa排名反超MySpace；此时MySpace月独立访客1.15亿、注册用户超3亿，为历史峰值。"
+  },
+  {
+   "date": "2009-06-01",
+   "acc": "month",
+   "text": "裁员37.5%，员工从1600人减至1000人，转型娱乐门户未见起色，广告收入与用户同步下滑。"
+  },
+  {
+   "date": "2011-06-29",
+   "acc": "exact",
+   "text": "新闻集团以约3500万美元将MySpace售予Specific Media，不足2005年收购价的十分之一，贾斯汀·汀布莱克入股参与音乐化改造。"
+  },
+  {
+   "date": "2013-06-01",
+   "acc": "month",
+   "text": "6月推出全面改版，视觉与产品转向音乐人社区，老用户私信数据未被保留引发批评，改版未能扭转流失。"
+  },
+  {
+   "date": "2016-02-11",
+   "acc": "exact",
+   "text": "母公司Viant以8700万美元整体售予时代公司，MySpace随之再度易主，自此与社交主流彻底脱节。"
+  },
+  {
+   "date": "2019-03-01",
+   "acc": "month",
+   "text": "3月被披露在服务器迁移中丢失2003至2015年间全部用户上传内容，逾50万首歌无备份消失，被称作数字时代的亚历山大图书馆大火。"
+  },
+  {
+   "date": "2019-04-01",
+   "acc": "month",
+   "text": "Internet Archive以『MySpace Dragon Hoard』数据集找回约49万首失落歌曲，为这批用户创作保住大部分。"
+  }
+ ],
+ "milestones": [
+  "2006年6月美国访问量超越Google登顶第一，8月注册用户破1亿",
+  "2005年被新闻集团以5.8亿美元收购，2011年以3500万美元卖出，缩水约94%",
+  "2008年4月月独立访客1.15亿、注册用户超3亿，同月被Facebook反超",
+  "2016年2月随母公司Viant以8700万美元并入时代公司",
+  "2019年丢失开站至2015年约50万首歌，Internet Archive找回约49万首"
+ ],
+ "legacy": "现隶属Viant体系，以音乐人社区形态维持运营，流量已边缘化；2019年约50万首用户歌曲丢失、后找回约49万首。从全球第一社交网络到贱卖的六年，是社交产品被网络效应迁移淘汰的标准样本，也留下『老平台价值随关系链迁移而归零』的行业结论。",
+ "sources": [
+  {
+   "title": "Myspace - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Myspace",
+   "type": "wiki"
+  },
+  {
+   "title": "MySpace - 维基百科",
+   "url": "https://zh.wikipedia.org/wiki/MySpace",
+   "type": "wiki"
+  },
+  {
+   "title": "News Corp Buys MySpace.com Owner For $580 Million - Billboard",
+   "url": "https://www.billboard.com/music/music-news/news-corp-buys-myspacecom-owner-for-580-million-1409192",
+   "type": "news"
+  },
+  {
+   "title": "SEC filing: Intermix Media / News Corporation",
+   "url": "https://www.sec.gov/Archives/edgar/data/1308161/000118143105040705/rrd86058_6819.htm",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "社交网络",
+  "音乐",
+  "新闻集团",
+  "Facebook",
+  "社交媒体"
+ ],
+ "bio": "MySpace是全球第一个登顶的社交网络霸主。2003年8月，eUniverse（Intermix Media旗下）团队参照Friendster在十天内搭建上线，凭自定义主页、音乐人入驻与Top8好友排名迅速聚拢年轻人。2005年7月被新闻集团以5.8亿美元现金收购，2006年6月美国访问量超越谷歌成为全美第一大网站，注册用户逾3亿；但架构臃肿、广告泛滥、转型迟缓，2008年4月被Facebook反超，此后节节败退。2011年6月以约3500万美元贱卖给Specific Media，贾斯汀·汀布莱克入股推动音乐化改造，2013年6月改版仍无力回天，2016年2月随母公司Viant以8700万美元并入时代公司。现状：以音乐人社区形态存续、流量边缘化，2019年还因服务器迁移丢失开站至2015年约50万首用户上传歌曲，是社交产品被网络效应迁移淘汰的教科书案例。",
+ "controversies": [
+  "2006年起被多次指认未成年用户保护不力，2008年与全美49州及哥伦比亚特区检察长达成安全协议整改。",
+  "2013年6月改版后不保留旧用户私信数据，被批评抹去社区历史；2019年服务器迁移致约50万首用户歌曲无备份消失。"
+ ]
+}

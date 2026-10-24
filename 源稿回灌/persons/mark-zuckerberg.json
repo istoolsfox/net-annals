@@ -1,0 +1,162 @@
+{
+ "id": "mark-zuckerberg",
+ "name": "马克·扎克伯格",
+ "en_name": "Mark Zuckerberg",
+ "aliases": [
+  "扎克伯格",
+  "小扎"
+ ],
+ "birth": "1984-05-14",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "Meta（Facebook）创始人",
+ "summary_30s": "2004年在哈佛宿舍创办Facebook，上市并收购Instagram、WhatsApp，用户覆盖数十亿；2021年更名Meta押注元宇宙，2023年起发布Llama开源大模型。",
+ "timeline": [
+  {
+   "date": "1984-05-14",
+   "acc": "exact",
+   "text": "出生于美国纽约州一个医生家庭，中学时期自学编程，先后写出家庭通讯程序ZuckNet与音乐推荐软件Synapse，后入读哈佛大学。"
+  },
+  {
+   "date": "2003-10-01",
+   "acc": "month",
+   "text": "在哈佛宿舍上线课程评选网站Facemash，两天内访问量爆表后被校方关停并受纪律处分，此后转向开发社交网站。"
+  },
+  {
+   "date": "2004-02-04",
+   "acc": "exact",
+   "text": "与室友在哈佛宿舍上线社交网站Thefacebook，一周内数千名学生注册，随后向常春藤高校逐校开放。"
+  },
+  {
+   "date": "2004-06-01",
+   "acc": "month",
+   "text": "从哈佛休学，与团队迁往加州帕洛阿尔托全职创业，同年获彼得·蒂尔50万美元天使投资。"
+  },
+  {
+   "date": "2006-07-01",
+   "acc": "month",
+   "text": "拒绝雅虎约10亿美元的收购报价，坚持独立发展；这一决定日后被视为互联网史上最著名的「拒绝」案例之一。"
+  },
+  {
+   "date": "2006-09-26",
+   "acc": "exact",
+   "text": "Facebook向13岁以上公众开放注册，走出校园围墙，用户规模进入爆发期，两年后全球用户数突破1亿。"
+  },
+  {
+   "date": "2008-02-01",
+   "acc": "month",
+   "text": "就哈佛同学指控剽窃创意的ConnectU诉讼达成和解，支付现金与股票合计6500万美元。"
+  },
+  {
+   "date": "2012-04-09",
+   "acc": "exact",
+   "text": "宣布以约10亿美元收购Instagram，押注移动图片社交，日后被证明是科技业最成功的收购之一。"
+  },
+  {
+   "date": "2012-05-18",
+   "acc": "exact",
+   "text": "Facebook在纳斯达克上市，融资160亿美元、估值约1040亿美元，为当时规模最大的科技IPO之一。"
+  },
+  {
+   "date": "2014-02-19",
+   "acc": "exact",
+   "text": "宣布以约190亿美元收购WhatsApp，补齐移动通讯版图，两次收购日后均成为公司支柱产品。"
+  },
+  {
+   "date": "2021-10-28",
+   "acc": "exact",
+   "text": "宣布公司更名为Meta Platforms，全面转向元宇宙，此后Reality Labs连年巨额亏损引发股东质疑。"
+  },
+  {
+   "date": "2022-02-03",
+   "acc": "exact",
+   "text": "财报披露用户增长停滞，股价单日暴跌约26%，市值蒸发约2300亿美元，创当时美股史上最大单日市值损失。"
+  },
+  {
+   "date": "2022-11-09",
+   "acc": "exact",
+   "text": "宣布裁员1.1万人，为公司史上首次大规模裁员，次年再裁约1万人并启动「效率之年」。"
+  },
+  {
+   "date": "2023-02-01",
+   "acc": "month",
+   "text": "启动「效率之年」重组并组建生成式AI团队，2月24日开源首个Llama大模型，7月发布可商用的Llama 2。"
+  },
+  {
+   "date": "2025-01-07",
+   "acc": "exact",
+   "text": "宣布取消美国区第三方事实核查机制，转向社区笔记模式并放宽内容政策，被批迎合政治风向。"
+  },
+  {
+   "date": "2025-06-01",
+   "acc": "month",
+   "text": "宣布组建Meta超级智能实验室（MSL），整合Llama团队并高薪从OpenAI等挖角顶尖研究员，AI投入全面升级。"
+  },
+  {
+   "date": "2025-07-01",
+   "acc": "month",
+   "text": "发表《个人超级智能》公开信，称Meta的目标是为每个人打造个人超级智能，资本开支攀升至每年数百亿美元量级。"
+  },
+  {
+   "date": "2026-08-10",
+   "acc": "exact",
+   "text": "再发公开信《未来属于每个人》，首个超级计算集群Prometheus于年内上线，公司战略全面押注超级智能与AI眼镜。"
+  }
+ ],
+ "achievements": [
+  "在哈佛宿舍创办Facebook，用户规模达数十亿量级",
+  "主导收购Instagram（约10亿美元）与WhatsApp（约190亿美元）",
+  "2012年公司上市，融资160亿美元",
+  "2021年推动公司更名Meta，投入元宇宙",
+  "2023年起发布Llama系列开源大模型"
+ ],
+ "controversies": [
+  "2004年遭哈佛同学温克莱沃斯兄弟及ConnectU起诉剽窃社交网站创意，2008年以6500万美元和解。",
+  "2018年剑桥分析数据滥用事件曝光，2019年美国联邦贸易委员会开出50亿美元罚单。",
+  "2025年1月宣布取消第三方事实核查、放宽内容政策，被舆论批评为迎合政治压力。"
+ ],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Mark Zuckerberg",
+   "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：马克·扎克伯格",
+   "url": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E5%85%8B%C2%B7%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC",
+   "type": "wiki"
+  },
+  {
+   "title": "About Meta: The Future is for Everyone",
+   "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone",
+   "type": "official"
+  },
+  {
+   "title": "Wikipedia: Meta Platforms",
+   "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "Facebook",
+  "Meta",
+  "社交网络",
+  "Llama",
+  "互联网"
+ ],
+ "related_entities": [
+  {
+   "id": "facebook",
+   "name": "脸书"
+  },
+  {
+   "id": "yahoo",
+   "name": "雅虎"
+  }
+ ],
+ "bio": "Meta（Facebook）创始人兼首席执行官，哈佛辍学生出身，用二十余年把一间宿舍项目做成覆盖数十亿用户的社交帝国，现押注人工智能与超级智能。1984年生于美国纽约州，中学时期已自学编程；2004年在哈佛宿舍上线Thefacebook，同年休学赴加州全职创业。此后公司相继收购Instagram、WhatsApp，2012年上市，用户与营收一路扩张。2021年更名Meta转向元宇宙，2022年遭遇市值单日蒸发逾两千亿美元的挫折，随即大规模裁员重组，并把重心转向生成式AI，发布Llama系列开源模型。2025年组建Meta超级智能实验室并高薪挖角AI人才，2026年发表公开信阐述超级智能愿景，公司战略全面转向AI与智能眼镜等可穿戴设备。",
+ "legacy": "仍以最大个人股东身份掌管Meta并主导其AI转型；Facebook重塑了全球社交网络，Llama开源生态则深刻影响了大模型开发格局。"
+}

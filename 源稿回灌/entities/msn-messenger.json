@@ -1,0 +1,109 @@
+{
+ "id": "msn-messenger",
+ "name": "MSN Messenger",
+ "en_name": "Windows Live Messenger",
+ "type": "company",
+ "region": "world",
+ "founded": "1999-07-22",
+ "founded_accuracy": "exact",
+ "dissolved": "2014-10-31",
+ "status": "closed",
+ "hq": "美国华盛顿州雷德蒙德",
+ "headline": "与QQ分庭抗礼的绿色小人即时通讯",
+ "summary_30s": "1999年微软上线MSN Messenger，2009年月活跃用户超3.3亿；2005年入华与QQ分庭抗礼，成一代白领办公名片；移动时代失守，2014年10月31日中国大陆关停。",
+ "timeline": [
+  {
+   "date": "1999-07-22",
+   "acc": "exact",
+   "text": "微软发布MSN Messenger Service 1.0，与MSN门户和Hotmail捆绑，正面迎战AOL的ICQ与AIM。"
+  },
+  {
+   "date": "2005-05-01",
+   "acc": "month",
+   "text": "微软与上海联和投资组建合资公司把MSN正式引入中国，凭办公邮箱与白领社交场景同QQ分庭抗礼，用户规模一度仅次于QQ。"
+  },
+  {
+   "date": "2006-06-19",
+   "acc": "exact",
+   "text": "8.0版正式发布并更名Windows Live Messenger，个性化头像与签名档成为中国用户在网上的名片。"
+  },
+  {
+   "date": "2009-06-01",
+   "acc": "month",
+   "text": "微软公布服务月活跃用户超过3.3亿，为全球用户规模最大的即时通讯软件之一，正值其在华声量的顶点。"
+  },
+  {
+   "date": "2010-09-28",
+   "acc": "exact",
+   "text": "姊妹产品Windows Live Spaces（MSN Spaces）宣布关闭并与WordPress达成迁移协议，中文博客圈大批用户迁往本土平台。"
+  },
+  {
+   "date": "2011-05-01",
+   "acc": "month",
+   "text": "微软宣布以85亿美元收购Skype，即时通讯重心开始向其迁移，Messenger的战略地位开始边缘化。"
+  },
+  {
+   "date": "2012-11-06",
+   "acc": "exact",
+   "text": "微软宣布Messenger与Skype合并、客户端将在全球退役，唯中国大陆市场暂获豁免。"
+  },
+  {
+   "date": "2013-04-08",
+   "acc": "exact",
+   "text": "除中国大陆外全球范围停服，账户与联系人信息迁移至Skype，中国大陆成为唯一保留服务的市场。"
+  },
+  {
+   "date": "2014-10-31",
+   "acc": "exact",
+   "text": "中国大陆服务关停，MSN Messenger走完15年——中国是最后一个关停的市场，网民截图告别，此时QQ与微信已主导移动社交。"
+  },
+  {
+   "date": "2017-01-01",
+   "acc": "year",
+   "text": "第三方项目Escargot让老客户端重新可登录，怀旧用户借此找回当年的登录界面。"
+  },
+  {
+   "date": "2025-05-05",
+   "acc": "exact",
+   "text": "接棒的Skype被微软正式关闭，PC时代即时通讯的两大象征相继谢幕，一代人的聊天窗口记忆就此归档。"
+  }
+ ],
+ "milestones": [
+  "1999年7月22日上线，为微软首款即时通讯客户端",
+  "2009年6月微软公布月活跃用户超3.3亿",
+  "2005年进入中国，用户规模一度仅次于QQ",
+  "2013年4月8日除中国大陆外全球停服",
+  "2014年10月31日中国大陆关停，为全球最后一站"
+ ],
+ "legacy": "MSN Messenger谢幕后，『办公用MSN、私人用QQ』的分野随移动化终结，签名档与Spaces博客的一代记忆被中文网民交还QQ空间。它的兴衰成为微软错过移动互联网的注脚之一，第三方项目Escargot仍维持着怀旧登录。",
+ "sources": [
+  {
+   "title": "MSN Messenger - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/MSN_Messenger",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：Windows Live Messenger",
+   "url": "https://zh.wikipedia.org/wiki/Windows_Live_Messenger",
+   "type": "wiki"
+  },
+  {
+   "title": "BBC: MSN Messenger to end after 15 years",
+   "url": "https://www.bbc.com/news/technology-28987797",
+   "type": "news"
+  },
+  {
+   "title": "Business Insider: MSN Messenger Shuts Down in China",
+   "url": "https://www.businessinsider.com/msn-messenger-shuts-down-in-china-2014-8",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "即时通讯",
+  "微软",
+  "QQ",
+  "Skype",
+  "签名档"
+ ],
+ "bio": "MSN Messenger 1999年7月22日随微软对抗AOL的战略上线，凭与Hotmail、MSN门户的捆绑在全球迅速铺开。2005年与上海联和投资组建合资公司正式进入中国，凭办公场景与『小绿人』形象同QQ分庭抗礼，成为一代白领的网上名片；2006年更名Windows Live Messenger，2009年月活跃用户超过3.3亿，签名档、个性化头像与Spaces博客承载了整整一代人的社交记忆。移动时代微软布局迟缓，用户流向手机端QQ与微信；2011年微软收购Skype后决定让Messenger退役，2013年4月除中国大陆外全球停服，2014年10月31日中国大陆最终关停，服务走完15年，接棒的Skype也于2025年被微软关闭。"
+}

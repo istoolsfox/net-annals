@@ -1,0 +1,101 @@
+{
+ "id": "ray-tomlinson",
+ "name": "雷·汤姆林森",
+ "en_name": "Ray Tomlinson",
+ "aliases": [
+  "Email之父"
+ ],
+ "birth": "1941-04-23",
+ "birth_accuracy": "exact",
+ "death": "2016-03-05",
+ "field": "internet",
+ "region": "world",
+ "headline": "电子邮件发明人",
+ "summary_30s": "1971年在BBN写出ARPANET首个跨主机电子邮件程序，选定@符号分隔用户与主机，确立沿用至今的邮件地址格式；@随全球数十亿邮箱普及，2016年3月逝世，享年74岁。",
+ "timeline": [
+  {
+   "date": "1941-04-23",
+   "acc": "exact",
+   "text": "生于纽约州阿姆斯特丹，在附近的乡村农场长大，少年时代痴迷无线电与电子实验。"
+  },
+  {
+   "date": "1963-01-01",
+   "acc": "year",
+   "text": "获伦斯勒理工学院电机工程学士学位，在校期间曾参加与IBM合作的项目。"
+  },
+  {
+   "date": "1967-01-01",
+   "acc": "year",
+   "text": "获麻省理工学院电机工程硕士学位（原记录误作1965年获博士），研究方向为语音合成等信号处理。"
+  },
+  {
+   "date": "1967-01-01",
+   "acc": "year",
+   "text": "加入BBN公司，参与ARPANET接口信息处理机（IMP）操作系统等早期网络软件研发。"
+  },
+  {
+   "date": "1969-01-01",
+   "acc": "year",
+   "text": "ARPANET首批节点开通，BBN承建的IMP把各大学主机联成网络，其所在团队成为互联网最初的技术摇篮之一。"
+  },
+  {
+   "date": "1971-01-01",
+   "acc": "year",
+   "text": "改造单机邮件程序SNDMSG并嫁接主机间传输程序CPYNET，发出ARPANET第一封跨主机电子邮件，选定@符号分隔用户名与主机名，确立全球通用的邮件地址格式。"
+  },
+  {
+   "date": "1973-01-01",
+   "acc": "year",
+   "text": "一项针对ARPANET流量的调查显示，电子邮件已占全网流量约四分之三，成为互联网历史上第一个杀手级应用。"
+  },
+  {
+   "date": "2009-01-01",
+   "acc": "year",
+   "text": "与瑟夫、卡恩等互联网先驱共同获西班牙阿斯图里亚斯亲王技术科学研究奖；同年BBN并入雷神公司，他继续在原团队工作。"
+  },
+  {
+   "date": "2012-01-01",
+   "acc": "year",
+   "text": "入选首批互联网名人堂（Internet Hall of Fame）。"
+  },
+  {
+   "date": "2016-03-05",
+   "acc": "exact",
+   "text": "因心脏病在马萨诸塞州林肯镇家中去世，享年74岁；雷神BBN发布讣告，全球科技界致哀“电子邮件之父”。"
+  }
+ ],
+ "achievements": [
+  "1971年写出ARPANET首个跨主机电子邮件程序，发出第一封网络邮件",
+  "选定@符号分隔用户名与主机名，确立全球通用邮件地址格式",
+  "参与开发ARPANET接口信息处理机（IMP）操作系统等早期网络软件",
+  "2009年与互联网先驱共获阿斯图里亚斯亲王奖，2012年入选互联网名人堂"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Ray Tomlinson",
+   "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+   "type": "wiki"
+  },
+  {
+   "title": "Internet Hall of Fame：Raymond Tomlinson 官方传记",
+   "url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson",
+   "type": "official"
+  },
+  {
+   "title": "NPR: Ray Tomlinson, Inventor Of Modern Email, Dies",
+   "url": "https://www.npr.org/2016/03/06/469428062/ray-tomlinson-inventor-of-modern-email-has-died",
+   "type": "media"
+  }
+ ],
+ "tags": [
+  "电子邮件",
+  "互联网",
+  "ARPANET",
+  "BBN",
+  "@符号"
+ ],
+ "bio": "雷·汤姆林森（Ray Tomlinson），美国程序员，电子邮件的发明人，被后世称为“电子邮件之父”。1941年生于纽约州阿姆斯特丹附近的乡村，少年时代痴迷无线电。1963年获伦斯勒理工学院电机工程学士，1967年获麻省理工学院电机工程硕士并加入博尔特·贝拉尼克·纽曼公司（BBN），参与ARPANET首台交换机IMP的操作系统开发。1971年他把单机邮件程序SNDMSG与跨主机文件传输程序CPYNET嫁接，发出ARPANET上第一封跨主机邮件，并选定键盘上少用的@符号分隔用户名与主机名，确立沿用至今的邮件地址格式。邮件很快成为网络上最主要的应用。他此后一直在BBN及其后继的雷神公司工作，为人低调，2016年3月5日因心脏病去世，享年74岁。",
+ "legacy": "他随手选定的@符号与地址格式沿用半个多世纪，电子邮件至今仍是互联网最基础的应用之一；本人一生低调，晚年才被广泛追认为“电子邮件之父”。"
+}

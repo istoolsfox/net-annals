@@ -1,0 +1,152 @@
+{
+ "id": "facebook",
+ "name": "脸书",
+ "en_name": "Facebook",
+ "type": "company",
+ "region": "world",
+ "founded": "2004-02-04",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国加州门洛帕克",
+ "headline": "全球最大社交网络，后更名Meta",
+ "summary_30s": "2004年哈佛宿舍上线的实名校园社交，两周内三分之二哈佛学生注册；开放注册后超越MySpace，2012年以1040亿美元估值上市；校内网、开心网皆师承其模式；2021年更名Meta押注元宇宙，月活超30亿。",
+ "timeline": [
+  {
+   "date": "2004-02-04",
+   "acc": "exact",
+   "text": "扎克伯格在哈佛宿舍上线TheFacebook，两周内约三分之二哈佛本科生注册，实名制+关系链的形态后来被校内网、开心网移植到中国。"
+  },
+  {
+   "date": "2005-08-01",
+   "acc": "month",
+   "text": "从TheFacebook更名为Facebook，此前获Accel领投1270万美元融资，高校网络当年扩张至美国两千余所学校。"
+  },
+  {
+   "date": "2006-09-26",
+   "acc": "exact",
+   "text": "取消大学邮箱注册限制，向年满13岁的公众开放注册，用户此后以月计倍增；次年微软以2.4亿美元入股，谷歌的收购尝试未成。"
+  },
+  {
+   "date": "2007-05-24",
+   "acc": "exact",
+   "text": "Facebook Platform开放平台上线，第三方应用可接入社交关系链，社交游戏自此长成独立赛道。"
+  },
+  {
+   "date": "2008-01-01",
+   "acc": "year",
+   "text": "全球独立访客流量超越MySpace，登顶全球最大社交网络，当年微软入股对应估值达150亿美元。"
+  },
+  {
+   "date": "2009-06-19",
+   "acc": "exact",
+   "text": "Zynga的《FarmVille》上线，月活峰值约8000万，社交游戏把Facebook变成游戏分发主渠道，开放平台价值兑现。"
+  },
+  {
+   "date": "2009-07-01",
+   "acc": "month",
+   "text": "乌鲁木齐事件后Facebook在中国大陆被屏蔽，此后长期无法直接访问，也未在内地开展业务。"
+  },
+  {
+   "date": "2012-04-09",
+   "acc": "exact",
+   "text": "以约10亿美元收购成立仅551天、用户3000万的Instagram，移动照片赛道的估值逻辑被改写。"
+  },
+  {
+   "date": "2012-05-18",
+   "acc": "exact",
+   "text": "纳斯达克上市，发行价38美元、估值约1040亿美元，为当时科技史上最大IPO；首日因交易系统故障收平，其后数月股价一度腰斩。"
+  },
+  {
+   "date": "2014-02-19",
+   "acc": "exact",
+   "text": "宣布以约190亿美元收购月活约4.5亿、仅55名员工的WhatsApp，创当时互联网并购金额纪录。"
+  },
+  {
+   "date": "2014-03-01",
+   "acc": "month",
+   "text": "以约20亿美元收购VR公司Oculus，VR至此进入大公司视野，也为日后的元宇宙押注埋下伏笔。"
+  },
+  {
+   "date": "2018-03-17",
+   "acc": "exact",
+   "text": "剑桥分析事件曝光：约8700万用户数据被滥用于政治定向广告，股价大跌，公司进入监管与信任双重承压期。"
+  },
+  {
+   "date": "2021-10-28",
+   "acc": "exact",
+   "text": "公司更名Meta Platforms，Facebook降为旗下应用之一，资源向元宇宙倾斜，Reality Labs此后连年亏损超百亿美元。"
+  },
+  {
+   "date": "2023-07-05",
+   "acc": "exact",
+   "text": "推出Threads对抗更名后的X，五天注册用户破亿，成为消费应用史上增速最快的产品之一。"
+  },
+  {
+   "date": "2023-09-27",
+   "acc": "exact",
+   "text": "发布499美元的Quest 3头显与299美元的雷朋Meta智能眼镜，后者以数百万副销量成为智能眼镜品类爆款。"
+  },
+  {
+   "date": "2025-04-05",
+   "acc": "exact",
+   "text": "发布开源大模型Llama 4系列并首次转向MoE架构，Llama权重此前已被全球企业广泛私有化部署，成为其AI影响力的支点。"
+  }
+ ],
+ "milestones": [
+  "2012年5月18日IPO：发行价38美元，估值约1040亿美元",
+  "2012-2014年先后以约10亿、190亿美元收购Instagram与WhatsApp",
+  "2007年5月开放平台上线，第三方应用接入社交关系链",
+  "2021年10月28日更名Meta，全面押注元宇宙",
+  "2023年起月活跃用户突破30亿"
+ ],
+ "legacy": "现状：Meta家族应用月活超30亿，广告仍是收入主体；元宇宙持续投入未见回报，Llama开源成为其AI影响力支点。服务在中国大陆无法直接访问，而校内、开心到微信的中国社交产品史里始终有它的参照。",
+ "controversies": [
+  "2018年3月剑桥分析事件曝光约8700万用户数据被滥用于政治定向广告，美国FTC于2019年开出50亿美元罚单。",
+  "2021年员工弗朗西丝·豪根泄露内部文件引发『Facebook文件』风暴，公司被指对平台危害知情而不作为。"
+ ],
+ "sources": [
+  {
+   "title": "Wikipedia: History of Facebook",
+   "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Meta Platforms",
+   "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+   "type": "wiki"
+  },
+  {
+   "title": "Meta Newsroom: Facebook to Acquire WhatsApp",
+   "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp",
+   "type": "official"
+  },
+  {
+   "title": "Facebook - 维基百科",
+   "url": "https://zh.wikipedia.org/wiki/Facebook",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "社交网络",
+  "实名社交",
+  "元宇宙",
+  "人工智能",
+  "收购"
+ ],
+ "related_persons": [
+  {
+   "id": "mark-zuckerberg",
+   "name": "马克·扎克伯格"
+  },
+  {
+   "id": "marc-andreessen",
+   "name": "马克·安德森"
+  },
+  {
+   "id": "kaiming-he",
+   "name": "何恺明"
+  }
+ ],
+ "bio": "Facebook是全球最大社交网络，母公司Meta Platforms。2004年2月，扎克伯格等哈佛学生在宿舍上线TheFacebook，两周内约三分之二哈佛本科生注册；2006年全面开放注册后用户以月计倍增，2008年前后流量超越MySpace登顶全球。2007年开放平台孕育社交游戏赛道，2012年以1040亿美元估值上市，并接连买下Instagram、WhatsApp、Oculus，为移动时代完成护城河加固。2018年剑桥分析事件后监管与隐私成本大增，2021年10月公司更名Meta全面押注元宇宙，但元宇宙部门连年巨亏未见回报，转而以Llama开源大模型重建AI话语权。现状：旗下应用矩阵月活超30亿，广告仍贡献绝大部分收入；Facebook自2009年起在中国大陆无法直接访问，而校内、开心到微信的中国社交史里始终有它的参照。"
+}

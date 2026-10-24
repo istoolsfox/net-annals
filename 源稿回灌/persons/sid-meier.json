@@ -1,0 +1,115 @@
+{
+ "id": "sid-meier",
+ "name": "席德·梅尔",
+ "en_name": "Sid Meier",
+ "aliases": [],
+ "birth": "1954-02-24",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "game",
+ "region": "world",
+ "headline": "《文明》系列之父",
+ "summary_30s": "美国游戏设计师，MicroProse联合创始人；1991年推出的《文明》初代确立回合制4X策略游戏范式，「再来一回合」成为玩家口头禅；1996年创立Firaxis后持续操刀系列开发，《文明》系列累计销量已超7300万套。",
+ "timeline": [
+  {
+   "date": "1954-02-24",
+   "acc": "exact",
+   "text": "生于美国密歇根州底特律，少年时代沉迷棋类、桌游与早期计算机编程，为日后的系统化设计埋下底子。"
+  },
+  {
+   "date": "1982-01-01",
+   "acc": "year",
+   "text": "与飞行员比尔·斯特利在拉斯维加斯赌城的模拟飞行机上结识后，共同创立MicroProse，此前他在通用仪器公司编写收银终端程序。"
+  },
+  {
+   "date": "1987-01-01",
+   "acc": "year",
+   "text": "推出海盗题材《海盗》，大获成功后发行方意识到其名字的号召力，此后作品多以“Sid Meier's”冠名，个人品牌自此确立。"
+  },
+  {
+   "date": "1990-01-01",
+   "acc": "year",
+   "text": "推出《铁路大亨》，把经营模拟与宏观策略结合，广受好评，为《文明》的诞生做了技术与方法铺垫。"
+  },
+  {
+   "date": "1991-09-01",
+   "acc": "month",
+   "text": "《文明》初代发售，确立回合制4X策略范式（探索、扩张、开发、征服），“再来一回合”从此成为玩家口头禅。"
+  },
+  {
+   "date": "1996-01-01",
+   "acc": "year",
+   "text": "离开MicroProse，与首席搭档杰夫·布里格斯等联合创立Firaxis Games，继续掌控系列开发主导权。"
+  },
+  {
+   "date": "1999-01-01",
+   "acc": "year",
+   "text": "推出太空题材4X游戏《半人马座阿尔法星》，以文明移植外星的设定长期被评为最优秀的策略作品之一。"
+  },
+  {
+   "date": "2005-10-01",
+   "acc": "month",
+   "text": "《文明4》发售，主题曲Baba Yetu融合斯瓦希里语合唱，后成为首支获格莱美奖的游戏音乐。"
+  },
+  {
+   "date": "2008-02-01",
+   "acc": "month",
+   "text": "获游戏开发者大会（GDC）游戏开发者选择奖终身成就奖，表彰其对策略游戏品类的奠基贡献。"
+  },
+  {
+   "date": "2016-10-01",
+   "acc": "month",
+   "text": "《文明6》发售，以区域特色城市与政策树获多项年度游戏奖项，系列用户规模在该世代持续扩大。"
+  },
+  {
+   "date": "2020-09-01",
+   "acc": "month",
+   "text": "出版回忆录《Sid Meier's Memoir!》，系统回顾其近四十年设计生涯与《文明》的诞生过程。"
+  },
+  {
+   "date": "2025-02-11",
+   "acc": "exact",
+   "text": "《文明7》全球发售，发行商同期宣布《文明》系列累计销量已超7300万套，其开创的范式延续至第四个十年。"
+  }
+ ],
+ "achievements": [
+  "1991年推出《文明》初代，开创回合制4X策略游戏范式",
+  "《文明》系列累计销量超7300万套（2025年发行商数据）",
+  "1996年联合创立Firaxis Games，并持续主导系列开发",
+  "2008年获GDC游戏开发者选择奖终身成就奖",
+  "《文明4》主题曲Baba Yetu成为首支获格莱美奖的游戏音乐"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Sid Meier",
+   "url": "https://en.wikipedia.org/wiki/Sid_Meier",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Civilization (series)",
+   "url": "https://en.wikipedia.org/wiki/Civilization_(series)",
+   "type": "wiki"
+  },
+  {
+   "title": "2K Newsroom: Sid Meier's Civilization VII Coming in 2025",
+   "url": "https://newsroom.2k.com/news/sid-meiers-civilizationr-vii-coming-in-2025",
+   "type": "official"
+  },
+  {
+   "title": "Take-Two IR: Sid Meier's Civilization VII Now Available Worldwide",
+   "url": "http://www.take2games.com/ir/news/build-something-you-believe-sid-meiers-civilizationr-vii-now",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "文明系列",
+  "策略游戏",
+  "Firaxis",
+  "游戏设计",
+  "4X"
+ ],
+ "bio": "席德·梅尔（Sid Meier），加拿大裔美国游戏设计师，《文明》系列之父，回合制策略游戏的代名词。1954年生于美国底特律，成长于密歇根州，少年时代沉迷棋类与桌游。大学毕业后在通用仪器公司做系统分析师，业余痴迷飞行模拟游戏，1982年与飞行员比尔·斯特利共同创立MicroProse，以飞行模拟与军事策略起家。1987年推出《海盗》大获成功，此后其作品多以“Sid Meier's”冠名，成为行业罕见的个人品牌；1990年《铁路大亨》把经营模拟与宏观策略结合。1991年《文明》初代以回合制4X玩法让无数玩家“再来一回合”，至今仍是策略游戏标杆。1996年离开MicroProse，与杰夫·布里格斯联合创立Firaxis Games，继续操刀系列续作与《半人马座阿尔法星》。2008年获GDC终身成就奖，《文明》系列累计销量已超7300万套。如今虽逐步退居幕后，仍是Firaxis的门面与行业最具声望的设计师之一。",
+ "legacy": "他让回合制策略从冷门品类长成全球标杆，《文明》系列累计销量逾7300万套，“Sid Meier's”成为游戏史上最持久的个人品牌之一；如今仍在Firaxis参与新作的创意把关，是行业公认的活传奇。"
+}

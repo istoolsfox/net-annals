@@ -1,0 +1,137 @@
+{
+ "id": "digg",
+ "name": "Digg",
+ "en_name": "Digg",
+ "type": "company",
+ "region": "world",
+ "founded": "2004-11-01",
+ "founded_accuracy": "month",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国旧金山",
+ "headline": "开创用户投票新闻的Web2.0站点",
+ "summary_30s": "Digg 2004年上线，让用户用「顶/埋」投票决定头条，一度是Web2.0的样板，2008年主页年访客达2.36亿次。2010年v4改版失败，用户流向Reddit，2012年公司拆分出售仅得约1600万美元。2025年创始人联合Reddit联合创始人回购重启。",
+ "timeline": [
+  {
+   "date": "2004-11-01",
+   "acc": "month",
+   "text": "凯文·罗斯等四人创想上线Digg，用户提交链接并以『digg/bury』投票筛选头条，把新闻排序权第一次交给大众。"
+  },
+  {
+   "date": "2005-07-01",
+   "acc": "month",
+   "text": "v2版上线好友列表与投票流；创始人同月开播Diggnation播客，与技术播客圈互相导流。"
+  },
+  {
+   "date": "2006-01-01",
+   "acc": "year",
+   "text": "v3引入科技、科学、娱乐等分类频道，社区从极客圈向大众扩展。"
+  },
+  {
+   "date": "2006-08-01",
+   "acc": "month",
+   "text": "登上《商业周刊》封面，报道称其18个月估值达6000万美元，成为Web2.0的样板站点。"
+  },
+  {
+   "date": "2007-05-01",
+   "acc": "exact",
+   "text": "HD DVD加密密钥事件：公司删帖后遭用户集体反抗，密钥被刷满全站，最终恢复相关内容并向用户让步。"
+  },
+  {
+   "date": "2008-01-01",
+   "acc": "year",
+   "text": "主页年访客达2.36亿次（Compete统计），『Digg效应』足以左右被提交网站的流量生死。"
+  },
+  {
+   "date": "2008-07-01",
+   "acc": "month",
+   "text": "与谷歌进行约2亿美元的收购谈判，最终流产，独立发展错过最后的高点。"
+  },
+  {
+   "date": "2010-08-25",
+   "acc": "exact",
+   "text": "v4全面改版上线，漏洞频发引发用户强烈反对，同时受到Facebook点赞按钮的正面竞争。"
+  },
+  {
+   "date": "2010-09-01",
+   "acc": "month",
+   "text": "改版次月流量骤降约四分之一，用户大规模迁往Reddit；后者当年流量增长230%，完成反超。"
+  },
+  {
+   "date": "2012-07-12",
+   "acc": "exact",
+   "text": "公司拆分出售：品牌与网站以50万美元售予Betaworks，15人团队以1200万美元并入华盛顿邮报，专利组合约400万美元售予LinkedIn。"
+  },
+  {
+   "date": "2012-07-31",
+   "acc": "exact",
+   "text": "Betaworks六周内重建Digg v1，主页改为编辑人工精选，投票社区形态就此终结。"
+  },
+  {
+   "date": "2013-06-28",
+   "acc": "exact",
+   "text": "为接档关闭的Google Reader推出Digg Reader（2018年3月关停）。"
+  },
+  {
+   "date": "2018-04-01",
+   "acc": "month",
+   "text": "广告技术公司BuySellAds收购Digg资产与团队，维持五人编辑制人工精选；后再度转手Money Group。"
+  },
+  {
+   "date": "2025-03-05",
+   "acc": "exact",
+   "text": "创始人凯文·罗斯与Reddit联合创始人亚历克西斯·奥哈尼安宣布回购Digg，计划重建社区。"
+  },
+  {
+   "date": "2026-01-14",
+   "acc": "exact",
+   "text": "新版Digg开放公测，用户可自建社区并恢复顶/埋投票。"
+  },
+  {
+   "date": "2026-03-14",
+   "acc": "exact",
+   "text": "以『空前的机器人问题』为由关闭公测进行重置。"
+  },
+  {
+   "date": "2026-05-11",
+   "acc": "exact",
+   "text": "以基于X内容的AI新闻聚合器形态再度上线，产品定位从用户投票社区转向AI筛选。"
+  }
+ ],
+ "milestones": [
+  "2008年主页年访客达2.36亿次（Compete统计）",
+  "2010年v4改版次月流量跌约四分之一，Reddit当年流量增长230%",
+  "2012年7月拆分出售合计约1600万美元，远低于4500万美元融资额",
+  "2025年3月创始人Kevin Rose与Alexis Ohanian回购Digg",
+  "2026年5月11日以AI新闻聚合器形态重启"
+ ],
+ "legacy": "Digg仍在运营，但2026年5月重启后已从用户投票社区变成AI聚合工具，两次公测受阻。其发明的『顶/埋』投票交互被全球社交产品沿用，中文社区的『顶』文化与资讯排序也受其影响；它的兴衰则示范了社区产品改版抛弃核心用户的代价。",
+ "sources": [
+  {
+   "title": "Wikipedia: Digg",
+   "url": "https://en.wikipedia.org/wiki/Digg",
+   "type": "wiki"
+  },
+  {
+   "title": "TechCrunch: Digg Sold To LinkedIn AND The Washington Post And Betaworks",
+   "url": "https://techcrunch.com/2012/07/12/digg-sold-to-linkedin-and-the-washington-post-and-betaworks",
+   "type": "news"
+  },
+  {
+   "title": "PR Newswire: Alexis Ohanian & Kevin Rose Buy Back Social Platform Digg",
+   "url": "https://www.prnewswire.com/news-releases/alexis-ohanian--kevin-rose-buy-back-social-platform-digg-302392419.html",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "Digg",
+  "社会化新闻",
+  "Web2.0",
+  "用户投票",
+  "Reddit"
+ ],
+ "bio": "Digg是Web2.0时代『用户投票决定头条』的开创者。2004年11月，凯文·罗斯等四人在旧金山创办，用户提交链接并以digg/bury投票筛选内容，2006年登上《商业周刊》封面，『Digg效应』一度能左右被推荐网站的流量，2008年主页年访客达2.36亿次。2007年HD DVD密钥事件中用户集体反抗删帖，成为社区权利与商业合规的著名公案。衰落始于2010年8月的v4改版：漏洞频发、核心用户被激怒，流量骤降，用户大规模迁往Reddit；2012年7月公司拆分贱卖，品牌仅50万美元售予Betaworks，合计所得约1600万美元，远低于累计4500万美元融资额。此后品牌几经转手，2025年3月创始人罗斯与Reddit联合创始人奥哈尼安回购Digg，2026年5月以AI新闻聚合器形态再度上线，但两次公测受阻。",
+ "controversies": [
+  "2007年5月HD DVD加密密钥删帖事件引发用户集体反抗，公司被迫恢复内容，成为用户自治与商业合规冲突的经典案例。"
+ ]
+}

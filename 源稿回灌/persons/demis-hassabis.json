@@ -1,0 +1,148 @@
+{
+ "id": "demis-hassabis",
+ "name": "德米斯·哈萨比斯",
+ "en_name": "Demis Hassabis",
+ "aliases": [
+  "Demis Hassabis"
+ ],
+ "birth": "1976-07-27",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "ai",
+ "region": "world",
+ "headline": "DeepMind创始人、诺贝尔化学奖得主",
+ "summary_30s": "DeepMind联合创始人兼CEO，2010年在伦敦创办该公司，2014年谷歌以约4亿英镑将其收购。主导研制的AlphaGo于2016年以4比1战胜李世石；AlphaFold将蛋白质结构预测推进到接近实验测定精度并公开约2亿个结构预测。2024年与John Jumper分享诺贝尔化学奖，另一半授予David Baker。",
+ "timeline": [
+  {
+   "date": "1976-07-27",
+   "acc": "exact",
+   "text": "生于英国伦敦，父亲是希腊裔、母亲有新加坡华裔血统，4岁起学国际象棋并迅速展现天赋。"
+  },
+  {
+   "date": "1994-01-01",
+   "acc": "year",
+   "text": "17岁加入牛蛙公司，参与经典游戏《主题公园》的人工智能设计，在游戏业界崭露头角。"
+  },
+  {
+   "date": "1997-01-01",
+   "acc": "year",
+   "text": "以计算机科学双一等荣誉学位毕业于剑桥大学皇后学院，时年20岁。"
+  },
+  {
+   "date": "1998-01-01",
+   "acc": "year",
+   "text": "创办游戏公司Elysium Studios（后更名Elixir Studios），专注游戏AI设计。"
+  },
+  {
+   "date": "2005-01-01",
+   "acc": "year",
+   "text": "Elixir Studios因经营不善关闭，他转而重返校园，进入伦敦大学学院深造认知神经科学。"
+  },
+  {
+   "date": "2009-01-01",
+   "acc": "year",
+   "text": "获伦敦大学学院认知神经科学博士学位，研究记忆与海马体，为通用AI研究积累跨学科方法。"
+  },
+  {
+   "date": "2010-09-01",
+   "acc": "month",
+   "text": "与Shane Legg、Mustafa Suleyman在伦敦共同创办DeepMind，目标是开发通用人工智能。"
+  },
+  {
+   "date": "2014-01-01",
+   "acc": "month",
+   "text": "谷歌宣布收购DeepMind，媒体报道交易价格约4亿英镑，谷歌体系自此拥有独立的顶级AI实验室。"
+  },
+  {
+   "date": "2016-03-01",
+   "acc": "month",
+   "text": "AlphaGo在首尔五番棋中以4比1战胜李世石，计算机围棋突破震动世界，DeepMind一战成名。"
+  },
+  {
+   "date": "2020-11-01",
+   "acc": "month",
+   "text": "AlphaFold2在CASP14评测中将蛋白质结构预测精度推进到接近实验测定水平。"
+  },
+  {
+   "date": "2021-01-01",
+   "acc": "year",
+   "text": "在谷歌体系内创立AI制药公司Isomorphic Labs并出任CEO，把AlphaFold能力推向药物研发。"
+  },
+  {
+   "date": "2022-07-01",
+   "acc": "month",
+   "text": "AlphaFold数据库公开约2亿个蛋白质结构预测，覆盖科学界已知绝大多数蛋白，免费向全球开放。"
+  },
+  {
+   "date": "2023-04-01",
+   "acc": "month",
+   "text": "谷歌将DeepMind与Google Brain合并为Google DeepMind，哈萨比斯出任CEO，统一谷歌AI研发。"
+  },
+  {
+   "date": "2024-01-01",
+   "acc": "month",
+   "text": "在新年授勋名单中受封爵士，表彰其对人工智能的贡献。"
+  },
+  {
+   "date": "2024-05-01",
+   "acc": "month",
+   "text": "DeepMind发布AlphaFold 3，将预测范围从蛋白质扩展到DNA、RNA与药物分子等生命分子复合体。"
+  },
+  {
+   "date": "2024-10-09",
+   "acc": "exact",
+   "text": "与John Jumper分享2024年诺贝尔化学奖，表彰AlphaFold2；另一半授予David Baker。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "继续执掌Google DeepMind并兼任Isomorphic Labs CEO，Gemini系列大模型与AI for Science成为两大主线。"
+  }
+ ],
+ "achievements": [
+  "创办DeepMind，2014年被谷歌收购，2023年起执掌Google DeepMind",
+  "AlphaGo于2016年以4比1战胜李世石，实现计算机在围棋上对人类顶级棋手的突破",
+  "AlphaFold2将蛋白质结构预测推进到接近实验精度，并公开约2亿个结构预测",
+  "获2024年诺贝尔化学奖（与John Jumper分享）",
+  "获2024年新年授勋爵士，2021年获皇家学会等学术机构多个奖项"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Demis Hassabis",
+   "url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+   "type": "wiki"
+  },
+  {
+   "title": "诺贝尔奖官网：2024年化学奖新闻稿",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release",
+   "type": "official"
+  },
+  {
+   "title": "Britannica: Demis Hassabis",
+   "url": "https://www.britannica.com/biography/Demis-Hassabis",
+   "type": "wiki"
+  },
+  {
+   "title": "Isomorphic Labs 官网人物页",
+   "url": "https://www.isomorphiclabs.com/people/sir-demis-hassabis-phd",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "人工智能",
+  "DeepMind",
+  "AlphaGo",
+  "AlphaFold",
+  "诺贝尔化学奖"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  }
+ ],
+ "bio": "德米斯·哈萨比斯是当代人工智能的标志性人物。1976年生于伦敦，父亲为希腊塞浦路斯裔、母亲有新加坡血统，自幼是国际象棋神童并痴迷编程与游戏。17岁参与牛蛙公司游戏《主题公园》的AI设计，20岁以双一等荣誉学位从剑桥计算机系毕业，创办游戏公司Elixir Studios；公司2005年关闭后转攻认知神经科学，2009年获伦敦大学学院博士学位。2010年与Shane Legg、Mustafa Suleyman创办DeepMind，2014年被谷歌以约4亿英镑收购。此后AlphaGo在2016年战胜李世石，AlphaFold2把蛋白质结构预测推进到接近实验精度，他于2024年获诺贝尔化学奖并受封爵士；现执掌Google DeepMind，继续押注通用智能与AI for Science。",
+ "legacy": "把「用AI解决科学问题」变成主流路径，AlphaGo与AlphaFold分别改写了围棋与结构生物学；现执掌Google DeepMind并兼任Isomorphic Labs CEO，被视为通往通用智能竞赛中最重要的技术领袖之一。"
+}

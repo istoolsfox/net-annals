@@ -1,0 +1,144 @@
+{
+ "id": "twitter",
+ "name": "推特",
+ "en_name": "Twitter",
+ "type": "company",
+ "region": "world",
+ "founded": "2006-03-21",
+ "founded_accuracy": "exact",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国旧金山",
+ "headline": "140字全球广场，十七年后更名X",
+ "summary_30s": "2006年以140字推文起家，hashtag与趋势话题造就突发新闻实时广场；2013年上市后增长停滞，新浪微博以『中国版Twitter』之名完成本土化；2022年马斯克440亿美元完成收购，2023年更名X。",
+ "timeline": [
+  {
+   "date": "2006-03-21",
+   "acc": "exact",
+   "text": "杰克·多西发出首条推文『just setting up my twttr』，公司同日创办，140字上限把发布门槛降到最低。"
+  },
+  {
+   "date": "2006-07-15",
+   "acc": "exact",
+   "text": "网站正式向公众开放，『What are you doing?』的轻量广播形态开始扩散。"
+  },
+  {
+   "date": "2007-01-01",
+   "acc": "year",
+   "text": "用户克里斯·梅西纳提议以#号聚合话题，hashtag由社区习惯成长为平台功能。"
+  },
+  {
+   "date": "2008-01-01",
+   "acc": "year",
+   "text": "推出趋势话题（Trending Topics）功能，热点聚合让突发新闻从此有了实时广场。"
+  },
+  {
+   "date": "2009-06-25",
+   "acc": "exact",
+   "text": "迈克尔·杰克逊逝世当晚访问量激增近一倍、服务一度告急，突发新闻先发于社交平台成为常态。"
+  },
+  {
+   "date": "2009-08-14",
+   "acc": "exact",
+   "text": "新浪微博在中国内测，以名人认证与转发机制承接微博客形态，长期被称为『中国版Twitter』，与原版形成产品范式对照。"
+  },
+  {
+   "date": "2011-05-02",
+   "acc": "exact",
+   "text": "本·拉登被击毙行动期间，一名当地居民实时发帖记录直升机盘旋与爆炸声，个人动态先于官方通报成为全球头条。"
+  },
+  {
+   "date": "2013-11-07",
+   "acc": "exact",
+   "text": "在纽交所挂牌上市，发行价26美元、募资18.2亿美元，开盘较发行价上涨73%。"
+  },
+  {
+   "date": "2017-01-01",
+   "acc": "year",
+   "text": "推文上限从140字放宽至280字，核心产品形态多年再无大改。"
+  },
+  {
+   "date": "2017-01-17",
+   "acc": "exact",
+   "text": "旗下六秒短视频应用Vine关停，其『短-快-洗脑』的内容基因后被抖音、快手继承。"
+  },
+  {
+   "date": "2019-01-01",
+   "acc": "year",
+   "text": "月活跃用户超过3.3亿，增长进入平台期。"
+  },
+  {
+   "date": "2022-04-25",
+   "acc": "exact",
+   "text": "马斯克与董事会达成每股54.2美元、总额440亿美元的收购协议。"
+  },
+  {
+   "date": "2022-10-27",
+   "acc": "exact",
+   "text": "马斯克按原价完成交割，随即裁员约50%，广告主暂停投放令收入大跌。"
+  },
+  {
+   "date": "2023-07-23",
+   "acc": "exact",
+   "text": "蓝鸟标志更换为黑白『X』，域名切换X.com，应用同步更名，17年历史的『Twitter』一词退役。"
+  },
+  {
+   "date": "2023-11-04",
+   "acc": "exact",
+   "text": "旗下xAI发布聊天机器人Grok，接入X平台实时数据流，AI成为新的产品叙事。"
+  },
+  {
+   "date": "2025-03-28",
+   "acc": "exact",
+   "text": "马斯克宣布xAI以全股票交易收购X：X作价330亿美元（企业价值450亿美元、含120亿美元债务），平台并入xAI体系。"
+  }
+ ],
+ "milestones": [
+  "2006年3月21日首条推文发出，140字定义微博客形态",
+  "2013年11月7日纽交所上市：发行价26美元，募资18.2亿美元",
+  "2022年10月27日以440亿美元完成交割，为社交媒体最大并购之一",
+  "2023年7月23日更名X，17年蓝鸟品牌退役",
+  "2019年初月活超3.3亿，此后增长进入平台期"
+ ],
+ "legacy": "现状：X平台在广告收入大跌后转向订阅、数据授权与AI叙事，2025年并入xAI体系；『Twitter』仍是全球口语中的通用词。微博的热搜与超话体系被视为对140字广场的本土化改造，两代产品互为镜像。",
+ "controversies": [
+  "2022年马斯克收购后大规模裁员、内容审核政策摇摆，全球主要广告主一度大规模撤离，收入骤降。",
+  "2022年11月付费蓝V认证上线即被大量冒充账号刷屏，引发品牌安全危机后紧急回滚。"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：Twitter",
+   "url": "https://zh.wikipedia.org/wiki/Twitter",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: X (social network)",
+   "url": "https://en.wikipedia.org/wiki/X_(social_network)",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Acquisition of Twitter by Elon Musk",
+   "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+   "type": "wiki"
+  },
+  {
+   "title": "Reuters: Musk's social media firm X bought by his AI company",
+   "url": "https://www.reuters.com/markets/deals/musks-xai-buys-social-media-platform-x-45-billion-2025-03-28",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "微博客",
+  "社交媒体",
+  "hashtag",
+  "实时信息",
+  "X平台"
+ ],
+ "related_persons": [
+  {
+   "id": "elon-musk",
+   "name": "埃隆·马斯克"
+  }
+ ],
+ "bio": "Twitter是以140字推文起家的全球实时信息广场，2023年起更名X。2006年3月，杰克·多西、比兹·斯通、埃文·威廉姆斯等人创办，首条推文『just setting up my twttr』开启微博客时代；hashtag与趋势话题把突发新闻推进实时广场，迈克尔·杰克逊逝世、本·拉登被击毙等事件奠定其『全球脉搏』地位，新浪微博则以名人认证与转发完成中国本土化。2013年11月上市后增长长期停滞，2019年月活3.3亿见顶。2022年10月马斯克以440亿美元完成收购，随即裁员约半数、改组内容政策，广告收入大幅下滑；2023年7月蓝鸟标志退役、更名X，随后把Grok聊天机器人接入平台数据流。2025年3月马斯克宣布xAI以330亿美元估值全股票收购X，平台并入xAI体系，向AI叙事转型。"
+}

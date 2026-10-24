@@ -1,0 +1,130 @@
+{
+ "id": "fei-fei-li",
+ "name": "李飞飞",
+ "en_name": "Fei-Fei Li",
+ "aliases": [],
+ "birth": "1976-01-01",
+ "birth_accuracy": "year",
+ "death": null,
+ "field": "ai",
+ "region": "world",
+ "headline": "ImageNet之母",
+ "summary_30s": "斯坦福大学教授、ImageNet数据集创始人，以「数据先行」的远见为深度学习革命铺路，ImageNet挑战赛直接催生了卷积神经网络的突破，被视为当代人工智能最重要的奠基者之一。",
+ "timeline": [
+  {
+   "date": "1976-01-01",
+   "acc": "year",
+   "text": "生于北京，少年时代在北京度过，家中重视教育。"
+  },
+  {
+   "date": "1992-01-01",
+   "acc": "year",
+   "text": "随父母自北京移民美国新泽西州，在帕西帕尼读高中，课余在自家干洗店帮忙打工。"
+  },
+  {
+   "date": "1999-01-01",
+   "acc": "year",
+   "text": "以全额奖学金从普林斯顿大学物理系毕业，随后赴西藏做过一年藏医药研究。"
+  },
+  {
+   "date": "2005-01-01",
+   "acc": "year",
+   "text": "获加州理工学院电气工程博士学位，研究方向为认知与计算神经科学。"
+  },
+  {
+   "date": "2007-01-01",
+   "acc": "year",
+   "text": "启动ImageNet项目，借助亚马逊众包平台雇佣全球人力标注1400万张图片，学界一度认为不可能完成。"
+  },
+  {
+   "date": "2009-01-01",
+   "acc": "year",
+   "text": "ImageNet数据集论文发表于CVPR并加入斯坦福大学，次年ImageNet挑战赛开赛，成为视觉AI的年度考场。"
+  },
+  {
+   "date": "2012-09-01",
+   "acc": "month",
+   "text": "Hinton团队用AlexNet在ImageNet挑战赛一战封神，深度学习革命自此引爆，ImageNet成为关键推手。"
+  },
+  {
+   "date": "2017-01-09",
+   "acc": "exact",
+   "text": "出任谷歌云AI与机器学习首席科学家，推动AutoML等企业级AI能力落地。"
+  },
+  {
+   "date": "2018-09-01",
+   "acc": "month",
+   "text": "卸任谷歌云职务，返回斯坦福大学任教，重心转回学术与AI伦理议题。"
+  },
+  {
+   "date": "2019-03-01",
+   "acc": "month",
+   "text": "联合发起斯坦福以人为本人工智能研究院（HAI）并任联席院长，推动技术、政策与人文交叉研究。"
+  },
+  {
+   "date": "2023-11-01",
+   "acc": "month",
+   "text": "出版英文回忆录《我看见的世界》（The Worlds I See），记述从移民少女到AI前沿学者的经历。"
+  },
+  {
+   "date": "2024-04-01",
+   "acc": "month",
+   "text": "联合创立空间智能公司World Labs并出任CEO，方向是让机器理解并生成三维世界。"
+  },
+  {
+   "date": "2024-09-01",
+   "acc": "month",
+   "text": "World Labs完成2.3亿美元融资，投资方包括a16z、NEA与英伟达黄仁勋等，成立数月即成独角兽。"
+  },
+  {
+   "date": "2026-01-01",
+   "acc": "year",
+   "text": "World Labs年初再获约10亿美元融资，估值升至约50亿美元，空间智能成为硅谷新热点方向之一。"
+  }
+ ],
+ "achievements": [
+  "创建ImageNet数据集与挑战赛，直接催化深度学习革命",
+  "推动「以人为本AI」理念，联合创立斯坦福HAI研究院",
+  "创办空间智能公司World Labs，探索三维视觉智能前沿"
+ ],
+ "quotes": [
+  "如果有想把世界变好的好奇心，就去学AI"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：李飞飞",
+   "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A3%9E%E9%A3%9E",
+   "type": "wiki"
+  },
+  {
+   "title": "斯坦福HAI官网",
+   "url": "https://hai.stanford.edu/",
+   "type": "official"
+  },
+  {
+   "title": "新浪财经：黄仁勋投了李飞飞，World Labs融资2.3亿美元",
+   "url": "https://finance.sina.com.cn/jjxw/2024-09-15/doc-incpfnxn7744817.shtml",
+   "type": "news"
+  },
+  {
+   "title": "德国之声：World Labs获得10亿美元融资",
+   "url": "https://www.dw.com/zh/a-76036647",
+   "type": "news"
+  }
+ ],
+ "tags": [
+  "ImageNet",
+  "斯坦福",
+  "AI",
+  "科学家",
+  "美国"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  }
+ ],
+ "bio": "李飞飞是人工智能领域最具影响力的学者之一，以创建ImageNet数据集著称。1976年生于北京，1992年随父母移民美国新泽西州，少年时一边读书一边在自家的干洗店帮忙打工。1999年获普林斯顿大学物理学士学位，2005年获加州理工学院电气工程博士学位，此后先后任教于伊利诺伊大学与普林斯顿大学，2009年加入斯坦福。2007年起她力排众议启动ImageNet，用众包方式标注逾千万张图片，为卷积神经网络提供了训练土壤；2012年AlexNet在ImageNet挑战赛大幅领先，直接引爆深度学习革命。此后她转向「以人为本AI」，2017年短暂出任谷歌云AI首席科学家，2019年联合创办斯坦福HAI研究院，2024年创立空间智能公司World Labs，提出视觉空间智能是AI的下一个前沿。",
+ "legacy": "以一个数据集改变人工智能的技术路线，ImageNet至今仍是计算机视觉的基准；现任斯坦福大学教授与World Labs CEO，是「数据先行」与「以人为本AI」两代理念的代表人物。"
+}

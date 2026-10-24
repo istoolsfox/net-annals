@@ -1,0 +1,122 @@
+{
+ "id": "tim-berners-lee",
+ "name": "蒂姆·伯纳斯-李",
+ "en_name": "Tim Berners-Lee",
+ "aliases": [
+  "TimBL"
+ ],
+ "birth": "1955-06-08",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "万维网发明人、W3C创始人",
+ "summary_30s": "1989年在CERN提出万维网，开发出首个浏览器与URL/HTTP/HTML；1993年促成CERN免版税开放，Web用户达数十亿；1994年创立W3C制定Web标准，2016年获图灵奖。",
+ "timeline": [
+  {
+   "date": "1955-06-08",
+   "acc": "exact",
+   "text": "生于伦敦，父母均为参与英国首台商用计算机Ferranti Mark 1的计算机先驱。"
+  },
+  {
+   "date": "1976-01-01",
+   "acc": "year",
+   "text": "获牛津大学物理学学士学位，毕业后进入电信设备企业Plessey任工程师。"
+  },
+  {
+   "date": "1980-01-01",
+   "acc": "year",
+   "text": "以承包顾问身份在CERN工作，编写超文本原型软件ENQUIRE，用于关联人员、项目与设备信息。"
+  },
+  {
+   "date": "1984-01-01",
+   "acc": "year",
+   "text": "正式加入CERN计算机部，从事数据处理与实时系统工程。"
+  },
+  {
+   "date": "1989-03-01",
+   "acc": "month",
+   "text": "提交《信息管理：一项提案》，构想以超文本连接科研信息的分布式系统，即万维网雏形。"
+  },
+  {
+   "date": "1990-12-20",
+   "acc": "exact",
+   "text": "与Robert Cailliau完善并获批准提案，在NeXT机器上写出首个浏览器/编辑器与服务器，info.cern.ch在CERN内网上线。"
+  },
+  {
+   "date": "1991-08-06",
+   "acc": "exact",
+   "text": "在Usenet发布公告，万维网向公众开放，info.cern.ch成为全球首个公开网站。"
+  },
+  {
+   "date": "1993-04-30",
+   "acc": "exact",
+   "text": "促成CERN宣布将万维网软件免版税开放，为Web覆盖全球数十亿用户扫清产权障碍。"
+  },
+  {
+   "date": "1994-01-01",
+   "acc": "year",
+   "text": "赴麻省理工学院创立万维网联盟（W3C）并出任理事，主持HTML等Web开放标准制定。"
+  },
+  {
+   "date": "2004-01-01",
+   "acc": "year",
+   "text": "获首届千禧技术奖（奖金100万欧元），同年因发明万维网获册封爵士。"
+  },
+  {
+   "date": "2016-01-01",
+   "acc": "year",
+   "text": "获2016年度ACM图灵奖（2017年4月揭晓），表彰其发明万维网、首个浏览器及URL/HTTP/HTML等基础协议。"
+  },
+  {
+   "date": "2018-01-01",
+   "acc": "year",
+   "text": "联合创办Inrupt公司推广Solid项目；近年持续呼吁用户掌控个人数据，并参与Web与数据治理的讨论。"
+  }
+ ],
+ "achievements": [
+  "发明万维网：1990年开发首个浏览器、服务器及URL/HTTP/HTML协议",
+  "1993年推动CERN将万维网软件免版税开放，奠定Web全球化基础",
+  "1994年创立W3C，主持HTML等Web开放标准制定",
+  "2004年成为首届千禧技术奖得主（奖金100万欧元）",
+  "获2016年图灵奖；后创办Inrupt推动Solid个人数据自主管理"
+ ],
+ "controversies": [],
+ "quotes": [
+  {
+   "text": "This is for everyone（这是为了每一个人）",
+   "source": "2012年伦敦奥运会闭幕式期间发布的推文"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wikipedia: Tim Berners-Lee",
+   "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+   "type": "wiki"
+  },
+  {
+   "title": "CERN: A short history of the Web",
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web",
+   "type": "official"
+  },
+  {
+   "title": "W3C: Information Management — A Proposal（1989年原始提案）",
+   "url": "https://www.w3.org/History/1989/proposal.html",
+   "type": "official"
+  },
+  {
+   "title": "维基百科：蒂姆·伯纳斯-李",
+   "url": "https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "万维网",
+  "W3C",
+  "CERN",
+  "互联网",
+  "图灵奖"
+ ],
+ "bio": "英国计算机科学家，万维网的发明人。1955年生于伦敦，父母都是参与过英国首台商用计算机Ferranti Mark 1的程序员。1976年自牛津大学物理系毕业后，先后在Plessey等公司从事系统工程。1980年在CERN担任顾问时编写超文本原型ENQUIRE；1984年正式加入CERN，1989年3月提交《信息管理：一项提案》，提出用超文本连接科研信息的分布式系统；1990年底写出首个浏览器、编辑器与服务器，确立URL、HTTP、HTML三项基础协议，info.cern.ch成为首个网站；1991年8月万维网向公众开放，1993年促成CERN宣布免版税开放Web技术。1994年赴麻省理工创立万维网联盟W3C主持Web标准，此后倡导语义网、开放数据与个人数据主权，2016年获图灵奖。近年通过创办的Inrupt公司推广Solid，探索让用户自主掌控数据的去中心化Web。",
+ "legacy": "万维网成为数十亿人的信息基础设施，而他坚持将其免费开放而非专利化，塑造了互联网的开放传统。现主持Inrupt推广Solid，作为W3C创始理事关注Web与数据治理。"
+}

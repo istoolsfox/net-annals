@@ -1,0 +1,113 @@
+{
+ "id": "internetarchive",
+ "name": "互联网档案馆",
+ "en_name": "Internet Archive",
+ "type": "institution",
+ "region": "world",
+ "founded": "1996-05-01",
+ "founded_accuracy": "month",
+ "dissolved": null,
+ "status": "active",
+ "hq": "美国旧金山",
+ "headline": "为互联网本身建立备份的图书馆",
+ "summary_30s": "互联网档案馆1996年在旧金山创办，立志「普罗知识」，其Wayback Machine已保存超1万亿个网页快照。它因受控数字借阅被四大出版商起诉，2024年上诉法院维持侵权认定。如今它仍是全球最大的网络备份库，也是维基百科编辑与记者的常用出处。",
+ "timeline": [
+  {
+   "date": "1996-05-01",
+   "acc": "month",
+   "text": "Brewster Kahle在旧金山创办互联网档案馆，开始系统性抓取并保存网页"
+  },
+  {
+   "date": "1996-10-01",
+   "acc": "month",
+   "text": "网页抓取形成规模，GeoCities等初代网站的最早快照就此留底"
+  },
+  {
+   "date": "1999-01-01",
+   "acc": "year",
+   "text": "收藏扩展到网页之外，纳入影像、音频、图书与软件等数字化藏品，转型为综合性的互联网记忆库"
+  },
+  {
+   "date": "2001-01-01",
+   "acc": "year",
+   "text": "Wayback Machine正式上线，公众首次可检索任意网址的历史快照，失效链接从此有据可查"
+  },
+  {
+   "date": "2006-01-01",
+   "acc": "year",
+   "text": "Open Library项目公开亮相，目标为『每一本出版过的书建一个网页』，后由档案馆托管运营"
+  },
+  {
+   "date": "2020-03-24",
+   "acc": "exact",
+   "text": "因新冠疫情开设『国家紧急图书馆』，取消全部借阅排队，招致版权方强烈反弹"
+  },
+  {
+   "date": "2020-06-01",
+   "acc": "exact",
+   "text": "Hachette、企鹅兰登、哈珀柯林斯、威科四大出版商起诉档案馆，称受控数字借阅（CDL）构成侵权；馆方两周后关闭该服务"
+  },
+  {
+   "date": "2023-03-25",
+   "acc": "exact",
+   "text": "纽约南区联邦法院裁定CDL不属于合理使用，档案馆一审败诉，8月达成永久禁令"
+  },
+  {
+   "date": "2024-09-01",
+   "acc": "month",
+   "text": "第二巡回上诉法院维持侵权认定，同年12月档案馆宣布不再上诉；同月Google搜索开始接入Wayback Machine链接"
+  },
+  {
+   "date": "2024-10-01",
+   "acc": "month",
+   "text": "遭遇DDoS与数据泄露攻击，网站多次中断服务，数十万账号资料外泄"
+  },
+  {
+   "date": "2025-07-24",
+   "acc": "exact",
+   "text": "被美国参议院指定为联邦寄存图书馆，承担政府公开文献的保存"
+  },
+  {
+   "date": "2025-10-22",
+   "acc": "exact",
+   "text": "Wayback Machine收录网页突破1万亿条，为全球规模最大的网页历史档案"
+  }
+ ],
+ "milestones": [
+  "Wayback Machine收录网页快照超1万亿条（2025年10月）",
+  "2020年6月遭四大出版商起诉，2024年9月上诉法院维持CDL侵权认定",
+  "2023年3月法院认定受控数字借阅不属合理使用，同年8月达成永久禁令",
+  "2025年7月获指定为美国联邦寄存图书馆"
+ ],
+ "legacy": "档案馆仍在旧金山运行：受Hachette案禁令影响，在售电子书不能再数字外借，其余借阅与全站备份继续；对中文互联网而言，从瀛海威到淘宝的最早网页快照都保存在这里，中国互联网的『数字考古』大多靠它提供底片。",
+ "sources": [
+  {
+   "title": "Wikipedia: Internet Archive",
+   "url": "https://en.wikipedia.org/wiki/Internet_Archive",
+   "type": "wiki"
+  },
+  {
+   "title": "Wikipedia: Hachette v. Internet Archive",
+   "url": "https://en.wikipedia.org/wiki/Hachette_v._Internet_Archive",
+   "type": "wiki"
+  },
+  {
+   "title": "Internet Archive 首张GeoCities快照",
+   "url": "https://web.archive.org/web/19961022000000/http://www.geocities.com/",
+   "type": "archive"
+  },
+  {
+   "title": "Internet Archive 首张维基百科快照",
+   "url": "https://web.archive.org/web/20010727000000/http://www.wikipedia.org/",
+   "type": "archive"
+  }
+ ],
+ "tags": [
+  "网页存档",
+  "数字图书馆",
+  "Wayback Machine",
+  "版权",
+  "旧金山"
+ ],
+ "bio": "互联网档案馆（Internet Archive）是一家为互联网本身建立备份的非营利数字图书馆。1996年，计算机工程师Brewster Kahle在旧金山创办档案馆，开始系统性抓取保存网页，2001年推出面向公众检索的Wayback Machine，此后藏品扩展到音视频、图书与软件，『普罗知识』的理念使它成为全球最大的网络历史备份库，也是维基百科编辑与记者查证失效链接的第一去处。2020年新冠疫情期间开设『国家紧急图书馆』并取消借阅排队，招致四大出版商以受控数字借阅（CDL）侵权起诉；2023年法院裁定CDL不属合理使用，2024年上诉法院维持侵权认定，馆方放弃上诉，在售电子书从此不能再数字外借。2024年10月它还遭遇严重DDoS攻击与数据泄露。2025年7月获指定为美国联邦寄存图书馆，10月Wayback Machine收录网页突破1万亿条。"
+}

@@ -1,0 +1,129 @@
+{
+ "id": "steve-jobs",
+ "name": "史蒂夫·乔布斯",
+ "en_name": "Steve Jobs",
+ "aliases": [],
+ "birth": "1955-02-24",
+ "birth_accuracy": "exact",
+ "death": "2011-10-05",
+ "field": "company",
+ "region": "world",
+ "headline": "苹果联合创始人",
+ "summary_30s": "苹果公司联合创始人，主导Apple II、Macintosh、iPod、iPhone与iPad的产品定义，先后推动图形界面电脑、数字音乐与智能手机的形态确立；1985年离开苹果创办NeXT并执掌皮克斯，1997年回归后把苹果重建为全球市值最高公司之一。",
+ "timeline": [
+  {
+   "date": "1955-02-24",
+   "acc": "exact",
+   "text": "生于旧金山，出生即由保罗与克拉拉·乔布斯夫妇领养，在硅谷洛斯阿尔托斯长大。"
+  },
+  {
+   "date": "1976-04-01",
+   "acc": "exact",
+   "text": "与沃兹尼亚克、罗·韦恩创办苹果公司，首台产品Apple I以电路板形式发售。"
+  },
+  {
+   "date": "1977-01-01",
+   "acc": "year",
+   "text": "苹果发布Apple II，成为首批大规模流行的个人电脑之一，公司迅速壮大。"
+  },
+  {
+   "date": "1984-01-24",
+   "acc": "exact",
+   "text": "发布Macintosh电脑，将图形用户界面带入规模化销售的个人电脑市场。"
+  },
+  {
+   "date": "1985-09-01",
+   "acc": "month",
+   "text": "与CEO斯卡利的权力斗争失利，离开苹果，创办计算机公司NeXT。"
+  },
+  {
+   "date": "1986-01-01",
+   "acc": "year",
+   "text": "以500万美元买下卢卡斯影业电脑动画部门并追加等额注资，组建皮克斯动画工作室。"
+  },
+  {
+   "date": "1995-01-01",
+   "acc": "year",
+   "text": "皮克斯出品全球首部全电脑制作动画长片《玩具总动员》，大获成功，皮克斯次年上市。"
+  },
+  {
+   "date": "1997-01-01",
+   "acc": "year",
+   "text": "苹果以约4.3亿美元收购NeXT，乔布斯重回苹果，同年9月出任临时CEO。"
+  },
+  {
+   "date": "1998-08-01",
+   "acc": "month",
+   "text": "发布一体式彩色电脑iMac，苹果扭亏为盈，重回增长轨道。"
+  },
+  {
+   "date": "2001-10-01",
+   "acc": "month",
+   "text": "发布iPod数字音乐播放器，次年推出iTunes音乐商店，重塑数字音乐分发模式。"
+  },
+  {
+   "date": "2007-01-09",
+   "acc": "exact",
+   "text": "发布iPhone，把多点触控与移动互联网整合进手机，奠定此后十余年的智能手机形态。"
+  },
+  {
+   "date": "2010-01-27",
+   "acc": "exact",
+   "text": "发布平板电脑iPad，开辟现代平板设备品类。"
+  },
+  {
+   "date": "2011-08-24",
+   "acc": "exact",
+   "text": "因健康恶化辞任CEO，蒂姆·库克接任，本人转任董事长。"
+  },
+  {
+   "date": "2011-10-05",
+   "acc": "exact",
+   "text": "病逝于加州帕洛阿尔托，终年56岁；死因为2003年确诊的胰腺神经内分泌肿瘤。"
+  }
+ ],
+ "achievements": [
+  "联合创办苹果，主导Apple II与Macintosh，推动图形界面个人电脑普及",
+  "主导发布iPhone，2007年起重新定义智能手机产品形态",
+  "执掌皮克斯，出品全球首部全电脑制作动画长片《玩具总动员》",
+  "1997年回归苹果，以iMac、iPod、iPhone带动公司重回增长，成为全球市值最高公司之一",
+  "推动iTunes音乐商店与App Store上线，改变数字内容分发模式"
+ ],
+ "controversies": [
+  "2006年苹果股票期权倒签丑闻调查认定乔布斯对倒签知情但未实际获利，未被起诉，公司两名前高管遭美国证监会指控。"
+ ],
+ "quotes": [
+  "Stay hungry, stay foolish（求知若饥，虚心若愚）——2005年斯坦福大学毕业演讲"
+ ],
+ "sources": [
+  {
+   "title": "维基百科：史蒂夫·乔布斯",
+   "url": "https://zh.wikipedia.org/zh-hans/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E4%B9%94%E5%B8%83%E6%96%AF",
+   "type": "wiki"
+  },
+  {
+   "title": "BBC: Steve Jobs, Apple 'visionary', dies aged 56",
+   "url": "https://www.bbc.com/news/world-us-canada-15193922",
+   "type": "news"
+  },
+  {
+   "title": "Apple Newsroom: Statement by Apple's Board of Directors",
+   "url": "https://www.apple.com/newsroom/2011/10/05Statement-by-Apples-Board-of-Directors",
+   "type": "official"
+  },
+  {
+   "title": "Wikipedia: Steve Jobs",
+   "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+   "type": "wiki"
+  }
+ ],
+ "tags": [
+  "苹果",
+  "iPhone",
+  "Macintosh",
+  "皮克斯",
+  "消费电子"
+ ],
+ "bio": "苹果公司联合创始人，个人电脑、数字音乐与智能手机时代的标志性产品定义者。1955年生于旧金山，出生即被领养，在加州洛斯阿尔托斯长大，就读里德学院后辍学，旁听书法课并到雅达利打工。1976年与沃兹尼亚克在自家车库创办苹果，Apple II让个人电脑走进家庭，1984年的Macintosh把图形用户界面推向大众市场；1985年权力斗争失败离开苹果，创办NeXT并买下皮克斯，后者以《玩具总动员》开创电脑动画时代。1997年苹果濒临破产时回归，以iMac止血，随后用iPod与iTunes改造音乐产业；2007年发布的iPhone重新定义智能手机，2010年的iPad开辟平板品类，苹果成为全球市值最高的公司之一。2003年确诊胰腺神经内分泌肿瘤，2011年8月辞任CEO，10月5日病逝于加州帕洛阿尔托，终年56岁。",
+ "legacy": "留下从图形界面电脑、数字音乐到智能手机、平板的完整产品范式，以及「科技与人文交汇」的产品哲学；苹果延续其确立的软硬一体路线，成为全球市值最高的公司之一。"
+}

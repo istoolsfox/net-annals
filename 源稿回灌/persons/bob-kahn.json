@@ -1,0 +1,132 @@
+{
+ "id": "bob-kahn",
+ "name": "鲍勃·卡恩",
+ "en_name": "Bob Kahn",
+ "aliases": [
+  "Robert Elliot Kahn"
+ ],
+ "birth": "1938-12-23",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "internet",
+ "region": "world",
+ "headline": "TCP/IP共同设计者、CNRI创办人",
+ "summary_30s": "与Vint Cerf共同设计TCP/IP并合著1974年奠基论文；1972年主持ARPANET首次公开演示，1986年创办CNRI开发Handle系统；2004年共获图灵奖。",
+ "timeline": [
+  {
+   "date": "1938-12-23",
+   "acc": "exact",
+   "text": "生于纽约布鲁克林一个犹太裔家庭，父亲为高中校长，少年时痴迷电子与化学实验，动手能力极强。"
+  },
+  {
+   "date": "1960-01-01",
+   "acc": "year",
+   "text": "毕业于纽约城市学院（CCNY）电气工程系，随后进入普林斯顿大学深造，先后获硕士与博士学位。"
+  },
+  {
+   "date": "1964-01-01",
+   "acc": "year",
+   "text": "获普林斯顿大学电气工程博士学位，出任麻省理工学院助理教授，转向计算机与通信前沿研究。"
+  },
+  {
+   "date": "1966-01-01",
+   "acc": "year",
+   "text": "加入BBN公司，参与ARPANET接口信息处理机（IMP）的操作系统设计，站到网络工程的第一线。"
+  },
+  {
+   "date": "1972-10-01",
+   "acc": "month",
+   "text": "转入DARPA信息处理技术办公室；同月在华盛顿首届国际计算机通信大会上主持ARPANET公开演示，约40台终端远程接入，互联网的前身首次面向公众亮相。"
+  },
+  {
+   "date": "1973-01-01",
+   "acc": "year",
+   "text": "在DARPA发起「互联网计划」（Internetting project），与在斯坦福任教的文顿·瑟夫构想以统一协议连接不同分组交换网络。"
+  },
+  {
+   "date": "1974-05-01",
+   "acc": "month",
+   "text": "与瑟夫发表《分组网络互连协议》论文，提出TCP设计，后演化为TCP/IP体系，成为互联网的技术基石。"
+  },
+  {
+   "date": "1975-01-01",
+   "acc": "year",
+   "text": "出任DARPA信息处理技术办公室（IPTO）主任，主管网络与计算领域的前沿研究。"
+  },
+  {
+   "date": "1983-01-01",
+   "acc": "exact",
+   "text": "ARPANET正式整体切换为TCP/IP协议（「标志日」），现代互联网的技术形态由此确立。"
+  },
+  {
+   "date": "1986-01-01",
+   "acc": "year",
+   "text": "创办国家研究倡议公司（CNRI）并出任总裁，此后数十年聚焦信息基础设施与数字对象基础研究。"
+  },
+  {
+   "date": "1994-01-01",
+   "acc": "year",
+   "text": "提出数字对象架构，主持开发Handle系统，为数字对象提供全球唯一标识，此后成为DOI学术文献标识体系的技术基础。"
+  },
+  {
+   "date": "1997-01-01",
+   "acc": "year",
+   "text": "与瑟夫同获美国国家技术奖章；2001年两人又与克莱因罗克、罗伯茨同获德雷珀奖，网络先驱集体获誉。"
+  },
+  {
+   "date": "2004-01-01",
+   "acc": "year",
+   "text": "与瑟夫共获ACM图灵奖，表彰其在互联网通信协议领域的开创性贡献，两人被并称为「互联网之父」。"
+  },
+  {
+   "date": "2005-11-01",
+   "acc": "month",
+   "text": "与瑟夫获总统自由勋章，为美国平民最高荣誉；2013年再与瑟夫、伯纳斯-李等共获首届英国女王工程奖。"
+  },
+  {
+   "date": "2025-01-01",
+   "acc": "year",
+   "text": "现仍任CNRI总裁兼首席执行官，推动数字对象架构在数字基础设施建设中的应用，并活跃于互联网技术史的整理与讲学。"
+  }
+ ],
+ "achievements": [
+  "与Vint Cerf共同设计TCP/IP并合著1974年奠基论文",
+  "1972年主持ARPANET在ICCC的首次大规模公开演示",
+  "1986年创办国家研究倡议公司（CNRI），主持数字对象架构与Handle系统研发",
+  "1997年获美国国家技术奖章，2001年获德雷珀奖",
+  "2004年与Cerf共获ACM图灵奖"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: Robert Kahn (computer scientist)",
+   "url": "https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)",
+   "type": "wiki"
+  },
+  {
+   "title": "维基百科：罗伯特·卡恩",
+   "url": "https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%8D%A1%E6%81%A9",
+   "type": "wiki"
+  },
+  {
+   "title": "Cerf & Kahn 1974年TCP奠基论文",
+   "url": "https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf",
+   "type": "paper"
+  },
+  {
+   "title": "ETHW Milestone: TCP Enables the Internet, 1974",
+   "url": "https://ethw.org/Milestones:Transmission_Control_Protocol_(TCP)_Enables_the_Internet,_1974",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "TCP/IP",
+  "互联网",
+  "CNRI",
+  "ARPANET",
+  "图灵奖"
+ ],
+ "bio": "美国计算机科学家，互联网奠基人之一，TCP/IP协议的共同设计者，2004年图灵奖得主。卡恩生于纽约布鲁克林一个教师家庭，1960年毕业于纽约城市学院电气工程专业，1964年获普林斯顿大学博士学位，先后任教麻省理工学院并加入BBN公司，参与ARPANET接口信息处理机的操作系统设计。1972年转入美国国防高级研究计划局（DARPA），同年在华盛顿首届国际计算机通信大会上主持ARPANET的首次大规模公开演示；随后与斯坦福大学的文顿·瑟夫（Vint Cerf）合作，1974年发表提出TCP协议的奠基论文，该设计后来演化为互联网的标准协议族TCP/IP。1970年代中后期执掌DARPA信息处理技术办公室；1986年创办国家研究倡议公司（CNRI），此后主持开发数字对象架构与Handle系统，成为DOI学术标识体系的技术基础。2004年与瑟夫同获图灵奖，2005年获总统自由勋章，现仍主持CNRI工作。",
+ "legacy": "与瑟夫共同设计的TCP/IP至今仍是全球互联网的通用语言；其晚年推动的数字对象架构与Handle系统支撑着DOI等学术基础设施，是互联网从协议到治理的全程参与者。"
+}

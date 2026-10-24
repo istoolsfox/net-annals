@@ -1,0 +1,145 @@
+{
+ "id": "mrbeast",
+ "name": "MrBeast",
+ "en_name": "Jimmy Donaldson",
+ "aliases": [
+  "MrBeast6000"
+ ],
+ "birth": "1998-05-07",
+ "birth_accuracy": "exact",
+ "death": null,
+ "field": "creator",
+ "region": "world",
+ "headline": "YouTube订阅数全球第一创作者",
+ "summary_30s": "以百万美元级成本制作大挑战视频的YouTube创作者。2024年6月订阅数超越T-Series登顶全站第一，2026年10月达5.23亿；真人秀Beast Games 25天获5000万观看，巧克力品牌Feastables与估值50亿美元的Beast Industries将流量转化为商业版图。",
+ "timeline": [
+  {
+   "date": "1998-05-07",
+   "acc": "exact",
+   "text": "出生于美国堪萨斯州威奇托，在北卡罗来纳州格林维尔长大，少年时因病休学在家刷视频自学剪辑。"
+  },
+  {
+   "date": "2012-02-01",
+   "acc": "month",
+   "text": "13岁以「MrBeast6000」名义上传第一支YouTube视频，此后长期以小频道身份摸索内容方向。"
+  },
+  {
+   "date": "2017-01-09",
+   "acc": "exact",
+   "text": "发布《I Counted to 100,000!》，用约40小时从1数到10万，成为频道破圈之作。"
+  },
+  {
+   "date": "2019-10-25",
+   "acc": "exact",
+   "text": "与Mark Rober发起Team Trees植树募捐，当年12月即提前达成2000万美元目标。"
+  },
+  {
+   "date": "2020-12-01",
+   "acc": "month",
+   "text": "推出虚拟餐厅品牌MrBeast Burger，以线上点单、合作餐厅出餐模式迅速铺开。"
+  },
+  {
+   "date": "2021-10-29",
+   "acc": "exact",
+   "text": "发起Team Seas海洋清理募捐，目标3000万美元，后续累计筹款超3400万美元。"
+  },
+  {
+   "date": "2021-11-01",
+   "acc": "month",
+   "text": "上传实景版《鱿鱼游戏》，456名参赛者争夺45.6万美元奖金，一周播放超1.3亿次。"
+  },
+  {
+   "date": "2022-01-01",
+   "acc": "year",
+   "text": "推出巧克力品牌Feastables，上市初期销售额约1000万美元，开始把流量导入自有消费品。"
+  },
+  {
+   "date": "2024-06-02",
+   "acc": "exact",
+   "text": "订阅数超越印度唱片公司T-Series，登顶YouTube全站第一，彼时约2.67亿。"
+  },
+  {
+   "date": "2024-07-10",
+   "acc": "exact",
+   "text": "成为YouTube历史上首位订阅数突破3亿的创作者，单月涨粉数千万，平台纪录被其一人反复改写。"
+  },
+  {
+   "date": "2024-12-19",
+   "acc": "exact",
+   "text": "真人秀Beast Games在Prime Video首播，1000名参赛者争夺500万美元单人奖金，25天观看量达5000万。"
+  },
+  {
+   "date": "2025-05-01",
+   "acc": "month",
+   "text": "订阅数突破4亿，继续稳居全球第一，成为平台上唯一达到该量级的个人频道，增长曲线未见放缓。"
+  },
+  {
+   "date": "2026-01-01",
+   "acc": "year",
+   "text": "旗下Beast Industries完成新一轮融资，估值达50亿美元，业务横跨内容、消费品与游戏等方向。"
+  },
+  {
+   "date": "2026-06-12",
+   "acc": "exact",
+   "text": "订阅数突破5亿，为YouTube史上首位达成者，仅用约两年时间完成从3亿到5亿的跨越。"
+  },
+  {
+   "date": "2026-10-01",
+   "acc": "month",
+   "text": "订阅数达5.23亿、总播放量超1430亿次，仍是全球订阅第一创作者，并持续拓展影视与消费品牌版图。"
+  }
+ ],
+ "achievements": [
+  "YouTube订阅数全球第一，2026年10月达5.23亿、总播放超1430亿次",
+  "Team Trees、Team Seas募捐分别筹款超2000万与3400万美元",
+  "Beast Games 25天获5000万观看，创亚马逊真人秀纪录，单人奖金500万美元",
+  "Feastables上市初期销售额约1000万美元，Beast Industries估值50亿美元",
+  "Forbes两次评为年收入最高的YouTube创作者，2021年收入约5400万美元"
+ ],
+ "controversies": [
+  "2024年9月，Beast Games部分参赛者起诉制作方，指控拍摄期间待遇恶劣、存在安全隐患。",
+  "2024年，早年直播中的不当言论被翻出，本人发布视频公开道歉。"
+ ],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "Wikipedia: MrBeast",
+   "url": "https://en.wikipedia.org/wiki/MrBeast",
+   "type": "wiki"
+  },
+  {
+   "title": "MrBeast官方YouTube频道",
+   "url": "https://www.youtube.com/@MrBeast",
+   "type": "official"
+  },
+  {
+   "title": "Team Trees官方页面",
+   "url": "https://teamtrees.org/",
+   "type": "official"
+  },
+  {
+   "title": "Team Seas官方页面",
+   "url": "https://teamseas.org/",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "YouTube",
+  "创作者",
+  "公益募捐",
+  "Feastables",
+  "真人秀"
+ ],
+ "related_entities": [
+  {
+   "id": "youtube",
+   "name": "YouTube"
+  },
+  {
+   "id": "amazon",
+   "name": "亚马逊"
+  }
+ ],
+ "bio": "本名吉米·唐纳森（Jimmy Donaldson），YouTube订阅数全球第一的创作者，以百万美元级成本的大挑战视频闻名。1998年生于美国堪萨斯州，在北卡罗来纳州长大，少年时因病休学在家自学剪辑；13岁上传首支视频，靠「从1数到10万」等极限挑战内容出圈，逐步形成高成本、高刺激的工业化视频模式。2021年实景复刻《鱿鱼游戏》一周播放破1.3亿；2024年6月订阅数超越T-Series登顶全站第一，7月率先突破3亿，12月真人秀Beast Games创下亚马逊平台纪录。商业上推出Feastables巧克力与Beast Industries（2026年估值50亿美元），公益上Team Trees、Team Seas累计募资超5000万美元。2026年订阅数突破5亿，10月达5.23亿。",
+ "legacy": "把YouTube创作做成了集内容、消费品牌与资本于一体的媒体公司，重塑了创作者经济的规模上限；现仍为全球订阅第一创作者，持续拓展影视与商业版图。"
+}

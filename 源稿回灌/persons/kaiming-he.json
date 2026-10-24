@@ -1,0 +1,130 @@
+{
+ "id": "kaiming-he",
+ "name": "何恺明",
+ "en_name": "Kaiming He",
+ "aliases": [],
+ "birth": "1984-01-01",
+ "birth_accuracy": "year",
+ "death": null,
+ "field": "ai",
+ "region": "cn",
+ "headline": "ResNet一作、MIT教授",
+ "summary_30s": "计算机视觉与深度学习研究者。一作论文ResNet引入残差连接，将可用网络深度提升至152层，论文引用超20万次，为深度学习领域引用量最高的成果之一；另提出Mask R-CNN实例分割框架与MAE自监督方法，先后获CVPR 2009、CVPR 2016最佳论文奖与ICCV 2017最佳论文奖。2024年起任麻省理工学院电子工程与计算机科学系教授。",
+ "timeline": [
+  {
+   "date": "1984-01-01",
+   "acc": "year",
+   "text": "生于广东，中学就读于华南师范大学附属中学，凭物理竞赛成绩获得保送清华资格。"
+  },
+  {
+   "date": "2003-01-01",
+   "acc": "year",
+   "text": "保送进入清华大学物理系基础科学班，接受数理基础训练。"
+  },
+  {
+   "date": "2007-01-01",
+   "acc": "year",
+   "text": "从清华大学物理系毕业，赴香港中文大学攻读博士，师从汤晓鸥。"
+  },
+  {
+   "date": "2009-06-01",
+   "acc": "month",
+   "text": "以博士生身份凭单幅图像去雾论文获CVPR最佳论文奖，为首位获该奖的中国学者。"
+  },
+  {
+   "date": "2011-01-01",
+   "acc": "year",
+   "text": "获香港中文大学博士学位，随后加入微软亚洲研究院任研究员。"
+  },
+  {
+   "date": "2015-12-01",
+   "acc": "month",
+   "text": "一作ResNet论文提交至arXiv（与张祥雨、任少卿、孙剑合作），可用网络深度突破150层。"
+  },
+  {
+   "date": "2016-01-01",
+   "acc": "year",
+   "text": "加入Facebook人工智能实验室（FAIR），任研究科学家。"
+  },
+  {
+   "date": "2016-06-01",
+   "acc": "month",
+   "text": "ResNet获CVPR 2016最佳论文奖，此后成为深度学习最广泛使用的骨干网络之一。"
+  },
+  {
+   "date": "2017-10-01",
+   "acc": "month",
+   "text": "Mask R-CNN获ICCV 2017最佳论文奖（Marr奖），该框架成为实例分割的标准方法。"
+  },
+  {
+   "date": "2021-11-01",
+   "acc": "month",
+   "text": "提出MAE掩码自编码器自监督学习方法，成为视觉预训练的代表性方案之一。"
+  },
+  {
+   "date": "2023-01-01",
+   "acc": "year",
+   "text": "获未来科学大奖数学与计算机科学奖，成为该奖项最年轻的得主之一。"
+  },
+  {
+   "date": "2024-02-01",
+   "acc": "month",
+   "text": "出任麻省理工学院电子工程与计算机科学系教授。"
+  },
+  {
+   "date": "2025-06-01",
+   "acc": "month",
+   "text": "官宣兼职加入Google DeepMind任杰出科学家，同时保留MIT终身教职。"
+  }
+ ],
+ "achievements": [
+  "一作ResNet论文被引用超20万次，是深度学习引用量最高的成果之一",
+  "先后获CVPR 2009、CVPR 2016最佳论文奖与ICCV 2017最佳论文奖（Marr奖）",
+  "提出Mask R-CNN实例分割框架与MAE自监督预训练方法",
+  "2023年获未来科学大奖数学与计算机科学奖",
+  "2024年任MIT教授，后兼任Google DeepMind杰出科学家"
+ ],
+ "controversies": [],
+ "quotes": [],
+ "sources": [
+  {
+   "title": "MIT EECS：Kaiming He 教授页面",
+   "url": "https://www.eecs.mit.edu/people/kaiming-he",
+   "type": "official"
+  },
+  {
+   "title": "Wikipedia: Kaiming He",
+   "url": "https://en.wikipedia.org/wiki/Kaiming_He",
+   "type": "wiki"
+  },
+  {
+   "title": "新浪科技：何恺明官宣入职谷歌DeepMind",
+   "url": "https://finance.sina.com.cn/tech/csj/2025-06-26/doc-infckanu1775023.shtml",
+   "type": "news"
+  },
+  {
+   "title": "CVF：计算机视觉三大会议奖项列表",
+   "url": "https://www.thecvf.com/?page_id=413",
+   "type": "official"
+  }
+ ],
+ "tags": [
+  "人工智能",
+  "计算机视觉",
+  "ResNet",
+  "深度学习",
+  "MIT"
+ ],
+ "related_entities": [
+  {
+   "id": "google",
+   "name": "谷歌"
+  },
+  {
+   "id": "facebook",
+   "name": "脸书"
+  }
+ ],
+ "bio": "何恺明是深度学习时代引用量最高的研究者之一。1984年生于广东，中学就读于华南师范大学附属中学，2003年保送进入清华大学物理系基础科学班，2007年毕业赴香港中文大学攻读博士，师从汤晓鸥。2009年他以单幅图像去雾论文获CVPR最佳论文奖，为首位获此殊荣的中国学者；博士毕业后加入微软亚洲研究院，2015年以一作身份提出ResNet残差网络，把可用网络深度推至152层，成为几乎所有视觉模型的默认骨干，论文引用逾20万次。2016年加入Facebook人工智能实验室（FAIR），接连产出Mask R-CNN与MAE自监督方法；2024年出任麻省理工学院教授，2025年6月起兼任Google DeepMind杰出科学家。",
+ "legacy": "ResNet与Mask R-CNN是深度学习视觉体系的地基级成果，深刻影响了此后所有图像模型；现为MIT教授兼Google DeepMind杰出科学家，仍被视为计算机视觉与自监督预训练方向的标杆学者。"
+}
