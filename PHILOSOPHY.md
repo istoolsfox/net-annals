@@ -1,4 +1,4 @@
-# PHILOSOPHY.md — 中国互联网编年史（net-annals）〔草稿 v0.1，待用户拍板〕
+# PHILOSOPHY.md — 中国互联网编年史（net-annals）〔v1.0 现行〕
 
 > 由 refinery A-greenfield 流程起草于 2026-10-24，考古依据：app.js 头注释（v3 分层架构自述）、各页内联脚本惯用法、nginx 生产配置。
 
