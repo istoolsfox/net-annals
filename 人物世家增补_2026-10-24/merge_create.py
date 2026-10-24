@@ -44,6 +44,7 @@ def merge_works():
         data = load(wp)
     arr = data['works']
     existing = {r['id'] for r in arr}
+    titles = {str(r.get('title', '')).replace('《', '').replace('》', '').replace(' ', '') for r in arr}
     for f in sorted(glob.glob(os.path.join(out2, 'out-w*.json'))):
         try:
             batch = load(f)
@@ -57,6 +58,9 @@ def merge_works():
                 report['rejected'].append(f'{where}: 非法id {wid!r}'); continue
             if wid in existing:
                 report['rejected'].append(f'{where}:{wid} id 冲突'); continue
+            tkey = str(w.get('title', '')).replace('《', '').replace('》', '').replace(' ', '')
+            if tkey and tkey in titles:
+                report['rejected'].append(f'{where}:{wid} 与既有作品同题 {w.get("title")}'); continue
             if w.get('type') not in W_TYPES:
                 report['rejected'].append(f'{wid}: type 非法 {w.get("type")}'); continue
             if not DATE_RE.match(str(w.get('released', ''))):
@@ -91,6 +95,7 @@ def merge_records(kind):
     key = 'persons' if kind == 'persons' else 'entities'
     arr = data[key]
     existing = {r['id'] for r in arr}
+    names = {str(r.get('name', '')).replace(' ', '') for r in arr}
     files = sorted(glob.glob(os.path.join(out2, f'out-[nm]*.json')))
     if kind == 'persons':
         files = [f for f in files if re.search(r'out-n\d+\.json$', f)]
@@ -110,6 +115,10 @@ def merge_records(kind):
                 continue
             if rid in existing:
                 report['rejected'].append(f'{where}:{rid} 与既有记录 id 冲突')
+                continue
+            nkey = str(r.get('name', '')).replace(' ', '')
+            if nkey and nkey in names:
+                report['rejected'].append(f'{where}:{rid} 与既有记录同名 {r.get("name")}')
                 continue
             tl = r.get('timeline') or []
             if kind == 'persons':

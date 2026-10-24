@@ -366,3 +366,11 @@ a{color:inherit}
   opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;
 }
 .toast.show{opacity:1;transform:translate(-50%,0)}
+
+/* ── 性能（2026-10-24 数据扩容配套）：离屏卡片跳过布局与绘制 ── */
+.card{content-visibility:auto;contain-intrinsic-size:auto 340px}
+/* 常驻吸顶工具栏去毛玻璃（大面积 blur 在滚动时每帧重绘，卡顿主因之一） */
+.toolbar{background:var(--bg)}
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .toolbar{-webkit-backdrop-filter:none;backdrop-filter:none}
+}

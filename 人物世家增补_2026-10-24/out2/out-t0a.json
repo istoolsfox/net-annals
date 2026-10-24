@@ -1,0 +1,469 @@
+[
+  {
+    "id": "1972-01-01-c-language-born",
+    "date": "1972-01-01",
+    "title": "C语言在贝尔实验室诞生：Unix的\"母语\"",
+    "summary_30s": "1972年，丹尼斯·里奇在贝尔实验室开发出C语言，专为重写Unix操作系统而设计。它兼具高级语言的表达力与接近硬件的效率，此后半个世纪一直是操作系统与系统软件的通用语言。",
+    "detail": "汤普逊与里奇在PDP-7上写出Unix后，需要一个更强的语言把系统移植到新买的PDP-11。里奇在B语言基础上补上类型系统与数据结构，完成C语言雏形。1973年，Unix内核几乎全部用C重写成功，证明高级语言也能胜任操作系统开发。1978年里奇与柯林汉出版《C程序设计语言》，被称为K&R，成为一代程序员的入门圣经。",
+    "impact": "操作系统、数据库、编译器、嵌入式系统至今大多以C写就或以C为基础，后来几乎所有软件的地基都由这门语言浇筑。",
+    "aftermath": "1989年ANSI将其标准化，C先后派生C++、Objective-C、Java、C#等语言；里奇1983年获图灵奖，2011年去世时被业界称为\"用代码写出现代世界的人\"。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: C (programming language)", "url": "https://en.wikipedia.org/wiki/C_(programming_language)"},
+      {"title": "贝尔实验室：Dennis Ritchie 主页", "url": "https://www.bell-labs.com/usr/dmr/www/chist.html"}
+    ],
+    "tags": ["编程语言", "C语言", "Unix", "贝尔实验室"]
+  },
+  {
+    "id": "1972-02-21-nixon-visit-china",
+    "date": "1972-02-21",
+    "title": "尼克松访华破冰：跨越太平洋的握手与上海公报",
+    "summary_30s": "1972年2月21日，美国总统尼克松抵达北京，周恩来亲往机场迎接，两人跨越太平洋握手。一周后双方在上海发表《中美联合公报》，中美二十年隔绝由此打开缺口，中国面向西方开放的外部通道初现。",
+    "detail": "经基辛格秘密访华铺垫，尼克松成为首位到访新中国的在任美国总统。抵京当天他会见毛泽东，随后与周恩来就台湾、贸易、人员往来反复磋商。2月27日双方在上海发表《联合公报》：美方承认\"在台湾海峡两边的所有中国人都认为只有一个中国\"，承诺逐步减少驻台军事力量。公报不回避分歧而列出共同点，成为此后中美关系的基础文件。",
+    "impact": "中美关系解冻带动西方阵营与新中国批量建交，为中国随后大规模引进西方成套设备和技术创造了外交前提。",
+    "aftermath": "1973年两国互设联络处，1978年12月发表建交公报，1979年1月1日正式建交。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 上海公报", "url": "https://zh.wikipedia.org/wiki/上海公报"},
+      {"title": "Wikipedia: 1972年尼克松访华", "url": "https://zh.wikipedia.org/wiki/1972年尼克松访华"}
+    ],
+    "tags": ["中美关系", "尼克松", "外交", "开放前夜"]
+  },
+  {
+    "id": "1972-04-01-intel-8008",
+    "date": "1972-04-01",
+    "title": "英特尔发布8008：世界首款8位微处理器",
+    "summary_30s": "1972年4月，英特尔正式推出8008——世界上第一款8位微处理器，可寻址16KB内存。它原为终端厂商定制的芯片，因指令更宽而更接近通用处理器，为两年后引爆微机革命的8080铺好了台阶。",
+    "detail": "4004成功后，英特尔把为Computer Terminal Corporation开发的处理器改名8008推向市场，由霍夫与费金团队完成设计，指令集框架来自CTC的Victor Poor与Harry Pyle。它采用18引脚封装，主频0.5MHz。速度与封装虽有局限，但它是第一款面向通用任务的8位单片CPU，1973年问世的Scelbi-8H、1974年的Mark-8等最早的个人电脑套件都用它做成。",
+    "impact": "8008证明CPU可以做成低成本通用芯片，直接催生最早一批个人计算机，也为8080和此后统治PC市场的x86体系奠基。",
+    "aftermath": "1974年英特尔在8008经验之上推出8080，被Altair 8800采用，个人电脑时代随之启动。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Intel官网：The Intel 8008", "url": "https://www.intel.com/content/www/us/en/history/virtual-vault/articles/the-8008.html"},
+      {"title": "Wikipedia: Intel 8008", "url": "https://en.wikipedia.org/wiki/Intel_8008"}
+    ],
+    "tags": ["微处理器", "英特尔", "半导体", "硬件"]
+  },
+  {
+    "id": "1972-06-27-atari-founding",
+    "date": "1972-06-27",
+    "title": "雅达利公司成立：电子游戏产业的第一块招牌",
+    "summary_30s": "1972年6月27日，诺兰·布什内尔与特德·达布尼在加州森尼韦尔创立雅达利（Atari），名字取自围棋术语\"当\"。公司以街机起家，同年靠《Pong》一炮打响，成为街机游戏时代的开创者。",
+    "detail": "布什内尔在大学时代痴迷《太空战争》，立志把电子游戏搬进酒吧。他与达布尼先以Syzygy之名创业未果，改注册Atari，启动资金约500美元，并招来首位工程师奥尔·奥尔康。当年11月奥尔康制作的《Pong》街机在酒馆爆红，公司头一年营收即达数百万美元，证明电子游戏是一门大生意。",
+    "impact": "雅达利把电子游戏从实验室带进大众消费市场，确立投币街机的商业模式，游戏产业的雏形由此成形。",
+    "aftermath": "雅达利1976年被华纳收购，1982年市值一度占华纳一半；1983年北美游戏大崩溃中跌落神坛，但\"易学难精\"的设计理念影响至今。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Atari, Inc.", "url": "https://en.wikipedia.org/wiki/Atari,_Inc."}
+    ],
+    "tags": ["游戏", "雅达利", "街机", "创业公司"]
+  },
+  {
+    "id": "1972-09-01-magnavox-odyssey",
+    "date": "1972-09-01",
+    "title": "米罗华奥德赛上市：世界第一台家用游戏主机",
+    "summary_30s": "1972年9月，电视机制造商米罗华（Magnavox）在美国发售奥德赛（Odyssey）主机，售价99.95美元，是世上第一台商用家用游戏机。拉夫·贝尔的\"棕盒子\"梦想成真，电子游戏从此走进客厅。",
+    "detail": "贝尔1966年起在军品承包商Sanders立项\"电视游戏\"，做出可玩乒乓、足球等十余款游戏的Brown Box原型，米罗华买下授权改名Odyssey投产。主机没有声音也不支持彩色，靠屏幕上贴透明胶片伪装色彩，还附带骰子筹码充当桌游配件，至1975年停售累计卖出约35万台。当年5月的经销商展示会上，布什内尔试玩了它的乒乓游戏，转头就造出了《Pong》。",
+    "impact": "奥德赛开创了家用游戏机品类，也引出游戏产业最早的专利官司，\"家用游戏机之父\"贝尔的历史地位由此确立。",
+    "aftermath": "米罗华1974年起诉雅达利侵权，1976年获判胜诉并收取授权费；贝尔后来获美国国家技术奖章，2006年去世。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Magnavox Odyssey", "url": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"},
+      {"title": "Smithsonian: The Magnavox Odyssey Predicted the Future of Video Games", "url": "https://americanhistory.si.edu/explore/stories/magnavox-odyssey-predicted-future-video-games"}
+    ],
+    "tags": ["游戏主机", "奥德赛", "拉夫·贝尔", "消费电子"]
+  },
+  {
+    "id": "1972-09-29-china-japan-joint-statement",
+    "date": "1972-09-29",
+    "title": "中日邦交正常化：《中日联合声明》在北京签署",
+    "summary_30s": "1972年9月29日，访华的日本首相田中角荣与周恩来签署《中日联合声明》，两国结束战争状态实现邦交正常化。日方承认中华人民共和国政府是中国唯一合法政府，中国放弃战争赔偿要求。",
+    "detail": "尼克松\"越顶外交\"震动日本政坛，田中角荣7月组阁后迅速推动对华和解，9月25日率团抵京。双方就战争责任、台湾条款反复谈判，日方对侵华战争表示深刻反省。声明宣布即日起建立外交关系，中方为两国人民友好放弃对日战争赔偿要求，双方同意在和平共处五项原则基础上发展关系并缔结和平友好条约。",
+    "impact": "中日关系打开新局面，经贸往来快速增长，日本成为中国引进技术、设备和资金的重要来源地。",
+    "aftermath": "1978年8月《中日和平友好条约》签订，10月邓小平访日互换批准书，乘坐新干线留下\"就感觉到快，有催人跑的意思\"的名言。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中日联合声明", "url": "https://zh.wikipedia.org/wiki/中日联合声明"}
+    ],
+    "tags": ["中日关系", "外交", "田中角荣", "开放前夜"]
+  },
+  {
+    "id": "1972-10-01-arpanet-iccc-demo",
+    "date": "1972-10-01",
+    "title": "ARPANET首次公开亮相：国际计算机通信大会现场演示",
+    "summary_30s": "1972年10月，首届国际计算机通信大会（ICCC）在华盛顿希尔顿酒店举行，罗伯特·卡恩组织数十台终端现场接入ARPANET，公开演示电子邮件、远程访问等应用，计算机网络第一次走到公众面前。",
+    "detail": "ARPANET此前已低调运行三年，仅限资助机构使用。卡恩受劳伦斯·罗伯茨指派筹备演示，在会场架设终端接入约40台远程主机，与会的计算机科学家现场体验了电子邮件、聊天和数据库检索。大会期间国际网络工作组（INWG）正式成立，文特·瑟夫当选主席，网络协议标准化研究自此起步。电子邮件在演示中格外抢眼，次年已占ARPANET流量的四分之三。",
+    "impact": "演示让\"计算机联网\"从军方高校的内部实验变成学界公认的通信革命，直接催生了后来的协议标准化运动。",
+    "aftermath": "INWG的协议研究最终演化为TCP/IP；这次大会被视为网络社区结成的起点，互联网史叙述普遍把它当作公开首秀。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: ARPANET", "url": "https://en.wikipedia.org/wiki/ARPANET"},
+      {"title": "DARPA: ARPANET - The Original Internet", "url": "https://www.darpa.mil/news/features/arpanet"}
+    ],
+    "tags": ["ARPANET", "互联网史", "ICCC", "电子邮件"]
+  },
+  {
+    "id": "1972-11-29-pong-arcade-debut",
+    "date": "1972-11-29",
+    "title": "《Pong》进驻酒吧：第一款爆款电子街机",
+    "summary_30s": "1972年11月29日，雅达利工程师奥尔·奥尔康开发的《Pong》街机被安放在加州森尼韦尔一家酒馆试水。次日老板来电抱怨机器\"坏了\"——其实是投币箱被硬币塞满。电子游戏能赚钱，就此一锤定音。",
+    "detail": "布什内尔让新员工奥尔康按合同练手造一款乒乓球游戏。11月29日机器在\"安迪·卡普\"酒馆安装，次日酒馆老板投诉故障，奥尔康上门检修，发现只是25美分硬币塞满了投币箱。这台木壳机箱、黑白屏幕、旋钮对打的机器随后大规模投产，累计售出约8000台，为雅达利带来数百万美元收入。",
+    "impact": "《Pong》证明电子游戏具备大众娱乐与盈利能力，数十家厂商闻风跟进，投币街机成为七八十年代全球青少年文化的标志。",
+    "aftermath": "米罗华随后起诉侵权并胜诉；1975年雅达利推出家用版《Pong》成为圣诞爆款，游戏进家庭的大门被彻底打开。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Pong", "url": "https://en.wikipedia.org/wiki/Pong"}
+    ],
+    "tags": ["电子游戏", "街机", "Pong", "流行文化"]
+  },
+  {
+    "id": "1973-03-01-xerox-alto",
+    "date": "1973-03-01",
+    "title": "施乐Alto亮相：第一台带图形界面与鼠标的计算机",
+    "summary_30s": "1973年3月，施乐帕克研究中心（Xerox PARC）建成Alto计算机，率先配备位图显示器、鼠标、图形界面和以太网，被视为个人电脑概念的原型机，比Macintosh早了整整十一年。",
+    "detail": "PARC计算机科学实验室主任罗伯特·泰勒召集兰普森、加斯切特、西蒙尼等人设计Alto，目标是\"让每个人拥有一台计算机\"。它采用竖式位图屏幕、三键鼠标，运行图标化桌面、所见即所得编辑器Bravo和早期电子邮件系统。全系统约造出2000台，在施乐内部和部分大学使用，却始终没有商品化。",
+    "impact": "Alto把人机交互从命令行推向图形界面；乔布斯1979年参观PARC后将其理念带回苹果，图形界面自此成为电脑四十年的标准形态。",
+    "aftermath": "施乐高层错失商品化机会，被讥为\"最亏本的发明\"；1981年苹果Lisa、1984年Macintosh继承其衣钵，施乐只留下一段传奇与一纸诉讼。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Xerox Alto", "url": "https://en.wikipedia.org/wiki/Xerox_Alto"},
+      {"title": "Britannica: Alto computer", "url": "https://www.britannica.com/topic/Alto-computer"}
+    ],
+    "tags": ["Xerox PARC", "图形界面", "个人电脑", "Alto"]
+  },
+  {
+    "id": "1973-03-01-dark-side-of-the-moon",
+    "date": "1973-03-01",
+    "title": "平克·弗洛伊德《月之暗面》发行：史上最长寿的摇滚专辑",
+    "summary_30s": "1973年3月1日，英国乐队平克·弗洛伊德在美发行第八张录音室专辑《月之暗面》。概念完整、录音精巧的它在公告牌专辑榜累计停留超过900周，全球销量逾4500万张，是二十世纪最畅销唱片之一。",
+    "detail": "乐队用近一年时间在伦敦Abbey Road录音棚打磨这张概念专辑，围绕压力、时间、金钱与疯狂展开，融合合成器音效、女声和声与萨克斯独奏，《Time》《Money》《Us and Them》层层铺陈成为经典。专辑上市后横扫各国排行榜，发行五十年后仍在各类榜单上反复出现。",
+    "impact": "它让\"专辑\"作为完整艺术品登上主流舞台，确立摇滚乐的高完成度制作标准，被无数后辈乐队奉为录音教材。",
+    "aftermath": "三棱镜与彩虹的封面成为流行文化最著名的视觉符号之一；2012年后专辑多次重新登榜，持续刷新停留周数纪录。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: The Dark Side of the Moon", "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon"}
+    ],
+    "tags": ["摇滚", "平克·弗洛伊德", "专辑", "流行文化"]
+  },
+  {
+    "id": "1973-03-10-deng-xiaoping-return",
+    "date": "1973-03-10",
+    "title": "邓小平恢复国务院副总理职务：文革中期的关键复出",
+    "summary_30s": "1973年3月10日，中共中央决定恢复邓小平党的组织生活和国务院副总理职务。这位文革中被打倒的领导人重回政坛，先管整顿再掌全局，为几年后的改革开放埋下了关键伏笔。",
+    "detail": "九一三事件后周恩来主持整顿，1972年8月毛泽东在邓小平来信上批示，肯定其历史功绩。1973年3月10日中央发出文件，恢复邓小平的组织生活和国务院副总理职务；同年12月又决定他进入中央政治局和中央军委。复出后的邓小平分管铁路、钢铁等国民经济整顿，因\"人才难得\"被委以重任，务实路线重新获得人事支撑。",
+    "impact": "这次复出让务实力量回到最高决策层，为1975年全面整顿乃至1977年再度复出后的改革开放积蓄了人事与路线基础。",
+    "aftermath": "1976年\"批邓\"风波中邓小平再度被免职；粉碎\"四人帮\"后于1977年7月恢复全部职务，随后主导改革开放。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 邓小平", "url": "https://zh.wikipedia.org/wiki/邓小平"},
+      {"title": "Wikipedia: 中华人民共和国历史", "url": "https://zh.wikipedia.org/wiki/中华人民共和国历史"}
+    ],
+    "tags": ["邓小平", "文革", "改革开放前夜", "政治"]
+  },
+  {
+    "id": "1973-04-03-martin-cooper-first-call",
+    "date": "1973-04-03",
+    "title": "库帕打出第一通手持移动电话：手机从设想变成现实",
+    "summary_30s": "1973年4月3日，摩托罗拉工程师马丁·库帕在纽约街头用DynaTAC原型机拨出世界第一通手持移动电话，电话打给了贝尔实验室的竞争对手。人类通信从\"打到地方\"变成\"打到人\"。",
+    "detail": "库帕团队用约90天造出重约1.1公斤、长23厘米的\"砖头\"样机，在曼哈顿记者面前拨通电话，第一个电话打给贝尔实验室主管乔尔·恩格尔。当时美国移动通信的公共标准之争正酣，摩托罗拉要用一次实机通话证明手持终端可行。通话经架设的实验基站完成，历时不到十分钟。",
+    "impact": "手机概念首度落地，个人移动通信的大门被推开；此后十年摩托罗拉主导模拟手机市场，蜂窝网络逐步铺开。",
+    "aftermath": "1983年商用版DynaTAC 8000X上市，售价近4000美元；库帕被称为\"手机之父\"，2013年入选美国发明家名人堂。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Martin Cooper (inventor)", "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"},
+      {"title": "Wikipedia: Motorola DynaTAC", "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"}
+    ],
+    "tags": ["移动电话", "摩托罗拉", "通信史", "马丁·库帕"]
+  },
+  {
+    "id": "1973-05-01-cctv-color-tv-trial",
+    "date": "1973-05-01",
+    "title": "北京电视台试播彩色电视：中国电视进入彩色时代",
+    "summary_30s": "1973年5月1日，北京电视台（中央电视台前身）开始试播彩色电视节目，10月1日正式播出。中国电视从黑白迈入彩色阶段，\"全家围看一台电视\"的集体记忆由此起头。",
+    "detail": "文革中期全国电视机寥寥，多为机关、部队和企事业单位所有，家庭拥有者凤毛麟角。北京电视台经多年制式试验，1972年确定采用PAL制，1973年5月1日试播彩色节目，国庆当天正式播出。北京、上海等地观众第一次通过国产彩电看到彩色画面，各地电视台随后陆续跟进转播彩色信号。",
+    "impact": "彩色电视奠定此后几十年大众娱乐与信息传播的核心媒介，牡丹、金星等国产彩电工业由此起步，电视开始成为中国家庭最重要的家电梦想。",
+    "aftermath": "1978年北京电视台更名为中央电视台；1980年代彩电进入家庭并长期供不应求，\"凭票买彩电\"成为改革开放初期的典型图景。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中国中央电视台", "url": "https://zh.wikipedia.org/wiki/中国中央电视台"},
+      {"title": "Wikipedia: 彩色电视", "url": "https://zh.wikipedia.org/wiki/彩色电视"}
+    ],
+    "tags": ["电视", "央视", "彩色电视", "大众媒介"]
+  },
+  {
+    "id": "1973-05-22-ethernet-memo",
+    "date": "1973-05-22",
+    "title": "梅特卡夫写下雨太网备忘录：以太网概念诞生",
+    "summary_30s": "1973年5月22日，施乐帕克研究员罗伯特·梅特卡夫向同事提交备忘录，勾画连接Alto计算机的局域网方案，首次使用\"以太网\"（Ethernet）一词。办公室里多台电脑互连从此有了标准答案。",
+    "detail": "梅特卡夫受派改进夏威夷ALOHAnet的随机接入方法，与戴维·博格斯合作提出带冲突检测的载波侦听多路访问（CSMA/CD）。备忘录画着网络拓扑草图，用十九世纪物理学假想的介质\"以太\"命名这套共享同轴电缆的网络。同年11月11日，第一套以太网在帕克成功连通Alto计算机，速率2.94Mbps。",
+    "impact": "以太网解决了多台计算机近距离互连的现实需求，日后成为局域网的绝对主流，PC联网由此成为常态。",
+    "aftermath": "1980年施乐联合DEC、英特尔发布DIX标准，1983年IEEE通过802.3标准；梅特卡夫1979年创办3Com公司，2003年获美国国家技术奖章。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Ethernet", "url": "https://en.wikipedia.org/wiki/Ethernet"},
+      {"title": "Wikipedia: Robert Metcalfe", "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe"}
+    ],
+    "tags": ["以太网", "局域网", "施乐帕克", "梅特卡夫"]
+  },
+  {
+    "id": "1973-06-01-arpanet-international",
+    "date": "1973-06-01",
+    "title": "ARPANET跨出美国：挪威与英国成为首批国际节点",
+    "summary_30s": "1973年6月，挪威NORSAR地震台经由瑞典卫星地面站接入ARPANET，成为美国以外第一个节点；7月伦敦大学学院随之连通。计算机网络第一次跨越大西洋，互联网国际化的第一步。",
+    "detail": "为让欧洲的地震数据更快回传美国，工程人员通过印度洋上空的卫星链路把NORSAR接入ARPANET，9.6kbps的跨洋线路成为网络国际化的开端。7月，伦敦大学学院彼得·克斯坦因团队把英国计算机直接连入网络。此后美英团队在跨洋线路上开展协作实验，为网际互联研究积累了第一手经验。",
+    "impact": "ARPANET从美国本土实验网变成跨国网络，证明分组交换可以跑过洲际距离与卫星链路，网络无国界从口号变成工程事实。",
+    "aftermath": "克斯坦因团队与瑟夫、卡恩合作开展早期互联网际试验；欧洲学术网络渐次入网，为九十年代互联网全球扩张铺轨。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: ARPANET", "url": "https://en.wikipedia.org/wiki/ARPANET"},
+      {"title": "UCL: How Britain got its first internet connection", "url": "https://www.ucl.ac.uk/news/2025/jan/commentary-how-britain-got-its-first-internet-connection"}
+    ],
+    "tags": ["ARPANET", "国际联网", "卫星通信", "互联网史"]
+  },
+  {
+    "id": "1973-07-19-zhang-tiesheng-blank-exam",
+    "date": "1973-07-19",
+    "title": "张铁生交\"白卷\"：一封信搅动1973年高校招生",
+    "summary_30s": "1973年7月19日，《辽宁日报》以《一份发人深省的答卷》为题刊出下乡知青张铁生的信。他因数理化大多空白而在试卷背面申诉，随即被舆论工具树为\"白卷英雄\"，成为特殊年代高校招生的标志事件。",
+    "detail": "1973年高校招生恢复文化考查，辽宁兴城知青张铁生物理化学两科几乎交白卷，只在卷面写下对招生办法的意见。7月19日《辽宁日报》刊登其信件，《人民日报》等转载并配发评论，他被树为\"反潮流\"典型，作为工农兵学员保送铁岭农学院。此后各地文化考核再度流于形式，推荐制重新主导高校招生。",
+    "impact": "事件使稍有起色的文化考查再度让位，大学新生质量滑坡，\"读书无用论\"蔓延，成为文革教育史上的标志性符号。",
+    "aftermath": "张铁生1976年后被定性为帮派骨干，1983年获刑15年，1991年出狱后经商有成；\"白卷\"从此成为汉语里的一则时代寓言。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 张铁生", "url": "https://zh.wikipedia.org/wiki/张铁生"}
+    ],
+    "tags": ["高考", "文革", "知青", "社会事件"]
+  },
+  {
+    "id": "1973-10-17-opec-oil-embargo",
+    "date": "1973-10-17",
+    "title": "石油禁运引爆第一次石油危机：油价四个月翻四倍",
+    "summary_30s": "1973年10月17日，阿拉伯产油国宣布对支持以色列的国家实行石油禁运并逐月减产，国际油价四个月内从每桶约3美元涨至近12美元。战后西方经济的高速增长时代由此终结。",
+    "detail": "十月战争爆发后，阿拉伯产油国以石油为武器，对美国、荷兰禁运，对其他国家削减供应，并借机大幅提价收回定价权。西欧加油站排起长队，美国实行配给，日本宣布紧急对策。1974年3月禁运结束，但油价已站上新台阶，西方通胀高企、增长失速，\"滞胀\"一词就此流行。",
+    "impact": "石油危机迫使西方调整能源结构、发展核电与节能技术，日本小排量汽车借势打进美国市场，也令石油出口国收入激增。",
+    "aftermath": "中国扩大对日原油出口恰逢其时，换回宝贵外汇；国际能源署1974年成立协调各国储备，1980年两伊战争再度推高油价。",
+    "category": "economy",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 1973 oil crisis", "url": "https://en.wikipedia.org/wiki/1973_oil_crisis"}
+    ],
+    "tags": ["石油危机", "OPEC", "经济史", "能源"]
+  },
+  {
+    "id": "1974-01-01-ten-major-construction-taiwan",
+    "date": "1974-01-01",
+    "title": "台湾十大建设全面动工：基建浪潮托起经济起飞",
+    "summary_30s": "1974年起，台湾\"十大建设\"全面开工：南北高速公路、铁路电气化、桃园国际机场、港口、大钢厂、大造船厂、石化与核电厂等十项工程齐头并进，被视为台湾经济起飞的推土机。",
+    "detail": "蒋经国1973年11月在国民党十届四中全会宣布十项建设计划，时逢第一次石油危机，他以\"今天不做，明天就会后悔\"力排众议，逆势投入巨资。工程由美援时期培养的财经班底主持，中山高速公路、台中港、苏澳港、中钢、中船与核电站陆续铺开，公共投资对冲了外需萎缩的冲击。",
+    "impact": "大基建打通了岛内物流命脉，钢铁石化为工业升级备好底盘，为八十年代的\"经济奇迹\"打下物质基础。",
+    "aftermath": "多数工程在1970年代末完工，中山高速公路1978年全线通车；\"十大建设\"此后成为台湾基建政策的模板与政治动员的常用语。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: 十大建设", "url": "https://zh.wikipedia.org/wiki/十大建设"}
+    ],
+    "tags": ["台湾", "基建", "经济起飞", "蒋经国"]
+  },
+  {
+    "id": "1974-04-01-intel-8080",
+    "date": "1974-04-01",
+    "title": "英特尔推出8080：个人电脑的心脏开始跳动",
+    "summary_30s": "1974年4月，英特尔发布8位微处理器8080，主频2MHz、寻址64KB，性能全面超越8008。它成为次年引爆微机热潮的Altair 8800的处理器，被普遍视为个人电脑时代的起点。",
+    "detail": "8080由嶋正利与费金主持设计，改用40引脚封装、5V单电源和NMOS工艺，首发价360美元。配套的开发工具与汇编语言齐备，业余爱好者也能动手搭建计算机。1975年1月《大众电子》杂志以Altair 8800作封面报道，订单雪片般飞来，盖茨与艾伦正是为Altair写BASIC而创办了微软。",
+    "impact": "8080确立了微处理器的工业标准形态，催生Altair与车库创业潮，个人电脑产业链从这颗芯片发端。",
+    "aftermath": "齐洛格Z80等兼容芯片随后崛起；8080体系经8086演化为x86架构，至今仍是PC处理器的根基。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Intel 8080", "url": "https://en.wikipedia.org/wiki/Intel_8080"},
+      {"title": "Wikipedia: Altair 8800", "url": "https://en.wikipedia.org/wiki/Altair_8800"}
+    ],
+    "tags": ["微处理器", "英特尔", "8080", "个人电脑"]
+  },
+  {
+    "id": "1974-04-10-deng-un-three-worlds",
+    "date": "1974-04-10",
+    "title": "邓小平在联合国阐述\"三个世界\"：新中国领导人首登联大讲台",
+    "summary_30s": "1974年4月10日，邓小平在联合国大会第六届特别会议上发言，系统阐述\"三个世界\"划分理论，宣布中国永不称霸。这是新中国领导人首次在联合国大会发表重要讲话。",
+    "detail": "特别会议聚焦原料与发展问题，邓小平率中国代表团出席并发表演说，提出第三世界国家要加强团结、争取建立国际经济新秩序，并向世界承诺\"中国现在不是，将来也不做超级大国\"。这是他首次登上国际多边外交舞台，受到西方媒体密集关注，归国途中还顺访了法国，实地观察了现代化的图景。",
+    "impact": "\"三个世界\"此后长期是中国外交的基本框架，与发展中国家的关系定位随之清晰，多边舞台第一次听到中国的经济发展主张。",
+    "aftermath": "这次联大讲话稿被视为中国外交经典文献；联合国之行为邓小平复出后主持外事与经济工作增添了资历与视野。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 三个世界", "url": "https://zh.wikipedia.org/wiki/三个世界"},
+      {"title": "Wikipedia: 邓小平", "url": "https://zh.wikipedia.org/wiki/邓小平"}
+    ],
+    "tags": ["联合国", "邓小平", "外交", "三个世界"]
+  },
+  {
+    "id": "1974-05-01-tcp-paper-cerf-kahn",
+    "date": "1974-05-01",
+    "title": "塞夫与卡恩发表TCP论文：互联网的架构蓝图问世",
+    "summary_30s": "1974年5月，文特·塞夫与罗伯特·卡恩在IEEE《通信汇刊》发表《分组网络互联协议》，系统提出让不同网络彼此互通的传输控制协议，被公认为TCP/IP与\"互联网\"概念的起点。",
+    "detail": "受ARPANET与英国、挪威节点互联实验的启发，两位网络元老设计出通过\"网关\"互联任意分组网络的通用协议，把差错控制放在主机端，形成开放架构。论文发表后，方案经多次分拆修改，路由功能独立为IP。1983年1月1日，ARPANET正式切换到TCP/IP，互联网的统一语言就此定稿。",
+    "impact": "论文确立了\"网与网相连\"的开放架构，任何遵守协议的网络都能平等接入，奠定今天全球互联网的技术底座。",
+    "aftermath": "塞夫与卡恩因此获2004年图灵奖；TCP/IP在1983年成为ARPANET标准后迅速扩散，九十年代起成为全球统一协议。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "IEEE: A Protocol for Packet Network Intercommunication", "url": "https://ieeexplore.ieee.org/document/1092259"},
+      {"title": "Wikipedia: History of the Internet", "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"}
+    ],
+    "tags": ["TCP/IP", "互联网史", "塞夫", "卡恩"]
+  },
+  {
+    "id": "1974-06-26-first-barcode-scan",
+    "date": "1974-06-26",
+    "title": "第一件扫码商品：一包箭牌口香糖开启条形码时代",
+    "summary_30s": "1974年6月26日，俄亥俄州特洛伊市马什超市的收银台扫描了史上第一件条形码商品——一包箭牌果汁口香糖，小票打出67美分。通用产品码（UPC）正式投入商用，零售业进入扫码时代。",
+    "detail": "为解决超市结账排长队与库存混乱，企业界自六十年代末联合制定UPC标准。马什超市当天清晨邀请媒体见证：顾客克莱德·道森拿起一包十连装口香糖，收银员莎伦·布坎南将其推过扫描仪，67美分的价格当场打出。那台扫描仪如今收藏在史密森尼博物馆，成为零售革命的物证。",
+    "impact": "条形码把商品、收银与库存管理连成一体，超市得以规模化扩张，全球供应链的数字化管理由此起步。",
+    "aftermath": "UPC至今仍是北美零售标准；扫码技术一路延伸到二维码与移动支付，如今全球每天被扫描的商品数以百亿计。",
+    "category": "society",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Universal Product Code", "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"},
+      {"title": "Smithsonian Magazine: The History of the Bar Code", "url": "https://www.smithsonianmag.com/arts-culture/history-bar-code-180956704/"}
+    ],
+    "tags": ["条形码", "零售", "UPC", "日常生活"]
+  },
+  {
+    "id": "1974-08-01-changzheng-1-nuclear-submarine",
+    "date": "1974-08-01",
+    "title": "中国首艘核潜艇\"长征一号\"入列：海军迈入核时代",
+    "summary_30s": "1974年8月1日，中央军委发布命令，将中国自行研制的第一艘攻击型核潜艇命名为\"长征一号\"（舷号401），正式编入海军战斗序列。中国成为世界上第五个拥有核潜艇的国家。",
+    "detail": "核潜艇工程1958年立项，彭士禄、黄旭华等科研人员在外援中断、设备简陋的条件下自力更生，用算盘和计算尺推算海量数据。艇体1968年开工建造，1970年12月26日下水，随后完成系泊与航行试验。1974年建军节当天，核潜艇正式命名、授旗，加入海军战斗序列，中国海基力量进入核时代。",
+    "impact": "核潜艇构成中国水下战略威慑的开端，也培养出第一代核潜艇官兵与工程队伍，是国防科技自力更生的标志性成果。",
+    "aftermath": "401艇2013年退役，经核化处置后停泊青岛海军博物馆向公众开放，成为中国海军由近海走向深蓝的见证。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 长征1号核潜艇", "url": "https://zh.wikipedia.org/wiki/长征1号核潜艇"},
+      {"title": "中共党史研究：第一艘核潜艇\"长征一号\"是如何诞生的", "url": "https://www.dswxyjy.org.cn/n1/2024/0802/c244516-40291280.html"}
+    ],
+    "tags": ["核潜艇", "国防科技", "海军", "长征一号"]
+  },
+  {
+    "id": "1974-08-09-nixon-resignation",
+    "date": "1974-08-09",
+    "title": "尼克松辞职：美国历史上首位辞职的总统",
+    "summary_30s": "1974年8月9日，因水门事件穷途末路的尼克松发表电视讲话后离开白宫，成为美国历史上第一位辞职的总统。副总统福特继任，一个月后宣布赦免尼克松。",
+    "detail": "水门大厦窃听案发于1972年6月，调查两年步步逼近白宫。1974年7月最高法院裁定总统必须交出录音带，众议院司法委员会通过弹劾条款，尼克松众叛亲离。8月9日中午他携家人乘直升机离开白宫，福特随即宣誓就任第38任总统。9月8日福特特赦尼克松，使其免于刑事审判。",
+    "impact": "水门事件改写了美国政治文化，\"-门\"成为丑闻的通用后缀，调查报道地位上升，总统权力受到更严苛的制衡。",
+    "aftermath": "尼克松1994年去世前以国际事务顾问身份部分挽回声誉；他1972年开启的对华路线未因辞职中断，1979年中美正式建交。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Watergate scandal", "url": "https://en.wikipedia.org/wiki/Watergate_scandal"},
+      {"title": "Wikipedia: Richard Nixon", "url": "https://en.wikipedia.org/wiki/Richard_Nixon"}
+    ],
+    "tags": ["水门事件", "尼克松", "美国政治", "世界史"]
+  },
+  {
+    "id": "1974-10-01-sparkling-red-star",
+    "date": "1974-10-01",
+    "title": "《闪闪的红星》上映：潘冬子成为一代人的银幕记忆",
+    "summary_30s": "1974年10月1日，八一电影制片厂摄制的儿童故事片《闪闪的红星》在全国上映。少年潘冬子盼红星、盼父归来的故事，加上《红星歌》《映山红》等插曲，成为文革后期少见的儿童题材经典。",
+    "detail": "影片改编自李心田小说，由李俊、李昂执导，12岁的祝新运饰演潘冬子，讲述1930年代江西柳溪村少年在红军父亲随队长征后，与恶霸胡汉三周旋、最终戴上红星的成长故事。傅庚辰谱写的《红星歌》《红星照我去战斗》《映山红》随电影传遍大江南北，\"我胡汉三又回来了\"也成了流行台词。",
+    "impact": "在故事片极度匮乏的年代，《闪闪的红星》给了整整一代孩子共同的银幕偶像，插曲至今仍在传唱。",
+    "aftermath": "祝新运此后进入八一厂工作；影片多次重播并被改编为动漫与歌剧，潘冬子仍是中国儿童电影史上的标志性角色。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 闪闪的红星", "url": "https://zh.wikipedia.org/wiki/闪闪的红星"}
+    ],
+    "tags": ["电影", "潘冬子", "儿童片", "集体记忆"]
+  }
+]

@@ -1,0 +1,192 @@
+{
+ "batch": "n7",
+ "targets": [
+  {
+   "name": "成龙",
+   "field": "media"
+  },
+  {
+   "name": "李连杰",
+   "field": "media"
+  },
+  {
+   "name": "林俊杰",
+   "field": "media"
+  },
+  {
+   "name": "王力宏",
+   "field": "media"
+  },
+  {
+   "name": "韩寒",
+   "field": "media"
+  },
+  {
+   "name": "南派三叔",
+   "field": "media"
+  },
+  {
+   "name": "唐家三少",
+   "field": "media"
+  },
+  {
+   "name": "郑渊洁",
+   "field": "media"
+  },
+  {
+   "name": "几米",
+   "field": "media"
+  },
+  {
+   "name": "朱德庸",
+   "field": "media"
+  },
+  {
+   "name": "华农兄弟",
+   "field": "media"
+  },
+  {
+   "name": "王刚（美食作家）",
+   "field": "media"
+  },
+  {
+   "name": "蔡澜",
+   "field": "media"
+  },
+  {
+   "name": "饶毅",
+   "field": "science"
+  },
+  {
+   "name": "张锋",
+   "field": "science"
+  },
+  {
+   "name": "Jennifer Doudna",
+   "field": "science"
+  },
+  {
+   "name": "中村修二",
+   "field": "science"
+  },
+  {
+   "name": "吉野彰",
+   "field": "science"
+  },
+  {
+   "name": "孙杨",
+   "field": "sport"
+  },
+  {
+   "name": "傅园慧",
+   "field": "sport"
+  },
+  {
+   "name": "武大靖",
+   "field": "sport"
+  },
+  {
+   "name": "丁俊晖",
+   "field": "sport"
+  },
+  {
+   "name": "柯洁",
+   "field": "sport"
+  },
+  {
+   "name": "聂卫平",
+   "field": "sport"
+  },
+  {
+   "name": "李世石",
+   "field": "sport"
+  },
+  {
+   "name": "博尔特",
+   "field": "sport"
+  },
+  {
+   "name": "菲尔普斯",
+   "field": "sport"
+  },
+  {
+   "name": "梅西",
+   "field": "sport"
+  },
+  {
+   "name": "C罗",
+   "field": "sport"
+  },
+  {
+   "name": "科比",
+   "field": "sport"
+  },
+  {
+   "name": "迈克尔·乔丹",
+   "field": "sport"
+  },
+  {
+   "name": "勒布朗·詹姆斯",
+   "field": "sport"
+  },
+  {
+   "name": "库里",
+   "field": "sport"
+  },
+  {
+   "name": "刘国梁",
+   "field": "sport"
+  }
+ ],
+ "existing_names": [
+  "伊利亚·苏茨克维",
+  "余承东",
+  "全红婵",
+  "冯小刚",
+  "刘慈欣",
+  "南仁东",
+  "古永锵",
+  "周受资",
+  "周源",
+  "唐岩",
+  "姚劲波",
+  "孙正义",
+  "宿华",
+  "张大奕",
+  "张旭豪",
+  "徐新",
+  "戴威",
+  "易中天",
+  "李国庆",
+  "李开复",
+  "李晓峰",
+  "杨元庆",
+  "杨立昆",
+  "杰弗里·辛顿",
+  "柴静",
+  "梁孟松",
+  "樊振东",
+  "汪滔",
+  "熊晓鸽",
+  "王小川",
+  "王小波",
+  "王思聪",
+  "王楚钦",
+  "琼瑶",
+  "简自豪",
+  "罗翔",
+  "薇娅",
+  "郑钦文",
+  "郭德纲",
+  "金庸",
+  "陈士骏",
+  "陈天桥",
+  "陈欧",
+  "陈睿",
+  "韦东奕",
+  "饺子",
+  "高晓松",
+  "高锟",
+  "黄旭华"
+ ]
+}

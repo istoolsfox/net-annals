@@ -1,0 +1,192 @@
+{
+ "batch": "n4",
+ "targets": [
+  {
+   "name": "Andrej Karpathy",
+   "field": "ai"
+  },
+  {
+   "name": "李沐",
+   "field": "ai"
+  },
+  {
+   "name": "周志华",
+   "field": "ai"
+  },
+  {
+   "name": "汤晓鸥",
+   "field": "ai"
+  },
+  {
+   "name": "朱松纯",
+   "field": "ai"
+  },
+  {
+   "name": "张钹",
+   "field": "ai"
+  },
+  {
+   "name": "Dario Amodei",
+   "field": "ai"
+  },
+  {
+   "name": "Emad Mostaque",
+   "field": "ai"
+  },
+  {
+   "name": "Mira Murati",
+   "field": "ai"
+  },
+  {
+   "name": "Noam Shazeer（Character.AI/Attention作者）",
+   "field": "ai"
+  },
+  {
+   "name": "Jim Fan",
+   "field": "ai"
+  },
+  {
+   "name": "肖弘",
+   "field": "ai"
+  },
+  {
+   "name": "黄峥",
+   "field": "internet_cn"
+  },
+  {
+   "name": "程一笑",
+   "field": "internet_cn"
+  },
+  {
+   "name": "吴宵光",
+   "field": "internet_cn"
+  },
+  {
+   "name": "张志东",
+   "field": "internet_cn"
+  },
+  {
+   "name": "许晨晔",
+   "field": "internet_cn"
+  },
+  {
+   "name": "陈一舟",
+   "field": "internet_cn"
+  },
+  {
+   "name": "李学凌",
+   "field": "internet_cn"
+  },
+  {
+   "name": "王高飞",
+   "field": "internet_cn"
+  },
+  {
+   "name": "奉佑生",
+   "field": "internet_cn"
+  },
+  {
+   "name": "赵鹏",
+   "field": "internet_cn"
+  },
+  {
+   "name": "罗振宇",
+   "field": "internet_cn"
+  },
+  {
+   "name": "蔡文胜",
+   "field": "internet_cn"
+  },
+  {
+   "name": "王欣",
+   "field": "internet_cn"
+  },
+  {
+   "name": "喻华峰",
+   "field": "internet_cn"
+  },
+  {
+   "name": "阿北（杨勃）",
+   "field": "internet_cn"
+  },
+  {
+   "name": "梁建章",
+   "field": "internet_cn"
+  },
+  {
+   "name": "庄辰超",
+   "field": "internet_cn"
+  },
+  {
+   "name": "陈琪",
+   "field": "internet_cn"
+  },
+  {
+   "name": "白鸦",
+   "field": "internet_cn"
+  },
+  {
+   "name": "王怀南",
+   "field": "internet_cn"
+  },
+  {
+   "name": "邵亦波",
+   "field": "internet_cn"
+  },
+  {
+   "name": "戴科彬",
+   "field": "internet_cn"
+  }
+ ],
+ "existing_names": [
+  "伊利亚·苏茨克维",
+  "余承东",
+  "全红婵",
+  "冯小刚",
+  "刘慈欣",
+  "南仁东",
+  "古永锵",
+  "周受资",
+  "周源",
+  "唐岩",
+  "姚劲波",
+  "孙正义",
+  "宿华",
+  "张大奕",
+  "张旭豪",
+  "徐新",
+  "戴威",
+  "易中天",
+  "李国庆",
+  "李开复",
+  "李晓峰",
+  "杨元庆",
+  "杨立昆",
+  "杰弗里·辛顿",
+  "柴静",
+  "梁孟松",
+  "樊振东",
+  "汪滔",
+  "熊晓鸽",
+  "王小川",
+  "王小波",
+  "王思聪",
+  "王楚钦",
+  "琼瑶",
+  "简自豪",
+  "罗翔",
+  "薇娅",
+  "郑钦文",
+  "郭德纲",
+  "金庸",
+  "陈士骏",
+  "陈天桥",
+  "陈欧",
+  "陈睿",
+  "韦东奕",
+  "饺子",
+  "高晓松",
+  "高锟",
+  "黄旭华"
+ ]
+}

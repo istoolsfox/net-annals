@@ -1,0 +1,192 @@
+{
+ "batch": "n6",
+ "targets": [
+  {
+   "name": "王慧文",
+   "field": "company"
+  },
+  {
+   "name": "索罗斯",
+   "field": "finance"
+  },
+  {
+   "name": "朱啸虎",
+   "field": "finance"
+  },
+  {
+   "name": "崔永元",
+   "field": "media"
+  },
+  {
+   "name": "窦文涛",
+   "field": "media"
+  },
+  {
+   "name": "梁文道",
+   "field": "media"
+  },
+  {
+   "name": "许知远",
+   "field": "media"
+  },
+  {
+   "name": "马东",
+   "field": "media"
+  },
+  {
+   "name": "张召忠",
+   "field": "media"
+  },
+  {
+   "name": "于丹",
+   "field": "media"
+  },
+  {
+   "name": "金星",
+   "field": "media"
+  },
+  {
+   "name": "李诞",
+   "field": "media"
+  },
+  {
+   "name": "沈腾",
+   "field": "media"
+  },
+  {
+   "name": "贾玲",
+   "field": "media"
+  },
+  {
+   "name": "黄渤",
+   "field": "media"
+  },
+  {
+   "name": "徐峥",
+   "field": "media"
+  },
+  {
+   "name": "王宝强",
+   "field": "media"
+  },
+  {
+   "name": "吴京",
+   "field": "media"
+  },
+  {
+   "name": "姜文",
+   "field": "media"
+  },
+  {
+   "name": "陈思诚",
+   "field": "media"
+  },
+  {
+   "name": "贾樟柯",
+   "field": "media"
+  },
+  {
+   "name": "郭帆",
+   "field": "media"
+  },
+  {
+   "name": "宁浩",
+   "field": "media"
+  },
+  {
+   "name": "窦唯",
+   "field": "media"
+  },
+  {
+   "name": "张楚",
+   "field": "media"
+  },
+  {
+   "name": "何勇",
+   "field": "media"
+  },
+  {
+   "name": "汪峰",
+   "field": "media"
+  },
+  {
+   "name": "朴树",
+   "field": "media"
+  },
+  {
+   "name": "许巍",
+   "field": "media"
+  },
+  {
+   "name": "阿信（五月天）",
+   "field": "media"
+  },
+  {
+   "name": "陈奕迅",
+   "field": "media"
+  },
+  {
+   "name": "刘德华",
+   "field": "media"
+  },
+  {
+   "name": "周星驰",
+   "field": "media"
+  },
+  {
+   "name": "周润发",
+   "field": "media"
+  }
+ ],
+ "existing_names": [
+  "伊利亚·苏茨克维",
+  "余承东",
+  "全红婵",
+  "冯小刚",
+  "刘慈欣",
+  "南仁东",
+  "古永锵",
+  "周受资",
+  "周源",
+  "唐岩",
+  "姚劲波",
+  "孙正义",
+  "宿华",
+  "张大奕",
+  "张旭豪",
+  "徐新",
+  "戴威",
+  "易中天",
+  "李国庆",
+  "李开复",
+  "李晓峰",
+  "杨元庆",
+  "杨立昆",
+  "杰弗里·辛顿",
+  "柴静",
+  "梁孟松",
+  "樊振东",
+  "汪滔",
+  "熊晓鸽",
+  "王小川",
+  "王小波",
+  "王思聪",
+  "王楚钦",
+  "琼瑶",
+  "简自豪",
+  "罗翔",
+  "薇娅",
+  "郑钦文",
+  "郭德纲",
+  "金庸",
+  "陈士骏",
+  "陈天桥",
+  "陈欧",
+  "陈睿",
+  "韦东奕",
+  "饺子",
+  "高晓松",
+  "高锟",
+  "黄旭华"
+ ]
+}

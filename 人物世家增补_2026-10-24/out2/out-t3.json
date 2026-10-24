@@ -1,0 +1,529 @@
+[
+  {
+    "id": "2025-01-01-delayed-retirement-reform",
+    "date": "2025-01-01",
+    "title": "渐进式延迟法定退休年龄正式实施：75年来首次改革落地",
+    "summary_30s": "2025年1月1日起，全国人大常委会2024年9月通过的延迟退休决定正式施行：男职工法定退休年龄将逐步延迟至63周岁，女职工延至55、58周岁，并同步推行弹性退休。这是中国退休制度确立以来法定退休年龄的首次调整。",
+    "detail": "根据决定，自2025年1月1日起，男职工和原55周岁退休的女职工，法定退休年龄每四个月延迟一个月，分别逐步延迟至63周岁和58周岁；原50周岁退休的女职工每两个月延迟一个月，逐步延至55周岁。改革用15年时间渐进到位，并配套弹性退休制度：达到最低缴费年限后可自愿提前退休（不超过3年），也可与单位协商延迟（最长3年）。最低缴费年限自2030年起由15年逐步提高至20年。",
+    "impact": "数亿劳动人口的职业生涯与养老金缴费年限被重新定义，是1990年代养老保险制度建立以来最大的社保改革；也回应了老龄化加深、养老金支付压力加大的现实。",
+    "aftermath": "人社部随后发布《实施弹性退休制度暂行办法》等配套文件，各地经办系统在1月陆续完成切换，首批适用弹性与延迟退休的职工开始按新规则办理。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "国务院关于渐进式延迟法定退休年龄的办法（交通运输部转载）", "url": "https://www.mot.gov.cn/hudong/xiangguanziliao/202601/t20260114_4197321.html"},
+      {"title": "全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定", "url": "https://www.npc.gov.cn/npc/c2/c30834/202409/t20240913_439632.html"}
+    ],
+    "tags": ["延迟退休", "社会保障", "人口老龄化", "政策"]
+  },
+  {
+    "id": "2025-01-13-tiktok-refugees-rednote",
+    "date": "2025-01-13",
+    "title": "「TikTok难民」涌入小红书：中美网友的意外大联欢",
+    "summary_30s": "2025年1月13日，因美国「不卖就禁」法案生效在即，大量自称「TikTok难民」的美国用户涌入小红书，推动其登顶美国App Store免费榜第一；中美网友互晒生活、互相「对账」，成为罕见的跨语言互联网奇观。",
+    "detail": "TikTok禁令生效前夕，美国用户提前「用脚投票」，涌入小红书并自称TikTok refugees。小红书无需单独的国际版、可直接注册，中英文内容瞬间混流：美国用户晒房租与账单，中国网友回以大白兔奶糖与作业题，双方互相「对账」物价与工资。1月13日小红书登顶美区App Store免费榜，路透社报道称一周内新增数百万美国用户，「cat tax（猫税）」「cyber潜规则」等梗刷屏评论区。",
+    "impact": "小红书意外完成一次全球化冷启动，平台紧急扩容英文内容审核与翻译功能；这场自下而上的大联欢也成为中美民间互相了解的一次独特样本。",
+    "aftermath": "TikTok随后短暂停服又恢复，部分回流用户逐渐散去，但小红书为留住海外用户上线了翻译功能并保持开放注册，「TikTok难民」成为2025年开年最出圈的互联网文化事件之一。",
+    "category": "internet",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "CNBC：As TikTok faces U.S. ban, China's RedNote tops Apple app store", "url": "https://www.cnbc.com/2025/01/13/as-tiktok-faces-us-ban-chinasr-rednote-tops-apple-app-store.html"},
+      {"title": "Reuters：Chinese app RedNote gained millions of US users", "url": "https://www.reuters.com/technology/chinese-app-rednote-gained-millions-us-users-this-week-tiktok-refugees-joined-2025-01-16"}
+    ],
+    "tags": ["小红书", "TikTok", "互联网文化", "中美"]
+  },
+  {
+    "id": "2025-01-21-stargate-project-announced",
+    "date": "2025-01-21",
+    "title": "「星际之门」计划发布：5000亿美元AI基建豪赌开场",
+    "summary_30s": "2025年1月21日，OpenAI、软银、甲骨文与MGX在白宫宣布「星际之门」计划：四年内投资5000亿美元在美国建设AI数据中心，首个园区落地得州阿比林，拉开2025年全球算力军备竞赛的序幕。",
+    "detail": "特朗普第二任期首个工作日，软银孙正义、OpenAI奥特曼与甲骨文埃里森一同在白宫宣布Stargate项目：初始注资1000亿美元，四年内增至5000亿美元。软银负责财务、OpenAI负责运营，首批数据中心选在得克萨斯州阿比林，规划占地超过800英亩。项目被定位为「确保美国在AI时代领导地位」的国家工程，特朗普称之为「AI曼哈顿计划」。",
+    "impact": "项目直接推高了2025年全球AI资本开支预期，带动电力、土地、GPU全线紧张；也让「AI基建是否泡沫」成为贯穿全年的争论。",
+    "aftermath": "阿比林园区年内加速建设并与甲骨文签订数千亿美元算力合同；微软与OpenAI关系重排后，Stargate成为OpenAI算力版图的核心，后期又扩展至更多州。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "OpenAI：Announcing The Stargate Project", "url": "https://openai.com/index/announcing-the-stargate-project/"},
+      {"title": "Wikipedia：Stargate LLC", "url": "https://en.wikipedia.org/wiki/Stargate_LLC"}
+    ],
+    "tags": ["OpenAI", "AI基建", "数据中心", "算力"]
+  },
+  {
+    "id": "2025-01-29-detective-chinatown-1900",
+    "date": "2025-01-29",
+    "title": "《唐探1900》上映：春节档第二极贡献36亿票房",
+    "summary_30s": "2025年1月29日大年初一，陈思诚执导的前传《唐探1900》与《哪吒2》同日上映，王宝强、刘昊然回归探案，周润发特邀出演。影片最终收获约36亿元票房，位列2025年内地票房前三，是春节档仅次于《哪吒2》的稳定输出。",
+    "detail": "影片把「唐人街探案」系列的时间线拨回1900年：白人女子遇害、华人男子被疑为凶手，秦福与阿鬼卷入其中。喜剧探案外壳下，排华法案年代的华人生存史成为情感核心，周润发饰演的粤剧名伶父亲一场演讲被广泛传播。影片首日与《哪吒2》合计贡献了春节档超七成票房，档期内稳定在单日两亿元以上。",
+    "impact": "《唐探》IP五部累计票房破百亿元，成为国产系列电影商业化的样板；前传模式也被视为头部系列延长生命周期的一次成功实验。",
+    "aftermath": "影片随后宣布密钥延期至5月底，最终票房约36亿元；同年获得夏衍年度荣誉原创电影剧本，剧版《唐人街探案》与系列新片继续开发。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "百度百科：唐探1900", "url": "https://baike.baidu.com/item/%E5%94%90%E6%8E%A21900/63191688"},
+      {"title": "维基百科：唐探1900", "url": "https://zh.wikipedia.org/wiki/%E5%94%90%E6%8E%A21900"}
+    ],
+    "tags": ["电影", "春节档", "唐探系列", "陈思诚"]
+  },
+  {
+    "id": "2025-03-01-dao-lang-shanghai-concert",
+    "date": "2025-03-01",
+    "title": "刀郎巡演上海站开唱：中老年歌迷的抢票大战",
+    "summary_30s": "2025年3月1日至2日，「山歌响起的地方」刀郎2025巡演上海站连唱两场，1.8万张门票开售即空。从济南到上海，刀郎所到之处一票难求、黄牛票炒到数万元，中老年歌迷组团跨城追星成为2025年最独特的演出经济现象。",
+    "detail": "2024年8月一场线上演唱会让淡出多年的刀郎重回顶流，随后「山歌响起的地方」巡回演唱会开进一座座城市。2025年巡演从济南站起步，2月13日上海站开票，1.8万张票瞬间售罄；3月1日演出当天，开场前两小时场馆外已聚集大量从长沙、东北等地专程赶来的歌迷，跟随《罗刹海市》《西海情歌》全场大合唱。观众席上白发歌迷比例罕见地高，被称为「中老年人的周杰伦」。",
+    "impact": "刀郎巡演成为2025年「银发演出经济」的标志性样本，带火各站城市文旅；刀郎坚持不搞赞助、票价亲民的形象也被舆论反复称道。",
+    "aftermath": "巡演此后一路唱到重庆、海口等地，海口站约24万人次观演；「为一场演唱会奔赴一座城」成为各地文旅竞相争夺的流量密码。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "上观新闻：刀郎上海演唱会，定了！", "url": "https://sghexport.shobserver.com/html/baijiahao/2024/12/11/1477077.html"},
+      {"title": "百度百科：山歌响起的地方·刀郎2025巡回演唱会", "url": "https://baike.baidu.com/item/%E5%B1%B1%E6%AD%8C%E5%93%8D%E8%B5%B7%E7%9A%84%E5%9C%B0%E6%96%B9%C2%B7%E5%88%80%E9%83%8E2025%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A"}
+    ],
+    "tags": ["刀郎", "演唱会经济", "流行文化", "银发经济"]
+  },
+  {
+    "id": "2025-03-03-zuchongzhi-3-quantum",
+    "date": "2025-03-03",
+    "title": "「祖冲之三号」发布：105比特超导量子计算优越性新纪录",
+    "summary_30s": "2025年3月3日，中国科学技术大学潘建伟团队发布105比特超导量子计算原型机「祖冲之三号」，随机线路采样速度比最快超算快1000万亿倍，刷新超导体系量子计算优越性世界纪录，论文以封面文章发表于《物理评论快报》。",
+    "detail": "在66比特「祖冲之二号」基础上，团队将数据比特提升到105个、耦合比特182个，量子比特相干时间达到72微秒，并完成83比特32层随机线路采样任务。以目前最优经典算法为标准，其计算速度较最强超级计算机快15个数量级。该成果与谷歌「Willow」芯片同台竞技，标志着超导量子计算优越性竞赛进入百比特时代。",
+    "impact": "中国由此保持在超导量子计算路线上的第二极位置；量子计算优越性实验也为纠错时代的实用化路线图提供了关键基准。",
+    "aftermath": "团队随后展示了与「祖冲之三号」的量子纠错实验进展，并向量子纠错、专用量子模拟等方向推进；国际学界则继续用更好的经典算法追赶「优越性」阈值。",
+    "category": "tech",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "中国科学院：「祖冲之三号」创造新纪录", "url": "https://www.cas.cn/yw/202503/t20250304_5048593.shtml"},
+      {"title": "中国科大量子信息实验室：祖冲之三号", "url": "https://quantum.ustc.edu.cn/web/index.php/node/1199"}
+    ],
+    "tags": ["量子计算", "中国科大", "潘建伟", "祖冲之三号"]
+  },
+  {
+    "id": "2025-04-15-nvidia-h20-export-curb",
+    "date": "2025-04-15",
+    "title": "英伟达H20遭出口管制：芯片战反复摇摆的缩影",
+    "summary_30s": "2025年4月15日，英伟达在8-K文件中披露：其专供中国市场的H20芯片被美国政府要求出口许可，公司为此计提约55亿美元损失。中国AI算力供给瞬间收紧；但到7月又传出有条件恢复销售，年底再度转向，芯片管制成了全年最反复的政策变量。",
+    "detail": "美国政府于4月9日通知英伟达，H20对华出口（含港澳及D:5国家组）需无限期申请许可证。英伟达随即在8-K中披露第一财季将计提约55亿美元相关费用，股价当日大跌逾6%。H20是H100被禁后为中国市场「砍性能」的特供芯片，支撑着国内大模型公司的日常训练推理。消息传出后，国产AI芯片厂商股价集体走高，互联网大厂加速囤货与转单。",
+    "impact": "55亿美元计提成为AI芯片战代价的具象数字，也倒逼中国客户加速测试昇腾、寒武纪等国产方案，「英伟达依赖症」被摆上台面。",
+    "aftermath": "7月中旬美方放风有条件恢复H20销售，英伟达恢复对华订单但强调无法保证持续供应；10月后政策再度收紧，黄仁勋公开表示「对华芯片战失败」，全年对华收入占比大幅萎缩。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "财联社：H20遭美出口管制", "url": "https://www.cls.cn/detail/2005733"},
+      {"title": "搜狐财经：英伟达8-K披露H20许可要求与55亿美元计提", "url": "https://www.sohu.com/a/884812369_128469"}
+    ],
+    "tags": ["英伟达", "H20", "芯片战", "出口管制"]
+  },
+  {
+    "id": "2025-05-02-taobao-shangou-launch",
+    "date": "2025-05-02",
+    "title": "淘宝闪购全量上线：外卖大战升级为即时零售大战",
+    "summary_30s": "2025年5月2日，淘宝闪购提前全量上线，接入饿了么全量供给与运力，依托淘宝主站流量直接参战。上线不到一个月日订单破4000万，7月宣布12个月500亿平台直补后冲上8000万单，京东、美团、阿里三方的外卖大战自此升级为即时零售的全面战争。",
+    "detail": "京东外卖4月底上线打乱格局后，阿里火速应战：将淘宝天猫的「小时达」与饿了么合并为「淘宝闪购」，5月2日在全国全量上线，主站首页给到一级入口。免单卡、奶茶请客卡等补贴拉动下，5月26日日订单突破4000万；7月2日阿里宣布追加500亿元补贴并要求「平台直补、不让商家以价换量」，日单随之冲过6000万、8000万关口，奶茶订单单日一度破亿。",
+    "impact": "中国互联网2025年最凶猛的补贴战由此定型，美团、京东、阿里三家季度利润集体承压；即时零售从外卖扩展到全品类，「30分钟送万物」成为行业标配。",
+    "aftermath": "监管层多次约谈要求规范内卷式竞争，补贴在四季度明显降温；饿了么年底整体品牌焕新为「淘宝闪购」，阿里披露即时零售相关投入数百亿元。",
+    "category": "company",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "封面新闻：淘宝闪购直补500亿背后的反内卷逻辑", "url": "https://m.thecover.cn/news_details.html?eid=jJuszVdN2g%2BH90qSdq8Jkw=="},
+      {"title": "百度百科：淘宝闪购", "url": "https://baike.baidu.com/item/%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD"}
+    ],
+    "tags": ["淘宝闪购", "饿了么", "外卖大战", "即时零售", "阿里巴巴"]
+  },
+  {
+    "id": "2025-05-02-us-de-minimis-exemption-ends",
+    "date": "2025-05-02",
+    "title": "美国取消800美元小额包裹免税：跨境电商直邮模式终结",
+    "summary_30s": "2025年5月2日起，美国正式取消对中国内地和香港价值800美元以下小额包裹的免税待遇（de minimis），Temu、Shein赖以起家的低价直邮模式失去根基。两大平台随即停止中国直邮、转向美国本土仓履约，全球跨境电商格局被迫重构。",
+    "detail": "de minimis豁免允许800美元以下包裹免税免税入境，每年经由该通道进入美国的包裹超过10亿件，中国占大头。特朗普4月签署行政令，自5月2日起对中港小额包裹征收120%或每件100美元起的关税，Temu、Shein当周即暂停对中国直发美国，全面转投本地仓和美国卖家；9月新华社报道全球寄美包裹量骤减八成。7月底美方进一步宣布8月29日起取消所有国家的小额免税。",
+    "impact": "「小包直邮」这一跨境电商黄金模式的终结，直接改变了Temu、Shein、亚马逊中国卖家与美国消费者的连接方式，也推动中国供应链大规模出海建仓。",
+    "aftermath": "Temu转向「本对本」半托管并重启增长，Shein在美涨价；欧盟宣布2026年取消150欧元免税门槛，越南、土耳其等多国跟进收紧，小额免税时代在全球范围内落幕。",
+    "category": "economy",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "证券时报：5月2日起彻底取消800美元「小额豁免」", "url": "https://www.stcn.com/article/detail/1641110.html"},
+      {"title": "新华社：全球寄美包裹骤减八成", "url": "https://www.news.cn/world/20250907/c2a53e6e30974909976280bdd743664d/c.html"}
+    ],
+    "tags": ["关税", "跨境电商", "Temu", "Shein", "de minimis"]
+  },
+  {
+    "id": "2025-05-03-buffett-retirement-announcement",
+    "date": "2025-05-03",
+    "title": "巴菲特宣布年底卸任CEO：执掌伯克希尔60年谢幕",
+    "summary_30s": "2025年5月3日，沃伦·巴菲特在伯克希尔·哈撒韦年度股东大会压轴宣布：将于年底卸任CEO，由副董事长格雷格·阿贝尔接任，自己保留董事长职务。94岁的「奥马哈先知」结束了60年的掌舵生涯，全球价值投资时代的一个坐标就此移位。",
+    "detail": "在奥马哈举行的第60届股东大会尾声，巴菲特出人意料地公布接班安排：建议董事会年底起由阿贝尔出任CEO，且本人不打算出售任何一股伯克希尔股票。全场股东起立鼓掌良久。他1965年接管伯克希尔以来，公司从一家濒倒闭的纺织厂变成市值超万亿美元的巨头，年化回报率约19.9%。",
+    "impact": "退休消息公布当日伯克希尔股价波动不大，市场对阿贝尔平稳接棒早有预期；但「巴菲特时代」的落幕仍被视为全球资本市场一个时代的终结。",
+    "aftermath": "2026年1月1日阿贝尔正式接任CEO，巴菲特继续担任董事长；2026年股东大会上阿贝尔以印有数字60的球衣向巴菲特致敬，伯克希尔现金储备在其任内最后阶段创下新高。",
+    "category": "economy",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Reuters：Buffett to step down as Berkshire CEO after 60 years", "url": "https://www.reuters.com/markets/wealth/berkshire-shareholders-head-buffetts-60th-annual-meeting-economy-top-mind-2025-05-03"},
+      {"title": "CNBC：Buffett to ask board to make Greg Abel CEO at year end", "url": "https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html"}
+    ],
+    "tags": ["巴菲特", "伯克希尔", "价值投资", "交接班"]
+  },
+  {
+    "id": "2025-05-10-marriage-registration-reform",
+    "date": "2025-05-10",
+    "title": "新《婚姻登记条例》施行：结婚离婚全国通办、不再需要户口本",
+    "summary_30s": "2025年5月10日，修订后的《婚姻登记条例》施行：婚姻登记全国通办，办理结婚、离婚不再需要户口簿，只需身份证与本人声明。实行数十年的「回户籍地登记」规矩就此终结，被视为影响数亿人婚恋生活的民生松绑。",
+    "detail": "条例经2025年3月国务院常务会议修订通过、4月公布。核心变化有三：登记不再受户籍地限制，全国任一婚姻登记机关均可办理；取消户口簿要求，凭身份证即可登记，通过部门信息核验代替当事人跑腿；同时新增婚姻家庭辅导服务章节。此前「跨省通办」试点已在21个省份累计办理45万对，为全面推开铺路。",
+    "impact": "数亿在外务工、定居的年轻人不再为领证返乡奔波，推动婚姻登记从「管理」转向「服务」；也降低了异地婚育群体的制度性摩擦。",
+    "aftermath": "民政部同步修订《婚姻登记工作规范》并上线全国通办系统；截至2025年8月底全国办理「全国通办」婚姻登记已超92万对，数据核验协作机制同步收紧以防重婚。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "司法部：李强签署国务院令公布修订后的《婚姻登记条例》", "url": "https://www.moj.gov.cn/pub/sfbgw/gwxw/xwyw/202504/t20250409_517167.html"},
+      {"title": "北京市政府：婚姻登记「全国通办」政策问答", "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202505/t20250510_4086141.html"}
+    ],
+    "tags": ["婚姻登记", "民生政策", "户口本", "全国通办"]
+  },
+  {
+    "id": "2025-05-20-catl-hk-ipo",
+    "date": "2025-05-20",
+    "title": "宁德时代港股上市：年内全球最大IPO花落动力电池",
+    "summary_30s": "2025年5月20日，宁德时代在香港联交所挂牌，发行价263港元，募资约410亿港元（绿鞋后可达53亿美元），成为2025年全球最大IPO，并创下香港近四年最大融资纪录。上市首日H股一度比A股贵出罕见溢价，助力香港重夺全球IPO募资榜首。",
+    "detail": "作为A+H两地上市的最大规模新能源案例，宁德时代本次全球发售1.35亿股H股，国际配售获逾15倍认购，基石投资者包括中石油、KIA等。上市首日开盘涨超12%，盘中一度反超A股股价——港股对同一家公司给出溢价，在近年极为罕见。募资约九成投向匈牙利德布勒森工厂，服务欧洲客户。",
+    "impact": "超级IPO为2025年港股市场注入强心针，带出一整年中国龙头企业赴港上市潮；也标志着中国制造业龙头从「融资在国内」转向「全球化资本布局」。",
+    "aftermath": "恒瑞医药、三花智控等跟随赴港，全年港股IPO募资额重回全球第一；宁德时代H股年内稳步上行，纳入港股通后内地资金大举买入。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华社：宁德时代在港上市创香港近年最大IPO", "url": "https://www.news.cn/gangao/20250520/893587df867a45d0b6121c70c9a66e66/c.html"}
+    ],
+    "tags": ["宁德时代", "港股IPO", "新能源", "香港金融"]
+  },
+  {
+    "id": "2025-05-20-private-economy-promotion-law",
+    "date": "2025-05-20",
+    "title": "《民营经济促进法》施行：首部民营经济基础性法律落地",
+    "summary_30s": "2025年5月20日，《民营经济促进法》正式施行。这部4月30日通过的法律共9章78条，首次以基础性法律形式明确促进民营经济发展是国家长期坚持的方针，公平竞争、账款拖欠、融资难题均有专章回应。",
+    "detail": "法律写入「坚持和落实『两个毫不动摇』」「国家把民营经济为大宗就业、科技创新的重要力量」等表述，规定市场准入负面清单之外对民企一律平等放开，禁止招标中限制排斥民企，并建立拖欠账款治理与融资支持制度。从2024年10月草案公开征求意见到2025年4月30日表决通过，立法仅用半年多，立法速度罕见。",
+    "impact": "在民营经济预期偏弱的背景下，立法被视为以法治确定性稳预期的标志性动作；民企在准入、招投标、账款清欠上的平等待遇自此有了法律依据。",
+    "aftermath": "8月最高人民法院发布贯彻实施意见，各地陆续出台配套清单；「远洋捕捞」式趋利执法与账款拖欠成为后续落实中被舆论持续检验的重点。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "司法部：《中华人民共和国民营经济促进法》全文", "url": "https://www.moj.gov.cn/pub/sfbgw/gwxw/xwyw/202504/t20250430_518418.html"},
+      {"title": "国家发展改革委：关于学习宣传和贯彻实施《民营经济促进法》的通知", "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202505/t20250520_1397832.html"}
+    ],
+    "tags": ["民营经济", "立法", "营商环境", "政策"]
+  },
+  {
+    "id": "2025-05-25-wang-chuqin-world-title",
+    "date": "2025-05-25",
+    "title": "王楚钦多哈世乒赛男单登顶：终结三大赛单打冠军荒",
+    "summary_30s": "2025年5月25日，多哈世乒赛男单决赛，王楚钦4比1力克巴西名将雨果·卡尔德拉诺，首夺世乒赛男单冠军，终结了自己在奥运会、世乒赛、世界杯三大赛单打「零冠」的标签；孙颖莎同日卫冕女单，「莎头」组合前一日实现混双卫冕。",
+    "detail": "巴黎奥运会男单早早出局的王楚钦，背负了两年「大赛软脚」的质疑。多哈世乒赛他一路过关，决赛面对刚在澳门世界杯掀翻国乒的雨果，以11-9等关键分处理稳住局面，4比1加冕。这是中国男乒在马龙、樊振东逐步淡出后的首个世乒赛男单冠军，被视作新周期权力交接的注脚。孙颖莎则在女单决赛战胜王曼昱实现卫冕。",
+    "impact": "王楚钦自此坐稳男乒新核心位置，「莎头」双线登顶稳定了洛杉矶奥运周期的国乒基本盘；决赛在巴西、欧洲的收视也让乒乓球海外热度再上台阶。",
+    "aftermath": "王楚钦随后在多站公开赛延续强势，全年世界第一稳固；「雨果现象」则推动国际乒联加速海外市场的造星与赛事改革。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：世乒赛中国队四金收官，王楚钦、孙颖莎双线登顶", "url": "http://www.xinhuanet.com/sports/20250526/7199bd1dfc76454990b28f08a9a16555/c.html"},
+      {"title": "Olympics.com：王楚钦终结大赛冠军荒", "url": "https://www.olympics.com/zh/news/2025-ittf-world-championships-mens-single-gamer"}
+    ],
+    "tags": ["乒乓球", "世乒赛", "王楚钦", "孙颖莎"]
+  },
+  {
+    "id": "2025-06-11-doubao-1-6-force",
+    "date": "2025-06-11",
+    "title": "豆包大模型1.6发布：字节以低价多头架构搅动大模型市场",
+    "summary_30s": "2025年6月11日，火山引擎Force大会发布豆包大模型1.6与视频生成模型Seedance 1.0 Pro：前者以「自适应思考」架构大幅降低推理成本，后者随即登顶全球视频生成评测榜，字节成为2025年AI应用侧最具冲击力的玩家。",
+    "detail": "豆包1.6按难度自动在「秒答—思考—深度思考」三档间切换，256K上下文，第三方评测成绩逼近海外旗舰而价格只有其几分之一，引发国内API新一轮降价。同场发布的Seedance 1.0 Pro在Artificial Analysis等多个榜单登顶视频生成第一，多镜头一致性尤其出色。火山引擎披露豆包家族日均tokens调用量一年增长超百倍。",
+    "impact": "「低价+Agent」组合让字节在企业侧抢占大量推理算力订单，豆包App稳居国内AI应用月活第一梯队；Seedance则让中国视频生成在海外开发者中快速积累口碑。",
+    "aftermath": "Seedance年内迭代多个版本并与即梦、剪映深度整合；豆包1.6系列随后多次降价，火山引擎成为国内大模型tokens消耗量最大的平台。",
+    "category": "tech",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：火山引擎发布豆包大模型1.6，加速Agent大规模应用", "url": "http://www.news.cn/tech/20250611/db9b3c0ef97d49058413563b1c434951/c.html"}
+    ],
+    "tags": ["字节跳动", "豆包", "Seedance", "大模型", "视频生成"]
+  },
+  {
+    "id": "2025-06-12-neza-auto-bankruptcy-restructuring",
+    "date": "2025-06-12",
+    "title": "哪吒汽车母公司被裁定破产重整：新势力洗牌第一案",
+    "summary_30s": "2025年6月12日，浙江嘉兴中院裁定受理合众新能源汽车（哪吒汽车母公司）破产重整，这家2022年一度月销夺冠的新势力正式进入司法重整程序。累计申报债权约296亿元、涉诉469件，哪吒汽车成为新势力大洗牌中最重的一块倒下的招牌。",
+    "detail": "哪吒汽车2024年下半年起深陷欠薪、断供与交付停滞，2025年1月供应商集中起诉。6月12日法院裁定受理重整并指定管理人；此后管理人公告显示，1786户债权人申报债权约296.56亿元，公司资产评估市值仅约17.42亿元，三年累亏约183亿元。与2024年底暴雷的极越不同，哪吒体量更大、存续资产更多，被寄望于「重整再战」。",
+    "impact": "案件成为中国新能源车淘汰赛的风向标：热钱退潮后，缺乏自我造血能力的新势力进入出清阶段，供应商与车主权益处置成为社会关注焦点。",
+    "aftermath": "12月管理人选定经营管理受托方，2026年出现约30亿元重整投资方案待债权人表决，哪吒汽车走到复产关口；整个新势力阵营则在华为系、小米的挤压下加速分化。",
+    "category": "company",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：30亿元重整投资待表决，哪吒汽车走到复产关口", "url": "http://www.news.cn/finance/20261009/d311c1d569a440ddacbd522c1c680220/c.html"}
+    ],
+    "tags": ["哪吒汽车", "破产重整", "新能源车", "造车新势力"]
+  },
+  {
+    "id": "2025-06-20-kpop-demon-hunters-netflix",
+    "date": "2025-06-20",
+    "title": "《K-pop猎魔女团》上线Netflix：全球动画现象级爆款",
+    "summary_30s": "2025年6月20日，Netflix上线的《K-pop猎魔女团》开播，讲述女团白天唱跳、夜晚猎魔的故事。影片成为Netflix观看量最高的电影，插曲《Golden》8月登顶Billboard Hot 100，掀起全球K-pop文化狂潮。",
+    "detail": "影片以韩国女团「HUNTR/X」与男团「Saja Boys」的对决为外壳，把偶像工业、女性友谊与东亚传说揉进动画。上线后口碑引爆，累计观看量超过2.36亿次，成为Netflix有史以来观看最多的电影；8月11日《Golden》登顶Hot 100，Netflix电影歌曲首次做到这一点，片中女团还以动画形象登上了真实舞台的排面——8月底HUNTR/X「虚拟演唱会」与社交媒体翻唱刷屏。",
+    "impact": "动画电影首次以流媒体原创身份取得全球流行文化统治力，推动Netflix大力押注动画与音乐IP；韩国流行文化再次证明其全球输出能力。",
+    "aftermath": "影片随后在部分影院推出跟唱场并斩获金球奖动画类奖项，续集立项；《Golden》成为2025年流媒体时代「歌曲带飞电影」的教科书案例。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Netflix Tudum：KPop Demon Hunters release date and news", "url": "https://www.netflix.com/tudum/articles/kpop-demon-hunters-release-date-cast-news"},
+      {"title": "Wikipedia：KPop Demon Hunters", "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters"}
+    ],
+    "tags": ["动画电影", "Netflix", "K-pop", "流行文化"]
+  },
+  {
+    "id": "2025-06-22-tesla-robotaxi-austin",
+    "date": "2025-06-22",
+    "title": "特斯拉Robotaxi奥斯汀试运营：纯视觉自动驾驶上路收客",
+    "summary_30s": "2025年6月22日，特斯拉在得州奥斯汀启动Robotaxi试运营：约10辆Model Y以邀请制在限定区域内载客，车内无驾驶员但配安全监控员。马斯克多年承诺的无人出租车终于落地，特斯拉从车厂向出行平台转型的第一步就此迈出。",
+    "detail": "服务采用邀请制，乘客需签署保密协议，运营时间为每天6时至24时，限定在奥斯汀部分街区，单程固定收费4.2美元。与Waymo的激光雷达路线不同，特斯拉宣称纯视觉方案+车队学习即可实现自动驾驶，车内副驾位置设安全监控员而非方向盘后的司机。上线首日有车辆出现短暂越线等失误，视频被广泛传播，但整体运行平稳。",
+    "impact": "特斯拉首次以运营方身份进入Robotaxi市场，与Waymo形成两条技术路线的正面对决；资本市场将其视为特斯拉估值从车企切换为AI公司的关键验证。",
+    "aftermath": "服务随后扩大至奥斯汀全城并向更多受邀用户开放，年内扩展到湾区等地但始终保留安全员；加州监管对其商业化仍在拉锯，马斯克则持续以「明年无监督」为节点画饼。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Reuters：Tesla rolls out robotaxis in Texas test", "url": "https://www.reuters.com/business/autos-transportation/tesla-tiptoes-into-long-promised-robotaxi-service-2025-06-22/"},
+      {"title": "CBS News：Tesla robotaxi launch in Austin", "url": "https://www.cbsnews.com/news/tesla-robotaxi-launch-austin-texas-elon-musk-june-22/"}
+    ],
+    "tags": ["特斯拉", "Robotaxi", "自动驾驶", "马斯克"]
+  },
+  {
+    "id": "2025-08-13-shengwanwu-drama",
+    "date": "2025-08-13",
+    "title": "《生万物》开播：一部乡土剧的全龄爆款奇迹",
+    "summary_30s": "2025年8月13日，改编自赵德发小说《缱绻与决绝》的36集年代剧《生万物》登陆央视八套与爱奇艺，杨幂饰演鲁南农村女性宁绣绣。开播即爆：首集酷云峰值收视超3.6%，成为2025年首部单日播放量破亿的国产剧，被舆论称作「现象级乡土正剧」。",
+    "detail": "故事围绕上世纪二三十年代沂蒙山区农民与土地的纠缠展开，杨幂一改偶像戏路，出演从地主之女到自食其力农民的宁绣绣，与欧豪、倪大红、秦海璐同场飙戏。剧集90%场景在山东沂南实景搭建，麦收、纳鞋、腌菜等农事细节被赞「有泥土味」。央视八套收视多次破3，爱奇艺热度破万并连续登顶，成为平台年度剧集。",
+    "impact": "剧集证明严肃乡土题材仍有全民号召力，也完成杨幂演艺口碑的翻身；「跟着《生万物》游沂南」带动取景地文旅，土地与人主题引发跨代际共鸣。",
+    "aftermath": "大结局后豆瓣评分稳定在高位，获多项年度剧集荣誉；正剧化、乡土化成为各大平台2026年片单的显性趋势。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：生万物", "url": "https://zh.wikipedia.org/zh-hans/%E7%94%9F%E4%B8%87%E7%89%A9"},
+      {"title": "百度百科：生万物", "url": "https://baike.baidu.com/item/%E7%94%9F%E4%B8%87%E7%89%A9/64331227"}
+    ],
+    "tags": ["电视剧", "乡土题材", "杨幂", "央视"]
+  },
+  {
+    "id": "2025-08-17-china-basketball-asian-cup-silver",
+    "date": "2025-08-17",
+    "title": "中国男篮1分憾负澳大利亚：时隔十年重夺亚洲杯亚军",
+    "summary_30s": "2025年8月17日，沙特吉达，2025男篮亚洲杯决赛中国队89比90惜败澳大利亚，时隔十年重返亚洲决赛并收获亚军。这支没有归化、平均年龄24岁的青年军一路连克强敌，让低谷中的中国篮球重新看到希望。",
+    "detail": "郭士强率领的新一届中国男篮以「无大牌、无归化」阵容出征：小组赛全胜出线，淘汰赛先后斩落新西兰与夺冠热门澳大利亚之外的对手，决赛面对三连冠的澳大利亚队拼到最后1.7秒，胡金秋、廖三宁、赵睿轮番开火，最终以1分之差饮恨。这是中国队自2015年长沙亚锦赛夺冠后、近十年在世界大赛舞台上的最佳战绩。",
+    "impact": "亚军成绩终结了「男篮必摆烂」的舆论定势，郭士强的平民化建队思路获得认可；胡金秋、廖三宁等人的表现让2027世界杯与2028奥运周期有了可依赖的骨架。",
+    "aftermath": "归队后姚明时代遗留的联赛与青训改革讨论重启，年轻球员获得更多NBA夏季联赛与海外历练机会；澳大利亚则完成亚洲杯三连冠。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：中国男篮获亚洲杯亚军", "url": "http://www.news.cn/sports/20250818/bb5b022e02b14552860294a32785fdd1/c.html"}
+    ],
+    "tags": ["篮球", "亚洲杯", "中国男篮", "郭士强"]
+  },
+  {
+    "id": "2025-08-20-black-myth-zhongkui-reveal",
+    "date": "2025-08-20",
+    "title": "《黑神话：钟馗》官宣：游戏科学把8月20日变成节日",
+    "summary_30s": "2025年8月20日，《黑神话：悟空》发售一周年之际，游戏科学在科隆游戏展开幕夜官宣新作《黑神话：钟馗》，不到两分钟的首支CG预告全网刷屏。团队把「8月20日」变成中国玩家的固定节日，「黑神话宇宙」就此起笔。",
+    "detail": "预告以水墨与钟馗捉鬼的民间传说为底，末尾一句「黑神话，不止是悟空」点明系列化野心。官宣恰逢《悟空》全球销量冲刺3000万份、DLC传闻四起之时，B站预告一小时播放破百万，微博热搜屠榜。游戏科学同步表示《悟空》的资料片与多平台版本仍在推进，钟馗为全新制作。",
+    "impact": "官宣确认了国产单机大作可以做成系列而非一锤子买卖，「中国神话宇宙」从口号变成产品路线图；科隆展官方亦将其列为年度最受关注公布之一。",
+    "aftermath": "2026年2月团队发布春节特别视频，8月20日又放出15分钟实机演示，展示主角战斗与捉鬼玩法；《悟空》DLC仍保持神秘，玩家社区进入长线等待期。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "联合早报：游戏科学公布新作《黑神话：钟馗》", "url": "https://www.zaobao.com.sg/news/china/story20250820-7384210"},
+      {"title": "机核：游戏科学新作《黑神话：钟馗》先导预告正式公布", "url": "https://www.gcores.com/articles/203346"}
+    ],
+    "tags": ["黑神话", "游戏科学", "国产游戏", "钟馗"]
+  },
+  {
+    "id": "2025-09-10-luo-yonghao-xibei-row",
+    "date": "2025-09-10",
+    "title": "罗永浩炮轰西贝：一场预制菜焦虑的全民大讨论",
+    "summary_30s": "2025年9月10日，罗永浩微博吐槽西贝莜面村「几乎全是预制菜还那么贵」，与创始人贾国龙掀起多轮隔空对战，儿童餐冷冻西兰花保质期两年等细节接连曝光，预制菜知情权话题被顶上全民热搜，最终推动餐饮透明化加速。",
+    "detail": "风波始于罗永浩一条「下飞机吃西贝」的微博，他呼吁立法强制餐馆明示预制菜使用情况。贾国龙先是情绪化回应「哪怕生意不做了也要打官司」，随后邀请媒体进后厨自证；罗永浩9月12日多平台直播近一小时，在线破10万，晒出西贝供应链袋装产品照片，称「没有预制菜」的说法是撒谎。风波中西贝日营业额一度蒸发约百万元，央视与人民日报相继发文，指向的不是一家餐厅而是整个餐饮业的信息黑箱。",
+    "impact": "「预制菜该不该标」从行业议题变成消费者权利议题，多地人大代表与监管部门公开回应；餐饮品牌被迫把中央厨房、现制现售信息摆上台面。",
+    "aftermath": "西贝推出后厨直播与供应链公示整改，预制菜国家标准立法进程被明显提速；罗、贾二人的官司与口水战延续到次年，成为餐饮业年度最大公关案例。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "BBC中文：西贝预制菜之争，民众和餐饮专家在关心什么", "url": "https://www.bbc.com/zhongwen/articles/c4gz89317e4o/simp"},
+      {"title": "21财经：罗永浩西贝风波全过程", "url": "https://www.21jingji.com/article/20250915/herald/abaf9270db6c1b57c6ee8e4c9eaacdb4.html"}
+    ],
+    "tags": ["预制菜", "西贝", "罗永浩", "食品安全", "消费者权益"]
+  },
+  {
+    "id": "2025-09-17-meta-rayban-display",
+    "date": "2025-09-17",
+    "title": "Meta发布Ray-Ban Display：799美元的「镜中屏幕」开启眼镜战争",
+    "summary_30s": "2025年9月17日Meta Connect大会，Meta发布首款带镜内显示的Ray-Ban Display智能眼镜，799美元配神经腕带、以肌电手势交互。扎克伯格称其为「理想眼镜形态的第一次实现」，AI眼镜自此进入屏幕时代。",
+    "detail": "Ray-Ban Display在右侧镜片内嵌单眼显示器，可查看通知、导航、AI回复与视频通话，由佩戴于手腕的Meta Neural Band通过读取神经信号完成捏合、滑动等微手势输入。9月30日在美国限量发售，上市即告罄，二手市场加价至千元以上。同场Meta还发布了Celina欧版与Oakley合作款，把「无显示AI眼镜」产品线铺满价位段。",
+    "impact": "腕带式神经交互与镜内显示的组合被视为可穿戴设备数十年来最大胆的交互尝试，直接刺激谷歌、三星、小米加速显示眼镜布局；「眼镜取代手机」的叙事重回科技舞台中央。",
+    "aftermath": "首批货源长期缺货，Meta年内多次补货并推进国际发售；行业则在2026年迎来显示眼镜集体爆发，AI眼镜成为智能手机之后竞争最激烈的新终端。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Meta官方博客：Meta Ray-Ban Display, Breakthrough AI Glasses", "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/"},
+      {"title": "UploadVR：Meta Ray-Ban Display officially announced", "url": "https://www.uploadvr.com/meta-ray-ban-display-glasses-officially-announced"}
+    ],
+    "tags": ["Meta", "AI眼镜", "Ray-Ban Display", "可穿戴"]
+  },
+  {
+    "id": "2025-09-18-film-731-release",
+    "date": "2025-09-18",
+    "title": "电影《731》上映：九一八当天的全民观影潮",
+    "summary_30s": "2025年9月18日，择日多年的战争片《731》选在九一八事变纪念日上映，首日票房1.68亿元、排片25.8万场刷新中国影史纪录，最终收获约19.4亿元票房。大量观众带着白菊走进影院，形成罕见的仪式性观影潮。",
+    "detail": "影片以亲历者视角揭露侵华日军731部队对3000余名中国及多国平民的细菌实验暴行，姜武、王志文等主演。项目自2017年立项起历经多次撤档与审查波折，最终定档9月18日。上映首日创下单片单日总场次与首映日场次纪录，9月20日单日票房破4亿元创9月影史纪录，多地影院出现观众集体默哀、献花的场面。",
+    "impact": "《731》把历史记忆电影做成全民事件，创下9月传统冷档期的历史级票房；「不忘历史」的集体情绪也带动了抗战胜利80周年系列纪念活动的高潮。",
+    "aftermath": "影片延长上映并加映东南亚市场，马来西亚票房创华语战争片纪录；围绕影片的争议与史料讨论持续数月，731部队罪证陈列馆参观量创下新高。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：731（电影）", "url": "https://zh.wikipedia.org/wiki/731_(%E7%94%B5%E5%BD%B1)"},
+      {"title": "百度百科：731（2025年赵林山执导电影）", "url": "https://baike.baidu.com/item/731/63311721"}
+    ],
+    "tags": ["电影", "抗战历史", "731部队", "九一八"]
+  },
+  {
+    "id": "2025-09-29-deepseek-v3-2-exp",
+    "date": "2025-09-29",
+    "title": "DeepSeek发布V3.2-Exp：稀疏注意力把API价格再砍一半",
+    "summary_30s": "2025年9月29日，DeepSeek发布实验版V3.2-Exp，引入稀疏注意力机制DSA大幅降低长文本推理成本，API价格即刻下调逾50%，缓存命中输入价低至每百万tokens 0.2元。「价格屠夫」再度出手，行业均价被重新锚定。",
+    "detail": "V3.2-Exp在V3.1基础上引入DeepSeek Sparse Attention：通过「闪电索引器」让每个token只关注相关子集，长序列训练与推理效率显著提升。官方称新定价下开发者调用成本降低50%以上，输入（缓存命中）从0.5元降到0.2元/百万tokens。发布后英伟达、AMD相继宣布适配DSA，海外开发者社区将其视为对「上下文越长越贵」行业惯例的直接挑战。",
+    "impact": "DSA成为2025年底引用最多的中国开源架构创新之一，OpenAI、Google随后在定价与架构上跟进；国产大模型「性价比路线」的技术正当性得到验证。",
+    "aftermath": "10月起主流推理框架陆续原生支持DSA，DeepSeek随后发布正式版V3.2；「降本换量」进一步巩固了其API调用量在国内的开源第一梯队位置。",
+    "category": "tech",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "DeepSeek官方：DeepSeek-V3.2-Exp发布，API同步降价", "url": "https://api-docs.deepseek.com/zh-cn/news/news250929"},
+      {"title": "第一财经：「价格屠夫」DeepSeek上线，新模型成本下降超50%", "url": "https://www.yicai.com/news/102849363.html"}
+    ],
+    "tags": ["DeepSeek", "开源模型", "稀疏注意力", "API降价"]
+  },
+  {
+    "id": "2025-10-28-openai-pbc-restructuring",
+    "date": "2025-10-28",
+    "title": "OpenAI完成重组：微软持股27%，公益公司架构落定",
+    "summary_30s": "2025年10月28日，OpenAI宣布完成资本重组：营利部门转制为公益公司，原非营利实体更名OpenAI基金会并握有控制权，微软持股约27%、合作延长至2032年。这家AI明星公司的治理悬念就此落定。",
+    "detail": "重组持续近一年：先是2024年底传出转制方案，再经马斯克诉讼、加州与特拉华州总检察长介入。最终架构下，OpenAI基金会持有营利部门约1300亿美元股权与特别表决权，名义使命「确保AGI造福全人类」被写入公司章程；微软获得27%股权、API独家权延续至2032年，但失去了优先独家算力供应商地位。奥特曼称这是「让资本与使命共存」的安排。",
+    "impact": "全球最有价值的私营AI公司完成向可融资、可上市结构的转身，为后续数千亿美元融资与IPO传闻铺路；非营利「控制」与商业扩张的张力则成为治理范式的全球样本。",
+    "aftermath": "重组后OpenAI随即宣布向基金会承诺2500亿美元规模的公益承诺数字，与甲骨文、AMD扩大算力合作；马斯克诉讼仍在推进，公益公司模式能否约束AGI路线仍待时间检验。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "凤凰科技：OpenAI重组落地！微软持股27%并续签AI合作至2032年", "url": "https://tech.ifeng.com/c/8npX3VPhzdr"},
+      {"title": "OpenAI：Our Structure", "url": "https://openai.com/our-structure"}
+    ],
+    "tags": ["OpenAI", "微软", "公司治理", "公益公司"]
+  },
+  {
+    "id": "2025-10-28-sse-composite-4000-points",
+    "date": "2025-10-28",
+    "title": "沪指盘中重返4000点：A股时隔十年的整数关口时刻",
+    "summary_30s": "2025年10月28日10时14分，上证指数盘中突破4000点整数关口，为2015年8月以来首次。当日成交约2.17万亿元，收盘虽小幅回落至3988点，但「十年一遇的4000点」仍被市场视为A股走出多年低迷的标志性时刻。",
+    "detail": "9月底以来央行降准降息、中长期资金入市与AI产业链行情共振，指数自年内低点累计上涨约两成。10月28日早盘银行、券商与AI算力股齐动，沪指一举突破4000点，随后获利盘涌出令涨幅收窄。时隔十年重回该点位，散户开户数与两融余额连创新高，「4000点」刷屏社交网络，老股民感慨「十年之约」兑现。",
+    "impact": "指数突破强化了居民资产再配置入市的预期，公募、险资加仓与 IPO 提速同步出现；「慢牛还是疯牛」成为此后财经舆论的日常争论。",
+    "aftermath": "11月沪指站稳4000点上方并在11月14日创出阶段高点，全年北向与两融资金大幅流入；监管则反复提示杠杆风险，强调「稳住楼市股市」的政策基调。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "21财经：沪指重回4000点！时隔十年重返整数关口", "url": "https://www.21jingji.com/article/20251028/herald/d6c4888dffe7b09f3efbc5e9c847c0e4.html"}
+    ],
+    "tags": ["A股", "上证指数", "牛市", "资本市场"]
+  },
+  {
+    "id": "2025-11-26-hong-kong-tai-po-fire",
+    "date": "2025-11-26",
+    "title": "香港大埔宏福苑五级大火：半个多世纪来最惨烈火灾",
+    "summary_30s": "2025年11月26日下午，香港大埔宏福苑屋苑发生五级大火，7座大厦的竹棚与保护网迅即连片燃烧，火势延烧逾40小时。火灾最终造成168人死亡、79人受伤，为香港自1948年以来伤亡最重的火灾，全城哀悼并引爆旧楼维修监管争议。",
+    "detail": "屋苑当时正进行外墙维修，大厦被竹棚与绿色防护网整体包裹，火借风势在七座楼间蔓延，浓烟数小时笼罩新界东北。消防动员逾千人、升调五级仍难控制，死亡人数逐日攀升：27日已近百人，12月初确认159人遇难，2026年1月法医核验后定格在168人（含1名殉职消防员），最小死者仅6个月大。特区政府随即宣布援助方案、启用跨部门调查。",
+    "impact": "灾难暴露了维修工程物料标准、承建商分包与监管链条的多重漏洞，全港随即启动棚网大规模排查；「谁来负责」成为香港社会此后一年最持久的声音。",
+    "aftermath": "港府成立独立委员会调查，2026年3月至7月举行30场听证、10月向特首提交报告并承诺全面改革；涉案承建商与负责人被拘控，全港同类维修工程被强制更换不合格网料。",
+    "category": "world",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：宏福苑大火", "url": "https://zh.wikipedia.org/wiki/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB"},
+      {"title": "BBC中文：香港大埔火灾延烧逾一日，罹难人数持续上升", "url": "https://www.bbc.com/zhongwen/articles/c5yq47pq381o/simp"}
+    ],
+    "tags": ["香港", "火灾", "宏福苑", "公共安全"]
+  }
+]

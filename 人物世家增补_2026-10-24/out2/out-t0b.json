@@ -1,0 +1,306 @@
+[
+  {
+    "id": "1975-01-01-altair-8800-popular-electronics",
+    "date": "1975-01-01",
+    "title": "《大众电子》封面刊出Altair 8800：个人电脑时代的点火时刻",
+    "summary_30s": "1975年1月号《大众电子》以封面故事介绍MITS公司的Altair 8800，397美元的组装套件让普通人第一次买得起一台计算机。杂志还没上摊订单就堆成山，这个书报摊上的封面故事点燃了个人电脑革命。",
+    "detail": "新墨西哥州阿尔伯克基的MITS由埃德·罗伯茨经营，靠卖计算器勉强维持，英特尔8080芯片降价后他决定做一台整机。1975年1月号《大众电子》把Altair 8800印上封面：仅256字节内存、没有键盘和显示器，用面板开关扳出指令，套件售价397美元。杂志尚未到报摊，邮购订单就已排到数月之后。保罗·艾伦与比尔·盖茨在哈佛广场看到这期杂志，随即主动请缨为它编写BASIC解释器。",
+    "impact": "Altair 8800把计算机从机构专属变成个人可以拥有的机器，直接催生了微型计算机市场，也把Altair BASIC、家酿计算机俱乐部等后来的关键角色拉上了历史舞台。",
+    "aftermath": "盖茨与艾伦为它写出BASIC并在1975年7月授权给MITS，两人为此成立的公司就是微软。MITS自身在1977年前后衰落，罗伯茨退出电脑业，但个人电脑产业自此起步。",
+    "category": "hardware",
+    "milestone": true,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Altair 8800", "url": "https://en.wikipedia.org/wiki/Altair_8800"},
+      {"title": "Britannica: Altair computer", "url": "https://www.britannica.com/technology/Altair-computer"}
+    ],
+    "tags": ["个人电脑", "Altair 8800", "MITS", "8080芯片"]
+  },
+  {
+    "id": "1975-04-04-microsoft-founded",
+    "date": "1975-04-04",
+    "title": "微软在新墨西哥州成立：从Altair BASIC开始的软件公司",
+    "summary_30s": "1975年4月4日，比尔·盖茨与保罗·艾伦在新墨西哥州阿尔伯克基注册Microsoft。两人看到了个人电脑软件这门生意：机器卖了上千台却没有像样的语言可用，卖软件而不是卖硬件，从此成为独立的大生意。",
+    "detail": "盖茨与艾伦为Altair 8800写了BASIC解释器，当年春艾伦带着打孔纸带到MITS上演示成功，两人随即决定创业。公司名取\"微计算机\"（microcomputer）与\"软件\"（software）各一半，注册地为阿尔伯克基，因为客户MITS在这里。第一年收入几乎全部来自Altair BASIC授权，并最早确立按台收取授权费的模式——软件不再是硬件的附赠品，而是独立的商品。",
+    "impact": "微软确立了软件独立收费的商业模式，为后来统治PC操作系统埋下伏笔；从Altair BASIC起步，它在二十年后成为全球最大的软件公司。",
+    "aftermath": "1979年微软迁往华盛顿州贝尔维尤，1980年拿下IBM PC的DOS订单后起飞，1986年上市，盖茨多年稳居世界首富。",
+    "category": "company",
+    "milestone": true,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: History of Microsoft", "url": "https://en.wikipedia.org/wiki/History_of_Microsoft"},
+      {"title": "Britannica: Microsoft Corporation", "url": "https://www.britannica.com/money/Microsoft-Corporation"}
+    ],
+    "tags": ["微软", "软件业", "Altair BASIC", "比尔·盖茨"]
+  },
+  {
+    "id": "1975-05-10-sony-betamax-launch",
+    "date": "1975-05-10",
+    "title": "索尼Betamax发售：家用录像机时代开幕",
+    "summary_30s": "1975年5月10日，索尼在日本发售第一台Betamax录像机SL-6300，与特丽珑电视组成LV-1901一体机上市。用电视机定时录下节目回看，\"时间移位\"从概念变成客厅里的日常，家庭影音市场就此开张。",
+    "detail": "索尼把专业U-matic录像技术缩小到家用规格，开发出1/2英寸盒式磁带系统，随SL-6300首次定名Betamax。首销的LV-1901是录像机与19英寸特丽珑电视的一体机，售价22.9万日元。1976年JVC推出VHS格式，单带录制时间更长，一场长达十年的录像机格式战争就此打响。",
+    "impact": "家用录像机让看电视第一次可以错时，重塑了全球电视收视习惯，开创了家庭影音这个巨大市场，为后来的光盘、硬盘录像铺路。",
+    "aftermath": "Betamax因单带录制时间短等劣势在格式战争中败给VHS，1988年索尼也开始生产VHS机；但定时录像的用法和\"录像机\"这个品类留存至今。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Betamax", "url": "https://en.wikipedia.org/wiki/Betamax"},
+      {"title": "Sony History（索尼官方社史）", "url": "https://www.sony.net/SonyInfo/CorporateInfo/History/sonyhistory-e.html"}
+    ],
+    "tags": ["索尼", "录像机", "格式战争", "消费电子"]
+  },
+  {
+    "id": "1975-05-22-ethernet-patent-xerox",
+    "date": "1975-05-22",
+    "title": "施乐为以太网申请专利：局域网的核心机制落入纸面",
+    "summary_30s": "1975年5月22日，施乐为\"带冲突检测的多点数据通信系统\"提交专利申请，发明人署名梅特卡夫与博格斯。这就是以太网的CSMA/CD机制——多台机器共享一根电缆，撞了就退避重发。",
+    "detail": "1973年梅特卡夫在施乐PARC写下以太网备忘录，把ALOHA无线网改造成带冲突检测的有线方案，同年11月Alto电脑之间的以太网跑通。两年后的这份专利申请把CSMA/CD机制正式固定下来，1977年12月获批（US 4063220）。PARC的内部网络证明：办公室里几十台电脑可以共用一条同轴电缆联网打印、传文件。",
+    "impact": "以太网成为此后几十年局域网的事实标准：PC联网、办公室组网直到今天的千兆有线网，走的都是这条路。",
+    "aftermath": "1979年梅特卡夫促成DEC、英特尔与施乐联合发布DIX以太网规范，1983年成为IEEE 802.3标准；相关专利以象征性低费率对外授权，廉价的以太网卡由此铺满全球。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Google Patents: US4063220A", "url": "https://patents.google.com/patent/US4063220A/en"},
+      {"title": "Wikipedia: Ethernet", "url": "https://en.wikipedia.org/wiki/Ethernet"}
+    ],
+    "tags": ["以太网", "施乐PARC", "局域网", "专利"]
+  },
+  {
+    "id": "1975-06-20-jaws-release",
+    "date": "1975-06-20",
+    "title": "《大白鲨》北美上映：第一部暑期票房大片",
+    "summary_30s": "1975年6月20日，斯皮尔伯格的《大白鲨》在北美大规模上映。一条机械鲨鱼把观众吓进影院又吓出泳池，影片以约900万美元成本收获4.7亿美元全球票房，\"暑期档大片\"这种上映模式由它发明。",
+    "detail": "环球影业打破以往先在几个城市点映、再慢慢铺开的发行惯例，让《大白鲨》在数百家影院同步开画，并投入前所未有的电视广告轰炸。片中的机械鲨\"布鲁斯\"频繁故障，迫使斯皮尔伯格大量采用不见鲨鱼的暗示手法，恐惧感反而更强。影片上映后连续数周霸榜，成为当时影史票房冠军。",
+    "impact": "好莱坞从此把夏天当作超级大片的固定档期，同步开画加密集宣传的发行范式沿用至今；斯皮尔伯格一举跻身顶级导演。",
+    "aftermath": "影片获三项奥斯卡奖，约翰·威廉姆斯的主题旋律成为恐惧的声音符号；1978年起拍出多部续集，海滩游客对深水的戒备成了持续半个世纪的文化记忆。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Jaws (film)", "url": "https://en.wikipedia.org/wiki/Jaws_(film)"},
+      {"title": "Britannica: Jaws", "url": "https://www.britannica.com/topic/Jaws-film-by-Spielberg"}
+    ],
+    "tags": ["电影", "暑期档", "斯皮尔伯格", "好莱坞"]
+  },
+  {
+    "id": "1975-10-11-snl-premiere",
+    "date": "1975-10-11",
+    "title": "《周六夜现场》首播：深夜直播喜剧的常青招牌",
+    "summary_30s": "1975年10月11日，NBC的《周六夜现场》播出第一期。洛恩·迈克尔斯打造的这档直播小品节目用讽刺和荒诞接住了半夜不睡的美国观众，一播就是半个世纪，成为美国电视喜剧的固定坐标。",
+    "detail": "首播请来单口喜剧名家乔治·卡林任主持，原始班底被称为\"无缘黄金档的演员们\"，切维·蔡斯、约翰·贝鲁什、吉尔达·拉德纳等人在此后几年成为美国家喻户晓的名字。节目以直播为卖点，口误与即兴原样播出，每周六深夜从纽约30号摄影棚发出，总统、明星轮番被开涮。",
+    "impact": "SNL定义了美国电视喜剧讽刺的语感，大选季的名人模仿秀成为政治文化的固定环节，也是无数喜剧演员、编剧进入行业的入口。",
+    "aftermath": "节目历经五十余季仍在更新，多季小品片段在社交媒体上的观看量远超当年电视收视；其周六深夜直播喜剧的模式被多国效仿。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Saturday Night Live", "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"},
+      {"title": "NBC: Saturday Night Live 官方站", "url": "https://www.nbc.com/saturday-night-live"}
+    ],
+    "tags": ["电视", "喜剧", "NBC", "美国流行文化"]
+  },
+  {
+    "id": "1975-10-31-bohemian-rhapsody-single",
+    "date": "1975-10-31",
+    "title": "Queen发行《Bohemian Rhapsody》：六分钟歌剧摇滚登顶英国榜",
+    "summary_30s": "1975年10月31日，Queen发行单曲《Bohemian Rhapsody》。这首近六分钟、没有副歌、混着歌剧段落的歌曲起初被认为太怪，最终连续九周占据英国单曲榜首位，成为摇滚史上最著名的怪歌。",
+    "detail": "弗雷迪·默丘里创作的这首歌近六分钟，清唱前奏、歌剧和声中段加硬摇滚结尾，几乎没有副歌。乐队在多家录音棚花数周叠出约180轨人声，被业内视为当时最昂贵的单曲之一。唱片公司原本想剪短推广被乐队拒绝，电台DJ肯尼·埃弗雷特提前反复播放带动点播；歌曲自1975年11月起连续九周占据英国单曲榜首位。",
+    "impact": "它证明流行歌曲可以突破三分钟与固定格式的工业惯例，为艺术摇滚和MV时代开了路，其配套宣传影片被视为MV的先驱之一。",
+    "aftermath": "1991年默丘里去世后歌曲再度登顶英国榜；1992年电影《反斗智多星》让它在北美翻红，2018年同名传记片全球票房约9亿美元。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Bohemian Rhapsody", "url": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody"},
+      {"title": "Queen Online（乐队官方）", "url": "https://www.queenonline.com"}
+    ],
+    "tags": ["摇滚", "Queen", "单曲", "英国榜"]
+  },
+  {
+    "id": "1975-12-01-sears-home-pong-christmas",
+    "date": "1975-12-01",
+    "title": "西尔斯开卖家用版Pong：电子游戏第一次打进家庭客厅",
+    "summary_30s": "1975年圣诞季，Atari的家用版Pong以Tele-Games品牌通过西尔斯百货上架，单价约99美元。这台只能打乒乓球的机器卖出约15万台，家庭电视第一次变成游戏机屏幕，家用游戏机被证明是一门真实的大生意。",
+    "detail": "街机Pong爆红后，Atari创始人布什纳尔想做家用版，但公司缺乏渠道与资金，便找上全美最大零售商西尔斯，以Tele-Games贴牌独家销售。1975年圣诞季机器供不应求，最终卖出约15万台，对当时规模尚小的Atari是一笔巨款，也让零售商第一次见识到电子游戏的家庭购买力。",
+    "impact": "家用游戏机被证明是真实的市场，Atari凭此拿到扩张资本，为次年华纳收购与1977年VCS主机的诞生铺路；接上电视打游戏自此成为客厅娱乐的固定项目。",
+    "aftermath": "1976年起各厂商跟进推出单功能家用乒乓机，市场迅速同质化；Atari在1977年推出可换卡带的VCS，把单一游戏机变成了平台。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Pong", "url": "https://en.wikipedia.org/wiki/Pong"},
+      {"title": "Pong-Story: Atari Home PONG Systems", "url": "https://www.pong-story.com/atpong2.htm"}
+    ],
+    "tags": ["Atari", "游戏机", "西尔斯", "客厅娱乐"]
+  },
+  {
+    "id": "1976-01-21-concorde-regular-service",
+    "date": "1976-01-21",
+    "title": "协和客机投入定期航班：超音速民航唯一一次开张",
+    "summary_30s": "1976年1月21日，英国航空与法国航空的协和客机同日开航，分别执飞伦敦—巴林与巴黎—里约航线。两倍音速的民航客机全球只此一款，直到2003年退役，超音速定期客运再无来者。",
+    "detail": "英法两国1962年签约联合研制，协和号以2.04马赫巡航，可载约百名乘客。首航日，英航航班从伦敦希思罗飞往巴林，法航航班从巴黎经达喀尔飞往里约热内卢。纽约港务局一度以噪音为由禁止协和起降，直到1977年11月法院裁定后才放行，跨大西洋黄金航线随后开航，伦敦到纽约只需三个半小时。",
+    "impact": "跨大西洋飞行时间被砍掉一半，超音速客舱成为速度与财富的象征；但油耗、噪音与票价注定它只能是少数人的飞机。",
+    "aftermath": "协和共造出20架，英法各运营7架；2000年巴黎郊外坠机事故后元气大伤，2003年全部退役，此后再无新超音速客机投入定期航线。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Concorde", "url": "https://en.wikipedia.org/wiki/Concorde"},
+      {"title": "Britannica: Concorde", "url": "https://www.britannica.com/technology/Concorde"}
+    ],
+    "tags": ["民航", "超音速", "英法合制", "航空史"]
+  },
+  {
+    "id": "1976-03-01-cray-1-los-alamos",
+    "date": "1976-03-01",
+    "title": "首台Cray-1运抵洛斯阿拉莫斯：超级计算机有了标志外形",
+    "summary_30s": "1976年3月，克雷研究的首台Cray-1（001号机）运抵洛斯阿拉莫斯国家实验室试运行。这台单价数百万美元的向量超级计算机速度过亿，马蹄形机身成为超级计算机的永恒形象。",
+    "detail": "西摩·克雷离开CDC创立克雷研究，用向量寄存器与液冷系统做出主频80兆赫、峰值约1.6亿浮点运算的Cray-1。001号机1976年3月以六个月免费试用的方式进驻洛斯阿拉莫斯，环形底座里走满高速电路。试运行成功后，美国国家大气研究中心签下首笔正式订单，单机价格约800万美元。",
+    "impact": "Cray-1定义了此后十年超级计算机的形态与标准，气象预报、核模拟、油气勘探都靠它提速；\"克雷\"一词一度成为超算的代名词。",
+    "aftermath": "Cray-1累计售出80余台，克雷公司连推Cray-2、Cray-3延续神话；公司后来几经并购，2019年并入慧与（HPE）旗下，Cray品牌仍用于高性能计算产品线。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Cray-1", "url": "https://en.wikipedia.org/wiki/Cray-1"},
+      {"title": "The Centre for Computing History: Cray-1交付", "url": "https://www.computinghistory.org.uk/det/8605/Cray-Research-delivers-the-first-Cray-1A/"}
+    ],
+    "tags": ["超级计算机", "克雷", "向量计算", "洛斯阿拉莫斯"]
+  },
+  {
+    "id": "1976-04-01-apple-computer-founded",
+    "date": "1976-04-01",
+    "title": "苹果公司成立：车库里的Apple I开卖个人电脑生意",
+    "summary_30s": "1976年4月1日，乔布斯、沃兹尼亚克与罗·韦恩签署协议成立苹果电脑公司。沃兹设计的Apple I是一块裸机电路板，定价666.66美元，个人电脑第一次以成熟商品的面目向发烧友销售。",
+    "detail": "沃兹尼亚克为家酿计算机俱乐部设计了自带键盘接口与视频输出的Apple I，乔布斯坚持把它当商品卖掉而非免费散布。1976年4月1日公司在乔布斯家车库注册，第三位创始人韦恩十二天后以800美元出让股份退出。苹果随后接到Byte Shop电脑店的50台整机订单，7月正式开售，主板加电源的木箱套装定价666.66美元，累计卖出约200台。",
+    "impact": "Apple I证明完整的个人电脑可以按商品逻辑批量生产，苹果公司自此起步，个人电脑从玩家自装走向消费产品。",
+    "aftermath": "1977年Apple II上市引爆市场，苹果迅速跻身硅谷新贵；Apple I如今存世仅数十台，拍卖价高达数十万美元。",
+    "category": "company",
+    "milestone": true,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Apple I", "url": "https://en.wikipedia.org/wiki/Apple_I"},
+      {"title": "Wikipedia: History of Apple Inc.", "url": "https://en.wikipedia.org/wiki/History_of_Apple_Inc."}
+    ],
+    "tags": ["苹果", "Apple I", "乔布斯", "车库创业"]
+  },
+  {
+    "id": "1976-04-01-canon-ae-1-launch",
+    "date": "1976-04-01",
+    "title": "佳能AE-1上市：第一台装进微处理器的相机",
+    "summary_30s": "1976年4月，佳能推出35毫米单反AE-1，第一次把数字集成电路装进相机，实现快门优先自动曝光。电子化加大规模量产让它两年半就卖出百万台，改写了单反相机的价格与玩法。",
+    "detail": "佳能用一片数字集成电路完成测光计算与快门时序控制，电子元件数量比传统机型减少一半，再配合高度自动化的生产线把售价压到此前难以企及的水平，并以电视广告向普通消费者推销。用户设定快门速度后按下快门即可获得准确曝光，单反相机从专业器材走向大众消费品。",
+    "impact": "AE-1确立了电子化、自动化的相机演进方向，日本厂商借机彻底主导全球相机市场，胶片单反的黄金时代由此开启。",
+    "aftermath": "AE-1两年半内销量破百万，最终累计达数百万台，佳能随后推出A系列多款畅销机型；1987年佳能转向EOS自动对焦系统，电子化路线一路走到数码时代。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Canon Camera Museum: AE-1", "url": "https://global.canon/en/c-museum/product/film93.html"},
+      {"title": "Wikipedia: Canon AE-1", "url": "https://en.wikipedia.org/wiki/Canon_AE-1"}
+    ],
+    "tags": ["相机", "佳能", "单反", "消费电子"]
+  },
+  {
+    "id": "1976-06-01-wang-1200-word-processor",
+    "date": "1976-06-01",
+    "title": "王安电脑推出1200文字处理机：办公桌上的专用电脑",
+    "summary_30s": "1976年6月，王安实验室在纽约Syntopican展会上发布1200文字处理机，用CRT屏幕加专用机替秘书起草改稿。它一炮而红，让王安从计算器厂商变成八十年代美国办公自动化巨头。",
+    "detail": "王安实验室把小型机、CRT显示器与专用编辑软件组合成完整工作台，操作员在屏幕上起草、修改、存盘再打印，彻底告别在纸上反复重打的信件生产方式。1200系列上市即热销，1977年又推出整合打印机与多工作站的OIS办公信息系统，王安一度占据美国文字处理市场的主要份额。",
+    "impact": "文字处理从此成为办公设备的固定品类，为后来的桌面电脑办公铺路；王安公司收入数年间翻了数倍，跻身美国最成功的高科技企业之列。",
+    "aftermath": "王安坚持专用机路线，拒绝向IBM PC兼容机生态开放，通用微机普及后市场迅速萎缩，公司1992年申请破产保护。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Wang Laboratories", "url": "https://en.wikipedia.org/wiki/Wang_Laboratories"},
+      {"title": "Wikipedia: Word processor", "url": "https://en.wikipedia.org/wiki/Word_processor"}
+    ],
+    "tags": ["王安电脑", "文字处理", "办公自动化", "华裔企业家"]
+  },
+  {
+    "id": "1976-07-20-viking-1-mars-landing",
+    "date": "1976-07-20",
+    "title": "海盗1号着陆火星：人类第一次就地考察火星地表",
+    "summary_30s": "1976年7月20日，美国海盗1号探测器降落在火星克律塞平原，传回第一批火星地表照片，并就地开展气象与生物化学实验。人类对火星的认识从飞掠拍照进入驻留考察。",
+    "detail": "海盗1号1975年8月发射，经近一年飞行进入火星轨道，科学家为安全着陆反复挑选地点，最终选定克律塞平原。着陆器当天传回首张火星地表照片，其上的气象站、土壤分析与生物实验装置持续工作数年；轨道器同步绘制大范围火星地图。两台海盗号着陆器合计发回数万张照片和大量土壤数据。",
+    "impact": "火星探测从路过升级为驻守，此后NASA的火星车计划直接继承其路径；生物实验结果虽无定论，但开启了延续至今的火星生命之问。",
+    "aftermath": "海盗1号着陆器工作超过六年，1982年11月失联，长期保持火星地表运行纪录；1997年探路者号再度登陆，火星车时代开幕。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Viking 1", "url": "https://en.wikipedia.org/wiki/Viking_1"},
+      {"title": "NASA NSSDC: Viking 1 Lander", "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075A"}
+    ],
+    "tags": ["深空探测", "火星", "NASA", "海盗计划"]
+  },
+  {
+    "id": "1976-10-01-warner-acquires-atari",
+    "date": "1976-10-01",
+    "title": "华纳完成对Atari的收购：2800万美元买下游戏业龙头",
+    "summary_30s": "1976年10月1日，华纳传播公司完成对Atari的收购，总价约2800万美元。创始人布什纳尔要钱开发可换卡带的主机，媒体巨头要一张进入电子娱乐的门票，家用游戏业自此进入大资本时代。",
+    "detail": "Atari此时仍是街机公司，可换卡带的VCS主机急需量产资金，布什纳尔接受华纳现金加债券的方案：约1200万美元现金加1600万美元债券，总价约2800万美元。他留任公司负责人并进入华纳董事会。有了华纳的资金与渠道，VCS在1977年圣诞前上市，日后演化为传奇主机Atari 2600。",
+    "impact": "游戏公司第一次被传统媒体巨头收购，行业估值与扩张速度随之改写；没有这笔钱，可换卡带主机的平台模式可能推迟数年。",
+    "aftermath": "布什纳尔1978年因与华纳分歧离开；Atari在1982年营收超过20亿美元，1983年北美游戏市场大崩盘重创公司，1984年华纳将Atari游戏业务出售。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "New York Times: Warner Communications Completes Atari Takeover (1976-10-05)", "url": "https://www.nytimes.com/1976/10/05/archives/warner-communications-completes-atari-takeover.html"},
+      {"title": "Wikipedia: Atari, Inc.", "url": "https://en.wikipedia.org/wiki/Atari,_Inc."}
+    ],
+    "tags": ["Atari", "华纳", "游戏产业", "并购"]
+  },
+  {
+    "id": "1976-11-21-rocky-premiere",
+    "date": "1976-11-21",
+    "title": "《洛奇》首映：小成本励志片击败大片拿下奥斯卡",
+    "summary_30s": "1976年11月21日，史泰龙自编自演的《洛奇》在纽约首映。联合艺术家用约100万美元拍成的这部电影全球票房超过2亿美元，次年获奥斯卡最佳影片，小人物迎来一次机会成为流行文化母题。",
+    "detail": "史泰龙写出剧本后拒绝高价出售，条件是自己主演，片方最终同意并把预算压到约100万美元。影片讲述费城无名拳手洛奇·巴尔博亚被命运抽中，与世界冠军打满十二回合的故事，全片28天拍完、几乎没有明星。首映后口碑持续发酵，北美票房过亿，成为当年现象级作品。",
+    "impact": "《洛奇》确立了小人物励志片的范式，史泰龙从无名演员跃升顶级影星；主题曲Gonna Fly Now与费城美术馆台阶训练成为全球文化符号。",
+    "aftermath": "影片摘得最佳影片、最佳导演、最佳剪辑三项奥斯卡；正传续至2006年，2015年起衍生系列《奎迪》继续延续IP，费城美术馆前的洛奇雕像是游客必到之处。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Rocky", "url": "https://en.wikipedia.org/wiki/Rocky"},
+      {"title": "Academy Awards: 第49届奥斯卡（1977）", "url": "https://www.oscars.org/oscars/ceremonies/1977"}
+    ],
+    "tags": ["电影", "励志片", "史泰龙", "奥斯卡"]
+  }
+]

@@ -1,0 +1,192 @@
+{
+ "batch": "n5",
+ "targets": [
+  {
+   "name": "姚军红",
+   "field": "internet_cn"
+  },
+  {
+   "name": "昌敬",
+   "field": "internet_cn"
+  },
+  {
+   "name": "王宁（Keep）",
+   "field": "internet_cn"
+  },
+  {
+   "name": "Jack Dorsey",
+   "field": "internet_world"
+  },
+  {
+   "name": "Evan Spiegel",
+   "field": "internet_world"
+  },
+  {
+   "name": "Brian Chesky",
+   "field": "internet_world"
+  },
+  {
+   "name": "Travis Kalanick",
+   "field": "internet_world"
+  },
+  {
+   "name": "Daniel Ek",
+   "field": "internet_world"
+  },
+  {
+   "name": "Pavel Durov",
+   "field": "internet_world"
+  },
+  {
+   "name": "Jan Koum",
+   "field": "internet_world"
+  },
+  {
+   "name": "Reed Hastings",
+   "field": "internet_world"
+  },
+  {
+   "name": "Susan Wojcicki",
+   "field": "internet_world"
+  },
+  {
+   "name": "Marissa Mayer",
+   "field": "internet_world"
+  },
+  {
+   "name": "Lisa Su（苏姿丰）",
+   "field": "internet_world"
+  },
+  {
+   "name": "何庭波",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "徐直军",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "尹志尧",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "张汝京",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "胡正明",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "李书福",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "魏建军",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "尹同跃",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "郭台铭",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "卢伟冰",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "刘作虎",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "王翔",
+   "field": "hardware_cn"
+  },
+  {
+   "name": "Satya Nadella",
+   "field": "company"
+  },
+  {
+   "name": "Sundar Pichai",
+   "field": "company"
+  },
+  {
+   "name": "张勇（逍遥子）",
+   "field": "company"
+  },
+  {
+   "name": "井贤栋",
+   "field": "company"
+  },
+  {
+   "name": "蒋凡",
+   "field": "company"
+  },
+  {
+   "name": "徐雷",
+   "field": "company"
+  },
+  {
+   "name": "蔡崇信",
+   "field": "company"
+  },
+  {
+   "name": "刘炽平",
+   "field": "company"
+  }
+ ],
+ "existing_names": [
+  "伊利亚·苏茨克维",
+  "余承东",
+  "全红婵",
+  "冯小刚",
+  "刘慈欣",
+  "南仁东",
+  "古永锵",
+  "周受资",
+  "周源",
+  "唐岩",
+  "姚劲波",
+  "孙正义",
+  "宿华",
+  "张大奕",
+  "张旭豪",
+  "徐新",
+  "戴威",
+  "易中天",
+  "李国庆",
+  "李开复",
+  "李晓峰",
+  "杨元庆",
+  "杨立昆",
+  "杰弗里·辛顿",
+  "柴静",
+  "梁孟松",
+  "樊振东",
+  "汪滔",
+  "熊晓鸽",
+  "王小川",
+  "王小波",
+  "王思聪",
+  "王楚钦",
+  "琼瑶",
+  "简自豪",
+  "罗翔",
+  "薇娅",
+  "郑钦文",
+  "郭德纲",
+  "金庸",
+  "陈士骏",
+  "陈天桥",
+  "陈欧",
+  "陈睿",
+  "韦东奕",
+  "饺子",
+  "高晓松",
+  "高锟",
+  "黄旭华"
+ ]
+}

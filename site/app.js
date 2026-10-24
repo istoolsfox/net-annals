@@ -542,11 +542,14 @@ const Toolbar = {
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
       // 注意：本回调注册于 Toolbar.init，箭头函数 this 是 Toolbar——
       // Timeline 的方法必须显式引用（历史上 this.markCurrentEra 在此静默报错多年）
-      Timeline.markCurrentEra();
+      if (now - (Toolbar._eraLast || 0) > 200) {           // 时代高亮 200ms 足够（省去每 tick 的强制回流）
+        Toolbar._eraLast = now;
+        Timeline.markCurrentEra();
+      }
       Timeline.checkViewport();                              // 几何兜底：IO 不可用的环境靠滚动驱动渲染
-      if (now - revealLast > 150) {                        // reveal 兜底：IO 不可用时滚动也能点亮卡片
+      if (now - revealLast > 150) {                        // reveal 兜底：仅 IO 缺失环境启用（全量卡片扫描开销大）
         revealLast = now;
-        Timeline.revealSweep();
+        if (!('IntersectionObserver' in window)) Timeline.revealSweep();
       }
       if (now - lastSave > 2000 && Store.ready) {          // 节流记录阅读位置
         lastSave = now;

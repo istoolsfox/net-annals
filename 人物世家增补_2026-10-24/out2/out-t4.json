@@ -1,0 +1,491 @@
+[
+  {
+    "id": "2026-01-09-minimax-hk-ipo",
+    "date": "2026-01-09",
+    "title": "MiniMax登陆港交所：成立四年首日翻倍的大模型IPO",
+    "summary_30s": "2026年1月9日，大模型公司MiniMax（上海稀宇科技）在港交所主板挂牌，成为继智谱之后年内第二家上市的国产大模型公司。开盘较招股价高出42.7%，收盘上涨约109%，成立不足四年即完成上市。",
+    "detail": "MiniMax由闫俊杰于2021年底创办，主打多模态大模型与C端产品（海螺AI、Talkie等）。2025年12月通过港交所聆讯，2026年1月9日挂牌，首日高开42.7%、收盘涨约109%，上市后手握约11亿美元现金，成为2026年最瞩目的AI大模型IPO之一。",
+    "impact": "继智谱「大模型第一股」之后，MiniMax以最快速度把「AI六小龙」推向资本市场，验证了一级市场对大模型商业化的定价逻辑与退出通道。",
+    "aftermath": "智谱、MiniMax一度成为2026年前两月港股新上市公司涨幅前二；MiniMax随后于5月启动A股科创板上市辅导，筹划「A+H」双重上市。",
+    "category": "company",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "HK01：AI六小虎MiniMax首日挂牌高收逾倍", "url": "https://www.hk01.com/財經快訊/60311076/"},
+      {"title": "新浪财经：2026年香港IPO市场回顾", "url": "https://finance.sina.com.cn/wm/2026-03-02/doc-inhpqquq8228372.shtml"}
+    ],
+    "tags": ["MiniMax", "大模型", "港股IPO", "AI六小龙"]
+  },
+  {
+    "id": "2026-02-08-super-bowl-lx-bad-bunny",
+    "date": "2026-02-08",
+    "title": "超级碗LX：Bad Bunny的雷鬼动中场秀",
+    "summary_30s": "第60届超级碗2月8日在加州李维斯体育场举行，波多黎各歌手Bad Bunny担纲中场秀，以雷鬼动风格把西语流行文化带上美国收视率最高的舞台，Lady Gaga与Ricky Martin登台助阵，Apple Music称之为「具历史意义」的演出。",
+    "detail": "中场秀由Apple Music与Roc Nation联合呈现。就在一周前，Bad Bunny刚凭西语专辑拿下格莱美年度专辑，此次全场以Reggaeton为主线，被乐评称作写给波多黎各的「情书」，表演中还嵌入一场真实婚礼仪式；Billboard称之为「凯旋式」演出。",
+    "impact": "这是首次由纯西语歌手领衔的超级碗中场秀，标志拉美流行音乐进入英语主流市场的中心，并与格莱美年度专辑形成西语音乐的双里程碑。",
+    "aftermath": "演出后Bad Bunny流媒体播放量大幅攀升，Apple Music发布官方曲目合集；其世界巡演与影视项目持续升温，西语内容在英语市场的排播权重进一步提高。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Apple Newsroom：Bad Bunny的Apple Music超级碗LX中场秀", "url": "https://www.apple.com/hk/newsroom/2026/02/the-biggest-hits-of-bad-bunnys-apple-music-super-bowl-lx-halftime-show"},
+      {"title": "Billboard：Bad Bunny超级碗中场秀乐评", "url": "https://www.billboard.com/music/latin/bad-bunny-super-bowl-halftime-show-review-critic-take-1236176013"}
+    ],
+    "tags": ["超级碗", "Bad Bunny", "中场秀", "流行文化"]
+  },
+  {
+    "id": "2026-03-01-color-walk-trend",
+    "date": "2026-03-01",
+    "title": "Color walk走红：年轻人给自己的城市寻色",
+    "summary_30s": "2026年春，「Color walk」在社交平台爆火：出门前随机抽一种颜色，沿街寻找并拍摄同色事物，拼成九宫格「颜色日记」。它接棒City walk成为低成本的「情绪回血」玩法，携程相关搜索覆盖十余个省份。",
+    "detail": "玩法极简——选定颜色、街头寻色、成组打卡，把城市当「巨型盲盒」。3月起深圳、杭州、沈阳等地媒体与文旅账号跟进报道，人民日报旗下刊文讨论年轻人为何「为体验买单」；5月新浪观察指出，它击中了年轻人对抗焦虑、重拾生活感知的情绪需求，从打卡观光转向精神体验。",
+    "impact": "Color walk成为2026年上半年最具代表性的青年生活方式现象，显示「情绪文旅」与低成本悦己消费正在成为内需的新支点。",
+    "aftermath": "多地推出颜色主题路线与漫游产品，「给自己丰容」成为流行语；相关玩法从社交平台溢出到文旅营销，与骑行、桨板冥想等共同构成「情绪文旅」套餐。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "人民日报·中国经济周刊：我们为「体验」买单", "url": "http://paper.people.com.cn/zgjjzk/pc/content/202603/30/content_30153998.html"},
+      {"title": "新浪新闻：Color Walk引爆年轻群体", "url": "https://news.sina.cn/bignews/insight/2026-05-01/detail-inhwiwvr0830398.d.html"}
+    ],
+    "tags": ["Color walk", "青年文化", "情绪消费", "生活方式"]
+  },
+  {
+    "id": "2026-03-14-spring-festival-travel-2026",
+    "date": "2026-03-14",
+    "title": "2026春运收官：94.1亿人次再创新纪录",
+    "summary_30s": "2026年春运40天结束，全社会跨区域人员流动量达94.1亿人次，创历史新高，其中自驾出行占八成左右。作为除夕纳入法定假日后的第一个春运，铁路、民航客运规模与单日峰值均超往年。",
+    "detail": "国家发改委1月曾预判春运流动量约95亿人次，实际收官为94.1亿人次。春节9天假期跨区域流动28.08亿人次、同比增长8.2%，正月初二至初七连续6天单日超3亿人次；「北上看雪、南下避寒」成为热门线路，铁路与民航单日客流峰值双双刷新纪录。",
+    "impact": "假期结构调整后的首个春运以数据纪录收场，印证法定假日编排对全民出行节奏的重塑；自驾占八成的出行结构也持续考验公路服务与充电保障。",
+    "aftermath": "交通运输部门随后发布春运总结，铁路候补购票与高速充电排队等话题引发复盘，为五一、国庆的客流管理提供参照。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "中新网：2026年春运40天收官，全社会跨区域人员流动量94.1亿人次", "url": "https://www.chinanews.com/sh/2026/03-14/10586749.shtml"},
+      {"title": "交通运输部：春运全社会跨区域人员流动量预计达95亿人次", "url": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202601/t20260130_4199392.html"}
+    ],
+    "tags": ["春运", "人口流动", "春节", "交通"]
+  },
+  {
+    "id": "2026-03-18-turing-award-2025-quantum",
+    "date": "2026-03-18",
+    "title": "2025图灵奖公布：量子信息两位奠基人获奖",
+    "summary_30s": "美国计算机协会3月18日宣布，2025年图灵奖授予IBM研究员查尔斯·贝内特与蒙特利尔大学教授吉尔斯·布拉萨德，表彰其为量子信息科学奠基。两人1984年提出的BB84协议是量子密钥分发的开山之作。",
+    "detail": "贝内特与布拉萨德自1970年代起合作构建量子信息理论框架，BB84协议证明了量子力学可用于无条件安全通信，成为量子密码学与量子通信产业的理论起点。在量子计算走出实验室、各国竞逐「量子优势」的背景下，这一荣誉被视为对整个领域的加冕。",
+    "impact": "图灵奖明确授予量子信息方向，标志该领域从物理学分支正式进入计算机科学最高殿堂，也为全球量子产业竞赛写下历史注脚。",
+    "aftermath": "学界与产业界致贺，量子计算产业化讨论随之升温；BB84协议与量子密钥分发被更多计算机安全课程与教材纳入必修内容。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "科技日报：2025图灵奖揭晓，量子信息科学两位奠基人获奖", "url": "https://www.stdaily.com/web/gdxw/2026-03/18/content_487711.html"},
+      {"title": "ACM图灵奖官方页面", "url": "https://awards.acm.org/turing"}
+    ],
+    "tags": ["图灵奖", "量子信息", "BB84", "ACM"]
+  },
+  {
+    "id": "2026-04-01-super-mario-galaxy-movie",
+    "date": "2026-04-01",
+    "title": "《超级马力欧银河大电影》上映：任天堂IP宇宙扩张",
+    "summary_30s": "任天堂与照明娱乐续作4月1日起在北美上映、4月3日登陆中国内地、4月24日登陆日本。马力欧银河冒险原班配音回归，影评褒贬不一但票房延续前作强势，成为年度最受关注的动画电影之一。",
+    "detail": "续作由亚伦·霍瓦特与迈克尔·杰勒尼克继续执导，克里斯·帕拉特、安雅·泰勒-乔伊、杰克·布莱克回归配音，布丽·拉尔森加盟；片长1小时38分，改编自《超级马力欧银河》系列游戏。前作2023年曾创下游戏改编电影票房纪录，续作被视为任天堂影视化战略的第二次大考。",
+    "impact": "游戏改编电影连续多年成为全球票房主力，任天堂进一步验证「IP电影+主机+主题公园」的闭环，为游戏IP影视化再添标杆样本。",
+    "aftermath": "影片全球票房表现延续前作强势，与Switch 2热销同频共振；任天堂影视部门的后续片单继续扩充。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：超级马力欧银河大电影", "url": "https://zh.wikipedia.org/zh-hans/%E8%B6%85%E7%BA%A7%E7%91%AA%E5%88%A9%E6%AD%90%E9%8A%80%E6%B2%B3%E9%9B%BB%E5%BD%B1%E7%89%88"}
+    ],
+    "tags": ["马力欧", "任天堂", "动画电影", "游戏改编"]
+  },
+  {
+    "id": "2026-04-11-suchao-2026-kickoff",
+    "date": "2026-04-11",
+    "title": "苏超2026赛季揭幕：从地方赛事到全民狂欢第二季",
+    "summary_30s": "4月11日，2026江苏省城市足球联赛（苏超）在常州奥体中心揭幕，常州队主场对阵南通队。新赛季赛期延长一个月、常规赛扩至78场，延续首届「一城一主场、10元票价」的全民模式。",
+    "detail": "首届苏超2025年从地方业余赛事蹿升为现象级文化事件，入围江苏省十大新闻。2026赛季4月9日在南京召开发布会后揭幕，突出年轻化与赛制升级；常规赛18轮于8月下旬收官，淘汰赛10月进行，总决赛定于南京奥体中心，1/4决赛场均观众已超3.1万人。",
+    "impact": "苏超把地方认同、文旅消费与业余体育绑成一个可复制样本，「比赛第一、友谊第十四」式造梗能力成为城市传播学的经典案例。",
+    "aftermath": "赣超、湘超等地方联赛跟进办赛；10月4日1/4决赛盐城站现场观众34966人刷新该赛季纪录，「苏超经济」继续为江苏城市文旅引流。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "南京市政府：2026年「苏超」明日开幕", "url": "https://www.nanjing.gov.cn/zt/hlnjlxty/zxkk/202604/t20260410_5821038.html"},
+      {"title": "光明网：2026「苏超」开幕战即将打响", "url": "https://news.gmw.cn/2026-04/10/content_38698852.htm"}
+    ],
+    "tags": ["苏超", "全民体育", "城市文化", "文旅"]
+  },
+  {
+    "id": "2026-05-22-starship-v3-first-flight",
+    "date": "2026-05-22",
+    "title": "星舰V3首飞入轨：史上最强火箭完成轨道首秀",
+    "summary_30s": "5月22日，SpaceX第三代星舰在得州星舰基地完成第12次试飞（IFT-12），首次成功进入地球轨道并部署约20颗星链V3模拟卫星；助推器回收失败、飞船溅落早于计划，但最关键的入轨目标达成。",
+    "detail": "V3构型超重型助推器高72.3米、起飞推力约8240吨，推进剂装载3650吨，是为火星任务与星链V3组网设计的新一代火箭。此飞历经2025年底助推器静态点火爆炸与多次推迟，最终从新建2号发射台升空；飞船在轨约3小时后提前于太平洋溅落，FAA事后认定此次飞行「发生事故」并审查回收环节。",
+    "impact": "星舰首次入轨补上任务链条的关键一环，超重运载能力进入实用阶段，全球重型火箭的商业与深空竞赛同步提速。",
+    "aftermath": "SpaceX着手整改助推器回收与发动机问题，星链V3组网按计划提速；V3的复用与发射频率成为后续试飞的观察焦点。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：SpaceX第十二次星舰轨道试飞任务", "url": "https://zh.wikipedia.org/zh-hans/SpaceX%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%98%9F%E8%89%A6%E8%BB%8C%E9%81%93%E8%A9%A6%E9%A3%9B%E4%BB%BB%E5%8B%99"},
+      {"title": "MIT科技评论中文版：星舰V3首飞任务分析", "url": "https://www.mittrchina.com/news/detail/16412"}
+    ],
+    "tags": ["SpaceX", "星舰", "商业航天", "星链"]
+  },
+  {
+    "id": "2026-06-09-claude-fable-5",
+    "date": "2026-06-09",
+    "title": "Anthropic发布Claude Fable 5：「神话级」档位登场",
+    "summary_30s": "Anthropic于6月9日发布Claude 5系列首个模型Fable 5，在Opus之上新设「神话级（Mythos）」档位：性能大幅提升、价格翻倍，可在数百万token的长任务中保持焦点，成为业界新旗舰基准。",
+    "detail": "Fable 5定位超长程智能体任务，主打百万级上下文「不失焦」与更省token的推理策略，经由Project Glasswing发布，是此前Claude Mythos Preview的转正版本。此后不到两个月内，Anthropic密集放出Opus 5等多个Claude 5系列模型，Axios称其为「不到两月内的第四次发布」，迭代速度成为行业注脚。",
+    "impact": "「性能上不封顶、价格也上不封顶」成为2026年模型竞争的主线之一，头部客户为长程智能体能力付费的定价模式被进一步确立。",
+    "aftermath": "7月24日Opus 5上线，10月Anthropic又在IPO前夕推出Claude 5.5系列三连发；各家竞品纷纷以长任务评测对标「Fable档」。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新浪财经：Claude最强模型Fable 5发布", "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4604154.shtml"},
+      {"title": "Axios：Anthropic releases new model, Opus 5", "url": "https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5"}
+    ],
+    "tags": ["Anthropic", "Claude", "大模型", "智能体"]
+  },
+  {
+    "id": "2026-06-01-doubao-mau-368m",
+    "date": "2026-06-01",
+    "title": "豆包月活3.68亿：AI原生应用断层第一",
+    "summary_30s": "2026年6月，字节跳动豆包月活跃用户达3.68亿、同比增长182%，远超第二名千问（约1.62亿）与DeepSeek（约1.27亿），在AI原生应用中断层领先，巩固「Chatbot入口之争」的胜势。",
+    "detail": "豆包2025年12月DAU破亿、成为字节史上推广费用最低的破亿产品，2026年继续放量：一季度月活3.45亿居AI原生应用榜首，6月冲至3.68亿，上半年跻身全网App前16名；9月QuestMobile榜单显示其月活已达4.19亿，在AI原生App中断层领先。",
+    "impact": "国产AI应用从「百模大战」收敛为「入口之争」，豆包以抖音生态与低价推理成本构筑用户壁垒，宣告C端AI应用进入字节主导的规模化阶段。",
+    "aftermath": "千问、DeepSeek转向Agent与付费订阅的差异化竞争；行业观察开始关注单一App在AI内容分发中的权重与生态锁定问题。",
+    "category": "internet",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "钛媒体：豆包2026年6月月活3.68亿", "url": "https://www.tmtpost.com/8030988.html"},
+      {"title": "中华网：2026上半年豆包月活超3.82亿", "url": "https://m.tech.china.com/article/20260804/202608041932582.html"}
+    ],
+    "tags": ["豆包", "字节跳动", "AI应用", "月活"]
+  },
+  {
+    "id": "2026-07-11-kung-fu-women-football-release",
+    "date": "2026-07-11",
+    "title": "《功夫女足》上映：周星驰时隔七年再执导筒",
+    "summary_30s": "7月11日，周星驰执导的运动喜剧《功夫女足》上映，首日刷新中国影史暑期档首日票房纪录。张小斐、迪丽热巴、张艺兴领衔主演，少林功夫混搭女子足球，被视作「周氏喜剧」的一次回归检验。",
+    "detail": "影片总预算约3.8亿元、创周星驰执导生涯新高，刘嘉玲与佐藤健特别出演；上映次日票房破5亿、连破7项影史纪录，三天破6亿登顶暑期档，8月19日总票房突破23亿元并锁定暑期档冠军。周星驰随后宣布将开拍第二季。",
+    "impact": "在票房持续向头部集中的2026年，「老牌喜剧作者+国民体育话题」的组合证明周星驰IP仍是内地市场最稳定的爆款公式之一。",
+    "aftermath": "《功夫女足》第二季立项消息传出，粤产电影声量上涨；「女足+功夫」的混搭带动一波体育题材喜剧开发热。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：功夫女足", "url": "https://zh.wikipedia.org/zh-hans/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"},
+      {"title": "新华社：2026年暑期档电影票房为124.98亿元", "url": "https://www.news.cn/20260901/84444f2d13ed48a398a5c45b7bc1cccd/c.html"}
+    ],
+    "tags": ["周星驰", "功夫女足", "暑期档", "喜剧"]
+  },
+  {
+    "id": "2026-07-17-ascend-950-superpod-waic",
+    "date": "2026-07-17",
+    "title": "昇腾950超节点真机亮相WAIC：国产算力亮肌肉",
+    "summary_30s": "7月17日，华为昇腾950超节点（Atlas 950 SuperPoD）在世界人工智能大会首次真机亮相：1024卡集群、全液冷、统一内存编址，互联带宽对标英伟达NVL144，成为国产AI算力最受瞩目的实物答卷。",
+    "detail": "昇腾950系列于2025年9月发布，搭载950PR的Atlas 350加速卡已于3月商用，单卡算力据称为H20的2.87倍；此次真机展示1024卡超节点部署，基于灵衢互联协议与全光互联，满配8192卡的Atlas 950超节点计划四季度推出，FP8算力达1 EFLOPS。",
+    "impact": "在英伟达高端芯片对华受限的背景下，昇腾950把「国产算力替代」从发布会PPT推进到机房实物，为大模型厂商的国产化训练集群提供新选项。",
+    "aftermath": "多家云厂商与运营商宣布基于昇腾950的集群建设计划；国产HBM与光互联供应链随之被推上扩产快车道。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "华为：昇腾950超节点真机亮相2026世界人工智能大会", "url": "https://www.huawei.com/cn/news/2026/7/atlas-950-superpod"},
+      {"title": "IT之家：昇腾950超节点真机首次公开亮相", "url": "https://www.ithome.com/0/978/019.htm"}
+    ],
+    "tags": ["华为", "昇腾", "AI芯片", "WAIC"]
+  },
+  {
+    "id": "2026-07-23-fields-medal-2026",
+    "date": "2026-07-23",
+    "title": "中国数学家首获菲尔兹奖：邓煜、王虹在费城加冕",
+    "summary_30s": "7月23日，国际数学家大会在美国费城开幕并揭晓菲尔兹奖，邓煜因偏微分方程、王虹因调和分析与几何测度论获奖，这是中国数学家首次摘得全球数学界最高荣誉，二人同为北大校友。",
+    "detail": "本届四位得主为邓煜、王虹、美国的约翰·帕登与加拿大的雅各布·齐默尔曼。王虹生于1991年，此前与合作者证明了三维挂谷猜想，是菲尔兹奖最年轻得主之一；邓煜在流体方程等偏微分方程领域做出杰出工作。两人均为北京大学培养背景，被视作中国基础数学长期积累的兑现。",
+    "impact": "华人数学界在丘成桐、陶哲轩之后再度登顶，且首次由两位中国培养背景的数学家同届获奖，中国数学的历史性突破引发全民关注。",
+    "aftermath": "北大与国内数学界发文庆贺，挂谷猜想、流体方程等术语一夜出圈；「王虹效应」带动青少年数学教育的讨论与数学科普内容流量暴涨。",
+    "category": "world",
+    "milestone": true,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：中国数学家邓煜、王虹获得菲尔兹奖", "url": "https://app.xinhuanet.com/news/article.html?articleId=20260724150c6a810ece4c66976b6f6e7211379f"},
+      {"title": "维基百科：菲尔兹奖", "url": "https://zh.wikipedia.org/zh-hans/%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96"}
+    ],
+    "tags": ["菲尔兹奖", "数学", "王虹", "邓煜"]
+  },
+  {
+    "id": "2026-08-03-qwen3-8-max-release",
+    "date": "2026-08-03",
+    "title": "阿里发布Qwen3.8-Max：2.4万亿参数多模态旗舰",
+    "summary_30s": "8月3日，阿里在杭州正式发布新一代基座旗舰Qwen3.8-Max，总参数量达2.4万亿，支持百万级token上下文与长视频理解，主打自主编程与Agent能力，同系还有qwen3.7-plus、qwen3.8-flash等型号。",
+    "detail": "这是阿里3月将通义千问、Qwen等品牌统一为「千问」后的首个年度旗舰，上线阿里云百炼平台；9月2日又升级0902版本，围绕前端编程与专业办公强化后训练，多份评测显示其编程能力进入全球第一梯队，成为8月国产模型集中爆发中的关键一子。",
+    "impact": "Qwen3.8-Max以「开源生态+旗舰闭源」双线巩固阿里在国产大模型第一集团的身位，也为其C端入口千问App与云业务提供底层支撑。",
+    "aftermath": "0902版本更新后编程场景口碑走高；千问与豆包、DeepSeek的用户之争延伸到Agent与办公场景，开源权重模型榜单随之刷新。",
+    "category": "tech",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "阿里云：Alibaba unveils Qwen3.8-Max", "url": "https://www.alibabacloud.com/zh/press-room/alibaba-unveils-qwen3-8-max"},
+      {"title": "IT之家：Qwen3.8-Max 0902版本升级", "url": "https://www.ithome.com/0/997/270.htm"}
+    ],
+    "tags": ["阿里", "千问", "Qwen", "大模型"]
+  },
+  {
+    "id": "2026-08-10-cr450-600k-km-test",
+    "date": "2026-08-10",
+    "title": "CR450完成60万公里运用考核：400时速运营倒计时",
+    "summary_30s": "财新8月10日报道，全球最快动车组CR450已完成60万公里运用考核，转入冲击最高速度试验阶段。按计划它将于年底前后在成渝中线率先投入商业运营，运营时速400公里，成为全球最快的商业运营高铁。",
+    "detail": "CR450试验时速450公里、运营时速400公里，是国家「CR450科技创新工程」成果，样车2024年12月发布；2025年10月起开展运用考核，2026年3月起在重庆西等地测试。据东方财富报道，其预计11月中旬商业运营，2027至2028年逐步扩展至全国线路。",
+    "impact": "中国高铁将从350公里时代迈入400公里商业运营时代，京沪、成渝等干线的时空距离被再度压缩，并向海外市场输出新一代技术标准。",
+    "aftermath": "批量生产动车组陆续下线，成渝中线联调联试推进；商业运营的线路安排与票价成为公众关注的下一个话题。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "财新：全球最快动车组CR450列车完成60万公里运用考核", "url": "https://companies.caixin.com/2026-08-10/102472768.html"},
+      {"title": "中国铁路：CR450动车组样车发布", "url": "http://wap.china-railway.com.cn/xwzx/rdzt/gtdh/202507/t20250701_146500.html"}
+    ],
+    "tags": ["CR450", "高铁", "中国铁路", "装备制造"]
+  },
+  {
+    "id": "2026-08-12-phantom-blade-zero-preorder",
+    "date": "2026-08-12",
+    "title": "《影之刃零》开启预售：国产武侠动作大作定档10月29日",
+    "summary_30s": "8月12日，灵游坊虚幻5武侠动作游戏《影之刃零》开启全平台预售，发售日锁定10月29日，登陆PS5、Steam、Epic、WeGame与TapTap PC。此前6月索尼State of Play宣布其由9月9日延期。",
+    "detail": "游戏由灵游坊自主研发发行，玩家扮演心脏遭受重创的剑客，在仅余六十六天的生命里展开逃亡。它最初于2025年12月TGA上定档2026年9月9日，跳票一个多月后锁定10月29日，PS5版本含独占内容；预售开启后玩家社区热度高涨，被视作继《黑神话：悟空》之后国产单机的又一场大考。",
+    "impact": "国产3A叙事再添动作品类选手，「硬核动作+电影化武侠」的工业化水准成为检验中国游戏工业的新标尺，资本市场对国产单机品类的关注度随之升温。",
+    "aftermath": "预售开启后各平台愿望单与预约量攀升；10月29日全球发售的成绩将直接影响国产武侠动作品类的后续投资热度。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "《影之刃零》官方网站：发售日期2026/10/29", "url": "https://pbz.s-game.cn"},
+      {"title": "巴哈姆特GNN：影之刃零延期至10月29日", "url": "https://gnn.gamer.com.tw/detail.php?sn=297086"}
+    ],
+    "tags": ["影之刃零", "灵游坊", "国产游戏", "武侠"]
+  },
+  {
+    "id": "2026-08-14-anthropic-ipo-plan",
+    "date": "2026-08-14",
+    "title": "Anthropic筹划年内IPO：目标估值约2万亿美元",
+    "summary_30s": "8月中旬，《财富》等报道Anthropic计划于10月前后启动IPO，估值约2万亿美元，募资规模有望超越SpaceX、成为史上最大IPO；其年化营收已突破650亿美元，2026年被称为「创纪录IPO年」。",
+    "detail": "Anthropic在1月按投前3500亿美元完成新一轮融资，5月H轮投后估值升至9650亿美元、首次超过OpenAI；8月传出IPO计划后，9月被曝选定纳斯达克，10月中旬与投资人预沟通，路演最快11月上旬开始，争取感恩节前挂牌。",
+    "impact": "若如期上市，Anthropic将改写全球最大IPO纪录，AI基建投资的热度与泡沫争议同时达到顶点；上市进度成为全球科技股情绪的晴雨表。",
+    "aftermath": "看多与看空的估值差距悬殊——有研究机构仅给出1500亿美元估值并称其为「2026年最荒唐IPO」，AI泡沫辩论随之白热化，二级市场报价一度逼近1万亿美元。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新浪财经：Anthropic计划2026年10月IPO，估值约2万亿美元", "url": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininfrtu4289408.shtml"},
+      {"title": "钜亨网：Anthropic选定纳斯达克上市", "url": "https://news.cnyes.com/news/id/6605319"}
+    ],
+    "tags": ["Anthropic", "IPO", "AI泡沫", "资本市场"]
+  },
+  {
+    "id": "2026-08-31-summer-box-office-2026",
+    "date": "2026-08-31",
+    "title": "2026暑期档收官：124.98亿，《功夫女足》领跑",
+    "summary_30s": "国家电影局数据显示，2026年暑期档（6月1日—8月31日）总票房124.98亿元、观影人次3.4亿。周星驰《功夫女足》以约23.15亿元夺冠，《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《八仙！》等位列其后。",
+    "detail": "档期呈现国产头部与进口分账并进的格局：票房前六依次为《功夫女足》《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《八仙！》《奥德赛》《给阿嬷的情书》，其中《功夫女足》《给阿嬷的情书》均为粤产电影，双双进入年度票房前五；《八仙！》拿下观众满意度冠军。",
+    "impact": "124.98亿的暑期档稳住基本盘，市场进一步向高确定性IP与口碑片集中；粤产电影的集体爆发成为地方影视产业政策的新注脚。",
+    "aftermath": "中秋国庆档接棒，《神探之痕迹》等新片提前锁定注意力；业内关于「档期依赖症」与常态化观影的讨论再度升温。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华社：2026年暑期档电影票房为124.98亿元", "url": "https://www.news.cn/20260901/84444f2d13ed48a398a5c45b7bc1cccd/c.html"}
+    ],
+    "tags": ["暑期档", "电影票房", "功夫女足", "粤产电影"]
+  },
+  {
+    "id": "2026-09-03-zaochun-qinglang-netflix",
+    "date": "2026-09-03",
+    "title": "《早春晴朗》刷新国产剧Netflix最高排名",
+    "summary_30s": "9月3日，井柏然、孙千主演的现偶剧《早春晴朗》升至Netflix全球热门电视节目第四位，创中国电视剧在该平台全球日榜的最高排名；它也是首部进入Netflix全球非英语剧集周榜第二的国产剧。",
+    "detail": "该剧在优酷开播数日热度破万、创2026年现偶剧最快纪录，国内播放量超10.5亿；海外开播两日内进入54个国家和地区日榜TOP10，在巴西登顶剧集日榜，周榜覆盖38个国家和地区TOP10，成为「现偶出海」的标杆样本。",
+    "impact": "单剧爆火难掩长剧集整体承压，但《早春晴朗》验证了现代偶像剧在东南亚、拉美市场的穿透力，Netflix的国产剧采购与排播策略随之调整。",
+    "aftermath": "优酷将其作为出海案例推广，多家平台跟进「现偶+全球同播」模式；Netflix周榜排名开始被纳入剧集招商的参考指标。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "凤凰网：《早春晴朗》创2026站内热度最快破万现偶纪录", "url": "https://i.ifeng.com/c/8w1Ifi84Z3T"},
+      {"title": "新浪财经：《九门》《早春晴朗》累计有效播放破10亿", "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwkha0518881.shtml"}
+    ],
+    "tags": ["早春晴朗", "Netflix", "现偶剧", "出海"]
+  },
+  {
+    "id": "2026-09-09-iphone-duo-launch",
+    "date": "2026-09-09",
+    "title": "苹果发布iPhone Duo：首款折叠iPhone亮相",
+    "summary_30s": "9月9日，苹果在秋季发布会推出首款可折叠iPhone——iPhone Duo：展开后7.6英寸内屏、迄今最纤薄的iPhone机身，配自研铰链与近乎无折痕的屏幕，是苹果近二十年来首个全新形态的iPhone。",
+    "detail": "该机此前以「iPhone Fold」为代号传闻多年，6月曾传因铰链与PCB问题推迟至2027年，最终如期与iPhone 18 Pro系列同台发布（北京时间9月10日凌晨），12月正式开售；主打阔比例大屏与多任务，被戏称为「可折叠iPad mini」。",
+    "impact": "折叠屏iPhone补上苹果产品线的最后一块空白，把折叠形态从安卓的差异化叙事变成大众标配选项，铰链与超薄玻璃供应链迎来苹果量级订单。",
+    "aftermath": "开售档期与产能爬坡成为四季度供应链的观察点；安卓阵营则在三折叠、卷轴屏上寻找下一个形态差异。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Apple新闻稿：Apple发布iPhone Duo", "url": "https://www.apple.com.cn/newsroom/2026/09/apple-unveils-iphone-duo"},
+      {"title": "解放日报：苹果秋季发布会定档9月9日", "url": "https://www.jfdaily.com/news/detail?id=1169057"}
+    ],
+    "tags": ["苹果", "iPhone Duo", "折叠屏", "硬件"]
+  },
+  {
+    "id": "2026-09-11-hongguo-short-drama-report",
+    "date": "2026-09-11",
+    "title": "微短剧报告：红果日活1.68亿，超爱优腾芒之和",
+    "summary_30s": "9月11日发布的《中国微短剧精品创作与传播研究报告（2026）》披露：截至7月，红果短剧日活达1.68亿、同比增长107%，人均日看约125分钟，已超过爱奇艺、优酷、腾讯视频、芒果TV四家长视频平台之和。",
+    "detail": "红果2月月活突破3.04亿、居行业第一，7至8月约4.03亿；短剧全行业月活用户2月达7.18亿、7月报告口径超8.5亿，50岁以上银发月活超4653万。免费加广告分账的模式重构了内容供给，长视频平台的用户时长被持续分流。",
+    "impact": "微短剧从「下沉快消品」变成主流内容形态，红果以字节流量与免费模式改写「爱优腾芒」格局，影视人才与广告预算加速向短剧迁移。",
+    "aftermath": "长视频平台加码短剧频道与精品短剧自制；「精品化」与题材治理被提上日程，短剧创作者的竞争与变现难度同步上升。",
+    "category": "internet",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "single-source",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "钛媒体：1.68亿人追短剧，红果开始收割用户时间", "url": "https://www.tmtpost.com/8136978.html"}
+    ],
+    "tags": ["微短剧", "红果", "长视频", "内容行业"]
+  },
+  {
+    "id": "2026-09-28-amd-acquires-world-labs",
+    "date": "2026-09-28",
+    "title": "AMD 82亿美元收购World Labs：李飞飞出任首席科学家",
+    "summary_30s": "9月28日，AMD宣布以约82亿美元全股票收购李飞飞创办的空间智能公司World Labs，李飞飞将出任AMD执行副总裁兼首席科学家，交易预计年底前完成。这是AI「世界模型」方向迄今最大的一笔并购。",
+    "detail": "World Labs总部位于旧金山，主攻能理解并生成三维物理世界的「世界模型」。CEO苏姿丰称收购旨在获得顶尖人才、补齐AMD端到端AI系统能力；有分析认为，独立IPO受阻的世界模型公司投靠芯片巨头，是2026年AI资产整合的典型路径。",
+    "impact": "芯片厂商首次把世界模型实验室整体纳入版图，空间智能被视为语言模型之后的下一个战场；李飞飞由学者转任企业首席科学家，象征意义强烈。",
+    "aftermath": "业界预期英伟达、谷歌将在空间智能方向跟进布局；被收购团队与AMD软件生态的整合进展，成为观察AI并购成色的样本。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Reuters：AMD to buy Fei-Fei Li's World Labs in $8.2 billion deal", "url": "https://www.reuters.com/technology/amd-acquire-fei-fei-lis-world-labs-82-billion-deal-2026-09-28"},
+      {"title": "Bloomberg：AMD to buy World Labs AI startup for $8.2 billion", "url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion"}
+    ],
+    "tags": ["AMD", "World Labs", "李飞飞", "并购"]
+  },
+  {
+    "id": "2026-09-29-openai-devday-2026",
+    "date": "2026-09-29",
+    "title": "OpenAI DevDay 2026：二十余项发布压轴模型季",
+    "summary_30s": "9月29日，OpenAI在旧金山举办年度开发者大会，围绕GPT-6 Astra、ChatGPT、Codex与API推出20余项更新，覆盖安全功能与面向构建者的新工具，并为10月起的班加罗尔、东京、首尔等全球巡回站预热。",
+    "detail": "这是OpenAI「9月模型浪潮」的收束节点：GPT-6 Astra、全双工语音模型GPT-Live、Codex更新与开发者工具同台亮相，官方以「20多项发布」总结全年最快的发布节奏；Sam Altman当天接受CNBC现场采访，回应商业化与安全议题。",
+    "impact": "DevDay把OpenAI从「模型公司」叙事进一步推向「平台公司」，Agent工具链与API政策直接影响全球数百万开发者的技术选型。",
+    "aftermath": "DevDay Exchange巡回站接连走进班加罗尔、东京、首尔、柏林等地；GPT-6系API与Agent工具成为四季度AI应用层的主要变量。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "OpenAI：DevDay 2026回顾", "url": "https://openai.com/zh-Hans-CN/index/devday-2026-recap"},
+      {"title": "The Verge：OpenAI DevDay 2026最重要的发布", "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"}
+    ],
+    "tags": ["OpenAI", "DevDay", "GPT-6", "开发者"]
+  },
+  {
+    "id": "2026-09-01-xiaomi-ev-800k-milestone",
+    "date": "2026-09-01",
+    "title": "小米汽车累计交付突破80万辆：55万年度目标承压",
+    "summary_30s": "截至2026年9月底，小米汽车累计交付突破80万辆：1至9月交付超28.6万辆，仅完成雷军年初设定的55万辆年度目标约52%，剩余三个月需月均交付约8.6万辆，达成难度显著。",
+    "detail": "小米汽车1月累计交付接近60万辆，7月底突破70万、9月突破80万；北京一二期合计约30万辆年产能，武汉工厂投产在即，机构预测2026年总产能有望冲击百万辆。YU7蝉联国内中大型SUV销冠，但随产能释放，交付周期缩短并出现优惠，新增订单需求有所放缓。",
+    "impact": "小米汽车从「爆单焦虑」转入「产能与需求的再平衡」，55万年度目标能否达成成为新能源汽车价格战与消费景气的风向标之一。",
+    "aftermath": "四季度小米以门店扩张与购车权益调整冲量；卢伟冰此前已预警2026年汽车业务「非常有挑战」，全年交付数据成为市场焦点。",
+    "category": "company",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "新浪汽车：2026年小米汽车各车型交付量盘点", "url": "https://auto.sina.cn/2026-10-01/detail-inittvfz6421591.d.html?vt=4"}
+    ],
+    "tags": ["小米汽车", "新能源汽车", "交付量", "雷军"]
+  },
+  {
+    "id": "2026-10-06-nobel-prize-2026",
+    "date": "2026-10-06",
+    "title": "2026诺贝尔奖揭幕：中微子天文学摘物理学奖",
+    "summary_30s": "10月6日，2026年诺贝尔物理学奖授予冰立方中微子天文台的缔造者弗朗西斯·哈尔岑；次日化学奖授予法国化学家亨利·B·卡根与日本化学家Kenso Soai，表彰其在不对称有机合成非线性效应上的发现。",
+    "detail": "哈尔岑是比利时裔美国物理学家、威斯康星大学麦迪逊分校教授，三十年推动在南极冰层下建成立方公里级探测器，证实天体物理起源的高能中微子，开创「中微子天文学」。化学奖表彰「Soai反应」揭示的手性自催化放大机制，为生命同手性起源提供了实验线索。",
+    "impact": "中微子与手性化学的获奖把基础物理、化学拉回聚光灯下，冰立方作为大科学装置的长期投入模式再次得到最高规格验证。",
+    "aftermath": "和平奖、经济学奖随后揭晓；国内科普圈围绕「中微子天文学」与「手性起源」掀起长文热，冰立方后续扩容计划受到关注。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "维基百科：2026 Nobel Prize", "url": "https://en.wikipedia.org/wiki/2026_Nobel_Prize"},
+      {"title": "德国之声：法日两位化学家荣获2026年诺贝尔化学奖", "url": "https://www.dw.com/zh/%E6%B3%95%E6%97%A5%E4%B8%A4%E4%BD%8D%E5%8C%96%E5%AD%A6%E5%AE%B6%E8%8D%A3%E8%8E%B72026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96/a-79580291"}
+    ],
+    "tags": ["诺贝尔奖", "中微子", "冰立方", "手性"]
+  },
+  {
+    "id": "2026-10-07-national-day-box-office-2026",
+    "date": "2026-10-07",
+    "title": "2026国庆档收官：11.65亿，《神探之痕迹》夺魁",
+    "summary_30s": "国家电影局统计，2026年国庆档（10月1日—7日）票房11.65亿元，连续7天单日破亿但热度较往年回落。陈思诚执导的《神探之痕迹》以档期冠军领跑，《什么意思夫妇》《生化危机：爆发夜》分列其后。",
+    "detail": "档期呈「一超两强」格局：《神探之痕迹》领跑，进口片《生化危机：爆发夜》以1.74亿元票房、436.5万观影人次成为国庆档进口片冠军，显示分账片在档期的存在感回升。城市票房前五为上海、北京、深圳、广州、成都，上海蝉联冠军。",
+    "impact": "单日破亿而总量回落的国庆档，说明观影进一步向强导演、强IP集中，市场把救市期待转向贺岁档与春节档，内容供给结构的讨论再度升温。",
+    "aftermath": "全年票房前五中粤产片占两席的格局延续；多家片方陆续调整2027年春节档定档，贺岁档成为年度最后一个决胜窗口。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "新华网：2026年国庆档电影，谁在看？爱看啥？", "url": "https://www.news.cn/ci/20261010/d4d8ae98573649bcade4c1e66dcd8728/c.html"}
+    ],
+    "tags": ["国庆档", "电影票房", "神探之痕迹", "进口片"]
+  }
+]

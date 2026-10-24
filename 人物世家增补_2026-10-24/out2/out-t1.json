@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "1977-04-23-djs-050-microcomputer",
+    "date": "1977-04-23",
+    "title": "DJS-050样机通过鉴定：中国第一台国产微型计算机",
+    "summary_30s": "1977年4月23日，清华大学、安徽无线电厂与四机部六所联合研制的DJS-050微型计算机在合肥通过科研样机鉴定，成为中国最早自行研制的8位微机之一，中国微机事业由此起步，也是后来长城0520等国产微机的源头。",
+    "detail": "1973年，四机部决定由清华大学、安徽无线电厂和四机部电子技术推广应用研究所（六所）组成联合设计组，参考Intel 8008体系研制国产微机DJS-050。研制工作在文革动荡中推进，1976年底在合肥完成全部国产化设计，1977年4月23日科研样机通过鉴定并演示成功。该机采用国产化CPU方案，整机系统完全立足国内配套，1978年获全国科学大会重大贡献奖。",
+    "impact": "DJS-050标志着中国微机事业的开端，此后DJS-050系列投入小批量生产，培养了中国第一批微机设计与应用人才。",
+    "aftermath": "中国微机产业沿此脉络演进，1985年长城0520CH与国际主流兼容的国产微机诞生，国产计算机逐步走向市场。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "清华大学计算机系：我国微处理器和国产第一台微型计算机诞生", "url": "https://www.cs.tsinghua.edu.cn/info/1169/4068.htm"},
+      {"title": "中国科大新闻网：看档案里的算力跃迁之旅", "url": "https://news.ustc.edu.cn/info/1056/94788.htm"}
+    ],
+    "tags": ["微型计算机", "国产计算机", "清华大学", "DJS-050"]
+  },
+  {
+    "id": "1977-04-16-west-coast-computer-faire",
+    "date": "1977-04-16",
+    "title": "首届西海岸电脑展开幕：个人电脑产业的第一次大集会",
+    "summary_30s": "1977年4月16日至17日，首届西海岸计算机博览会在旧金山举行，吸引约1.3万名观众和180余家参展商，Apple II在会上首次公开亮相。这场展会把分散的业余爱好者聚会变成正经生意场，被视为个人电脑产业成型的重要节点。",
+    "detail": "由吉姆·沃伦和鲍勃·赖林发起的首届西海岸电脑展在旧金山市政礼堂举行，展商超过180家，观众约1.25万人，远超组织者预期。乔布斯与沃兹尼亚克带着刚定型的Apple II参展，与Commodore、Processor Technology等公司同台竞技。展会两年后规模翻倍，成为1980年代初美国个人电脑最重要的展示与交易平台。",
+    "impact": "它让车库作坊第一次与经销商、投资人和媒体正面接触，个人电脑从爱好者圈子走向商业市场，Apple II也因此获得最初的订单与声量。",
+    "aftermath": "西海岸电脑展持续举办至1991年，其间微软、Lotus等公司都曾借它发布产品，后被COMDEX等更大展会取代。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: West Coast Computer Faire", "url": "https://en.wikipedia.org/wiki/West_Coast_Computer_Faire"}
+    ],
+    "tags": ["个人电脑", "展会", "Apple II", "硅谷"]
+  },
+  {
+    "id": "1977-01-01-commodore-pet-debut",
+    "date": "1977-01-01",
+    "title": "Commodore PET首次公开：三巨头里的第一声",
+    "summary_30s": "1977年1月，Commodore公司在冬季消费电子展上首次公开PET个人电脑，与随后上市的Apple II、TRS-80并称1977年个人电脑三巨头。Commodore借自购的MOS 6502芯片实现整机低价，当年即开始批量交付。",
+    "detail": "收购芯片厂MOS Technology后，Commodore靠6502处理器的成本优势切入整机市场，在1977年1月的拉斯维加斯冬季消费电子展上展出PET 2001，采用一体式金属机箱、内置磁带机和小型单色显示器，售价795美元起。批量产品在下半年开始交付，早期键盘做工粗糙、供应紧张，但仍是欧洲教育市场的主力机型。",
+    "impact": "PET与Apple II、TRS-80同年被业界称为1977年三巨头，确立了一体化个人电脑的基本形态，也开启了Commodore对家用电脑市场的长期经营。",
+    "aftermath": "PET之后Commodore推出VIC-20、C64等爆款，1982年的C64成为史上销量最高的单一型号电脑之一。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Commodore PET", "url": "https://en.wikipedia.org/wiki/Commodore_PET"}
+    ],
+    "tags": ["个人电脑", "Commodore", "6502", "CES"]
+  },
+  {
+    "id": "1977-06-10-apple-ii-launch",
+    "date": "1977-06-10",
+    "title": "Apple II上市：首台大规模成功的个人电脑",
+    "summary_30s": "1977年6月10日，苹果公司正式发售Apple II。它把键盘、BASIC语言、彩色图形和塑料外壳整合成开箱即用的整机，接上电视机即可使用，是第一台大规模量产并获得商业成功的个人电脑，系列累计销量超过500万台。",
+    "detail": "Apple II由沃兹尼亚克设计，4KB内存版售价1298美元，采用彩色图形显示、内置BASIC解释器和扩展插槽。它在4月西海岸电脑展公开后于6月10日上市，1978年配以Disk II软盘驱动器、1979年配以电子表格VisiCalc后进入学校、家庭与中小企业，销量逐年放大，成为8位机时代的标杆产品。",
+    "impact": "Apple II确立了整机即插即用的个人电脑形态，靠商用软件打开了办公需求，让个人拥有电脑第一次成为一门大生意。",
+    "aftermath": "Apple II支撑苹果1980年12月上市，系列一直生产到1993年；兼容软件与板卡生态也孕育了美国最早的软件与外设产业。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Apple II (original)", "url": "https://en.wikipedia.org/wiki/Apple_II_(original)"}
+    ],
+    "tags": ["Apple II", "个人电脑", "苹果公司", "沃兹尼亚克"]
+  },
+  {
+    "id": "1977-08-03-trs-80-launch",
+    "date": "1977-08-03",
+    "title": "Radio Shack发布TRS-80：零售渠道卖出电脑",
+    "summary_30s": "1977年8月3日，Tandy旗下Radio Shack发布TRS-80微型电脑，599美元的价格搭配遍布美国的3500余家门店，让普通人买电脑像买收音机一样方便，上市首年销量即达十余万台，成为1977年三巨头之一。",
+    "detail": "TRS-80 Model I采用Zilog Z80处理器、4KB内存，配12英寸显示器和盒式磁带机，整机599美元。Radio Shack靠着遍布城乡的零售网络和自有品牌外设，把电脑第一次摆进了购物中心。Tandy原计划与Apple II争夺市场，凭渠道优势后来居上，Model I系列累计销量超过20万台。",
+    "impact": "TRS-80证明个人电脑可以走大众零售渠道，启发后来者把价格和渠道当作行业胜负手，也带动了为它编写软件的早期软件作坊。",
+    "aftermath": "Tandy后续推出TRS-80 Color Computer与便携型号，Radio Shack电脑业务在1980年代中期IBM兼容机浪潮中逐渐衰落。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: TRS-80", "url": "https://en.wikipedia.org/wiki/TRS-80"}
+    ],
+    "tags": ["TRS-80", "Radio Shack", "个人电脑", "零售渠道"]
+  },
+  {
+    "id": "1977-09-01-atari-vcs-launch",
+    "date": "1977-09-01",
+    "title": "Atari VCS上市：可换卡带的家用游戏主机",
+    "summary_30s": "1977年9月，Atari推出可插换游戏卡带的家用主机Video Computer System，售价199美元，首批随附9张卡带。它把街机游戏搬进客厅，三年后借《太空侵略者》移植版引爆市场，累计销量约3000万台。",
+    "detail": "Atari VCS采用MOS 6507处理器，用户插入卡带即可玩不同游戏，改变了此前主机一机一游戏的模式。1977年圣诞季因库存与竞争一度遇冷，华纳坚持投入后，1980年《太空侵略者》移植版使其爆发式增长，1977年至1982年间VCS累计销量约3000万台，成为当时最成功的电子游戏平台。",
+    "impact": "VCS开创了主机加卡带的家用游戏商业模式，确立第三方游戏发行的可能性，也埋下市场过热的隐患。",
+    "aftermath": "1982至1983年北美游戏市场因粗制滥造的游戏泛滥而崩盘，Atari大幅亏损，VCS及其后续机型渐被任天堂FC取代。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Atari 2600", "url": "https://en.wikipedia.org/wiki/Atari_2600"}
+    ],
+    "tags": ["Atari", "游戏主机", "电子游戏", "卡带"]
+  },
+  {
+    "id": "1977-01-01-space-wars-arcade",
+    "date": "1977-01-01",
+    "title": "街机《空间大战》发行：矢量图形游戏登场",
+    "summary_30s": "1977年，美国Cinematronics公司发行街机游戏《空间大战》，把麻省理工学院1962年的太空对战程序改造成街机产品，用矢量显示器呈现线框飞船对决，是首批取得商业成功的矢量图形街机之一。",
+    "detail": "拉里·罗森塔尔在帕洛阿尔托的Larry Rosenthal基于MIT斯隆-凯特林研究所的Spacewar!原型开发出矢量显示方案，与Cinematronics合作推出街机版《空间大战》。玩家操控线框飞船在引力场中互相射击，画面由矢量扫描生成，与当时像素化的CRT游戏截然不同。该机为Cinematronics带来数百万美元收入，开启了1978年至1983年的街机黄金期。",
+    "impact": "《空间大战》证明实验室游戏可以商品化，矢量显示技术随后催生《流星》《坦克大战》等经典，也把太空对战游戏的传统带入街机。",
+    "aftermath": "Cinematronics此后又推出矢量游戏《龙穴》，1987年公司被Tradewest收购；Spacewar!则被公认为电子游戏史上最有影响力的源头之一。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: Space Wars", "url": "https://en.wikipedia.org/wiki/Space_Wars"}
+    ],
+    "tags": ["街机", "Spacewar", "矢量图形", "电子游戏"]
+  },
+  {
+    "id": "1977-05-25-star-wars-release",
+    "date": "1977-05-25",
+    "title": "《星球大战》北美公映：暑期大片的起点",
+    "summary_30s": "1977年5月25日，乔治·卢卡斯的《星球大战》在北美32家影院开画，凭借太空歌剧的世界观和特效革命席卷全球，超越《大白鲨》成为当时北美影史票房冠军，确立了暑期大档期与系列特许经营的商业模式。",
+    "detail": "《星球大战》首映时排片寥寥，靠口碑在数月内持续升温，北美累计票房逾3亿美元，加上续作与周边授权成为现象级文化产品。影片的模型摄影、光学合成与音响设计（包括THX标准的前身）重新定义了特效电影，其商品授权收入在几年内超过票房本身。",
+    "impact": "它确立了特效大片加衍生品授权的好莱坞商业模型，科幻题材从此成为主流消费文化，也成为一代人的科技想象启蒙。",
+    "aftermath": "续作《帝国反击战》《绝地归来》分别于1980、1983年上映， franchise延续至今；卢卡斯影业2012年以40.5亿美元卖给迪士尼。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Star Wars (film)", "url": "https://en.wikipedia.org/wiki/Star_Wars_(film)"}
+    ],
+    "tags": ["星球大战", "电影", "流行文化", "科幻"]
+  },
+  {
+    "id": "1977-07-01-deng-xiaoping-restored",
+    "date": "1977-07-01",
+    "title": "邓小平第三次复出：恢复党政军领导职务",
+    "summary_30s": "1977年7月，中共十届三中全会恢复邓小平的中共中央副主席、中央军委副主席、国务院副总理兼解放军总参谋长等职务，邓小平第三次复出，随即主抓科教，为恢复高考和改革开放做了组织准备。",
+    "detail": "1977年7月16日至21日召开的十届三中全会，决定恢复邓小平1976年被撤销的全部职务。复出后的邓小平自告奋勇分管科教，当年即推动恢复高考，1978年支持真理标准讨论和全国科学大会，逐步确立务实路线，成为中国改革开放新时期实际上的总设计师。",
+    "impact": "邓小平复出改变了文革结束后的政治走向，科教优先、对外开放等决策在其主导下迅速铺开。",
+    "aftermath": "1978年12月十一届三中全会后，邓小平成为党的第二代中央领导集体核心，改革开放全面启动。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: 邓小平", "url": "https://zh.wikipedia.org/wiki/邓小平"}
+    ],
+    "tags": ["邓小平", "改革开放", "十届三中全会"]
+  },
+  {
+    "id": "1977-09-05-voyager-1-launch",
+    "date": "1977-09-05",
+    "title": "旅行者1号发射：飞得最远的人造物体启程",
+    "summary_30s": "1977年9月5日，美国发射行星探测器旅行者1号，借助罕见的行星连珠执行外行星巡访任务。它先后飞掠木星、土星，携带记录地球文明信息的金唱片，至今仍是距离地球最远的人造物体，已进入星际空间。",
+    "detail": "旅行者1号由泰坦三号E-半人马火箭从卡纳维拉尔角发射，利用176年一遇的行星排列执行引力弹弓巡访。1979年3月飞掠木星、1980年11月飞掠土星后飞向太阳系外，2012年8月穿越日球层顶成为首个进入星际空间的人造物体，仍在以微弱信号回传数据，核电源预计可维持到2030年前后。",
+    "impact": "旅行者1号传回的木卫一火山、土星环细节等发现改写了行星科学，金唱片则成为人类文明递给外星文明的自我介绍。",
+    "aftermath": "旅行者2号沿更慢轨道完成天王星、海王星探测；两艘探测器的深空通信与工程经验奠定了后续深空探测的基础。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Voyager 1", "url": "https://en.wikipedia.org/wiki/Voyager_1"}
+    ],
+    "tags": ["旅行者1号", "深空探测", "NASA", "金唱片"]
+  },
+  {
+    "id": "1977-11-22-tcp-three-network-demo",
+    "date": "1977-11-22",
+    "title": "TCP跨三种网络演示成功：互联网原理验证",
+    "summary_30s": "1977年11月22日，文顿·瑟夫与罗伯特·卡恩团队让一辆行驶中的面包车经分组无线网接入ARPANET，再通过卫星网跨越大西洋抵达伦敦，数据绕行近15万公里无一丢失。这是TCP协议首次在三种异构网络间完整运行，互联网的原理就此验证。",
+    "detail": "演示中，旧金山湾区的分组无线网车载终端把数据经网关送上ARPANET，再由ARPANET经分组卫星网SATNET传到挪威，随后用陆地线路抵达英国大学学院伦敦，全程跨越分组无线、卫星与有线三种网络。往返约9.4万英里传输中分组无一丢失，证明统一的端到端协议可以让异构网络互联互通。",
+    "impact": "这次演示确立了开放互联而非单一网络的技术路线，TCP/IP由此成为互联网的协议基础，其设计原则沿用至今。",
+    "aftermath": "1983年1月1日ARPANET全面切换到TCP/IP，互联网络正式成形；瑟夫与卡恩后来获图灵奖与美国总统自由勋章。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "SRI International: Internetworking", "url": "https://www.sri.com/hoi/internetworking"},
+      {"title": "Wikipedia: History of the Internet", "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"}
+    ],
+    "tags": ["TCP/IP", "ARPANET", "互联网史前史", "文顿·瑟夫"]
+  },
+  {
+    "id": "1977-12-20-second-hanzi-simplification-draft",
+    "date": "1977-12-20",
+    "title": "二简字草案公布：一场仓促的汉字再简化",
+    "summary_30s": "1977年12月20日，经国务院批准，《第二次汉字简化方案（草案）》在《人民日报》头版发表，第一表248个简化字立即推行。因字形过度简化遭广泛批评，1986年6月国务院正式废止该方案，二简字前后试行不到九年。",
+    "detail": "方案由中国文字改革委员会拟定，发表当天配发社论，随后报刊、教材与招牌大规模使用二简字，如「展」写作尸下一横等写法引发混乱。方案曾在26个省市征求意见并形成修订稿，但始终争议不断。1986年6月国务院批准国家语委报告予以废止，并确定今后汉字简化持谨慎态度。",
+    "impact": "二简字成为文字改革史上著名的反面案例，其废止确立了保持汉字形体稳定的基本方针，部分民间写法至今残存于手写与街头用字中。",
+    "aftermath": "1986年重新发表《简化字总表》恢复原简化字规范，2000年《国家通用语言文字法》进一步确立了现行用字制度的法律地位。",
+    "category": "society",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "人民日报1977年12月20日头版", "url": "https://cn.govopendata.com/renminribao/1977/12/20/1"},
+      {"title": "Wikipedia: 二简字", "url": "https://zh.wikipedia.org/wiki/二简字"}
+    ],
+    "tags": ["二简字", "汉字简化", "文字改革"]
+  },
+  {
+    "id": "1978-02-22-navstar-1-gps-launch",
+    "date": "1978-02-22",
+    "title": "首颗GPS卫星入轨：全球定位系统起步",
+    "summary_30s": "1978年2月22日，美国发射第一颗GPS试验卫星Navstar-1，全球定位系统星座建设正式开始。此后十余年间美国部署24颗卫星，1993年系统初步建成，定位导航从此从军用逐步走向民航、测绘与普通人的手机。",
+    "detail": "Navstar-1由洛克韦尔制造、从范登堡基地发射，拉开了Block I试验星座的序幕。GPS由美国国防部主导研制，军方先将其用于精确授时与武器定位，1983年大韩航空007航班误入苏联领空被击落后，里根宣布GPS向民用开放。到1993年24颗工作卫星全部就位，系统达到初始运行能力。",
+    "impact": "GPS开创了全球统一时空基准的先例，其民用化彻底改变了导航、测绘、物流、授时等行业，成为信息时代的关键基础设施。",
+    "aftermath": "此后俄罗斯格洛纳斯、欧洲伽利略、中国北斗相继建成，四大全球卫星导航系统格局在21世纪成形。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Global Positioning System", "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"}
+    ],
+    "tags": ["GPS", "卫星导航", "Navstar", "航天"]
+  },
+  {
+    "id": "1978-05-11-practice-criterion-editorial",
+    "date": "1978-05-11",
+    "title": "《光明日报》刊文引发真理标准大讨论",
+    "summary_30s": "1978年5月11日，《光明日报》以特约评论员名义发表《实践是检验真理的唯一标准》，新华社当天转发，次日《人民日报》转载，一场关于思想路线的大讨论由此展开，为十一届三中全会作了思想准备。",
+    "detail": "文章由南京大学胡福明初稿，经中央党校理论队伍修改，发表前几易其稿。文章重申实践是检验真理的唯一标准，直指两个凡是的思想禁锢。发表后遭到部分领导人批评，但得到不少省市领导人和军队将领支持，各省相继表态，讨论最终演变为全国性的思想解放运动。",
+    "impact": "真理标准大讨论打破了个人崇拜与两个凡是的束缚，重新确立了实事求是的思想路线，直接为工作重心转移和改革开放清了障。",
+    "aftermath": "1978年12月十一届三中全会肯定了这场讨论，文章原稿后来被多所博物馆收藏，成为中国改革开放思想起点的重要实物。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 实践是检验真理的唯一标准", "url": "https://zh.wikipedia.org/wiki/实践是检验真理的唯一标准"}
+    ],
+    "tags": ["真理标准大讨论", "思想解放", "光明日报", "改革开放"]
+  },
+  {
+    "id": "1978-06-08-intel-8086-launch",
+    "date": "1978-06-08",
+    "title": "Intel 8086发布：x86架构四十六年霸业的开端",
+    "summary_30s": "1978年6月8日，英特尔发布16位微处理器8086，集成2.9万个晶体管，主频5至10MHz。其指令集演化为x86架构，两年后衍生出的8088被IBM个人电脑采用，x86自此统治个人计算机主流市场四十余年。",
+    "detail": "8086是英特尔第一个16位处理器，地址空间扩展到1MB，开发周期仅一年半。为配合低端市场，1979年推出数据总线砍半的8088。1981年IBM PC选用8088，英特尔从存储器转型为处理器公司，与微软组成Wintel组合，PC兼容机生态由此定型。",
+    "impact": "x86指令集成为软件兼容性的黄金标准，围绕它生长出BIOS、DOS、扩展板卡等庞大生态，个人计算机的行业标准之争自此定调。",
+    "aftermath": "英特尔沿80186、286、386一路迭代，1980年代与AMD的授权纠纷、1985年退出DRAM业务等转折都系于此；x86至今仍是服务器与桌面市场主力。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Intel 8086", "url": "https://en.wikipedia.org/wiki/Intel_8086"}
+    ],
+    "tags": ["Intel", "8086", "x86", "微处理器"]
+  },
+  {
+    "id": "1978-06-01-apple-disk-ii",
+    "date": "1978-06-01",
+    "title": "Apple Disk II上市：个人电脑标配软盘驱动器",
+    "summary_30s": "1978年6月，苹果公司推出5.25英寸软盘驱动器Disk II，售价595美元，不到当时主流8英寸软驱价格的一半。沃兹尼亚克设计的软盘控制器只用五块芯片，Disk II成为Apple II的标准配置，也奠定了软件以软盘分发的行业惯例。",
+    "detail": "Disk II由沃兹尼亚克亲自设计控制器电路，以极简芯片数量实现稳定读写，是苹果第一个大批量外设产品。它让用户告别盒式磁带，程序与数据交换变得可靠，配合VisiCalc等软件把Apple II从玩具变成了办公工具。Disk II系列沿用至1980年代，累计销量以百万计。",
+    "impact": "廉价可靠的软盘驱动器把个人电脑推向商用与教育市场，5.25英寸软盘随后成为整个微机行业十多年的数据交换标准。",
+    "aftermath": "软盘生态催生了电子表格、字处理等软件业爆发，1984年3.5英寸软盘和后来光盘相继接班，磁带存储在个人电脑上退出主流。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Disk II", "url": "https://en.wikipedia.org/wiki/Disk_II"}
+    ],
+    "tags": ["Apple", "软盘", "Disk II", "存储"]
+  },
+  {
+    "id": "1978-06-01-space-invaders-release",
+    "date": "1978-06-01",
+    "title": "《太空侵略者》发行：街机黄金时代引爆",
+    "summary_30s": "1978年6月，日本太东公司发行街机游戏《太空侵略者》，西角友宏一人完成全部设计。游戏在全球掀起排队狂潮，日本一度流传百元硬币短缺的说法，它使电子游戏从酒吧噱头变成全民娱乐，开启街机黄金时代。",
+    "detail": "《太空侵略者》以固定炮台迎击成排下降的外星人，引入累计得分数、敌人加速等设计。机器在日本与北美大卖，太东后来宣布日本本土售出超过50万台、全球赚取数亿美元，取代Atari成为行业新王。1980年Atari将其移植到家用主机VCS，成为家用游戏第一个爆款移植版。",
+    "impact": "它验证了单屏射击加计分的街机公式，推动了日本游戏产业起飞，外星人、像素射击成为流行文化符号。",
+    "aftermath": "接力的《吃豆人》《大金刚》把街机推向1981至1982年的巅峰；《太空侵略者》音乐与像素造型至今仍是游戏史的标志。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Space Invaders", "url": "https://en.wikipedia.org/wiki/Space_Invaders"}
+    ],
+    "tags": ["街机", "太空侵略者", "太东", "游戏"]
+  },
+  {
+    "id": "1978-07-25-louise-brown-ivf-birth",
+    "date": "1978-07-25",
+    "title": "首例试管婴儿诞生：人类辅助生殖技术落地",
+    "summary_30s": "1978年7月25日，世界首例试管婴儿路易丝·布朗在英国奥尔德姆出生，斯蒂普托与爱德华兹历经十余年试验的体外受精技术首次成功。2010年爱德华兹获诺贝尔生理学或医学奖，如今全球试管婴儿已超过千万。",
+    "detail": "妇产科医生帕特里克·斯蒂普托与生理学家罗伯特·爱德华兹合作，用腹腔镜取卵、体外培养再移植的技术帮助不孕夫妇，成功让莱斯利·布朗诞下健康女婴。消息一出引发伦理争议与宗教批评，但技术迅速扩散：1981年美国首例试管婴儿出生，1988年中国大陆首例诞生。",
+    "impact": "体外受精为不孕症提供了根本性解决方案，开辟了辅助生殖医学，也把生命科学伦理讨论推上了公共议程。",
+    "aftermath": "全球试管婴儿数量2018年已超800万，技术衍生出冷冻胚胎、PGD筛查等方向，相关伦理立法持续演进。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Louise Brown", "url": "https://en.wikipedia.org/wiki/Louise_Brown"}
+    ],
+    "tags": ["试管婴儿", "体外受精", "医学", "罗伯特·爱德华兹"]
+  },
+  {
+    "id": "1978-08-12-china-japan-peace-treaty",
+    "date": "1978-08-12",
+    "title": "《中日和平友好条约》在北京签署",
+    "summary_30s": "1978年8月12日，中国外交部部长黄华与日本外相园田直在北京签署《中日和平友好条约》，确认1972年联合声明的各项原则，写入反对霸权主义条款。10月邓小平访日互换批准书，中日关系进入条约框架下的新阶段。",
+    "detail": "条约谈判自1974年启动，因霸权条款与钓鱼岛问题搁置数年，1978年在两国务实氛围下达成。条约共5条，确认和平共处五项原则与反霸权条款，10月23日邓小平在东京与福田赳夫出席批准书互换仪式，随后会晤日本政经各界，参观新日铁与日产工厂。",
+    "impact": "条约以法律形式稳定了中日关系，为中国改革开放争取到日本资金、技术与市场，成套设备进口与日元贷款陆续跟进。",
+    "aftermath": "此后中日经贸迅速扩大，宝钢等重点项目引进日本技术；钓鱼岛问题则被搁置于邦交正常化框架之内。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中华人民共和国和日本国和平友好条约", "url": "https://zh.wikipedia.org/wiki/中华人民共和国和日本国和平友好条约"}
+    ],
+    "tags": ["中日关系", "条约", "邓小平", "改革开放"]
+  },
+  {
+    "id": "1978-12-16-china-us-normalization-communique",
+    "date": "1978-12-16",
+    "title": "中美建交联合公报发表：定于1979年1月1日建交",
+    "summary_30s": "1978年12月16日，中美双方同时公布《关于建立外交关系的联合公报》，宣布自1979年1月1日起互相承认并建立外交关系，美国承认中华人民共和国政府是中国唯一合法政府，并与台湾断交、废约、撤军。",
+    "detail": "公报发表时距十一届三中全会开幕仅两天，卡特总统与邓小平分别通过电视向本国宣布消息。美方在公报中接受中国政府提出的断交、废约、撤军三原则，同时保留对台出售防御性武器的立场，中方对此明确反对。建交为中国大规模引进西方技术资金扫清了政治障碍。",
+    "impact": "中美建交完成冷战格局中的重大转向，中国开放的主战场从侨乡与世界市场对接，留学、外资、技术引进进入快车道。",
+    "aftermath": "1979年1月邓小平访美将建交热度推向顶点；美国国会随即通过《与台湾关系法》，成为此后中美关系的主要摩擦源之一。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中美三个联合公报", "url": "https://zh.wikipedia.org/wiki/中美三个联合公报"}
+    ],
+    "tags": ["中美建交", "外交", "卡特", "邓小平"]
+  },
+  {
+    "id": "1978-12-18-third-plenum-11th-cc",
+    "date": "1978-12-18",
+    "title": "十一届三中全会召开：改革开放的起点",
+    "summary_30s": "1978年12月18日至22日，中共十一届三中全会在北京举行，全会决定把工作重心转移到经济建设上来，停止以阶级斗争为纲的口号，确立改革开放方针。这次会议被公认为中国改革开放新时期的起点。",
+    "detail": "会议原定议题是农业与经济计划，在陈云等人的推动下转向历史遗留问题与思想路线，肯定真理标准大讨论，批评两个凡是，增选陈云为中央政治局委员，成立中央纪律检查委员会。会后农村家庭联产承包、经济特区、引进外资等改革举措迅速铺开。",
+    "impact": "三中全会完成了建国以来最具深远意义的政治与路线转折，此后四十年中国的经济转轨、社会转型均以此为原点。",
+    "aftermath": "1981年十一届六中全会通过历史决议进一步统一思想，经济特区、乡镇企业、价格改革沿着三中全会开辟的方向逐层推进。",
+    "category": "national",
+    "milestone": true,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中国共产党第十一届中央委员会第三次全体会议", "url": "https://zh.wikipedia.org/wiki/中国共产党第十一届中央委员会第三次全体会议"}
+    ],
+    "tags": ["十一届三中全会", "改革开放", "邓小平", "工作重心转移"]
+  },
+  {
+    "id": "1978-12-23-jintian-magazine-founding",
+    "date": "1978-12-23",
+    "title": "民间诗刊《今天》创刊：朦胧诗的根据地",
+    "summary_30s": "1978年12月23日，北岛、芒克主编的民间文学刊物《今天》在北京创刊，印刷后在西单等处张贴售卖。刊物集中发表朦胧诗与知青文学，两年间成为新时期文学的策源地，1980年12月被停刊。",
+    "detail": "《今天》创刊号刊出北岛《回答》、食指诗歌等作品，编辑部设在北京东部一间小院，靠誊印与自办发行运转，订数一度上千。刊物团结了芒克、舒婷、顾城、江河、杨炼等诗人与史铁生等作家，其诗歌在《诗刊》转发后引发全国性的朦胧诗论争。",
+    "impact": "《今天》重塑了文革后汉语诗歌的语言与观念，民间刊物、自办发行的形态也为后来的文化空间提供了先例。",
+    "aftermath": "1990年《今天》在海外复刊，持续至今；朦胧诗一代人的作品成为1980年代文学记忆的核心文本。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 今天（杂志）", "url": "https://zh.wikipedia.org/wiki/今天（杂志）"}
+    ],
+    "tags": ["今天", "朦胧诗", "北岛", "民间刊物"]
+  },
+  {
+    "id": "1978-01-01-manhunt-film-china-release",
+    "date": "1978-01-01",
+    "title": "日本电影《追捕》引进公映：高仓健风靡中国",
+    "summary_30s": "1978年，上海电影译制片厂译制的日本电影《追捕》在中国公映，是文革后引进中国的第一部日本电影。高仓健饰演检察官杜丘的硬汉形象风靡全国，风衣与主题曲成为时代记忆，日本影视引进潮由此开启。",
+    "detail": "《追捕》由上译厂毕克、丁建华等配音，公映后场场爆满，不少影院昼夜连排。片中杜丘的风衣、真由美的发型被年轻人竞相模仿，电影插曲与台词广为流传。随后《望乡》《生死恋》等日本电影与《排球女将》等日剧接连引进，日本流行文化成为1980年代初中国城市青年的重要参照。",
+    "impact": "《追捕》让中国观众第一次在银幕上看到现代都市与异域生活，重新接续了中断十余年的中外电影交流，捧红了高仓健与上译配音群体。",
+    "aftermath": "高仓健此后多次访问中国并与张艺谋合作《千里走单骑》；中日影视交流随两国关系起伏，译制片配音艺术则成为一代人的集体记忆。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "中国作家网：他为一代中国观众打开一扇窗", "url": "http://www.chinawriter.com.cn/2014/2014-11-19/225034.html"}
+    ],
+    "tags": ["追捕", "高仓健", "上译配音", "引进电影"]
+  },
+  {
+    "id": "1978-01-01-mud1-created",
+    "date": "1978-01-01",
+    "title": "MUD1诞生：多人在线虚拟世界的起点",
+    "summary_30s": "1978年，英国埃塞克斯大学学生罗伊·特鲁布肖在PDP-10主机上写出MUD1，理查德·巴特尔随后把它扩展成可多人同时在线冒险的世界。这是第一款MUD（多用户地下城），网络游戏与网络社区的共同祖先。",
+    "detail": "特鲁布肖先实现底层引擎，巴特尔接手把规则、地图与玩家互动完善成型，两人用大学主机的闲置时段让校内外用户通过ARPANET与本地终端进入游戏。MUD1提供了文字描述的房间、怪物、任务与玩家交流，多人在同一虚拟世界中的互动由此成为可能。",
+    "impact": "MUD1确立了角色扮演、多人协作、虚拟社会等网络游戏的底层范式，聊天频道与玩家社群也是网络社交的雏形。",
+    "aftermath": "1980年代英美大学涌现大量MUD，图形化网络游戏与后来的MMO均由此演化；巴特尔至今仍是游戏学界的重要学者。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: MUD1", "url": "https://en.wikipedia.org/wiki/MUD1"}
+    ],
+    "tags": ["MUD", "网络游戏", "虚拟世界", "埃塞克斯大学"]
+  },
+  {
+    "id": "1979-01-01-china-us-diplomatic-relations",
+    "date": "1979-01-01",
+    "title": "中美正式建交：两国关系翻开新篇章",
+    "summary_30s": "1979年1月1日，中华人民共和国与美利坚合众国正式建立外交关系，美国与台湾当局断绝所谓外交关系。建交使中国与西方世界的经贸、科技、教育往来全面铺开，是中国融入国际体系的关键一步。",
+    "detail": "当天美国宣布终止与台湾的《共同防御条约》、一年内撤出驻台美军，中国则宣布即日起停止对金门等岛屿的炮击。同日全国人大常委会发表《告台湾同胞书》，提出和平统一方针。建交后留学生、考察团蜂拥赴美，美资企业开始试探中国市场。",
+    "impact": "中美建交为改革开放提供了最有利的国际环境，直接带动了此后数十年的中美经贸、留学与技术交流，也重塑了冷战末期的国际格局。",
+    "aftermath": "同年4月美国国会通过《与台湾关系法》，中方强烈反对；中美关系在建交与摩擦的交替中不断深化。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中华人民共和国—美国关系", "url": "https://zh.wikipedia.org/wiki/中华人民共和国—美国关系"}
+    ],
+    "tags": ["中美建交", "外交", "改革开放"]
+  },
+  {
+    "id": "1979-01-01-message-to-taiwan-compatriots",
+    "date": "1979-01-01",
+    "title": "《告台湾同胞书》发表：和平统一方针确立",
+    "summary_30s": "1979年1月1日，全国人大常委会发表《告台湾同胞书》，宣布停止对金门等岛屿的炮击，提出通过和平方式实现国家统一，建议两岸通邮、通商、通航。对台工作从此由军事对峙转向和平发展。",
+    "detail": "文告由叶剑英主持起草，以人大常委会名义发表，与中美建交同日公布。它郑重宣告尊重台湾现状、采取合情合理的政策与办法解决统一问题，并提出尽快实现三通、开展人员往来。同日国防部长徐向前发布停止炮击金门的命令，延续21年的金门炮战落幕。",
+    "impact": "和平统一取代武力解放成为对台基本方针，两岸交往的闸门逐步打开，为后来的九二共识与两岸经贸往来奠定政策起点。",
+    "aftermath": "1981年叶剑英提出叶九条、1983年邓小平谈和平统一构想，政策逐步具体化；1987年台湾当局开放探亲，两岸人员往来开始。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 告台湾同胞书", "url": "https://zh.wikipedia.org/wiki/告台湾同胞书"}
+    ],
+    "tags": ["告台湾同胞书", "对台方针", "和平统一"]
+  },
+  {
+    "id": "1979-01-28-deng-xiaoping-us-visit",
+    "date": "1979-01-28",
+    "title": "邓小平访美：新中国领导人首次踏上美国土地",
+    "summary_30s": "1979年1月28日至2月5日，邓小平对美国进行正式访问，与卡特总统会谈并出席多项公开活动，访问期间签署中美科技合作协定与文化协定。这是新中国成立后中国领导人首次访美，向世界宣示了中国的开放方向。",
+    "detail": "访问恰逢中国农历新年，邓小平在华盛顿与卡特就国际形势与双边关系会谈，在休斯顿观看牛仔竞技表演并戴上牛仔帽，在西雅图参观波音公司。1月31日双方签署科技合作协定，约定互派留学生与学者、开展科技合作，为之后数十万中国学生留美打开大门。",
+    "impact": "访美把中美关系的热度推到顶点，向国内与国际社会确认了中国改革开放的战略取向，中美科技合作由此制度化。",
+    "aftermath": "1978年首批公派留学生赴美后，自费留学迅速扩大；中美科技联委会此后延续至今，成为两国科技交往的固定机制。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 邓小平", "url": "https://zh.wikipedia.org/wiki/邓小平"}
+    ],
+    "tags": ["邓小平访美", "中美关系", "科技合作", "改革开放"]
+  },
+  {
+    "id": "1979-07-15-document-50-special-zones-decision",
+    "date": "1979-07-15",
+    "title": "中央50号文件下发：粤闽试办出口特区",
+    "summary_30s": "1979年7月15日，中央批转广东省委、福建省委关于对外经济活动实行特殊政策的报告（中发〔1979〕50号文件），同意在深圳、珠海、汕头、厦门试办出口特区。这纸文件是经济特区的直接源头，特区建设自此破题。",
+    "detail": "同年4月中央工作会议上，广东省委第一书记习仲勋提出利用毗邻港澳的优势办厂招商，邓小平表态中央没有钱，可以给些政策，自己去搞，杀出一条血路。会后谷牧率工作组赴两省调研，7月15日中央以50号文件批转两省报告，出口特区建设随之启动。",
+    "impact": "50号文件把对外开放从贸易、引资扩展到成片设立特殊经济区域，试验田模式的雏形形成，深圳的命运由此改写。",
+    "aftermath": "1980年5月中央41号文件将出口特区改称经济特区，同年8月全国人大常委会批准《广东省经济特区条例》，特区正式取得法律地位。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "中国经济改革研究基金会：中央没有钱，杀出一条血路来", "url": "http://www.chinareform.org.cn/2020/1016/34292.shtml"},
+      {"title": "共产党员网：辉煌历程——经济特区", "url": "https://www.12371.cn/2021/03/15/ARTI1615762837402710.shtml"}
+    ],
+    "tags": ["经济特区", "50号文件", "深圳", "对外开放"]
+  },
+  {
+    "id": "1979-07-01-sony-walkman-launch",
+    "date": "1979-07-01",
+    "title": "索尼Walkman发售：随身听开启个人音频时代",
+    "summary_30s": "1979年7月1日，索尼在日本发售世界第一台便携磁带随身听Walkman TPS-L2，定价3.3万日元。它把音乐从客厅搬到街头，重塑了青年文化与唱片业，Walkman一词随后进入英语词典，成为便携音乐的代名词。",
+    "detail": "盛田昭夫力主把记者用的Pressman录音机简化成纯放音机，配双耳机孔供两人共享。产品上市初期销售平平，索尼以年轻人边走边听的街拍营销扭转局面，首年销量超出预期，其后向全球铺开，系列累计销量逾3亿台。",
+    "impact": "Walkman确立了个人化、移动化的音乐消费方式，耳机成为文化符号，为后来CD随身听、MP3播放器直至流媒体时代的个人音频铺路。",
+    "aftermath": "1980年代 Walkman 在全球遭遇爱华、松下竞争，磁带之后CD、MD、数字播放不断更替；2010年索尼停止磁带Walkman生产。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Walkman", "url": "https://en.wikipedia.org/wiki/Walkman"}
+    ],
+    "tags": ["Walkman", "索尼", "随身听", "个人音频"]
+  },
+  {
+    "id": "1979-10-01-visicalc-release",
+    "date": "1979-10-01",
+    "title": "VisiCalc发布：第一个电子表格与杀手级应用",
+    "summary_30s": "1979年10月，丹·布莱克林与鲍勃·弗兰克斯顿开发的电子表格VisiCalc上市，最初只运行在Apple II上。企业第一次发现买一台电脑可以省下真金白银的核算时间，VisiCalc售出数十万份，成为公认的第一个杀手级应用。",
+    "detail": "布莱克林在哈佛商学院听课中萌生电子表格构想，与编程搭档弗兰克斯顿写成VisiCalc，由Personal Software公司发行。它在Apple II上售价99.5美元，上市后让这台游戏化的个人电脑摇身变为商业工具，数年间累计销售约70万份，带动Apple II大量进入中小企业。",
+    "impact": "VisiCalc确立了软件驱动硬件销售的产业逻辑，把电子表格变成会计、金融的标准工具，软件业第一次站到了台前。",
+    "aftermath": "1983年Lotus 1-2-3凭借IBM PC平台与更强功能夺走市场，VisiCalc被边缘化，其作者后来转向新的创业与公益。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: VisiCalc", "url": "https://en.wikipedia.org/wiki/VisiCalc"}
+    ],
+    "tags": ["VisiCalc", "电子表格", "Apple II", "软件业"]
+  },
+  {
+    "id": "1979-01-01-motorola-68000-introduced",
+    "date": "1979-01-01",
+    "title": "Motorola 68000问世：32位思路的传奇芯片",
+    "summary_30s": "1979年，摩托罗拉推出68000微处理器，对外16位接口、内部32位架构，集成约6.8万个晶体管。它先后驱动苹果Macintosh、Amiga、Atari ST与太阳工作站，也是世嘉街机与计算器的常用心脏，是x86之外最有影响力的处理器家族。",
+    "detail": "68000由摩托罗拉奥斯汀团队历时数年开发，线性地址空间与对称指令集让程序员如鱼得水，性能远超同期8位芯片。1980年批量供货后迅速被多家厂商选用，苹果Lisa与Macintosh、康懋达Amiga都以此为平台，Unix工作站厂商也广泛采用。",
+    "impact": "68000为图形化电脑与工作站提供了算力底座，其优雅架构培养了整整一代系统程序员，被称为最像大学教材的处理器。",
+    "aftermath": "苹果1994年转向PowerPC，摩托罗拉680x0家族逐渐退出主流，但老牌用户社区与怀旧开发至今活跃。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: Motorola 68000", "url": "https://en.wikipedia.org/wiki/Motorola_68000"}
+    ],
+    "tags": ["Motorola", "68000", "处理器", "Macintosh"]
+  },
+  {
+    "id": "1979-01-01-usenet-founded",
+    "date": "1979-01-01",
+    "title": "Usenet创立：全球网络社区的雏形",
+    "summary_30s": "1979年，杜克大学学生汤姆·特拉斯科特与吉姆·埃利斯构想出Usenet，用UUCP拨号在大学间转发分类讨论帖，史蒂夫·贝洛文等人随后写出第一版软件。新闻组由此成为互联网早期最大的公共讨论空间。",
+    "detail": "Usenet最初连接杜克、北卡教堂山与附近中学的三台主机，按主题分组的新闻组让任何人都能发帖讨论。它先于互联网大众化运行，1970至80年代通过UUCP与专线蔓延到全球高校，八大部分数千个组覆盖科技、文化、娱乐，成为最早的跨国线上社区。",
+    "impact": "Usenet孕育了网络讨论版、签名档、网络礼仪与匿名文化，FAQ、网络俚语等产物沿用至今，是网络社群文明的孵化器。",
+    "aftermath": "1990年代网页论坛与邮件列表分流用户，Google Groups 2001年收录其存档；随着服务器陆续关闭，Usenet在2010年代走向衰落。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: Usenet", "url": "https://en.wikipedia.org/wiki/Usenet"}
+    ],
+    "tags": ["Usenet", "新闻组", "网络社区", "UUCP"]
+  },
+  {
+    "id": "1979-03-28-three-mile-island-accident",
+    "date": "1979-03-28",
+    "title": "美国三里岛核电站事故：核电发展急刹车",
+    "summary_30s": "1979年3月28日，美国宾夕法尼亚州三里岛核电站2号机组因设备故障与操作失误导致堆芯部分熔毁，是美国历史上最严重的核事故。事故未造成直接的公众伤亡，但引发大规模恐慌，美国核电审批此后停滞数十年。",
+    "detail": "事故从给水泵故障开始，叠加阀门失灵、仪表误导与人员误判，导致堆芯冷却不足而部分熔化，约半数燃料受损，放射性物质主要被封在安全壳内。事故后约14万居民一度疏散，总统卡特亲赴现场，随后成立的调查委员会推动了整个行业的规程与监管改革。",
+    "impact": "三里岛事故使美国核电新批项目归零，全球核电进入审慎期，核安全文化与应急体系的现代标准由此确立。",
+    "aftermath": "2号机组清理耗资约10亿美元、历时14年；2019年三里岛剩余机组因经济原因停运，美国核电复兴至今步履维艰。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Three Mile Island accident", "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"}
+    ],
+    "tags": ["三里岛", "核事故", "核安全", "能源"]
+  },
+  {
+    "id": "1979-12-01-jobs-visits-xerox-parc",
+    "date": "1979-12-01",
+    "title": "乔布斯参观施乐PARC：图形界面启发未来",
+    "summary_30s": "1979年12月，乔布斯率苹果团队参观施乐帕洛阿尔托研究中心，首次看到Alto电脑的图形用户界面、鼠标与面向对象编程。苹果以允许施乐投资换取参观，此行直接催生了Lisa与Macintosh的图形化路线。",
+    "detail": "施乐当时的领导层以每股10美元的上市前股票份额为条件，安排乔布斯、比尔·阿特金森等人观看PARC演示。乔布斯看到重叠窗口、位图显示与所见即所得后异常激动，认定这是个人电脑的未来。阿特金森与拉里·泰斯勒后来加入苹果相关项目，PARC的构想被改造为消费级产品。",
+    "impact": "这次参观把实验室里的GUI理念带向大众市场，奠定了此后二十年图形操作系统的方向，也常被视为技术转移与错失商机的经典案例。",
+    "aftermath": "苹果1983年推出Lisa、1984年发布Macintosh；施乐1981年的Star工作站商业失败，PARC的成果多数由他人开花结果。",
+    "category": "tech",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Xerox PARC", "url": "https://en.wikipedia.org/wiki/Xerox_PARC"}
+    ],
+    "tags": ["施乐PARC", "GUI", "乔布斯", "苹果"]
+  },
+  {
+    "id": "1979-10-04-citic-founded",
+    "date": "1979-10-04",
+    "title": "中信公司成立：中国第一家信托投资机构",
+    "summary_30s": "1979年10月4日，中国国际信托投资公司在人民大会堂宣布成立，荣毅仁任董事长兼总经理。这家由邓小平点将的机构以2亿元起步，成为引进外资与国际合作的窗口，后发展为庞大的中信集团。",
+    "detail": "1979年1月邓小平约见荣毅仁等五位原工商业者，支持其办实业的建议；6月国务院批准成立中国国际信托投资公司，10月4日董事会正式成立。中信以信托、租赁、发债等方式为国内项目引资，1982年率先在日本发行 Samurai 债券，此后业务扩展到金融、贸易、实业。",
+    "impact": "中信把市场化融资平台与国际资本对接，为改革开放初期提供了一条绕开意识形态顾虑的引资通道，也培养了中国第一批现代金融人才。",
+    "aftermath": "1993年荣毅仁当选国家副主席；中信2002年改制为集团，2014年中信股份在港整体上市，成为横跨金融与实业的巨型企业。",
+    "category": "company",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "中国改革信息库：第一家信托投资公司成立", "url": "http://www.reformdata.org/1979/1004/28122.shtml"},
+      {"title": "澎湃新闻：历史上的今天，中国第一家信托机构成立", "url": "https://www.thepaper.cn/newsDetail_forward_34164210"}
+    ],
+    "tags": ["中信", "荣毅仁", "信托", "引进外资"]
+  },
+  {
+    "id": "1979-01-01-dazhong-dianying-republish",
+    "date": "1979-01-01",
+    "title": "《大众电影》复刊：电影热潮中的国民杂志",
+    "summary_30s": "1979年1月，停刊十余年的《大众电影》在北京复刊。伴随影院恢复排片与中外老片新片重映，杂志迅速热销，1981年最高单期发行量近千万册，创下世界电影期刊纪录，其恢复的百花奖成为全民电影投票的招牌。",
+    "detail": "《大众电影》1950年创刊，1966年停刊，复刊后由上海迁回北京编辑出版。复刊号供不应求，杂志社门口排起长队；1980年恢复中断17年的大众电影百花奖，选票随刊附送，1981年第三届百花奖收到选票260余万张，成为那个年代罕见的全民评选。",
+    "impact": "《大众电影》是文革后大众娱乐生活复苏的风向标，其封面封底明星照与百花奖投票塑造了中国最早的粉丝文化。",
+    "aftermath": "杂志1990年代随电影市场波动发行量下滑，历经多次改版；百花奖则延续至今，仍是中国重要的大众电影奖项。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "百度百科：大众电影", "url": "https://baike.baidu.com/item/大众电影"},
+      {"title": "搜狐：《大众电影》70年辉煌与叹息", "url": "https://www.sohu.com/a/229029287_100136250"}
+    ],
+    "tags": ["大众电影", "百花奖", "杂志", "电影热"]
+  },
+  {
+    "id": "1980-07-01-ibm-pc-project-chess",
+    "date": "1980-07-01",
+    "title": "IBM秘密启动个人电脑项目：代号象棋",
+    "summary_30s": "1980年7月，IBM在佛罗里达州博卡拉顿组建12人小组，负责人菲利普·埃斯特里奇，项目代号象棋（Project Chess），限期一年造出个人电脑。为赶进度，IBM破例采用开放架构与外购软硬件，一年后IBM PC问世并改写产业格局。",
+    "detail": "IBM此前看轻微型机市场，被Apple II等侵蚀商用领域后决定快速跟进。象棋项目绕开公司标准流程，处理器采用英特尔8088，操作系统交给微软，微软又从西雅图电脑产品公司购得86-DOS改造为PC DOS。1981年8月IBM PC上市，当年销量远超公司内部预估，大型机的金字塔第一次被自家产品撼动。",
+    "impact": "开放架构与外购策略让无数兼容机厂商得以入场，Wintel联盟就此成型，个人电脑产业的游戏规则由大型机厂商亲手改写。",
+    "aftermath": "埃斯特里奇1990年代成为IBM内部传奇后因空难去世；兼容机大军在1980年代崛起，IBM最终失去PC市场主导权。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: IBM Personal Computer", "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer"}
+    ],
+    "tags": ["IBM", "IBM PC", "象棋项目", "埃斯特里奇"]
+  },
+  {
+    "id": "1980-01-01-zx80-launch",
+    "date": "1980-01-01",
+    "title": "辛克莱ZX80上市：百英镑以内的家用电脑",
+    "summary_30s": "1980年初，英国辛克莱研究推出ZX80，整装版99.95英镑、套件版79.95英镑，是英国第一台百镑以下的家用电脑。它靠低价把电脑卖进普通家庭，上市即供不应求，为次年的ZX81与整个英国家用电脑热潮奠基。",
+    "detail": "ZX80由克里夫·辛克莱团队设计，采用NEC代工的Z80兼容芯片与紧凑的内置BASIC，用电视作显示器、盒式磁带作存储。整机薄如书本、价格亲民，上市后订单积压数月，辛克莱借BBC计算机扫盲计划的风口迅速扩张。",
+    "impact": "ZX80证明了超低价电脑的市场，让英国在1980年代初成为人均电脑拥有率最高的国家之一，也培养了大批自己敲BASIC的少年。",
+    "aftermath": "1981年ZX81以更低价格大卖，1982年Spectrum成为英国家用电脑经典；辛克莱公司此后经营起伏，最终在1990年代式微。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: ZX80", "url": "https://en.wikipedia.org/wiki/ZX80"}
+    ],
+    "tags": ["ZX80", "辛克莱", "家用电脑", "英国"]
+  },
+  {
+    "id": "1980-05-22-pac-man-release",
+    "date": "1980-05-22",
+    "title": "《吃豆人》上市：街机史上的国民游戏",
+    "summary_30s": "1980年5月22日，日本南梦宫发行岩谷彻设计的街机游戏《吃豆人》。它避开暴力对战、面向男女老少，成为史上最畅销的街机游戏之一，黄色缺角圆脸成为电子游戏第一个国民级形象符号。",
+    "detail": "岩谷彻从缺角披萨获得灵感，设计了以吃豆子、躲幽灵为主题的游戏，引入追逐、能量豆反杀与过场动画。游戏在日本与北美大卖，北美机器销量超过10万台，1981至1987年间衍生品、动画、歌曲全面开花，米德威公司负责北美发行使其知名度倍增。",
+    "impact": "《吃豆人》把街机受众从青少年男性扩展到全人群，证明了角色IP的商业价值，游戏角色第一次像卡通明星一样被大众认知。",
+    "aftermath": "续作《吃豆小姐》1982年问世并成为首个登上杂志封面的游戏角色；吃豆人至今仍是万代南梦宫的长期IP，速通与AI研究常以其为试金石。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Pac-Man", "url": "https://en.wikipedia.org/wiki/Pac-Man"}
+    ],
+    "tags": ["吃豆人", "街机", "南梦宫", "游戏"]
+  },
+  {
+    "id": "1980-06-01-cnn-launch",
+    "date": "1980-06-01",
+    "title": "CNN开播：24小时新闻频道的开端",
+    "summary_30s": "1980年6月1日，特德·特纳创办的有线电视新闻网CNN在亚特兰大开播，成为世界上第一个全天24小时播出的新闻频道。开播初年持续亏损、被同行讥讽为鸡汤面新闻网，但全天候直播的模式最终改写了全球电视新闻。",
+    "detail": "特纳以自家超级电视台的利润押注新闻频道，首播由夫妻主播主持，前几年用户覆盖与广告不足导致巨额亏损。1981年里根遇刺、后来的海湾战争直播让CNN确立权威，1990年代其国际频道覆盖全球，突发新闻直播成为电视业的默认设置。",
+    "impact": "CNN开创了新闻的实时化与全球化，重大事件从此被滚动直播围观，新闻机构的时间观念与叙事方式被永久改变。",
+    "aftermath": "海湾战争时的CNN一战成名；进入21世纪后，CNN与全球新闻网络一样经历有线衰落与数字化转型，特纳2000年代逐渐淡出。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: CNN", "url": "https://en.wikipedia.org/wiki/CNN"}
+    ],
+    "tags": ["CNN", "新闻频道", "特德·特纳", "媒体"]
+  },
+  {
+    "id": "1980-09-30-dix-ethernet-spec",
+    "date": "1980-09-30",
+    "title": "DIX以太网规范发布：局域网走向开放标准",
+    "summary_30s": "1980年9月30日，DEC、英特尔与施乐三家公司联合发布以太网规范1.0版（俗称蓝皮书），把鲍勃·梅特卡夫1973年在施乐PARC发明的以太网推向开放市场。1983年它成为IEEE 802.3标准，此后统治局域网至今。",
+    "detail": "梅特卡夫与大卫·博格斯在PARC的Alto电脑间实现了同轴电缆上的冲突检测多路访问网络，施乐内部使用多年后，DEC、英特尔、施乐组成DIX联盟制定开放规范，允许任何厂商生产兼容设备。规范发布后迅速被小型机与工作站厂商采纳，1982年DIX 2.0版进一步完善。",
+    "impact": "开放的以太网击败令牌环等竞争方案，成为办公室联网的事实标准，为后来的互联网接入与数据中心网络提供了统一底座。",
+    "aftermath": "1983年IEEE 802.3正式标准化以太网；从10M到400G，历经双绞线、光纤与交换式架构，以太网仍是全球局域网的绝对主流。",
+    "category": "internet",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Ethernet", "url": "https://en.wikipedia.org/wiki/Ethernet"}
+    ],
+    "tags": ["以太网", "DIX", "局域网", "IEEE 802.3"]
+  },
+  {
+    "id": "1980-01-01-seagate-st506",
+    "date": "1980-01-01",
+    "title": "希捷ST-506问世：个人电脑的第一块硬盘",
+    "summary_30s": "1980年，艾伦·舒加特创办的希捷科技推出ST-506，容量5MB、5.25英寸规格、售价1500美元，是第一块为微型计算机设计的硬盘。它让个人电脑拥有了像样的本地存储，ST-506接口随后成为微机硬盘的事实标准。",
+    "detail": "舒加特此前创办的Shugart Associates以软盘闻名，1979年再创希捷，次年推出ST-506。它把硬盘从洗衣机大小的机房设备缩小到能装进机箱，随后的ST-412被IBM PC XT采用，希捷由此成为磁盘行业龙头。ST-506/412接口在1980年代广泛用于AT、XT及兼容机。",
+    "impact": "ST-506让微机迈过大容量存储门槛，软件、数据库与桌面应用得以在个人电脑上成立，硬盘从此成为PC的标配部件。",
+    "aftermath": "ST-506接口1990年代被IDE/ATA取代；希捷在磁盘技术竞赛中持续领先，至今仍是全球最大的硬盘制造商之一。",
+    "category": "hardware",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: Seagate ST-506", "url": "https://en.wikipedia.org/wiki/Seagate_ST-506"}
+    ],
+    "tags": ["希捷", "ST-506", "硬盘", "存储"]
+  },
+  {
+    "id": "1980-09-10-individual-income-tax-law",
+    "date": "1980-09-10",
+    "title": "首部个人所得税法通过：税制与市场并轨的起点",
+    "summary_30s": "1980年9月10日，五届全国人大三次会议通过《中华人民共和国个人所得税法》，这是新中国第一部个人所得税法律，起征点定于800元。当时普通工薪收入远低于起征点，个税最初主要针对外籍高收入者，税制改革自此起步。",
+    "detail": "为适应对外开放后外籍人员与合资企业人员的纳税需求，人大会议通过个税法，以800元起征点、超额累进税率建立制度框架。此后几十年间中国经济飞速变化，个税法历经1993、1999、2005、2007、2011、2018年多次修订，起征点从800元逐步提高到3500元、5000元。",
+    "impact": "个税法的通过标志着中国税制向现代税制转型的开端，为后来的企业所得税、涉外税法体系提供了立法范本。",
+    "aftermath": "随收入增长个税从外籍专属变为覆盖广泛工薪族的税种，2018年修法引入专项附加扣除，综合与分类相结合的税制初步成型。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中华人民共和国个人所得税法", "url": "https://zh.wikipedia.org/wiki/中华人民共和国个人所得税法"}
+    ],
+    "tags": ["个人所得税", "税制改革", "立法"]
+  },
+  {
+    "id": "1980-01-01-rubiks-cube-global-launch",
+    "date": "1980-01-01",
+    "title": "魔方全球发售：一项教具变成世界玩物",
+    "summary_30s": "1980年，匈牙利教授鲁比克·艾尔诺1974年发明的三维智力玩具魔方经美国Ideal玩具公司推向全球市场，迅速风靡世界，1980至1983年间售出上亿个，成为史上最畅销的玩具之一，也催生了速拧竞速文化。",
+    "detail": "鲁比克原本为帮助学生理解三维空间而造出魔方，1977年在匈牙利小规模销售。Ideal公司在纽伦堡与伦敦玩具展上获得国际代理权，1980年起以Rubiks Cube之名全球发售，凭借电视广告与解法书籍形成狂潮，1981年相关解法书登上畅销榜前列。",
+    "impact": "魔方成为智力玩具与流行文化的双重符号，其组合数学与群论内涵也让它进入课堂与科研视野，速拧社群延续至今。",
+    "aftermath": "1980年代热潮退却后魔方历经沉浮，2000年代速拧运动复兴，世界纪录不断刷新，魔方也常被用作算法与人工智能的研究案例。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "year",
+    "sources": [
+      {"title": "Wikipedia: Rubiks Cube", "url": "https://en.wikipedia.org/wiki/Rubik%27s_Cube"}
+    ],
+    "tags": ["魔方", "鲁比克", "玩具", "流行文化"]
+  },
+  {
+    "id": "1980-08-31-gdansk-agreement-solidarity",
+    "date": "1980-08-31",
+    "title": "格但斯克协议签署：团结工会合法化",
+    "summary_30s": "1980年8月31日，波兰政府与格但斯克列宁造船厂罢工工人代表瓦文萨签署协议，同意工人组建独立自治工会。团结工会随后迅速壮大，成员一度近千万，成为东欧阵营内部第一个获官方承认的独立工会。",
+    "detail": "罢工自8月中旬造船厂开始，由露天谈判扩及全国数百工厂，政府最终签署包括涨薪、组工自由、言论松动等21项要求的协议。团结工会到1981年拥有约950万成员，1981年12月波兰宣布军管、瓦文萨被捕，工会转入地下并获西方广泛声援。",
+    "impact": "格但斯克协议撼动了东欧体制的刚性结构，团结工会成为体制内改革力量的旗帜，其存续为东欧剧变埋下伏笔。",
+    "aftermath": "1989年波兰圆桌会议上团结工会重新合法化并赢得大选，瓦文萨1990年当选总统，东欧阵营随之接连更替。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Gdansk Agreement", "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Agreement"},
+      {"title": "Wikipedia: 团结工会", "url": "https://zh.wikipedia.org/wiki/团结工会"}
+    ],
+    "tags": ["团结工会", "格但斯克", "瓦文萨", "东欧"]
+  },
+  {
+    "id": "1980-12-01-astro-boy-cctv",
+    "date": "1980-12-01",
+    "title": "《铁臂阿童木》登陆央视：首部引进的海外系列动画",
+    "summary_30s": "1980年12月，中央电视台开始播出日本动画《铁臂阿童木》，这是中国内地引进的第一部国外系列动画片。黑白版阿童木每晚准时飞行，首集收视率即达27.4%，一代孩子的动画记忆由此开启，日本动画引进潮随之而来。",
+    "detail": "央视播出的是手冢治虫1963年版黑白动画，由上海等地配音班底译制。节目播出后反响热烈，城市儿童放学回家守候电视机成为普遍景象。此前1979年央视已开始译播海外动画短片，《阿童木》则第一次以系列连续剧形态进入中国家庭，随后《聪明的一休》《变形金刚》等相继引进。",
+    "impact": "《阿童木》为中国观众建立了系列动画这一全新娱乐形态，带动了中国动画译制体系成型，也刺激了国产动画的转型讨论。",
+    "aftermath": "手冢治虫1988年访华与万籁鸣会面，中日动画交流进入蜜月；1980年代末国产动画在外来动画冲击下开始探索市场化。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "百度百科：阿童木", "url": "https://baike.baidu.com/item/阿童木/8980118"},
+      {"title": "文汇报：还记得《铁臂阿童木》吗", "url": "https://wenhui.whb.cn/third/baidu/201910/24/296390.html"}
+    ],
+    "tags": ["铁臂阿童木", "央视", "引进动画", "手冢治虫"]
+  },
+  {
+    "id": "1980-10-01-computerworld-china-founding",
+    "date": "1980-10-01",
+    "title": "《计算机世界》报创刊：中外合办的IT行业第一报",
+    "summary_30s": "1980年秋，中国电子科技情报研究所与美国IDG集团合办的《计算机世界》报在北京创刊，是中国第一份面向计算机与信息产业的报纸，也是中外合资媒体的先行者，此后见证并记录了中国IT业四十余年的成长。",
+    "detail": "报纸创办初期仅16人，半月刊每期16版，借助IDG的国际信息网络与国内部委渠道，成为中国计算机从业者获取业界动态的主要平台。1986年改为周刊，90年代跻身全国报业十强，刊载过联想、方正、华为等企业成长的报道，史玉柱的第一个广告也见于其版面。",
+    "impact": "《计算机世界》构建了中国最早的IT产业公共信息平台，连接政府、厂商与用户，为计算机在中国的普及与市场化提供了舆论阵地。",
+    "aftermath": "互联网媒体兴起后纸媒式微，该报2021年停发纸质版、2022年停工停刊，留下半部中国IT史之誉。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "百度百科：计算机世界", "url": "https://baike.baidu.com/item/计算机世界/9952113"}
+    ],
+    "tags": ["计算机世界", "IT媒体", "IDG", "行业报纸"]
+  },
+  {
+    "id": "1981-08-12-ibm-pc-launch",
+    "date": "1981-08-12",
+    "title": "IBM PC发布：个人电脑行业标准就此定型",
+    "summary_30s": "1981年8月12日，IBM在纽约发布个人电脑IBM PC（型号5150），起价1565美元，采用英特尔8088与微软PC DOS。开放架构加外购策略使其迅速成为行业标杆，兼容机产业与Wintel格局由此确立，个人电脑进入企业主流。",
+    "detail": "IBM PC由博卡拉顿的象棋项目团队在约一年内完成，主板开放插槽、技术文档公开，允许第三方扩展。上市后销量远超预期，企业客户与家庭用户争相购买，康柏等公司1982年起推出兼容机。IBM原预计五年售出24万台，实际远超预期，个人电脑自此成为工业标准产品。",
+    "impact": "IBM PC把个人电脑从爱好者的玩物变成办公室的标配，确立了CPU加操作系统的平台权力结构，微软与英特尔借势崛起。",
+    "aftermath": "兼容机厂商逐步蚕食市场，IBM 1987年推出封闭架构的PS/2未能夺回主导权，2005年IBM将PC业务出售给联想。",
+    "category": "product",
+    "milestone": true,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: IBM Personal Computer", "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer"}
+    ],
+    "tags": ["IBM PC", "个人电脑", "微软", "Wintel"]
+  },
+  {
+    "id": "1981-07-27-microsoft-buys-86-dos",
+    "date": "1981-07-27",
+    "title": "微软买断86-DOS：DOS王朝的地基",
+    "summary_30s": "1981年7月27日，微软以约5万美元买断西雅图电脑产品公司的86-DOS全部版权。这个由蒂姆·帕特森编写、被改造为PC DOS随IBM PC销售的系统，让微软从语言软件商一跃成为操作系统霸主，奠定了此后二十年的事业地基。",
+    "detail": "1980年11月与IBM签约后，微软以2.5万美元获得86-DOS的非独占授权并改造为IBM PC的系统盘；随着PC上市在即，微软再付5万美元取得独占版权，随后注册MS-DOS。关键条款是微软保留向其他厂商授权的权利，兼容机潮涌来时微软坐收授权费，盖茨后来称此为全行业最划算的交易之一。",
+    "impact": "买断86-DOS使微软掌控了PC操作系统的源头，非独占授权条款让Windows帝国有了最初的现金流与渠道，操作系统成为软件业最肥沃的地层。",
+    "aftermath": "MS-DOS随兼容机铺满全球，90年代Windows接棒；西雅图电脑产品公司一度诉诸法律后和解，蒂姆·帕特森后加入微软。",
+    "category": "company",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 86-DOS", "url": "https://en.wikipedia.org/wiki/86-DOS"}
+    ],
+    "tags": ["微软", "MS-DOS", "86-DOS", "IBM PC"]
+  },
+  {
+    "id": "1981-04-27-xerox-star-launch",
+    "date": "1981-04-27",
+    "title": "施乐8010 Star上市：第一台商用图形界面工作站",
+    "summary_30s": "1981年4月27日，施乐推出8010信息系统的桌面方案Star，配备图形用户界面、鼠标、桌面隐喻与所见即所得编辑，是第一台商品化的GUI电脑。因整机加网络售价高达数万美元，Star商业失败，但它的理念统治了后来的桌面世界。",
+    "detail": "Star脱胎于PARC的Alto与D系列研究机，提供了图标、文件夹、桌面、打印服务等完整办公隐喻，用户无需命令行即可工作。套装售价约1.6万美元起，面向大企业办公自动化的定位在IBM PC低价浪潮前毫无还手之力，销量惨淡。乔布斯与微软高层此后均观摩过Star的界面。",
+    "impact": "Star验证了图形界面的可用性并把桌面隐喻固化为行业标准，苹果与微软的GUI产品都从中汲取了直接经验。",
+    "aftermath": "苹果1983年Lisa与1984年Macintosh相继落地，施乐则以诉讼苹果未果告终，GUI的理念专利之争反而让桌面范式扩散得更快。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Xerox Star", "url": "https://en.wikipedia.org/wiki/Xerox_Star"}
+    ],
+    "tags": ["Xerox Star", "GUI", "工作站", "施乐"]
+  },
+  {
+    "id": "1981-04-01-osborne-1-unveiled",
+    "date": "1981-04-01",
+    "title": "Osborne 1亮相：第一台批量销售的便携电脑",
+    "summary_30s": "1981年4月，亚当·奥斯本推出手提箱式便携电脑Osborne 1，售价1795美元还捆绑约1500美元的软件，上市后订单火爆，月销一度破万台。它是第一台大规模商业成功的便携电脑，其公司也因营销失误成为教科书式的反面案例。",
+    "detail": "Osborne 1重约11公斤，可塞进行李舱，自带5英寸屏幕、CP/M系统与WordStar、SuperCalc等软件。低价捆绑策略使其销量迅速爬升，但1983年公司提前高调宣布性能更强的Vixen与Executive，用户停止购买现有机型（后世称为奥斯本效应），资金链断裂，公司当年破产。",
+    "impact": "Osborne 1开创了便携电脑品类与捆绑软件的定价方式，奥斯本效应则成为产品发布时机的经典管理教训。",
+    "aftermath": "康柏1983年推出可兼容IBM PC的便携机接棒便携市场；奥斯本本人后来转向写作与教育，公司兴衰被反复写入商业案例。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "single-source",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: Osborne 1", "url": "https://en.wikipedia.org/wiki/Osborne_1"}
+    ],
+    "tags": ["Osborne 1", "便携电脑", "CP/M", "奥斯本效应"]
+  },
+  {
+    "id": "1981-03-01-zx81-launch",
+    "date": "1981-03-01",
+    "title": "辛克莱ZX81发售：49英镑的国民电脑",
+    "summary_30s": "1981年3月，辛克莱推出ZX81，套件版49.95英镑、整装版69.95英镑，内存仅1KB。它以极致压缩的成本把电脑送进数十万英国家庭，累计售出约150万台，是英国计算机扫盲热潮中最具代表性的一台。",
+    "detail": "ZX81把ZX80的电路再精简，芯片从21颗减到4颗，用电视作显示器、磁带作存储，BASIC解释器只有8KB。低价加上《Your Computer》等杂志的自学文化，让大批英国少年从敲入程序起步进入编程世界，美国市场由Timex以TS1000之名销售亦曾热销。",
+    "impact": "ZX81降低了编程入门门槛，养成了整整一代英国程序员，廉价家用电脑与杂志教程的组合成为独特的英式IT启蒙路径。",
+    "aftermath": "1982年Spectrum以彩色与更大内存续写辉煌；ZX81如今是收藏市场上的经典，其极简设计仍被电子爱好者复刻。",
+    "category": "product",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "Wikipedia: ZX81", "url": "https://en.wikipedia.org/wiki/ZX81"}
+    ],
+    "tags": ["ZX81", "辛克莱", "家用电脑", "编程启蒙"]
+  },
+  {
+    "id": "1981-07-09-donkey-kong-release",
+    "date": "1981-07-09",
+    "title": "街机《大金刚》发售：马力欧的第一次登场",
+    "summary_30s": "1981年7月9日，任天堂发行宫本茂设计的街机游戏《大金刚》。玩家操控木匠（后演变为马力欧）攀爬钢架营救女友，游戏在北美大卖，捧红了马力欧的前身，也让宫本茂踏上游戏设计大师之路。",
+    "detail": "任天堂为北美街机市场打造的《大金刚》把跳跃动作与关卡设计结合，开箱即成为热销机型，北美售出约6万余台。1982年环球影业诉任天堂侵犯金刚版权，法院认定金刚角色已进入公有领域，任天堂胜诉并获得巨额赔偿请求权，此案成为游戏业版权法经典判例。",
+    "impact": "《大金刚》确立了平台跳跃的关卡叙事，马力欧由此诞生，任天堂从花札纸牌厂完成了向游戏巨头的转身。",
+    "aftermath": "1983年《马力欧兄弟》确立系列地位，马力欧成为全球最有价值的游戏IP之一；宫本茂后续主导塞尔达等经典系列。",
+    "category": "culture",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: Donkey Kong (1981 video game)", "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)"}
+    ],
+    "tags": ["大金刚", "任天堂", "马力欧", "宫本茂"]
+  },
+  {
+    "id": "1981-04-12-sts-1-columbia-launch",
+    "date": "1981-04-12",
+    "title": "哥伦比亚号首飞：航天飞机时代开幕",
+    "summary_30s": "1981年4月12日，哥伦比亚号航天飞机完成STS-1任务，这是航天飞机首次载人飞行，宇航员扬与克里彭驾机绕地36圈后安全返航。可重复使用的航天飞机自此投入运营，人类的太空运输方式进入新阶段。",
+    "detail": "首飞原定当天升空因计算机故障推迟，最终在未经无人试飞的情况下直接载人上天，暴露出NASA的巨大压力与自信。任务持续约54小时，验证了防热瓦、机械臂与滑翔着陆等关键系统。航天飞机此后执行了135次任务，承担卫星部署、哈勃维修与空间站建设。",
+    "impact": "STS-1开启了可重复使用航天器的时代，太空实验室式的定期往返成为可能，也塑造了1980至90年代美国载人航天的基本形态。",
+    "aftermath": "1986年挑战者号与2003年哥伦比亚号失事令14名宇航员遇难，航天飞机2011年退役，美国载人航天转入商业飞船与新火箭时代。",
+    "category": "world",
+    "milestone": false,
+    "region": "world",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: STS-1", "url": "https://en.wikipedia.org/wiki/STS-1"}
+    ],
+    "tags": ["航天飞机", "哥伦比亚号", "NASA", "载人航天"]
+  },
+  {
+    "id": "1981-06-27-historical-resolution-adopted",
+    "date": "1981-06-27",
+    "title": "十一届六中全会通过《历史决议》",
+    "summary_30s": "1981年6月27日，中共十一届六中全会通过《关于建国以来党的若干历史问题的决议》，对新中国成立32年来的重大历史作出官方结论，否定文化大革命，同时维护毛泽东的历史地位与毛泽东思想，全党思想由此统一到改革开放路线上。",
+    "detail": "决议起草历时一年多，经数千人讨论修改，对反右、大跃进、文革等历史事件分阶段评价，明确文革是领导者错误发动、被反革命集团利用的内乱。全会同时接受华国锋辞去党中央主席职务的请求，选举胡耀邦任主席，邓小平任中央军委主席，领导层完成新一轮调整。",
+    "impact": "历史决议为拨乱反正画上句号，既否定了极左路线又避免了全盘否定，为全面改革和后来的经济腾飞提供了稳定的政治与意识形态基础。",
+    "aftermath": "决议确立的评价框架延续至今，是官方党史叙事的基石；人事调整后胡耀邦主政，改革在1980年代加速推进。",
+    "category": "national",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 关于建国以来党的若干历史问题的决议", "url": "https://zh.wikipedia.org/wiki/关于建国以来党的若干历史问题的决议"}
+    ],
+    "tags": ["历史决议", "十一届六中全会", "拨乱反正", "改革开放"]
+  },
+  {
+    "id": "1981-01-16-treasury-bonds-resume",
+    "date": "1981-01-16",
+    "title": "新中国恢复发行国库券：国债市场的起点",
+    "summary_30s": "1981年1月16日，国务院通过并颁布《中华人民共和国国库券条例》，中断22年后恢复发行国内国债。首期计划40亿元、实际认购46.65亿元，主要向单位与城乡个人摊派。国库券的恢复标志着中国债务融资与金融市场的重新起步。",
+    "detail": "1959年起中国停止发行国内公债，1979年后财政出现赤字，中央决定以国库券弥补。首批国库券年利率4%，期限5到9年，初期不许流通转让，黑市折价交易随之出现。1988年国库券转让试点在61个城市铺开，二级市场自此成形，为后来的债券市场体系奠基。",
+    "impact": "恢复国债发行让财政第一次有了市场化的融资工具，也催生了证券交易、证券公司与中国资本市场的原始形态。",
+    "aftermath": "1990年沪深交易所开业后国债现货与期货交易逐步规范，1995年327国债期货风波后期货整顿，国债市场转入银行间市场时代。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "搜狐新闻：1981年1月16日新中国第一次发行国库券", "url": "http://news.sohu.com/20060915/n261099740.shtml"}
+    ],
+    "tags": ["国库券", "国债", "财政", "金融市场"]
+  },
+  {
+    "id": "1981-12-13-economic-contract-law",
+    "date": "1981-12-13",
+    "title": "《经济合同法》通过：市场交易有了第一根法轨",
+    "summary_30s": "1981年12月13日，五届全国人大四次会议通过《中华人民共和国经济合同法》，1982年7月1日施行。这是新中国第一部系统调整合同关系的法律，购销、建设工程、借款、租赁等经济往来从此有法可依，市场化交易获得制度保障。",
+    "detail": "经济合同法确立平等主体间合同订立、履行、违约责任的基本规则，明确经济合同受国家计划指导的过渡性特征。它与1981年的中外合资经营企业所得税法等共同构成改革开放初期的民商事立法骨架，1993年为适应市场经济修法，1999年被统一的《合同法》取代。",
+    "impact": "该法让企业间交易摆脱行政调拨惯性，仲裁与诉讼解决合同纠纷成为常态，为合同自由与契约精神在中国的生长提供了第一根法轨。",
+    "aftermath": "统一合同法1999年施行后经济合同法废止，其规则大多融入新法；2021年《民法典》合同编进一步集大成。",
+    "category": "economy",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "Wikipedia: 中华人民共和国经济合同法", "url": "https://zh.wikipedia.org/wiki/中华人民共和国经济合同法"}
+    ],
+    "tags": ["经济合同法", "立法", "市场经济", "合同"]
+  },
+  {
+    "id": "1981-11-20-yeast-trna-synthesis",
+    "date": "1981-11-20",
+    "title": "人工全合成酵母丙氨酸tRNA成功：中国生命科学再攀高峰",
+    "summary_30s": "1981年11月20日，王德宝领导的协作组在世界上首次人工合成了具有完整生物活性的酵母丙氨酸转移核糖核酸，76个核苷酸的全合成历时13年。这是继人工合成牛胰岛素之后中国在生命科学领域的又一项世界级突破。",
+    "detail": "项目代号824，由中科院上海生化所牵头，联合细胞所、有机所、生物物理所与北京大学等协作攻关，采用化学加酶促方法合成两个半分子再连接成整分子，并验证其接受氨基酸与参与蛋白质合成的完整活性。成果1987年获国家自然科学奖一等奖，论文发表于《中国科学》。",
+    "impact": "这项工作确立了中国在核酸人工合成领域的国际地位，积累了寡核苷酸合成与酶连接的技术体系，为后来的基因工程研究储备了人才与方法。",
+    "aftermath": "协作组骨干后来分布到国内主要分子生物学机构，中国的基因合成、RNA研究与技术转化由此获得了早期技术积累。",
+    "category": "tech",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "exact",
+    "sources": [
+      {"title": "上海市科委：我国在世界上首次人工合成酵母丙氨酸转移核糖核酸", "url": "https://stcsm.sh.gov.cn/xwzx/zt/shkjssdjt/zzbd/20211215/5dcb83da38364090a989e3a587dad5dc.html"},
+      {"title": "百度百科：酵母丙氨酸转移核糖核酸", "url": "https://baike.baidu.com/item/酵母丙氨酸转移核糖核酸/3756851"}
+    ],
+    "tags": ["酵母丙氨酸tRNA", "王德宝", "人工合成", "生命科学"]
+  },
+  {
+    "id": "1981-02-05-diying-shibanian-first-tv-series",
+    "date": "1981-02-05",
+    "title": "《敌营十八年》春节期间播出：中国第一部电视连续剧",
+    "summary_30s": "1981年春节期间，9集连续剧《敌营十八年》在中央电视台播出，这是中国大陆第一部电视连续剧。谍战故事让全国观众第一次追剧，万人空巷的收视盛况开启了中国电视剧的时代。",
+    "detail": "该剧由王扶林、都郁执导，张连文主演地下工作者江波，拍摄于1980年，条件简陋到主演服装都要临时借用。剧集以每天连播的方式在春节档播出，收视率极高，主题曲《曙光在前头》随之传唱。此后《武松》《霍元甲》等连续剧陆续出现，电视剧取代电影成为家庭娱乐中心。",
+    "impact": "《敌营十八年》验证了连续剧这一形态在中国的巨大号召力，推动央视与各地电视台把电视剧生产提上日程，国产剧产业自此发端。",
+    "aftermath": "1980年代国产剧与引进剧共同繁荣，《西游记》《红楼梦》相继诞生；本剧2008年被翻拍，谍战类型则成为国产剧长盛不衰的门类。",
+    "category": "culture",
+    "milestone": false,
+    "region": "cn",
+    "date_confidence": "verified",
+    "date_accuracy": "month",
+    "sources": [
+      {"title": "百度百科：敌营十八年（1981年电视剧）", "url": "https://baike.baidu.com/item/敌营十八年/5482416"},
+      {"title": "Wikipedia: 敌营十八年（1981年电视剧）", "url": "https://zh.wikipedia.org/wiki/敌营十八年（1981年电视剧）"}
+    ],
+    "tags": ["敌营十八年", "电视连续剧", "央视", "电视剧"]
+  }
+]
