@@ -54,6 +54,8 @@
 .evItem .star{color:var(--accent);font-size:.8rem}
 .evItem .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:6px 0 0}
 .evItem .meta{margin-top:8px;font-family:var(--mono);font-size:.68rem;color:var(--faint)}
+.evJump{color:var(--accent);text-decoration:none;margin-left:10px}
+.evJump:hover{text-decoration:underline}
 </style>
 </head>
 <body>
@@ -76,14 +78,15 @@ const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+const DATA_BUILD = '20261024a';
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {
-      const r = await fetch(url + '.gz');
+      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
       if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
     } catch (e) { /* 回退 */ }
   }
-  return await (await fetch(url)).json();
+  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
 }
 
 function pad(n) { return String(n).padStart(2, '0'); }
@@ -143,7 +146,7 @@ function selectDay(key) {
     div.className = 'evItem';
     div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${esc(e.title)}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
       ${e.summary ? `<p class="sm">${esc(e.summary.slice(0, 110))}${e.summary.length > 110 ? '…' : ''}</p>` : ''}
-      <div class="meta">${esc(e.layer)}</div>`;
+      <div class="meta">${esc(e.layer)}<a class="evJump" href="../?event=${e.id}&date=${e.date}">在长卷中查看 ↗</a></div>`;
     list.appendChild(div);
   }
   gridSync();

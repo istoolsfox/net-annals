@@ -29,7 +29,7 @@ def validate_delta(did, delta):
             acc = t.get('acc', 'exact')
             if acc not in ('exact', 'month', 'year'): acc = 'year'
             text = str(t.get('text', '')).strip()
-            if len(text) < 12: problems.append(f'timeline条目过短: {t.get("date")}'); continue
+            if len(text) < 6: problems.append(f'timeline条目过短: {t.get("date")}'); continue
             tl.append({'date': t['date'], 'acc': acc, 'text': text})
         if len(tl) < 6: problems.append(f'timeline条目不足({len(tl)})')
         tl.sort(key=lambda t: t['date'])

@@ -646,6 +646,32 @@ async function boot() {
     requestAnimationFrame(() => Timeline.checkViewport());
     for (const d of [300, 1200, 3000]) setTimeout(() => Timeline.checkViewport(), d);
     Timeline.flushPending();
+    const qp = new URLSearchParams(location.search);
+    const wantEvent = qp.get('event');
+    if (wantEvent && /^\w[\w-]*$/.test(wantEvent)) {
+      const wd = qp.get('date');
+      const eras = wd && /^\d{4}-\d{2}-\d{2}$/.test(wd) ? [Store.eraIndex(wd)] : ERAS.map((_, i) => i);
+      let hit = null;
+      for (const i of eras) {
+        try { await Store.loadShard(i); } catch (err) { continue; }
+        hit = (Store.shards[i] || []).find(e => e.id === wantEvent);
+        if (hit) break;
+      }
+      if (hit) {
+        const era = Store.eraIndex(hit.date);
+        await Store.loadShard(era);
+        Timeline.renderEraHead(era);
+        await Timeline.renderEra(era);
+        const card = document.querySelector('.card[data-id="' + wantEvent + '"]');
+        if (card) {
+          card.classList.add('open', 'in');
+          card.scrollIntoView({ block: 'center', behavior: 'instant' });
+          card.style.outline = '2px solid var(--accent)';
+          setTimeout(() => { card.style.outline = ''; }, 2600);
+          toast('已定位到这条事件');
+        }
+      }
+    }
     const wantYear = new URLSearchParams(location.search).get('year');
     const lastRead = localStorage.getItem('na-last-read');
     if (wantYear && /^\d{4}$/.test(wantYear)) {

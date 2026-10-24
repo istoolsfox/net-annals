@@ -30,5 +30,5 @@
 ## 五、机器命令（AI 可直接执行的检查）
 
 - `node --check site/app.js`（及各页内联脚本抽检）须 0 退出。
-- 本地 `python -m http.server` + 浏览器冒烟考卷（tests/smoke.mjs）须全绿。
+- 本地 `python -m http.server` + 浏览器冒烟考卷（Agent 逐项执行：加载/交互/移动视口/深链，改动前先跑基线）须全绿。
 - 部署前 diff 检查：任何被 ?v= 引用文件的改动必须伴随引用页版本号变更，否则视为违规。

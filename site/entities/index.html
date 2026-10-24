@@ -98,14 +98,15 @@ const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all';
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+const DATA_BUILD = '20261024a';
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {
-      const r = await fetch(url + '.gz');
+      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
       if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
     } catch (e) { /* 回退 */ }
   }
-  return await (await fetch(url)).json();
+  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
 }
 
 function yearSpan(e) {

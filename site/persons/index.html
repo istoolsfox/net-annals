@@ -95,7 +95,12 @@
     <h1>人物<em>志</em></h1>
     <p id="heroSub">AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士——人生历程、关键节点与公开成就，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。</p>
   </div>
-  <div class="pBar" id="fieldBar"><button class="chip on" data-f="all">全部</button></div>
+  <div class="pBar">
+    <button class="chip on" data-f="all" id="allBtn">全部</button>
+    <span id="fieldChips" style="display:contents"></span>
+    <input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off"
+      style="margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px">
+  </div>
   <div class="pGrid" id="grid"></div>
   <div class="lSec" id="lSec" style="display:none">
     <h2 class="lTitle">类传<em> ·</em> 群像列传</h2>
@@ -113,14 +118,15 @@ const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all';
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+const DATA_BUILD = '20261024a';
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {
-      const r = await fetch(url + '.gz');
+      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
       if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
     } catch (e) { /* 回退 */ }
   }
-  return await (await fetch(url)).json();
+  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
 }
 
 function card(p) {
@@ -130,7 +136,7 @@ function card(p) {
   d.innerHTML = `<h3>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</h3>
     <div class="hl">${esc(p.headline)}</div>
     <p class="sm">${esc(p.summary_30s.slice(0, 110))}${p.summary_30s.length > 110 ? '…' : ''}</p>
-    <div class="meta">${p.birth.slice(0, 4)}年生 · ${FIELDS[p.field] || p.field} · ${p.timeline.length} 个节点</div>`;
+    <div class="meta">${p.birth.slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : '今'} · ${FIELDS[p.field] || p.field} · ${p.timeline.length} 个节点</div>`;
   d.onclick = () => openDetail(p);
   return d;
 }
@@ -170,19 +176,28 @@ function closeDetail() {
 $('#mask').onclick = closeDetail;
 addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
 
+let curQuery = '';
 function render() {
   const grid = $('#grid');
   grid.innerHTML = '';
+  const q = curQuery.trim().toLowerCase();
+  let shown = 0;
   for (const p of DATA.persons) {
     if (curFilter !== 'all' && p.field !== curFilter) continue;
+    if (q) {
+      const hay = (p.name + (p.en_name || '') + p.headline + (p.tags || []).join('')).toLowerCase();
+      if (!hay.includes(q)) continue;
+    }
     grid.appendChild(card(p));
+    shown++;
   }
+  if (!shown) grid.innerHTML = '<div class="pCard" style="cursor:default">没有匹配的人物——换个关键词试试</div>';
 }
 
 (async () => {
   try {
     DATA = await fetchGz('data.json');
-    const bar = $('#fieldBar');
+    const bar = $('#fieldChips');
     const present = [...new Set(DATA.persons.map(p => p.field))];
     for (const f of present) {
       const n = DATA.persons.filter(p => p.field === f).length;
@@ -192,11 +207,21 @@ function render() {
       b.onclick = () => {
         curFilter = f;
         bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
+        $('#allBtn').classList.toggle('on', curFilter === 'all');
         render();
       };
       bar.appendChild(b);
     }
-    bar.querySelectorAll('.chip')[0].onclick = () => { curFilter = 'all'; bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all')); render(); };
+    $('#allBtn').onclick = () => {
+      curFilter = 'all';
+      document.querySelectorAll('#fieldBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
+      render();
+    };
+    let qt;
+    $('#pq').addEventListener('input', e => {
+      clearTimeout(qt);
+      qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
+    });
     $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。`;
     render();
     loadGroups();
