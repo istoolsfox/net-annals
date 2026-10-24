@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://toolsfox.cn/today/">
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="stylesheet" href="../style.css?v=17">
+<link rel="stylesheet" href="../style.css?v=18">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -74,6 +74,7 @@
 const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
 const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
@@ -140,9 +141,9 @@ function selectDay(key) {
   for (const e of evs) {
     const div = document.createElement('div');
     div.className = 'evItem';
-    div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${e.title}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
-      ${e.summary ? `<p class="sm">${e.summary}${e.summary.length >= 110 ? '…' : ''}</p>` : ''}
-      <div class="meta">${e.layer}</div>`;
+    div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${esc(e.title)}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
+      ${e.summary ? `<p class="sm">${esc(e.summary.slice(0, 110))}${e.summary.length > 110 ? '…' : ''}</p>` : ''}
+      <div class="meta">${esc(e.layer)}</div>`;
     list.appendChild(div);
   }
   gridSync();

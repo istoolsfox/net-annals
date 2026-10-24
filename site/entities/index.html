@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>世家志 · 企业社区机构兴衰史</title>
-<link rel="stylesheet" href="../style.css?v=17">
+<link rel="stylesheet" href="../style.css?v=18">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -96,6 +96,7 @@ const STATUS = {active:'活跃', declined:'衰落', acquired:'被收购', privat
 const REGION = {cn:'中国', world:'世界'};
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all';
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
@@ -117,10 +118,10 @@ function card(e) {
   const d = document.createElement('div');
   d.className = 'eCard';
   d.dataset.type = e.type;
-  d.innerHTML = `<div class="row"><h3>${e.name}${e.en_name ? `<span class="en"> ${e.en_name}</span>` : ''}</h3>
+  d.innerHTML = `<div class="row"><h3>${esc(e.name)}${e.en_name ? `<span class="en"> ${esc(e.en_name)}</span>` : ''}</h3>
     <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
-    <div class="hl">${e.headline}</div>
-    <p class="sm">${e.summary_30s.slice(0, 100)}${e.summary_30s.length > 100 ? '…' : ''}</p>
+    <div class="hl">${esc(e.headline)}</div>
+    <p class="sm">${esc(e.summary_30s.slice(0, 100))}${e.summary_30s.length > 100 ? '…' : ''}</p>
     <div class="meta">${yearSpan(e)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · ${e.timeline.length} 个节点</div>`;
   d.onclick = () => openDetail(e);
   return d;
@@ -128,19 +129,19 @@ function card(e) {
 
 function openDetail(e) {
   const tl = e.timeline.map(t =>
-    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${t.text}</div></div>`).join('');
-  const ms = (e.milestones || []).map(a => `<li>${a}</li>`).join('');
-  const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
+    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
+  const ms = (e.milestones || []).map(a => `<li>${esc(a)}</li>`).join('');
+  const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const ctz = (e.controversies || []).length
-    ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${c}</div>`).join('')}` : '';
-  const rel = (e.related_persons || []).map(r => `<a class="relChip" href="../persons/?p=${r.id}">${r.name}</a>`).join('');
+    ? `<h4>争议记录</h4>${e.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}` : ''
+  const rel = (e.related_persons || []).map(r => `<a class="relChip" href="../persons/?p=${r.id}">${esc(r.name)}</a>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
-    <h2>${e.name}${e.en_name ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${e.en_name}</span>` : ''}</h2>
-    <div class="sub">${e.headline} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
-    <p class="smFull">${e.summary_30s}</p>
+    <h2>${esc(e.name)}${e.en_name ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${esc(e.en_name)}</span>` : ''}</h2>
+    <div class="sub">${esc(e.headline)} · ${TYPES[e.type] || e.type} · ${REGION[e.region] || ''} · <span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
+    <p class="smFull">${esc(e.bio || e.summary_30s)}</p>
     <h4>兴衰历程</h4><div class="tl">${tl}</div>
     <h4>关键数字</h4><ul class="msList">${ms}</ul>
-    <h4>现状与遗产</h4><div class="legacyBox">${e.legacy}</div>${ctz}
+    <h4>现状与遗产</h4><div class="legacyBox">${esc(e.legacy)}</div>${ctz}
     ${rel ? `<h4>相关人物</h4><div class="relRow">${rel}</div>` : ''}
     <h4>来源</h4><ul class="srcList">${src}</ul>`;
   $('#detail').classList.add('show');

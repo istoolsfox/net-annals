@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>人物志 · 知名人士人生历程</title>
-<link rel="stylesheet" href="../style.css?v=17">
+<link rel="stylesheet" href="../style.css?v=18">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -81,6 +81,7 @@
 .mItem .mh{color:var(--accent);font-size:.78rem;margin:2px 0 6px}
 .mItem .mt{color:var(--dim);font-size:.88rem;line-height:1.75;margin:0}
 .legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
+.ctzBox{border-left:3px solid #c9584f;padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px}
 .relRow{display:flex;gap:8px;flex-wrap:wrap}
 .relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
 .relChip:hover{border-color:var(--accent);background:var(--panel)}
@@ -110,6 +111,7 @@
 const FIELDS = {ai:'AI', internet:'互联网', hardware:'硬件制造', company:'公司商业', game:'游戏电竞', creator:'创作者', science:'科学', finance:'金融', media:'媒体', sport:'体育'};
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all';
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
@@ -125,9 +127,9 @@ function card(p) {
   const d = document.createElement('div');
   d.className = 'pCard';
   d.dataset.field = p.field;
-  d.innerHTML = `<h3>${p.name}${p.en_name ? `<span class="en">${p.en_name}</span>` : ''}</h3>
-    <div class="hl">${p.headline}</div>
-    <p class="sm">${p.summary_30s.slice(0, 110)}${p.summary_30s.length > 110 ? '…' : ''}</p>
+  d.innerHTML = `<h3>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</h3>
+    <div class="hl">${esc(p.headline)}</div>
+    <p class="sm">${esc(p.summary_30s.slice(0, 110))}${p.summary_30s.length > 110 ? '…' : ''}</p>
     <div class="meta">${p.birth.slice(0, 4)}年生 · ${FIELDS[p.field] || p.field} · ${p.timeline.length} 个节点</div>`;
   d.onclick = () => openDetail(p);
   return d;
@@ -135,19 +137,25 @@ function card(p) {
 
 function openDetail(p) {
   const tl = p.timeline.map(t =>
-    `<div class="tlItem"><div class="td">${t.date.slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${t.text}</div></div>`).join('');
-  const ach = (p.achievements || []).map(a => `<li>${a}</li>`).join('');
-  const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
+    `<div class="tlItem"><div class="td">${t.date.slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
+  const ach = (p.achievements || []).map(a => `<li>${esc(a)}</li>`).join('');
+  const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const ctz = p.region === 'cn' ? '中国' : '国际';
-  const death = p.death ? ` － ${String(p.death).slice(0, 4)}` : '';
-  const relE = (p.related_entities || []).map(r => `<a class="relChip" href="../entities/?e=${r.id}">${r.name}</a>`).join('');
+  const life = `${String(p.birth).slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : ''}`;
+  const alive = p.death ? '已故' : '在世';
+  const relE = (p.related_entities || []).map(r => `<a class="relChip" href="../entities/?e=${r.id}">${esc(r.name)}</a>`).join('');
+  const bio = p.bio || p.summary_30s;
+  const ctzs = (p.controversies || []).length
+    ? `<h4>争议记录</h4>${p.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}` : '';
+  const legacy = p.legacy || (p.death ? '其影响已沉淀为行业史的一部分。' : '仍在活跃，故事未完。');
   $('#detail').innerHTML = `<button class="close">✕</button>
-    <h2>${p.name}</h2>
-    <div class="sub">${p.headline} · ${ctz}${death} · ${FIELDS[p.field] || p.field}</div>
-    <p class="smFull">${p.summary_30s}</p>
+    <h2>${esc(p.name)}</h2>
+    <div class="sub">${esc(p.headline)} · ${ctz} · ${life} · ${alive} · ${FIELDS[p.field] || p.field}</div>
+    <p class="smFull">${esc(bio)}</p>
     <h4>人生历程</h4><div class="tl">${tl}</div>
     <h4>关键成就</h4><ul class="achList">${ach}</ul>
     ${relE ? `<h4>相关世家</h4><div class="relRow">${relE}</div>` : ''}
+    <h4>现状与遗产</h4><div class="legacyBox">${esc(legacy)}</div>${ctzs}
     <h4>来源</h4><ul class="srcList">${src}</ul>`;
   $('#detail').classList.add('show');
   $('#mask').classList.add('show');
@@ -206,8 +214,8 @@ function render() {
 function groupCard(g) {
   const d = document.createElement('div');
   d.className = 'lCard';
-  d.innerHTML = `<div class="row"><h3>${g.name}</h3><span class="era">${g.era}</span></div>
-    <p class="sm">${g.summary_30s.slice(0, 100)}${g.summary_30s.length > 100 ? '…' : ''}</p>
+  d.innerHTML = `<div class="row"><h3>${esc(g.name)}</h3><span class="era">${esc(g.era)}</span></div>
+    <p class="sm">${esc(g.summary_30s.slice(0, 100))}${g.summary_30s.length > 100 ? '…' : ''}</p>
     <div class="meta">${g.members.length} 位代表人物</div>`;
   d.onclick = () => openGroup(g);
   return d;
@@ -215,15 +223,15 @@ function groupCard(g) {
 
 function openGroup(g) {
   const mem = g.members.map(m => `<div class="mItem">
-    <div class="mn">${m.name}${m.id_name ? `<span class="mi">${m.id_name}</span>` : ''}</div>
-    <div class="mh">${m.headline}</div><p class="mt">${m.text}</p></div>`).join('');
-  const src = g.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.title}</a></li>`).join('');
+    <div class="mn">${esc(m.name)}${m.id_name ? `<span class="mi">${esc(m.id_name)}</span>` : ''}</div>
+    <div class="mh">${esc(m.headline)}</div><p class="mt">${esc(m.text)}</p></div>`).join('');
+  const src = g.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
-    <h2>${g.name}</h2>
-    <div class="sub">${g.era} · 群像列传</div>
-    <p class="smFull">${g.summary_30s}</p>
+    <h2>${esc(g.name)}</h2>
+    <div class="sub">${esc(g.era)} · 群像列传</div>
+    <p class="smFull">${esc(g.summary_30s)}</p>
     <h4>代表人物</h4>${mem}
-    <h4>群体去向与遗产</h4><div class="legacyBox">${g.legacy}</div>
+    <h4>群体去向与遗产</h4><div class="legacyBox">${esc(g.legacy)}</div>
     <h4>来源</h4><ul class="srcList">${src}</ul>`;
   $('#detail').classList.add('show');
   $('#mask').classList.add('show');

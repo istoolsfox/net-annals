@@ -318,6 +318,10 @@ a{color:inherit}
   .eraPill{font-size:.85rem;padding:7px 14px}
   .chip{padding:6px 13px;font-size:.74rem}
   .cMore{padding:6px 0}
+  /* 修复：窄屏下搜索行不换行导致横向溢出（★转折点按钮顶破视口） */
+  .tSearchRow{flex-wrap:wrap}
+  .searchWrap{min-width:200px}
+  #q{font-size:16px}
   .hero{min-height:64vh;padding:50px 16px 60px}
   .heroSub{font-size:.95rem}
   #toTop{right:14px;bottom:14px}
