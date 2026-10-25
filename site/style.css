@@ -117,8 +117,8 @@ a{color:inherit}
 .tRow:last-child{margin-bottom:2px}
 .searchWrap{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;background:var(--panel);transition:border-color .2s}
 .searchIcon{color:var(--faint);font-size:1rem}
-#q{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans)}
-#q::placeholder{color:var(--faint)}
+.searchWrap input{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans);outline:none}
+.searchWrap input::placeholder{color:var(--faint)}
 .searchWrap:focus-within{border-color:var(--accent)}
 .qCount{font-family:var(--mono);font-size:.72rem;color:var(--accent);white-space:nowrap}
 .tBtn{font-family:var(--mono);font-size:.74rem;letter-spacing:.05em;padding:9px 16px;border:1px solid var(--line2);border-radius:6px;background:var(--panel);color:var(--dim);cursor:pointer;white-space:nowrap;transition:color .2s,border-color .2s,background-color .2s}
@@ -320,7 +320,7 @@ a{color:inherit}
   /* 修复：窄屏下搜索行不换行导致横向溢出（★转折点按钮顶破视口） */
   .tSearchRow{flex-wrap:wrap}
   .searchWrap{min-width:200px}
-  #q{font-size:16px}
+  .searchWrap input{font-size:16px}
   .hero{min-height:64vh;padding:50px 16px 60px}
   .heroSub{font-size:.95rem}
   #toTop{right:14px;bottom:14px}

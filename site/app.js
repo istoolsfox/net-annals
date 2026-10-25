@@ -529,6 +529,17 @@ const Toolbar = {
     };
     $('#ctaEras').onclick = e => { e.preventDefault(); Timeline.jumpTo(0); };
     $('#toTop').onclick = () => window.scrollTo({ top: 0, behavior: 'instant' });
+    // 「编纂说明」锚点：长卷高度随分片懒加载增长，锚点平滑滚动的落点会漂移、
+    // 且平滑滚动连点互相打断（表现为"点三次落点不一样"）——改为瞬时定位，
+    // 并在后续分片渲染推高页面后延时校正，落点恒定
+    document.querySelectorAll('a[href="#colophon"]').forEach(a => a.addEventListener('click', e => {
+      e.preventDefault();
+      const el = document.getElementById('colophon');
+      if (!el) return;
+      const go = () => window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 64, behavior: 'instant' });
+      go();
+      [400, 1000].forEach(d => setTimeout(go, d));
+    }));
     let lastSave = 0;
     let scrollLast = 0;
     let revealLast = 0;
