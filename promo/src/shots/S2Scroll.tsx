@@ -40,7 +40,7 @@ export const S2Scroll: React.FC = () => {
         const start = i * EACH;
         const lf = f - start;
         if (lf < 0 || lf > EACH) return null;
-        const op = interpolate(lf, [0, 10, EACH - 10, EACH], [0, 1, 1, 0], {
+        const op = interpolate(lf, [0, 18, EACH - 18, EACH], [0, 1, 1, 0], {
           extrapolateLeft: 'clamp', extrapolateRight: 'clamp',
         });
         return (

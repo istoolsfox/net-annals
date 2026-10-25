@@ -8,9 +8,9 @@ const P2 = 65; // 第二段（GitHub）起点，段间经黑场
 /** S6 可溯源 + 开源：两段式经黑场过渡 */
 export const S6Proof: React.FC = () => {
   const f = useCurrentFrame();
-  const aOp = interpolate(f, [0, 10, P2 - 10, P2], [0, 1, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const aOp = interpolate(f, [0, 18, P2 - 18, P2], [0, 1, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const aZoom = interpolate(f, [0, P2], [1.0, 1.14], { extrapolateRight: 'clamp', easing: Easing.bezier(...EASE) });
-  const bOp = interpolate(f, [P2, P2 + 10], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const bOp = interpolate(f, [P2, P2 + 18], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const bZoom = interpolate(f, [P2, 130], [1.08, 1.0], { extrapolateRight: 'clamp', easing: Easing.bezier(...EASE) });
   const capA = interpolate(f, [6, 20], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) * interpolate(f, [P2 - 22, P2 - 8], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const capB = interpolate(f, [P2 + 6, P2 + 20], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });

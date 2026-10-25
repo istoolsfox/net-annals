@@ -8,7 +8,7 @@ const VIEWS = [
   { img: 'entities-top', tag: 'HEREDITARY HOUSES', name: '世家志', sub: '兴衰成对，为每一家立传' },
   { img: 'works-top', tag: 'WORKS', name: '作品志', sub: '陪伴大众精神生活的创作物' },
 ];
-const EACH = 55;   // 淡入10 + hold 35 + 淡出10，段间经黑场
+const EACH = 70;   // 淡入18 + hold 34 + 淡出18，段间经黑场（放缓防频闪）
 
 /** S4 板块：三视图各占一段，段间黑场章节过渡，缓慢推近 */
 export const S4Views: React.FC = () => {
@@ -19,7 +19,7 @@ export const S4Views: React.FC = () => {
         const start = i * EACH;
         const lf = f - start;
         if (lf < 0 || lf > EACH) return null;
-        const op = interpolate(lf, [0, 10, EACH - 10, EACH], [0, 1, 1, 0], {
+        const op = interpolate(lf, [0, 18, EACH - 18, EACH], [0, 1, 1, 0], {
           extrapolateLeft: 'clamp', extrapolateRight: 'clamp',
         });
         const zoom = interpolate(lf, [0, EACH], [1.02, 1.08], { extrapolateRight: 'clamp', easing: Easing.bezier(...EASE) });

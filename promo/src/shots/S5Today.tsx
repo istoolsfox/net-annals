@@ -8,8 +8,8 @@ const P2 = 58; // 第二段（抽屉特写）起点
 /** S5 历史上的今天：两段式经黑场过渡（列表 → 抽屉特写），无复写无鬼影 */
 export const S5Today: React.FC = () => {
   const f = useCurrentFrame();
-  const listOp = interpolate(f, [0, 10, P2 - 10, P2], [0, 1, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const drawerOp = interpolate(f, [P2, P2 + 10], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const listOp = interpolate(f, [0, 18, P2 - 18, P2], [0, 1, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const drawerOp = interpolate(f, [P2, P2 + 18], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const drawerZoom = interpolate(f, [P2, 115], [1.0, 1.08], { extrapolateRight: 'clamp', easing: Easing.bezier(...EASE) });
   const cap = interpolate(f, [14, 28], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   return (
