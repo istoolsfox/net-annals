@@ -15,7 +15,7 @@ export const S1Hook: React.FC = () => {
   const sub = interpolate(f, [40, 66], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const breathe = 1 + 0.012 * Math.sin(f / 26);
   return (
-    <AbsoluteFill style={{ background: C.bg }}>
+    <AbsoluteFill>
       <img src={TEX['hero']} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', filter: `brightness(${0.22 + 0.06 * tIn}) saturate(0.85)` }} />
       <AbsoluteFill style={{ background: `radial-gradient(ellipse at center, transparent 30%, ${C.bg}cc 100%)` }} />
       <AbsoluteFill style={{ alignItems: 'center', justifyContent: 'center', transform: `scale(${breathe})` }}>
@@ -29,7 +29,6 @@ export const S1Hook: React.FC = () => {
           </p>
         </div>
       </AbsoluteFill>
-      <div style={{ position: 'absolute', inset: 0, background: C.bg, opacity: interpolate(f, [0, FADE], [1, 0], { extrapolateRight: 'clamp' }) }} />
     </AbsoluteFill>
   );
 };

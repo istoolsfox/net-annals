@@ -28,7 +28,6 @@ export const S7CTA: React.FC = () => {
           精确到日 · 每条可溯源 · 开源
         </div>
       </div>
-      <AbsoluteFill style={{ background: C.bg, opacity: interpolate(f, [0, 8], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) }} />
     </AbsoluteFill>
   );
 };

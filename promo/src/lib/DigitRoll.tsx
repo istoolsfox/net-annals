@@ -9,10 +9,14 @@ export const DigitRoll: React.FC<{
   value: string;
   delay?: number;
   fontSize?: number;
+  stagger?: number;
+  roll?: number;
   color?: string;
-}> = ({ value, delay = 0, fontSize = 30, color = 'oklch(52% 0.115 65)' }) => {
+}> = ({ value, delay = 0, fontSize = 30, stagger = 4, roll = 22, color = 'oklch(52% 0.115 65)' }) => {
   const frame = useCurrentFrame();
   const lineH = fontSize * 1.15;
+  const st = stagger;
+  const rl = roll;
   return (
     <span style={{ display: 'inline-flex', overflow: 'hidden', height: lineH, verticalAlign: 'bottom' }}>
       {value.split('').map((ch, i) => {
@@ -22,7 +26,7 @@ export const DigitRoll: React.FC<{
             <span key={i} style={{ fontSize, lineHeight: `${lineH}px`, color }}>{ch}</span>
           );
         }
-        const t = interpolate(frame, [delay + i * 4, delay + i * 4 + 22], [0, 1], {
+        const t = interpolate(frame, [delay + i * st, delay + i * st + rl], [0, 1], {
           extrapolateLeft: 'clamp',
           extrapolateRight: 'clamp',
           easing: Easing.bezier(0.25, 0.8, 0.25, 1),

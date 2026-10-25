@@ -37,7 +37,7 @@ export const S2Scroll: React.FC = () => {
   const aOp = 1 - interpolate(f, [PART_A - cross, PART_A], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const bOp = interpolate(f, [PART_A - cross, PART_A], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   return (
-    <AbsoluteFill style={{ background: C.bg }}>
+    <AbsoluteFill>
       <AbsoluteFill style={{ opacity: aOp }}>
         <Slice img="tl-1972" year="1972" era="前史与萌发" from={4} to={PART_A} origin="46% 52%" capTop="大事，小事，转折事" />
       </AbsoluteFill>

@@ -20,7 +20,7 @@ const CROSS = 16;  // 交叉淡入
 export const S4Views: React.FC = () => {
   const f = useCurrentFrame();
   return (
-    <AbsoluteFill style={{ background: C.bg }}>
+    <AbsoluteFill>
       {VIEWS.map((v, i) => {
         const start = i * (EACH - CROSS);
         const lf = f - start;
