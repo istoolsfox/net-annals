@@ -1,5 +1,5 @@
 import React from 'react';
-import { Composition, AbsoluteFill, Audio, interpolate, useCurrentFrame, Img, staticFile } from 'remotion';
+import { AbsoluteFill, Audio, interpolate, useCurrentFrame, Img, staticFile } from 'remotion';
 import { C, SERIF, MONO } from './theme';
 import { TEX, appleIcon, bgm } from './textures';
 
@@ -95,7 +95,7 @@ const CtaSection: React.FC<{ localF: number }> = ({ localF }) => {
   );
 };
 
-const Journey: React.FC = () => {
+export const Journey: React.FC = () => {
   const f = useCurrentFrame();
   const scrollY = scrollYAt(f);
   const localF = f - (DUR - 130);   // CTA 分区内的本地帧（用于落版动画）
@@ -127,7 +127,3 @@ const Journey: React.FC = () => {
     </AbsoluteFill>
   );
 };
-
-export const RemotionRoot: React.FC = () => (
-  <Composition id="Promo" component={Journey} durationInFrames={DUR} fps={30} width={1920} height={1080} />
-);
