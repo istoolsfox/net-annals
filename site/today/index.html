@@ -78,7 +78,7 @@ const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-const DATA_BUILD = '20261024a';
+const DATA_BUILD = '20261025a';
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
     try {

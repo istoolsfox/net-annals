@@ -130,7 +130,7 @@ const ERAS = [
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all', curQuery = '';
-const DATA_BUILD = '20261024a';
+const DATA_BUILD = '20261025a';
 
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
@@ -147,7 +147,7 @@ const byY = p => String(p.birth || '0000').slice(0, 4);
 
 function card(p, flip) {
   const el = document.createElement('div');
-  el.className = 'card pCard' + (flip ? ' right' : '');
+  el.className = 'card in pCard' + (flip ? ' right' : '');
   const death = p.death ? String(p.death).slice(0, 4) : '今';
   el.innerHTML = `<div class="cHead"><span class="life">${String(p.birth).slice(0, 4)}–${death}</span><span>${FIELDS[p.field] || p.field}</span><span class="cAcc">${p.death ? '已故' : '在世'}</span></div>
     <h3 class="cTitle"><a>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</a></h3>

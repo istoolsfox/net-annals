@@ -109,7 +109,7 @@ const ERAS = [
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all', curQuery = '';
-const DATA_BUILD = '20261024a';
+const DATA_BUILD = '20261025a';
 
 async function fetchGz(url) {
   if (typeof DecompressionStream !== 'undefined') {
@@ -132,7 +132,7 @@ function yearSpan(e) {
 
 function card(e, flip) {
   const el = document.createElement('div');
-  el.className = 'card eCard' + (flip ? ' right' : '');
+  el.className = 'card in eCard' + (flip ? ' right' : '');
   el.innerHTML = `<div class="cHead"><span class="life" style="color:var(--accent)">${yearSpan(e)}</span><span>${TYPES[e.type] || e.type}</span><span class="st ${e.status}">${STATUS[e.status] || e.status}</span></div>
     <h3 class="cTitle"><a>${esc(e.name)}${e.en_name ? `<span class="en" style="font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px">${esc(e.en_name)}</span>` : ''}</a></h3>
     <div class="hl">${esc(e.headline)}</div>
