@@ -5,6 +5,7 @@
 >
 > **本文是项目唯一文档**（2026-10-25 起）：原则、架构、规则、坑与解法、新增流程全在这里。
 > 原 PHILOSOPHY.md、docs/data-contract.md、scripts/README.md、人物世家增补 INSTRUCTIONS*/SCALE-MODE.md 已并入本文并删除。
+> AI/新协作者接入另见 **[AGENTS.md](AGENTS.md)**（开发现状快照、已有轮子与数据边界、协作规矩）——本文管"怎么干"，它管"干到哪了、别重复什么"。
 > 跨项目运维知识（服务器/防火墙/云助手）在 workspace wiki「netannals服务器」「中国互联网编年史」页。
 
 ## 目录结构
