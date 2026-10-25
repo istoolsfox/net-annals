@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>人物志 · 知名人士人生历程</title>
-<link rel="stylesheet" href="../style.css?v=19">
+<link rel="stylesheet" href="../style.css?v=20">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -21,7 +21,7 @@
 })();
 </script>
 <style>
-.personsPage{max-width:1160px;margin:0 auto;padding:0 24px 80px}
+.personsPage{max-width:1160px;margin:0 auto;padding:0 28px 80px}
 .pTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
 .pTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
 .pTop a:hover{color:var(--text)}
@@ -33,43 +33,18 @@
 .pBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
 .pBar .chip.on{border-color:var(--accent);color:var(--accent)}
 #pq{margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px}
-/* 时间线形态：复用主长卷 eraSec/yearGroup/yBadge/card 骨架，卡片内容自定义 */
-.pCard{max-width:calc(50% - 34px)}
-.pCard .cTitle a{cursor:pointer}
-.pCard .name{font-family:var(--serif);font-size:1.18rem;color:var(--text)}
-.pCard .en{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
-.pCard .hl{color:var(--accent);font-size:.82rem;margin:4px 0 8px}
-.pCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0}
-.pCard .meta{margin-top:10px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
-.pCard .life{color:var(--accent)}
-/* 详情浮层（沿用原抽屉） */
-.pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
-.pMask.show{display:block}
-.pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
-  background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;
-  transition:right .25s ease}
-.pDetail.show{right:0}
-.pDetail h2{font-family:var(--serif);font-size:1.7rem;color:var(--text);margin:0 0 4px}
-.pDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
-.pDetail .close:hover{color:var(--text)}
-.pDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px}
-.pDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
-.pDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:28px 0 14px;text-transform:uppercase}
-.tl{border-left:2px solid var(--line2);margin-left:6px;padding-left:20px}
-.tlItem{position:relative;padding-bottom:18px}
-.tlItem::before{content:'';position:absolute;left:-25px;top:6px;width:8px;height:8px;border-radius:50%;background:var(--accent)}
-.tlItem .td{font-family:var(--mono);font-size:.72rem;color:var(--accent)}
-.tlItem .tx{color:var(--text);font-size:.9rem;line-height:1.75;margin-top:2px}
-.achList{margin:0;padding-left:18px;color:var(--text);font-size:.9rem;line-height:2}
-.srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
-.srcList a{color:var(--accent);text-decoration:none}
-.srcList a:hover{text-decoration:underline}
-.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
-.ctzBox{border-left:3px solid #c9584f;padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px}
+/* 卡片内 cBody 的时间线小节样式（复用主长卷 sec/lab 语言） */
+.tlList{margin:2px 0 0;padding:0;list-style:none}
+.tlList li{position:relative;padding:0 0 10px 18px;line-height:1.7}
+.tlList li::before{content:'';position:absolute;left:0;top:8px;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.tlList .td{font-family:var(--mono);font-size:.7rem;color:var(--accent);margin-right:8px}
+.tlList .tx{color:var(--text);font-size:.87rem}
+.ctzBox{border-left:3px solid #c9584f;padding:8px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--dim);line-height:1.7;font-size:.86rem;margin:0 0 8px}
+.legacyBox{border-left:3px solid var(--accent);padding:10px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.88rem}
 .relRow{display:flex;gap:8px;flex-wrap:wrap}
-.relChip{font-family:var(--mono);font-size:.74rem;padding:5px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:4px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
 .relChip:hover{border-color:var(--accent);background:var(--panel)}
-/* 类传板块 */
+/* 类传（群像列传）保留抽屉 */
 .lSec{margin-top:48px;border-top:1px solid var(--line);padding-top:34px}
 .lTitle{font-family:var(--serif);font-size:1.6rem;color:var(--text);margin:0 0 6px}
 .lTitle em{font-style:normal;color:var(--accent)}
@@ -82,13 +57,27 @@
 .lCard .era{font-family:var(--mono);font-size:.7rem;color:var(--faint)}
 .lCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:8px 0;flex:1}
 .lCard .meta{font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+.pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
+.pMask.show{display:block}
+.pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
+  background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;
+  transition:right .25s ease}
+.pDetail.show{right:0}
+.pDetail h2{font-family:var(--serif);font-size:1.7rem;color:var(--text);margin:0 0 4px}
+.pDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
+.pDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px}
+.pDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
+.pDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:28px 0 14px}
 .mItem{padding:12px 0;border-bottom:1px solid var(--line)}
 .mItem:last-child{border-bottom:none}
 .mItem .mn{color:var(--text);font-weight:600;font-size:.95rem}
 .mItem .mi{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px}
 .mItem .mh{color:var(--accent);font-size:.78rem;margin:2px 0 6px}
 .mItem .mt{color:var(--dim);font-size:.88rem;line-height:1.75;margin:0}
-.empty{text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
+.srcList{margin:4px 0 0;padding-left:18px;font-size:.83rem;line-height:2}
+.srcList a{color:var(--accent);text-decoration:none}
+.srcList a:hover{text-decoration:underline}
+.empty{grid-column:1/-1;text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
 @media (max-width:640px){.pDetail{padding:24px 20px 50px}#pq{min-width:140px}}
 </style>
 </head>
@@ -97,7 +86,7 @@
   <div class="pTop"><a href="../">← 返回互联网编年史</a><span><a href="../works/">作品志 →</a>&nbsp;&nbsp;<a href="../geo/">地域日志 →</a></span></div>
   <div class="pHero">
     <h1>人物<em>志</em></h1>
-    <p id="heroSub">AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士——人生历程、关键节点与公开成就，逐人核实、全部可溯源。政治与纯敏感人物一律不收录。</p>
+    <p id="heroSub">AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士——人生历程、关键节点与公开成就，逐人核实、全部可溯源。</p>
   </div>
   <div class="pBar">
     <button class="chip on" data-f="all" id="allBtn">全部</button>
@@ -117,7 +106,7 @@
 <script>
 'use strict';
 const FIELDS = {ai:'AI', internet:'互联网', hardware:'硬件制造', company:'公司商业', game:'游戏电竞', creator:'创作者', science:'科学', finance:'金融', media:'媒体', sport:'体育'};
-/* 生年分卷：与主长卷同款「时代 → 年份组 → 卡片」三段式 */
+const FCOLOR = {ai:'#c96a93', internet:'#5b9bd5', hardware:'#d08a4e', company:'#3aa891', game:'#8b6fc9', creator:'#c9b458', science:'#7ba05b', finance:'#4a9e8f', media:'#c9a86a', sport:'#c9584f'};
 const ERAS = [
   { name: '文艺复兴与启蒙', range: [-Infinity, 1700] },
   { name: '近代先驱', range: [1700, 1900] },
@@ -144,54 +133,50 @@ async function fetchGz(url) {
 
 const eraIdx = y => ERAS.findIndex(e => y >= e.range[0] && y < e.range[1]);
 const byY = p => String(p.birth || '0000').slice(0, 4);
+const dsh = t => String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10);
 
-function card(p, flip) {
+/* 主页同款卡片结构：cHead / cTitle / cSum / cMore / cBody 行内展开 */
+function card(p) {
   const el = document.createElement('div');
-  el.className = 'card in pCard' + (flip ? ' right' : '');
-  const death = p.death ? String(p.death).slice(0, 4) : '今';
-  el.innerHTML = `<div class="cHead"><span class="life">${String(p.birth).slice(0, 4)}–${death}</span><span>${FIELDS[p.field] || p.field}</span><span class="cAcc">${p.death ? '已故' : '在世'}</span></div>
-    <h3 class="cTitle"><a>${esc(p.name)}${p.en_name ? `<span class="en">${esc(p.en_name)}</span>` : ''}</a></h3>
-    <div class="hl">${esc(p.headline)}</div>
-    <p class="sm">${esc(p.summary_30s.slice(0, 110))}${p.summary_30s.length > 110 ? '…' : ''}</p>
-    <div class="meta">${p.timeline.length} 个人生节点</div>`;
-  el.onclick = () => openDetail(p);
+  el.className = 'card in';
+  el.dataset.id = p.id;
+  const life = `${String(p.birth).slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : ''}`;
+  const alive = p.death ? '<span class="cConf">已故</span>' : '<span class="cConf v">在世</span>';
+  const tl = p.timeline.map(t =>
+    `<li><span class="td">${dsh(t)}</span><span class="tx">${esc(t.text)}</span></li>`).join('');
+  const ach = (p.achievements || []).map(a => `· ${esc(a)}`).join('<br>');
+  const ctzs = (p.controversies || []).length
+    ? `<div class="sec"><span class="lab">争议记录</span>${p.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}</div>` : '';
+  const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const relE = (p.related_entities || []).length
+    ? `<div class="sec"><span class="lab">相关世家</span><div class="relRow">${p.related_entities.map(r => `<a class="relChip" href="../entities/?e=${r.id}">${esc(r.name)}</a>`).join('')}</div></div>` : '';
+  el.innerHTML = `
+    <div class="cHead">
+      <span class="cDate">${life}</span>
+      <span class="cDot" style="--c:${FCOLOR[p.field] || '#8a919e'}"></span><span>${FIELDS[p.field] || p.field}</span>
+      ${alive}
+      <span class="cAcc">${p.region === 'cn' ? '中国' : '国际'}</span>
+    </div>
+    <h3 class="cTitle"><a>${esc(p.name)}${p.en_name ? ` <span class="arrow" style="font-family:var(--mono);font-size:.72rem;color:var(--faint)">${esc(p.en_name)}</span>` : ''}</a></h3>
+    <p class="cSum">${esc(p.headline)}。${esc(p.summary_30s.slice(0, 90))}${p.summary_30s.length > 90 ? '…' : ''}</p>
+    <button class="cMore">展开人生历程 <i>∨</i></button>
+    <div class="cBody"><div class="cBodyInner">
+      <div class="sec"><span class="lab">小传</span><p>${esc(p.bio || p.summary_30s)}</p></div>
+      <div class="sec"><span class="lab">人生历程</span><ul class="tlList">${tl}</ul></div>
+      ${ach ? `<div class="sec"><span class="lab">关键成就</span><p>${ach}</p></div>` : ''}
+      <div class="sec"><span class="lab">现状与遗产</span><div class="legacyBox">${esc(p.legacy || (p.death ? '其影响已沉淀为行业史的一部分。' : '仍在活跃，故事未完。'))}</div></div>${ctzs}${relE}
+      <div class="sec"><span class="lab">来源</span><ul class="srcList">${src}</ul></div>
+    </div></div>`;
   return el;
 }
 
-function openDetail(p) {
-  const tl = p.timeline.map(t =>
-    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
-  const ach = (p.achievements || []).map(a => `<li>${esc(a)}</li>`).join('');
-  const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
-  const ctz = p.region === 'cn' ? '中国' : '国际';
-  const life = `${String(p.birth).slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : ''}`;
-  const alive = p.death ? '已故' : '在世';
-  const relE = (p.related_entities || []).map(r => `<a class="relChip" href="../entities/?e=${r.id}">${esc(r.name)}</a>`).join('');
-  const bio = p.bio || p.summary_30s;
-  const ctzs = (p.controversies || []).length
-    ? `<h4>争议记录</h4>${p.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}` : '';
-  const legacy = p.legacy || (p.death ? '其影响已沉淀为行业史的一部分。' : '仍在活跃，故事未完。');
-  $('#detail').innerHTML = `<button class="close">✕</button>
-    <h2>${esc(p.name)}</h2>
-    <div class="sub">${esc(p.headline)} · ${ctz} · ${life} · ${alive} · ${FIELDS[p.field] || p.field}</div>
-    <p class="smFull">${esc(bio)}</p>
-    <h4>人生历程</h4><div class="tl">${tl}</div>
-    <h4>关键成就</h4><ul class="achList">${ach}</ul>
-    ${relE ? `<h4>相关世家</h4><div class="relRow">${relE}</div>` : ''}
-    <h4>现状与遗产</h4><div class="legacyBox">${esc(legacy)}</div>${ctzs}
-    <h4>来源</h4><ul class="srcList">${src}</ul>`;
-  $('#detail').classList.add('show');
-  $('#mask').classList.add('show');
-  document.body.style.overflow = 'hidden';
-  $('#detail').querySelector('.close').onclick = closeDetail;
-}
-function closeDetail() {
-  $('#detail').classList.remove('show');
-  $('#mask').classList.remove('show');
-  document.body.style.overflow = '';
-}
-$('#mask').onclick = closeDetail;
-addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+/* 主页同款事件委托：cMore 切换、卡片点击展开 */
+$('#ptimeline').addEventListener('click', ev => {
+  const more = ev.target.closest('.cMore');
+  if (more) { more.closest('.card').classList.toggle('open'); return; }
+  const cardEl = ev.target.closest('.card');
+  if (cardEl && !ev.target.closest('a')) cardEl.classList.add('open');
+});
 
 function visible(p) {
   if (curFilter !== 'all' && p.field !== curFilter) return false;
@@ -226,10 +211,12 @@ function render() {
     for (const [year, ps] of byYear) {
       const g = document.createElement('div');
       g.className = 'yearGroup';
-      g.innerHTML = `<div class="yBadge"><span>${year}</span></div><div class="cards"></div>`;
+      g.innerHTML = `<div class="yBadge"><span>${year}</span>${ps.length > 1 ? `<small>${ps.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
       for (const p of ps) {
-        cards.appendChild(card(p, flip));
+        const c = card(p);
+        if (flip) c.classList.add('right');
+        cards.appendChild(c);
         flip = 1 - flip;
         shown++;
       }
@@ -249,7 +236,7 @@ function render() {
       const n = DATA.persons.filter(p => p.field === f).length;
       const b = document.createElement('button');
       b.className = 'chip'; b.dataset.f = f;
-      b.textContent = `${FIELDS[f] || f} ${n}`;
+      b.innerHTML = `<span style="color:${FCOLOR[f] || '#8a919e'}">●</span> ${FIELDS[f] || f}<span class="n">${n}</span>`;
       b.onclick = () => {
         curFilter = f;
         bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
@@ -268,20 +255,25 @@ function render() {
       clearTimeout(qt);
       qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
     });
-    $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。按出生年代纵览，点击卡片展开完整人生时间线。`;
+    $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。按出生年代纵览，点击卡片展开完整人生。`;
     render();
     loadGroups();
     const want = new URLSearchParams(location.search).get('p');
     if (want) {
-      const per = DATA.persons.find(x => x.id === want);
-      if (per) openDetail(per);
+      const c = document.querySelector(`.card[data-id="${want}"]`);
+      if (c) {
+        c.classList.add('open');
+        c.scrollIntoView({ block: 'center', behavior: 'instant' });
+        c.style.outline = '2px solid var(--accent)';
+        setTimeout(() => { c.style.outline = ''; }, 2600);
+      }
     }
   } catch (e) {
     $('#ptimeline').innerHTML = `<div class="empty">数据加载失败（${esc(e.message)}）</div>`;
   }
 })();
 
-/* ---- 类传（群像列传）---- */
+/* ---- 类传（群像列传，抽屉保留）---- */
 function groupCard(g) {
   const d = document.createElement('div');
   d.className = 'lCard';
@@ -306,8 +298,15 @@ function openGroup(g) {
   $('#detail').classList.add('show');
   $('#mask').classList.add('show');
   document.body.style.overflow = 'hidden';
-  $('#detail').querySelector('.close').onclick = closeDetail;
+  $('#detail').querySelector('.close').onclick = closeGroup;
 }
+function closeGroup() {
+  $('#detail').classList.remove('show');
+  $('#mask').classList.remove('show');
+  document.body.style.overflow = '';
+}
+$('#mask').onclick = closeGroup;
+addEventListener('keydown', e => { if (e.key === 'Escape') closeGroup(); });
 async function loadGroups() {
   try {
     const G = await fetchGz('groups.json');

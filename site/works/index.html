@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>作品志 · 影视文学音乐游戏 — 互联网编年史</title>
-<link rel="stylesheet" href="../style.css?v=19">
+<link rel="stylesheet" href="../style.css?v=20">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -21,7 +21,7 @@
 })();
 </script>
 <style>
-.worksPage{max-width:1160px;margin:0 auto;padding:0 24px 80px}
+.worksPage{max-width:1160px;margin:0 auto;padding:0 28px 80px}
 .wTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
 .wTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
 .wTop a:hover{color:var(--text)}
@@ -33,38 +33,18 @@
 .wBar .chip{font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--dim);cursor:pointer}
 .wBar .chip.on{border-color:var(--accent);color:var(--accent)}
 #wq{margin-left:auto;font-family:var(--mono);font-size:.78rem;padding:7px 14px;border:1px solid var(--line2);border-radius:20px;background:none;color:var(--text);outline:none;min-width:180px}
-/* 时间线形态：复用主长卷骨架 */
-.wCard{max-width:calc(50% - 34px)}
-.wCard .cTitle a{cursor:pointer}
-.wCard .hl{color:var(--accent);font-size:.82rem;margin:4px 0 8px}
-.wCard .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:0}
-.wCard .meta{margin-top:10px;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
-.wCard .cr{color:var(--text)}
-/* 详情浮层 */
-.wMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
-.wMask.show{display:block}
-.wDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;
-  background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;
-  transition:right .25s ease}
-.wDetail.show{right:0}
-.wDetail h2{font-family:var(--serif);font-size:1.7rem;color:var(--text);margin:0 0 4px}
-.wDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
-.wDetail .close:hover{color:var(--text)}
-.wDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px}
-.wDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
-.wDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:28px 0 14px;text-transform:uppercase}
-.tl{border-left:2px solid var(--line2);margin-left:6px;padding-left:20px}
-.tlItem{position:relative;padding-bottom:18px}
-.tlItem::before{content:'';position:absolute;left:-25px;top:6px;width:8px;height:8px;border-radius:50%;background:var(--accent)}
-.tlItem .td{font-family:var(--mono);font-size:.72rem;color:var(--accent)}
-.tlItem .tx{color:var(--text);font-size:.9rem;line-height:1.75;margin-top:2px}
-.quoteBox{border-left:3px solid var(--accent);padding:10px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin-bottom:10px;font-family:var(--serif)}
-.srcList{margin:0;padding-left:18px;font-size:.83rem;line-height:2}
+.tlList{margin:2px 0 0;padding:0;list-style:none}
+.tlList li{position:relative;padding:0 0 10px 18px;line-height:1.7}
+.tlList li::before{content:'';position:absolute;left:0;top:8px;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.tlList .td{font-family:var(--mono);font-size:.7rem;color:var(--accent);margin-right:8px}
+.tlList .tx{color:var(--text);font-size:.87rem}
+.quoteBox{border-left:3px solid var(--accent);padding:8px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin:0 0 8px;font-family:var(--serif)}
+.legacyBox{border-left:3px solid var(--accent);padding:10px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.88rem}
+.srcList{margin:4px 0 0;padding-left:18px;font-size:.83rem;line-height:2}
 .srcList a{color:var(--accent);text-decoration:none}
 .srcList a:hover{text-decoration:underline}
-.legacyBox{border-left:3px solid var(--accent);padding:12px 16px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem}
-.empty{text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
-@media (max-width:640px){.wDetail{padding:24px 20px 50px}#wq{min-width:140px}}
+.empty{grid-column:1/-1;text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
+@media (max-width:640px){#wq{min-width:140px}}
 </style>
 </head>
 <body>
@@ -81,17 +61,15 @@
   </div>
   <div id="wtimeline" class="timeline"></div>
 </div>
-<div class="wMask" id="mask"></div>
-<div class="wDetail" id="detail"></div>
 
 <script>
 'use strict';
 const TYPES = {film:'电影', tv:'剧集', book:'图书', netnovel:'网络文学', music:'音乐', game:'游戏', comic:'动画漫画', documentary:'纪录片', variety:'综艺'};
-/* 发布年份分卷：与主长卷同款三段式 */
+const TCOLOR = {film:'#c9584f', tv:'#c96a93', book:'#3aa891', netnovel:'#5b9bd5', music:'#c9a86a', game:'#8b6fc9', comic:'#d08a4e', documentary:'#7ba05b', variety:'#c9b458'};
 const ERAS = [
   { name: '纸质与胶片时代', range: [-Infinity, 1994] },
   { name: '拨号时代', range: [1994, 2000] },
-  { name: '门户与盗版光碟时代', range: [2000, 2005] },
+  { name: '门户与光碟时代', range: [2000, 2005] },
   { name: 'Web2.0 时代', range: [2005, 2011] },
   { name: '移动与流媒体时代', range: [2011, 2017] },
   { name: '算法与国创时代', range: [2017, Infinity] },
@@ -113,45 +91,42 @@ async function fetchGz(url) {
 
 const eraIdx = y => ERAS.findIndex(e => y >= e.range[0] && y < e.range[1]);
 const byY = w => String(w.released || '0000').slice(0, 4);
+const dsh = t => String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10);
 
-function card(w, flip) {
+function card(w) {
   const el = document.createElement('div');
-  el.className = 'card in wCard' + (flip ? ' right' : '');
-  el.innerHTML = `<div class="cHead"><span class="life" style="color:var(--accent)">${byY(w)}</span><span>${TYPES[w.type] || w.type}</span></div>
-    <h3 class="cTitle"><a>${esc(w.title)}${w.en_title ? `<span class="en" style="font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-left:8px">${esc(w.en_title)}</span>` : ''}</a></h3>
-    <div class="hl">${esc(w.headline)}</div>
-    <p class="sm">${esc(w.summary_30s.slice(0, 110))}${w.summary_30s.length > 110 ? '…' : ''}</p>
-    <div class="meta"><span class="cr">${esc(w.creators || '')}</span> · ${w.timeline.length} 个节点</div>`;
-  el.onclick = () => openDetail(w);
+  el.className = 'card in';
+  el.dataset.id = w.id;
+  const tl = w.timeline.map(t =>
+    `<li><span class="td">${dsh(t)}</span><span class="tx">${esc(t.text)}</span></li>`).join('');
+  const quotes = (w.quotes || []).length
+    ? `<div class="sec"><span class="lab">经典回响</span>${w.quotes.map(q => `<div class="quoteBox">${esc(q)}</div>`).join('')}</div>` : '';
+  const src = w.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  el.innerHTML = `
+    <div class="cHead">
+      <span class="cDate">${byY(w)}</span>
+      <span class="cDot" style="--c:${TCOLOR[w.type] || '#8a919e'}"></span><span>${TYPES[w.type] || w.type}</span>
+      <span class="cAcc">${esc((w.creators || '').slice(0, 18))}</span>
+    </div>
+    <h3 class="cTitle"><a>${esc(w.title)}${w.en_title ? ` <span class="arrow" style="font-family:var(--mono);font-size:.72rem;color:var(--faint)">${esc(w.en_title)}</span>` : ''}</a></h3>
+    <p class="cSum">${esc(w.headline)}。${esc(w.summary_30s.slice(0, 90))}${w.summary_30s.length > 90 ? '…' : ''}</p>
+    <button class="cMore">展开作品生命线 <i>∨</i></button>
+    <div class="cBody"><div class="cBodyInner">
+      <div class="sec"><span class="lab">作品小传</span><p>${esc(w.bio || w.summary_30s)}</p></div>
+      <div class="sec"><span class="lab">生命线</span><ul class="tlList">${tl}</ul></div>
+      ${quotes}
+      <div class="sec"><span class="lab">精神遗产</span><div class="legacyBox">${esc(w.legacy)}</div></div>
+      <div class="sec"><span class="lab">来源</span><ul class="srcList">${src}</ul></div>
+    </div></div>`;
   return el;
 }
 
-function openDetail(w) {
-  const tl = w.timeline.map(t =>
-    `<div class="tlItem"><div class="td">${String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10)}</div><div class="tx">${esc(t.text)}</div></div>`).join('');
-  const quotes = (w.quotes || []).length
-    ? `<h4>经典回响</h4>${w.quotes.map(q => `<div class="quoteBox">${esc(q)}</div>`).join('')}` : '';
-  const src = w.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
-  $('#detail').innerHTML = `<button class="close">✕</button>
-    <h2>${esc(w.title)}${w.en_title ? `<span style="font-family:var(--mono);font-size:.9rem;color:var(--faint)"> ${esc(w.en_title)}</span>` : ''}</h2>
-    <div class="sub">${esc(w.headline)} · ${TYPES[w.type] || w.type} · ${byY(w)} · ${esc(w.creators || '')}</div>
-    <p class="smFull">${esc(w.bio || w.summary_30s)}</p>
-    <h4>作品生命线</h4><div class="tl">${tl}</div>
-    ${quotes}
-    <h4>精神遗产</h4><div class="legacyBox">${esc(w.legacy)}</div>
-    <h4>来源</h4><ul class="srcList">${src}</ul>`;
-  $('#detail').classList.add('show');
-  $('#mask').classList.add('show');
-  document.body.style.overflow = 'hidden';
-  $('#detail').querySelector('.close').onclick = closeDetail;
-}
-function closeDetail() {
-  $('#detail').classList.remove('show');
-  $('#mask').classList.remove('show');
-  document.body.style.overflow = '';
-}
-$('#mask').onclick = closeDetail;
-addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+$('#wtimeline').addEventListener('click', ev => {
+  const more = ev.target.closest('.cMore');
+  if (more) { more.closest('.card').classList.toggle('open'); return; }
+  const cardEl = ev.target.closest('.card');
+  if (cardEl && !ev.target.closest('a')) cardEl.classList.add('open');
+});
 
 function visible(w) {
   if (curFilter !== 'all' && w.type !== curFilter) return false;
@@ -186,10 +161,12 @@ function render() {
     for (const [year, ws] of byYear) {
       const g = document.createElement('div');
       g.className = 'yearGroup';
-      g.innerHTML = `<div class="yBadge"><span>${year}</span></div><div class="cards"></div>`;
+      g.innerHTML = `<div class="yBadge"><span>${year}</span>${ws.length > 1 ? `<small>${ws.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
       for (const w of ws) {
-        cards.appendChild(card(w, flip));
+        const c = card(w);
+        if (flip) c.classList.add('right');
+        cards.appendChild(c);
         flip = 1 - flip;
         shown++;
       }
@@ -209,7 +186,7 @@ function render() {
       const n = DATA.works.filter(w => w.type === f).length;
       const b = document.createElement('button');
       b.className = 'chip'; b.dataset.f = f;
-      b.textContent = `${TYPES[f] || f} ${n}`;
+      b.innerHTML = `<span style="color:${TCOLOR[f] || '#8a919e'}">●</span> ${TYPES[f] || f}<span class="n">${n}</span>`;
       b.onclick = () => {
         curFilter = f;
         bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
@@ -232,8 +209,13 @@ function render() {
     render();
     const want = new URLSearchParams(location.search).get('w');
     if (want) {
-      const w = DATA.works.find(x => x.id === want);
-      if (w) openDetail(w);
+      const c = document.querySelector(`.card[data-id="${want}"]`);
+      if (c) {
+        c.classList.add('open');
+        c.scrollIntoView({ block: 'center', behavior: 'instant' });
+        c.style.outline = '2px solid var(--accent)';
+        setTimeout(() => { c.style.outline = ''; }, 2600);
+      }
     }
   } catch (e) {
     $('#wtimeline').innerHTML = `<div class="empty">数据加载失败（${esc(e.message)}）</div>`;

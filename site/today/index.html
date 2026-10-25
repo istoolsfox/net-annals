@@ -70,6 +70,27 @@
   <div class="dayHead"><h2 id="dayTitle">—</h2><span class="cnt" id="dayCnt"></span><button class="chip" id="copyLink" style="margin-left:auto">🔗 复制链接</button></div>
   <div class="evList" id="evList"></div>
 </div>
+<div class="pMask" id="mask"></div>
+<div class="pDetail" id="detail"></div>
+<style>
+.pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
+.pMask.show{display:block}
+.pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;transition:right .25s ease}
+.pDetail.show{right:0}
+.pDetail h2{font-family:var(--serif);font-size:1.55rem;color:var(--text);margin:0 0 4px;line-height:1.4}
+.pDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
+.pDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px;font-family:var(--mono)}
+.pDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
+.pDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:24px 0 12px}
+.sec{margin-bottom:14px}
+.sec .lab{display:block;font-family:var(--mono);font-size:.66rem;letter-spacing:.28em;color:var(--faint);margin-bottom:4px}
+.sec p{margin:0;font-size:.9rem;line-height:1.8;color:var(--text)}
+.srcList{margin:4px 0 0;padding-left:18px;font-size:.85rem;line-height:2}
+.srcList a{color:var(--accent);text-decoration:none}
+.evItem{cursor:pointer}
+.evItem:hover{border-color:var(--accent)}
+.loading{color:var(--faint);font-family:var(--mono);font-size:.8rem}
+</style>
 
 <script>
 'use strict';
@@ -146,10 +167,74 @@ function selectDay(key) {
     div.className = 'evItem';
     div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${esc(e.title)}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
       ${e.summary ? `<p class="sm">${esc(e.summary.slice(0, 110))}${e.summary.length > 110 ? '…' : ''}</p>` : ''}
-      <div class="meta">${esc(e.layer)}<a class="evJump" href="../?event=${e.id}&date=${e.date}">在长卷中查看 ↗</a></div>`;
+      <div class="meta">${esc(e.layer)}${e.milestone ? ' · ★' : ''}</div>`;
+    div.onclick = () => openEv(e, div);
     list.appendChild(div);
   }
   gridSync();
+}
+
+/* 点卡片 → 右侧抽屉：先展示今日已有信息，再懒拉主时间线全文 */
+let _shardCache = {};
+async function fetchFull(id, date) {
+  const eraIdx = [
+    ['1972', 1994.4], ['1994', 2000], ['2000', 2003], ['2003', 2005],
+    ['2005', 2010], ['2010', 2015], ['2015', 2020], ['2020', 2027],
+  ].findIndex(([a, b]) => {
+    const yf = +date.slice(0, 4) + (+date.slice(5, 7) - 1) / 12;
+    return yf >= +a && yf < b;
+  });
+  const i = eraIdx === -1 ? 7 : eraIdx;
+  if (!_shardCache[i]) {
+    const r = await fetch('../data/shard-' + i + '.json.gz?v=20261025a');
+    if (r.ok) {
+      const buf = await r.arrayBuffer();
+      const ds = new DecompressionStream('gzip');
+      const stream = new Blob([buf]).stream().pipeThrough(ds);
+      _shardCache[i] = await new Response(stream).json();
+    } else {
+      _shardCache[i] = [];
+    }
+  }
+  return (_shardCache[i] || []).find(x => x.id === id);
+}
+function esc2(s) { return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function openEv(e, divEl) {
+  const mask = document.getElementById('mask');
+  const det = document.getElementById('detail');
+  const [y, m, d] = e.date.split('-');
+  det.innerHTML = `<button class="close">✕</button>
+    <h2>${esc2(e.title)}</h2>
+    <div class="sub">${y}.${m}.${d} · ${esc2(e.layer)}${e.milestone ? ' · ★ 时代转折点' : ''}</div>
+    <p class="smFull">${esc2(e.summary || '')}</p>
+    <div class="loading">正在载入完整经过…</div>`;
+  det.classList.add('show');
+  mask.classList.add('show');
+  document.body.style.overflow = 'hidden';
+  det.querySelector('.close').onclick = closeEv;
+  mask.onclick = closeEv;
+  fetchFull(e.id, e.date).then(full => {
+    const box = det.querySelector('.loading');
+    if (!box) return;
+    if (!full) { box.textContent = '未找到更详细的档案。'; return; }
+    box.remove();
+    const secs = [];
+    if (full.detail) secs.push(['经过', full.detail]);
+    if (full.impact) secs.push(['影响', full.impact]);
+    if (full.aftermath) secs.push(['后续', full.aftermath]);
+    const srcHtml = (full.sources || []).length
+      ? `<h4>来源</h4><ul class="srcList">${full.sources.map(s => `<li><a href="${esc2(s.url)}" target="_blank" rel="noopener">${esc2(s.title)}</a></li>`).join('')}</ul>` : '';
+    det.querySelector('.smFull').insertAdjacentHTML('afterend',
+      secs.map(([lab, txt]) => `<div class="sec"><span class="lab">${lab}</span><p>${esc2(txt)}</p></div>`).join('') + srcHtml);
+  }).catch(() => {
+    const box = det.querySelector('.loading');
+    if (box) box.textContent = '详细档案载入失败。';
+  });
+}
+function closeEv() {
+  document.getElementById('detail').classList.remove('show');
+  document.getElementById('mask').classList.remove('show');
+  document.body.style.overflow = '';
 }
 
 function gridSync() {

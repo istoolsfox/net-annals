@@ -16,7 +16,7 @@
 {"@context":"https://schema.org","@type":"WebSite","name":"互联网编年史","alternateName":"中国时代编年史","url":"https://toolsfox.cn/","description":"从 1987 年第一封电子邮件到今天的中国与世界编年史，精确到日、每条可溯源。含世家志（企业社区机构兴衰史）、人物志、地域日志与历史上的今天。"}
 </script>
 <title>中国时代编年史 · 1972—2026 · 精确到日</title>
-<link rel="stylesheet" href="style.css?v=19">
+<link rel="stylesheet" href="style.css?v=20">
 <link rel="preload" href="data/index.json" as="fetch" crossorigin>
 <script>
 /* 主题防闪烁（FOUC）：在 app.js 之前同步执行，按本地偏好立即着色；app.js 里的 applyTheme 幂等 */
@@ -33,12 +33,12 @@
 <header class="topbar">
   <a class="brand" href="#top"><span class="brandMark">编</span><span class="brandName">互联网编年史</span></a>
   <nav class="topNav">
-    <a href="#timeline">长卷</a>
+    <button class="topTab on" data-view="annals">编年史</button>
+    <button class="topTab" data-view="persons">人物志</button>
+    <button class="topTab" data-view="entities">世家志</button>
+    <button class="topTab" data-view="works">作品志</button>
     <a href="today/">今天</a>
-    <a href="persons/">人物志</a>
-    <a href="entities/">世家志</a>
     <a href="geo/">地域日志</a>
-    <a href="works/">作品志</a>
     <a href="#colophon">凡例</a>
     <button id="themeBtn" title="切换明暗主题">◐</button>
   </nav>
@@ -94,6 +94,7 @@
   </div>
 </a>
 
+<div id="view-annals" class="viewPane">
 <div class="toolbar" id="toolbar">
   <div class="tRow tSearchRow">
     <div class="searchWrap">
@@ -117,6 +118,58 @@
   </section>
   <div id="timeline" class="timeline"></div>
 </main>
+</div><!-- /view-annals -->
+
+<div id="view-persons" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">领域</span><div id="pFieldRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">BIOGRAPHY CHRONICLE</p>
+      <h2 class="introTitle">一代人，一条人生长卷</h2>
+      <p class="introText" id="personsIntro"></p>
+    </section>
+    <div id="ptimeline" class="timeline"></div>
+  </main>
+</div>
+
+<div id="view-entities" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="eq" placeholder="搜索世家 / 总部…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">类型</span><div id="eTypeRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">HEREDITARY HOUSES</p>
+      <h2 class="introTitle">为每一家立传，从创立到谢幕</h2>
+      <p class="introText" id="entitiesIntro"></p>
+    </section>
+    <div id="etimeline" class="timeline"></div>
+  </main>
+</div>
+
+<div id="view-works" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="wq" placeholder="搜索作品 / 主创…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">类型</span><div id="wTypeRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">WORKS CHRONICLE</p>
+      <h2 class="introTitle">陪伴大众精神生活的创作物</h2>
+      <p class="introText" id="worksIntro"></p>
+    </section>
+    <div id="wtimeline" class="timeline"></div>
+  </main>
+</div>
 
 <footer class="colophon" id="colophon">
   <div class="colInner">
@@ -130,6 +183,7 @@
 
 <button id="toTop" title="回到顶部">↑</button>
 
+<script src="section-view.js?v=25"></script>
 <script src="app.js?v=24"></script>
 </body>
 </html>
