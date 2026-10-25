@@ -90,10 +90,11 @@ const SV = {
       const pane = document.getElementById('view-' + v);
       if (pane) pane.style.display = v === name ? '' : 'none';
     }
+    // 切视图 = 该视图的全新落地：回顶（hero 文案刚换过，滚到工具栏会把它整个跳过，
+    // 且滚动深度会继承上一视图——曾表现为"往下滑过再切人物志不回顶"）
+    window.scrollTo({ top: 0, behavior: 'instant' });
     history.replaceState(null, '', name === 'annals' ? '#' : '#view=' + name);
     if (name !== 'annals') {
-      const pane = document.getElementById('view-' + name);
-      if (pane) pane.querySelector('.toolbar')?.scrollIntoView({ block: 'start', behavior: 'instant' });
       try {
         await this.initView(name);
       } catch (err) {
