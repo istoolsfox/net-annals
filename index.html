@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="中国互联网编年史：从 1987 年第一封电子邮件到今天，精确到日、每条可溯源的时代长卷。">
+<link rel="canonical" href="https://toolsfox.cn/">
+<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<meta property="og:site_name" content="互联网编年史">
+<meta property="og:type" content="website">
+<meta property="og:title" content="互联网编年史 · 1972—2026 · 精确到日">
+<meta property="og:description" content="从一封越过长城的电子邮件到智能时代——数千件大事小事钉在它的那一天上，每条可溯源。世家志记兴衰，人物志记人生，历史上的今天每天翻一页。">
+<meta property="og:url" content="https://toolsfox.cn/">
+<meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"互联网编年史","alternateName":"中国时代编年史","url":"https://toolsfox.cn/","description":"从 1987 年第一封电子邮件到今天的中国与世界编年史，精确到日、每条可溯源。含世家志（企业社区机构兴衰史）、人物志、地域日志与历史上的今天。"}
+</script>
+<title>中国时代编年史 · 1972—2026 · 精确到日</title>
+<link rel="stylesheet" href="style.css?v=24">
+<link rel="preload" href="data/index.json" as="fetch" crossorigin>
+<script>
+/* 主题防闪烁（FOUC）：在 app.js 之前同步执行，按本地偏好立即着色；app.js 里的 applyTheme 幂等 */
+(function () {
+  var t = localStorage.getItem('na-theme');
+  if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
+</head>
+<body>
+<div id="progress"></div>
+
+<header class="topbar">
+  <a class="brand" href="#top"><span class="brandMark">编</span><span class="brandName">互联网编年史</span></a>
+  <nav class="topNav">
+    <button class="topTab on" data-view="annals">编年史</button>
+    <button class="topTab" data-view="persons">人物志</button>
+    <button class="topTab" data-view="entities">世家志</button>
+    <button class="topTab" data-view="works">作品志</button>
+    <a href="today/">今天</a>
+    <a href="geo/">地域日志</a>
+    <button id="themeBtn" title="切换明暗主题">◐</button>
+  </nav>
+</header>
+
+<section class="hero" id="top">
+  <p class="eyebrow" id="heroEyebrow">1972 — 2026 · 精确到日 · 每条可溯源</p>
+  <h1 class="heroTitle">互联<em>网</em>编年史</h1>
+  <p class="heroSub" id="heroSub">从一封越过长城的电子邮件，到人人掌中的智能时代——每一件大事、小事、转折事，都钉在它的那一天上。</p>
+  <div class="heroCta">
+    <a class="btn primary" href="#timeline">开始阅读</a>
+    <a class="btn geo" href="geo/">🗺 按地域浏览 · 省市县日志</a>
+    <a class="btn ghost" href="#" id="ctaEras">按时代浏览</a>
+  </div>
+</section>
+
+<a class="geoBand" href="geo/" aria-label="进入地域日志">
+  <div class="geoBandIcon">🗺</div>
+  <div class="geoBandBody">
+    <div class="geoBandTitle">地域日志 · 全国省市县编年 <span class="geoBandArrow">→</span></div>
+    <div class="geoBandDesc">34 个省级行政区 · 300+ 城市 · 2800+ 县域骨架，从省会到县城的大事小情，逐省逐市持续填充——深圳、香港、唐山、义乌……你的家乡有哪些被时代记住的日子？</div>
+  </div>
+  <div class="geoBandStats">
+    <div class="geoBandNum">34<small>省级</small></div>
+    <div class="geoBandNum">300+<small>城市</small></div>
+    <div class="geoBandNum">1000+<small>日志</small></div>
+  </div>
+</a>
+
+<a class="geoBand" href="persons/" aria-label="进入人物志">
+  <div class="geoBandIcon">👤</div>
+  <div class="geoBandBody">
+    <div class="geoBandTitle">人物志 · 知名人士人生历程 <span class="geoBandArrow">→</span></div>
+    <div class="geoBandDesc">AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士——人生历程、关键节点与公开成就，逐人核实、全部可溯源。</div>
+  </div>
+  <div class="geoBandStats">
+    <div class="geoBandNum">370<small>人物</small></div>
+    <div class="geoBandNum">10<small>领域</small></div>
+    <div class="geoBandNum">100%<small>可溯源</small></div>
+  </div>
+</a>
+
+<a class="geoBand" href="entities/" aria-label="进入世家志">
+  <div class="geoBandIcon">🏛</div>
+  <div class="geoBandBody">
+    <div class="geoBandTitle">世家志 · 企业社区机构兴衰史 <span class="geoBandArrow">→</span></div>
+    <div class="geoBandDesc">《史记》以世家记诸侯侯国，这里以世家记互联网时代的企业、社区与机构——从创立到巅峰到谢幕，兴衰成对、每个节点可溯源。腾讯的天涯的猫扑的，你们的青春都在这里立了传。</div>
+  </div>
+  <div class="geoBandStats">
+    <div class="geoBandNum">236<small>世家</small></div>
+    <div class="geoBandNum">3<small>体裁</small></div>
+    <div class="geoBandNum">100%<small>可溯源</small></div>
+  </div>
+</a>
+
+<div id="view-annals" class="viewPane">
+<div class="toolbar" id="toolbar">
+  <div class="tRow tSearchRow">
+    <div class="searchWrap">
+      <span class="searchIcon">⌕</span>
+      <input id="q" placeholder="搜索标题、关键词、人物或年份…" autocomplete="off">
+      <span id="qCount" class="qCount"></span>
+    </div>
+    <button id="expandAll" class="tBtn">全部展开</button>
+    <button id="mileOnly" class="tBtn">★ 转折点</button>
+  </div>
+  <div class="tRow tJumpRow"><span class="tLab">时代</span><div id="eraJump" class="chipRow"></div></div>
+  <div class="tRow tFilterRow"><span class="tLab">分类</span><div id="catRow" class="chipRow"></div></div>
+  <div class="tRow tFilterRow"><span class="tLab">主题</span><div id="tagRow" class="chipRow"></div></div>
+</div>
+
+<main class="page">
+  <section class="intro">
+    <p class="eyebrow">TIMELINE EXPLORER</p>
+    <h2 class="introTitle">四十年，钉在日期上的时代</h2>
+    <p class="introText" id="introText"></p>
+  </section>
+  <div id="timeline" class="timeline"></div>
+</main>
+</div><!-- /view-annals -->
+
+<div id="view-persons" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">领域</span><div id="pFieldRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">BIOGRAPHY CHRONICLE</p>
+      <h2 class="introTitle">一代人，一条人生长卷</h2>
+      <p class="introText" id="personsIntro"></p>
+    </section>
+    <div id="ptimeline" class="timeline"></div>
+  </main>
+</div>
+
+<div id="view-entities" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="eq" placeholder="搜索世家 / 总部…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">类型</span><div id="eTypeRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">HEREDITARY HOUSES</p>
+      <h2 class="introTitle">为每一家立传，从创立到谢幕</h2>
+      <p class="introText" id="entitiesIntro"></p>
+    </section>
+    <div id="etimeline" class="timeline"></div>
+  </main>
+</div>
+
+<div id="view-works" class="viewPane" style="display:none">
+  <div class="toolbar">
+    <div class="tRow tSearchRow">
+      <div class="searchWrap"><span class="searchIcon">⌕</span><input id="wq" placeholder="搜索作品 / 主创…" autocomplete="off"></div>
+    </div>
+    <div class="tRow tFilterRow"><span class="tLab">类型</span><div id="wTypeRow" class="chipRow"></div></div>
+  </div>
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">WORKS CHRONICLE</p>
+      <h2 class="introTitle">陪伴大众精神生活的创作物</h2>
+      <p class="introText" id="worksIntro"></p>
+    </section>
+    <div id="wtimeline" class="timeline"></div>
+  </main>
+</div>
+
+<footer class="colophon" id="colophon">
+  <div class="colInner">
+    <p class="eyebrow">COLOPHON · 编纂说明</p>
+    <h3>这部编年史怎么编的</h3>
+    <p>本编年史<b>全权由 AI 收集与编纂</b>：AI 按三律——<b>「日期有据、来源可溯、存疑注明」</b>——在信息源中逐日检索、交叉比对、撰写条目，<b>再经人工逐条复核修订</b>后收录上架。同一事件日期有分歧时取多数权威口径并记录分歧，查不到精确日期则降级为「精确到月 / 精确到年」并在卡片标注。</p>
+    <p>信息源分三层，全部写明、逐条可查：骨架层（CNNIC / CERNET 官方大事记、维基百科逐日新闻存档）、血肉层（年度热搜档案、Hacker News 按日检索、Wayback Machine 快照）、情绪层（年度流行语、社区兴衰长文）。每张卡片都附来源链接，点标题即跳原文。星标 <b>★</b> 条目为时代转折点，全库严格控制数量。</p>
+    <p class="colMeta" id="colMeta"></p>
+  </div>
+</footer>
+
+<button id="toTop" title="回到顶部">↑</button>
+
+<script src="common.js?v=2"></script>
+<script src="section-view.js?v=28"></script>
+<script src="app.js?v=29"></script>
+</body>
+</html>
