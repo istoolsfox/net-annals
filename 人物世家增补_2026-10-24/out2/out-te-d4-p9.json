@@ -1,0 +1,652 @@
+[
+ {
+  "id": "2025-01-01-cyberdata-security-regulation-effective",
+  "date": "2025-01-01",
+  "title": "《网络数据安全管理条例》施行:数据安全治理补上关键一环",
+  "summary_30s": "国务院《网络数据安全管理条例》正式施行,对个人信息保护、重要数据识别、跨境流动与平台责任作出系统规定,与《网络安全法》《数据安全法》《个人信息保护法》共同构成「三法一条例」治理体系。",
+  "detail": "条例细化了个人信息处理的告知同意、敏感数据目录与大型平台义务,明确重要数据风险评估与出境安全评估的操作口径,并对AI训练数据、自动化决策首次给出行政法规层面的约束。企业侧迎来合规改造高峰,数据出境白名单与自贸区负面清单试点同步推进。数字治理从「立法骨架」进入「实施细则」阶段。",
+  "impact": "数据要素流通与个人信息保护之间的平衡有了更清晰的施工图,跨国企业的数据架构调整加速。",
+  "aftermath": "2025年AI训练数据合规、匿名化技术标准相继出台,数据治理颗粒度持续细化。围绕「数据安全」的讨论在随后数月仍热度未消。",
+  "category": "national",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "网络数据安全管理条例 - 中国政府网",
+    "url": "https://www.gov.cn/zhengce/content/202409/content_6976030.htm"
+   }
+  ],
+  "tags": [
+   "数据安全",
+   "条例",
+   "合规",
+   "个人信息"
+  ]
+ },
+ {
+  "id": "2025-01-13-tiktok-refugees-xiaohongshu",
+  "date": "2025-01-13",
+  "title": "「TikTok难民」涌入小红书:中美网友的赛博串门",
+  "summary_30s": "TikTok禁令生效前夕,数十万美国用户自称「TikTok refugee」涌入小红书,一夜之间把中文社区变成中美民间对话现场:互相帮做数学作业、对账房租与医疗账单、「交猫税」刷屏。「洋抖难民潮」成为世界互联网史罕见的用户自发迁徙。",
+  "detail": "小红书未做准备却意外接住泼天流量,App Store免费榜登顶;「listen to Chinese internet」的中美大对账让两国网民第一次在同一个信息场里核对物价、学费与生活成本。平台连夜上线翻译功能,官媒与外交部亦以开放姿态回应。热度在一周后回落,但留下了「RedNote」这个海外认知符号与一批持续活跃的跨国内容创作者。",
+  "impact": "证明产品与制度的「用户体验差」可以驱动大规模迁徙,中美民间交流获得一次去滤镜化的切片。",
+  "aftermath": "2025年小红书加速出海试点;「中美对账」成为跨文化内容的长青选题。这一变化的余波一直延续到下一季度。",
+  "category": "internet",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "TikTok - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/TikTok"
+   }
+  ],
+  "tags": [
+   "TikTok",
+   "小红书",
+   "RedNote",
+   "难民潮"
+  ]
+ },
+ {
+  "id": "2025-01-19-tiktok-us-blackout-day",
+  "date": "2025-01-19",
+  "title": "TikTok美国「停服一夜」:一纸禁令的十二小时生效实录",
+  "summary_30s": "「不卖就禁」法案生效日,TikTok在美国主动关停服务约12小时,1.7亿用户打开App只见告别信;特朗普就职后签署行政令推迟执行,服务旋即恢复。「一张黑屏」成为地缘政治冲击全球互联网产品的第一次全流程演示。",
+  "detail": "停服期间,创作者涌向小红书、Lemon8与YouTube Shorts,「备胎平台」市值与下载量齐涨;TikTok的算法推荐被临时切至「只能看已关注」。后续围绕「合资公司方案」展开长达数月的拉锯:甲骨文等投资者参与的重组框架被反复报道,美国最高法院维持禁令的判决成为分水岭。字节与美政府的博弈成为数字主权时代的标志性案例。",
+  "impact": "数据主权、算法安全与跨国平台治理的全球讨论被彻底激活,各国加速立法预案。其涟漪效应沿「TikTok」相关产业链持续扩散。",
+  "aftermath": "2025年合资重组方案渐进落地;TikTok在美国的用户与广告基本盘在反复中缓慢修复。",
+  "category": "internet",
+  "region": "world",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "TikTok - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/TikTok"
+   }
+  ],
+  "tags": [
+   "TikTok",
+   "禁令",
+   "美国",
+   "地缘政治"
+  ]
+ },
+ {
+  "id": "2025-01-21-stargate-ai-infrastructure-plan",
+  "date": "2025-01-21",
+  "title": "「星际之门」启动:5000亿美元的AI基建豪赌",
+  "summary_30s": "特朗普上任次日宣布OpenAI、软银、甲骨文联合投资「Stargate(星际之门)」计划:四年5000亿美元建设美国AI数据中心基础设施,得州阿比汀首期开工。AI竞赛从模型层烧钱升级为「国家级能源与钢铁」的军备。",
+  "detail": "发布会阵容豪华:奥特曼、孙正义与埃里森同台,首期1000亿美元即刻落地。计划的本质是把算力、电力与供应链锻造成美国AI优势的物理底座,并回应「中国以低成本追赶」的焦虑。随后微软、Meta、xAI相继公布千亿级数据中心投资,AI资本开支成为2025年全球宏观变量的重要一极;电网、燃气轮机与核电重启均被这波需求点燃。",
+  "impact": "AI产业的竞争单位从「模型」升维到「基础设施与能源」,全球资本开支周期被重塑。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2025-2026年星际之门园区分期投运;各国以主权AI基金跟进,算力民族主义成为关键词。",
+  "category": "tech",
+  "region": "world",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Stargate (company) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stargate_(company)"
+   }
+  ],
+  "tags": [
+   "星际之门",
+   "OpenAI",
+   "算力",
+   "AI基建"
+  ]
+ },
+ {
+  "id": "2025-01-27-deepseek-app-store-no1",
+  "date": "2025-01-27",
+  "title": "DeepSeek登顶中美App Store:免费榜第一的中国AI",
+  "summary_30s": "DeepSeek应用超越ChatGPT登顶美国区苹果App Store免费榜第一,中国区亦持续霸榜。R1的推理能力+极低定价+完全开源的组合,让一款中国AI产品第一次在全球消费端完成「现象级登顶」。",
+  "detail": "登顶背后是口碑级传播:用户展示R1的「思维链」与数学、代码能力,硅谷工程师批量转帖;应用的注册洪流令服务一度限流,「服务器繁忙,请稍后再试」成为热梗。百度、腾讯当晚宣布接入R1,三大运营商与政务系统跟进,「全民DeepSeek」开启。华为应用市场、小米自带浏览器入口全面接入,国产AI应用的用户天花板被一举抬到亿级。",
+  "impact": "中国AI产品首次成为全球消费级爆款,「开源+低成本」路线对闭源高价的商业假设构成正面冲击。",
+  "aftermath": "2025年春节DeepSeek成为国民话题,梁文锋受邀参加民营企业座谈会,杭州六小龙叙事爆发。",
+  "category": "product",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "DeepSeek - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/DeepSeek"
+   }
+  ],
+  "tags": [
+   "DeepSeek",
+   "App Store",
+   "R1",
+   "现象级"
+  ]
+ },
+ {
+  "id": "2025-02-01-deepseek-fortune-telling-trend",
+  "date": "2025-02-01",
+  "title": "年轻人用DeepSeek算命:AI玄学的春节奇观",
+  "summary_30s": "春节假期,「用DeepSeek算命」突然爆火:八字、塔罗、紫微斗数提示词在小红书疯转,R1的长思维链把「玄学报告」写得头头是道,寺庙香客与AI服务器同时过载。「赛博玄学」成为AI普及最意外的切面。",
+  "detail": "玩法从「帮我看看今年事业运」进化到投喂生辰八字生成年度运程PPT;命理博主转型「提示词工程师」,电子木鱼与AI解签组合消费。平台与主流媒体随即降温:AI生成的「命理」本质是概率性文本,「尽信书不如无书」。该现象亦进入学术视野:大模型是否会被用于心理慰藉与决策外包,成为AI人文研究的年度案例。",
+  "impact": "展示大模型在非严肃场景的自发渗透力,AI应用的「情绪价值」面被重新定价。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2025年「AI解梦」「AI手相」等应用批量出现,玄学+AI成为内容平台的常驻流量池。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "AI算命现象报道",
+    "url": "https://www.thepaper.cn/"
+   }
+  ],
+  "tags": [
+   "DeepSeek",
+   "玄学",
+   "小现象",
+   "春节"
+  ]
+ },
+ {
+  "id": "2025-02-10-byd-tianshenzhiye-godseye",
+  "date": "2025-02-10",
+  "title": "比亚迪「天神之眼」全系搭载:智驾平权的宣示日",
+  "summary_30s": "比亚迪召开智能化战略发布会,宣布全系车型搭载「天神之眼」智驾系统,21款车上市即配备高快领航,7万元级海鸥也入列,「智驾平权」从口号变为价格表。王传福称2025年是「全民智驾元年」。",
+  "detail": "天神之眼分A/B/C三档,A版搭载于仰望与腾势,以激光雷达+大算力支撑城区NOA;C版以三目摄像头实现高快领航。发布会同步官宣接入DeepSeek的璇玑AI大模型。行业连锁反应剧烈:吉利、长安、奇瑞同周跟进全民智驾发布,智驾从高端卖点变为全系标配,供应链激光雷达、域控订单井喷。",
+  "impact": "高阶智驾渗透率一年内翻数倍,「没有智驾就没有订单」成为15万元级市场铁律。这一结果亦为比亚迪领域的后续演变定下基调。",
+  "aftermath": "2025年4月监管规范「智驾」话术为「辅助驾驶」,行业从营销战回归安全本位。相关各方的应对策略随后陆续浮出水面。",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "比亚迪 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/比亚迪"
+   }
+  ],
+  "tags": [
+   "比亚迪",
+   "智驾平权",
+   "天神之眼",
+   "汽车"
+  ]
+ },
+ {
+  "id": "2025-02-13-cat-flashlight-app-viral",
+  "date": "2025-02-13",
+  "title": "「小猫补光灯」登顶:独立开发者的AI快闪",
+  "summary_30s": "两位独立开发者一周内做出的「小猫补光灯」App登顶App Store付费榜:输入需求自动生成补光界面,让iPhone秒变直播补光灯。它在DeepSeek引发的「全民造App」热潮中,成为「人人都是开发者」的最佳注脚。",
+  "detail": "开发者花叔(@lio)把开发过程全程直播,「接住AI流量」的方法论被广泛复盘;定价1元,一周下载数十万。同期「 pregnancy 补光灯」「骂醒恋爱脑」等AI小品App批量涌现,苹果审核与「AI套壳」的边界引发讨论。它证明大模型时代个人开发者可以用「场景洞察+快速交付」切到真实需求,VC圈称之为「AI民科红利」。",
+  "impact": "独立开发迎来第二春,App Store榜单出现「AI工具快闪」新品类。「独立开发」由此成为观察这一年中国互联网走向的重要切口。",
+  "aftermath": "2025年「一人公司」「超级个体」成为创业叙事热词;小程序与App的轻开发生态持续升温。",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小猫补光灯 - 百度百科",
+    "url": "https://baike.baidu.com/item/小猫补光灯"
+   }
+  ],
+  "tags": [
+   "独立开发",
+   "AI应用",
+   "小猫补光灯",
+   "爆款"
+  ]
+ },
+ {
+  "id": "2025-02-17-xai-grok-3-launch",
+  "date": "2025-02-17",
+  "title": "xAI发布Grok 3:十万卡集群练出的「最聪明模型」",
+  "summary_30s": "马斯克的xAI发布Grok 3,声称在数学、科学与编码基准上「超过所有已发布模型」,现场演示DeepSearch与协作推理。孟菲斯「Colossus」十万卡H100集群的暴力美学,为算力军备赛立下新标杆。",
+  "detail": "Grok 3的训练算力是上一代的10倍以上,马斯克以「最大胆的暴力梯度上升」形容其路线;演示中Grok完成SpaceX火星任务轨道计算,直播画风狂野。基准榜首的「罗生门」(各家口径不一)让LM Arena排名成为舆论战场。Grok 3随后向X Premium+用户开放,并为3.5与4代铺路;其「实事求是」模式主打减少政治正确倾向,成为差异化标签。",
+  "impact": "算力规模优势被再次验证,「 Scaling还在继续」的争论暂告段落;开源阵营压力陡增。",
+  "aftermath": "2025年7月Grok 4发布;xAI估值与融资随叙事一路走高,马斯克把「算力即真理」演绎到底。",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Grok (chatbot) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)"
+   }
+  ],
+  "tags": [
+   "xAI",
+   "Grok 3",
+   "算力",
+   "马斯克"
+  ]
+ },
+ {
+  "id": "2025-02-01-yuanbao-wechat-integration",
+  "date": "2025-02-01",
+  "title": "腾讯元宝接入微信:国民App为AI导流",
+  "summary_30s": "腾讯把元宝灰度接入微信:搜索结果、公众号文章可一键唤起元宝解读,微信「生活服务」出现元宝入口。拥有14亿月活的微信亲自下场分发AI助手,标志着中国AI应用的「超级入口时代」到来。",
+  "detail": "接入依托微信搜一搜的内容生态,元宝可读取公众号文章并支持「AI问答」直达;配合朋友圈广告与红包裂变,元宝日活在数月内完成量级跃升,成为国内增长最快的AI助手之一。腾讯同时保留混元自研与接入DeepSeek的双轨策略,「模型不站队、入口定生死」的行业判断得到验证。",
+  "impact": "AI助手的分发逻辑从「投流买量」转向「超级App内嵌」,独立AI应用承压。「腾讯」由此成为观察这一年中国互联网走向的重要切口。",
+  "aftermath": "2025年元宝迭代电脑版与扣子空间联动;各大厂全面把AI嵌入自有超级App矩阵。",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "腾讯元宝 - 百度百科",
+    "url": "https://baike.baidu.com/item/腾讯元宝"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "元宝",
+   "微信",
+   "AI助手"
+  ]
+ },
+ {
+  "id": "2025-02-25-tesla-fsd-china-rollout",
+  "date": "2025-02-25",
+  "title": "特斯拉FSD入华推送:智能驾驶的「鲶鱼」游进来了",
+  "summary_30s": "特斯拉开始向中国车主分批推送FSD「城市道路Autopilot」功能,沿用北美端到端方案并以「车队学习」适配中国路况。中国智驾玩家首次在本土与全球标杆正面同场,「FSD能不能开好中国式路口」成为全民评测季。",
+  "detail": "首波推送覆盖部分已购FSD车型,实测视频刷屏:无保护左转、电驴横穿与「加塞博弈」表现两极热议。特斯拉以数据回传与本地化训练迭代,但训练数据出境合规是硬约束;华为、小鹏、理想则以「本地场景理解+城区NOA规模」迎战。FSD入华亦推动监管细化:智驾宣传与 OTA 备案规则随后收紧。",
+  "impact": "中国智驾竞争进入「端到端对端到端」的贴身肉搏,消费者教育一步到位。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年4月智驾宣传规范出台;FSD在华体验持续迭代,与本土阵营互有攻守。此后的行业讨论仍不断回到这一节点。",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "特斯拉 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/特斯拉_(公司)"
+   }
+  ],
+  "tags": [
+   "特斯拉",
+   "FSD",
+   "智驾",
+   "汽车"
+  ]
+ },
+ {
+  "id": "2025-03-01-hongguo-free-microdrama-rise",
+  "date": "2025-03-01",
+  "title": "红果短剧崛起:免费模式重写微短剧行业",
+  "summary_30s": "字节旗下红果短剧以「免费+广告分账」模式跑通,月活跃用户在年内接连突破1.5亿与2亿量级,登顶免费娱乐App。付费短剧时代培育的产能,被免费平台以IAA模式重新组织,「短剧界的抖音」就此成型。",
+  "detail": "红果以短剧内容池+算法推荐+广告变现重构商业链路:制作方按有效播放分账,头部单部分账破千万,产能从横店涌向红果。对付费投流模式形成降维打击,小程序短剧平台批量转型;精品剧《好一个北京人》《重回永乐大典》以文化题材破圈。监管与版权(同期「红果 vs 爱优腾」版权争议)成为行业新命题。",
+  "impact": "微短剧完成从「投流生意」到「平台生态」的跃迁,免费短剧成为国民级内容消费形态。其涟漪效应沿「红果短剧」相关产业链持续扩散。",
+  "aftermath": "2025年下半年红果加码精品化与短剧出海;传统长视频平台被迫加速短剧布局。围绕「红果短剧」的讨论在随后数月仍热度未消。",
+  "category": "internet",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "红果短剧 - 百度百科",
+    "url": "https://baike.baidu.com/item/红果短剧"
+   }
+  ],
+  "tags": [
+   "红果短剧",
+   "微短剧",
+   "免费模式",
+   "字节"
+  ]
+ },
+ {
+  "id": "2025-03-09-weight-management-year",
+  "date": "2025-03-09",
+  "title": "「体重管理年」启动:国家喊你减肥了",
+  "summary_30s": "国家卫健委主任雷海潮在两会记者会上花数分钟谈「腰围过大」「体重异常」,宣布实施为期三年的「体重管理年」行动。热搜第一的「国家喊你减肥」,把肥胖防控从个人话题升格为公共健康战略。",
+  "detail": "行动覆盖体重监测环境建设、食堂减油减盐、社区运动设施与科普宣传;多地医院开设体重门诊,「国家版减肥食谱」刷屏。中国成人超重肥胖率已过半,慢病负担倒逼「前端健康管理」。GLP-1药物热、代餐与健身消费随之获得政策顺风;「管住嘴迈开腿」获得史上最大流量。",
+  "impact": "健康消费与体重管理产业迎来顶层催化,医疗、食品、运动产业链集体受益。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2025年内各地体重门诊与企事业单位「减重打卡」普及;体重管理纳入健康城市考核试点。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "体重管理年 - 国家卫健委",
+    "url": "https://www.nhc.gov.cn/"
+   }
+  ],
+  "tags": [
+   "体重管理",
+   "卫健委",
+   "公共健康",
+   "两会"
+  ]
+ },
+ {
+  "id": "2025-03-14-ai-content-labeling-rules",
+  "date": "2025-03-14",
+  "title": "《人工智能生成合成内容标识办法》发布:AI内容进入「亮牌」时代",
+  "summary_30s": "网信办等四部门公布《人工智能生成合成内容标识办法》,要求AI生成的文本、图片、音视频与服务添加显式或隐式标识,9月1日起施行。配套强制性国标同步落地,「AI生成」从此不再是法外之地。",
+  "detail": "办法确立「双标识」体系:显式标识供人感知(水印、标注),隐式标识供机器检测(元数据、数字水印),平台需在发布环节核验,应用分发与传播各环节责任明晰。立法直指AI换脸诈骗、谣言合成与「深度伪造」治理;对AIGC商业应用,合规标识能力成为产品刚需,检测与水印技术公司迎来采购潮。",
+  "impact": "全球范围内最早的AI内容标识强制性制度之一,为AIGC治理提供了可执行模板。其涟漪效应沿「AI治理」相关产业链持续扩散。",
+  "aftermath": "2025年9月施行后主流平台全面上线标识;「AI含量」检测成为内容行业基础设施。",
+  "category": "national",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "人工智能生成合成内容标识办法 - 网信办",
+    "url": "https://www.cac.gov.cn/"
+   }
+  ],
+  "tags": [
+   "AI治理",
+   "标识",
+   "深度伪造",
+   "政策"
+  ]
+ },
+ {
+  "id": "2025-03-01-qwen-open-source-derivatives-no1",
+  "date": "2025-03-01",
+  "title": "Qwen开源衍生模型数登顶全球:开源生态的中国时刻",
+  "summary_30s": "阿里通义千问Qwen系列在Hugging Face上的衍生模型数量超越Llama,登顶全球第一;至2025年衍生模型数破15万,覆盖100余种语言。中国开源大模型第一次成为全球开发者的「默认底座」。",
+  "detail": "Qwen以Apache 2.0协议开放0.5B至110B全尺寸家族,Qwen2.5、QwQ与Qwen3接力,「小模型跑得动、大模型够强」的产品梯度适配从手机端到数据中心的部署需求。海外开发者基于Qwen微调的行业模型遍及医疗、法律与多语种NLP;Llama因商用与更新节奏问题份额下滑。开源由此成为中国AI影响力输出的主干道。",
+  "impact": "全球AI开源权重生态的重心向中国偏移,「开源即外交」的软实力路径被验证。行业叙事与用户心智在这一节点之后明显切换。",
+  "aftermath": "2025年内Qwen3、DeepSeek-R1系列与Kimi K2持续霸榜;OpenRouter调用前十半数为中国模型。",
+  "category": "tech",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "Qwen (model series) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Qwen_(model_series)"
+   }
+  ],
+  "tags": [
+   "Qwen",
+   "开源",
+   "通义千问",
+   "大模型"
+  ]
+ },
+ {
+  "id": "2025-03-18-google-acquires-wiz",
+  "date": "2025-03-18",
+  "title": "谷歌320亿美元收购Wiz:云安全史上最大并购",
+  "summary_30s": "谷歌宣布以320亿美元现金收购云安全初创Wiz,创谷歌史上最大收购、也是全球网络安全领域最大并购。交易历经一年谈判(此前Wiz拒绝230亿美元出价),云安全在AI时代的战略权重被重新定价。",
+  "detail": "Wiz以无代理扫描技术连接AWS、Azure、GCP的多云环境,年经常性收入破7亿美元,客户覆盖半数财富100强。交易面临反垄断审查,谷歌以「云安全赛道与搜索主业无关」陈述;Wiz承诺继续支持多云中立。此举亦回应微软在安全赛道的整合优势,AI时代「数据在哪里、安全就在哪里」成为共识。",
+  "impact": "云安全估值体系整体上移,创业公司与巨头的安全军备从工具走向平台。行业叙事与用户心智在这一节点之后明显切换。",
+  "aftermath": "2026年交易获准完成交割;Wiz并入谷歌云安全版图,多云安全标准之争升级。后续进展持续验证并放大了这一影响。",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Wiz (company) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wiz_(company)"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "Wiz",
+   "云安全",
+   "并购"
+  ]
+ },
+ {
+  "id": "2025-03-29-xiaomi-su7-fatal-crash-debate",
+  "date": "2025-03-29",
+  "title": "小米SU7高速碰撞爆燃事故:智驾安全的大讨论",
+  "summary_30s": "一辆小米SU7标准版在高速施工路段发生碰撞起火,车上三名大学生不幸遇难。事故引发对辅助驾驶能力边界、AEB策略、车门解锁与电池安全的全社会追问,「智驾平权」的营销热潮被泼下最沉重的一盆冷水。",
+  "detail": "官方通报与小米公布的信息显示,车辆处于NOA辅助状态、发出减速请求后仍以约97km/h撞击隔离桩。舆论焦点集中在:夜间高速施工场景的识别极限、驾驶员接管2秒是否合理、隐藏式门把手断电解困难题。小米股价波动,雷军发文回应;多起事故与行业乱象叠加,直接推动4月中旬主管部门收紧智驾宣传与OTA管理,「智驾」话术全面改称「辅助驾驶」。",
+  "impact": "中国智驾产业从营销驱动回归安全驱动的转折点,行业标准与准入规则加速完善。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2025年L3准入试点扩围仍以「系统冗余+责任划分」为先决条件;消费者认知显著成熟。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "小米SU7 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/小米SU7"
+   }
+  ],
+  "tags": [
+   "小米SU7",
+   "智驾安全",
+   "事故",
+   "监管"
+  ]
+ },
+ {
+  "id": "2025-03-31-openai-40b-funding-300b-valuation",
+  "date": "2025-03-31",
+  "title": "OpenAI完成400亿美元融资:史上最大单笔私募融资",
+  "summary_30s": "OpenAI宣布完成400亿美元新一轮融资,投后估值3000亿美元,由软银领投,微软、 coatue 等跟投,创全球私募市场单笔融资纪录。资金主要投向星际之门算力建设,「以亏损换霸权」的商业模式逼近极限压强。",
+  "detail": "融资条款与软银的Stargate承诺深度绑定:若OpenAI年内未完成重组为营利实体的既定节点,融资额将削减100亿美元。2025年5月,OpenAI完成公益公司(PBC)重组,微软持股约27%,原非营利实体转为持股方。年内其年化收入奔向200亿美元,C端订阅+API+企业服务三线并进,「最贵的创业公司」与「最烧钱的基建计划」合体。",
+  "impact": "AI创业的资本密集度被推至历史新高,「主权级资本」成为前沿模型的入场券。「OpenAI」由此成为观察这一年中国互联网走向的重要切口。",
+  "aftermath": "2025年10月AMD 6GW芯片协议再获算力弹药;OpenAI进入上市前夜的叙事周期。",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "OpenAI - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/OpenAI"
+   }
+  ],
+  "tags": [
+   "OpenAI",
+   "融资",
+   "软银",
+   "估值"
+  ]
+ },
+ {
+  "id": "2025-04-15-canton-fair-robot-zone",
+  "date": "2025-04-15",
+  "title": "广交会首设服务机器人专区:中国智造的新名片",
+  "summary_30s": "第137届广交会首次设立服务机器人专区,46家企业的履带巡检、人形接待、割草清洁机器人集中亮相,境外采购商排队互动。外贸「新三样」之后,机器人成为中国出口叙事的下一张名片。",
+  "detail": "专区客流远超预期:宇树四足、优必选Walker、越疆机械臂与泳池清洁机器人成为焦点,多家企业现场斩获千万级订单意向。采购商以欧美、中东与东南亚渠道商为主,「机器人+场景方案」取代单品报价。官方同步发布机器人产业出口促进措施,广交会三期全面扩容「先进制造」板块。",
+  "impact": "具身智能企业获得全球化订单通道,「中国机器人出海」从概念进入合同阶段。这一结果亦为广交会领域的后续演变定下基调。",
+  "aftermath": "2025年秋交会机器人专区扩围;人形机器人企业与车厂、地产、医院的服务合同密集落地。",
+  "category": "economy",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "中国进出口商品交易会 - 官网",
+    "url": "https://www.cantonfair.org.cn/"
+   }
+  ],
+  "tags": [
+   "广交会",
+   "机器人",
+   "出海",
+   "外贸"
+  ]
+ },
+ {
+  "id": "2025-04-16-smart-driving-marketing-rules",
+  "date": "2025-04-16",
+  "title": "智驾宣传急刹车:主管部门规范「辅助驾驶」话术",
+  "summary_30s": "工信部召开智能网联汽车产品发布会,明确要求企业不得进行夸大宣传,「自动驾驶」「智驾」「高阶智驾」等表述统一规范为「组合辅助驾驶」,并严管OTA与准入测试。SU7事故后的这记重拳,让全行业的营销文案连夜改稿。",
+  "detail": "新规要求:杜绝「解放双手」「零接管」类话术,宣传物料需经法务与安全双重审核;OTA升级须备案,涉及驾驶辅助功能的变更需重新测试;对「公测」「先锋版」等灰色操作叫停。车企迅速响应:华为乾崑、小鹏、理想官网上「智驾」字样批量更名。这被视为智驾产业「从讲故事到讲责任」的分水岭。",
+  "impact": "消费者预期被拉回真实能力边界,事故责任认定的话语基础随之厘清。其涟漪效应沿「智驾」相关产业链持续扩散。",
+  "aftermath": "2025年L3级准入试点扩围名单公布;行业宣传与产品命名全面规范化。此后的行业讨论仍不断回到这一节点。",
+  "category": "national",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "工业和信息化部 - 智能网联汽车管理",
+    "url": "https://www.miit.gov.cn/"
+   }
+  ],
+  "tags": [
+   "智驾",
+   "监管",
+   "宣传规范",
+   "汽车"
+  ]
+ },
+ {
+  "id": "2025-04-10-huawei-cloudmatrix-384",
+  "date": "2025-04-10",
+  "title": "华为CloudMatrix 384超节点:以系统工程补单芯片",
+  "summary_30s": "华为发布CloudMatrix 384超节点:用384颗昇腾910C芯片通过全光互联组成「一台超级计算机」,以集群规模对冲单卡与英伟达的代差。「不追求单点最强,追求系统最强」的中国算力路线图首次完整亮相。",
+  "detail": "CloudMatrix借鉴其电信级SuperPod架构,光交换降低互联时延,在MindSpore与CANN生态上支撑千亿参数模型训练,对标英伟达NVLink72的GB200 NVL72。海外机构论文测算其在部分系统指标上具备竞争力;订单来自运营商与大型政企。该路线验证了「被管制条件下用架构换性能」的可行性,亦拉动国内光互联产业链。",
+  "impact": "中国AI算力「自主可控」获得体系化样本,昇腾生态进入规模商用阶段。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年下半年新一代超节点迭代,国内智算中心昇腾占比持续提升。相关各方的应对策略随后陆续浮出水面。",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "华为云 - CloudMatrix",
+    "url": "https://www.huaweicloud.com/"
+   }
+  ],
+  "tags": [
+   "华为",
+   "昇腾",
+   "超节点",
+   "算力"
+  ]
+ },
+ {
+  "id": "2025-04-30-taobao-shangou-instant-retail-war",
+  "date": "2025-04-30",
+  "title": "淘宝闪购上线:外卖大战「三国杀」全面开打",
+  "summary_30s": "阿里把即时零售品牌「淘宝闪购」推上前线,联合饿了么以500亿补贴参战,与京东外卖、美团闪购正面对撞。服饰、3C、母婴全品类「秒送」,即时零售从外卖延伸为「万物到家」的电商主战场。",
+  "detail": "闪购上线当月日订单快速破亿量级(口径含饿了么),淘宝App给闪购一级入口,补贴直逼历史级;京东以品质外卖+骑手五险一金叙事应战,美团则巩固闪购心智。7月补贴大战达到峰值,奶茶咖啡免单日消耗数千万杯,「薅羊毛攻略」成为全民话题;7月18日监管约谈三平台,竞争转向供给与服务。",
+  "impact": "即时零售成为电商第四极,商超、品牌与骑手网络的价值被重估,「30分钟」成为零售标配时效。",
+  "aftermath": "2025年下半年大战降温转入常态化;即时零售年市场规模向万亿迈进。围绕「淘宝闪购」的讨论在随后数月仍热度未消。",
+  "category": "company",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "淘宝闪购 - 百度百科",
+    "url": "https://baike.baidu.com/item/淘宝闪购"
+   }
+  ],
+  "tags": [
+   "淘宝闪购",
+   "外卖大战",
+   "即时零售",
+   "补贴"
+  ]
+ },
+ {
+  "id": "2025-05-01-bengxian-county-travel",
+  "date": "2025-05-01",
+  "title": "「奔县」游:五一顶流是小县城",
+  "summary_30s": "2025年五一假期,县域市场消费与订单增速全面跑赢大都市:县城酒店预订量同比增长两位数,「奔县游」成为社交平台热词。小城五星酒店、县城咖啡馆与反向错峰,构成假期消费最生动的分层图景。",
+  "detail": " OTA数据显示,一、二线居民向县域迁徙明显:义乌、义乌周边与荣成、都江堰等目的地热度飙升;县域高星酒店均价低于一线同档一半,体验型民宿与「县城 Prada」式消费段子同框。地方文旅的「宠客」操作愈发熟练:免费停车、政府食堂开放、志愿者导览成为标配。高铁网络与自驾普及是奔县游的基础设施前提。",
+  "impact": "旅游消费的结构性下沉延续,县域商业与酒店连锁化投资持续升温。「奔县」由此成为观察这一年中国互联网走向的重要切口。",
+  "aftermath": "2025年国庆「奔县」热度不减;县域文旅成为地方促消费政策的核心抓手。相关各方的应对策略随后陆续浮出水面。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "五一假期文旅数据 - 文旅部",
+    "url": "https://www.mct.gov.cn/"
+   }
+  ],
+  "tags": [
+   "奔县",
+   "县域旅游",
+   "五一",
+   "消费下沉"
+  ]
+ },
+ {
+  "id": "2025-05-01-samsclub-daigou-economy",
+  "date": "2025-05-01",
+  "title": "山姆代购与会员店经济:中产消费的「分装时代」",
+  "summary_30s": "山姆会员店在中国持续爆火:代购团长把大包装分装成小份在社区团购,「山姆代购月入过万」话题频出;Costco、盒马MAX与本土仓储店竞相开店。会员店成为消费分层时代最具确定性的零售业态。",
+  "detail": "山姆中国门店数向60家逼近,续卡率与会员数双增长,深圳、上海旗舰店节假日限流成常态。代购生态在平台规则灰色地带生长:一分利差、整车代购与「山姆测款」内容账号形成产业链;品牌方则警惕窜货与价格体系紊乱。仓储会员店的爆火亦折射出「家庭囤货+质价比+信任筛选」的新消费共识。",
+  "impact": "供应链与自有品牌能力成为零售竞争核心,大包装、低SKU、高周转的会员店模型被全行业学习。",
+  "aftermath": "2025年会员店扩张竞速;代购治理与会员权益规则持续打补丁。围绕「山姆」的讨论在随后数月仍热度未消。",
+  "category": "economy",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "山姆会员店 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/山姆会员商店"
+   }
+  ],
+  "tags": [
+   "山姆",
+   "会员店",
+   "代购",
+   "零售"
+  ]
+ },
+ {
+  "id": "2025-05-03-buffett-retirement-announcement",
+  "date": "2025-05-03",
+  "title": "巴菲特宣布年底退休:奥马哈先知的告别",
+  "summary_30s": "94岁的沃伦·巴菲特在伯克希尔股东大会上宣布将于年底卸任CEO,由格雷格·阿贝尔接任,并表示不再出售所持股份。持续六十年的「资本主义童话」进入交接时刻,全场起立致敬。",
+  "detail": "股东大会一如往年吸引数万人赴奥马哈「朝圣」,问答环节从关税、美元储备地位聊到AI;巴菲特称「贸易不应成为武器」。其长期副手芒格已于2023年离世,此次交棒标志着价值投资一个时代的落幕。阿贝尔获「全权决策」的授权,市场关注伯克希尔逾3000亿美元现金储备的再配置。",
+  "impact": "全球资本市场的精神坐标之一完成交接,「巴菲特之问」成为此后每届股东大会的固定仪式。",
+  "aftermath": "2025年底巴菲特正式卸任CEO但仍留任董事长;其历年致股东信被出版界再度热捧。",
+  "category": "economy",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Warren Buffett - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Warren_Buffett"
+   }
+  ],
+  "tags": [
+   "巴菲特",
+   "伯克希尔",
+   "退休",
+   "价值投资"
+  ]
+ }
+]

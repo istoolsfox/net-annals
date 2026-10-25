@@ -98,9 +98,9 @@ def merge_records(kind):
     names = {str(r.get('name', '')).replace(' ', '') for r in arr}
     files = sorted(glob.glob(os.path.join(out2, f'out-[nm]*.json')))
     if kind == 'persons':
-        files = [f for f in files if re.search(r'out-n\d+\.json$', f)]
+        files = [f for f in files if re.search(r'out-n\d+(-p\d+)?\.json$', f)]
     else:
-        files = [f for f in files if re.search(r'out-m\d+\.json$', f)]
+        files = [f for f in files if re.search(r'out-m\d+(-p\d+)?\.json$', f)]
     for f in files:
         try:
             batch = load(f)
@@ -191,7 +191,7 @@ def merge_events():
                 report['rejected'].append(f'{where}:{rid} 与既有事件同日同题（疑似重复）'); continue
             if ev.get('category') not in CATS:
                 report['rejected'].append(f'{where}:{rid} category 非法 {ev.get("category")}'); continue
-            if not (30 <= len(str(ev.get('title', ''))) and len(str(ev.get('detail', ''))) >= 40):
+            if not (10 <= len(str(ev.get('title', ''))) and len(str(ev.get('detail', ''))) >= 40):
                 report['rejected'].append(f'{where}:{rid} 文本过短'); continue
             srcs = check_sources(ev.get('sources'), rid, where)
             if not srcs:

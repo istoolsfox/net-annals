@@ -1,0 +1,652 @@
+[
+ {
+  "id": "2025-08-01-hk-stablecoin-ordinance",
+  "date": "2025-08-01",
+  "title": "香港《稳定币条例》生效:离岸人民币数字化试验场",
+  "summary_30s": "香港《稳定币条例》生效,确立法币稳定币发行人牌照制度,首批沙盒参与者进入发牌轨道。作为亚洲首个全面稳定币监管框架,它与美元稳定币立法潮呼应,为人民币资产的「链上离岸」预留了制度接口。",
+  "detail": "条例要求储备资产完全覆盖、定期审计与赎回保障,违规发行最高罚款与刑责;京东币链、渣打系等机构排队申请。市场关注点在于港币/人民币稳定币在跨境贸易结算的应用:大湾区企业试点以稳定币支付货款,结算时间从天级压缩到分钟级。香港借此巩固Web3与虚拟资产中心的地位。",
+  "impact": "稳定币从灰色地带进入持牌时代,跨境支付与数字资产市场的合规通道成形。行业叙事与用户心智在这一节点之后明显切换。",
+  "aftermath": "2025年内首批牌照发出;离岸人民币稳定币的试点讨论持续升温。围绕「稳定币」的讨论在随后数月仍热度未消。",
+  "category": "economy",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "香港稳定币条例 - 香港政府一站通",
+    "url": "https://www.gov.hk/"
+   }
+  ],
+  "tags": [
+   "稳定币",
+   "香港",
+   "监管",
+   "跨境支付"
+  ]
+ },
+ {
+  "id": "2025-08-02-eu-ai-act-gpai-obligations",
+  "date": "2025-08-02",
+  "title": "欧盟AI法案GPAI义务生效:通用模型的合规大考",
+  "summary_30s": "《欧盟AI法案》中通用目的模型(GPAI)条款正式适用:OpenAI、谷歌、Anthropic及开源模型须提交训练数据摘要、版权政策与系统性风险评估。布鲁塞尔的AI规则从文本走向执法,「模型护照」成为出海欧洲的通行证。",
+  "detail": "欧盟AI办公室发布行为准则与模板,高风险义务将于2026年8月全面适用;已有模型下架或功能阉割以规避欧盟的案例出现。中国大模型出海(阿维Qwen、DeepSeek等)亦需评估开源模型的义务边界,「开源豁免」的争论成为焦点。硅谷抱怨「先罚再想」的监管哲学,欧盟则坚持规则输出权。",
+  "impact": "全球AI产品的合规成本结构化上升,监管套利与区域版本分裂成为新常态。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2026年8月高风险条款全面适用;AI法案与成员国执法机构开始开出首批罚单。后续进展持续验证并放大了这一影响。",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Artificial Intelligence Act - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+   }
+  ],
+  "tags": [
+   "欧盟",
+   "AI法案",
+   "GPAI",
+   "合规"
+  ]
+ },
+ {
+  "id": "2025-08-26-state-council-ai-plus-action",
+  "date": "2025-08-26",
+  "title": "国务院发布「人工智能+」行动意见:AI赋能千行百业的总施工图",
+  "summary_30s": "国务院印发《关于深入实施「人工智能+」行动的意见》,提出到2027年新一代智能终端与智能体普及率超70%、2030年超90%的目标,部署六大重点行动。「人工智能+」从政府工作报告一词,扩展为覆盖制造、民生、科研的完整政策体系。",
+  "detail": "意见明确「模型+数据+算力+应用」的协同路径:强化芯片与模型供给、推进数据流通、普及智能终端与智能体、深化重点行业赋能、提升治理能力与人才供给。配套的「模型出海」「AI+民生」细则陆续落地;各地把智能体渗透率写入产业规划。这是继「互联网+」十年之后,中国最大规模的产业数字化行动纲领。",
+  "impact": "为AI产业提供确定性需求侧订单,智能终端与Agent成为消费与产业双端的下一代普及界面。",
+  "aftermath": "2026年「人工智能+」进入评估考核年,智能体在政务、制造场景的渗透率成为地方KPI。",
+  "category": "national",
+  "region": "cn",
+  "milestone": true,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "关于深入实施「人工智能+」行动的意见 - 中国政府网",
+    "url": "https://www.gov.cn/"
+   }
+  ],
+  "tags": [
+   "人工智能+",
+   "政策",
+   "国务院",
+   "智能体"
+  ]
+ },
+ {
+  "id": "2025-05-27-openai-pbc-restructure",
+  "date": "2025-05-27",
+  "title": "OpenAI完成重组:营利帝国与公益母体的新结构",
+  "summary_30s": "OpenAI完成重组:营利实体OpenAI Group PBC控制运营,原非营利基金会转持股权并主导「仁慈使命」;微软以约27%持股换取无限量API权利,同时放弃部分控制条款。历经马斯克诉讼与团队震荡的「治理世纪大戏」终告一段。",
+  "detail": "重组回应了「非营利外壳与万亿级商业野心」的结构性矛盾:PBC形态承诺在股东利益与公共利益间平衡;非营利基金会的资源承诺投入健康与计算科学。批评者(含马斯克)认为本质仍是营利接管;支持者称其为前沿模型时代的新型治理实验。重组扫清了400亿美元融资的法律前提,OpenAI的估值叙事随之狂奔。",
+  "impact": "为「AI公司的使命与资本」问题提供了一个全球参照样本,公益公司(PBC)成为AI创业公司的流行选择。",
+  "aftermath": "2025年内OpenAI年化收入冲击200亿美元;上市讨论成为下一段叙事。后续进展持续验证并放大了这一影响。",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "OpenAI - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/OpenAI"
+   }
+  ],
+  "tags": [
+   "OpenAI",
+   "重组",
+   "治理",
+   "微软"
+  ]
+ },
+ {
+  "id": "2025-09-02-google-antitrust-remedy-ruling",
+  "date": "2025-09-02",
+  "title": "谷歌垄断救济案宣判:Chrome不出售、搜索默认地位松动",
+  "summary_30s": "美国联邦法官Mehta就谷歌搜索垄断案公布救济方案:要求谷歌与竞争对手分享部分搜索数据、允许安卓设备预装竞品助手,但驳回拆分Chrome与安卓的极端请求;同时允许谷歌继续向苹果付费但需开放竞价。二十年反垄断大案的「手术刀式」结论落地。",
+  "detail": "判决拒绝结构性拆分,选择行为性救济:三年数据共享、定期合规报告、AI产品纳入默认协议审查。司法部主张的Chrome出售被否,法官认定损失难以量化且AI竞争已改变格局。谷歌股价上涨,称将上诉部分条款;OpenAI、Perplexity则视默认入口竞价为机会窗口。此案被视作「AI时代首场平台垄断案」,判词多次讨论生成式AI对搜索的颠覆可能。",
+  "impact": "为AI时代的数据共享与默认协议树立先例,搜索与浏览器市场的入口竞争重新激活。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年广告技术第二案再判谷歌败诉;「拆分巨头」的监管冲动整体退潮。此后的行业讨论仍不断回到这一节点。",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Google Search antitrust case - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Google_Search_antitrust_case"
+   }
+  ],
+  "tags": [
+   "谷歌",
+   "反垄断",
+   "搜索",
+   "判决"
+  ]
+ },
+ {
+  "id": "2025-09-15-anthropic-13b-series-f",
+  "date": "2025-09-15",
+  "title": "Anthropic完成130亿美元F轮:AI安全的资本悖论",
+  "summary_30s": "Anthropic宣布完成130亿美元F轮融资,估值1830亿美元,由ICONIQ与GIC领投,谷歌、英伟达加持。以「安全优先」立身的公司,成为资本最凶猛追逐的对象之一——AI安全叙事与商业野心在估值上达成统一。",
+  "detail": "融资用于算力扩建(与谷歌TPU、英伟达双线绑定)与Agent产品Claude Code、企业API扩张;其年化收入在2025年奔向数十亿美元,企业市场渗透率领先。达里奥·阿莫迪持续输出「强大AI论」,预言2026-2027年AI将胜任大部分认知工作,引发热议。中国对标叙事中,智谱、月暗与DeepSeek的追赶被视为「双极格局」的证据。",
+  "impact": "大模型创业公司的估值梯队拉开,「安全品牌+企业订阅+编程Agent」成为最优商业组合。",
+  "aftermath": "2026年Claude系列持续迭代,Coding与Agent市场份额稳居第一梯队。",
+  "category": "company",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Anthropic - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anthropic"
+   }
+  ],
+  "tags": [
+   "Anthropic",
+   "融资",
+   "估值",
+   "Claude"
+  ]
+ },
+ {
+  "id": "2025-09-17-meta-rayban-display-glasses",
+  "date": "2025-09-17",
+  "title": "Meta发布Ray-Ban Display:AI眼镜加上「随身大屏」",
+  "summary_30s": "Meta Connect 2025发布Ray-Ban Display智能眼镜:单眼2K微型显示屏、600尼特亮度、70克重量,可把巨幕投进视野,配合EMG腕带实现「肌肉操控」。扎克伯格宣称这是「通往真正AR眼镜的最后一站」。",
+  "detail": "该眼镜与雷朋镜架融合,主打AI问答+浮窗通知+外部显示器扩展,售价799美元起;配套的Neural腕带以肌电信号实现无声输入。技术圈评价其「把AR的时间表提前了两年」,但视场角与应用生态仍属早期。Meta同时预告Orion量产版路线,苹果则被曝重启AR眼镜项目应对。AI眼镜从「音频+摄像」升级为「显示+交互」的军备竞赛全面展开。",
+  "impact": "智能眼镜成为继手机之后最拥挤的硬件赛道,光学显示供应链价值重估。这一结果亦为Meta领域的后续演变定下基调。",
+  "aftermath": "2026年国产带显示AI眼镜批量上市,「百镜大战」进入显示时代。这一变化的余波一直延续到下一季度。",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "Ray-Ban Meta - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ray-Ban_Meta"
+   }
+  ],
+  "tags": [
+   "Meta",
+   "智能眼镜",
+   "AR",
+   "Connect"
+  ]
+ },
+ {
+  "id": "2025-09-24-aliyun-yunqi-2025",
+  "date": "2025-09-24",
+  "title": "云栖大会2025:3800亿之后的AI基建秀",
+  "summary_30s": "阿里云栖大会以「智涌·无界」为主题,吴泳铭强调「AI的最大价值是促进物理世界发展」,展示超大规模智算集群、新一代通义模型与开源生态。此前2月宣布的三年3800亿元云和AI投入,在这场大会上变成具体的机柜、模型与工具链。",
+  "detail": "大会发布Qwen新一代旗舰与视频、多模态家族,强调「开源开放」与全球开发者生态;液冷智算中心、磐久AI服务器与「模型即服务」产品矩阵集中亮相。学界与产业界围绕「Agent工程化」「AI for Science」展开对话,张亚勤、姚期智等出席。大会亦成为浙江数字经济与「杭州六小龙」叙事的展示窗口。",
+  "impact": "中国云厂商的AI叙事从「有模型」转向「有基建、有生态」,算力军备进入拼运营阶段。",
+  "aftermath": "2025年四季度阿里云收入增速进一步抬升,AI相关收入连续多季度三位数增长。这一变化的余波一直延续到下一季度。",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "云栖大会 - 阿里云",
+    "url": "https://www.aliyun.com/"
+   }
+  ],
+  "tags": [
+   "云栖大会",
+   "阿里云",
+   "AI基建",
+   "通义"
+  ]
+ },
+ {
+  "id": "2025-09-01-tsmc-2nm-mass-production",
+  "date": "2025-09-01",
+  "title": "台积电2纳米量产:摩尔定律的又一次续命",
+  "summary_30s": "台积电N2(2纳米)制程在新竹与高雄厂进入量产,首次全面采用GAA纳米片晶体管,苹果A20系列芯片首发搭载。在EUV光刻逼近物理极限的争论中,半导体最先进节点又向前挪了一代。",
+  "detail": "N2相较N3P在相同功耗下性能提升10-15%,密度提升逾15%,并首次支持背面供电研发路线;产能优先保障苹果,随后扩展至高通、联发科与AI加速器客户。地缘层面,台积电亚利桑那厂推进先进制程输出,2nm的良率爬坡成为全球AI供应链的脉搏。中国大陆则以成熟制程扩产与先进封装(Chiplet/CoWoS)对冲代差。",
+  "impact": "AI终端与手机芯片的性能-功耗曲线继续下探,「制程红利」仍是硬件创新的地基。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2026年A16(1.6纳米)与背面供电节点预研推进;AI芯片对先进封装产能的争夺白热化。",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "台积电 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/台积电"
+   }
+  ],
+  "tags": [
+   "台积电",
+   "2nm",
+   "半导体",
+   "GAA"
+  ]
+ },
+ {
+  "id": "2025-06-01-ai-toys-boom",
+  "date": "2025-06-01",
+  "title": "AI玩具爆火:会哄睡的BubblePal们",
+  "summary_30s": "大模型玩具成为母婴赛道最大爆款:BubblePal气泡怪、跃然智能的AI哄睡玩偶月销数万台,「能陪聊、会讲故事、记得住孩子习惯」的玩具定价数百元仍供不应求。玩具成为AI To C最意外的现金流场景。",
+  "detail": "AI玩具的核心是「陪伴+教育」双叙事:语音对话嵌入IP毛绒形象,家长则通过App设定价值观与作息;字节、乐森与上海一批创企扎堆入场,泡泡玛特亦宣布AI化计划。乱象随之而来:内容审核、隐私采集(儿童语音)与订阅费模式引发监管关注,行业开始起草AI玩具安全团体标准。",
+  "impact": "儿童陪伴场景成为大模型落地的高频刚需,传统玩具产业带(澄海、义乌)借AI升级。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年双十一AI玩具进入热销榜前列;儿童数据合规成为品类生死线。后续进展持续验证并放大了这一影响。",
+  "category": "product",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "AI玩具产业报道",
+    "url": "https://www.thepaper.cn/"
+   }
+  ],
+  "tags": [
+   "AI玩具",
+   "陪伴经济",
+   "母婴",
+   "BubblePal"
+  ]
+ },
+ {
+  "id": "2025-10-01-national-day-inbound-tourism",
+  "date": "2025-10-01",
+  "title": "国庆入境游高热:免签朋友圈的红利兑现",
+  "summary_30s": "2025年国庆中秋假期,入境游订单同比大增:240小时过境免签叠加单方面免签国扩容,「China Travel」内容持续火爆,上海、北京、成都的境外游客随处拍vlog。入境游从政策红利期进入常态化增长期。",
+  "detail": "支付便利化(外卡POS、支付宝国际版)与酒店境外接待改造基本完成;「老外特种兵」式中国游视频在YouTube播放量累计数十亿次。离境退税「即买即退」全国推广,奢侈品与文创消费受益。文旅部把入境游列为促消费重点,地方则竞逐国际航线与国际会展。",
+  "impact": "服务贸易与人民币消费回流双受益,「中国旅行」成为软实力传播的自然载体。这一结果亦为入境游领域的后续演变定下基调。",
+  "aftermath": "2026年免签政策进一步优化,入境游向二三线城市扩散。这一变化的余波一直延续到下一季度。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "入境旅游数据 - 文化和旅游部",
+    "url": "https://www.mct.gov.cn/"
+   }
+  ],
+  "tags": [
+   "入境游",
+   "免签",
+   "China Travel",
+   "国庆"
+  ]
+ },
+ {
+  "id": "2025-10-06-openai-devday-agentkit",
+  "date": "2025-10-06",
+  "title": "OpenAI DevDay发布AgentKit:操作系统的Agent时刻",
+  "summary_30s": "OpenAI开发者日发布AgentKit:Apps SDK让开发者把ChatGPT嵌入自家应用,Codex CLI与Agent Builder把「会干活的AI」工具化,Altman宣称OpenAI正从聊天公司转向「Agent操作系统」公司。",
+  "detail": "AgentKit提供记忆、权限、工具调用与支付模块,开发者可在数分钟内搭出可执行任务的智能体;ChatGPT内嵌第三方App的模式被类比为「微信小程序时刻」。100万开发者、8亿周活的数据披露同样震撼;Sora 2的病毒传播则为大会预热。业界关注其与Anthropic Claude Code、谷歌Gemini Agent的对垒,Agent中间层创业公司承压。",
+  "impact": "Agent开发从写提示词升级为搭系统,「AI应用=Agent+工作流」的新范式确立。",
+  "aftermath": "2026年各平台Agent生态军备升级;OpenAI以GPT-5.5系列完善Agent模型矩阵。",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "OpenAI DevDay",
+    "url": "https://openai.com/devday/"
+   }
+  ],
+  "tags": [
+   "OpenAI",
+   "Agent",
+   "DevDay",
+   "开发者"
+  ]
+ },
+ {
+  "id": "2025-10-06-openai-amd-6gw-deal",
+  "date": "2025-10-06",
+  "title": "OpenAI与AMD签署6吉瓦芯片协议:英伟达铁幕被撕开一道口",
+  "summary_30s": "OpenAI宣布与AMD达成6吉瓦(GW)算力协议,首批Instinct MI450级GPU将于2026年部署,谷歌Oracle云上运行;微软云同步引入AMD方案。「全押英伟达」的AI算力格局出现结构性松动,AMD市值应声创新高。",
+  "detail": "协议以「watt承诺」取代单纯买卡:OpenAI锁定六年电力与芯片供给,AMD以MCM架构与开源ROCm生态换取超级客户。博通、英特尔的定制AI芯片订单亦在同一周期放量,「多元供应」成为超级实验室的共识策略。中国厂商则从国产算力与开源模型双线观察这场巨头博弈。",
+  "impact": "AI芯片市场从一家独大转向「一超多强」,算力成本曲线加速下探。行业叙事与用户心智在这一节点之后明显切换。",
+  "aftermath": "2026年MI450分批交付;「吉瓦经济学」成为AI基建的行业度量单位。围绕「OpenAI」的讨论在随后数月仍热度未消。",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "AMD - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices"
+   }
+  ],
+  "tags": [
+   "OpenAI",
+   "AMD",
+   "算力",
+   "芯片"
+  ]
+ },
+ {
+  "id": "2025-04-01-cac-qinglang-ai-abuse-crackdown",
+  "date": "2025-04-01",
+  "title": "「清朗·整治AI技术滥用」专项行动:AI乱象集中治理",
+  "summary_30s": "中央网信办部署「清朗·整治AI技术滥用」专项行动,聚焦AI换脸诈骗、AI谣言、AI水军、虚拟人带货乱象与「AI复活」侵权等六大问题。与标识办法配套,AI内容的「生成-传播-处置」全链条治理成型。",
+  "detail": "行动要求平台升级AI内容识别模型,对未标识AIGC限流,严打利用AI生成涉灾谣言与不实医疗信息;一批「AI起号矩阵」与卖课灰产被处置。媒体关注的个案——AI换脸骗过企业财务、AI伪造明星代言——成为普法教材。行动亦为AI应用创新留出空间,强调「规范不抑制」。",
+  "impact": "AI滥用治理与内容标识制度形成组合拳,平台审核从人力密集转向「AI对AI」。其涟漪效应沿「清朗行动」相关产业链持续扩散。",
+  "aftermath": "2025-2026年AI水军与养号农场成为治理重点;深度伪造侦测技术采购放量。后续进展持续验证并放大了这一影响。",
+  "category": "national",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "清朗行动 - 中央网信办",
+    "url": "https://www.cac.gov.cn/"
+   }
+  ],
+  "tags": [
+   "清朗行动",
+   "AI治理",
+   "深度伪造",
+   "网信办"
+  ]
+ },
+ {
+  "id": "2025-11-01-wuzhen-summit-2025",
+  "date": "2025-11-01",
+  "title": "2025乌镇峰会:AI善治与开源生态的中国议程",
+  "summary_30s": "2025年世界互联网大会乌镇峰会以「拥抱以人为本、智能向善的数字未来」为主题,人工智能能力建设与合作、开源生态与数据跨境流动成为核心议题。AI治理的中国方案与全球倡议在乌镇继续输出。",
+  "detail": "峰会期间发布人工智能发展与安全报告等成果,成立AI安全与治理专委会系列机制;中外嘉宾围绕「开源是否应被管制」交锋,中国强调开源共享对发展中国家的普惠意义。博览会上具身智能、低空经济与算力设备密集亮相,「AI含量」再创新高。世界互联网大会国际组织的常设化,使乌镇成为数字治理议题的年度打卡地。",
+  "impact": "全球AI治理分裂叙事下,乌镇提供了多边对话的持续场域,「智能向善」进入国际政策语汇。",
+  "aftermath": "2026年峰会议程进一步聚焦Agent治理与AI+行动评估。此后的行业讨论仍不断回到这一节点。",
+  "category": "internet",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "世界互联网大会 - 官网",
+    "url": "https://www.wicinternet.org/"
+   }
+  ],
+  "tags": [
+   "乌镇峰会",
+   "AI治理",
+   "开源",
+   "互联网大会"
+  ]
+ },
+ {
+  "id": "2025-11-26-honor-of-kings-10th-anniversary",
+  "date": "2025-11-26",
+  "title": "《王者荣耀》十周年:国民游戏的世代刻度",
+  "summary_30s": "2015年11月上线的《王者荣耀》迎来十周年,注册用户数十亿级、累计流水数千亿元,仍稳居全球手游收入榜前列。周年庆典以「十全十美」版本、非遗联动与电竞赛事全景呈现,一款游戏走完从社交现象到公共文化设施的十年。",
+  "detail": "十年间它定义了移动MOBA品类与KPL职业联赛,「开黑」「五杀」进入日常语言;春节期间的皮肤经济与「年度压轴舞台」成为行业风向标。十周年节点上,王者IP向动画、音乐剧与文旅联动延展,AI陪玩与新引擎版本公布下一代技术路线。批评与争议(未成年人保护、社交压力)同样构成其十年叙事的一部分。",
+  "impact": "中国手游黄金十年的代名词,验证长线运营IP可以跨越技术周期与代际更替。其涟漪效应沿「王者荣耀」相关产业链持续扩散。",
+  "aftermath": "2026年王者与鸿蒙、AI助手的生态融合加深;《王者荣耀世界》开放世界新作蓄势。",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "王者荣耀 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/王者荣耀"
+   }
+  ],
+  "tags": [
+   "王者荣耀",
+   "十周年",
+   "腾讯",
+   "国民游戏"
+  ]
+ },
+ {
+  "id": "2025-07-01-ai-companion-apps-wave",
+  "date": "2025-07-01",
+  "title": "AI陪伴应用大爆发:星野、猫箱们的流量与争议",
+  "summary_30s": "以「AI恋人」「语C搭子」为主的AI陪伴应用在2025年迎来用户井喷:MiniMax星野、字节猫箱长期霸榜社交下载榜,乙游化付费与「纸片人老公」经济成型。陪伴成为AI To C最刚性的需求,未成年保护与情感依赖争议同步升温。",
+  "detail": "产品形态从纯文字对话进化到语音、视频通话与记忆养成,「AI生日」「AI道歉」等仪式感设计拉高付费深度;用户日均时长普遍超一小时。监管关注未成年人模式与诱导充值,行业协会推动「防沉迷+情绪提示」标准;心理界讨论AI陪伴对孤独症谱系与社交回避人群的双刃效应。「AI丈夫」社会新闻则让品类周期性出圈。",
+  "impact": "情感陪伴成为大模型最稳定的变现场景之一,「数字亲密关系」进入伦理与立法讨论。其涟漪效应沿「AI陪伴」相关产业链持续扩散。",
+  "aftermath": "2025-2026年AI陪伴出海(日韩北美)与合规化并行;「AI心理疗愈」成为正向应用分支。",
+  "category": "internet",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "AI陪伴应用报道",
+    "url": "https://www.thepaper.cn/"
+   }
+  ],
+  "tags": [
+   "AI陪伴",
+   "星野",
+   "猫箱",
+   "情感经济"
+  ]
+ },
+ {
+  "id": "2025-04-04-minecraft-movie-blockbuster",
+  "date": "2025-04-04",
+  "title": "《我的世界大电影》:游戏IP的合家欢收割",
+  "summary_30s": "华纳《我的世界大电影》全球上映,首周票房破3亿美元创游戏改编电影最佳开画之一;「chicken jockey」名场面引爆影院互动式狂欢,青少年观众集体喊名场面成为文化现象。中国内地以「「妈见打」亲子场贡献可观票房。",
+  "detail": "影片由杰森·莫玛与杰克·布莱克主演,剧情简单但高度还原游戏梗(苦力怕、钻石镐),烂番茄与观众评分严重分裂——评论家冷眼、粉丝狂热。影院里的集体呐喊让人联想到《洛基恐怖秀》式的参与文化;周边与乐高套装同步售罄。它证明「游戏考古级IP+合家欢喜剧」是最稳的改编公式。",
+  "impact": "游戏改编电影进入丰收期,《我的世界》验证粉丝向内容可以通过「梗还原」而非「剧情尊重」取胜。",
+  "aftermath": "2025年游戏改编影视续作密集立项;「chicken jockey」成为年度流行meme。",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "A Minecraft Movie - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/A_Minecraft_Movie"
+   }
+  ],
+  "tags": [
+   "我的世界",
+   "电影",
+   "游戏改编",
+   "合家欢"
+  ]
+ },
+ {
+  "id": "2025-06-01-chang-an-lychee-dual-adaptation",
+  "date": "2025-06-01",
+  "title": "《长安的荔枝》剧影同月:马伯庸IP的AB面实验",
+  "summary_30s": "马伯庸小说《长安的荔枝》的电影版(大鹏执导)与剧集版(雷佳音主演)在一个月内先后亮相:「一骑红尘妃子笑」的运输史诗,被两种媒介各自讲述。剧影联动的IP开发模式,成为影视行业消化大IP的新样板。",
+  "detail": "电影版聚焦「把鲜荔枝运到长安」的任务爽感与职场隐喻,剧集版展开官场生态与人物群像;观众乐于比较「先看哪个」与「哪个更好看」,双版本互相导流。行业观察者称其为「IP全链路开发」的成熟标志——同一世界观支撑多形态内容,宣发费用共享、风险对冲。马伯庸IP宇宙(《长安十二时辰》《风起陇西》)的商业方法论再获验证。",
+  "impact": "头部IP「一书多吃」成为平台与片方的标准策略,档期协同与差异化改编是关键。多方复盘时都将此视为结构变化的关键信号。",
+  "aftermath": "2025年下半年多部IP宣布剧影双线开发;「先影后剧」的排播学成为行业显学。相关各方的应对策略随后陆续浮出水面。",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "长安的荔枝 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/长安的荔枝"
+   }
+  ],
+  "tags": [
+   "长安的荔枝",
+   "马伯庸",
+   "剧影联动",
+   "IP开发"
+  ]
+ },
+ {
+  "id": "2025-04-01-songyan-n2-dancing-robot-viral",
+  "date": "2025-04-01",
+  "title": "松延动力N2「科目三」:机器人整活的又一次全网传播",
+  "summary_30s": "松延动力的N2人形机器人跳舞视频刷屏海外:蹦迪、扭腰、wave一气呵成,「the robot dances better than me」评论刷屏。继宇树之后,又一家北京机器人公司靠「整活」完成品牌出圈,人形机器人的传播密码被反复验证。",
+  "detail": "视频中的舞蹈由强化学习+动作捕捉训练,泛化能力展示「全身控制」的工程水平;与波士顿动力的「功能主义」不同,中国团队深谙「先有趣再有用」的传播学。N2定位科研教育市场,价格数十万元级,视频爆红后订单与融资询价激增。「机器人跳女团舞」成为2025年外网中国科技认知的高频切片。",
+  "impact": "具身智能公司确立「技术demo+娱乐传播」的市场教育路径,机器人的大众认知门槛大幅降低。",
+  "aftermath": "2025年下半年各家公司「整活军备」升级,机器人格斗赛与时装秀接连登场。后续进展持续验证并放大了这一影响。",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "松延动力 - 百度百科",
+    "url": "https://baike.baidu.com/item/松延动力"
+   }
+  ],
+  "tags": [
+   "人形机器人",
+   "松延动力",
+   "整活",
+   "具身智能"
+  ]
+ },
+ {
+  "id": "2025-07-25-unitree-r1-39900-price",
+  "date": "2025-07-25",
+  "title": "宇树R1把人形机器人打到3.99万元:进入家电价位的机器人",
+  "summary_30s": "宇树发布人形机器人R1,定价3.99万元起,较G1再砍一半,模块化设计与本体+头显的组合瞄准科研、教育与极客市场。开场即抢购,「人形机器人卖出iPhone顶配价」成为行业话题,量产成本曲线再被刷新。",
+  "detail": "R1高约1.3米,采用准直关节与低成本方案,官方演示其搬运与交互能力;开发者生态被寄望于「把机器人玩出手机App的生态」。分析认为宇树的定价是「以价换量、以量养链」的阳谋:把关节电机、减速器成本打到量产甜蜜点。同行被迫跟进降价,「万元级人形机器人」的普及时间表被提前。",
+  "impact": "人形机器人从B端专属走向C端尝鲜,产业链国产化率与成本优势全球领先。其涟漪效应沿「宇树」相关产业链持续扩散。",
+  "aftermath": "2026年宇树科创板上市,R1系列进入家庭陪护与导览场景试点。后续进展持续验证并放大了这一影响。",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "宇树科技 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/宇树科技"
+   }
+  ],
+  "tags": [
+   "宇树",
+   "R1",
+   "人形机器人",
+   "降价"
+  ]
+ },
+ {
+  "id": "2025-03-19-tencent-annual-report-ai-capex",
+  "date": "2025-03-19",
+  "title": "腾讯年报:千亿回购与AI资本开支双线并进",
+  "summary_30s": "腾讯发布2024年报:营收6603亿元、净利润1941亿元,年内回购逾千亿港元创港股纪录;资本开支767亿元、同比接近翻三倍,主要投向AI与混元大模型。「回购稳股价、资本开支赌未来」的双线策略成为大厂年报的标准范式。",
+  "detail": "游戏与视频号广告构成利润基本盘,微信生态的商业化(视频号带货、搜一搜AI化)被视为下一引擎。管理层明确「2025年资本开支占收入低两位数百分比」继续加码AI;马化腾在年报致辞中强调「AI是十年一遇的产业变革」。AI应用元宝、ima与混元开源模型构成「应用+模型」双线。",
+  "impact": "中国互联网大厂重新进入投资周期,AI资本开支成为财报季的统一叙事。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年阿里、百度、字节同步上调AI基建投入,算力与电力成为新的资本争夺焦点。",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "腾讯 - 2024年报",
+    "url": "https://www.tencent.com/"
+   }
+  ],
+  "tags": [
+   "腾讯",
+   "年报",
+   "AI资本开支",
+   "回购"
+  ]
+ },
+ {
+  "id": "2025-05-01-alibaba-fy2025-ai-cloud",
+  "date": "2025-05-01",
+  "title": "阿里FY2025年报:AI重塑电商巨头的财报叙事",
+  "summary_30s": "阿里巴巴发布2025财年业绩:全年营收9963亿元,云智能集团收入增速重回双位数,AI相关产品收入连续多季度三位数增长。吴泳铭的「用户为先、AI驱动」战略,让「AI+云」第一次超越电商成为财报的第一叙事。",
+  "detail": "财报强调通义系列模型的开源生态与3800亿元三年AI投入的开支计划;电商基本盘以1688、淘天会员与即时零售(淘宝闪购)求增量。市场对「AI收入能否覆盖资本开支」持续追问,管理层以「客户愿意为AI付钱」回应。阿里港股与美股年内大涨,「中国资产重估」行情中AI叙事是核心引擎之一。",
+  "impact": "确认「云+AI」成为中国互联网的第二增长曲线,大厂估值逻辑切换到AI产能。「阿里巴巴」由此成为观察这一年中国互联网走向的重要切口。",
+  "aftermath": "2025-2026年阿里云AI收入持续三位数增长,开源Qwen成为其全球影响力抓手。",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "阿里巴巴集团 - 财报",
+    "url": "https://www.alibabagroup.com/"
+   }
+  ],
+  "tags": [
+   "阿里巴巴",
+   "年报",
+   "AI",
+   "云智能"
+  ]
+ },
+ {
+  "id": "2025-02-01-shenzhen-futian-ai-civil-servants",
+  "date": "2025-02-01",
+  "title": "深圳福田上岗70名「AI数智员工」:政务大模型第一现场",
+  "summary_30s": "深圳福田区宣布基于DeepSeek开发的70名「AI数智员工」上岗,覆盖公文处理、民生诉求分拨与执法文书生成,公文审核时间从数小时缩至分钟级。「AI公务员」话题登上热搜,政务智能化从试点走向规模化。",
+  "detail": "数智员工以「AI+政务知识库」嵌入OA流程,配合审批语义理解与「免申即享」政策匹配,深圳政务云同步部署DeepSeek全栈模型。各地政务系统随后批量接入大模型:广州、北京相继宣布政务场景落地。舆论同时讨论边界:AI辅助审批的责任归属、数据安全与「AI幻觉」风险,官方强调「AI辅助、人来决策」。",
+  "impact": "政务成为大模型最具确定性的B端场景之一,「AI+公共服务」进入采购目录时代。其涟漪效应沿「政务AI」相关产业链持续扩散。",
+  "aftermath": "2025年内数十个城市把政务大模型列入重点项目;智能体(政务Agent)成为标配形态。",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "single-source",
+  "date_accuracy": "month",
+  "sources": [
+   {
+    "title": "深圳福田AI数智员工报道",
+    "url": "https://www.thepaper.cn/"
+   }
+  ],
+  "tags": [
+   "政务AI",
+   "DeepSeek",
+   "深圳",
+   "数智员工"
+  ]
+ },
+ {
+  "id": "2025-04-17-chagee-nasdaq-ipo",
+  "date": "2025-04-17",
+  "title": "霸王茶姬纳斯达克上市:新茶饮出海的旗舰样本",
+  "summary_30s": "霸王茶姬以「CHAGEE」代码登陆纳斯达克,募资逾4亿美元,成为2025年最受关注的中国消费股IPO之一。以「东方星巴克」叙事+3000万杯年销大单品,茶饮出海的故事第一次在美股获得定价。",
+  "detail": "上市时霸王茶姬全球门店超6000家,「伯牙绝弦」占营收三成,加盟模式与供应链标准化是其效率核心;招股书披露2024年GMV近300亿元。张俊杰以「让世界爱上中国茶」为愿景,北美首店同步落地。中概消费股回暖背景下,首日表现稳健;投资者关注其单店模型与海外扩张的执行风险。",
+  "impact": "为新茶饮行业提供了「美股+出海」的新路径,中国餐饮品牌全球化的资本通道重估。政策制定者与市场参与者此后均以此为参照坐标。",
+  "aftermath": "2025年内霸王茶姬北美与东南亚加速开店;新茶饮板块赴美赴港上市小高峰延续。围绕「霸王茶姬」的讨论在随后数月仍热度未消。",
+  "category": "company",
+  "region": "cn",
+  "milestone": false,
+  "date_confidence": "verified",
+  "date_accuracy": "exact",
+  "sources": [
+   {
+    "title": "霸王茶姬 - 维基百科",
+    "url": "https://zh.wikipedia.org/wiki/霸王茶姬"
+   }
+  ],
+  "tags": [
+   "霸王茶姬",
+   "纳斯达克",
+   "新茶饮",
+   "出海"
+  ]
+ }
+]
