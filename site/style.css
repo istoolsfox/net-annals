@@ -109,12 +109,15 @@ a{color:inherit}
 
 /* ── 工具栏 ─────────────────── */
 .toolbar{
-  position:sticky;top:53px;z-index:50;padding:14px 28px 12px;
+  position:sticky;top:53px;z-index:50;padding:10px 28px 9px;
   border-top:1px solid var(--line);border-bottom:1px solid var(--line);
   background:color-mix(in srgb, var(--bg) 92%, transparent);
+  transition:transform .3s ease;
 }
-.tRow{display:flex;align-items:center;gap:12px;max-width:1160px;margin:0 auto 10px}
-.tRow:last-child{margin-bottom:2px}
+/* 自动隐藏（app.js：下滑藏/上滑露）：上滑出视口，滑行在顶栏之下（z 低一层） */
+.toolbar.tHide{transform:translateY(-110%)}
+.tRow{display:flex;align-items:center;gap:12px;max-width:1160px;margin:0 auto 8px}
+.tRow:last-child{margin-bottom:1px}
 .searchWrap{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;background:var(--panel);transition:border-color .2s}
 .searchIcon{color:var(--faint);font-size:1rem}
 .searchWrap input{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans);outline:none}
@@ -124,8 +127,16 @@ a{color:inherit}
 .tBtn{font-family:var(--mono);font-size:.74rem;letter-spacing:.05em;padding:9px 16px;border:1px solid var(--line2);border-radius:6px;background:var(--panel);color:var(--dim);cursor:pointer;white-space:nowrap;transition:color .2s,border-color .2s,background-color .2s}
 .tBtn.on{background:var(--accent);color:#141310;border-color:var(--accent)}
 .tLab{font-family:var(--mono);font-size:.68rem;letter-spacing:.3em;color:var(--faint);flex:none}
-.chipRow{display:flex;gap:8px;flex-wrap:wrap}
+/* 芯片行：单行横滑（借鉴筛选栏横滑轨道），不折行——折四行会把主体内容挤出首屏 */
+.chipRow{
+  display:flex;gap:8px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;
+  -webkit-overflow-scrolling:touch;
+  -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 30px),transparent);
+  mask-image:linear-gradient(90deg,#000 calc(100% - 30px),transparent);
+}
+.chipRow::-webkit-scrollbar{display:none}
 .chip{
+  flex:none;
   font-family:var(--mono);font-size:.72rem;padding:4px 11px;border-radius:999px;cursor:pointer;
   border:1px solid var(--line2);color:var(--dim);background:none;white-space:nowrap;
   transition:color .18s,border-color .18s,background-color .18s,opacity .18s;
@@ -349,6 +360,7 @@ a{color:inherit}
   .yBadge{transition:none}
   .yBadge.flash{animation:none}
   #toTop,.resumeBar{transition:none}
+  .toolbar{transition:none}
 }
 
 /* ── 主题切换瞬间冻结（app.js 在切换时加 .theming，一帧后移除） ─────────────────── */

@@ -401,6 +401,8 @@ const Timeline = {
         .find(x => x.querySelector('.yBadge span')?.textContent === year);
       if (!g) { await this._jump(eraIdx); return; }
       const y = g.getBoundingClientRect().top + window.scrollY - 150;
+      Toolbar._toolPin = Date.now() + 1500;
+      document.getElementById('toolbar').classList.remove('tHide');
       window.scrollTo({ top: y, behavior: 'instant' });
       if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
       g.querySelector('.yBadge').classList.add('flash');
@@ -410,6 +412,8 @@ const Timeline = {
   async _jump(i) {
     const sec = document.getElementById(`era-${i}`);
     if (!sec) return;
+    Toolbar._toolPin = Date.now() + 1500;               // 落位后短暂钉住，让用户看到时代高亮
+    document.getElementById('toolbar').classList.remove('tHide');
     try {
       await Store.loadShard(i);                         // 分片未加载先取
       this.renderEraHead(i);
@@ -529,17 +533,11 @@ const Toolbar = {
     };
     $('#ctaEras').onclick = e => { e.preventDefault(); Timeline.jumpTo(0); };
     $('#toTop').onclick = () => window.scrollTo({ top: 0, behavior: 'instant' });
-    // 「编纂说明」锚点：长卷高度随分片懒加载增长，锚点平滑滚动的落点会漂移、
-    // 且平滑滚动连点互相打断（表现为"点三次落点不一样"）——改为瞬时定位，
-    // 并在后续分片渲染推高页面后延时校正，落点恒定
-    document.querySelectorAll('a[href="#colophon"]').forEach(a => a.addEventListener('click', e => {
-      e.preventDefault();
-      const el = document.getElementById('colophon');
-      if (!el) return;
-      const go = () => window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 64, behavior: 'instant' });
-      go();
-      [400, 1000].forEach(d => setTimeout(go, d));
-    }));
+    // 吸顶工具栏自动隐藏：向下滚（已过首屏）藏、向上滚露，阅读时让出整屏；
+    // 鼠标/焦点进入工具栏时保持显示；跳转定位后钉住 1.5s 不藏
+    const tb = document.getElementById('toolbar');
+    tb.addEventListener('pointerenter', () => tb.classList.remove('tHide'));
+    tb.addEventListener('focusin', () => tb.classList.remove('tHide'));
     let lastSave = 0;
     let scrollLast = 0;
     let revealLast = 0;
@@ -551,6 +549,15 @@ const Toolbar = {
       const h = document.documentElement;
       $('#progress').style.width = (h.scrollTop / (h.scrollHeight - h.clientHeight) * 100) + '%';
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
+      // 工具栏自动隐藏（方向判定基于节流采样点间的位移）。
+      // 只在工具栏已吸顶（top≈53）后允许隐藏——未吸住就位移会卡在顶栏下露半截
+      const y = h.scrollTop;
+      const stuck = tb.getBoundingClientRect().top <= 55;
+      if (Date.now() >= (Toolbar._toolPin || 0)) {
+        if (stuck && y - (Toolbar._lastY ?? y) > 4) tb.classList.add('tHide');
+        else if (!stuck || y < (Toolbar._lastY ?? y) - 4) tb.classList.remove('tHide');
+      }
+      Toolbar._lastY = y;
       // 注意：本回调注册于 Toolbar.init，箭头函数 this 是 Toolbar——
       // 时代高亮在 Toolbar 上（历史上误写 Timeline.markCurrentEra 每帧静默报错，
       // 连带中断其后同一回调里的 checkViewport 几何兜底）
