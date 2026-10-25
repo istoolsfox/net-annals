@@ -1,0 +1,37 @@
+name: 数据纠错
+description: 修正日期、事实、来源等错误
+labels: [数据纠错]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 哪一条
+      description: 条目标题，或线上页面链接（含深链参数更佳，如 ?event=xxx&date=xxx）
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 现在写的是什么
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据
+      description: 来源 URL（维基百科条目 / 官网 / 权威媒体报道）
+    validations:
+      required: true
+  - type: textarea
+    id: suggest
+    attributes:
+      label: 建议改为
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我确认上述依据真实可靠
+          required: true

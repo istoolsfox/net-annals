@@ -7,7 +7,7 @@
 'use strict';
 
 const NA = (function () {
-  const DATA_BUILD = '20261025a';
+  const DATA_BUILD = '20261025b';
 
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)

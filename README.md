@@ -161,7 +161,11 @@ git commit + push；新坑回写 wiki log
 
 波次节奏：每波 14 个事件批（年份分片）+ 人物/世家/作品扩展批，2 并发撞限即重试；波末 merge → 记录增量 → 不足额年份段生成下波补齐。单批验收：事件 <80 条、拒收率 >15%、同批重复 >3 → 该批重做。
 
-## 8. 相关
+## 8. 参与贡献
+
+欢迎任何人参与修订与增补——**外部贡献一律走 PR**，CI（validate）会自动校验数据契约、JS 语法、版本戳纪律与 `.gz` 同步，人工只复核事实。流程、铁律、PR/Issue 模板见 **[CONTRIBUTING.md](CONTRIBUTING.md)**。许可：代码 MIT，数据 CC BY-SA 4.0（见 [LICENSE](LICENSE)）。
+
+## 9. 相关
 
 - wiki：`00-Wiki/实体/中国互联网编年史.md`（会话沉淀的教训与方法，本文的姊妹页）、`00-Wiki/实体/netannals服务器.md`（SSH/云助手/fail2ban/nginx）
 - 生产 nginx：`/etc/nginx/sites-enabled/net-annals`（root /var/www/net-annals；html no-cache）

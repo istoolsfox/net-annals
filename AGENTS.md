@@ -47,7 +47,7 @@
 
 - **改代码**：规则全文在 README §3——版本戳 bump、esc/safeUrl、裁剪边界盘点、结构类样式钩子、性能红线、六大禁区。动手前先读 README §4 同类坑。
 - **改数据**：源头只能由脚本生成/合并，**不手改**；在世者/运营中企业绝不写终结；每条必带 sources。
-- **git**：直接 main；提交信息中文、动词开头讲清"为什么"（参考 `git log --oneline` 既有风格）；不 force push；密钥与 `密钥存放/` 永不入仓。
+- **git**：直接 main（维护者）；外部贡献者一律 PR（CONTRIBUTING.md，CI=validate 必须绿）。提交信息中文、动词开头讲清"为什么"（参考 `git log --oneline` 既有风格）；不 force push；密钥与 `密钥存放/` 永不入仓。
 - **格式遵循**：代码中文注释 + `'use strict'`；文档中文；文件命名带日期与主题（如 `月报_2026年6月.pptx`）；wiki 条目格式 `## [YYYY-MM-DD] 操作 | 对象`。
 - **完事三连**：README §5.4 checklist 走一遍 → git commit+push → 有沉淀价值的新坑/新方法：项目级进 README 对应章节，跨会话教训进 wiki log。
 

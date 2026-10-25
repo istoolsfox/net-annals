@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2026 net-annals contributors (istoolsfox 及后续贡献者)
+
+对本仓库「代码」部分（site/ 下的 .js/.css/.html/.py 与 .github/ 工作流）：
+现授予任何获得本软件副本者无偿使用、复制、修改、合并、发布、分发、
+再许可及销售的权利，惟须在副本中包含上述版权声明与本许可声明。
+
+本软件按「现状」提供，不附任何明示或默示的担保。
+
+--------------------------------------------------------------------------------
+
+对「数据」部分（site/data/、site/persons/、site/entities/、site/works/、
+site/today/、site/geo/ 下的 .json 及其 .gz，含全部条目文本与来源列表）：
+以 CC BY-SA 4.0（知识共享 署名-相同方式共享 4.0）授权。
+使用数据时请署名「中国互联网编年史 (net-annals)」并附仓库链接；
+基于数据的衍生内容须以相同方式共享。
+详见 https://creativecommons.org/licenses/by-sa/4.0/deed.zh

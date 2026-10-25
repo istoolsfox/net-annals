@@ -1,0 +1,36 @@
+name: 新增条目建议
+description: 建议收录某个人物 / 世家 / 作品 / 事件
+labels: [新增建议]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 对象名称（含英文/通用译名）
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options:
+        - 人物
+        - 世家（企业/社区/机构）
+        - 作品（影视/文学/音乐/游戏）
+        - 主时间线事件
+        - 地域日志（县域）
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么值得收录
+      description: 一句话定位 + 影响力/代表性说明
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 可用来源
+      description: 维基百科条目 / 官网 / 权威媒体报道 URL
+    validations:
+      required: true
