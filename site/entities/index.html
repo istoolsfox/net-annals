@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>世家志 · 企业社区机构兴衰史</title>
-<link rel="stylesheet" href="../style.css?v=20">
+<link rel="stylesheet" href="../style.css?v=21">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -81,6 +81,7 @@ const ERAS = [
   { name: '智能纪元', range: [2016, Infinity] },
 ];
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all', curQuery = '';
 const DATA_BUILD = '20261025a';
@@ -110,7 +111,7 @@ function card(e) {
   const ms = (e.milestones || []).map(a => `· ${esc(a)}`).join('<br>');
   const ctzs = (e.controversies || []).length
     ? `<div class="sec"><span class="lab">争议记录</span>${e.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}</div>` : '';
-  const src = e.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const src = e.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const rel = (e.related_persons || []).length
     ? `<div class="sec"><span class="lab">相关人物</span><div class="relRow">${e.related_persons.map(r => `<a class="relChip" href="../persons/?p=${r.id}">${esc(r.name)}</a>`).join('')}</div></div>` : '';
   el.innerHTML = `

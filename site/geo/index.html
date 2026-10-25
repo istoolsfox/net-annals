@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="地域日志：全国34省·367市·3361县的发展长卷，按城市、县城筛选查找本地大事件。">
 <title>地域日志 · 省市县发展长卷 | 互联网编年史</title>
-<link rel="stylesheet" href="../style.css?v=18">
+<link rel="stylesheet" href="../style.css?v=21">
 <style>
 /* 地域日志页自有样式（配色沿用主站变量） */
 body{margin:0;font-family:var(--sans,"PingFang SC","Microsoft YaHei",sans-serif);color:var(--text,#e8e6e1)}
@@ -188,7 +188,6 @@ function renderTree(){
       const code=el.dataset.sel;
       if(el.dataset.p) state.openP=el.dataset.p;
       if(el.dataset.c) state.openC=el.dataset.c;
-      else if(!qs && byK[code]) {} // 县行不展开
       else if(!qs && byC[code] && state.sel===code) state.openC=state.openC===code?null:code;
       else if(!qs && byP[code] && state.sel===code) state.openP=state.openP===code?null:code;
       select(code);
@@ -197,18 +196,18 @@ function renderTree(){
 }
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const state={openP:null,openC:null,sel:null,curP:null,curC:null};
+const state={openP:null,openC:null,sel:null};
 
 function select(code){
   state.sel=code;
   const p=byP[code],c=byC[code],k=byK[code];
   const ev=D.ev[code]||[];
   let name,pathHtml=[];
-  if(p){name=p[1];state.curP=code;state.curC=null;state.openP=code;state.openC=null;
+  if(p){name=p[1];state.openP=code;state.openC=null;
     pathHtml=[`<span>全部</span>`,`<span>${esc(p[1])}</span>`];}
-  else if(c){name=c[1];state.curP=c[3];state.curC=null;state.openP=c[3];state.openC=code;
+  else if(c){name=c[1];state.openP=c[3];state.openC=code;
     pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${c[3]}">${esc(byP[c[3]][1])}</a>`,`<span>${esc(c[1])}</span>`];}
-  else {name=k[1];state.curP=k[4];state.curC=k[3];state.openP=k[4];state.openC=k[3];
+  else {name=k[1];state.openP=k[4];state.openC=k[3];
     const cc=byC[k[3]];
     pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${k[4]}">${esc(byP[k[4]][1])}</a>`,`<a data-go="${k[3]}">${esc(cc[1])}</a>`,`<span>${esc(k[1])}</span>`];}
   const kidsN = p?D.c.filter(x=>x[3]===p[0]).length : c?D.k.filter(x=>x[3]===c[0]).length : 0;

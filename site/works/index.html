@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>作品志 · 影视文学音乐游戏 — 互联网编年史</title>
-<link rel="stylesheet" href="../style.css?v=20">
+<link rel="stylesheet" href="../style.css?v=21">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -75,6 +75,7 @@ const ERAS = [
   { name: '算法与国创时代', range: [2017, Infinity] },
 ];
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all', curQuery = '';
 const DATA_BUILD = '20261025a';
@@ -101,7 +102,7 @@ function card(w) {
     `<li><span class="td">${dsh(t)}</span><span class="tx">${esc(t.text)}</span></li>`).join('');
   const quotes = (w.quotes || []).length
     ? `<div class="sec"><span class="lab">经典回响</span>${w.quotes.map(q => `<div class="quoteBox">${esc(q)}</div>`).join('')}</div>` : '';
-  const src = w.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const src = w.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   el.innerHTML = `
     <div class="cHead">
       <span class="cDate">${byY(w)}</span>

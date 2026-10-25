@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="历史上的今天：这部精确到日的编年史里，每一个月日都攒下了什么——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<meta name="description" content="历史上的今天：这部精确到日的编年史里，每一个月日都攒下了什么——1972 年至今数千件大事小事，按日期翻阅。">
 <title>历史上的今天 · 互联网编年史</title>
 <link rel="canonical" href="https://toolsfox.cn/today/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="历史上的今天 — 互联网编年史">
-<meta property="og:description" content="这部精确到日的编年史里，每一个月日都攒下了一叠年份不同的记忆——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<meta property="og:description" content="这部精确到日的编年史里，每一个月日都攒下了一叠年份不同的记忆——1972 年至今数千件大事小事，按日期翻阅。">
 <meta property="og:url" content="https://toolsfox.cn/today/">
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="stylesheet" href="../style.css?v=18">
+<link rel="stylesheet" href="../style.css?v=21">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -54,8 +54,6 @@
 .evItem .star{color:var(--accent);font-size:.8rem}
 .evItem .sm{color:var(--dim);font-size:.85rem;line-height:1.7;margin:6px 0 0}
 .evItem .meta{margin-top:8px;font-family:var(--mono);font-size:.68rem;color:var(--faint)}
-.evJump{color:var(--accent);text-decoration:none;margin-left:10px}
-.evJump:hover{text-decoration:underline}
 </style>
 </head>
 <body>
@@ -98,6 +96,7 @@ const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','
 const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
 
 const DATA_BUILD = '20261025a';
 async function fetchGz(url) {
@@ -186,7 +185,7 @@ async function fetchFull(id, date) {
   });
   const i = eraIdx === -1 ? 7 : eraIdx;
   if (!_shardCache[i]) {
-    const r = await fetch('../data/shard-' + i + '.json.gz?v=20261025a');
+    const r = await fetch('../data/shard-' + i + '.json.gz?v=' + DATA_BUILD);
     if (r.ok) {
       const buf = await r.arrayBuffer();
       const ds = new DecompressionStream('gzip');
@@ -198,15 +197,14 @@ async function fetchFull(id, date) {
   }
   return (_shardCache[i] || []).find(x => x.id === id);
 }
-function esc2(s) { return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 function openEv(e, divEl) {
   const mask = document.getElementById('mask');
   const det = document.getElementById('detail');
   const [y, m, d] = e.date.split('-');
   det.innerHTML = `<button class="close">✕</button>
-    <h2>${esc2(e.title)}</h2>
-    <div class="sub">${y}.${m}.${d} · ${esc2(e.layer)}${e.milestone ? ' · ★ 时代转折点' : ''}</div>
-    <p class="smFull">${esc2(e.summary || '')}</p>
+    <h2>${esc(e.title)}</h2>
+    <div class="sub">${y}.${m}.${d} · ${esc(e.layer)}${e.milestone ? ' · ★ 时代转折点' : ''}</div>
+    <p class="smFull">${esc(e.summary || '')}</p>
     <div class="loading">正在载入完整经过…</div>`;
   det.classList.add('show');
   mask.classList.add('show');
@@ -223,9 +221,9 @@ function openEv(e, divEl) {
     if (full.impact) secs.push(['影响', full.impact]);
     if (full.aftermath) secs.push(['后续', full.aftermath]);
     const srcHtml = (full.sources || []).length
-      ? `<h4>来源</h4><ul class="srcList">${full.sources.map(s => `<li><a href="${esc2(s.url)}" target="_blank" rel="noopener">${esc2(s.title)}</a></li>`).join('')}</ul>` : '';
+      ? `<h4>来源</h4><ul class="srcList">${full.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('')}</ul>` : '';
     det.querySelector('.smFull').insertAdjacentHTML('afterend',
-      secs.map(([lab, txt]) => `<div class="sec"><span class="lab">${lab}</span><p>${esc2(txt)}</p></div>`).join('') + srcHtml);
+      secs.map(([lab, txt]) => `<div class="sec"><span class="lab">${lab}</span><p>${esc(txt)}</p></div>`).join('') + srcHtml);
   }).catch(() => {
     const box = det.querySelector('.loading');
     if (box) box.textContent = '详细档案载入失败。';

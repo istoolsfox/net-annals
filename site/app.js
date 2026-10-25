@@ -424,7 +424,7 @@ const Timeline = {
 };
 
 /* ── 工具函数 ─────────────────── */
-const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
 const $ = s => document.querySelector(s);
 
@@ -541,10 +541,11 @@ const Toolbar = {
       $('#progress').style.width = (h.scrollTop / (h.scrollHeight - h.clientHeight) * 100) + '%';
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
       // 注意：本回调注册于 Toolbar.init，箭头函数 this 是 Toolbar——
-      // Timeline 的方法必须显式引用（历史上 this.markCurrentEra 在此静默报错多年）
+      // 时代高亮在 Toolbar 上（历史上误写 Timeline.markCurrentEra 每帧静默报错，
+      // 连带中断其后同一回调里的 checkViewport 几何兜底）
       if (now - (Toolbar._eraLast || 0) > 200) {           // 时代高亮 200ms 足够（省去每 tick 的强制回流）
         Toolbar._eraLast = now;
-        Timeline.markCurrentEra();
+        Toolbar.markCurrentEra();
       }
       Timeline.checkViewport();                              // 几何兜底：IO 不可用的环境靠滚动驱动渲染
       if (now - revealLast > 150) {                        // reveal 兜底：仅 IO 缺失环境启用（全量卡片扫描开销大）

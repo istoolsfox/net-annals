@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
 <title>人物志 · 知名人士人生历程</title>
-<link rel="stylesheet" href="../style.css?v=20">
+<link rel="stylesheet" href="../style.css?v=21">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -117,6 +117,7 @@ const ERAS = [
   { name: '千禧一代', range: [1985, Infinity] },
 ];
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
 const $ = s => document.querySelector(s);
 let DATA = null, curFilter = 'all', curQuery = '';
 const DATA_BUILD = '20261025a';
@@ -147,7 +148,7 @@ function card(p) {
   const ach = (p.achievements || []).map(a => `· ${esc(a)}`).join('<br>');
   const ctzs = (p.controversies || []).length
     ? `<div class="sec"><span class="lab">争议记录</span>${p.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}</div>` : '';
-  const src = p.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const src = p.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   const relE = (p.related_entities || []).length
     ? `<div class="sec"><span class="lab">相关世家</span><div class="relRow">${p.related_entities.map(r => `<a class="relChip" href="../entities/?e=${r.id}">${esc(r.name)}</a>`).join('')}</div></div>` : '';
   el.innerHTML = `
@@ -287,7 +288,7 @@ function openGroup(g) {
   const mem = g.members.map(m => `<div class="mItem">
     <div class="mn">${esc(m.name)}${m.id_name ? `<span class="mi">${esc(m.id_name)}</span>` : ''}</div>
     <div class="mh">${esc(m.headline)}</div><p class="mt">${esc(m.text)}</p></div>`).join('');
-  const src = g.sources.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
+  const src = g.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
   $('#detail').innerHTML = `<button class="close">✕</button>
     <h2>${esc(g.name)}</h2>
     <div class="sub">${esc(g.era)} · 群像列传</div>

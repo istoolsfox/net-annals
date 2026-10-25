@@ -5,12 +5,10 @@
  * 长卷骨架（eraSec/yearGroup/yBadge/card + cMore/cBody 行内展开）渲染。
  * 首次切到某视图才拉数据（fetchGz + DecompressionStream，与子页一致）。
  */
-'use strict';
 
 const SV = {
   ready: {},          // 各视图初始化标记
   current: 'annals',
-  _cache: {},         // 数据缓存
 
   async fetchGz(url) {
     const v = '20261025a';
@@ -116,7 +114,7 @@ const SV = {
   async initPersons() {
     if (this.ready.persons) return;
     const data = await this.fetchGz('persons/data.json');
-    this._cache.persons = data.persons;
+    this.HERO.persons.sub = `${data.persons.length} 位塑造时代的人物，按出生年代纵览——点击卡片展开完整人生历程。`;
     let filter = 'all', q = '';
     const bar = document.getElementById('pFieldRow');
     const present = [...new Set(data.persons.map(p => p.field))];
@@ -180,7 +178,7 @@ const SV = {
   async initEntities() {
     if (this.ready.entities) return;
     const data = await this.fetchGz('entities/data.json');
-    this._cache.entities = data.entities;
+    this.HERO.entities.sub = `${data.entities.length} 家企业与社区的完整兴衰史——按创立年代纵览，点击卡片展开。`;
     let filter = 'all', q = '';
     const bar = document.getElementById('eTypeRow');
     const present = [...new Set(data.entities.map(e => e.type))];
@@ -244,7 +242,7 @@ const SV = {
   async initWorks() {
     if (this.ready.works) return;
     const data = await this.fetchGz('works/data.json');
-    this._cache.works = data.works;
+    this.HERO.works.sub = `${data.works.length} 部影视文学音乐游戏经典——按发布年代纵览，点击卡片展开生命线。`;
     let filter = 'all', q = '';
     const bar = document.getElementById('wTypeRow');
     const present = [...new Set(data.works.map(w => w.type))];
@@ -335,8 +333,8 @@ const SV = {
       try {
         await this['init' + name[0].toUpperCase() + name.slice(1)]();
       } catch (err) {
-        const root = document.querySelector('#' + name.replace(/^./, c => 'p') + 'timeline') ||
-                     document.querySelector('#etimeline') || document.querySelector('#wtimeline');
+        // persons/entities/works 的首字母与各长卷容器 id 前缀一一对应（p/e/w + timeline）
+        const root = document.querySelector('#' + name[0] + 'timeline');
         if (root) root.innerHTML = `<div class="empty">数据加载失败（${esc(String(err.message || err))}）</div>`;
       }
     }
