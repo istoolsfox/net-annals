@@ -31,7 +31,7 @@ export const S3Numbers: React.FC = () => {
         })}
       </div>
       <div style={{ position: 'absolute', right: 200, bottom: 120, fontFamily: MONO, fontSize: 22, color: C.faint, letterSpacing: '0.2em', opacity: interpolate(f, [78, 90], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) }}>
-        —— 数据随每次编纂持续生长
+        —— 每一条，都标注来源与置信度
       </div>
       <AbsoluteFill style={{ background: C.bg, opacity: interpolate(f, [0, FADE_IN], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) }} />
     </AbsoluteFill>

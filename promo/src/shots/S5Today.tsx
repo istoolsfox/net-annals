@@ -19,7 +19,7 @@ export const S5Today: React.FC = () => {
       </div>
       <div style={{ position: 'absolute', left: 96, bottom: 110, opacity: cap, transform: `translateY(${(1 - cap) * 20}px)` }}>
         <div style={{ fontFamily: SERIF, fontSize: 84, color: C.goldBright, fontWeight: 700, textShadow: '0 4px 30px #000c' }}>历史上的今天</div>
-        <div style={{ fontFamily: SERIF, fontSize: 36, color: C.dim, marginTop: 12, letterSpacing: '0.1em' }}>每一个日子，都攒着一叠年份不同的记忆</div>
+        <div style={{ fontFamily: SERIF, fontSize: 36, color: C.dim, marginTop: 12, letterSpacing: '0.1em' }}>翻开任何一天，读那一年发生的事</div>
       </div>
       <AbsoluteFill style={{ background: C.bg, opacity: interpolate(f, [0, 8], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) + interpolate(f, [82, 90], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }) }} />
     </AbsoluteFill>

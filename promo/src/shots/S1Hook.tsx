@@ -25,7 +25,7 @@ export const S1Hook: React.FC = () => {
           </h1>
           <div style={{ width: rule, height: 1, background: `linear-gradient(90deg, transparent, ${C.gold}, transparent)`, margin: '34px auto' }} />
           <p style={{ fontFamily: MONO, fontSize: 30, color: C.dim, letterSpacing: '0.18em', margin: 0, opacity: sub }}>
-            从第一封电子邮件，到人人掌中的智能时代
+            一部精确到日、每条可溯源的中国互联网编年史
           </p>
         </div>
       </AbsoluteFill>
