@@ -98,23 +98,18 @@ document.documentElement.dataset.theme=t;})();
   事件内容持续补充中，"有内容"的单位数会随编纂推进增长。返回<a href="../" style="color:var(--accent)">编年史主页</a>。
 </div>
 
+<script src="../common.js?v=1"></script>
 <script>
+/* 地域日志页：省/市/县树与事件列表为本页特有；esc/fetchGz 复用 NA */
+const { esc } = NA;
 const CAT = {milestone:'里程碑',internet:'互联网',tech:'科技',hardware:'硬件',company:'公司',
   product:'产品',national:'国家',world:'世界',society:'社会',culture:'文化',economy:'经济'};
-const DATA_BUILD = '20261025a';
 let D, byP={}, byC={}, byK={};
 
 async function boot(){
   try {
-    if (typeof DecompressionStream !== 'undefined') {
-      const r = await fetch('data.json.gz?v=' + DATA_BUILD);
-      if (r.ok) {
-        const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
-        D = await new Response(stream).json();
-      }
-    }
-    if (!D) D = await (await fetch('data.json?v=' + DATA_BUILD)).json();
-  } catch (e) { D = await (await fetch('data.json?v=' + DATA_BUILD)).json(); }
+    D = await NA.fetchGz('data.json');
+  } catch (e) { document.getElementById('statsBar').textContent = '数据加载失败，请稍后重试。'; return; }
   D.p.forEach(r=>byP[r[0]]=r); D.c.forEach(r=>byC[r[0]]=r); D.k.forEach(r=>byK[r[0]]=r);
   const s=D.stats;
   document.getElementById('statsBar').innerHTML = [
@@ -194,7 +189,6 @@ function renderTree(){
   });
 }
 
-const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const state={openP:null,openC:null,sel:null};
 
 function select(code){

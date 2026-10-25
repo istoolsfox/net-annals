@@ -89,7 +89,6 @@
     <p id="heroSub">AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士——人生历程、关键节点与公开成就，逐人核实、全部可溯源。</p>
   </div>
   <div class="pBar">
-    <button class="chip on" data-f="all" id="allBtn">全部</button>
     <span id="fieldChips" style="display:contents"></span>
     <input id="pq" placeholder="搜索人物 / 头衔…" autocomplete="off">
   </div>
@@ -103,178 +102,15 @@
 <div class="pMask" id="mask"></div>
 <div class="pDetail" id="detail"></div>
 
+<script>window.NA_PAGE_KIND='persons';</script>
+<script src="../common.js?v=1"></script>
+<script src="../section-page.js?v=1"></script>
 <script>
 'use strict';
-const FIELDS = {ai:'AI', internet:'互联网', hardware:'硬件制造', company:'公司商业', game:'游戏电竞', creator:'创作者', science:'科学', finance:'金融', media:'媒体', sport:'体育'};
-const FCOLOR = {ai:'#c96a93', internet:'#5b9bd5', hardware:'#d08a4e', company:'#3aa891', game:'#8b6fc9', creator:'#c9b458', science:'#7ba05b', finance:'#4a9e8f', media:'#c9a86a', sport:'#c9584f'};
-const ERAS = [
-  { name: '文艺复兴与启蒙', range: [-Infinity, 1700] },
-  { name: '近代先驱', range: [1700, 1900] },
-  { name: '世纪之交', range: [1900, 1930] },
-  { name: '战后与重建', range: [1930, 1950] },
-  { name: '共和国一代', range: [1950, 1970] },
-  { name: '黄金一代', range: [1970, 1985] },
-  { name: '千禧一代', range: [1985, Infinity] },
-];
-const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
+/* 类传（群像列传）—— persons 特有板块；其余功能由 NA + section-page.js 提供 */
+const { esc, safeUrl, fetchGz } = NA;
 const $ = s => document.querySelector(s);
-let DATA = null, curFilter = 'all', curQuery = '';
-const DATA_BUILD = '20261025a';
 
-async function fetchGz(url) {
-  if (typeof DecompressionStream !== 'undefined') {
-    try {
-      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
-      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
-    } catch (e) { /* 回退 */ }
-  }
-  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
-}
-
-const eraIdx = y => ERAS.findIndex(e => y >= e.range[0] && y < e.range[1]);
-const byY = p => String(p.birth || '0000').slice(0, 4);
-const dsh = t => String(t.date).slice(0, t.acc === 'year' ? 4 : t.acc === 'month' ? 7 : 10);
-
-/* 主页同款卡片结构：cHead / cTitle / cSum / cMore / cBody 行内展开 */
-function card(p) {
-  const el = document.createElement('div');
-  el.className = 'card in';
-  el.dataset.id = p.id;
-  const life = `${String(p.birth).slice(0, 4)}–${p.death ? String(p.death).slice(0, 4) : ''}`;
-  const alive = p.death ? '<span class="cConf">已故</span>' : '<span class="cConf v">在世</span>';
-  const tl = p.timeline.map(t =>
-    `<li><span class="td">${dsh(t)}</span><span class="tx">${esc(t.text)}</span></li>`).join('');
-  const ach = (p.achievements || []).map(a => `· ${esc(a)}`).join('<br>');
-  const ctzs = (p.controversies || []).length
-    ? `<div class="sec"><span class="lab">争议记录</span>${p.controversies.map(c => `<div class="ctzBox">${esc(c)}</div>`).join('')}</div>` : '';
-  const src = p.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('');
-  const relE = (p.related_entities || []).length
-    ? `<div class="sec"><span class="lab">相关世家</span><div class="relRow">${p.related_entities.map(r => `<a class="relChip" href="../entities/?e=${r.id}">${esc(r.name)}</a>`).join('')}</div></div>` : '';
-  el.innerHTML = `
-    <div class="cHead">
-      <span class="cDate">${life}</span>
-      <span class="cDot" style="--c:${FCOLOR[p.field] || '#8a919e'}"></span><span>${FIELDS[p.field] || p.field}</span>
-      ${alive}
-      <span class="cAcc">${p.region === 'cn' ? '中国' : '国际'}</span>
-    </div>
-    <h3 class="cTitle"><a>${esc(p.name)}${p.en_name ? ` <span class="arrow" style="font-family:var(--mono);font-size:.72rem;color:var(--faint)">${esc(p.en_name)}</span>` : ''}</a></h3>
-    <p class="cSum">${esc(p.headline)}。${esc(p.summary_30s.slice(0, 90))}${p.summary_30s.length > 90 ? '…' : ''}</p>
-    <button class="cMore">展开人生历程 <i>∨</i></button>
-    <div class="cBody"><div class="cBodyInner">
-      <div class="sec"><span class="lab">小传</span><p>${esc(p.bio || p.summary_30s)}</p></div>
-      <div class="sec"><span class="lab">人生历程</span><ul class="tlList">${tl}</ul></div>
-      ${ach ? `<div class="sec"><span class="lab">关键成就</span><p>${ach}</p></div>` : ''}
-      <div class="sec"><span class="lab">现状与遗产</span><div class="legacyBox">${esc(p.legacy || (p.death ? '其影响已沉淀为行业史的一部分。' : '仍在活跃，故事未完。'))}</div></div>${ctzs}${relE}
-      <div class="sec"><span class="lab">来源</span><ul class="srcList">${src}</ul></div>
-    </div></div>`;
-  return el;
-}
-
-/* 主页同款事件委托：cMore 切换、卡片点击展开 */
-$('#ptimeline').addEventListener('click', ev => {
-  const more = ev.target.closest('.cMore');
-  if (more) { more.closest('.card').classList.toggle('open'); return; }
-  const cardEl = ev.target.closest('.card');
-  if (cardEl && !ev.target.closest('a')) cardEl.classList.add('open');
-});
-
-function visible(p) {
-  if (curFilter !== 'all' && p.field !== curFilter) return false;
-  const q = curQuery.trim().toLowerCase();
-  if (q) {
-    const hay = (p.name + (p.en_name || '') + p.headline + (p.tags || []).join('')).toLowerCase();
-    if (!hay.includes(q)) return false;
-  }
-  return true;
-}
-
-function render() {
-  const root = $('#ptimeline');
-  root.innerHTML = '';
-  let shown = 0;
-  ERAS.forEach((era, ei) => {
-    const list = DATA.persons.filter(p => eraIdx(+byY(p) || 0) === ei && visible(p))
-      .sort((a, b) => byY(a).localeCompare(byY(b)));
-    if (!list.length) return;
-    const sec = document.createElement('section');
-    sec.className = 'eraSec';
-    const ys = list.map(p => +byY(p));
-    sec.innerHTML = `<div class="eraHead"><span class="eraPill">${era.name}<em>${Math.min(...ys)}–${Math.max(...ys)}</em></span><span class="eraLine"></span><span class="eraCount">${list.length} 人</span></div><div class="eraBody"></div>`;
-    const body = sec.querySelector('.eraBody');
-    const byYear = new Map();
-    for (const p of list) {
-      const y = byY(p);
-      if (!byYear.has(y)) byYear.set(y, []);
-      byYear.get(y).push(p);
-    }
-    let flip = ei % 2;
-    for (const [year, ps] of byYear) {
-      const g = document.createElement('div');
-      g.className = 'yearGroup';
-      g.innerHTML = `<div class="yBadge"><span>${year}</span>${ps.length > 1 ? `<small>${ps.length}</small>` : ''}</div><div class="cards"></div>`;
-      const cards = g.querySelector('.cards');
-      for (const p of ps) {
-        const c = card(p);
-        if (flip) c.classList.add('right');
-        cards.appendChild(c);
-        flip = 1 - flip;
-        shown++;
-      }
-      body.appendChild(g);
-    }
-    root.appendChild(sec);
-  });
-  if (!shown) root.innerHTML = '<div class="empty">没有匹配的人物——换个关键词试试</div>';
-}
-
-(async () => {
-  try {
-    DATA = await fetchGz('data.json');
-    const bar = $('#fieldChips');
-    const present = [...new Set(DATA.persons.map(p => p.field))];
-    for (const f of present) {
-      const n = DATA.persons.filter(p => p.field === f).length;
-      const b = document.createElement('button');
-      b.className = 'chip'; b.dataset.f = f;
-      b.innerHTML = `<span style="color:${FCOLOR[f] || '#8a919e'}">●</span> ${FIELDS[f] || f}<span class="n">${n}</span>`;
-      b.onclick = () => {
-        curFilter = f;
-        bar.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.dataset.f === f));
-        $('#allBtn').classList.toggle('on', curFilter === 'all');
-        render();
-      };
-      bar.appendChild(b);
-    }
-    $('#allBtn').onclick = () => {
-      curFilter = 'all';
-      document.querySelectorAll('.pBar .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all' || x.id === 'allBtn'));
-      render();
-    };
-    let qt;
-    $('#pq').addEventListener('input', e => {
-      clearTimeout(qt);
-      qt = setTimeout(() => { curQuery = e.target.value; render(); }, 160);
-    });
-    $('#heroSub').textContent = `${DATA.persons.length} 位人物已收录——AI、科技、互联网、商业、游戏电竞与赛博文化圈的知名人士人生历程，逐人核实、全部可溯源。按出生年代纵览，点击卡片展开完整人生。`;
-    render();
-    loadGroups();
-    const want = new URLSearchParams(location.search).get('p');
-    if (want) {
-      const c = document.querySelector(`.card[data-id="${want}"]`);
-      if (c) {
-        c.classList.add('open');
-        c.scrollIntoView({ block: 'center', behavior: 'instant' });
-        c.style.outline = '2px solid var(--accent)';
-        setTimeout(() => { c.style.outline = ''; }, 2600);
-      }
-    }
-  } catch (e) {
-    $('#ptimeline').innerHTML = `<div class="empty">数据加载失败（${esc(e.message)}）</div>`;
-  }
-})();
-
-/* ---- 类传（群像列传，抽屉保留）---- */
 function groupCard(g) {
   const d = document.createElement('div');
   d.className = 'lCard';
@@ -317,6 +153,7 @@ async function loadGroups() {
     for (const g of G.groups) grid.appendChild(groupCard(g));
   } catch (e) { /* 类传缺失不阻塞主板块 */ }
 }
+loadGroups();
 </script>
 </body>
 </html>

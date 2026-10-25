@@ -427,9 +427,9 @@ const Timeline = {
   },
 };
 
-/* ── 工具函数 ─────────────────── */
-const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
+/* ── 工具函数（esc/safeUrl 单一实现在 common.js，此处别名以维持调用点不变） ── */
+const esc = NA.esc;
+const safeUrl = NA.safeUrl;
 const $ = s => document.querySelector(s);
 
 /* 轻提示：复制成功/失败等瞬时反馈（单例，避免连续触发堆叠） */
@@ -538,6 +538,16 @@ const Toolbar = {
     const tb = document.getElementById('toolbar');
     tb.addEventListener('pointerenter', () => tb.classList.remove('tHide'));
     tb.addEventListener('focusin', () => tb.classList.remove('tHide'));
+    // 芯片行横滑轨道：鼠标滚轮纵向量转横向滑动，滚到头自动放行页面滚动
+    // （触屏横扫、触控板横滑是原生行为不受影响）——解决「右边的芯片看不见也点不到」
+    document.querySelectorAll('.chipRow').forEach(row => row.addEventListener('wheel', e => {
+      if (!e.deltaY || row.scrollWidth <= row.clientWidth) return;
+      const atStart = row.scrollLeft <= 0 && e.deltaY < 0;
+      const atEnd = row.scrollLeft + row.clientWidth >= row.scrollWidth - 1 && e.deltaY > 0;
+      if (atStart || atEnd) return;
+      e.preventDefault();
+      row.scrollLeft += e.deltaY;
+    }, { passive: false }));
     let lastSave = 0;
     let scrollLast = 0;
     let revealLast = 0;

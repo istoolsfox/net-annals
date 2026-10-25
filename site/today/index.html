@@ -90,24 +90,14 @@
 .loading{color:var(--faint);font-family:var(--mono);font-size:.8rem}
 </style>
 
+<script src="../common.js?v=1"></script>
 <script>
 'use strict';
+/* 抽屉与日期网格为本页特有；工具函数（esc/safeUrl/fetchGz）全部复用 NA */
+const { esc, safeUrl, DATA_BUILD, fetchGz } = NA;
 const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
 const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
-const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';
-
-const DATA_BUILD = '20261025a';
-async function fetchGz(url) {
-  if (typeof DecompressionStream !== 'undefined') {
-    try {
-      const r = await fetch(url + '.gz?v=' + DATA_BUILD);
-      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
-    } catch (e) { /* 回退 */ }
-  }
-  return await (await fetch(url + '?v=' + DATA_BUILD)).json();
-}
 
 function pad(n) { return String(n).padStart(2, '0'); }
 
