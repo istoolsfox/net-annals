@@ -8,6 +8,20 @@
 > AI/新协作者接入另见 **[AGENTS.md](AGENTS.md)**（开发现状快照、已有轮子与数据边界、协作规矩）——本文管"怎么干"，它管"干到哪了、别重复什么"。
 > 跨项目运维知识（服务器/防火墙/云助手）在 workspace wiki「netannals服务器」「中国互联网编年史」页。
 
+---
+
+## ✍️ 参与编纂 —— 这部史向所有人开放
+
+发现错漏，或者想**新收录**某个人物、世家、作品、事件、县域大事？你不需要邀请——直接提交 PR，你就是这本书的编纂者之一。
+
+- **想新增条目**：Fork → 在对应板块的 `data.json` 里按格式追加记录（格式与质量标准见下文 §5.1）→ 提交 PR。CI 会自动校验格式与硬规则，维护者复核事实后合并上线，你的 GitHub 头像会进入仓库贡献者名单。完整流程见 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
+- **只想纠错、不想写代码**：提一个 [数据纠错 Issue](.github/ISSUE_TEMPLATE/data-fix.yml)，附上依据来源即可；想推荐收录对象用 [新增条目建议](.github/ISSUE_TEMPLATE/data-suggest.yml)。
+- **⚠️ 由 AI Agent 参与编纂？必须先完整阅读 [AGENTS.md](AGENTS.md) 再动手**——里面有开发现状快照、已有数据边界与查重三步、现成轮子清单、格式与提交规矩。跳过它会造成重复收集与重复实现，PR 会被要求返工。外部 Agent 与人类遵循同一套 PR 流程。
+
+收录标准一句话：**日期有据、来源可溯、存疑注明；在世者不写终结；中等详细而非百科全书**。许可：代码 MIT，数据 CC BY-SA 4.0（[LICENSE](LICENSE)）。
+
+---
+
 ## 目录结构
 
 ```
@@ -161,11 +175,7 @@ git commit + push；新坑回写 wiki log
 
 波次节奏：每波 14 个事件批（年份分片）+ 人物/世家/作品扩展批，2 并发撞限即重试；波末 merge → 记录增量 → 不足额年份段生成下波补齐。单批验收：事件 <80 条、拒收率 >15%、同批重复 >3 → 该批重做。
 
-## 8. 参与贡献
-
-欢迎任何人参与修订与增补——**外部贡献一律走 PR**，CI（validate）会自动校验数据契约、JS 语法、版本戳纪律与 `.gz` 同步，人工只复核事实。流程、铁律、PR/Issue 模板见 **[CONTRIBUTING.md](CONTRIBUTING.md)**。许可：代码 MIT，数据 CC BY-SA 4.0（见 [LICENSE](LICENSE)）。
-
-## 9. 相关
+## 8. 相关
 
 - wiki：`00-Wiki/实体/中国互联网编年史.md`（会话沉淀的教训与方法，本文的姊妹页）、`00-Wiki/实体/netannals服务器.md`（SSH/云助手/fail2ban/nginx）
 - 生产 nginx：`/etc/nginx/sites-enabled/net-annals`（root /var/www/net-annals；html no-cache）
