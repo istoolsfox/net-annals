@@ -1,6 +1,6 @@
 import React from 'react';
 import { Composition, AbsoluteFill, Sequence, Audio, interpolate, useCurrentFrame } from 'remotion';
-import { C, FADE } from './theme';
+import { C } from './theme';
 import { bgm } from './textures';
 import { S1Hook } from './shots/S1Hook';
 import { S2Scroll } from './shots/S2Scroll';
@@ -10,32 +10,41 @@ import { S5Today } from './shots/S5Today';
 import { S6Proof } from './shots/S6Proof';
 import { S7CTA } from './shots/S7CTA';
 
-export const DUR = 890; // ~29.7s @30fps
+export const DUR = 960; // 32s @30fps
 
-/** 镜头包装：进入时 15f 交叉淡入（叠在前一镜上），不做硬切 */
+/** 镜头包装：章节式过渡——首尾各 10f 渐入/渐出黑，镜头之间不重叠。
+ *  全片唯一的淡入淡出权责在这里；镜头内部禁止再做黑场。 */
 const Shot: React.FC<{ from: number; dur: number; children: React.ReactNode }> = ({ from, dur, children }) => {
   const f = useCurrentFrame();
-  const opacity = interpolate(f, [0, FADE], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const fadeIn = interpolate(f, [0, 10], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const fadeOut = interpolate(f, [dur - 10, dur], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   return (
-    <Sequence from={from} durationInFrames={dur + FADE}>
-      <AbsoluteFill style={{ opacity }}>{children}</AbsoluteFill>
+    <Sequence from={from} durationInFrames={dur}>
+      <AbsoluteFill style={{ opacity: Math.min(fadeIn, fadeOut) }}>{children}</AbsoluteFill>
     </Sequence>
   );
 };
 
+const SHOTS: Array<[number, number, React.ReactNode]> = [
+  [0, 100, <S1Hook />],
+  [100, 200, <S2Scroll />],
+  [300, 120, <S3Numbers />],
+  [420, 165, <S4Views />],
+  [585, 115, <S5Today />],
+  [700, 130, <S6Proof />],
+  [830, 130, <S7CTA />],
+];
+
 const Timeline: React.FC = () => {
-  const f = useCurrentFrame();
-  const endFade = interpolate(f, [DUR - 25, DUR], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   return (
-    <AbsoluteFill style={{ background: C.bg }}>
-      <Shot from={0} dur={110}><S1Hook /></Shot>
-      <Shot from={95} dur={190}><S2Scroll /></Shot>
-      <Shot from={270} dur={125}><S3Numbers /></Shot>
-      <Shot from={380} dur={165}><S4Views /></Shot>
-      <Shot from={530} dur={125}><S5Today /></Shot>
-      <Shot from={640} dur={135}><S6Proof /></Shot>
-      <Shot from={760} dur={130}><S7CTA /></Shot>
-      <AbsoluteFill style={{ background: C.bg, opacity: endFade }} />
+    <AbsoluteFill style={{ background: '#000' }}>
+      {SHOTS.map(([from, dur, node], i) => (
+        <Sequence key={i} from={from} durationInFrames={dur} name={`S${i + 1}`}>
+          <AbsoluteFill style={{ background: C.bg }}>
+            {node}
+          </AbsoluteFill>
+        </Sequence>
+      ))}
       <Audio src={bgm} volume={(fr) => interpolate(fr, [0, 30, DUR - 100, DUR], [0, 0.8, 0.8, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' })} />
     </AbsoluteFill>
   );
