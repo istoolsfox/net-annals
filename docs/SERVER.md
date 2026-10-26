@@ -29,11 +29,12 @@
 rsync -az --delete --exclude=/data.json site/ toolsfox:/var/www/net-annals/
 ```
 
-## 四、⚠️ ICP 备案（未完成，最高优先级）
+## 四、⚠️ ICP 备案（办理中，2026-10-26 用户确认）
 
-阿里云对未备案域名的 **80 端口**返回 `Non-compliance ICP Filing` 拦截页（Server: Beaver），
-443 暂不受影响但阿里云保留进一步处置权。**需要站长在阿里云控制台提交个人备案**（1-2 周）。
-备案通过前，Let's Encrypt 的 HTTP-01 验证（80 端口）不可用。
+- 阿里云对未备案域名拦 80 端口（Server: Beaver）；**实测大陆源 IP 连 443 也做 SNI 阻断，海外正常**。
+- **2026-10-25 起站点主动黑屏**：nginx `location / { return 444; }`（原为服务器级 return 444，后改为 location 级以放行 /stats），黑屏期间镜像站 `istoolsfox.github.io/net-annals` 对外服务。
+- 备案通过后：删除 enabled 配置中 `location / { return 444; }` 块即可恢复全站。
+- 备案通过前 Let's Encrypt HTTP-01（80 端口）不可用，续期走第五节 DNS-01。
 
 ## 五、证书续期（备案通过前的预案）
 
@@ -47,6 +48,13 @@ aliyun alidns AddDomainRecord --DomainName toolsfox.cn --RR "_acme-challenge" --
 # 验证生效后回车继续；完成后删除 TXT 记录
 ```
 到期前 30 天自动化会提醒（见 CronCreate：toolsfox.cn 证书到期检查）。
+
+## 五点五、统计面板（2026-10-26 上线）
+
+- 地址：`https://toolsfox.cn/stats/report.html`（Basic Auth：admin，密码见交付记录，可用 `sudo htpasswd -cb /etc/nginx/.htpasswd admin 新密码` 重置）
+- 实现：GoAccess 1.8 读 nginx 日志生成 820KB 交互式 HTML；**每晚 00:10 root crontab 自动重建**（含轮转日志全量）
+- ⚠️ sites-enabled/net-annals 已是**实体文件**（10-25 重构部署时材料化，非符号链接），改配置必须双写 sites-available + sites-enabled
+- 备案黑屏用 `location / { return 444; }` + `location ^~ /stats/` 白名单实现；`^~` 必须保留，否则被 `.html$` 正则 location 抢走 404
 
 ## 六、常用运维命令
 
