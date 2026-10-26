@@ -1,0 +1,850 @@
+[
+ {
+  "id": "1973-12-17-gps-program-approved",
+  "date": "1973-12-17",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "美国国防部批准GPS研制：导航卫星时代奠基",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1973年12月17日，美国国防部国防系统采办审查委员会批准NAVSTAR全球定位系统研制计划，GPS自此有了正式的『生日』。它把各军种分散的导航方案合而为一：用约2万公里高的中圆轨道星座，让地球上任意一点随时算出自己的位置、速度和时间。",
+  "detail": "1973年劳动节周末，五角大楼的一间会议室里，各军种代表被要求拿出一个统一方案：空军想验证卫星双向测距，海军的子午仪系统已在服役，陆军与海军陆战队各有诉求。整合后的方案当年12月17日获国防系统采办审查委员会批准，项目定名NAVSTAR GPS，由空军牵头设立联合计划办公室实施。方案确定星座运行在约2万公里的中圆轨道，用户测量至少4颗卫星信号的到达时间差，即可解算出三维位置与时间，全程无需向卫星发出任何请求——这一无源定位体制后来成为所有全球导航系统的共同蓝本。1978年2月首颗试验卫星入轨，1995年系统达到完全作战能力，此后免费信号覆盖全球，重塑了交通、测绘与生活方式。",
+  "impact": "确立无源定位与中圆轨道星座的技术范式，全球卫星导航系统的共同起点。",
+  "aftermath": "1978年首颗Block I试验卫星入轨，1993年宣布初始作战能力，1995年达到完全作战能力。",
+  "sources": [
+   {
+    "title": "Inside GNSS: 40th Anniversary of Key DoD Decision on GPS",
+    "url": "https://insidegnss.com/40th-anniversary-of-key-dod-decision-on-gps",
+    "type": "news"
+   },
+   {
+    "title": "Wikipedia: Global Positioning System",
+    "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "美国"
+  ]
+ },
+ {
+  "id": "1978-02-22-navstar-1-first-gps-satellite",
+  "date": "1978-02-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首颗GPS卫星Navstar 1入轨：星座从图纸走向轨道",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1978年2月22日，宇宙神F火箭从范登堡基地把GPS首颗试验卫星Navstar 1送入约2万公里中圆轨道。这颗设计寿命5年的试验星要证明一件事：仅凭卫星信号，地面任何接收机都能算出精确位置——GPS的11颗Block I试验星由此起步。",
+  "detail": "1978年2月22日，一枚宇宙神F运载火箭从范登堡空军基地升空，将Navstar 1（又称OPS 5111）送入约2万公里高度的中圆轨道，这是GPS计划的第一颗Block I试验卫星。Block I共制造11颗，用于验证星座构型、原子钟在轨表现与用户设备性能。首颗星原设计寿命5年，实际远超预期长期在轨运行。试验阶段星座尚未覆盖全球，用户一天中只有部分时段能同时收到足够信号完成定位，但每一次定位都在证实方案可行，也暴露出星载原子钟稳定度等需要改进的环节。此后Block II工作星自1989年起发射，1993年24星组网宣布初始作战能力，1995年系统宣布完全作战能力，GPS正式投入运行。",
+  "impact": "GPS从纸面方案进入在轨验证，无源卫星定位首次得到实证。",
+  "aftermath": "Block I共发射11颗试验星，1989年Block II工作星开始组网，1995年系统正式服役。",
+  "sources": [
+   {
+    "title": "History of Information: The US Department of Defense Launches Navstar 1",
+    "url": "https://historyofinformation.com/detail.php?id=943",
+    "type": "blog"
+   },
+   {
+    "title": "History.com: Navstar 1, the first operational GPS satellite, launches",
+    "url": "https://www.history.com/this-day-in-history/february-22/navstar-1-first-operational-gps-satellite-launches",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "美国"
+  ]
+ },
+ {
+  "id": "1982-10-12-glonass-first-satellite",
+  "date": "1982-10-12",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "格洛纳斯首星发射：苏联启动全球导航星座",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1982年10月12日，质子号火箭从拜科努尔把首颗格洛纳斯导航卫星送入约1.9万公里中圆轨道，对标GPS的苏联全球导航星座起步。苏联用更高轨道倾角照顾高纬度国土，此后以一箭三星节奏补网，到1995年才完成24星满编。",
+  "detail": "1982年10月12日，质子号运载火箭从拜科努尔发射场升空，将首颗格洛纳斯导航卫星『飓风』号（宇宙-1413）送入约19100公里高的中圆轨道，苏联全球卫星导航系统（GLONASS）的飞行试验由此开始。系统源于苏联海军对全球导航定位的需求，与美国GPS同属无源定位体制，但采用频分多址信号、轨道倾角高达64.8度，卫星过境仰角更高，更利于高纬度地区使用——这对国土纬度偏北的苏联是现实考量。此后发射以一箭三星为主力节奏持续补网。苏联解体后系统由俄罗斯继承，1993年俄方正式宣布格洛纳斯服役，1995年底完成24星组网。与美国GPS几乎同期起步的第二极，此后却因国运起伏走上一条更坎坷的路。",
+  "impact": "苏联版全球导航星座起步，形成与GPS同代竞争的第二极。",
+  "aftermath": "1995年底24星满编；苏联解体后经费断档，星座一度逐年衰减，2000年代启动重建。",
+  "sources": [
+   {
+    "title": "Wikipedia: GLONASS",
+    "url": "https://en.wikipedia.org/wiki/GLONASS",
+    "type": "wiki"
+   },
+   {
+    "title": "ГЛОНАСС — Википедия",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%9B%D0%9E%D0%9D%D0%90%D0%A1%D0%A1",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "格洛纳斯",
+   "GLONASS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "苏联"
+  ]
+ },
+ {
+  "id": "1983-09-16-gps-opened-to-civilian-use",
+  "date": "1983-09-16",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "大韩航空007空难后，白宫宣布向民用开放GPS",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1983年9月16日，大韩航空007号班机被苏军击落仅两周后，白宫新闻发言人宣读声明：美国将把研制中的GPS向民用航空开放。269条生命换来的这一决定，让军用卫星系统转身成为全球公共基础设施，改写了导航产业版图。",
+  "detail": "1983年9月1日，大韩航空007号班机因导航偏差偏入苏联领空被击落，机上269人全部遇难，民航导航能力的短板暴露无遗。9月16日，白宫新闻发言人宣读声明，宣布为提高民航导航安全，美国将允许民用航空使用正在研制中的GPS系统——军用卫星定位技术第一次承诺向全世界开放。这一决定为系统建成后的军民共用格局定下基调：民用信号免费、面向全球。1995年GPS达到完全作战能力后向全球提供民用服务，2000年5月民用信号上的人为降精关闭、精度提升约十倍，导航芯片此后进入汽车、手机与亿万人的口袋。一场空难促成的开放政策，成为20世纪航天技术外溢最深远的一例。",
+  "impact": "GPS确立军民共用、民用免费的定位，军用航天技术转为全球公共基础设施。",
+  "aftermath": "1995年系统建成向全球开放民用服务，2000年关闭人为降精，民用应用全面爆发。",
+  "sources": [
+   {
+    "title": "里根总统图书馆：白宫就苏联击落韩国客机的声明（1983年9月16日）",
+    "url": "https://www.reaganlibrary.gov/archives/speech/statement-deputy-press-secretary-speakes-soviet-attack-korean-civilian-airliner-1",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Korean Air Lines Flight 007",
+    "url": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "民航"
+  ]
+ },
+ {
+  "id": "1995-04-27-gps-full-operational-capability",
+  "date": "1995-04-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "GPS宣布完全作战能力：24星星座满编服役",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1995年4月27日，美国空军航天司令部宣布GPS达到完全作战能力：24颗工作卫星在轨满编，军用用户设备完成作战鉴定。从1973年立项算起历时22年，全球第一个完整运行的卫星导航系统正式服役，免费信号此后覆盖地球每一个角落。",
+  "detail": "1995年4月27日，美国空军航天司令部正式宣布GPS达到完全作战能力。按宣布标准，这意味着24颗卫星在各自轨道正常工作、星座满足规定的全球覆盖要求，军用接收设备也通过了作战适用性鉴定。此前1993年12月系统已宣布初始作战能力，海湾战争期间GPS的实战表现加速了各国军队列装。完全作战能力宣布后，系统形成军民双轨格局：民用信号叠加人为降精，定位精度约百米；军用信号精度达十米以内，并可战时区域拒止。GPS满编服役让全球民航、航海、测绘第一次拥有全天候、全天时的卫星定位基准，也直接刺激了俄罗斯、欧洲、中国相继启动自己的导航系统。",
+  "impact": "全球首个完整运行的卫星导航系统正式服役，确立军民双信号格局。",
+  "aftermath": "2000年5月民用信号人为降精关闭，民用精度提升十倍，全球应用随之爆发。",
+  "sources": [
+   {
+    "title": "美国太空军洛杉矶基地：20th Anniversary of Initial Operational Capability of the GPS Constellation",
+    "url": "https://www.losangeles.spaceforce.mil/News/Article-Display/Article/734791/20th-anniversary-of-initial-operational-capability-of-the-gps-constellation",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Global Positioning System",
+    "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "美国"
+  ]
+ },
+ {
+  "id": "1995-12-14-glonass-constellation-complete",
+  "date": "1995-12-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "格洛纳斯24星满编：苏联解体后艰难补完的星座",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1995年12月14日，质子号火箭以一箭三星把最后三颗格洛纳斯卫星送入轨道，24星标准星座首次满编——距首星发射已13年。这是俄罗斯在财政最困难年月里硬撑完成的组网，但卫星寿命仅3年、补网无力维持，满编只是昙花一现，星座随之迅速衰减。",
+  "detail": "1995年12月14日，拜科努尔用质子号火箭完成格洛纳斯第27次组网发射，将宇宙-2323、2324、2325三颗卫星送入轨道，系统在轨卫星首次达到24颗标准配置，俄罗斯随后于1996年宣布系统达到全面运行状态。格洛纳斯采用三个轨道面、64.8度倾角的星座设计，定位精度与当时降精状态下的GPS民用信号大致相当。但满编未能维持：卫星设计寿命仅3年左右，俄罗斯财政无力按节奏补网，1990年代末星座急速衰减，2001年前后在轨可用卫星一度只剩个位数，全球覆盖无从谈起。这次满编更像是旧体制的谢幕演出，系统的重生要等到2001年联邦专项纲要启动之后。",
+  "impact": "格洛纳斯首次满编并宣布全面运行，但随即因经费枯竭走向衰减。",
+  "aftermath": "2001年在轨可用星一度跌至个位数，同年联邦专项纲要立项，系统进入长达十年的重建。",
+  "sources": [
+   {
+    "title": "ГЛОНАСС — Википедия",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%9B%D0%9E%D0%9D%D0%90%D0%A1%D0%A1",
+    "type": "wiki"
+   },
+   {
+    "title": "GNSS教材节选（Wiley）：GLONASS星座于1995年12月14日达到24星",
+    "url": "https://catalogimages.wiley.com/images/db/pdf/9781118897034.excerpt.pdf",
+    "type": "book"
+   }
+  ],
+  "tags": [
+   "格洛纳斯",
+   "GLONASS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "俄罗斯"
+  ]
+ },
+ {
+  "id": "2000-05-02-gps-selective-availability-off",
+  "date": "2000-05-02",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "GPS关闭人为降精：民用精度一夜提升十倍",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2000年5月2日凌晨，GPS卫星上的选择可用性干扰被正式置零，全球民用定位精度从约100米跃升至10米级——时任美国政府于5月1日宣布了这一决定。军方保留的这枚精度闸门关闭后，车载导航、精准农业、手机定位才真正有了实用精度的地基。",
+  "detail": "选择可用性（SA）是GPS设计时保留的人为降精手段：向民用信号注入随机误差，把民用精度限制在百米量级，以防敌方利用。冷战后商业与民用需求高涨，关闭SA的呼声不断。2000年5月1日，时任美国政府宣布停用SA；5月2日凌晨，在轨卫星上的误差注入被置零生效，全球任何用户无需更换设备，定位精度立即提升约十倍。美国官方评估认为，关闭SA对军事安全影响有限，战时可通过区域干扰手段拒止敌方使用。这次精度跃升直接催生了民用导航应用的黄金十年：消费级车载导航设备、测绘、物流跟踪迅速普及，几年后智能手机内置GPS，定位成为移动互联网的基础设施。",
+  "impact": "民用GPS精度一夜提升十倍，直接开启消费级卫星导航应用时代。",
+  "aftermath": "车载导航、精准农业等产业随后起飞，智能手机内置GPS自2000年代后期普及。",
+  "sources": [
+   {
+    "title": "RAND: GPS History, Chronology, and Budgets",
+    "url": "https://www.cs.cmu.edu/~sensing-sensors/readings/GPS_History-MR614.appb.pdf",
+    "type": "archive"
+   },
+   {
+    "title": "Wikipedia: Global Positioning System",
+    "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "科技",
+   "政策"
+  ]
+ },
+ {
+  "id": "2001-08-20-glonass-restoration-program",
+  "date": "2001-08-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "俄罗斯批准格洛纳斯专项纲要：星座重建启动",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2001年8月20日，俄罗斯政府颁布第587号决议，批准2002至2011年格洛纳斯联邦专项纲要，为濒临瘫痪的系统注入法定经费。此时在轨可用卫星已跌至个位数，纲要承诺十年内恢复24星满编——用国家专项工程赎回丢失的全球导航第二极。",
+  "detail": "1990年代末，格洛纳斯因经费断档濒临崩溃：卫星设计寿命仅3年而补网停滞，2001年前后在轨可用卫星一度只剩6至8颗，已无法提供全球服务。2001年8月20日，俄罗斯政府颁布第587号决议，批准2002至2011年《全球导航系统》联邦专项纲要，把星座恢复、地面设施现代化与民用推广列为国家任务，经费由联邦预算专项保障，此后历经延长与增补。纲要实施期间，格洛纳斯以每年一到两批的节奏持续补网，2011年底恢复24星满编并面向全球提供服务，此后转入以格洛纳斯-K新型卫星为主的换代阶段。这一『国家专项纲要』模式也成为俄罗斯维持战略基础设施的典型路径。",
+  "impact": "格洛纳斯重建获得国家专项经费保障，系统从放任衰减转入国家工程轨道。",
+  "aftermath": "补网持续推进，2011年底恢复24星满编并宣布全球运行，此后启动GLONASS-K换代。",
+  "sources": [
+   {
+    "title": "Wikipedia: GLONASS",
+    "url": "https://en.wikipedia.org/wiki/GLONASS",
+    "type": "wiki"
+   },
+   {
+    "title": "Inside GNSS：俄联邦第587号决议与GLONASS专项纲要",
+    "url": "https://insidegnss.com/robustness-improvements-for-the-pvt-solution-via-consideration-of-glonass-in-a-gnss-software-defined-receiver",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "格洛纳斯",
+   "GLONASS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "俄罗斯"
+  ]
+ },
+ {
+  "id": "2003-05-25-beidou-1-trial-system-complete",
+  "date": "2003-05-25",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "北斗一号第三星升空：中国卫星导航试验系统建成",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2003年5月25日，第三颗北斗一号卫星由长征三号甲送入轨道，与2000年的两颗工作星组网，中国自主卫星导航试验系统宣告建成。北斗一号采用有源定位体制：用户先发请求、地面解算再回传，与世界主流无源体制分道而行，却攒下第一代导航技术家底。",
+  "detail": "2003年5月25日，西昌卫星发射中心用长征三号甲火箭发射第三颗北斗一号导航定位卫星，与前两颗2000年入轨的工作星构成完整系统，中国成为继美国、俄罗斯之后第三个拥有自主卫星导航系统的国家。北斗一号采用双星有源定位体制：用户机先向卫星发出定位请求，地面中心站解算出位置后再经卫星回传，好处是能定位也能短报文通信，代价是系统容量有限、定位延迟约1秒，且不适合飞机高速运动平台。这套试验系统验证了总体方案、锻炼了研制队伍，也留下短报文这一北斗特色，为此后转向无源定位、走向全球服务的北斗二号、三号铺平了道路。2007年又补发一颗备份星，试验系统继续服役至退役。",
+  "impact": "中国成为世界第三个拥有自主卫星导航系统的国家，验证了有源定位与短报文通信的技术路线。",
+  "aftermath": "2007年4月北斗二号首星发射，系统转向无源定位体制，逐步走向区域与全球服务。",
+  "sources": [
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: BeiDou",
+    "url": "https://en.wikipedia.org/wiki/BeiDou",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2010-09-11-qzss-first-satellite",
+  "date": "2010-09-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "日本首颗准天顶卫星发射：为GPS补上头顶盲区",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2010年9月11日，H-IIA火箭从种子岛把日本首颗准天顶卫星QZS-1送入特殊的8字形轨道。这颗星每天在日本上空长时间高悬，为高楼峡谷与山区补上GPS信号盲区——人口密集、高楼林立的日本都市，正是全球卫星导航最难伺候的角落。",
+  "detail": "2010年9月11日，H-IIA运载火箭从种子岛宇宙中心将首颗准天顶卫星QZS-1发射入轨。卫星运行在倾角约45度、周期一个恒星日的倾斜地球同步轨道上，星下点在日本上空画出南北向的8字形轨迹，单星每天可在日本及周边保持高仰角运行约8小时，弥补GPS信号在都市高楼与山地的遮挡盲区。日本规划的四星体制由3颗倾斜地球同步轨道卫星加1颗地球静止轨道卫星组成，可确保本土上空随时有一颗高仰角卫星。首星先以技术验证与增强服务运行，2017年其余3颗陆续发射，2018年11月1日四星体制正式投入服务。准天顶系统由此成为日本摆脱完全依赖GPS的第一步。",
+  "impact": "日本区域导航增强起步，为本土提供高仰角补充信号。",
+  "aftermath": "2017年三星补齐，2018年11月1日四星体制开始服务，后续规划扩展星座规模。",
+  "sources": [
+   {
+    "title": "Wikipedia: Quasi-Zenith Satellite System",
+    "url": "https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "准天顶",
+   "QZSS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "日本"
+  ]
+ },
+ {
+  "id": "2010-12-05-glonass-proton-launch-failure",
+  "date": "2010-12-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "质子号发射失利：三颗格洛纳斯卫星坠入太平洋",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2010年12月5日，质子M火箭携带3颗格洛纳斯M卫星从拜科努尔升空，因上面级燃料加注过量，卫星未能入轨，连同上面级一起坠入夏威夷西南的太平洋。这是格洛纳斯重建期最惨重的一次损失：一次发射就损失3颗卫星，急需补网的星座被迫放慢脚步。",
+  "detail": "2010年12月5日，质子M运载火箭与DM-03上面级组合体从拜科努尔发射，任务是将3颗格洛纳斯M导航卫星送入中圆轨道，为正在重建的星座补网。首飞状态的DM-03上面级出了问题：因燃料加注过量，飞行姿态异常，星箭最终坠入太平洋夏威夷群岛西南海域，3颗卫星全部损失。事后调查确认是地面加注环节的管理失误，质子号随即停飞整改。这次失利推迟了格洛纳斯实现全球覆盖的时间表，也暴露出俄罗斯航天质量管理的系统性问题——不到一年后的2011年8月，又一艘进步号货运飞船发射失利。星座重建仍按专项纲要推进，2011年底终于完成24星满编。",
+  "impact": "三颗导航卫星全部损失，格洛纳斯全球覆盖进度推迟。",
+  "aftermath": "质子号停飞整改，补网继续推进，2011年底实现24星满编。",
+  "sources": [
+   {
+    "title": "Inside GNSS: GLONASS Triple Satellite Launch Suffers Rare Failure",
+    "url": "https://insidegnss.com/glonass-triple-satellite-launch-suffers-rare-failure",
+    "type": "news"
+   },
+   {
+    "title": "RussianSpaceWeb: Overfueled Proton dooms 43rd GLONASS mission",
+    "url": "https://www.russianspaceweb.com/glonass43.html",
+    "type": "blog"
+   }
+  ],
+  "tags": [
+   "格洛纳斯",
+   "GLONASS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "发射失败",
+   "俄罗斯"
+  ]
+ },
+ {
+  "id": "2011-02-26-glonass-k1-first-satellite",
+  "date": "2011-02-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "格洛纳斯-K首星发射：俄导航卫星迈入轻量化第三代",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2011年2月26日，联盟2.1b火箭从普列谢茨克将首颗格洛纳斯-K1卫星送入轨道，俄罗斯导航卫星进入第三代。新卫星重量减半至735公斤、设计寿命延至10年，并首次广播面向民用的第三民用信号——补上与国际主流体制互不兼容的老短板。",
+  "detail": "2011年2月26日，联盟2.1b运载火箭与弗雷盖特上面级从普列谢茨克航天发射场升空，将格洛纳斯-K1首颗卫星送入轨道（国际编号宇宙-2464）。这是格洛纳斯继试验卫星、GLONASS-M之后的第三代：基于不密封平台研制，重量从GLONASS-M的约1450公斤降至735公斤，设计寿命提高到10年，并新增第三民用信号L3——此前格洛纳斯民用信号长期沿用频分多址体制的L1、L2频点，与国际主流的码分多址体制不兼容，互操作困难。第三代卫星是格洛纳斯与GPS、伽利略实现信号兼容的技术基础。不过换代进度远落后于原计划：第二颗K1星迟至2023年才发射，K系列后续研制屡屡推迟。",
+  "impact": "格洛纳斯启动第三代换代，新增民用L3信号为国际互操作铺路。",
+  "aftermath": "K1第二颗星迟至2023年发射，K系列换代进度长期落后于计划。",
+  "sources": [
+   {
+    "title": "Wikipedia: GLONASS",
+    "url": "https://en.wikipedia.org/wiki/GLONASS",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: GLONASS-K",
+    "url": "https://en.wikipedia.org/wiki/GLONASS-K",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "格洛纳斯",
+   "GLONASS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "俄罗斯"
+  ]
+ },
+ {
+  "id": "2011-10-21-galileo-iov-first-launch",
+  "date": "2011-10-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略首批两颗验证星升空：欧洲全球导航实星起步",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2011年10月21日，联盟号火箭首次从法属圭亚那库鲁发射，把伽利略系统首批两颗在轨验证卫星送入中圆轨道。立项十余年后，欧洲终于有了自己的导航星在天上——后续验证星与组网星密集跟进，全球导航三足鼎立的第三极开始成形。",
+  "detail": "2011年10月21日，俄罗斯联盟号运载火箭在库鲁航天中心完成欧洲首飞，将伽利略在轨验证（IOV）阶段的前两颗卫星送入约2.3万公里的中圆轨道。伽利略由欧盟与欧洲航天局共同建设，2005年曾发射GIOVE-A试验星抢占国际电联频谱，此后因经费分担与体制争论几度拖延，首批实星升空标志工程重回正轨。在轨验证阶段共4颗星，用于考核系统设计与信号性能，后两颗于2012年10月发射。此后工程转入全运行能力阶段，以一箭四星方式密集组网，至2016年底18颗卫星在轨，同年12月15日欧盟委员会宣布伽利略开始提供初始服务，欧洲全球导航系统的主体框架搭建完成。",
+  "impact": "欧洲全球导航系统从图纸进入在轨验证，全球导航格局走向多极。",
+  "aftermath": "2016年12月宣布初始服务；2017年接连曝出原子钟批量失效、2019年地面软件故障等波折。",
+  "sources": [
+   {
+    "title": "Wikipedia: Galileo (satellite navigation)",
+    "url": "https://en.wikipedia.org/wiki/Galileo_%28satellite_navigation%29",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略",
+   "Galileo",
+   "卫星导航",
+   "航天",
+   "科技",
+   "欧洲"
+  ]
+ },
+ {
+  "id": "2012-04-30-beidou-first-dual-satellite-launch",
+  "date": "2012-04-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "北斗首次一箭双星：第十二、十三颗组网卫星升空",
+  "category": "hardware",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2012年4月30日凌晨4时50分，长征三号乙火箭在西昌以一箭双星方式，将第十二、十三颗北斗导航卫星送入预定轨道——这是北斗首次一箭双星。此后双星并联成为北斗组网的标准投送方式，发射节奏提高近一倍，为年底开通亚太区域服务抢出时间。",
+  "detail": "2012年4月30日4时50分，长征三号乙运载火箭从西昌卫星发射中心点火升空，以一箭双星方式将第十二、十三颗北斗导航系统组网卫星送入中圆轨道的预定转移轨道。这是中国卫星导航工程首次采用一箭双星发射，攻克了上面级两次点火与双星依次分离控制等难题，此后2012年9月第14、15颗卫星再次复用这一方式，一箭双星成为北斗组网期的常规动作，显著摊薄单星发射成本、加快补网节奏。当年年底，北斗二号系统即向亚太大部分地区提供正式服务。在国际上，一箭双星乃至一箭多星发射导航卫星是欧洲伽利略、美国GPS后续型号普遍采用的高效组网路径。",
+  "impact": "北斗组网进入一箭双星时代，发射效率大幅提升，为当年开通亚太区域服务抢出节奏。",
+  "aftermath": "2012年12月27日北斗二号正式向亚太大部分地区提供区域服务。",
+  "sources": [
+   {
+    "title": "国家航天局：2012年4月30日，中国“一箭双星”成功发射两颗北斗导航卫星",
+    "url": "https://www.cnsa.gov.cn/n6758968/n6758972/c6798661/content.html",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2013-07-01-irnss-first-satellite",
+  "date": "2013-07-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "印度首颗区域导航卫星升空：NavIC七星计划起步",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2013年7月1日，印度极轨卫星运载火箭从斯里哈里科塔发射首颗区域导航卫星IRNSS-1A，印度自主导航星座开始部署。规划中的7颗卫星覆盖印度本土及周边约1500公里——在全球四大导航系统之外，印度选择了只服务自家门户的区域路线。",
+  "detail": "2013年7月1日，PSLV-C22火箭从斯里哈里科塔发射中心将印度区域卫星导航系统（IRNSS）首星IRNSS-1A送入倾斜地球同步轨道，印度成为少数自主研制导航卫星的国家。系统规划7颗卫星：3颗倾斜地球同步轨道加4颗地球静止轨道卫星，覆盖印度及周边约1500公里范围，服务区内定位精度优于20米。此后发射进程并不平坦：2016年4月第七颗星升空完成组网后，后续替换卫星多次延期，2017年8月一颗替补卫星因火箭整流罩未打开而发射失败，首颗星又因原子钟全部失效于2017年失去功能，星座一度缺员运行。系统后定名NavIC（意为领航者），与GPS等国际系统保持兼容，主要服务交通、农业、灾害管理与军用定位。",
+  "impact": "印度启动自主区域导航星座部署，全球导航版图多出一支国家路线。",
+  "aftermath": "2016年4月第七颗卫星发射完成七星组网，系统定名NavIC投入运行。",
+  "sources": [
+   {
+    "title": "Wikipedia: Indian Regional Navigation Satellite System",
+    "url": "https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "NavIC",
+   "IRNSS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "印度"
+  ]
+ },
+ {
+  "id": "2015-03-30-beidou-3-first-test-satellite",
+  "date": "2015-03-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首颗新一代北斗试验卫星发射：北斗三号技术验证起步",
+  "category": "hardware",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2015年3月30日21时52分，长征三号丙火箭从西昌把首颗新一代北斗试验卫星送入轨道，北斗三号技术验证拉开帷幕。这颗星要考核三件决定全球服务成色的关键装备：新型导航信号、星间链路和星载原子钟——星间链路让卫星在境外也能互相联络、自主运行。",
+  "detail": "2015年3月30日21时52分，长征三号丙运载火箭在西昌卫星发射中心将首颗新一代北斗导航卫星（北斗三号试验卫星）发射入轨。这颗试验卫星承担北斗三号全新技术体制的在轨验证：试验新型导航信号的频点与性能，验证星间链路——即卫星之间直接通信组网、减少对海外地面站依赖的关键能力——并考核新一代高精度星载原子钟。北斗二号区域系统覆盖亚太即可依托境内测控，而全球服务要求卫星在地球背面时也能自主维持精度，星间链路与新型原子钟正是补齐这块短板的核心。此后两年多颗试验星陆续升空完成技术定型，2017年11月北斗三号转入全球组网发射阶段。",
+  "impact": "北斗三号新信号体制、星间链路与新型原子钟进入在轨验证，全球服务的关键技术逐一过关。",
+  "aftermath": "2017年11月5日首批北斗三号组网卫星发射，系统转入全球组网阶段。",
+  "sources": [
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   },
+   {
+    "title": "Wikipedia: BeiDou",
+    "url": "https://en.wikipedia.org/wiki/BeiDou",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2016-04-28-navic-constellation-complete",
+  "date": "2016-04-28",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "IRNSS-1G升空：印度NavIC七星组网完成",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年4月28日，PSLV火箭将第七颗区域导航卫星IRNSS-1G送入静止轨道，印度七星组网完成，系统随即定名NavIC。不到三年七次发射，印度成为少数建成自主区域导航系统的国家——范围虽只有次大陆周边，定位却不再完全依赖别国星座。",
+  "detail": "2016年4月28日，PSLV-C33火箭从斯里哈里科塔发射中心将IRNSS-1G卫星送入地球静止轨道，印度区域卫星导航系统的第七颗、也是最后一颗组网卫星入轨，星座部署完成，系统随后定名NavIC（Navigation with Indian Constellation）。NavIC由3颗倾斜地球同步轨道卫星与4颗地球静止轨道卫星组成，覆盖印度本土及周边约1500公里海域，在服务区内提供优于20米的定位精度与授时服务，并具备遇险消息功能，主要面向民用交通、农业、灾害管理与军事用途。由于国产原子钟可靠性问题与后续替换星发射失利，星座此后长期处于补网维持状态，星间链路与全球扩展仍停留在规划层面。",
+  "impact": "印度建成自主区域导航系统，成为少数拥有导航卫星体系的国家之一。",
+  "aftermath": "2017年替换星发射失利、首星原子钟失效，星座进入长期补网维持阶段。",
+  "sources": [
+   {
+    "title": "Wikipedia: Indian Regional Navigation Satellite System",
+    "url": "https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "NavIC",
+   "IRNSS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "印度"
+  ]
+ },
+ {
+  "id": "2016-12-15-galileo-initial-services",
+  "date": "2016-12-15",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略宣布初始服务：欧洲导航系统投入运行",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2016年12月15日，欧盟委员会在布鲁塞尔宣布伽利略开始提供初始服务，开放服务、公共特许服务与搜救三项功能率先上线。此时18颗卫星在轨、信号与GPS兼容——欧洲人立项时想要的自主定位能力，终于向全球用户开放了第一版。",
+  "detail": "2016年12月15日，欧盟委员会正式宣布伽利略提供初始服务，系统从建设阶段转入运行阶段。首批开放三项服务：免费面向全球用户的开放服务，面向政府等高安全需求用户的公共特许服务，以及接入国际搜救卫星系统、可反向确认求救信号已送达的搜救功能。此时星座已有18颗卫星在轨，开放服务定位精度达米级，与GPS并用可进一步提升可用卫星数与定位精度。初始服务只是起步：星座目标是24颗工作星加备份星，完整运行能力仍在部署之中。此后系统历经2017年原子钟批量失效、2019年地面段故障导致服务中断等波折，但始终保持运行，欧洲也在2020年代推进第二代伽利略的研制。",
+  "impact": "欧洲拥有自主运行的全球导航系统，四大全球导航系统格局完整成形。",
+  "aftermath": "2017年1月曝出多颗卫星原子钟失效，2019年7月地面段故障导致服务中断一周。",
+  "sources": [
+   {
+    "title": "欧盟委员会：Galileo goes live!（IP-16-4366）",
+    "url": "https://europa.eu/rapid/press-release_IP-16-4366_en.htm",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Galileo (satellite navigation)",
+    "url": "https://en.wikipedia.org/wiki/Galileo_%28satellite_navigation%29",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略",
+   "Galileo",
+   "卫星导航",
+   "航天",
+   "科技",
+   "欧洲"
+  ]
+ },
+ {
+  "id": "2017-01-18-galileo-atomic-clock-failures",
+  "date": "2017-01-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略原子钟批量失效：在轨卫星9台钟停摆",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2017年1月中旬，媒体披露伽利略在轨18颗卫星已有9台原子钟失效、涉及至少6颗卫星。导航卫星全靠原子钟给信号打时间戳，钟停了星就废。好在每颗星装4台钟互为备份，服务未受影响，但根源未明的批量失效，仍引发对这批卫星设计质量的广泛质疑。",
+  "detail": "导航卫星信号以光速传播，时间基准偏差1微秒就对应约300米定位误差，原子钟因此是导航卫星的心脏。2017年1月，媒体披露伽利略星座原子钟接连失效：在轨18颗卫星中已有3台铷钟与6台被动氢钟共9台停摆，至少6颗卫星各损失一台以上，个别试验卫星同样中招。所幸每颗伽利略卫星装2台铷钟、2台氢钟互为备份，尚无卫星因此停服，初始服务照常运行。欧洲航天局随后调查，认为失效可能与氢钟特定部件在地面测试环境条件下的缺陷有关，并推动后续批次改进设计与在轨处置预案。原子钟危机之后，伽利略又在2019年遭遇地面段软件故障导致的全系统中断，工程可靠性接连受到考验。",
+  "impact": "伽利略工程可靠性遭公开质疑，原子钟缺陷推动后续批次改进。",
+  "aftermath": "调查归因于氢钟部件缺陷，后续卫星改进设计；2019年7月系统又因地面软件故障中断服务。",
+  "sources": [
+   {
+    "title": "BBC: Galileo satellites experiencing multiple clock failures",
+    "url": "https://www.bbc.com/news/science-environment-38664225",
+    "type": "news"
+   },
+   {
+    "title": "Wikipedia: Galileo (satellite navigation)",
+    "url": "https://en.wikipedia.org/wiki/Galileo_%28satellite_navigation%29",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略",
+   "Galileo",
+   "卫星导航",
+   "航天",
+   "科技",
+   "事故",
+   "欧洲"
+  ]
+ },
+ {
+  "id": "2017-11-05-beidou-3-first-networking-launch",
+  "date": "2017-11-05",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "北斗三号首发双星升空：全球组网大幕开启",
+  "category": "hardware",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2017年11月5日19时45分，长征三号乙以一箭双星发射北斗三号首批两颗组网卫星，中国全球导航建设进入冲刺。此前三年是试验验证，此后两年半北斗完成18次发射、30颗卫星组网，平均不到两个月一批，组网密度在世界导航星座建设中名列前茅。",
+  "detail": "2017年11月5日，西昌卫星发射中心用长征三号乙运载火箭与远征一号上面级，以一箭双星方式将北斗三号第一、二颗组网卫星送入中圆地球轨道。这是2015年以来多颗试验星完成技术验证后，北斗三号全球组网发射的第一组。北斗三号采用三种轨道混合星座设计：24颗中圆轨道卫星提供全球基础服务，3颗倾斜地球同步轨道与3颗地球静止轨道卫星增强亚太地区性能。从这次首发到2020年6月最后一颗组网卫星升空，两年半内完成18次发射、30颗卫星全部成功，全程无一失败。2020年7月31日北斗三号正式开通，全球定位精度设计指标优于10米，北斗成为继GPS、格洛纳斯、伽利略之后又一个面向全球服务的卫星导航系统。",
+  "impact": "北斗三号从技术验证转入组网发射，中国全球导航星座建设进入冲刺。",
+  "aftermath": "两年半内18次发射30颗卫星全部成功，2020年7月31日系统正式开通。",
+  "sources": [
+   {
+    "title": "中国北斗网：五年前的今天，一箭双星升空，北斗三号首星梦启新篇",
+    "url": "http://m.beidou.gov.cn/yw/gjdt/202211/t20221123_25435.html",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2018-11-01-qzss-four-satellite-service",
+  "date": "2018-11-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "日本准天顶系统四星体制开始服务",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2018年11月1日，日本宣布准天顶卫星系统四星体制正式投入运行：3颗倾斜同步轨道星加1颗静止轨道星，保证日本上空随时有一颗高仰角卫星。四星体制让亚米级与厘米级增强服务覆盖日本全境，日本由此加入拥有自主导航卫星体系的国家行列。",
+  "detail": "2018年11月1日，日本内阁府宣布准天顶卫星系统（QZSS）四星体制开始提供服务，系统由技术验证转入正式运行。星座由3颗倾斜地球同步轨道卫星与1颗地球静止轨道卫星组成，确保日本及周边任何时候至少有一颗仰角足够高的卫星在视野内，大幅提升导航信号在高楼与山地的可用性。系统在GPS兼容信号之上叠加两层增强：面向大众的亚米级增强服务，以及面向测绘与自动驾驶的厘米级增强服务。四星体制仍以增强GPS为主，此后日本持续推进星座扩展与下一代系统研究，规划增加卫星数量、强化独立定位能力，使区域系统逐步具备不依赖GPS的基础服务性能。",
+  "impact": "日本拥有正式运行的导航卫星体制，导航增强进入常态化服务。",
+  "aftermath": "后续卫星追加与下一代系统研究推进，规划扩展星座并强化自主定位能力。",
+  "sources": [
+   {
+    "title": "Wikipedia: Quasi-Zenith Satellite System",
+    "url": "https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System",
+    "type": "wiki"
+   },
+   {
+    "title": "日本科学技术振兴机构：日本版GPS开始全面运行",
+    "url": "https://ssp.jst.go.jp/sns/news/sat/science19/01_2.html",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "准天顶",
+   "QZSS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "日本"
+  ]
+ },
+ {
+  "id": "2018-12-23-gps-iii-first-satellite",
+  "date": "2018-12-23",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首颗GPS III卫星发射：第三代导航星升空",
+  "category": "hardware",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2018年12月23日，猎鹰9号火箭从卡纳维拉尔角把首颗GPS III卫星送入轨道，GPS启动第三代换代。新卫星广播的L1C民用信号与北斗、伽利略兼容，定位精度较上一代提升约三倍，抗干扰能力大幅增强——这是GPS服役以来最彻底的一次升级。",
+  "detail": "2018年12月23日13时51分，SpaceX猎鹰9号火箭从卡纳维拉尔角发射GPS III第一颗卫星（SV01，绰号维斯普奇，入轨后编号USA-289），这是GPS Block IIIA系列的首星，也是该主力军用型号首次交由商业火箭发射。GPS III卫星由洛克希德·马丁研制，设计寿命15年、较上一代延长约四分之一，广播的新民用信号L1C与伽利略、北斗的相应信号互为兼容，可供多系统联合使用；军用M码信号的功率与抗干扰能力亦显著增强，定位精度较在役旧星提升约三倍。Block IIIA共订购10颗，此后各星陆续发射，逐一替换在轨老卫星，GPS的现代化换代自此全面铺开。",
+  "impact": "GPS启动第三代换装，民用信号国际互操作成为标配。",
+  "aftermath": "后续GPS III卫星陆续发射替换Block IIF在轨星，系统精度与抗干扰能力逐步提升。",
+  "sources": [
+   {
+    "title": "Wikipedia: GPS Block IIIA",
+    "url": "https://en.wikipedia.org/wiki/GPS_Block_IIIA",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "GPS",
+   "卫星导航",
+   "航天",
+   "科技",
+   "美国"
+  ]
+ },
+ {
+  "id": "2018-12-27-beidou-3-global-service",
+  "date": "2018-12-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "北斗三号基本系统建成：全球服务提前两年启动",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2018年12月27日，国新办发布会宣布北斗三号基本系统建成，即日起提供全球服务，比原计划提前两年。此时18颗组网卫星已能覆盖全球，北斗从服务亚太一步跨入服务世界，美、俄、欧、中四大全球卫星导航系统自此全部投入运行。",
+  "detail": "2018年11月19日，随着第42、43颗北斗导航卫星发射，北斗三号基本系统星座部署完成。12月27日下午，国务院新闻办公室举行新闻发布会，宣布北斗三号基本系统建成，即日起提供全球服务，较原计划提前两年。此时系统已发射18颗北斗三号组网卫星，全球范围定位精度可达10米级、亚太地区性能更优，并与其他卫星导航系统兼容互操作。全球服务开通为北斗产品出口和国际组织认证创造了条件，此前欧洲伽利略已于2016年底宣布初始服务，格洛纳斯2011年恢复全球运行，至此美、俄、欧、中四大全球卫星导航系统全部进入运行状态。2020年6月最后一颗组网卫星发射、星座30颗满编，7月31日北斗三号正式开通。",
+  "impact": "北斗从区域服务跨入全球服务，全球四大卫星导航系统格局成形。",
+  "aftermath": "2020年6月星座30颗满编，7月31日正式开通，系统进入连续稳定运行阶段。",
+  "sources": [
+   {
+    "title": "中国北斗网：今天起，北斗正式提供全球服务",
+    "url": "http://www.beidou.gov.cn/zt/xwfbh/bdshjbxtjc/mtjj4/201901/t20190103_16986.html",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2019-07-11-galileo-service-outage",
+  "date": "2019-07-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "伽利略服务全面中断六天：软件故障瘫痪整个星座",
+  "category": "tech",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2019年7月11日起，伽利略全部在轨卫星的服务状态被置为『不可用』，信号尚在却无法使用，7月18日才基本恢复——全球卫星导航史上首次全系统停摆。事后独立调查认定：意大利精确授时设施升级中一段软件故障，让时间基准失稳、星历与钟差随之失效。",
+  "detail": "2019年7月11日凌晨，伽利略地面段设在意大利的精确授时设施在设备升级过程中出现软件故障，用于生成全系统统一时间基准的设备失稳，导航数据（星历与时钟改正数）无法正常生成与上行。在轨卫星虽然仍在广播信号，但参数质量超限，全部卫星的服务状态被置为『不可用』。运行方随后应急处置，期间服务一度短暂恢复又再度中断，7月18日基本恢复，全程约6天。欧盟委员会为此设立独立事故调查委员会，年底公布结论：这是一起地面软件配置故障，而非太空硬件问题，并提出多项改进建议。事件暴露出关键授时设施的单点故障足以波及整个星座，此后伽利略加强了地面架构冗余与升级流程管控。",
+  "impact": "全球卫星导航史上首次全系统服务中断，暴露地面授时设施单点故障风险。",
+  "aftermath": "独立调查确认软件配置故障，伽利略推进地面架构冗余与升级流程改进。",
+  "sources": [
+   {
+    "title": "Spaceopal：伽利略服务事故独立调查委员会结论",
+    "url": "https://spaceopal.com/galileoboard",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Galileo (satellite navigation)",
+    "url": "https://en.wikipedia.org/wiki/Galileo_%28satellite_navigation%29",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "伽利略",
+   "Galileo",
+   "卫星导航",
+   "航天",
+   "科技",
+   "事故",
+   "欧洲"
+  ]
+ },
+ {
+  "id": "2020-07-31-beidou-3-officially-opened",
+  "date": "2020-07-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "北斗三号建成暨开通仪式举行：中国全球导航系统正式开通",
+  "category": "tech",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2020年7月31日上午10时30分，北斗三号建成暨开通仪式在人民大会堂举行，系统正式开通。从1994年立项算起历时26年、历经三代系统，30颗组网卫星全球定位精度标称优于10米，中国建成继美俄之后第三个独立运行的全球卫星导航系统。",
+  "detail": "2020年7月31日上午10时30分，北斗三号全球卫星导航系统建成暨开通仪式在人民大会堂举行，宣告中国自主建设、独立运行的全球卫星导航系统正式开通，工程『三步走』战略画上句号。北斗三号由24颗中圆轨道、3颗倾斜地球同步轨道和3颗地球静止轨道卫星组成，全球定位精度标称优于10米、亚太地区优于5米，并保留北斗特色的短报文通信能力。从1994年北斗一号立项，到2000年试验系统建成、2012年区域服务开通、2020年全球系统开通，工程历经三代、先后实施40余次发射。开通后系统进入连续稳定运行，并持续推动进入民航、海事、移动通信等国际标准体系，向全球用户提供服务。",
+  "impact": "中国全球卫星导航系统正式开通，北斗『三步走』战略收官。",
+  "aftermath": "系统进入连续稳定运行，2024年9月最后两颗备份星发射后，北斗三号工程全面收官。",
+  "sources": [
+   {
+    "title": "科技部：北斗三号正式开通！开启服务全人类新篇章",
+    "url": "http://www.most.gov.cn/ztzl/zdzx/mtjj/202008/t20200803_6608.html",
+    "type": "official"
+   },
+   {
+    "title": "维基百科：北斗卫星导航系统",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ },
+ {
+  "id": "2024-09-19-beidou-59-60-final-satellites",
+  "date": "2024-09-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "第59、60颗北斗卫星发射：北斗三号工程收官",
+  "category": "hardware",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2024年9月19日9时14分，长征三号乙与远征一号上面级从西昌将第59、60颗北斗卫星送入中圆轨道。这两颗微小卫星创新研究院研制的备份星是北斗三号的收官之作，同时搭载下一代北斗技术试验载荷——老系统谢幕之际，新系统的序曲已在天上奏响。",
+  "detail": "2024年9月19日9时14分，西昌卫星发射中心用长征三号乙运载火箭与远征一号上面级，以一箭双星方式将第59、60颗北斗导航卫星发射升空，卫星顺利进入预定轨道。两颗卫星由中国科学院微小卫星创新研究院研制，作为北斗三号全球系统的备份卫星，用于保障星座持续精稳运行，同时开展下一代北斗系统新技术的在轨试验。这两颗星入轨后，包括备份星在内的北斗三号全球卫星导航系统工程正式收官。2020年6月最后一颗组网卫星发射后，备份星陆续补网入轨，此次发射为北斗三号画上句点，系统的持续稳定运行与下一代北斗的论证建设随之提上日程。",
+  "impact": "北斗三号工程收官，星座进入以备份星维持精稳运行的新阶段。",
+  "aftermath": "两颗备份星兼作下一代北斗技术试验平台，新一代系统论证建设持续推进。",
+  "sources": [
+   {
+    "title": "新华社：北斗追梦领航苍穹——中国北斗建设发展三十周年记事",
+    "url": "http://www.news.cn/science/20240920/d430ff2dea3a4c5c920d80b40278f9b4/c.html",
+    "type": "news"
+   },
+   {
+    "title": "北京日报：“三号”收官，下一代北斗还远吗？",
+    "url": "https://xinwen.bjd.com.cn/content/s6705055fe4b01a5d71c9b19a.html",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "中国",
+   "航天",
+   "科技",
+   "卫星导航",
+   "北斗"
+  ]
+ }
+]

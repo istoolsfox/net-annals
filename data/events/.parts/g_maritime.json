@@ -1,0 +1,726 @@
+[
+ {
+  "id": "1974-11-01-solas-1974-convention",
+  "date": "1974-11-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "《国际海上人命安全公约》1974年通过：全球航运安全总章程",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1974年11月1日，国际海事组织伦敦会议通过新的《国际海上人命安全公约》，1980年5月25日生效。它以『默认接受』机制让规则可持续更新，成为商船安全领域最重要的国际条约，此后几乎每起重大海难都在推动它修订。",
+  "detail": "从1914年泰坦尼克号沉没催生的首版公约算起，《国际海上人命安全公约》（SOLAS）历经1948年、1960年多次重写，但修订程序迟缓、生效困难。1974年11月1日，各国政府在伦敦通过全新文本，引入『默认接受』机制——修正案在规定期限内无异议即自动生效，规则得以紧跟技术与运营的演进。公约1980年5月25日生效，对船舶构造、消防、救生设备、无线电通信与航行安全设定强制性最低标准，被普遍视为商船安全领域最重要的国际条约。此后先驱者号倾覆、斯堪的纳维亚之星号大火等重大海难，最终都以SOLAS及其修正案的修订收束。",
+  "impact": "确立全球商船安全的强制底线与持续修订机制。",
+  "aftermath": "1988年修正案引入全球海上遇险与安全系统（GMDSS）；1990年滚装船稳性标准等历次修订均经由该公约渠道落地。",
+  "sources": [
+   {
+    "title": "SOLAS 1974（国际海事组织）",
+    "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-the-safety-of-life-at-sea-(solas),-1974.aspx",
+    "type": "official"
+   },
+   {
+    "title": "International Convention for the Safety of Life at Sea（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/SOLAS_Convention",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "制度",
+   "海事",
+   "国际公约",
+   "航运安全",
+   "1974"
+  ]
+ },
+ {
+  "id": "1979-07-19-atlantic-empress-collision",
+  "date": "1979-07-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『大西洋女皇』号相撞起火：史上最大油轮泄漏",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1979年7月19日凌晨，满载原油的超大型油轮『大西洋女皇』号与『爱琴船长』号在加勒比海多巴哥岛外海雨雾中相撞起火，27名船员遇难；两船共损失约28.7万吨原油，至今仍是史上最大规模船舶油污泄漏。",
+  "detail": "1979年7月19日凌晨，两艘油轮在多巴哥岛外海约18公里处的雨雾中相撞。『大西洋女皇』号载有约27.6万吨西非原油，碰撞引爆油气，全船陷入火海；『爱琴船长』号破损起火但火势受控。事故共27名船员遇难，其中26人来自『大西洋女皇』号。燃烧与后续沉没使约28.7万吨原油损失入海，据国际油轮船东污染联合会（ITOPF）统计，至今仍居史上船舶油污泄漏之首；所幸事发地远离岸线，风与洋流把浮油推向外海，多巴哥沿岸逃过重灾。『大西洋女皇』号在被拖带途中于8月3日沉没，大部分燃烧残余随船入海。",
+  "impact": "以极端代价呈现超大型油轮的航行风险，成为避碰规则与油轮设计演进的经典案例。",
+  "aftermath": "此案长期稳居ITOPF油轮泄漏统计首位；国际航运此后逐步推进分道通航与油轮结构升级，1990年代起单壳油轮淘汰进入公约议程。",
+  "sources": [
+   {
+    "title": "Atlantic Empress（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Atlantic_Empress",
+    "type": "wiki"
+   },
+   {
+    "title": "Oil Tanker Spill Statistics（ITOPF）",
+    "url": "https://www.itopf.org/knowledge-resources/data-statistics/oil-tanker-spill-statistics-2025",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "油轮",
+   "漏油",
+   "加勒比",
+   "1979"
+  ]
+ },
+ {
+  "id": "1980-03-27-alexander-kielland-capsized",
+  "date": "1980-03-27",
+  "date_accuracy": "exact",
+  "date_confidence": "single-source",
+  "title": "亚历山大·基兰德平台倾覆：123人罹难的北海之殇",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1980年3月27日傍晚，北海埃科菲斯克油田的半潜式居住平台『亚历山大·基兰德』号因一条撑腿疲劳断裂而在风浪中倾覆，212名船上人员中123人遇难，是挪威史上最惨重的近海油气作业灾难。",
+  "detail": "『亚历山大·基兰德』号是服务于北海埃科菲斯克油田的半潜式生活支持平台。1980年3月27日傍晚，一条撑腿的焊缝疲劳裂缝在约6米浪高中扩展断裂，平台迅速失去稳定，20分钟内倾覆沉没。平台上212人多为轮休工人，救援船只在风浪中救起89人，123人遇难，部分遗体随倾覆船体沉入海底，始终未能打捞。官方调查认定裂缝源于一处焊缝的层状撕裂缺陷，属设计与检验问题，而非操作过失。这场挪威史上最惨重的近海灾难，此后重塑了北海油气平台的结构检验与安全管理制度。",
+  "impact": "北海油气平台结构检验、焊缝质量与撤离救生制度全面收紧。",
+  "aftermath": "挪威调查促成平台定期水下检验与结构安全新规；平台残骸1983年被拖至挪威近岸凿沉，纪念活动延续至今。",
+  "sources": [
+   {
+    "title": "Alexander L. Kielland (platform)（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Alexander_L._Kielland_(platform)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "挪威",
+   "北海",
+   "油气平台",
+   "1980"
+  ]
+ },
+ {
+  "id": "1980-09-09-derbyshire-lost",
+  "date": "1980-09-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『德比郡』号巨轮失踪：44人无一生还的英国最大海难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1980年9月9日，英国史上最大的远洋货轮『德比郡』号载运15万余吨铁矿在台风『兰花』中于冲绳以南失联，44名船员及家属无一生还，连求救信号都未发出。沉船1994年在四千米深海底被找到，家属的追问最终改写散货船安全规则。",
+  "detail": "『德比郡』号是利物浦比比公司旗下的矿散油三用巨轮，全长294米，1980年9月自加拿大装运15.7万吨精铁矿驶往日本。9月9日，它在台风『兰花』中沉没于冲绳以南约370公里海域，42名船员与2名随船船员妻子全部遇难，无人发出遇险呼叫。因事发突然、无从追责，遇难者家属发起长达十余年的追寻：1994年残骸在约4千米深的海底被定位，2000年正式调查认定船艏区域进水与货舱盖强度不足是沉没主因。这艘英国史上损失的最大船舶，以44条生命换来了散货船安全规则的国际修订。",
+  "impact": "家属追责推动散货船货舱盖强度与结构检验的国际标准升级。",
+  "aftermath": "1994年残骸定位、2000年调查结案；国际海事组织此后修订散货船安全规则，利物浦海事博物馆设有专展纪念。",
+  "sources": [
+   {
+    "title": "MV Derbyshire（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MV_Derbyshire",
+    "type": "wiki"
+   },
+   {
+    "title": "MV Derbyshire（利物浦海事博物馆）",
+    "url": "https://www.liverpoolmuseums.org.uk/merseyside-maritime-museum/mv-derbyshire",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "英国",
+   "散货船",
+   "台风",
+   "1980"
+  ]
+ },
+ {
+  "id": "1981-01-27-tampomas-ii-fire",
+  "date": "1981-01-27",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『坦波马斯二世』号起火沉没：印尼海难之最",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1981年1月27日，印尼客滚渡轮『坦波马斯二世』号在爪哇海起火，官方统计431人遇难，其他估计高达580人以上。船舶燃烧漂流约40小时后沉没，数百名乘客被困火海，这场被称为印尼『泰坦尼克』的海难是该国史上最惨重的沉船。",
+  "detail": "『坦波马斯二世』号是往返雅加达与泗水的客滚渡轮，1981年1月27日在爪哇海马萨伦布群岛附近起火，火势迅速吞没装载车辆与乘客的舱面，船舶燃烧漂流约40小时后沉没。官方公布的遇难数字为431人，但渡轮严重超载、大量无票乘客未列入名单，实际死亡人数估计在580人以上，个别统计达666人；约750余人获救。事故暴露了印尼岛际客运在超载、车辆舱危险品管理与救生设备上的系统性缺陷，成为印尼海事安全挥之不去的警钟。",
+  "impact": "印尼岛际客运的超载与安全监管问题以最惨烈方式暴露。",
+  "aftermath": "此后1984年『古里塔号』、2009年『特拉塔伊·普里马号』等湖海沉船接踵而至，显示超载与安检顽疾延续数十年。",
+  "sources": [
+   {
+    "title": "Tampomas II（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Tampomas_II",
+    "type": "wiki"
+   },
+   {
+    "title": "Car ferry Tampo Mas II catches fire and sinks in Java Sea（Maritime Cyprus）",
+    "url": "https://maritimecyprus.com/2016/01/28/flashback-in-history-car-ferry-tampo-mas-ii-catches-fire-and-sinks-in-java-sea-killing-580-people-27-jan-1981",
+    "type": "blog"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "印度尼西亚",
+   "渡轮",
+   "火灾",
+   "1981"
+  ]
+ },
+ {
+  "id": "1983-08-06-castillo-de-bellver-fire",
+  "date": "1983-08-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『卡斯蒂略·德贝尔维尔』号爆燃：史上最大火损油轮泄漏",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1983年8月6日凌晨，满载约25万吨轻质原油的西班牙油轮『卡斯蒂略·德贝尔维尔』号在南非开普敦西北海域爆炸起火，3名船员遇难、33人获救。船体断裂沉没，约25.2万吨原油损失入海，是迄今因火灾造成的最大规模油轮泄漏。",
+  "detail": "『卡斯蒂略·德贝尔维尔』号从中东载运约25万吨轻质原油驶往西班牙，8月6日在开普敦西北约110公里海域发生爆炸并陷入火海。船员弃船逃生，3人遇难，33人被过路渔船与货轮救起。船体燃爆后断裂，艉段连同大量原油于8月7日沉入深海，艏段后被拖离现场并爆破凿沉。国际油轮船东污染联合会将此次泄漏计为约25.2万吨，居史上油轮火损泄漏之首；因沉没地点远离岸线、浮油随流外飘，南非沿岸海鸟栖息地受到的冲击远低于预期，成为深海远岸溢油后果的典型案例。",
+  "impact": "史上最大火损油轮泄漏，深海远岸泄漏环境后果的代表性案例。",
+  "aftermath": "事故常被用作溢油风险评估的对照样本；1980至1990年代国际公约逐步收紧油轮结构与消防要求，单壳油轮时代随后步入终局。",
+  "sources": [
+   {
+    "title": "Castillo de Bellver（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Castillo_de_Bellver",
+    "type": "wiki"
+   },
+   {
+    "title": "Castillo de Bellver case study（ITOPF）",
+    "url": "https://www.itopf.org/in-action/case-studies/5",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "油轮",
+   "漏油",
+   "南非",
+   "1983"
+  ]
+ },
+ {
+  "id": "1986-08-31-admiral-nakhimov-collision",
+  "date": "1986-08-31",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『纳希莫夫海军上将号』相撞沉没：423人罹难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1986年8月31日夜，苏联客轮『纳希莫夫海军上将号』驶离新罗西斯克港时与散货船相撞，七八分钟内倾覆沉没，船上1234人中423人遇难，为苏联和平时期最惨重的海难，两名船长事后被追究刑责。",
+  "detail": "『纳希莫夫海军上将号』当晚11时许满载游客驶离新罗西斯克港，在采梅斯湾与进港的散货船『彼得·瓦谢夫』号相撞，右舷被撕开大洞，海水涌入后船舶在七八分钟内沉没。落水者在夜间黑水中挣扎，港区救援彻夜进行，最终423人遇难、811人生还。官方调查认定两船避让失误共同肇事，两船船长均被判处监禁。事故震动苏联社会，航运部门此后整顿客运船舶安全管理与港区通航秩序，这场灾难也成为苏联时代海运安全记忆中最沉重的一页。",
+  "impact": "苏联和平时期最惨重海难，港区通航与客轮安全制度随之整顿。",
+  "aftermath": "两名船长获刑；新罗西斯克的周年悼念延续至今，事故被写入苏联海运事故教训的正式总结。",
+  "sources": [
+   {
+    "title": "SS Admiral Nakhimov（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/SS_Admiral_Nakhimov",
+    "type": "wiki"
+   },
+   {
+    "title": "Soviet Union: Disaster at Sea（《时代》周刊档案）",
+    "url": "https://time.com/archive/6707138/soviet-union-disaster-at-sea",
+    "type": "archive"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "苏联",
+   "客轮",
+   "1986"
+  ]
+ },
+ {
+  "id": "1987-03-06-herald-of-free-enterprise-capsized",
+  "date": "1987-03-06",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『先驱者号』渡轮倾覆：193人罹难与滚装船安全革命",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1987年3月6日傍晚，英吉利海峡渡轮『先驱者号』驶离比利时泽布吕赫港时艏门未关，海水灌入车辆甲板，渡轮数分钟内倾覆，193人遇难。官方调查直指从值班船员到管理层的系统性失职，滚装船艏门指示与稳性标准由此全面改写。",
+  "detail": "『先驱者号』是往返多佛与泽布吕赫的客滚渡轮，3月6日18时许离港时艏门仍敞开，高速涌入的海水瞬间灌满车辆甲板，渡轮向左倾覆在浅水中，乘客与车组人员在黑暗和翻倒的车厢间自救。事故造成193人遇难，多为英国游客。谢泼德爵士主持的公开调查认定：艏门未关、船桥无人核实、公司压缩船员编制与赶班压力构成一条完整的失职链条，报告把责任从值更船员一路追到公司管理层。调查直接催生艏门状态船桥指示与关闭确认程序，滚装船稳性新标准于1990年落实。",
+  "impact": "滚装船安全规则系统性重写：艏门指示、稳性标准与安全管理体系由此确立。",
+  "aftermath": "1990年滚装船稳性标准（通称SOLAS 90）与艏门船桥指示器随后普及；国际安全管理规则的酝酿亦受此案推动。",
+  "sources": [
+   {
+    "title": "MS Herald of Free Enterprise（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MS_Herald_of_Free_Enterprise",
+    "type": "wiki"
+   },
+   {
+    "title": "Zeebrugge disaster remembered 30 years on（BBC）",
+    "url": "https://www.bbc.com/news/uk-england-39116394",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "英国",
+   "渡轮",
+   "制度",
+   "1987"
+  ]
+ },
+ {
+  "id": "1990-04-07-scandinavian-star-fire",
+  "date": "1990-04-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『斯堪的纳维亚之星』号大火：159人罹难的渡轮之殇",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1990年4月7日凌晨，奥斯陆开往丹麦的客轮『斯堪的纳维亚之星』号在斯卡格拉克海峡起火，浓烟封锁逃生通道，159人遇难。官方调查认定纵火，而通道堵塞、船员未受训练、装修材料易燃放大了伤亡，是世界最惨重的渡轮火灾之一。",
+  "detail": "『斯堪的纳维亚之星』号4月6日夜间载客启航投入奥斯陆至丹麦航线，7日凌晨2时许多层甲板先后起火，火势与浓烟沿内部楼梯井迅速扩散。警报迟发、船员语言不通且未受训练、部分逃生通道被锁闭，乘客在黑暗中难以抵达集合部位，159人遇难，多为挪威乘客。挪威官方调查认定系纵火作案，嫌疑人是死于火场的一名乘客；丹麦海事部门2015年重启调查一度怀疑多人作案，挪威议会2018年复核后维持单一纵火人结论。遇难者身份鉴定延宕多年，2010年代仍有遗骸经基因比对确认。",
+  "impact": "渡轮消防分区、逃生通道管理与船员训练的国际规则由此收紧。",
+  "aftermath": "案件复查延宕三十年，2015年丹麦复查、2018年挪威议会结论相继发布；遇难者遗骸识别工作持续多年。",
+  "sources": [
+   {
+    "title": "MS Scandinavian Star（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MS_Scandinavian_Star",
+    "type": "wiki"
+   },
+   {
+    "title": "Executive summary in English（丹麦斯堪的纳维亚之星调查报告）",
+    "url": "https://sstaf.dk/redegoerelse/kapitler/executive-summary-in-english",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "挪威",
+   "丹麦",
+   "渡轮",
+   "火灾",
+   "1990"
+  ]
+ },
+ {
+  "id": "1992-02-01-gmdss-entered-force",
+  "date": "1992-02-01",
+  "date_accuracy": "exact",
+  "date_confidence": "single-source",
+  "title": "全球海上遇险与安全系统生效：莫尔斯电码谢幕",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1992年2月1日，《国际海上人命安全公约》1988年修正案生效，全球海上遇险与安全系统（GMDSS）开始实施。卫星示位标与数字选择性呼叫逐步取代人工莫尔斯电码值守，1999年2月1日全面强制，海上求救进入自动化时代。",
+  "detail": "自1912年起，船舶遇险依赖无线电员以莫尔斯电码拍发求救信号并人工守听，这一制度延续了大半个世纪。国际海事组织1988年通过《国际海上人命安全公约》修正案，确立全球海上遇险与安全系统：按覆盖范围划分四个海区，配备卫星应急示位标、数字选择性呼叫电台与海事卫星终端，使遇险告警自动发出并被岸台与周边船舶接收。系统自1992年2月1日起实施，过渡期内新旧体制并用；1999年2月1日起所有公约船舶全面执行，运行近一个世纪的莫尔斯电码遇险值守制度就此退役。",
+  "impact": "海上遇险通信自动化，搜救响应从人工守听转向卫星网络。",
+  "aftermath": "此后公约船舶遇险告警普遍可自动发送；国际海事组织持续以E-航海方案推进该系统的现代化升级。",
+  "sources": [
+   {
+    "title": "Global Maritime Distress and Safety System（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Global_Maritime_Distress_and_Safety_System",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "制度",
+   "海事",
+   "通信",
+   "卫星",
+   "航运安全",
+   "1992"
+  ]
+ },
+ {
+  "id": "1993-10-10-seohae-ferry-sank",
+  "date": "1993-10-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "西海渡轮沉没：292人罹难的韩国客船之痛",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1993年10月10日，韩国客轮『西海渡轮』号在全罗南道珍岛附近海域沉没，362名船上人员中292人遇难、仅70人生还。超载与货物失衡是事故主因，这场世越号之前韩国死亡人数最多的海难，成为韩国海运安全整顿的转折点。",
+  "detail": "『西海渡轮』号10月10日载客自木浦方向驶往济州途中，在全罗南道珍岛附近海域遭遇风浪，舱内货物固定不当发生移位，船体倾斜后沉没。渡轮实际载客远超核定数额，362名乘客与船员中仅70人生还，292人遇难。韩国海军潜水员参与大规模打捞，遗体陆续寻获。事故暴露韩国沿海客船超载运营与安检形式化的积弊，官方随后收紧客船载重与检验监管；2014年世越号惨案发生后，这桩1993年的旧案被媒体与官方报告反复重提。",
+  "impact": "韩国沿海客运超载与安检制度问题集中暴露。",
+  "aftermath": "韩国此后加强客船载重与安检监管；1993年的这一记录在2014年世越号灾难后被反复引用为前车之鉴。",
+  "sources": [
+   {
+    "title": "Sinking of MV Seohae（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Sinking_of_MV_Seohae",
+    "type": "wiki"
+   },
+   {
+    "title": "Korea Times retrospective",
+    "url": "https://www.koreatimes.co.kr/southkorea/20140502/some-bodies-feared-to-be-swept-away",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "韩国",
+   "渡轮",
+   "超载",
+   "1993"
+  ]
+ },
+ {
+  "id": "1996-05-21-mv-bukoba-sank",
+  "date": "1996-05-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『布科巴号』沉没：维多利亚湖800余人罹难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1996年5月21日，坦桑尼亚渡轮『布科巴号』严重超载航行于维多利亚湖，在姆万扎附近倾覆沉没，官方统计约800人遇难、仅114人生还；因三等乘客无名单，死亡总数估计可达千人，是世界内陆水运史上最惨重的灾难之一。",
+  "detail": "『布科巴号』是往返于维多利亚湖南岸的定期渡轮，5月21日在距姆万扎约56公里处倾覆，沉入约25米深的湖底。渡轮核定载客远低于实际搭乘人数，大量三等乘客未列入名单，精确遇难数无从统计：官方口径约800人，另有估计高达1000人，获救者114人。打捞与善后引发坦桑尼亚全国震动，政府此后整顿湖区航运超载。维多利亚湖此后仍事故频发，2011年『香料岛民一号』与2018年『尼雷尔号』沉没再度夺去数百条生命。",
+  "impact": "非洲内陆水运超载顽疾的最惨痛记录。",
+  "aftermath": "坦桑尼亚此后多次整顿湖区航运；2011年与2018年湖区相继再发重大沉船，遇难均以百计。",
+  "sources": [
+   {
+    "title": "MV Bukoba（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MV_Bukoba",
+    "type": "wiki"
+   },
+   {
+    "title": "Tanzania marks 1996 ferry disaster（BBC）",
+    "url": "https://www.bbc.com/news/world-africa-45599042",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "坦桑尼亚",
+   "渡轮",
+   "超载",
+   "1996"
+  ]
+ },
+ {
+  "id": "1999-11-24-dashun-ro-ro-sank",
+  "date": "1999-11-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『大舜号』沉没：280人罹难与渤海湾客滚船整治",
+  "category": "national",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "1999年11月24日，烟大轮渡『大舜』号在渤海湾遭遇大风浪后动力丧失，起火漂泊六个多小时后倾覆沉没于烟台附近海域，船上302人中仅22人生还，280人遇难，是新中国成立以来最惨重的海上事故之一。此后渤海湾客滚船安检与气象停航制度全面收紧。",
+  "detail": "『大舜』号11月24日13时20分自烟台开往大连，途中遭遇西伯利亚寒潮大风，16时30分左右车辆舱发现烟雾并请求救援，船舶随后动力与电力丧失，在离岸约1.5海里处随风漂移，夜间倾覆搁浅于牟平姜格庄附近海域。全船旅客船员302人，仅22人生还，280人遇难，直接经济损失约9000万元。国务院调查认定这是一起责任事故，相关责任人被追究刑事责任。事故之后，渤海湾客滚船执行更严格的车辆安检与大风停航制度，烟大航线一度停航整顿，恶劣气象下的禁航与救助联动机制由此强化。",
+  "impact": "中国客滚船安全管理转折点：车辆安检、气象停航与海上救助体系全面收紧。",
+  "aftermath": "烟大航线此后实行更严格的车辆安检与大风禁航；烟台的纪念与警示教育活动延续，『大舜』号成为航运安全教育的常设案例。",
+  "sources": [
+   {
+    "title": "1999年烟台大舜号海难（维基百科）",
+    "url": "https://zh.wikipedia.org/wiki/1999年烟台大舜号海难",
+    "type": "wiki"
+   },
+   {
+    "title": "11·24烟台特大海难备忘录（凤凰网）",
+    "url": "https://news.ifeng.com/opinion/specials/bale/200811/1119_4818_886437.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "中国",
+   "灾难",
+   "海难",
+   "山东",
+   "烟台",
+   "客滚船",
+   "制度",
+   "1999"
+  ]
+ },
+ {
+  "id": "2000-09-26-express-samina-grounded",
+  "date": "2000-09-26",
+  "date_accuracy": "exact",
+  "date_confidence": "single-source",
+  "title": "『萨米纳特快』号触礁：81人罹难的希腊之痛",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2000年9月26日晚，希腊渡轮『萨米纳特快』号在帕罗斯岛附近以全速撞上标绘在案的礁石，数分钟内沉没，533名船上人员中81人遇难，是希腊数十年来最惨重的海上灾难。调查认定船员疏于瞭望，多人被判刑。",
+  "detail": "『萨米纳特快』号执行比雷埃夫斯至基克拉泽斯群岛的常规夜航，9月26日23时许在强风中撞上帕罗斯岛附近的『波尔泰斯』礁群，船体迅速进水沉没，多数乘客在黑暗中跳海逃生，81人遇难。调查显示值班船员擅离岗位、未保持正规瞭望，船长与多名船员被控过失致死并获刑；经营公司陷入诉讼与舆论风暴，公司高管于同年11月底自杀。这起事故终结了希腊群岛客运长期松散的检验状态，希腊与欧盟此后对老龄渡轮强化检验与救生配置。",
+  "impact": "希腊群岛客运安全检验与船员值班制度全面收紧。",
+  "aftermath": "涉案船员获刑、经营公司高管自杀，案件成为希腊航运监管的转折点；遇难者纪念活动在帕罗斯延续。",
+  "sources": [
+   {
+    "title": "MS Express Samina（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MS_Express_Samina",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "希腊",
+   "渡轮",
+   "2000"
+  ]
+ },
+ {
+  "id": "2002-09-26-joola-capsized",
+  "date": "2002-09-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『乔拉号』倾覆：1863人罹难的非洲最惨海难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2002年9月26日夜，塞内加尔政府渡轮『乔拉号』严重超载航行于达喀尔与济金绍尔之间，在冈比亚外海遭遇风浪倾覆，官方统计1863人遇难、仅64人生还，是世界和平时期最惨重的海难之一，也是非洲史上最惨重的沉船。",
+  "detail": "『乔拉号』是连接塞内加尔本土与南部卡萨芒斯地区的政府渡轮，9月26日夜在冈比亚海域遭遇大风浪，船舶迅速向左倾覆并沉没，从倾斜到翻沉只有数分钟，落水者多数未能等到救援。核定载客500余人的渡轮实际载有近2000人，大量乘客未购票登记，官方统计1863人遇难、64人生还，遇难人数超过泰坦尼克号。惨案震动塞内加尔，政府成立调查委员会追究运营与监管责任，重建南部航线渡轮队；遇难者多为返乡务工者与学生，济金绍尔的周年悼念延续至今。",
+  "impact": "非洲史上最惨重海难，暴露西非客运渡轮超载与监管失守。",
+  "aftermath": "塞内加尔政府成立调查委员会并整顿渡轮运营；济金绍尔建有纪念设施，周年悼念延续至今。",
+  "sources": [
+   {
+    "title": "MV Le Joola（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MV_Le_Joola",
+    "type": "wiki"
+   },
+   {
+    "title": "Le Joola ferry capsized with death toll of nearly 2,000（Maritime Cyprus）",
+    "url": "https://maritimecyprus.com/2026/09/25/flashback-in-maritime-history-le-joola-senegalese-ferry-capsized-with-death-toll-of-nearly-2000-26-sept-2002-6",
+    "type": "blog"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "塞内加尔",
+   "渡轮",
+   "超载",
+   "2002"
+  ]
+ },
+ {
+  "id": "2006-02-03-al-salam-boccaccio-sank",
+  "date": "2006-02-03",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『萨拉姆98』号沉没：红海逾千人罹难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2006年2月2日夜至3日凌晨，埃及客滚船『萨拉姆98』号在红海自沙特驶往埃及途中起火沉没，船上约1400人中遇难与失踪合计逾千人，仅数百人生还，是21世纪红海最惨重的海难。恶劣海况、车辆舱起火与迟缓的搜救共同酿成悲剧。",
+  "detail": "『萨拉姆98』号是1970年建造的老龄客滚渡轮，2月2日晚自沙特杜巴港启航驶往埃及萨法贾，船上多为返乡务工者与朝觐归客。航程初期车辆舱起火，船舶在顶风顶浪中继续航行，3日凌晨倾覆沉没于红海，未发出有效求救信号，搜救在事发数小时后才全面展开，生还者寥寥。遇难与失踪合计逾千人，仅数百人生还，是21世纪全球最惨重的海难之一。事故暴露船龄、车辆舱消防与应急预案的多重缺陷，跨国诉讼经年，法院指定专家此后认定船级社的检验疏失构成事故原因之一。",
+  "impact": "21世纪红海最惨重海难，国际诉讼指向船级检验失职。",
+  "aftermath": "家属跨国诉讼历时近二十年，2024年法院指定专家认定船级社检验存在连带过失；红海航线渡轮安检此后收紧。",
+  "sources": [
+   {
+    "title": "MS al-Salam Boccaccio 98（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MS_al-Salam_Boccaccio_98",
+    "type": "wiki"
+   },
+   {
+    "title": "Al Salam Boccaccio 98 2006 sinking: court-appointed experts find contributory negligence（PEOPIL）",
+    "url": "https://www.peopil.com/al-salam-boccaccio-98-2006-sinking-court-appointed-experts-find-contributory-negligence-from-italian-classification-society-ro-rina",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "埃及",
+   "沙特",
+   "渡轮",
+   "2006"
+  ]
+ },
+ {
+  "id": "2008-06-21-princess-of-stars-capsized",
+  "date": "2008-06-21",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『群星公主号』倾覆：814人罹难的菲律宾海难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2008年6月21日，菲律宾渡轮『群星公主号』顶着台风『风神』的风浪在锡布延岛附近倾覆，全船约850人中遇难及失踪合计814人，仅数十人生还，是菲律宾继『多纳·帕兹号』之后最惨重的海难，客运渡轮无视气象预警的顽疾再遭严诘。",
+  "detail": "『群星公主号』自马尼拉驶往宿务，6月21日晨在锡布延岛外海遭遇台风『风神』（菲律宾当地名『弗兰克』）直接袭击，发动机失效后倾覆沉没，多数乘客被困舱内。全船约850人，仅数十人生还，遇难及失踪合计814人。调查指出公司在气象预警生效期间仍放行航班，且部分救生设备未能投入使用；运营公司随后被暂停客运资质并面临大量索赔。这场灾难与菲律宾历年渡轮事故一样，把超载运营与恶劣天气放航制度的问题再度摆上台面。",
+  "impact": "菲律宾和平时期最惨重海难之一，台风预警与放航制度遭严诘。",
+  "aftermath": "运营公司客运资质被暂停并面临索赔；菲律宾此后强化恶劣天气下的渡轮禁航与乘客名单制度。",
+  "sources": [
+   {
+    "title": "MV Princess of the Stars（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/MV_Princess_of_the_Stars",
+    "type": "wiki"
+   },
+   {
+    "title": "Princess of the Stars incident sheet（Cedre）",
+    "url": "https://cedre.fr/en/resources/incident-information-sheets/princess-of-the-stars",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "菲律宾",
+   "渡轮",
+   "台风",
+   "2008"
+  ]
+ },
+ {
+  "id": "2011-07-10-bulgaria-river-cruiser-sank",
+  "date": "2011-07-10",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『保加利亚号』沉没：伏尔加河122人罹难",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2011年7月10日午后，俄罗斯内河游船『保加利亚号』在伏尔加河古比雪夫水库突遇风浪，两分钟内倾覆沉没，201名船上人员中122人遇难，遇难者含数十名儿童。2014年法院判决五名责任人获刑，俄罗斯内河客运随后全面整顿。",
+  "detail": "『保加利亚号』是1955年建造的双层内河游船，7月10日搭载休假旅客航行于鞑靼斯坦段的伏尔加河，午后遭遇雷暴大风，船舶向右急速倾斜并在约两分钟内沉没。事故造成122人遇难、79人生还，遇难者中包括随儿童团出游的孩子。调查查明船舶发动机故障、配载倾斜、舱门开启与救生配置缺陷共同酿成悲剧。2014年喀山法院判决五名责任人获刑，涉及船公司与租船方负责人；俄罗斯此后整顿内河老龄游船，同型船舶陆续退役。",
+  "impact": "俄罗斯内河客运安全转折点，老龄船舶与配载管理全面整顿。",
+  "aftermath": "2014年五名责任人获刑；俄罗斯此后淘汰改造大批同型内河游船，事故河段建有纪念设施。",
+  "sources": [
+   {
+    "title": "Bulgaria (1955 ship)（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)",
+    "type": "wiki"
+   },
+   {
+    "title": "Guilty verdicts all around in Bulgaria ship sinking case（The Moscow Times）",
+    "url": "https://www.themoscowtimes.com/2014/07/03/guilty-verdicts-all-around-in-bulgaria-ship-sinking-case-a37004",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "俄罗斯",
+   "内河",
+   "游船",
+   "2011"
+  ]
+ },
+ {
+  "id": "2015-04-19-mediterranean-migrant-boat",
+  "date": "2015-04-19",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "地中海移民船倾覆：约800人罹难的最惨沉船",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2015年4月18日至19日夜间，一艘自利比亚出发、搭载约800至1100人的偷渡木船在利比亚近海倾覆，仅28人生还，估计约800人罹难，是地中海有记录以来单船死亡人数最高的沉船。欧盟随后启动海上行动打击偷渡网络。",
+  "detail": "这艘本应搭载数百人的木质渔船严重超载，4月18日自利比亚启程驶往意大利，19日凌晨在利比亚近海倾覆沉没，绝大多数乘客被困舱内，救援船只仅救起28人。意大利海军与海岸警卫队的大规模打捞行动陆续寻回遗体，估计总死亡人数约800人，个别估计上千。惨案震动欧洲：欧盟数周后启动『索菲亚行动』，在地中海中部打击偷渡组织；2015年全年地中海遇难移民总数创下纪录，欧洲的移民与搜救政策辩论自此进入白热化。",
+  "impact": "地中海史上单船死亡之最，直接推动欧盟海上干预行动。",
+  "aftermath": "欧盟2015年5月启动索菲亚行动；此后数年地中海移民沉船仍接连发生，搜救义务与移民政策争议延续至今。",
+  "sources": [
+   {
+    "title": "700 migrants feared dead in Mediterranean shipwreck（《卫报》）",
+    "url": "https://www.theguardian.com/world/2015/apr/19/700-migrants-feared-dead-mediterranean-shipwreck-worst-yet",
+    "type": "news"
+   },
+   {
+    "title": "Migrant tragedy: Anatomy of a shipwreck（BBC）",
+    "url": "https://www.bbc.com/news/world-europe-36278529",
+    "type": "news"
+   },
+   {
+    "title": "10 Years Later: The Mediterranean's Deadliest Shipwreck（SOS Méditerranée）",
+    "url": "https://www.sosmediterranee.org/migrants-deadly-shipwreck-mediterranean-2015",
+    "type": "official"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "移民",
+   "地中海",
+   "利比亚",
+   "2015"
+  ]
+ },
+ {
+  "id": "2023-06-14-pylos-migrant-boat-sank",
+  "date": "2023-06-14",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "皮洛斯移民船沉没：数百人罹难的争议之海",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2023年6月14日凌晨，一艘自利比亚驶往意大利的严重超载渔船在希腊皮洛斯西南外海倾覆，仅104人生还，82具遗体被寻回，估计总遇难人数达600人以上，为地中海近年最惨重的移民沉船。希腊海岸警卫队处置争议持续，17名警队成员于2025年被起诉。",
+  "detail": "这艘名为『安德丽亚娜』号的渔船搭载约750人自利比亚启程，6月14日凌晨在国际水域的希腊搜救区内倾覆沉没。幸存者称船舶在拖带过程中翻沉，希腊海岸警卫队则称其自行倾覆，两说并存。事故中82具遗体被寻回、104人生还，数百人随船沉没，遇难者多为叙利亚、巴基斯坦与埃及国民，成为地中海近年最惨重的移民船难。案件争议聚焦搜救义务与边境执法边界：2025年5月，希腊检方对17名海岸警卫队成员提起诉讼，责任认定仍在司法程序之中。",
+  "impact": "地中海近年最惨重移民船难，搜救义务与边境执法争议的焦点案件。",
+  "aftermath": "希腊2025年5月起诉17名海岸警卫队成员；联合国难民署与国际移民组织呼吁问责，遇难者家属的诉讼仍在推进。",
+  "sources": [
+   {
+    "title": "2023 Pylos migrant boat disaster（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/2023_Pylos_migrant_boat_disaster",
+    "type": "wiki"
+   },
+   {
+    "title": "Pylos shipwreck coverage（BBC）",
+    "url": "https://www.bbc.com/news/articles/cp8yjlzd3pvo",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "移民",
+   "希腊",
+   "地中海",
+   "2023"
+  ]
+ },
+ {
+  "id": "2024-03-26-dali-key-bridge-collapse",
+  "date": "2024-03-26",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『达利』号撞塌巴尔的摩基桥：6名工人罹难、大港停摆",
+  "category": "world",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2024年3月26日凌晨，新加坡籍集装箱船『达利』号在驶离巴尔的摩港时全船失电，撞断弗朗西斯·斯科特·基大桥主桥墩，桥体数十秒内垮塌，桥上6名道路施工人员遇难，进出美国东岸大港巴尔的摩的主航道中断近三个月。",
+  "detail": "『达利』号3月26日凌晨1时30分许载货出港驶向斯里兰卡，行经帕塔普斯科河时连续断电失去动力，撞上弗朗西斯·斯科特·基大桥主桥墩，钢桁架桥体在数十秒内垮入河中并压住船艏。在桥面夜班作业的8名施工人员中6人遇难。救援与打捞持续数周，沉桥残骸清除后，福特·麦克亨利主航道于当年6月中旬重新开放，港口运营逐步恢复。美国国家运输安全委员会2024年发布初步报告记录失电与撞击经过，后续调查将断电与船上电气线路及燃油泵故障相关联；事故促使美国多地检视桥梁防撞保护标准。",
+  "impact": "美国东岸重要港口停摆近三个月，桥梁防撞与船舶动力冗余问题受全国关注。",
+  "aftermath": "主航道2024年6月重开，重建大桥的计划推进；美国国家运输安全委员会调查在2024至2025年间陆续发布，多州检视既有桥梁防撞设施。",
+  "sources": [
+   {
+    "title": "Francis Scott Key Bridge collapse（维基百科）",
+    "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse",
+    "type": "wiki"
+   },
+   {
+    "title": "Baltimore's Francis Scott Key Bridge collapses after ship strike（NPR）",
+    "url": "https://www.npr.org/2024/03/26/1240857704/francis-scott-key-bridge-collapse-baltimore",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "国际",
+   "灾难",
+   "海难",
+   "美国",
+   "大桥",
+   "集装箱船",
+   "2024"
+  ]
+ }
+]
