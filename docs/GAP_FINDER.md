@@ -1,0 +1,209 @@
+# GAP FINDER · n8n 缺口发现工作流方案
+
+> 目标：把「找没收录的事件」从人工轮次升级为 toolsfox.top n8n 上的常态化流水线。
+> **定位铁律：n8n 只做「发现 + 初筛 + 查重 + 排队」，成品条目永远由 ZCode 会话按现有管线核实后入库。**
+> 2026-10-26 设计。方法论来源见文末。
+
+---
+
+## 〇、一句话定位
+
+n8n = 候选池收割机，ZCode = 核实/写作/入库。
+这与已验证的「候选池预扫 → 确认缺口 → 派发」流程（续76轮起，Agent 时间省 60%）**完全同构**——n8n 只是把候选池收割环节自动化、常态化、不依赖会话在场。
+
+## 一、为什么这样分工（有效性第一原理）
+
+- 业界实测：AI 做知识库缺口检测比人工多发现 3-5 倍缺口，但**误报率可高达 40%**（Fini 数据）。所以核心不是「让 AI 找」，而是**给 AI 的产出装足够的闸门**。
+- LLM 的正确角色是「提议者」，真相源永远是**工作流里实际抓取到的网页文本**。n8n 官方防幻觉五层架构：上下文工程 / 知识接地 / 输出约束（JSON schema + auto-fix）/ agentic 逐步验证（低置信路由人工）/ 持续评估——本方案全部落地。
+- 项目既有红线全部映射进流水线：
+  - 「编造 URL = 整批回滚」→ 队列里只允许出现**工作流 HTTP 200 实抓过的 URL**；
+  - 「两源才 verified」→ 队列直接预填 `date_confidence` 建议；
+  - 「红线转述、绝不罗列」→ 敏感词表只放**服务端 Code 节点**做确定性筛查，**绝不进任何 LLM prompt**（LLM 侧只用类目词）；
+  - 「敏感内容主会话亲自写」→ blocked 候选单独落盘，只进 ZCode 主会话。
+
+## 二、三条产出线
+
+| 工作流 | 触发 | 输入来源 | 预期产出 |
+|---|---|---|---|
+| **A · 权威清单扫荡** | 每周三 09:00 | 维基年份页（1986年中国大陆…）、领域大事记页、Launch Library 2、USGS 等结构化 API | 每周约 100-300 条候选 |
+| **B · 缺口定向搜索** | 每月 1 日 | `gap_config.json`（薄年/薄月/薄层/薄省）→ LLM 生成检索词 → 维基 REST 搜索 | 每月约 50-150 条候选 |
+| **C · 每日增量（可选）** | 每天 08:00 | Wikimedia onthisday 当日事件 API | 当日缺口 + 反哺「历史上的今天」栏目 |
+
+维基年份页本地已验证高产：`scripts/wiki_harvest.py` 一次采到 3921 条原始条目，n8n 版等于把它搬上服务器持续跑。
+
+## 三、七道有效性闸门（顺序执行，任一不过即出局或降级）
+
+1. **来源白名单**：只抓配置清单里的可信域（wikipedia.org、gov.cn 系、官方 API）。域外 URL 一律不入队。
+2. **URL 实取**：候选携带的 source.url 必须是本工作流 HTTP 节点实际抓取（200）的地址，记录 `fetched_at` 与 `http_status`。LLM 在输出里编的 URL 直接丢弃。
+3. **引文落地校验（防幻觉核心）**：Information Extractor 强制每条候选带 `quote`（原文引文），Code 节点做规范化（去空白与标点）子串校验——引文必须能在抓取正文里找到，找不到即丢弃。LLM 从此只能「抄」，不能「编」。
+4. **双源核验**：对每条候选用维基 REST 搜索（`zh.wikipedia.org/w/rest.php/v1/search/page?q=…`，免费无 key）做第二源查询，日期对上 → `verified`，查不到/对不上 → `single-source`。直接映射库的 date_confidence。
+5. **确定性查重**：对 `library_index.json`（全库 id/date/title 索引）做字符重叠比对——**移植 add_events.py 的实测算法**：同日标题字符重叠 >0.6 丢弃、0.3-0.6 标记边缘送人工。确定性算法优先于 LLM 判断（库内实战验证过的规则不动摇）。
+6. **重要性门槛**：LLM 按收录标准（第一/首次/最大/转折点/标志性）打 1-5 分，≥3 才入队；1-2 分丢弃（记数不计文）。
+7. **敏感分流**：先跑服务端词表硬筛（移植 `wiki_filter.py` 的 BLOCK/SOFT/DISASTER 三级词表），再由 LLM 用**纯类目词**做二级分类（safe/watch/blocked）。blocked 不进通用队列，单独写 `gap_queue_blocked.json`，只由 ZCode 主会话处理。
+
+闸门之后是人工环节：ZCode 会话领取队列 → `precheck_dedup.py` 库内再查一遍（库在持续更新）→ 确认缺口 → 按现有批次管线派 Agent。
+
+## 四、n8n 侧设计
+
+### 4.1 模型与凭证
+
+- n8n 的 LLM 节点走 **OpenAI 兼容端点**：智谱 GLM（Base URL `https://open.bigmodel.cn/api/paas/v4`，推荐 `glm-4-flash`，近免费）或 DeepSeek（`https://api.deepseek.com`，`deepseek-chat`）。
+- 提取类调用 temperature 0-0.2 + JSON schema 输出；打分调用同理。每周约 500 次调用，月成本几元级。
+
+### 4.2 工作流 A 节点图
+
+| # | 节点 | 关键配置 |
+|---|---|---|
+| 1 | Schedule Trigger | 每周三 09:00，时区 Asia/Shanghai |
+| 2 | Read Targets（Read/Write File） | 读 `/files/sweep_targets.json`（扫荡目标清单） |
+| 3 | Loop Targets（Split In Batches=1） | 每轮之间 Wait 2s（限速礼貌） |
+| 4 | Fetch Page（HTTP Request） | UA: `net-annals-gapfinder/1.0 (contact: toolsfox.cn)`，timeout 30s，On Fail: Continue（记下失败目标） |
+| 5 | To Text（Code） | 剥 script/style/tag → 纯文本；记录 `http_status`/`fetched_at`；页面 hash 缓存防重抓 |
+| 6 | Extract Events（**Information Extractor** + GLM 子节点） | schema：`events:[{date_text,title,gist,quote,category_guess}]`；system prompt 要点：**只从给定文本提取；每条必须给原文引文 quote；日期或事件不确定就跳过；不要输出文本中没有的 URL** |
+| 7 | Verify Quotes（Code） | 第三节闸门 3 的引文校验脚本（见 4.4） |
+| 8 | Load Library（Read File，一次） | 读 `/files/library_index.json` |
+| 9 | Dedup（Code, per item） | 闸门 5 查重脚本（见 4.4） |
+| 10 | Second Source（HTTP Request） | 维基 REST 搜索，限速 1s/条；写入 `second_source.date_match` |
+| 11 | Score（Basic LLM Chain + GLM） | schema：`{importance:1-5, sensitivity:safe|watch|blocked, reason}`；**prompt 只含类目词**（政治/刑案/灾害/科技/经济/文化/体育/民生） |
+| 12 | Switch | dup→丢弃；blocked→单独文件；importance<3→丢弃；其余→入队 |
+| 13 | Append Queue（Code + Write File） | 增量合并 `gap_queue_YYYY-WW.json`，按 cid（hash(title+date)）去重防重入 |
+| 14 | Notify（Telegram/邮件/钉钉） | 本周入队 N 条、Top10 标题预览、失败目标数 |
+| 15 | Error Trigger（独立分支） | 失败即通知：工作流名+执行 ID+错误摘要（n8n 生产最佳实践） |
+
+已处理 cid 集合放 `$getWorkflowStaticData('global')`（n8n 对激活工作流跨执行持久化）。
+
+### 4.3 队列文件 schema（`gap_queue_YYYY-WW.json`）
+
+```json
+{
+  "batch": "2026-W44",
+  "generated_at": "2026-10-28T09:00:00+08:00",
+  "candidates": [{
+    "cid": "a3f9c2e1b7d4",
+    "date": "1993-04-27", "date_accuracy": "exact",
+    "title": "候选事件标题",
+    "gist": "一句话概述",
+    "quote": "来源页原文引文",
+    "category_guess": "tech",
+    "importance": 4,
+    "sensitivity": {"level": "safe", "reason": ""},
+    "dup_check": {"status": "clear", "best_overlap": 0.18, "vs_id": null},
+    "source": {"url": "https://zh.wikipedia.org/wiki/…", "http_status": 200, "fetched_at": "…"},
+    "second_source": {"url": "…", "date_match": true},
+    "date_confidence_suggest": "verified"
+  }]
+}
+```
+
+字段与编年条 14 字段 schema 对齐（date/date_accuracy/date_confidence/title/category/region…），ZCode 消费时近乎零转换。**队列文件同 wiki_raw 惯例：本地分析用，不进站点、不提交 git。**
+
+### 4.4 两个核心 Code 节点脚本
+
+**引文落地校验**（闸门 3）：
+
+```javascript
+// 输入 item: { events: [...], page_text }
+const norm = s => (s || '').replace(/[\s，。；：「」『』《》·、"'()（）\[\]【】\-—…!?,.]/g, '');
+const t = norm($json.page_text);
+const out = [];
+for (const ev of ($json.events || [])) {
+  const q = norm(ev.quote);
+  if (q.length < 8) continue;                        // 引文过短不可信
+  if (t.includes(q)) { out.push(ev); continue; }     // 完整命中
+  const mid = q.slice(Math.floor(q.length * 0.2), Math.ceil(q.length * 0.8));
+  if (mid.length >= 8 && t.includes(mid))            // LLM 偶改首尾，取中段容错
+    out.push({ ...ev, quote_verified: 'partial' });
+}
+return out.map(e => ({ json: e }));
+```
+
+**库内字符重叠查重**（闸门 5，算法同 add_events.py）：
+
+```javascript
+// 输入 item: 候选；引用上游 Library Index
+const lib = $('Load Library').first().json.items;    // [{id,date,t}]
+const sig = s => new Set((s || '').replace(/[\s《》「」·、，。：\-—]/g, ''));
+const ov = (a, b) => {
+  const A = sig(a), B = sig(b), m = Math.min(A.size, B.size);
+  return m ? [...A].filter(x => B.has(x)).length / m : 0;
+};
+let best = 0, vs = null;
+for (const it of lib) {
+  if (it.date.slice(0, 10) !== $json.date.slice(0, 10)) continue;   // 只比同日
+  const s = ov($json.title, it.t);
+  if (s > best) { best = s; vs = it.id; }
+}
+const status = best > 0.6 ? 'dup' : best > 0.3 ? 'borderline' : 'clear';
+return [{ json: { ...$json, dup_check: { status, best_overlap: +best.toFixed(2), vs_id: vs } } }];
+```
+
+### 4.5 扫荡目标清单（`sweep_targets.json`，config 驱动）
+
+```json
+[
+  {"id": "wiki_y1986", "type": "html", "url": "https://zh.wikipedia.org/wiki/1986年中国大陆"},
+  {"id": "wiki_y1993", "type": "html", "url": "https://zh.wikipedia.org/wiki/1993年中国大陆"},
+  {"id": "ll2_casc",   "type": "json", "url": "https://ll.thespacedevs.com/2.2.0/launch/?limit=100&lsp__name=China+Aerospace+Science+and+Technology+Corporation"},
+  {"id": "usgs_sig",   "type": "json", "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=7&starttime=1970-01-01&minlatitude=18&maxlatitude=54&minlongitude=73&maxlongitude=135"}
+]
+```
+
+首批建议：40 个年份页 + LL2 + USGS，之后逐步加领域大事记页（电影/体育/铁路/民航官方年表）。**改清单只改这个文件，不动工作流。**
+
+## 五、仓库侧配套（本轮已建，均为 Lane A）
+
+| 脚本 | 产出 | 用途 |
+|---|---|---|
+| `scripts/library_index.py` | `data/derived/library_index.json` | n8n 查重索引；每轮入库后重跑 + rsync |
+| `scripts/gap_config.py` | `data/derived/gap_config.json` | 工作流 B 的缺口清单（薄年/薄月/薄层/薄省 + 检索词模板）；每轮扩库后重跑 |
+
+同步命令：
+
+```bash
+python3 scripts/library_index.py && python3 scripts/gap_config.py
+rsync -az data/derived/library_index.json data/derived/gap_config.json toolsfox:~/n8n_share/
+```
+
+⚠️ 若 n8n 跑在 Docker 里，需挂卷：`-v ~/n8n_share:/files`，节点内路径写 `/files/...`。
+
+ZCode 消费队列：
+
+```bash
+ssh toolsfox 'cat ~/n8n_share/queue/gap_queue_2026-W44.json' > data/derived/incoming_queue.json
+# → precheck_dedup.py 库内再查 → 确认缺口 → 现有批次管线派发
+```
+
+## 六、评估闭环（有效性怎么持续保证）
+
+- **前两周全人工审**：每条候选我过目，统计 precision（入队后被采纳入库的比例），据此调提取/打分 prompt。
+- 之后每月抽 10% 核日期（复用验收三件套的库内核对法）。
+- prompt 有实质变更时，拿历史批次做回归（n8n Evaluation 节点可选）。
+- 月度对账三指标：队列接受率、来源覆盖率（哪些目标页零产出可裁）、三工作流产量。
+- 各工作流互相独立，闸门参数（重叠阈值、重要性分数线）写在 Code 节点顶部常量里，便于单独调。
+
+## 七、礼貌与合规
+
+- Wikimedia 系列 API 要求可联系的 User-Agent，已按政策设 `net-annals-gapfinder/1.0 (contact: toolsfox.cn)`。
+- 限速：目标间 Wait 2s、二源核验 1s/条；页面 hash 缓存，未变化的页面跳过提取（省钱省调用）。
+- onthisday 端点 `api.wikimedia.org/v1/feed/onthisday/events/{MM}/{DD}`（工作流 C 用，上线前先 curl 验一次格式）。
+- 队列与中间产物不上传、不进 git、不进站点构建。
+
+## 八、落地步骤
+
+1. ✅ 仓库侧脚本已建：跑 `library_index.py` + `gap_config.py`，rsync 到 n8n 服务器。
+2. n8n 建 LLM 凭证（智谱或 DeepSeek，OpenAI 兼容）。
+3. **最小闭环**：工作流 A 只接 3 个维基年份页试跑 → 人工全审产出 → 调 prompt 至 precision 满意。
+4. 全量目标清单上线（config 已驱动，无需改流程）。
+5. 加工作流 B（缺口定向）、C（每日增量）。
+6. 队列接进 ZCode 派发管线，形成「服务器常驻收割 + 会话按批消费」的常态。
+
+## 九、方法论来源
+
+- n8n 官方防幻觉五层架构：[AI hallucinations — n8n Blog](https://blog.n8n.io/ai-hallucinations)
+- n8n AI Agent 生产部署 15 条最佳实践（Error Trigger/限权/队列）：[blog.n8n.io](https://blog.n8n.io/best-practices-for-deploying-ai-agents-in-production)
+- Information Extractor 节点（JSON schema 提取）：[n8n Docs](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.information-extractor)
+- 引文落地/归因抽取防幻觉：[Towards AI](https://pub.towardsai.net/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)、[Cleanlab TLM 数据抽取](https://help.cleanlab.ai/tlm/use-cases/tlm_data_extraction)、[Zep](https://www.getzep.com/ai-agents/reducing-llm-hallucinations)
+- AI 缺口检测误报率数据（3-5 倍产量 / ~40% 误报）：[Fini](https://www.usefini.com/guides/ai-surface-knowledge-gaps)
+- 供给/需求差集找盲区思想：[InfraNodus Content Gap Analysis](https://infranodus.com/docs/content-gap-analysis)
+- MediaWiki REST 搜索端点：[API Reference](https://www.mediawiki.org/wiki/API:REST_API/Reference)
+- 社区实战（采集类工作流的脏现实）：[r/automation 讨论](https://www.reddit.com/r/automation/comments/1ugb4xq/what_web_data_collection_workflows_have_actually)、[n8n Community](https://community.n8n.io/t/best-practices-for-building-reliable-ai-workflows-in-n8n/315975)
