@@ -1,0 +1,628 @@
+[
+ {
+  "id": "1972-09-04-spitz-seven-golds",
+  "date": "1972-09-04",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "施皮茨慕尼黑独得七金：单届奥运纪录尘封36年",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1972年9月4日，22岁的马克·施皮茨在慕尼黑奥运会4×100米混合泳接力上拿下个人第七金，七项全部打破世界纪录。单届奥运七金的纪录保持了36年，直到2008年菲尔普斯单届八金才被改写。",
+  "detail": "施皮茨在慕尼黑的八天里参加了四个单项和三项接力，全部夺冠且全部刷新世界纪录，加上1968年墨西哥城的两金，他的奥运金牌达到九枚。慕尼黑惨案发生后，出于安全考虑他在赛事结束前提前离开奥运村。这份单届七金、七破纪录的成绩单，被普遍视为泳池里最难复制的纪录之一，直到36年后菲尔普斯在北京以单届八金将其改写。游泳的电视转播时代，正是从这七枚金牌开始计价的。",
+  "impact": "单届七金重新定义了奥运会的高产极限，游泳的电视转播价值与明星化由此迈上新台阶。",
+  "aftermath": "施皮茨此后退役从商；2008年菲尔普斯独得八金、2024年巴黎跳水梦之队包揽八金（库内已收），单届多金的门槛被一再刷新。",
+  "sources": [
+   {
+    "title": "Mark Spitz - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mark_Spitz",
+    "type": "wiki"
+   },
+   {
+    "title": "Swimming at the 1972 Summer Olympics – Men's 4 × 100 metre medley relay - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swimming_at_the_1972_Summer_Olympics_%E2%80%93_Men%27s_4_%C3%97_100_metre_medley_relay",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "游泳",
+   "奥运会",
+   "施皮茨"
+  ]
+ },
+ {
+  "id": "1973-06-01-wta-founded",
+  "date": "1973-06-01",
+  "date_accuracy": "month",
+  "date_confidence": "verified",
+  "title": "WTA成立：职业女网有了自己的组织",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1973年6月，温网开赛前一周，比莉·简·金在伦敦格洛斯特酒店牵头召集球员会议，国际女子网球协会（WTA）正式成立。女球员从此有了统一的排名、赛程和谈判平台，职业女网从零散赛事走向完整的巡回赛体系。",
+  "detail": "公开年代开启后，女球员在奖金与赛事安排上长期从属于男子巡回赛。1970年，出版人格莱迪斯·赫尔德曼出资创办弗吉尼亚斯利姆斯巡回赛，女球员自办赛事为职业化探路。1973年6月，作为对一年前男子ATP成立的回应，比莉·简·金在温网开赛前一周于伦敦格洛斯特酒店召集会议，国际女子网球协会就此诞生。同年美网率先向女球员开出与男子同额的奖金，而四大满贯的全线同酬直到2007年才完成；如今的WTA有来自近百个国家和地区的两千五百余名球员，争夺超过1.4亿美元的年度奖金。",
+  "impact": "职业女网自此有了独立的制度骨架，性别同酬之争从赛场内外同步展开。",
+  "aftermath": "2023年WTA迎来成立五十周年；2024年郑钦文首夺奥运金牌（库内已收），中国球员成为这一体系里的重要力量。",
+  "sources": [
+   {
+    "title": "Women's Tennis Association - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Women%27s_Tennis_Association",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "网球",
+   "WTA",
+   "比莉·简·金"
+  ]
+ },
+ {
+  "id": "1973-09-20-battle-of-sexes",
+  "date": "1973-09-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『性别大战』：比莉·简·金直落三盘胜里格斯",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1973年9月20日，休斯敦太空巨蛋，29岁的比莉·简·金直落三盘击败55岁的前温网男单冠军鲍比·里格斯，全球约9000万人收看直播。这场被称为『性别大战』的比赛，把职业体育的男女同酬之争推到台前。",
+  "detail": "里格斯自封『大男子猪』，同年5月在母亲节之战中击败女单世界第一玛格丽特·考特后四处下战书，金最终应战。当晚金以6比4、6比3、6比3干净利落取胜，据估计全球约9000万观众收看了电视直播，创下当时网球赛事的收视纪录。三个月前WTA刚刚成立，这场胜利被广泛视为职业女网争取同酬与尊重的标志性一役；如今美网主场园区正是以『比利·简·金国家网球中心』为名，她的名字与这场比赛一起写进了网球史。",
+  "impact": "『性别大战』成为体育史上性别议题的分水岭，女子职业体育的商业价值从此被重新定价。",
+  "aftermath": "金此后长期为男女同酬奔走，WTA的奖金体系逐年向男子看齐；2024年郑钦文WTA年终总决赛亚军（库内已收），正是这一体系结出的中国果实。",
+  "sources": [
+   {
+    "title": "Battle of the Sexes (tennis) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)",
+    "type": "wiki"
+   },
+   {
+    "title": "Women's Tennis Association - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Women%27s_Tennis_Association",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "网球",
+   "比莉·简·金",
+   "性别大战"
+  ]
+ },
+ {
+  "id": "1974-04-08-hank-aaron-715",
+  "date": "1974-04-08",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "汉克·阿伦第715号全垒打：鲁斯纪录易主",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1974年4月8日，亚特兰大勇士主场，汉克·阿伦面对道奇投手唐宁击出职业生涯第715支全垒打，超越贝比·鲁斯保持了半个世纪的714支纪录。美国棒球最具象征性的数字从此改写。",
+  "detail": "阿伦1954年登上大联盟，1973赛季结束时以713支全垒打距离鲁斯纪录一步之遥，同年开季的客场比赛中他在辛辛那提追平了714支。1974年4月8日回到亚特兰大主场，第四局面对道奇投手阿尔·唐宁，他把球送到左外野，第715号全垒打就此诞生，比赛一度被冲进场内的观众打断。1976年退役时，他的生涯全垒打定格在755支。在种族气氛紧张的七十年代，一位黑人球员接过大联盟最著名的白人传奇留下的纪录，这让715号远超体育本身的意义。",
+  "impact": "棒球最难打破的纪录易主，阿伦也因在种族压力下完成追逐，成为美国体育史上的标志性人物。",
+  "aftermath": "阿伦的755支生涯全垒打此后保持了三十余年；715号本垒打被视为美国体育史上最具象征意义的时刻之一。",
+  "sources": [
+   {
+    "title": "Hank Aaron - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hank_Aaron",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "棒球",
+   "汉克·阿伦",
+   "MLB"
+  ]
+ },
+ {
+  "id": "1974-10-30-rumble-in-the-jungle",
+  "date": "1974-10-30",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "『丛林之战』：阿里第八回合击倒福尔曼夺回拳王",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1974年10月30日，扎伊尔金沙萨，32岁的穆罕默德·阿里用『绳圈战术』顶住福尔曼的重拳，第八回合将其击倒，重夺世界重量级拳王。这场『丛林之战』被视为拳击史上最著名的以弱胜强。",
+  "detail": "这场大赛落在扎伊尔（今刚果民主共和国）金沙萨，是重量级拳王赛第一次在非洲大陆举行。赛前几乎无人看好阿里：福尔曼以毁灭性重拳闻名，此前对手鲜能在回合深处存活。阿里整场倚在绳圈上卸掉冲击，用后来被称为『绳圈战术』的打法消磨对手体力，第八回合以一组反击将福尔曼击倒在台面上。1971年负于弗雷泽后，阿里一度被认为巅峰已过，这一夜他重新登上王座，金沙萨体育场的震耳欢呼也随电视信号传遍全球。",
+  "impact": "拳击的商业版图第一次真正落到非洲大陆，阿里的形象也从争议人物升格为全球文化符号。",
+  "aftermath": "福尔曼二十年后以45岁高龄重夺重量级拳王（库内已收）；『绳圈战术』从此进入所有拳击教科书的章节目录。",
+  "sources": [
+   {
+    "title": "The Rumble in the Jungle - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Rumble_in_the_Jungle",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "拳击",
+   "阿里",
+   "福尔曼"
+  ]
+ },
+ {
+  "id": "1976-07-18-comaneci-perfect-10",
+  "date": "1976-07-18",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "科马内奇摘得奥运体操史上首个满分十分",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1976年7月18日，14岁的罗马尼亚选手纳迪亚·科马内奇在蒙特利尔奥运会高低杠上拿到奥运体操史上第一个满分10分，计分板因未设置满分程序只能显示『1.00』。那一届她共收获七个满分、三枚金牌。",
+  "detail": "蒙特利尔奥运会团体规定动作比赛上，14岁的科马内奇在高低杠项目拿到奥运体操史上第一个10分，计分系统未设满分显示，只能打出1.00，看台先是一阵寂静，随后明白发生了什么。那一届她再收六个满分，拿下全能、高低杠、平衡木三枚金牌；1980年莫斯科奥运会，她又添两金和两个满分。国际体操联合会的动作难度表里，至今留有以她命名的『科马内奇下』与『科马内奇腾越』，14岁少女的一个满分，改写了体操运动对完美的定义。",
+  "impact": "『满分十分』从此成为体操运动的图腾，女子体操的训练体系与观赏性被重新定义。",
+  "aftermath": "2001年科马内奇归化为美国公民；计分板上的那个1.00，至今仍是奥运计分板史上最著名的『故障』。",
+  "sources": [
+   {
+    "title": "Nadia Comăneci - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "体操",
+   "奥运会",
+   "科马内奇"
+  ]
+ },
+ {
+  "id": "1976-08-01-lauda-nurburgring-fire",
+  "date": "1976-08-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "劳达纽博格林大火与42天复出：F1勇气的历史刻度",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1976年8月1日，卫冕冠军尼基·劳达在德国大奖赛纽博格林第二圈撞车起火，头部严重烧伤。仅42天后，他在蒙扎意大利大奖赛重回驾驶舱并以第四名完赛，这段复出成为F1史上关于勇气的最著名注脚。",
+  "detail": "赛前车手会议上，劳达号召抵制这条以险长著称的赛道，多数车手投票反对，比赛照常进行。第二圈，他的法拉利在贝格维克弯前的快速左弯冲出赛道撞墙起火，劳达被困车内，被后续车手合力拖出时已严重烧伤并吸入毒烟。六周后的意大利大奖赛，他头缠纱布回到蒙扎，以第四名完赛。那个赛季的冠军最终被汉特以一分优势拿走，劳达用一个赛季的代价，把赛道安全与车手权益推上F1议程的中心。",
+  "impact": "劳达的复出让F1第一次系统性直面赛道安全与车手话语权，车手组织化自此提速。",
+  "aftermath": "劳达1977年与1984年两度再夺世界冠军，退役后以车队顾问身份继续影响F1近三十年；1994年伊莫拉悲剧后，他也是重组GPDA的牵头人之一。",
+  "sources": [
+   {
+    "title": "Niki Lauda - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Niki_Lauda",
+    "type": "wiki"
+   },
+   {
+    "title": "1976 Italian Grand Prix - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1976_Italian_Grand_Prix",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "F1",
+   "劳达",
+   "赛车"
+  ]
+ },
+ {
+  "id": "1980-02-22-miracle-on-ice",
+  "date": "1980-02-22",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "冰上奇迹：美国大学生冰球队掀翻苏联队",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1980年2月22日，普莱西德湖冬奥会冰球奖牌轮，由大学生和业余球员组成的美国队4比3掀翻四连冠的苏联队，两天后再胜芬兰夺金。解说员那句『你相信奇迹吗』，成为美国体育史上最著名的电视瞬间。",
+  "detail": "苏联队此前几乎垄断世界冰坛，是美国冬奥阵容完全无法对位的职业化强队。比赛中美国队多次落后又多次追平，末段完成反超，终场4比3爆出冷战年代最大的体育冷门之一，转播席上的阿尔·迈克尔斯喊出『你相信奇迹吗？是的！』。两天后美国队4比2击败芬兰锁定金牌，苏联获得银牌。当年美国队全队获评《体育画报》年度运动员，这场胜利被美国媒体赋予了远超体育本身的含义，也成为后世体育电影反复取材的母本。",
+  "impact": "『冰上奇迹』成为美国体育精神的国民叙事模板，冰球在职业体系之外的想象力被彻底点燃。",
+  "aftermath": "1998年长野冬奥会女子冰球首次设项（库内已收），美国冰球的版图自此在校园与职业双轨上持续扩张。",
+  "sources": [
+   {
+    "title": "Miracle on Ice - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Miracle_on_Ice",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "冰球",
+   "冬奥会",
+   "冰上奇迹"
+  ]
+ },
+ {
+  "id": "1982-10-24-li-ning-six-golds",
+  "date": "1982-10-24",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "李宁萨格勒布独得六金：『体操王子』的封神一夜",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "1982年10月24日，19岁的李宁在萨格勒布第六届世界杯体操赛上，独得男子七个项目中的六枚金牌、另添一铜。单届六金至今无人复制，『体操王子』从此写进中国体育史。",
+  "detail": "当时的世界杯体操赛高手云集，只设全能与单项。李宁拿下个人全能、自由体操、鞍马、吊环、跳马、单杠六项冠军，队友童非获全能亚军并与他并列单杠冠军。凭借近乎全胜的战绩，李宁获得『体操王子』的美誉。两年后的洛杉矶奥运会，他一人拿走六枚奖牌、其中三金，那也是新中国第一次派团参加奥运会。2008年北京奥运会开幕式，最后一棒火炬手李宁凌空绕场点燃主火炬，把这段传奇推向顶点。",
+  "impact": "李宁让世界体操记住中国名字，中国体操自此进入世界强队行列，也带火了全民体操热。",
+  "aftermath": "1990年李宁创立同名运动品牌（库内已收），2018年『中国李宁』登陆纽约时装周（库内已收），运动员的商业转型在后来三十年里被反复引用。",
+  "sources": [
+   {
+    "title": "Li Ning - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Li_Ning",
+    "type": "wiki"
+   },
+   {
+    "title": "历史上的今天：李宁在第六届世界杯体操赛独得六金（搜狐体育）",
+    "url": "https://sports.sohu.com/20171024/n519581284.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "体操",
+   "李宁",
+   "世界杯体操赛"
+  ]
+ },
+ {
+  "id": "1983-08-07-first-athletics-worlds",
+  "date": "1983-08-07",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "首届世界田径锦标赛赫尔辛基揭幕：田径有了第二舞台",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1983年8月7日，第一届世界田径锦标赛在赫尔辛基奥林匹克体育场揭幕，41个项目、153个代表团的1355名运动员参赛。此前田径只有奥运会一个全球舞台，从这届起，世锦赛成为与奥运并立的最高赛场。",
+  "detail": "田径长期只有奥运会一个四年一度的全球赛场，1976年和1980年的两届『世锦赛』都是单项性质的补充赛事。1983年8月7日，首届完整的世界田径锦标赛在赫尔辛基奥林匹克体育场揭幕。在美国抵制莫斯科奥运、苏联集团报复抵制洛杉矶的冷战背景下，这里成为当时苏美运动员少数能同场竞技的顶级舞台，民主德国以10金领跑奖牌榜，美国以8金居次。卡尔·刘易斯在本届赛事登场，开启他此后的黄金十年。",
+  "impact": "非奥运年份的田径有了世界冠军头衔，项目商业化、电视化与训练职业化自此提速。",
+  "aftermath": "世锦赛此后固定举办并逐步扩容，1987年罗马第二届起各项目的商业市场随之成型，如今世锦赛已每两年一届，与奥运会并立为田径最高舞台。",
+  "sources": [
+   {
+    "title": "1983 World Championships in Athletics - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1983_World_Championships_in_Athletics",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "田径",
+   "世锦赛",
+   "赫尔辛基"
+  ]
+ },
+ {
+  "id": "1990-09-09-sampras-first-us-open",
+  "date": "1990-09-09",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "桑普拉斯美网加冕：19岁零28天的最年轻男单冠军",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1990年9月9日，19岁零28天的皮特·桑普拉斯直落三盘击败阿加西，拿下个人首个大满贯，成为美网历史上最年轻的男单冠军。发球上网的『桑式发球』从此定义九十年代男子网球的审美。",
+  "detail": "12号种子桑普拉斯此前从未闯进大满贯决赛，这一路他连克名将，决赛面对阿加西以6比4、6比3、6比2直落三盘取胜，把19岁零28天写进美网纪录册。此后他七夺温网、两夺澳网、五夺美网，14座大满贯在他退役时是男子历史纪录；2002年美网，他以第14冠完成谢幕。此后三十余年间，再无人比他更年轻地捧起美网男单奖杯，发球上网打法也随球场减速改革逐渐退潮，桑普拉斯成为这种美学最后的巅峰。",
+  "impact": "九十年代男子网球的发球上网美学由他定义，『最年轻美网冠军』的纪录保持至今。",
+  "aftermath": "桑普拉斯14座大满贯的纪录保持到2009年才被费德勒改写（库内已收其20冠）；2022年阿尔卡拉斯以19岁130天成为32年来最年轻的美网冠军，最年轻纪录依然属于1990年的桑普拉斯。",
+  "sources": [
+   {
+    "title": "Pete Sampras - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pete_Sampras",
+    "type": "wiki"
+   },
+   {
+    "title": "1990 US Open (tennis) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1990_US_Open_(tennis)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "网球",
+   "美网",
+   "桑普拉斯"
+  ]
+ },
+ {
+  "id": "1991-10-29-xie-jun-chess-queen",
+  "date": "1991-10-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "谢军马尼拉加冕：中国首位国际象棋世界冠军",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "1991年10月29日，21岁的谢军在马尼拉女子国际象棋世界冠军对抗赛中，以8.5比6.5击败卫冕13年的格鲁吉亚名将齐布尔达尼泽，成为中国首位国际象棋世界冠军，欧洲棋手对棋后头衔的长期垄断就此终结。",
+  "detail": "齐布尔达尼泽自1978年起把持棋后头衔13年，是苏联棋校体系培养出的名将。马尼拉的15盘对抗赛里，21岁的谢军以4胜2负9和、积8.5比6.5的比分胜出，成为中国首位国际象棋世界冠军——此前女子世界冠军头衔长期由欧美棋手把持，中国国际象棋由此第一次站上世界之巅。1993年她以8.5比2.5轻取挑战者卫冕，1994年晋升男子特级大师。从北京什刹海体校走出的谢军，让棋类项目第一次有了中国的世界冠军。",
+  "impact": "谢军把中国国际象棋从冷门项目推向台前，棋后梯队与后来的男子世界冠军自此有了起点。",
+  "aftermath": "谢军头衔两度在握（1991–1996、1999–2001）；此后诸宸、侯逸凡相继加冕，2023年丁立人成为中国首位男子世界冠军（库内已收），中国国际象棋完成全冠图景。",
+  "sources": [
+   {
+    "title": "Xie Jun - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Xie_Jun",
+    "type": "wiki"
+   },
+   {
+    "title": "Women's World Chess Championship 1991 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Women%27s_World_Chess_Championship_1991",
+    "type": "wiki"
+   },
+   {
+    "title": "1991年的今天谢军成为中国首位国际象棋世界冠军（搜狐）",
+    "url": "https://www.sohu.com/a/428296708_495631",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "国际象棋",
+   "谢军",
+   "棋后"
+  ]
+ },
+ {
+  "id": "1994-05-01-senna-imola",
+  "date": "1994-05-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "塞纳伊莫拉陨落：F1安全革命的转折点",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1994年5月1日，34岁的三届世界冠军埃尔顿·塞纳在圣马力诺大奖赛领跑时冲出坦布雷罗弯，经抢救无效离世，法院最终认定事故原因是转向柱断裂。就在前一天，车手拉岑贝格排位赛中丧生。",
+  "detail": "1994年的伊莫拉周末成为F1史上最黑暗的三天：周六排位赛，奥地利车手罗兰·拉岑贝格撞车身亡；周日正赛第七圈，领跑的塞纳以超过300公里的时速冲出坦布雷罗弯撞上护墙。此后意大利法院历经多年审理，认定事故原因是转向柱断裂——赛前它曾按塞纳的要求被切割焊接加固，所有被告均被判无罪。同年5月，劳达、舒马赫、贝格尔等车手重组GPDA车手协会，伊莫拉赛道事后被大幅改造，坦布雷罗弯改为减速弯组合，F1的安全标准自此逐年加码。",
+  "impact": "塞纳之死终结了F1『速度优先』的年代，此后缓冲区、座舱与车手装备的安全体系以年为周期持续升级。",
+  "aftermath": "GPDA重组与伊莫拉改造被普遍视为现代F1安全的起点；2020年汉密尔顿七冠追平舒马赫（库内已收），塞纳留下的安全遗产仍被车手们反复提及。",
+  "sources": [
+   {
+    "title": "Ayrton Senna - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+    "type": "wiki"
+   },
+   {
+    "title": "1994 San Marino Grand Prix - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1994_San_Marino_Grand_Prix",
+    "type": "wiki"
+   },
+   {
+    "title": "Grand Prix Drivers' Association - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Grand_Prix_Drivers%27_Association",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "F1",
+   "塞纳",
+   "伊莫拉"
+  ]
+ },
+ {
+  "id": "1996-08-01-michael-johnson-1932",
+  "date": "1996-08-01",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "约翰逊亚特兰大19秒32：把自己保持的世界纪录推快0.34秒",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "1996年8月1日，亚特兰大奥运会男子200米决赛，迈克尔·约翰逊以19秒32冲线，把六周前自己创造的19秒66世界纪录一举推快0.34秒。加上此前的400米金牌，他成为奥运史上包揽两金的第一人。",
+  "detail": "约翰逊以近乎直立的跑姿和金色跑鞋闻名亚特兰大。1996年6月的美国选拔赛上，他以19秒66打破皮特罗·门内阿保持了近17年的19秒72世界纪录。一个多月后的奥运决赛，他在弯道建立优势后一骑绝尘，19秒32的成绩让计时席一度怀疑设备出错。此前他已以43秒49的奥运纪录拿下400米金牌，成为首位在单届奥运包揽200米、400米双金的男子选手。此后19秒32保持了十余年，直到被博尔特改写。",
+  "impact": "200/400双金把短跑训练科学化与个人特质的叙事推向极致，金色跑鞋自此成为亚特兰大的记忆符号。",
+  "aftermath": "约翰逊1999年再以43秒18刷新400米世界纪录，该成绩至今仍是美国纪录、历史第二快；19秒32的200米纪录此后保持了十余年。",
+  "sources": [
+   {
+    "title": "Michael Johnson (sprinter) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Michael_Johnson_(sprinter)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "田径",
+   "奥运会",
+   "迈克尔·约翰逊"
+  ]
+ },
+ {
+  "id": "2004-08-29-schumacher-seventh-title",
+  "date": "2004-08-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "舒马赫斯帕加冕七冠王：连续五年统治的顶点",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2004年8月29日，比利时大奖赛，舒马赫以第二名完赛，提前四轮锁定个人第七个F1世界冠军，法拉利同时在2000至2004年完成五连冠。『七星车王』的纪录，直到2020年才被汉密尔顿追平。",
+  "detail": "2004赛季舒马赫以统治级表现领跑，悬念在斯帕提前终结：正赛莱科宁从第十位发车为迈凯伦拿下分站冠军，舒马赫以第二名过线，凭积分提前四轮锁定第七个世界冠军，实现2000年以来的五连冠。这是他职业生涯的第七个也是最后一个世界冠军，此后F1再无人能连续五年称王。舒马赫把体能训练、车队工程与商业运营推向工业级标准，法拉利红色王朝在这一年达到顶点；2006年他首次退役，2013年底滑雪重伤后淡出公众视野。",
+  "impact": "舒马赫时代把F1车手的职业标准整体抬高，车手从『比赛日雇员』变成车队工程体系的核心。",
+  "aftermath": "七冠纪录保持了16年，2020年11月汉密尔顿在土耳其雨战追平（库内已收）；2025年诺里斯阿布扎比加冕（库内已收），F1进入新一代冠军周期。",
+  "sources": [
+   {
+    "title": "2004 Belgian Grand Prix - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Belgian_Grand_Prix",
+    "type": "wiki"
+   },
+   {
+    "title": "舒马赫2004赛季提前卫冕车手总冠军专题（新浪体育）",
+    "url": "http://f1.sina.com.cn/2004-08-29/22451120877.shtml",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "F1",
+   "舒马赫",
+   "法拉利"
+  ]
+ },
+ {
+  "id": "2010-09-13-nadal-golden-slam",
+  "date": "2010-09-13",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "纳达尔美网加冕：24岁集齐男子金满贯",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2010年9月13日，美网男单决赛，纳达尔四盘击败德约科维奇，就此集齐四大满贯和奥运单打金牌，成为继阿加西之后男子网坛第二位金满贯得主，时年24岁。2010赛季被称为红土之王的统治元年。",
+  "detail": "美网是纳达尔此前唯一没有攻克的大满贯。2010年他先夺法网、再卫温网，带着头号种子来到法拉盛，决赛以6比4、5比7、6比4、6比2力克德约科维奇。这座奖杯让他的生涯拼图最后一块落位：四大满贯加2008年北京奥运单打金牌，『金满贯』就此完成——男子网坛此前只有阿加西做到过，24岁的他也是达成这一成就最年轻的球员。加上法网与温网，他在2010年单季三夺大满贯，世界排名稳居第一。",
+  "impact": "纳达尔完成金满贯后，费纳徳三强格局全面成形，男子网坛进入史上竞争强度最高的十年。",
+  "aftermath": "纳达尔此后把大满贯总数推到22座（库内已收法网14冠）；2024年德约科维奇37岁在巴黎集齐金满贯（库内已收），成为第三位男子金满贯，三大巨头的生涯拼图至此全部画圆。",
+  "sources": [
+   {
+    "title": "2010 US Open (tennis) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_US_Open_(tennis)",
+    "type": "wiki"
+   },
+   {
+    "title": "Rafael Nadal - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rafael_Nadal",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "网球",
+   "纳达尔",
+   "金满贯"
+  ]
+ },
+ {
+  "id": "2019-09-29-bekele-berlin-20141",
+  "date": "2019-09-29",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "贝克勒柏林2小时01分41秒：距世界纪录只差两秒",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2019年9月29日，柏林马拉松，37岁的贝克勒跑出2小时01分41秒，距基普乔格2018年在这里创下的2小时01分39秒世界纪录只差两秒，成为当时历史第二快。马拉松的极限之争进入秒表读秒阶段。",
+  "detail": "柏林的平坦快速赛道是马拉松纪录的摇篮，基普乔格2018年在此跑出2小时01分39秒。一年后的同一赛道，37岁的贝克勒以2小时01分41秒冲线，只比纪录慢两秒，成为当时历史上第二快的马拉松成绩。从场地万米时代转战公路的老将，在传统赛道上把人类的极限又推近了两秒。两周前基普乔格刚在维也纳以1小时59分40秒完成非正式的破二挑战（库内已收），正式纪录赛道上离纪录最近的一枪，就此由贝克勒打出。",
+  "impact": "正式赛道逼近201分大关证明『破二』不只属于特制挑战，马拉松装备与训练的科学竞赛进入白热化。",
+  "aftermath": "这份成绩三年后被基普乔格以2小时01分09秒改写（2022年柏林）；2023年基普图姆又在芝加哥把世界纪录进一步推向2小时整以内。",
+  "sources": [
+   {
+    "title": "2019 Berlin Marathon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Berlin_Marathon",
+    "type": "wiki"
+   },
+   {
+    "title": "Eliud Kipchoge - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eliud_Kipchoge",
+    "type": "wiki"
+   },
+   {
+    "title": "2020 London Marathon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_London_Marathon",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "田径",
+   "马拉松",
+   "贝克勒"
+  ]
+ },
+ {
+  "id": "2022-03-20-zhou-guanyu-f1-debut",
+  "date": "2022-03-20",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "周冠宇巴林首秀得分：F1发车格上的第一位中国车手",
+  "category": "culture",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2022年3月20日，巴林大奖赛，22岁的周冠宇从第15位发车以第十名完赛，F1生涯首秀即拿分。他成为F1历史上第一位中国正式车手，中国赛车十几年的等待就此兑现，而且首战就有积分入账。",
+  "detail": "周冠宇从上海起步，少年时代赴英国接受卡丁车与方程式训练，2019年起征战F2并稳步上升，2021赛季结束后获得阿尔法·罗密欧车队的正式席位。2022年3月20日巴林站正赛，他从第15位发车、以第十名冲线，职业生涯首秀即取分——F1七十余年历史上，发车格第一次出现中国车手的名字。两年后的2024年4月，F1中国大奖赛时隔五年重返上赛道，他在主场完成中国大奖赛首秀（库内已收）。",
+  "impact": "中国车手第一次坐进F1正赛驾驶舱，中国大奖赛与中国赛车产业的关注度被重新点燃。",
+  "aftermath": "周冠宇在阿尔法·罗密欧/索伯效力三个赛季（2022–2024），2025年转任法拉利储备车手、2026年加入凯迪拉克储备车手阵容。",
+  "sources": [
+   {
+    "title": "Guanyu Zhou - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Guanyu_Zhou",
+    "type": "wiki"
+   },
+   {
+    "title": "2022 Bahrain Grand Prix - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "F1",
+   "周冠宇",
+   "中国赛车"
+  ]
+ },
+ {
+  "id": "2022-09-11-alcaraz-us-open-first",
+  "date": "2022-09-11",
+  "date_accuracy": "exact",
+  "date_confidence": "verified",
+  "title": "阿尔卡拉斯美网首冠：19岁130天的最年轻世界第一",
+  "category": "culture",
+  "region": "world",
+  "milestone": false,
+  "summary_30s": "2022年9月11日，19岁的阿尔卡拉斯在美网决赛四盘击败鲁德，拿下个人首个大满贯，并以19岁130天成为ATP排名史上最年轻的世界第一，也是首位登顶男单世界第一的00后球员。",
+  "detail": "这场决赛同时是世界第一之争：阿尔卡拉斯与鲁德谁赢谁登顶。西班牙少年四盘取胜，把19岁130天写进ATP历史，打破休伊特保持的最年轻世界第一纪录，同时成为1990年桑普拉斯之后最年轻的美网男单冠军、首位00后大满贯男单得主。赛季末他以19岁214天收官，成为ATP时代最年轻的年终世界第一。此后他与辛纳的对抗成为男子网坛的新主叙事，2025年他法网、美网双冠（库内已收），2026年澳网完成生涯全满贯（库内已收）。",
+  "impact": "费纳徳时代落幕前后，阿尔卡拉斯与辛纳的青春对决接棒，男子网球进入下一个世代。",
+  "aftermath": "2026年澳网他22岁272天完成生涯全满贯，成为史上最年轻的全满贯得主（库内已收），最年轻纪录再度被写进他的名字。",
+  "sources": [
+   {
+    "title": "Carlos Alcaraz - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Carlos_Alcaraz",
+    "type": "wiki"
+   },
+   {
+    "title": "2022 US Open (tennis) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2022_US_Open_(tennis)",
+    "type": "wiki"
+   }
+  ],
+  "tags": [
+   "体育",
+   "文化",
+   "体育大赛",
+   "网球",
+   "阿尔卡拉斯",
+   "美网"
+  ]
+ }
+]
