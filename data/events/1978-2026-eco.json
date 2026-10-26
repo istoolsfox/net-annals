@@ -100,7 +100,7 @@
 "id": "1982-02-01-pollution-fee-method",
 "date": "1982-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "排污收费制度建立：污染第一次有了价格",
 "category": "national",
 "region": "cn",
@@ -114,6 +114,11 @@
 "title": "百度百科：排污费",
 "url": "https://baike.baidu.com/item/排污费",
 "type": "wiki"
+},
+{
+"title": "征收排污费暂行办法（生态环境部黄河流域局转载）",
+"url": "https://huanghejg.mee.gov.cn/falvfg/sthjxgfg/202307/t20230728_1037558.html",
+"type": "official"
 }
 ],
 "tags": [

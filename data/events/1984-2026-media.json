@@ -98,7 +98,7 @@
 "id": "1996-01-01-cctv-news-live",
 "date": "1996-01-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《新闻联播》改直播：中国电视新闻的实时化节点",
 "category": "culture",
 "region": "cn",
@@ -112,6 +112,11 @@
 "title": "百度百科：新闻联播",
 "url": "https://baike.baidu.com/item/新闻联播",
 "type": "wiki"
+},
+{
+"title": "《新闻联播》栏目介绍（CCTV官网）",
+"url": "http://www.cctv.com/profile/adver/998/lanmu.html",
+"type": "official"
 }
 ],
 "tags": [

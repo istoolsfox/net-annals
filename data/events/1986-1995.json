@@ -3,7 +3,7 @@
 "id": "1986-01-01-canet-project",
 "date": "1986-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国学术网 CANet 项目启动：中国互联网的起点",
 "category": "internet",
 "region": "cn",
@@ -22,6 +22,11 @@
 "title": "中央网信办：中国全功能接入国际互联网30周年述评",
 "url": "https://www.cac.gov.cn/2024-04/20/c_1715291120716362.htm",
 "type": "official"
+},
+{
+"title": "中国互联网发展大事记(1986-2003)（新浪科技）",
+"url": "http://tech.sina.com.cn/i/2005-07-19/1038666886.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -715,7 +720,7 @@
 "id": "1988-01-01-ihep-decnet",
 "date": "1988-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "高能物理研究所通过 X.25 接入国际 DECnet",
 "category": "internet",
 "region": "cn",
@@ -729,6 +734,11 @@
 "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
 "type": "official"
+},
+{
+"title": "中国互联网从中国科学院起步——中国接入互联网始末（中国科学院声学所）",
+"url": "https://www.acas.ac.cn/byyxc/bydt/202404/t20240422_7174874.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -741,7 +751,7 @@
 "id": "1988-01-01-wangshuo-year",
 "date": "1988-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『王朔年』：一年四部小说同时搬上银幕",
 "category": "culture",
 "region": "cn",
@@ -754,6 +764,11 @@
 {
 "title": "百度百科：王朔",
 "url": "https://baike.baidu.com/item/王朔",
+"type": "wiki"
+},
+{
+"title": "王朔 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E6%9C%94",
 "type": "wiki"
 }
 ],
@@ -801,7 +816,7 @@
 "id": "1988-02-01-journey-to-the-west-complete",
 "date": "1988-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "86版《西游记》全部播完：寒暑假的孙悟空来了",
 "category": "culture",
 "region": "cn",
@@ -814,6 +829,11 @@
 {
 "title": "Wikipedia: 西游记 (1986年电视剧)",
 "url": "https://zh.wikipedia.org/wiki/西游记_(1986年电视剧)",
+"type": "wiki"
+},
+{
+"title": "西游记（央视版电视剧）- 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E8%A5%BF%E6%B8%B8%E8%AE%B0_(%E5%A4%AE%E8%A7%86%E7%89%88%E7%94%B5%E8%A7%86%E5%89%A7)",
 "type": "wiki"
 }
 ],
@@ -940,8 +960,8 @@
 ]
 },
 {
-"id": "1988-05-01-karaoke-enters-china",
-"date": "1988-05-01",
+"id": "1988-01-01-karaoke-enters-china",
+"date": "1988-01-01",
 "date_accuracy": "month",
 "date_confidence": "single-source",
 "title": "卡拉OK进入中国：全民K歌的前夜",
@@ -949,7 +969,7 @@
 "region": "cn",
 "milestone": false,
 "summary_30s": "1988年前后，卡拉OK机经广东进入中国，『伴唱机+空麦克风』的娱乐方式迅速从歌舞厅蔓延到街巷。此后十年，卡拉OK厅遍布全国城市，中国人第一次可以随时当众唱歌。",
-"detail": "卡拉OK1971年由日本人井上大佑发明，1980年代中期随三资企业进入广东，1988年前后北京的歌舞厅开始出现伴唱机。1990年代中国自产卡拉OK机遍地开花，VCD影碟机与伴唱碟让K歌进入家庭，1995年前后钱柜等KTV业态进入大陆，量贩式KTV随后崛起。从歌舞厅到家庭K歌再到移动端全民K歌，这条娱乐主线由1988年起步。",
+"detail": "卡拉OK1971年由日本人井上大佑发明，1980年代中期随三资企业进入广东，1988年1月国内第一家卡拉OK厅在广州东方宾馆开业，同年北京的歌舞厅也开始出现伴唱机。1990年代中国自产卡拉OK机遍地开花，VCD影碟机与伴唱碟让K歌进入家庭，1995年前后钱柜等KTV业态进入大陆，量贩式KTV随后崛起。从歌舞厅到家庭K歌再到移动端全民K歌，这条娱乐主线由1988年起步。",
 "impact": "大众娱乐从『观看』转向『参与』，K歌成为中国人最重要的社交方式之一。",
 "aftermath": "KTV行业2010年代达到巅峰后受政策与市场调整收缩；全民K歌、唱吧把K歌搬进手机，完成又一次形态迁移。",
 "sources": [
@@ -957,6 +977,11 @@
 "title": "百度百科：卡拉OK",
 "url": "https://baike.baidu.com/item/卡拉OK",
 "type": "wiki"
+},
+{
+"title": "卡拉不再OK？KTV企业多业态发展望破局（新华网）",
+"url": "https://www.news.cn/fortune/20260126/9e60190c9ad34cd0a01a8e155d6a43b4/",
+"type": "news"
 }
 ],
 "tags": [
@@ -1206,7 +1231,7 @@
 "id": "1989-01-01-ball-virus-cn",
 "date": "1989-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首例计算机病毒『小球』在中国现身",
 "category": "tech",
 "region": "cn",
@@ -1220,6 +1245,11 @@
 "title": "维基百科：计算机病毒",
 "url": "https://zh.wikipedia.org/wiki/计算机病毒",
 "type": "wiki"
+},
+{
+"title": "计算机病毒发展史上的第一（新浪科技）",
+"url": "http://tech.sina.com.cn/s/s/2005-04-12/1701579855.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -1530,7 +1560,7 @@
 "id": "1990-01-01-legend-first-pc",
 "date": "1990-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "联想推出首款自有品牌微机",
 "category": "hardware",
 "region": "cn",
@@ -1544,6 +1574,11 @@
 "title": "维基百科：联想集团",
 "url": "https://zh.wikipedia.org/wiki/联想集团",
 "type": "wiki"
+},
+{
+"title": "联想集团 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -1556,7 +1591,7 @@
 "id": "1990-01-01-yangbajing-cosmic-ray-station",
 "date": "1990-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "羊八井宇宙线观测站建成：北半球海拔最高的「观星」基地",
 "category": "tech",
 "region": "cn",
@@ -1570,6 +1605,11 @@
 "title": "维基百科：羊八井",
 "url": "https://zh.wikipedia.org/wiki/%E7%BE%8A%E5%85%AB%E4%BA%95",
 "type": "wiki"
+},
+{
+"title": "羊八井国际宇宙线观测站（中科院高能物理研究所）",
+"url": "https://ihep.cas.cn/astro/kxyj/kxss/lsss/202509/t20250914_7968230.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -2215,7 +2255,7 @@
 "id": "1990-12-01-shenzhen-stock-exchange",
 "date": "1990-12-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深圳证券交易所试营业",
 "category": "economy",
 "region": "cn",
@@ -2229,6 +2269,11 @@
 "title": "维基百科：深圳证券交易所",
 "url": "https://zh.wikipedia.org/wiki/深圳证券交易所",
 "type": "wiki"
+},
+{
+"title": "禹国刚：亲历深交所成立（中国改革信息库）",
+"url": "http://rd.reformdata.org/xinwen/2021/show-1667.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -3019,7 +3064,7 @@
 "id": "1992-01-01-92-pai-entrepreneurs",
 "date": "1992-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『92派』下海：体制内精英的集体转身",
 "category": "economy",
 "region": "cn",
@@ -3033,6 +3078,11 @@
 "title": "Wikipedia: 陈东升",
 "url": "https://zh.wikipedia.org/wiki/陈东升",
 "type": "wiki"
+},
+{
+"title": "我们都是想闪光的\"92派\"（人民日报·人民文摘）",
+"url": "https://paper.people.com.cn/rmwz/html/2012-06/01/content_1074982.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -3501,7 +3551,7 @@
 "id": "1992-08-01-kunshan-development-zone-national",
 "date": "1992-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "昆山开发区升格国家级：县域经济的教科书",
 "category": "economy",
 "region": "cn",
@@ -3515,6 +3565,11 @@
 "title": "维基百科：昆山经济技术开发区",
 "url": "https://zh.wikipedia.org/wiki/%E6%98%86%E5%B1%B1%E7%BB%8F%E6%B5%8E%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E5%8C%BA",
 "type": "wiki"
+},
+{
+"title": "历史上的今天｜1992年8月22日，昆山经开区成为国家级开发区（澎湃新闻）",
+"url": "https://www.thepaper.cn/newsDetail_forward_33799093",
+"type": "news"
 }
 ],
 "tags": [
@@ -3830,7 +3885,7 @@
 "id": "1993-01-01-golden-projects",
 "date": "1993-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『三金工程』启动：政府先行铺设信息高速路",
 "category": "internet",
 "region": "cn",
@@ -3843,6 +3898,11 @@
 {
 "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+},
+{
+"title": "中国电子政务发展历程（国家网信办）",
+"url": "https://www.cac.gov.cn/2019-12/02/c_1576821721222367.htm",
 "type": "official"
 }
 ],
@@ -4430,7 +4490,7 @@
 "id": "1994-01-01-cernet-project",
 "date": "1994-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "CERNET 立项：全国第一个互联网骨干网开建",
 "category": "internet",
 "region": "cn",
@@ -4444,6 +4504,11 @@
 "title": "中国教育和科研计算机网：互联网大事记",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
 "type": "official"
+},
+{
+"title": "中国教育和科研计算机网 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -4484,7 +4549,7 @@
 "id": "1994-01-01-yahoo-directory",
 "date": "1994-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "Yahoo! 创立：从『杰瑞的万维网指南』到门户之王",
 "category": "company",
 "region": "world",
@@ -4498,6 +4563,11 @@
 "title": "Wikipedia: Yahoo!",
 "url": "https://en.wikipedia.org/wiki/Yahoo!",
 "type": "wiki"
+},
+{
+"title": "Yahoo! - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Yahoo",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -4510,7 +4580,7 @@
 "id": "1994-01-01-zhengding-historic-city",
 "date": "1994-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "正定列入第三批国家历史文化名城",
 "category": "culture",
 "region": "cn",
@@ -4528,6 +4598,11 @@
 {
 "title": "国家历史文化名城 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/国家历史文化名城",
+"type": "wiki"
+},
+{
+"title": "国家历史文化名城 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%9B%BD%E5%AE%B6%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E5%90%8D%E5%9F%8E",
 "type": "wiki"
 }
 ],
@@ -4574,7 +4649,7 @@
 "id": "1994-02-01-suzhou-industrial-park",
 "date": "1994-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "苏州工业园区奠基：中新合作的城市样本",
 "category": "economy",
 "region": "cn",
@@ -4588,6 +4663,11 @@
 "title": "维基百科：苏州工业园区",
 "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B7%A5%E4%B8%9A%E5%9B%AD%E5%8C%BA",
 "type": "wiki"
+},
+{
+"title": "三十而\"立\"：苏州工业园区30年的四张\"面孔\"（苏州工业园区管委会）",
+"url": "https://www.sipac.gov.cn/szgyyq/zmjxs/202411/3c801ac5c65a4e3b91c89d7d00bcca8c.shtml",
+"type": "official"
 }
 ],
 "tags": [
@@ -4686,7 +4766,7 @@
 "id": "1994-04-01-focus-report-debut",
 "date": "1994-04-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《焦点访谈》开播：黄金档里的舆论监督",
 "category": "culture",
 "region": "cn",
@@ -4699,6 +4779,11 @@
 {
 "title": "Wikipedia: 焦点访谈",
 "url": "https://zh.wikipedia.org/wiki/焦点访谈",
+"type": "wiki"
+},
+{
+"title": "焦点访谈 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88",
 "type": "wiki"
 }
 ],
@@ -5290,7 +5375,7 @@
 "id": "1994-12-01-chengde-summer-resort-heritage",
 "date": "1994-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "承德避暑山庄及周围寺庙列入世界遗产名录",
 "category": "culture",
 "region": "cn",
@@ -5309,6 +5394,11 @@
 "title": "避暑山庄及其周围寺庙 - UNESCO世界遗产",
 "url": "https://whc.unesco.org/zh/list/703/",
 "type": "official"
+},
+{
+"title": "承德避暑山庄及其周围寺庙 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%89%BF%E5%BE%B7%E9%81%BF%E6%9A%91%E5%B1%B1%E5%BA%84%E5%8F%8A%E5%85%B6%E5%91%A8%E5%9B%B4%E5%AF%BA%E5%BA%99",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -5324,7 +5414,7 @@
 "id": "1994-12-01-wudang-architecture-world-heritage",
 "date": "1994-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "武当山古建筑群列入世界遗产：与曲阜三孔同批登榜",
 "category": "culture",
 "region": "cn",
@@ -5343,6 +5433,11 @@
 "title": "UNESCO：Ancient Building Complex in the Wudang Mountains",
 "url": "https://whc.unesco.org/en/list/705/",
 "type": "official"
+},
+{
+"title": "武当山古建筑群 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%AD%A6%E5%BD%93%E5%B1%B1%E5%8F%A4%E5%BB%BA%E7%AD%91%E7%BE%A4",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -5415,7 +5510,7 @@
 "id": "1995-01-01-chinanet-trial",
 "date": "1995-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国电信在北京上海启动 Internet 接入服务",
 "category": "internet",
 "region": "cn",
@@ -5429,6 +5524,11 @@
 "title": "中国互联网网络基础技术起源及发展大事记（CERNET）",
 "url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
 "type": "official"
+},
+{
+"title": "中国公用计算机互联网 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E5%85%AC%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%92%E8%81%94%E7%BD%91",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -5608,7 +5708,7 @@
 "id": "1995-04-01-china-page",
 "date": "1995-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "马云在杭州创办『中国黄页』",
 "category": "company",
 "region": "cn",
@@ -5622,6 +5722,11 @@
 "title": "维基百科：中国黄页",
 "url": "https://zh.wikipedia.org/wiki/马云",
 "type": "wiki"
+},
+{
+"title": "马云那些事（人民网-中国共产党新闻网）",
+"url": "http://cpc.people.com.cn/n/2015/0207/c87228-26524020.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -5719,7 +5824,7 @@
 "id": "1995-05-01-two-day-weekend",
 "date": "1995-05-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "双休日正式实行",
 "category": "society",
 "region": "cn",
@@ -5733,6 +5838,11 @@
 "title": "维基百科：双休日",
 "url": "https://zh.wikipedia.org/wiki/双休日",
 "type": "wiki"
+},
+{
+"title": "双休日制度在全国范围内正式实行（中国改革信息库）",
+"url": "http://rd.reformdata.org/xinwen/2021/show-3233.html",
+"type": "official"
 }
 ],
 "tags": [

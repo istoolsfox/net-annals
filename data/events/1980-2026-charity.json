@@ -310,7 +310,7 @@
 "id": "1998-08-01-flood-donation-wave",
 "date": "1998-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "1998抗洪全民捐赠：物资箱与汇款单涌向灾区",
 "category": "society",
 "region": "cn",
@@ -324,6 +324,11 @@
 "title": "百度百科：1998年特大洪水",
 "url": "https://baike.baidu.com/item/1998年特大洪水",
 "type": "wiki"
+},
+{
+"title": "历史上的8月16日：央视举办98抗洪赈灾义演（央视网）",
+"url": "http://news.cctv.com/science/20080816/105089.shtml",
+"type": "news"
 }
 ],
 "tags": [

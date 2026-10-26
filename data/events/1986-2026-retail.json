@@ -381,7 +381,7 @@
 "id": "1987-01-01-gome-first-store",
 "date": "1987-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "国美电器北京首店开业，家电零售连锁起步",
 "category": "company",
 "region": "cn",
@@ -399,6 +399,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/国美电器",
 "title": "wiki"
+},
+{
+"title": "国美零售 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E7%BE%8E%E9%9B%B6%E5%94%AE",
+"type": "wiki"
 }
 ],
 "detail": "1987年1月，国美在北京珠市口开出第一家电器店，以「低于市价」的批发价零售家电。 「集中进货、低价走量」的家电连锁模式萌芽，此前百货商场包办家电零售的格局被撕开一角。 国美与1990年创立的苏宁此后二十年在全国跑马圈地，成就了两大家电连锁帝国；黄光裕三次问鼎中国首富后锒铛入狱的故事，也成为零售资本化的另类注脚。"

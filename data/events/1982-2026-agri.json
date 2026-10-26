@@ -3,7 +3,7 @@
 "id": "1985-01-01-end-of-procurement",
 "date": "1985-01-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "统购统销制度改革：农产品第一次可以议价买卖",
 "category": "economy",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "百度百科：统购统销",
 "url": "https://baike.baidu.com/item/统购统销",
 "type": "wiki"
+},
+{
+"title": "中国共产党大事记·1985年（人民网）",
+"url": "https://cpc.people.com.cn/GB/64162/64164/4416133.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -33,7 +38,7 @@
 "id": "1987-06-01-tve-rise",
 "date": "1987-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "乡镇企业异军突起：『三分天下有其一』的农村工业",
 "category": "economy",
 "region": "cn",
@@ -47,6 +52,11 @@
 "title": "百度百科：乡镇企业",
 "url": "https://baike.baidu.com/item/乡镇企业",
 "type": "wiki"
+},
+{
+"title": "之六：乡镇企业异军突起（国家统计局·辉煌50年系列报告）",
+"url": "https://www.stats.gov.cn/zt_18555/ztfx/xzg50nxlfxbg/202303/t20230301_1920444.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -58,8 +68,8 @@
 ]
 },
 {
-"id": "1988-07-01-basket-program",
-"date": "1988-07-01",
+"id": "1988-05-01-basket-program",
+"date": "1988-05-01",
 "date_accuracy": "month",
 "date_confidence": "single-source",
 "title": "『菜篮子工程』启动：副食品供应的国家动员",
@@ -555,6 +565,11 @@
 "title": "农业农村部：关于印发《全国高标准农田建设规划（2021-2030年）》的通知（2021年9月6日印发）",
 "url": "https://ntjss.moa.gov.cn/zcfb/202109/t20210915_6376511.htm",
 "type": "official"
+},
+{
+"title": "「菜篮子」工程见证民生变迁（人民日报·人民论坛）",
+"url": "http://paper.people.com.cn/rmlt/pc/content/202603/19/content_30155745.",
+"type": "news"
 }
 ],
 "tags": [

@@ -3,7 +3,7 @@
 "id": "1996-01-01-chinanet-backbone",
 "date": "1996-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "ChinaNet 全国骨干网建成：互联网铺向全国",
 "category": "internet",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "中国互联网络信息中心（CNNIC）",
 "url": "https://www.cnnic.com.cn/",
 "type": "official"
+},
+{
+"title": "中国公用计算机互联网 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E5%85%AC%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%92%E8%81%94%E7%BD%91",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -280,7 +285,7 @@
 "id": "1996-09-01-jiujiu-railway-open",
 "date": "1996-09-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "京九铁路全线开通：纵贯南北的脱贫动脉",
 "category": "national",
 "region": "cn",
@@ -294,6 +299,11 @@
 "title": "Wikipedia: 京九铁路",
 "url": "https://zh.wikipedia.org/wiki/京九铁路",
 "type": "wiki"
+},
+{
+"title": "1996年9月1日京九铁路建成通车（科普时报·国家科技传播中心）",
+"url": "https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39816.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -609,7 +619,7 @@
 "id": "1997-01-01-hunan-tv-goes-satellite",
 "date": "1997-01-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "湖南卫视上星播出：「电视湘军」走向全国",
 "category": "culture",
 "region": "cn",
@@ -622,6 +632,11 @@
 {
 "title": "维基百科：湖南卫视",
 "url": "https://zh.wikipedia.org/wiki/湖南卫视",
+"type": "wiki"
+},
+{
+"title": "湖南卫视 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86",
 "type": "wiki"
 }
 ],
@@ -980,7 +995,7 @@
 "id": "1997-07-01-minning-village-foundation",
 "date": "1997-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "闽宁村奠基：东西部协作的「山海情」起点",
 "category": "society",
 "region": "cn",
@@ -994,6 +1009,11 @@
 "title": "维基百科：闽宁镇",
 "url": "https://zh.wikipedia.org/wiki/%E9%97%BD%E5%AE%81%E9%95%87",
 "type": "wiki"
+},
+{
+"title": "宁夏闽宁镇：从一个小镇看闽宁协作三十载变迁（新华网）",
+"url": "https://www.news.cn/photo/20260915/063c1803cd6f4f70953d6beb1d2a675f/c.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -1011,7 +1031,7 @@
 "id": "1997-07-01-yangling-agri-hi-tech-zone",
 "date": "1997-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "国务院批准设立杨凌农业高新技术产业示范区",
 "category": "economy",
 "region": "cn",
@@ -1030,6 +1050,11 @@
 "title": "杨凌示范区管委会官网",
 "url": "http://www.yangling.gov.cn",
 "type": "official"
+},
+{
+"title": "国务院关于建立杨凌农业高新技术产业示范区及其实施方案的批复（维基文库）",
+"url": "https://zh.wikisource.org/wiki/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E5%BB%BA%E7%AB%8B%E6%9D%A8%E5%87%8C%E5%86%9C%E4%B8%9A%E9%AB%98%E6%96%B0%E6%8A%80%E6%9C%AF%E4%BA%A7%E4%B8%9A%E7%A4%BA%E8%8C%83%E5%8C%BA%E5%8F%8A%E5%85%B6%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E7%9A%84%E6%89%B9%E5%A4%8D",
+"type": "wiki"
 }
 ],
 "tags": [
@@ -1217,15 +1242,15 @@
 ]
 },
 {
-"id": "1997-10-01-hk-return-stocks",
-"date": "1997-10-01",
-"date_accuracy": "month",
+"id": "1996-03-26-changhong-price-war",
+"date": "1996-03-26",
+"date_accuracy": "exact",
 "date_confidence": "single-source",
 "title": "家电价格战白热化：长虹彩电『降价让利』轰炸市场",
 "category": "economy",
 "region": "cn",
 "milestone": false,
-"summary_30s": "90年代末以长虹为首的彩电厂商轮番降价，一台29寸大彩电从万元杀到两三千元。中国家庭客厅里的『大屁股』电视迅速普及——那也是此后二十年一家人唯一的娱乐中心。",
+"summary_30s": "90年代中期以长虹为首的彩电厂商轮番降价，一台29寸大彩电从万元杀到两三千元。中国家庭客厅里的『大屁股』电视迅速普及——那也是此后二十年一家人唯一的娱乐中心。",
 "detail": "1990年代中后期，以长虹为首的中国彩电业掀起连续多轮价格战：1996年长虹率先『降价让利』（最高降幅18%-30%），康佳、TCL、创维跟进，一台29寸大彩电从万元级杀到两三千元。价格战的逻辑是规模与显像管资源垄断（长虹囤积彩管），结果是行业集中度暴增——洋品牌被挤出低端市场，国产彩电份额超过80%，长虹一度占据半壁江山（1997年净利润26亿元巅峰）。代价同样惨烈：全行业利润被杀穿，1998年长虹巨亏37亿元（囤积彩管贬值+库存），价格战模式被证明是饮鸩止渴。但这场战争奠定了中国家电业全球竞争力的基础：此后 TCL 收购汤姆逊、海信收购夏普电视，中国彩电业从价格战幸存者变成全球面板之王——惨烈的内战是最残酷的军训。",
 "impact": "家电普及率飙升，国产家电品牌完成对市场的统治。",
 "aftermath": "2000年代平板替代CRT；海尔、格力、美的等家电巨头后来成为资本市场白马。",
@@ -1234,6 +1259,11 @@
 "title": "维基百科：四川长虹",
 "url": "https://zh.wikipedia.org/wiki/四川长虹",
 "type": "wiki"
+},
+{
+"title": "第36期：长虹降价（新浪新闻专题）",
+"url": "https://news.sina.cn/sa/2008-11-06/detail-ikftpnny4069745.d.html?vt=4",
+"type": "news"
 }
 ],
 "tags": [
@@ -1611,7 +1641,7 @@
 "id": "1998-03-01-lianzhong-games",
 "date": "1998-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "联众世界创立：中国人的第一次在线游戏",
 "category": "product",
 "region": "cn",
@@ -1625,6 +1655,11 @@
 "title": "维基百科：联众",
 "url": "https://zh.wikipedia.org/wiki/联众",
 "type": "wiki"
+},
+{
+"title": "关于联众（联众游戏官网）",
+"url": "https://www.ourgame.com/other/aboutgl.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -2413,7 +2448,7 @@
 "id": "1999-01-01-iflytek-founded",
 "date": "1999-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "科大讯飞创立：中科大博士生在合肥创业做智能语音",
 "category": "company",
 "region": "cn",
@@ -2431,6 +2466,11 @@
 {
 "title": "维基百科：科大讯飞",
 "url": "https://zh.wikipedia.org/wiki/科大讯飞",
+"type": "wiki"
+},
+{
+"title": "科大讯飞 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E",
 "type": "wiki"
 }
 ],
@@ -2913,7 +2953,7 @@
 "id": "1999-07-01-chinaren",
 "date": "1999-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "ChinaRen 同学录上线：把全班同学搬上网",
 "category": "product",
 "region": "cn",
@@ -2927,6 +2967,11 @@
 "title": "维基百科：ChinaRen",
 "url": "https://zh.wikipedia.org/wiki/搜狐",
 "type": "wiki"
+},
+{
+"title": "空中网创始人周云帆出任北京昌平区副区长（投资界）",
+"url": "https://news.pedaily.cn/201103/20110303206624.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -3436,7 +3481,7 @@
 "id": "1999-11-01-dangdang",
 "date": "1999-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "当当网上线：中国版亚马逊开张",
 "category": "company",
 "region": "cn",
@@ -3449,6 +3494,11 @@
 {
 "title": "维基百科：当当网",
 "url": "https://zh.wikipedia.org/wiki/当当网",
+"type": "wiki"
+},
+{
+"title": "李国庆（企业家）- 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E5%9B%BD%E5%BA%86_%28%E4%BC%81%E4%B8%9A%E5%AE%B6%29",
 "type": "wiki"
 }
 ],

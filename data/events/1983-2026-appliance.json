@@ -3,7 +3,7 @@
 "id": "1983-01-01-rongsheng-fridge",
 "date": "1983-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "容声冰箱诞生：中国第一台双门电冰箱下线",
 "category": "company",
 "region": "cn",
@@ -16,6 +16,11 @@
 {
 "title": "百度百科：容声冰箱",
 "url": "https://baike.baidu.com/item/容声",
+"type": "wiki"
+},
+{
+"title": "海信家电 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%B5%B7%E4%BF%A1%E5%AE%B6%E7%94%B5",
 "type": "wiki"
 }
 ],
@@ -31,7 +36,7 @@
 "id": "1984-01-01-haier-qingdao-start",
 "date": "1984-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "青岛电冰箱总厂引进利勃海尔技术：家电巨头的起点",
 "category": "company",
 "region": "cn",
@@ -45,6 +50,11 @@
 "title": "百度百科：海尔集团",
 "url": "https://baike.baidu.com/item/海尔集团",
 "type": "wiki"
+},
+{
+"title": "海尔集团官网·品牌资料（1984年青岛电冰箱总厂）",
+"url": "https://www.haier.com/group/about-haier/jtzl/ppzljd",
+"type": "official"
 }
 ],
 "tags": [
@@ -92,7 +102,7 @@
 "id": "1991-11-01-gree-founded",
 "date": "1991-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "格力电器组建：空调之城的产业主线",
 "category": "company",
 "region": "cn",
@@ -106,6 +116,11 @@
 "title": "百度百科：格力电器",
 "url": "https://baike.baidu.com/item/格力电器",
 "type": "wiki"
+},
+{
+"title": "格力究竟是如何创始的？（搜狐）",
+"url": "https://www.sohu.com/a/163833588_99937280",
+"type": "news"
 }
 ],
 "tags": [
@@ -121,7 +136,7 @@
 "id": "1993-09-01-wanyan-vcd",
 "date": "1993-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "万燕VCD问世：中国人发明的世界第一台VCD",
 "category": "company",
 "region": "cn",
@@ -134,6 +149,11 @@
 {
 "title": "百度百科：VCD",
 "url": "https://baike.baidu.com/item/VCD",
+"type": "wiki"
+},
+{
+"title": "姜万勐 - 百度百科",
+"url": "https://baike.baidu.com/item/%E5%A7%9C%E4%B8%87%E5%8B%90",
 "type": "wiki"
 }
 ],

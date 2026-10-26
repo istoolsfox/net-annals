@@ -36,7 +36,7 @@
 "id": "1984-04-01-red-dress-film",
 "date": "1984-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《街上流行红裙子》上映：中国女性第一次穿出色彩",
 "category": "culture",
 "region": "cn",
@@ -49,6 +49,11 @@
 {
 "title": "百度百科：街上流行红裙子",
 "url": "https://baike.baidu.com/item/街上流行红裙子",
+"type": "wiki"
+},
+{
+"title": "1905电影网影片资料",
+"url": "https://m.1905.com/Mdb/mdbDetail/filmid/300120",
 "type": "wiki"
 }
 ],
@@ -64,7 +69,7 @@
 "id": "1989-05-01-firs-suit-brand",
 "date": "1989-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "杉杉西服崛起：中国男装的第一件名牌西装",
 "category": "company",
 "region": "cn",
@@ -78,6 +83,11 @@
 "title": "百度百科：杉杉集团",
 "url": "https://baike.baidu.com/item/杉杉集团",
 "type": "wiki"
+},
+{
+"title": "身家百亿的\"跨界王\"，突然去世（解放日报）",
+"url": "https://www.jfdaily.com/wx/detail.do?id=582476",
+"type": "news"
 }
 ],
 "tags": [
@@ -153,7 +163,7 @@
 "id": "1997-04-01-china-fashion-week",
 "date": "1997-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国国际时装周创办：本土设计师有了自己的T台",
 "category": "culture",
 "region": "cn",
@@ -166,6 +176,11 @@
 {
 "title": "百度百科：中国国际时装周",
 "url": "https://baike.baidu.com/item/中国国际时装周",
+"type": "wiki"
+},
+{
+"title": "中国国际时装周 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B%E6%99%82%E8%A3%9D%E5%91%A8",
 "type": "wiki"
 }
 ],

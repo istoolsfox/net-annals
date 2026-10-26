@@ -159,7 +159,7 @@
 "id": "1987-08-01-mtv-europe",
 "date": "1987-08-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "MTV欧洲台开播：音乐电视全面占领欧陆",
 "category": "company",
 "region": "world",
@@ -172,6 +172,11 @@
 {
 "title": "Wikipedia: MTV Europe",
 "url": "https://en.wikipedia.org/wiki/MTV_Europe",
+"type": "wiki"
+},
+{
+"title": "MTV Global（原MTV Europe）- Wikipedia",
+"url": "https://en.wikipedia.org/wiki/MTV_Global",
 "type": "wiki"
 }
 ],
@@ -246,7 +251,7 @@
 "id": "1988-01-01-cd-surpasses-vinyl",
 "date": "1988-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "CD销量首超黑胶：唱片载体换血之年",
 "category": "tech",
 "region": "world",
@@ -275,7 +280,7 @@
 "id": "1988-01-01-xibei-feng-wave",
 "date": "1988-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "西北风歌潮：《黄土高坡》与《信天游》席卷全国",
 "category": "culture",
 "region": "cn",
@@ -288,6 +293,11 @@
 {
 "title": "西北风 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/西北风",
+"type": "wiki"
+},
+{
+"title": "西北风歌潮（搜狐）",
+"url": "https://www.sohu.com/a/192914474_763751",
 "type": "wiki"
 }
 ],
@@ -389,7 +399,7 @@
 "id": "1989-02-01-xin-changzheng",
 "date": "1989-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "崔健《新长征路上的摇滚》：中国第一张摇滚专辑",
 "category": "culture",
 "region": "cn",
@@ -402,6 +412,11 @@
 {
 "title": "Wikipedia: 新长征路上的摇滚",
 "url": "https://zh.wikipedia.org/wiki/新长征路上的摇滚",
+"type": "wiki"
+},
+{
+"title": "Rock 'n' Roll on the New Long March - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_on_the_New_Long_March",
 "type": "wiki"
 }
 ],
@@ -532,7 +547,7 @@
 "id": "1990-08-01-ya-zhou-xiong-feng",
 "date": "1990-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《亚洲雄风》唱响：亚运会的全民BGM",
 "category": "culture",
 "region": "cn",
@@ -545,6 +560,11 @@
 {
 "title": "Wikipedia: 亚洲雄风",
 "url": "https://zh.wikipedia.org/wiki/亚洲雄风",
+"type": "wiki"
+},
+{
+"title": "亚洲雄风 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%BA%9A%E6%B4%B2%E9%9B%84%E9%A3%8E",
 "type": "wiki"
 }
 ],
@@ -768,7 +788,7 @@
 "id": "1992-01-01-sishu-tianwang",
 "date": "1992-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『四大天王』封号确立：香港偶像工业的黄金牌匾",
 "category": "culture",
 "region": "cn",
@@ -782,6 +802,11 @@
 "title": "Wikipedia: 四大天王 (歌手)",
 "url": "https://zh.wikipedia.org/wiki/四大天王_(歌手)",
 "type": "wiki"
+},
+{
+"title": "\"天王\"时代：香港乐坛\"四大天王\"称号来源考（中青网）",
+"url": "http://m.cyol.com/gb/articles/2022-07/01/content_AJYe4UzLN.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -855,7 +880,7 @@
 "id": "1992-12-01-tang-cha-album",
 "date": "1992-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "唐朝乐队《唐朝》专辑：中国重金属的巅峰宣言",
 "category": "culture",
 "region": "cn",
@@ -868,6 +893,11 @@
 {
 "title": "Wikipedia: 唐朝乐队",
 "url": "https://zh.wikipedia.org/wiki/唐朝乐队",
+"type": "wiki"
+},
+{
+"title": "唐朝乐队 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%94%90%E6%9C%9D%E4%B9%90%E9%98%9F",
 "type": "wiki"
 }
 ],
@@ -1145,7 +1175,7 @@
 "id": "1995-01-01-a-jie-gu",
 "date": "1995-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《阿姐鼓》全球发行：中国音乐第一次世界级亮相",
 "category": "culture",
 "region": "cn",
@@ -1158,6 +1188,11 @@
 {
 "title": "Wikipedia: 阿姐鼓",
 "url": "https://zh.wikipedia.org/wiki/阿姐鼓",
+"type": "wiki"
+},
+{
+"title": "阿姐鼓 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%A7%90%E9%BC%93",
 "type": "wiki"
 }
 ],
@@ -1560,7 +1595,7 @@
 "id": "1998-01-01-hao-han-ge",
 "date": "1998-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《好汉歌》唱响：水浒传的国民主题歌",
 "category": "culture",
 "region": "cn",
@@ -1573,6 +1608,11 @@
 {
 "title": "刘欢 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/刘欢",
+"type": "wiki"
+},
+{
+"title": "水浒传（1998年电视剧）- 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%B0%B4%E6%B5%92%E4%BC%A0_%281998%E5%B9%B4%E7%94%B5%E8%A7%86%E5%89%A7%29",
 "type": "wiki"
 }
 ],
@@ -1711,7 +1751,7 @@
 "id": "1999-01-01-pushu-2000-album",
 "date": "1999-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "朴树《我去2000年》：世纪末的少年心气",
 "category": "culture",
 "region": "cn",
@@ -1724,6 +1764,11 @@
 {
 "title": "Wikipedia: 我去2000年",
 "url": "https://zh.wikipedia.org/wiki/我去2000年",
+"type": "wiki"
+},
+{
+"title": "我去2000年 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E6%88%91%E5%8E%BB2000%E5%B9%B4",
 "type": "wiki"
 }
 ],

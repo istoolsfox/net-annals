@@ -3,7 +3,7 @@
 "id": "1985-11-01-overnicheng-founded",
 "date": "1985-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "华侨城奠基：从滩涂渔村到主题公园之城",
 "category": "society",
 "region": "cn",
@@ -16,6 +16,11 @@
 {
 "title": "百度百科：华侨城",
 "url": "https://baike.baidu.com/item/华侨城",
+"type": "wiki"
+},
+{
+"title": "华侨城集团 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E5%8D%8E%E4%BE%A8%E5%9F%8E%E9%9B%86%E5%9B%A2",
 "type": "wiki"
 }
 ],

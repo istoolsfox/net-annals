@@ -3,7 +3,7 @@
 "id": "1984-01-01-jianlibao-oriental-magic-water",
 "date": "1984-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "健力宝随中国奥运军团一炮而红，「东方魔水」诞生",
 "category": "company",
 "region": "cn",
@@ -21,6 +21,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/健力宝",
 "title": "wiki"
+},
+{
+"title": "1984年洛杉矶奥运会，凭啥东方魔水健力宝一夜成名？（搜狐）",
+"url": "https://www.sohu.com/a/436542985_120836421",
+"type": "news"
 }
 ],
 "detail": "1984年洛杉矶奥运会，随中国代表团亮相的广东橙蜜运动饮料健力宝被外媒称作「东方魔水」。 中国第一款功能性运动饮料完成现象级亮相，体育+饮料+广告的营销范式由此确立。 健力宝此后多年冠名体育赛事成为「民族饮料第一品牌」，三水健力宝的兴衰也成为日后中国企业史的经典案例。"
@@ -54,7 +59,7 @@
 "id": "1995-06-01-quanmin-jianshen-gangyao",
 "date": "1995-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《全民健身计划纲要》颁布：群众体育第一次有了覆盖全民的国家规划",
 "category": "economy",
 "region": "cn",
@@ -76,6 +81,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/全民健身计划纲要",
 "title": "wiki"
+},
+{
+"title": "国务院关于印发全民健身计划纲要的通知（维基文库）",
+"url": "https://zh.wikisource.org/wiki/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E7%BA%B2%E8%A6%81%E7%9A%84%E9%80%9A%E7%9F%A5",
+"type": "wiki"
 }
 ]
 },

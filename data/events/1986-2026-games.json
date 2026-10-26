@@ -3,7 +3,7 @@
 "id": "1988-02-01-contral-fc-cassettes",
 "date": "1988-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《魂斗罗》FC版进入中国家庭：卡带时代的童年圣经",
 "category": "culture",
 "region": "cn",
@@ -16,6 +16,11 @@
 {
 "title": "百度百科：魂斗罗",
 "url": "https://baike.baidu.com/item/魂斗罗",
+"type": "wiki"
+},
+{
+"title": "魂斗罗（游戏）- 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E9%AD%82%E6%96%97%E7%BD%97_(%E6%B8%B8%E6%88%8F)",
 "type": "wiki"
 }
 ],

@@ -38,7 +38,7 @@
 "id": "1986-05-01-steger-north-pole",
 "date": "1986-05-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "斯特格率队无补给抵达北极点：狗拉雪橇远征的极限",
 "category": "world",
 "region": "world",
@@ -160,7 +160,7 @@
 "id": "1987-04-01-yellow-river-rafting",
 "date": "1987-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "黄河漂流：长漂热浪的续章与更沉重的代价",
 "category": "society",
 "region": "cn",
@@ -173,6 +173,11 @@
 {
 "title": "黄河漂流事件 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%B2%B3%E6%BC%82%E6%B5%81%E4%BA%8B%E4%BB%B6",
+"type": "wiki"
+},
+{
+"title": "黄河漂流事件 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E9%BB%84%E6%B2%B3%E6%BC%82%E6%B5%81%E4%BA%8B%E4%BB%B6",
 "type": "wiki"
 }
 ],
@@ -408,7 +413,7 @@
 "id": "1989-07-01-international-trans-antarctica",
 "date": "1989-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "六国横穿南极远征启程：狗拉雪橇跨越整个南极大陆",
 "category": "world",
 "region": "cn",
@@ -421,6 +426,11 @@
 {
 "title": "Will Steger - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Will_Steger",
+"type": "wiki"
+},
+{
+"title": "1990 International Trans-Antarctica Expedition - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1990_International_Trans-Antarctica_Expedition",
 "type": "wiki"
 }
 ],
@@ -842,7 +852,7 @@
 "id": "1993-09-01-lynn-hill-free-nose",
 "date": "1993-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "琳恩·希尔自由攀登『鼻梁』：酋长岩最著名路线首次被纯实力攻克",
 "category": "world",
 "region": "world",
@@ -855,6 +865,11 @@
 {
 "title": "Lynn Hill - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Lynn_Hill",
+"type": "wiki"
+},
+{
+"title": "The Nose (El Capitan) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/The_Nose_(El_Capitan)",
 "type": "wiki"
 }
 ],

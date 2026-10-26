@@ -180,9 +180,9 @@
 ]
 },
 {
-"id": "1998-08-01-affordable-housing-policy",
-"date": "1998-08-01",
-"date_accuracy": "month",
+"id": "1998-09-14-affordable-housing-policy",
+"date": "1998-09-14",
+"date_accuracy": "exact",
 "date_confidence": "single-source",
 "title": "经济适用房政策落地：房改配套的保障线",
 "category": "society",
@@ -685,6 +685,11 @@
 "title": "百度百科：房贷",
 "url": "https://baike.baidu.com/item/个人住房贷款利率",
 "type": "wiki"
+},
+{
+"title": "中国房地产三十年大事记（中国改革信息库）",
+"url": "http://app.reformdata.org/print.php?contentid=5201",
+"type": "official"
 }
 ],
 "tags": [

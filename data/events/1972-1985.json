@@ -38,7 +38,7 @@
 "id": "1972-10-01-xiangqian-railway-open",
 "date": "1972-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "湘黔铁路建成通车：905公里干线横贯湘黔",
 "category": "national",
 "region": "cn",
@@ -52,6 +52,11 @@
 "title": "维基百科：湘黔铁路",
 "url": "https://zh.wikipedia.org/wiki/%E6%B9%98%E9%BB%94%E9%93%81%E8%B7%AF",
 "type": "wiki"
+},
+{
+"title": "湖南标志性工程巡礼｜湘黔铁路：60万民兵大会战（湖南省政府网）",
+"url": "https://www.hunan.gov.cn/hnyw/sy/hnyw1/201908/t20190827_10015542.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -584,7 +589,7 @@
 "id": "1975-07-01-ren4-well-huabei-oilfield",
 "date": "1975-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "任4井喜喷工业油流：华北油田诞生",
 "category": "economy",
 "region": "cn",
@@ -598,6 +603,11 @@
 "title": "维基百科：华北油田",
 "url": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%8C%97%E6%B2%B9%E7%94%B0",
 "type": "wiki"
+},
+{
+"title": "华北油田：古潜山绽放新花朵（人民日报-中国能源报）",
+"url": "https://paper.people.com.cn/zgnyb/html/2013-05/06/content_1236143.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -745,7 +755,7 @@
 "id": "1976-01-01-china-womens-volleyball-team-founded",
 "date": "1976-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国女排国家队重新组建：五连冠的起点",
 "category": "culture",
 "region": "cn",
@@ -759,6 +769,11 @@
 "title": "维基百科：中国国家女子排球队",
 "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%A5%B3%E5%AD%90%E6%8E%92%E7%90%83%E9%98%9F",
 "type": "wiki"
+},
+{
+"title": "为祖国拼搏——女排精神述评（人民网-党史频道/新华社）",
+"url": "http://dangshi.people.com.cn/n1/2021/0902/c436975-32215356.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -773,7 +788,7 @@
 "id": "1976-01-01-daqing-50-million-tons",
 "date": "1976-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "大庆原油年产突破5000万吨",
 "category": "economy",
 "region": "cn",
@@ -787,6 +802,11 @@
 "title": "维基百科：大庆油田",
 "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%BA%86%E6%B2%B9%E7%94%B0",
 "type": "wiki"
+},
+{
+"title": "大庆不老（经济日报）",
+"url": "http://paper.ce.cn/pad/content/202311/02/content_283550.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -1008,7 +1028,7 @@
 "id": "1977-12-01-jingtong-railway-open",
 "date": "1977-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "京通铁路建成通车：华北东北再添新通道",
 "category": "national",
 "region": "cn",
@@ -1021,6 +1041,11 @@
 {
 "title": "维基百科：京通铁路",
 "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E9%80%9A%E9%93%81%E8%B7%AF",
+"type": "wiki"
+},
+{
+"title": "京通铁路 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E4%BA%AC%E9%80%9A%E9%93%81%E8%B7%AF",
 "type": "wiki"
 }
 ],
@@ -1071,7 +1096,7 @@
 "id": "1978-01-01-goldbach-conjecture-reportage",
 "date": "1978-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《哥德巴赫猜想》发表：陈景润走进公众视野",
 "category": "culture",
 "region": "cn",
@@ -1085,6 +1110,11 @@
 "title": "维基百科：哥德巴赫猜想（报告文学）",
 "url": "https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3_(%E6%8A%A5%E5%91%8A%E6%96%87%E5%AD%A6)",
 "type": "wiki"
+},
+{
+"title": "《哥德巴赫猜想》诞生记（光明日报文摘报）",
+"url": "https://epaper.gmw.cn/wzb/html/2019-08/03/nw.D110000wzb_20190803_1-05.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -1347,7 +1377,7 @@
 "id": "1979-01-01-hanzheng-street-reopen",
 "date": "1979-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "汉正街恢复开放：全国最早重启的小商品个体市场",
 "category": "economy",
 "region": "cn",
@@ -1361,6 +1391,11 @@
 "title": "维基百科：汉正街",
 "url": "https://zh.wikipedia.org/wiki/%E6%B1%89%E6%AD%A3%E8%A1%97",
 "type": "wiki"
+},
+{
+"title": "对内搞活看汉正街（人民日报·改革开放40周年）",
+"url": "http://politics.people.com.cn/n1/2018/0831/c1001-30262328.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -1377,7 +1412,7 @@
 "id": "1979-01-01-coca-cola-returns-to-china",
 "date": "1979-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "可口可乐重返中国大陆：首个归来的国际品牌",
 "category": "economy",
 "region": "cn",
@@ -1391,6 +1426,11 @@
 "title": "维基百科：可口可乐",
 "url": "https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90",
 "type": "wiki"
+},
+{
+"title": "改革开放40年，第一个重返中国市场的外国消费品（搜狐）",
+"url": "https://www.sohu.com/a/283050851_209478",
+"type": "news"
 }
 ],
 "tags": [
@@ -1405,7 +1445,7 @@
 "id": "1979-01-01-cihai-1979-edition",
 "date": "1979-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《辞海》1979年版出版：大型综合性辞书重启",
 "category": "culture",
 "region": "cn",
@@ -1418,6 +1458,11 @@
 {
 "title": "维基百科：辞海",
 "url": "https://zh.wikipedia.org/wiki/%E8%BE%9E%E6%B5%B7",
+"type": "wiki"
+},
+{
+"title": "辞海 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E8%BE%9E%E6%B5%B7",
 "type": "wiki"
 }
 ],
@@ -1467,7 +1512,7 @@
 "id": "1979-03-01-pierre-cardin-beijing-show",
 "date": "1979-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "皮尔·卡丹在京办时装表演：西方时尚敲开门",
 "category": "culture",
 "region": "cn",
@@ -1481,6 +1526,11 @@
 "title": "维基百科：皮尔·卡丹",
 "url": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%B0%94%C2%B7%E5%8D%A1%E4%B8%B9",
 "type": "wiki"
+},
+{
+"title": "40年前给中国带来第一场国际品牌时装秀的皮尔·卡丹去世了（界面新闻）",
+"url": "https://www.jiemian.com/article/5472257.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -1530,7 +1580,7 @@
 "id": "1979-07-01-laser-phototypesetting-sample",
 "date": "1979-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "汉字激光照排输出首张样张：告别铅与火",
 "category": "tech",
 "region": "cn",
@@ -1549,6 +1599,11 @@
 "title": "维基百科：王选",
 "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%80%89",
 "type": "wiki"
+},
+{
+"title": "今天的每一页数字阅读，都藏着王选的\"光与电\"（九三学社中央）",
+"url": "https://www.93.gov.cn/lshm-sszl/781997.html",
+"type": "official"
 }
 ],
 "tags": [
@@ -2415,7 +2470,7 @@
 "id": "1982-09-01-yiwu-commodity-market",
 "date": "1982-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "义乌小商品市场创办：从湖清门起步的『世界超市』",
 "category": "economy",
 "region": "cn",
@@ -2434,6 +2489,11 @@
 "title": "义乌国际商贸城 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E4%B9%89%E4%B9%8C%E5%9B%BD%E9%99%85%E5%95%86%E8%B4%B8%E5%9F%8E",
 "type": "wiki"
+},
+{
+"title": "人这一辈子，一定要去一趟义乌！（中国日报网）",
+"url": "https://china.chinadaily.com.cn/a/202412/22/WS67680e7fa310b59111daa391.html",
+"type": "news"
 }
 ],
 "tags": [
@@ -2680,36 +2740,6 @@
 "文化",
 "里程碑",
 "李谷一"
-]
-},
-{
-"id": "1983-05-01-jinling-hotel-opening",
-"date": "1983-05-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "南京金陵饭店开业：37层「中国第一高楼」的时代注脚",
-"category": "economy",
-"region": "cn",
-"milestone": false,
-"summary_30s": "37层、110余米高的金陵饭店在南京新街口开业，为当时中国第一高楼和最豪华的涉外酒店之一，成为改革开放初期城市现代化的全国性象征。",
-"detail": "1983年5月，金陵饭店建成开业。这座37层、高110余米的塔楼矗立于南京新街口，开业时为中国第一高楼，配备旋转餐厅、中央空调等当时全国罕见的设施，主要接待外宾与侨胞，一度需要凭外汇券消费。作为改革开放初期中外合作建造酒店的代表作，金陵饭店的电梯、玻璃幕墙与管理体系都带有强烈的「开眼看世界」色彩，全国旅客过南京而不登旋转餐厅被视作憾事，「到金陵饭店吃一顿饭」成为一代人的城市想象。",
-"impact": "现代高层酒店与涉外服务业的标杆确立，城市天际线竞争自此进入「第一高楼」叙事。",
-"aftermath": "金陵饭店2007年扩建二期能与海新楼，2010年代完成股份制上市；旋转餐厅至今仍是南京城市记忆的坐标。",
-"sources": [
-{
-"title": "维基百科：金陵饭店",
-"url": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%99%B5%E9%A5%AD%E5%BA%97",
-"type": "wiki"
-}
-],
-"tags": [
-"经济",
-"江苏",
-"南京",
-"金陵饭店",
-"酒店",
-"改革开放",
-"地标"
 ]
 },
 {
@@ -3392,7 +3422,7 @@
 "id": "1985-06-01-yellow-crane-tower-rebuilt",
 "date": "1985-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "黄鹤楼重建落成开放：江南名楼重现蛇山之巅",
 "category": "culture",
 "region": "cn",
@@ -3406,6 +3436,11 @@
 "title": "维基百科：黄鹤楼",
 "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E9%B9%A4%E6%A5%BC",
 "type": "wiki"
+},
+{
+"title": "33年前的今天，黄鹤楼重建后正式开放（荆楚网）",
+"url": "http://news.cnhubei.com/xw/wuhan/201806/t4122392.shtml",
+"type": "news"
 }
 ],
 "tags": [
@@ -3588,6 +3623,41 @@
 "中日围棋擂台赛",
 "棋圣",
 "里程碑"
+]
+},
+{
+"id": "1983-10-04-jinling-hotel-opening",
+"date": "1983-10-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "南京金陵饭店开业：37层「中国第一高楼」的时代注脚",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "37层、110余米高的金陵饭店在南京新街口开业，为当时中国第一高楼和最豪华的涉外酒店之一，成为改革开放初期城市现代化的全国性象征。",
+"detail": "1983年10月4日，金陵饭店建成开业。这座37层、高110余米的塔楼矗立于南京新街口，开业时为中国第一高楼，配备旋转餐厅、中央空调等当时全国罕见的设施，主要接待外宾与侨胞，一度需要凭外汇券消费。作为改革开放初期中外合作建造酒店的代表作，金陵饭店的电梯、玻璃幕墙与管理体系都带有强烈的「开眼看世界」色彩，全国旅客过南京而不登旋转餐厅被视作憾事，「到金陵饭店吃一顿饭」成为一代人的城市想象。",
+"impact": "现代高层酒店与涉外服务业的标杆确立，城市天际线竞争自此进入「第一高楼」叙事。",
+"aftermath": "金陵饭店2007年扩建二期能与海新楼，2010年代完成股份制上市；旋转餐厅至今仍是南京城市记忆的坐标。",
+"sources": [
+{
+"title": "维基百科：金陵饭店",
+"url": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%99%B5%E9%A5%AD%E5%BA%97",
+"type": "wiki"
+},
+{
+"title": "每个南京人心中都有一个金陵饭店的故事（南京市档案局）",
+"url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231030_4043335.html",
+"type": "official"
+}
+],
+"tags": [
+"经济",
+"江苏",
+"南京",
+"金陵饭店",
+"酒店",
+"改革开放",
+"地标"
 ]
 }
 ]

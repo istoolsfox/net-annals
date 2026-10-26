@@ -57,7 +57,7 @@
 "id": "1996-11-01-librairie-avant-garde",
 "date": "1996-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "先锋书店在南京开业：独立书店三十年沉浮的起点",
 "category": "culture",
 "region": "cn",
@@ -75,6 +75,11 @@
 {
 "title": "百度百科：先锋书店",
 "url": "https://baike.baidu.com/item/先锋书店",
+"type": "wiki"
+},
+{
+"title": "钱小华 - 维基百科",
+"url": "https://zh.wikipedia.org/zh-hans/%E9%92%B1%E5%B0%8F%E5%8D%8E",
 "type": "wiki"
 }
 ],
