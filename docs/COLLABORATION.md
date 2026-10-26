@@ -24,6 +24,8 @@ python3 scripts/lane_check.py                        # 一键体检：在场检�
 | **B · 世家/栏目/基建** | 体系会话 | `data/entities/**`、`site/entities/**`、`site/today/**`、`data/persons/groups/**`、`site/assets/**`、SEO/sitemap/robots、`scripts/entity_extract.py`、`validate_entity.py`、`build_entities.py`、`build_today.py`、`make_og.py` |
 | **C · 人物志 batch** | 任一空闲会话认领 | `data/persons/p_*.json`（先查重：`grep name data/persons/*.json`） |
 
+> **防覆盖铁律（2026-10-26 增补）**：①发布目标一律 `netannals`（toolsfox 是旧服务器仅301）；②主站备案黑屏期（nginx 444，镜像 istoolsfox.github.io 服务），线上验证异常≠故障；③`site/persons/data.json` 现为370人、`data/persons/*.json` 源已齐（p_server_side_1~16），跑 build_persons 前后核对人数；④works 栏目构建管线在仓库外，数据以静态工件入库，**禁止本地重新生成 site/works/**；⑤改前端先读 common.js/section-page.js（三栏目同一引擎），禁止按旧 app.js 假设改。
+
 > 车道占用现状（2026-10-23 下午）：主数据会话（本表编辑者）占 **A 车道**（编年补条+日期补证，`g_thin_*.json`/补证队列）与 **C 车道**（`p_legends_1`/`p_game_masters_1` 等已提交），并在 B 车道借用 `group_batch3.json` 子路径写类传（乒乓/电影演员/古代科学家/翻译家/诺奖，与 B 会话 batch1/2 共存无冲突）；B 车道其余归体系会话（世家+tianya 提取中）。
 | **共享区** | 全体 | `PROGRESS.md`、`ROADMAP.md`、`site/index.html`、`scripts/deploy.sh`、`scripts/build.py`、两个 SPEC、`site/persons/index.html` |
 
