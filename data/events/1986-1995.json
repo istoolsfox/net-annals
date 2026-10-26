@@ -4600,6 +4600,34 @@
 ]
 },
 {
+"id": "1994-02-18-computer-security-regulation",
+"date": "1994-02-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《计算机信息系统安全保护条例》发布：计算机安全有了第一部行政法规",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "国务院令第147号发布《中华人民共和国计算机信息系统安全保护条例》，自发布之日起施行。这是中国第一部规范计算机信息系统安全的行政法规，公安部从此主管全国计算机信息系统安全保护工作。",
+"detail": "1994年2月18日，国务院发布第147号令《中华人民共和国计算机信息系统安全保护条例》，自发布之日起施行。条例界定了『计算机信息系统』的范围，规定公安部主管全国计算机信息系统安全保护工作，并首次提出安全等级保护的管理思路。彼时互联网尚未向社会开放，条例主要面向单机与局域网时代的信息系统；但它确立的主管体制与等级保护思路，成为此后网络安全等级保护制度的源头。三年间，1996年国务院《计算机信息网络国际联网管理暂行规定》、1997年公安部《计算机信息网络国际联网安全保护管理办法》相继出台，都以这份条例为制度起点。",
+"impact": "计算机信息系统安全第一次有了全国统一的行政规范，公安部主管体制由此确立。",
+"aftermath": "2007年信息安全等级保护管理办法、2017年《网络安全法》的等级保护制度均承接其框架。",
+"sources": [
+{
+"title": "国家互联网信息办公室：条例全文",
+"url": "https://www.cac.gov.cn/1994-02/19/c_126193562.htm",
+"type": "official"
+}
+],
+"tags": [
+"政策法规",
+"互联网",
+"法规",
+"信息安全",
+"国务院"
+]
+},
+{
 "id": "1994-02-25-hebron-massacre",
 "date": "1994-02-25",
 "date_accuracy": "exact",
@@ -4711,6 +4739,33 @@
 ]
 },
 {
+"id": "1994-04-12-green-card-spam",
+"date": "1994-04-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "『绿卡彩票』垃圾邮件：第一次大规模网络广告轰炸",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1994年4月12日，美国坎特与西格尔律师事务所把一则绿卡抽签广告群发到至少5500个新闻组，成为第一次大规模商业垃圾邮件，『垃圾邮件』从此成为网络生活的固定烦恼。",
+"detail": "1994年4月12日，美国亚利桑那州的移民律师坎特与西格尔夫妇，通过律师事务所的联网账号把『绿卡彩票——最后一期？』广告自动群发到至少5500个新闻组，招揽客户申请美国绿卡抽签。愤怒的网民用邮件轰炸回敬，两人的账号被服务商关闭，他们却顺势出书讲『如何在互联网上发广告』，坚持自己没做错什么。这封邮件被视为第一次大规模商业垃圾邮件：它第一次把『发信几乎零成本、收信人人买单』的网络传播经济账摆上台面，反垃圾过滤、黑名单、退订机制自此提上日程。此后垃圾邮件长期占据全球电子邮件流量的相当比例，各国陆续立法治理。",
+"impact": "反垃圾邮件过滤与黑名单机制开始出现，网络礼仪第一次有了商业对手。",
+"aftermath": "垃圾邮件治理延续至今，各主流邮箱都内置过滤系统；多国出台反垃圾邮件法规。",
+"sources": [
+{
+"title": "Wikipedia: Canter and Siegel",
+"url": "https://en.wikipedia.org/wiki/Canter_and_Siegel",
+"type": "wiki"
+}
+],
+"tags": [
+"军事与战争",
+"互联网",
+"电子邮件",
+"垃圾邮件"
+]
+},
+{
 "id": "1994-04-15-marrakesh-agreement",
 "date": "1994-04-15",
 "date_accuracy": "exact",
@@ -4799,6 +4854,38 @@
 ]
 },
 {
+"id": "1994-05-01-shuguang-bbs",
+"date": "1994-05-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "曙光BBS开通：中国大陆第一个BBS",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1994年5月，依托中科院计算所国家智能计算机研究开发中心的曙光BBS开通，这是中国大陆第一个电子公告板系统，中文网络论坛的历史从此起笔。",
+"detail": "1994年5月，国家智能计算机研究开发中心（依托中科院计算技术研究所）把曙光BBS站投入使用——这是中国大陆第一个BBS（电子公告板）。彼时上网还是少数科研人员的特权，曙光BBS供他们张贴技术讨论与公告，规模很小，却是中文网络论坛的第一块试验田。1995年8月水木清华BBS开站后，BBS在高校间迅速铺开，曙光站完成了拓荒使命逐渐淡出。从曙光到水木，再到1990年代末各大网站的论坛，中文互联网的公共讨论传统就发端于这些字符界面的公告板。",
+"impact": "电子公告板形态进入中国大陆，网络论坛的传统由此开端。",
+"aftermath": "BBS此后十年是中国网民公共生活的主要场所，2000年代被门户网站论坛与博客接力。",
+"sources": [
+{
+"title": "新浪科技：中国第一个BBS站点曙光BBS",
+"url": "http://tech.sina.cn/2008-11-12/detail-iaaaaaaa4480658.d.html",
+"type": "news"
+},
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+}
+],
+"tags": [
+"互联网",
+"BBS",
+"中科院",
+"论坛"
+]
+},
+{
 "id": "1994-05-06-channel-tunnel-open",
 "date": "1994-05-06",
 "date_accuracy": "exact",
@@ -4855,6 +4942,38 @@
 ]
 },
 {
+"id": "1994-05-15-ihep-first-website",
+"date": "1994-05-15",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "高能所架起中国第一台万维网服务器",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1994年5月15日，中科院高能物理研究所架设中国第一台万维网服务器并发布第一套网页，向世界介绍中国的高科技发展——中国互联网从此有了对外展示的『脸面』。",
+"detail": "1994年4月20日中国实现全功能接入国际互联网后，中科院高能物理研究所随即在计算中心架设起中国第一台万维网服务器，5月15日发布第一套网页——内容包括研究所介绍和『中国之旅』栏目，向世界展示中国科技与文化，该栏目后来更名为『中国之窗』。服务器跑在Sun工作站上，网页由许榕生等人组织制作。在此之前，中国的信息只能通过新闻组与电子邮件对外传递；万维网页的出现，让国外同行第一次可以『点开』中国。高能所网站由此成为中国最早的网站之一，域名沿用至今。",
+"impact": "中国第一次以网页形式向世界发布信息，万维网在中国落地。",
+"aftermath": "高能所网站成为中国最早网站之一；科研院所网站在随后数年间陆续上线。",
+"sources": [
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+},
+{
+"title": "中科院高能物理研究所：中国第一个WWW网站",
+"url": "https://ihep.cas.cn/jg/yjbm/jszx/ktxx/wljsyj/202105/t20210521_6035636.html",
+"type": "official"
+}
+],
+"tags": [
+"互联网",
+"万维网",
+"中科院",
+"网站"
+]
+},
+{
 "id": "1994-05-21-cn-dns-home",
 "date": "1994-05-21",
 "date_accuracy": "exact",
@@ -4883,6 +5002,34 @@
 "互联网",
 ".CN",
 "DNS"
+]
+},
+{
+"id": "1994-06-08-three-golden-projects-notice",
+"date": "1994-06-08",
+"date_accuracy": "exact",
+"date_confidence": "single-source",
+"title": "国办发出『三金工程』问题通知",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1994年6月8日，国务院办公厅发出关于『三金工程』问题的通知，金桥、金关、金卡三项国家级信息网络工程全面部署，中国信息化基础设施建设进入国家议程。",
+"detail": "1994年6月8日，国务院办公厅发出《关于『三金工程』有关问题的通知》。『三金』指金桥（国家公用经济信息网络）、金关（对外经济贸易信息网络）与金卡（电子货币支付网络），是1993年起提出的首批国家级信息化工程。这份通知明确了三项工程的实施主体与推进安排，其中金桥工程由随后组建的吉通公司承建，金桥信息网在1996年开通互联网服务。『三金』工程把网络建设第一次列为国家级任务，为此后电信部门、专业部门陆续建设互联网骨干网提供了组织与政策铺垫。",
+"impact": "国家级信息化工程有了统一部署，网络基础设施建设进入国家议程。",
+"aftermath": "金桥信息网1996年开通互联网服务；『金』字系列工程此后扩展到金税、金盾等十余项。",
+"sources": [
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+}
+],
+"tags": [
+"政策法规",
+"互联网",
+"信息化",
+"金桥工程",
+"国务院"
 ]
 },
 {
@@ -4940,6 +5087,61 @@
 ]
 },
 {
+"id": "1994-09-01-chinanet-construction",
+"date": "1994-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "邮电部签约建设ChinaNet：公共互联网开工",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1994年9月，邮电部电信总局与美国方面签署中美互联网互联协议，中国公用计算机互联网（ChinaNet）开始建设，运营商级公共互联网的第一张图纸铺开。",
+"detail": "1994年9月，邮电部电信总局与美国商务部签署中美互联网互联协议，中国公用计算机互联网（ChinaNet）随之启动建设。这是中国电信运营商第一次把互联网当作面向公众的电信业务来建：与只服务院所高校的科研网络不同，ChinaNet的目标是向社会提供接入服务。1995年1月，北京、上海两个节点的64K国际专线开通并开始向社会提供接入服务；1996年1月1日全国骨干网建成。ChinaNet建成后，普通人拨一根电话线就能上网，中国互联网从科研大院走向社会。",
+"impact": "运营商级公共互联网开工，为1995年向社会开放接入服务奠定基础。",
+"aftermath": "ChinaNet于1996年1月建成全国骨干网，成为中国家庭上网的第一管道。",
+"sources": [
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+}
+],
+"tags": [
+"通信",
+"互联网",
+"ChinaNet",
+"邮电部",
+"骨干网"
+]
+},
+{
+"id": "1994-10-01-w3c-founded",
+"date": "1994-10-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "万维网联盟成立：给万维网立规矩的机构上岗",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1994年10月1日，万维网发明人蒂姆·伯纳斯-李在麻省理工学院创立万维网联盟（W3C），以共识流程制定HTML等开放标准，万维网的演进从此有了中立的家。",
+"detail": "1994年10月1日，万维网发明人蒂姆·伯纳斯-李在麻省理工学院计算机科学实验室创立万维网联盟（W3C），欧洲与日本的学术机构随后加入共同主办。彼时网景、微软相继入场，浏览器各自加私货的趋势初现；W3C的使命就是让万维网保持开放互通，以共识流程制定HTML、CSS、XML等开放标准。此后三十年，从网页到移动网络、无障碍访问，W3C的推荐标准决定了全球数十亿用户看到的网页长什么样。中国也深度参与其中：1996年清华大学提交的汉字统一传输标准被互联网工程任务组定为RFC1922，成为中国第一份被认可的RFC文件。",
+"impact": "万维网有了中立的标准制定机构，避免浏览器各自为政撕裂网络。",
+"aftermath": "HTML5等推荐标准沿用至今；W3C现有数百家成员机构，中国企业和高校深度参与标准制定。",
+"sources": [
+{
+"title": "Wikipedia: World Wide Web Consortium",
+"url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium",
+"type": "wiki"
+}
+],
+"tags": [
+"互联网",
+"万维网",
+"标准",
+"W3C"
+]
+},
+{
 "id": "1994-10-13-netscape-navigator",
 "date": "1994-10-13",
 "date_accuracy": "exact",
@@ -4990,6 +5192,33 @@
 "国际",
 "朝鲜",
 "核问题"
+]
+},
+{
+"id": "1994-10-27-first-banner-ad",
+"date": "1994-10-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "全球第一条网幅广告登上HotWired",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1994年10月27日，AT&T的一块横幅广告出现在《连线》杂志网络版HotWired上，被广泛视为全球第一条网络广告，互联网商业化的第一块多米诺骨牌倒下。",
+"detail": "1994年10月27日，HotWired（《连线》杂志的网络版）上线，首页出现AT&T的广告——一块写着『你用鼠标点过这里吗？你会的』的横幅，点击后跳转到AT&T的在线展览页面。这块横幅被广泛视为全球第一条网幅广告，上线之初点击率高得惊人。此后『网页+广告』成为互联网商业模式的原型：内容免费、广告买单。三年后的1997年3月，英特尔在中国投下第一支网络旗帜广告，用的正是同一套形式。今天的信息流广告、程序化投放，都是这块横幅的后代。",
+"impact": "网络广告作为商业模式诞生，内容网站有了收入来源。",
+"aftermath": "网幅广告发展为庞大的展示广告产业，投放方式从固定版位演进到程序化购买。",
+"sources": [
+{
+"title": "Wikipedia: Web banner",
+"url": "https://en.wikipedia.org/wiki/Web_banner",
+"type": "wiki"
+}
+],
+"tags": [
+"文化出口",
+"互联网",
+"网络广告",
+"商业模式"
 ]
 },
 {
@@ -5264,6 +5493,62 @@
 ]
 },
 {
+"id": "1995-01-01-asiainfo-back-china",
+"date": "1995-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "亚信回国：中国互联网的『主建筑师』回国创业",
+"category": "company",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年，田溯宁、丁健把在美国创办的亚信公司迁回北京中关村，此后数年承建了ChinaNet等几乎全部中国早期互联网骨干工程。",
+"detail": "亚信公司由田溯宁、丁健等留美学生于1993年在美国达拉斯创办，立志把互联网带回中国。1995年，亚信回国在中关村设立亚信科技（中国）有限公司，赶上了中国互联网基建的开工潮：先后承建ChinaNet骨干网与多个省级节点、上海热线等工程，被称为中国互联网的『主建筑师』。工程养大了公司，也练出了队伍——2000年亚信在纳斯达克上市，成为中国第一家在美上市的高科技企业，为随后新浪、搜狐、网易的上市蹚了路。",
+"impact": "中国早期互联网骨干工程有了成建制的建设队伍。",
+"aftermath": "亚信2000年登陆纳斯达克；其承建的网络至今仍是中国电信网络资产的一部分。",
+"sources": [
+{
+"title": "亚信科技：田溯宁《写在亚信科技30华诞》",
+"url": "https://www.asiainfo.com/zh_cn/content_4173.html",
+"type": "official"
+}
+],
+"tags": [
+"公司",
+"互联网",
+"亚信",
+"骨干网",
+"创业"
+]
+},
+{
+"id": "1995-01-12-china-xuexiren-ezine",
+"date": "1995-01-12",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "《神州学人》电子版上网：中国第一份中文电子期刊",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年1月12日，《神州学人》杂志经中国教育和科研计算机网进入国际互联网，成为中国第一份中文电子期刊，中文报刊上网的序幕由此拉开。",
+"detail": "1995年1月12日，面向海外留学人员的《神州学人》杂志经中国教育和科研计算机网（CERNET）送上国际互联网，成为中国第一份进入互联网的中文电子期刊。彼时网上中文信息极度匮乏，海外学子要了解国内消息，大多只能靠邮件与传真；《神州学人》电子周刊让他们第一次可以在网上读到中文刊物。CNNIC编写的中国互联网发展大事记将其记录为中国第一份中文电子期刊。此后《人民日报》网络版（1997年）与各类报纸电子版陆续跟进，中文网络媒体就此起步。",
+"impact": "中文信息第一次以期刊形态进入互联网，海外华人多了一个了解国内的窗口。",
+"aftermath": "报刊电子版在1997年后集中上线，网络媒体渐成体系。",
+"sources": [
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+}
+],
+"tags": [
+"教育",
+"互联网",
+"网络媒体",
+"电子期刊",
+"留学"
+]
+},
+{
 "id": "1995-02-26-barings-collapse",
 "date": "1995-02-26",
 "date_accuracy": "exact",
@@ -5346,6 +5631,33 @@
 ]
 },
 {
+"id": "1995-04-01-realaudio-launch",
+"date": "1995-04-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "RealAudio发布：网上第一次有了声音",
+"category": "tech",
+"region": "world",
+"milestone": false,
+"summary_30s": "1995年4月，渐进网络公司（后来的RealNetworks）发布RealAudio，音频第一次可以边下载边收听，流媒体时代自此开场。",
+"detail": "1995年4月，美国渐进网络公司发布RealAudio音频格式与播放器——利用渐进式传输，音频文件不必下载完毕就能边传边放。在拨号上网只有几K到几十K每秒的年代，RealAudio用低码率换来了『实时收听』的体验，电台直播、赛事解说第一次可以直接从网上传进耳机。RealAudio后来在格式竞争中败给MP3与更晚的AAC，但『流』这个概念留了下来——今天的网络视频、音乐流媒体，走的都是它当年蹚出的路。",
+"impact": "流媒体概念确立，音频与后来的视频开始在互联网上实时传输。",
+"aftermath": "RealNetworks在2000年代式微；流媒体成为互联网内容分发的主流形态。",
+"sources": [
+{
+"title": "Wikipedia: RealAudio",
+"url": "https://en.wikipedia.org/wiki/RealAudio",
+"type": "wiki"
+}
+],
+"tags": [
+"科技",
+"互联网",
+"流媒体",
+"音频"
+]
+},
+{
 "id": "1995-04-19-oklahoma-city-bombing",
 "date": "1995-04-19",
 "date_accuracy": "exact",
@@ -5375,6 +5687,32 @@
 "本土恐怖主义",
 "民兵运动",
 "韦科"
+]
+},
+{
+"id": "1995-04-21-match-com-launch",
+"date": "1995-04-21",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "Match.com上线：网上相亲的开端",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1995年4月21日，Match.com上线，成为最早的在线婚恋网站之一，把『找对象』这件事第一次搬上了互联网。",
+"detail": "1995年4月21日，加里·克雷门等人创办的Match.com上线，先以免费测试版运行，同年被《连线》杂志报道后声名鹊起。此前网络交友散布于新闻组与BBS，Match.com把它做成了有档案、有搜索、有付费订阅的正式生意——用户填写个人资料，按条件检索候选人，线上通信、线下见面。在线婚恋由此成为一个行业，中国的世纪佳缘（2003年）等后来者都沿用这套模式。今天约会软件的左右滑动，某种意义上仍是这套『资料匹配』逻辑的直系后代。",
+"impact": "在线婚恋成为互联网最早的付费订阅商业模式之一。",
+"aftermath": "Match集团后来拥有多个全球约会应用；中国婚恋网站在2000年代兴起。",
+"sources": [
+{
+"title": "Wikipedia: Match.com",
+"url": "https://en.wikipedia.org/wiki/Match.com",
+"type": "wiki"
+}
+],
+"tags": [
+"互联网",
+"婚恋",
+"社交"
 ]
 },
 {
@@ -5662,6 +6000,32 @@
 ]
 },
 {
+"id": "1995-09-03-auctionweb-launch",
+"date": "1995-09-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
+"title": "AuctionWeb开张：网上拍卖的起点",
+"category": "internet",
+"region": "world",
+"milestone": false,
+"summary_30s": "1995年9月3日，皮埃尔·奥米迪亚的AuctionWeb网站上线，人人都可以在网上拍卖旧物，这家小网站后来更名为eBay。",
+"detail": "1995年9月3日，程序员皮埃尔·奥米迪亚把一个名为AuctionWeb的拍卖页面挂上自己的个人网站，本意是写段代码练练手，第一批拍品里有一只坏掉的激光笔，被人以14.83美元买走——买主说自己就是收藏激光笔的。『人人可以卖、人人可以出价』的机制就此跑通，网站很快从个人主页长成独立生意，1997年更名为eBay。中国的易趣（1999年）、淘宝（2003年）走的都是个人对个人网上拍卖的路子。一只坏激光笔卖出去的故事，成为互联网长尾市场最生动的注脚。",
+"impact": "个人对个人网上拍卖模式跑通，个人交易第一次有了全球市场。",
+"aftermath": "eBay成长为全球拍卖平台；中国C2C市场由易趣、淘宝接力。",
+"sources": [
+{
+"title": "Wikipedia: eBay",
+"url": "https://en.wikipedia.org/wiki/EBay",
+"type": "wiki"
+}
+],
+"tags": [
+"互联网",
+"电子商务",
+"拍卖"
+]
+},
+{
 "id": "1995-09-04-gender-equality-policy",
 "date": "1995-09-04",
 "date_accuracy": "exact",
@@ -5882,6 +6246,38 @@
 "教育",
 "早期网民",
 "统计"
+]
+},
+{
+"id": "1995-12-01-cernet-pilot-acceptance",
+"date": "1995-12-01",
+"date_accuracy": "month",
+"date_confidence": "verified",
+"title": "CERNET示范工程通过国家验收",
+"category": "internet",
+"region": "cn",
+"milestone": false,
+"summary_30s": "1995年12月，中国教育和科研计算机网（CERNET）示范工程建成并通过国家验收，全国第一个覆盖八大地区的互联网骨干网交付，高校联网全面提速。",
+"detail": "1995年12月，由清华、北大等十所高校承建的中国教育和科研计算机网（CERNET）示范工程完成并通过国家验收。这条1994年立项的骨干网把八大地区中心连成一体，以128K国际专线连通国际互联网，百余所高校率先接入。CERNET的验收意味着中国第一张全国性互联网骨干网从试验转入运营：高校师生成了规模最大的第一批网民，1997年CNNIC第一次统计报告中，教育科研用户占了最大头。骨干网随后持续扩容，2M国际线路、卫星链路在1996到1999年间陆续开通。",
+"impact": "全国高校联网进入快车道，教育科研用户成为中国网民第一大群体。",
+"aftermath": "CERNET此后持续扩容，并承担IPv6下一代互联网试验（CERNET2）。",
+"sources": [
+{
+"title": "中国教育和科研计算机网：互联网大事记",
+"url": "https://www.cernet.edu.cn/xxh/ji_shu_ju_le_bu/Internet/202404/t20240424_2600656.shtml",
+"type": "official"
+},
+{
+"title": "CNNIC：中国互联网发展大事记",
+"url": "https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm",
+"type": "official"
+}
+],
+"tags": [
+"互联网",
+"CERNET",
+"教育",
+"骨干网"
 ]
 }
 ]
