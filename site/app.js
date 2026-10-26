@@ -207,11 +207,22 @@ const Timeline = {
       g.innerHTML = `<div class="yBadge" data-year="${year}" title="点击复制这一年的链接"><span>${year}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
       const frag = document.createDocumentFragment();
+      // 同日分组：date 相同的事件共享一个卡位——主事件占位，其余收进可展开的「同日」折叠层。
+      // 左右交替按"卡位"（组）计数，整组同侧，视觉不乱。
+      const byDate = new Map();
       for (const e of list) {
+        let arr = byDate.get(e.date);
+        if (!arr) byDate.set(e.date, arr = []);
+        arr.push(e);
+      }
+      for (const dayEv of byDate.values()) {
+        const p = dayEv.length === 1 ? dayEv[0] : this.pickPrimary(dayEv);
+        const extras = dayEv.length > 1 ? dayEv.filter(e => e !== p) : null;
         const holder = document.createElement('div');
-        holder.className = 'card' + (flip ? ' right' : '') + (e.milestone ? ' mile' : '') + (UIState.expandAll ? ' open' : '');
-        holder.dataset.id = e.id;
-        holder.innerHTML = this.cardHtml(e);
+        holder.className = 'card' + (flip ? ' right' : '') + (p.milestone ? ' mile' : '') + (UIState.expandAll ? ' open' : '');
+        holder.dataset.id = p.id;
+        holder.innerHTML = this.cardHtml(p);
+        if (extras) holder.appendChild(this.sameDayEl(extras));
         frag.appendChild(holder);
         this.reveal.observe(holder);
         flip = 1 - flip;
@@ -260,13 +271,64 @@ const Timeline = {
       <h3 class="cTitle"><a href="${esc(safeUrl(src0.url))}" target="_blank" rel="noopener" title="点击标题跳转原文">${esc(e.title)} <span class="arrow">↗</span></a></h3>
       <p class="cSum">${esc(sum)}${long ? ' <span class="hint">展开看全文</span>' : ''}</p>
       <button class="cMore">展开经过与影响 <i>∨</i></button>
-      <div class="cBody"><div class="cBodyInner">
-        <div class="sec"><span class="lab">经过</span><p>${esc(e.detail)}</p></div>
-        <div class="sec"><span class="lab">影响</span><p>${esc(e.impact)}</p></div>
-        <div class="sec"><span class="lab">后续</span><p>${esc(e.aftermath)}</p></div>
-        <div class="sec"><span class="lab">数据来源</span><ul class="srcList">${e.sources.map(s =>
-          `<li><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>
-      </div></div>`;
+      <div class="cBody"><div class="cBodyInner">${this.bodyHtml(e)}</div></div>`;
+  },
+
+  /** 卡片正文（经过/影响/后续/来源）：主卡与同日折叠行详情共用同一套 .sec 语言 */
+  bodyHtml(e) {
+    return `
+      <div class="sec"><span class="lab">经过</span><p>${esc(e.detail)}</p></div>
+      <div class="sec"><span class="lab">影响</span><p>${esc(e.impact)}</p></div>
+      <div class="sec"><span class="lab">后续</span><p>${esc(e.aftermath)}</p></div>
+      <div class="sec"><span class="lab">数据来源</span><ul class="srcList">${e.sources.map(s =>
+        `<li><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>`;
+  },
+
+  /** 同日分组的主事件挑选（确定性）：时代转折 > 双源实证 > 正文更详 > 数据序。
+   *  分组发生在筛选之后，故筛选变化时主事件随可见集自动切换。 */
+  pickPrimary(g) {
+    const score = e => (e.milestone ? 2 : 0) + (e.sources.length >= 2 ? 1 : 0);
+    let best = g[0], bs = score(best);
+    for (const e of g) {
+      const s = score(e);
+      if (s > bs || (s === bs && (e.detail || '').length > (best.detail || '').length)) { best = e; bs = s; }
+    }
+    return best;
+  },
+
+  /** 同日折叠层骨架：只建 toggle 条与空容器——行 DOM 首次展开才构建，行内详情再懒一层 */
+  sameDayEl(extras) {
+    const el = document.createElement('div');
+    el.className = 'sameDay';
+    const hints = extras.slice(0, 2).map(e => e.title).join('；');
+    el.innerHTML = `
+      <button class="sdToggle" aria-expanded="false" title="展开同日事件">
+        <i class="sdArrow">▸</i>同日还有 ${extras.length} 件<span class="sdHints">${esc(hints)}${extras.length > 2 ? '…' : ''}</span>
+      </button>
+      <div class="sdList"><div class="sdListInner"></div></div>`;
+    el._extras = extras;
+    return el;
+  },
+
+  /** 同日行的紧凑外观；详情默认 0fr 收起，展开复用主卡正文 */
+  sdRowHtml(e) {
+    const cat = CAT[e.category] || { name: e.category, c: '#8a919e' };
+    const conf = CONF[e.date_confidence] || CONF.uncertain;
+    return `
+      <button class="sdRow" aria-expanded="false">
+        <span class="cDot" style="--c:${cat.c}"></span>
+        <span class="sdCat">${cat.name}</span>
+        <span class="sdTitle">${esc(e.title)}</span>
+        <span class="sdMeta"><span class="cConf ${conf[1]}">${conf[0]}</span><span class="cAcc">${e.region === 'cn' ? '中国' : '世界'}</span></span>
+      </button>
+      <div class="sdDetail"><div class="sdDetailInner">${this.bodyHtml(e)}</div></div>`;
+  },
+
+  /** 首次展开同日层时构建行 DOM（全库 1100+ 条同日事件，隐藏详情不预渲染） */
+  fillSameDay(sd) {
+    if (sd._filled) return;
+    sd.querySelector('.sdListInner').innerHTML = sd._extras.map(e => `<div class="sdItem">${this.sdRowHtml(e)}</div>`).join('');
+    sd._filled = true;
   },
 
   /** 筛选变化：重建空壳，只同步重渲「已加载且在视口附近」的时代，其余交给 IO（避免全量重渲） */
@@ -339,6 +401,8 @@ const Timeline = {
         .find(x => x.querySelector('.yBadge span')?.textContent === year);
       if (!g) { await this._jump(eraIdx); return; }
       const y = g.getBoundingClientRect().top + window.scrollY - 150;
+      Toolbar._toolPin = Date.now() + 1500;
+      document.getElementById('toolbar').classList.remove('tHide');
       window.scrollTo({ top: y, behavior: 'instant' });
       if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
       g.querySelector('.yBadge').classList.add('flash');
@@ -348,6 +412,8 @@ const Timeline = {
   async _jump(i) {
     const sec = document.getElementById(`era-${i}`);
     if (!sec) return;
+    Toolbar._toolPin = Date.now() + 1500;               // 落位后短暂钉住，让用户看到时代高亮
+    document.getElementById('toolbar').classList.remove('tHide');
     try {
       await Store.loadShard(i);                         // 分片未加载先取
       this.renderEraHead(i);
@@ -361,9 +427,9 @@ const Timeline = {
   },
 };
 
-/* ── 工具函数 ─────────────────── */
-const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
+/* ── 工具函数（esc/safeUrl 单一实现在 common.js，此处别名以维持调用点不变） ── */
+const esc = NA.esc;
+const safeUrl = NA.safeUrl;
 const $ = s => document.querySelector(s);
 
 /* 轻提示：复制成功/失败等瞬时反馈（单例，避免连续触发堆叠） */
@@ -467,6 +533,21 @@ const Toolbar = {
     };
     $('#ctaEras').onclick = e => { e.preventDefault(); Timeline.jumpTo(0); };
     $('#toTop').onclick = () => window.scrollTo({ top: 0, behavior: 'instant' });
+    // 吸顶工具栏自动隐藏：向下滚（已过首屏）藏、向上滚露，阅读时让出整屏；
+    // 鼠标/焦点进入工具栏时保持显示；跳转定位后钉住 1.5s 不藏
+    const tb = document.getElementById('toolbar');
+    tb.addEventListener('pointerenter', () => tb.classList.remove('tHide'));
+    tb.addEventListener('focusin', () => tb.classList.remove('tHide'));
+    // 芯片行横滑轨道：鼠标滚轮纵向量转横向滑动，滚到头自动放行页面滚动
+    // （触屏横扫、触控板横滑是原生行为不受影响）——解决「右边的芯片看不见也点不到」
+    document.querySelectorAll('.chipRow').forEach(row => row.addEventListener('wheel', e => {
+      if (!e.deltaY || row.scrollWidth <= row.clientWidth) return;
+      const atStart = row.scrollLeft <= 0 && e.deltaY < 0;
+      const atEnd = row.scrollLeft + row.clientWidth >= row.scrollWidth - 1 && e.deltaY > 0;
+      if (atStart || atEnd) return;
+      e.preventDefault();
+      row.scrollLeft += e.deltaY;
+    }, { passive: false }));
     let lastSave = 0;
     let scrollLast = 0;
     let revealLast = 0;
@@ -478,13 +559,26 @@ const Toolbar = {
       const h = document.documentElement;
       $('#progress').style.width = (h.scrollTop / (h.scrollHeight - h.clientHeight) * 100) + '%';
       $('#toTop').classList.toggle('show', h.scrollTop > 800);
+      // 工具栏自动隐藏（方向判定基于节流采样点间的位移）。
+      // 只在工具栏已吸顶（top≈53）后允许隐藏——未吸住就位移会卡在顶栏下露半截
+      const y = h.scrollTop;
+      const stuck = tb.getBoundingClientRect().top <= 55;
+      if (Date.now() >= (Toolbar._toolPin || 0)) {
+        if (stuck && y - (Toolbar._lastY ?? y) > 4) tb.classList.add('tHide');
+        else if (!stuck || y < (Toolbar._lastY ?? y) - 4) tb.classList.remove('tHide');
+      }
+      Toolbar._lastY = y;
       // 注意：本回调注册于 Toolbar.init，箭头函数 this 是 Toolbar——
-      // Timeline 的方法必须显式引用（历史上 this.markCurrentEra 在此静默报错多年）
-      Timeline.markCurrentEra();
+      // 时代高亮在 Toolbar 上（历史上误写 Timeline.markCurrentEra 每帧静默报错，
+      // 连带中断其后同一回调里的 checkViewport 几何兜底）
+      if (now - (Toolbar._eraLast || 0) > 200) {           // 时代高亮 200ms 足够（省去每 tick 的强制回流）
+        Toolbar._eraLast = now;
+        Toolbar.markCurrentEra();
+      }
       Timeline.checkViewport();                              // 几何兜底：IO 不可用的环境靠滚动驱动渲染
-      if (now - revealLast > 150) {                        // reveal 兜底：IO 不可用时滚动也能点亮卡片
+      if (now - revealLast > 150) {                        // reveal 兜底：仅 IO 缺失环境启用（全量卡片扫描开销大）
         revealLast = now;
-        Timeline.revealSweep();
+        if (!('IntersectionObserver' in window)) Timeline.revealSweep();
       }
       if (now - lastSave > 2000 && Store.ready) {          // 节流记录阅读位置
         lastSave = now;
@@ -505,6 +599,24 @@ const Toolbar = {
       }
       const more = ev.target.closest('.cMore');
       if (more) { more.closest('.card').classList.toggle('open'); return; }
+      // 同日折叠层：层内点击不冒泡成卡片展开；toggle 懒构建行，行点击懒开详情
+      if (ev.target.closest('.sameDay')) {
+        const row = ev.target.closest('.sdRow');
+        if (row) {
+          const item = row.closest('.sdItem');
+          const on = item.classList.toggle('open');
+          row.setAttribute('aria-expanded', on);
+          return;
+        }
+        const tg = ev.target.closest('.sdToggle');
+        if (tg) {
+          const sd = tg.closest('.sameDay');
+          const on = sd.classList.toggle('open');
+          tg.setAttribute('aria-expanded', on);
+          if (on) Timeline.fillSameDay(sd);
+        }
+        return;
+      }
       const card = ev.target.closest('.card');
       if (card && !ev.target.closest('a')) card.classList.add('open');
     });
@@ -566,6 +678,32 @@ async function boot() {
     requestAnimationFrame(() => Timeline.checkViewport());
     for (const d of [300, 1200, 3000]) setTimeout(() => Timeline.checkViewport(), d);
     Timeline.flushPending();
+    const qp = new URLSearchParams(location.search);
+    const wantEvent = qp.get('event');
+    if (wantEvent && /^\w[\w-]*$/.test(wantEvent)) {
+      const wd = qp.get('date');
+      const eras = wd && /^\d{4}-\d{2}-\d{2}$/.test(wd) ? [Store.eraIndex(wd)] : ERAS.map((_, i) => i);
+      let hit = null;
+      for (const i of eras) {
+        try { await Store.loadShard(i); } catch (err) { continue; }
+        hit = (Store.shards[i] || []).find(e => e.id === wantEvent);
+        if (hit) break;
+      }
+      if (hit) {
+        const era = Store.eraIndex(hit.date);
+        await Store.loadShard(era);
+        Timeline.renderEraHead(era);
+        await Timeline.renderEra(era);
+        const card = document.querySelector('.card[data-id="' + wantEvent + '"]');
+        if (card) {
+          card.classList.add('open', 'in');
+          card.scrollIntoView({ block: 'center', behavior: 'instant' });
+          card.style.outline = '2px solid var(--accent)';
+          setTimeout(() => { card.style.outline = ''; }, 2600);
+          toast('已定位到这条事件');
+        }
+      }
+    }
     const wantYear = new URLSearchParams(location.search).get('year');
     const lastRead = localStorage.getItem('na-last-read');
     if (wantYear && /^\d{4}$/.test(wantYear)) {

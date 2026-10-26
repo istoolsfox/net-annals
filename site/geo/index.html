@@ -5,7 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="地域日志：全国34省·367市·3361县的发展长卷，按城市、县城筛选查找本地大事件。">
 <title>地域日志 · 省市县发展长卷 | 互联网编年史</title>
-<link rel="stylesheet" href="../style.css?v=16">
+<link rel="icon" href="../favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
+<link rel="stylesheet" href="../style.css?v=24">
 <style>
 /* 地域日志页自有样式（配色沿用主站变量） */
 body{margin:0;font-family:var(--sans,"PingFang SC","Microsoft YaHei",sans-serif);color:var(--text,#e8e6e1)}
@@ -70,7 +73,6 @@ document.documentElement.dataset.theme=t;})();
 <body>
 <div class="topbar">
   <a class="brand" href="../">← 互联网编年史</a>
-  <a href="../#colophon">凡例</a>
   <button id="themeBtn" title="切换明暗主题">◐</button>
 </div>
 
@@ -99,22 +101,18 @@ document.documentElement.dataset.theme=t;})();
   事件内容持续补充中，"有内容"的单位数会随编纂推进增长。返回<a href="../" style="color:var(--accent)">编年史主页</a>。
 </div>
 
+<script src="../common.js?v=2"></script>
 <script>
+/* 地域日志页：省/市/县树与事件列表为本页特有；esc/fetchGz 复用 NA */
+const { esc } = NA;
 const CAT = {milestone:'里程碑',internet:'互联网',tech:'科技',hardware:'硬件',company:'公司',
   product:'产品',national:'国家',world:'世界',society:'社会',culture:'文化',economy:'经济'};
 let D, byP={}, byC={}, byK={};
 
 async function boot(){
   try {
-    if (typeof DecompressionStream !== 'undefined') {
-      const r = await fetch('data.json.gz');
-      if (r.ok) {
-        const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
-        D = await new Response(stream).json();
-      }
-    }
-    if (!D) D = await (await fetch('data.json')).json();
-  } catch (e) { D = await (await fetch('data.json')).json(); }
+    D = await NA.fetchGz('data.json');
+  } catch (e) { document.getElementById('statsBar').textContent = '数据加载失败，请稍后重试。'; return; }
   D.p.forEach(r=>byP[r[0]]=r); D.c.forEach(r=>byC[r[0]]=r); D.k.forEach(r=>byK[r[0]]=r);
   const s=D.stats;
   document.getElementById('statsBar').innerHTML = [
@@ -135,7 +133,7 @@ function treeRows(){
     const open = state.openP===p[0];
     const on = state.sel===p[0]?' on':'';
     html+=`<div class="row${on}" data-sel="${p[0]}" data-p="${p[0]}">
-      <span class="tw">${kids.length?'▸':''}</span><span class="nm">${p[1]}</span>
+      <span class="tw">${kids.length?'▸':''}</span><span class="nm">${esc(p[1])}</span>
       ${p[3]?`<span class="ct">${p[3]}</span>`:''}</div>`;
     if(open){
       for(const c of kids){
@@ -144,14 +142,14 @@ function treeRows(){
         const con = state.sel===c[0]?' on':'';
         html+=`<div class="kids${open?' open':''}">
           <div class="row${con}" data-sel="${c[0]}" data-p="${p[0]}" data-c="${c[0]}">
-            <span class="tw">${gk.length?'▸':''}</span><span class="nm">${c[2].endsWith('市区')||c[2].endsWith('辖县')||c[2].endsWith('直辖县级')?c[2]:c[1]}</span>
+            <span class="tw">${gk.length?'▸':''}</span><span class="nm">${esc(c[2].endsWith('市区')||c[2].endsWith('辖县')||c[2].endsWith('直辖县级')?c[2]:c[1])}</span>
             ${c[4]?`<span class="ct">${c[4]}</span>`:''}</div>`;
         if(copen){
           for(const k of gk){
             const kon = state.sel===k[0]?' on':'';
             html+=`<div class="kids${copen?' open':''}">
               <div class="row${kon}" data-sel="${k[0]}" data-p="${p[0]}" data-c="${c[0]}">
-                <span class="tw"></span><span class="nm">${k[1]}</span>
+                <span class="tw"></span><span class="nm">${esc(k[1])}</span>
                 ${k[5]?`<span class="ct">${k[5]}</span>`:''}</div></div>`;
           }
         }
@@ -174,7 +172,7 @@ function searchRows(qs){
     const name = lv===1&&(r[2].endsWith('市区')||r[2].endsWith('辖县')||r[2].endsWith('直辖县级'))?r[2]:r[1];
     const ct=r[r.length-1];
     return `<div class="row" data-sel="${r[0]}"><span class="tw"></span>
-      <span class="nm">${name}<span class="path">　${path}</span></span>
+      <span class="nm">${esc(name)}<span class="path">　${esc(path)}</span></span>
       ${ct?`<span class="ct">${ct}</span>`:''}</div>`;
   }).join('');
 }
@@ -187,7 +185,6 @@ function renderTree(){
       const code=el.dataset.sel;
       if(el.dataset.p) state.openP=el.dataset.p;
       if(el.dataset.c) state.openC=el.dataset.c;
-      else if(!qs && byK[code]) {} // 县行不展开
       else if(!qs && byC[code] && state.sel===code) state.openC=state.openC===code?null:code;
       else if(!qs && byP[code] && state.sel===code) state.openP=state.openP===code?null:code;
       select(code);
@@ -195,25 +192,25 @@ function renderTree(){
   });
 }
 
-const state={openP:null,openC:null,sel:null,curP:null,curC:null};
+const state={openP:null,openC:null,sel:null};
 
 function select(code){
   state.sel=code;
   const p=byP[code],c=byC[code],k=byK[code];
   const ev=D.ev[code]||[];
   let name,pathHtml=[];
-  if(p){name=p[1];state.curP=code;state.curC=null;state.openP=code;state.openC=null;
-    pathHtml=[`<span>全部</span>`,`<span>${p[1]}</span>`];}
-  else if(c){name=c[1];state.curP=c[3];state.curC=null;state.openP=c[3];state.openC=code;
-    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${c[3]}">${byP[c[3]][1]}</a>`,`<span>${c[1]}</span>`];}
-  else {name=k[1];state.curP=k[4];state.curC=k[3];state.openP=k[4];state.openC=k[3];
+  if(p){name=p[1];state.openP=code;state.openC=null;
+    pathHtml=[`<span>全部</span>`,`<span>${esc(p[1])}</span>`];}
+  else if(c){name=c[1];state.openP=c[3];state.openC=code;
+    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${c[3]}">${esc(byP[c[3]][1])}</a>`,`<span>${esc(c[1])}</span>`];}
+  else {name=k[1];state.openP=k[4];state.openC=k[3];
     const cc=byC[k[3]];
-    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${k[4]}">${byP[k[4]][1]}</a>`,`<a data-go="${k[3]}">${cc[1]}</a>`,`<span>${k[1]}</span>`];}
+    pathHtml=[`<a data-go="root">全部</a>`,`<a data-go="${k[4]}">${esc(byP[k[4]][1])}</a>`,`<a data-go="${k[3]}">${esc(cc[1])}</a>`,`<span>${esc(k[1])}</span>`];}
   const kidsN = p?D.c.filter(x=>x[3]===p[0]).length : c?D.k.filter(x=>x[3]===c[0]).length : 0;
 
   let body='';
   if(!ev.length){
-    body=`<div class="empty">「${name}」暂无收录条目。<br>骨架已建档（${kidsN?`下辖 ${kidsN} 个下级单位，`:''}共 ${D.k.length} 个县级行政区已全部登记）。<br>内容正按省份逐一编纂补充，敬请期待。</div>`;
+    body=`<div class="empty">「${esc(name)}」暂无收录条目。<br>骨架已建档（${kidsN?`下辖 ${kidsN} 个下级单位，`:''}共 ${D.k.length} 个县级行政区已全部登记）。<br>内容正按省份逐一编纂补充，敬请期待。</div>`;
   }else{
     const byYear={};
     for(const [date,title,cat,mile] of ev) (byYear[date.slice(0,4)]=byYear[date.slice(0,4)]||[]).push([date,title,cat,mile]);
@@ -223,13 +220,13 @@ function select(code){
         `<div class="evRow"><span class="dt">${date}</span>
          ${mile?'<span class="star">★</span>':''}
          <span class="cat">${CAT[cat]||cat}</span>
-         <span class="ti">${title}</span></div>`).join('')
+         <span class="ti">${esc(title)}</span></div>`).join('')
     ).join('');
   }
   document.getElementById('main').innerHTML=
     `<div class="crumbs">${pathHtml.map(x=>x).join(' / ')}</div>
-     <div class="placeHead"><h2>${name}</h2>
-       <div class="meta">${name} · 收录 ${ev.length} 条${kidsN?` · 下辖 ${kidsN} 个下级单位`:''}</div></div>${body}`;
+     <div class="placeHead"><h2>${esc(name)}</h2>
+       <div class="meta">${esc(name)} · 收录 ${ev.length} 条${kidsN?` · 下辖 ${kidsN} 个下级单位`:''}</div></div>${body}`;
   document.querySelectorAll('#main [data-go]').forEach(el=>el.addEventListener('click',()=>{
     const go=el.dataset.go;
     if(go==='root'){document.getElementById('q').value='';renderTree();}

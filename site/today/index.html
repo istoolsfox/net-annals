@@ -3,16 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="历史上的今天：这部精确到日的编年史里，每一个月日都攒下了什么——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<meta name="description" content="历史上的今天：这部精确到日的编年史里，每一个月日都攒下了什么——1972 年至今数千件大事小事，按日期翻阅。">
 <title>历史上的今天 · 互联网编年史</title>
 <link rel="canonical" href="https://toolsfox.cn/today/">
+<link rel="icon" href="../favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="历史上的今天 — 互联网编年史">
-<meta property="og:description" content="这部精确到日的编年史里，每一个月日都攒下了一叠年份不同的记忆——1972 年至今 4900+ 件大事小事，按日期翻阅。">
+<meta property="og:description" content="这部精确到日的编年史里，每一个月日都攒下了一叠年份不同的记忆——1972 年至今数千件大事小事，按日期翻阅。">
 <meta property="og:url" content="https://toolsfox.cn/today/">
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="stylesheet" href="../style.css?v=16">
+<link rel="stylesheet" href="../style.css?v=24">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -22,7 +25,7 @@
 </script>
 <style>
 .todayPage{max-width:1080px;margin:0 auto;padding:0 24px 80px}
-.tTop{display:flex;align-items:center;justify-content:space-between;padding:22px 0}
+.tTop{display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:40;margin:0 -24px;padding:12px 24px;background:var(--bg);border-bottom:1px solid var(--line)}
 .tTop a{color:var(--dim);text-decoration:none;font-size:.86rem}
 .tTop a:hover{color:var(--text)}
 .tHero{padding:30px 0 26px;border-bottom:1px solid var(--line)}
@@ -58,7 +61,7 @@
 </head>
 <body>
 <div class="todayPage">
-  <div class="tTop"><a href="../">← 返回互联网编年史</a><span><a href="../entities/">世家志 →</a>&nbsp;&nbsp;<a href="../persons/">人物志 →</a></span></div>
+  <div class="tTop"><a href="../">← 返回互联网编年史</a><span><a href="../entities/">世家志 →</a>&nbsp;&nbsp;<a href="../persons/">人物志 →</a>&nbsp;&nbsp;<a href="../works/">作品志 →</a></span></div>
   <div class="tHero">
     <h1>历史上的<em>今天</em></h1>
     <p id="heroSub">这部编年史精确到日——于是每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上的那一天都发生过什么。</p>
@@ -68,22 +71,36 @@
   <div class="dayHead"><h2 id="dayTitle">—</h2><span class="cnt" id="dayCnt"></span><button class="chip" id="copyLink" style="margin-left:auto">🔗 复制链接</button></div>
   <div class="evList" id="evList"></div>
 </div>
+<div class="pMask" id="mask"></div>
+<div class="pDetail" id="detail"></div>
+<style>
+.pMask{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:60;display:none}
+.pMask.show{display:block}
+.pDetail{position:fixed;top:0;right:-720px;width:min(680px,94vw);height:100vh;overflow-y:auto;background:var(--bg2);border-left:1px solid var(--line2);z-index:61;padding:30px 34px 60px;transition:right .25s ease}
+.pDetail.show{right:0}
+.pDetail h2{font-family:var(--serif);font-size:1.55rem;color:var(--text);margin:0 0 4px;line-height:1.4}
+.pDetail .close{position:absolute;top:18px;right:20px;font-size:1.3rem;background:none;border:none;color:var(--dim);cursor:pointer}
+.pDetail .sub{color:var(--accent);font-size:.85rem;margin-bottom:16px;font-family:var(--mono)}
+.pDetail .smFull{color:var(--text);line-height:1.85;font-size:.94rem}
+.pDetail h4{font-family:var(--mono);font-size:.76rem;letter-spacing:.2em;color:var(--dim);margin:24px 0 12px}
+.sec{margin-bottom:14px}
+.sec .lab{display:block;font-family:var(--mono);font-size:.66rem;letter-spacing:.28em;color:var(--faint);margin-bottom:4px}
+.sec p{margin:0;font-size:.9rem;line-height:1.8;color:var(--text)}
+.srcList{margin:4px 0 0;padding-left:18px;font-size:.85rem;line-height:2}
+.srcList a{color:var(--accent);text-decoration:none}
+.evItem{cursor:pointer}
+.evItem:hover{border-color:var(--accent)}
+.loading{color:var(--faint);font-family:var(--mono);font-size:.8rem}
+</style>
 
+<script src="../common.js?v=2"></script>
 <script>
 'use strict';
+/* 抽屉与日期网格为本页特有；工具函数（esc/safeUrl/fetchGz）全部复用 NA */
+const { esc, safeUrl, DATA_BUILD, fetchGz } = NA;
 const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
 const $ = s => document.querySelector(s);
 let DATA = null, curMonth = null, curDay = null;
-
-async function fetchGz(url) {
-  if (typeof DecompressionStream !== 'undefined') {
-    try {
-      const r = await fetch(url + '.gz');
-      if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
-    } catch (e) { /* 回退 */ }
-  }
-  return await (await fetch(url)).json();
-}
 
 function pad(n) { return String(n).padStart(2, '0'); }
 
@@ -140,12 +157,75 @@ function selectDay(key) {
   for (const e of evs) {
     const div = document.createElement('div');
     div.className = 'evItem';
-    div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${e.title}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
-      ${e.summary ? `<p class="sm">${e.summary}${e.summary.length >= 110 ? '…' : ''}</p>` : ''}
-      <div class="meta">${e.layer}</div>`;
+    div.innerHTML = `<div class="row"><span class="yr">${e.date.slice(0, 4)}</span><span class="ti">${esc(e.title)}</span>${e.milestone ? '<span class="star">★ 时代转折点</span>' : ''}</div>
+      ${e.summary ? `<p class="sm">${esc(e.summary.slice(0, 110))}${e.summary.length > 110 ? '…' : ''}</p>` : ''}
+      <div class="meta">${esc(e.layer)}${e.milestone ? ' · ★' : ''}</div>`;
+    div.onclick = () => openEv(e, div);
     list.appendChild(div);
   }
   gridSync();
+}
+
+/* 点卡片 → 右侧抽屉：先展示今日已有信息，再懒拉主时间线全文 */
+let _shardCache = {};
+async function fetchFull(id, date) {
+  const eraIdx = [
+    ['1972', 1994.4], ['1994', 2000], ['2000', 2003], ['2003', 2005],
+    ['2005', 2010], ['2010', 2015], ['2015', 2020], ['2020', 2027],
+  ].findIndex(([a, b]) => {
+    const yf = +date.slice(0, 4) + (+date.slice(5, 7) - 1) / 12;
+    return yf >= +a && yf < b;
+  });
+  const i = eraIdx === -1 ? 7 : eraIdx;
+  if (!_shardCache[i]) {
+    const r = await fetch('../data/shard-' + i + '.json.gz?v=' + DATA_BUILD);
+    if (r.ok) {
+      const buf = await r.arrayBuffer();
+      const ds = new DecompressionStream('gzip');
+      const stream = new Blob([buf]).stream().pipeThrough(ds);
+      _shardCache[i] = await new Response(stream).json();
+    } else {
+      _shardCache[i] = [];
+    }
+  }
+  return (_shardCache[i] || []).find(x => x.id === id);
+}
+function openEv(e, divEl) {
+  const mask = document.getElementById('mask');
+  const det = document.getElementById('detail');
+  const [y, m, d] = e.date.split('-');
+  det.innerHTML = `<button class="close">✕</button>
+    <h2>${esc(e.title)}</h2>
+    <div class="sub">${y}.${m}.${d} · ${esc(e.layer)}${e.milestone ? ' · ★ 时代转折点' : ''}</div>
+    <p class="smFull">${esc(e.summary || '')}</p>
+    <div class="loading">正在载入完整经过…</div>`;
+  det.classList.add('show');
+  mask.classList.add('show');
+  document.body.style.overflow = 'hidden';
+  det.querySelector('.close').onclick = closeEv;
+  mask.onclick = closeEv;
+  fetchFull(e.id, e.date).then(full => {
+    const box = det.querySelector('.loading');
+    if (!box) return;
+    if (!full) { box.textContent = '未找到更详细的档案。'; return; }
+    box.remove();
+    const secs = [];
+    if (full.detail) secs.push(['经过', full.detail]);
+    if (full.impact) secs.push(['影响', full.impact]);
+    if (full.aftermath) secs.push(['后续', full.aftermath]);
+    const srcHtml = (full.sources || []).length
+      ? `<h4>来源</h4><ul class="srcList">${full.sources.map(s => `<li><a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('')}</ul>` : '';
+    det.querySelector('.smFull').insertAdjacentHTML('afterend',
+      secs.map(([lab, txt]) => `<div class="sec"><span class="lab">${lab}</span><p>${esc(txt)}</p></div>`).join('') + srcHtml);
+  }).catch(() => {
+    const box = det.querySelector('.loading');
+    if (box) box.textContent = '详细档案载入失败。';
+  });
+}
+function closeEv() {
+  document.getElementById('detail').classList.remove('show');
+  document.getElementById('mask').classList.remove('show');
+  document.body.style.overflow = '';
 }
 
 function gridSync() {

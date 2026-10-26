@@ -9,7 +9,7 @@
    · 交互：hover 效果限定 @media (hover:hover)，避免触屏粘滞 hover；移动端触控目标加大。 */
 
 :root{
-  --bg:#0c0d10; --bg2:#101218; --panel:#16181d; --panel2:#1a1d23;
+  --bg:#0c0d10; --bg2:#101218; --panel:#16181d;
   --line:#2a2d35; --line2:#3a3e48;
   --text:#e8e4da; --dim:#9a958a; --faint:#66625a;
   --accent:#c9a86a; --accent2:#b0493e;
@@ -20,7 +20,7 @@
   --hoverShadow:0 6px 24px rgba(0,0,0,.28);
 }
 html[data-theme="light"]{
-  --bg:#faf8f2; --bg2:#f1eee5; --panel:#ffffff; --panel2:#faf7ef;
+  --bg:#faf8f2; --bg2:#f1eee5; --panel:#ffffff;
   --line:#e3ded1; --line2:#d4cebe;
   --text:#211e18; --dim:#6d675c; --faint:#a09a8c;
   --accent:#8a744a; --accent2:#a34a3f;
@@ -109,23 +109,29 @@ a{color:inherit}
 
 /* ── 工具栏 ─────────────────── */
 .toolbar{
-  position:sticky;top:53px;z-index:50;padding:14px 28px 12px;
+  position:sticky;top:53px;z-index:50;padding:10px 28px 9px;
   border-top:1px solid var(--line);border-bottom:1px solid var(--line);
   background:color-mix(in srgb, var(--bg) 92%, transparent);
+  transition:transform .3s ease;
 }
-.tRow{display:flex;align-items:center;gap:12px;max-width:1160px;margin:0 auto 10px}
-.tRow:last-child{margin-bottom:2px}
+/* 自动隐藏（app.js：下滑藏/上滑露）：上滑出视口，滑行在顶栏之下（z 低一层） */
+.toolbar.tHide{transform:translateY(-110%)}
+.tRow{display:flex;align-items:center;gap:12px;max-width:1160px;margin:0 auto 8px}
+.tRow:last-child{margin-bottom:1px}
 .searchWrap{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;background:var(--panel);transition:border-color .2s}
 .searchIcon{color:var(--faint);font-size:1rem}
-#q{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans)}
-#q::placeholder{color:var(--faint)}
+.searchWrap input{flex:1;background:none;border:none;color:var(--text);font-size:.92rem;font-family:var(--sans);outline:none}
+.searchWrap input::placeholder{color:var(--faint)}
 .searchWrap:focus-within{border-color:var(--accent)}
 .qCount{font-family:var(--mono);font-size:.72rem;color:var(--accent);white-space:nowrap}
 .tBtn{font-family:var(--mono);font-size:.74rem;letter-spacing:.05em;padding:9px 16px;border:1px solid var(--line2);border-radius:6px;background:var(--panel);color:var(--dim);cursor:pointer;white-space:nowrap;transition:color .2s,border-color .2s,background-color .2s}
 .tBtn.on{background:var(--accent);color:#141310;border-color:var(--accent)}
 .tLab{font-family:var(--mono);font-size:.68rem;letter-spacing:.3em;color:var(--faint);flex:none}
+/* 芯片行：折行全量展示（横滑轨道会把尾部芯片藏出视口，鼠标用户够不到——
+   2026-10-25 回退）。高度压力由工具栏「下滑自动隐藏」化解：阅读时整条隐藏 */
 .chipRow{display:flex;gap:8px;flex-wrap:wrap}
 .chip{
+  flex:none;
   font-family:var(--mono);font-size:.72rem;padding:4px 11px;border-radius:999px;cursor:pointer;
   border:1px solid var(--line2);color:var(--dim);background:none;white-space:nowrap;
   transition:color .18s,border-color .18s,background-color .18s,opacity .18s;
@@ -157,10 +163,11 @@ a{color:inherit}
 .eraLine{flex:1;height:1px;background:var(--line)}
 .eraCount{font-family:var(--mono);font-size:.74rem;color:var(--faint)}
 
-/* 年份圆徽 */
-.yearGroup{position:relative;margin:0 0 8px}
+/* 年份圆徽。padding-top 给 ★徽标（悬浮卡顶）与其闪光外环留出组内空间，
+   否则会被组的裁剪边界剪掉 */
+.yearGroup{position:relative;margin:0 0 8px;padding-top:14px}
 .yBadge{
-  position:absolute;left:50%;top:6px;transform:translateX(-50%);z-index:5;
+  position:absolute;left:50%;top:14px;transform:translateX(-50%);z-index:5;
   min-width:74px;height:34px;padding:0 12px;border-radius:999px;
   background:var(--accent2);color:#fdf9f2;display:inline-flex;align-items:center;justify-content:center;
   white-space:nowrap;font-family:var(--serif);font-weight:700;font-size:1rem;letter-spacing:.04em;
@@ -195,7 +202,6 @@ a{color:inherit}
   font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
   background:var(--accent);color:#141310;padding:2px 10px;border-radius:999px;
 }
-.card.hide{display:none}
 
 .cHead{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-family:var(--mono);font-size:.7rem;color:var(--dim);margin-bottom:8px}
 .cDate{color:var(--accent);letter-spacing:.06em}
@@ -231,6 +237,36 @@ a{color:inherit}
 .srcList li{font-size:.8rem;margin-bottom:4px}
 .srcList a{color:var(--accent);text-decoration:none}
 .srcList .tp{font-family:var(--mono);font-size:.62rem;color:var(--faint);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px}
+
+/* ── 同日折叠层：同一天的多条事件收进主卡下方，点击展开 ── */
+.sameDay{margin-top:10px;border-top:1px dashed var(--line)}
+.sdToggle{
+  display:flex;align-items:baseline;gap:8px;width:100%;text-align:left;
+  background:none;border:none;cursor:pointer;padding:9px 0 3px;
+  color:var(--faint);font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;
+}
+.sdToggle:hover{color:var(--accent)}
+.sdArrow{display:inline-block;font-style:normal;color:var(--accent);transition:transform .2s}
+.sameDay.open .sdArrow{transform:rotate(90deg)}
+.sdHints{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;opacity:.72}
+.sdList{display:grid;grid-template-rows:0fr;transition:grid-template-rows .28s ease}
+.sdListInner{overflow:hidden;min-height:0}
+.sameDay.open .sdList{grid-template-rows:1fr}
+.sdItem{border-top:1px solid var(--line)}
+.sdItem:first-child{border-top-color:transparent}
+.sdRow{
+  display:flex;align-items:baseline;gap:8px;width:100%;text-align:left;
+  background:none;border:none;cursor:pointer;padding:9px 0 2px;
+}
+.sdRow:hover .sdTitle,.sdRow:focus-visible .sdTitle{color:var(--accent)}
+.sdCat{font-family:var(--mono);font-size:.64rem;color:var(--faint);white-space:nowrap}
+.sdTitle{color:var(--text);font-size:.86rem;line-height:1.65;min-width:0}
+.sdMeta{margin-left:auto;display:flex;align-items:center;gap:6px;white-space:nowrap}
+.sdDetail{display:grid;grid-template-rows:0fr;transition:grid-template-rows .28s ease}
+.sdDetailInner{overflow:hidden;min-height:0}
+.sdItem.open .sdDetail{grid-template-rows:1fr}
+.sdItem.open .sdDetailInner{padding-bottom:12px}
+@media (max-width:640px){ .sdHints{display:none} .sdMeta .cAcc{display:none} }
 
 /* 空态 */
 .empty{grid-column:1/-1;text-align:center;color:var(--faint);font-family:var(--mono);font-size:.8rem;padding:30px}
@@ -288,6 +324,10 @@ a{color:inherit}
   .eraPill{font-size:.85rem;padding:7px 14px}
   .chip{padding:6px 13px;font-size:.74rem}
   .cMore{padding:6px 0}
+  /* 修复：窄屏下搜索行不换行导致横向溢出（★转折点按钮顶破视口） */
+  .tSearchRow{flex-wrap:wrap}
+  .searchWrap{min-width:200px}
+  .searchWrap input{font-size:16px}
   .hero{min-height:64vh;padding:50px 16px 60px}
   .heroSub{font-size:.95rem}
   #toTop{right:14px;bottom:14px}
@@ -312,9 +352,11 @@ a{color:inherit}
   html{scroll-behavior:auto}
   .card{opacity:1;transform:none;transition:none}
   .cBody,.cMore i,.card.open .cMore i{transition:none}
+  .sdList,.sdDetail,.sdArrow{transition:none}
   .yBadge{transition:none}
   .yBadge.flash{animation:none}
   #toTop,.resumeBar{transition:none}
+  .toolbar{transition:none}
 }
 
 /* ── 主题切换瞬间冻结（app.js 在切换时加 .theming，一帧后移除） ─────────────────── */
@@ -331,3 +373,30 @@ a{color:inherit}
   opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;
 }
 .toast.show{opacity:1;transform:translate(-50%,0)}
+
+/* ── 性能（2026-10-24 数据扩容配套）：离屏年份组跳过布局与绘制。
+   必须放在组级而非卡片级：卡片级裁剪会把 ★徽标（悬浮卡顶 -11px）与
+   连接短刺（right:-27px 伸进沟槽）一起剪掉（2026-10-25 修复）；
+   组级则两者都在组边界内，不影响 ── */
+.yearGroup{content-visibility:auto;contain-intrinsic-size:auto 500px}
+/* 常驻吸顶工具栏去毛玻璃（大面积 blur 在滚动时每帧重绘，卡顿主因之一） */
+.toolbar{background:var(--bg)}
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .toolbar{-webkit-backdrop-filter:none;backdrop-filter:none}
+}
+
+/* ── 子视图小节（人物/世家/作品 行内展开内容，2026-10-25）── */
+.tlList{margin:2px 0 0;padding:0;list-style:none}
+.tlList li{position:relative;padding:0 0 10px 18px;line-height:1.7}
+.tlList li::before{content:'';position:absolute;left:0;top:8px;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.tlList .td{font-family:var(--mono);font-size:.7rem;color:var(--accent);margin-right:8px}
+.tlList .tx{color:var(--text);font-size:.87rem}
+.ctzBox{border-left:3px solid #c9584f;padding:8px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--dim);line-height:1.7;font-size:.86rem;margin:0 0 8px}
+.legacyBox{border-left:3px solid var(--accent);padding:10px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.88rem}
+.relRow{display:flex;gap:8px;flex-wrap:wrap}
+.relChip{font-family:var(--mono);font-size:.74rem;padding:4px 12px;border:1px solid var(--line2);border-radius:16px;color:var(--accent);text-decoration:none}
+.relChip:hover{border-color:var(--accent);background:var(--panel)}
+.quoteBox{border-left:3px solid var(--accent);padding:8px 14px;background:var(--panel);border-radius:0 8px 8px 0;color:var(--text);line-height:1.8;font-size:.9rem;margin:0 0 8px;font-family:var(--serif)}
+.topTab{-webkit-appearance:none;appearance:none;background:transparent;border:none;cursor:pointer;font-family:inherit;font-size:.92rem;color:var(--dim);padding:4px 2px;position:relative}
+.topTab.on{color:var(--text)}
+.topTab.on::after{content:'';position:absolute;left:0;right:0;bottom:-2px;height:2px;background:var(--accent);border-radius:2px}
