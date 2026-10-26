@@ -207,3 +207,20 @@ ssh toolsfox 'cat ~/n8n_share/queue/gap_queue_2026-W44.json' > data/derived/inco
 - 供给/需求差集找盲区思想：[InfraNodus Content Gap Analysis](https://infranodus.com/docs/content-gap-analysis)
 - MediaWiki REST 搜索端点：[API Reference](https://www.mediawiki.org/wiki/API:REST_API/Reference)
 - 社区实战（采集类工作流的脏现实）：[r/automation 讨论](https://www.reddit.com/r/automation/comments/1ugb4xq/what_web_data_collection_workflows_have_actually)、[n8n Community](https://community.n8n.io/t/best-practices-for-building-reliable-ai-workflows-in-n8n/315975)
+
+---
+
+## 十、本地定时落地（2026-10-26 实装）
+
+`scripts/news_harvest.py`：时事新闻采集器（工作流 C/D 的本地实现），两个模式：
+
+- **hourly 轻扫**（约 5-10 秒）：中文维基「新闻动态」门户 + 英文维基 Current events 当日页 + 当年中国大陆页（当月）→ AI 初筛 → 追加 `data/derived/daily/hourly_YYYY-MM-DD.jsonl`。
+- **daily 全量**（约 4 分钟）：上述 + Google News 中文热点 RSS + 百度热搜 → AI 初筛 → imp≥4 且 deep_dig 的自动深挖（维基词条摘要，渐进截短搜索 + 二字词相关性校验防撞名人词条）→ 写 `data/derived/daily/YYYY-MM-DD.json`。
+
+去重：`_seen.json` 指纹库（文本 md5 前 12 位，保留 8000 条）跨次跨模式去重——实测 daily 首跑 324→322，随后 hourly 只新增 0-2 条。
+
+调度：本工作区 CronCreate 自动化「每小时新闻采集（8点档全量+深挖）」（每小时 :15 触发；8 点档自动切 daily）。**平台限制：一个会话只能挂一个自动化**，故 daily 档并入每小时任务的分支逻辑，不单开任务。
+
+首跑成绩（2026-10-26）：324 条原始 → 322 新增（safe 150/politics 111/disaster 34/social 18/crime 9），高价值 60 条，深挖命中 8/30（事件词条尚未建立的自动落库，符合预期）。
+
+归档定位：**本地候选库**——不进站点构建、不进 git、不直接入库；高价值条目由 ZCode 会话核实后走既有批次管线。
