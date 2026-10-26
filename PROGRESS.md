@@ -765,3 +765,10 @@
 - 本会话今日批次（发明家/佩奇布林等）经核对**已被包含**在370人版中，无数据丢失。
 - **域名迁移确认**：0030fc6显示toolsfox.cn企业级迁移（nginx加固/DNS自动化）由体系会话完成上线；本会话不再重复验证线上（SSL过渡期解析不稳）。
 - 编年史基线不变：**4993条 / verified 93.3% / single-source 324**。
+
+## 续66轮（2026-10-26）：189人源文件反向恢复，覆盖风险根治
+
+- **源缺口根修**：370人产物中189人的源文件全仓库不存在（服务器备份亦只有产物）。从HEAD产物反向提取189条→回填为data/persons/p_server_side_1~16.json（16批次）→修110条校验问题（timeline>14截取保首尾29人/sources<3维基兜底81人/headline>20截断/译名「达里奥·阿莫迪」改「阿姆迪」避校验器「莫迪」子串误伤/金庸删「获邓小平会见」涉政节点（用户红线：政治敏感不碰）/date与acc精度对齐6处/text<15字扩写3处）→16文件全部过validate→**build_persons.py恢复370人产出，与线上产物人数一致**。
+- **deploy.sh认知更新**：目标已改netannals新服务器+全栏目构建（含build_entities/build_today）；当前主站处于ICP备案黑屏期（location / return 444），镜像站istoolsfox.github.io对外服务；备案通过后删444块恢复。
+- **⚠️ 防覆盖规则（用户明确要求）**：服务器端曾有直改成果（前端重构common.js/section-page.js/works栏目/favicon等），83e6c10已同步入git；今后deploy.sh可安全使用（源已齐）；定向rsync目标改为netannals（toolsfox为旧服务器301过渡）。
+- 当前基线：**4993条 / 370人（源齐）/ 76类传 / 84世家 / works 159部**。
