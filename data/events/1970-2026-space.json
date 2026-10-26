@@ -1345,8 +1345,8 @@
 ]
 },
 {
-"id": "1999-11-19-shenzhou-1",
-"date": "1999-11-19",
+"id": "1999-11-20-shenzhou-1",
+"date": "1999-11-20",
 "date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "神舟一号发射，中国载人航天工程首飞成功",
@@ -1629,8 +1629,8 @@
 ]
 },
 {
-"id": "2001-01-09-shenzhou-2",
-"date": "2001-01-09",
+"id": "2001-01-10-shenzhou-2",
+"date": "2001-01-10",
 "date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "神舟二号发射，载人航天工程进入正样飞行阶段",
@@ -4031,8 +4031,8 @@
 ]
 },
 {
-"id": "2013-12-01-chang-e-3-launch",
-"date": "2013-12-01",
+"id": "2013-12-02-chang-e-3-launch",
+"date": "2013-12-02",
 "date_accuracy": "exact",
 "date_confidence": "verified",
 "title": "嫦娥三号发射，中国探月第二步启程",
