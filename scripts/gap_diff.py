@@ -41,8 +41,10 @@ for f in glob.glob('data/events/*.json'):
     for e in json.load(open(f, encoding='utf-8')):
         lib.append((e['date'][:10], e['title'], e['id']))
 by_day = defaultdict(list)
+by_month = defaultdict(list)
 for d, t, i in lib:
     by_day[d].append((t, i))
+    by_month[d[:7]].append((t, i))
 lib_total = len(lib)
 
 # ── 载入候选 ──
@@ -62,9 +64,10 @@ for year in sorted(cands, key=int):
         if dup_c:
             continue
         seen.append((date, text))
-        day_lib = by_day.get(date if len(date) == 10 else date, [])
+        # 月精度候选与库内整月比对（修淄博/科目三类同月重复漏网）
+        pool = by_day.get(date, []) if len(date) == 10 else by_month.get(date, [])
         best, best_id, best_t = 0, None, ''
-        for t, i in day_lib:
+        for t, i in pool:
             s = overlap(text, t)
             if s > best:
                 best, best_id, best_t = s, i, t

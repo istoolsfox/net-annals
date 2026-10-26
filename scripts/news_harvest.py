@@ -9,7 +9,7 @@
   data/derived/daily/hourly_YYYY-MM-DD.jsonl hourly 增量（每行一条）
   data/derived/daily/_seen.json             跨次去重库（保留最近8000 cid）
 纪律: 本地候选库，绝不进站点构建、不进 git；AI 只输出类目/评分/标题，敏感词表永不进 prompt。"""
-import json, os, re, sys, time, html, calendar, hashlib, urllib.request, urllib.parse, urllib.error
+import json, os, re, sys, time, html, calendar, hashlib, glob, urllib.request, urllib.parse, urllib.error
 from datetime import datetime
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
@@ -17,6 +17,13 @@ from concurrent.futures import ThreadPoolExecutor
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DAILY = 'data/derived/daily'
 SEEN_F = f'{DAILY}/_seen.json'
+N8N_FLAG = 'data/derived/n8n_active.json'   # n8n 接管握手文件：存在且7天内 → 本脚本让位
+
+
+def n8n_active():
+    if not os.path.exists(N8N_FLAG):
+        return False
+    return time.time() - os.path.getmtime(N8N_FLAG) < 7 * 86400
 UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) net-annals-news/1.0 (contact: toolsfox.cn)'}
 _key_path = os.path.expanduser('~/.config/net-annals/glm.key')
 KEY = open(_key_path).read().strip() if os.path.exists(_key_path) else None
@@ -216,7 +223,18 @@ def cid(text):
 def main():
     t0 = time.time()
     os.makedirs(DAILY, exist_ok=True)
+    if n8n_active():
+        print(f'[让位] 检测到 {N8N_FLAG}（n8n 已接管采集），本次跳过。')
+        return
     seen_set = set(json.load(open(SEEN_F, encoding='utf-8'))['cids']) if os.path.exists(SEEN_F) else set()
+
+    # 库内同日标题索引：给候选打 existing_hint（是否疑似已收录）
+    lib_day = {}
+    for f in glob.glob('data/events/*.json'):
+        if '/.' in f or '.parts' in f:
+            continue
+        for e in json.load(open(f, encoding='utf-8')):
+            lib_day.setdefault(e['date'][:10], []).append(e['title'])
 
     sources = [src_zh_portal, src_en_portal, src_zh_year] + \
               ([src_gnews, src_baidu] if MODE == 'daily' else [])
@@ -236,13 +254,24 @@ def main():
         uniq.append(r)
 
     scores = glm_screen(uniq)
+
+    def _sig(s):
+        return set(re.sub(r'[\s《》「」『』·、，。：；\-—（）()"\']', '', s or ''))
+
+    def _ov(a, b):
+        A, B = _sig(a), _sig(b)
+        m = min(len(A), len(B))
+        return len(A & B) / m if m else 0
+
     items = []
     for k, r in enumerate(uniq):
         s = scores.get(k, {})
+        hint = max((_ov(r['text'][:60], t) for t in lib_day.get(r['date'], [])), default=0)
         items.append({**r, 'cid': cid(r['text']),
                       'title': (s.get('title') or r['text'][:24])[:26],
                       'sens': s.get('sens', 'unknown'), 'imp': s.get('imp', 0),
-                      'deep_dig': bool(s.get('deep_dig')), 'note': s.get('note', '')})
+                      'deep_dig': bool(s.get('deep_dig')), 'note': s.get('note', ''),
+                      'existing_hint': round(hint, 2)})
 
     dug = 0
     if MODE == 'daily':
