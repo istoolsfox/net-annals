@@ -1,0 +1,439 @@
+[
+{
+"id": "konstantin-tsiolkovsky",
+"name": "齐奥尔科夫斯基",
+"en_name": "Konstantin Tsiolkovsky",
+"aliases": [],
+"birth": "1857-09-17",
+"birth_accuracy": "exact",
+"death": "1935-09-19",
+"field": "science",
+"region": "world",
+"headline": "现代航天理论奠基人",
+"summary_30s": "俄国自学成才的中学教师与现代航天理论奠基人：1903年发表《利用反作用装置研究宇宙空间》，刊出火箭运动方程，1929年又提出多级火箭『火箭列车』思想，一生留下论著400余部。1935年9月19日在卡卢加逝世，享年78岁；1967年卡卢加建成以其命名的宇航历史博物馆，月球背面亦有以其命名的环形山。",
+"timeline": [
+{
+"date": "1857-09-17",
+"acc": "exact",
+"text": "1857年9月17日生于俄国梁赞省伊热夫斯科耶村一个林务员家庭。"
+},
+{
+"date": "1879-01-01",
+"acc": "year",
+"text": "1879年通过教师资格考试，次年起在博罗夫斯克县立学校任算术教师。"
+},
+{
+"date": "1892-01-01",
+"acc": "year",
+"text": "1892年调任卡卢加教会学校教师，此后长期在卡卢加任教并从事研究。"
+},
+{
+"date": "1897-01-01",
+"acc": "year",
+"text": "1897年建成俄国首个开放试验段风洞，并推导出火箭运动方程。"
+},
+{
+"date": "1903-05-01",
+"acc": "month",
+"text": "1903年5月发表《利用反作用装置研究宇宙空间》，刊出火箭运动方程。"
+},
+{
+"date": "1911-01-01",
+"acc": "year",
+"text": "1911年发表该著作续篇，进一步论述载人宇宙飞行与人造卫星设想。"
+},
+{
+"date": "1918-01-01",
+"acc": "year",
+"text": "1918年当选社会主义科学院成员，获研究津贴以继续宇航理论研究。"
+},
+{
+"date": "1926-01-01",
+"acc": "year",
+"text": "1926年修订再版火箭理论著作，补充宇宙飞行的能量与轨道计算。"
+},
+{
+"date": "1929-01-01",
+"acc": "year",
+"text": "1929年发表《宇宙火箭列车》，提出多级火箭组合思想。"
+},
+{
+"date": "1935-09-19",
+"acc": "exact",
+"text": "1935年9月19日在卡卢加逝世，享年78岁。"
+},
+{
+"date": "1967-10-03",
+"acc": "exact",
+"text": "1967年10月3日位于卡卢加的宇航历史博物馆以他命名并正式开放。"
+}
+],
+"achievements": [
+"1903年发表火箭运动方程（齐奥尔科夫斯基公式），奠定航天理论基础",
+"1929年提出多级火箭『火箭列车』组合方案",
+"1897年建成俄国首个开放试验段风洞，同年推导出火箭方程",
+"一生留下航天与飞艇主题论著400余部（篇）",
+"1967年卡卢加宇航历史博物馆以其命名，月球背面直径约184公里环形山亦以其命名"
+],
+"controversies": [],
+"quotes": [],
+"sources": [
+{
+"title": "Wikipedia: Konstantin Tsiolkovsky",
+"url": "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky",
+"type": "wiki"
+},
+{
+"title": "维基百科：康斯坦丁·齐奥尔科夫斯基",
+"url": "https://zh.wikipedia.org/wiki/康斯坦丁·齐奥尔科夫斯基",
+"type": "wiki"
+},
+{
+"title": "Britannica: Konstantin Tsiolkovsky",
+"url": "https://www.britannica.com/biography/Konstantin-Eduardovich-Tsiolkovsky",
+"type": "encyclopedia"
+},
+{
+"title": "ESA: Konstantin Tsiolkovsky",
+"url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Konstantin_Tsiolkovsky",
+"type": "agency"
+}
+],
+"tags": [
+"航天",
+"火箭方程",
+"宇航先驱",
+"多级火箭",
+"科学教育"
+]
+},
+{
+"id": "robert-goddard",
+"name": "戈达德",
+"en_name": "Robert Goddard",
+"aliases": [
+"罗伯特·哈钦斯·戈达德"
+],
+"birth": "1882-10-05",
+"birth_accuracy": "exact",
+"death": "1945-08-10",
+"field": "science",
+"region": "world",
+"headline": "世界首枚液体火箭缔造者",
+"summary_30s": "美国火箭与航天先驱：1919年发表《到达极端高空的方法》论证探空火箭与登月设想，1926年3月16日在马萨诸塞州发射世界首枚液体燃料火箭，飞行2.5秒、爬升12.5米。1930年起获古根海姆资助在新墨西哥州持续试验，1935年火箭飞行高度达约2300米。一生获火箭专利214项，1959年NASA以其名设立戈达德太空飞行中心。",
+"timeline": [
+{
+"date": "1882-10-05",
+"acc": "exact",
+"text": "1882年10月5日生于美国马萨诸塞州伍斯特。"
+},
+{
+"date": "1911-01-01",
+"acc": "year",
+"text": "1911年获克拉克大学物理学博士学位，此后长期在克拉克大学任教。"
+},
+{
+"date": "1917-01-01",
+"acc": "year",
+"text": "1917年获史密森学会5000美元研究资助，开始系统研制液体火箭。"
+},
+{
+"date": "1919-01-01",
+"acc": "year",
+"text": "1919年出版《到达极端高空的方法》，论证火箭探空与登月的可能。"
+},
+{
+"date": "1926-03-16",
+"acc": "exact",
+"text": "1926年3月16日在奥本成功发射世界首枚液体燃料火箭，飞行2.5秒、爬升12.5米。"
+},
+{
+"date": "1929-07-17",
+"acc": "exact",
+"text": "1929年7月17日发射加大的液体火箭，飞行高度约27米，刷新自身纪录。"
+},
+{
+"date": "1930-01-01",
+"acc": "year",
+"text": "1930年获古根海姆10万美元资助，迁往新墨西哥州罗斯威尔继续试验。"
+},
+{
+"date": "1935-01-01",
+"acc": "year",
+"text": "1935年其试验火箭飞行高度达到约2300米，创当时纪录。"
+},
+{
+"date": "1942-01-01",
+"acc": "year",
+"text": "1942年为美国海军研制出喷气助推起飞（JATO）变推力装置。"
+},
+{
+"date": "1945-08-10",
+"acc": "exact",
+"text": "1945年8月10日在马里兰州巴尔的摩逝世，享年62岁。"
+},
+{
+"date": "1959-01-01",
+"acc": "year",
+"text": "1959年被美国国会追授金质奖章，NASA亦设立以其命名的戈达德太空飞行中心。"
+}
+],
+"achievements": [
+"1926年3月16日发射世界首枚液体燃料火箭，飞行2.5秒、爬升约12米",
+"1919年出版《到达极端高空的方法》，论证火箭探空与登月设想",
+"1935年试验火箭飞行高度达约2300米，创当时纪录",
+"一生获得火箭相关专利214项",
+"1959年NASA设立戈达德太空飞行中心，同年被追授国会金质奖章"
+],
+"controversies": [],
+"quotes": [],
+"sources": [
+{
+"title": "Wikipedia: Robert H. Goddard",
+"url": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+"type": "wiki"
+},
+{
+"title": "维基百科：罗伯特·戈达德",
+"url": "https://zh.wikipedia.org/wiki/罗伯特·戈达德",
+"type": "wiki"
+},
+{
+"title": "NASA: Dr. Robert H. Goddard, American Rocketry Pioneer",
+"url": "https://www.nasa.gov/dr-robert-h-goddard-american-rocketry-pioneer",
+"type": "agency"
+},
+{
+"title": "Britannica: Robert Goddard",
+"url": "https://www.britannica.com/biography/Robert-Goddard",
+"type": "encyclopedia"
+}
+],
+"tags": [
+"航天",
+"液体火箭",
+"宇航先驱",
+"火箭试验",
+"专利"
+]
+},
+{
+"id": "hermann-oberth",
+"name": "奥伯特",
+"en_name": "Hermann Oberth",
+"aliases": [
+"赫尔曼·奥伯特"
+],
+"birth": "1894-06-25",
+"birth_accuracy": "exact",
+"death": "1989-12-28",
+"field": "science",
+"region": "world",
+"headline": "《飞向行星空间的火箭》作者",
+"summary_30s": "德语航天理论奠基人：1923年自费出版《飞向行星空间的火箭》，论证多级火箭、液氧燃料与载人航天的可行性，1929年扩充为《通向航天之路》并获法国天文学会首届航天学大奖。1927年起参与德国星际航行协会活动，1930年在柏林参与液体火箭发动机试车。1989年12月28日逝世，享年95岁。",
+"timeline": [
+{
+"date": "1894-06-25",
+"acc": "exact",
+"text": "1894年6月25日生于奥匈帝国特兰西瓦尼亚的赫尔曼施塔特（今锡比乌）。"
+},
+{
+"date": "1922-01-01",
+"acc": "year",
+"text": "1922年提交的火箭主题博士论文未获通过，他决定将研究自费成书出版。"
+},
+{
+"date": "1923-01-01",
+"acc": "year",
+"text": "1923年6月自费出版92页专著《飞向行星空间的火箭》。"
+},
+{
+"date": "1927-01-01",
+"acc": "year",
+"text": "1927年德国星际航行协会成立，他随后成为协会核心成员。"
+},
+{
+"date": "1929-01-01",
+"acc": "year",
+"text": "1929年出版《通向航天之路》，获法国天文学会首届航天学大奖。"
+},
+{
+"date": "1930-01-01",
+"acc": "year",
+"text": "1930年在柏林参与液氧液体火箭发动机试车，助手包括18岁的冯·布劳恩。"
+},
+{
+"date": "1938-01-01",
+"acc": "year",
+"text": "1938年起与维也纳工业大学的航空研究所签约，从事火箭研究。"
+},
+{
+"date": "1941-01-01",
+"acc": "year",
+"text": "1941年起在佩内明德从事火箭专利与技术审查工作。"
+},
+{
+"date": "1955-01-01",
+"acc": "year",
+"text": "1955年赴美国红石兵工厂任顾问，1958年返回德国。"
+},
+{
+"date": "1989-12-28",
+"acc": "exact",
+"text": "1989年12月28日在纽伦堡逝世，享年95岁。"
+}
+],
+"achievements": [
+"1923年自费出版《飞向行星空间的火箭》，论证多级火箭与液氧燃料方案",
+"1929年出版《通向航天之路》并获法国天文学会首届航天学大奖",
+"1930年在柏林参与液氧火箭发动机试车，助手包括冯·布劳恩",
+"月球背面直径约60公里的奥伯特环形山与费希特航天博物馆均以其命名"
+],
+"controversies": [],
+"quotes": [],
+"sources": [
+{
+"title": "Wikipedia: Hermann Oberth",
+"url": "https://en.wikipedia.org/wiki/Hermann_Oberth",
+"type": "wiki"
+},
+{
+"title": "维基百科：赫尔曼·奥伯特",
+"url": "https://zh.wikipedia.org/wiki/赫尔曼·奥伯特",
+"type": "wiki"
+},
+{
+"title": "Wikipedia: Oberth (crater)",
+"url": "https://en.wikipedia.org/wiki/Oberth_(crater)",
+"type": "wiki"
+}
+],
+"tags": [
+"航天",
+"火箭理论",
+"宇航先驱",
+"星际航行",
+"德国"
+]
+},
+{
+"id": "sergei-korolev",
+"name": "科罗廖夫",
+"en_name": "Sergei Korolev",
+"aliases": [
+"谢尔盖·帕夫洛维奇·科罗廖夫"
+],
+"birth": "1907-01-12",
+"birth_accuracy": "exact",
+"death": "1966-01-14",
+"field": "science",
+"region": "world",
+"headline": "斯普特尼克与加加林总设计师",
+"summary_30s": "苏联航天计划总设计师：1933年领导发射苏联第一枚液氧火箭，1946年出任弹道导弹总设计师。1957年10月4日领导发射人类第一颗人造地球卫星斯普特尼克1号，1961年4月12日实现加加林的首次载人航天飞行，1963年又送首位女宇航员进入太空。1966年1月14日逝世，享年59岁。",
+"timeline": [
+{
+"date": "1907-01-12",
+"acc": "exact",
+"text": "1907年1月12日生于俄国日托米尔（今属乌克兰）一个教师家庭。"
+},
+{
+"date": "1930-01-01",
+"acc": "year",
+"text": "1930年毕业于莫斯科鲍曼高等技术学校，获航空工程师资格。"
+},
+{
+"date": "1931-01-01",
+"acc": "year",
+"text": "1931年在莫斯科参与组建喷气推进研究小组并出任负责人。"
+},
+{
+"date": "1933-08-01",
+"acc": "month",
+"text": "1933年8月领导发射苏联第一枚液氧火箭GIRD-09。"
+},
+{
+"date": "1933-11-25",
+"acc": "exact",
+"text": "1933年11月25日其团队研制的苏联首枚液体燃料火箭GIRD-X发射成功。"
+},
+{
+"date": "1938-01-01",
+"acc": "year",
+"text": "1938年至1944年被流放西伯利亚劳改营。"
+},
+{
+"date": "1946-01-01",
+"acc": "year",
+"text": "1946年出任第88研究所弹道导弹总设计师。"
+},
+{
+"date": "1957-10-04",
+"acc": "exact",
+"text": "1957年10月4日领导发射人类第一颗人造地球卫星斯普特尼克1号。"
+},
+{
+"date": "1957-11-03",
+"acc": "exact",
+"text": "1957年11月3日领导发射斯普特尼克2号，将小狗莱卡送入轨道。"
+},
+{
+"date": "1961-04-12",
+"acc": "exact",
+"text": "1961年4月12日领导发射东方1号飞船，加加林完成人类首次载人航天。"
+},
+{
+"date": "1963-06-16",
+"acc": "exact",
+"text": "1963年6月16日领导发射东方6号飞船，捷列什科娃成为首位进入太空的女性。"
+},
+{
+"date": "1966-01-14",
+"acc": "exact",
+"text": "1966年1月14日逝世，享年59岁。"
+},
+{
+"date": "1996-01-01",
+"acc": "year",
+"text": "1996年莫斯科州加里宁格勒市更名为科罗廖夫市，以纪念这位总设计师。"
+}
+],
+"achievements": [
+"1933年8月领导发射苏联第一枚液氧火箭GIRD-09",
+"1957年10月4日领导发射人类第一颗人造卫星斯普特尼克1号",
+"1961年4月12日主持实现加加林人类首次载人航天飞行",
+"1963年6月16日实现人类首位女宇航员捷列什科娃进入太空",
+"1970年月球背面直径约437公里的科罗廖夫环形山获国际命名"
+],
+"controversies": [],
+"quotes": [],
+"sources": [
+{
+"title": "Wikipedia: Sergei Korolev",
+"url": "https://en.wikipedia.org/wiki/Sergei_Korolev",
+"type": "wiki"
+},
+{
+"title": "维基百科：谢尔盖·科罗廖夫",
+"url": "https://zh.wikipedia.org/wiki/谢尔盖·科罗廖夫",
+"type": "wiki"
+},
+{
+"title": "Britannica: Sergei Korolev",
+"url": "https://www.britannica.com/biography/Sergei-Korolev",
+"type": "encyclopedia"
+},
+{
+"title": "Wikipedia: Korolev (lunar crater)",
+"url": "https://en.wikipedia.org/wiki/Korolev_(lunar_crater)",
+"type": "wiki"
+}
+],
+"tags": [
+"航天",
+"火箭",
+"总设计师",
+"人造卫星",
+"载人航天"
+]
+}
+]
