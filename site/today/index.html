@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://toolsfox.cn/today/">
 <meta property="og:image" content="https://toolsfox.cn/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="stylesheet" href="../style.css?v=24">
+<link rel="stylesheet" href="../style.css?v=25">
 <script>
 (function () {
   var t = localStorage.getItem('na-theme');
@@ -93,14 +93,26 @@
 .loading{color:var(--faint);font-family:var(--mono);font-size:.8rem}
 </style>
 
-<script src="../common.js?v=2"></script>
+<script src="../common.js?v=3"></script>
 <script>
 'use strict';
 /* 抽屉与日期网格为本页特有；工具函数（esc/safeUrl/fetchGz）全部复用 NA */
 const { esc, safeUrl, DATA_BUILD, fetchGz } = NA;
 const MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
 const $ = s => document.querySelector(s);
-let DATA = null, curMonth = null, curDay = null;
+let META = null, curMonth = null, curDay = null;
+/* 数据分两层（2026-10-26 手机端提速）：meta（总量/月度计数，约 200B）随页取；
+   月度明细按需懒取（约 70-110KB gz/月）。旧整包 data.json 仍在（旧缓存页与
+   无 DecompressionStream 环境兜底），页面首屏不再加载它 */
+const MCACHE = {};
+const monthFail = new Set();
+async function ensureMonth(m) {
+  if (!MCACHE[m] && !monthFail.has(m)) {
+    try { MCACHE[m] = (await fetchGz('data/m' + pad(m) + '.json')).days; }
+    catch (e) { monthFail.add(m); }
+  }
+  return MCACHE[m] || {};
+}
 
 function pad(n) { return String(n).padStart(2, '0'); }
 
@@ -110,9 +122,7 @@ function renderMonths() {
   for (let m = 1; m <= 12; m++) {
     const b = document.createElement('button');
     b.className = 'chip' + (curMonth === m ? ' on' : '');
-    let n = 0;
-    for (let d = 1; d <= 31; d++) n += (DATA.days[pad(m) + '-' + pad(d)] || []).length;
-    b.textContent = `${MONTHS[m - 1]} ${n}`;
+    b.textContent = `${MONTHS[m - 1]} ${META.months[pad(m)] || 0}`;
     b.onclick = () => { curMonth = m; const keep = curDay; renderMonths(); renderDays(); if (keep && String(keep).startsWith(pad(m) + '-')) selectDay(keep); };
     bar.appendChild(b);
   }
@@ -123,13 +133,17 @@ function renderMonths() {
   bar.appendChild(r);
 }
 
-function renderDays() {
+let _rdToken = 0;
+async function renderDays() {
+  const my = ++_rdToken;
+  const days = await ensureMonth(curMonth);
+  if (my !== _rdToken) return;                       // 月份已切换，丢弃过期渲染
   const grid = $('#dayGrid');
   grid.innerHTML = '';
   const dim = new Date(2024, curMonth, 0).getDate();
   const counts = [];
   for (let d = 1; d <= dim; d++) {
-    const n = (DATA.days[pad(curMonth) + '-' + pad(d)] || []).length;
+    const n = (days[pad(curMonth) + '-' + pad(d)] || []).length;
     counts.push(n);
   }
   const max = Math.max(...counts, 1);
@@ -144,11 +158,12 @@ function renderDays() {
   }
 }
 
-function selectDay(key) {
+async function selectDay(key) {
+  const days = await ensureMonth(parseInt(key.slice(0, 2), 10));
   curDay = key;
   history.replaceState(null, '', '?d=' + key);
   const [m, d] = key.split('-').map(Number);
-  const evs = DATA.days[key] || [];
+  const evs = days[key] || [];
   $('#dayTitle').textContent = `${m} 月 ${d} 日`;
   const years = evs.map(e => e.date.slice(0, 4));
   $('#dayCnt').textContent = evs.length ? `${evs.length} 条 · ${years[0]} — ${years[years.length - 1]}` : '无记录';
@@ -235,22 +250,29 @@ function gridSync() {
   });
 }
 
-function randomDay() {
-  const keys = Object.keys(DATA.days);
+async function randomDay() {
+  /* 原版在全部日子里等概率抽一天；分片后按各月天数加权选月，再在月内等概率选日，
+     全程只拉一个月份的分片 */
+  const entries = Object.entries(META.monthDays).filter(([, n]) => n > 0);
+  if (!entries.length) return;
+  const totalDays = entries.reduce((s, [, n]) => s + n, 0);
+  let r = Math.random() * totalDays, m = entries[entries.length - 1][0];
+  for (const [mm, n] of entries) { r -= n; if (r < 0) { m = mm; break; } }
+  const days = await ensureMonth(+m);
+  const keys = Object.keys(days);
   if (!keys.length) return;
   const key = keys[Math.floor(Math.random() * keys.length)];
-  const m = parseInt(key.slice(0, 2));
-  if (m !== curMonth) { curMonth = m; renderMonths(); renderDays(); }
+  if (+m !== curMonth) { curMonth = +m; renderMonths(); renderDays(); }
   selectDay(key);
   window.scrollTo({ top: $('.dayHead').offsetTop - 90, behavior: 'smooth' });
 }
 
 (async () => {
   try {
-    DATA = await fetchGz('data.json');
+    META = await fetchGz('data/meta.json');
     const now = new Date();
     curMonth = now.getMonth() + 1;
-    $('#heroSub').textContent = `${DATA.count} 条记录覆盖 ${Object.keys(DATA.days).length} 个日子（1972—2026，精确到日）——每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上那一天发生过什么。`;
+    $('#heroSub').textContent = `${META.count} 条记录覆盖 ${META.dayCount} 个日子（1972—2026，精确到日）——每一个「月日」都攒下了一叠年份不同的记忆。选一个日子，看看历史上那一天发生过什么。`;
     renderMonths();
     renderDays();
     $('#copyLink').onclick = () => {
@@ -269,7 +291,7 @@ function randomDay() {
       }
     };
     const qd = new URLSearchParams(location.search).get('d');
-    if (qd && DATA.days[qd]) {
+    if (qd && /^\d{2}-\d{2}$/.test(qd) && (await ensureMonth(parseInt(qd.slice(0, 2), 10)))[qd]) {
       curMonth = parseInt(qd.slice(0, 2));
       renderMonths();
       renderDays();

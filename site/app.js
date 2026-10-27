@@ -120,7 +120,7 @@ const Timeline = {
   init() {
     this.io = new IntersectionObserver(es => {
       for (const en of es) if (en.isIntersecting) this.ensureEra(+en.target.dataset.era);
-    }, { rootMargin: '900px 0px' });
+    }, { rootMargin: '600px 0px' });
     this.reveal = new IntersectionObserver(es => {
       for (const en of es) if (en.isIntersecting) { en.target.classList.add('in'); this.reveal.unobserve(en.target); }
     }, { rootMargin: '30px' });
@@ -222,7 +222,9 @@ const Timeline = {
         holder.className = 'card' + (flip ? ' right' : '') + (p.milestone ? ' mile' : '') + (UIState.expandAll ? ' open' : '');
         holder.dataset.id = p.id;
         holder.innerHTML = this.cardHtml(p);
+        holder._ev = p;                                    // 正文懒填充的数据源（fillBody）
         if (extras) holder.appendChild(this.sameDayEl(extras));
+        if (UIState.expandAll) this.fillBody(holder);      // 展开态重建时正文直接就位
         frag.appendChild(holder);
         this.reveal.observe(holder);
         flip = 1 - flip;
@@ -271,7 +273,7 @@ const Timeline = {
       <h3 class="cTitle"><a href="${esc(safeUrl(src0.url))}" target="_blank" rel="noopener" title="点击标题跳转原文">${esc(e.title)} <span class="arrow">↗</span></a></h3>
       <p class="cSum">${esc(sum)}${long ? ' <span class="hint">展开看全文</span>' : ''}</p>
       <button class="cMore">展开经过与影响 <i>∨</i></button>
-      <div class="cBody"><div class="cBodyInner">${this.bodyHtml(e)}</div></div>`;
+      <div class="cBody"><div class="cBodyInner"></div></div>`;
   },
 
   /** 卡片正文（经过/影响/后续/来源）：主卡与同日折叠行详情共用同一套 .sec 语言 */
@@ -282,6 +284,43 @@ const Timeline = {
       <div class="sec"><span class="lab">后续</span><p>${esc(e.aftermath)}</p></div>
       <div class="sec"><span class="lab">数据来源</span><ul class="srcList">${e.sources.map(s =>
         `<li><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="tp">${esc(s.type || '')}</span></li>`).join('')}</ul></div>`;
+  },
+
+  /** 正文懒填充：建卡时不带经过/影响/后续/来源——全库约 178 万字符的折叠文本若全部
+   *  预渲染，手机端 DOM/样式树/内存全量承担（卡顿与 iOS 白屏重载的主源），首次展开才建。
+   *  card._ev 由 renderEra 挂载；deep-link 与「全部展开」路径也走这里。 */
+  fillBody(card) {
+    if (card._filled || !card._ev) return;
+    card._filled = true;
+    const inner = card.querySelector('.cBodyInner');
+    if (inner) inner.innerHTML = this.bodyHtml(card._ev);
+  },
+
+  /** 全部展开/收起：展开侧分帧填充（数千卡一次全填会阻塞主线程，沿用 12ms 时间片）；
+   *  收起侧顺带释放已填正文，把 DOM 还给懒填充基线。token 防与重渲染竞态。 */
+  setExpandAll(on) {
+    (this._exToken = (this._exToken || 0) + 1);
+    const token = this._exToken;
+    const cards = [...document.querySelectorAll('#timeline .card')];
+    if (!on) {
+      for (const c of cards) {
+        c.classList.remove('open');
+        if (c._filled) { const i = c.querySelector('.cBodyInner'); if (i) i.innerHTML = ''; c._filled = false; }
+      }
+      return;
+    }
+    let i = 0;
+    const step = () => {
+      if (token !== this._exToken) return;
+      const t0 = performance.now();
+      while (i < cards.length && performance.now() - t0 < 12) {
+        const c = cards[i++];
+        c.classList.add('open');
+        this.fillBody(c);
+      }
+      if (i < cards.length) setTimeout(step, 0);
+    };
+    step();
   },
 
   /** 同日分组的主事件挑选（确定性）：时代转折 > 双源实证 > 正文更详 > 数据序。
@@ -340,7 +379,7 @@ const Timeline = {
       const sec = document.getElementById(`era-${i}`);
       if (!sec) continue;
       const r = sec.getBoundingClientRect();
-      if (r.top < innerHeight + 900 && r.bottom > -900) this.renderEra(i);   // 900px 与 IO rootMargin 一致
+      if (r.top < innerHeight + 600 && r.bottom > -600) this.renderEra(i);   // 600px 与 IO rootMargin 一致
     }
   },
   refreshQCount() {
@@ -360,7 +399,7 @@ const Timeline = {
       const sec = document.getElementById(`era-${i}`);
       if (!sec) continue;
       const r = sec.getBoundingClientRect();
-      if (r.top < vh + 900 && r.bottom > -900) this.ensureEra(i);   // 900px 与 IO rootMargin 一致
+      if (r.top < vh + 600 && r.bottom > -600) this.ensureEra(i);   // 600px 与 IO rootMargin 一致
     }
   },
 
@@ -404,6 +443,13 @@ const Timeline = {
       Toolbar._toolPin = Date.now() + 1500;
       document.getElementById('toolbar').classList.remove('tHide');
       window.scrollTo({ top: y, behavior: 'instant' });
+      // content-visibility 下屏外年份组以估算高度占位：目标组真实渲染后位置可能漂移，
+      // 落位 120ms 后（组已进视口、按真实尺寸布局）回正一次，偏差小于阈值则不动
+      setTimeout(() => {
+        if (!g.isConnected) return;
+        const y2 = g.getBoundingClientRect().top + window.scrollY - 150;
+        if (Math.abs(y2 - y) > 24) window.scrollTo({ top: y2, behavior: 'instant' });
+      }, 120);
       if (replaceUrl) history.replaceState(null, '', location.pathname + '?year=' + year);
       g.querySelector('.yBadge').classList.add('flash');
       setTimeout(() => g.querySelector('.yBadge')?.classList.remove('flash'), 2200);
@@ -500,7 +546,7 @@ const Toolbar = {
       const on = UIState.expandAll;
       $('#expandAll').classList.toggle('on', on);
       $('#expandAll').textContent = on ? '全部收起' : '全部展开';
-      document.querySelectorAll('.card').forEach(c => c.classList.toggle('open', on));
+      Timeline.setExpandAll(on);
     };
     const reset = document.createElement('button');
     reset.className = 'tBtn'; reset.id = 'resetAll'; reset.textContent = '↺ 重置';
@@ -582,7 +628,7 @@ const Toolbar = {
       }
       if (now - lastSave > 2000 && Store.ready) {          // 节流记录阅读位置
         lastSave = now;
-        const y = Timeline.currentYear();
+        const y = Toolbar.currentYear();                   // currentYear 在 Toolbar 上（原误写 Timeline.* 每两秒静默报错，中断存档）
         if (y) localStorage.setItem('na-last-read', y);
       }
     }, { passive: true });
@@ -598,7 +644,11 @@ const Toolbar = {
         return;
       }
       const more = ev.target.closest('.cMore');
-      if (more) { more.closest('.card').classList.toggle('open'); return; }
+      if (more) {
+        const card = more.closest('.card');
+        if (card.classList.toggle('open')) Timeline.fillBody(card);   // 展开才建正文
+        return;
+      }
       // 同日折叠层：层内点击不冒泡成卡片展开；toggle 懒构建行，行点击懒开详情
       if (ev.target.closest('.sameDay')) {
         const row = ev.target.closest('.sdRow');
@@ -618,7 +668,7 @@ const Toolbar = {
         return;
       }
       const card = ev.target.closest('.card');
-      if (card && !ev.target.closest('a')) card.classList.add('open');
+      if (card && !ev.target.closest('a')) { card.classList.add('open'); Timeline.fillBody(card); }
     });
   },
 
@@ -638,13 +688,19 @@ const Toolbar = {
     const lab = document.querySelector('.tJumpRow .tLab');
     if (lab) lab.textContent = label;
   },
-  /** 倒序找第一个 top≤300 的年份组即当前年份，命中即 break（避免全量 getBoundingClientRect） */
+  /** 倒序找第一个 top≤300 的年份组即当前年份。二分查找（O(log n)）替代曾经的
+   *  全量倒序线性扫描——大时代顶部要空扫几十个组、每组一次强制回流，是滚动卡顿源。
+   *  连续 gBCR 之间无 DOM 写入，浏览器复用同一帧布局，整段只强制回流一次。 */
   currentYear() {
     const groups = document.querySelectorAll('.yearGroup');
-    for (let k = groups.length - 1; k >= 0; k--) {
-      if (groups[k].getBoundingClientRect().top <= 300) return groups[k].querySelector('.yBadge span')?.textContent ?? null;
+    if (!groups.length) return null;
+    let lo = 0, hi = groups.length - 1, hit = null;
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      if (groups[mid].getBoundingClientRect().top <= 300) { hit = groups[mid]; lo = mid + 1; }
+      else hi = mid - 1;
     }
-    return null;
+    return hit ? hit.querySelector('.yBadge span')?.textContent ?? null : null;
   },
 };
 
@@ -696,8 +752,18 @@ async function boot() {
         await Timeline.renderEra(era);
         const card = document.querySelector('.card[data-id="' + wantEvent + '"]');
         if (card) {
+          Timeline.fillBody(card);                 // 懒正文：展开前先填，避免空体闪一帧
           card.classList.add('open', 'in');
-          card.scrollIntoView({ block: 'center', behavior: 'instant' });
+          // 居中用 scrollTo 瞬时定点 + 落定回正（scrollIntoView 会吃全局 smooth 且受
+          // content-visibility 估算高度漂移影响；其余时代分片陆续渲染也会挤偏）
+          const center = () => {
+            if (!card.isConnected) return;
+            const y = card.getBoundingClientRect().top + window.scrollY - innerHeight / 2 + Math.min(card.offsetHeight / 2, 240);
+            window.scrollTo({ top: Math.max(0, y), behavior: 'instant' });
+          };
+          center();
+          setTimeout(center, 350);
+          setTimeout(center, 1400);
           card.style.outline = '2px solid var(--accent)';
           setTimeout(() => { card.style.outline = ''; }, 2600);
           toast('已定位到这条事件');

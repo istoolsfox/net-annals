@@ -48,15 +48,17 @@ const SV = {
     if (this.current === name) document.getElementById('heroSub').textContent = this.HERO[name].sub;
     document.getElementById(k.intro).textContent = k.introText(items.length);
     let filter = 'all', q = '';
-    const draw = () => NA.renderLongScroll(k.root, NA[k.eras],
+    /* draw 支持 done 回调：renderLongScroll 已分帧建 DOM，首个视图需等渲染完
+       （深链定位、ready 标记都依赖卡片已在 DOM） */
+    const draw = done => NA.renderLongScroll(k.root, NA[k.eras],
       items.filter(it => (filter === 'all' || it[k.field] === filter) && NA.matchQ(it, q, k.fields)),
-      k.yearOf, it => NA[k.card](it, { home: true }), k.unit);
+      k.yearOf, it => NA[k.card](it, { home: true }), k.unit, done);
     NA.buildFilterChips(document.getElementById(k.chips),
       [...new Set(items.map(it => it[k.field]))].map(f => ({ key: f, count: items.filter(it => it[k.field] === f).length })),
       { colorOf: f => NA[k.colors][f], labelOf: f => NA[k.labels][f] || f, onChange: f => { filter = f; draw(); } });
     NA.wireSearch(k.search, v => { q = v; draw(); });
     NA.wireExpand(k.root);
-    draw();
+    await new Promise(r => draw(r));
     this.ready[name] = true;
   },
 

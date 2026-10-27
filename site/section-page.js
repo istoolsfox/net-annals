@@ -40,9 +40,10 @@
       const data = await NA.fetchGz('data.json');
       const items = data[CFG.listKey];
       let filter = 'all', q = '';
-      const draw = () => NA.renderLongScroll(CFG.root, NA[CFG.eras],
+      /* draw 支持 done 回调：renderLongScroll 分帧建 DOM，深链定位需等卡片就位 */
+      const draw = done => NA.renderLongScroll(CFG.root, NA[CFG.eras],
         items.filter(it => (filter === 'all' || it[CFG.field] === filter) && NA.matchQ(it, q, CFG.fields)),
-        CFG.yearOf, it => NA[CFG.card](it), CFG.unit);
+        CFG.yearOf, it => NA[CFG.card](it), CFG.unit, done);
       NA.buildFilterChips(document.getElementById(CFG.chips),
         [...new Set(items.map(it => it[CFG.field]))].map(f => ({ key: f, count: items.filter(it => it[CFG.field] === f).length })),
         { colorOf: f => NA[CFG.colors][f], labelOf: f => NA[CFG.labels][f] || f, onChange: f => { filter = f; draw(); } });
@@ -50,7 +51,7 @@
       NA.wireExpand(CFG.root);
       const hero = document.getElementById('heroSub');
       if (hero) hero.textContent = CFG.hero(items.length);
-      draw();
+      await new Promise(r => draw(r));
       NA.deepLinkCard(new URLSearchParams(location.search).get(CFG.param), CFG.root);
     } catch (e) {
       document.querySelector(CFG.root).innerHTML = `<div class="empty">数据加载失败（${NA.esc(e.message)}）</div>`;

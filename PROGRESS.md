@@ -890,3 +890,14 @@
 - **政治桶 imp5 首批手写 14 条入库**（g_politics_1.json，13条双源verified）：八六三计划/三步走/浦东开发宣布/澳门基本法/十四届三中全会50条/中南建交/ICCPR签署/两会台北会谈/扶贫提标2300元/五大战区/巴拿马建交/中美关税战开打/G20休战/共同富裕。大湾区纲要1条被 add_events id 冲突兜住（库里已有，同slug撞车）。
 - **老坑复踩**：查重命中打印 h[:2] 截断导致漏看已有条目——METHODOLOGY 第六条「打印全量命中禁截断」再次验证，已入记忆。
 - 全库 6099 条。政治桶余 147 条（imp4 为主）待后续批次。
+
+## 续84轮（2026-10-27）· 手机端性能专项：懒正文+分帧+毛玻璃，DOM 砍 70%
+- **定位**：数据加载架构（分片/gz/惰性）没问题，卡顿在渲染层三处叠加——①卡片折叠正文全量预渲染（全库 178 万字符常驻 DOM，最大分片 1570 条×40 节点≈10 万节点，iOS 白屏重载主源）；②人物/世家/作品视图切 tab 同步一次性建 777 卡；③滚动回调 currentYear() 全量倒序扫描 getBoundingClientRect 强制回流 + 移动端 topbar/toolbar 双层 backdrop-filter。
+- **懒正文（最大杠杆）**：三类卡（编年史 app.js / 人物·世家·作品 common.js）建卡只带头部+标题+摘要+空 cBody，首次展开经 _fill/_ev 闭包才建正文。「全部展开」走 12ms 时间片分批填充，收起时释放已填正文回收 DOM（实测 2232 卡：展开 72.4k 节点 → 收起回落 36.6k）。同日折叠层 fillSameDay 模式推广到全站。
+- **renderLongScroll 分帧化**：人物/世家/作品长卷改 12ms 时间片分批建 DOM（token 防重入竞态），section-view/section-page 首渲染 await 完成后再深链定位。实测切人物志不再阻塞。
+- **currentYear 二分查找**：全量倒序扫描（大时代顶部空扫几十组×强制回流）→ O(log n) 二分；顺手修存量 bug——滚动回调误写 Timeline.currentYear（方法在 Toolbar 上），阅读位置存档功能一直静默报错，已纠正。
+- **移动端降载**：topbar 移动断点 backdrop-filter 置 none（桌面 blur 保留），触屏 @media(hover:none) 卡片进场只留 0.25s 透明度渐入（去 translateY+0.5s）。
+- **深链/跳转回正**：content-visibility 屏外组估算高度会造成落点漂移（实测子页深链漂到 -13355px），深链与年度跳转统一改 window.scrollTo 瞬时定点+350ms/1400ms 两次回正（scrollIntoView 会吃全局 scroll-behavior:smooth 变动画滚动，弃用）。rootMargin 900→600 减少手机预载。
+- **today 按月切分**：build_today.py 增产 meta（190B，总量/月度计数）+ 12 个月度分片（70-110KB gz，.json 兜底），页面首屏从 974KB gz 降到 ~0.2KB+当月 ~90KB；随机一天按月天数加权只拉一个分片；旧整包 data.json 保留兜底。
+- 浏览器冒烟全过：懒填充/全部展开释放/筛选 rebuild/年度跳转落点 150px 精准/两类深链居中 top≈120/today 月切日选/移动端毛玻璃 none 桌面 blur 保留/ persons 子页深链。版本号 bump（app 30/view 29/common 3/style 25）。
+- 已知取舍：shard-7（1570 条）未再细切——懒正文+c-v 已消解其成本，避免动 build.py 分片管线（并行会话 WIP 区）；?event= 深链会全量渲染 8 时代属存量行为，不影响常规浏览。

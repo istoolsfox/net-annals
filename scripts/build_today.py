@@ -65,7 +65,8 @@ for f in sorted(glob.glob(os.path.join(DATA, "*.json"))):
 for evs in days.values():
     evs.sort(key=lambda x: x["date"])
 
-text = json.dumps({"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
+generated = datetime.now().astimezone().isoformat(timespec="seconds")
+text = json.dumps({"generated": generated,
                    "count": total, "days": days},
                   ensure_ascii=False, separators=(",", ":"))
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -75,3 +76,33 @@ with open(dst + ".gz", "wb") as gf:
     with gzip.GzipFile(filename="", mode="wb", fileobj=gf, mtime=0, compresslevel=9) as g:
         g.write(text.encode("utf-8"))
 print(f"✓ 历史上的今天构建完成：{total} 条覆盖 {len(days)} 天 → site/today/data.json（{os.path.getsize(dst)//1024}KB + .gz）")
+
+
+def write_pair(path, obj):
+    """月度小文件成对输出：.gz 为主（DecompressionStream 解压），.json 兜底"""
+    t = json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
+    open(path, "w", encoding="utf-8").write(t)
+    with open(path + ".gz", "wb") as gf:
+        with gzip.GzipFile(filename="", mode="wb", fileobj=gf, mtime=0, compresslevel=9) as g:
+            g.write(t.encode("utf-8"))
+
+
+# 月度分片（2026-10-26 手机端提速）：整包 974KB gz 首屏太重 → meta（约 2KB）
+# + 12 个月度小文件按需懒取。data.json 保留作为旧缓存页与无 DecompressionStream 环境兜底。
+month_dir = os.path.join(OUT_DIR, "data")
+os.makedirs(month_dir, exist_ok=True)
+months, month_days = {}, {}
+for key, evs in days.items():
+    m = key[:2]
+    months[m] = months.get(m, 0) + len(evs)
+    month_days[m] = month_days.get(m, 0) + 1
+meta = {"generated": generated, "count": total,
+        "dayCount": len(days), "months": months, "monthDays": month_days}
+write_pair(os.path.join(month_dir, "meta.json"), meta)
+emitted = []
+for m in sorted(months):
+    sub = {k: v for k, v in days.items() if k.startswith(m)}
+    p = os.path.join(month_dir, f"m{m}.json")
+    write_pair(p, {"days": sub})
+    emitted.append(f"{m}({os.path.getsize(p + '.gz') // 1024}KB)")
+print(f"✓ 月度分片 → site/today/data/：meta + {' '.join(emitted)}")
