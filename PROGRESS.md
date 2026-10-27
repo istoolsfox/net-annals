@@ -909,3 +909,9 @@
 - **修复3**：rebuild()（筛选/搜索）重建 DOM 后，「全部展开」的进行中分批还在给已脱离 DOM 的旧卡填充白烧 CPU——重建时 bump _exToken 作废。
 - 压力组合复测全绿：展开进行中立即 rebuild → 连续滚动 → 零报错；年份指示正常；**localStorage['na-last-read'] 首次真实写入**（续84轮修的 Timeline.currentYear 存量 bug 实证生效）。
 - 红队未动项（P2/存量）：①`<link rel="preload" data/index.json>` 与 app.js 实际请求 `?v=Date.now()` URL 不一致，preload 永远 miss（预存）；②服务器若对 .gz 配置 Content-Encoding: gzip 会使 DecompressionStream 解压失败回退明文双倍下载（10-24轮架构遗留，需部署时 curl -I 验证）；③renderLongScroll 的 yearOf 插值未 esc（数据自建可信管线，与旧代码同口径）；④无测试护栏——静态站无测试框架，本次以 node --check + 浏览器冒烟（构造竞态场景）代替，报告如实声明。
+
+## 续86轮（2026-10-27 晚）· 采集数据首批入库 8 条 + GitHub 双线合一 + 全站上线
+- **n8n/本地采集成果首次入库**：两天归档（本地10-26深挖版322条+10-27两轮）人工裁定后成条 8 条入库（g_news_1.json，全库 6099→6107）：西藏巴青7.0级地震（那曲/巴青同震合并，16死76伤）/俄罗斯鼠疫研究所肺鼠疫死亡/日本MMX火星卫星探测器发射/长三角外贸19连增/博通为Anthropic敲定630亿美元融资/凯恩金球奖（25年首位英格兰人）/广电禁有线电视开机广告/泡泡玛特Q3预降45-50%。
+- **入库闸门实证**：n8n 归档是裸候选（无URL）不入库；严格口径下两日 700+ 候选仅 8 条过闸（股市日波动不收、同事件合并、错挖剔除）——来源可溯三律优先于数量。深挖错挖案例：2026巴青地震挖到2025年西藏地震页、俄鼠疫挖到1940开明街鼠疫页——batch_ingest_news.py 强化校验（词条年份一致性+双向二字词重叠）。
+- 新脚本 scripts/batch_ingest_news.py（一次性，新闻归档→人工裁定清单→强化深挖→GLM成条→查重→.parts）。
+- **GitHub 双线合一**：本地仓与 istoolsfox/net-annals 远端系无关历史（远端另有 promo 视频+备案公告线 6 提交）——`git merge -s ours --allow-unrelated-histories` 合史保树，四个发现项修复随 main 推上远端；镜像 Pages 从 gh-pages 分支出，另行同步。
