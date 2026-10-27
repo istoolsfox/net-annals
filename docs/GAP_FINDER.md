@@ -224,3 +224,43 @@ ssh toolsfox 'cat ~/n8n_share/queue/gap_queue_2026-W44.json' > data/derived/inco
 首跑成绩（2026-10-26）：324 条原始 → 322 新增（safe 150/politics 111/disaster 34/social 18/crime 9），高价值 60 条，深挖命中 8/30（事件词条尚未建立的自动落库，符合预期）。
 
 归档定位：**本地候选库**——不进站点构建、不进 git、不直接入库；高价值条目由 ZCode 会话核实后走既有批次管线。
+
+---
+
+## 十一、n8n 服务器端实装（2026-10-27）
+
+toolsfox.top 的 n8n（docker 容器 `n8n`，v2.43.8，卷 `n8n_data`→容器 `/home/node/.n8n`）已由 ZCode 通过 CLI 无头搭建：
+
+**两个工作流（均已激活）**
+
+| 工作流 | ID | 调度 | 链路 |
+|---|---|---|---|
+| 编年史·新闻采集 | `EOFcQB3xOcW8ih3r` | 每小时 :15（8点档自动全量） | 触发→初始化(北京时间定档)→抓源(维基新闻动态/Current events/GoogleNews/百度热搜)→解析→指纹去重→GLM初筛(20条/批,带ai背景)→合并评分→按日汇总→写归档 |
+| 编年史·缺口扫荡 | `EnSvQWUXiWw13gYv` | 每周三 09:00 | 触发→41个年份页→提取带日期条目→GLM提取(强制原文引文)→**引文落地校验**→写队列 |
+
+- GLM 凭证：`GLM API (编年史)`（httpHeaderAuth，id `UnbmLtmDjQXuUjqt`），HTTP Request 节点直连 OpenAI 兼容端点，不用 LangChain 节点（版本免疫）。
+- 产出位置（宿主机）：`/var/lib/docker/volumes/n8n_data/_data/daily/daily_YYYY-MM-DD.json` 与 `.../gap/gap_queue_YYYY-MM-DD.json`；消费方式 `ssh toolsfox 'sudo cat …'`。
+- 状态持久：指纹库（8000条）与当日条目存 n8n workflow staticData；跨次去重，无新增时跳过 GLM 与写文件。
+- 与本地的让位协议不变：`data/derived/n8n_active.json`（7天心跳）存在即本地 news_harvest 跳过。
+
+**搭建踩坑实录（无头 CLI 路线）**
+
+1. `n8n execute --id` 只能跑子工作流（要求 Execute Workflow Trigger），调度型工作流无法手动跑——只能激活后等真实触发验证。
+2. 容器内跑 CLI 撞运行实例的 Task Broker 端口（5679）——`-e N8N_RUNNERS_BROKER_PORT=5699` 绕过。
+3. 凭证导入必须 JSON **数组**格式，单对象报"File does not seem to contain credentials"。
+4. 宿主机 `sudo mkdir` 建的输出目录属主 root，容器 uid 1000 写不进——chown 1000:1000。
+5. **宿主机 sqlite3 的 readfile() 只认宿主机路径**：传容器内路径返回 NULL 直接把 nodes 列写空（已用宿主机 /tmp 路径修复）。同理 readfile 能救活写坏的列。
+6. 维基 HTML 的 `&#91;1&#93;` 引用标记需实体解码（decodeEnt），否则候选文本带脏字符。
+7. 静态数据在**失败执行后也会持久化**——一次失败运行会把当日指纹全部记账，导致后续运行全判重、无产出；恢复方式=重置 workflow_entity.staticData 后重启。
+8. 导入重复执行会**按名字再建一份**（不去重）；改已导入工作流用 `UPDATE workflow_entity SET nodes=readfile(...)` 原地替换 + 重启，可保 ID 与激活状态。
+
+### 十一·补：文件写入排障补遗（同日）
+
+首个调度执行连续三次卡在「写归档」节点，最终排障链条（每次都有新发现）：
+1. `sudo mkdir` 建的目录属主 root → 容器 uid 1000 写不进（chown 修复，但不是根因）。
+2. `N8N_RESTRICT_FILE_ACCESS_TO=/home/node/.n8n`（重建容器）→ 仍被拒。
+3. **真根因**：`file-system-helper-functions.js` 里 `N8N_BLOCK_FILE_ACCESS_TO_N8N_FILES` 默认把 **n8n 自身目录（.n8n）整体列为禁写区**，且该判定在白名单**之前**——写 .n8n 下任何路径必被拒。
+4. 最终解：重建容器加 `-e N8N_BLOCK_FILE_ACCESS_TO_N8N_FILES=false` + 白名单 .n8n → 15:15 调度执行 success，102KB 日归档落盘。
+
+**其他教训**：①失败的执行也会持久化 staticData（指纹库）——失败运行会"占坑"当日候选，恢复需重置 `workflow_entity.staticData` 并重启；②n8n 数据库错误 blob 是 zod 压缩引用格式（数字字符串→索引递归解析），`SELECT writefile()` 导出后本地 python 递归解析可还原全部细节；③宿主机 sqlite3 的 `readfile()` 只认宿主机路径（容器路径=写 NULL）。容器重建脚本留存：/tmp/recreate_n8n.sh（含全部原 env + 白名单）。
+**已知小问题**：manual 桶占比较高（69/249，GLM 批解析失败的兜底），消费端可直接看原文，待后续把解析容错调优。

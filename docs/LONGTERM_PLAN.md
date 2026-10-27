@@ -93,3 +93,5 @@
 4. 编造 URL = 整批回滚；单源条目 date_confidence=single-source，两源才 verified。
 5. 并行会话：定点 add、共享区最小窗口、开工跑 lane_check。
 6. 记忆沉淀：每轮新坑写进 memory + PROGRESS，防重复踩。
+
+> **状态更新（2026-10-27）**：n8n 侧「编年史·新闻采集」（每小时:15，8点档全量）与「编年史·缺口扫荡」（周三09:00）已搭建并激活；新闻采集已验证成功落盘（249条/102KB）。**本地采集已让位**：`data/derived/n8n_active.json` 已创建，本地每小时自动化已下线。n8n 产出消费路径：`ssh toolsfox 'sudo cat /var/lib/docker/volumes/n8n_data/_data/daily/daily_YYYY-MM-DD.json'`。待跟进：缺口扫荡工作流首次真实触发为 2026-10-29（周三）09:00，需验证其产出队列文件。
