@@ -264,3 +264,9 @@ toolsfox.top 的 n8n（docker 容器 `n8n`，v2.43.8，卷 `n8n_data`→容器 `
 
 **其他教训**：①失败的执行也会持久化 staticData（指纹库）——失败运行会"占坑"当日候选，恢复需重置 `workflow_entity.staticData` 并重启；②n8n 数据库错误 blob 是 zod 压缩引用格式（数字字符串→索引递归解析），`SELECT writefile()` 导出后本地 python 递归解析可还原全部细节；③宿主机 sqlite3 的 `readfile()` 只认宿主机路径（容器路径=写 NULL）。容器重建脚本留存：/tmp/recreate_n8n.sh（含全部原 env + 白名单）。
 **已知小问题**：manual 桶占比较高（69/249，GLM 批解析失败的兜底），消费端可直接看原文，待后续把解析容错调优。
+
+### 十一·补2：blob 陷阱与公共 API（2026-10-27 晚）
+
+用户报编辑器打开工作流报「Workflow data is invalid / a.nodes.filter is not a function」。根因：用 sqlite3 CLI 的 `readfile()` 原地更新 nodes 列时，写入的是 **BLOB 类型**——运行时（主进程）能容错所以调度照跑，但编辑器 API 校验 nodes 必须是数组，直接拒绝。**修复：`UPDATE ... SET nodes = CAST(nodes AS TEXT)`**（blob 字节即合法 JSON，无损；length 变小只是 blob 按字节/text 按字符计数）。教训：**对 n8n DB 做列内容替换一律用 `CAST(readfile(...) AS TEXT)`**。
+
+另：用户提供了 n8n 公共 API key（`X-N8N-API-KEY` 头，aud=public-api），`GET/PUT http://127.0.0.1:5678/api/v1/workflows/{id}`（服务器本地）可用作今后无头操作的正道——自带校验与版本记录，比 DB 手术安全。注意 PUT 的 body 只含 name/nodes/connections/settings 时报 "Iterator value 0 is not an entry object"（原因未深究，下次用 API 建议带上完整字段或用 MCP 通道）。
