@@ -307,10 +307,10 @@ a{color:inherit}
 @media (max-width:860px){
   .topbar{padding:10px 16px}
   .toolbar{padding:12px 16px 10px;top:52px}
-  @supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
-    .topbar{-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
-    .toolbar{-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
-  }
+  /* 移动端 GPU 弱：吸顶层大面积 backdrop-filter 每帧重绘是滚动卡顿主源，
+     一律不启用，改不透明底色保证可读性（桌面 topbar 的 blur 渐进增强保留） */
+  .topbar,.toolbar{background:var(--bg)}
+  .topbar{-webkit-backdrop-filter:none;backdrop-filter:none}
   .tRow{gap:8px;margin-bottom:8px}
   .tJumpRow{overflow-x:auto;scrollbar-width:none}
   .page{padding:0 16px}
@@ -383,6 +383,13 @@ a{color:inherit}
 .toolbar{background:var(--bg)}
 @supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
   .toolbar{-webkit-backdrop-filter:none;backdrop-filter:none}
+}
+
+/* 触屏设备（2026-10-26 懒正文配套）：进场只做透明度渐入且缩到 0.25s，不再
+   translateY+0.5s——快速滑动时几十张卡同时跑长动画是掉帧源。hover 效果本就
+   只存在于桌面，触屏无损失 */
+@media (hover:none){
+  .card{transform:none;transition:opacity .25s ease,border-color .2s}
 }
 
 /* ── 子视图小节（人物/世家/作品 行内展开内容，2026-10-25）── */
