@@ -198,10 +198,14 @@ async function fetchFull(id, date) {
   if (!_shardCache[i]) {
     const r = await fetch('../data/shard-' + i + '.json.gz?v=' + DATA_BUILD);
     if (r.ok) {
-      const buf = await r.arrayBuffer();
-      const ds = new DecompressionStream('gzip');
-      const stream = new Blob([buf]).stream().pipeThrough(ds);
-      _shardCache[i] = await new Response(stream).json();
+      if ((r.headers.get('content-encoding') || '').includes('gzip')) {
+        _shardCache[i] = await r.json();          // 服务器已解压过，直接 json()
+      } else {
+        const buf = await r.arrayBuffer();
+        const ds = new DecompressionStream('gzip');
+        const stream = new Blob([buf]).stream().pipeThrough(ds);
+        _shardCache[i] = await new Response(stream).json();
+      }
     } else {
       _shardCache[i] = [];
     }

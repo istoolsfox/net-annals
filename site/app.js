@@ -69,6 +69,8 @@ const Store = {
       try {
         const r = await fetch(url + '.gz?v=' + v);
         if (r.ok) {
+          // 服务器已声明 Content-Encoding: gzip 时浏览器自动解压过，直接 json()
+          if ((r.headers.get('content-encoding') || '').includes('gzip')) return await r.json();
           const stream = (await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'));
           return await new Response(stream).json();
         }
@@ -204,7 +206,7 @@ const Timeline = {
     const renderGroup = ([year, list]) => {
       const g = document.createElement('div');
       g.className = 'yearGroup';
-      g.innerHTML = `<div class="yBadge" data-year="${year}" title="点击复制这一年的链接"><span>${year}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
+      g.innerHTML = `<div class="yBadge" data-year="${esc(String(year))}" title="点击复制这一年的链接"><span>${esc(String(year))}</span>${list.length > 1 ? `<small>${list.length}</small>` : ''}</div><div class="cards"></div>`;
       const cards = g.querySelector('.cards');
       const frag = document.createDocumentFragment();
       // 同日分组：date 相同的事件共享一个卡位——主事件占位，其余收进可展开的「同日」折叠层。
@@ -349,7 +351,7 @@ const Timeline = {
     return el;
   },
 
-  /** 同日行的紧凑外观；详情默认 0fr 收起，展开复用主卡正文 */
+  /** 同日行的紧凑外观；详情默认 0fr 收起，内层留空——行展开才懒填充（fillRowDetail） */
   sdRowHtml(e) {
     const cat = CAT[e.category] || { name: e.category, c: '#8a919e' };
     const conf = CONF[e.date_confidence] || CONF.uncertain;
@@ -360,14 +362,29 @@ const Timeline = {
         <span class="sdTitle">${esc(e.title)}</span>
         <span class="sdMeta"><span class="cConf ${conf[1]}">${conf[0]}</span><span class="cAcc">${e.region === 'cn' ? '中国' : '世界'}</span></span>
       </button>
-      <div class="sdDetail"><div class="sdDetailInner">${this.bodyHtml(e)}</div></div>`;
+      <div class="sdDetail"><div class="sdDetailInner"></div></div>`;
   },
 
   /** 首次展开同日层时构建行 DOM（全库 1100+ 条同日事件，隐藏详情不预渲染） */
   fillSameDay(sd) {
     if (sd._filled) return;
-    sd.querySelector('.sdListInner').innerHTML = sd._extras.map(e => `<div class="sdItem">${this.sdRowHtml(e)}</div>`).join('');
+    const inner = sd.querySelector('.sdListInner');
+    for (const e of sd._extras) {
+      const item = document.createElement('div');
+      item.className = 'sdItem';
+      item.innerHTML = this.sdRowHtml(e);
+      item._ev = e;                                  // 行详情懒填充的数据源
+      inner.appendChild(item);
+    }
     sd._filled = true;
+  },
+
+  /** 同日行详情懒填充：行首次展开才建正文（与卡片 cBody 同策略） */
+  fillRowDetail(item) {
+    if (item._filled || !item._ev) return;
+    item._filled = true;
+    const inner = item.querySelector('.sdDetailInner');
+    if (inner) inner.innerHTML = this.bodyHtml(item._ev);
   },
 
   /** 筛选变化：重建空壳，只同步重渲「已加载且在视口附近」的时代，其余交给 IO（避免全量重渲） */
@@ -657,6 +674,7 @@ const Toolbar = {
           const item = row.closest('.sdItem');
           const on = item.classList.toggle('open');
           row.setAttribute('aria-expanded', on);
+          if (on) Timeline.fillRowDetail(item);      // 行展开才建正文
           return;
         }
         const tg = ev.target.closest('.sdToggle');

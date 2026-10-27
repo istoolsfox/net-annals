@@ -12,12 +12,17 @@ const NA = (function () {
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const safeUrl = u => /^https?:\/\//i.test(String(u)) ? u : '#';   // 纵深防御：只放行 http(s)
 
-  /** 拉取 JSON：优先预压缩 .gz（DecompressionStream 本地解压），失败回退明文 */
+  /** 拉取 JSON：优先预压缩 .gz（DecompressionStream 本地解压），失败回退明文。
+   *  若服务器对 .gz 已声明 Content-Encoding: gzip，浏览器已自动解压，直接 r.json()，
+   *  再过一遍解压流反而失败 → 回退明文变双倍下载（2026-10-27 Refinery 发现②） */
   async function fetchGz(url) {
     if (typeof DecompressionStream !== 'undefined') {
       try {
         const r = await fetch(url + '.gz?v=' + DATA_BUILD);
-        if (r.ok) return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+        if (r.ok) {
+          if ((r.headers.get('content-encoding') || '').includes('gzip')) return await r.json();
+          return await new Response((await r.blob()).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+        }
       } catch (e) { /* .gz 缺失或解压失败 → 回退明文 */ }
     }
     const r = await fetch(url + '?v=' + DATA_BUILD);
@@ -121,7 +126,7 @@ const NA = (function () {
         const { body, year, its, flip } = tasks[ti++];
         const g = document.createElement('div');
         g.className = 'yearGroup';
-        g.innerHTML = `<div class="yBadge"><span>${year}</span>${its.length > 1 ? `<small>${its.length}</small>` : ''}</div><div class="cards"></div>`;
+        g.innerHTML = `<div class="yBadge"><span>${esc(String(year))}</span>${its.length > 1 ? `<small>${its.length}</small>` : ''}</div><div class="cards"></div>`;
         const cards = g.querySelector('.cards');
         const frag = document.createDocumentFragment();
         for (const it of its) {
