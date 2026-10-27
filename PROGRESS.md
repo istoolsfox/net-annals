@@ -915,3 +915,4 @@
 - **入库闸门实证**：n8n 归档是裸候选（无URL）不入库；严格口径下两日 700+ 候选仅 8 条过闸（股市日波动不收、同事件合并、错挖剔除）——来源可溯三律优先于数量。深挖错挖案例：2026巴青地震挖到2025年西藏地震页、俄鼠疫挖到1940开明街鼠疫页——batch_ingest_news.py 强化校验（词条年份一致性+双向二字词重叠）。
 - 新脚本 scripts/batch_ingest_news.py（一次性，新闻归档→人工裁定清单→强化深挖→GLM成条→查重→.parts）。
 - **GitHub 双线合一**：本地仓与 istoolsfox/net-annals 远端系无关历史（远端另有 promo 视频+备案公告线 6 提交）——`git merge -s ours --allow-unrelated-histories` 合史保树，四个发现项修复随 main 推上远端；镜像 Pages 从 gh-pages 分支出，另行同步。
+- **⚠️ 部署事故与修复（本轮末尾）**：deploy.sh 的 build_entities.py 把 site/entities/data.json 从 236 家覆盖成 84 家（data/entities/ 源只有 84，其余 152 家同 works 一样产自仓库外管线、以静态工件入库）——已从 git 恢复 236 家大库并重传服务器；deploy.sh 已暂停该构建步（源补齐后恢复）。persons 382 人无恙。geo 因并行会话 geo_index 中间态被一并重建上线（增量性质），随其会话收尾自然校正。教训入册：**构建脚本只允许重刷「源齐备」的栏目；静态工件型栏目必须在 deploy.sh 里显式豁免**。
