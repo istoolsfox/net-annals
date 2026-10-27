@@ -104,14 +104,14 @@ let META = null, curMonth = null, curDay = null;
 /* 数据分两层（2026-10-26 手机端提速）：meta（总量/月度计数，约 200B）随页取；
    月度明细按需懒取（约 70-110KB gz/月）。旧整包 data.json 仍在（旧缓存页与
    无 DecompressionStream 环境兜底），页面首屏不再加载它 */
-const MCACHE = {};
-const monthFail = new Set();
+const MCACHE = {};                                   // m -> Promise<days>（缓存进行中的请求，杜绝并发重复下载）
 async function ensureMonth(m) {
-  if (!MCACHE[m] && !monthFail.has(m)) {
-    try { MCACHE[m] = (await fetchGz('data/m' + pad(m) + '.json')).days; }
-    catch (e) { monthFail.add(m); }
+  if (!MCACHE[m]) {
+    MCACHE[m] = fetchGz('data/m' + pad(m) + '.json')
+      .then(d => d.days)
+      .catch(() => { delete MCACHE[m]; return {}; });   // 失败出缓存，下次点击可重试
   }
-  return MCACHE[m] || {};
+  return MCACHE[m];
 }
 
 function pad(n) { return String(n).padStart(2, '0'); }
@@ -158,8 +158,11 @@ async function renderDays() {
   }
 }
 
+let _sdToken = 0;
 async function selectDay(key) {
+  const my = ++_sdToken;                             // 连点不同日：只让最后一次生效
   const days = await ensureMonth(parseInt(key.slice(0, 2), 10));
+  if (my !== _sdToken) return;
   curDay = key;
   history.replaceState(null, '', '?d=' + key);
   const [m, d] = key.split('-').map(Number);

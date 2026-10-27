@@ -901,3 +901,11 @@
 - **today 按月切分**：build_today.py 增产 meta（190B，总量/月度计数）+ 12 个月度分片（70-110KB gz，.json 兜底），页面首屏从 974KB gz 降到 ~0.2KB+当月 ~90KB；随机一天按月天数加权只拉一个分片；旧整包 data.json 保留兜底。
 - 浏览器冒烟全过：懒填充/全部展开释放/筛选 rebuild/年度跳转落点 150px 精准/两类深链居中 top≈120/today 月切日选/移动端毛玻璃 none 桌面 blur 保留/ persons 子页深链。版本号 bump（app 30/view 29/common 3/style 25）。
 - 已知取舍：shard-7（1570 条）未再细切——懒正文+c-v 已消解其成本，避免动 build.py 分片管线（并行会话 WIP 区）；?event= 深链会全量渲染 8 时代属存量行为，不影响常规浏览。
+
+## 续85轮（2026-10-27）· Refinery 对抗复检续84轮改动：抓出 3 个真问题并修复
+- 用 refinery 精炼厂流程（侦察→定档→基线→四道工序→七视角红队→报告）复审 6ac5a9e。工作区脏文件均为并行会话 WIP（persons/geo 区），本轮严格限定在已提交的前端文件内。
+- **修复1（挂死级）**：renderLongScroll 分帧批次被重入作废时 done 回调被吞——首渲染进行中用户点筛选芯片，section-view/section-page 的 `await new Promise(r=>draw(r))` 永远挂起，视图初始化卡死。作废分支现在也放行 done。浏览器构造重入场景实证：修复前 d1=false（永挂），修复后 d1=true。
+- **修复2**：today 页 ensureMonth 只缓存结果不缓存进行中的 Promise——启动时 renderDays 与 selectDay 并发重复下载同月分片（手机白下 90KB）；改 Promise 缓存，performance 实测 m10.json 请求数 2→1。顺带 selectDay 补 token 防连点竞态（慢网络旧响应覆盖新选择），连点实证只留最后一次。
+- **修复3**：rebuild()（筛选/搜索）重建 DOM 后，「全部展开」的进行中分批还在给已脱离 DOM 的旧卡填充白烧 CPU——重建时 bump _exToken 作废。
+- 压力组合复测全绿：展开进行中立即 rebuild → 连续滚动 → 零报错；年份指示正常；**localStorage['na-last-read'] 首次真实写入**（续84轮修的 Timeline.currentYear 存量 bug 实证生效）。
+- 红队未动项（P2/存量）：①`<link rel="preload" data/index.json>` 与 app.js 实际请求 `?v=Date.now()` URL 不一致，preload 永远 miss（预存）；②服务器若对 .gz 配置 Content-Encoding: gzip 会使 DecompressionStream 解压失败回退明文双倍下载（10-24轮架构遗留，需部署时 curl -I 验证）；③renderLongScroll 的 yearOf 插值未 esc（数据自建可信管线，与旧代码同口径）；④无测试护栏——静态站无测试框架，本次以 node --check + 浏览器冒烟（构造竞态场景）代替，报告如实声明。

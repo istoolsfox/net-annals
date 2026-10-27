@@ -112,7 +112,10 @@ const NA = (function () {
     }
     let ti = 0;
     const step = () => {
-      if (token !== root._lrsToken) return;              // 已被更新的渲染作废
+      if (token !== root._lrsToken) {            // 已被更新的渲染作废
+        if (done) done(shown);                   // 也要放行等待方（首渲染 await done，吞掉会挂死 initView）
+        return;
+      }
       const t0 = performance.now();
       while (ti < tasks.length && performance.now() - t0 < 12) {
         const { body, year, its, flip } = tasks[ti++];

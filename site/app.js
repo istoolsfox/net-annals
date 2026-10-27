@@ -372,6 +372,7 @@ const Timeline = {
 
   /** 筛选变化：重建空壳，只同步重渲「已加载且在视口附近」的时代，其余交给 IO（避免全量重渲） */
   rebuild() {
+    (this._exToken = (this._exToken || 0) + 1);        // 作废进行中的「全部展开」分批（旧卡已随重建脱离 DOM）
     this.refreshQCount();
     this.buildSections();
     for (const [i] of ERAS.entries()) {
