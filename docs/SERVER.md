@@ -16,6 +16,7 @@
 ## 二、已部署的防护栈
 
 - **nginx**：server_tokens off；单 IP 限流 20r/s（burst 40）+ 并发连接 ≤30；`/.git /.env 等`与备份后缀直接 444 断连；安全头五件套（nosniff/XFO/Referrer-Policy/HSTS 30d/Permissions-Policy）；缓存策略=带版本静态资源 30d immutable、数据 json/gz 5min。
+- **API 专属边缘限流（2026-10-28）**：`/etc/nginx/conf.d/netannals-api-limits.conf` 定义 zone=apiperip 5r/s；`location ^~ /api/` 内 limit_req apiperip burst=20 nodelay + limit_conn 8（location 级覆盖 server 级限流）；更严的配额/封禁/探测封禁在应用层（scripts/api/gate.py）。
 - **ufw**：仅 22/80/443。
 - **fail2ban**：sshd（5 次失败封 1h）+ nginx-limit-req（60s 内 20 次限流触发封 10m）。
 - **内核**：syncookies/somaxconn 4096/rp_filter 等（`/etc/sysctl.d/99-netannals.conf`）。
@@ -25,6 +26,8 @@
 ```bash
 # 仓库内一键（构建全部栏目数据 → rsync 到 netannals）
 ./scripts/deploy.sh
+# API 侧一键（同步 scripts/api 与模板 → 拉齐数据工件 → 重建 API 库 → 重启 netannals-api → 冒烟）
+./scripts/deploy_api.sh
 # 回滚（老服务器仍在，301 已开；撤回 301 见下节）
 rsync -az --delete --exclude=/data.json site/ toolsfox:/var/www/net-annals/
 ```
@@ -53,7 +56,7 @@ aliyun alidns AddDomainRecord --DomainName toolsfox.cn --RR "_acme-challenge" --
 
 - 地址：`https://toolsfox.cn/stats/report.html`（Basic Auth：admin，密码见交付记录，可用 `sudo htpasswd -cb /etc/nginx/.htpasswd admin 新密码` 重置）
 - 实现：GoAccess 1.8 读 nginx 日志生成 820KB 交互式 HTML；**每晚 00:10 root crontab 自动重建**（含轮转日志全量）
-- ⚠️ sites-enabled/net-annals 已是**实体文件**（10-25 重构部署时材料化，非符号链接），改配置必须双写 sites-available + sites-enabled
+- ⚠️ sites-enabled/net-annals 已是**实体文件**（10-25 重构部署时材料化，非符号链接），改配置必须双写 sites-available + sites-enabled（10-28 曾出现 available 陈旧缺 /api/ 块，已同步对齐）
 - 备案黑屏用 `location / { return 444; }` + `location ^~ /stats/` 白名单实现；`^~` 必须保留，否则被 `.html$` 正则 location 抢走 404
 
 ## 六、常用运维命令
