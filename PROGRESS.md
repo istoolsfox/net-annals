@@ -953,3 +953,11 @@
 - **三路子Agent评审汇总修复**（安全9/设计12/贡献12条）：安全 P1×2（X-Real-IP 条件信任、bump fail-open）+P2×5（304/错误响应带CORS头、register Origin同源显式校验、计数写放大、ETag大响应、key tmp O_EXCL、日志repr消毒）；设计 P0×1（docs/API.md 与实现双向漂移——ingest还写着、数据集端点没记，已全文重写）+P1×5（register 线程池化+201契约、layer=main 静默空集改400白名单、items排序双真相源统一config.SORTS、CI接单测+paths扩scripts/api/**、register体上限入config）；贡献 P0×2（链路文件未提交→本轮已提交推送a22ee3a；build.py断部署→已修）+P1×4（占位符漏拦—与new_entry共用常量、年份三工具三口径、CI paths漏config.py+PR树代码执行面注释、slug层码双重—new_entry自动剥离）。
 - **验证**：单测21/21、本地冒烟32项、服务器冒烟32项全绿；deploy_api.sh 一键发布（同步→拉齐数据→重建库→重启→冒烟）；nginx 边缘实测30连发全429/正常200/无fail2ban误封；服务器repo对齐 a22ee3a 干净，下周三管线 git pull 不受影响。
 - 遗留：CI 校验器 import 自 PR 树的 config.py（枚举篡改面，已在 workflow 注释站长复核项）；entities 源补齐后恢复 deploy.sh build_entities.py 行。
+
+## 续93轮（2026-10-28 下午）· 国内信息源接入首批：人民日报纸版+巨潮公告两工具两批次
+- **背景**：用户要求对国内源逐站实测（21站探测台账已入 GAP_FINDER），"能拿到的进去看看，拿不到就放弃"。实测后用户令"直接做"——把可取的两把刀做成工具并跑实批次。
+- **工具×2（可复用，已入库）**：①`scripts/people_paper.py` 人民日报每日纸版抓取器（date/match 两模式）。三个实测坑固化：免费静态面**仅覆盖 2023-2024**（2022 及以前 403=付费库专卖，2025 起 /rmrb/pc/ 为 JS SPA，1994 级老年代 404）；版面页裸请求 403 **必须带 Referer**；文章锚是**不带引号的 href**（正则必须兼容）。②`scripts/cninfo_announcements.py` 巨潮公告公开 JSON 接口（POST /new/hisAnnouncement/query，需 X-Requested-With+Referer 头；历史全覆盖——2010 年公告都能查；secName 与标题都带 <em> 高亮需清洗）。
+- **批次A（人民日报核实）三连跑的教训**：首轮 0 命中——①抽样含大量月精度条目（锚定 01 日，纸版同日对不上）；②软文化选题（乌梅子酱/淄博烧烤）不上人民日报版面；③连续抓取触发 403 限速（加退避重试）。次日窗口是关键：**人民日报报道滞后一天**（06-07 开考 → 06-08 见报），match 加 date+1 后 23 条 exact 精度候选命中 3：嫦娥六号落月（1.00 逐字同题）/亚运火炬传递（0.92）/亚运圣火采集（0.73）——全部人工裁定同事件铁匹配，升 verified+补人民日报见报原文 source。
+- **批次B（巨潮核实）**：力帆股份 2010-11-25 A股上市（single-source→verified，2010-11-24 上市公告书 T-1 印证）；乖宝宠物 2023-08-16 上市（已 verified 但补第二源）。
+- **⚠️ 重大发现：origin/main 曾被外部回滚到 b85f23f**（服务器 reflog 显示 11:05 拉到的就是回滚点；推测并行会话用陈旧克隆强推）。本会话推送历史时自然快进恢复，零丢失。**教训：服务器 repo/远端可能在静默间被回退——部署前必须 git log 对账 HEAD，发现落后立即 fetch+reset --hard origin/main（先 fetch 后 reset）**。
+- 全链验证：validate 0 error → normalize/dedup 0 改动 → build → build_api_db → rsync 上线 → 服务器 rebuild → API 实查嫦娥六号 verified 2源 ✓。commit 21bd3f1。
