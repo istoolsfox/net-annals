@@ -83,16 +83,19 @@ def main():
         return 1
     run(['python3', 'scripts/build_api_db.py'])
 
-    # 7. git 提交推送（只 add 数据文件；无变化则跳过）
-    changed = [f for f in glob.glob('data/events/*.json') if '/.' not in f]
-    if changed:
-        run(['git', 'add'] + changed)
+    # 7. git 提交推送（数据确有变化才提交；无变化跳过）
+    dirty = run(['git', 'status', '--porcelain', '--', 'data/events'],
+                capture_output=True).stdout.strip()
+    if dirty:
+        run(['git', 'add', 'data/events'])
         commit = run(['git', 'commit', '-m',
-                      f'auto: 缺口扫荡入库 {queue.rsplit("/", 1)[-1]}（{added and "已合并"}管线自动批）'],
+                      f'auto: 缺口扫荡入库 {queue.rsplit("/", 1)[-1]}（管线自动批）'],
                      capture_output=True)
         if commit.returncode == 0:
             if run(['git', 'push', 'origin', 'main']).returncode != 0:
                 print('✗ git push 失败：站点已本地更新，但远端未同步，需人工检查。')
+        else:
+            print('  git commit 未产生提交（可能仅时间戳变化），跳过推送。')
     else:
         print('  数据无变化，跳过 commit。')
 
