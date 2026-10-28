@@ -22,7 +22,7 @@ Base URL：`https://toolsfox.cn/api/v1/`（nginx 仅放行 `/stats/` 与 `/api/`
 |---|---|---|
 | GET | `/health` | 无需密钥。`{ok, total, db_generated}` |
 | GET | `/meta` | 类目/领域层计数、年份范围、构建时间 |
-| GET | `/events` | 列表查询。参数全部可选：`year`(YYYY) `date_from` `date_to`(YYYY-MM-DD) `category` `region`(cn/world) `layer`(拼音层名) `q`(≤64字符多词AND) `page` `limit`(≤200) `sort`(date_asc/date_desc) |
+| GET | `/events` | 列表查询。参数全部可选：`year`(YYYY) `date_from` `date_to`(YYYY-MM-DD) `category` `region`(cn/world) `layer`(领域层拼音 code，如 games/disasters/main；`/meta` 返回 code→{中文名,count} 映射) `q`(≤64字符多词AND) `page` `limit`(≤200) `sort`(date_asc/date_desc) |
 | GET | `/events/{id}` | 单条详情（id 形如 `1993-03-15-8th-npc-1st-session`） |
 | GET | `/year/{year}` | 整年条目（≤2000 条） |
 | GET | `/search?q=…&limit=≤50` | 相关度搜索：标题30/标签12/摘要6/正文2 加权，多词 AND，中文子串匹配 |
@@ -32,7 +32,7 @@ Base URL：`https://toolsfox.cn/api/v1/`（nginx 仅放行 `/stats/` 与 `/api/`
 ## 安全设计
 
 - **SQL 注入**：全部查询 `?` 参数化；sort/category/region 白名单枚举；LIMIT/OFFSET 强制 int；关键词进 LIKE 前转义 `%` `_` `\`（`ESCAPE '\'`），`%%` 通配符逃逸实测归零。
-- **认证**：密钥明文只显示一次，库内仅存 sha256；`hmac.compare_digest` 常时比较；密钥文件 `config/api_keys.json` 0600 不入 git，mtime 热加载 → 吊销即时生效。
+- **认证**：密钥明文只显示一次，库内仅存 sha256；sha256 摘要字典查找 + `hmac.compare_digest` 复核；密钥文件 `config/api_keys.json` 0600 不入 git，mtime 热加载 → 吊销即时生效。
 - **输入**：year/date/id 正则校验，page/limit 钳制，q 长度 ≤64，未知参数不入 SQL。
 - **运行面**：uvicorn 只绑 127.0.0.1，nginx 反代（`^~ /api/`，client_max_body_size 300k）；DB 0600；接口文档页（/docs）已关闭；500 统一短语不回栈帧；不打密钥日志。
 - **备案期**：`/api/` 与 `/stats/` 同列白名单（密钥保护），站点其余路径维持 444 黑屏。
@@ -73,3 +73,13 @@ cd ~/netannals-pipeline/repo
 - v1 只开放编年主库（events）；persons/entities/geo 后续按同模式加表即可。
 - 搜索为 LIKE 子串 + 加权粗排，非倒排索引——万级条目内毫秒级，够用。
 - politics 自动条目若 GLM 写作被供应商过滤，会留在 `data/derived/gap_scored.json`（note=provider_filtered）待人工，不会静默丢失。
+
+## 错误与契约补充（2026-10-28 评审后对齐）
+
+- 错误响应统一 `{"error": "..."}`（含 422 参数校验错误）；`Content-Type: application/json`。
+- 分页：`page` 从 **0** 起、`limit` ≤200；`total` 为过滤后精确总数，越界翻页返回空 `items` 不报错。
+- `/search` 返回 `returned`（本页条数）与 `_score`（相关度加权分）；`q` 多词 AND，最多 6 词。
+- `/health` 额外返回 `tiers`（各层配额说明）。
+- 只读端点带 `Cache-Control: public, max-age=600`（客户端缓存可省配额）；4xx 同样计配额。
+- register 成功返回 **201**；重复提交会签发新 key 并占用当日 3 把额度。
+- CORS：只读 GET 已放开（浏览器可直连）；register 仅限同源页面。

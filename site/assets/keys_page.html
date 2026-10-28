@@ -1,0 +1,34 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>net-annals API · 免费领取密钥</title>
+<style>body{background:#0c0d10;color:#e8e6df;font:15px/1.8 -apple-system,'PingFang SC',sans-serif;max-width:640px;margin:0 auto;padding:48px 20px}
+h1{font-size:1.4rem;color:#c9a86a}code,textarea,input{font-family:ui-monospace,monospace;background:#16181d;border:1px solid #30343f;border-radius:8px;color:#e8e6df}
+input{padding:10px 14px;width:100%;box-sizing:border-box}button{background:#c9a86a;color:#141310;border:none;border-radius:8px;padding:10px 26px;cursor:pointer;font-size:15px}
+.key{display:block;margin:12px 0;padding:14px;word-break:break-all;color:#7fd18a;white-space:pre-wrap}a{color:#5b9bd5}
+small{color:#8a8f9c}</style>
+<h1>互联网编年史 · API 密钥免费领取</h1>
+<p>6100+ 条精确到日、可溯源的中国时代编年数据：按年份、日期区间、类目、领域层检索，全文搜索。
+匿名访问每 IP 每天 200 次；领取免费密钥后每天 <b>2000</b> 次。</p>
+<p><input id="contact" placeholder="联系方式（选填，仅用于站务通知）"></p>
+<button onclick="go()">领取我的密钥</button>
+<pre class="key" id="out" hidden></pre>
+<p><b>查询示例</b></p>
+<pre><code>curl -H "X-API-Key: 你的密钥" \
+  "https://toolsfox.cn/api/v1/events?year=1993&limit=20"
+curl -H "X-API-Key: 你的密钥" \
+  "https://toolsfox.cn/api/v1/search?q=火星" </code></pre>
+<p><b>条款</b>：数据供学习研究与非商业用途自由使用，转发请注明来源 toolsfox.cn；禁止用于违法违规场景；滥用（高频抓取、转售）将被封禁。每天每 IP 限领 3 把，密钥长期有效、每日配额自动重置。</p>
+<small>生成式整理自公开史料，日期以所附来源为准。</small>
+<script>
+async function go(){
+  const out = document.getElementById('out');
+  out.hidden = false;
+  out.textContent = '正在领取…';
+  try {
+    const r = await fetch('/api/v1/keys/register',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({contact:document.getElementById('contact').value})});
+    const d = await r.json();
+    out.textContent = d.ok ? ('你的密钥（只显示一次）\n' + d.key + '\n\n日配额 ' + d.daily_quota + ' 次，长期有效。' + d.note) : ('失败：' + (d.error||''));
+  } catch(e) { out.textContent = '失败：' + e; }
+}
+</script>

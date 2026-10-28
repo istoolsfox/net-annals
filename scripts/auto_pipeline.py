@@ -14,9 +14,13 @@ N8N_SSH = os.environ.get('N8N_SSH', 'toolsfox')
 WEBROOT = os.environ.get('WEBROOT', '/var/www/net-annals')
 
 
-def run(cmd, **kw):
+def run(cmd, timeout=None, check=False, **kw):
+    """subprocess 封装：argv 列表执行；check=True 时失败即抛（关键步骤用）。"""
     print(f'  $ {cmd if isinstance(cmd, str) else " ".join(cmd)}')
-    return subprocess.run(cmd, shell=isinstance(cmd, str), **kw)
+    r = subprocess.run(cmd, shell=isinstance(cmd, str), timeout=timeout, **kw)
+    if check and r.returncode != 0:
+        raise RuntimeError(f'步骤失败（退出码 {r.returncode}）：{cmd}')
+    return r
 
 
 def main():
@@ -29,12 +33,21 @@ def main():
         queue = f'data/derived/gap/gap_queue_{stamp}.json'
         os.makedirs('data/derived/gap', exist_ok=True)
         # n8n 容器在 toolsfox 机：永远跨机 ssh 拉取（toolsfox 免密 sudo）
-        r = run(['ssh', N8N_SSH, f'sudo docker exec n8n cat {remote}'], capture_output=True)
+        r = run(['ssh', '-o', 'ConnectTimeout=15', N8N_SSH,
+                 f'sudo docker exec n8n cat {remote}'],
+                capture_output=True, timeout=60)
         if r.returncode != 0 or not r.stdout.strip():
             print(f'[{stamp}] 无当日队列，跳过。')
             return 0
-        with open(queue, 'wb') as f:
-            f.write(r.stdout)
+        try:
+            parsed = json.loads(r.stdout)          # 落盘前验 JSON（防 sudo 配置输出混入）
+            assert isinstance(parsed, dict) and isinstance(parsed.get('candidates'), list)
+        except Exception:
+            print('✗ 拉取内容不是合法队列 JSON，跳过（前 200 字符）：')
+            print(r.stdout[:200])
+            return 1
+        with open(queue, 'w', encoding='utf-8') as f:
+            json.dump(parsed, f, ensure_ascii=False)
     else:
         print(__doc__)
         return 2
@@ -65,23 +78,34 @@ def main():
     # 4. GLM 成条（含 politics；被供应商滤掉的自动留在队列待人工）
     date_tag = datetime.date.today().strftime('%Y%m%d')
     part = f'data/events/.parts/g_gapfinder_{date_tag}.json'
-    run(['python3', 'scripts/glm_write.py', '--min-imp', '3', '--all-sens', '--out', part])
+    gw = run(['python3', 'scripts/glm_write.py', '--min-imp', '3', '--all-sens', '--out', part])
+    if gw.returncode != 0:
+        print('⚠ glm_write 异常退出，本批条目可能不完整（继续重建，队列保留）。')
 
     # 5. 入库（part 为空则全链只刷新 API 库）
-    added = 0
     if os.path.exists(part) and os.path.getsize(part) > 10:
-        r = run(['python3', 'scripts/add_events.py', part])
-        added = 1 if r.returncode == 0 else 0
+        run(['python3', 'scripts/add_events.py', part])
     else:
         print('  本批无新条（全部查重命中或过滤），只做重建与同步。')
 
-    # 6. 管线 + API 库
-    run(['python3', 'scripts/normalize.py'])
-    run(['python3', 'scripts/dedup.py'])
-    if run(['python3', 'scripts/build.py']).returncode != 0:
-        print('✗ build.py 失败，中止（不推送不上线）。')
+    # 6. 管线 + API 库（关键步骤失败即中止，绝不带病 push/上线）
+    run(['python3', 'scripts/normalize.py'], check=True)
+    run(['python3', 'scripts/dedup.py'], check=True)
+    if run(['python3', 'scripts/build.py'], check=True).returncode != 0:
         return 1
-    run(['python3', 'scripts/build_api_db.py'])
+    run(['python3', 'scripts/build_api_db.py'], check=True)
+    try:
+        run(['python3', '-c',
+             'import sys; sys.path.insert(0,"scripts");'
+             'import sqlite3; '
+             'c=sqlite3.connect("data/derived/api/usage.db"); '
+             'c.execute("PRAGMA journal_mode=WAL"); '
+             '[c.execute(f"DELETE FROM {t} WHERE day < date(\'now\', \'-45 day\')") '
+             'for t in ("key_usage","ip_usage","reg_daily")]; '
+             'c.execute("DELETE FROM bans WHERE until < ?",( __import__("time").time(),)); '
+             'c.commit()'], check=True)
+    except RuntimeError as e:
+        print(f'⚠ usage.db 清理失败（不阻塞上线）：{e}')
 
     # 7. git 提交推送（数据+站点工件一起；.parts 暂存件绝不入库）
     dirty = run(['git', 'status', '--porcelain', '--', 'data/events', 'site'],
@@ -102,9 +126,11 @@ def main():
     else:
         print('  数据无变化，跳过 commit。')
 
-    # 8. 上线
-    run(['rsync', '-az', '--delete', '--delete-excluded', '--exclude=/data.json',
-         'site/', f'{WEBROOT}/'])
+    # 8. 上线（失败必须体现退出码——评审发现 rsync 半途失败会静默"成功"）
+    if run(['rsync', '-az', '--delete', '--delete-excluded', '--exclude=/data.json',
+            'site/', f'{WEBROOT}/']).returncode != 0:
+        print('✗ rsync 上线失败，需人工检查。')
+        return 1
 
     total = 0
     try:

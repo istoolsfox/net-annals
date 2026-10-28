@@ -7,26 +7,51 @@ anon     无 key    IP 200次/天 + 20次/分     health/meta/events/year/search
 ro key   自助领取  key 2000次/天(可调)       同上全部只读端点
 admin    手动签发  不限日配额                ingest/status
 
-安全设计：
+安全与可靠性设计（2026-10-28 四路对抗评审后重构）：
   · SQL 注入：全部查询 ? 参数化；枚举白名单；LIMIT/OFFSET 强制 int；LIKE 转义（ESCAPE '\'）
-  · 配额/限流：key 维度日配额持久化（usage.db，重启不清零）+ 滑动窗突发限制；IP 维度匿名日配额
-  · 滥用：无效 key 探测 20次/10分 → 封 IP 1h（bans 表）；注册每 IP 每天限 3 把；429 带 Retry-After
-  · 认证：sha256+hmac.compare_digest；密钥文件 0600 热加载；明文只在领取响应中出现一次
-  · 运行面：只绑 127.0.0.1 走 nginx /api/；文档页关闭；500 统一短语；不记录密钥
+  · 配额/封禁：usage.db 持久化（单例长连接+WAL+synchronous=NORMAL，全程 _usage_lock 串行，
+    中间件经 run_in_threadpool 调用——事件循环零阻塞）；日界由调用方固定传入防午夜错位
+  · 滥用：无效 key 探测 20次/10分 → 封 IP 1h；限流字典定期清扫防无界增长；429 带 Retry-After
+  · 认证：sha256 摘要字典查找 + compare_digest 复核；密钥文件 0600 + flock + 原子替换写入；
+    文件缺失自动初始化；解析失败保留旧缓存并告警
+  · 错误契约：全站统一 {"error": ...}（含 StarletteHTTPException/RequestValidationError 转换）
+  · 可观测：全局 500 落 logging.exception（入 journald）
+  · 运行面：只绑 127.0.0.1 走 nginx /api/；文档页关闭；管线子进程用 sys.executable
 启动: uvicorn scripts.api_server:app --host 127.0.0.1 --port 8400"""
-import hashlib, hmac, json, os, re, secrets, sqlite3, threading, time
+import fcntl
+import hashlib
+import hmac
+import ipaddress
+import json
+import logging
+import os
+import re
+import secrets
+import sqlite3
+import threading
+import time
 from collections import defaultdict, deque
-from datetime import datetime
+from datetime import datetime, timezone
 
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.exceptions import RequestValidationError
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, JSONResponse
+from starlette.concurrency import run_in_threadpool
+from starlette.exceptions import HTTPException as StarletteHTTPException
 
-os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+log = logging.getLogger('netannals-api')
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(PROJECT_ROOT)
 DB_PATH = 'data/derived/api/events.db'
 KEY_FILE = 'config/api_keys.json'
+KEY_LOCK = 'config/.api_keys.lock'
 USAGE_DB = 'data/derived/api/usage.db'
 PIPE_LOG = 'data/derived/api/pipeline.log'
 PIPE_LOCK = 'data/derived/api/pipeline.lock'
+INGEST_DIR = 'data/derived/gap'
 
 ANON_DAILY = 200            # 匿名层：IP 每日配额
 ANON_PERMIN = 20            # 匿名层：每分钟突发
@@ -36,87 +61,94 @@ REG_PER_IP_DAY = 3          # 每 IP 每天可领 key 数
 DEFAULT_RO_QUOTA = 2000     # ro 默认日配额（api_keys.json --quota 可覆盖）
 
 app = FastAPI(openapi_url=None, docs_url=None, redoc_url=None)
+app.add_middleware(CORSMiddleware, allow_origins=['*'],
+                   allow_methods=['GET', 'HEAD'], allow_headers=['X-API-Key'])
 
-# ── usage.db：持久化配额/封禁/注册计数 ───────────────────────────────
-_conn_lock = threading.Lock()
-
-
-def udb():
-    conn = sqlite3.connect(f'file:{USAGE_DB}?mode=ro', uri=True)
-    conn.row_factory = sqlite3.Row          # 不设则 fetchone 返回元组，r['until'] 会崩
-    return conn
+# ── usage.db：单例长连接 + 全局锁（配额/封禁/注册计数） ──────────────
+_usage_lock = threading.Lock()
+_usage_conn = None
 
 
-def udb_write():
-    conn = sqlite3.connect(USAGE_DB, timeout=5)
-    conn.execute('PRAGMA journal_mode=WAL')
-    return conn
-
-
-def _init_usage():
-    os.makedirs(os.path.dirname(USAGE_DB), exist_ok=True)
-    conn = udb_write()
-    conn.executescript("""
-    CREATE TABLE IF NOT EXISTS key_usage(key_id TEXT, day TEXT, count INTEGER, PRIMARY KEY(key_id, day));
-    CREATE TABLE IF NOT EXISTS ip_usage(day TEXT, ip TEXT, count INTEGER, PRIMARY KEY(day, ip));
-    CREATE TABLE IF NOT EXISTS reg_daily(day TEXT, ip TEXT, count INTEGER, PRIMARY KEY(day, ip));
-    CREATE TABLE IF NOT EXISTS bans(ip TEXT PRIMARY KEY, until INTEGER, reason TEXT);
-    """)
-    conn.commit()
-    conn.close()
-
-
-_init_usage()
-
-
-def _bump(table, keycols, keyvals):
-    with _conn_lock:
-        conn = udb_write()
-        day = time.strftime('%Y-%m-%d')
-        conn.execute(
-            f'INSERT INTO {table}({",".join(keycols)},count) VALUES({",".join("?" for _ in keyvals)},1) '
-            f'ON CONFLICT({",".join(keycols)}) DO UPDATE SET count = count + 1', [*keyvals])
-        row = conn.execute(
-            f'SELECT count FROM {table} WHERE day=? AND ' +
-            ' AND '.join(f'{c}=?' for c in keycols[1:]),
-            [day] + keyvals[1:]).fetchone()
+def _usage():
+    """进程内单例 rw 连接（WAL + synchronous=NORMAL 启动时设一次）。"""
+    global _usage_conn
+    if _usage_conn is None:
+        os.makedirs(os.path.dirname(USAGE_DB), exist_ok=True)
+        conn = sqlite3.connect(USAGE_DB, timeout=5, check_same_thread=False)
+        conn.row_factory = sqlite3.Row   # 不设则 fetchone 返回元组，字典取键会崩（踩过的坑）
+        conn.execute('PRAGMA journal_mode=WAL')
+        conn.execute('PRAGMA synchronous=NORMAL')
+        conn.executescript("""
+        CREATE TABLE IF NOT EXISTS key_usage(key_id TEXT, day TEXT, count INTEGER, PRIMARY KEY(key_id, day));
+        CREATE TABLE IF NOT EXISTS ip_usage(day TEXT, ip TEXT, count INTEGER, PRIMARY KEY(day, ip));
+        CREATE TABLE IF NOT EXISTS reg_daily(day TEXT, ip TEXT, count INTEGER, PRIMARY KEY(day, ip));
+        CREATE TABLE IF NOT EXISTS bans(ip TEXT PRIMARY KEY, until INTEGER, reason TEXT);
+        """)
         conn.commit()
-        conn.close()
-        return row[0] if row else 1
+        _usage_conn = conn
+    return _usage_conn
+
+
+def _bump(table, cols, day, ident):
+    """计数+1 并返回当日已用次数。day 由调用方传入（防跨午夜 INSERT/SELECT 错位）。"""
+    with _usage_lock:
+        conn = _usage()
+        conn.execute(
+            f'INSERT INTO {table}(day,{cols},count) VALUES(?,?,1) '
+            f'ON CONFLICT(day,{cols}) DO UPDATE SET count=count+1', (day, ident))
+        row = conn.execute(
+            f'SELECT count FROM {table} WHERE day=? AND {cols}=?', (day, ident)).fetchone()
+        conn.commit()
+        return row[0]
 
 
 def _banned(ip):
-    conn = udb()
-    r = conn.execute('SELECT until, reason FROM bans WHERE ip=?', (ip,)).fetchone()
-    conn.close()
+    """封禁检查：fail-open——usage.db 故障时放行并告警，绝不因配额库拖死全站。"""
+    try:
+        with _usage_lock:
+            conn = _usage()
+            r = conn.execute('SELECT until, reason FROM bans WHERE ip=?', (ip,)).fetchone()
+    except sqlite3.Error as e:
+        log.warning('bans check failed (fail-open): %s', e)
+        return
     if r and r['until'] > time.time():
         raise HTTPException(403, f'banned until {datetime.fromtimestamp(r["until"]).strftime("%H:%M")} ({r["reason"]})')
-    if r:  # 过期封禁顺手清理
-        with _conn_lock:
-            conn2 = udb_write()
+    if r:
+        with _usage_lock:
             try:
-                conn2.execute('DELETE FROM bans WHERE ip=?', (ip,))
-                conn2.commit()
-            finally:
-                conn2.close()
+                _usage().execute('DELETE FROM bans WHERE ip=?', (ip,))
+                _usage().commit()
+            except sqlite3.Error as e:
+                log.warning('bans cleanup failed: %s', e)
 
 
 def _ban(ip, hours, reason):
-    with _conn_lock:
-        conn = udb_write()
-        try:
-            conn.execute('INSERT INTO bans VALUES(?,?,?) ON CONFLICT(ip) DO UPDATE SET until=excluded.until, reason=excluded.reason',
-                         (ip, time.time() + hours * 3600, reason))
-            conn.commit()
-        finally:
-            conn.close()
+    with _usage_lock:
+        conn = _usage()
+        conn.execute('INSERT INTO bans VALUES(?,?,?) ON CONFLICT(ip) DO UPDATE SET until=excluded.until, reason=excluded.reason',
+                     (ip, time.time() + hours * 3600, reason))
+        conn.commit()
+
+
+def _prune_usage(days=45):
+    """usage.db 保留策略：清理 N 天前的计数行（管线每周调用一次）。"""
+    with _usage_lock:
+        conn = _usage()
+        for t in ('key_usage', 'ip_usage', 'reg_daily'):
+            conn.execute(f"DELETE FROM {t} WHERE day < date('now', ?)", (f'-{days} day',))
+        conn.execute('DELETE FROM bans WHERE until < ?', (time.time(),))
+        conn.commit()
 
 
 def _seconds_to_midnight():
     now = datetime.now()
     return (86400 - (now.hour * 3600 + now.minute * 60 + now.second)) + 60
 
-# ── 密钥库（sha256 + 热加载） ────────────────────────────────────────
+
+def day_key():
+    return time.strftime('%Y-%m-%d')
+
+# ── 密钥库（sha256 摘要 + compare_digest 复核；热加载；原子写） ──────
 _keys_cache = {'mtime': 0, 'map': {}}
 
 
@@ -127,17 +159,54 @@ def _load_keys():
             d = json.load(open(KEY_FILE, encoding='utf-8'))
             _keys_cache['map'] = {k['key_sha256']: k for k in d.get('keys', [])}
             _keys_cache['mtime'] = mt
-    except Exception:
-        pass
+    except FileNotFoundError:
+        _keys_cache['map'] = {}
+        _keys_cache['mtime'] = 0
+    except Exception as e:
+        log.warning('KEY_FILE 解析失败，沿用旧缓存（%s）', e)
     return _keys_cache['map']
 
-# ── 突发限流（滑动窗，内存） ─────────────────────────────────────────
+
+def _find_key(raw):
+    """raw 明文 → 密钥条目。摘要字典查找 + compare_digest 复核。"""
+    digest = hashlib.sha256(raw.encode()).hexdigest()
+    k = _load_keys().get(digest)
+    if k and hmac.compare_digest(k['key_sha256'], digest):
+        return k
+    return None
+
+
+def _save_keys_atomic_locked(d):
+    """调用方已持 KEY_LOCK 时的原子写。"""
+    tmp = KEY_FILE + '.tmp'
+    with open(tmp, 'w', encoding='utf-8') as f:
+        json.dump(d, f, ensure_ascii=False, indent=1)
+        f.flush()
+        os.fsync(f.fileno())
+    os.chmod(tmp, 0o600)
+    os.replace(tmp, KEY_FILE)
 _hits = defaultdict(deque)
+_probes = defaultdict(deque)
 _rl_lock = threading.Lock()
+_last_sweep = time.time()
+
+
+def _sweep(now):
+    """低频清扫：删掉空/过期 deque 与陈旧探测键，防海量假 IP 撑爆内存。"""
+    global _last_sweep
+    with _rl_lock:
+        if now - _last_sweep < 300 or len(_hits) + len(_probes) < 2048:
+            return
+        for d in (_hits, _probes):
+            stale = [k for k, q in d.items() if not q or q[-1] < now - 3600]
+            for k in stale:
+                d.pop(k, None)
+        _last_sweep = now
 
 
 def _burst(subject, limit):
     now = time.time()
+    _sweep(now)
     with _rl_lock:
         q = _hits[subject]
         while q and q[0] < now - 60:
@@ -147,27 +216,49 @@ def _burst(subject, limit):
         q.append(now)
 
 
-_probes = defaultdict(deque)   # 无效 key 探测计数（每 IP）
+_probes_lock = threading.Lock()
 
 
 def _record_probe(ip):
     now = time.time()
-    with _rl_lock:
+    with _probes_lock:
         q = _probes[ip]
         while q and q[0] < now - 600:
             q.popleft()
         q.append(now)
-        if len(q) >= 20:
-            _ban(ip, 1, 'invalid-key probing')
+        hot = len(q) >= 20
+        if hot:
             _probes.pop(ip, None)
+    if hot:
+        _ban(ip, 1, 'invalid-key probing')
 
 
 def _client_ip(request):
-    return (request.headers.get('x-real-ip') or (request.client.host if request.client else 'unknown'))[:64]
+    ip = request.headers.get('x-real-ip', '')
+    # 仅信任合法 IP 字面量（nginx 强制覆盖后的产物）；畸形/缺失回落直连地址
+    try:
+        ipaddress.ip_address(ip)
+        return ip
+    except ValueError:
+        return (request.client.host if request.client else 'unknown')[:64]
 
-# ── 中间件：封禁/认证/配额/限流 全在这里统一执行 ────────────────────
+# ── 管线忙闲：与管线共用同一把 flock（存在性≠持有） ─────────────────
+
+
+def _pipeline_busy():
+    fd = os.open(PIPE_LOCK, os.O_RDWR | os.O_CREAT)
+    try:
+        fcntl.flock(fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        return False   # 抢到锁 = 管线空闲（随即释放；admin 单人触发，竞态窗口可接受）
+    except BlockingIOError:
+        return True
+    finally:
+        os.close(fd)
+
+# ── 中间件：封禁/认证/配额/限流（DB 操作全部入线程池） ───────────────
 ADMIN_PATHS = ('/api/v1/ingest/',)
 READ_PATHS = ('/api/v1/meta', '/api/v1/events', '/api/v1/year/', '/api/v1/search')
+OPEN_PATHS = ('/api/v1/health', '/api/v1/keys/page')
 
 
 @app.middleware('http')
@@ -177,54 +268,52 @@ async def gate(request: Request, call_next):
     try:
         if not path.startswith('/api/v1/'):
             return JSONResponse(status_code=404, content={'error': 'not found'})
-        _banned(ip)
+        if path in OPEN_PATHS:
+            return await call_next(request)
+        await run_in_threadpool(_banned, ip)
 
-        # 管理端点：仅 admin 密钥
         if path.startswith(ADMIN_PATHS):
-            k = _require_key(request, ip, role='admin')
+            k = await run_in_threadpool(_require_key, request, ip, 'admin')
             _burst('key:' + k['id'], ADMIN_PERMIN)
-            request.state.key_id = k['id']
-            request.state.quota_left = None
             resp = await call_next(request)
             return resp
 
-        # 自助领取：仅 POST 计注册频率并进入签发；GET 无该路由（页面在 /keys/page）
         if path == '/api/v1/keys/register':
             if request.method != 'POST':
                 return JSONResponse(status_code=405, content={'error': 'POST required'})
-            used = _bump('reg_daily', ('day', 'ip'), [day_key(), ip])
+            if request.headers.get('content-type', '').split(';')[0].strip() != 'application/json':
+                # 挡 text/plain 简单请求型 CSRF（跨站表单可代访客烧注册额度）
+                return JSONResponse(status_code=415, content={'error': 'Content-Type must be application/json'})
+            used = await run_in_threadpool(_bump, 'reg_daily', 'ip', day_key(), ip)
             if used > REG_PER_IP_DAY:
                 raise HTTPException(429, f'registration limit: {REG_PER_IP_DAY} keys/IP/day',
                                     {'Retry-After': str(_seconds_to_midnight())})
             resp = await call_next(request)
+            resp.headers['Cache-Control'] = 'no-store'
             return resp
 
-        # 只读端点：有 key 走 key 配额；无 key 走匿名 IP 配额
         if path in READ_PATHS or path.startswith(('/api/v1/events/', '/api/v1/year/')):
             raw = request.headers.get('x-api-key', '')
             if raw:
                 if len(raw) > 64 or not re.fullmatch(r'NA-[0-9a-f]{48}', raw):
-                    _record_probe(ip)
+                    await run_in_threadpool(_record_probe, ip)
                     raise HTTPException(401, 'malformed api key')
-                k = _load_keys().get(hashlib.sha256(raw.encode()).hexdigest())
+                k = await run_in_threadpool(_find_key, raw)
                 if not k:
-                    _record_probe(ip)
+                    await run_in_threadpool(_record_probe, ip)
                     raise HTTPException(401, 'invalid api key')
-                permin = ADMIN_PERMIN if k.get('role') == 'admin' else RO_PERMIN
-                _burst('key:' + k['id'], permin)
+                is_admin = k.get('role') == 'admin'
+                _burst('key:' + k['id'], ADMIN_PERMIN if is_admin else RO_PERMIN)
                 quota = k.get('daily_quota')
-                if quota is None and k.get('role') != 'admin':
+                if quota is None and not is_admin:
                     quota = DEFAULT_RO_QUOTA
+                left = None
                 if quota is not None:
-                    used = _bump('key_usage', ('day', 'key_id'), [day_key(), k['id']])
+                    used = await run_in_threadpool(_bump, 'key_usage', 'key_id', day_key(), k['id'])
                     if used > quota:
                         raise HTTPException(429, f'daily quota {quota} exceeded',
                                             {'Retry-After': str(_seconds_to_midnight())})
                     left = max(0, quota - used)
-                else:
-                    left = None
-                request.state.key_id = k['id']
-                request.state.quota_left = left
                 resp = await call_next(request)
                 if left is not None:
                     resp.headers['X-Quota-Limit'] = str(quota)
@@ -232,16 +321,16 @@ async def gate(request: Request, call_next):
                 return resp
             # 匿名层
             _burst('ip:' + ip, ANON_PERMIN)
-            used = _bump('ip_usage', ('day', 'ip'), [day_key(), ip])
+            used = await run_in_threadpool(_bump, 'ip_usage', 'ip', day_key(), ip)
             if used > ANON_DAILY:
                 raise HTTPException(429, f'anonymous quota {ANON_DAILY}/day exceeded — get a free key at /api/v1/keys/page',
                                     {'Retry-After': str(_seconds_to_midnight())})
             resp = await call_next(request)
             resp.headers['X-Anon-Quota-Remaining'] = str(max(0, ANON_DAILY - used))
             resp.headers['X-Get-Free-Key'] = '/api/v1/keys/page'
+            resp.headers['Cache-Control'] = 'public, max-age=600'
             return resp
 
-        # health / keys 页：开放
         return await call_next(request)
     except HTTPException as e:
         return JSONResponse(status_code=e.status_code,
@@ -249,16 +338,12 @@ async def gate(request: Request, call_next):
                             headers=e.headers or {})
 
 
-def day_key():
-    return time.strftime('%Y-%m-%d')
-
-
 def _require_key(request, ip, role):
     raw = request.headers.get('x-api-key', '')
     if not raw or len(raw) > 64 or not re.fullmatch(r'NA-[0-9a-f]{48}', raw):
         _record_probe(ip)
         raise HTTPException(401, 'missing or malformed api key')
-    k = _load_keys().get(hashlib.sha256(raw.encode()).hexdigest())
+    k = _find_key(raw)
     if not k:
         _record_probe(ip)
         raise HTTPException(401, 'invalid api key')
@@ -267,14 +352,28 @@ def _require_key(request, ip, role):
     return k
 
 
+@app.exception_handler(StarletteHTTPException)
+async def _http_exc(request, exc):
+    return JSONResponse(status_code=exc.status_code, content={'error': exc.detail},
+                        headers=getattr(exc, 'headers', None) or {})
+
+
+@app.exception_handler(RequestValidationError)
+async def _validation_exc(request, exc):
+    return JSONResponse(status_code=400, content={'error': 'invalid parameters'},
+                        headers=getattr(exc, 'headers', None) or {})
+
+
 @app.exception_handler(Exception)
 async def _unhandled(request, exc):
+    log.exception('unhandled error on %s %s', request.method, request.url.path)
     return JSONResponse(status_code=500, content={'error': 'internal error'})
 
 # ── 数据访问 ─────────────────────────────────────────────────────────
 RE_YEAR = re.compile(r'(19|20)\d{2}')
 RE_DATE = re.compile(r'\d{4}-\d{2}-\d{2}')
 RE_ID = re.compile(r'[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9][a-z0-9-]{1,100}')
+RE_LAYER = re.compile(r'[a-z0-9]{0,16}')
 CATEGORIES = {'milestone', 'internet', 'tech', 'hardware', 'company', 'product',
               'national', 'world', 'society', 'culture', 'economy'}
 REGIONS = {'cn', 'world'}
@@ -306,17 +405,19 @@ def _row_to_event(r):
         'layer': r['layer'],
     }
 
-
-# ── 只读端点（鉴权已在中间件完成） ──────────────────────────────────
+# ── 只读端点 ─────────────────────────────────────────────────────────
 @app.get('/api/v1/health')
 def health():
     if not os.path.exists(DB_PATH):
         return {'ok': False}
     conn = _db()
-    total = conn.execute('SELECT value FROM meta WHERE key="total"').fetchone()
-    gen = conn.execute('SELECT value FROM meta WHERE key="generated"').fetchone()
-    conn.close()
-    return {'ok': True, 'total': int(total['value']), 'db_generated': gen['value'],
+    try:
+        total = conn.execute("SELECT value FROM meta WHERE key='total'").fetchone()
+        gen = conn.execute("SELECT value FROM meta WHERE key='generated'").fetchone()
+    finally:
+        conn.close()
+    return {'ok': bool(total), 'total': int(total['value']) if total else 0,
+            'db_generated': gen['value'] if gen else None,
             'tiers': {'anonymous': f'{ANON_DAILY}/day per IP',
                       'free_key': f'{DEFAULT_RO_QUOTA}/day (self-service)',
                       'docs': '/api/v1/keys/page'}}
@@ -350,7 +451,7 @@ def list_events(year: str = '', date_from: str = '', date_to: str = '',
         raise HTTPException(400, 'bad category')
     if region and region not in REGIONS:
         raise HTTPException(400, 'bad region')
-    if layer and not re.fullmatch(r'[a-z0-9]{0,12}', layer):
+    if layer and not RE_LAYER.fullmatch(layer):
         raise HTTPException(400, 'bad layer')
     q = q.strip()
     if len(q) > 64:
@@ -426,40 +527,50 @@ def search(q: str = '', limit: int = 20):
         where.append('search LIKE ? ESCAPE "\\"')
         params.append(f'%{_like_escape(w)}%')
     clause = 'WHERE ' + ' AND '.join(where)
-    score_sql = ("(CASE WHEN title LIKE ? ESCAPE '\\' THEN 30 ELSE 0 END"
-                 " + CASE WHEN tags LIKE ? ESCAPE '\\' THEN 12 ELSE 0 END"
-                 " + CASE WHEN summary LIKE ? ESCAPE '\\' THEN 6 ELSE 0 END"
-                 " + CASE WHEN detail LIKE ? ESCAPE '\\' THEN 2 ELSE 0 END)")
+    # 相关度：逐词加权（标题30/标签12/摘要6/正文2），占位符出现在 SELECT（先于 WHERE 绑定）
+    score_cases, score_params = [], []
+    for w in words:
+        pw = f'%{_like_escape(w)}%'
+        score_cases.append("(CASE WHEN title LIKE ? ESCAPE '\\' THEN 30 ELSE 0 END"
+                           " + CASE WHEN tags LIKE ? ESCAPE '\\' THEN 12 ELSE 0 END"
+                           " + CASE WHEN summary LIKE ? ESCAPE '\\' THEN 6 ELSE 0 END"
+                           " + CASE WHEN detail LIKE ? ESCAPE '\\' THEN 2 ELSE 0 END)")
+        score_params += [pw] * 4
     conn = _db()
     rows = conn.execute(
-        f'SELECT *, ({score_sql}) sc FROM events {clause} '
+        f'SELECT *, ({"+".join(score_cases)}) sc FROM events {clause} '
         'ORDER BY sc DESC, date DESC, id LIMIT ?',
-        params + [f'%{_like_escape(words[0])}%'] * 4 + [limit]).fetchall()
+        score_params + params + [limit]).fetchall()
     conn.close()
-    return {'q': q, 'total': len(rows),
+    return {'q': q, 'returned': len(rows),
             'items': [dict(_row_to_event(r), _score=r['sc']) for r in rows]}
 
 # ── 自助领取 ─────────────────────────────────────────────────────────
 @app.post('/api/v1/keys/register')
 async def register_key(request: Request):
-    ip = _client_ip(request)
     try:
         body = json.loads(await request.body() or b'{}')
     except Exception:
         raise HTTPException(400, 'invalid json')
     contact = str(body.get('contact', ''))[:120] if isinstance(body, dict) else ''
     name = f"public-{time.strftime('%Y%m%d')}-{secrets.token_hex(2)}"
-    d = json.load(open(KEY_FILE, encoding='utf-8'))
-    if any(k['id'] == name for k in d['keys']):
-        name += secrets.token_hex(1)
-    raw = 'NA-' + secrets.token_hex(24)
-    d['keys'].append({'id': name, 'key_sha256': hashlib.sha256(raw.encode()).hexdigest(),
-                      'role': 'ro', 'daily_quota': DEFAULT_RO_QUOTA, 'contact': contact,
-                      'created': datetime.now().astimezone().isoformat(timespec='seconds')})
-    os.makedirs(os.path.dirname(KEY_FILE), exist_ok=True)
-    with open(KEY_FILE, 'w', encoding='utf-8') as f:
-        json.dump(d, f, ensure_ascii=False, indent=1)
-    os.chmod(KEY_FILE, 0o600)
+    lock_fd = os.open(KEY_LOCK, os.O_RDWR | os.O_CREAT)
+    try:
+        fcntl.flock(lock_fd, fcntl.LOCK_EX)
+        try:
+            d = json.load(open(KEY_FILE, encoding='utf-8'))
+        except FileNotFoundError:
+            d = {'keys': []}
+        while any(k['id'] == name for k in d['keys']):
+            name += secrets.token_hex(1)
+        raw = 'NA-' + secrets.token_hex(24)
+        d['keys'].append({'id': name, 'key_sha256': hashlib.sha256(raw.encode()).hexdigest(),
+                          'role': 'ro', 'daily_quota': DEFAULT_RO_QUOTA, 'contact': contact,
+                          'created': datetime.now().astimezone().isoformat(timespec='seconds')})
+        _save_keys_atomic_locked(d)
+    finally:
+        fcntl.flock(lock_fd, fcntl.LOCK_UN)
+        os.close(lock_fd)
     return {'ok': True, 'key': raw, 'role': 'ro', 'daily_quota': DEFAULT_RO_QUOTA,
             'note': '请妥善保存（服务器只存哈希，无法找回）。使用时携带请求头 X-API-Key。'
                     '请标注数据来源 toolsfox.cn；禁止将其用于违法违规用途。',
@@ -468,42 +579,13 @@ async def register_key(request: Request):
 
 @app.get('/api/v1/keys/page', response_class=HTMLResponse)
 def keys_page():
-    return """<!doctype html><html lang="zh-CN"><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>net-annals API · 免费领取密钥</title>
-<style>body{background:#0c0d10;color:#e8e6df;font:15px/1.8 -apple-system,'PingFang SC',sans-serif;max-width:640px;margin:0 auto;padding:48px 20px}
-h1{font-size:1.4rem;color:#c9a86a}code,textarea,input{font-family:ui-monospace,monospace;background:#16181d;border:1px solid #30343f;border-radius:8px;color:#e8e6df}
-input{padding:10px 14px;width:100%;box-sizing:border-box}button{background:#c9a86a;color:#141310;border:none;border-radius:8px;padding:10px 26px;cursor:pointer;font-size:15px}
-.key{display:block;margin:12px 0;padding:14px;word-break:break-all;color:#7fd18a}a{color:#5b9bd5}
-small{color:#8a8f9c}</style>
-<h1>互联网编年史 · API 密钥免费领取</h1>
-<p>6134+ 条精确到日、可溯源的中国时代编年数据：按年份、日期区间、类目、领域层检索，全文搜索。
-匿名访问每 IP 每天 200 次；领取免费密钥后每天 <b>2000</b> 次。</p>
-<p><input id="contact" placeholder="联系方式（选填，仅用于站务通知）"></p>
-<button onclick="go()">领取我的密钥</button>
-<pre class="key" id="out" hidden></pre>
-<p><b>查询示例</b></p>
-<pre><code>curl -H "X-API-Key: 你的密钥" \
-  "https://toolsfox.cn/api/v1/events?year=1993&limit=20"
-curl -H "X-API-Key: 你的密钥" \
-  "https://toolsfox.cn/api/v1/search?q=火星" </code></pre>
-<p><b>条款</b>：数据供学习研究与非商业用途自由使用，转发请注明来源 toolsfox.cn；禁止用于违法违规场景；滥用（高频抓取、转售）将被封禁。每天每 IP 限领 3 把。</p>
-<small>生成式整理自公开史料，日期以所附来源为准。</small>
-<script>
-async function go(){
-  const r = await fetch('/api/v1/keys/register',{method:'POST',headers:{'Content-Type':'application/json'},
-    body:JSON.stringify({contact:document.getElementById('contact').value})});
-  const d = await r.json();
-  const out = document.getElementById('out');
-  out.hidden = false;
-  out.textContent = d.ok ? ('你的密钥（只显示一次）\\n' + d.key + '\\n\\n日配额 ' + d.daily_quota + ' 次。' + d.note) : ('失败：' + (d.error||''));
-}
-</script>"""
+    with open(os.path.join('site', 'assets', 'keys_page.html'), encoding='utf-8') as f:
+        return f.read()
 
 # ── 管理端点 ─────────────────────────────────────────────────────────
 @app.post('/api/v1/ingest/gap-queue')
 async def ingest_gap_queue(request: Request):
-    if os.path.exists(PIPE_LOCK):
+    if _pipeline_busy():
         raise HTTPException(409, 'pipeline busy')
     body = await request.body()
     if len(body) > 262144:
@@ -523,17 +605,21 @@ async def ingest_gap_queue(request: Request):
         json.dump(d, f, ensure_ascii=False)
     os.chmod(path, 0o600)
     import subprocess
-    subprocess.Popen(
-        ['python3', 'scripts/auto_pipeline.py', '--queue', path],
-        stdout=open(PIPE_LOG, 'ab'), stderr=subprocess.STDOUT,
-        cwd=os.getcwd(), start_new_session=True)
+    import sys
+    logf = open(PIPE_LOG, 'ab')
+    try:
+        subprocess.Popen([sys.executable, 'scripts/auto_pipeline.py', '--queue', path],
+                         stdout=logf, stderr=subprocess.STDOUT,
+                         cwd=os.getcwd(), start_new_session=True)
+    finally:
+        logf.close()   # 父侧句柄即关（子进程已持有继承副本），防 fd 泄漏
     return {'ok': True, 'queue_saved': path, 'candidates': len(d['candidates']),
             'note': 'pipeline started, poll /api/v1/ingest/status'}
 
 
 @app.get('/api/v1/ingest/status')
 def ingest_status():
-    out = {'busy': os.path.exists(PIPE_LOCK)}
+    out = {'busy': _pipeline_busy()}
     if os.path.exists(PIPE_LOG):
         with open(PIPE_LOG, 'rb') as f:
             f.seek(0, 2)

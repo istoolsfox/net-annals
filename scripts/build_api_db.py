@@ -32,9 +32,11 @@ def layer_of(path):
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
-    if os.path.exists(DB):
-        os.remove(DB)
-    conn = sqlite3.connect(DB)
+    # 原子替换：写临时库后 os.replace（评审发现 os.remove 重建窗口内 API 会 503/空结果）
+    tmp_db = DB + '.tmp'
+    if os.path.exists(tmp_db):
+        os.remove(tmp_db)
+    conn = sqlite3.connect(tmp_db)
     conn.executescript("""
     CREATE TABLE events(
       id TEXT PRIMARY KEY, date TEXT NOT NULL, year INTEGER, month INTEGER, day INTEGER,
@@ -51,13 +53,15 @@ def main():
     """)
     rows = []
     seen_ids = set()
+    dup_skipped = 0
     for f in sorted(glob.glob('data/events/*.json')):
         if '/.' in f or '.parts' in f:
             continue
-        lay = LAYER_NAMES.get(layer_of(f), layer_of(f))
+        lay = layer_of(f) or 'main'   # 存拼音 code（API 过滤参数同口径）；主时间线空串映射为 main
         for e in json.load(open(f, encoding='utf-8')):
             eid = e.get('id', '')
             if not eid or eid in seen_ids:
+                dup_skipped += 1
                 continue
             seen_ids.add(eid)
             date = str(e.get('date', ''))
@@ -81,18 +85,22 @@ def main():
         cats[c] = cats.get(c, 0) + 1
         layers[lay] = layers.get(lay, 0) + 1
     years = sorted({r[2] for r in rows if r[2]})
+    layers_meta = {code: {'name': LAYER_NAMES.get(code, code), 'count': n}
+                   for code, n in sorted(layers.items())}
     conn.executemany("INSERT INTO meta VALUES(?,?)", [
         ('total', str(len(rows))),
         ('categories', json.dumps(cats, ensure_ascii=False)),
-        ('layers', json.dumps(layers, ensure_ascii=False)),
+        ('layers', json.dumps(layers_meta, ensure_ascii=False)),
         ('year_min', str(years[0] if years else 0)),
         ('year_max', str(years[-1] if years else 0)),
         ('generated', __import__('datetime').datetime.now().astimezone().isoformat(timespec='seconds')),
     ])
     conn.commit()
     conn.close()
+    os.replace(tmp_db, DB)          # 原子换名：读者新连接拿新库，旧连接读旧 inode，无空窗
     os.chmod(DB, 0o600)
-    print(f'✓ API 数据库已构建：{DB}（{len(rows)} 条，{len(cats)} 类目，{len(layers)} 领域层）')
+    print(f'✓ API 数据库已构建：{DB}（{len(rows)} 条，{len(cats)} 类目，{len(layers)} 领域层'
+          f'{"，丢弃重复 " + str(dup_skipped) + " 条" if dup_skipped else ""}）')
 
 
 if __name__ == '__main__':
