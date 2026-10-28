@@ -93,7 +93,8 @@ def main() -> int:
     if not EVENTS_DIR.exists():
         print(f"✗ 找不到 {EVENTS_DIR}")
         return 1
-    files = sorted(EVENTS_DIR.glob("*.json"))
+    files = sorted(p for p in EVENTS_DIR.glob("*.json")
+                   if not p.name.startswith(".") and ".parts" not in p.name)
     if not files:
         print("✗ data/events/ 下没有任何 JSON")
         return 1
@@ -106,11 +107,16 @@ def main() -> int:
     confidence_stat = {"verified": 0, "single-source": 0, "uncertain": 0}
 
     for f in files:
+        # 两种命名：年段式 2000-2004-games.json（批次文件）/ 单条式 1994-04-20-tech-slug.json（PR 贡献）
         m = re.match(r"^(\d{4})-(\d{4})(?:-[a-z0-9-]+)?\.json$", f.name)
-        if not m:
-            errors.append(f"{f.name}: 文件名不符合 <起年>-<止年>.json")
-            continue
-        span = (f"{m.group(1)}-01-01", f"{m.group(2)}-12-31")
+        if m:
+            span = (f"{m.group(1)}-01-01", f"{m.group(2)}-12-31")
+        else:
+            m1 = re.match(r"^(\d{4}-\d{2}-\d{2})(?:-[a-z0-9-]+)?\.json$", f.name)
+            if not m1:
+                errors.append(f"{f.name}: 文件名不符合 <起年>-<止年>[-层码].json 或 <日期>[-层码]-slug.json")
+                continue
+            span = (m1.group(1), m1.group(1))   # 单条式：文件内所有条目必须同日
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
         except json.JSONDecodeError as exc:

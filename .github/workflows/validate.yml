@@ -1,0 +1,48 @@
+name: validate-data
+# 数据门禁：PR 触碰 data/events/** 时跑全库结构校验 + 变更文件深度查重；
+# 触碰 scripts/api/** 时跑 API 单元测试（纯 stdlib，无需装依赖）。
+# 注意：校验器 import 的 api/config.py 来自 PR 树——PR 同时改 config.py 枚举的，站长必须人工复核该 diff。
+on:
+  pull_request:
+    paths:
+      - 'data/events/**'
+      - 'templates/**'
+      - 'scripts/validate_events.py'
+      - 'scripts/new_entry.py'
+      - 'scripts/api/**'
+  push:
+    branches: [main]
+    paths:
+      - 'data/events/**'
+      - 'scripts/api/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 全库结构校验
+        run: python3 scripts/validate_events.py
+      - name: PR 变更文件深度校验（含同日查重）
+        if: github.event_name == 'pull_request'
+        run: |
+          files=$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.sha }}" -- 'data/events/*.json')
+          if [ -n "$files" ]; then
+            python3 scripts/validate_events.py $files
+          else
+            echo "无 data/events 变更文件"
+          fi
+  api-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: API 单元测试
+        run: python3 -m unittest discover -s scripts/api/tests -p 'test_*.py'

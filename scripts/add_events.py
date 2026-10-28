@@ -27,8 +27,14 @@ RANGES = [
 def all_events():
     out = {}
     for f in EV.glob("*.json"):
-        if f.name.startswith("."): continue
-        for e in json.load(open(f, encoding="utf-8")):
+        if f.name.startswith(".") or ".parts" in f.name:
+            continue
+        try:
+            data = json.load(open(f, encoding="utf-8"))
+        except Exception as exc:
+            print(f"  ⚠ 跳过损坏文件 {f.name}: {exc}")
+            continue
+        for e in data:
             out[e["id"]] = (f.name, e)
     return out
 

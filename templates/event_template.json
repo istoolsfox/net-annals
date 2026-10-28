@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1994-04-20-请改成语义slug",
+    "date": "1994-04-20",
+    "title": "事件标题（≤48字，含关键实体名，可检索）",
+    "category": "tech",
+    "region": "cn",
+    "milestone": false,
+    "date_confidence": "single-source",
+    "date_accuracy": "exact",
+    "summary_30s": "30秒摘要：谁、何时何地、做了什么、为什么重要。40-160字，写事实不堆形容词。",
+    "detail": "正文：背景、经过、关键数字、后续发展。引用性数字必须可溯源到 sources。",
+    "impact": "直接影响：对行业/社会/后续事件的作用。没有就留空串。",
+    "aftermath": "",
+    "tags": ["标签", "用小写或通用名词"],
+    "sources": [
+      { "url": "https://example.com/article", "title": "来源标题（媒体名+文章题）" }
+    ]
+  }
+]

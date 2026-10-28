@@ -1,41 +1,69 @@
 # net-annals 公共 API v1
 
-Base URL：`https://toolsfox.cn/api/v1/`（nginx 仅放行 `/stats/` 与 `/api/`，其余 444 黑屏）
+Base URL：`https://toolsfox.cn/api/v1/`（nginx 白名单仅 `/stats/` 与 `/api/`，其余 444）
 
-> **⚠️ 备案期访问说明（2026-10-28）**：toolsfox.cn 域名在备案审核期间被注册商停析（公网无 A 记录），与站点同状态。服务器端 https+证书+API 全链已用 `--resolve toolsfox.cn:443:118.178.238.120` 验证通过，**备案通过、DNS 恢复解析后 API 即刻公网可用**，无需任何改动。当前调试用：
+> **⚠️ 备案期访问说明（2026-10-28）**：toolsfox.cn 域名在备案审核期间被注册商停析（公网无 A 记录），与站点同状态。服务器端 https+证书+API 全链已用 `--resolve toolsfox.cn:443:118.178.238.120` 验证通过，**备案通过、DNS 恢复解析后 API 即刻公网可用**，无需任何改动。当前调试：
 > `curl --resolve toolsfox.cn:443:118.178.238.120 https://toolsfox.cn/api/v1/health`
 
-认证：三层公开模型（2026-10-28 起）——
+## 定位
 
-| 层 | 门槛 | 配额 | 说明 |
-|---|---|---|---|
-| **匿名** | 无需密钥 | 每 IP 200 次/天 + 20 次/分 | 所有只读端点；响应头 `X-Anon-Quota-Remaining` |
-| **免费 key** | 自助领取（每 IP 每天限 3 把） | 2000 次/天 | 领取页 `/api/v1/keys/page`，或 `POST /keys/register`（contact 选填）；密钥只显示一次 |
-| **admin** | 手动签发 | 不限日配额 | ingest/status 管理端点 |
+**严格只读**。全站数据（编年事件 + 人物/实体/作品/世家志）全部可查；API 没有任何写数据的端点——数据新增只走两条路：
 
-超额返回 429 + `Retry-After`；key 用户响应头带 `X-Quota-Limit / X-Quota-Remaining`。配额持久化（重启不清零）。
-防滥用：无效密钥探测 20 次/10 分钟 → 封 IP 1 小时；注册限频率；匿名层高频同样 429。条款：署名-非商业，禁违规用途，见领取页。
+1. GitHub PR（一条一文件，CI 自动校验，站长审核合并）→ 见 `docs/CONTRIBUTING.md`；
+2. 站长在服务器跑内部管线脚本。
+
+## 认证：三层公开模型
+
+| 层 | 门槛 | 日配额 | 每分钟突发 | 说明 |
+|---|---|---|---|---|
+| **匿名** | 无需密钥 | 200/IP | 20 | 全部只读端点；响应头 `X-Anon-Quota-Remaining`；`Cache-Control: public, max-age=600` |
+| **免费 key** | 自助领取（3 把/IP/天） | 2000（可调） | 120 | 领取页 `/api/v1/keys/page`；响应头 `X-Quota-Limit / X-Quota-Remaining`；`Cache-Control: private` |
+| **admin** | 手动签发 | 不限 | 30 | admin 无特权端点——只读面完全相同，仅免日配额 |
+
+- 超额 429 + `Retry-After`；4xx 同样计配额；配额持久化（usage.db，重启不清零）。
+- 无效密钥探测 20 次/10 分钟 → 封 IP 1 小时（403 + 解封时间）。
+- 注册：`POST /keys/register` 需 `Content-Type: application/json`、浏览器请求须同源（Origin 校验）、5 次/分突发。
+- 条款：署名-非商业，禁违规用途，见领取页。
+- 响应均带 `X-Content-Type-Options: nosniff`；200 JSON 带 `ETag`（≤256KB），配 `If-None-Match` 返回 304 省带宽。
 
 ## 端点
 
 | 方法 | 路径 | 说明 |
 |---|---|---|
-| GET | `/health` | 无需密钥。`{ok, total, db_generated}` |
-| GET | `/meta` | 类目/领域层计数、年份范围、构建时间 |
-| GET | `/events` | 列表查询。参数全部可选：`year`(YYYY) `date_from` `date_to`(YYYY-MM-DD) `category` `region`(cn/world) `layer`(领域层拼音 code，如 games/disasters/main；`/meta` 返回 code→{中文名,count} 映射) `q`(≤64字符多词AND) `page` `limit`(≤200) `sort`(date_asc/date_desc) |
+| GET | `/health` | 开放（不计配额）。`{ok, total, db_generated, write:"none", tiers}` |
+| GET | `/meta` | `total` / `categories` / `layers`（code→{中文名,count}）/ `datasets`（各数据集条数）/ `year_range` / `db_generated` |
+| GET | `/events` | 编年事件列表。参数全部可选：`year`(YYYY) `date_from` `date_to`(YYYY-MM-DD) `category`(枚举见下) `region`(cn/world) `layer`(领域层 code，**主时间线不传**；合法值以 `/meta.layers` 为准，非法值 400) `q`(≤64 字符多词 AND) `page`(0 起) `limit`(≤200) `sort`(date_asc/date_desc) |
 | GET | `/events/{id}` | 单条详情（id 形如 `1993-03-15-8th-npc-1st-session`） |
-| GET | `/year/{year}` | 整年条目（≤2000 条） |
-| GET | `/search?q=…&limit=≤50` | 相关度搜索：标题30/标签12/摘要6/正文2 加权，多词 AND，中文子串匹配 |
-| POST | `/ingest/gap-queue` | **admin**。body 为 n8n 缺口扫荡队列 JSON（≤256KB），服务端校验结构后落盘并异步启动自动管线 |
-| GET | `/ingest/status` | **admin**。管线忙闲 + 日志尾部 |
+| GET | `/year/{year}` | 整年条目（≤2000 条，1400-2100） |
+| GET | `/search?q=…&limit=≤50` | 相关度搜索：标题30/标签12/摘要6/正文2 加权，多词 AND，中文子串匹配；返回 `returned` + `_score` |
+| GET | `/{dataset}` | 通用数据集列表（4 个，见下表） |
+| GET | `/{dataset}/{id}` | 数据集单条详情（返回站点原始完整 JSON） |
+| POST | `/keys/register` | 自助领取。body `{"contact": "可选"}`；成功 **201** 返回明文 key（仅此一次） |
+| GET | `/keys/page` | 领取页 HTML（开放） |
+
+### 数据集端点（`dataset` ∈ persons / entities / works / groups）
+
+| dataset | 内容 | 过滤参数 | 返回字段要点 |
+|---|---|---|---|
+| `persons` | 人物（382） | `field`(creator/scientist/…，取值见数据) `region`(cn/world) `year`(出生年 1400-2100) | id/name/en_name/birth/death/field/region/headline/summary_30s… |
+| `entities` | 公司/组织/产品（236） | `type`(company/product/…) `region` `year`(创立年) | id/name/en_name/type/founded/status/hq/headline… |
+| `works` | 作品（159） | `type`(film/…) `region` `year`(发行年) | id/title/en_title/type/released/creators/headline… |
+| `groups` | 世家志群像（78） | （无过滤，仅 q/分页） | id/name/era/summary_30s/members[…] |
+
+所有列表端点统一响应：`{total, page, limit, items[]}`；`q` 多词 AND ≤6 词，LIKE 子串检索中文。
+
+### category 枚举
+`milestone internet tech hardware company product national world society culture economy`
 
 ## 安全设计
 
-- **SQL 注入**：全部查询 `?` 参数化；sort/category/region 白名单枚举；LIMIT/OFFSET 强制 int；关键词进 LIKE 前转义 `%` `_` `\`（`ESCAPE '\'`），`%%` 通配符逃逸实测归零。
-- **认证**：密钥明文只显示一次，库内仅存 sha256；sha256 摘要字典查找 + `hmac.compare_digest` 复核；密钥文件 `config/api_keys.json` 0600 不入 git，mtime 热加载 → 吊销即时生效。
-- **输入**：year/date/id 正则校验，page/limit 钳制，q 长度 ≤64，未知参数不入 SQL。
-- **运行面**：uvicorn 只绑 127.0.0.1，nginx 反代（`^~ /api/`，client_max_body_size 300k）；DB 0600；接口文档页（/docs）已关闭；500 统一短语不回栈帧；不打密钥日志。
-- **备案期**：`/api/` 与 `/stats/` 同列白名单（密钥保护），站点其余路径维持 444 黑屏。
+- **SQL 注入**：全部查询 `?` 参数化；sort/category/region/layer 白名单枚举；LIMIT/OFFSET 强制 int；LIKE 转义 `%` `_` `\`（`ESCAPE '\'`）。
+- **认证**：key 明文只显示一次，库内仅存 sha256；字典查找 + `hmac.compare_digest` 复核；密钥文件 0600 不入 git，mtime 热加载 → 吊销即时生效；原子写 O_EXCL 0600。
+- **输入**：全部参数正则/白名单校验；请求体外层 16KB（Content-Length 缺失 411）。
+- **代理信任**：`X-Real-IP` 仅在 TCP 对端为回环（即确实经过 nginx 强制覆盖）时采信；直连一律用对端地址，头伪造无法绕配额或投毒封禁表。
+- **fail-open**：配额库故障时放行并告警（绝不因配额库拖死数据面）；封禁检查同。
+- **运行面**：uvicorn 只绑 127.0.0.1 单 worker（限流/配额为进程内状态）；nginx `^~ /api/`（client_max_body_size 300k + API 专属 5r/s burst20 + 并发 ≤8，全站另有 20r/s + conn30 + fail2ban）；文档页关闭；500 统一短语，日志路径经 repr 消毒。
+- **错误契约**：全站统一 `{"error": "..."}`；422 参数错误归一为 400 `invalid parameters`；gate 层拒绝响应带 `Access-Control-Allow-Origin: *`。
 
 ## 密钥管理（服务器上）
 
@@ -46,40 +74,28 @@ cd ~/netannals-pipeline/repo
 ../.venv/bin/python scripts/api_keys.py revoke <名称>           # 吊销
 ```
 
+## 部署与运维（netannals 机）
+
+- 本地一键：`./scripts/deploy_api.sh`（同步脚本/模板 → 拉齐数据工件 → 重建 API 库 → 重启服务 → 冒烟）
+- 仓库 `~/netannals-pipeline/repo`；venv `~/netannals-pipeline/.venv`；服务 `systemctl restart netannals-api`（127.0.0.1:8400）
+- nginx：`/etc/nginx/sites-enabled/net-annals` 的 `location ^~ /api/`（**改配置必须双写 sites-available + sites-enabled**）+ `/etc/nginx/conf.d/netannals-api-limits.conf`（apiperip zone）
+- 代码结构：`scripts/api/` 包（config/ratelimit/usage_store/keys_store/datasets/store/gate/routes/app，依赖单向）；单测 `python3 -m unittest discover -s scripts/api/tests`；集成冒烟 `python3 scripts/api_smoke_test.py [BASE]`
+- 新增可查数据集：`build_api_db.py` 的 `EXTRA_SOURCES` + `api/datasets.py` 的 `DATASETS` 各登记一行（两处断言防漂移）
+
 ## 自动入库闭环（每周三）
 
 ```
 09:00  n8n 缺口扫荡（toolsfox 机）→ 容器内 gap_queue_<日期>.json
 09:40  netannals 服务器 cron → auto_pipeline.py --fetch
-         ssh 拉队列 → 查重差集 → GLM 初筛(库内相似提示≥0.15) → GLM 成条(--all-sens)
+         ssh 拉队列 → 查重差集 → GLM 初筛 → GLM 成条(--all-sens)
          → add_events → normalize → dedup → build → build_api_db
-         → git commit+push(数据+站点工件，.parts 永不入库) → rsync 上线 + API 库热更
+         → git commit+push → rsync 上线 + API 库热更
 ```
 
-也可手动/外部触发：`POST /api/v1/ingest/gap-queue`（admin 密钥）。
-管线单飞锁（flock）；git pull --ff-only 失败即中止留人工；GLM 被供应商过滤的条目留在 scored 队列待人工复核。
-
-## 服务器部署位置（netannals 机）
-
-- 仓库工作区：`~/netannals-pipeline/repo`（deploy key 可写推送，身份 netannals-auto）
-- venv：`~/netannals-pipeline/.venv`（fastapi/uvicorn，阿里源）
-- GLM 密钥：`~/.config/net-annals/glm.key`
-- 服务：`systemctl {status,restart} netannals-api`（127.0.0.1:8400）
-- nginx：`/etc/nginx/sites-enabled/net-annals` 的 `location ^~ /api/`
-- 日志：`~/netannals-pipeline/repo/data/derived/api/pipeline.log`
+管线单飞锁（flock）；ff-only 失败即中止留人工。**API 不提供触发入口**（原 /ingest 端点已删除）。
 
 ## 已知边界
 
-- v1 只开放编年主库（events）；persons/entities/geo 后续按同模式加表即可。
 - 搜索为 LIKE 子串 + 加权粗排，非倒排索引——万级条目内毫秒级，够用。
-- politics 自动条目若 GLM 写作被供应商过滤，会留在 `data/derived/gap_scored.json`（note=provider_filtered）待人工，不会静默丢失。
-
-## 错误与契约补充（2026-10-28 评审后对齐）
-
-- 错误响应统一 `{"error": "..."}`（含 422 参数校验错误）；`Content-Type: application/json`。
-- 分页：`page` 从 **0** 起、`limit` ≤200；`total` 为过滤后精确总数，越界翻页返回空 `items` 不报错。
-- `/search` 返回 `returned`（本页条数）与 `_score`（相关度加权分）；`q` 多词 AND，最多 6 词。
-- `/health` 额外返回 `tiers`（各层配额说明）。
-- 只读端点带 `Cache-Control: public, max-age=600`（客户端缓存可省配额）；4xx 同样计配额。
-- register 成功返回 **201**；重复提交会签发新 key 并占用当日 3 把额度。
-- CORS：只读 GET 已放开（浏览器可直连）；register 仅限同源页面。
+- `/year` 单响应可达数 MB（>256KB 无 ETag）；大批量拉取请用 `/events` 分页。
+- persons/entities/works/groups 返回站点原始 JSON，字段随站点演进；结构以数据为准。
