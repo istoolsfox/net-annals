@@ -40,6 +40,15 @@ PLACEHOLDER_MARKS = ('请改成', '（改成', '标签1', PLACEHOLDER_SUMMARY, P
 YEAR_MIN, YEAR_MAX = 1900, date.today().year + 1   # 库情 1970 起，给历史条目留余量
 MAX_FILE_BYTES = 2 * 1024 * 1024
 
+# 行政区划骨架码（place 字段校验用；骨架缺失时为空集=跳过存在性检查）
+try:
+    with open('data/places.json', encoding='utf-8') as _pf:
+        _pl = json.load(_pf)
+    PLACE_CODES = ({p['code'] for p in _pl['provinces']} | {c['code'] for c in _pl['cities']}
+                   | {c['code'] for c in _pl['counties']})
+except Exception:
+    PLACE_CODES = set()
+
 
 def load_repo():
     """读全库：[(文件名, [events])]；坏 JSON 记为 error（存量文件必须可解析）。"""
@@ -73,6 +82,17 @@ def check_event(f, e, idx, id_registry, errors, warnings):
         err('字段 milestone 缺失或非布尔')
     if not isinstance(e.get('tags'), list) or any(not isinstance(t, str) for t in e.get('tags', [])):
         err('字段 tags 缺失或含非字符串')
+    place = e.get('place')
+    if place is not None:
+        if not isinstance(place, list) or any(not isinstance(x, str) for x in place):
+            err('字段 place 须为字符串数组（行政区划码，可带 p:/c:/k: 前缀）')
+        else:
+            for tok in place:
+                m = re.fullmatch(r'(?:[pck]:)?(\d{2,6})', tok)
+                if not m:
+                    err(f'place 码格式非法: {tok}（2/4/6 位数字，如 ["c:320100","k:110108"]）')
+                elif m.group(1) not in PLACE_CODES:
+                    err(f'place 码不存在于骨架: {tok}')
     if err_in := [x for x in errors if x[0] == f and x[1] == f'[{idx}]']:
         return
 
