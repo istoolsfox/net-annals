@@ -44,6 +44,42 @@ def _validate_events_params(sort, year, date_from, date_to, category, region, la
 
 def register_routes(app):
 
+    @app.get(config.API_PREFIX)
+    def index():
+        """根索引：自描述端点清单（public-apis 等目录站的评审员落地页）。"""
+        out = {
+            'name': 'China Internet Chronicle API',
+            'description': 'Timeline of China & the world since 1970: 6,000+ sourced events, '
+                           'persons, entities & works (content in Chinese)',
+            'version': '1.1',
+            'read_only': True,
+            'license': 'CC BY-NC（署名-非商业）',
+            'docs': 'https://github.com/istoolsfox/net-annals/blob/main/docs/API.md',
+            'auth': 'anonymous 200 req/day per IP; free key 2000/day via POST keys/register',
+            'endpoints': [
+                'GET /health',
+                'GET /meta',
+                'GET /events?year=&date_from=&date_to=&category=&region=&layer=&q=&page=&limit=&sort=',
+                'GET /events/{id}',
+                'GET /year/{year}',
+                'GET /search?q=&limit=',
+                'GET /persons?q=&field=&region=&year=&page=&limit=',
+                'GET /entities?q=&type=&region=&year=&page=&limit=',
+                'GET /works?q=&type=&region=&year=&page=&limit=',
+                'GET /groups?q=&page=&limit=',
+                'GET /{dataset}/{id}',
+                'POST /keys/register',
+                'GET /keys/page',
+            ],
+        }
+        try:
+            total, generated = store.events_total()
+            out['total_events'] = total
+            out['db_generated'] = generated
+        except store.StoreUnavailable:
+            pass
+        return out
+
     @app.get('/api/v1/health')
     def health():
         try:

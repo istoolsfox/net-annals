@@ -15,7 +15,7 @@ from starlette.responses import Response
 
 from . import config, datasets, keys_store, ratelimit, usage_store
 
-OPEN_PATHS = (config.API_PREFIX + 'health', config.API_PREFIX + 'keys/page')
+OPEN_PATHS = (config.API_PREFIX, config.API_PREFIX + 'health', config.API_PREFIX + 'keys/page')
 REGISTER_PATH = config.API_PREFIX + 'keys/register'
 _READ_TAILS = ('meta', 'events', 'year', 'search')
 READ_PREFIXES = tuple([config.API_PREFIX + t for t in _READ_TAILS]
