@@ -5,7 +5,16 @@ Base URL：`https://toolsfox.cn/api/v1/`（nginx 仅放行 `/stats/` 与 `/api/`
 > **⚠️ 备案期访问说明（2026-10-28）**：toolsfox.cn 域名在备案审核期间被注册商停析（公网无 A 记录），与站点同状态。服务器端 https+证书+API 全链已用 `--resolve toolsfox.cn:443:118.178.238.120` 验证通过，**备案通过、DNS 恢复解析后 API 即刻公网可用**，无需任何改动。当前调试用：
 > `curl --resolve toolsfox.cn:443:118.178.238.120 https://toolsfox.cn/api/v1/health`
 
-认证：请求头 `X-API-Key: NA-…`（`ro`=只读检索，`admin`=入库管理）。限流 ro 120 次/分、admin 30 次/分，超限 429。
+认证：三层公开模型（2026-10-28 起）——
+
+| 层 | 门槛 | 配额 | 说明 |
+|---|---|---|---|
+| **匿名** | 无需密钥 | 每 IP 200 次/天 + 20 次/分 | 所有只读端点；响应头 `X-Anon-Quota-Remaining` |
+| **免费 key** | 自助领取（每 IP 每天限 3 把） | 2000 次/天 | 领取页 `/api/v1/keys/page`，或 `POST /keys/register`（contact 选填）；密钥只显示一次 |
+| **admin** | 手动签发 | 不限日配额 | ingest/status 管理端点 |
+
+超额返回 429 + `Retry-After`；key 用户响应头带 `X-Quota-Limit / X-Quota-Remaining`。配额持久化（重启不清零）。
+防滥用：无效密钥探测 20 次/10 分钟 → 封 IP 1 小时；注册限频率；匿名层高频同样 429。条款：署名-非商业，禁违规用途，见领取页。
 
 ## 端点
 

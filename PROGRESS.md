@@ -930,3 +930,9 @@
 - **两起连环事故当场修复**：①空队列测试后真跑队列时 GLM 换措辞重写已收条目→3条近重复溜过0.6阈值（总统当选类2条删,金庸受聘北大是真新条保留6134）；修复=glm_screen 库内相似提示放宽至0.15全桶传递。②服务器漏配 git 身份致 auto-commit 必败+site 工件未随构建提交致 webroot 回退6107；修复=配 netannals-auto 身份+auto_pipeline 提交范围扩到 site/。
 - 端到端验证：安全探针（year/category注入400、q注入字面量化、通配符逃逸0、ro越权403、假密钥401、limit/page钳制）全过；空队列与真实队列两轮管线跑通；三端（本地/服务器/GitHub）6134 齐平。
 - 密钥已线下交付用户：pipeline-admin(admin)、site-reader(ro)。文档 docs/API.md。
+
+## 续89轮（2026-10-28 下午）· API 开放三层公开模型：免key体验+自助领key+防滥用
+- **三层同心圆**：匿名层（无key，IP 200/天+20/分，全部只读端点）→ 免费key（自助领取，每IP每天3把，ro 2000/天）→ admin（手动）。设计逻辑：数据本就是公开静态内容，薅key无利可图，攻击面收敛到IP维度兜底；key只是配额凭证而非秘密。
+- **自助领取**：POST /keys/register（contact 选填）即时发 key；领取页 /api/v1/keys/page（深色单页，含查询示例+条款：署名-非商业、禁违规、限领说明）。配额持久化 usage.db（key_usage/ip_usage/reg_daily/bans 四表，重启不清零）；X-Quota-Limit/Remaining + X-Anon-Quota-Remaining 响应头。
+- **防滥用实测全过**：无效key探测20次/10分→自动封IP 1h（403 banned until…）；解封恢复200；注册限3把/天/IP；429带Retry-After（至午夜）。修一崩溃：usage.db 忘设 Row_factory→封禁行写入后全站500（tuple 取 r['until']）。
+- 待备案通过 DNS 恢复即公网可领。升级通道预留：邮箱验证/GitHub OAuth 强验证（需用户提供 SMTP 或建 OAuth App，暂缓）。
