@@ -15,7 +15,11 @@ WEBROOT = os.environ.get('WEBROOT', '/var/www/net-annals')
 
 
 def run(cmd, timeout=None, check=False, **kw):
-    """subprocess 封装：argv 列表执行；check=True 时失败即抛（关键步骤用）。"""
+    """subprocess 封装：argv 列表执行；check=True 时失败即抛（关键步骤用）。
+    text=True 统一按文本收输出（git/管道输出按 bytes 消费会在 porcelain 解析崩——
+    b85f23f 修过一次没修到根上，这次在封装层根治）。"""
+    kw.setdefault('text', True)
+    kw.setdefault('encoding', 'utf-8')
     print(f'  $ {cmd if isinstance(cmd, str) else " ".join(cmd)}')
     r = subprocess.run(cmd, shell=isinstance(cmd, str), timeout=timeout, **kw)
     if check and r.returncode != 0:
