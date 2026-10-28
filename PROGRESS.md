@@ -936,3 +936,10 @@
 - **自助领取**：POST /keys/register（contact 选填）即时发 key；领取页 /api/v1/keys/page（深色单页，含查询示例+条款：署名-非商业、禁违规、限领说明）。配额持久化 usage.db（key_usage/ip_usage/reg_daily/bans 四表，重启不清零）；X-Quota-Limit/Remaining + X-Anon-Quota-Remaining 响应头。
 - **防滥用实测全过**：无效key探测20次/10分→自动封IP 1h（403 banned until…）；解封恢复200；注册限3把/天/IP；429带Retry-After（至午夜）。修一崩溃：usage.db 忘设 Row_factory→封禁行写入后全站500（tuple 取 r['until']）。
 - 待备案通过 DNS 恢复即公网可领。升级通道预留：邮箱验证/GitHub OAuth 强验证（需用户提供 SMTP 或建 OAuth App，暂缓）。
+
+## 续90轮（2026-10-28 下午）· 四路子Agent对抗评审 API：修 P0×4 + P1×8
+- **评审方式**：精炼厂对抗自查工序，4 个全新上下文子 Agent 并行（安全红队/架构规范/可靠性并发/性能契约），各自独立读代码攻击，主会话本地复证后统一修复。交叉命中=高置信（4 份报告独立揪出同一批缺陷）。
+- **P0×4 全修**：①INGEST_DIR 未定义→ingest 端点上线起必 500（无人发现因 500 handler 静默——连带补 logging.exception）；②PIPE_LOCK 用 exists() 判忙 vs 管线 flock 永不删文件→首次管线后 ingest 永久 409（改为共用同一把 flock 探测）；③layer 过滤全链断裂（DB 存中文名/API 过滤拼音 code，实锤 games查0行/游戏查158行）→改存拼音 code，meta 返回 code→{中文名,count}，空层名映射 main；④搜索占位符绑定错位（score 占位在 SELECT 先于 WHERE 绑定，多词 AND 静默退化单词）→逐词动态构建 score，实测马斯克+互联网恢复 2 条正确交集。
+- **P1×8 全修**：①async 中间件同步 sqlite 阻塞事件循环→run_in_threadpool+usage.db 单例长连接(WAL+synchronous=NORMAL)；②usage.db 单点 fail-open（bans 检查失败放行不拖死全站）+health 白名单；③events.db 原子重建(tmp+os.replace)；④keys.json flock+原子写+缺失自动初始化+解析失败保留旧缓存告警；⑤管线退出码 check=True（glm_write/normalize/dedup/build_api_db/rsync 失败不再静默上线）+rsync 失败体现退出码；⑥sys.executable 替代硬编码 python3（venv 依赖错位）；⑦register 201+no-store+Content-Type 校验防 text/plain CSRF+KEY_FILE 缺失初始化；⑧错误契约统一 {"error"}（StarletteHTTPException/RequestValidationError 双 handler）。
+- **加固项**：_hits/_probes 定期清扫（防海量假 IP 无界内存→OOM 循环）+usage.db 45 天剪枝入管线；X-Real-IP ipaddress 格式校验（非法回落直连地址）；systemd KillMode=process（restart 不杀在跑管线）；nginx gzip_proxied any；CORS 只读 GET 放开；hmac.compare_digest 落实（文档曾承诺未实现）；Cache-Control 600s；keys/page 外置 site/assets/keys_page.html。
+- **服务器回归全绿**：layer=games 158/main 2543、多词 AND 2 条正确交集、错误统一 {"error"}、ingest 首次真实可用（队列落盘+管线启动）、领取页外置加载、systemd/nginx 配置生效。文档 docs/API.md 契约逐条对齐。
