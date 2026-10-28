@@ -270,3 +270,30 @@ toolsfox.top 的 n8n（docker 容器 `n8n`，v2.43.8，卷 `n8n_data`→容器 `
 用户报编辑器打开工作流报「Workflow data is invalid / a.nodes.filter is not a function」。根因：用 sqlite3 CLI 的 `readfile()` 原地更新 nodes 列时，写入的是 **BLOB 类型**——运行时（主进程）能容错所以调度照跑，但编辑器 API 校验 nodes 必须是数组，直接拒绝。**修复：`UPDATE ... SET nodes = CAST(nodes AS TEXT)`**（blob 字节即合法 JSON，无损；length 变小只是 blob 按字节/text 按字符计数）。教训：**对 n8n DB 做列内容替换一律用 `CAST(readfile(...) AS TEXT)`**。
 
 另：用户提供了 n8n 公共 API key（`X-N8N-API-KEY` 头，aud=public-api），`GET/PUT http://127.0.0.1:5678/api/v1/workflows/{id}`（服务器本地）可用作今后无头操作的正道——自带校验与版本记录，比 DB 手术安全。注意 PUT 的 body 只含 name/nodes/connections/settings 时报 "Iterator value 0 is not an entry object"（原因未深究，下次用 API 建议带上完整字段或用 MCP 通道）。
+
+## 国内信息源实测台账（2026-10-28 逐站探测，接入批次任务书前先读此节）
+
+### ✅ 完全可取（机器/批次可用）
+| 源 | 实测结果 | 用法 |
+|---|---|---|
+| 人民日报每日纸版 paper.people.com.cn | 头版文章全文 41KB 可取，URL 稳定：`/rmrb/html/YYYY-MM/DD/nw.D110000renmrb_YYYYMMDD_版-页.htm` | 主层补条+核实的逐日权威源（免费公开面，data.people.com.cn 订阅库的替代） |
+| 巨潮资讯 cninfo.com.cn | POST `/new/hisAnnouncement/query` 返回公告 JSON（343万条，需 X-Requested-With+Referer 头） | 资本/IPO/公告类条目自动化首选 |
+| 新华网 news.cn / 澎湃 thepaper.cn | 首页+文章页公开（澎湃登录标记仅评论） | 核实第二源 |
+| 中央党史和文献研究院 dswxyjy.org.cn | 首页 104KB 静态可达 | 1978-2000 主层坐标 |
+| 国家统计局 stats.gov.cn / 中国方志网 difangzhi.cn / 国家图书馆 nlc.cn | 首页可达 | 数据/地域线索 |
+| gov.cn 文章页 | **栏目页是 JS 壳，但 content_*.htm 文章页是静态全文**（实测 25KB 完整） | 有具体 URL 即可取全文；找 URL 走站内检索或新华网授权转载 |
+
+### ⚠️ 部分可用
+- 财新：首页可读、正文订阅墙（不绕付费墙，免费篇可引用）
+- 中国大百科 zgbk.com：首页可达，词条页 SPA 需 JS（人工浏览正常）
+- 国家法律法规数据库 flk.npc.gov.cn：**人工检索完全可用；机器接口已挖到真实路径**（/law-search/search/list、/law-search/search/flfgDetails，JS 包 assets/index-*.js 中可见）**但参数协议未破（POST 返回"系统异常"）且伴随 captchaImage 组件——自动取数放弃**；法律日期核实改用 gov.cn 公报文章页/新华网授权发布
+
+### ❌ 放弃（站点+原因）
+1. 中国信通院 caict.ac.cn——WAF 指纹 412 拦截，全浏览器头重试无效
+2. 知网 cnki.net——订阅制+强反爬（商业库不绕）
+3. 慧科 Wisers——商业订阅舆情平台
+4. 人民日报图文数据库 data.people.com.cn——登录墙（用 paper.people.com.cn 免费纸版替代）
+5. 国家图书馆互联网信息存档——机制不对公众开放（非技术问题）
+6. 方志/年鉴全文库——纸质/到馆/内部系统为主，官网仅门户
+
+探测方法：urllib 直连（禁环境代理）+ 浏览器 UA，每站 1-3 个轻量请求；绕过尝试仅限公开面（换头/找真实 API 路径），付费墙一律不绕。
