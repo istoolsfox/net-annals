@@ -2986,7 +2986,7 @@
 "id": "2010-11-25-lifan-a-share-listing",
 "date": "2010-11-25",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "力帆股份登陆A股成民营车企上市样本",
 "category": "economy",
 "region": "cn",
@@ -3000,6 +3000,11 @@
 "title": "维基百科：2010年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2010%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "巨潮资讯：力帆股份首次公开发行A股股票上市公告书（2010-11-24，印证11-25上市）",
+"url": "http://static.cninfo.com.cn/finalpage/2010-11-24/58699092.PDF",
+"type": "official"
 }
 ],
 "tags": [

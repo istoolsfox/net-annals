@@ -276,7 +276,7 @@ toolsfox.top 的 n8n（docker 容器 `n8n`，v2.43.8，卷 `n8n_data`→容器 `
 ### ✅ 完全可取（机器/批次可用）
 | 源 | 实测结果 | 用法 |
 |---|---|---|
-| 人民日报每日纸版 paper.people.com.cn | 头版文章全文 41KB 可取，URL 稳定：`/rmrb/html/YYYY-MM/DD/nw.D110000renmrb_YYYYMMDD_版-页.htm` | 主层补条+核实的逐日权威源（免费公开面，data.people.com.cn 订阅库的替代） |
+| 人民日报每日纸版 paper.people.com.cn | **免费静态面仅覆盖 2023-2024**（2022 及以前 403=付费库 data.people.com.cn 专卖；2025 起 /rmrb/pc/ 为 JS SPA 未接入；1994 级老年代 404）。版面页裸请求 403，**必须带 Referer**；文章锚是**不带引号的 href**（正则需兼容）。工具 scripts/people_paper.py（date/match 两模式，内置 403 退避） | 2023-2024 条目的同日核实与 source 补强（exact 精度条目才可同日匹配，月精度锚定 01 日对不上） |
 | 巨潮资讯 cninfo.com.cn | POST `/new/hisAnnouncement/query` 返回公告 JSON（343万条，需 X-Requested-With+Referer 头） | 资本/IPO/公告类条目自动化首选 |
 | 新华网 news.cn / 澎湃 thepaper.cn | 首页+文章页公开（澎湃登录标记仅评论） | 核实第二源 |
 | 中央党史和文献研究院 dswxyjy.org.cn | 首页 104KB 静态可达 | 1978-2000 主层坐标 |

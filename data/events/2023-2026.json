@@ -640,7 +640,7 @@
 "id": "2023-06-15-2022-asian-games-flame-liangzhu",
 "date": "2023-06-15",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "2022年杭州亚运会圣火在良渚古城遗址采集",
 "category": "society",
 "region": "cn",
@@ -654,6 +654,11 @@
 "title": "维基百科：2023年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "人民日报：杭州亚运会火种成功采集（2023-06-16）",
+"url": "http://paper.people.com.cn/rmrb/html/2023-06/16/nw.D110000renmrb_20230616_4-15.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -1070,7 +1075,7 @@
 "id": "2023-09-08-hangzhou-asian-games-torch-relay",
 "date": "2023-09-08",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "杭州亚运会火炬传递活动启动",
 "category": "society",
 "region": "cn",
@@ -1084,6 +1089,11 @@
 "title": "维基百科：2023年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "人民日报：杭州第19届亚洲运动会火炬传递启动仪式在杭举行（2023-09-09）",
+"url": "http://paper.people.com.cn/rmrb/html/2023-09/09/nw.D110000renmrb_20230909_3-03.htm",
+"type": "news"
 }
 ],
 "tags": [
@@ -2278,7 +2288,7 @@
 "id": "2024-06-02-change-6-farside-landing",
 "date": "2024-06-02",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "嫦娥六号成功着陆月球背面",
 "category": "national",
 "region": "cn",
@@ -2292,6 +2302,11 @@
 "title": "维基百科：2024年中国大陆",
 "url": "https://zh.wikipedia.org/wiki/2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "人民日报：嫦娥六号成功着陆月球背面（2024-06-03 第01版）",
+"url": "http://paper.people.com.cn/rmrb/html/2024-06/03/nw.D110000renmrb_20240603_5-01.htm",
+"type": "news"
 }
 ],
 "tags": [
