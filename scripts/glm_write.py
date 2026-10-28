@@ -37,7 +37,7 @@ SYS = f"""你是中文编年史数据库的条目撰稿人。根据给定的候�
 
 
 def call_write(row):
-    year_page = f"https://zh.wikipedia.org/wiki/{urllib.parse.quote(row['year'] + '年中国大陆')}"
+    year_page = f"https://zh.wikipedia.org/wiki/{urllib.parse.quote(str(row['year']) + '年中国大陆')}"
     user = json.dumps({'date': row['date'], '候选文本': row['text']}, ensure_ascii=False)
     body = {'model': MODEL, 'temperature': 0.3, 'thinking': {'type': 'disabled'},
             'messages': [{'role': 'system', 'content': SYS},
@@ -56,6 +56,9 @@ def call_write(row):
                 return None
             date = row['date_fix'] if re.match(r'^\d{4}-\d{2}(-\d{2})?$', row.get('date_fix', '')) else row['date']
             acc = 'month' if len(date) == 7 else row['acc']
+            # 来源：队列候选携带词条 URL（src_url）优先，否则回退年份页（首个 GAP_FINDER 批次口径）
+            src_url = row.get('src_url') or year_page
+            src_title = urllib.parse.unquote(src_url.split('/wiki/')[-1]).replace('_', ' ')
             e = {
                 'id': f"{date}-{slug}", 'date': date,
                 'date_accuracy': acc, 'date_confidence': 'single-source',
@@ -63,8 +66,8 @@ def call_write(row):
                 'region': 'cn', 'milestone': False,
                 'summary_30s': d['summary_30s'], 'detail': d['detail'],
                 'impact': d['impact'], 'aftermath': d['aftermath'],
-                'sources': [{'title': f"维基百科：{row['year']}年中国大陆",
-                             'url': year_page, 'type': 'wiki'}],
+                'sources': [{'title': f"维基百科：{src_title}",
+                             'url': src_url, 'type': 'wiki'}],
                 'tags': [str(t) for t in d.get('tags', [])][:4] or ['中国'],
             }
             return e
