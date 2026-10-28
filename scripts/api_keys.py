@@ -35,16 +35,27 @@ def main():
         return 2
     cmd = sys.argv[1]
     d = load()
-    if cmd == 'issue' and len(sys.argv) == 4:
-        name, role = sys.argv[2], sys.argv[3]
+    if cmd == 'issue' and len(sys.argv) >= 4:
+        # issue <名称> <角色> [--quota N] [--contact …]  角色顺序兼容旧用法
+        name = sys.argv[2]
+        role = sys.argv[3]
+        quota = None
+        contact = ''
+        if '--quota' in sys.argv:
+            quota = int(sys.argv[sys.argv.index('--quota') + 1])
+        if '--contact' in sys.argv:
+            contact = sys.argv[sys.argv.index('--contact') + 1][:120]
+        if role == 'public':
+            role, quota = 'ro', quota or 2000          # 公开自助领取层：固定 ro+2000/日
         if role not in ('ro', 'admin'):
-            print('角色只能是 ro|admin')
+            print('角色只能是 ro|admin|public')
             return 2
         if any(k['id'] == name for k in d['keys']):
             print(f'名称 {name} 已存在')
             return 2
         raw = 'NA-' + secrets.token_hex(24)
         d['keys'].append({'id': name, 'key_sha256': sha(raw), 'role': role,
+                          'daily_quota': quota, 'contact': contact,
                           'created': datetime.datetime.now().astimezone().isoformat(timespec='seconds')})
         save(d)
         print(f'✓ 已签发 {role} 密钥（仅此一次展示，请妥善保存）：\n{raw}')
