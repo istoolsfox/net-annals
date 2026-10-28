@@ -78,8 +78,10 @@ def main():
         items = []
         for j, r in enumerate(batch):
             it = {'i': j, 'date': r['date'], 'text': r['text'][:180]}
-            if r['_kind'] == 'borderline' and r.get('vs_title'):
-                it['库内相似条目'] = r['vs_title']
+            # 库内相似提示：>0.15 即传（含 missing 桶）——同事件换措辞靠 GLM 仲裁弃收，
+            # 0.6 硬阈值曾漏掉「当选国家主席/新一届国家领导人」类近重复（2026-10-28）
+            if r.get('best', 0) >= 0.15 and r.get('vs_title'):
+                it['库内相似条目'] = f"{r['vs_title']}（相似度{r['best']}）"
             items.append(it)
         res = screen(items, batch)
         for j, r in enumerate(batch):

@@ -83,11 +83,13 @@ def main():
         return 1
     run(['python3', 'scripts/build_api_db.py'])
 
-    # 7. git 提交推送（数据确有变化才提交；无变化跳过）
+    # 7. git 提交推送（数据确有变化才提交；.parts 暂存件绝不入库）
     dirty = run(['git', 'status', '--porcelain', '--', 'data/events'],
-                capture_output=True).stdout.strip()
-    if dirty:
-        run(['git', 'add', 'data/events'])
+                capture_output=True).stdout
+    files = [ln[3:].strip() for ln in dirty.splitlines()
+             if ln.strip().endswith('.json') and '/.parts/' not in ln and '.parts/' not in ln]
+    if files:
+        run(['git', 'add'] + files)
         commit = run(['git', 'commit', '-m',
                       f'auto: 缺口扫荡入库 {queue.rsplit("/", 1)[-1]}（管线自动批）'],
                      capture_output=True)
