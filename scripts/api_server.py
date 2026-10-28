@@ -43,6 +43,7 @@ _conn_lock = threading.Lock()
 
 def udb():
     conn = sqlite3.connect(f'file:{USAGE_DB}?mode=ro', uri=True)
+    conn.row_factory = sqlite3.Row          # 不设则 fetchone 返回元组，r['until'] 会崩
     return conn
 
 
