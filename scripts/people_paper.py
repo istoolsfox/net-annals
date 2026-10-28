@@ -8,10 +8,15 @@
 用法:
   python3 scripts/people_paper.py date YYYY-MM-DD       # 列当日全部版面与文章标题
   python3 scripts/people_paper.py match <candidates.json> [--min 0.5]
-      candidates: [{"id","date","title"}, ...]（同日条目合并取纸版）
-      输出匹配报告（条目 vs 当日纸版文章，字符重叠比），机器只报告不回写库。
+      candidates: [{"id","date","title"}, ...]
+      输出匹配报告（条目 vs 当日+次日纸版文章，字符重叠比），机器只报告不回写库。
+  python3 scripts/people_paper.py verify                 # 自动选取库内 single-source+exact
+                                                         # +2023-2024 cn 条目走 match
+  python3 scripts/people_paper.py scan YYYY-MM-DD YYYY-MM-DD [--min 0.45]
+      正扫：逐日取头版标题，与库内同日+次日条目比对，输出"人民日报认为重要但库内缺收"
+      的候选清单（报告 + data/derived/paper_scan_queue.json）——找重要遗漏用。
 
-用途：给 2023-2024 的 single-source 条目补人民日报来源（升 verified 需人工确认匹配）。"""
+纪律：机器只报告/出队列，回写库一律人工裁定后单独执行。"""
 import json
 import re
 import ssl
@@ -97,23 +102,106 @@ def overlap(a, b):
     return len(sa & sb) / min(len(sa), len(sb))
 
 
+def _library_index():
+    """date(+次日) → [(id, title)]，供 scan/verify 比对。"""
+    import datetime
+    import glob
+    idx = {}
+    for f in glob.glob('data/events/*.json'):
+        if '/.' in f or '.parts' in f:
+            continue
+        for e in json.load(open(f, encoding='utf-8')):
+            d = datetime.date(*(int(x) for x in e['date'].split('-')))
+            for key in (e['date'], (d + datetime.timedelta(days=1)).isoformat()):
+                idx.setdefault(key, []).append((e['id'], e['title']))
+    return idx
+
+
+def _select_verify_candidates():
+    import glob
+    cands = []
+    for f in glob.glob('data/events/*.json'):
+        if '/.' in f or '.parts' in f:
+            continue
+        for e in json.load(open(f, encoding='utf-8')):
+            d = e.get('date', '')
+            if not ('2023-01-01' <= d <= '2024-12-31'):
+                continue
+            if e.get('date_confidence') != 'single-source' or e.get('date_accuracy') != 'exact':
+                continue
+            if e.get('region') != 'cn':
+                continue
+            cands.append({'id': e['id'], 'date': d, 'title': e['title']})
+    cands.sort(key=lambda x: x['date'])
+    return cands
+
+
+def _scan(d1, d2, min_ratio=0.45):
+    """正扫头版找库内缺收的重要条目。"""
+    import datetime
+    idx = _library_index()
+    start = datetime.date(*(int(x) for x in d1.split('-')))
+    end = datetime.date(*(int(x) for x in d2.split('-')))
+    queue = []
+    days = fails = 0
+    cur = start
+    while cur <= end:
+        ds = cur.isoformat()
+        try:
+            arts = [a for _, pa in fetch_date(ds) for a in pa if '/01.htm' in a['url']]
+        except Exception as e:
+            print(f'✗ {ds}: {type(e).__name__} {str(e)[:40]}')
+            fails += 1
+            cur += datetime.timedelta(days=1)
+            time.sleep(0.3)
+            continue
+        days += 1
+        for a in arts:
+            best = 0.0
+            best_t = ''
+            for _id, t in idx.get(ds, []):
+                r = overlap(a['title'], t)
+                if r > best:
+                    best, best_t = r, t
+            if best < min_ratio:
+                queue.append({'date': ds, 'title': a['title'], 'url': a['url'],
+                              'best_score': round(best, 2), 'nearest': best_t[:40]})
+                print(f'○ [{ds}] {a["title"][:44]}（库内最近 {best:.2f} {best_t[:24]}）')
+        cur += datetime.timedelta(days=1)
+        time.sleep(0.4)
+    out = 'data/derived/paper_scan_queue.json'
+    json.dump(queue, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print(f'—— 扫 {days} 天（失败 {fails}），头版缺收候选 {len(queue)} 条 → {out} ——')
+
+
 def main():
-    if len(sys.argv) < 3:
+    cmd = sys.argv[1] if len(sys.argv) > 1 else ''
+    if (cmd in ('date', 'match') and len(sys.argv) < 3) or (cmd == 'scan' and len(sys.argv) < 4):
         print(__doc__)
         return 2
-    cmd = sys.argv[1]
+    if not cmd:
+        print(__doc__)
+        return 2
     if cmd == 'date':
         for name, arts in fetch_date(sys.argv[2]):
             print(f'── {name}（{len(arts)}篇）')
             for a in arts:
                 print(f'  {a["title"][:44]}\n      {a["url"]}')
         return 0
-    if cmd == 'match':
-        import datetime
-        cands = json.load(open(sys.argv[2], encoding='utf-8'))
+    if cmd == 'verify':
+        cands = _select_verify_candidates()
+        print(f'—— verify 候选 {len(cands)} 条（single-source+exact+2023-2024+cn）——')
+    elif cmd in ('match', 'scan'):
+        if cmd == 'match':
+            cands = json.load(open(sys.argv[2], encoding='utf-8'))
         min_ratio = 0.5
         if '--min' in sys.argv:
             min_ratio = float(sys.argv[sys.argv.index('--min') + 1])
+    if cmd == 'match' or cmd == 'verify':
+        if cmd == 'verify':
+            json.dump(cands, open('data/derived/paper_verify_cand.json', 'w', encoding='utf-8'),
+                      ensure_ascii=False, indent=1)
+        import datetime
         hits = misses = nodata = 0
         for c in cands:
             # 报道滞后规律：事件日与次日两版都试（06-07 开考 → 06-08 见报）
@@ -144,6 +232,9 @@ def main():
             else:
                 nodata += 1
         print(f'—— 匹配 {hits} / 未中 {misses} / 取数失败 {nodata} ——')
+        return 0
+    if cmd == 'scan':
+        _scan(sys.argv[2], sys.argv[3])
         return 0
     print(__doc__)
     return 2

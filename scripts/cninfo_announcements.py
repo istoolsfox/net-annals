@@ -5,6 +5,10 @@
 用法:
   python3 scripts/cninfo_announcements.py <searchkey> [YYYY-MM-DD~YYYY-MM-DD] [页大小]
   例: python3 scripts/cninfo_announcements.py 乖宝宠物 2023-08-01~2023-08-31
+  python3 scripts/cninfo_announcements.py enrich <candidates.json>
+      candidates: [{"id","date","searchkey"}, ...]
+      对每条查事件日±10天公告，报告 上市公告书/招股说明书 类命中（含日期差与PDF链接）。
+      机器只出报告（data/derived/cninfo_enrich_report.json），回写库人工裁定。
 
 输出: 公告列表（标题 / 日期 / 代码 / PDF 链接）。
 用途：资本类条目（上市/IPO/并购/问询函）的日期核实与 source 补强——公告日期精确到日。
@@ -53,7 +57,44 @@ def query(searchkey, se_date='', page_size=30, page=1):
     return out, d.get('totalAnnouncement')
 
 
+KEYWORDS = ('上市公告书', '招股说明书', '首次公开发行', '上市保荐书', '股票上市')
+
+
+def enrich(cands_path):
+    import datetime
+    cands = json.load(open(cands_path, encoding='utf-8'))
+    report = []
+    for c in cands:
+        d = datetime.date(*(int(x) for x in c['date'].split('-')))
+        window = f"{(d - datetime.timedelta(days=10)).isoformat()}~{(d + datetime.timedelta(days=2)).isoformat()}"
+        try:
+            rows, _ = query(c['searchkey'], window)
+        except Exception as e:
+            print(f'✗ {c["id"]}: {type(e).__name__} {str(e)[:40]}')
+            continue
+        hits = [a for a in rows if any(k in a['title'] for k in KEYWORDS)]
+        best = None
+        for a in hits:
+            ad = datetime.date(*(int(x) for x in a['date'].split('-')))
+            delta = (ad - d).days
+            if best is None or abs(delta) < abs(best['delta']):
+                best = {**a, 'delta': delta}
+        if best:
+            print(f'● {c["id"]} [{c["date"]}] {c["searchkey"]}')
+            print(f'    {best["date"]}（差{best["delta"]:+d}天）{best["title"][:46]}')
+            print(f'      {best["pdf"][:88]}')
+            report.append({**c, **best})
+        else:
+            print(f'○ {c["id"]} [{c["date"]}] {c["searchkey"]}（±10天无上市类公告）')
+    out = 'data/derived/cninfo_enrich_report.json'
+    json.dump(report, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print(f'—— 命中 {len(report)}/{len(cands)} → {out} ——')
+
+
 def main():
+    if len(sys.argv) >= 2 and sys.argv[1] == 'enrich':
+        enrich(sys.argv[2])
+        return 0
     if len(sys.argv) < 2:
         print(__doc__)
         return 2
