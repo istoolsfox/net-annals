@@ -82,12 +82,13 @@ def call_write(row):
 def main():
     scored = json.load(open('data/derived/gap_scored.json', encoding='utf-8'))
     min_imp = int(sys.argv[sys.argv.index('--min-imp') + 1]) if '--min-imp' in sys.argv else 4
+    allow = ('safe', 'disaster', 'politics') if '--all-sens' in sys.argv else ('safe', 'disaster')
     rows = [r for r in scored
-            if r.get('usable') and r.get('sens') in ('safe', 'disaster')
+            if r.get('usable') and r.get('sens') in allow
             and (r.get('imp') or 0) >= min_imp and not r.get('note')]
     if '--limit' in sys.argv:
         rows = rows[:int(sys.argv[sys.argv.index('--limit') + 1])]
-    print(f'待写 {len(rows)} 条（imp≥{min_imp}，safe/disaster）')
+    print(f'待写 {len(rows)} 条（imp≥{min_imp}，{"|".join(allow)}）')
 
     # 库内同日再查重（防写作期间库变化+边缘漏网）
     import glob
@@ -107,7 +108,10 @@ def main():
         return len(A & B) / m if m else 0
 
     results, skipped = [], 0
-    out = 'data/events/.parts/g_gapfinder_1.json'
+    if '--out' in sys.argv:
+        out = sys.argv[sys.argv.index('--out') + 1]
+    else:
+        out = 'data/events/.parts/g_gapfinder_1.json'
     with ThreadPoolExecutor(max_workers=5) as ex:
         for e in ex.map(call_write, rows):
             if e is None:
