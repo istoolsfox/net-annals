@@ -109,7 +109,7 @@ def main():
 
     # 7. git 提交推送（数据+站点工件一起；.parts 暂存件绝不入库）
     dirty = run(['git', 'status', '--porcelain', '--', 'data/events', 'site'],
-                capture_output=True).stdout
+                capture_output=True, text=True).stdout
     files = [ln[3:].strip() for ln in dirty.splitlines()
              if ln.strip().endswith(('.json', '.gz', '.xml'))
              and '.parts/' not in ln]
