@@ -923,3 +923,10 @@
 - **politics 桶 15 条人工手写入库**（库内史志体例，人名按既有条目惯例）：复关申请/十二届六中全会精神文明决议/中以建交/领海法钓鱼岛入法/加入NPT/首批维和赴柬/深圳邓小平画像/1993国家安全法/八届人大一次（市场经济入宪）/国家领导人换届/十四届二中全会/朱镕基兼央行行长/首次公务员招考/中俄核武器互不瞄准/三讲教育。crime 2 条（禹作敏/建国门）按政策弃收。
 - 新脚本 batch_gap_queue_diff.py（队列→gap_candidates 适配，同 gap_diff 查重规则）；修一个坑：date_text 带年份前缀形态（1986年10月11日）首版漏解析致 59 条静默丢弃，已修。
 - 全库 6099→6133（两日+26）。年份薄段 1986/1992-1995 加厚中，下周三扫荡轮转下一片年份。
+
+## 续88轮（2026-10-28 上午）· 公共 API v1 上线 + 全自动入库闭环建成
+- **公共 API（https://toolsfox.cn/api/v1/）**：FastAPI+SQLite（只读检索 ro / 管理 admin 双级密钥）。端点：health/meta/events 多维列表(年份/日期区间/类目/region/领域层/关键词/分页排序)/单条/整年/search 加权全文(标题30标签12摘要6正文2)/ingest(admin)/status(admin)。安全全套：参数化 SQL+LIKE 转义(%%逃逸实测归零)+白名单枚举+LIMIT钳制+sha256密钥库(hmac常时比较,mtime热吊销,0600不入git)+滑动窗限流(120/30每分)+uvicorn只绑127.0.0.1+接口文档页关闭。nginx /api/ 反代并在备案期与 /stats/ 同列白名单（其余仍444）。
+- **全自动闭环**：周三09:40 netannals 服务器 cron → auto_pipeline.py --fetch（ssh 跨机拉 n8n 队列）→ 查重→初筛→GLM成条(--all-sens 含 politics)→add_events→normalize→dedup→build→build_api_db→git commit+push(数据+站点工件；.parts 永不入库)→rsync 上线+API热更。deploy key(可写)已注册 GitHub；服务器身份 netannals-auto；单飞锁；ff-only 防覆盖。
+- **两起连环事故当场修复**：①空队列测试后真跑队列时 GLM 换措辞重写已收条目→3条近重复溜过0.6阈值（总统当选类2条删,金庸受聘北大是真新条保留6134）；修复=glm_screen 库内相似提示放宽至0.15全桶传递。②服务器漏配 git 身份致 auto-commit 必败+site 工件未随构建提交致 webroot 回退6107；修复=配 netannals-auto 身份+auto_pipeline 提交范围扩到 site/。
+- 端到端验证：安全探针（year/category注入400、q注入字面量化、通配符逃逸0、ro越权403、假密钥401、limit/page钳制）全过；空队列与真实队列两轮管线跑通；三端（本地/服务器/GitHub）6134 齐平。
+- 密钥已线下交付用户：pipeline-admin(admin)、site-reader(ro)。文档 docs/API.md。
