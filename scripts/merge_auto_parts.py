@@ -43,9 +43,9 @@ for p in PARTS:
     items = json.load(open(p, encoding="utf-8"))
     keep = []
     for e in items:
-        if e["date"][:4] < "1972":
+        if e["date"][:4] < "1970":
             dropped += 1
-            print(f"[{prov}] 早于1972超段丢弃: {e['id']} {e['title']}")
+            print(f"[{prov}] 早于1970超段丢弃: {e['id']} {e['title']}")
             continue
         if e["id"] in id_set:
             skipped_dup += 1
