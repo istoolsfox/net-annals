@@ -178,12 +178,24 @@ def main():
     warnings = list(errors)
     id_registry = {}
 
+    targets = sys.argv[1:]
+    if targets:
+        # 显式指定的 .parts 产出文件：绕过点路径过滤进入同一套 schema 校验
+        # （文件名层码规则不适用于 parts 多条批次，见下方 check_filename 跳过）
+        for t in targets:
+            try:
+                with open(t, encoding='utf-8') as fh:
+                    files.append((os.path.relpath(t, EV), json.load(fh)))
+            except Exception as exc:
+                errors.append((t, '-', f'JSON 解析失败: {exc}'))
+
     by_date = {}
     for f, entries in files:
         if not isinstance(entries, list):
             errors.append((f, '-', '顶层必须是数组'))
             continue
-        check_filename(f, entries, errors)
+        if '.parts' not in f:
+            check_filename(f, entries, errors)
         for i, e in enumerate(entries):
             if not isinstance(e, dict):
                 errors.append((f, f'[{i}]', '条目必须是对象'))

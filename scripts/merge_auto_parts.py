@@ -12,7 +12,7 @@ if not PARTS:
     sys.exit(1)
 
 def year_file(y):
-    if y <= 1985: return "1972-1985.json"
+    if y <= 1985: return "1970-1985.json"
     if y <= 1995: return "1986-1995.json"
     if y <= 1999: return "1996-1999.json"
     if y <= 2004: return "2000-2004.json"

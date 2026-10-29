@@ -15,7 +15,7 @@
 
 /* ── 配置常量 ─────────────────── */
 const ERAS = [
-  { name: '前史与萌发', range: [1972, 1994.4] },
+  { name: '前史与萌发', range: [1970, 1994.4] },
   { name: '拨号时代', range: [1994.4, 2000] },
   { name: '门户与泡沫', range: [2000, 2003] },
   { name: 'Web2.0 前夜', range: [2003, 2005] },
@@ -740,8 +740,8 @@ async function boot() {
     const m = await res.json();
     Store.manifest = m;
     const endYear = Math.ceil(m.eras[m.eras.length - 1].range[1]) - 1;
-    $('#heroEyebrow').textContent = `1972 — ${endYear} · ${m.total} 条 · 精确到日 · 每条可溯源`;
-    $('#introText').textContent = `从 1972 年的第一声电视新闻，到 ${endYear} 年每个人口袋里的人工智能——本卷收录 ${m.total} 条被日期钉住的时刻：改革开放、互联网、科技、硬件、公司、国家大事、世界大事、民间生活与流行文化。其中 ${m.verified.toLocaleString()} 条经双源实证，其余均标明来源与置信度。点击任何标题可跳转原文。`;
+    $('#heroEyebrow').textContent = `1970 — ${endYear} · ${m.total} 条 · 精确到日 · 每条可溯源`;
+    $('#introText').textContent = `从 1970 年《东方红》唱响太空，到 ${endYear} 年每个人口袋里的人工智能——本卷收录 ${m.total} 条被日期钉住的时刻：改革开放、互联网、科技、硬件、公司、国家大事、世界大事、民间生活与流行文化。其中 ${m.verified.toLocaleString()} 条经双源实证，其余均标明来源与置信度。点击任何标题可跳转原文。`;
     $('#colMeta').textContent = `构建于 ${(m.generated || '').replace('T', ' ').slice(0, 16)} · ${m.total} 条事件 · 来源 ${m.sourceCount} 个 · 数据持续增补中`;
     Timeline.init();
     Toolbar.init();

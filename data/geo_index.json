@@ -1,5 +1,24 @@
 {
  "1101": [
+  "1973-08-01-first-national-env-conference",
+  "1973-08-26-computer-150-model",
+  "1975-09-12-3rd-national-games-beijing",
+  "1976-05-01-yanshan-ethylene-unit-built",
+  "1977-09-01-pinyin-international-standard",
+  "1977-12-01-jingtong-railway-open",
+  "1978-01-01-xinwen-lianbo-debut",
+  "1978-03-18-national-science-conference",
+  "1978-12-26-first-scholars-to-usa",
+  "1979-03-01-pierre-cardin-beijing-show",
+  "1980-01-01-first-color-tv-production-line",
+  "1980-04-10-first-sino-foreign-jv-001",
+  "1980-04-14-jianzhen-statue-return-tour",
+  "1981-03-20-volleyball-win-raise-china-slogan",
+  "1981-09-27-first-beijing-marathon",
+  "1982-02-08-national-historic-cities",
+  "1984-05-16-sitong-founded-zhongguancun",
+  "1984-10-07-bepc-groundbreaking",
+  "1985-11-20-niweiping-go-super-go-victory",
   "2002-05-07-dalian-crash",
   "2008-04-28-jiaoji-crash",
   "2023-04-18-changfeng-fire",
@@ -74,25 +93,6 @@
   "2022-02-20-beijing-winter-olympics-closing",
   "2022-03-13-beijing-paralympics-closing",
   "2026-03-01-milan-paralympics-china-top",
-  "1973-08-01-first-national-env-conference",
-  "1973-08-26-computer-150-model",
-  "1975-09-12-3rd-national-games-beijing",
-  "1976-05-01-yanshan-ethylene-unit-built",
-  "1977-09-01-pinyin-international-standard",
-  "1977-12-01-jingtong-railway-open",
-  "1978-01-01-xinwen-lianbo-debut",
-  "1978-03-18-national-science-conference",
-  "1978-12-26-first-scholars-to-usa",
-  "1979-03-01-pierre-cardin-beijing-show",
-  "1980-01-01-first-color-tv-production-line",
-  "1980-04-10-first-sino-foreign-jv-001",
-  "1980-04-14-jianzhen-statue-return-tour",
-  "1981-03-20-volleyball-win-raise-china-slogan",
-  "1981-09-27-first-beijing-marathon",
-  "1982-02-08-national-historic-cities",
-  "1984-05-16-sitong-founded-zhongguancun",
-  "1984-10-07-bepc-groundbreaking",
-  "1985-11-20-niweiping-go-super-go-victory",
   "1994-11-02-cctv-biaowang-first",
   "2011-06-23-durex-weibo-marketing",
   "1984-03-01-cdpf-foundation",
@@ -251,11 +251,14 @@
   "2005-10-12-tenth-national-games-jiangsu",
   "2005-12-11-wnv-weg2005-cs-champion",
   "2007-03-20-postal-savings-bank",
+  "2007-11-09-taishan-sports-olympic",
   "2007-12-18-assembly-premiere",
   "2008-01-01-cctv-olympics",
   "2008-01-22-xuchang-skull-fossil",
   "2008-02-29-beijing-airport-terminal-three",
   "2008-04-01-td-scdma-trial-launch",
+  "2008-06-01-linqing-gongzhuan-ich",
+  "2008-06-18-mohe-ancient-lian-airport",
   "2008-08-08-beijing-olympics",
   "2008-08-18-liuxiang-withdraws-beijing-olympics",
   "2008-08-28-paralympic-flame-temple-of-heaven",
@@ -281,6 +284,7 @@
   "2012-05-01-beijing-first-vat-invoice-hotel",
   "2012-07-21-beijing-rainstorm",
   "2012-09-09-didi-launch",
+  "2012-10-16-hebang-hsr-opening",
   "2012-12-26-beijing-guangzhou-hsr",
   "2013-01-12-smog-year-2013",
   "2013-12-18-amazon-aws-zhongwei-cloud-base",
@@ -303,28 +307,35 @@
   "2017-11-08-rbt-kindergarten",
   "2017-11-18-daxing-xihongmen-fire",
   "2017-12-13-google-ai-china-center",
+  "2017-12-28-huaixiao-link-railway",
   "2017-12-31-jia-yueting-recall-order",
   "2018-02-08-fuxing-g89-axle-heat-fault",
+  "2019-02-03-bazhong-enyang-airport",
   "2019-09-25-daxing-airport-open",
   "2019-12-30-zhanghu-hsr-full-line",
+  "2019-12-30-datong-zhangjiakou-hsr",
   "2020-06-11-xinfadi-covid-outbreak",
   "2020-12-30-sinopharm-vaccine-approved",
+  "2021-01-22-jingha-hsr-full-opening",
   "2021-02-25-poverty-victory",
   "2021-03-01-mongolian-plateau-sandstorm",
   "2021-05-01-beijing-west-station-train-suspension",
   "2021-05-14-wang-yuan",
   "2021-07-18-beijing-record-rainstorm-flood",
   "2021-09-02-bse-announcement",
+  "2021-09-16-chenzhou-beihu-airport-opening",
   "2021-10-17-beijing-coldest-october-morning",
   "2021-10-23-beijing-high-risk-covid-2021",
   "2021-10-29-vegetable-price-stability-notice",
   "2021-11-18-china-antitrust-bureau-established",
+  "2021-11-27-shaoguan-danxia-airport-opening",
   "2022-01-01-ningbo-beilun-lockdown",
   "2022-01-09-tianjin-omicron-outbreak",
   "2022-01-18-beijing-winter-olympics-app-vulnerability",
   "2022-02-04-beijing-winter-olympics",
   "2022-03-04-beijing-2022-paralympics-opening",
   "2022-04-25-beijing-chaoyang-mass-testing",
+  "2022-12-30-jingtang-intercity-opening",
   "2023-03-16-ernie-bot",
   "2026-04-24-beijing-autoshow",
   "2023-03-10-saudi-iran-deal",
@@ -338,9 +349,9 @@
   "2026-07-02-global-digital-economy-summit-beijing"
  ],
  "1201": [
-  "1995-05-14-tianjin-wttc-cn-sweep",
   "1980-01-01-first-color-tv-production-line",
   "1984-05-04-dalian-coastal-open-city",
+  "1995-05-14-tianjin-wttc-cn-sweep",
   "2014-02-26-jingjinji-coordination",
   "1993-09-25-jingjintang-expressway-open",
   "1994-12-12-shanghai-metro-line1-open",
@@ -389,6 +400,7 @@
   "2009-01-01-gandong-china-2008",
   "2021-09-10-cities-price-limit-orders",
   "2022-06-10-tangshan-incident",
+  "2022-12-30-jingtang-intercity-opening",
   "2026-07-28-tangshan-earthquake-50th-anniversary"
  ],
  "1303": [
@@ -414,13 +426,15 @@
   "2019-12-30-jing-zhang-hsr",
   "2015-07-31-beijing-zhangjiakou-olympic-bid-win",
   "2016-01-01-chongli-district-established",
-  "2019-12-30-zhanghu-hsr-full-line"
+  "2019-12-30-zhanghu-hsr-full-line",
+  "2019-12-30-datong-zhangjiakou-hsr"
  ],
  "1308": [
   "1982-02-08-national-historic-cities",
   "1994-12-01-chengde-summer-resort-heritage",
   "2005-05-19-nuanerhegasexplosion",
-  "2018-12-29-beijing-shenyang-hsr-shenyang-chengde"
+  "2018-12-29-beijing-shenyang-hsr-shenyang-chengde",
+  "2021-01-22-jingha-hsr-full-opening"
  ],
  "1309": [
   "1987-10-01-wuqiao-acrobatics-festival-first",
@@ -428,6 +442,9 @@
  ],
  "130928": [
   "1987-10-01-wuqiao-acrobatics-festival-first"
+ ],
+ "1310": [
+  "2022-12-30-jingtang-intercity-opening"
  ],
  "131082": [
   "2024-03-13-yanjiao-gas-explosion"
@@ -445,13 +462,20 @@
   "2014-07-01-datong-xian-hsr-open",
   "2016-09-01-gaofen-10-launch-failure",
   "2020-12-12-taijiao-hsr-open",
-  "2020-12-26-taiyuan-metro-line2"
+  "2020-12-26-taiyuan-metro-line2",
+  "2024-12-31-jidayuan-high-speed-railway"
+ ],
+ "1402": [
+  "2019-12-30-datong-zhangjiakou-hsr"
  ],
  "140226": [
   "2004-12-17-zuoyungou-mine-fire"
  ],
  "1403": [
   "2012-08-19-baidu-yangquan-cloud-center"
+ ],
+ "1404": [
+  "2020-01-01-baquanxia-5a-designated"
  ],
  "1405": [
   "2020-12-12-taijiao-hsr-open"
@@ -465,6 +489,12 @@
  ],
  "1408": [
   "2020-09-01-yuncheng-salt-lake-stop"
+ ],
+ "1409": [
+  "2017-01-01-yanmenguan-5a"
+ ],
+ "140923": [
+  "2017-01-01-yanmenguan-5a"
  ],
  "1410": [
   "2007-12-05-xinyao-mine-gas-explosion",
@@ -482,6 +512,7 @@
   "2010-08-13-baotou-mandula-rail-accident",
   "2019-12-29-hohhot-metro-line1",
   "2019-12-30-zhanghu-hsr-full-line",
+  "2024-12-31-jidayuan-high-speed-railway",
   "2025-07-28-child-subsidy"
  ],
  "1502": [
@@ -522,17 +553,27 @@
  ],
  "1509": [
   "2016-07-01-wulanchabu-huawei-cloud",
-  "2019-12-30-zhanghu-hsr-full-line"
+  "2019-12-30-zhanghu-hsr-full-line",
+  "2024-12-31-jidayuan-high-speed-railway"
  ],
  "150929": [
   "2020-12-17-change5-sample-return",
   "2020-12-17-chang-e-5-return"
  ],
+ "150981": [
+  "2024-12-31-jidayuan-high-speed-railway"
+ ],
  "1522": [
   "2017-05-05-arxan-global-geopark"
  ],
+ "152201": [
+  "2017-08-08-changbaowu-railway"
+ ],
  "1525": [
   "2011-01-01-grassland-eco-subsidy-xilingol"
+ ],
+ "152501": [
+  "2014-06-09-erlianhot-pilot-zone"
  ],
  "1529": [
   "2023-02-22-alxa-mine",
@@ -558,19 +599,21 @@
   "2018-08-03-first-african-swine-fever",
   "2018-12-29-beijing-shenyang-hsr-shenyang-chengde",
   "2021-01-12-dalian-flash-outage",
+  "2021-01-22-jingha-hsr-full-opening",
   "2021-09-10-cities-price-limit-orders"
  ],
  "210113": [
   "2018-08-03-first-african-swine-fever"
  ],
  "2102": [
-  "2002-05-07-dalian-crash",
   "1984-05-04-dalian-coastal-open-city",
+  "2002-05-07-dalian-crash",
   "1990-09-01-shenda-expressway",
   "1994-09-18-dalian-hyperbaric-chamber-fire",
   "1994-11-01-dalian-wanda-jiaa-champion",
   "1997-11-02-laorong-jinzhou-post",
   "2003-05-01-dalian-rapid-transit-line3",
+  "2004-02-13-wudalianchi-geopark",
   "2007-09-06-summer-davos-dalian",
   "2007-09-24-yangpu-bonded-port-area-approved",
   "2009-07-01-liaoning-coastal-economic-belt",
@@ -578,6 +621,7 @@
   "2012-12-01-harbin-dalian-hsr-open",
   "2013-07-28-dalian-landslide",
   "2014-06-23-dalian-jinpu-new-area",
+  "2015-12-17-dandong-dalian-fast-railway",
   "2017-04-26-first-domestic-carrier-launched",
   "2018-08-06-dalian-sea-cucumber-heat-deaths",
   "2021-01-12-dalian-flash-outage",
@@ -588,8 +632,18 @@
   "1987-04-01-yellow-river-rafting",
   "2010-01-12-wanjiang-industry-transfer-zone"
  ],
+ "2104": [
+  "2019-06-01-fushun-west-openpit-mine-closed"
+ ],
+ "2105": [
+  "2021-08-20-ansteel-bengang-merger"
+ ],
  "2106": [
-  "2009-07-01-liaoning-coastal-economic-belt"
+  "2009-07-01-liaoning-coastal-economic-belt",
+  "2015-12-17-dandong-dalian-fast-railway"
+ ],
+ "210681": [
+  "2015-12-17-dandong-dalian-fast-railway"
  ],
  "2107": [
   "1992-08-05-jinzhou-20-2-gasfield",
@@ -605,8 +659,17 @@
  "2109": [
   "2005-02-14-sunjiawan-mine"
  ],
+ "2110": [
+  "1973-09-01-liaoyang-petrochemical-fiber-plant"
+ ],
  "2111": [
   "2009-07-01-liaoning-coastal-economic-belt"
+ ],
+ "2112": [
+  "2021-01-22-jingha-hsr-full-opening"
+ ],
+ "2113": [
+  "2021-10-18-niuheliang-top100-archaeology"
  ],
  "2114": [
   "2009-07-01-liaoning-coastal-economic-belt",
@@ -626,6 +689,7 @@
   "2003-10-01-changying-century-city-open",
   "2007-01-28-changchun-asian-winter-games",
   "2009-08-30-changjitu-pilot-zone",
+  "2017-08-08-changbaowu-railway",
   "2018-05-28-songyuan-earthquake",
   "2018-07-15-vaccine-scandal",
   "2021-12-24-dunbai-high-speed-rail"
@@ -659,24 +723,29 @@
  ],
  "2206": [
   "2002-07-30-nongfu-jingyu-plant",
+  "2013-12-01-wudaogou-wetland-pilot",
   "2021-12-24-dunbai-high-speed-rail"
  ],
  "220622": [
   "2002-07-30-nongfu-jingyu-plant"
  ],
+ "220681": [
+  "2013-12-01-wudaogou-wetland-pilot"
+ ],
  "2207": [
   "2018-05-28-songyuan-earthquake"
  ],
  "2208": [
-  "2015-04-01-baicheng-sponge-city-pilot"
+  "2015-04-01-baicheng-sponge-city-pilot",
+  "2017-08-08-changbaowu-railway"
  ],
  "2224": [
   "2021-12-24-dunbai-high-speed-rail"
  ],
  "2301": [
+  "1985-01-01-harbin-ice-festival-first",
   "1996-02-04-harbin-asian-winter-1996",
   "2025-02-07-harbin-asian-winter-games",
-  "1985-01-01-harbin-ice-festival-first",
   "1987-03-15-harbin-linen-factory-explosion",
   "1995-10-23-yilan-erkuang-water-inrush",
   "2010-08-24-henan-8387-yichun",
@@ -685,6 +754,7 @@
   "1997-12-11-harbin-huifeng-hotel-fire",
   "1999-12-01-harbin-ice-snow-world-first",
   "2005-11-13-songhua-pollution",
+  "2008-06-18-mohe-ancient-lian-airport",
   "2009-02-18-harbin-universiade-winter",
   "2012-12-01-harbin-dalian-hsr-open",
   "2013-09-26-harbin-metro-line1",
@@ -694,9 +764,13 @@
   "2018-08-25-harbin-beilong-hotel-fire",
   "2018-12-16-beidahuang-group-founded",
   "2018-12-25-harbin-mudanjiang-hsr",
+  "2021-01-22-jingha-hsr-full-opening",
   "2021-06-25-dragon-man-skull",
   "2024-01-01-harbin-ice-city",
   "2024-01-05-harbin-ice-festival"
+ ],
+ "230184": [
+  "2003-05-10-wuchang-rice-gi"
  ],
  "2302": [
   "1979-01-01-zhalong-nature-reserve",
@@ -717,7 +791,8 @@
  ],
  "2306": [
   "1976-01-01-daqing-50-million-tons",
-  "1988-01-01-tiananmen-gate-open-tourists"
+  "1988-01-01-tiananmen-gate-open-tourists",
+  "2024-03-04-suida-expressway-opening"
  ],
  "2307": [
   "2010-08-24-henan-8387-yichun",
@@ -731,6 +806,7 @@
  ],
  "2310": [
   "2006-01-01-jingpo-lake-geopark",
+  "2015-12-01-dongning-county-to-city",
   "2016-01-02-linkou-deep-earthquake",
   "2018-12-25-harbin-mudanjiang-hsr"
  ],
@@ -740,11 +816,29 @@
  "231084": [
   "2005-06-10-shalan-town-flash-flood"
  ],
+ "231086": [
+  "2015-12-01-dongning-county-to-city"
+ ],
  "2311": [
   "2014-04-13-k7034-train-derailment-hailun",
   "2022-06-10-heihe-blagoveshchensk-bridge"
  ],
+ "231182": [
+  "2004-02-13-wudalianchi-geopark"
+ ],
+ "2312": [
+  "2024-03-04-suida-expressway-opening"
+ ],
+ "2327": [
+  "2008-06-18-mohe-ancient-lian-airport"
+ ],
  "3101": [
+  "1978-12-23-baosteel-construction-start",
+  "1979-01-01-cihai-1979-edition",
+  "1979-01-28-first-tv-commercial",
+  "1980-09-26-y10-first-flight",
+  "1984-05-04-dalian-coastal-open-city",
+  "1984-11-20-first-antarctic-expedition-departs",
   "2010-11-15-shanghai-fire",
   "2014-12-31-shanghai-stampede",
   "1987-12-11-empire-of-the-sun",
@@ -752,12 +846,6 @@
   "2004-10-14-first-nba-china-games",
   "2007-09-30-womens-world-cup-china",
   "2011-07-31-sun-yang-1500-wr-shanghai",
-  "1978-12-23-baosteel-construction-start",
-  "1979-01-01-cihai-1979-edition",
-  "1979-01-28-first-tv-commercial",
-  "1980-09-26-y10-first-flight",
-  "1984-05-04-dalian-coastal-open-city",
-  "1984-11-20-first-antarctic-expedition-departs",
   "2021-07-16-national-carbon-market",
   "2017-05-01-pechoin-1931-longform",
   "2001-08-18-wenzhou-house-tour",
@@ -914,6 +1002,7 @@
   "2009-11-04-shanghai-disneyland-approved",
   "2009-11-16-dwelling-narrowness-broadcast",
   "2014-03-12-uber-enters-china",
+  "2010-01-21-chint-electric-ipo",
   "2010-02-09-china-first-heavy-listing",
   "2010-04-30-shanghai-expo-2010-opening",
   "2010-05-01-shanghai-expo",
@@ -935,7 +1024,9 @@
   "2017-01-10-hefei-national-science-center",
   "2017-02-15-baiyin-nonferrous-ipo",
   "2017-05-05-c919-maiden-flight",
+  "2017-10-12-hengdian-film-ipo",
   "2017-12-13-google-ai-china-center",
+  "2017-12-28-huaixiao-link-railway",
   "2018-07-22-tropical-storm-ampil-shanghai-landfall",
   "2018-09-09-baidu-hospital-ads-apology",
   "2018-11-05-first-ciie",
@@ -967,12 +1058,12 @@
   "2026-07-17-2026-waic-shanghai"
  ],
  "3201": [
+  "1982-02-08-national-historic-cities",
+  "1983-10-04-jinling-hotel-opening",
   "2009-04-22-city-of-life-and-death",
   "2025-07-25-nanjing-photo-studio",
   "2013-11-06-nanjing-museum-reopening",
   "2014-08-16-nanjing-youth-olympics",
-  "1982-02-08-national-historic-cities",
-  "1983-10-04-jinling-hotel-opening",
   "1989-01-02-nanjing-barge-explosion-fire",
   "1991-03-06-national-hi-tech-zones",
   "1992-07-31-cga-7552-nanjing",
@@ -995,6 +1086,7 @@
   "2011-10-05-nanjing-steel-molten-iron-accident",
   "2011-10-13-forbes-2011-best-business-cities",
   "2014-02-27-memorial-day-decision",
+  "2023-06-28-chuning-intercity-chuzhou-section",
   "2025-02-15-nanjing-survivor-yilanying-died",
   "2025-05-10-su-chao"
  ],
@@ -1015,13 +1107,14 @@
  ],
  "3204": [
   "2015-07-01-li-auto-founding-2015",
-  "2019-12-01-li-one-delivery-2019"
+  "2019-12-01-li-one-delivery-2019",
+  "2012-11-25-taizhou-yangtze-bridge-opening"
  ],
  "3205": [
+  "1982-02-08-national-historic-cities",
   "2020-08-21-the-eight-hundred",
   "2006-10-06-suzhou-museum",
   "2013-12-11-go-six-crowns-2013",
-  "1982-02-08-national-historic-cities",
   "1994-02-01-suzhou-industrial-park",
   "1994-10-25-suzhou-taihu-bridge-open",
   "2016-06-08-crb-brand-unified",
@@ -1039,7 +1132,12 @@
   "1970-01-05-tonghai-earthquake"
  ],
  "3207": [
-  "1990-09-12-second-eurasian-landbridge-joined"
+  "1990-09-12-second-eurasian-landbridge-joined",
+  "2020-12-11-lianzhen-hsr-full-opening"
+ ],
+ "3208": [
+  "2020-12-11-wufengshan-yangtze-bridge",
+  "2020-12-11-lianzhen-hsr-full-opening"
  ],
  "3209": [
   "2019-03-21-xiangshui-explosion",
@@ -1050,19 +1148,36 @@
  "320923": [
   "2012-06-23-funing-tornado-disaster"
  ],
+ "320981": [
+  "2019-07-05-tiaozini-world-heritage"
+ ],
  "3210": [
   "1980-04-14-jianzhen-statue-return-tour",
   "1982-02-08-national-historic-cities",
   "2019-12-26-yangzhou-university-tuberculosis",
   "2021-06-16-yangzhou-canal-museum"
  ],
+ "3211": [
+  "2012-11-25-taizhou-yangtze-bridge-opening",
+  "2020-12-11-wufengshan-yangtze-bridge",
+  "2020-12-11-lianzhen-hsr-full-opening"
+ ],
+ "321181": [
+  "2008-04-18-yuyue-medical-ipo"
+ ],
+ "3212": [
+  "2012-11-25-taizhou-yangtze-bridge-opening"
+ ],
  "3213": [
   "1998-06-18-jd-founded"
  ],
+ "321324": [
+  "2006-05-20-suzhou-sizhou-opera-national-heritage"
+ ],
  "3301": [
-  "2023-10-02-hangzhou-esports-four-golds",
   "1981-05-23-first-golden-rooster-awards",
   "1982-02-08-national-historic-cities",
+  "2023-10-02-hangzhou-esports-four-golds",
   "1993-08-01-sto-express-founding",
   "2020-04-01-fengchao-fee-controversy",
   "2016-10-31-jnby-ipo",
@@ -1092,12 +1207,15 @@
   "2009-07-22-total-solar-eclipse",
   "2011-06-24-west-lake-unesco",
   "2011-10-13-forbes-2011-best-business-cities",
+  "2014-12-10-yingtan-hangchang-hsr-opening",
   "2015-03-07-hangzhou-cross-border-ecommerce-zone",
   "2016-09-04-g20-hangzhou",
   "2017-08-18-hangzhou-internet-court",
   "2017-09-01-zhijiang-lab-founded",
+  "2017-12-28-huaixiao-link-railway",
   "2018-05-15-hangzhou-smart-classroom-system",
   "2020-02-11-healthcode-launch",
+  "2020-06-28-shanghangzhou-hsr-xuancheng",
   "2023-09-23-asian-games-esports",
   "2023-06-15-2022-asian-games-flame-liangzhu",
   "2023-09-08-hangzhou-asian-games-torch-relay",
@@ -1120,8 +1238,8 @@
   "1989-07-20-typhoon-no9-landslde-zhejiang"
  ],
  "3303": [
-  "1999-02-24-wenzhou-crash",
   "1980-12-11-wenzhou-first-individual-license",
+  "1999-02-24-wenzhou-crash",
   "2001-08-18-wenzhou-house-tour",
   "1994-04-01-metersbonwe-founded",
   "1987-06-01-tve-rise",
@@ -1130,11 +1248,15 @@
   "2011-07-23-wenzhou-train-crash",
   "2017-06-26-fuxing-hao-debut"
  ],
+ "330382": [
+  "2010-01-21-chint-electric-ipo"
+ ],
  "3304": [
   "2008-05-01-hangzhou-bay-bridge-open"
  ],
  "3305": [
-  "2024-12-26-hu-su-hu-hsr"
+  "2024-12-26-hu-su-hu-hsr",
+  "2020-06-28-shanghangzhou-hsr-xuancheng"
  ],
  "3306": [
   "1982-02-08-national-historic-cities"
@@ -1145,6 +1267,12 @@
  "330782": [
   "2008-02-15-yiwu-hotel-fire"
  ],
+ "330783": [
+  "2017-10-12-hengdian-film-ipo"
+ ],
+ "3308": [
+  "2020-09-27-quning-railway-opening"
+ ],
  "330822": [
   "1999-05-05-changshan-traffic-accident"
  ],
@@ -1154,10 +1282,14 @@
   "2026-03-10-haiyang-shiyou-696"
  ],
  "3310": [
+  "2001-06-25-taizhou-city-wall",
   "2017-02-05-tiantai-footbath-fire"
  ],
  "331023": [
   "2017-02-05-tiantai-footbath-fire"
+ ],
+ "331082": [
+  "2001-06-25-taizhou-city-wall"
  ],
  "3311": [
   "2021-06-05-xu-ruihang-chinese-average-record",
@@ -1173,10 +1305,15 @@
   "1999-01-01-iflytek-founded",
   "2009-07-22-total-solar-eclipse",
   "2010-01-12-wanjiang-industry-transfer-zone",
+  "2012-10-16-hebang-hsr-opening",
   "2013-05-30-hefei-xinqiao-airport",
+  "2015-06-28-shangrao-hefu-hsr-opening",
   "2016-05-01-cxmt-founded",
   "2016-12-26-hefei-metro-line1",
   "2017-01-10-hefei-national-science-center",
+  "2019-12-01-bozhou-shanghehang-north-opening",
+  "2020-06-28-shanghangzhou-hsr-xuancheng",
+  "2021-12-30-anjiu-hsr-opening",
   "2023-04-12-east-403s-hmode-record",
   "2025-01-20-east-thousand-second-record"
  ],
@@ -1188,6 +1325,10 @@
   "2018-11-24-du-yusheng-347",
   "2010-01-12-wanjiang-industry-transfer-zone"
  ],
+ "3403": [
+  "2006-05-20-suzhou-sizhou-opera-national-heritage",
+  "2012-10-16-hebang-hsr-opening"
+ ],
  "3404": [
   "1995-06-23-huainan-xieyi-gas-explosion"
  ],
@@ -1195,8 +1336,14 @@
   "1987-04-01-yellow-river-rafting",
   "2010-01-12-wanjiang-industry-transfer-zone"
  ],
+ "3406": [
+  "2017-12-28-huaixiao-link-railway"
+ ],
  "3407": [
   "2010-01-12-wanjiang-industry-transfer-zone"
+ ],
+ "3408": [
+  "2021-12-30-anjiu-hsr-opening"
  ],
  "3410": [
   "1982-11-08-first-national-scenic-areas",
@@ -1206,18 +1353,35 @@
  "341023": [
   "2000-11-30-xidi-hongcun-world-heritage"
  ],
+ "3411": [
+  "2023-06-28-chuning-intercity-chuzhou-section"
+ ],
  "3412": [
   "2004-05-01-fuyang-milk-powder",
-  "2018-06-28-yingshang-tanker-crash-fire"
+  "2018-06-28-yingshang-tanker-crash-fire",
+  "2019-12-01-bozhou-shanghehang-north-opening",
+  "2019-12-01-zhoukou-zhengfu-hsr-opening"
  ],
  "341226": [
   "2018-06-28-yingshang-tanker-crash-fire"
  ],
+ "3413": [
+  "2006-05-20-suzhou-sizhou-opera-national-heritage"
+ ],
+ "341322": [
+  "2017-12-28-huaixiao-link-railway"
+ ],
  "3415": [
   "2025-09-28-huajiang-bridge"
  ],
+ "3416": [
+  "2019-12-01-bozhou-shanghehang-north-opening"
+ ],
  "3417": [
   "2010-07-13-chizhou-flash-flood"
+ ],
+ "3418": [
+  "2020-06-28-shanghangzhou-hsr-xuancheng"
  ],
  "3501": [
   "1982-02-08-national-historic-cities",
@@ -1227,14 +1391,15 @@
   "2013-12-28-xia-shen-railway",
   "2018-04-22-e-social-security-card",
   "2010-04-26-fuzhou-xiamen-railway-open",
+  "2015-06-28-shangrao-hefu-hsr-opening",
   "2016-05-18-fuzhou-metro-line1",
   "2017-01-09-fuzhou-metro-line1",
   "2023-09-28-fuxia-cross-sea-hsr"
  ],
  "3502": [
-  "2016-09-15-typhoon-meranti",
   "1980-10-07-xiamen-sez-approved",
   "1984-07-25-xiamenair-founded",
+  "2016-09-15-typhoon-meranti",
   "1991-12-19-xiamen-bridge-open",
   "1990-10-02-guangzhou-baiyun-hijack",
   "1992-07-31-cga-7552-nanjing",
@@ -1248,7 +1413,11 @@
   "2023-09-28-fuxia-cross-sea-hsr"
  ],
  "3503": [
+  "2013-09-26-xiangpu-railway-opening",
   "2023-09-28-fuxia-cross-sea-hsr"
+ ],
+ "3504": [
+  "2021-10-08-sanming-medical-reform"
  ],
  "3505": [
   "1982-02-08-national-historic-cities",
@@ -1264,12 +1433,14 @@
   "2023-09-28-fuxia-cross-sea-hsr"
  ],
  "3507": [
-  "2009-09-08-pingdingshan-gas-explosion"
+  "2009-09-08-pingdingshan-gas-explosion",
+  "2015-12-28-npm-southern-branch-opening"
  ],
  "3508": [
   "2023-05-07-longyan-bridge-collapse"
  ],
  "3509": [
+  "2020-09-27-quning-railway-opening",
   "2021-10-27-2021-hurun-china-rich-list"
  ],
  "350921": [
@@ -1279,25 +1450,59 @@
   "2016-03-02-haihunhou-identified",
   "1989-10-08-tengwang-pavilion-rebuilt",
   "2001-06-05-jiangxi-kindergarten-fire",
+  "2013-09-26-xiangpu-railway-opening",
+  "2014-12-10-yingtan-hangchang-hsr-opening",
   "2015-12-26-nanchang-metro-line1",
   "2016-06-06-ganjiang-new-area",
   "2017-02-25-nanchang-changtianxia-ktv-fire",
-  "2018-03-04-changbei-airport-collapse"
+  "2018-03-04-changbei-airport-collapse",
+  "2019-12-26-changgang-high-speed-railway",
+  "2021-12-30-anjiu-hsr-opening"
  ],
  "3602": [
   "1982-02-08-national-historic-cities",
   "2019-08-26-jingdezhen-ceramic-pilot-zone"
  ],
+ "360281": [
+  "2014-11-11-leping-guxitai-ich"
+ ],
+ "3603": [
+  "2020-01-01-wugongshan-5a"
+ ],
  "3604": [
   "1998-08-07-1998-flood",
   "2005-11-26-jiurui-earthquake-5-7",
-  "2016-06-06-ganjiang-new-area"
+  "2016-06-06-ganjiang-new-area",
+  "2021-12-30-anjiu-hsr-opening"
  ],
  "3605": [
   "2024-01-24-xinyu-fire"
  ],
+ "3606": [
+  "2014-12-10-yingtan-hangchang-hsr-opening"
+ ],
  "3607": [
+  "2019-12-26-changgang-high-speed-railway",
   "2021-12-10-ganshen-high-speed-rail"
+ ],
+ "3608": [
+  "2017-02-26-jinggangshan-poverty-exit"
+ ],
+ "360881": [
+  "2017-02-26-jinggangshan-poverty-exit"
+ ],
+ "3609": [
+  "2013-06-27-yichun-mingyueshan-airport"
+ ],
+ "360981": [
+  "2019-12-26-changgang-high-speed-railway"
+ ],
+ "3610": [
+  "2013-09-26-xiangpu-railway-opening"
+ ],
+ "3611": [
+  "2014-12-10-yingtan-hangchang-hsr-opening",
+  "2015-06-28-shangrao-hefu-hsr-opening"
  ],
  "3701": [
   "2013-11-01-hstyle-double11-champion",
@@ -1307,6 +1512,8 @@
   "2007-07-18-jinan-rainstorm",
   "2019-01-01-jinan-leiwu-redivision",
   "2019-01-01-jinan-metro-line1",
+  "2021-12-26-rilan-hsr-quzhuang-section",
+  "2023-12-08-jizheng-hsr-full-opening",
   "2025-07-28-child-subsidy"
  ],
  "3702": [
@@ -1320,6 +1527,7 @@
   "2003-11-19-foreign-banks-rmb-business",
   "2007-01-01-gandong-china-2006",
   "2011-06-30-jiaozhou-bay-bridge-tunnel",
+  "2014-12-28-weihai-qingrong-intercity-opening",
   "2015-12-16-qingdao-metro-line3-north",
   "2017-05-11-qingdao-port-automated-terminal",
   "2021-08-12-qingdao-jiaodong-airport-open"
@@ -1327,11 +1535,18 @@
  "3703": [
   "2023-03-01-zibo-bbq"
  ],
+ "3704": [
+  "2013-08-05-taierzhuang-ancient-city-restored"
+ ],
+ "3705": [
+  "2020-01-07-dongying-huanghekou-5a"
+ ],
  "3706": [
   "1999-11-24-dashun-ro-ro-sank",
   "2021-01-10-hushan-gold-mine",
   "2005-07-18-spring-airlines-first-flight",
-  "2017-08-21-zhongchong-ipo"
+  "2017-08-21-zhongchong-ipo",
+  "2014-12-28-weihai-qingrong-intercity-opening"
  ],
  "370685": [
   "2010-08-06-zhaoyuan-gold-mine-fire"
@@ -1342,6 +1557,9 @@
  "370782": [
   "2008-12-30-zhucheng-dinosaur-fossil-site"
  ],
+ "3708": [
+  "2023-12-28-jining-da-an-airport"
+ ],
  "3709": [
   "2024-09-03-dongping-school-bus-accident"
  ],
@@ -1350,6 +1568,12 @@
  ],
  "370982": [
   "2011-11-19-xintai-chemical-explosion"
+ ],
+ "3710": [
+  "2014-12-28-weihai-qingrong-intercity-opening"
+ ],
+ "371083": [
+  "2023-12-01-lairong-high-speed-railway"
  ],
  "3711": [
   "2009-08-16-zhai-mo-circumnavigation",
@@ -1370,6 +1594,21 @@
  "371426": [
   "2023-08-06-dezhou-pingyuan-earthquake"
  ],
+ "371481": [
+  "2007-11-09-taishan-sports-olympic"
+ ],
+ "3715": [
+  "2023-12-08-jizheng-hsr-full-opening"
+ ],
+ "371581": [
+  "2008-06-01-linqing-gongzhuan-ich"
+ ],
+ "3716": [
+  "2011-03-24-china-hongqiao-hk-ipo"
+ ],
+ "3717": [
+  "2021-12-26-rilan-hsr-quzhuang-section"
+ ],
  "371721": [
   "2024-02-01-caoxian-mamianqun"
  ],
@@ -1385,26 +1624,31 @@
   "2016-06-08-crb-brand-unified",
   "2016-09-10-zheng-xu-hsr",
   "2022-06-20-zheng-yu-hsr-full",
+  "2010-02-06-zhengxi-hsr-opening",
   "2010-08-02-foxconn-zhengzhou-iphone-line",
   "2013-03-07-zhengzhou-airport-economic-zone",
   "2014-01-27-hami-zhengzhou-uhv-operated",
   "2017-04-01-henan-ftz-launch",
   "2018-08-24-didi-ride-hailing-case",
+  "2018-10-28-xinyang-minggang-airport",
+  "2019-12-01-zhoukou-zhengfu-hsr-opening",
   "2020-05-07-shuanghuaishu-site",
   "2020-12-12-taijiao-hsr-open",
   "2021-07-20-henan-flood",
-  "2022-05-03-zhengzhou-covid-lockdown"
+  "2022-05-03-zhengzhou-covid-lockdown",
+  "2022-06-20-xinxiang-jizheng-hsr-puyang-section"
  ],
  "410173": [
   "2013-03-07-zhengzhou-airport-economic-zone"
  ],
  "4102": [
   "1982-02-08-national-historic-cities",
-  "2017-04-01-henan-ftz-launch"
+  "2017-04-01-henan-ftz-launch",
+  "2019-12-01-zhoukou-zhengfu-hsr-opening"
  ],
  "4103": [
-  "2000-12-25-luoyang-fire",
   "1982-02-08-national-historic-cities",
+  "2000-12-25-luoyang-fire",
   "2020-12-01-henan-museum-archaeology-blindbox",
   "2010-02-06-zhengxi-hsr-open",
   "2000-11-30-longmen-grottoes-world-heritage",
@@ -1418,9 +1662,9 @@
   "2009-09-08-pingdingshan-gas-explosion"
  ],
  "4105": [
+  "1976-05-16-fuhao-tomb-discovered",
   "2022-11-21-anyang-factory-fire",
   "2024-02-26-yinxu-museum",
-  "1976-05-16-fuhao-tomb-discovered",
   "2009-12-27-cao-cao-tomb",
   "2018-03-25-caocao-tomb-remains-identified"
  ],
@@ -1428,24 +1672,40 @@
   "2009-12-27-cao-cao-tomb",
   "2018-03-25-caocao-tomb-remains-identified"
  ],
+ "4106": [
+  "1994-01-04-xunxian-historic-city"
+ ],
+ "410621": [
+  "1994-01-04-xunxian-historic-city"
+ ],
+ "4107": [
+  "2022-06-20-xinxiang-jizheng-hsr-puyang-section"
+ ],
  "4108": [
   "2000-03-29-jiaozuo-club-fire",
   "2020-12-12-taijiao-hsr-open"
  ],
  "4109": [
-  "2017-03-22-puyang-school-stampede"
+  "2017-03-22-puyang-school-stampede",
+  "2022-06-20-xinxiang-jizheng-hsr-puyang-section",
+  "2023-12-08-jizheng-hsr-full-opening"
  ],
  "410928": [
   "2017-03-22-puyang-school-stampede"
  ],
  "4110": [
-  "2008-01-22-xuchang-skull-fossil"
+  "2008-01-22-xuchang-skull-fossil",
+  "2019-12-01-zhoukou-zhengfu-hsr-opening"
  ],
  "4111": [
   "2013-09-26-shuanghui-smithfield-deal-closing"
  ],
  "4112": [
-  "2013-02-01-yichang-bridge-explosion-collapse"
+  "2013-02-01-yichang-bridge-explosion-collapse",
+  "2021-10-18-niuheliang-top100-archaeology"
+ ],
+ "411281": [
+  "2001-06-25-hongqing-temple-grottoes"
  ],
  "4113": [
   "1983-08-01-wubi-input-method-debut",
@@ -1453,10 +1713,18 @@
   "2009-01-06-uhv-transmission"
  ],
  "4114": [
-  "2021-06-25-zhecheng-martial-arts-fire"
+  "2021-06-25-zhecheng-martial-arts-fire",
+  "2019-12-01-bozhou-shanghehang-north-opening",
+  "2020-06-28-shanghangzhou-hsr-xuancheng"
  ],
  "411424": [
   "2021-06-25-zhecheng-martial-arts-fire"
+ ],
+ "4115": [
+  "2018-10-28-xinyang-minggang-airport"
+ ],
+ "4116": [
+  "2019-12-01-zhoukou-zhengfu-hsr-opening"
  ],
  "4117": [
   "1975-08-08-banqiao-dam-collapse",
@@ -1488,7 +1756,9 @@
   "2008-12-28-wuhan-yangtze-road-tunnel",
   "2009-07-22-total-solar-eclipse",
   "2009-12-26-wuguang-hsr",
+  "2013-12-28-wuxian-intercity-railway",
   "2016-07-26-ymte-founding",
+  "2018-10-28-xinyang-minggang-airport",
   "2019-10-18-wuhan-military-games",
   "2019-11-29-hanshi-high-speed-rail-open",
   "2020-01-02-wuhan-pneumonia-rumor-case",
@@ -1509,8 +1779,12 @@
   "2019-11-29-hanshi-high-speed-rail-open",
   "2021-06-13-shiyan-gas-explosion"
  ],
+ "420381": [
+  "2012-01-01-danjiangkou-resettlement"
+ ],
  "4205": [
   "1994-12-14-three-gorges-start",
+  "2010-12-22-enshi-yiwan-railway-opening",
   "2026-06-08-sanxia-new-channel"
  ],
  "4206": [
@@ -1533,14 +1807,23 @@
   "2009-10-24-human-ladder-rescue",
   "2015-07-29-jingzhou-escalator-accident-report"
  ],
+ "4211": [
+  "2022-04-22-huanghuang-hsr-opening"
+ ],
+ "4212": [
+  "2013-12-28-wuxian-intercity-railway"
+ ],
  "4213": [
   "1978-05-01-zenghouyi-bells",
   "2019-11-29-hanshi-high-speed-rail-open"
  ],
+ "4228": [
+  "2010-12-22-enshi-yiwan-railway-opening"
+ ],
  "4301": [
+  "1973-12-01-mawangdui-silk-manuscripts",
   "2022-04-29-changsha-collapse",
   "1972-01-16-mawangdui-tomb",
-  "1973-12-01-mawangdui-silk-manuscripts",
   "1992-01-01-want-want-hunan-factory",
   "2020-12-01-chayan-yuese-wuhan-first",
   "2021-12-10-zhang-ji-huai-hsr",
@@ -1553,7 +1836,8 @@
   "2016-05-06-changsha-maglev-express",
   "2017-07-01-g7-desert-expressway",
   "2021-02-06-huolala-case",
-  "2021-05-22-yuan-longping-died"
+  "2021-05-22-yuan-longping-died",
+  "2022-09-06-changyichang-hsr-yiyang"
  ],
  "4302": [
   "1972-10-01-xiangqian-railway-open",
@@ -1584,6 +1868,9 @@
  "430623": [
   "2024-07-05-huarong-dike-breach"
  ],
+ "430682": [
+  "2024-01-01-linxiang-float-industry"
+ ],
  "4307": [
   "1998-03-31-sanzhu-changde-verdict"
  ],
@@ -1596,8 +1883,20 @@
  "430821": [
   "2016-08-20-zhangjiajie-glass-bridge"
  ],
+ "4309": [
+  "2022-09-06-changyichang-hsr-yiyang"
+ ],
  "430922": [
   "1997-02-23-taohuajiang-bus-accident"
+ ],
+ "4310": [
+  "2021-09-16-chenzhou-beihu-airport-opening"
+ ],
+ "4311": [
+  "2006-05-01-nvshu-national-heritage-list"
+ ],
+ "431125": [
+  "2006-05-01-nvshu-national-heritage-list"
  ],
  "4312": [
   "2018-12-26-huai-shao-high-speed",
@@ -1615,12 +1914,12 @@
   "2013-11-03-precision-poverty"
  ],
  "4401": [
+  "1982-02-08-national-historic-cities",
+  "1983-02-06-white-swan-hotel-opening",
   "2013-11-09-guangzhou-evergrande-acl",
   "2014-08-16-nanjing-youth-olympics",
   "2015-11-21-evergrande-second-acl",
   "2025-11-09-15th-national-games",
-  "1982-02-08-national-historic-cities",
-  "1983-02-06-white-swan-hotel-opening",
   "1984-02-11-southern-weekly-founded",
   "2010-09-30-canton-tower",
   "1991-11-16-first-womens-world-cup",
@@ -1665,6 +1964,8 @@
   "2011-08-12-shenzhen-universiade-2011",
   "2011-10-13-forbes-2011-best-business-cities",
   "2012-12-26-beijing-guangzhou-hsr",
+  "2014-12-26-nanguang-railway-yunfu",
+  "2014-12-26-guiguang-hsr-hezhou",
   "2015-04-21-guangdong-ftz-launch",
   "2016-01-24-guangzhou-rare-snow-2016",
   "2016-06-03-erlianhaoteguangzhou-bus-accident",
@@ -1673,18 +1974,30 @@
   "2017-07-06-guanghe-expressway-bus-crash",
   "2017-12-28-guangzhou-metro-video-surveillance",
   "2019-02-18-gba-outline",
+  "2020-11-30-guangqing-intercity-opening",
   "2021-12-11-guangzhou-water-emergency",
-  "2023-06-01-citywalk"
+  "2023-06-01-citywalk",
+  "2023-09-26-guangshan-hsr-opening",
+  "2023-12-28-jining-da-an-airport"
+ ],
+ "4402": [
+  "2021-11-27-shaoguan-danxia-airport-opening"
+ ],
+ "440232": [
+  "2021-11-27-shaoguan-danxia-airport-opening"
+ ],
+ "440281": [
+  "2011-10-10-lechangxia-project"
  ],
  "4403": [
-  "1993-11-19-zhili-fire",
-  "1997-05-08-shenzhen-crash",
-  "2015-12-20-shenzhen-landfill-slide",
-  "2025-11-09-15th-national-games",
   "1979-07-08-shekou-industrial-zone-groundbreaking",
   "1980-08-26-shenzhen-sez-established",
   "1980-10-07-xiamen-sez-approved",
   "1983-07-08-baoan-first-stock",
+  "1993-11-19-zhili-fire",
+  "1997-05-08-shenzhen-crash",
+  "2015-12-20-shenzhen-landfill-slide",
+  "2025-11-09-15th-national-games",
   "2019-04-01-zero-waste-city",
   "1991-01-29-vanke-listing",
   "2013-05-28-cainiao-founded",
@@ -1732,11 +2045,13 @@
   "1996-07-17-duanxi-hotel-fire",
   "1998-11-11-tencent-founded",
   "1999-10-05-first-chtf-high-tech",
+  "2000-02-21-yunnan-tin-ipo",
   "2000-08-26-special-economic-zones-20-years",
   "2008-01-01-shanzhai-culture",
   "2005-05-15-nanjing-metro-line1-opening",
   "2006-08-04-mobius-strip-anime",
   "2008-02-27-shenzhen-warehouse-fire-15-dead",
+  "2008-04-18-yuyue-medical-ipo",
   "2008-09-20-shenzhen-club-fire",
   "2010-08-12-letv-ipo",
   "2010-05-01-foxconn-incidents",
@@ -1760,9 +2075,9 @@
   "2024-06-30-shenzhen-zhongshan-link"
  ],
  "4404": [
-  "2024-11-11-zhuhai-attack",
   "1980-08-26-shenzhen-sez-established",
   "1980-10-07-xiamen-sez-approved",
+  "2024-11-11-zhuhai-attack",
   "1991-11-01-gree-founded",
   "1992-01-18-deng-southern-tour",
   "1992-03-09-zhuhai-tech-award",
@@ -1795,6 +2110,7 @@
  "4407": [
   "1991-11-16-first-womens-world-cup",
   "2017-02-01-heytea-shanghai-queue",
+  "2018-07-01-jiangzhan-railway-opening",
   "2019-02-18-gba-outline",
   "2025-08-26-juno-operation"
  ],
@@ -1805,7 +2121,11 @@
  "4408": [
   "2021-08-05-quan-hongchan-perfect-dives",
   "2003-01-24-yue-hai-rail",
-  "2009-04-01-bihai-yinsha-closed"
+  "2009-04-01-bihai-yinsha-closed",
+  "2018-07-01-jiangzhan-railway-opening"
+ ],
+ "4409": [
+  "2018-07-01-jiangzhan-railway-opening"
  ],
  "4412": [
   "2019-02-18-gba-outline"
@@ -1827,16 +2147,23 @@
  "441422": [
   "2024-05-01-meida-collapse"
  ],
+ "4415": [
+  "2023-09-26-guangshan-hsr-opening"
+ ],
  "4416": [
   "2013-06-16-kedarnath-floods",
   "2000-08-19-sanjiangyuan-nature-reserve",
   "2016-04-13-sanjiangyuan-national-park-pilot"
  ],
  "4417": [
+  "2018-07-01-jiangzhan-railway-opening",
   "2022-07-02-fujing-001-sinking"
  ],
  "441721": [
   "1989-07-18-typhoon-landfall-yangxi-1989"
+ ],
+ "4418": [
+  "2020-11-30-guangqing-intercity-opening"
  ],
  "4419": [
   "1978-09-15-taiping-handbag-factory",
@@ -1862,10 +2189,14 @@
  "4452": [
   "2017-07-06-guanghe-expressway-bus-crash"
  ],
+ "4453": [
+  "2014-12-26-nanguang-railway-yunfu"
+ ],
  "4501": [
   "1997-03-18-nan-kun-railway",
   "2004-11-03-first-china-asean-expo-nanning",
   "2008-01-16-beibuwan-economic-zone-plan-approved",
+  "2014-12-26-nanguang-railway-yunfu",
   "2016-10-01-lanshouxianggu",
   "2016-06-28-nanning-metro-line1-open",
   "2019-08-30-guangxi-free-trade-zone-listed"
@@ -1874,6 +2205,7 @@
   "2004-01-27-h5n1-asia-outbreak"
  ],
  "4502": [
+  "2002-12-28-laibin-city-established",
   "2021-06-10-liuzhou-luosifen-ich-listing"
  ],
  "4503": [
@@ -1906,6 +2238,9 @@
   "2008-01-16-beibuwan-economic-zone-plan-approved",
   "2010-07-30-fangchenggang-nuclear-unit-started"
  ],
+ "450681": [
+  "2019-03-19-beilunhe-bridge-ii-opening"
+ ],
  "4507": [
   "2008-01-16-beibuwan-economic-zone-plan-approved",
   "2017-09-01-qinzhou-rail-sea-regular-train",
@@ -1923,6 +2258,15 @@
   "2011-01-01-baise-eco-aluminum-base",
   "2022-02-07-baise-citywide-lockdown"
  ],
+ "4511": [
+  "2014-12-26-guiguang-hsr-hezhou"
+ ],
+ "4512": [
+  "2014-08-28-hechi-airport-opening"
+ ],
+ "4513": [
+  "2002-12-28-laibin-city-established"
+ ],
  "4514": [
   "2019-08-30-guangxi-free-trade-zone-listed"
  ],
@@ -1931,6 +2275,9 @@
   "2015-12-30-hainan-ring-hsr",
   "2008-12-26-gulf-of-aden-escort",
   "2010-08-18-huanghua-port-opening",
+  "2010-12-30-wanning-east-ring-railway",
+  "2015-02-19-danzhou-city-elevated",
+  "2020-01-07-dongying-huanghekou-5a",
   "2020-06-03-hainan-ftp-parks-listed",
   "2021-05-06-hainan-intl-consumer-expo",
   "2023-12-18-hainan-coastal-tourism-road"
@@ -1941,9 +2288,11 @@
   "2015-12-30-hainan-ring-hsr",
   "2008-12-26-gulf-of-aden-escort",
   "2010-07-17-typhoon-conson-hainan-landfall",
+  "2010-12-30-wanning-east-ring-railway",
   "2011-04-20-sanya-duty-free-pilot",
   "2014-01-01-housing-deregulation",
   "2015-01-01-nanfan-breeding-base-plan",
+  "2015-02-19-danzhou-city-elevated",
   "2018-04-28-atlantis-sanya-opening",
   "2018-12-09-hainan-island-film-festival-debut",
   "2020-06-03-hainan-ftp-parks-listed",
@@ -1951,7 +2300,8 @@
   "2025-11-05-fujian-carrier"
  ],
  "4603": [
-  "2012-06-21-sansha-city-established"
+  "2012-06-21-sansha-city-established",
+  "2015-02-19-danzhou-city-elevated"
  ],
  "460321": [
   "2012-06-21-sansha-city-established"
@@ -1959,19 +2309,31 @@
  "460322": [
   "2012-06-21-sansha-city-established"
  ],
+ "4604": [
+  "2015-02-19-danzhou-city-elevated"
+ ],
+ "460400": [
+  "2015-02-19-danzhou-city-elevated"
+ ],
  "469002": [
   "2013-02-28-boao-lecheng-medical-zone"
  ],
  "469005": [
   "2009-09-14-wenchang-launch-site-start"
  ],
+ "469006": [
+  "2010-12-30-wanning-east-ring-railway"
+ ],
+ "469007": [
+  "1976-01-01-datian-deer-reserve"
+ ],
  "5001": [
+  "1982-02-08-national-historic-cities",
+  "1983-02-08-chongqing-reform-pilot",
   "1988-01-18-chongqing-crash",
   "2003-12-23-kaixian-blowout",
   "2018-10-28-chongqing-bus",
   "2006-06-30-crazy-stone",
-  "1982-02-08-national-historic-cities",
-  "1983-02-08-chongqing-reform-pilot",
   "1997-03-14-chongqing-municipality",
   "2010-05-07-liangjiang-new-area",
   "2011-01-28-property-tax-pilot",
@@ -2004,6 +2366,7 @@
   "2017-09-01-qinzhou-rail-sea-regular-train",
   "2017-09-29-lanyu-railway-full-line-opening",
   "2019-08-01-western-land-sea-new-corridor-plan",
+  "2020-12-29-gaozhu-cross-province-new-area",
   "2026-10-21-world-science-forum-chongqing"
  ],
  "500107": [
@@ -2014,18 +2377,19 @@
   "2011-10-17-fufa-coal-mine-gas-explosion"
  ],
  "5101": [
+  "1975-07-01-baocheng-railway-electrified",
+  "1982-02-08-national-historic-cities",
   "1988-01-18-chongqing-crash",
   "2001-02-08-jinsha-site",
   "1994-04-17-jia-a-league-debut",
   "2025-08-07-chengdu-world-games",
-  "1975-07-01-baocheng-railway-electrified",
-  "1982-02-08-national-historic-cities",
   "1995-01-01-huaxi-metropolitan",
   "1986-05-31-sichuan-tower-crane-record",
   "1986-10-14-chengdu-huitong-bank-founded",
   "1987-03-01-chengdu-panda-base",
   "1989-02-07-suining-bus-accident-1989",
   "1991-03-06-national-hi-tech-zones",
+  "1995-04-28-bangda-airport-opening",
   "2015-11-29-arj21-first-delivery",
   "2017-05-14-sichuan-8633",
   "2017-02-04-zhao-lei-chengdu",
@@ -2036,18 +2400,21 @@
   "2019-12-27-chengdu-metro-500km",
   "2021-04-01-xici-hutong-final",
   "2012-02-06-wang-lijun",
+  "2013-07-22-minxian-zhangxian-earthquake",
   "2014-10-02-tianfu-new-area-approval",
   "2016-06-28-arj21-commercial-debut",
   "2017-08-08-jiuzhaigou-earthquake",
   "2017-12-06-xicheng-hsr-open",
   "2018-02-08-fuxing-g89-axle-heat-fault",
+  "2019-02-03-bazhong-enyang-airport",
   "2020-05-28-street-stall-economy",
   "2021-06-27-chengdu-tianfu-airport-open",
   "2024-05-01-lol-lpl",
   "2025-11-09-s15-t1",
   "2023-07-28-chengdu-universiade",
   "2024-05-05-thomas-uber-cup-chengdu",
-  "2024-09-24-shang-juncheng-atp-title"
+  "2024-09-24-shang-juncheng-atp-title",
+  "2024-09-29-ziyang-metro-line-opening"
  ],
  "510185": [
   "1996-06-29-jianyang-fireworks-explosion"
@@ -2068,6 +2435,9 @@
  "510521": [
   "2021-09-16-luxian-earthquake"
  ],
+ "510524": [
+  "2020-02-18-wanyuan-poverty-exit"
+ ],
  "5106": [
   "1995-12-09-deyang-building-collapse",
   "1998-08-08-geely-haoqing-offline-1998"
@@ -2086,10 +2456,19 @@
  "5109": [
   "1989-02-07-suining-bus-accident-1989"
  ],
+ "5110": [
+  "2015-12-26-chengyu-hsr-neijiang"
+ ],
  "5111": [
   "1986-11-27-geleshan-martyrs-sculpture",
   "1996-12-06-emei-leshandafo-heritage",
   "1999-12-01-wuyishan-mixed-heritage"
+ ],
+ "5113": [
+  "2020-07-24-nanchong-linjiang-new-zone"
+ ],
+ "511325": [
+  "2020-07-24-nanchong-linjiang-new-zone"
  ],
  "5114": [
   "1982-11-08-first-national-scenic-areas",
@@ -2108,10 +2487,20 @@
  "511528": [
   "2018-12-16-xingwen-5-7-earthquake"
  ],
+ "5116": [
+  "2020-12-29-gaozhu-cross-province-new-area"
+ ],
+ "511623": [
+  "2020-12-29-gaozhu-cross-province-new-area"
+ ],
  "5117": [
   "2021-04-24-ufc-261-full-capacity-return",
   "2000-11-07-bush-v-gore",
+  "2020-02-18-wanyuan-poverty-exit",
   "2021-06-24-surfside-collapse"
+ ],
+ "511781": [
+  "2020-02-18-wanyuan-poverty-exit"
  ],
  "5118": [
   "2020-11-08-sichuan-tibet-rail-start",
@@ -2120,6 +2509,12 @@
  ],
  "511823": [
   "2010-07-26-hanyuan-landslide-2010"
+ ],
+ "5119": [
+  "2019-02-03-bazhong-enyang-airport"
+ ],
+ "5120": [
+  "2024-09-29-ziyang-metro-line-opening"
  ],
  "5132": [
   "2017-06-24-maoxian-xinmo-landslide"
@@ -2163,10 +2558,12 @@
   "2014-12-26-gui-yang-guangzhou-hsr",
   "2004-07-18-xingyi-wanfenglin-airport",
   "2014-01-01-guian-new-area",
+  "2014-12-26-guiguang-hsr-hezhou",
   "2015-05-26-guiyang-big-data-expo",
   "2016-07-01-wulanchabu-huawei-cloud",
   "2016-12-28-hukun-hsr-yunnan-section",
-  "2017-12-28-guiyang-metro-line1"
+  "2017-12-28-guiyang-metro-line1",
+  "2023-08-08-guinan-hsr-libo"
  ],
  "5202": [
   "1978-12-18-liupanshui-city-established",
@@ -2217,8 +2614,12 @@
   "2022-08-01-cun-ba-village-basketball",
   "2022-07-01-cunba-viral"
  ],
+ "5227": [
+  "2023-08-08-guinan-hsr-libo"
+ ],
  "522722": [
-  "2011-10-04-libo-anping-coal-mine-accident"
+  "2011-10-04-libo-anping-coal-mine-accident",
+  "2023-08-08-guinan-hsr-libo"
  ],
  "5301": [
   "1982-02-08-national-historic-cities",
@@ -2290,6 +2691,9 @@
  "5308": [
   "2021-05-27-wild-elephants-enter-yuxi"
  ],
+ "5309": [
+  "2020-12-30-lincang-dalin-railway-opening"
+ ],
  "5323": [
   "2009-07-09-yaoan-earthquake-yunnan"
  ],
@@ -2298,6 +2702,9 @@
  ],
  "5325": [
   "2013-06-22-hani-terraces-heritage"
+ ],
+ "532501": [
+  "2000-02-21-yunnan-tin-ipo"
  ],
  "5326": [
   "2007-11-02-qing-hua-ci"
@@ -2308,12 +2715,22 @@
  ],
  "5329": [
   "1982-02-08-national-historic-cities",
+  "2020-12-30-lincang-dalin-railway-opening",
   "2021-05-21-yangbi-earthquake",
   "2022-11-01-stove-tea"
+ ],
+ "5331": [
+  "2017-05-19-china-myanmar-oil-pipeline-ruili"
+ ],
+ "533102": [
+  "2017-05-19-china-myanmar-oil-pipeline-ruili"
  ],
  "5333": [
   "2003-07-02-three-parallel-rivers-heritage",
   "2010-08-18-gongshan-mudslide-praidi"
+ ],
+ "5334": [
+  "2001-12-17-shangri-la-renaming"
  ],
  "5401": [
   "2017-05-14-sichuan-8633",
@@ -2329,6 +2746,9 @@
  "540223": [
   "2025-01-07-dingri-quake"
  ],
+ "5403": [
+  "1995-04-28-bangda-airport-opening"
+ ],
  "5404": [
   "2022-05-12-tibet-9833",
   "2020-11-08-sichuan-tibet-rail-start",
@@ -2338,7 +2758,8 @@
  "5405": [
   "1983-09-01-duku-highway-open",
   "1989-07-20-typhoon-no9-landslde-zhejiang",
-  "2015-10-07-nan-shan-nan"
+  "2015-10-07-nan-shan-nan",
+  "2023-12-01-lairong-high-speed-railway"
  ],
  "5406": [
   "2018-04-01-nagqu-city-establishment",
@@ -2346,6 +2767,9 @@
  ],
  "540628": [
   "2026-10-26-baqing-earthquake-2026"
+ ],
+ "5425": [
+  "2020-12-04-ngari-grid-connection"
  ],
  "6101": [
   "1994-06-06-xian-crash",
@@ -2359,9 +2783,11 @@
   "2010-09-27-chengdu-metro-line1",
   "2016-09-10-zheng-xu-hsr",
   "1998-03-05-xian-gas-explosion",
+  "2010-02-06-zhengxi-hsr-opening",
   "2010-07-22-ankang-mudslide-disaster",
   "2011-09-16-xian-metro-line2-open",
   "2013-01-26-y20-first-flight",
+  "2013-07-22-minxian-zhangxian-earthquake",
   "2014-01-06-xixian-new-area-approved",
   "2014-07-01-datong-xian-hsr-open",
   "2017-07-09-baolan-hsr-open",
@@ -2373,6 +2799,7 @@
   "2021-12-27-xian-strict-lockdown",
   "2022-01-07-xian-health-commission-apology",
   "2023-05-18-cina-central-asia-summit",
+  "2023-07-16-yinhanjiwei-first-water",
   "2023-08-06-concert-economy"
  ],
  "6102": [
@@ -2388,8 +2815,19 @@
   "2014-01-06-xixian-new-area-approved",
   "2021-12-22-xian-citywide-lockdown"
  ],
+ "6105": [
+  "2010-02-06-zhengxi-hsr-opening"
+ ],
+ "6106": [
+  "2019-05-07-yanan-poverty-free"
+ ],
+ "6107": [
+  "2018-10-28-xinyang-minggang-airport",
+  "2023-07-16-yinhanjiwei-first-water"
+ ],
  "610723": [
-  "1981-05-23-crested-ibis-discovery"
+  "1981-05-23-crested-ibis-discovery",
+  "2023-07-16-yinhanjiwei-first-water"
  ],
  "6108": [
   "2019-01-12-shenmu-coalmine-roof-collapse",
@@ -2419,6 +2857,7 @@
   "2011-01-06-first-agdq-marathon",
   "2016-06-14-bramble-cay-extinction",
   "2012-08-20-lanzhou-new-area-state-council-approval",
+  "2013-07-22-minxian-zhangxian-earthquake",
   "2017-07-09-baolan-hsr-open",
   "2017-09-29-lanyu-railway-full-line-opening",
   "2019-06-23-lanzhou-metro-line1-under-yellow-river",
@@ -2460,6 +2899,9 @@
  "620724": [
   "2013-01-01-zhangye-corn-seed-base"
  ],
+ "6208": [
+  "2007-01-01-kongtongshan-first-5a"
+ ],
  "6209": [
   "1970-04-24-dongfanghong-1-launched",
   "2013-04-26-gaofen-1-launched",
@@ -2481,11 +2923,24 @@
  "6210": [
   "2020-12-26-yinchuan-xian-hsr-open"
  ],
+ "6211": [
+  "2013-07-22-minxian-zhangxian-earthquake"
+ ],
+ "621125": [
+  "2013-07-22-minxian-zhangxian-earthquake"
+ ],
+ "621126": [
+  "2013-07-22-minxian-zhangxian-earthquake"
+ ],
  "6212": [
   "2010-08-13-longnan-rainstorm-deaths"
  ],
  "6229": [
-  "2006-05-20-linxia-brick-carving-national-ich"
+  "2006-05-20-linxia-brick-carving-national-ich",
+  "2024-03-27-linxia-unesco-geopark"
+ ],
+ "622901": [
+  "2024-03-27-linxia-unesco-geopark"
  ],
  "622923": [
   "1974-01-01-liujiaxia-hydropower-station-completed"
@@ -2542,6 +2997,7 @@
   "2011-01-01-helan-east-wine-geographical-indication",
   "2012-09-10-yinchuan-comprehensive-bonded-zone",
   "2013-09-01-china-arab-expo-yinchuan",
+  "2019-12-29-yinlan-hsr-zhongwei",
   "2020-12-26-yinchuan-xian-hsr-open"
  ],
  "6402": [
@@ -2550,6 +3006,7 @@
  ],
  "6403": [
   "2011-01-01-helan-east-wine-geographical-indication",
+  "2019-12-29-yinlan-hsr-zhongwei",
   "2020-12-26-yinchuan-xian-hsr-open"
  ],
  "6404": [
@@ -2558,16 +3015,22 @@
  "640422": [
   "2014-01-05-xiji-stampede"
  ],
+ "6405": [
+  "2019-12-29-yinlan-hsr-zhongwei"
+ ],
  "6501": [
   "2012-06-29-gs7554-hijack",
   "2004-01-01-dao-lang-2002-snow",
   "2014-12-26-lan-xin-hsr",
   "2003-06-26-urumqi-grand-bazaar-open",
   "2009-07-05-urmqi-riots",
-  "2018-10-25-urumqi-metro-line1-open"
+  "2018-10-25-urumqi-metro-line1-open",
+  "2019-05-30-tacheng-keta-railway-opening",
+  "2020-12-26-yutian-wanfang-airport"
  ],
  "6502": [
-  "1994-12-08-karamay-fire"
+  "1994-12-08-karamay-fire",
+  "2019-05-30-tacheng-keta-railway-opening"
  ],
  "6504": [
   "2014-06-22-silk-road-unesco-turpan-sites",
@@ -2579,27 +3042,66 @@
  "6523": [
   "2012-10-01-zhundong-national-level"
  ],
+ "6527": [
+  "2010-07-10-bola-airport-opening"
+ ],
+ "652701": [
+  "2010-07-10-bola-airport-opening"
+ ],
  "6528": [
   "2000-05-01-tarim-river-eco-transfer"
+ ],
+ "6529": [
+  "2022-01-10-a-la-er-railway-opening"
  ],
  "652927": [
   "2024-01-23-wushi-earthquake"
  ],
+ "652928": [
+  "2022-01-10-a-la-er-railway-opening"
+ ],
+ "6530": [
+  "2024-12-27-kizilsu-china-kyrgyz-uzbek-railway"
+ ],
+ "653024": [
+  "2024-12-27-kizilsu-china-kyrgyz-uzbek-railway"
+ ],
+ "6531": [
+  "2015-04-20-kashgar-bonded-zone-operational"
+ ],
+ "6532": [
+  "2020-12-26-yutian-wanfang-airport"
+ ],
+ "653226": [
+  "2020-12-26-yutian-wanfang-airport"
+ ],
  "6540": [
   "2011-09-30-guozigou-bridge-open"
+ ],
+ "6542": [
+  "2019-05-30-tacheng-keta-railway-opening"
+ ],
+ "654202": [
+  "1986-01-01-wusu-beer-founded"
  ],
  "6543": [
   "2006-01-16-altay-ski-origin-declaration"
  ],
+ "659002": [
+  "2022-01-10-a-la-er-railway-opening"
+ ],
+ "659004": [
+  "2004-01-19-wujiaqu-founding"
+ ],
  "71": [
+  "1979-02-26-taoyuan-airport-opened",
+  "1980-12-15-hsinchu-science-park-established",
+  "1984-01-01-kenting-national-park",
   "1999-09-21-chichi-quake",
   "2025-09-24-typhoon-ragasa",
   "1989-09-16-city-of-sadness",
   "1991-07-27-a-brighter-summer-day",
   "1993-08-04-wedding-banquet",
-  "1979-02-26-taoyuan-airport-opened",
-  "1980-12-15-hsinchu-science-park-established",
-  "1984-01-01-kenting-national-park",
   "1987-02-21-tsmc-founded-hsinchu",
   "1991-01-04-sanmao-passed",
   "1992-02-25-law-on-territorial-waters",
@@ -2624,14 +3126,18 @@
   "2000-07-01-king-of-kings-mmo",
   "1997-12-30-china-south-africa-ties",
   "1998-03-22-first-intimate-contact",
+  "2006-06-16-yilan-xueshan-tunnel-opening",
   "2008-05-20-china-taiwan-ma",
   "2009-08-08-morakot-typhoon",
   "2009-08-14-ba-ai-chuan-chu-qu-fundraising",
   "2011-06-23-line-launch",
+  "2015-12-01-hsr-miaoli-station",
+  "2015-12-01-thsr-yunlin-station",
   "2016-02-06-meinong-quake-tainan",
   "2017-06-13-panama-ties",
   "2018-02-06-hualien-earthquake",
   "2019-11-27-gao-yixiang",
+  "2020-12-23-tra-south-link-electrification",
   "2022-08-01-chip4-taiwan-tsmc",
   "2022-08-02-pelosi-taiwan-visit",
   "2022-08-04-taiwan-exercises",
@@ -2639,8 +3145,8 @@
   "2025-04-07-global-market-crash"
  ],
  "71001": [
-  "1991-07-27-a-brighter-summer-day",
   "1979-02-26-taoyuan-airport-opened",
+  "1991-07-27-a-brighter-summer-day",
   "2004-12-31-taipei-101-opening",
   "2010-01-04-burj-khalifa",
   "2026-01-25-honnold-taipei-101",
@@ -2652,11 +3158,13 @@
   "2002-05-25-ci-611",
   "2015-02-04-ge-235",
   "2007-01-05-taiwan-hsr",
+  "2006-06-16-yilan-xueshan-tunnel-opening",
   "2008-11-04-cross-strait-taipei-talks",
   "2008-12-15-three-links-start"
  ],
  "71002": [
   "2026-07-31-spider-man-brand-new-day",
+  "2006-06-16-yilan-xueshan-tunnel-opening",
   "2024-12-04-chiung-yao-died"
  ],
  "71003": [
@@ -2668,7 +3176,8 @@
   "2011-02-15-watson-jeopardy",
   "2024-07-19-crowdstrike-blue-screen",
   "2004-11-03-first-china-asean-expo-nanning",
-  "2013-09-01-china-arab-expo-yinchuan"
+  "2013-09-01-china-arab-expo-yinchuan",
+  "2015-12-01-hsr-miaoli-station"
  ],
  "71005": [
   "2016-02-06-meinong-quake-tainan"
@@ -2684,7 +3193,28 @@
  ],
  "71008": [
   "1980-12-15-hsinchu-science-park-established",
-  "1987-02-21-tsmc-founded-hsinchu"
+  "1987-02-21-tsmc-founded-hsinchu",
+  "2015-03-26-yimin-festival-important-folklore",
+  "2015-12-01-hsr-miaoli-station"
+ ],
+ "71009": [
+  "2015-12-28-npm-southern-branch-opening",
+  "2024-07-06-alishan-forest-railway-reopen"
+ ],
+ "71010": [
+  "2015-03-26-yimin-festival-important-folklore"
+ ],
+ "7101003": [
+  "2015-03-26-yimin-festival-important-folklore"
+ ],
+ "71011": [
+  "2015-12-01-hsr-miaoli-station"
+ ],
+ "7101105": [
+  "2015-12-01-hsr-miaoli-station"
+ ],
+ "71012": [
+  "1982-04-21-lugang-xiaozhen-album-release"
  ],
  "71013": [
   "1999-09-21-chichi-quake"
@@ -2692,8 +3222,20 @@
  "7101305": [
   "1999-09-21-chichi-quake"
  ],
+ "71014": [
+  "2015-12-01-thsr-yunlin-station"
+ ],
+ "71015": [
+  "2015-12-28-npm-southern-branch-opening"
+ ],
+ "7101502": [
+  "2015-12-28-npm-southern-branch-opening"
+ ],
  "71016": [
   "1984-01-01-kenting-national-park"
+ ],
+ "71017": [
+  "2006-06-16-yilan-xueshan-tunnel-opening"
  ],
  "71018": [
   "2024-04-03-hualien-earthquake"
@@ -2702,7 +3244,24 @@
   "2018-02-06-hualien-earthquake",
   "2024-04-03-hualien-earthquake"
  ],
+ "71019": [
+  "2020-12-23-tra-south-link-electrification"
+ ],
+ "71020": [
+  "1970-12-25-penghu-cross-sea-bridge"
+ ],
+ "7102003": [
+  "1970-12-25-penghu-cross-sea-bridge"
+ ],
+ "7102004": [
+  "1970-12-25-penghu-cross-sea-bridge"
+ ],
  "81": [
+  "1977-01-10-ocean-park-hong-kong-opening",
+  "1979-07-08-shekou-industrial-zone-groundbreaking",
+  "1981-03-20-volleyball-win-raise-china-slogan",
+  "1982-02-01-shaolin-temple-film-release",
+  "1984-10-01-first-national-disabled-games",
   "2025-09-24-typhoon-ragasa",
   "1986-08-02-a-better-tomorrow",
   "1987-07-18-a-chinese-ghost-story",
@@ -2715,10 +3274,6 @@
   "2006-10-06-the-departed",
   "2022-07-03-hk-palace-museum",
   "2025-11-09-15th-national-games",
-  "1979-07-08-shekou-industrial-zone-groundbreaking",
-  "1981-03-20-volleyball-win-raise-china-slogan",
-  "1982-02-01-shaolin-temple-film-release",
-  "1984-10-01-first-national-disabled-games",
   "1993-03-26-sf-express-founding",
   "2007-10-11-bosideng-ipo",
   "2016-10-31-jnby-ipo",
@@ -2776,6 +3331,7 @@
   "2010-03-23-google-china-exit",
   "2010-03-23-google-exit-cn",
   "2010-08-23-manila-hostage",
+  "2011-03-24-china-hongqiao-hk-ipo",
   "2018-07-09-xiaomi-ipo",
   "2018-09-20-meituan-ipo",
   "2018-10-24-hzmb-bridge",
@@ -2785,8 +3341,12 @@
   "2020-06-30-hk-national-security-law",
   "2020-07-14-hk-autonomy-act",
   "2021-02-27-ng-man-tat-death",
+  "2021-06-27-mtr-tuen-ma-line-opening",
   "2024-01-29-evergrande",
   "2024-05-01-twilight-of-the-warriors-release"
+ ],
+ "81001": [
+  "1977-01-10-ocean-park-hong-kong-opening"
  ],
  "81002": [
   "2018-03-17-mee-established",
@@ -2798,7 +3358,11 @@
   "2007-06-01-hutong-tear-down",
   "2016-04-13-sanjiangyuan-national-park-pilot",
   "2017-12-10-mianzhu-lingguan-pagoda-fire",
+  "2021-06-27-mtr-tuen-ma-line-opening",
   "2024-05-01-twilight-of-the-warriors-release"
+ ],
+ "81003": [
+  "2021-06-27-mtr-tuen-ma-line-opening"
  ],
  "82": [
   "2025-11-09-15th-national-games",
@@ -2806,7 +3370,15 @@
   "1993-03-15-8th-npc-1st-session",
   "1993-03-31-macao-basic-law",
   "1999-12-20-macau-handover",
+  "2005-07-15-macau-historic-centre-unesco",
   "2018-10-24-hzmb-bridge",
-  "2019-02-18-gba-outline"
+  "2019-02-18-gba-outline",
+  "2019-12-10-macau-lrt-taipa-line"
+ ],
+ "82001": [
+  "2005-07-15-macau-historic-centre-unesco"
+ ],
+ "82002": [
+  "2019-12-10-macau-lrt-taipa-line"
  ]
 }
