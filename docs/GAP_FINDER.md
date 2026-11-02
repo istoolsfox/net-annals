@@ -57,7 +57,7 @@ n8n = 候选池收割机，ZCode = 核实/写作/入库。
 | 1 | Schedule Trigger | 每周三 09:00，时区 Asia/Shanghai |
 | 2 | Read Targets（Read/Write File） | 读 `/files/sweep_targets.json`（扫荡目标清单） |
 | 3 | Loop Targets（Split In Batches=1） | 每轮之间 Wait 2s（限速礼貌） |
-| 4 | Fetch Page（HTTP Request） | UA: `net-annals-gapfinder/1.0 (contact: toolsfox.cn)`，timeout 30s，On Fail: Continue（记下失败目标） |
+| 4 | Fetch Page（HTTP Request） | UA: `net-annals-gapfinder/1.0 (contact: github.com/istoolsfox/net-annals)`，timeout 30s，On Fail: Continue（记下失败目标） |
 | 5 | To Text（Code） | 剥 script/style/tag → 纯文本；记录 `http_status`/`fetched_at`；页面 hash 缓存防重抓 |
 | 6 | Extract Events（**Information Extractor** + GLM 子节点） | schema：`events:[{date_text,title,gist,quote,category_guess}]`；system prompt 要点：**只从给定文本提取；每条必须给原文引文 quote；日期或事件不确定就跳过；不要输出文本中没有的 URL** |
 | 7 | Verify Quotes（Code） | 第三节闸门 3 的引文校验脚本（见 4.4） |
@@ -183,7 +183,7 @@ ssh toolsfox 'cat ~/n8n_share/queue/gap_queue_2026-W44.json' > data/derived/inco
 
 ## 七、礼貌与合规
 
-- Wikimedia 系列 API 要求可联系的 User-Agent，已按政策设 `net-annals-gapfinder/1.0 (contact: toolsfox.cn)`。
+- Wikimedia 系列 API 要求可联系的 User-Agent，已按政策设 `net-annals-gapfinder/1.0 (contact: github.com/istoolsfox/net-annals)`。
 - 限速：目标间 Wait 2s、二源核验 1s/条；页面 hash 缓存，未变化的页面跳过提取（省钱省调用）。
 - onthisday 端点 `api.wikimedia.org/v1/feed/onthisday/events/{MM}/{DD}`（工作流 C 用，上线前先 curl 验一次格式）。
 - 队列与中间产物不上传、不进 git、不进站点构建。

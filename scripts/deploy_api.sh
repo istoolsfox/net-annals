@@ -26,4 +26,4 @@ echo "==> 3/4 冒烟"
 ssh netannals "cd netannals-pipeline/repo && ../.venv/bin/python scripts/api_smoke_test.py http://127.0.0.1:8400 | tail -4"
 
 echo
-echo "✅ API 已发布 → 服务器 127.0.0.1:8400（对外经 https://toolsfox.cn/api/）"
+echo "✅ API 已发布 → 服务器 127.0.0.1:8400（公开通道已随 toolsfox.cn 于 2026-11-02 退役，仅服务器本地/内网）"

@@ -185,7 +185,7 @@ def register_routes(app):
             'ok': True, 'key': raw, 'role': 'ro',
             'daily_quota': config.DEFAULT_RO_QUOTA,
             'note': '请妥善保存（服务器只存哈希，无法找回）。使用时携带请求头 X-API-Key。'
-                    '请标注数据来源 toolsfox.cn；禁止将其用于违法违规用途。',
+                    '请标注数据来源 github.com/istoolsfox/net-annals（互联网编年史）；禁止将其用于违法违规用途。',
             'docs': config.API_PREFIX + 'keys/page'})
 
     @app.get('/api/v1/keys/page', response_class=HTMLResponse)

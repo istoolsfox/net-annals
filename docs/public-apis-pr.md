@@ -1,4 +1,6 @@
-# public-apis PR 素材包（备案通过后使用）
+# public-apis PR 素材包（已搁置）
+
+> ⚠️ **2026-11-02 搁置**：站长放弃 ICP 备案，toolsfox.cn 退役，公开 API 通道停用，本 PR 无限期搁置。素材包保留：如未来以新公开端点重启（新域名/反代/Serverless），改 Base URL 后可直接复用下述内容。
 
 目标仓库：[public-apis/public-apis](https://github.com/public-apis/public-apis)（GitHub 上最大的免费 API 目录）。
 **触发条件：toolsfox.cn 解析恢复且 `https://toolsfox.cn/api/v1/health` 公网可达**（每日 9 点自动监控会通知）。

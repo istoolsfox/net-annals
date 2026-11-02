@@ -1,5 +1,6 @@
 # SERVER · toolsfox.cn 服务器运行手册
 
+> ⚠️ **2026-11-02 退役注**：站长放弃 ICP 备案，编年史主站已迁 GitHub Pages（https://istoolsfox.github.io/net-annals/）。toolsfox.cn 及本服务器不再是对外入口（nginx 保持 444 黑屏），本文件保留为服务器自身运维参考（域名/证书/统计页/失败恢复仍以本文件为准）。
 > 2026-10-23 迁移自 toolsfox 服务器（旧站对 /net-annals 路径 301 过渡）。
 > 本文件是新服务器唯一运行真相源，改配置必须同步改这里。
 

@@ -24,7 +24,7 @@ def n8n_active():
     if not os.path.exists(N8N_FLAG):
         return False
     return time.time() - os.path.getmtime(N8N_FLAG) < 7 * 86400
-UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) net-annals-news/1.0 (contact: toolsfox.cn)'}
+UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) net-annals-news/1.0 (contact: github.com/istoolsfox/net-annals)'}
 _key_path = os.path.expanduser('~/.config/net-annals/glm.key')
 KEY = open(_key_path).read().strip() if os.path.exists(_key_path) else None
 GLM = 'https://open.bigmodel.cn/api/paas/v4/chat/completions'

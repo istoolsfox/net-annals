@@ -977,3 +977,10 @@
 - **dedup 同日误杀 11 例大救援**：名单日/批复日撞车（花戏楼vs辽阳白塔同批国保/漳州布袋vs泗州戏/柳琴戏vs宜黄戏/冷水江vs淮北资源枯竭同批/滁州池州六安经开区vs铜陵嘉善晋城同批批复/红海滩vs东营黄河口同批5A/八里城vs双鸭山遗址同批国保/秦陵vs敦煌、布达拉宫vs曲阜避暑山庄武当山世遗同日），全部按续79惯例改题规避（0.25–0.54），dedup 复跑 0 删除；乌力格尔（松原/通辽同名录条目多申报地）按一事一正本不救。**同事件双条漏网 2 例**（朱鹮/尔滨旧省批条 0.53 重叠过闸）人工剔除。
 - **旧省批 parts 断根**：23 个 auto_<省>.json（10-22 批次残留）从 git 移除——其内容经三波消费后已全部入册或判死，此后 merge 不再有僵尸复消费；世遗 2 条迁入 auto_geo_heritage_fix.json 后再删。
 - **审计方法升级**：merge 重写格式导致 git diff 全文件级噪音（HEAD 是压缩格式/merge 是缩进格式），改用 JSON id 集合对比 HEAD 审计（git diff 线扫在此场景失效）。
+
+## 续96轮（2026-11-02）· 备案弃用，主站迁 GitHub Pages：toolsfox.cn 退役
+- **决策**：toolsfox.cn 个人备案（新增互联网服务，订单 2036865322663，10-25 提交）于 11-02 被浙江管局退回，原因=网站名称「互联网编年史」与主办者无关联（个人备案站名须含本人姓名，官方建议"姓名+用途"格式）。站长拍板**放弃备案不再提交**：订单任其自动关闭（严禁动主体注销——主体下还有 toolsfox.top/muyizhen.com 存量备案），toolsfox.cn 与新服务器（118.178.238.120）不再作为对外入口。
+- **主站切换 GitHub Pages，canonical = https://istoolsfox.github.io/net-annals/**：仓库内 63 处 toolsfox.cn 引用全量处置——site 各页 canonical/og:url/og:image/schema.org/sitemap/robots 统一换 Pages URL；site/assets/keys_page.html 整页改为「API 公开通道已下线」公告（密钥申领随公开 API 退役，指向 GitHub 仓取数）；新增 **scripts/deploy_pages.sh**（git archive HEAD site/ → gh-pages 独立 worktree 同步 → 推送，纪律=只发已提交内容不带上 WIP）；deploy.sh 头注改"服务器副本同步"定位；deploy_api.sh 输出注明公开通道退役；news_harvest.py UA contact、routes.py 密钥 note 署名、GAP_FINDER.md contact 改 GitHub 仓；docs/API.md 置「已下线」横幅+署名改仓；docs/SERVER.md 置「退役注」（保留为服务器运维参考）；docs/public-apis-pr.md 置「已搁置」横幅。
+- **老站 301 修复**：toolsfox 服务器（121.41.194.164）上 /net-annals 的 301 原指向 toolsfox.cn（死链），改指 https://istoolsfox.github.io（$request_uri 透传，/net-annals 前缀与 Pages 路径天然对齐，旧深链无损）。
+- **镜像数据**：gh-pages 由 6133 条全量同步至 HEAD 的 6884 条（含世家 236 大库）；⚠️ site/persons/ 三文件为并行会话未提交 WIP，按"只发已提交"纪律未随镜像发布。GitHub 仓库 About homepage 同步改为 Pages URL。
+- **遗留**：①toolsfox.cn DNS A 记录仍在（118.178.238.120），服务器 nginx 保持 444，域名闲置不碍事、到期是否续费待站长拍板；②新服务器与 API 服务（127.0.0.1:8400）去留待拍板——公开 API 已无域名可挂，重启 public-apis PR 需先有新公开端点；③persons WIP 落地提交后跑 deploy_pages.sh 刷镜像。

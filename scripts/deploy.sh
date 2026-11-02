@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# 一键发布：构建校验 → rsync 到 netannals 服务器（https://toolsfox.cn）
-# 旧 toolsfox 服务器对 /net-annals 路径做 301 过渡；如需回滚：rsync site/ toolsfox:/var/www/net-annals/
+# 一键发布（服务器副本同步）：构建校验 → rsync 到 netannals 服务器
+# ⚠️ 2026-11-02 起对外主站 = GitHub Pages（https://istoolsfox.github.io/net-annals/）。
+#    本脚本只刷新服务器副本（toolsfox.cn 已退役，不对外服务）；对外发布请跑 scripts/deploy_pages.sh。
+# 服务器直出回滚方式（若恢复备案/换域名）：rsync site/ netannals:/var/www/net-annals/
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -21,4 +23,4 @@ echo "==> 2/2 发布到 netannals 服务器"
 rsync -az --delete --delete-excluded --exclude=/data.json site/ netannals:/var/www/net-annals/
 
 echo
-echo "✅ 已发布 → https://toolsfox.cn/"
+echo "✅ 服务器副本已更新（对外主站为 GitHub Pages，对外发布请跑 scripts/deploy_pages.sh）"

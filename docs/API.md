@@ -5,7 +5,7 @@
 
 Base URL：`https://toolsfox.cn/api/v1/`
 
-> ⚠️ **临时状态（备案期）**：toolsfox.cn 域名在 ICP 备案审核期间被注册商停析（公网暂无 A 记录）。服务器侧全链已验证；**DNS 恢复后本 API 即刻公网可用，届时删除本段**。调试：`curl --resolve toolsfox.cn:443:118.178.238.120 https://toolsfox.cn/api/v1/health`
+> ⚠️ **已下线（2026-11-02）**：站长放弃 ICP 备案，toolsfox.cn 域名退役，本 API 的公开通道随之停用（原 Base URL 不再可达）。API 服务本体仍运行在服务器本地（127.0.0.1:8400），仅内网可用；调试：`curl --resolve toolsfox.cn:443:118.178.238.120 https://toolsfox.cn/api/v1/health`。如未来重启公开服务（新域名或反代），删除本段即可。
 
 ## 快速开始 / Quickstart
 
@@ -100,7 +100,7 @@ No sign-up required. Anonymous tier: 200 requests/day per IP. Free API key for h
 
 ## 数据许可 / License
 
-数据以 **CC BY-NC 4.0 同等条款**提供：署名「toolsfox.cn 中国时代编年史」、非商业使用。商业授权请联系站长。
+数据以 **CC BY-NC 4.0 同等条款**提供：署名「互联网编年史 github.com/istoolsfox/net-annals」、非商业使用。商业授权请联系站长。
 
 ---
 
