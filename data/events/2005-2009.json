@@ -3,7 +3,7 @@
 "id": "2005-01-01-gandong-china-2004",
 "date": "2005-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "感动中国2004年度人物揭晓：牛玉儒、梁万俊、刘翔等在列",
 "category": "society",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "感动中国年度人物评选（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89",
+"type": "media"
 }
 ],
 "tags": [
@@ -195,7 +200,7 @@
 "id": "2005-02-01-shougang-move-to-caofeidian",
 "date": "2005-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首钢搬迁曹妃甸获批：史上最大规模钢铁企业整体搬迁",
 "category": "company",
 "region": "cn",
@@ -209,6 +214,11 @@
 "title": "首钢集团 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/首钢集团",
 "type": "wiki"
+},
+{
+"title": "首钢集团（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E9%A6%96%E9%92%A2%E9%9B%86%E5%9B%A2",
+"type": "media"
 }
 ],
 "tags": [
@@ -1397,7 +1407,7 @@
 "id": "2005-09-01-nanjing-metro-line1",
 "date": "2005-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "南京地铁1号线通车：六朝古都迈入地铁时代",
 "category": "national",
 "region": "cn",
@@ -1411,6 +1421,11 @@
 "title": "维基百科：南京地铁",
 "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81",
 "type": "wiki"
+},
+{
+"title": "南京地铁1号线（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF",
+"type": "media"
 }
 ],
 "tags": [
@@ -1878,7 +1893,7 @@
 "id": "2005-11-01-mongolian-long-song-unesco",
 "date": "2005-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "蒙古族长调民歌列入人类非遗：中蒙联合申报的草原之声",
 "category": "culture",
 "region": "cn",
@@ -1892,6 +1907,11 @@
 "title": "维基百科：蒙古族长调民歌",
 "url": "https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%97%8F%E9%95%BF%E8%B0%83",
 "type": "wiki"
+},
+{
+"title": "蒙古族长调民歌（中国非物质文化遗产网）",
+"url": "https://www.ihchina.cn/project_details/12412.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -2535,7 +2555,7 @@
 "id": "2006-01-01-gandong-china-2005",
 "date": "2006-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "感动中国2005年度人物揭晓：丛飞、魏青刚、黄伯云等在列",
 "category": "society",
 "region": "cn",
@@ -2549,6 +2569,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "感动中国年度人物评选（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89",
+"type": "media"
 }
 ],
 "tags": [
@@ -4593,10 +4618,10 @@
 ]
 },
 {
-"id": "2006-06-01-thangka-national-heritage",
-"date": "2006-06-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2006-05-20-thangka-national-heritage",
+"date": "2006-05-20",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "唐卡列入首批国家级非遗：千年卷轴画进入国家传承体系",
 "category": "culture",
 "region": "cn",
@@ -4610,6 +4635,11 @@
 "title": "维基百科：唐卡",
 "url": "https://zh.wikipedia.org/wiki/%E5%94%90%E5%8D%A1",
 "type": "wiki"
+},
+{
+"title": "国务院关于公布第一批国家级非物质文化遗产名录的通知（中国非物质文化遗产网）",
+"url": "https://www.ihchina.cn/zhengce_details/11546",
+"type": "media"
 }
 ],
 "tags": [
@@ -5925,7 +5955,7 @@
 "id": "2007-01-01-gandong-china-2006",
 "date": "2007-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "感动中国2006年度人物揭晓：丁晓兵、华益慰、叶笃正等在列",
 "category": "society",
 "region": "cn",
@@ -5939,6 +5969,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "感动中国年度人物评选（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89",
+"type": "media"
 }
 ],
 "tags": [
@@ -6322,7 +6357,7 @@
 "id": "2007-03-01-nail-house",
 "date": "2007-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "重庆『最牛钉子户』：孤岛上的房子与公共利益之争",
 "category": "society",
 "region": "cn",
@@ -6336,6 +6371,11 @@
 "title": "维基百科：最牛钉子户",
 "url": "https://zh.wikipedia.org/wiki/最牛钉子户",
 "type": "wiki"
+},
+{
+"title": "重庆杨家坪拆迁事件（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E9%87%8D%E5%BA%86%E6%9D%A8%E5%AE%B6%E5%9D%AA%E6%8B%86%E8%BF%81%E4%BA%8B%E4%BB%B6",
+"type": "media"
 }
 ],
 "tags": [
@@ -6667,7 +6707,7 @@
 "id": "2007-05-01-pork-price",
 "date": "2007-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "猪肉价格飞涨：CPI 与『猪坚强』",
 "category": "economy",
 "region": "cn",
@@ -6681,6 +6721,11 @@
 "title": "维基百科：猪肉",
 "url": "https://zh.wikipedia.org/wiki/猪肉",
 "type": "wiki"
+},
+{
+"title": "发改委监测：5月猪肉价格平均上涨10.5%（中新网2007-06-04）",
+"url": "http://www.chinanews.com.cn/cj/kong/news/2007/06-04/949743.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -8256,7 +8301,7 @@
 "id": "2008-01-01-gandong-china-2007",
 "date": "2008-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "感动中国2007年度人物揭晓：钱学森、李剑英、钟期荣和胡鸿烈等在列",
 "category": "society",
 "region": "cn",
@@ -8270,6 +8315,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "感动中国年度人物评选（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89",
+"type": "media"
 }
 ],
 "tags": [
@@ -8616,7 +8666,7 @@
 "id": "2008-02-01-photo-scandal",
 "date": "2008-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『艳照门』：互联网隐私安全的全民警钟",
 "category": "culture",
 "region": "cn",
@@ -8630,6 +8680,11 @@
 "title": "维基百科：陈冠希不雅照事件",
 "url": "https://zh.wikipedia.org/wiki/陈冠希不雅照事件",
 "type": "wiki"
+},
+{
+"title": "陈冠希裸照事件（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E5%B8%8C%E8%A3%B8%E7%85%A7%E4%BA%8B%E4%BB%B6",
+"type": "media"
 }
 ],
 "tags": [
@@ -9149,7 +9204,7 @@
 "id": "2008-05-01-hangzhou-bay-bridge-open",
 "date": "2008-05-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "杭州湾跨海大桥建成通车：36公里横越世界级强潮海湾",
 "category": "national",
 "region": "cn",
@@ -9437,7 +9492,7 @@
 "id": "2008-06-01-chaganhu-winter-fishing-heritage",
 "date": "2008-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "查干湖冬捕习俗入选国家级非遗：千年渔猎的活态传承",
 "category": "culture",
 "region": "cn",
@@ -9451,6 +9506,11 @@
 "title": "维基百科：查干湖",
 "url": "https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B9%B2%E6%B9%96",
 "type": "wiki"
+},
+{
+"title": "国务院关于公布第二批国家级非物质文化遗产名录的通知（中国政府网）",
+"url": "http://www.gov.cn/zwgk/2008-06/14/content_1016331.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -11967,7 +12027,7 @@
 "id": "2009-01-01-gandong-china-2008",
 "date": "2009-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "感动中国2008年度人物揭晓：唐山十三农民、武文斌、张艺谋奥运导演团队等在列",
 "category": "society",
 "region": "cn",
@@ -11981,6 +12041,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "感动中国年度人物评选（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89",
+"type": "media"
 }
 ],
 "tags": [
@@ -13100,7 +13165,7 @@
 "id": "2009-06-01-housing-v-shape",
 "date": "2009-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "房价V形反弹：地王与丈母娘经济学",
 "category": "economy",
 "region": "cn",
@@ -13114,6 +13179,11 @@
 "title": "维基百科：中国大陆房地产",
 "url": "https://zh.wikipedia.org/wiki/商品房",
 "type": "wiki"
+},
+{
+"title": "业内评论：楼市正全面回暖（中新网2009-06-23）",
+"url": "https://www.chinanews.com/estate/estate-lspl/news/2009/06-23/1745350.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -14582,7 +14652,7 @@
 "id": "2009-11-01-wuxi-iot-sensing-china",
 "date": "2009-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "无锡建设「感知中国」中心：物联网产业国家布局落子",
 "category": "tech",
 "region": "cn",
@@ -14596,6 +14666,11 @@
 "title": "维基百科：物联网",
 "url": "https://zh.wikipedia.org/wiki/%E7%89%A9%E8%81%94%E7%BD%91",
 "type": "wiki"
+},
+{
+"title": "无锡国家传感网创新示范区总体规划论证峰会（南京邮电大学）",
+"url": "https://www.njupt.edu.cn/2010/0514/c53a95621/page.htm",
+"type": "media"
 }
 ],
 "tags": [
