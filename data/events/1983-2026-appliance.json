@@ -303,7 +303,7 @@
 "id": "2006-08-01-seb-supor-bid",
 "date": "2006-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "SEB要约收购苏泊尔：民族炊具品牌的控制权之争",
 "category": "company",
 "region": "cn",
@@ -317,6 +317,11 @@
 "title": "百度百科：苏泊尔",
 "url": "https://baike.baidu.com/item/苏泊尔",
 "type": "wiki"
+},
+{
+"title": "苏泊尔与SEB签署战略合作协议（新浪财经2006-08-17）",
+"url": "https://finance.sina.cn/sa/2006-08-17/detail-ikkntiam0497592.d.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -332,7 +337,7 @@
 "id": "2007-12-01-home-appliance-rural",
 "date": "2007-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "家电下乡启动：财政补贴送家电进村",
 "category": "economy",
 "region": "cn",
@@ -346,6 +351,11 @@
 "title": "百度百科：家电下乡",
 "url": "https://baike.baidu.com/item/家电下乡",
 "type": "wiki"
+},
+{
+"title": "家电下乡（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E5%AE%B6%E9%9B%BB%E4%B8%8B%E9%84%89",
+"type": "media"
 }
 ],
 "tags": [

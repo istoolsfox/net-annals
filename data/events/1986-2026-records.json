@@ -1039,7 +1039,7 @@
 "id": "2006-01-01-guinness-china-night-cctv",
 "date": "2006-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《吉尼斯中国之夜》开播：纪录挑战成了电视综艺",
 "category": "culture",
 "region": "cn",
@@ -1058,6 +1058,11 @@
 "title": "Guinness World Records 官网",
 "url": "https://www.guinnessworldrecords.com/",
 "type": "official"
+},
+{
+"title": "正大综艺吉尼斯中国之夜2006-2010年度典藏（央视网）",
+"url": "https://tv.cctv.com/2011/04/05/VIDE1355634869697797.shtml",
+"type": "media"
 }
 ],
 "tags": [

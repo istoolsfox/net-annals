@@ -106,7 +106,7 @@
 "id": "2004-05-01-hurun-philanthropy-list",
 "date": "2004-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "胡润首推中国慈善家排行榜",
 "category": "economy",
 "region": "cn",
@@ -123,6 +123,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/胡润百富",
 "title": "wiki"
+},
+{
+"title": "胡润（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B6%A6",
+"type": "media"
 }
 ],
 "detail": "2004年5月，胡润研究院首次发布中国内地慈善家排行榜，企业家捐赠第一次被量化排序。 财富榜文化延伸到慈善领域，「捐了多少」成为中国企业家公共形象的新指标。 福布斯、南方周末等随后跟进发布慈善榜，「裸捐」承诺、基金会化运作逐步成为一代企业家的选择。"
@@ -346,7 +351,7 @@
 "id": "2005-01-01-tsunami-aid",
 "date": "2005-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "印度洋海啸中国民间援助：跨国募捐的第一次全民动员",
 "category": "society",
 "region": "cn",
@@ -360,6 +365,11 @@
 "title": "百度百科：印度洋海啸",
 "url": "https://baike.baidu.com/item/印度洋海啸",
 "type": "wiki"
+},
+{
+"title": "中国青年报2005-01-15：红会确认海啸民间捐款达1.5亿元",
+"url": "http://zqb.cyol.com/content/2005-01/15/content_1016284.htm",
+"type": "media"
 }
 ],
 "tags": [

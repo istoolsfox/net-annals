@@ -3979,7 +3979,7 @@
 "id": "2007-08-01-kunming-seed-bank",
 "date": "2007-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "西南野生生物种质资源库建成：亚洲最大的『种子方舟』",
 "category": "tech",
 "region": "cn",
@@ -3993,6 +3993,11 @@
 "title": "百度百科：中国西南野生生物种质资源库",
 "url": "https://baike.baidu.com/item/中国西南野生生物种质资源库",
 "type": "wiki"
+},
+{
+"title": "中国西南野生生物种质资源库（中科院大科学装置官网）",
+"url": "https://lssf01.cas.cn/ff8080814ff56599014ff56bebd80006.html",
+"type": "media"
 }
 ],
 "tags": [

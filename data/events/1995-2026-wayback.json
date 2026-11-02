@@ -726,10 +726,10 @@
 ]
 },
 {
-"id": "2009-04-01-bihai-yinsha-closed",
-"date": "2009-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2017-09-27-bihai-yinsha-closed",
+"date": "2017-09-27",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "碧海银沙聊天室关闭：语音聊天室时代的尾声",
 "category": "tech",
 "region": "cn",
@@ -743,6 +743,11 @@
 "title": "聊天室 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/聊天室",
 "type": "wiki"
+},
+{
+"title": "永别了 21年老站碧海银沙网宣布关闭（新浪科技2017-09-23）",
+"url": "https://tech.sina.cn/2017-09-23/detail-ifymeswc9387251.d.html",
+"type": "media"
 }
 ],
 "tags": [

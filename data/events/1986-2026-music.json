@@ -1930,7 +1930,7 @@
 "id": "2001-01-01-dong-bei-ren",
 "date": "2001-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《东北人都是活雷锋》爆红：中国第一首网络神曲",
 "category": "culture",
 "region": "cn",
@@ -1944,6 +1944,11 @@
 "title": "Wikipedia: 东北人都是活雷锋",
 "url": "https://zh.wikipedia.org/wiki/东北人都是活雷锋",
 "type": "wiki"
+},
+{
+"title": "雪村《东北人都是活雷锋》专辑（豆瓣音乐）",
+"url": "https://music.douban.com/subject/1402186/",
+"type": "media"
 }
 ],
 "tags": [
@@ -2280,7 +2285,7 @@
 "id": "2004-01-01-dao-lang-2002-snow",
 "date": "2004-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "刀郎《2002年的第一场雪》：西域嗓音席卷全国",
 "category": "culture",
 "region": "cn",
@@ -2294,6 +2299,11 @@
 "title": "Wikipedia: 刀郎 (歌手)",
 "url": "https://zh.wikipedia.org/wiki/刀郎_(歌手)",
 "type": "wiki"
+},
+{
+"title": "刀郎（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E5%88%80%E9%83%8E",
+"type": "media"
 }
 ],
 "tags": [
@@ -2306,10 +2316,10 @@
 ]
 },
 {
-"id": "2004-01-01-liang-zhi-hu-die",
-"date": "2004-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2004-12-01-liang-zhi-hu-die",
+"date": "2004-12-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《两只蝴蝶》飞进千家万户：彩铃时代的国民金曲",
 "category": "culture",
 "region": "cn",
@@ -2323,6 +2333,11 @@
 "title": "庞龙 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/庞龙",
 "type": "wiki"
+},
+{
+"title": "靠《两只蝴蝶》赚了2个亿？词曲作者：挣了5000元（界面新闻2025-08）",
+"url": "https://m.jiemian.com/article/13179671.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -2873,10 +2888,10 @@
 ]
 },
 {
-"id": "2009-01-01-ai-qing-mai-mai",
-"date": "2009-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2009-10-07-ai-qing-mai-mai",
+"date": "2009-10-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "《爱情买卖》爆红：一首被全网吐槽却人人会唱的神曲",
 "category": "culture",
 "region": "cn",
@@ -2890,6 +2905,11 @@
 "title": "Wikipedia: 爱情买卖",
 "url": "https://zh.wikipedia.org/wiki/爱情买卖",
 "type": "wiki"
+},
+{
+"title": "爱情买卖（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E7%88%B1%E6%83%85%E4%B9%B0%E5%8D%96",
+"type": "media"
 }
 ],
 "tags": [

@@ -221,7 +221,7 @@
 "id": "2001-12-01-dawan-product-placement",
 "date": "2001-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《大腕》上映：把植入广告拍成教科书的一部荒诞喜剧",
 "category": "culture",
 "region": "cn",
@@ -240,6 +240,11 @@
 "title": "冯小刚 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/冯小刚",
 "type": "wiki"
+},
+{
+"title": "《大腕》（豆瓣电影）",
+"url": "https://m.douban.com/movie/subject/1304022",
+"type": "media"
 }
 ],
 "tags": [
@@ -284,7 +289,7 @@
 "id": "2007-05-01-acorn-international-ipo",
 "date": "2007-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "橡果国际纽交所上市：电视购物黄金年代的高光与拐点",
 "category": "company",
 "region": "cn",
@@ -303,6 +308,11 @@
 "title": "橡果国际 - 百度百科",
 "url": "https://baike.baidu.com/item/橡果国际",
 "type": "wiki"
+},
+{
+"title": "橡果国际纽交所上市首日大涨（新浪财经2007-05-09）",
+"url": "https://finance.sina.cn/sa/2007-05-09/detail-ikftssap0928520.d.html",
+"type": "media"
 }
 ],
 "tags": [

@@ -2910,6 +2910,9 @@
 "华服日",
 "汉服",
 "B站"
+],
+"place": [
+"k:371721"
 ]
 },
 {
@@ -3842,7 +3845,7 @@
 "id": "2005-06-01-hangzhou-animation-festival",
 "date": "2005-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届中国国际动漫节落户杭州：动漫开始被当作产业",
 "category": "culture",
 "region": "cn",
@@ -3856,6 +3859,11 @@
 "title": "百度百科：中国国际动漫节",
 "url": "https://baike.baidu.com/item/中国国际动漫节",
 "type": "wiki"
+},
+{
+"title": "首届中国国际动漫节在杭州西湖开幕（文化和旅游部）",
+"url": "https://www.mct.gov.cn/whzx/whyw/201112/t20111201_706975.htm",
+"type": "media"
 }
 ],
 "tags": [

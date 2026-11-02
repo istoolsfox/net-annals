@@ -252,7 +252,7 @@
 "id": "2008-07-01-shanda-wenxue",
 "date": "2008-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "盛大文学成立，网络文学进入集团化时代",
 "category": "internet",
 "region": "cn",
@@ -268,6 +268,11 @@
 "type": "wiki",
 "url": "https://zh.wikipedia.org/wiki/盛大文学",
 "title": "wiki"
+},
+{
+"title": "盛大文学（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E7%9B%9B%E5%A4%A7%E6%96%87%E5%AD%A6",
+"type": "media"
 }
 ],
 "milestone": false,

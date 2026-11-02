@@ -231,7 +231,7 @@
 "id": "2008-02-01-hengyuanxiang-zodiac-ad",
 "date": "2008-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "恒源祥十二生肖广告：把『洗脑』玩到极限的一分钟",
 "category": "culture",
 "region": "cn",
@@ -245,6 +245,11 @@
 "title": "百度百科：恒源祥",
 "url": "https://baike.baidu.com/item/恒源祥",
 "type": "wiki"
+},
+{
+"title": "恒源祥十二生肖广告（维基百科）",
+"url": "https://zh.wikipedia.org/wiki/%E6%81%92%E6%BA%90%E7%A5%A5%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96%E5%B9%BF%E5%91%8A",
+"type": "media"
 }
 ],
 "tags": [
@@ -260,7 +265,7 @@
 "id": "2008-07-01-olympic-porcelain-gown",
 "date": "2008-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "奥运颁奖礼服『青花瓷』系列发布：中国元素的高光定制",
 "category": "culture",
 "region": "cn",
@@ -274,6 +279,11 @@
 "title": "百度百科：北京奥运会颁奖礼仪服装",
 "url": "https://baike.baidu.com/item/2008年北京奥运会",
 "type": "wiki"
+},
+{
+"title": "奥运颁奖服发布 青花瓷元素惊艳全场（央视2008-07-18）",
+"url": "http://news.cctv.com/china/20080718/100204.shtml",
+"type": "media"
 }
 ],
 "tags": [

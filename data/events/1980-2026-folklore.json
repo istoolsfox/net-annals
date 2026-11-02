@@ -54,7 +54,7 @@
 "id": "2003-10-01-historic-towns-villages-list",
 "date": "2003-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首批「中国历史文化名镇名村」公布：古镇保护有了国家级名录",
 "category": "national",
 "region": "cn",
@@ -79,6 +79,11 @@
 "type": "wiki",
 "url": "https://zh.wikipedia.org/wiki/中国历史文化名镇",
 "title": "wiki"
+},
+{
+"title": "建村〔2003〕199号通知原文",
+"url": "https://www.waizi.org.cn/law/59607.html",
+"type": "media"
 }
 ]
 },

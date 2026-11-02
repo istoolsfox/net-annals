@@ -225,7 +225,7 @@
 "id": "2002-12-01-qfii-launch",
 "date": "2002-12-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "QFII制度实施：外资第一次有了A股入场券",
 "category": "economy",
 "region": "cn",
@@ -239,6 +239,11 @@
 "title": "百度百科：合格境外机构投资者",
 "url": "https://baike.baidu.com/item/合格境外机构投资者",
 "type": "wiki"
+},
+{
+"title": "《合格境外机构投资者境内证券投资管理暂行办法》（国家外汇管理局）",
+"url": "http://m.safe.gov.cn/safe/2002/1128/5560.html",
+"type": "media"
 }
 ],
 "tags": [
