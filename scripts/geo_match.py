@@ -23,7 +23,13 @@ CITY_STOPLIST = {
     '阿里', '和田', '白银',    # 阿里巴巴/和田玉/贵金属白银
     '长治', '包头', '中卫',    # 长治久安/协议包头/足球中卫
     '兴安',                    # 兴安岭
+    '海东', '白山',            # 上海东方/长白山
 }
+
+# 城市短名的负后缀护栏：命中后紧跟这些字则拒绝（周口市 vs 周口店/苏州 vs 苏州河）
+CITY_NEG_SUFFIX = {'周口': ('店',), '苏州': ('河',)}
+# 负前缀护栏：命中前紧邻这些字则拒绝（天水市 vs 飞天水到渠成/海城市 vs 沿海城市/东方市 vs 新东方市值）
+CITY_NEG_PREFIX = {'天水': ('飞',), '海城': ('沿',), '东方市': ('新',)}
 
 places = json.load(open(PLACES))
 provinces = {p['code']: p for p in places['provinces']}
@@ -83,12 +89,25 @@ county_keys = sorted(((n, county_names[n][0]) for n in county_names
                      key=lambda x: -len(x[0]))
 
 
+# 县级全称的负护栏：沿海城市⊃海城市/新东方市值⊃东方市/古县城⊃古县/地区和县级⊃和县
+COUNTY_NEG_PREFIX = {'海城市': ('沿',), '东方市': ('新',), '和县': ('地',)}
+COUNTY_NEG_SUFFIX = {'古县': ('城',)}
+
+
 def county_hit(masked, name):
     """带护栏的全称匹配：返回（是否命中, 命中处上下文）。"""
     ok, ctx = False, ''
     i = masked.find(name)
     while i != -1:
         if i == 0 or masked[i - 1] + name[0] not in STEM:
+            pre = masked[i - 1:i]
+            tail = masked[i + len(name):i + len(name) + 1]
+            if name in COUNTY_NEG_PREFIX and pre in COUNTY_NEG_PREFIX[name]:
+                i = masked.find(name, i + 1)
+                continue
+            if name in COUNTY_NEG_SUFFIX and tail in COUNTY_NEG_SUFFIX[name]:
+                i = masked.find(name, i + 1)
+                continue
             ok, ctx = True, masked[max(0, i - 10):i + len(name) + 10]
             break
         i = masked.find(name, i + 1)
@@ -109,7 +128,19 @@ for f in sorted(_glob.glob('data/events/*.json')):
             if k in masked:
                 hits.add(code)
         for k, code in city_keys.items():
-            if k in masked:
+            if k not in masked:
+                continue
+            bad = False
+            i = masked.find(k)
+            while i != -1:
+                tail = masked[i + len(k):i + len(k) + 1]
+                if k in CITY_NEG_SUFFIX and tail in CITY_NEG_SUFFIX[k]:
+                    bad = True
+                    break
+                i = masked.find(k, i + 1)
+            if k in CITY_NEG_PREFIX and masked[masked.find(k) - 1:masked.find(k)] in CITY_NEG_PREFIX[k]:
+                bad = True
+            if not bad:
                 hits.add(code)
         for k, code in county_keys:         # 长名优先+护栏，命中即掩码
             ok, ctx = county_hit(masked, k)
