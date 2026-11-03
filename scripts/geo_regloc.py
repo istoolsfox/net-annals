@@ -11,6 +11,9 @@ import json, re, sys, urllib.request
 UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
 SINA = 'http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/{}.phtml'
 
+# 与 geo_match 同源的护栏（中山南路/苏州河/沿海城市/飞天水/周口店/新东方/地区和县）
+from geo_match import CITY_NEG_PREFIX, CITY_NEG_SUFFIX, CITY_STOPLIST  # noqa
+
 
 def fetch_address(code):
     opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
@@ -26,7 +29,8 @@ def fetch_address(code):
 
 
 def map_places(addr, places):
-    """地址串 → [行政区划码]：县级全称长名优先命中即停其层，再补地级市。"""
+    """地址串 → [行政区划码]：县级全称长名优先命中即停其层，再补地级市。
+    简称命中带负护栏（中山南路不等于中山市、上海东方不等于海东市）。"""
     counties = sorted(places['counties'], key=lambda c: -len(c['name']))
     cities = sorted(places['cities'], key=lambda c: -len(c['name']))
     hits = []
@@ -34,12 +38,22 @@ def map_places(addr, places):
         if c['name'] in addr:
             hits.append(('k:' + c['code'], c['name']))
             break
-    for c in cities:                        # 地级：全称优先，简称兜底
+    for c in cities:                        # 地级：全称优先，简称兜底（带护栏）
         if c['name'] in addr:
             hits.append(('c:' + c['code'], c['name']))
             break
-        if c['short'] in addr and not c['short'].endswith(('市区', '辖县')):
-            hits.append(('c:' + c['code'], c['name'] + f'(经简称“{c["short"]}”)'))
+        k = c['short']
+        if k.endswith(('市区', '辖县')):
+            continue
+        if k in addr and k not in CITY_STOPLIST:
+            i = addr.find(k)
+            pre = addr[i - 1:i] if i > 0 else ''
+            tail = addr[i + len(k):i + len(k) + 1]
+            if k in CITY_NEG_PREFIX and pre in CITY_NEG_PREFIX[k]:
+                continue
+            if k in CITY_NEG_SUFFIX and tail in CITY_NEG_SUFFIX[k]:
+                continue
+            hits.append(('c:' + c['code'], c['name'] + '(经简称”' + k + '”)'))
             break
     return hits
 
