@@ -2651,7 +2651,7 @@
 "id": "2012-08-01-krubera-deepest-dive",
 "date": "2012-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "库鲁伯亚拉洞穴探至约2200米：地球最深洞穴的极限推进",
 "category": "world",
 "region": "world",
@@ -2670,6 +2670,11 @@
 "title": "百度百科：库鲁伯亚拉洞穴",
 "url": "https://baike.baidu.com/item/库鲁伯亚拉洞穴",
 "type": "wiki"
+},
+{
+"title": "Interview with Gennady Samokhin - Ukrainian Speleological Association (2012-09-24)",
+"url": "https://speleoukraine.org/index.php/en/news/294-interview-gennady-samokhin",
+"type": "media"
 }
 ],
 "tags": [

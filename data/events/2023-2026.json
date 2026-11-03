@@ -27,10 +27,10 @@
 ]
 },
 {
-"id": "2023-01-01-gandong-china-2022",
-"date": "2023-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2023-03-04-gandong-china-2022",
+"date": "2023-03-04",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2022年度人物揭晓：钱七虎、邓小岚、杨宁等在列",
 "category": "society",
 "region": "cn",
@@ -44,6 +44,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "共产党员网：感动中国2022年度人物（2023-03-05）",
+"url": "https://www.12371.cn/2023/03/05/ARTI1677994474100428.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -344,7 +349,7 @@
 "id": "2023-03-01-zibo-bbq",
 "date": "2023-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "淄博烧烤出圈：大学生组团『进淄赶烤』",
 "category": "society",
 "region": "cn",
@@ -358,6 +363,11 @@
 "title": "维基百科：淄博烧烤",
 "url": "https://zh.wikipedia.org/wiki/淄博",
 "type": "wiki"
+},
+{
+"title": "澎湃新闻：大学生组团坐高铁去淄博撸串上热搜（2023-03）",
+"url": "https://www.thepaper.cn/newsDetail_forward_22726252",
+"type": "media"
 }
 ],
 "tags": [
@@ -2492,7 +2502,7 @@
 "id": "2023-10-01-kemusanche-dance-meme",
 "date": "2023-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "科目三舞蹈全网走红：《一笑江湖》配乐跳向海外",
 "category": "internet",
 "region": "cn",
@@ -2509,6 +2519,11 @@
 {
 "title": "维基百科·科目三（舞蹈）",
 "url": "https://zh.wikipedia.org/wiki/%E7%A7%91%E7%9B%AE%E4%B8%89_(%E8%88%9E%E8%B9%88)"
+},
+{
+"title": "新华网·中国故事：\"科目三\"掀起\"摇摆热潮\"",
+"url": "https://www.news.cn/local/20240112/6d933ae3e7f04ae6bf22e16f0af21f7d/c.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -3897,7 +3912,7 @@
 "id": "2024-01-01-harbin-ice-city",
 "date": "2024-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "哈尔滨冰雪游爆火：『尔滨』的宠粉狂欢",
 "category": "society",
 "region": "cn",
@@ -3911,6 +3926,11 @@
 "title": "维基百科：哈尔滨冰雪大世界",
 "url": "https://zh.wikipedia.org/wiki/哈尔滨冰雪大世界",
 "type": "wiki"
+},
+{
+"title": "新华网：300多万人次！元旦假期哈尔滨旅游真热闹（2024-01-03）",
+"url": "http://www.xinhuanet.com/local/20240103/0ffb641b19bb47bfac3a5b38f50859f0/c.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -3920,10 +3940,10 @@
 ]
 },
 {
-"id": "2024-01-01-gandong-china-2023",
-"date": "2024-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2024-04-08-gandong-china-2023",
+"date": "2024-04-08",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2023年度人物揭晓：俞鸿儒、刘玲琍、孟二梅等在列",
 "category": "society",
 "region": "cn",
@@ -3937,6 +3957,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "共产党员网：感动中国2023年度人物盛典（2024-04-08）",
+"url": "https://www.12371.cn/2024/04/08/VIDA1712579883203600.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -8265,7 +8290,7 @@
 "id": "2025-02-01-hangzhou-six-little-dragons",
 "date": "2025-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『杭州六小龙』出圈：一座城市的科技叙事爆红",
 "category": "economy",
 "region": "cn",
@@ -8279,6 +8304,11 @@
 "title": "杭州市 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/杭州市",
 "type": "wiki"
+},
+{
+"title": "新华网浙江：\"六小龙闹海\"——浙江科创样本观察（2025-02-18）",
+"url": "http://www.zj.xinhuanet.com/20250218/c7cec668331b4639902d8a95930a8cb0/c.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -10662,10 +10692,10 @@
 "region": "cn"
 },
 {
-"id": "2026-01-01-gandong-china-2025",
-"date": "2026-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2026-07-14-gandong-china-2025",
+"date": "2026-07-14",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2025年度人物揭晓：隐蔽战线在台牺牲英烈群体（吴石、朱枫等八位）、赵兴松和谢红兰等在列",
 "category": "society",
 "region": "cn",
@@ -10679,6 +10709,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "央视网：《感动中国2025年度人物颁奖盛典》7月14日播出（2026-07-14）",
+"url": "https://news.cctv.com/2026/07/14/ARTIZwjrxa6hytvBmTDThxHi260714.shtml",
+"type": "media"
 }
 ],
 "tags": [

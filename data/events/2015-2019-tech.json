@@ -322,7 +322,7 @@
 "id": "2015-12-01-dedao-app",
 "date": "2015-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "得到App上线：知识付费的招牌被挂起",
 "category": "product",
 "region": "cn",
@@ -341,6 +341,11 @@
 "title": "维基百科：罗振宇",
 "url": "https://zh.wikipedia.org/wiki/罗振宇",
 "type": "wiki"
+},
+{
+"title": "罗辑思维App得到公布运营数据：总营收1.4亿 - 新浪科技（2017-02-21）",
+"url": "https://tech.sina.com.cn/i/2017-02-21/doc-ifyarrcf5303139.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -354,7 +359,7 @@
 "id": "2016-01-01-livestreaming-year",
 "date": "2016-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "直播元年：千播大战烧出全民直播",
 "category": "culture",
 "region": "cn",
@@ -368,6 +373,11 @@
 "title": "维基百科：网络直播",
 "url": "https://zh.wikipedia.org/wiki/网络直播",
 "type": "wiki"
+},
+{
+"title": "2016直播迈入千播大战 第一阵营浮出水面 - 环球网",
+"url": "https://china.huanqiu.com/article/9CaKrnJYV9U",
+"type": "media"
 }
 ],
 "tags": [
@@ -606,7 +616,7 @@
 "id": "2016-10-01-lanshouxianggu",
 "date": "2016-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "蓝瘦香菇爆红：表情包时代的全民玩梗",
 "category": "culture",
 "region": "cn",
@@ -620,6 +630,11 @@
 "title": "百度百科：蓝瘦香菇",
 "url": "https://baike.baidu.com/item/蓝瘦香菇",
 "type": "wiki"
+},
+{
+"title": "吸粉数十万，\"蓝瘦香菇\"当事人：只为娱乐不想红 - 新浪（2016-10-19）",
+"url": "https://eladies.sina.com.cn/news/star/2016-10-19/1034/doc-ifxwvpar8384928.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -811,7 +826,7 @@
 "id": "2017-03-01-honor-of-kings-top-grossing",
 "date": "2017-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "王者荣耀登顶全球iOS收入榜：国民手游巅峰时刻",
 "category": "product",
 "region": "cn",
@@ -830,6 +845,11 @@
 "title": "维基百科：王者荣耀",
 "url": "https://zh.wikipedia.org/wiki/王者荣耀",
 "type": "wiki"
+},
+{
+"title": "AppAnnie：《王者荣耀》iOS全球收入第一 - GameLook（2017-04-13）",
+"url": "http://www.gamelook.com.cn/2017/04/287959/",
+"type": "media"
 }
 ],
 "tags": [
@@ -1172,7 +1192,7 @@
 "id": "2018-02-01-douyin-spring-festival",
 "date": "2018-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "抖音春节大爆发：日活半月从4000万飙到7000万",
 "category": "culture",
 "region": "cn",
@@ -1186,6 +1206,11 @@
 "title": "维基百科：抖音",
 "url": "https://zh.wikipedia.org/wiki/抖音",
 "type": "wiki"
+},
+{
+"title": "新京报（新浪转载）：抖音宣布全球月活跃用户数突破5亿",
+"url": "http://news.sina.com.cn/c/2018-07-16/doc-ihfkffak8788928.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1772,7 +1797,7 @@
 "id": "2019-06-01-live-commerce-year",
 "date": "2019-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "直播电商元年：李佳琦'OMG'与带货神话",
 "category": "culture",
 "region": "cn",
@@ -1791,6 +1816,11 @@
 "title": "维基百科：直播带货",
 "url": "https://zh.wikipedia.org/wiki/直播带货",
 "type": "wiki"
+},
+{
+"title": "华尔街见闻：李佳琦直播\"新战事\"：今年双十一单挑10亿销售额（2019-10-22）",
+"url": "https://awtmt.com/articles/3574945",
+"type": "media"
 }
 ],
 "tags": [

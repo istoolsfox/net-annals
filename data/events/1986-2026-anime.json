@@ -2821,7 +2821,7 @@
 "id": "2018-01-01-vtuber-boom-year",
 "date": "2018-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "『VTuber元年』：虚拟主播的产业爆发",
 "category": "culture",
 "region": "world",
@@ -2835,6 +2835,11 @@
 "title": "虚拟YouTuber - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/虚拟YouTuber",
 "type": "wiki"
+},
+{
+"title": "MoguraVR：2018年、VTuber急成長の年に起きたことを振り返る",
+"url": "https://www.moguravr.com/vtuber-look-back-2018-1",
+"type": "media"
 }
 ],
 "tags": [

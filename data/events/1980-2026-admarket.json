@@ -425,7 +425,7 @@
 "id": "2017-05-01-pechoin-1931-longform",
 "date": "2017-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "百雀羚《1931》刷屏：一支长图文引爆的『神广告』之争",
 "category": "culture",
 "region": "cn",
@@ -439,6 +439,11 @@
 "title": "百雀羚 - 百度百科",
 "url": "https://baike.baidu.com/item/百雀羚",
 "type": "wiki"
+},
+{
+"title": "百雀羚推出一镜到底的神广告：化身一九三一美女特工 - 数英（2017-05）",
+"url": "https://www.digitaling.com/projects/21630.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -453,7 +458,7 @@
 "id": "2018-06-01-brainwash-ads-worldcup",
 "date": "2018-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "世界杯『洗脑广告』三连：被群嘲的15秒与被记住的品牌",
 "category": "culture",
 "region": "cn",
@@ -472,6 +477,11 @@
 "title": "马蜂窝 - 百度百科",
 "url": "https://baike.baidu.com/item/马蜂窝",
 "type": "wiki"
+},
+{
+"title": "界面新闻：本届世界杯什么值得吐槽？还有央视的洗脑广告（2018-06-19）",
+"url": "https://www.jiemian.com/article/2242910.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -487,7 +497,7 @@
 "id": "2018-09-01-juliang-xingtu-platform",
 "date": "2018-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "巨量星图平台上线：KOL广告从灰色地带走向明码标价",
 "category": "internet",
 "region": "cn",
@@ -506,6 +516,11 @@
 "title": "巨量星图 - 百度百科",
 "url": "https://baike.baidu.com/item/巨量星图",
 "type": "wiki"
+},
+{
+"title": "界面新闻：抖音正式开放星图平台 达人接广告要给平台分成了（2018-09-04）",
+"url": "https://m.jiemian.com/article/2442895.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -619,7 +634,7 @@
 "id": "2024-11-01-aigc-ad-creative",
 "date": "2024-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "AI生成素材进入广告流水线：大促投放进入『分钟级出图』时代",
 "category": "internet",
 "region": "cn",
@@ -638,6 +653,11 @@
 "title": "AIGC - 百度百科",
 "url": "https://baike.baidu.com/item/AIGC",
 "type": "wiki"
+},
+{
+"title": "21经济网：AI营销，大厂竞技（2024-04-17）",
+"url": "https://www.21jingji.com/article/20240417/herald/bce886368217c553b3960a9d5aa331b1.html",
+"type": "media"
 }
 ],
 "tags": [

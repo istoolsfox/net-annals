@@ -42,7 +42,7 @@
 "id": "2015-06-01-video-vip-member-era",
 "date": "2015-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《盗墓笔记》会员看全集：中国网民第一次为视频掏钱",
 "category": "culture",
 "region": "cn",
@@ -61,6 +61,11 @@
 "title": "盗墓笔记 - 百度百科",
 "url": "https://baike.baidu.com/item/盗墓笔记",
 "type": "wiki"
+},
+{
+"title": "爱奇艺超级网剧《盗墓笔记》6月12日上线 会员可享全集抢先看 - 爱奇艺官方（2015-06-16）",
+"url": "https://www.iqiyi.com/common/20150616/2c821ea6f7fc9e1f.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -117,7 +122,7 @@
 "id": "2016-03-01-personal-cloud-drive-shutdown",
 "date": "2016-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "个人网盘关停潮：云端记忆的第一次大搬家",
 "category": "internet",
 "region": "cn",
@@ -136,6 +141,11 @@
 "title": "网盘 - 百度百科",
 "url": "https://baike.baidu.com/item/网盘",
 "type": "wiki"
+},
+{
+"title": "是谁杀死了网盘？ - 界面新闻（2016年春）",
+"url": "https://www.jiemian.com/article/673426.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -216,7 +226,7 @@
 "id": "2017-04-01-shared-power-bank-year",
 "date": "2017-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "共享充电宝元年：四十天十一笔融资的『伪需求』豪赌",
 "category": "internet",
 "region": "cn",
@@ -230,6 +240,11 @@
 "title": "共享充电宝 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/共享充电宝",
 "type": "wiki"
+},
+{
+"title": "共享经济成资本蜂拥风口 共享充电宝40天融资12亿元 - 中新网（2017-05-23）",
+"url": "https://www.chinanews.com/cj/2017/05-23/8231235.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -244,7 +259,7 @@
 "id": "2017-07-01-mobile-payment-abroad",
 "date": "2017-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "移动支付出海：中国游客的二维码刷到了全世界",
 "category": "internet",
 "region": "cn",
@@ -263,6 +278,11 @@
 "title": "微信支付 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/微信支付",
 "type": "wiki"
+},
+{
+"title": "微信・支付宝が日本市場を席巻 - 新华网日本频道（2017-09-15）",
+"url": "https://jp.xinhuanet.com/2017-09/15/c_136611283.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -521,7 +541,7 @@
 "id": "2019-01-01-app-personal-info-crackdown",
 "date": "2019-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "App个人信息专项治理启动：『不同意就不让用』走向终结",
 "category": "internet",
 "region": "cn",
@@ -535,6 +555,11 @@
 "title": "App违法违规收集使用个人信息专项治理 - 百度百科",
 "url": "https://baike.baidu.com/item/App违法违规收集使用个人信息专项治理",
 "type": "wiki"
+},
+{
+"title": "新华社：四部门将开展App违法违规收集使用个人信息专项治理",
+"url": "https://www.xinhuanet.com/politics/2019-01/25/c_1124043471.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -550,7 +575,7 @@
 "id": "2019-03-01-teen-mode-pilot",
 "date": "2019-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "短视频『青少年防沉迷系统』试点：青少年模式的起点",
 "category": "internet",
 "region": "cn",
@@ -564,6 +589,11 @@
 "title": "青少年防沉迷系统 - 百度百科",
 "url": "https://baike.baidu.com/item/青少年防沉迷系统",
 "type": "wiki"
+},
+{
+"title": "新浪教育：抖音快手等试点上线青少年防沉迷系统（2019-03-29）",
+"url": "https://edu.sina.cn/2019-03-29/detail-ihsxncvh6339245.d.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -646,7 +676,7 @@
 "id": "2021-01-01-app-elder-friendly-action",
 "date": "2021-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "互联网应用适老化专项行动：给3亿老人的数字台阶",
 "category": "society",
 "region": "cn",
@@ -660,6 +690,11 @@
 "title": "互联网应用适老化及无障碍改造专项行动 - 百度百科",
 "url": "https://baike.baidu.com/item/互联网应用适老化及无障碍改造专项行动",
 "type": "wiki"
+},
+{
+"title": "中新网：工信部优先推动115家网站、43个APP进行适老化改造（2020-12-28）",
+"url": "https://www.chinanews.com/cj/2020/12-28/9372802.shtml",
+"type": "media"
 }
 ],
 "tags": [

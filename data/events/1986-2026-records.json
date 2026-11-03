@@ -3234,7 +3234,7 @@
 "id": "2023-07-01-ju-wenjun-title-defense",
 "date": "2023-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "居文君卫冕棋后：中国国象的『她时代』继续",
 "category": "culture",
 "region": "cn",
@@ -3248,6 +3248,11 @@
 "title": "百度百科：居文君",
 "url": "https://baike.baidu.com/item/居文君",
 "type": "wiki"
+},
+{
+"title": "新华社：国象女子世界冠军赛 居文君卫冕棋后（新华社重庆7月22日电）",
+"url": "http://www.news.cn/2023-07/23/c_1129763703.htm",
+"type": "media"
 }
 ],
 "tags": [

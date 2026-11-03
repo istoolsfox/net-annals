@@ -5831,7 +5831,7 @@
 "id": "2016-09-01-shenzhen-national-gene-bank",
 "date": "2016-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深圳国家基因库开园：中国版『生命图书馆』落成",
 "category": "tech",
 "region": "cn",
@@ -5845,6 +5845,11 @@
 "title": "百度百科：国家基因库",
 "url": "https://baike.baidu.com/item/国家基因库",
 "type": "wiki"
+},
+{
+"title": "中国国家基因库 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E5%9F%BA%E5%9B%A0%E5%BA%93",
+"type": "media"
 }
 ],
 "tags": [
@@ -6444,7 +6449,7 @@
 "id": "2019-03-01-lamost-ten-million-spectra",
 "date": "2019-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "郭守敬望远镜光谱突破千万：全球首个千万级光谱巡天",
 "category": "tech",
 "region": "cn",
@@ -6458,6 +6463,11 @@
 "title": "百度百科：郭守敬望远镜",
 "url": "https://baike.baidu.com/item/郭守敬望远镜",
 "type": "wiki"
+},
+{
+"title": "LAMOST官网：郭守敬望远镜第六年巡天数据（DR6）发布，光谱总数突破千万（2019-03-27）",
+"url": "https://lssf.cas.cn/sszs/zyyj/gsjwyj/xwdt/201903/t20190327_5056841.html",
+"type": "media"
 }
 ],
 "tags": [

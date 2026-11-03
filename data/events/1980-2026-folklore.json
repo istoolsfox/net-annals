@@ -374,7 +374,7 @@
 "id": "2018-12-01-palace-museum-lipstick",
 "date": "2018-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "故宫口红一色难求：文创彩妆把紫禁城色彩涂进国潮美妆",
 "category": "culture",
 "region": "cn",
@@ -394,6 +394,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/故宫口红",
 "title": "wiki"
+},
+{
+"title": "人民日报·中国城市报：故宫首款彩妆\"故宫口红\"诞生（2018-12-17）",
+"url": "https://paper.people.com.cn/zgcsb/html/2018-12/17/content_1899420.htm",
+"type": "media"
 }
 ]
 },
@@ -455,7 +460,7 @@
 "id": "2020-12-01-henan-museum-archaeology-blindbox",
 "date": "2020-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "河南博物院考古盲盒走红：把考古挖土装进文创盒子",
 "category": "culture",
 "region": "cn",
@@ -480,6 +485,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/河南博物院",
 "title": "wiki"
+},
+{
+"title": "新华网：开盲盒能体验考古的快乐，你想试试吗？（2020-12-05）",
+"url": "https://www.xinhuanet.com/politics/2020-12/05/c_1126823681.htm",
+"type": "media"
 }
 ]
 },

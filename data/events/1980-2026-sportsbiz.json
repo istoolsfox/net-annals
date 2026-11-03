@@ -344,7 +344,7 @@
 "id": "2019-06-01-ice-snow-equipment-plan",
 "date": "2019-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "冰雪装备器材产业发展行动计划印发：国产造雪机与滑雪装备迎来政策窗口",
 "category": "economy",
 "region": "cn",
@@ -365,6 +365,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/冰雪装备器材产业发展行动计划",
 "title": "wiki"
+},
+{
+"title": "人民网：《冰雪装备器材产业发展行动计划（2019—2022年）》全文（2019-06-05）",
+"url": "http://sports.people.com.cn/n1/2019/0605/c407727-31121218.html",
+"type": "media"
 }
 ]
 },
@@ -372,7 +377,7 @@
 "id": "2019-09-01-sports-power-outline",
 "date": "2019-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《体育强国建设纲要》印发：体育产业锚定2035支柱性产业目标",
 "category": "economy",
 "region": "cn",
@@ -393,6 +398,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/体育强国建设纲要",
 "title": "wiki"
+},
+{
+"title": "中国政府网：国务院办公厅印发《体育强国建设纲要》（国办发〔2019〕40号，2019-09-02）",
+"url": "http://www.gov.cn/zhengce/content/2019-09/02/content_5426485.htm",
+"type": "media"
 }
 ]
 },
@@ -427,7 +437,7 @@
 "id": "2020-09-01-tijiao-ronghe-opinion",
 "date": "2020-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "体教融合意见印发：青少年体育训练与校园体育的壁垒开始打通",
 "category": "national",
 "region": "cn",
@@ -449,6 +459,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/关于深化体教融合促进青少年健康发展的意见",
 "title": "wiki"
+},
+{
+"title": "中国政府网：体育总局 教育部关于印发深化体教融合 促进青少年健康发展意见的通知（体发〔2020〕1号）",
+"url": "https://www.gov.cn/zhengce/zhengceku/2020-09/21/content_5545112.htm",
+"type": "media"
 }
 ]
 },
@@ -543,7 +558,7 @@
 "id": "2022-11-01-outdoor-industry-plan",
 "date": "2022-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "八部门印发《户外运动产业发展规划》：剑指2025年3万亿市场",
 "category": "economy",
 "region": "cn",
@@ -563,6 +578,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/户外运动产业发展规划",
 "title": "wiki"
+},
+{
+"title": "国家体育总局：《户外运动产业发展规划（2022—2025年）》",
+"url": "https://www.sport.gov.cn/n20001280/n20745751/c24894094/content.html",
+"type": "media"
 }
 ]
 },
@@ -596,7 +616,7 @@
 "id": "2023-12-01-sports-industry-total-3t",
 "date": "2023-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "全国体育产业总规模突破3万亿元：产业体量迈上新台阶",
 "category": "economy",
 "region": "cn",
@@ -616,6 +636,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/体育产业",
 "title": "体育产业"
+},
+{
+"title": "国家统计局：2022年全国体育产业总规模与增加值数据公告（2023-12-29）",
+"url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202312/t20231229_1946088.html",
+"type": "media"
 }
 ]
 }

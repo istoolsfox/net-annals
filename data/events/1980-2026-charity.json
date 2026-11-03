@@ -420,10 +420,10 @@
 ]
 },
 {
-"id": "2011-02-01-heren-foundation",
-"date": "2011-02-01",
+"id": "2011-05-01-heren-foundation",
+"date": "2011-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "河仁慈善基金会成立：曹德旺捐股开创中国股权捐赠先河",
 "category": "society",
 "region": "cn",
@@ -437,6 +437,11 @@
 "title": "百度百科：河仁慈善基金会",
 "url": "https://baike.baidu.com/item/河仁慈善基金会",
 "type": "wiki"
+},
+{
+"title": "中国首家股捐慈善基金会\"河仁慈善基金会\"成立 - 中新网（2011-05-05）",
+"url": "https://www.chinanews.com.cn/zgqj/2011/05-05/3019477.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -451,10 +456,10 @@
 ]
 },
 {
-"id": "2015-02-01-ma-yun-rural-teacher-award",
-"date": "2015-02-01",
+"id": "2016-01-17-ma-yun-rural-teacher-award",
+"date": "2016-01-17",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "首届马云乡村教师奖颁奖：给乡村教师的高光之夜",
 "category": "society",
 "region": "cn",
@@ -468,6 +473,11 @@
 "title": "百度百科：马云乡村教师奖",
 "url": "https://baike.baidu.com/item/马云乡村教师奖",
 "type": "wiki"
+},
+{
+"title": "首届马云乡村教师奖颁奖典礼在海南三亚举行 - 搜狐（2016-01-18）",
+"url": "https://mt.sohu.com/20160118/n434905491.shtml",
+"type": "media"
 }
 ],
 "tags": [

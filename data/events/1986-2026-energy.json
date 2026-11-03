@@ -251,7 +251,7 @@
 "id": "2010-08-01-chuanqi-dongsong-gaspipeline",
 "date": "2010-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "川气东送工程投运：四川盆地天然气直供长三角",
 "category": "economy",
 "region": "cn",
@@ -265,6 +265,11 @@
 "title": "维基百科：川气东送",
 "url": "https://zh.wikipedia.org/wiki/%E5%B7%9D%E6%B0%94%E4%B8%9C%E9%80%81",
 "type": "wiki"
+},
+{
+"title": "川气东送工程投入商业运行-搜狐新闻（源：新华网2010-09-01）",
+"url": "https://news.sohu.com/20100901/n274638949.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -630,7 +635,7 @@
 "id": "2022-08-01-shenzhen-vpp-center",
 "date": "2022-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "全国首家虚拟电厂管理中心揭牌：把散落的电力『攒』成电厂",
 "category": "economy",
 "region": "cn",
@@ -649,6 +654,11 @@
 "title": "虚拟电厂 - 百度百科",
 "url": "https://baike.baidu.com/item/虚拟电厂",
 "type": "wiki"
+},
+{
+"title": "网易：国内首家！虚拟电厂管理中心落地深圳（2022-08）",
+"url": "https://www.163.com/dy/article/HFS1Q1T20530NLC9.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -735,7 +745,7 @@
 "id": "2024-01-01-new-energy-storage-boom",
 "date": "2024-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "新型储能装机爆发：一年新增顶过去历年总和",
 "category": "national",
 "region": "cn",
@@ -754,6 +764,11 @@
 "title": "新型储能 - 百度百科",
 "url": "https://baike.baidu.com/item/新型储能",
 "type": "wiki"
+},
+{
+"title": "中国电力网：国家能源局新闻发布会介绍2023年新型储能发展情况（2024-01-25）",
+"url": "https://www.china5e.com/news/news-1164742-1.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -770,7 +785,7 @@
 "id": "2024-08-01-charging-infra-10m",
 "date": "2024-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "充电基础设施突破1000万台：电动中国的能量毛细血管",
 "category": "national",
 "region": "cn",
@@ -789,6 +804,11 @@
 "title": "充电桩 - 百度百科",
 "url": "https://baike.baidu.com/item/充电桩",
 "type": "wiki"
+},
+{
+"title": "弗戈工业在线：中国充电联盟2024年7月数据——充电基础设施突破1000万台",
+"url": "https://auto.jgvogel.cn/c/1432/1432505.shtml",
+"type": "media"
 }
 ],
 "tags": [

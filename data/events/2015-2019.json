@@ -10833,7 +10833,7 @@
 "id": "2017-09-01-cop13-ordos-desertification",
 "date": "2017-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "联合国防治荒漠化公约大会落地鄂尔多斯：库布其模式的世界舞台",
 "category": "national",
 "region": "cn",
@@ -10847,6 +10847,11 @@
 "title": "维基百科：库布其沙漠",
 "url": "https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B8%83%E9%BD%90%E6%B2%99%E6%BC%A0",
 "type": "wiki"
+},
+{
+"title": "新华社（中国地质调查局转载）：联合国防治荒漠化公约第十三次缔约方大会高级别会议在鄂尔多斯举行",
+"url": "https://www.cgs.gov.cn/zfw/201709/t20170912_801972.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -10864,7 +10869,7 @@
 "id": "2017-09-01-zhijiang-lab-founded",
 "date": "2017-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "之江实验室在杭州成立：浙江布局国家战略科技力量",
 "category": "tech",
 "region": "cn",
@@ -10883,6 +10888,11 @@
 "title": "杭州市 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82",
 "type": "wiki"
+},
+{
+"title": "科技部：浙江之江实验室在杭挂牌成立",
+"url": "https://www.most.gov.cn/dfkj/zj/zxdt/201709/t20170911_134847.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -12665,10 +12675,10 @@
 ]
 },
 {
-"id": "2018-01-01-gandong-china-2017",
-"date": "2018-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2018-03-01-gandong-china-2017",
+"date": "2018-03-01",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2017年度人物揭晓：卢永根、廖俊波、杨科璋等在列",
 "category": "society",
 "region": "cn",
@@ -12682,6 +12692,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "央广网：2017年度感动中国人物颁奖典礼即将播出",
+"url": "http://news.cnr.cn/native/gd/20180301/t20180301_524148479.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -13388,10 +13403,10 @@
 ]
 },
 {
-"id": "2018-04-01-nagqu-city-establishment",
-"date": "2018-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2018-05-07-nagqu-city-establishment",
+"date": "2018-05-07",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "那曲撤地设市：西藏地级行政区划完成市制化",
 "category": "society",
 "region": "cn",
@@ -13405,6 +13420,11 @@
 "title": "维基百科：那曲市",
 "url": "https://zh.wikipedia.org/wiki/%E9%82%A3%E6%9B%B2%E5%B8%82",
 "type": "wiki"
+},
+{
+"title": "新华社：那曲完成撤地设市 成为西藏第六个地级市",
+"url": "https://www.xinhuanet.com/politics/2018-05/07/c_129866334.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -16792,10 +16812,10 @@
 ]
 },
 {
-"id": "2019-01-01-gandong-china-2018",
-"date": "2019-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2019-02-18-gandong-china-2018",
+"date": "2019-02-18",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2018年度人物揭晓：程开甲、钟扬、王继才等在列",
 "category": "society",
 "region": "cn",
@@ -16809,6 +16829,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "共产党员网：2018年度感动中国人物（2019-02-20）",
+"url": "https://www.12371.cn/2019/02/20/ARTI1550634773498456.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -20597,7 +20622,7 @@
 "id": "2019-11-01-victorias-secret-show-cancelled",
 "date": "2019-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "维多利亚的秘密取消年度大秀：性感营销时代的终结信号",
 "category": "culture",
 "region": "world",
@@ -20611,6 +20636,11 @@
 "title": "维多利亚的秘密 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/维多利亚的秘密",
 "type": "wiki"
+},
+{
+"title": "界面新闻：确认！今年维密大秀取消",
+"url": "https://www.jiemian.com/article/3708251.html",
+"type": "media"
 }
 ],
 "tags": [

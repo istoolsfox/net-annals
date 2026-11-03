@@ -1,9 +1,9 @@
 [
 {
-"id": "2020-01-01-gandong-china-2019",
-"date": "2020-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2020-05-17-gandong-china-2019",
+"date": "2020-05-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2019年度人物揭晓：樊锦诗、四川森林消防员、顾方舟等在列",
 "category": "society",
 "region": "cn",
@@ -17,6 +17,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "共产党员网：《感动中国2019年度人物》樊锦诗专题（2020-05-17）",
+"url": "https://www.12371.cn/2020/05/17/VIDE1589720040769402.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -2035,7 +2040,7 @@
 "id": "2020-07-01-shen24-electric-locomotive",
 "date": "2020-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "神24电力机车株洲下线：全球最大功率机车出自「电力机车之都」",
 "category": "hardware",
 "region": "cn",
@@ -2049,6 +2054,11 @@
 "title": "维基百科：中车株洲电力机车",
 "url": "https://zh.wikipedia.org/wiki/中车株洲电力机车",
 "type": "wiki"
+},
+{
+"title": "中新网：全球最大功率电力机车湖南株洲下线（2020-07-29）",
+"url": "https://www.chinanews.com/cj/2020/07-29/9251510.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -4086,7 +4096,7 @@
 "id": "2020-11-01-xihaigu-poverty-eradication",
 "date": "2020-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "西海固脱贫摘帽：「最不适宜人类生存地区」的历史告别",
 "category": "society",
 "region": "cn",
@@ -4100,6 +4110,11 @@
 "title": "维基百科：西海固",
 "url": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%B5%B7%E5%9B%BA",
 "type": "wiki"
+},
+{
+"title": "央视《新闻联播》：四川宁夏所有贫困县全部脱贫摘帽（2020-11-17）",
+"url": "https://tv.cctv.com/2020/11/17/VIDEY34G6HsDf5UEEdLrZtXl201117.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -6361,10 +6376,10 @@
 ]
 },
 {
-"id": "2021-01-01-gandong-china-2020",
-"date": "2021-01-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2021-02-17-gandong-china-2020",
+"date": "2021-02-17",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2020年度人物揭晓：张定宇、陈陆、张桂梅等在列",
 "category": "society",
 "region": "cn",
@@ -6378,6 +6393,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "应急管理部：《感动中国2020年度人物颁奖盛典》预告（2021-02）",
+"url": "https://www.mem.gov.cn/xw/yjglbgzdt/202102/t20210215_379975.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -9986,7 +10006,7 @@
 "id": "2021-07-01-ningxia-wine-pilot-zone",
 "date": "2021-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "宁夏获批全国唯一葡萄酒产业开放发展综合试验区",
 "category": "economy",
 "region": "cn",
@@ -10000,6 +10020,11 @@
 "title": "维基百科：贺兰山东麓葡萄酒",
 "url": "https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92",
 "type": "wiki"
+},
+{
+"title": "华侨报（中新社银川7月10日电）：中国首个特色产业开放发展综合试验区挂牌（2021-07-11）",
+"url": "http://www.jornalvakio.com/news/view/id/448109",
+"type": "media"
 }
 ],
 "tags": [
@@ -12460,7 +12485,7 @@
 "id": "2021-11-01-liaoning-blizzard",
 "date": "2021-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "辽宁特大暴雪：一级暴雪灾害刷新多项纪录",
 "category": "national",
 "region": "cn",
@@ -12474,6 +12499,11 @@
 "title": "2021年中国大陆（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "新华网：辽宁暴雪已致超5万栋农业设施受灾（2021-11-11）",
+"url": "http://news.china.com.cn/2021-11/11/content_77865206.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -13005,7 +13035,7 @@
 "id": "2021-12-01-shenzhen-water-ration",
 "date": "2021-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深圳建市以来最严重旱情：东江咸潮下的精准限水",
 "category": "society",
 "region": "cn",
@@ -13019,6 +13049,11 @@
 "title": "2021年中国大陆（维基百科）",
 "url": "https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
 "type": "wiki"
+},
+{
+"title": "腾讯新闻：深圳五大措施\"开源节流\"保供水（2021-11-26）",
+"url": "https://news.qq.com/rain/a/20211126A02EAY00",
+"type": "media"
 }
 ],
 "tags": [
@@ -13876,10 +13911,10 @@
 ]
 },
 {
-"id": "2022-01-01-gandong-china-2021",
-"date": "2022-01-01",
-"date_accuracy": "year",
-"date_confidence": "single-source",
+"id": "2022-03-03-gandong-china-2021",
+"date": "2022-03-03",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "感动中国2021年度人物揭晓：彭士禄、杨振宁、顾诵芬等在列",
 "category": "society",
 "region": "cn",
@@ -13893,6 +13928,11 @@
 "title": "感动中国年度人物评选（维基百科·历届获奖者名单）",
 "url": "https://zh.wikipedia.org/wiki/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9",
 "type": "wiki"
+},
+{
+"title": "界面新闻：2021感动中国年度人物名单公布（2022-03-03）",
+"url": "https://www.jiemian.com/article/7167608.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -13908,7 +13948,7 @@
 "id": "2022-01-01-baiyangdian-water-quality-iii",
 "date": "2022-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "白洋淀水质恢复至Ⅲ类：华北明珠重现",
 "category": "society",
 "region": "cn",
@@ -13922,6 +13962,11 @@
 "title": "白洋淀 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/白洋淀",
 "type": "wiki"
+},
+{
+"title": "河北日报（河北省生态环境厅转载）：恢复蓄水34年，白洋淀首次全域还清（2022-01-10）",
+"url": "https://hbepb.hebei.gov.cn/hbhjt/xwzx/meitibobao/101640586586596.html",
+"type": "media"
 }
 ],
 "tags": [

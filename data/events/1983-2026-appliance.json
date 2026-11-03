@@ -425,10 +425,10 @@
 ]
 },
 {
-"id": "2015-03-01-gree-phone-launch",
-"date": "2015-03-01",
+"id": "2015-06-01-gree-phone-launch",
+"date": "2015-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "格力手机开卖：空调之王的跨界执念",
 "category": "company",
 "region": "cn",
@@ -442,6 +442,11 @@
 "title": "百度百科：格力手机",
 "url": "https://baike.baidu.com/item/格力手机",
 "type": "wiki"
+},
+{
+"title": "格力手机开卖，董明珠股东大会上吆喝：\"供不应求\" - 澎湃新闻（2015-06-01）",
+"url": "https://www.thepaper.cn/newsDetail_forward_1337359",
+"type": "media"
 }
 ],
 "tags": [
@@ -515,7 +520,7 @@
 "id": "2020-03-01-healthy-appliance-boom",
 "date": "2020-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "健康家电热：除菌空调净化器一机难求",
 "category": "economy",
 "region": "cn",
@@ -529,6 +534,11 @@
 "title": "百度百科：健康家电",
 "url": "https://baike.baidu.com/item/健康家电",
 "type": "wiki"
+},
+{
+"title": "界面新闻：苏宁数据健康除菌类家电销售增长超200%（2020年2月）",
+"url": "https://jiemian.com/article/3946961.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -543,7 +553,7 @@
 "id": "2020-05-01-appliance-export-boom",
 "date": "2020-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "家电海外订单井喷：宅家经济与中国供应链的极限测试",
 "category": "economy",
 "region": "cn",
@@ -557,6 +567,11 @@
 "title": "百度百科：中国家电出口",
 "url": "https://baike.baidu.com/item/中国家电",
 "type": "wiki"
+},
+{
+"title": "新浪财经：2020冰箱市场综述：低开高走 出口井喷（2021-01-19）",
+"url": "https://finance.sina.com.cn/tech/2021-01-19/doc-ikftssan8313673.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -572,7 +587,7 @@
 "id": "2022-08-01-heat-pump-export-surge",
 "date": "2022-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "欧洲能源危机带火中国热泵：冬天前的订单雪片",
 "category": "economy",
 "region": "cn",
@@ -586,6 +601,11 @@
 "title": "百度百科：热泵",
 "url": "https://baike.baidu.com/item/热泵",
 "type": "wiki"
+},
+{
+"title": "新浪财经：欧洲能源价格暴涨，中国电热毯、热泵被买爆（2022-09-29）",
+"url": "https://finance.sina.cn/2022-09-29/detail-imqqsmrp0894974.d.html",
+"type": "media"
 }
 ],
 "tags": [

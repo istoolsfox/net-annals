@@ -3,7 +3,7 @@
 "id": "2020-01-01-tiktok-downloads-first",
 "date": "2020-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "TikTok登顶2020全球下载榜：中国App的全球化样本",
 "category": "internet",
 "region": "world",
@@ -17,6 +17,11 @@
 "title": "维基百科：TikTok",
 "url": "https://en.wikipedia.org/wiki/TikTok",
 "type": "wiki"
+},
+{
+"title": "App Annie《State of Mobile 2021》年度报告（TikTok 2020年下载约8.5亿次居全球第一）",
+"url": "https://static.poder360.com.br/2021/08/APP-ANNIE-State-of-mobile-2021-1.pdf",
+"type": "media"
 }
 ],
 "tags": [
@@ -188,7 +193,7 @@
 "id": "2020-04-01-zoom-baofa",
 "date": "2020-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "Zoom 借疫情爆发：视频会议成为全民基础设施",
 "category": "internet",
 "region": "world",
@@ -202,6 +207,11 @@
 "title": "维基百科：Zoom (software)",
 "url": "https://en.wikipedia.org/wiki/Zoom_(software)",
 "type": "wiki"
+},
+{
+"title": "The Hindu BusinessLine: Zoom clarifies 300 million daily meeting participants",
+"url": "https://www.thehindubusinessline.com/info-tech/zoom-clarifies-the-platform-has-300-million-daily-meetings-participants-not-users/article31480378.ece",
+"type": "media"
 }
 ],
 "tags": [
@@ -769,7 +779,7 @@
 "id": "2021-06-01-mixue-zhutiqu",
 "date": "2021-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "蜜雪冰城主题曲爆火：『你爱我我爱你』的鬼畜狂欢",
 "category": "culture",
 "region": "cn",
@@ -783,6 +793,11 @@
 "title": "维基百科：蜜雪冰城",
 "url": "https://zh.wikipedia.org/wiki/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E",
 "type": "wiki"
+},
+{
+"title": "腾讯新闻：靠洗脑神曲攻陷B站的蜜雪冰城（2021-06-26）",
+"url": "https://news.qq.com/rain/a/20210626A043ZB00",
+"type": "media"
 }
 ],
 "tags": [
@@ -1060,7 +1075,7 @@
 "id": "2022-04-01-liugonghong",
 "date": "2022-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "刘畊宏直播健身爆火：『刘畊宏女孩』的居家操课",
 "category": "culture",
 "region": "cn",
@@ -1074,6 +1089,11 @@
 "title": "维基百科：刘畊宏",
 "url": "https://zh.wikipedia.org/wiki/%E5%88%98%E7%95%8A%E5%AE%8F",
 "type": "wiki"
+},
+{
+"title": "中新网：刘畊宏火了，直播健身能走多远？（2022-04-22）",
+"url": "http://www.chinanews.com.cn/ty/2022/04-22/9735972.shtml",
+"type": "media"
 }
 ],
 "tags": [

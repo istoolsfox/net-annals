@@ -412,7 +412,7 @@
 "id": "2010-12-01-vanke-100-billion",
 "date": "2010-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "万科率先突破千亿销售：住宅工业化的龙头时代",
 "category": "company",
 "region": "cn",
@@ -426,6 +426,11 @@
 "title": "百度百科：万科",
 "url": "https://baike.baidu.com/item/万科",
 "type": "wiki"
+},
+{
+"title": "万科成国内第一家年销售额破千亿房企 - 中新网（2010-12-03）",
+"url": "https://www.chinanews.com.cn/estate/2010/12-03/2697708.shtml",
+"type": "media"
 }
 ],
 "tags": [

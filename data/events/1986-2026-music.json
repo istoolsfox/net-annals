@@ -3011,7 +3011,7 @@
 "id": "2010-01-01-tan-te",
 "date": "2010-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "龚琳娜《忐忑》走红：一首没有歌词的神曲",
 "category": "culture",
 "region": "cn",
@@ -3025,6 +3025,11 @@
 "title": "Wikipedia: 忐忑 (歌曲)",
 "url": "https://zh.wikipedia.org/wiki/忐忑_(歌曲)",
 "type": "wiki"
+},
+{
+"title": "龚琳娜《忐忑》走红网络 王菲也想要翻唱(图)_新浪女性_新浪网",
+"url": "http://eladies.sina.com.cn/news/2010/1019/13471024934.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3109,7 +3114,7 @@
 "id": "2010-11-01-xu-ri-yang-gang",
 "date": "2010-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "旭日阳刚宿舍吼《春天里》：农民工组合的国民眼泪",
 "category": "culture",
 "region": "cn",
@@ -3123,6 +3128,11 @@
 "title": "Wikipedia: 旭日阳刚",
 "url": "https://zh.wikipedia.org/wiki/旭日阳刚",
 "type": "wiki"
+},
+{
+"title": "河南农民歌手火在春天里_新浪新闻（2010-11-04旭日阳刚专题）",
+"url": "http://news.sina.com.cn/c/2010-11-04/045818325933s.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3253,7 +3263,7 @@
 "id": "2012-01-01-zui-xuan-min-zu-feng",
 "date": "2012-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《最炫民族风》跳遍全国：广场舞有了自己的国歌",
 "category": "culture",
 "region": "cn",
@@ -3267,6 +3277,11 @@
 "title": "Wikipedia: 最炫民族风",
 "url": "https://zh.wikipedia.org/wiki/最炫民族风",
 "type": "wiki"
+},
+{
+"title": "凤凰传奇\"民族风\"缔造奇迹 - 中新网（2012-03-31）",
+"url": "https://www.chinanews.com.cn/yl/2012/03-31/3789394.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3436,7 +3451,7 @@
 "id": "2013-09-01-li-rong-hao-mote",
 "date": "2013-09-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "李荣浩《模特》发行：幕后写歌人的台前第一步",
 "category": "culture",
 "region": "cn",
@@ -3450,6 +3465,11 @@
 "title": "Wikipedia: 李荣浩",
 "url": "https://zh.wikipedia.org/wiki/李荣浩",
 "type": "wiki"
+},
+{
+"title": "模特（李荣浩专辑） - 豆瓣音乐",
+"url": "https://music.douban.com/subject/25720661/",
+"type": "media"
 }
 ],
 "tags": [
@@ -3492,7 +3512,7 @@
 "id": "2014-01-01-hua-ban-xie",
 "date": "2014-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《我的滑板鞋》：一个打工青年的荒诞走红",
 "category": "culture",
 "region": "cn",
@@ -3506,6 +3526,11 @@
 "title": "Wikipedia: 我的滑板鞋",
 "url": "https://zh.wikipedia.org/wiki/我的滑板鞋",
 "type": "wiki"
+},
+{
+"title": "新一代洗脑神曲《我的滑板鞋》火了 - 新浪新闻（2014-10-20）",
+"url": "http://news.sina.com.cn/c/2014-10-20/043931013263.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -3733,7 +3758,7 @@
 "id": "2016-01-01-xue-zhi-qian",
 "date": "2016-01-01",
 "date_accuracy": "year",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "薛之谦翻红：段子手与《演员》的双线逆袭",
 "category": "culture",
 "region": "cn",
@@ -3747,6 +3772,11 @@
 "title": "Wikipedia: 薛之谦",
 "url": "https://zh.wikipedia.org/wiki/薛之谦",
 "type": "wiki"
+},
+{
+"title": "薛之谦靠段子翻红获芒果青睐 - 新浪（2016-05-30）",
+"url": "https://news.sina.cn/2016-05-30/detail-ifxsqykt9970349.d.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4107,7 +4137,7 @@
 "id": "2018-04-01-xue-mao-jiao",
 "date": "2018-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《学猫叫》刷屏：短视频神曲元年",
 "category": "culture",
 "region": "cn",
@@ -4121,6 +4151,11 @@
 "title": "Wikipedia: 学猫叫",
 "url": "https://zh.wikipedia.org/wiki/学猫叫",
 "type": "wiki"
+},
+{
+"title": "豆瓣音乐：《学猫叫》单曲条目（发行时间2018-04-20）",
+"url": "https://m.douban.com/music/subject/30215350/",
+"type": "media"
 }
 ],
 "tags": [
@@ -4406,7 +4441,7 @@
 "id": "2019-11-01-ye-lang-disco",
 "date": "2019-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《野狼Disco》爆红：东北迪斯科的全民怀旧",
 "category": "culture",
 "region": "cn",
@@ -4420,6 +4455,11 @@
 "title": "宝石Gem - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/宝石Gem",
 "type": "wiki"
+},
+{
+"title": "China Daily：东北说唱歌手董宝石因《野狼Disco》成名（2019-11-03）",
+"url": "https://language.chinadaily.com.cn/a/201911/03/WS5dbe2694a310cf3e35575152.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -4435,7 +4475,7 @@
 "id": "2020-04-01-jing-lei",
 "date": "2020-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《惊雷》爆红与杨坤开怼：神曲审美大战再起",
 "category": "culture",
 "region": "cn",
@@ -4449,6 +4489,11 @@
 "title": "Wikipedia: 杨坤",
 "url": "https://zh.wikipedia.org/wiki/杨坤",
 "type": "wiki"
+},
+{
+"title": "中新网：把杨坤\"劈醒了\"的神曲《惊雷》，为何能火？（2020-04-16）",
+"url": "https://www.chinanews.com/m/yl/2020/04-16/9158903.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -4612,7 +4657,7 @@
 "id": "2021-11-01-mo-he-wu-ting",
 "date": "2021-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《漠河舞厅》走红：一首歌背后的火灾与独舞老人",
 "category": "culture",
 "region": "cn",
@@ -4626,6 +4671,11 @@
 "title": "Wikipedia: 漠河舞厅",
 "url": "https://zh.wikipedia.org/wiki/漠河舞厅",
 "type": "wiki"
+},
+{
+"title": "中新网：火遍全网的《漠河舞厅》，背后的故事让人动容（2021-11-06）",
+"url": "https://www.chinanews.com/yl/2021/11-06/9603269.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -4673,7 +4723,7 @@
 "id": "2022-04-01-liu-jian-hong-jianzicao",
 "date": "2022-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "刘畊宏毽子操：本草纲目跳成全民健身",
 "category": "culture",
 "region": "cn",
@@ -4687,6 +4737,11 @@
 "title": "Wikipedia: 本草纲目 (歌曲)",
 "url": "https://zh.wikipedia.org/wiki/本草纲目_(歌曲)",
 "type": "wiki"
+},
+{
+"title": "中新网：刘畊宏爆红是意外？自我世界也需要一次放飞（2022-04-26，10天涨粉3000万）",
+"url": "http://www.chinanews.com.cn/ty/2022/04-26/9739631.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -4793,7 +4848,7 @@
 "id": "2023-02-01-wu-mei-zi-jiang",
 "date": "2023-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《乌梅子酱》爆红：一首甜歌引发的乐评战争",
 "category": "culture",
 "region": "cn",
@@ -4807,6 +4862,11 @@
 "title": "Wikipedia: 乌梅子酱",
 "url": "https://zh.wikipedia.org/wiki/乌梅子酱",
 "type": "wiki"
+},
+{
+"title": "网易：是李荣浩功力减弱还是丁太升瞧不起人？《乌梅子酱》有存在的资格",
+"url": "https://www.163.com/dy/article/HUCF8I2C05179FSB.html",
+"type": "media"
 }
 ],
 "tags": [

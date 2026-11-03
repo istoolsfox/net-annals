@@ -284,7 +284,7 @@
 "id": "2011-07-01-digital-publishing-100b",
 "date": "2011-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "数字出版收入突破千亿：传统出版的第二曲线启动",
 "category": "culture",
 "region": "cn",
@@ -298,6 +298,11 @@
 "title": "百度百科：数字出版",
 "url": "https://baike.baidu.com/item/数字出版",
 "type": "wiki"
+},
+{
+"title": "2010-2011中国数字出版年度报告发布 - 中国高校教材图书网（2011-07-19）",
+"url": "https://www.sinobook.com.cn/guide/newsdetail.cfm?iCntno=8602",
+"type": "media"
 }
 ],
 "tags": [
@@ -339,7 +344,7 @@
 "id": "2013-03-01-ximalaya-fm-launch",
 "date": "2013-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "喜马拉雅FM上线：「听书」打开阅读的耳朵入口",
 "category": "internet",
 "region": "cn",
@@ -353,6 +358,11 @@
 "title": "百度百科：喜马拉雅",
 "url": "https://baike.baidu.com/item/喜马拉雅",
 "type": "wiki"
+},
+{
+"title": "喜马拉雅FM - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85FM",
+"type": "media"
 }
 ],
 "tags": [
@@ -392,7 +402,7 @@
 "id": "2013-08-01-quanmin-yuedu-legislation",
 "date": "2013-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "全民阅读立法列入国家立法计划：读书要不要立法引发大讨论",
 "category": "culture",
 "region": "cn",
@@ -406,6 +416,11 @@
 "title": "百度百科：全民阅读",
 "url": "https://baike.baidu.com/item/全民阅读",
 "type": "wiki"
+},
+{
+"title": "\"全民阅读\"列入今年立法计划 已草拟条例初稿 - 中新网（2013-08-05）",
+"url": "https://www.chinanews.com.cn/cul/2013/08-05/5120647.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -446,7 +461,7 @@
 "id": "2014-12-01-wuxiaworld-founded",
 "date": "2014-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "Wuxiaworld创立：中国网文民间出海的第一站",
 "category": "internet",
 "region": "cn",
@@ -465,6 +480,11 @@
 "title": "百度百科：Wuxiaworld",
 "url": "https://baike.baidu.com/item/Wuxiaworld",
 "type": "wiki"
+},
+{
+"title": "网络文学出海，刚刚开始 - 中国作家网（2017-02-07）",
+"url": "https://www.chinawriter.com.cn/n1/2017/0207/c404023-29063771.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -478,7 +498,7 @@
 "id": "2015-08-01-weixin-read",
 "date": "2015-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "微信读书上线",
 "category": "product",
 "region": "cn",
@@ -494,6 +514,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/微信读书",
 "title": "wiki"
+},
+{
+"title": "微信读书正式上线 深度引入微信关系链 | 极客早知道2015年8月28日 - 极客公园",
+"url": "https://www.geekpark.net/news/213301",
+"type": "media"
 }
 ],
 "milestone": false,
@@ -531,7 +556,7 @@
 "id": "2016-06-01-bookstore-support-policy",
 "date": "2016-06-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "十一部门发文支持实体书店：书店回暖的政策拐点",
 "category": "culture",
 "region": "cn",
@@ -545,6 +570,11 @@
 "title": "百度百科：关于支持实体书店发展的指导意见",
 "url": "https://baike.baidu.com/item/关于支持实体书店发展的指导意见",
 "type": "wiki"
+},
+{
+"title": "11部门发文支持实体书店发展 - 新华网（2016-06-17）",
+"url": "https://www.xinhuanet.com/politics/2016-06/17/c_129069247.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -558,7 +588,7 @@
 "id": "2017-05-01-duozhuayu-launch",
 "date": "2017-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "多抓鱼上线：二手书循环生意让旧书重新流通",
 "category": "internet",
 "region": "cn",
@@ -572,6 +602,11 @@
 "title": "百度百科：多抓鱼",
 "url": "https://baike.baidu.com/item/多抓鱼",
 "type": "wiki"
+},
+{
+"title": "\"非典型裂变\"——靠小程序卖掉100万本二手书的多抓鱼 - 搜狐（2019）",
+"url": "https://www.sohu.com/a/291871871_123813",
+"type": "media"
 }
 ],
 "tags": [
@@ -644,7 +679,7 @@
 "id": "2020-02-01-audiobook-home-boom",
 "date": "2020-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "居家听书潮：有声阅读的意外加速",
 "category": "culture",
 "region": "cn",
@@ -658,6 +693,11 @@
 "title": "百度百科：有声书",
 "url": "https://baike.baidu.com/item/有声书",
 "type": "wiki"
+},
+{
+"title": "新浪：喜马拉雅发布\"有声图书馆计划\"（2020年1-3月有声阅读人数同比增63%）",
+"url": "https://t.cj.sina.cn/articles/view/2061924233/7ae6778900100no6s",
+"type": "media"
 }
 ],
 "tags": [
@@ -672,13 +712,13 @@
 "id": "2020-04-01-digital-reading-conference",
 "date": "2020-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "中国数字阅读大会线上开幕：4.9亿读者的数字阅读时代",
 "category": "culture",
 "region": "cn",
 "milestone": false,
-"summary_30s": "2020年4月，第六届中国数字阅读大会首次完全线上举行，官方数据显示中国数字阅读用户规模已达4.94亿。纸质与数字阅读的长期竞速，自此进入数字阅读主导份额的新阶段。",
-"detail": "数字阅读大会2015年起每年在杭州举办，由中国音像与数字出版协会等主办；2020年云端大会发布《中国数字阅读白皮书》，披露数字阅读用户4.94亿、市场整体营收300亿元级。此后网文IP、有声、漫画、短内容被统一纳入『数字阅读』大盘，全民阅读政策也从纸质书延伸到数字内容质量治理，青少年模式与精品化成为关键词。",
+"summary_30s": "2020年4月，第六届中国数字阅读大会首次完全线上举行，官方数据显示中国数字阅读用户规模已达约4.7亿。纸质与数字阅读的长期竞速，自此进入数字阅读主导份额的新阶段。",
+"detail": "数字阅读大会2015年起每年在杭州举办，由中国音像与数字出版协会等主办；2020年云端大会发布《中国数字阅读白皮书》，披露数字阅读用户约4.7亿、市场整体营收300亿元级。此后网文IP、有声、漫画、短内容被统一纳入『数字阅读』大盘，全民阅读政策也从纸质书延伸到数字内容质量治理，青少年模式与精品化成为关键词。",
 "impact": "数字阅读从边缘增量成为全民阅读的主渠道，行业统计与政策框架随之切换。",
 "aftermath": "网文出海、AI辅助创作与免费阅读模式成为数字阅读新的增长叙事。",
 "sources": [
@@ -686,6 +726,11 @@
 "title": "百度百科：数字阅读",
 "url": "https://baike.baidu.com/item/数字阅读",
 "type": "wiki"
+},
+{
+"title": "国家新闻出版署：《2020年度中国数字阅读报告》发布",
+"url": "https://www.nppa.gov.cn/xxfb/ywdt/202104/t20210422_664933.html",
+"type": "media"
 }
 ],
 "tags": [

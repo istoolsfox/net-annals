@@ -126,7 +126,7 @@
 "id": "2010-01-01-metro-approval-wave",
 "date": "2010-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "城轨批复大潮：二十余座城市规划陆续获批",
 "category": "society",
 "region": "cn",
@@ -140,6 +140,11 @@
 "title": "中国城市轨道交通 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/中国城市轨道交通",
 "type": "wiki"
+},
+{
+"title": "武汉市城市轨道交通近期建设规划（2010-2017年）通过审批 - 国家发展改革委",
+"url": "https://www.ndrc.gov.cn/fzggw/jgsj/zcs/sjdt/201103/t20110309_1145083.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -184,7 +189,7 @@
 "id": "2012-10-01-bus-metropolis-demonstration",
 "date": "2012-10-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "公交都市建设示范工程启动：公交优先成为国家行动",
 "category": "society",
 "region": "cn",
@@ -203,6 +208,11 @@
 "title": "武汉荣获国家公交都市建设示范城市称号 - 武汉市发改委",
 "url": "https://fgw.wuhan.gov.cn/xwzx/mtgz/202001/t20200115_862638.html",
 "type": "official"
+},
+{
+"title": "第一批国家\"公交都市\"创建城市将迎验收期 - 搜狐汽车（2018-08）",
+"url": "https://www.sohu.com/a/244615261_100100957",
+"type": "media"
 }
 ],
 "tags": [
@@ -356,7 +366,7 @@
 "id": "2017-12-01-shenzhen-all-electric-bus",
 "date": "2017-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "深圳公交全面纯电动化：全球首个公交全电化大城市",
 "category": "society",
 "region": "cn",
@@ -375,6 +385,11 @@
 "title": "深圳公交 - 百度百科",
 "url": "https://baike.baidu.com/item/深圳公交",
 "type": "wiki"
+},
+{
+"title": "新华网：美媒关注深圳公交实现电动化（16359辆纯电动公交）",
+"url": "http://www.xinhuanet.com/world/2018-01/04/c_129782546.htm",
+"type": "media"
 }
 ],
 "tags": [

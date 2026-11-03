@@ -799,7 +799,7 @@
 "summary_30s": "2011年6月29日，新闻集团以约3500万美元将MySpace出售给Specific Media，不足2005年收购价（5.8亿美元）的十分之一。曾经全球流量第一的社交网络，此时月活已被Facebook反超数倍，裁员过",
 "detail": "2011年6月29日，新闻集团以约3500万美元将MySpace出售给Specific Media，不足2005年收购价（5.8亿美元）的十分之一。曾经全球流量第一的社交网络，此时月活已被Facebook反超数倍，裁员过半。Justin Timberlake入股并参与品牌复兴，但大势已去。",
 "impact": "『社交网络护城河有多浅』的第一课，此后被Instagram、TikTok们的更替反复重演。",
-"aftermath": "MySpace此后转型音乐平台又多次易主；2019年其服务器丢失2004-2015年上传的50万首音乐，被称为『数字时代的亚历山大图书馆大火』。",
+"aftermath": "MySpace此后转型音乐平台又多次易主；2019年其服务器丢失2004-2015年上传的约5000万首音乐，被称为『数字时代的亚历山大图书馆大火』。",
 "sources": [
 {
 "title": "MySpace - 维基百科",
@@ -1195,13 +1195,13 @@
 "id": "2019-03-01-myspace-music-lost",
 "date": "2019-03-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
-"title": "MySpace 丢失50万首歌：数字时代的亚历山大图书馆大火",
+"date_confidence": "verified",
+"title": "MySpace 丢失约5000万首歌：数字时代的亚历山大图书馆大火",
 "category": "tech",
 "region": "world",
 "milestone": false,
-"summary_30s": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约50万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发",
-"detail": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约50万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发。科技媒体将其称为『数字时代的亚历山大图书馆大火』。",
+"summary_30s": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约约5000万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发",
+"detail": "2019年3月，MySpace承认在服务器迁移中丢失了2003至2015年间用户上传的全部音乐，约约5000万首歌、1400万艺人的作品永久消失，仅在旧版网站存有备份的说法也被否认。音乐人社区哗然：许多人唯一的作品存档就此蒸发。科技媒体将其称为『数字时代的亚历山大图书馆大火』。",
 "impact": "平台托管内容的『所有权幻觉』被一次性击穿，创作者备份意识与去中心化存储运动获得最强论据。",
 "aftermath": "IPFS、Arweave等去中心化存储以该事件为经典案例；主流平台此后在服务条款中更明确标注数据保留义务与免责边界。",
 "sources": [
@@ -1209,6 +1209,11 @@
 "title": "MySpace - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/MySpace",
 "type": "wiki"
+},
+{
+"title": "NPR: MySpace Says It Lost Years Of User-Uploaded Music (2019-03-18)",
+"url": "https://www.npr.org/2019/03/18/704458168/myspace-says-it-lost-years-of-user-uploaded-music",
+"type": "media"
 }
 ],
 "tags": [
@@ -1338,7 +1343,7 @@
 "id": "2021-04-01-xici-hutong-final",
 "date": "2021-04-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "西祠胡同谢幕：老牌社区的最后一声叹息",
 "category": "tech",
 "region": "cn",
@@ -1352,6 +1357,11 @@
 "title": "西祠胡同 - 维基百科",
 "url": "https://zh.wikipedia.org/wiki/西祠胡同",
 "type": "wiki"
+},
+{
+"title": "网易·现代快报：停更5年西祠胡同宣布7月1日重新上线（2026-06-30）",
+"url": "https://www.163.com/dy/article/L0M0IV8Q053469KC.html",
+"type": "media"
 }
 ],
 "tags": [

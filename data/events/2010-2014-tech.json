@@ -279,7 +279,7 @@
 "id": "2010-07-01-vancl-meme",
 "date": "2010-07-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "凡客体爆红：全民PS造梗时代开启",
 "category": "culture",
 "region": "cn",
@@ -293,6 +293,11 @@
 "title": "维基百科：凡客体",
 "url": "https://zh.wikipedia.org/wiki/凡客体",
 "type": "wiki"
+},
+{
+"title": "凡客诚品中毒：病毒营销可遇不可求_新浪财经_新浪网（2010-08-12）",
+"url": "https://finance.sina.com.cn/chanjing/gsnews/20100812/17248472047.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1056,7 +1061,7 @@
 "id": "2012-08-01-toutiao-launch",
 "date": "2012-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "今日头条上线：算法推荐的先行者",
 "category": "product",
 "region": "cn",
@@ -1070,6 +1075,11 @@
 "title": "维基百科：今日头条",
 "url": "https://zh.wikipedia.org/wiki/今日头条",
 "type": "wiki"
+},
+{
+"title": "新闻类APP盘点 - 雷峰网（2016-02）",
+"url": "https://www.leiphone.com/news/201602/ZdN8XT1EEHsGS12U.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -1296,7 +1306,7 @@
 "id": "2013-05-01-tesla-model-s-fever",
 "date": "2013-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "特斯拉Model S元年：电动车第一次酷起来",
 "category": "company",
 "region": "world",
@@ -1310,6 +1320,11 @@
 "title": "维基百科：Tesla, Inc.",
 "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
 "type": "wiki"
+},
+{
+"title": "特斯拉第一季度首次实现盈利 营收激增83% - 盖世汽车（2013-05-10）",
+"url": "https://auto.gasgoo.com/News/2013/05/10121847184760211339830.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -1558,7 +1573,7 @@
 "id": "2014-01-01-didi-kuaidi-subsidy-war",
 "date": "2014-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "滴滴快的补贴大战：打车不要钱的疯狂一月",
 "category": "company",
 "region": "cn",
@@ -1572,6 +1587,11 @@
 "title": "维基百科：Didi",
 "url": "https://en.wikipedia.org/wiki/Didi",
 "type": "wiki"
+},
+{
+"title": "微信支付嘀嘀打车补贴总额达4亿元 - 人民网汽车（2014-02-12）",
+"url": "http://auto.people.com.cn/n/2014/0212/c1005-24335035.html",
+"type": "media"
 }
 ],
 "tags": [

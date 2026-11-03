@@ -499,10 +499,10 @@
 ]
 },
 {
-"id": "2019-04-01-zero-waste-city",
-"date": "2019-04-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2019-04-30-zero-waste-city",
+"date": "2019-04-30",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "『无废城市』试点启动：固废治理的城市实验",
 "category": "society",
 "region": "cn",
@@ -516,6 +516,11 @@
 "title": "百度百科：无废城市",
 "url": "https://baike.baidu.com/item/无废城市",
 "type": "wiki"
+},
+{
+"title": "生态环境部公告2019年第14号：关于发布\"无废城市\"建设试点名单的公告（落款2019年4月30日）",
+"url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201905/t20190505_701858.html",
+"type": "media"
 }
 ],
 "tags": [

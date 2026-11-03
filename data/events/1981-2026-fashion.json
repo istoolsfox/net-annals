@@ -299,7 +299,7 @@
 "id": "2013-11-01-hstyle-double11-champion",
 "date": "2013-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "韩都衣舍蝉联双11女装冠军：淘品牌的黄金年代",
 "category": "company",
 "region": "cn",
@@ -313,6 +313,11 @@
 "title": "百度百科：韩都衣舍",
 "url": "https://baike.baidu.com/item/韩都衣舍",
 "type": "wiki"
+},
+{
+"title": "双11服装销售额排名：韩都衣舍逆转 - 新浪科技（2013-11-13）",
+"url": "https://tech.sina.com.cn/roll/2013-11-13/16088910244.shtml",
+"type": "media"
 }
 ],
 "tags": [
@@ -369,7 +374,7 @@
 "id": "2017-08-01-florasis-founded",
 "date": "2017-08-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "花西子创立：东方彩妆的品牌叙事实验",
 "category": "company",
 "region": "cn",
@@ -383,6 +388,11 @@
 "title": "百度百科：花西子",
 "url": "https://baike.baidu.com/item/花西子",
 "type": "wiki"
+},
+{
+"title": "花西子 (彩妆品牌) - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E8%8A%B1%E8%A5%BF%E5%AD%90_(%E5%BD%A9%E5%A6%86%E5%93%81%E7%89%8C)",
+"type": "media"
 }
 ],
 "tags": [
@@ -423,10 +433,10 @@
 ]
 },
 {
-"id": "2019-02-01-laoganma-fw",
-"date": "2019-02-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2018-09-10-laoganma-fw",
+"date": "2018-09-10",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "老干妈卫衣登上纽约时装周：国民品牌的国潮时刻",
 "category": "culture",
 "region": "cn",
@@ -440,6 +450,11 @@
 "title": "百度百科：老干妈",
 "url": "https://baike.baidu.com/item/老干妈",
 "type": "wiki"
+},
+{
+"title": "梅花网：品牌IP营销四大法（载2018年9月10日纽约时装周联合Opening Ceremony推出老干妈卫衣）",
+"url": "https://www.meihua.info/article/3295528588788736",
+"type": "media"
 }
 ],
 "tags": [
@@ -539,7 +554,7 @@
 "id": "2023-05-01-xunpu-hairpin-flowers",
 "date": "2023-05-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "泉州蟳埔簪花围出圈：把非遗戴在头上",
 "category": "culture",
 "region": "cn",
@@ -553,6 +568,11 @@
 "title": "百度百科：蟳埔女习俗",
 "url": "https://baike.baidu.com/item/蟳埔女习俗",
 "type": "wiki"
+},
+{
+"title": "东南网/福建日报：解码世遗泉州\"出圈\"之路（2023-04-04）",
+"url": "https://fjnews.fjsen.com/wap/2023-04/04/content_31285901.htm",
+"type": "media"
 }
 ],
 "tags": [
@@ -595,7 +615,7 @@
 "id": "2024-02-01-caoxian-mamianqun",
 "date": "2024-02-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "曹县马面裙龙年卖爆：新中式穿搭的现象级订单",
 "category": "culture",
 "region": "cn",
@@ -609,6 +629,11 @@
 "title": "百度百科：马面裙",
 "url": "https://baike.baidu.com/item/马面裙",
 "type": "wiki"
+},
+{
+"title": "新华网：马面裙新年卖爆，意味着什么？（2024-02-19）",
+"url": "http://www.news.cn/fashion/20240219/1d38d2a2cc474543ab9d7239c662d544/c.html",
+"type": "media"
 }
 ],
 "tags": [

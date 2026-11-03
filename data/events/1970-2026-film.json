@@ -7204,10 +7204,10 @@
 ]
 },
 {
-"id": "2026-05-01-avengers-doomsday",
-"date": "2026-05-01",
+"id": "2026-12-18-avengers-doomsday",
+"date": "2026-12-18",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "《复仇者联盟：毁灭日》上映：钢铁侠之后的最强集结",
 "category": "culture",
 "region": "world",
@@ -7221,6 +7221,11 @@
 "title": "Wikipedia: en Avengers: Doomsday",
 "url": "https://en.wikipedia.org/wiki/Avengers:_Doomsday",
 "type": "wiki"
+},
+{
+"title": "什么值得买：《复仇者联盟5：毁灭之日》又发新预告——定档2026年12月18日北美上映（2026-01-14）",
+"url": "https://post.smzdm.com/p/apwkep72",
+"type": "media"
 }
 ],
 "tags": [

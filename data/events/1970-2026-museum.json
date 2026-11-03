@@ -386,7 +386,7 @@
 "id": "2011-03-01-nmc-reopening",
 "date": "2011-03-01",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "国博改扩建后重开：世界最大单体博物馆的回归",
 "category": "culture",
 "region": "cn",
@@ -400,6 +400,11 @@
 "title": "百度百科：中国国家博物馆",
 "url": "https://baike.baidu.com/item/中国国家博物馆",
 "type": "wiki"
+},
+{
+"title": "中国国家博物馆 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86",
+"type": "media"
 }
 ],
 "tags": [
@@ -411,10 +416,10 @@
 ]
 },
 {
-"id": "2012-12-01-palace-museum-first-app",
-"date": "2012-12-01",
-"date_accuracy": "month",
-"date_confidence": "single-source",
+"id": "2013-05-23-palace-museum-first-app",
+"date": "2013-05-23",
+"date_accuracy": "exact",
+"date_confidence": "verified",
 "title": "故宫首款App《胤禛美人图》：博物馆数字化的破圈起点",
 "category": "culture",
 "region": "cn",
@@ -428,6 +433,11 @@
 "title": "百度百科：故宫博物院",
 "url": "https://baike.baidu.com/item/故宫博物院",
 "type": "wiki"
+},
+{
+"title": "故宫博物院推出首款iPad应用 - 文化和旅游部官网（2013-05-28）",
+"url": "https://www.mct.gov.cn/whzx/zsdw/ggbwy/201305/t20130528_775466.html",
+"type": "media"
 }
 ],
 "tags": [
@@ -560,10 +570,10 @@
 ]
 },
 {
-"id": "2016-05-01-digital-dunhuang",
-"date": "2016-05-01",
+"id": "2016-04-29-digital-dunhuang",
+"date": "2016-04-29",
 "date_accuracy": "exact",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "数字敦煌资源库上线：30个洞窟向全球免费开放",
 "category": "culture",
 "region": "cn",
@@ -577,6 +587,11 @@
 "title": "百度百科：数字敦煌",
 "url": "https://baike.baidu.com/item/数字敦煌",
 "type": "wiki"
+},
+{
+"title": "数字敦煌资源库：呈现经典洞窟的高清数字化内容 - 中新网（2016-04-29）",
+"url": "https://www.chinanews.com.cn/m/cul/2016/04-29/7854221.shtml",
+"type": "media"
 }
 ],
 "tags": [

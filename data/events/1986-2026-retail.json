@@ -465,7 +465,7 @@
 "id": "2013-11-01-miniso-first-store",
 "date": "2013-11-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "名创优品广州首店开业，「十元店」品牌化",
 "category": "company",
 "region": "cn",
@@ -483,6 +483,11 @@
 "type": "wiki",
 "url": "https://zh.wikipedia.org/wiki/名创优品",
 "title": "wiki"
+},
+{
+"title": "名创优品这五年：从零到百亿零售独角兽 - 搜狐（2019-11）",
+"url": "https://www.sohu.com/a/292562877_100253948",
+"type": "media"
 }
 ],
 "detail": "2013年11月，名创优品在广州开出首店，把街边「十元店」升级为设计统一的连锁品牌。 「高颜值、低价格、快迭代」的生活杂货集合店跑通，传统十元店与精品杂货的市场界限被重画。 名创优品此后十年在全球开出7000余家门店成为「中国版大创」，2020年登陆纽交所，2024年入股永辉押注超级业态。"
