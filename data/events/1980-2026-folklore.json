@@ -51,43 +51,6 @@
 "detail": "2002年3月，冯骥才与中国民间文艺家协会发起中国民间文化遗产抢救工程，普查记录濒危民俗。 木版年画、民间口头文学、村落民俗的大规模普查记录启动，「抢救性记录」成为非遗保护的前置方法论。 工程持续二十余年出版《中国木版年画集成》等系列成果，冯骥才「传统村落保护」呼吁随之成为社会议题。"
 },
 {
-"id": "2003-10-01-historic-towns-villages-list",
-"date": "2003-10-01",
-"date_accuracy": "month",
-"date_confidence": "verified",
-"title": "首批「中国历史文化名镇名村」公布：古镇保护有了国家级名录",
-"category": "national",
-"region": "cn",
-"milestone": false,
-"summary_30s": "2003年10月，建设部与国家文物局公布首批中国历史文化名镇名村，周庄、乌镇等22个村镇入选，古镇保护有了国家级名录。",
-"detail": "为扭转快速城镇化中古村古镇被拆建蚕食的局面，建设部与国家文物局于2003年10月公布首批中国历史文化名镇名村，山西静升镇、江苏周庄镇、浙江乌镇等22个村镇入选。名录确立「以评促保」机制，入选村镇须编制保护规划、控制建设性破坏，中央与地方陆续安排保护补助资金。此后名录分批扩容，累计评选七批、总数达700余个，与2008年施行的《历史文化名城名镇名村保护条例》共同构成保护制度框架。",
-"impact": "历史文化名镇名村从民间呼吁变成有规划、资金、法规支撑的国家制度，古镇保护与旅游并重的模式自此铺开。",
-"aftermath": "名录扩容至七批700余个，乌镇、周庄等成为文旅融合样板；2012年起体系进一步延伸出中国传统村落名录，乡村遗产保护纵深推进。",
-"tags": [
-"国家",
-"非遗民俗",
-"古镇保护",
-"历史文化名镇"
-],
-"sources": [
-{
-"type": "wiki",
-"url": "https://baike.baidu.com/item/中国历史文化名镇名村",
-"title": "wiki"
-},
-{
-"type": "wiki",
-"url": "https://zh.wikipedia.org/wiki/中国历史文化名镇",
-"title": "wiki"
-},
-{
-"title": "建村〔2003〕199号通知原文",
-"url": "https://www.waizi.org.cn/law/59607.html",
-"type": "media"
-}
-]
-},
-{
 "id": "2004-08-28-ich-convention-ratify",
 "date": "2004-08-28",
 "date_accuracy": "exact",
@@ -313,7 +276,7 @@
 "id": "2012-12-01-traditional-villages-list-1",
 "date": "2012-12-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "第一批中国传统村落名录公布：646个村落纳入国家级保护",
 "category": "national",
 "region": "cn",
@@ -333,6 +296,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/中国传统村落",
 "title": "wiki"
+},
+{
+"title": "中国传统村落 - 维基百科",
+"url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%9D%91%E8%90%BD",
+"type": "media"
 }
 ]
 },
@@ -340,7 +308,7 @@
 "id": "2017-01-01-laozihao-reform-guideline",
 "date": "2017-01-01",
 "date_accuracy": "month",
-"date_confidence": "single-source",
+"date_confidence": "verified",
 "title": "16部门发文促进老字号改革创新：百年招牌振兴成为部委联合行动",
 "category": "national",
 "region": "cn",
@@ -361,6 +329,11 @@
 "type": "wiki",
 "url": "https://baike.baidu.com/item/中华老字号",
 "title": "wiki"
+},
+{
+"title": "商务部等16部门关于促进老字号改革创新发展的指导意见（商流通发〔2017〕13号）- 商务部官网",
+"url": "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2017/art_e74ad27eef99472ca4dd4076095b5204.html",
+"type": "media"
 }
 ]
 },
