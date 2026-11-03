@@ -9,6 +9,11 @@
       candidates: [{"id","date","searchkey"}, ...]
       对每条查事件日±10天公告，报告 上市公告书/招股说明书 类命中（含日期差与PDF链接）。
       机器只出报告（data/derived/cninfo_enrich_report.json），回写库人工裁定。
+  python3 scripts/cninfo_announcements.py byregion build [限额]
+      全量 A 股建 code→注册地映射（Sina 资料页，复用 geo_regloc），断点续跑
+      → data/derived/sec_region_map.json
+  python3 scripts/cninfo_announcements.py byregion <市名> [市名...]
+      从已建映射过滤出注册地在该市（含下辖县）的公司清单
 
 输出: 公告列表（标题 / 日期 / 代码 / PDF 链接）。
 用途：资本类条目（上市/IPO/并购/问询函）的日期核实与 source 补强——公告日期精确到日。
@@ -91,9 +96,79 @@ def enrich(cands_path):
     print(f'—— 命中 {len(report)}/{len(cands)} → {out} ——')
 
 
+def byregion(args):
+    sys.path.insert(0, 'scripts')
+    import geo_regloc
+    places = json.load(open('data/places.json'))
+    # 市名→（该市码 + 下辖县码集合）
+    city_index = {}
+    for c in places['cities']:
+        city_index[c['short']] = c['code']
+        city_index[c['name']] = c['code']
+    county_of_city = {}
+    for c in places['counties']:
+        pref = c['code'][:4]
+        county_of_city.setdefault(pref, []).append((c['code'], c['name']))
+
+    MAP = 'data/derived/sec_region_map.json'
+    try:
+        reg = json.load(open(MAP, encoding='utf-8'))
+    except Exception:
+        reg = {}
+
+    if args and args[0] == 'build':
+        limit = int(args[1]) if len(args) > 1 else 999999
+        import ssl as _ssl
+        _h = urllib.request.HTTPSHandler(context=_ssl.create_default_context())
+        _h.context = _ssl._create_unverified_context()
+        _op2 = urllib.request.build_opener(urllib.request.ProxyHandler({}), _h)
+        stock = json.loads(_op2.open(urllib.request.Request(
+            'http://www.cninfo.com.cn/new/data/szse_stock.json',
+            headers={'User-Agent': 'Mozilla/5.0'}), timeout=30).read(3000000))['stockList']
+        ab = [x for x in stock if x['category'] == 'A股' and x['code'] not in reg]
+        todo = ab[:limit]
+        print(f'待建 {len(todo)}（已建 {len(reg)}，总量 {len(stock)}）')
+        for i, x in enumerate(todo):
+            code = x['code']
+            try:
+                addr = geo_regloc.fetch_address(code)
+                hits = geo_regloc.map_places(addr, places) if addr else []
+                reg[code] = {'name': x.get('zwjc', ''), 'addr': addr[:60],
+                             'place': [h[0] for h in hits]} if addr else {'name': x.get('zwjc', ''), 'addr': '', 'place': []}
+            except Exception as e:
+                reg[code] = {'name': x.get('zwjc', ''), 'addr': f'ERR {str(e)[:30]}', 'place': []}
+            if (i + 1) % 20 == 0:
+                json.dump(reg, open(MAP, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+                print(f'  {i+1}/{len(todo)} 已缓存')
+            time.sleep(0.4)
+        json.dump(reg, open(MAP, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+        print(f'—— 映射现 {len(reg)} 条 → {MAP}')
+        return
+
+    # 过滤模式：byregion <市名>...
+    want = set()
+    for name in args:
+        code = city_index.get(name)
+        if not code:
+            print(f'!! 未知市: {name}')
+            continue
+        want.add(code)
+        for cc, cn in county_of_city.get(code, []):
+            want.add(cc)
+    rows = []
+    for code, v in reg.items():
+        if any(p in want for p in v.get('place', [])):
+            rows.append({'code': code, 'name': v['name'], 'addr': v['addr'], 'place': v['place']})
+    print(f'—— {"/".join(args)}: 注册地命中 {len(rows)} 家')
+    for r in rows[:40]:
+        print(f"  {r['code']} {r['name']}  {r['addr'][:40]}")
+
+
 def main():
     if len(sys.argv) >= 2 and sys.argv[1] == 'enrich':
         enrich(sys.argv[2])
+    if len(sys.argv) >= 3 and sys.argv[1] == 'byregion':
+        byregion(sys.argv[2:])
         return 0
     if len(sys.argv) < 2:
         print(__doc__)
