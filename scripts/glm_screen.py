@@ -13,6 +13,8 @@ KEY = open(os.path.expanduser('~/.config/net-annals/glm.key')).read().strip()
 URL = 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
 MODEL = 'glm-5.3-flash'
 BATCH = 25
+# 禁用环境代理（clash 未开时走 7890 全部 Connection refused，会被误判为内容过滤）
+_OPENER = urllib.request.build_opener(urllib.request.ProxyHandler({}))
 
 SYS = """你是中文编年史数据库的候选事件评审员。对输入JSON数组里的每条候选（带编号i）逐条评审，输出一个JSON数组，每个元素：
 {"i":编号,"usable":布尔,"sens":"safe|disaster|politics|crime|social","imp":1到5的整数,"cat":"类目","title":"简体标题","date_fix":""}
@@ -36,7 +38,7 @@ def call_once(items):
         URL, json.dumps(body).encode(),
         {'Content-Type': 'application/json', 'Authorization': f'Bearer {KEY}'})
     try:
-        with urllib.request.urlopen(req, timeout=120) as r:
+        with _OPENER.open(req, timeout=120) as r:
             out = json.load(r)['choices'][0]['message']['content']
         arr = json.loads(re.search(r'\[.*\]', out, re.S).group(0))
         return {int(x['i']): x for x in arr if isinstance(x, dict) and 'i' in x}

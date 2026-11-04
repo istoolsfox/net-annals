@@ -12,6 +12,8 @@ from concurrent.futures import ThreadPoolExecutor
 KEY = open(os.path.expanduser('~/.config/net-annals/glm.key')).read().strip()
 URL = 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
 MODEL = 'glm-5.3-flash'
+# 禁用环境代理（clash 未开时 7890 Connection refused）
+_OPENER = urllib.request.build_opener(urllib.request.ProxyHandler({}))
 TEMPLATE = json.load(open('data/events/.parts/g_2004_2006.json', encoding='utf-8'))[0]
 
 SYS = f"""你是中文编年史数据库的条目撰稿人。根据给定的候选事件文本写一条编年史条目，输出单个JSON对象（不要代码块标记），字段如下：
@@ -47,7 +49,7 @@ def call_write(row):
         {'Content-Type': 'application/json', 'Authorization': f'Bearer {KEY}'})
     for attempt in range(3):
         try:
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with _OPENER.open(req, timeout=120) as r:
                 out = json.load(r)['choices'][0]['message']['content']
             m = re.search(r'\{.*\}', out, re.S)
             d = json.loads(m.group(0))
