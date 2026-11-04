@@ -276,7 +276,7 @@ toolsfox.top 的 n8n（docker 容器 `n8n`，v2.43.8，卷 `n8n_data`→容器 `
 ### ✅ 完全可取（机器/批次可用）
 | 源 | 实测结果 | 用法 |
 |---|---|---|
-| 人民日报每日纸版 paper.people.com.cn | **免费静态面仅覆盖 2023-2024**（2022 及以前 403=付费库 data.people.com.cn 专卖；2025 起 /rmrb/pc/ 为 JS SPA 未接入；1994 级老年代 404）。版面页裸请求 403，**必须带 Referer**；文章锚是**不带引号的 href**（正则需兼容）。工具 scripts/people_paper.py（date/match 两模式，内置 403 退避） | 2023-2024 条目的同日核实与 source 补强（exact 精度条目才可同日匹配，月精度锚定 01 日对不上） |
+| 人民日报每日纸版 paper.people.com.cn | **双通道免费静态面**：html 渠道（/rmrb/html/）覆盖 2023-01～2024-11；pc/layout 渠道（/rmrb/pc/layout/YYYYMM/DD/node_NN.html）覆盖 **2024-12 起**（含 2025 全年，此前误记"SPA 未接入"实为静态可取）。2022 及以前 403=付费库 data.people.com.cn 专卖；1994 级老年代 404；2024-01～2024-11 两渠道均无免费档案。版面页裸请求 403，**必须带 Referer**；html 锚不带引号，pc/layout 锚为 ../../../content/YYYYMM/DD/content_NNN.html（工具自动拼接绝对 URL，含导航噪音过滤）。工具 scripts/people_paper.py（date/match/verify/scan 四模式，html 404 自动退 pc/layout，内置 403 退避）。**2024 全年正扫收官**：325 天 html + 31 天 pc/layout 补扫（12 月整月缺页已补，0 失败）= 缺收候选 0 条；余 11 天（2024-01-02～02-06 隔日抽查）两渠道均缺页，1 月头版以新年贺词类要闻为主、多不入库，定性低风险挂起 | 2023-2025 条目的同日核实与 source 补强（exact 精度条目才可同日匹配，月精度锚定 01 日对不上）；2024 全年缺收检测已完成 |
 | 巨潮资讯 cninfo.com.cn | POST `/new/hisAnnouncement/query` 返回公告 JSON（343万条，需 X-Requested-With+Referer 头） | 资本/IPO/公告类条目自动化首选 |
 | 新华网 news.cn / 澎湃 thepaper.cn | 首页+文章页公开（澎湃登录标记仅评论） | 核实第二源 |
 | 中央党史和文献研究院 dswxyjy.org.cn | 首页 104KB 静态可达 | 1978-2000 主层坐标 |

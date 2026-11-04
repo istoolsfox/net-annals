@@ -36,6 +36,32 @@ _opener = urllib.request.build_opener(urllib.request.ProxyHandler({}),
 _A_RE = re.compile(r'<a[^>]+href=(["\']?)([^"\'>\s]*nw\.D110000renmrb[^"\'>\s]*\.htm)\1[^>]*>(.*?)</a>', re.S)
 _NBS_RE = re.compile(r'href=(["\']?)([^"\'>\s]*nbs\.D110000renmrb[^"\'>\s]*\.htm)\1')
 _TAG_RE = re.compile(r'<[^>]+>')
+# 新版电子版（2024-12 起免费静态面）：pc/layout 版面页锚 ../../../content/YYYYMM/DD/content_NNN.html
+_PC_BASE = 'https://paper.people.com.cn/rmrb/pc/'
+_PC_A_RE = re.compile(r'href=(["\'])(\.\./\.\./\.\./content/[^"\']+\.html)\1[^>]*>(.*?)</a>', re.S)
+
+
+def _fetch_pc_date(date):
+    """pc/layout 通道（2024-12 起）：逐版面 node_NN.html 抽文章标题。"""
+    y, m, d = date.split('-')
+    layout = _PC_BASE + f'layout/{y}{m}/{d}/'
+    out = {}
+    for n in range(1, 33):
+        url = layout + f'node_{n:02d}.html'
+        try:
+            body = _get(url, layout)
+        except urllib.error.HTTPError:
+            break                        # 该版不存在=当日版面扫完
+        found = False
+        for _q, href, inner in _PC_A_RE.findall(body):
+            title = _TAG_RE.sub('', inner).strip()
+            if title and len(title) >= 6 and '版：' not in title and 'PDF' not in title:
+                out.setdefault(f'第{n:02d}版', []).append(
+                    {'title': title, 'url': urllib.parse.urljoin(layout, href)})
+                found = True
+        if not found and n > 1:
+            break
+    return [(k, v) for k, v in sorted(out.items())]
 
 
 def _get(url, referer):
@@ -61,12 +87,20 @@ def date_base(date):
 
 
 def fetch_date(date, _cache={}):
-    """返回 [(版面名, [文章(title,url)...])]；同进程内按日期缓存。"""
+    """返回 [(版面名, [文章(title,url)...])]；同进程内按日期缓存。
+    html 渠道 404 时退 pc/layout 渠道（2024-12 起新版电子版静态面）。"""
     if date in _cache:
         return _cache[date]
     base = date_base(date)
     first = base + 'nbs.D110000renmrb_01.htm'
-    txt = _get(first, base)
+    try:
+        txt = _get(first, base)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            result = _fetch_pc_date(date)      # 免费档案缺页日走 pc/layout
+            _cache[date] = result
+            return result
+        raise
     page_links = sorted({m[1] for m in _NBS_RE.findall(txt)})
     pages = []
     for p in page_links:
