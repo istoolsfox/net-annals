@@ -8394,6 +8394,41 @@
 ]
 },
 {
+"id": "2016-09-01-pingdingshan-nylon-city-strategy",
+"date": "2016-09-01",
+"date_accuracy": "month",
+"date_confidence": "single-source",
+"title": "平顶山提出打造「中国尼龙城」战略",
+"category": "economy",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2016年9月平顶山市第九次党代会提出依托平煤神马集团尼龙产业基础打造「中国尼龙城」，推动煤城向尼龙新材料产业转型。",
+"detail": "平顶山市第九次党代会作出依托尼龙新材料产业优势、建设「中国尼龙城」的战略部署，依托特大型企业平煤神马集团推进煤化工、盐化工与尼龙产业融合，实施「大尼龙、全产业链、国际化、创新引领」四大战略。尼龙新材料开发区按「一核两翼」布局（开发区核心区、高新区深加工基地、叶县聚氨酯基地），规划面积123平方公里。2018年该战略上升为河南省级战略，2019年尼龙新材料产业集群获评国家战略性新兴产业集群。",
+"impact": "为这座因煤设市的城市给出转型主赛道，尼龙成为平顶山第二增长曲线的核心。",
+"aftermath": "尼龙城目标2025年营业收入突破2000亿元；平煤神马的尼龙66产能居亚洲前列。",
+"sources": [
+{
+"title": "平顶山市发改委：中国尼龙城建设",
+"url": "https://fgw.pds.gov.cn/",
+"type": "official"
+},
+{
+"title": "百度百科：中国尼龙城",
+"url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%B0%BC%E9%BE%99%E5%9F%8E",
+"type": "baike"
+}
+],
+"tags": [
+"尼龙",
+"转型",
+"平顶山",
+"新材料"
+],
+"place": [
+"c:4104"
+]
+},
+{
 "id": "2016-09-04-g20-hangzhou",
 "date": "2016-09-04",
 "date_accuracy": "exact",
@@ -20546,6 +20581,41 @@
 "公共文化",
 "阅读",
 "城市设施"
+]
+},
+{
+"id": "2019-01-01-wangshiao-mine-heritage-park",
+"date": "2019-01-01",
+"date_accuracy": "year",
+"date_confidence": "single-source",
+"title": "王石凹煤矿工业遗址公园开工建设",
+"category": "society",
+"region": "cn",
+"milestone": false,
+"summary_30s": "2019年铜川王石凹煤矿工业遗址公园开工，苏联援建156项工程的西北最大老矿转型为国家工业遗产活化项目。",
+"detail": "王石凹煤矿是国家「一五」时期苏联援建156个重点项目之一，1957年建设、1961年投产，曾是西北地区产能最大、机械化程度最高的煤矿，后入选工信部第二批国家工业遗产。矿区停产关闭后，陕煤化集团与铜川市共同规划建设工业遗址公园，2015年立项、2019年开工建设，占地132万平方米、计划投资32.2亿元，同步实施矸石山地质环境治理，入选陕西省市「十三五」「十四五」旅游重点项目。",
+"impact": "资源枯竭型矿城的工业遗存从关停资产转为文旅资产，为矿业城市遗产活化提供样本。",
+"aftermath": "2024年王石凹煤矿工业遗址入选「共和国印记」典型案例；2025年园区焕新开放。",
+"sources": [
+{
+"title": "铜川市政协：加快王石凹煤矿工业遗址公园项目建设",
+"url": "http://www.sxtczx.gov.cn/zhengxiegongzuo/jianyanxiance/yijianjianyi/8257.html",
+"type": "official"
+},
+{
+"title": "人民日报海外版：遗址公园折射工业之魂",
+"url": "http://paper.people.com.cn/rmrbhwb/html/2020-04/27/content_1983866.htm",
+"type": "official"
+}
+],
+"tags": [
+"工业遗产",
+"铜川",
+"煤矿",
+"遗址公园"
+],
+"place": [
+"c:6102"
 ]
 },
 {
