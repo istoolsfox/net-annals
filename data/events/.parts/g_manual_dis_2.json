@@ -1,0 +1,37 @@
+[
+ {
+  "id": "2016-01-29-pingyi-gypsum-mine-rescue-36days",
+  "date": "2016-01-29",
+  "date_accuracy": "day",
+  "date_confidence": "verified",
+  "title": "山东平邑石膏矿4名矿工被困36天后获救",
+  "category": "society",
+  "region": "cn",
+  "milestone": false,
+  "summary_30s": "2016年1月29日晚，平邑石膏矿塌方中被困井下200余米深处的4名矿工在36天后经大口径钻孔救援全部生还，创造中国矿山救援纪录。",
+  "detail": "2015年12月25日，山东临沂平邑县玉荣石膏矿发生采空区塌方，29名井下矿工中11人当日升井、1人遇难，其余4人在5天后才被定位存活于216米深处。救援指挥部打出直径约700毫米的大口径救生钻孔，历时36天于2016年1月29日晚将4人依次提升至地面。这是国内首次成功实施大口径钻孔垂直救援，国际矿难救援史上也属罕见成功案例。",
+  "impact": "确立大口径钻探救援在中国矿山应急体系中的标准地位，此后救援装备与预案按此案例升级。",
+  "aftermath": "涉事企业负责人被追究刑责；案例被写入应急管理部矿山救援教材与多国救援机构研究文献。",
+  "sources": [
+   {
+    "title": "BBC：China mine rescue after 36 days",
+    "url": "https://www.bbc.com/news/world-asia-35437156",
+    "type": "news"
+   },
+   {
+    "title": "Time: 4 Chinese Miners Rescued After 36 Days",
+    "url": "https://time.com/4200016/chinese-miners-rescued/",
+    "type": "news"
+   }
+  ],
+  "tags": [
+   "矿难救援",
+   "平邑",
+   "大口径钻孔",
+   "2016"
+  ],
+  "place": [
+   "c:3713"
+  ]
+ }
+]
